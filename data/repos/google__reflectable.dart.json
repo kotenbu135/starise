@@ -1,0 +1,19 @@
+{
+  "owner": "google",
+  "name": "reflectable.dart",
+  "description": "Reflectable is a Dart library that allows programmers to eliminate certain usages of dynamic reflection by specialization of reflective code to an equivalent implementation using only static techniques. The use of dynamic reflection is constrained in order to ensure that the specialized code can be generated and will have a reasonable size.",
+  "url": "https://github.com/google/reflectable.dart",
+  "homepage_url": "https://pub.dev/packages/reflectable",
+  "language": "Dart",
+  "license": "BSD-3-Clause",
+  "topics": [],
+  "fork_count": 65,
+  "star_count": 384,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 384
+    }
+  ]
+}

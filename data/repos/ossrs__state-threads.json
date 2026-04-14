@@ -1,0 +1,32 @@
+{
+  "owner": "ossrs",
+  "name": "state-threads",
+  "description": "Lightweight thread library for C/C++ coroutine (similar to goroutine), for high performance network servers.",
+  "url": "https://github.com/ossrs/state-threads",
+  "homepage_url": "http://sourceforge.net/projects/state-threads",
+  "language": "C++",
+  "license": "NOASSERTION",
+  "topics": [
+    "srs",
+    "coroutines",
+    "greenlet",
+    "fiber",
+    "networking",
+    "server-side",
+    "state-threads",
+    "c",
+    "concurrency",
+    "async",
+    "asyncio",
+    "library"
+  ],
+  "fork_count": 276,
+  "star_count": 755,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 755
+    }
+  ]
+}

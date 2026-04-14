@@ -1,0 +1,34 @@
+{
+  "owner": "cloud-custodian",
+  "name": "cloud-custodian",
+  "description": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+  "url": "https://github.com/cloud-custodian/cloud-custodian",
+  "homepage_url": "https://cloudcustodian.io",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "aws",
+    "compliance",
+    "cloud",
+    "rules-engine",
+    "cloud-computing",
+    "management",
+    "serverless",
+    "gcp",
+    "azure",
+    "finops",
+    "kubernetes",
+    "oci",
+    "tencent-cloud",
+    "terraform"
+  ],
+  "fork_count": 1606,
+  "star_count": 5965,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 5965
+    }
+  ]
+}

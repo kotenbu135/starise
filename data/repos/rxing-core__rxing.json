@@ -1,0 +1,40 @@
+{
+  "owner": "rxing-core",
+  "name": "rxing",
+  "description": "cRustacean Crossing",
+  "url": "https://github.com/rxing-core/rxing",
+  "homepage_url": "https://crates.io/crates/rxing",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "barcode",
+    "barcode-generator",
+    "barcode-reader",
+    "barcode-scanner",
+    "code128",
+    "code39",
+    "code93",
+    "codea",
+    "datamatrix",
+    "datamatrix-generator",
+    "ean13",
+    "ean8",
+    "qrcode",
+    "qrcode-generator",
+    "qrcode-scanner",
+    "rust",
+    "upc-a",
+    "upc-e",
+    "datamatrix-scanner",
+    "pdf417"
+  ],
+  "fork_count": 32,
+  "star_count": 297,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 297
+    }
+  ]
+}

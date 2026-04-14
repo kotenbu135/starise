@@ -1,0 +1,35 @@
+{
+  "owner": "navikt",
+  "name": "mock-oauth2-server",
+  "description": "A scriptable/customizable web server for testing HTTP clients using OAuth2/OpenID Connect or applications with a dependency to a running OAuth2 server (i.e. APIs requiring signed JWTs from a known issuer)",
+  "url": "https://github.com/navikt/mock-oauth2-server",
+  "homepage_url": "",
+  "language": "Kotlin",
+  "license": "MIT",
+  "topics": [
+    "oauth2",
+    "mock",
+    "mock-oauth2-server",
+    "kotlin",
+    "java",
+    "docker",
+    "openid-connect",
+    "oidc",
+    "jwt",
+    "security",
+    "authorization-server",
+    "junit5",
+    "token",
+    "tokens",
+    "nav-authnz"
+  ],
+  "fork_count": 68,
+  "star_count": 367,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 367
+    }
+  ]
+}

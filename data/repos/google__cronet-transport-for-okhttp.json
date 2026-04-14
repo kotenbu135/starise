@@ -1,0 +1,25 @@
+{
+  "owner": "google",
+  "name": "cronet-transport-for-okhttp",
+  "description": "This package allows OkHttp and Retrofit users to use Cronet as their transport layer, benefiting from features like QUIC/HTTP3 support or connection migration.",
+  "url": "https://github.com/google/cronet-transport-for-okhttp",
+  "homepage_url": "",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "cronet",
+    "http3",
+    "okhttp",
+    "quic",
+    "retrofit"
+  ],
+  "fork_count": 48,
+  "star_count": 552,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 552
+    }
+  ]
+}

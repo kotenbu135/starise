@@ -1,0 +1,29 @@
+{
+  "owner": "aws-samples",
+  "name": "serverless-rag-demo",
+  "description": "Amazon Bedrock Foundation models with Amazon Opensearch Serverless as a Vector DB",
+  "url": "https://github.com/aws-samples/serverless-rag-demo",
+  "homepage_url": "https://aws.amazon.com/blogs/big-data/build-scalable-and-serverless-rag-workflows-with-a-vector-engine-for-amazon-opensearch-serverless-and-amazon-bedrock-claude-models/",
+  "language": "Python",
+  "license": "MIT-0",
+  "topics": [
+    "opensearch",
+    "rag",
+    "opensearchserverless",
+    "anthropic",
+    "claude",
+    "haiku",
+    "sonnet",
+    "strands",
+    "strands-agents"
+  ],
+  "fork_count": 70,
+  "star_count": 217,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 217
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "owner": "buildfoundation",
+  "name": "mainframer",
+  "description": "Tool for remote builds. Sync project to remote machine, execute command, sync back.",
+  "url": "https://github.com/buildfoundation/mainframer",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "remote-build",
+    "sync-files",
+    "ssh",
+    "rsync",
+    "rust",
+    "mainframer"
+  ],
+  "fork_count": 167,
+  "star_count": 1754,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1754
+    }
+  ]
+}

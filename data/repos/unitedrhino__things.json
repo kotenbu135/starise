@@ -1,0 +1,40 @@
+{
+  "owner": "unitedrhino",
+  "name": "things",
+  "description": "联犀是基于golang,gozero框架构建的SaaS云原生微服务物联网平台(iot)，支持MQTT、CoAP、HTTP、TCP、阿里云、腾讯云、涂鸦云,物美等云云对接及设备协议，实现海量多样设备连接。支持多租户、多应用和项目管理，内置小程序功能,适应多样化业务场景.支持单体、集群和微服务部署，适应不同企业规模和需求。支持mysql和pgsql，满足数据存储需求,适用于智能家居、智慧楼宇...",
+  "url": "https://github.com/unitedrhino/things",
+  "homepage_url": "https://doc.unitedrhino.com/",
+  "language": "Go",
+  "license": "AGPL-3.0",
+  "topics": [
+    "go",
+    "golang",
+    "aiot",
+    "vue3",
+    "iothub",
+    "iothub-platform",
+    "multitenant",
+    "iot",
+    "aliyun",
+    "gozero",
+    "tencent",
+    "cloudnative",
+    "gorm",
+    "k8s",
+    "microservices",
+    "minio",
+    "nats",
+    "tdengine",
+    "saas",
+    "iot-platform"
+  ],
+  "fork_count": 105,
+  "star_count": 618,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 618
+    }
+  ]
+}

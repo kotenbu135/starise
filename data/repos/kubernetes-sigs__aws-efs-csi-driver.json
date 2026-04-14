@@ -1,0 +1,25 @@
+{
+  "owner": "kubernetes-sigs",
+  "name": "aws-efs-csi-driver",
+  "description": "CSI Driver for Amazon EFS https://aws.amazon.com/efs/",
+  "url": "https://github.com/kubernetes-sigs/aws-efs-csi-driver",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "aws",
+    "efs",
+    "csi",
+    "kubernetes",
+    "k8s-sig-aws"
+  ],
+  "fork_count": 603,
+  "star_count": 792,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 792
+    }
+  ]
+}

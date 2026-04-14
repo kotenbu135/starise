@@ -1,0 +1,30 @@
+{
+  "owner": "hashicorp",
+  "name": "consul-k8s",
+  "description": "First-class support for Consul Service Mesh on Kubernetes",
+  "url": "https://github.com/hashicorp/consul-k8s",
+  "homepage_url": "https://developer.hashicorp.com/consul/docs/k8s",
+  "language": "Go",
+  "license": "MPL-2.0",
+  "topics": [
+    "consul",
+    "kubernetes",
+    "servicemesh",
+    "helm",
+    "service-mesh",
+    "helm-chart",
+    "vault",
+    "gateway",
+    "gateway-api",
+    "ingress"
+  ],
+  "fork_count": 334,
+  "star_count": 703,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 703
+    }
+  ]
+}

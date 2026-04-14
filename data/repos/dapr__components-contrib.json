@@ -1,0 +1,29 @@
+{
+  "owner": "dapr",
+  "name": "components-contrib",
+  "description": "Community driven, reusable components for distributed apps",
+  "url": "https://github.com/dapr/components-contrib",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "kafka",
+    "sns",
+    "sqs",
+    "event-hubs",
+    "cosmosdb",
+    "blob-storage",
+    "mongodb",
+    "redis",
+    "sqlserver"
+  ],
+  "fork_count": 556,
+  "star_count": 598,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 598
+    }
+  ]
+}

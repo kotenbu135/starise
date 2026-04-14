@@ -1,0 +1,25 @@
+{
+  "owner": "k8ssandra",
+  "name": "k8ssandra-operator",
+  "description": "The Kubernetes operator for K8ssandra",
+  "url": "https://github.com/k8ssandra/k8ssandra-operator",
+  "homepage_url": "https://k8ssandra.io/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "cassandra",
+    "k8s",
+    "kubernetes",
+    "rag",
+    "vector-database"
+  ],
+  "fork_count": 90,
+  "star_count": 222,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 222
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "owner": "v2fly",
+  "name": "geoip",
+  "description": "GeoIP for V2Ray. Generate and release GeoIP files such as geoip.dat and geoip-only-cn-private.dat for V2Ray automatically monthly.",
+  "url": "https://github.com/v2fly/geoip",
+  "homepage_url": "https://www.v2fly.org",
+  "language": "Go",
+  "license": "CC-BY-SA-4.0",
+  "topics": [
+    "v2ray",
+    "geoip",
+    "v2fly",
+    "geolite2",
+    "geolite2-country",
+    "ipv4",
+    "ipv6",
+    "maxmind",
+    "routing",
+    "v2ray-core"
+  ],
+  "fork_count": 140,
+  "star_count": 871,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 871
+    }
+  ]
+}

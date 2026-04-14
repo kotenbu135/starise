@@ -1,0 +1,26 @@
+{
+  "owner": "minio",
+  "name": "highwayhash",
+  "description": "Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM. Able to process over 10 GB/sec on a single core on Intel CPUs - https://en.wikipedia.org/wiki/HighwayHash",
+  "url": "https://github.com/minio/highwayhash",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "hash-functions",
+    "plan9",
+    "highway-hash",
+    "assembly",
+    "neon",
+    "avx2"
+  ],
+  "fork_count": 80,
+  "star_count": 949,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 949
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "owner": "grafana",
+  "name": "alloy",
+  "description": "OpenTelemetry Collector distribution with programmable pipelines",
+  "url": "https://github.com/grafana/alloy",
+  "homepage_url": "https://grafana.com/oss/alloy",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "collector",
+    "grafana",
+    "loki",
+    "monitoring",
+    "observability",
+    "opentelemetry",
+    "opentelemetry-collector",
+    "prometheus"
+  ],
+  "fork_count": 572,
+  "star_count": 3079,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3079
+    }
+  ]
+}

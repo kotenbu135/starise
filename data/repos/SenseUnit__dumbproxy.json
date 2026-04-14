@@ -1,0 +1,39 @@
+{
+  "owner": "SenseUnit",
+  "name": "dumbproxy",
+  "description": "Simple, scriptable, secure HTTP/SOCKS5 forward proxy",
+  "url": "https://github.com/SenseUnit/dumbproxy",
+  "homepage_url": "https://github.com/SenseUnit/dumbproxy/wiki",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "http",
+    "https",
+    "http-proxy",
+    "proxy",
+    "https-proxy",
+    "dpi-bypassing",
+    "proxy-server",
+    "tls-tunnel",
+    "tls-mutual-auth",
+    "tls-mutual-authentication",
+    "tls-proxy",
+    "ssl-proxy",
+    "ssl-tunnel",
+    "acme",
+    "ssl",
+    "tls",
+    "socks5",
+    "socks5-proxy",
+    "socks5-server"
+  ],
+  "fork_count": 66,
+  "star_count": 879,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 879
+    }
+  ]
+}

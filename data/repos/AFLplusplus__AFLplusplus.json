@@ -1,0 +1,35 @@
+{
+  "owner": "AFLplusplus",
+  "name": "AFLplusplus",
+  "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel \u0026 redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+  "url": "https://github.com/AFLplusplus/AFLplusplus",
+  "homepage_url": "https://aflplus.plus",
+  "language": "C",
+  "license": "Apache-2.0",
+  "topics": [
+    "afl",
+    "afl-fuzz",
+    "afl-fuzzer",
+    "fuzzing",
+    "fuzzer",
+    "fuzz-testing",
+    "instrumentation",
+    "qemu",
+    "unicorn-emulator",
+    "fuzzer-afl",
+    "afl-compiler",
+    "afl-gcc",
+    "unicorn-mode",
+    "security",
+    "testing"
+  ],
+  "fork_count": 1273,
+  "star_count": 6443,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 6443
+    }
+  ]
+}

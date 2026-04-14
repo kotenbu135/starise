@@ -1,0 +1,40 @@
+{
+  "owner": "tinygo-org",
+  "name": "drivers",
+  "description": "TinyGo drivers for sensors, displays, wireless adaptors, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.",
+  "url": "https://github.com/tinygo-org/drivers",
+  "homepage_url": "https://tinygo.org",
+  "language": "Go",
+  "license": "BSD-3-Clause",
+  "topics": [
+    "i2c",
+    "spi",
+    "gpio",
+    "apa102",
+    "bmp180",
+    "mma8653",
+    "mag3110",
+    "mpu6050",
+    "ws2812",
+    "tinygo",
+    "adxl345",
+    "blinkm",
+    "ds3231",
+    "esp8266",
+    "neopixels",
+    "dotstar",
+    "embedded",
+    "sensors",
+    "lorawan",
+    "hacktoberfest"
+  ],
+  "fork_count": 234,
+  "star_count": 728,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 728
+    }
+  ]
+}

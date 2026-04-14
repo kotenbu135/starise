@@ -1,0 +1,35 @@
+{
+  "owner": "nullpo-head",
+  "name": "wsl-distrod",
+  "description": "Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.",
+  "url": "https://github.com/nullpo-head/wsl-distrod",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "wsl",
+    "wsl2",
+    "wsl-environment",
+    "wsl-installation",
+    "ubuntu",
+    "arch-linux",
+    "debian",
+    "gentoo",
+    "rockylinux",
+    "almalinux",
+    "centos",
+    "fedora",
+    "linuxmint",
+    "amazonlinux",
+    "oraclelinux"
+  ],
+  "fork_count": 94,
+  "star_count": 1949,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1949
+    }
+  ]
+}

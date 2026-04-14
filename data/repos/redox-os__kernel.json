@@ -1,0 +1,27 @@
+{
+  "owner": "redox-os",
+  "name": "kernel",
+  "description": "Mirror of https://gitlab.redox-os.org/redox-os/kernel",
+  "url": "https://github.com/redox-os/kernel",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "linux",
+    "microkernel",
+    "plan9",
+    "redox",
+    "rust",
+    "sel4",
+    "syscall"
+  ],
+  "fork_count": 112,
+  "star_count": 854,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 854
+    }
+  ]
+}

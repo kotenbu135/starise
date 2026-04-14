@@ -1,0 +1,29 @@
+{
+  "owner": "CrunchyData",
+  "name": "pg_parquet",
+  "description": "Copy to/from Parquet in S3, Azure Blob Storage, Google Cloud Storage, http(s) stores, local files or standard inout stream from within PostgreSQL",
+  "url": "https://github.com/CrunchyData/pg_parquet",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "columnar",
+    "data-ingestion",
+    "data-migration",
+    "parquet",
+    "postgresql",
+    "azure-storage",
+    "google-cloud-storage",
+    "https",
+    "s3"
+  ],
+  "fork_count": 33,
+  "star_count": 664,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 664
+    }
+  ]
+}

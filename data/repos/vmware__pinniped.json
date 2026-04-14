@@ -1,0 +1,28 @@
+{
+  "owner": "vmware",
+  "name": "pinniped",
+  "description": "Pinniped is the easy, secure way to log in to your Kubernetes clusters.",
+  "url": "https://github.com/vmware/pinniped",
+  "homepage_url": "https://pinniped.dev",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "kubernetes",
+    "identity",
+    "authentication",
+    "idp",
+    "login",
+    "oidc",
+    "ldap",
+    "active-directory"
+  ],
+  "fork_count": 79,
+  "star_count": 707,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 707
+    }
+  ]
+}

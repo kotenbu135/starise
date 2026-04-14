@@ -1,0 +1,26 @@
+{
+  "owner": "digitalocean",
+  "name": "csi-digitalocean",
+  "description": "A Container Storage Interface (CSI) Driver  for DigitalOcean Block Storage",
+  "url": "https://github.com/digitalocean/csi-digitalocean",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "csi",
+    "kubernetes",
+    "storage",
+    "csi-plugin",
+    "container-orchestration",
+    "hacktoberfest"
+  ],
+  "fork_count": 110,
+  "star_count": 599,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 599
+    }
+  ]
+}

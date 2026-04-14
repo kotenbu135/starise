@@ -1,0 +1,28 @@
+{
+  "owner": "adyanth",
+  "name": "cloudflare-operator",
+  "description": "A Kubernetes Operator to create and manage Cloudflare Tunnels and DNS records  for (HTTP/TCP/UDP*) Service Resources ",
+  "url": "https://github.com/adyanth/cloudflare-operator",
+  "homepage_url": "https://adyanth.site/posts/migration-compose-k8s/cloudflare-tunnel-operator-architecture/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "kubernetes",
+    "kubernetes-operator",
+    "cloudflare",
+    "cloudflared",
+    "cloudflare-tunnel",
+    "operator-sdk",
+    "operator",
+    "cloudflare-access"
+  ],
+  "fork_count": 62,
+  "star_count": 672,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 672
+    }
+  ]
+}

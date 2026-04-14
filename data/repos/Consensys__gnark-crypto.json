@@ -1,0 +1,39 @@
+{
+  "owner": "Consensys",
+  "name": "gnark-crypto",
+  "description": "gnark-crypto provides elliptic curve and pairing-based cryptography on BN, BLS12, BLS24 and BW6 curves. It also provides various algorithms (algebra, crypto) of particular interest to zero knowledge proof systems",
+  "url": "https://github.com/Consensys/gnark-crypto",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "elliptic-curves",
+    "pairing",
+    "cryptography",
+    "golang",
+    "biginteger",
+    "ecc",
+    "mimc",
+    "eddsa",
+    "bls12-381",
+    "bls12-377",
+    "zkp",
+    "snark",
+    "zksnark",
+    "crypto",
+    "go",
+    "bn254",
+    "finite-field-arithmetic",
+    "fri",
+    "hash-to-curve"
+  ],
+  "fork_count": 227,
+  "star_count": 590,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 590
+    }
+  ]
+}

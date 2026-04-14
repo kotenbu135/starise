@@ -1,0 +1,28 @@
+{
+  "owner": "microsoft",
+  "name": "synthetic-rag-index",
+  "description": "Service to import data from various sources and index it in AI Search. Increases data relevance and reduces final size by 90%+. Useful for RAG scenarios with LLM. Hosted in Azure with serverless architecture.",
+  "url": "https://github.com/microsoft/synthetic-rag-index",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "azure",
+    "large-language-model",
+    "llm",
+    "rag",
+    "retrieval-augmented-generation",
+    "serverless",
+    "document-analysis",
+    "few-shot-learning"
+  ],
+  "fork_count": 12,
+  "star_count": 37,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 37
+    }
+  ]
+}

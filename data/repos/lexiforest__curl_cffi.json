@@ -1,0 +1,36 @@
+{
+  "owner": "lexiforest",
+  "name": "curl_cffi",
+  "description": "Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.",
+  "url": "https://github.com/lexiforest/curl_cffi",
+  "homepage_url": "https://curl-cffi.readthedocs.io/",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "curl",
+    "http-client",
+    "curl-impersonate",
+    "http",
+    "https",
+    "ja3",
+    "ja3-fingerprint",
+    "tls-fingerprint",
+    "fingerprinting",
+    "web-scraping",
+    "akamai-fingerprint",
+    "http2-fingerprint",
+    "http3-fingerprints",
+    "quic-fingerprints",
+    "ja4",
+    "ja4-fingerprint"
+  ],
+  "fork_count": 466,
+  "star_count": 5412,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 5412
+    }
+  ]
+}

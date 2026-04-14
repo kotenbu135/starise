@@ -1,0 +1,24 @@
+{
+  "owner": "boinkor-net",
+  "name": "tsnsrv",
+  "description": "A reverse proxy that exposes services on your tailnet (as their own tailscale participants)",
+  "url": "https://github.com/boinkor-net/tsnsrv",
+  "homepage_url": "https://boinkor.net/2023/07/tsnsrv-or-easily-accessing-services-on-your-tailscale-network/",
+  "language": "Nix",
+  "license": "MIT",
+  "topics": [
+    "golang",
+    "http",
+    "reverse-proxy",
+    "tailscale"
+  ],
+  "fork_count": 20,
+  "star_count": 298,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 298
+    }
+  ]
+}

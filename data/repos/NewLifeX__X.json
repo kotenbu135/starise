@@ -1,0 +1,30 @@
+{
+  "owner": "NewLifeX",
+  "name": "X",
+  "description": "Core basic components: log (file / network), configuration (XML / JSON / HTTP), cache (memory / redis), network (TCP / UDP / HTTP), RPC framework, serialization (binary / XML / JSON), APM performance tracking. 核心基础组件，日志（文件/网络）、配置（XML/Json/Http）、缓存（内存/Redis）、网络（Tcp/Udp/Http）、RPC框架、序列化（Binary/XML/Json）、APM性能追踪。",
+  "url": "https://github.com/NewLifeX/X",
+  "homepage_url": "https://newlifex.com",
+  "language": "C#",
+  "license": "MIT",
+  "topics": [
+    "network",
+    "security",
+    "thread",
+    "reflection",
+    "service",
+    "server",
+    "serialize",
+    "rpc",
+    "api",
+    "newlife"
+  ],
+  "fork_count": 545,
+  "star_count": 1859,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1859
+    }
+  ]
+}

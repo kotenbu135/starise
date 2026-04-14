@@ -1,0 +1,28 @@
+{
+  "owner": "hasura",
+  "name": "gitkube",
+  "description": "Build and deploy docker images to Kubernetes using git push",
+  "url": "https://github.com/hasura/gitkube",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "kubernetes",
+    "git",
+    "docker",
+    "continuous-deployment",
+    "ci-cd",
+    "k8s",
+    "golang",
+    "developer-tools"
+  ],
+  "fork_count": 201,
+  "star_count": 3839,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3839
+    }
+  ]
+}

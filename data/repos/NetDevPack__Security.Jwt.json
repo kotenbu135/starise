@@ -1,0 +1,29 @@
+{
+  "owner": "NetDevPack",
+  "name": "Security.Jwt",
+  "description": "Jwt Manager. Set of components to deal with Jwt Stuff. Automate your key rotating, add support for jwks_uri. Store your cryptography keys in a secure place.",
+  "url": "https://github.com/NetDevPack/Security.Jwt",
+  "homepage_url": "",
+  "language": "C#",
+  "license": "MIT",
+  "topics": [
+    "cryptography",
+    "ecdsa",
+    "jwks",
+    "jwt",
+    "jwt-authentication",
+    "jwt-token",
+    "rsa",
+    "jwe",
+    "jws"
+  ],
+  "fork_count": 45,
+  "star_count": 295,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 295
+    }
+  ]
+}

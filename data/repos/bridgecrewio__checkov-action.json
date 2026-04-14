@@ -1,0 +1,29 @@
+{
+  "owner": "bridgecrewio",
+  "name": "checkov-action",
+  "description": "This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.",
+  "url": "https://github.com/bridgecrewio/checkov-action",
+  "homepage_url": "",
+  "language": "HCL",
+  "license": "Apache-2.0",
+  "topics": [
+    "marketplace",
+    "hacktoberfest",
+    "devsecops",
+    "terraform",
+    "compliance",
+    "security",
+    "scanning",
+    "static-analysis",
+    "bridgecrew"
+  ],
+  "fork_count": 114,
+  "star_count": 296,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 296
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "owner": "SkardiLabs",
+  "name": "skardi",
+  "description": "Run SQL across Relational DBs, Data Lakes, S3, MongoDB, Redis, and vector stores. Turn any query into a REST API. Built on Rust + Apache DataFusion.",
+  "url": "https://github.com/SkardiLabs/skardi",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "agent",
+    "datafusion",
+    "datalake",
+    "iceberg",
+    "lance",
+    "mongo",
+    "mysql",
+    "postgres",
+    "rag",
+    "redis",
+    "rust",
+    "sql",
+    "sqlite",
+    "vector-search"
+  ],
+  "fork_count": 3,
+  "star_count": 36,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 36
+    }
+  ]
+}

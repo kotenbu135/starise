@@ -1,0 +1,38 @@
+{
+  "owner": "mokeyish",
+  "name": "smartdns-rs",
+  "description": "A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.",
+  "url": "https://github.com/mokeyish/smartdns-rs",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "GPL-3.0",
+  "topics": [
+    "dns",
+    "dns-over-https",
+    "dns-over-tls",
+    "dnsmasq",
+    "doh",
+    "dot",
+    "smartdns",
+    "smartdns-rs",
+    "windows",
+    "dns-server",
+    "linux",
+    "macos",
+    "rust",
+    "trustdns",
+    "trust-dns",
+    "pi-hole",
+    "dns-over-quic",
+    "dns-over-h3"
+  ],
+  "fork_count": 61,
+  "star_count": 923,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 923
+    }
+  ]
+}

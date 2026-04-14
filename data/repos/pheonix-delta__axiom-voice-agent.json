@@ -1,0 +1,40 @@
+{
+  "owner": "pheonix-delta",
+  "name": "axiom-voice-agent",
+  "description": "Run a \u003c400ms latency Voice Agent on just 4GB VRAM. Fully offline, no API keys required. Optimized for GTX 1650 and edge robotics with zero-copy inference. (Apache 2.0)",
+  "url": "https://github.com/pheonix-delta/axiom-voice-agent",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "voice-agent",
+    "edge-robotics-voice-assistant",
+    "local-voice-agent",
+    "setfit-model",
+    "setfit-training",
+    "llama-fine-tune",
+    "ollama-voice-agent",
+    "sentence-transformers-finetune",
+    "ai-voice-agent",
+    "local-llm-integration",
+    "offline-ai",
+    "python-3",
+    "rag",
+    "speech-synthesis",
+    "nvidia-cuda",
+    "sherpa-onnx",
+    "kokora-tts",
+    "parakeet-model",
+    "edge-ai-agents",
+    "quantizations"
+  ],
+  "fork_count": 4,
+  "star_count": 114,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 114
+    }
+  ]
+}

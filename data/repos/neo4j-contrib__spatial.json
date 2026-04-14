@@ -1,0 +1,31 @@
+{
+  "owner": "neo4j-contrib",
+  "name": "spatial",
+  "description": "Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data. In particular you can add spatial indexes to already located data, and perform spatial operations on the data like searching for data within specified regions or within a specified distance of a point of interest.",
+  "url": "https://github.com/neo4j-contrib/spatial",
+  "homepage_url": "https://neo4j.com/labs/spatial/",
+  "language": "Java",
+  "license": "NOASSERTION",
+  "topics": [
+    "neo4j",
+    "neo4j-database",
+    "geoserver",
+    "spatial-data",
+    "neo4j-spatial-plugin",
+    "gis",
+    "postgis",
+    "geotools",
+    "procedures",
+    "neo4j-procedures",
+    "hacktoberfest"
+  ],
+  "fork_count": 195,
+  "star_count": 817,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 817
+    }
+  ]
+}

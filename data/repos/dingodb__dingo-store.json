@@ -1,0 +1,26 @@
+{
+  "owner": "dingodb",
+  "name": "dingo-store",
+  "description": "A distributed Key-Value Storage using Raft",
+  "url": "https://github.com/dingodb/dingo-store",
+  "homepage_url": "https://www.dingodb.com",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [
+    "distributed-kv",
+    "distributed-kv-storages",
+    "multi-raft-group",
+    "vector-database",
+    "vector-search",
+    "distributed-vector-storage"
+  ],
+  "fork_count": 72,
+  "star_count": 139,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 139
+    }
+  ]
+}

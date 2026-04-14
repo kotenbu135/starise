@@ -1,0 +1,21 @@
+{
+  "owner": "linuxserver",
+  "name": "docker-swag",
+  "description": "Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.",
+  "url": "https://github.com/linuxserver/docker-swag",
+  "homepage_url": "https://docs.linuxserver.io/general/swag",
+  "language": "Dockerfile",
+  "license": "GPL-3.0",
+  "topics": [
+    "hacktoberfest"
+  ],
+  "fork_count": 281,
+  "star_count": 1983,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1983
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "owner": "apecloud",
+  "name": "ape-dts",
+  "description": "ApeCloud's Data Transfer Suite, written in Rust. Provides ultra-fast data replication between MySQL, PostgreSQL, Redis, MongoDB, Kafka and ClickHouse, ideal for disaster recovery (DR) and migration scenarios.",
+  "url": "https://github.com/apecloud/ape-dts",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "AGPL-3.0",
+  "topics": [
+    "binlog",
+    "clickhouse",
+    "data-migration",
+    "data-transfer",
+    "etl",
+    "kafka-connect",
+    "mongo",
+    "mysql",
+    "redis",
+    "starrocks",
+    "cdc",
+    "doris",
+    "migration",
+    "postgresql",
+    "rust"
+  ],
+  "fork_count": 93,
+  "star_count": 564,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 564
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "owner": "voxpupuli",
+  "name": "puppet-python",
+  "description": "Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts.",
+  "url": "https://github.com/voxpupuli/puppet-python",
+  "homepage_url": "https://forge.puppetlabs.com/puppet/python",
+  "language": "Ruby",
+  "license": "Apache-2.0",
+  "topics": [
+    "linux-puppet-module",
+    "puppet",
+    "hacktoberfest",
+    "bsd-puppet-module",
+    "centos-puppet-module",
+    "debian-puppet-module",
+    "freebsd-puppet-module",
+    "gentoo-puppet-module",
+    "sles-puppet-module",
+    "ubuntu-puppet-module"
+  ],
+  "fork_count": 376,
+  "star_count": 196,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 196
+    }
+  ]
+}

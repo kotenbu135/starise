@@ -1,0 +1,31 @@
+{
+  "owner": "RobThePCGuy",
+  "name": "Claude-Patent-Creator",
+  "description": "USPTO patent creation system with MCP server + Claude Code plugin. Hybrid RAG search over   MPEP/USC/CFR, BigQuery access to 76M+ patents, automated 35 USC 112 compliance checks, prior   art search, diagram generation. GPU-accelerated with skills and autonomous agents.",
+  "url": "https://github.com/RobThePCGuy/Claude-Patent-Creator",
+  "homepage_url": "https://github.com/RobThePCGuy/Claude-Patent-Creator",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "bigquery",
+    "claude-code",
+    "claude-code-plugin",
+    "faiss",
+    "mcp-server",
+    "mpep",
+    "patent",
+    "patent-drafting",
+    "patent-search",
+    "rag",
+    "uspto"
+  ],
+  "fork_count": 10,
+  "star_count": 74,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 74
+    }
+  ]
+}

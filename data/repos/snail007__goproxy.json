@@ -1,0 +1,40 @@
+{
+  "owner": "snail007",
+  "name": "goproxy",
+  "description": "🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。",
+  "url": "https://github.com/snail007/goproxy",
+  "homepage_url": "https://www.goproxy.win/",
+  "language": "Go",
+  "license": "GPL-3.0",
+  "topics": [
+    "http-proxy",
+    "https-proxy",
+    "reverse-proxy",
+    "transparent-proxy",
+    "socks5-proxy",
+    "ss-proxy",
+    "upstream-proxies",
+    "tcp-proxy",
+    "udp-proxy",
+    "dns-proxy",
+    "encryption-proxy",
+    "tls-proxy",
+    "kcptun",
+    "websocket-proxy",
+    "http",
+    "socks5",
+    "socket",
+    "tcp",
+    "udp",
+    "tls"
+  ],
+  "fork_count": 3102,
+  "star_count": 16940,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 16940
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "owner": "cloudposse",
+  "name": "terraform-aws-ecs-container-definition",
+  "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the  aws_ecs_task_definition Terraform resource",
+  "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+  "homepage_url": "https://cloudposse.com/accelerate",
+  "language": "HCL",
+  "license": "Apache-2.0",
+  "topics": [
+    "terraform",
+    "terraform-module",
+    "ecs",
+    "fargate",
+    "container-definition",
+    "task",
+    "docker",
+    "aws",
+    "hcl2"
+  ],
+  "fork_count": 239,
+  "star_count": 350,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 350
+    }
+  ]
+}

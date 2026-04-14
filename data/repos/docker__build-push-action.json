@@ -1,0 +1,25 @@
+{
+  "owner": "docker",
+  "name": "build-push-action",
+  "description": "GitHub Action to build and push Docker images with Buildx",
+  "url": "https://github.com/docker/build-push-action",
+  "homepage_url": "https://github.com/marketplace/actions/build-and-push-docker-images",
+  "language": "TypeScript",
+  "license": "Apache-2.0",
+  "topics": [
+    "buildx",
+    "github-actions",
+    "github-actions-docker",
+    "docker",
+    "dockerhub"
+  ],
+  "fork_count": 708,
+  "star_count": 5234,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 5234
+    }
+  ]
+}

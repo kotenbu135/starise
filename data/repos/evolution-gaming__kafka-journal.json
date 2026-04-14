@@ -1,0 +1,26 @@
+{
+  "owner": "evolution-gaming",
+  "name": "kafka-journal",
+  "description": "Event sourcing journal implementation using Kafka as main storage",
+  "url": "https://github.com/evolution-gaming/kafka-journal",
+  "homepage_url": "",
+  "language": "Scala",
+  "license": "MIT",
+  "topics": [
+    "kafka",
+    "journal",
+    "event-sourcing",
+    "akka-persistence",
+    "cassandra",
+    "scala"
+  ],
+  "fork_count": 19,
+  "star_count": 112,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 112
+    }
+  ]
+}

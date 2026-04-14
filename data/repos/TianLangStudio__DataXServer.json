@@ -1,0 +1,33 @@
+{
+  "owner": "TianLangStudio",
+  "name": "DataXServer",
+  "description": "为DataX(https://github.com/alibaba/DataX)  提供远程多语言调用（ThriftServer，HttpServer） 分布式运行（DataX on YARN） 功能",
+  "url": "https://github.com/TianLangStudio/DataXServer",
+  "homepage_url": "",
+  "language": "Scala",
+  "license": "Apache-2.0",
+  "topics": [
+    "datax",
+    "dataxserver",
+    "thrift",
+    "yarn",
+    "dataxonyarn",
+    "server",
+    "thrift-server",
+    "datax-server",
+    "etl",
+    "hamal",
+    "data-hamal",
+    "http",
+    "http-server"
+  ],
+  "fork_count": 72,
+  "star_count": 144,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 144
+    }
+  ]
+}

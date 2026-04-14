@@ -1,0 +1,31 @@
+{
+  "owner": "cloudposse",
+  "name": "terraform-aws-ecs-alb-service-task",
+  "description": "Terraform module which implements an ECS service which exposes a web service via ALB.",
+  "url": "https://github.com/cloudposse/terraform-aws-ecs-alb-service-task",
+  "homepage_url": "https://cloudposse.com/accelerate",
+  "language": "HCL",
+  "license": "Apache-2.0",
+  "topics": [
+    "terraform",
+    "terraform-module",
+    "ecs",
+    "alb",
+    "service",
+    "task",
+    "container",
+    "docker",
+    "fargate",
+    "hcl2",
+    "terratest"
+  ],
+  "fork_count": 196,
+  "star_count": 2224,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 2224
+    }
+  ]
+}

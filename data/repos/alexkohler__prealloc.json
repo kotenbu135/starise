@@ -1,0 +1,27 @@
+{
+  "owner": "alexkohler",
+  "name": "prealloc",
+  "description": "prealloc is a Go static analysis tool to find slice declarations that could potentially be preallocated.",
+  "url": "https://github.com/alexkohler/prealloc",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "golang",
+    "go",
+    "static-code-analysis",
+    "static-analyzer",
+    "static-analysis",
+    "prealloc-suggestions",
+    "slice"
+  ],
+  "fork_count": 26,
+  "star_count": 665,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 665
+    }
+  ]
+}

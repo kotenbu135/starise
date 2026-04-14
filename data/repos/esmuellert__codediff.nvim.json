@@ -1,0 +1,25 @@
+{
+  "owner": "esmuellert",
+  "name": "codediff.nvim",
+  "description": "A Neovim plugin that provides VSCode-style diff rendering with two-tier highlighting (line + character level) in side-by-side and inline layouts, using VSCode's algorithm implemented in C.",
+  "url": "https://github.com/esmuellert/codediff.nvim",
+  "homepage_url": "",
+  "language": "Lua",
+  "license": "MIT",
+  "topics": [
+    "diff",
+    "neovim",
+    "vscode",
+    "c",
+    "lua"
+  ],
+  "fork_count": 59,
+  "star_count": 581,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 581
+    }
+  ]
+}

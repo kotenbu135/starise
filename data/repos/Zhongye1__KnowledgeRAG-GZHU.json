@@ -1,0 +1,26 @@
+{
+  "owner": "Zhongye1",
+  "name": "KnowledgeRAG-GZHU",
+  "description": "​​KnowledgeRAG-GZHU​​ 是一个面向智能知识管理的检索增强生成（RAG）系统，集成文档解析、知识库管理、知识图谱生成、向量检索、Ollama模型服务及智能问答核心功能。前端基于 ​​Vue3 + TypeScript​​ 构建交互框架，实现知识组织与问答可视化；后端采用 ​​FastAPI​​ 架构提供高性能服务支持。该系统通过本地知识库与大语言模型协同推理，显著缓解大模型幻觉问题，提升领域知识问答的精确性与可靠性。",
+  "url": "https://github.com/Zhongye1/KnowledgeRAG-GZHU",
+  "homepage_url": "https://zhongye1.github.io/KnowledgeRAG-GZHU/",
+  "language": "Vue",
+  "license": "",
+  "topics": [
+    "ai",
+    "chatbot",
+    "fastapi",
+    "python",
+    "rag",
+    "vue"
+  ],
+  "fork_count": 8,
+  "star_count": 104,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 104
+    }
+  ]
+}

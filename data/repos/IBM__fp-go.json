@@ -1,0 +1,26 @@
+{
+  "owner": "IBM",
+  "name": "fp-go",
+  "description": "Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads, plus optics (Lens, Prism, Traversal) for immutable data manipulation. Supports Functor, Applicative, and Monad abstractions with do-notation-style",
+  "url": "https://github.com/IBM/fp-go",
+  "homepage_url": "https://github.com/IBM/fp-go/tree/main/v2",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "functional-programming",
+    "go",
+    "golang",
+    "library",
+    "monad",
+    "utility"
+  ],
+  "fork_count": 74,
+  "star_count": 1977,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1977
+    }
+  ]
+}

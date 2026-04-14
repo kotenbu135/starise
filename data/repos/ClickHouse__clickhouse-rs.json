@@ -1,0 +1,25 @@
+{
+  "owner": "ClickHouse",
+  "name": "clickhouse-rs",
+  "description": "Official pure Rust typed client for ClickHouse DB",
+  "url": "https://github.com/ClickHouse/clickhouse-rs",
+  "homepage_url": "https://clickhouse.com",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "clickhouse",
+    "http",
+    "rust",
+    "streaming",
+    "tokio"
+  ],
+  "fork_count": 152,
+  "star_count": 525,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 525
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "owner": "akka",
+  "name": "akka-persistence-jdbc",
+  "description": "Asynchronously writes journal and snapshot entries to configured JDBC databases so that Akka Actors can recover state",
+  "url": "https://github.com/akka/akka-persistence-jdbc",
+  "homepage_url": "https://doc.akka.io/libraries/akka-persistence-jdbc/current/",
+  "language": "Scala",
+  "license": "NOASSERTION",
+  "topics": [
+    "akka-persistence",
+    "journal",
+    "slick",
+    "persistence-query",
+    "scala"
+  ],
+  "fork_count": 135,
+  "star_count": 309,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 309
+    }
+  ]
+}

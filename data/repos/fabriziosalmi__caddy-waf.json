@@ -1,0 +1,38 @@
+{
+  "owner": "fabriziosalmi",
+  "name": "caddy-waf",
+  "description": "Caddy WAF (Regex Rules, IP and DNS filtering, Rate Limiting, GeoIP, Tor, Anomaly Detection)",
+  "url": "https://github.com/fabriziosalmi/caddy-waf",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "AGPL-3.0",
+  "topics": [
+    "caddy",
+    "caddy-plugin",
+    "caddyserver",
+    "web-application-firewall",
+    "security-tools",
+    "waf",
+    "web-security",
+    "caddy-module",
+    "caddy-security",
+    "dns-blacklist",
+    "dns-filtering",
+    "geo-blocking",
+    "geoip2",
+    "ip-blacklist",
+    "ip-filtering",
+    "owasp",
+    "rate-limiter",
+    "rate-limiting"
+  ],
+  "fork_count": 29,
+  "star_count": 755,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 755
+    }
+  ]
+}

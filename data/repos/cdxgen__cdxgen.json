@@ -1,0 +1,34 @@
+{
+  "owner": "cdxgen",
+  "name": "cdxgen",
+  "description": "Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission to Dependency Track server",
+  "url": "https://github.com/cdxgen/cdxgen",
+  "homepage_url": "https://cdxgen.github.io/cdxgen/",
+  "language": "JavaScript",
+  "license": "Apache-2.0",
+  "topics": [
+    "bom",
+    "sca",
+    "cyclonedx",
+    "sbom",
+    "docker",
+    "oci",
+    "containers",
+    "owasp",
+    "package-url",
+    "purl",
+    "software-bill-of-materials",
+    "saasbom",
+    "supply-chain",
+    "cbom"
+  ],
+  "fork_count": 239,
+  "star_count": 942,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 942
+    }
+  ]
+}

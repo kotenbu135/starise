@@ -1,0 +1,31 @@
+{
+  "owner": "katvio",
+  "name": "fractum",
+  "description": "A portable secure file encryption tool that allows you to encrypt files and split them into multiple shares, with the ability to decrypt using only a subset of these shares.",
+  "url": "https://github.com/katvio/fractum",
+  "homepage_url": "https://fractum.katvio.com",
+  "language": "Python",
+  "license": "NOASSERTION",
+  "topics": [
+    "aes-256",
+    "cryptography",
+    "data-security",
+    "encryption",
+    "file-encryption",
+    "offline-tool",
+    "security",
+    "shamir-secret-sharing",
+    "sss",
+    "encryption-tool",
+    "shamir-secret-sharing-scheme"
+  ],
+  "fork_count": 18,
+  "star_count": 296,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 296
+    }
+  ]
+}

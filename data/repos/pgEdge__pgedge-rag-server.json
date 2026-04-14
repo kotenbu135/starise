@@ -1,0 +1,26 @@
+{
+  "owner": "pgEdge",
+  "name": "pgedge-rag-server",
+  "description": "A simple API server for performing Retrieval-Augmented Generation (RAG) of text based on content from a PostgreSQL database using pgvector.",
+  "url": "https://github.com/pgEdge/pgedge-rag-server",
+  "homepage_url": "https://docs.pgedge.com/pgedge-rag-server/",
+  "language": "Go",
+  "license": "PostgreSQL",
+  "topics": [
+    "ai",
+    "api",
+    "postgres",
+    "postgresql",
+    "rag",
+    "server"
+  ],
+  "fork_count": 1,
+  "star_count": 36,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 36
+    }
+  ]
+}

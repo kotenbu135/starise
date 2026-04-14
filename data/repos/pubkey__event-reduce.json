@@ -1,0 +1,30 @@
+{
+  "owner": "pubkey",
+  "name": "event-reduce",
+  "description": "An algorithm to optimize database queries that run multiple times https://pubkey.github.io/event-reduce/",
+  "url": "https://github.com/pubkey/event-reduce",
+  "homepage_url": "https://pubkey.github.io/event-reduce",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "realtime-queries",
+    "bdd",
+    "database",
+    "oplog-tailing",
+    "live-queries",
+    "realtime",
+    "realtime-database",
+    "nosql-database",
+    "observability",
+    "event-reduce"
+  ],
+  "fork_count": 23,
+  "star_count": 753,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 753
+    }
+  ]
+}

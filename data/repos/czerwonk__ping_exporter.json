@@ -1,0 +1,25 @@
+{
+  "owner": "czerwonk",
+  "name": "ping_exporter",
+  "description": "Prometheus exporter for ICMP echo requests using https://github.com/digineo/go-ping",
+  "url": "https://github.com/czerwonk/ping_exporter",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "prometheus",
+    "prometheus-exporter",
+    "icmp",
+    "ping",
+    "loss-detection"
+  ],
+  "fork_count": 127,
+  "star_count": 619,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 619
+    }
+  ]
+}

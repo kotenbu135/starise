@@ -1,0 +1,26 @@
+{
+  "owner": "Meituan-Dianping",
+  "name": "Zebra",
+  "description": "美团点评集团统一使用的MySQL数据库访问层的中间件。主要提供对业务开发透明、读写分库、分库分表能力，并提供了端到端SQL监控的集成方案。",
+  "url": "https://github.com/Meituan-Dianping/Zebra",
+  "homepage_url": "",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "mysql",
+    "dynamic-datasource",
+    "read-write-separation",
+    "zebra",
+    "database-sharding",
+    "mybatis"
+  ],
+  "fork_count": 710,
+  "star_count": 2772,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 2772
+    }
+  ]
+}

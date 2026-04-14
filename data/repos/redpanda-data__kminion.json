@@ -1,0 +1,28 @@
+{
+  "owner": "redpanda-data",
+  "name": "kminion",
+  "description": "KMinion is a feature-rich Prometheus exporter for Apache Kafka written in Go. It is lightweight and highly configurable so that it will meet your requirements.",
+  "url": "https://github.com/redpanda-data/kminion",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "kafka",
+    "lag",
+    "prometheus",
+    "consumer",
+    "group",
+    "exporter",
+    "consumer-group",
+    "prometheus-exporter"
+  ],
+  "fork_count": 137,
+  "star_count": 690,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 690
+    }
+  ]
+}

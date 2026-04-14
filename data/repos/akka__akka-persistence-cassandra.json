@@ -1,0 +1,25 @@
+{
+  "owner": "akka",
+  "name": "akka-persistence-cassandra",
+  "description": "A replicated Akka Persistence journal backed by Apache Cassandra",
+  "url": "https://github.com/akka/akka-persistence-cassandra",
+  "homepage_url": "https://doc.akka.io/libraries/akka-persistence-cassandra/current/",
+  "language": "Scala",
+  "license": "NOASSERTION",
+  "topics": [
+    "akka-persistence",
+    "cassandra",
+    "akka",
+    "cqrs",
+    "eventsourcing"
+  ],
+  "fork_count": 133,
+  "star_count": 328,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 328
+    }
+  ]
+}

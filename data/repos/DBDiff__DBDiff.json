@@ -1,0 +1,33 @@
+{
+  "owner": "DBDiff",
+  "name": "DBDiff",
+  "description": "Compare MySQL, Postgres or SQLite databases \u0026 automatically create schema \u0026 data change scripts/migrations automatically for database version control. Supports Flyway, Liquibase and has a built-in migration tool.",
+  "url": "https://github.com/DBDiff/DBDiff",
+  "homepage_url": "https://dbdiff.dev",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "migration",
+    "migrations",
+    "mysql",
+    "mysql-database",
+    "postgres",
+    "postgresql",
+    "postgresql-database",
+    "sqlite",
+    "sqlite-database",
+    "sqlite3",
+    "sqlite3-database",
+    "supabase",
+    "supabase-db"
+  ],
+  "fork_count": 159,
+  "star_count": 731,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 731
+    }
+  ]
+}

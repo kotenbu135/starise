@@ -1,0 +1,36 @@
+{
+  "owner": "PeerDB-io",
+  "name": "peerdb",
+  "description": "Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage",
+  "url": "https://github.com/PeerDB-io/peerdb",
+  "homepage_url": "https://peerdb.io",
+  "language": "Go",
+  "license": "AGPL-3.0",
+  "topics": [
+    "etl",
+    "sql",
+    "bigquery",
+    "cloud-native",
+    "distributed-systems",
+    "kafka",
+    "postgres",
+    "postgresql",
+    "realtime",
+    "rust",
+    "snowflake",
+    "stream-processing",
+    "cdc",
+    "clickhouse",
+    "s3",
+    "eventhubs"
+  ],
+  "fork_count": 182,
+  "star_count": 3057,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3057
+    }
+  ]
+}

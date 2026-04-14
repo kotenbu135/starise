@@ -1,0 +1,28 @@
+{
+  "owner": "baidu",
+  "name": "braft",
+  "description": "An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.",
+  "url": "https://github.com/baidu/braft",
+  "homepage_url": "",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [
+    "raft-consensus-algorithm",
+    "raft",
+    "raft-protocol",
+    "raft-cpp",
+    "raft-cxx",
+    "distributed-storage",
+    "distributed-consensus",
+    "state-machine-replication"
+  ],
+  "fork_count": 918,
+  "star_count": 4207,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 4207
+    }
+  ]
+}

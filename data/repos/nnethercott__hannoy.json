@@ -1,0 +1,27 @@
+{
+  "owner": "nnethercott",
+  "name": "hannoy",
+  "description": "Production-ready KV-backed HNSW implementation in Rust using LMDB",
+  "url": "https://github.com/nnethercott/hannoy",
+  "homepage_url": "https://docs.rs/hannoy",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "hnsw",
+    "rust",
+    "vector-database",
+    "lmdb",
+    "approximate-nearest-neighbor-search",
+    "diskann",
+    "python"
+  ],
+  "fork_count": 9,
+  "star_count": 77,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 77
+    }
+  ]
+}

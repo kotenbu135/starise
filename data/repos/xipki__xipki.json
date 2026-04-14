@@ -1,0 +1,36 @@
+{
+  "owner": "xipki",
+  "name": "xipki",
+  "description": "XiPKI: Compact open source PKI (CA, OCSP responder, certificate protocols ACME, CMP, EST, SCEP), with full support of PQC MLDSA (Dilithium) and MLKEM (Kyber).",
+  "url": "https://github.com/xipki/xipki",
+  "homepage_url": "",
+  "language": "Java",
+  "license": "NOASSERTION",
+  "topics": [
+    "ocsp-responder",
+    "certificate-authority",
+    "crl",
+    "ocsp",
+    "hsm",
+    "pkcs11",
+    "pki",
+    "certificate",
+    "ca",
+    "cmp",
+    "certification-authority",
+    "rest-api",
+    "acme",
+    "est",
+    "mlkem",
+    "mldsa"
+  ],
+  "fork_count": 132,
+  "star_count": 585,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 585
+    }
+  ]
+}

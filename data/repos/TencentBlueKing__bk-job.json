@@ -1,0 +1,25 @@
+{
+  "owner": "TencentBlueKing",
+  "name": "bk-job",
+  "description": "蓝鲸作业平台（Job）是一套运维基础操作管理系统，具备海量任务并发处理能力。除了支持脚本执行、文件分发、定时任务等一系列基础运维场景以外，还支持通过流程调度能力将零碎的单个任务组装成一个自动化作业流程；而每个作业都可做为一个原子节点，提供给上层或周边系统/平台使用，实现调度自动化。",
+  "url": "https://github.com/TencentBlueKing/bk-job",
+  "homepage_url": "",
+  "language": "Java",
+  "license": "NOASSERTION",
+  "topics": [
+    "blueking",
+    "java",
+    "operation",
+    "deployment-automation",
+    "continuous-delivery"
+  ],
+  "fork_count": 213,
+  "star_count": 858,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 858
+    }
+  ]
+}

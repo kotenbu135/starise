@@ -1,0 +1,34 @@
+{
+  "owner": "criyle",
+  "name": "go-judge",
+  "description": "Sandbox service built on Linux container technologies with simple REST and gRPC API",
+  "url": "https://github.com/criyle/go-judge",
+  "homepage_url": "https://docs.goj.ac",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "oj",
+    "golang",
+    "executor-service",
+    "cgroup",
+    "container",
+    "envexec",
+    "sandbox",
+    "online-judge",
+    "go",
+    "cgroup2",
+    "cgroup-v2",
+    "jobobject",
+    "vfork",
+    "docker"
+  ],
+  "fork_count": 86,
+  "star_count": 592,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 592
+    }
+  ]
+}

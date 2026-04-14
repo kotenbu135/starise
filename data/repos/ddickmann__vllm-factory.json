@@ -1,0 +1,36 @@
+{
+  "owner": "ddickmann",
+  "name": "vllm-factory",
+  "description": "Production inference for encoder models - ColBERT, GLiNER, ColPali, embeddings etc. - as vLLM plugins for online and in-process deployment",
+  "url": "https://github.com/ddickmann/vllm-factory",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "ai-infrastructure",
+    "colbert",
+    "colpali",
+    "embeddings",
+    "encoder",
+    "gliner",
+    "inference",
+    "ml-infra-deployments",
+    "multimodal-rag",
+    "ner",
+    "rag",
+    "retrieval",
+    "serving",
+    "triton-kernels",
+    "vllm",
+    "vllm-plugins"
+  ],
+  "fork_count": 3,
+  "star_count": 36,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 36
+    }
+  ]
+}

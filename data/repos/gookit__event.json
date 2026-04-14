@@ -1,0 +1,27 @@
+{
+  "owner": "gookit",
+  "name": "event",
+  "description": "📢 Lightweight event manager and dispatcher implements by Go. Go实现的轻量级的事件管理、调度程序库, 支持设置监听器的优先级, 支持使用通配符来进行一组事件的监听",
+  "url": "https://github.com/gookit/event",
+  "homepage_url": "https://pgk.go.dev/github.com/gookit/event",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "event-management",
+    "event-dispatcher",
+    "event-listener",
+    "gookit",
+    "multiple-listeners",
+    "eventbus",
+    "events"
+  ],
+  "fork_count": 69,
+  "star_count": 571,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 571
+    }
+  ]
+}

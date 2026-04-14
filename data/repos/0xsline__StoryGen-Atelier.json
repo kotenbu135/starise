@@ -1,0 +1,27 @@
+{
+  "owner": "0xsline",
+  "name": "StoryGen-Atelier",
+  "description": "AI-assisted storyboard and video generation tool. Uses Gemini for generating storyboard text and frames, Vertex AI Veo for generating transition clips, and ffmpeg for stitching the final video. Built-in logs and gallery management.",
+  "url": "https://github.com/0xsline/StoryGen-Atelier",
+  "homepage_url": "",
+  "language": "JavaScript",
+  "license": "Apache-2.0",
+  "topics": [
+    "ffmpeg",
+    "gemini",
+    "google",
+    "google-cloud-platform",
+    "veo",
+    "veo3",
+    "vertex-ai"
+  ],
+  "fork_count": 119,
+  "star_count": 707,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 707
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "owner": "boinkor-net",
+  "name": "governor",
+  "description": "A rate-limiting library for Rust (f.k.a. ratelimit_meter)",
+  "url": "https://github.com/boinkor-net/governor",
+  "homepage_url": "https://github.com/boinkor-net/governor",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "rate-limiting",
+    "in-memory",
+    "gcra",
+    "async",
+    "no-std",
+    "rust"
+  ],
+  "fork_count": 67,
+  "star_count": 900,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 900
+    }
+  ]
+}

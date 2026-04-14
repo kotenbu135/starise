@@ -1,0 +1,25 @@
+{
+  "owner": "browserstate",
+  "name": "history.js",
+  "description": "History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.",
+  "url": "https://github.com/browserstate/history.js",
+  "homepage_url": "http://browserstate.github.com/history.js/demo/",
+  "language": "JavaScript",
+  "license": "NOASSERTION",
+  "topics": [
+    "html5-history-api",
+    "html5-history",
+    "javascript",
+    "polyfill",
+    "hashchange"
+  ],
+  "fork_count": 1316,
+  "star_count": 10631,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 10631
+    }
+  ]
+}

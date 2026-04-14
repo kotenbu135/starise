@@ -1,0 +1,40 @@
+{
+  "owner": "scalecube",
+  "name": "scalecube-services",
+  "description": "Microservices library - scalecube-services is a high throughput, low latency reactive microservices library built to scale. It features: API-Gateways, service-discovery, service-load-balancing, the architecture supports plug-and-play service communication modules and features. built to provide performance and low-latency real-time stream-processing",
+  "url": "https://github.com/scalecube/scalecube-services",
+  "homepage_url": "http://scalecube.github.io/",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "microservices",
+    "reactive-streams",
+    "distributed-systems",
+    "service-mesh",
+    "reactive-microservices",
+    "ipc",
+    "low-latency",
+    "backpressure",
+    "swim-protocol",
+    "cluster-membership",
+    "gossip-protocol",
+    "reactor-netty",
+    "reactor-aeron",
+    "api-gateway",
+    "service-discovery",
+    "cluster",
+    "multicast-streams",
+    "aeron",
+    "actor-model",
+    "k8s"
+  ],
+  "fork_count": 111,
+  "star_count": 638,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 638
+    }
+  ]
+}

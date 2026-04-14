@@ -1,0 +1,26 @@
+{
+  "owner": "veeqo",
+  "name": "activejob-uniqueness",
+  "description": "Unique jobs for ActiveJob. Ensure the uniqueness of jobs in the queue.",
+  "url": "https://github.com/veeqo/activejob-uniqueness",
+  "homepage_url": "",
+  "language": "Ruby",
+  "license": "MIT",
+  "topics": [
+    "activejob",
+    "lock",
+    "redis",
+    "distributed-locks",
+    "rails",
+    "uniqueness"
+  ],
+  "fork_count": 37,
+  "star_count": 302,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 302
+    }
+  ]
+}

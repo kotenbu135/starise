@@ -1,0 +1,34 @@
+{
+  "owner": "apache",
+  "name": "casbin-gorm-adapter",
+  "description": "GORM adapter for Casbin, see extended version of GORM Adapter Ex at: https://github.com/casbin/gorm-adapter-ex",
+  "url": "https://github.com/apache/casbin-gorm-adapter",
+  "homepage_url": "https://github.com/casbin/casbin",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "casbin",
+    "adapter",
+    "storage-driver",
+    "gorm",
+    "orm",
+    "access-control",
+    "authorization",
+    "acl",
+    "rbac",
+    "abac",
+    "auth",
+    "authz",
+    "go",
+    "golang"
+  ],
+  "fork_count": 219,
+  "star_count": 743,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 743
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "owner": "rancher",
+  "name": "system-upgrade-controller",
+  "description": "In your Kubernetes, upgrading your nodes",
+  "url": "https://github.com/rancher/system-upgrade-controller",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "kubernetes",
+    "custom-resource-definition",
+    "crd-controller",
+    "upgrades"
+  ],
+  "fork_count": 114,
+  "star_count": 939,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 939
+    }
+  ]
+}

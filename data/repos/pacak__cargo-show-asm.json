@@ -1,0 +1,27 @@
+{
+  "owner": "pacak",
+  "name": "cargo-show-asm",
+  "description": "cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code ",
+  "url": "https://github.com/pacak/cargo-show-asm",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "rust",
+    "assembly",
+    "llvm-ir",
+    "optimization",
+    "cargo",
+    "cargo-plugin",
+    "cargo-subcommand"
+  ],
+  "fork_count": 47,
+  "star_count": 933,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 933
+    }
+  ]
+}

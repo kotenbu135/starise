@@ -1,0 +1,39 @@
+{
+  "owner": "aws-samples",
+  "name": "rag-with-amazon-bedrock-and-opensearch",
+  "description": "Opinionated sample on how to build and deploy a RAG application with Amazon Bedrock and OpenSearch",
+  "url": "https://github.com/aws-samples/rag-with-amazon-bedrock-and-opensearch",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT-0",
+  "topics": [
+    "aws",
+    "aws-lambda",
+    "bedrock",
+    "cdk",
+    "cognito",
+    "docker",
+    "ec2-instance",
+    "ecs-fargate",
+    "elbv2",
+    "https",
+    "langchain",
+    "openai",
+    "opensearch",
+    "python3",
+    "rag",
+    "s3-bucket",
+    "secrets-manager",
+    "ssl-certificate",
+    "typescript"
+  ],
+  "fork_count": 8,
+  "star_count": 55,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 55
+    }
+  ]
+}

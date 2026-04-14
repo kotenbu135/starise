@@ -1,0 +1,26 @@
+{
+  "owner": "neo4j",
+  "name": "neo4j-spark-connector",
+  "description": "Neo4j Connector for Apache Spark, which provides bi-directional read/write access to Neo4j from Spark, using the Spark DataSource APIs",
+  "url": "https://github.com/neo4j/neo4j-spark-connector",
+  "homepage_url": "https://neo4j.com/developer/spark/",
+  "language": "Scala",
+  "license": "Apache-2.0",
+  "topics": [
+    "spark",
+    "neo4j-connector",
+    "cypher",
+    "neo4j-driver",
+    "bolt",
+    "hacktoberfest"
+  ],
+  "fork_count": 119,
+  "star_count": 318,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 318
+    }
+  ]
+}

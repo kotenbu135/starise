@@ -1,0 +1,30 @@
+{
+  "owner": "emberstack",
+  "name": "kubernetes-reflector",
+  "description": "Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.",
+  "url": "https://github.com/emberstack/kubernetes-reflector",
+  "homepage_url": "",
+  "language": "C#",
+  "license": "MIT",
+  "topics": [
+    "kubernetes",
+    "controller",
+    "secrets",
+    "kubernetes-cluster",
+    "kubernetes-controller",
+    "kubectl",
+    "configmap",
+    "certificate",
+    "cert-manager",
+    "k8s"
+  ],
+  "fork_count": 120,
+  "star_count": 1567,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1567
+    }
+  ]
+}
