@@ -41,5 +41,6 @@ jobs:
             echo "No data changes"
           else
             git commit -m "chore: update star data $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
             git push
           fi
