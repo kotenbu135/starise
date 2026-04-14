@@ -1,0 +1,133 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import { StarChart } from '../../../components/StarChart';
+import { formatNumber } from '../../../lib/utils';
+import type { RepoDetail } from '../../../lib/types';
+import { Star, GitFork, ExternalLink, ArrowLeft } from 'lucide-react';
+
+// Static paths from repo files
+export async function getStaticPaths() {
+  const fs = await import('node:fs/promises');
+  const path = await import('node:path');
+
+  const reposDir = path.join(process.cwd(), 'public', 'data', 'repos');
+
+  let files: string[] = [];
+  try {
+    files = await fs.readdir(reposDir);
+  } catch {
+    return [];
+  }
+
+  const paths = [];
+  for (const file of files) {
+    if (!file.endsWith('.json')) continue;
+    const text = await fs.readFile(path.join(reposDir, file), 'utf-8');
+    const repo: RepoDetail = JSON.parse(text);
+    paths.push({
+      params: { owner: repo.owner, name: repo.name },
+      props: { repo },
+    });
+  }
+  return paths;
+}
+
+interface Props {
+  repo: RepoDetail;
+}
+
+const { repo } = Astro.props;
+const title = `${repo.owner}/${repo.name} — starise`;
+---
+
+<Layout title={title} description={repo.description}>
+  <div class="space-y-8">
+    <a href={`${import.meta.env.BASE_URL}/`} class="inline-flex items-center gap-1 text-sm text-text-secondary hover:text-brand transition-colors duration-150">
+      <ArrowLeft className="w-4 h-4" />
+      ランキングに戻る
+    </a>
+
+    <!-- Header -->
+    <div class="space-y-4">
+      <div>
+        <h1 class="text-[28px] font-bold">
+          <span class="font-mono">{repo.owner}/{repo.name}</span>
+        </h1>
+        {repo.is_archived && (
+          <span class="inline-block mt-1 px-2 py-0.5 text-xs font-medium text-warning bg-warning/10 rounded">
+            Archived
+          </span>
+        )}
+      </div>
+
+      {repo.description && (
+        <p class="text-text-secondary leading-[1.7] max-w-[42em]">
+          {repo.description}
+        </p>
+      )}
+
+      <!-- Metrics -->
+      <div class="flex flex-wrap gap-6">
+        <div class="flex items-center gap-2">
+          <Star className="w-5 h-5 text-accent" />
+          <span class="text-2xl font-bold tabular-nums">{repo.star_count.toLocaleString('ja-JP')}</span>
+          <span class="text-xs text-text-muted">stars</span>
+        </div>
+        <div class="flex items-center gap-2">
+          <GitFork className="w-5 h-5 text-text-muted" />
+          <span class="text-lg font-semibold tabular-nums">{repo.fork_count.toLocaleString('ja-JP')}</span>
+          <span class="text-xs text-text-muted">forks</span>
+        </div>
+      </div>
+
+      <!-- Meta tags -->
+      <div class="flex flex-wrap gap-2">
+        {repo.language && (
+          <span class="px-2.5 py-1 text-xs font-medium bg-surface border border-border rounded-md">
+            {repo.language}
+          </span>
+        )}
+        {repo.license && (
+          <span class="px-2.5 py-1 text-xs font-medium bg-surface border border-border rounded-md">
+            {repo.license}
+          </span>
+        )}
+        {repo.topics.map((topic: string) => (
+          <span class="px-2.5 py-1 text-xs font-medium bg-brand/5 text-brand border border-brand/20 rounded-md">
+            {topic}
+          </span>
+        ))}
+      </div>
+
+      <!-- Links -->
+      <div class="flex gap-3">
+        <a
+          href={repo.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="inline-flex items-center gap-1.5 px-4 py-2 text-sm font-medium bg-brand text-white rounded-lg hover:bg-brand-hover transition-colors duration-150"
+        >
+          <ExternalLink className="w-4 h-4" />
+          GitHub で見る
+        </a>
+        {repo.homepage_url && (
+          <a
+            href={repo.homepage_url}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-flex items-center gap-1.5 px-4 py-2 text-sm font-medium border border-border text-text-primary rounded-lg hover:bg-surface transition-colors duration-150"
+          >
+            <ExternalLink className="w-4 h-4" />
+            公式サイト
+          </a>
+        )}
+      </div>
+    </div>
+
+    <!-- Star History Chart -->
+    <div class="border border-border rounded-lg p-6">
+      <h2 class="text-lg font-semibold mb-4">スター推移</h2>
+      <StarChart client:load data={repo.star_history} />
+    </div>
+  </div>
+</Layout>

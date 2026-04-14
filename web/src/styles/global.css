@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+/* === DESIGN.md Theme Tokens (Tailwind 4 CSS-first) === */
+
+@theme {
+  /* Brand */
+  --color-brand: #2563EB;
+  --color-brand-hover: #1D4ED8;
+  --color-accent: #F59E0B;
+
+  /* Semantic */
+  --color-success: #22C55E;
+  --color-warning: #F59E0B;
+  --color-danger: #EF4444;
+  --color-info: #3B82F6;
+
+  /* Neutral */
+  --color-text-primary: #1E293B;
+  --color-text-secondary: #64748B;
+  --color-text-muted: #94A3B8;
+  --color-border: #E2E8F0;
+  --color-surface: #F8FAFC;
+  --color-surface-elevated: #FFFFFF;
+
+  /* Typography */
+  --font-sans: "Inter", "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Hiragino Sans", sans-serif;
+  --font-mono: "JetBrains Mono", "Source Code Pro", monospace;
+}
+
+/* === Japanese Typography Base === */
+
+html:lang(ja) {
+  line-break: strict;
+  word-break: normal;
+  overflow-wrap: anywhere;
+  font-kerning: auto;
+  font-feature-settings: normal;
+  text-autospace: normal;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-text-primary);
+  background: #FFFFFF;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p, li, dd {
+  line-break: strict;
+  word-break: normal;
+  overflow-wrap: anywhere;
+}
+
+/* === Heading line-height (DESIGN.md §4.4, §5) === */
+
+:lang(ja) h1 { line-height: 1.35; }
+:lang(ja) h2 { line-height: 1.4; }
+:lang(ja) h3 { line-height: 1.45; }
+
+:lang(ja) h1,
+:lang(ja) h2,
+:lang(ja) h3 {
+  word-break: auto-phrase;
+}
+
+/* === Mixed-script enhancement (DESIGN.md §5) === */
+
+:lang(ja) em,
+:lang(ja) strong,
+:lang(ja) a,
+:lang(ja) .latin,
+:lang(ja) .product-name {
+  word-break: normal;
+  overflow-wrap: anywhere;
+}
+
+/* === Tabular figures for numeric data === */
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* === Motion (DESIGN.md §10) === */
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

@@ -1,0 +1,45 @@
+name: Daily Batch
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # 毎日 00:00 JST (15:00 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  batch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-go@v6
+        with:
+          go-version-file: batch/go.mod
+          cache-dependency-path: batch/go.sum
+
+      - name: Restore SQLite cache
+        uses: actions/cache@v5
+        with:
+          path: batch/starise.db
+          key: starise-db-${{ github.ref_name }}
+          restore-keys: starise-db-
+
+      - name: Run batch
+        working-directory: batch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: go run . run --seed-file seeds.txt --out-dir ../data
+
+      - name: Commit data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes"
+          else
+            git commit -m "chore: update star data $(date -u +%Y-%m-%d)"
+            git push
+          fi

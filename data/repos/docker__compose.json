@@ -1,0 +1,25 @@
+{
+  "owner": "docker",
+  "name": "compose",
+  "description": "Define and run multi-container applications with Docker",
+  "url": "https://github.com/docker/compose",
+  "homepage_url": "https://docs.docker.com/compose/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "docker",
+    "docker-compose",
+    "orchestration",
+    "go",
+    "golang"
+  ],
+  "fork_count": 5769,
+  "star_count": 37265,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 37265
+    }
+  ]
+}

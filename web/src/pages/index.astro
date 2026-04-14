@@ -1,0 +1,38 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { RankingTable } from '../components/RankingTable';
+import type { RankingsData } from '../lib/types';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+
+let rankings: RankingsData = {
+  updated_at: new Date().toISOString(),
+  rankings: { "7d": [], "30d": [] }
+};
+
+try {
+  const filePath = path.join(process.cwd(), 'public', 'data', 'rankings.json');
+  const text = await fs.readFile(filePath, 'utf-8');
+  rankings = JSON.parse(text);
+} catch {
+  // no data available yet
+}
+---
+
+<Layout title="starise — GitHub Star ランキング">
+  <div class="space-y-8">
+    <div>
+      <h1 class="text-[28px] font-bold">GitHub Star ランキング</h1>
+      <p class="text-text-secondary text-sm mt-2">
+        直近のスター増加率で注目の OSS をランキング
+      </p>
+    </div>
+
+    <RankingTable
+      client:load
+      rankings={rankings.rankings}
+      updatedAt={rankings.updated_at}
+      basePath={import.meta.env.BASE_URL}
+    />
+  </div>
+</Layout>
