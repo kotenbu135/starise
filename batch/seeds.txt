@@ -6,11 +6,30 @@ golang/go
 gin-gonic/gin
 gofiber/fiber
 labstack/echo
+go-chi/chi
+gorilla/mux
+hashicorp/consul
+hashicorp/vault
+hashicorp/nomad
+etcd-io/etcd
+CockroachDB/cockroach
+go-gitea/gitea
+minio/minio
+traefik/traefik
+moby/moby
 
 # Rust
 rust-lang/rust
 denoland/deno
 tauri-apps/tauri
+starship/starship
+alacritty/alacritty
+helix-editor/helix
+lapce/lapce
+astral-sh/ruff
+astral-sh/uv
+BurntSushi/ripgrep
+swc-project/swc
 
 # JavaScript / TypeScript
 vercel/next.js
@@ -18,18 +37,99 @@ sveltejs/svelte
 vuejs/vue
 facebook/react
 withastro/astro
+remix-run/remix
+nuxt/nuxt
+angular/angular
+oven-sh/bun
+denoland/fresh
+shadcn-ui/ui
+tailwindlabs/tailwindcss
+storybookjs/storybook
+trpc/trpc
+prisma/prisma
 
 # Python
 python/cpython
 fastapi/fastapi
 django/django
+pallets/flask
+tiangolo/typer
+pydantic/pydantic
+python-poetry/poetry
+psf/requests
+scikit-learn/scikit-learn
+pandas-dev/pandas
+numpy/numpy
 
-# Tools
-docker/compose
+# Database
+postgres/postgres
+redis/redis
+sqlite/sqlite
+cockroachdb/cockroach
+dgraph-io/dgraph
+pingcap/tidb
+questdb/questdb
+timescale/timescaledb
+
+# DevOps / CI / Cloud Native
 kubernetes/kubernetes
+docker/compose
 grafana/grafana
+argoproj/argo-cd
+hashicorp/terraform
+pulumi/pulumi
+actions/runner
+nektos/act
+istio/istio
+envoyproxy/envoy
+prometheus/prometheus
+linkerd/linkerd2
+cilium/cilium
+crossplane/crossplane
+
+# Mobile
+flutter/flutter
+facebook/react-native
+expo/expo
+nicklockwood/SwiftFormat
+realm/realm-swift
+nicklockwood/iVersion
+
+# Security
+OWASP/CheatSheetSeries
+aquasecurity/trivy
+falcosecurity/falco
+zaproxy/zaproxy
+projectdiscovery/nuclei
+trufflesecurity/trufflehog
+
+# Web Framework (multi-language)
+rails/rails
+laravel/laravel
+spring-projects/spring-boot
+nestjs/nest
+
+# Editor / Tool
+neovim/neovim
+zed-industries/zed
+wez/wezterm
+jesseduffield/lazygit
+junegunn/fzf
+charmbracelet/bubbletea
+sharkdp/bat
+sharkdp/fd
 
 # AI / ML
 ollama/ollama
 langchain-ai/langchain
 huggingface/transformers
+AUTOMATIC1111/stable-diffusion-webui
+ggerganov/llama.cpp
+vllm-project/vllm
+openai/openai-python
+anthropics/anthropic-sdk-python
+microsoft/autogen
+crewAIInc/crewAI
+run-llama/llama_index
+chroma-core/chroma
+qdrant/qdrant

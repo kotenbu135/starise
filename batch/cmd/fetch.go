@@ -55,60 +55,94 @@ func runFetch(cmd *cobra.Command, args []string) error {
 	return nil
 }
 
+const batchSize = 20
+
 func fetchRepos(client *github.Client, database *sql.DB, targets []string, today string) {
+	for i := 0; i < len(targets); i += batchSize {
+		end := i + batchSize
+		if end > len(targets) {
+			end = len(targets)
+		}
+		batch := targets[i:end]
+
+		result, err := client.FetchReposBatch(batch)
+		if err != nil {
+			log.Printf("ERROR: batch fetch [%d..%d]: %v, falling back to single", i, end-1, err)
+			fetchReposSingle(client, database, batch, today)
+			continue
+		}
+
+		for _, slug := range batch {
+			repo, ok := result.Repos[slug]
+			if !ok {
+				log.Printf("WARN: batch miss %s", slug)
+				continue
+			}
+			saveRepo(database, slug, repo, today)
+		}
+
+		log.Printf("Batch [%d..%d]: %d/%d OK", i, end-1, len(result.Repos), len(batch))
+		client.CheckRateLimit(result.RateLimit)
+	}
+}
+
+// fetchReposSingle is the fallback for failed batches.
+func fetchReposSingle(client *github.Client, database *sql.DB, targets []string, today string) {
 	for _, target := range targets {
 		parts := strings.SplitN(target, "/", 2)
 		if len(parts) != 2 {
 			log.Printf("WARN: skip invalid: %s", target)
 			continue
 		}
-		owner, name := parts[0], parts[1]
 
-		result, err := client.FetchRepo(owner, name)
+		result, err := client.FetchRepo(parts[0], parts[1])
 		if err != nil {
 			log.Printf("ERROR: fetch %s: %v", target, err)
 			continue
 		}
 
-		repo := result.Repo
-		topics, _ := json.Marshal(extractTopics(repo))
-
-		r := &db.Repository{
-			GitHubID:    repo.ID,
-			Owner:       repo.Owner.Login,
-			Name:        repo.Name,
-			Description: deref(repo.Description),
-			URL:         repo.URL,
-			HomepageURL: deref(repo.HomepageURL),
-			Language:    repoLanguage(repo),
-			License:     repoLicense(repo),
-			Topics:      string(topics),
-			IsArchived:  repo.IsArchived,
-			IsFork:      repo.IsFork,
-			ForkCount:   repo.ForkCount,
-			CreatedAt:   repo.CreatedAt,
-			UpdatedAt:   repo.UpdatedAt,
-			PushedAt:    repo.PushedAt,
-		}
-
-		repoID, err := db.UpsertRepository(database, r)
-		if err != nil {
-			log.Printf("ERROR: upsert %s: %v", target, err)
-			continue
-		}
-
-		if err := db.UpsertDailyStar(database, &db.DailyStar{
-			RepoID:       repoID,
-			RecordedDate: today,
-			StarCount:    repo.StargazerCount,
-		}); err != nil {
-			log.Printf("ERROR: upsert star %s: %v", target, err)
-			continue
-		}
-
-		log.Printf("OK: %s (%d stars)", target, repo.StargazerCount)
+		saveRepo(database, target, result.Repo, today)
 		client.CheckRateLimit(result.RateLimit)
 	}
+}
+
+func saveRepo(database *sql.DB, slug string, repo github.RepoData, today string) {
+	topics, _ := json.Marshal(extractTopics(repo))
+
+	r := &db.Repository{
+		GitHubID:    repo.ID,
+		Owner:       repo.Owner.Login,
+		Name:        repo.Name,
+		Description: deref(repo.Description),
+		URL:         repo.URL,
+		HomepageURL: deref(repo.HomepageURL),
+		Language:    repoLanguage(repo),
+		License:     repoLicense(repo),
+		Topics:      string(topics),
+		IsArchived:  repo.IsArchived,
+		IsFork:      repo.IsFork,
+		ForkCount:   repo.ForkCount,
+		CreatedAt:   repo.CreatedAt,
+		UpdatedAt:   repo.UpdatedAt,
+		PushedAt:    repo.PushedAt,
+	}
+
+	repoID, err := db.UpsertRepository(database, r)
+	if err != nil {
+		log.Printf("ERROR: upsert %s: %v", slug, err)
+		return
+	}
+
+	if err := db.UpsertDailyStar(database, &db.DailyStar{
+		RepoID:       repoID,
+		RecordedDate: today,
+		StarCount:    repo.StargazerCount,
+	}); err != nil {
+		log.Printf("ERROR: upsert star %s: %v", slug, err)
+		return
+	}
+
+	log.Printf("OK: %s (%d stars)", slug, repo.StargazerCount)
 }
 
 func mergeTargets(seeds []string, database *sql.DB, today string) []string {

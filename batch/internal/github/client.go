@@ -6,9 +6,12 @@ import (
 	"fmt"
 	"io"
 	"log"
+	"math/rand"
 	"net/http"
 	"time"
 )
+
+const maxRetries = 3
 
 const endpoint = "https://api.github.com/graphql"
 
@@ -133,39 +136,57 @@ func (c *Client) do(query string, vars map[string]any) (json.RawMessage, error) 
 		return nil, fmt.Errorf("marshal request: %w", err)
 	}
 
-	req, err := http.NewRequest("POST", endpoint, bytes.NewReader(reqBody))
-	if err != nil {
-		return nil, fmt.Errorf("new request: %w", err)
-	}
-	req.Header.Set("Authorization", "bearer "+c.token)
-	req.Header.Set("Content-Type", "application/json")
+	var lastErr error
+	for attempt := 0; attempt < maxRetries; attempt++ {
+		if attempt > 0 {
+			wait := time.Duration(1<<(attempt-1)) * time.Second
+			jitter := time.Duration(rand.Intn(500)) * time.Millisecond
+			log.Printf("Retry %d/%d after %v", attempt, maxRetries-1, wait+jitter)
+			time.Sleep(wait + jitter)
+		}
 
-	resp, err := c.httpClient.Do(req)
-	if err != nil {
-		return nil, fmt.Errorf("http do: %w", err)
-	}
-	defer resp.Body.Close()
+		req, err := http.NewRequest("POST", endpoint, bytes.NewReader(reqBody))
+		if err != nil {
+			return nil, fmt.Errorf("new request: %w", err)
+		}
+		req.Header.Set("Authorization", "bearer "+c.token)
+		req.Header.Set("Content-Type", "application/json")
 
-	respBody, err := io.ReadAll(resp.Body)
-	if err != nil {
-		return nil, fmt.Errorf("read body: %w", err)
+		resp, err := c.httpClient.Do(req)
+		if err != nil {
+			lastErr = fmt.Errorf("http do: %w", err)
+			continue // network error → retry
+		}
+
+		respBody, err := io.ReadAll(resp.Body)
+		resp.Body.Close()
+		if err != nil {
+			lastErr = fmt.Errorf("read body: %w", err)
+			continue
+		}
+
+		if resp.StatusCode == 502 || resp.StatusCode == 503 {
+			lastErr = fmt.Errorf("server error (status %d)", resp.StatusCode)
+			continue // transient server error → retry
+		}
+		if resp.StatusCode == 403 || resp.StatusCode == 429 {
+			return nil, fmt.Errorf("rate limited (status %d): %s", resp.StatusCode, respBody)
+		}
+		if resp.StatusCode != 200 {
+			return nil, fmt.Errorf("http %d: %s", resp.StatusCode, respBody)
+		}
+
+		var gqlResp graphQLResponse
+		if err := json.Unmarshal(respBody, &gqlResp); err != nil {
+			return nil, fmt.Errorf("unmarshal response: %w", err)
+		}
+		if len(gqlResp.Errors) > 0 {
+			return nil, fmt.Errorf("graphql error: %s", gqlResp.Errors[0].Message)
+		}
+		return gqlResp.Data, nil
 	}
 
-	if resp.StatusCode == 403 || resp.StatusCode == 429 {
-		return nil, fmt.Errorf("rate limited (status %d): %s", resp.StatusCode, respBody)
-	}
-	if resp.StatusCode != 200 {
-		return nil, fmt.Errorf("http %d: %s", resp.StatusCode, respBody)
-	}
-
-	var gqlResp graphQLResponse
-	if err := json.Unmarshal(respBody, &gqlResp); err != nil {
-		return nil, fmt.Errorf("unmarshal response: %w", err)
-	}
-	if len(gqlResp.Errors) > 0 {
-		return nil, fmt.Errorf("graphql error: %s", gqlResp.Errors[0].Message)
-	}
-	return gqlResp.Data, nil
+	return nil, fmt.Errorf("max retries exceeded: %w", lastErr)
 }
 
 type SearchResult struct {
@@ -264,6 +285,106 @@ func (c *Client) SearchRepos(query string, perPage int, after string) (*SearchRe
 		EndCursor: result.Search.PageInfo.EndCursor,
 		RateLimit: result.RateLimit,
 	}, nil
+}
+
+// FetchReposBatch fetches up to 20 repos in a single GraphQL request using aliases.
+func (c *Client) FetchReposBatch(slugs []string) (*BatchResult, error) {
+	if len(slugs) == 0 {
+		return &BatchResult{Repos: make(map[string]RepoData)}, nil
+	}
+	if len(slugs) > 20 {
+		slugs = slugs[:20]
+	}
+
+	vars := make(map[string]any)
+	var q bytes.Buffer
+
+	// Variable declarations
+	q.WriteString("query(")
+	first := true
+	for i, slug := range slugs {
+		if splitSlug(slug) == nil {
+			continue
+		}
+		if !first {
+			q.WriteString(", ")
+		}
+		fmt.Fprintf(&q, "$owner%d: String!, $name%d: String!", i, i)
+		first = false
+	}
+	q.WriteString(") {")
+
+	// Aliased repository fields
+	for i, slug := range slugs {
+		parts := splitSlug(slug)
+		if parts == nil {
+			continue
+		}
+		vars[fmt.Sprintf("owner%d", i)] = parts[0]
+		vars[fmt.Sprintf("name%d", i)] = parts[1]
+		fmt.Fprintf(&q, "\n  repo%d: repository(owner: $owner%d, name: $name%d) { ...RepoFields }", i, i, i)
+	}
+
+	q.WriteString(`
+  rateLimit { remaining resetAt }
+}
+fragment RepoFields on Repository {
+  id databaseId name nameWithOwner
+  owner { login } description url homepageUrl
+  stargazerCount forkCount
+  primaryLanguage { name }
+  repositoryTopics(first: 20) { nodes { topic { name } } }
+  licenseInfo { spdxId name }
+  isArchived isFork createdAt updatedAt pushedAt
+}`)
+
+	body, err := c.do(q.String(), vars)
+	if err != nil {
+		return nil, err
+	}
+
+	var raw map[string]json.RawMessage
+	if err := json.Unmarshal(body, &raw); err != nil {
+		return nil, fmt.Errorf("unmarshal batch: %w", err)
+	}
+
+	result := &BatchResult{Repos: make(map[string]RepoData)}
+	for i, slug := range slugs {
+		key := fmt.Sprintf("repo%d", i)
+		data, ok := raw[key]
+		if !ok || string(data) == "null" {
+			continue
+		}
+		var repo RepoData
+		if err := json.Unmarshal(data, &repo); err != nil {
+			log.Printf("WARN: unmarshal batch repo %s: %v", slug, err)
+			continue
+		}
+		result.Repos[slug] = repo
+	}
+
+	if rlData, ok := raw["rateLimit"]; ok {
+		json.Unmarshal(rlData, &result.RateLimit)
+	}
+
+	return result, nil
+}
+
+type BatchResult struct {
+	Repos     map[string]RepoData
+	RateLimit RateLimit
+}
+
+func splitSlug(slug string) []string {
+	for i, c := range slug {
+		if c == '/' {
+			if i > 0 && i < len(slug)-1 {
+				return []string{slug[:i], slug[i+1:]}
+			}
+			return nil
+		}
+	}
+	return nil
 }
 
 func (c *Client) CheckRateLimit(rl RateLimit) {

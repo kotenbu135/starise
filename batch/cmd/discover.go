@@ -75,34 +75,61 @@ func discoverBySearch(client *github.Client, database *sql.DB, today string, max
 	active := now.AddDate(0, -6, 0).Format("2006-01-02")   // 6ヶ月前
 	newRepo := now.AddDate(0, 0, -90).Format("2006-01-02") // 90日前
 
-	queries := []string{
-		// Star レンジ分割（既存改善）
-		"stars:>=10000 fork:false archived:false",
-		"stars:5000..9999 fork:false archived:false",
-		"stars:1000..4999 fork:false archived:false",
-		fmt.Sprintf("stars:100..999 fork:false archived:false pushed:>%s", active),
+	base := "fork:false archived:false"
 
-		// 新規リポ探索（バズ初期捕捉）
-		fmt.Sprintf("stars:>50 fork:false archived:false created:>%s", newRepo),
-		fmt.Sprintf("stars:10..50 fork:false archived:false created:>%s pushed:>%s", newRepo, recent),
+	// Star レンジ細分化（1000件制限回避）
+	starRanges := []string{
+		"stars:>=50000",
+		"stars:20000..49999",
+		"stars:10000..19999",
+		"stars:7000..9999",
+		"stars:5000..6999",
+		"stars:2000..4999",
+		"stars:1000..1999",
+		fmt.Sprintf("stars:600..999 pushed:>%s", active),
+		fmt.Sprintf("stars:300..599 pushed:>%s", active),
+		fmt.Sprintf("stars:100..299 pushed:>%s", active),
+	}
 
-		// 言語別探索（Search API 1000件制限回避）
-		fmt.Sprintf("language:Python stars:>100 fork:false archived:false pushed:>%s", active),
-		fmt.Sprintf("language:TypeScript stars:>100 fork:false archived:false pushed:>%s", active),
-		fmt.Sprintf("language:JavaScript stars:>100 fork:false archived:false pushed:>%s", active),
-		fmt.Sprintf("language:Go stars:>100 fork:false archived:false pushed:>%s", active),
-		fmt.Sprintf("language:Rust stars:>100 fork:false archived:false pushed:>%s", active),
-		fmt.Sprintf("language:Java stars:>100 fork:false archived:false pushed:>%s", active),
-		fmt.Sprintf("language:C++ stars:>100 fork:false archived:false pushed:>%s", active),
-		fmt.Sprintf("language:C# stars:>100 fork:false archived:false pushed:>%s", active),
-		fmt.Sprintf("language:Swift stars:>100 fork:false archived:false pushed:>%s", active),
-		fmt.Sprintf("language:Kotlin stars:>100 fork:false archived:false pushed:>%s", active),
+	// 言語リスト（主要＋追加）
+	searchLanguages := []string{
+		"Python", "TypeScript", "JavaScript", "Go", "Rust",
+		"Java", "C++", "C#", "Swift", "Kotlin",
+		"Dart", "Ruby", "PHP", "Scala", "Elixir",
+	}
 
-		// トピック別探索（急成長分野）
-		fmt.Sprintf("topic:llm stars:>30 fork:false archived:false pushed:>%s", recent),
-		fmt.Sprintf("topic:ai-agent stars:>30 fork:false archived:false pushed:>%s", recent),
-		fmt.Sprintf("topic:generative-ai stars:>30 fork:false archived:false pushed:>%s", recent),
-		fmt.Sprintf("topic:machine-learning stars:>100 fork:false archived:false pushed:>%s", active),
+	var queries []string
+
+	// Star レンジ単体（全言語）
+	for _, sr := range starRanges {
+		queries = append(queries, fmt.Sprintf("%s %s", sr, base))
+	}
+
+	// 言語 × Star レンジ（100+ 帯域を細分化）
+	langStarRanges := []string{
+		"stars:>=10000",
+		"stars:1000..9999",
+		fmt.Sprintf("stars:100..999 pushed:>%s", active),
+	}
+	for _, lang := range searchLanguages {
+		for _, sr := range langStarRanges {
+			queries = append(queries, fmt.Sprintf("language:%s %s %s", lang, sr, base))
+		}
+	}
+
+	// 新規リポ探索（バズ初期捕捉）
+	queries = append(queries,
+		fmt.Sprintf("stars:>50 %s created:>%s", base, newRepo),
+		fmt.Sprintf("stars:10..50 %s created:>%s pushed:>%s", base, newRepo, recent),
+	)
+
+	// トピック別探索（急成長分野）
+	topics := []string{
+		"llm", "ai-agent", "generative-ai", "machine-learning",
+		"large-language-model", "rag", "vector-database",
+	}
+	for _, t := range topics {
+		queries = append(queries, fmt.Sprintf("topic:%s stars:>30 %s pushed:>%s", t, base, recent))
 	}
 
 	totalAdded := 0
@@ -189,8 +216,17 @@ func saveDiscoveredRepo(database *sql.DB, repo github.RepoData, today string) er
 
 var trendingLanguages = []string{
 	"", // 全言語
+	// Tier 1: 主要言語
 	"python", "typescript", "javascript", "go", "rust",
 	"java", "c++", "c#", "swift", "kotlin",
+	// Tier 2: Web / スクリプト
+	"ruby", "php", "dart", "elixir", "scala",
+	// Tier 3: システム / 新興
+	"zig", "nim", "haskell", "ocaml", "clojure", "lua",
+	// Tier 4: データ / 科学
+	"r", "julia",
+	// Tier 5: インフラ / 設定
+	"shell", "dockerfile", "hcl", "nix",
 }
 
 func discoverByTrending(client *github.Client, database *sql.DB, today string) (int, error) {
