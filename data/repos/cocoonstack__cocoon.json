@@ -1,0 +1,38 @@
+{
+  "owner": "cocoonstack",
+  "name": "cocoon",
+  "description": "Lightweight MicroVM engine built on Cloud Hypervisor. Features include OCI and cloud image support, instant snapshot and clone via reflink, Windows 11 guest support, CNI networking with TC redirect, memory balloon, hugepages, and a Docker-like CLI. Designed for AI sandboxing, cloud desktops, and ephemeral dev environments.",
+  "url": "https://github.com/cocoonstack/cocoon",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "virtual-machine",
+    "clone",
+    "cloud-hypervisor",
+    "cni",
+    "cocoon",
+    "kvm",
+    "microvm",
+    "snapshot",
+    "windows",
+    "ai",
+    "ai-sandbox",
+    "cloud-desktop",
+    "container",
+    "dev-environment",
+    "linux",
+    "oci",
+    "qcow2",
+    "sandbox"
+  ],
+  "fork_count": 0,
+  "star_count": 48,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 48
+    }
+  ]
+}

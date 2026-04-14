@@ -1,0 +1,29 @@
+{
+  "owner": "supabase",
+  "name": "cli",
+  "description": "Supabase CLI. Manage postgres migrations, run Supabase locally, deploy edge functions. Postgres backups. Generating types from your database schema.",
+  "url": "https://github.com/supabase/cli",
+  "homepage_url": "https://supabase.com/docs/reference/cli/about",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "cli",
+    "database",
+    "database-management",
+    "dbms",
+    "environment",
+    "local",
+    "postgres",
+    "postgresql",
+    "supabase"
+  ],
+  "fork_count": 427,
+  "star_count": 14908,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 14908
+    }
+  ]
+}

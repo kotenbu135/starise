@@ -1,0 +1,38 @@
+{
+  "owner": "unicorn-engine",
+  "name": "unicorn",
+  "description": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
+  "url": "https://github.com/unicorn-engine/unicorn",
+  "homepage_url": "http://www.unicorn-engine.org",
+  "language": "C",
+  "license": "GPL-2.0",
+  "topics": [
+    "emulator",
+    "framework",
+    "cpu",
+    "arm",
+    "arm64",
+    "mips",
+    "m68k",
+    "sparc",
+    "x86",
+    "x86-64",
+    "security",
+    "reverse-engineering",
+    "riscv",
+    "powerpc",
+    "s390x",
+    "systemz",
+    "tricore",
+    "cpu-emulator"
+  ],
+  "fork_count": 1486,
+  "star_count": 8897,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 8897
+    }
+  ]
+}

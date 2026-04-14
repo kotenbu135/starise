@@ -1,0 +1,32 @@
+{
+  "owner": "openvinotoolkit",
+  "name": "model_server",
+  "description": "A scalable inference server for models optimized with OpenVINO™",
+  "url": "https://github.com/openvinotoolkit/model_server",
+  "homepage_url": "https://docs.openvino.ai/2026/model-server/ovms_what_is_openvino_model_server.html",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [
+    "openvino",
+    "inference",
+    "ai",
+    "edge",
+    "cloud",
+    "deep-learning",
+    "serving",
+    "dag",
+    "kubernetes",
+    "machine-learning",
+    "model-serving",
+    "genai"
+  ],
+  "fork_count": 248,
+  "star_count": 855,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 855
+    }
+  ]
+}

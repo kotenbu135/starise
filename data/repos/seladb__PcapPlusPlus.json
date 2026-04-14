@@ -1,0 +1,40 @@
+{
+  "owner": "seladb",
+  "name": "PcapPlusPlus",
+  "description": "PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK, AF_XDP and PF_RING.",
+  "url": "https://github.com/seladb/PcapPlusPlus",
+  "homepage_url": "https://pcapplusplus.github.io/",
+  "language": "C++",
+  "license": "Unlicense",
+  "topics": [
+    "pf-ring",
+    "dpdk",
+    "packet-parsing",
+    "winpcap",
+    "pcap-files",
+    "pcap",
+    "packet-processing",
+    "cpp",
+    "libpcap",
+    "multiplatform",
+    "linux",
+    "mac-osx",
+    "windows",
+    "networking",
+    "network-forensics",
+    "network-tools",
+    "tcp-reassembly",
+    "packet-crafting",
+    "pcapplusplus",
+    "ebpf"
+  ],
+  "fork_count": 736,
+  "star_count": 3071,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3071
+    }
+  ]
+}

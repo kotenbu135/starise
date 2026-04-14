@@ -1,0 +1,26 @@
+{
+  "owner": "RightNow-AI",
+  "name": "autokernel",
+  "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
+  "url": "https://github.com/RightNow-AI/autokernel",
+  "homepage_url": "https://www.rightnowai.co/forge",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "autoresearch",
+    "cuda",
+    "gpu",
+    "kernel-optimization",
+    "pytorch",
+    "triton"
+  ],
+  "fork_count": 116,
+  "star_count": 1201,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1201
+    }
+  ]
+}

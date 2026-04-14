@@ -1,0 +1,26 @@
+{
+  "owner": "certbot",
+  "name": "certbot",
+  "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.",
+  "url": "https://github.com/certbot/certbot",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "NOASSERTION",
+  "topics": [
+    "acme",
+    "acme-client",
+    "certbot",
+    "certificate",
+    "letsencrypt",
+    "python"
+  ],
+  "fork_count": 3496,
+  "star_count": 32988,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 32988
+    }
+  ]
+}

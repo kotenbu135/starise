@@ -1,0 +1,23 @@
+{
+  "owner": "helmfile",
+  "name": "helmfile",
+  "description": "Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",
+  "url": "https://github.com/helmfile/helmfile",
+  "homepage_url": "https://helmfile.readthedocs.io",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "kubernetes",
+    "helm",
+    "kustomize"
+  ],
+  "fork_count": 337,
+  "star_count": 5051,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 5051
+    }
+  ]
+}

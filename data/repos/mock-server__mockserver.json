@@ -1,0 +1,29 @@
+{
+  "owner": "mock-server",
+  "name": "mockserver",
+  "description": "MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).",
+  "url": "https://github.com/mock-server/mockserver",
+  "homepage_url": "http://mock-server.com",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "mock-server",
+    "proxy",
+    "java-client",
+    "javascript-client",
+    "node-module",
+    "node-client",
+    "ruby-client",
+    "homebrew",
+    "grunt-plugin"
+  ],
+  "fork_count": 1103,
+  "star_count": 4864,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 4864
+    }
+  ]
+}

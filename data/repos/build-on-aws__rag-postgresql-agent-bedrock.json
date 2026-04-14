@@ -1,0 +1,33 @@
+{
+  "owner": "build-on-aws",
+  "name": "rag-postgresql-agent-bedrock",
+  "description": "This application is built in four stages using infrastructure as code with CDK with Python to deploy. In the first stage, an Amazon Aurora PostgreSQL vector database is set up. In the second stage, the Knowledge Base for Amazon Bedrock is created using the established database. The third stage involves creating an Amazon",
+  "url": "https://github.com/build-on-aws/rag-postgresql-agent-bedrock",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT-0",
+  "topics": [
+    "aurora",
+    "bedrock",
+    "dynamodb",
+    "lambda",
+    "postgresql",
+    "python3",
+    "whatsapp",
+    "embeddings",
+    "llm",
+    "cdk",
+    "amazon",
+    "aws",
+    "generative-ai"
+  ],
+  "fork_count": 11,
+  "star_count": 35,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 35
+    }
+  ]
+}

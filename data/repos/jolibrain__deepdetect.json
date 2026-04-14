@@ -1,0 +1,38 @@
+{
+  "owner": "jolibrain",
+  "name": "deepdetect",
+  "description": "Deep Learning API and Server in C++14 support for PyTorch,TensorRT, Dlib, NCNN, Tensorflow, XGBoost and TSNE",
+  "url": "https://github.com/jolibrain/deepdetect",
+  "homepage_url": "https://www.deepdetect.com/",
+  "language": "C++",
+  "license": "NOASSERTION",
+  "topics": [
+    "deep-learning",
+    "machine-learning",
+    "caffe",
+    "xgboost",
+    "rest-api",
+    "tsne",
+    "object-detection",
+    "image-segmentation",
+    "image-classification",
+    "neural-nets",
+    "gpu",
+    "ncnn",
+    "tensorrt",
+    "time-series",
+    "pytorch",
+    "tensorrt-conversion",
+    "tensorrt-inference",
+    "image-search"
+  ],
+  "fork_count": 551,
+  "star_count": 2549,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 2549
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "owner": "celery",
+  "name": "celery",
+  "description": "Distributed Task Queue (development branch)",
+  "url": "https://github.com/celery/celery",
+  "homepage_url": "https://docs.celeryq.dev",
+  "language": "Python",
+  "license": "NOASSERTION",
+  "topics": [
+    "python",
+    "task-manager",
+    "task-scheduler",
+    "task-runner",
+    "queue-workers",
+    "queued-jobs",
+    "queue-tasks",
+    "amqp",
+    "redis",
+    "sqs",
+    "sqs-queue",
+    "python3",
+    "python-library",
+    "redis-queue"
+  ],
+  "fork_count": 5007,
+  "star_count": 28354,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 28354
+    }
+  ]
+}

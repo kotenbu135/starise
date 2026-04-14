@@ -1,0 +1,29 @@
+{
+  "owner": "xtaci",
+  "name": "gaio",
+  "description": " High-performance, minimalist async-io (proactor) networking for Golang.",
+  "url": "https://github.com/xtaci/gaio",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "asyncio",
+    "proactor",
+    "c10k",
+    "epoll",
+    "kqueue",
+    "eventfd",
+    "netpoll",
+    "context-switching",
+    "syscall-dup"
+  ],
+  "fork_count": 90,
+  "star_count": 990,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 990
+    }
+  ]
+}

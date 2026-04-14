@@ -1,0 +1,25 @@
+{
+  "owner": "DataDog",
+  "name": "glommio",
+  "description": "Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.",
+  "url": "https://github.com/DataDog/glommio",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "rust",
+    "linux",
+    "thread-per-core",
+    "iouring",
+    "async"
+  ],
+  "fork_count": 192,
+  "star_count": 3558,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3558
+    }
+  ]
+}

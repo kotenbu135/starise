@@ -1,0 +1,30 @@
+{
+  "owner": "resque",
+  "name": "resque",
+  "description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",
+  "url": "https://github.com/resque/resque",
+  "homepage_url": "http://resque.github.io/",
+  "language": "Ruby",
+  "license": "MIT",
+  "topics": [
+    "queue",
+    "background-jobs",
+    "job-scheduler",
+    "ruby",
+    "job-queue",
+    "asynchronous-tasks",
+    "asynctask",
+    "background-worker",
+    "background-service",
+    "job-management"
+  ],
+  "fork_count": 1661,
+  "star_count": 9471,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 9471
+    }
+  ]
+}

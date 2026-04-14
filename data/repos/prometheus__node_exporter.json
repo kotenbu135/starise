@@ -1,0 +1,29 @@
+{
+  "owner": "prometheus",
+  "name": "node_exporter",
+  "description": "Exporter for machine metrics",
+  "url": "https://github.com/prometheus/node_exporter",
+  "homepage_url": "https://prometheus.io/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "prometheus-exporter",
+    "prometheus",
+    "node-metrics",
+    "machine-metrics",
+    "host-metrics",
+    "metrics",
+    "procfs",
+    "system-information",
+    "system-metrics"
+  ],
+  "fork_count": 2628,
+  "star_count": 13311,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 13311
+    }
+  ]
+}

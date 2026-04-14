@@ -1,0 +1,40 @@
+{
+  "owner": "centrifugal",
+  "name": "centrifugo",
+  "description": "Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once and forever.",
+  "url": "https://github.com/centrifugal/centrifugo",
+  "homepage_url": "https://centrifugal.dev",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "websocket",
+    "redis",
+    "real-time",
+    "messaging",
+    "scalability",
+    "eventsource",
+    "streaming",
+    "http-streaming",
+    "grpc",
+    "pubsub",
+    "http3",
+    "websockets",
+    "webtransport",
+    "sse",
+    "server-sent-events",
+    "ably",
+    "alternative",
+    "pubnub",
+    "pusher",
+    "socket-io"
+  ],
+  "fork_count": 693,
+  "star_count": 10165,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 10165
+    }
+  ]
+}

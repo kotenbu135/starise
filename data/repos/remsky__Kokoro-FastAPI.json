@@ -1,0 +1,33 @@
+{
+  "owner": "remsky",
+  "name": "Kokoro-FastAPI",
+  "description": "Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching",
+  "url": "https://github.com/remsky/Kokoro-FastAPI",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "fastapi",
+    "tts",
+    "tts-api",
+    "huggingface-spaces",
+    "kokoro",
+    "kokoro-tts",
+    "onnx",
+    "onnxruntime",
+    "pytorch",
+    "openai-compatible-api",
+    "uv",
+    "openwebui",
+    "sillytavern"
+  ],
+  "fork_count": 784,
+  "star_count": 4725,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 4725
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "owner": "eclipse-openj9",
+  "name": "openj9",
+  "description": "Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.",
+  "url": "https://github.com/eclipse-openj9/openj9",
+  "homepage_url": "",
+  "language": "Java",
+  "license": "NOASSERTION",
+  "topics": [
+    "java",
+    "jvm",
+    "eclipse-openj9",
+    "compiler",
+    "garbage-collector",
+    "gc",
+    "jit",
+    "interpreter",
+    "runtime",
+    "virtual-machine",
+    "hacktoberfest"
+  ],
+  "fork_count": 783,
+  "star_count": 3509,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3509
+    }
+  ]
+}

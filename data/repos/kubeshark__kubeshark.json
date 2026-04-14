@@ -1,0 +1,40 @@
+{
+  "owner": "kubeshark",
+  "name": "kubeshark",
+  "description": "eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.",
+  "url": "https://github.com/kubeshark/kubeshark",
+  "homepage_url": "https://kubeshark.com",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "kubernetes",
+    "golang",
+    "rest",
+    "grpc",
+    "devops",
+    "sniffer",
+    "observability",
+    "wireshark",
+    "cloud-native",
+    "docker",
+    "incident-response",
+    "ebpf",
+    "mcp",
+    "network-analysis",
+    "network-engineering",
+    "network-observability",
+    "network-security",
+    "pcap",
+    "root-cause-analysis",
+    "sre"
+  ],
+  "fork_count": 529,
+  "star_count": 11869,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 11869
+    }
+  ]
+}

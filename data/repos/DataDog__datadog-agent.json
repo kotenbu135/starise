@@ -1,0 +1,33 @@
+{
+  "owner": "DataDog",
+  "name": "datadog-agent",
+  "description": "Main repository for Datadog Agent",
+  "url": "https://github.com/DataDog/datadog-agent",
+  "homepage_url": "https://docs.datadoghq.com/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "monitoring",
+    "go",
+    "datadog",
+    "apm-agent",
+    "apm-instrumentation",
+    "distributed-tracing",
+    "logging",
+    "metrics",
+    "observability",
+    "open-telemetry",
+    "otel",
+    "profiling",
+    "tracing"
+  ],
+  "fork_count": 1405,
+  "star_count": 3565,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3565
+    }
+  ]
+}

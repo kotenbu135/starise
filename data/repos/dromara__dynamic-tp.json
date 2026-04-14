@@ -1,0 +1,37 @@
+{
+  "owner": "dromara",
+  "name": "dynamic-tp",
+  "description": "🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).",
+  "url": "https://github.com/dromara/dynamic-tp",
+  "homepage_url": "https://dynamictp.cn",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "java",
+    "dynamic-threadpool",
+    "spring",
+    "nacos",
+    "apollo",
+    "micrometer",
+    "consul",
+    "springcloud",
+    "threadpool",
+    "threadpoolexecutor",
+    "thread",
+    "zookeeper",
+    "dubbo",
+    "rocketmq",
+    "grpc",
+    "monitor",
+    "springboot"
+  ],
+  "fork_count": 856,
+  "star_count": 4761,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 4761
+    }
+  ]
+}

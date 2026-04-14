@@ -1,0 +1,32 @@
+{
+  "owner": "tansu-io",
+  "name": "tansu",
+  "description": "Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake",
+  "url": "https://github.com/tansu-io/tansu",
+  "homepage_url": "https://docs.tansu.io",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "built-with-rust",
+    "postgres",
+    "postgresql",
+    "s3",
+    "apache-iceberg",
+    "apache-kafka",
+    "apache-arrow",
+    "datafusion",
+    "parquet",
+    "delta-lake",
+    "datalake",
+    "sqlite"
+  ],
+  "fork_count": 62,
+  "star_count": 1730,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1730
+    }
+  ]
+}

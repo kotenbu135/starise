@@ -1,0 +1,28 @@
+{
+  "owner": "codemod",
+  "name": "codemod",
+  "description": "The CLI for codemods: scaffold, share, and run multi-step transformations of any size. First-class ast-grep support. Fast, reliable, polyglot.",
+  "url": "https://github.com/codemod/codemod",
+  "homepage_url": "https://go.codemod.com/docs",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "codemod",
+    "jscodeshift",
+    "migration",
+    "ts-morph",
+    "upgrade",
+    "ast-grep",
+    "cleanup",
+    "refactoring"
+  ],
+  "fork_count": 66,
+  "star_count": 976,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 976
+    }
+  ]
+}

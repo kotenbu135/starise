@@ -1,0 +1,30 @@
+{
+  "owner": "ctripcorp",
+  "name": "x-pipe",
+  "description": "X-Pipe是由携程框架部门研发的Redis多数据中心复制管理系统。基于Redis的Master-Slave复制协议，实现低延时、高可用的Redis多数据中心、跨公网数据复制，并且提供一键机房切换，复制监控、异常报警等功能。开源版本和携程内部生产环境版本一致。",
+  "url": "https://github.com/ctripcorp/x-pipe",
+  "homepage_url": "",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "redis",
+    "cross-datacenter",
+    "psync2",
+    "replication",
+    "long-distance-replication",
+    "keeper-redis",
+    "rdb",
+    "keeper",
+    "redis-xpipe",
+    "replication-over-public-network"
+  ],
+  "fork_count": 512,
+  "star_count": 2091,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 2091
+    }
+  ]
+}

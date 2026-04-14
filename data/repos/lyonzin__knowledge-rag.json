@@ -1,0 +1,35 @@
+{
+  "owner": "lyonzin",
+  "name": "knowledge-rag",
+  "description": "Local RAG System for Claude Code — Hybrid search + Cross-encoder Reranking + Markdown-aware Chunking + 12 MCP Tools. No external servers, pure ONNX in-process.",
+  "url": "https://github.com/lyonzin/knowledge-rag",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "chromadb",
+    "claude",
+    "claude-code",
+    "local-ai",
+    "mcp",
+    "privacy",
+    "python",
+    "rag",
+    "retrieval-augmented-generation",
+    "semantic-search",
+    "vector-database",
+    "bm25",
+    "fastembed",
+    "knowledge-base",
+    "reranking"
+  ],
+  "fork_count": 7,
+  "star_count": 50,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 50
+    }
+  ]
+}

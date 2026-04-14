@@ -1,0 +1,35 @@
+{
+  "owner": "ax128",
+  "name": "AegisGate",
+  "description": "Open-source security gateway for LLM APIs — prompt injection detection, PII redaction, dangerous response   sanitization, and audit logging. OpenAI/Claude compatible, MCP \u0026 Agent SKILL support. Drop-in proxy for AI coding   agents (Cursor, Claude Code, Codex).",
+  "url": "https://github.com/ax128/AegisGate",
+  "homepage_url": "https://github.com/ax128/AegisGate",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "llm-security",
+    "ai-agent",
+    "ai-gateway",
+    "api-security",
+    "claude",
+    "codex",
+    "cursor",
+    "data-loss-prevention",
+    "fastapi",
+    "llm-firewall",
+    "mcp",
+    "openai-proxy",
+    "pii-redaction",
+    "prompt-injection",
+    "output-sanitization"
+  ],
+  "fork_count": 3,
+  "star_count": 34,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 34
+    }
+  ]
+}

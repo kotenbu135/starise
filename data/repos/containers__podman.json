@@ -1,0 +1,25 @@
+{
+  "owner": "containers",
+  "name": "podman",
+  "description": "Podman: A tool for managing OCI containers and pods.",
+  "url": "https://github.com/containers/podman",
+  "homepage_url": "https://podman.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "containers",
+    "docker",
+    "kubernetes",
+    "linux",
+    "oci"
+  ],
+  "fork_count": 3059,
+  "star_count": 31388,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 31388
+    }
+  ]
+}

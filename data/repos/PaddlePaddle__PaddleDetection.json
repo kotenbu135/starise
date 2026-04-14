@@ -1,0 +1,40 @@
+{
+  "owner": "PaddlePaddle",
+  "name": "PaddleDetection",
+  "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+  "url": "https://github.com/PaddlePaddle/PaddleDetection",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "object-detection",
+    "instance-segmentation",
+    "faster-rcnn",
+    "mask-rcnn",
+    "yolov3",
+    "blazeface",
+    "face-detection",
+    "fcos",
+    "pp-yolo",
+    "fairmot",
+    "multi-object-tracking",
+    "deepsort",
+    "picodet",
+    "human-activity-recognition",
+    "human-pose-estimation",
+    "yolov5",
+    "yolox",
+    "yolov7",
+    "detr",
+    "rt-detr"
+  ],
+  "fork_count": 3023,
+  "star_count": 14159,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 14159
+    }
+  ]
+}

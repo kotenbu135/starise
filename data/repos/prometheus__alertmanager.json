@@ -1,0 +1,29 @@
+{
+  "owner": "prometheus",
+  "name": "alertmanager",
+  "description": "Prometheus Alertmanager",
+  "url": "https://github.com/prometheus/alertmanager",
+  "homepage_url": "https://prometheus.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "monitoring",
+    "alertmanager",
+    "pagerduty",
+    "email",
+    "notifications",
+    "opsgenie",
+    "slack",
+    "deduplication",
+    "hacktoberfest"
+  ],
+  "fork_count": 2420,
+  "star_count": 8417,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 8417
+    }
+  ]
+}

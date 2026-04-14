@@ -1,0 +1,30 @@
+{
+  "owner": "AthenZ",
+  "name": "athenz",
+  "description": "Open source platform for X.509 certificate based service authentication and fine grained access control in dynamic infrastructures. Athenz supports provisioning and configuration (centralized authorization) use cases as well as serving/runtime (decentralized authorization) use cases.",
+  "url": "https://github.com/AthenZ/athenz",
+  "homepage_url": "https://www.athenz.io",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "rbac",
+    "role-based-access-control",
+    "authorization",
+    "containers",
+    "cloud",
+    "service-identity",
+    "tls",
+    "spiffe",
+    "access-token",
+    "dynamic-infrastructures"
+  ],
+  "fork_count": 302,
+  "star_count": 985,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 985
+    }
+  ]
+}

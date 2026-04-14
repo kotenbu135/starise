@@ -1,0 +1,37 @@
+{
+  "owner": "nmap",
+  "name": "nmap",
+  "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
+  "url": "https://github.com/nmap/nmap",
+  "homepage_url": "https://svn.nmap.org/",
+  "language": "C",
+  "license": "NOASSERTION",
+  "topics": [
+    "c-plus-plus",
+    "lua",
+    "security",
+    "port-scanner",
+    "machine-learning",
+    "linux",
+    "windows",
+    "osx",
+    "network-discovery",
+    "service-discovery",
+    "asynchronous",
+    "socket",
+    "nmap",
+    "libpcap",
+    "pcre",
+    "netcat",
+    "ping"
+  ],
+  "fork_count": 2792,
+  "star_count": 11005,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 11005
+    }
+  ]
+}

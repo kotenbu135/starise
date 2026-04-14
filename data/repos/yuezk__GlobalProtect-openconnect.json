@@ -1,0 +1,37 @@
+{
+  "owner": "yuezk",
+  "name": "GlobalProtect-openconnect",
+  "description": "A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.",
+  "url": "https://github.com/yuezk/GlobalProtect-openconnect",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "GPL-3.0",
+  "topics": [
+    "openconnect",
+    "gui",
+    "linux",
+    "vpn",
+    "globalprotect",
+    "saml",
+    "paloaltonetworks",
+    "okta",
+    "authentication",
+    "azure",
+    "mfa",
+    "yubikey",
+    "yubikey-authenticators",
+    "client-certificate-authentication",
+    "rust",
+    "tauri-apps",
+    "tauri"
+  ],
+  "fork_count": 235,
+  "star_count": 2060,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 2060
+    }
+  ]
+}

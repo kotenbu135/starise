@@ -1,0 +1,40 @@
+{
+  "owner": "modelscope",
+  "name": "ms-swift",
+  "description": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.5, DeepSeek-R1, GLM-5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (AAAI 2025).",
+  "url": "https://github.com/modelscope/ms-swift",
+  "homepage_url": "https://swift.readthedocs.io/zh-cn/latest/",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "llm",
+    "lora",
+    "llama",
+    "sft",
+    "multimodal",
+    "peft",
+    "internvl",
+    "liger",
+    "deepseek-r1",
+    "embedding",
+    "grpo",
+    "open-r1",
+    "megatron",
+    "llama4",
+    "qwen3",
+    "reranker",
+    "moe",
+    "qwen3-vl",
+    "qwen3-omni",
+    "qwen3-5"
+  ],
+  "fork_count": 1346,
+  "star_count": 13689,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 13689
+    }
+  ]
+}

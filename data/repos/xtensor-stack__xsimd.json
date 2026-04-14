@@ -1,0 +1,34 @@
+{
+  "owner": "xtensor-stack",
+  "name": "xsimd",
+  "description": "C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE, WebAssembly, VSX, RISC-V))",
+  "url": "https://github.com/xtensor-stack/xsimd",
+  "homepage_url": "https://xsimd.readthedocs.io/",
+  "language": "C++",
+  "license": "BSD-3-Clause",
+  "topics": [
+    "simd-intrinsics",
+    "vectorization",
+    "simd",
+    "cpp",
+    "avx",
+    "neon",
+    "sse",
+    "avx512",
+    "simd-instructions",
+    "mathematical-functions",
+    "c-plus-plus-11",
+    "sve",
+    "vsx",
+    "wasm"
+  ],
+  "fork_count": 297,
+  "star_count": 2656,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 2656
+    }
+  ]
+}

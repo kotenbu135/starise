@@ -1,0 +1,31 @@
+{
+  "owner": "hasherezade",
+  "name": "pe-sieve",
+  "description": "Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).",
+  "url": "https://github.com/hasherezade/pe-sieve",
+  "homepage_url": "https://hshrzd.wordpress.com/pe-sieve/",
+  "language": "C++",
+  "license": "BSD-2-Clause",
+  "topics": [
+    "pe-format",
+    "hooking",
+    "pe-dumper",
+    "pe-analyzer",
+    "libpeconv",
+    "process-analyzer",
+    "scans",
+    "anti-malware",
+    "pe-sieve",
+    "malware-analysis",
+    "memory-forensics"
+  ],
+  "fork_count": 469,
+  "star_count": 3610,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3610
+    }
+  ]
+}

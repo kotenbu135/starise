@@ -1,0 +1,25 @@
+{
+  "owner": "elastic",
+  "name": "beats",
+  "description": ":tropical_fish: Beats - Lightweight shippers for Elasticsearch \u0026 Logstash",
+  "url": "https://github.com/elastic/beats",
+  "homepage_url": "https://www.elastic.co/products/beats",
+  "language": "Go",
+  "license": "NOASSERTION",
+  "topics": [
+    "metricbeat",
+    "filebeat",
+    "packetbeat",
+    "heartbeat",
+    "winlogbeat"
+  ],
+  "fork_count": 4995,
+  "star_count": 12608,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 12608
+    }
+  ]
+}

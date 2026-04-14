@@ -1,0 +1,25 @@
+{
+  "owner": "awslabs",
+  "name": "mountpoint-s3",
+  "description": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.",
+  "url": "https://github.com/awslabs/mountpoint-s3",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "aws",
+    "filesystem",
+    "fuse",
+    "s3",
+    "object-storage"
+  ],
+  "fork_count": 240,
+  "star_count": 5662,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 5662
+    }
+  ]
+}

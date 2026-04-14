@@ -1,0 +1,28 @@
+{
+  "owner": "aquasecurity",
+  "name": "kube-bench",
+  "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
+  "url": "https://github.com/aquasecurity/kube-bench",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "kube-bench",
+    "cis-security",
+    "kubernetes-security",
+    "cis-benchmark",
+    "cis-kubernetes-benchmark",
+    "openshift",
+    "kubernetes",
+    "hacktoberfest"
+  ],
+  "fork_count": 1315,
+  "star_count": 8014,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 8014
+    }
+  ]
+}

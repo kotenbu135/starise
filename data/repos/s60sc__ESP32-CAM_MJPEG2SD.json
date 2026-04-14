@@ -1,0 +1,40 @@
+{
+  "owner": "s60sc",
+  "name": "ESP32-CAM_MJPEG2SD",
+  "description": "ESP32 Camera motion capture application to record JPEGs to SD card as AVI files and stream to browser as MJPEG. If a microphone is installed then a WAV file is also created. Files can be uploaded via FTP or downloaded to browser.",
+  "url": "https://github.com/s60sc/ESP32-CAM_MJPEG2SD",
+  "homepage_url": "",
+  "language": "C++",
+  "license": "AGPL-3.0",
+  "topics": [
+    "esp32-cam",
+    "sd-card",
+    "mjpeg",
+    "video-processing",
+    "ov2640",
+    "esp32",
+    "motion-capture",
+    "microphone",
+    "avi",
+    "wav",
+    "esp32s3",
+    "freenove",
+    "ov5640",
+    "camera",
+    "arduino-esp32",
+    "telegram-bot",
+    "fpv",
+    "telemetry",
+    "machine-learning",
+    "rtsp"
+  ],
+  "fork_count": 335,
+  "star_count": 1583,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1583
+    }
+  ]
+}

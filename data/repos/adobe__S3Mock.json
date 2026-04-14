@@ -1,0 +1,32 @@
+{
+  "owner": "adobe",
+  "name": "S3Mock",
+  "description": "A mock implementation of the AWS S3 API startable as Docker image, TestContainer, JUnit 4 rule, JUnit Jupiter extension or TestNG listener",
+  "url": "https://github.com/adobe/S3Mock",
+  "homepage_url": "",
+  "language": "Kotlin",
+  "license": "Apache-2.0",
+  "topics": [
+    "s3",
+    "mock",
+    "testing",
+    "docker",
+    "junit",
+    "aws-s3",
+    "aws",
+    "testcontainers",
+    "arm64",
+    "amd64",
+    "java",
+    "kotlin"
+  ],
+  "fork_count": 196,
+  "star_count": 1081,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1081
+    }
+  ]
+}

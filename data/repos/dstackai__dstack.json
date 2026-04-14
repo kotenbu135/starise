@@ -1,0 +1,38 @@
+{
+  "owner": "dstackai",
+  "name": "dstack",
+  "description": "Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.",
+  "url": "https://github.com/dstackai/dstack",
+  "homepage_url": "https://dstack.ai/docs",
+  "language": "Python",
+  "license": "MPL-2.0",
+  "topics": [
+    "machine-learning",
+    "python",
+    "gpu",
+    "llms",
+    "cloud",
+    "orchestration",
+    "fine-tuning",
+    "training",
+    "kubernetes",
+    "k8s",
+    "amd",
+    "docker",
+    "inference",
+    "nvidia",
+    "slurm",
+    "containers",
+    "agent-skills",
+    "agentic-orchestration"
+  ],
+  "fork_count": 220,
+  "star_count": 2094,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 2094
+    }
+  ]
+}

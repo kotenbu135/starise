@@ -1,0 +1,40 @@
+{
+  "owner": "turbot",
+  "name": "steampipe",
+  "description": "Zero-ETL, infinite possibilities. Live query APIs, code \u0026 more with SQL. No DB required.",
+  "url": "https://github.com/turbot/steampipe",
+  "homepage_url": "https://steampipe.io",
+  "language": "Go",
+  "license": "AGPL-3.0",
+  "topics": [
+    "steampipe",
+    "postgresql",
+    "postgresql-fdw",
+    "cloud",
+    "security",
+    "aws",
+    "azure",
+    "cis",
+    "cnapp",
+    "cspm",
+    "devops",
+    "devsecops",
+    "gcp",
+    "golang",
+    "kubernetes",
+    "terraform",
+    "etl",
+    "sqlite",
+    "zero-etl",
+    "hacktoberfest"
+  ],
+  "fork_count": 333,
+  "star_count": 7771,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 7771
+    }
+  ]
+}

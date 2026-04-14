@@ -1,0 +1,35 @@
+{
+  "owner": "SimonBlanke",
+  "name": "Gradient-Free-Optimizers",
+  "description": "Lightweight optimization with local, global, population-based and sequential techniques across mixed search spaces",
+  "url": "https://github.com/SimonBlanke/Gradient-Free-Optimizers",
+  "homepage_url": "https://gradient-free-optimizers.readthedocs.io/en/latest/",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "optimization",
+    "gradient-free-optimization",
+    "bayesian-optimization",
+    "particle-swarm-optimization",
+    "evolution-strategies",
+    "simulated-annealing",
+    "random-search",
+    "hill-climbing",
+    "meta-heuristic",
+    "machine-learning",
+    "tree-of-parzen-estimator",
+    "hyperparameter-optimization",
+    "blackbox-optimization",
+    "constrained-optimization",
+    "nelder-mead"
+  ],
+  "fork_count": 95,
+  "star_count": 1268,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1268
+    }
+  ]
+}

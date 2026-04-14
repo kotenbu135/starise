@@ -1,0 +1,25 @@
+{
+  "owner": "rootless-containers",
+  "name": "usernetes",
+  "description": "Kubernetes without the root privileges",
+  "url": "https://github.com/rootless-containers/usernetes",
+  "homepage_url": "https://github.com/kubernetes/enhancements/tree/master/keps/sig-node/2033-kubelet-in-userns-aka-rootless",
+  "language": "Shell",
+  "license": "Apache-2.0",
+  "topics": [
+    "rootless-containers",
+    "kubernetes",
+    "docker",
+    "containerd",
+    "cri-o"
+  ],
+  "fork_count": 69,
+  "star_count": 963,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 963
+    }
+  ]
+}

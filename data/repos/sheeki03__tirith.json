@@ -1,0 +1,30 @@
+{
+  "owner": "sheeki03",
+  "name": "tirith",
+  "description": "Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.",
+  "url": "https://github.com/sheeki03/tirith",
+  "homepage_url": "https://tirith.sh",
+  "language": "Rust",
+  "license": "AGPL-3.0",
+  "topics": [
+    "cli",
+    "devtools",
+    "homograph-attack",
+    "rust",
+    "security",
+    "shell",
+    "supply-chain-security",
+    "terminal",
+    "unicode",
+    "url-security"
+  ],
+  "fork_count": 71,
+  "star_count": 2185,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 2185
+    }
+  ]
+}

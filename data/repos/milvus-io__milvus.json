@@ -1,0 +1,38 @@
+{
+  "owner": "milvus-io",
+  "name": "milvus",
+  "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+  "url": "https://github.com/milvus-io/milvus",
+  "homepage_url": "https://milvus.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "anns",
+    "nearest-neighbor-search",
+    "faiss",
+    "vector-search",
+    "image-search",
+    "hnsw",
+    "vector-database",
+    "embedding-database",
+    "embedding-store",
+    "vector-store",
+    "vector-similarity",
+    "embedding-similarity",
+    "distributed",
+    "golang",
+    "llm",
+    "cloud-native",
+    "diskann",
+    "rag"
+  ],
+  "fork_count": 3962,
+  "star_count": 43787,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 43787
+    }
+  ]
+}

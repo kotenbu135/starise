@@ -1,0 +1,35 @@
+{
+  "owner": "anchore",
+  "name": "grype",
+  "description": "A vulnerability scanner for container images and filesystems",
+  "url": "https://github.com/anchore/grype",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "containers",
+    "security",
+    "vulnerability",
+    "docker",
+    "golang",
+    "go",
+    "static-analysis",
+    "container-image",
+    "tool",
+    "oci",
+    "cyclonedx",
+    "vulnerabilities",
+    "hacktoberfest",
+    "openvex",
+    "vex"
+  ],
+  "fork_count": 781,
+  "star_count": 12018,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 12018
+    }
+  ]
+}

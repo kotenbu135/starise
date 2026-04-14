@@ -1,0 +1,30 @@
+{
+  "owner": "rabbitmq",
+  "name": "rabbitmq-server",
+  "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins",
+  "url": "https://github.com/rabbitmq/rabbitmq-server",
+  "homepage_url": "https://www.rabbitmq.com/",
+  "language": "JavaScript",
+  "license": "NOASSERTION",
+  "topics": [
+    "rabbitmq",
+    "amqp",
+    "messaging",
+    "amqp-0-9-1",
+    "amqp1-0",
+    "mqtt",
+    "stomp",
+    "streaming",
+    "streams",
+    "message-broker"
+  ],
+  "fork_count": 4004,
+  "star_count": 13592,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 13592
+    }
+  ]
+}

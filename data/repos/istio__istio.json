@@ -1,0 +1,36 @@
+{
+  "owner": "istio",
+  "name": "istio",
+  "description": "Connect, secure, control, and observe services.",
+  "url": "https://github.com/istio/istio",
+  "homepage_url": "https://istio.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "microservices",
+    "service-mesh",
+    "lyft-envoy",
+    "kubernetes",
+    "api-management",
+    "circuit-breaker",
+    "polyglot-microservices",
+    "enforce-policies",
+    "proxies",
+    "microservice",
+    "envoy",
+    "consul",
+    "nomad",
+    "request-routing",
+    "resiliency",
+    "fault-injection"
+  ],
+  "fork_count": 8281,
+  "star_count": 38121,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 38121
+    }
+  ]
+}

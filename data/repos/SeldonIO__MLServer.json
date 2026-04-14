@@ -1,0 +1,27 @@
+{
+  "owner": "SeldonIO",
+  "name": "MLServer",
+  "description": "An inference server for your machine learning models, including support for multiple frameworks, multi-model serving and more",
+  "url": "https://github.com/SeldonIO/MLServer",
+  "homepage_url": "https://mlserver.readthedocs.io/en/latest/",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "machine-learning",
+    "scikit-learn",
+    "xgboost",
+    "lightgbm",
+    "mlflow",
+    "seldon-core",
+    "kfserving"
+  ],
+  "fork_count": 229,
+  "star_count": 883,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 883
+    }
+  ]
+}

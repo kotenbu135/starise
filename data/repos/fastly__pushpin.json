@@ -1,0 +1,32 @@
+{
+  "owner": "fastly",
+  "name": "pushpin",
+  "description": "A proxy server for adding push to your API, used at the core of Fastly's Fanout service",
+  "url": "https://github.com/fastly/pushpin",
+  "homepage_url": "https://pushpin.org",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "http-streaming",
+    "websockets",
+    "long-polling",
+    "realtime",
+    "push",
+    "proxy",
+    "api",
+    "server-sent-events",
+    "zeromq",
+    "streaming",
+    "fastly-featured",
+    "fastly-oss-tier1"
+  ],
+  "fork_count": 154,
+  "star_count": 3843,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3843
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "owner": "offen",
+  "name": "docker-volume-backup",
+  "description": "Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox, Google Drive or SSH compatible storage",
+  "url": "https://github.com/offen/docker-volume-backup",
+  "homepage_url": "https://offen.github.io/docker-volume-backup/",
+  "language": "Go",
+  "license": "MPL-2.0",
+  "topics": [
+    "docker",
+    "docker-volume",
+    "backup",
+    "docker-compose",
+    "docker-swarm",
+    "s3",
+    "ssh",
+    "webdav"
+  ],
+  "fork_count": 131,
+  "star_count": 3498,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3498
+    }
+  ]
+}

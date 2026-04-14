@@ -1,0 +1,30 @@
+{
+  "owner": "tikv",
+  "name": "tikv",
+  "description": "Distributed transactional key-value database, originally created to complement TiDB",
+  "url": "https://github.com/tikv/tikv",
+  "homepage_url": "https://tikv.org",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "distributed-transactions",
+    "raft",
+    "rust",
+    "key-value",
+    "tikv",
+    "consensus",
+    "rocksdb",
+    "tidb",
+    "cncf",
+    "hacktoberfest"
+  ],
+  "fork_count": 2264,
+  "star_count": 16619,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 16619
+    }
+  ]
+}

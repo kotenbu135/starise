@@ -1,0 +1,38 @@
+{
+  "owner": "gpustack",
+  "name": "gpustack",
+  "description": "A GPU cluster manager that configures and orchestrates inference engines like vLLM and SGLang for high-performance AI model deployment.",
+  "url": "https://github.com/gpustack/gpustack",
+  "homepage_url": "https://gpustack.ai",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "ascend",
+    "cuda",
+    "deepseek",
+    "distributed-inference",
+    "genai",
+    "inference",
+    "llama",
+    "llm",
+    "maas",
+    "openai",
+    "qwen",
+    "rocm",
+    "vllm",
+    "mindie",
+    "llm-inference",
+    "llm-serving",
+    "sglang",
+    "high-performance-inference"
+  ],
+  "fork_count": 497,
+  "star_count": 4832,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 4832
+    }
+  ]
+}

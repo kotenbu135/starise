@@ -1,0 +1,31 @@
+{
+  "owner": "rust-lang",
+  "name": "regex",
+  "description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.",
+  "url": "https://github.com/rust-lang/regex",
+  "homepage_url": "https://docs.rs/regex",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "regex",
+    "regexp",
+    "regular-expressions",
+    "regex-engine",
+    "regex-syntax",
+    "regex-parser",
+    "rust",
+    "dfa",
+    "nfa",
+    "automata",
+    "automaton"
+  ],
+  "fork_count": 498,
+  "star_count": 3943,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3943
+    }
+  ]
+}

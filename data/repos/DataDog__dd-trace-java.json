@@ -1,0 +1,31 @@
+{
+  "owner": "DataDog",
+  "name": "dd-trace-java",
+  "description": "Datadog APM client for Java",
+  "url": "https://github.com/DataDog/dd-trace-java",
+  "homepage_url": "https://docs.datadoghq.com/tracing/languages/java",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "apm",
+    "java",
+    "datadog",
+    "datadog-apm",
+    "datadoghq",
+    "tracing",
+    "javaagent",
+    "bytebuddy",
+    "distributed-tracing",
+    "distributed-trace",
+    "profiling"
+  ],
+  "fork_count": 332,
+  "star_count": 704,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 704
+    }
+  ]
+}

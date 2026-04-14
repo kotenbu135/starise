@@ -1,0 +1,33 @@
+{
+  "owner": "deepspeedai",
+  "name": "DeepSpeed",
+  "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+  "url": "https://github.com/deepspeedai/DeepSpeed",
+  "homepage_url": "https://www.deepspeed.ai/",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "deep-learning",
+    "pytorch",
+    "gpu",
+    "machine-learning",
+    "billion-parameters",
+    "data-parallelism",
+    "model-parallelism",
+    "inference",
+    "pipeline-parallelism",
+    "compression",
+    "mixture-of-experts",
+    "trillion-parameters",
+    "zero"
+  ],
+  "fork_count": 4794,
+  "star_count": 42090,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 42090
+    }
+  ]
+}

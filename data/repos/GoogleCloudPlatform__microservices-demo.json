@@ -1,0 +1,31 @@
+{
+  "owner": "GoogleCloudPlatform",
+  "name": "microservices-demo",
+  "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+  "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+  "homepage_url": "https://cymbal-shops.retail.cymbal.dev",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "kubernetes",
+    "grpc",
+    "istio",
+    "gke",
+    "skaffold",
+    "sample-application",
+    "google-cloud",
+    "samples",
+    "gcp",
+    "kustomize",
+    "terraform"
+  ],
+  "fork_count": 9751,
+  "star_count": 20096,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 20096
+    }
+  ]
+}

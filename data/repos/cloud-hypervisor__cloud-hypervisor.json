@@ -1,0 +1,24 @@
+{
+  "owner": "cloud-hypervisor",
+  "name": "cloud-hypervisor",
+  "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+  "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
+  "homepage_url": "https://www.cloudhypervisor.org",
+  "language": "Rust",
+  "license": "",
+  "topics": [
+    "rust-vmm",
+    "cloud-workloads",
+    "virtualization",
+    "kvm"
+  ],
+  "fork_count": 623,
+  "star_count": 5497,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 5497
+    }
+  ]
+}

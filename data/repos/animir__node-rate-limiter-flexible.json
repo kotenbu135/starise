@@ -1,0 +1,37 @@
+{
+  "owner": "animir",
+  "name": "node-rate-limiter-flexible",
+  "description": "Atomic and non-atomic counters and rate limiting tools. Limit resource access at any scale.",
+  "url": "https://github.com/animir/node-rate-limiter-flexible",
+  "homepage_url": "",
+  "language": "JavaScript",
+  "license": "ISC",
+  "topics": [
+    "security",
+    "limit",
+    "ratelimter",
+    "bruteforce",
+    "throttle",
+    "koa",
+    "express",
+    "hapi",
+    "nestjs",
+    "rate-limiting",
+    "dynamodb",
+    "postgresql",
+    "redis",
+    "prisma",
+    "valkey",
+    "sqlite",
+    "drizzle"
+  ],
+  "fork_count": 184,
+  "star_count": 3515,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3515
+    }
+  ]
+}

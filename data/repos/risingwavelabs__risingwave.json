@@ -1,0 +1,31 @@
+{
+  "owner": "risingwavelabs",
+  "name": "risingwave",
+  "description": "Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.",
+  "url": "https://github.com/risingwavelabs/risingwave",
+  "homepage_url": "https://go.risingwave.com/slack",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "database",
+    "stream-processing",
+    "rust",
+    "postgresql",
+    "kafka",
+    "materialized-view",
+    "data-engineering",
+    "apache-iceberg",
+    "etl-pipeline",
+    "event-streaming",
+    "webhook"
+  ],
+  "fork_count": 756,
+  "star_count": 8928,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 8928
+    }
+  ]
+}

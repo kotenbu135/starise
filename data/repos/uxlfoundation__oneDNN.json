@@ -1,0 +1,38 @@
+{
+  "owner": "uxlfoundation",
+  "name": "oneDNN",
+  "description": "oneAPI Deep Neural Network Library (oneDNN)",
+  "url": "https://github.com/uxlfoundation/oneDNN",
+  "homepage_url": "http://uxlfoundation.github.io/oneDNN/",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [
+    "onednn",
+    "oneapi",
+    "deep-learning",
+    "deep-neural-networks",
+    "performance",
+    "cpp",
+    "openmp",
+    "tbb",
+    "x86-64",
+    "x64",
+    "aarch64",
+    "avx512",
+    "amx",
+    "xe-architecture",
+    "library",
+    "bfloat16",
+    "sycl",
+    "vnni"
+  ],
+  "fork_count": 1119,
+  "star_count": 3979,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3979
+    }
+  ]
+}

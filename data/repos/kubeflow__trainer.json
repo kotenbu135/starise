@@ -1,0 +1,35 @@
+{
+  "owner": "kubeflow",
+  "name": "trainer",
+  "description": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
+  "url": "https://github.com/kubeflow/trainer",
+  "homepage_url": "https://www.kubeflow.org/docs/components/training",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "ai",
+    "distributed",
+    "fine-tuning",
+    "gpu",
+    "huggingface",
+    "jax",
+    "kubeflow",
+    "kubernetes",
+    "llm",
+    "machine-learning",
+    "mlops",
+    "python",
+    "pytorch",
+    "tensorflow",
+    "xgboost"
+  ],
+  "fork_count": 945,
+  "star_count": 2082,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 2082
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "owner": "apache",
+  "name": "skywalking",
+  "description": "APM, Application Performance Monitoring System",
+  "url": "https://github.com/apache/skywalking",
+  "homepage_url": "https://skywalking.apache.org/",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "skywalking",
+    "observability",
+    "apm",
+    "service-mesh",
+    "dapper",
+    "distributed-tracing",
+    "web-performance",
+    "metrics",
+    "logging",
+    "prometheus",
+    "open-telemetry",
+    "zabbix",
+    "ebpf",
+    "telegraf"
+  ],
+  "fork_count": 6640,
+  "star_count": 24773,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 24773
+    }
+  ]
+}

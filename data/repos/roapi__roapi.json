@@ -1,0 +1,38 @@
+{
+  "owner": "roapi",
+  "name": "roapi",
+  "description": "Create full-fledged APIs for slowly moving datasets without writing a single line of code.",
+  "url": "https://github.com/roapi/roapi",
+  "homepage_url": "https://roapi.github.io/docs",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "sql",
+    "graphql",
+    "arrow",
+    "rest-api",
+    "analytics",
+    "query",
+    "columnar",
+    "rust",
+    "in-memory-database",
+    "datafusion",
+    "blob-storage",
+    "cloud-native",
+    "parquet",
+    "query-frontends",
+    "datasets",
+    "static-datasets",
+    "s3",
+    "delta-lake"
+  ],
+  "fork_count": 211,
+  "star_count": 3415,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3415
+    }
+  ]
+}

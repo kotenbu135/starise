@@ -1,0 +1,37 @@
+{
+  "owner": "saltstack",
+  "name": "salt",
+  "description": "Software to automate the management and configuration of infrastructure and applications at scale.",
+  "url": "https://github.com/saltstack/salt",
+  "homepage_url": "https://docs.saltproject.io/salt/install-guide/en/latest/",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "python",
+    "configuration-management",
+    "remote-execution",
+    "infrastructure-management",
+    "zeromq",
+    "event-stream",
+    "event-management",
+    "cloud-providers",
+    "cloud-management",
+    "cloud-provisioning",
+    "infrastructure-automation",
+    "infrastructure-as-code",
+    "infrastructure-as-a-code",
+    "iot",
+    "edge",
+    "cloud",
+    "infrastructure"
+  ],
+  "fork_count": 5586,
+  "star_count": 15323,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 15323
+    }
+  ]
+}

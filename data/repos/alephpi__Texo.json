@@ -1,0 +1,39 @@
+{
+  "owner": "alephpi",
+  "name": "Texo",
+  "description": "A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。",
+  "url": "https://github.com/alephpi/Texo",
+  "homepage_url": "https://texocr.netlify.app/",
+  "language": "Python",
+  "license": "AGPL-3.0",
+  "topics": [
+    "computer-vision",
+    "deep-learning",
+    "distillation-model",
+    "hydra",
+    "latex-ocr",
+    "machine-learning",
+    "python",
+    "pytorch",
+    "pytorch-lightning",
+    "transformers",
+    "formulanet",
+    "unimernet",
+    "vision-encoder-decoder",
+    "formula",
+    "latex",
+    "math",
+    "math-formula-recognition",
+    "ocr",
+    "ocr-recognition"
+  ],
+  "fork_count": 46,
+  "star_count": 789,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 789
+    }
+  ]
+}

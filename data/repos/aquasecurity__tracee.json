@@ -1,0 +1,28 @@
+{
+  "owner": "aquasecurity",
+  "name": "tracee",
+  "description": "Linux Runtime Security and Forensics using eBPF",
+  "url": "https://github.com/aquasecurity/tracee",
+  "homepage_url": "https://aquasecurity.github.io/tracee/latest",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "ebpf",
+    "linux",
+    "bpf",
+    "security",
+    "golang",
+    "docker",
+    "kubernetes",
+    "runtime-security"
+  ],
+  "fork_count": 487,
+  "star_count": 4458,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 4458
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "owner": "google",
+  "name": "gvisor",
+  "description": "Application Kernel for Containers",
+  "url": "https://github.com/google/gvisor",
+  "homepage_url": "https://gvisor.dev",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "sandbox",
+    "containers",
+    "oci",
+    "docker",
+    "kubernetes",
+    "linux",
+    "kernel"
+  ],
+  "fork_count": 1566,
+  "star_count": 18083,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 18083
+    }
+  ]
+}

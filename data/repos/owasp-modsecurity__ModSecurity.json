@@ -1,0 +1,25 @@
+{
+  "owner": "owasp-modsecurity",
+  "name": "ModSecurity",
+  "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.",
+  "url": "https://github.com/owasp-modsecurity/ModSecurity",
+  "homepage_url": "https://www.modsecurity.org",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [
+    "modsecurity",
+    "nginx",
+    "apache",
+    "apache2",
+    "waf"
+  ],
+  "fork_count": 1722,
+  "star_count": 9595,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 9595
+    }
+  ]
+}

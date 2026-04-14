@@ -1,0 +1,21 @@
+{
+  "owner": "kubernetes-sigs",
+  "name": "metrics-server",
+  "description": "Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.",
+  "url": "https://github.com/kubernetes-sigs/metrics-server",
+  "homepage_url": "https://kubernetes.io/docs/tasks/debug-application-cluster/resource-metrics-pipeline/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "k8s-sig-instrumentation"
+  ],
+  "fork_count": 2000,
+  "star_count": 6598,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 6598
+    }
+  ]
+}

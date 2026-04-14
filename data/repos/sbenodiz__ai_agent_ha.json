@@ -1,0 +1,30 @@
+{
+  "owner": "sbenodiz",
+  "name": "ai_agent_ha",
+  "description": "A Home Assistant custom component that provides an AI-powered agent capable of generating automations based on natural language queries. The agent connects to all entities in your Home Assistant instance and uses OpenAI's or Llama API to translate user requests into valid Home operations including creating automations for you!",
+  "url": "https://github.com/sbenodiz/ai_agent_ha",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "ai",
+    "ai-agent",
+    "hacs",
+    "hacs-integration",
+    "home-assistant",
+    "home-assistant-component",
+    "home-assistant-custom",
+    "home-assistant-custom-component",
+    "home-assistant-frontend",
+    "home-assistant-hacs"
+  ],
+  "fork_count": 18,
+  "star_count": 111,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 111
+    }
+  ]
+}

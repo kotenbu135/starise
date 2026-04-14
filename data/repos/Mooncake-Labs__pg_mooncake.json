@@ -1,0 +1,27 @@
+{
+  "owner": "Mooncake-Labs",
+  "name": "pg_mooncake",
+  "description": "Real-time analytics on Postgres tables",
+  "url": "https://github.com/Mooncake-Labs/pg_mooncake",
+  "homepage_url": "https://mooncake.dev/",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "analytics",
+    "columnstore",
+    "delta-lake",
+    "iceberg",
+    "lakehouse",
+    "parquet",
+    "postgresql"
+  ],
+  "fork_count": 63,
+  "star_count": 1950,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1950
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "owner": "loft-sh",
+  "name": "vcluster",
+  "description": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
+  "url": "https://github.com/loft-sh/vcluster",
+  "homepage_url": "https://www.vcluster.com",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "kubernetes",
+    "vcluster",
+    "virtual-clusters",
+    "multi-tenancy",
+    "cloud-native",
+    "platform-engineering",
+    "helm",
+    "kubectl",
+    "k8s",
+    "k3s"
+  ],
+  "fork_count": 569,
+  "star_count": 11080,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 11080
+    }
+  ]
+}

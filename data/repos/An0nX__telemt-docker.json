@@ -1,0 +1,25 @@
+{
+  "owner": "An0nX",
+  "name": "telemt-docker",
+  "description": "Secure multi-arch (amd64/arm64) Docker image for Telemt — a fast Rust-based MTProxy (MTProto) server, shipped as a static binary in a distroless non-root container.",
+  "url": "https://github.com/An0nX/telemt-docker",
+  "homepage_url": "",
+  "language": "Dockerfile",
+  "license": "GPL-3.0",
+  "topics": [
+    "docker",
+    "mtproto-proxy",
+    "mtproxy",
+    "rust",
+    "telegram"
+  ],
+  "fork_count": 55,
+  "star_count": 1240,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1240
+    }
+  ]
+}

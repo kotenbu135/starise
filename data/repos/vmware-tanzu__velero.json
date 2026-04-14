@@ -1,0 +1,25 @@
+{
+  "owner": "vmware-tanzu",
+  "name": "velero",
+  "description": "Backup and migrate Kubernetes applications and their persistent volumes",
+  "url": "https://github.com/vmware-tanzu/velero",
+  "homepage_url": "https://velero.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "kubernetes",
+    "disaster-recovery",
+    "backup",
+    "velero",
+    "hacktoberfest"
+  ],
+  "fork_count": 1530,
+  "star_count": 9960,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 9960
+    }
+  ]
+}

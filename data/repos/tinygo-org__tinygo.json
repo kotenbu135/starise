@@ -1,0 +1,39 @@
+{
+  "owner": "tinygo-org",
+  "name": "tinygo",
+  "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+  "url": "https://github.com/tinygo-org/tinygo",
+  "homepage_url": "https://tinygo.org",
+  "language": "Go",
+  "license": "NOASSERTION",
+  "topics": [
+    "microcontroller",
+    "tinygo",
+    "llvm",
+    "wasm",
+    "webassembly",
+    "arduino",
+    "arm",
+    "microbit",
+    "samd21",
+    "stm32",
+    "nrf51",
+    "nrf52",
+    "avr",
+    "i2c",
+    "spi",
+    "gpio",
+    "adafruit",
+    "wasi",
+    "esp32"
+  ],
+  "fork_count": 1018,
+  "star_count": 17345,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 17345
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "owner": "strimzi",
+  "name": "strimzi-kafka-operator",
+  "description": "Apache Kafka® running on Kubernetes",
+  "url": "https://github.com/strimzi/strimzi-kafka-operator",
+  "homepage_url": "https://strimzi.io/",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "kafka",
+    "kubernetes",
+    "openshift",
+    "messaging",
+    "kafka-connect",
+    "kafka-streams",
+    "data-streaming",
+    "data-stream",
+    "data-streams",
+    "kubernetes-operator",
+    "kubernetes-controller",
+    "hacktoberfest"
+  ],
+  "fork_count": 1471,
+  "star_count": 5773,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 5773
+    }
+  ]
+}

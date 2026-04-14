@@ -1,0 +1,28 @@
+{
+  "owner": "ufoscout",
+  "name": "docker-compose-wait",
+  "description": "A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)",
+  "url": "https://github.com/ufoscout/docker-compose-wait",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "docker",
+    "docker-images",
+    "dockerfile",
+    "kubernetes",
+    "sleep",
+    "synchronization",
+    "wait",
+    "containers"
+  ],
+  "fork_count": 142,
+  "star_count": 1714,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1714
+    }
+  ]
+}

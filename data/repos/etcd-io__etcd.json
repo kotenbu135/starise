@@ -1,0 +1,30 @@
+{
+  "owner": "etcd-io",
+  "name": "etcd",
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "url": "https://github.com/etcd-io/etcd",
+  "homepage_url": "https://etcd.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "etcd",
+    "raft",
+    "distributed-systems",
+    "kubernetes",
+    "go",
+    "database",
+    "key-value",
+    "consensus",
+    "distributed-database",
+    "cncf"
+  ],
+  "fork_count": 10317,
+  "star_count": 51624,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 51624
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "owner": "WebFuzzing",
+  "name": "EvoMaster",
+  "description": "The first open-source AI-driven tool for automatically generating system-level test cases (also known as fuzzing) for web/enterprise applications. Currently targeting whitebox and blackbox testing of Web APIs, like REST, GraphQL and RPC (e.g., gRPC and Thrift).",
+  "url": "https://github.com/WebFuzzing/EvoMaster",
+  "homepage_url": "",
+  "language": "Kotlin",
+  "license": "LGPL-3.0",
+  "topics": [
+    "testing",
+    "evolutionary-algorithms",
+    "rest",
+    "java",
+    "kotlin",
+    "test-case-generation",
+    "api-rest",
+    "api-testing",
+    "fuzzing",
+    "fuzzer",
+    "graphql",
+    "grpc",
+    "rpc-api",
+    "search-based-software-testing",
+    "thrift"
+  ],
+  "fork_count": 109,
+  "star_count": 703,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 703
+    }
+  ]
+}

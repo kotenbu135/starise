@@ -1,0 +1,35 @@
+{
+  "owner": "google",
+  "name": "highway",
+  "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+  "url": "https://github.com/google/highway",
+  "homepage_url": "",
+  "language": "C++",
+  "license": "NOASSERTION",
+  "topics": [
+    "simd",
+    "simd-instructions",
+    "simd-programming",
+    "intrinsics",
+    "avx2",
+    "avx512",
+    "neon",
+    "wasm",
+    "avx",
+    "avx-512",
+    "avx-instructions",
+    "sse42",
+    "simd-library",
+    "simd-parallelism",
+    "simd-intrinsics"
+  ],
+  "fork_count": 429,
+  "star_count": 5431,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 5431
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "owner": "fluxcd",
+  "name": "flagger",
+  "description": "Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",
+  "url": "https://github.com/fluxcd/flagger",
+  "homepage_url": "https://docs.flagger.app/main",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "progressive-delivery",
+    "kubernetes",
+    "gitops",
+    "canary",
+    "ab-testing",
+    "istio",
+    "aws-appmesh",
+    "linkerd",
+    "nginx",
+    "gloo",
+    "contour"
+  ],
+  "fork_count": 794,
+  "star_count": 5306,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 5306
+    }
+  ]
+}

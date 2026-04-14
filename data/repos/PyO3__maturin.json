@@ -1,0 +1,32 @@
+{
+  "owner": "PyO3",
+  "name": "maturin",
+  "description": "Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages",
+  "url": "https://github.com/PyO3/maturin",
+  "homepage_url": "https://maturin.rs",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "pyo3",
+    "python",
+    "wheels",
+    "cpython",
+    "packaging",
+    "pypi",
+    "cffi",
+    "pypy",
+    "uniffi",
+    "cross-compile",
+    "manylinux",
+    "hacktoberfest"
+  ],
+  "fork_count": 393,
+  "star_count": 5547,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 5547
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "owner": "SamNet-dev",
+  "name": "paqctl",
+  "description": "Unified proxy manager for bypassing firewalls - supports Paqet (KCP/raw socket) and GFW-Knocker (violated TCP/QUIC) with dual-backend simultaneous operation",
+  "url": "https://github.com/SamNet-dev/paqctl",
+  "homepage_url": "https://www.samnet.dev/",
+  "language": "Shell",
+  "license": "AGPL-3.0",
+  "topics": [
+    "china",
+    "firewall-bypass",
+    "gfw",
+    "gfw-breaker",
+    "iran",
+    "proxy",
+    "raw-socket",
+    "socks5",
+    "socks5-proxy",
+    "tunnel",
+    "vpn",
+    "paqet",
+    "kcp"
+  ],
+  "fork_count": 118,
+  "star_count": 793,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 793
+    }
+  ]
+}

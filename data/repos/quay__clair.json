@@ -1,0 +1,29 @@
+{
+  "owner": "quay",
+  "name": "clair",
+  "description": "Vulnerability Static Analysis for Containers",
+  "url": "https://github.com/quay/clair",
+  "homepage_url": "https://quay.github.io/clair/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "containers",
+    "static-analysis",
+    "go",
+    "kubernetes",
+    "docker",
+    "oci",
+    "oci-image",
+    "vulnerabilities",
+    "clair"
+  ],
+  "fork_count": 1201,
+  "star_count": 10969,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 10969
+    }
+  ]
+}

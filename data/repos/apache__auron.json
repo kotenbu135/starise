@@ -1,0 +1,25 @@
+{
+  "owner": "apache",
+  "name": "auron",
+  "description": "The Auron accelerator for distributed computing framework (e.g., Spark) leverages native vectorized execution to accelerate query processing",
+  "url": "https://github.com/apache/auron",
+  "homepage_url": "https://auron.apache.org/",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "big-data",
+    "spark",
+    "datafusion",
+    "rust-lang",
+    "arrow"
+  ],
+  "fork_count": 213,
+  "star_count": 1749,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 1749
+    }
+  ]
+}

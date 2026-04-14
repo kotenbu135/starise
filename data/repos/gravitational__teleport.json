@@ -1,0 +1,40 @@
+{
+  "owner": "gravitational",
+  "name": "teleport",
+  "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
+  "url": "https://github.com/gravitational/teleport",
+  "homepage_url": "https://goteleport.com",
+  "language": "Go",
+  "license": "AGPL-3.0",
+  "topics": [
+    "ssh",
+    "go",
+    "bastion",
+    "teleport-binaries",
+    "certificate",
+    "golang",
+    "cluster",
+    "teleport",
+    "firewall",
+    "security",
+    "jumpserver",
+    "rbac",
+    "audit",
+    "pam",
+    "kubernetes",
+    "kubernetes-access",
+    "firewalls",
+    "database-access",
+    "postgres",
+    "rdp"
+  ],
+  "fork_count": 2037,
+  "star_count": 20131,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 20131
+    }
+  ]
+}

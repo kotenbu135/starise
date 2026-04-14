@@ -1,0 +1,38 @@
+{
+  "owner": "authzed",
+  "name": "spicedb",
+  "description": "Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data",
+  "url": "https://github.com/authzed/spicedb",
+  "homepage_url": "https://authzed.com/docs",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "zanzibar",
+    "permissions",
+    "database",
+    "distributed-systems",
+    "security",
+    "security-tools",
+    "fine-grained-access-control",
+    "ciam",
+    "kubernetes",
+    "acl",
+    "cloud-native",
+    "fga",
+    "entitlements",
+    "abac",
+    "rbac",
+    "rebac",
+    "authorization",
+    "fine-grained-authorization"
+  ],
+  "fork_count": 379,
+  "star_count": 6594,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 6594
+    }
+  ]
+}

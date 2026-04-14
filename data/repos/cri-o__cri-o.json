@@ -1,0 +1,29 @@
+{
+  "owner": "cri-o",
+  "name": "cri-o",
+  "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
+  "url": "https://github.com/cri-o/cri-o",
+  "homepage_url": "https://cri-o.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "oci",
+    "oci-runtime",
+    "kubernetes",
+    "container-runtime-interface",
+    "k8s-sig-node",
+    "kata-containers",
+    "runc",
+    "hacktoberfest",
+    "crun"
+  ],
+  "fork_count": 1161,
+  "star_count": 5603,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 5603
+    }
+  ]
+}

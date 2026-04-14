@@ -1,0 +1,38 @@
+{
+  "owner": "dtm-labs",
+  "name": "dtm",
+  "description": "A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.",
+  "url": "https://github.com/dtm-labs/dtm",
+  "homepage_url": "http://d.dtm.pub",
+  "language": "Go",
+  "license": "BSD-3-Clause",
+  "topics": [
+    "saga",
+    "xa",
+    "tcc",
+    "microservice",
+    "seata",
+    "go",
+    "dtm",
+    "golang",
+    "distributed",
+    "transaction",
+    "distributed-transactions",
+    "database",
+    "java",
+    "csharp",
+    "transactions",
+    "workflow-engine",
+    "cadence",
+    "outbox"
+  ],
+  "fork_count": 1002,
+  "star_count": 10864,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 10864
+    }
+  ]
+}

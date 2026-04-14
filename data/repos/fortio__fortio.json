@@ -1,0 +1,31 @@
+{
+  "owner": "fortio",
+  "name": "fortio",
+  "description": "Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.",
+  "url": "https://github.com/fortio/fortio",
+  "homepage_url": "https://fortio.org",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "golang",
+    "golang-library",
+    "golang-application",
+    "performance",
+    "performance-testing",
+    "performance-visualization",
+    "http",
+    "grpc",
+    "proxy",
+    "go",
+    "stress-testing"
+  ],
+  "fork_count": 272,
+  "star_count": 3689,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 3689
+    }
+  ]
+}

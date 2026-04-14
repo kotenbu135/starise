@@ -1,0 +1,27 @@
+{
+  "owner": "leonchen83",
+  "name": "redis-replicator",
+  "description": "A tool that can parse, filter, split, and merge RDB files, as well as analyze memory usage offline. It can also sync data between two Redis instances and allows users to define their own sink   services to migrate Redis data to custom destinations.",
+  "url": "https://github.com/leonchen83/redis-replicator",
+  "homepage_url": "",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "redis",
+    "rdb",
+    "replication",
+    "parser",
+    "aof",
+    "psync2",
+    "redis-replication"
+  ],
+  "fork_count": 277,
+  "star_count": 997,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 997
+    }
+  ]
+}
