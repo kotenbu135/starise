@@ -1,0 +1,26 @@
+{
+  "owner": "NJUxlj",
+  "name": "Chinese-MedQA-Qwen2",
+  "description": "基于Qwen2+SFT+DPO的医疗问答系统，项目中使用了自定义的 SFTTrainer/DPOTrainer/TRPOTrainer用于训练，其次，项目还调用各种知识库工具（neo4j, milvus, LDA, 等）进行自动化训练数据生成。另外，使用 vllm 用于推理和部署训好的模型, 该模型会通过 vllm API 来接入一个基于 embedder + Reranker 的 RAG 系统。另外还参考 MDAgents 论文实现了一个多智能体会诊系统，同样也支持 vllm api 接入。",
+  "url": "https://github.com/NJUxlj/Chinese-MedQA-Qwen2",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "",
+  "topics": [
+    "dpo",
+    "qwen2",
+    "vllm",
+    "mas",
+    "rag",
+    "trpo"
+  ],
+  "fork_count": 9,
+  "star_count": 70,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-14",
+      "stars": 70
+    }
+  ]
+}
