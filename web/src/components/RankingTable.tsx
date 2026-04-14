@@ -1,5 +1,5 @@
 import { useState, useMemo } from "react";
-import { ArrowUp, ArrowDown, Star } from "lucide-react";
+import { ArrowUp, ArrowDown, Star, TrendingUp, Zap, Sparkles } from "lucide-react";
 import { cn, formatNumber, formatGrowthRate } from "../lib/utils";
 import type { RankingEntry, Period, SortKey, SortDirection, AgeFilter } from "../lib/types";
 import { filterByAge, sortEntries, paginate } from "../lib/ranking";
@@ -29,13 +29,19 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
 
   const entries = rankings[period] ?? [];
 
-  const languages = useMemo(() => {
-    const set = new Set<string>();
+  const languageCounts = useMemo(() => {
+    const map = new Map<string, number>();
     for (const e of entries) {
-      if (e.language) set.add(e.language);
+      if (e.language) map.set(e.language, (map.get(e.language) ?? 0) + 1);
     }
-    return Array.from(set).sort();
+    return map;
   }, [entries]);
+
+  const languages = useMemo(() => {
+    return Array.from(languageCounts.entries())
+      .sort((a, b) => b[1] - a[1])
+      .map(([lang]) => lang);
+  }, [languageCounts]);
 
   // Data pipeline: lang filter → age filter → sort → paginate
   const processed = useMemo(() => {
@@ -91,7 +97,7 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
     <div className="space-y-6">
       {/* Controls */}
       <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-        <PeriodToggle period={period} onChange={handlePeriodChange} />
+        <PeriodToggle period={period} onChange={handlePeriodChange} count={processed.length} />
         <p className="text-xs text-text-muted">
           最終更新: {updatedDate}
         </p>
@@ -100,6 +106,7 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
       {languages.length > 0 && (
         <FilterBar
           languages={languages}
+          languageCounts={languageCounts}
           selected={langFilter}
           onChange={handleLangChange}
           ageFilter={ageFilter}
@@ -112,7 +119,7 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
         <table className="w-full text-sm">
           <thead>
             <tr className="border-b border-border text-left text-xs text-text-muted">
-              <th className="py-3 pr-2 w-12">#</th>
+              <th className="py-3 pr-2 w-14 whitespace-nowrap">#</th>
               <th className="py-3 px-2">リポジトリ</th>
               <th className="py-3 px-2 w-24">言語</th>
               <SortHeader
@@ -147,9 +154,10 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
                 key={`${entry.owner}/${entry.name}`}
                 className="border-b border-border/50 hover:bg-surface transition-colors duration-150"
               >
-                <td className="py-3 pr-2">
-                  <span className="text-base font-bold tabular-nums text-text-secondary">
+                <td className="py-3 pr-2 whitespace-nowrap min-w-[3rem]">
+                  <span className="text-base font-bold tabular-nums text-text-secondary inline-flex items-center gap-1">
                     {isDefaultSort ? entry.rank : (page - 1) * PER_PAGE + idx + 1}
+                    <TrendIcon rate={entry.growth_rate} rank={entry.rank} />
                   </span>
                 </td>
                 <td className="py-3 px-2">
@@ -201,8 +209,9 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
             <div className="flex items-start justify-between gap-2">
               <div className="min-w-0 flex-1">
                 <div className="flex items-center gap-2">
-                  <span className="text-base font-bold tabular-nums text-text-secondary shrink-0">
+                  <span className="text-base font-bold tabular-nums text-text-secondary shrink-0 inline-flex items-center gap-1">
                     #{isDefaultSort ? entry.rank : (page - 1) * PER_PAGE + idx + 1}
+                    <TrendIcon rate={entry.growth_rate} rank={entry.rank} />
                   </span>
                   <span className="font-mono text-[13px] font-medium text-brand truncate">
                     {entry.owner}/{entry.name}
@@ -229,9 +238,18 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
       </div>
 
       {pageItems.length === 0 && (
-        <p className="text-center py-12 text-text-muted text-sm">
-          該当するリポジトリがありません
-        </p>
+        <div className="text-center py-16">
+          <p className="text-text-muted text-sm">該当するリポジトリがありません</p>
+          <p className="text-text-muted text-xs mt-2">フィルタ条件を変更してみてください</p>
+          {(langFilter || ageFilter !== "all") && (
+            <button
+              onClick={() => { handleLangChange(""); handleAgeChange("all"); }}
+              className="mt-4 text-xs text-brand hover:text-brand-hover transition-colors duration-150"
+            >
+              フィルタをリセット
+            </button>
+          )}
+        </div>
       )}
 
       <Pagination
@@ -264,6 +282,13 @@ function DeltaCell({ delta }: { delta: number }) {
       {formatNumber(Math.abs(delta))}
     </span>
   );
+}
+
+function TrendIcon({ rate, rank }: { rate: number; rank: number }) {
+  if (rate >= 50) return <Zap className="w-3.5 h-3.5 text-accent" title="急上昇" />;
+  if (rate >= 10) return <TrendingUp className="w-3.5 h-3.5 text-success" title="成長中" />;
+  if (rank <= 10) return <Sparkles className="w-3.5 h-3.5 text-brand" title="トップ10" />;
+  return null;
 }
 
 function GrowthCell({ rate }: { rate: number }) {

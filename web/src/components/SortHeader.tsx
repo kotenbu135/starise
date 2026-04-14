@@ -1,4 +1,5 @@
 import { ArrowUp, ArrowDown, ArrowUpDown } from "lucide-react";
+import { cn } from "../lib/utils";
 import type { SortKey, SortDirection } from "../lib/types";
 
 interface Props {
@@ -14,19 +15,23 @@ export function SortHeader({ label, sortKey, currentKey, direction, onSort, clas
   const active = sortKey === currentKey;
   return (
     <th
-      className={`py-3 px-2 text-right cursor-pointer select-none hover:text-brand transition-colors duration-150 ${className ?? ""}`}
+      className={cn(
+        "py-3 px-2 text-right cursor-pointer select-none transition-colors duration-150",
+        active ? "text-brand border-b-2 border-brand" : "hover:text-brand",
+        className,
+      )}
       onClick={() => onSort(sortKey)}
     >
       <span className="inline-flex items-center justify-end gap-1">
         {label}
         {active ? (
           direction === "desc" ? (
-            <ArrowDown className="w-3 h-3" />
+            <ArrowDown className="w-4 h-4" />
           ) : (
-            <ArrowUp className="w-3 h-3" />
+            <ArrowUp className="w-4 h-4" />
           )
         ) : (
-          <ArrowUpDown className="w-3 h-3 opacity-40" />
+          <ArrowUpDown className="w-3.5 h-3.5 opacity-40" />
         )}
       </span>
     </th>

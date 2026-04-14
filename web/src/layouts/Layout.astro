@@ -33,8 +33,12 @@ const { title, description = "日本語で使える GitHub Star 発見サイト"
       <slot />
     </main>
     <footer class="border-t border-border mt-16">
-      <div class="mx-auto max-w-[1200px] px-4 py-6 text-center text-text-muted text-xs">
-        starise — GitHub Star 発見サイト
+      <div class="mx-auto max-w-[1200px] px-4 py-6 flex flex-col sm:flex-row items-center justify-between gap-2 text-text-muted text-xs">
+        <span>starise — GitHub Star 発見サイト</span>
+        <div class="flex items-center gap-4">
+          <span>データソース: GitHub API</span>
+          <a href="https://github.com/kotenbu135/starise" class="hover:text-brand transition-colors duration-150">GitHub</a>
+        </div>
       </div>
     </footer>
   </body>
