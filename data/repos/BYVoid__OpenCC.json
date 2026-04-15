@@ -1,15 +1,17 @@
 {
   "owner": "BYVoid",
   "name": "OpenCC",
-  "description": "Conversion between Traditional and Simplified Chinese",
+  "description": "Library for conversion between Traditional and Simplified Chinese",
   "url": "https://github.com/BYVoid/OpenCC",
-  "homepage_url": "http://byvoid.github.io/OpenCC/",
+  "homepage_url": "https://opencc.byvoid.com/",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [
     "chinese-translation",
     "traditional-chinese",
-    "simplified-chinese"
+    "simplified-chinese",
+    "chinese",
+    "chinese-conversion"
   ],
   "fork_count": 1044,
   "star_count": 9601,

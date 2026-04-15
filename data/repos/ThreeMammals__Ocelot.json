@@ -3,7 +3,7 @@
   "name": "Ocelot",
   "description": ".NET API Gateway",
   "url": "https://github.com/ThreeMammals/Ocelot",
-  "homepage_url": "https://www.nuget.org/packages/Ocelot",
+  "homepage_url": "https://ocelot.readthedocs.io",
   "language": "C#",
   "license": "MIT",
   "topics": [
@@ -12,9 +12,10 @@
     "aspnetcore",
     "gateway",
     "microservices",
-    "reverse-proxy"
+    "reverse-proxy",
+    "api-gateway"
   ],
-  "fork_count": 1689,
+  "fork_count": 1688,
   "star_count": 8691,
   "is_archived": false,
   "star_history": [

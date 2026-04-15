@@ -1,0 +1,32 @@
+{
+  "owner": "RyanCodrai",
+  "name": "turbovec",
+  "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+  "url": "https://github.com/RyanCodrai/turbovec",
+  "homepage_url": "https://pypi.org/project/turbovec/",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "ann",
+    "avx512",
+    "embeddings",
+    "faiss",
+    "nearest-neighbor",
+    "neon",
+    "python",
+    "quantization",
+    "rag",
+    "rust",
+    "simd",
+    "vector-search"
+  ],
+  "fork_count": 11,
+  "star_count": 285,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-15",
+      "stars": 285
+    }
+  ]
+}

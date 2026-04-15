@@ -1,7 +1,7 @@
 {
   "owner": "versity",
   "name": "versitygw",
-  "description": "versity s3 gateway",
+  "description": "A simple to deploy but feature rich S3 object storage server for your filesystem",
   "url": "https://github.com/versity/versitygw",
   "homepage_url": "https://www.versity.com/products/versitygw/",
   "language": "Go",
@@ -9,9 +9,10 @@
   "topics": [
     "filesystem",
     "s3",
-    "s3-storage"
+    "s3-storage",
+    "object-storage"
   ],
-  "fork_count": 205,
+  "fork_count": 212,
   "star_count": 6299,
   "is_archived": false,
   "star_history": [

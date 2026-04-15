@@ -1,7 +1,7 @@
 {
   "owner": "thomas-mauran",
   "name": "chess-tui",
-  "description": "Play chess in the terminal. Rust TUI, Stockfish, Lichess.",
+  "description": "Play chess in any terminal. Rust TUI, Stockfish, Lichess.",
   "url": "https://github.com/thomas-mauran/chess-tui",
   "homepage_url": "https://thomas-mauran.github.io/chess-tui/",
   "language": "Rust",
@@ -20,9 +20,11 @@
     "rust-tools",
     "stockfish",
     "terminal",
-    "uci"
+    "uci",
+    "pgn",
+    "pgn-reader"
   ],
-  "fork_count": 61,
+  "fork_count": 62,
   "star_count": 999,
   "is_archived": false,
   "star_history": [

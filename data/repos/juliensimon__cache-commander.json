@@ -1,0 +1,38 @@
+{
+  "owner": "juliensimon",
+  "name": "cache-commander",
+  "description": "Cache Commander — a TUI and MCP server to explore, audit, and clean developer cache directories. Scan for CVEs, find outdated packages, reclaim disk space. Supports pip, npm, Cargo, HuggingFace, Homebrew, and more.",
+  "url": "https://github.com/juliensimon/cache-commander",
+  "homepage_url": "https://github.com/juliensimon/cache-commander",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "cache",
+    "cargo",
+    "cli",
+    "cve",
+    "developer-tools",
+    "disk-space",
+    "huggingface",
+    "linux",
+    "macos",
+    "npm",
+    "package-manager",
+    "pip",
+    "rust",
+    "security",
+    "supply-chain-security",
+    "terminal",
+    "tui",
+    "vulnerability-scanner"
+  ],
+  "fork_count": 3,
+  "star_count": 49,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-15",
+      "stars": 49
+    }
+  ]
+}

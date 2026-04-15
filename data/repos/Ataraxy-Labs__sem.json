@@ -1,7 +1,7 @@
 {
   "owner": "Ataraxy-Labs",
   "name": "sem",
-  "description": "Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 23 languages via tree-sitter.",
+  "description": "Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 24 languages via tree-sitter.",
   "url": "https://github.com/Ataraxy-Labs/sem",
   "homepage_url": "https://ataraxy-labs.github.io/sem/",
   "language": "Rust",
@@ -17,7 +17,7 @@
     "semantic-diff",
     "tree-sitter"
   ],
-  "fork_count": 47,
+  "fork_count": 49,
   "star_count": 1619,
   "is_archived": false,
   "star_history": [

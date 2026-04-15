@@ -1,9 +1,9 @@
 {
   "owner": "openssl",
   "name": "openssl",
-  "description": "TLS/SSL and crypto library",
+  "description": "General purpose TLS and crypto library",
   "url": "https://github.com/openssl/openssl",
-  "homepage_url": "https://www.openssl.org",
+  "homepage_url": "https://openssl-library.org/",
   "language": "C",
   "license": "Apache-2.0",
   "topics": [
@@ -14,7 +14,7 @@
     "ssl",
     "decryption"
   ],
-  "fork_count": 11190,
+  "fork_count": 11196,
   "star_count": 29926,
   "is_archived": false,
   "star_history": [

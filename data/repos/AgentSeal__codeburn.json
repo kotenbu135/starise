@@ -1,7 +1,7 @@
 {
   "owner": "AgentSeal",
   "name": "codeburn",
-  "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.",
+  "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
   "url": "https://github.com/AgentSeal/codeburn",
   "homepage_url": "",
   "language": "TypeScript",
@@ -15,9 +15,10 @@
     "developer-tools",
     "observability",
     "terminal-ui",
-    "token-usage"
+    "token-usage",
+    "cursor-ide"
   ],
-  "fork_count": 51,
+  "fork_count": 111,
   "star_count": 588,
   "is_archived": false,
   "star_history": [

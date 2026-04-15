@@ -1,0 +1,28 @@
+{
+  "owner": "megeezy",
+  "name": "Chameleon",
+  "description": "Stateless LLM runtime that dynamically routes, loads, executes, and unloads models per request with bounded VRAM caching and intelligent model selection.",
+  "url": "https://github.com/megeezy/Chameleon",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "ai-infrastructure",
+    "generative-ai",
+    "latency-optimization",
+    "llm",
+    "model-routing",
+    "systems-programming",
+    "vram-optimization",
+    "model-scheduling"
+  ],
+  "fork_count": 2,
+  "star_count": 40,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-15",
+      "stars": 40
+    }
+  ]
+}

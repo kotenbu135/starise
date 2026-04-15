@@ -1,7 +1,7 @@
 {
   "owner": "linshenkx",
   "name": "prompt-optimizer",
-  "description": "一款提示词优化器，助力于编写高质量的提示词",
+  "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
   "url": "https://github.com/linshenkx/prompt-optimizer",
   "homepage_url": "https://prompt.always200.com",
   "language": "TypeScript",
@@ -12,7 +12,11 @@
     "prompt-engineering",
     "prompt-optimization",
     "prompt-toolkit",
-    "prompt-tuning"
+    "prompt-tuning",
+    "ai-prompts",
+    "ai-tools",
+    "prompt-optimizer",
+    "prompt-testing"
   ],
   "fork_count": 3125,
   "star_count": 26334,

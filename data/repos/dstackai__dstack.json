@@ -1,7 +1,7 @@
 {
   "owner": "dstackai",
   "name": "dstack",
-  "description": "Control plane for agents and engineers to provision compute and run training and inference across NVIDIA, AMD, TPU, and Tenstorrent GPUs—on clouds, Kubernetes, and bare-metal clusters.",
+  "description": "Vendor-agnostic orchestration for training, inference and agentic workloads across NVIDIA, AMD, TPU, and Tenstorrent on clouds, Kubernetes, and bare metal.",
   "url": "https://github.com/dstackai/dstack",
   "homepage_url": "https://dstack.ai/docs",
   "language": "Python",

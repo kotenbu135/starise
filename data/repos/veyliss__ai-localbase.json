@@ -1,7 +1,7 @@
 {
   "owner": "veyliss",
   "name": "ai-localbase",
-  "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）类型",
+  "description": "一个本地优先的AI知识库系统（RAG），用于把本地文档接入辅导搜索与大模型对话流程。目前支持md、txt、pdf（文本）、xlsx、cvs类型",
   "url": "https://github.com/veyliss/ai-localbase",
   "homepage_url": "",
   "language": "Go",
@@ -15,7 +15,7 @@
     "react",
     "knowledge-base"
   ],
-  "fork_count": 25,
+  "fork_count": 26,
   "star_count": 160,
   "is_archived": false,
   "star_history": [
