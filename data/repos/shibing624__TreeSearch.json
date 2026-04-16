@@ -1,9 +1,9 @@
 {
   "owner": "shibing624",
   "name": "TreeSearch",
-  "description": "TreeSearch: Structure-aware document retrieval without embeddings. 毫秒检索万级文档和大型代码库，并保留文档结构。",
+  "description": "TreeSearch: Search your codebase like a human — not like a vector database. No embeddings. No chunking. Just millisecond search over structured documents and large codebases. 无需 embedding，无需切分文档，在结构化文档和大型代码库中实现毫秒级检索。",
   "url": "https://github.com/shibing624/TreeSearch",
-  "homepage_url": "",
+  "homepage_url": "https://pypi.org/project/pytreesearch/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [

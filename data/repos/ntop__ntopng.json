@@ -1,0 +1,33 @@
+{
+  "owner": "ntop",
+  "name": "ntopng",
+  "description": "Web-based Traffic and Security Network Traffic Monitoring",
+  "url": "https://github.com/ntop/ntopng",
+  "homepage_url": "http://www.ntop.org",
+  "language": "Lua",
+  "license": "GPL-3.0",
+  "topics": [
+    "ntopng",
+    "realtime",
+    "network",
+    "sflow",
+    "ipfix",
+    "traffic-monitoring",
+    "packet-analyser",
+    "packet-processing",
+    "netflow",
+    "snmp",
+    "ebpf",
+    "docker",
+    "kubernetes"
+  ],
+  "fork_count": 734,
+  "star_count": 7726,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-16",
+      "stars": 7726
+    }
+  ]
+}

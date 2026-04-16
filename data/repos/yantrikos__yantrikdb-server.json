@@ -1,7 +1,7 @@
 {
   "owner": "yantrikos",
   "name": "yantrikdb-server",
-  "description": "YantrikDB database server — wire protocol + HTTP gateway",
+  "description": "Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.",
   "url": "https://github.com/yantrikos/yantrikdb-server",
   "homepage_url": "https://yantrikdb.com",
   "language": "Rust",
@@ -16,9 +16,19 @@
     "memory",
     "rust",
     "self-hosted",
-    "vector-database"
+    "vector-database",
+    "agent-memory",
+    "anthropic",
+    "claude-code",
+    "embeddings",
+    "hnsw",
+    "knowledge-graph",
+    "mcp-server",
+    "open-source",
+    "persistent-memory",
+    "semantic-memory"
   ],
-  "fork_count": 4,
+  "fork_count": 5,
   "star_count": 98,
   "is_archived": false,
   "star_history": [

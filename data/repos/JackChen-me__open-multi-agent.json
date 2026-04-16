@@ -1,7 +1,7 @@
 {
   "owner": "JackChen-me",
   "name": "open-multi-agent",
-  "description": "TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.",
+  "description": "TypeScript multi-agent orchestration engine — one runTeam() call from goal to result. Multi-model teams, auto task decomposition, parallel execution. 3 runtime dependencies.",
   "url": "https://github.com/JackChen-me/open-multi-agent",
   "homepage_url": "",
   "language": "TypeScript",
@@ -22,9 +22,13 @@
     "ollama",
     "structured-output",
     "tool-use",
-    "gemma4"
+    "deepseek",
+    "gemini",
+    "grok",
+    "local-llm",
+    "mcp"
   ],
-  "fork_count": 2257,
+  "fork_count": 2260,
   "star_count": 5697,
   "is_archived": false,
   "star_history": [

@@ -3,8 +3,8 @@
   "name": "react-native-vision-camera",
   "description": "📸 A powerful, high-performance React Native Camera library.",
   "url": "https://github.com/mrousavy/react-native-vision-camera",
-  "homepage_url": "https://react-native-vision-camera.com",
-  "language": "Swift",
+  "homepage_url": "https://visioncamera.margelo.com",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "react-native",
@@ -14,7 +14,6 @@
     "react",
     "jsi",
     "worklet",
-    "ai",
     "qrcode",
     "typescript",
     "ios",
@@ -26,9 +25,10 @@
     "react-native-camera",
     "barcode",
     "native",
-    "qr"
+    "qr",
+    "ml"
   ],
-  "fork_count": 1338,
+  "fork_count": 1340,
   "star_count": 9280,
   "is_archived": false,
   "star_history": [

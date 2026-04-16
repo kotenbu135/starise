@@ -1,0 +1,28 @@
+{
+  "owner": "edisionnano",
+  "name": "QDiskInfo",
+  "description": "QDiskInfo is a frontend for smartctl (part of the smartmontools package). It provides a user experience similar to CrystalDiskInfo. It shows the SMART (Self-Monitoring, Analysis, and Reporting Technology) data of modern hard disk drives.",
+  "url": "https://github.com/edisionnano/QDiskInfo",
+  "homepage_url": "",
+  "language": "C++",
+  "license": "GPL-3.0",
+  "topics": [
+    "crystaldiskinfo",
+    "hdd",
+    "linux",
+    "nvme",
+    "sata",
+    "scsi",
+    "smart",
+    "ssd"
+  ],
+  "fork_count": 27,
+  "star_count": 556,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-16",
+      "stars": 556
+    }
+  ]
+}

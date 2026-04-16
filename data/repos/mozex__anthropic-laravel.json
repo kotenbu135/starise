@@ -1,9 +1,9 @@
 {
   "owner": "mozex",
   "name": "anthropic-laravel",
-  "description": "Laravel integration for the Anthropic Claude API - Facades, config publishing, and testing fakes included.",
+  "description": "Laravel integration for the Anthropic API: facade, config publishing, install command, testing fakes, messages, streaming, tool use, thinking, and batches.",
   "url": "https://github.com/mozex/anthropic-laravel",
-  "homepage_url": "",
+  "homepage_url": "https://mozex.dev/docs/anthropic-laravel",
   "language": "PHP",
   "license": "MIT",
   "topics": [

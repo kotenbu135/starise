@@ -3,7 +3,7 @@
   "name": "dagu",
   "description": "A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Persistent Workflow Operator handles creating and debugging workflows.",
   "url": "https://github.com/dagucloud/dagu",
-  "homepage_url": "https://dagu.sh/oss",
+  "homepage_url": "https://dagu.sh",
   "language": "Go",
   "license": "GPL-3.0",
   "topics": [
@@ -25,7 +25,7 @@
     "durable-execution",
     "durable-workflows"
   ],
-  "fork_count": 252,
+  "fork_count": 253,
   "star_count": 3277,
   "is_archived": false,
   "star_history": [
