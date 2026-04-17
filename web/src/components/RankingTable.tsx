@@ -12,6 +12,7 @@ const PER_PAGE = 20;
 
 interface Props {
   rankings: {
+    "1d": RankingEntry[];
     "7d": RankingEntry[];
     "30d": RankingEntry[];
   };

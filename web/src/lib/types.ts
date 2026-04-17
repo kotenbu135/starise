@@ -15,6 +15,7 @@ export interface RankingEntry {
 export interface RankingsData {
   updated_at: string;
   rankings: {
+    "1d": RankingEntry[];
     "7d": RankingEntry[];
     "30d": RankingEntry[];
   };
@@ -41,7 +42,7 @@ export interface Meta {
   periods: string[];
 }
 
-export type Period = "7d" | "30d";
+export type Period = "1d" | "7d" | "30d";
 
 export type SortKey = "star_count" | "star_delta" | "growth_rate";
 export type SortDirection = "asc" | "desc";

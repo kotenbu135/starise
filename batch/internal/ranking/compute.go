@@ -25,6 +25,7 @@ func Compute(database *sql.DB) error {
 		Name string
 		Days int
 	}{
+		{"1d", 1},
 		{"7d", 7},
 		{"30d", 30},
 	} {

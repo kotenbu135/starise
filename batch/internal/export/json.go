@@ -71,7 +71,7 @@ func Export(database *sql.DB, outDir string) error {
 		Rankings:  make(map[string][]RankingEntry),
 	}
 
-	for _, period := range []string{"7d", "30d"} {
+	for _, period := range []string{"1d", "7d", "30d"} {
 		entries, err := getRankingEntries(database, period, repos)
 		if err != nil {
 			return err
@@ -127,7 +127,7 @@ func Export(database *sql.DB, outDir string) error {
 	meta := Meta{
 		GeneratedAt: now,
 		TotalRepos:  len(repos),
-		Periods:     []string{"7d", "30d"},
+		Periods:     []string{"1d", "7d", "30d"},
 	}
 	if err := writeJSON(filepath.Join(outDir, "meta.json"), meta); err != nil {
 		return err

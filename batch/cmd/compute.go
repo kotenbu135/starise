@@ -10,7 +10,7 @@ import (
 
 var computeCmd = &cobra.Command{
 	Use:   "compute",
-	Short: "Calculate 7d/30d star growth rankings",
+	Short: "Calculate 1d/7d/30d star growth rankings",
 	RunE:  runCompute,
 }
 

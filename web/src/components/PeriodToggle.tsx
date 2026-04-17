@@ -8,6 +8,7 @@ interface Props {
 }
 
 const periods: { value: Period; label: string }[] = [
+  { value: "1d", label: "1日間" },
   { value: "7d", label: "7日間" },
   { value: "30d", label: "30日間" },
 ];
