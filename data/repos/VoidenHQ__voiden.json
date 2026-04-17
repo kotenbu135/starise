@@ -1,7 +1,7 @@
 {
   "owner": "VoidenHQ",
   "name": "voiden",
-  "description": "Define, test, and document APIs like a developer, not a SaaS user.  No accounts. No lock-in. No telemetry. Just Markdown, Git, hotkeys, and your damn specs.",
+  "description": "Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace \u0026 Version everything just like code. Truly Git Native. No Lock-in.",
   "url": "https://github.com/VoidenHQ/voiden",
   "homepage_url": "https://voiden.md",
   "language": "TypeScript",
@@ -9,32 +9,32 @@
   "topics": [
     "api",
     "api-client",
-    "apis",
     "devtools",
-    "git",
     "offline-first",
     "cli",
-    "curl",
     "rest-api",
     "automation",
     "javascript",
     "scripting",
     "websocket",
-    "apidocumentations",
     "openapi3",
     "openapi",
     "testing",
     "http-client",
     "graphql-client",
-    "opensource"
+    "opensource",
+    "postman-alternative",
+    "bruno-alternative",
+    "curl-alternative",
+    "insomnia-alternative"
   ],
   "fork_count": 22,
-  "star_count": 726,
+  "star_count": 745,
   "is_archived": false,
   "star_history": [
     {
-      "date": "2026-04-14",
-      "stars": 726
+      "date": "2026-04-17",
+      "stars": 745
     }
   ]
 }

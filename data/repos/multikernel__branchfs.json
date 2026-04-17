@@ -1,0 +1,23 @@
+{
+  "owner": "multikernel",
+  "name": "branchfs",
+  "description": "BranchFS is a FUSE-based filesystem that provides lightweight, atomic speculative branching on top of any existing filesystem.",
+  "url": "https://github.com/multikernel/branchfs",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "fuse-filesystem",
+    "linux",
+    "agenticos"
+  ],
+  "fork_count": 8,
+  "star_count": 47,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-17",
+      "stars": 47
+    }
+  ]
+}

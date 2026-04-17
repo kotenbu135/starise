@@ -1,7 +1,7 @@
 {
   "owner": "virajmavani",
   "name": "semi-auto-image-annotation-tool",
-  "description": "Anno-Mage: A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you annotations for 80 object classes using a pre-trained model",
+  "description": "Anno-Mage: A Semi Automatic Image Annotation Tool which helps you in annotating images by suggesting you annotations using user-defined labels",
   "url": "https://github.com/virajmavani/semi-auto-image-annotation-tool",
   "homepage_url": "https://virajmavani.com/annomage",
   "language": "Python",
@@ -19,12 +19,12 @@
     "torchvision"
   ],
   "fork_count": 129,
-  "star_count": 589,
+  "star_count": 590,
   "is_archived": false,
   "star_history": [
     {
-      "date": "2026-04-14",
-      "stars": 589
+      "date": "2026-04-17",
+      "stars": 590
     }
   ]
 }
