@@ -1,7 +1,7 @@
 {
   "owner": "hwdsl2",
   "name": "setup-ipsec-vpn",
-  "description": "Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",
+  "description": "Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and management scripts.",
   "url": "https://github.com/hwdsl2/setup-ipsec-vpn",
   "homepage_url": "",
   "language": "Shell",
@@ -18,14 +18,15 @@
     "encryption",
     "libreswan",
     "cisco-ipsec",
-    "docker",
     "linux",
     "raspberry-pi",
     "self-hosted",
     "bash",
     "debian",
     "shell",
-    "ubuntu"
+    "ubuntu",
+    "alpine-linux",
+    "strongswan"
   ],
   "fork_count": 6510,
   "star_count": 27627,

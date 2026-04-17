@@ -1,7 +1,7 @@
 {
   "owner": "lakehq",
   "name": "sail",
-  "description": "LakeSail's computation framework with a mission to unify batch processing, stream processing, and compute-intensive AI workloads.",
+  "description": "A drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
   "url": "https://github.com/lakehq/sail",
   "homepage_url": "https://lakesail.com",
   "language": "Rust",
@@ -19,15 +19,18 @@
     "artificial-intelligence",
     "data-engineering",
     "distributed-computing",
-    "machine-learning"
+    "machine-learning",
+    "lakehouse",
+    "delta-lake",
+    "iceberg"
   ],
   "fork_count": 87,
-  "star_count": 1375,
+  "star_count": 1387,
   "is_archived": false,
   "star_history": [
     {
       "date": "2026-04-17",
-      "stars": 1375
+      "stars": 1387
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "owner": "altnautica",
+  "name": "ADOSMissionControl",
+  "description": "Open-source web-based Ground Control Station for autonomous drones. FC config, sensor calibration, mission planning, MAVLink protocol, manual flight control. Supports multi drone fleet and companion software for true software defined drones.",
+  "url": "https://github.com/altnautica/ADOSMissionControl",
+  "homepage_url": "https://command.altnautica.com/",
+  "language": "TypeScript",
+  "license": "NOASSERTION",
+  "topics": [
+    "ardupilot",
+    "ardupilot-companion",
+    "betaflight",
+    "betaflight-configurator",
+    "drone",
+    "gcs",
+    "ground-control-station",
+    "inav",
+    "inav-configurator",
+    "mavlink",
+    "mission-planner",
+    "sitl",
+    "uav"
+  ],
+  "fork_count": 12,
+  "star_count": 46,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-17",
+      "stars": 46
+    }
+  ]
+}
