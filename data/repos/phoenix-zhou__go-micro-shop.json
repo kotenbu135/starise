@@ -1,0 +1,23 @@
+{
+  "owner": "phoenix-zhou",
+  "name": "go-micro-shop",
+  "description": "本项目是一个基于 ​​Golang Gin 框架​​ 开发的 ​​B2C 电商平台​​，采用 ​​MVC（Model-View-Controller）架构​​ 进行模块化设计，能够扩展为实现前后端分离，支持后台商品管理、用户系统、订单交易、支付集成、数据分析等功能,系统地展示了现代Web应用的全貌。该项目描绘了一个功能完整、技术选型现代的​​全栈电商项目​​。它从前端交互到后端管理，从业务逻辑到技术架构，从开发到运维，都做了全面的考量。使用Go语言作为后端，预示着项目对高并发性能有较高的要求。同时支持RESTful，也体现了技术上的前瞻性和灵活性。该项目是在phoenix-zhou/goshop项目的基础上进行扩展的, 主要是引入了微服务架构，对验证码功能, RBAC功能进行了微服务化。",
+  "url": "https://github.com/phoenix-zhou/go-micro-shop",
+  "homepage_url": "",
+  "language": "CSS",
+  "license": "",
+  "topics": [
+    "gin",
+    "go-micro",
+    "golang"
+  ],
+  "fork_count": 74,
+  "star_count": 582,
+  "is_archived": false,
+  "star_history": [
+    {
+      "date": "2026-04-17",
+      "stars": 582
+    }
+  ]
+}

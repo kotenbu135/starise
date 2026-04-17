@@ -1,19 +1,30 @@
 {
   "owner": "Mouseww",
   "name": "anything-analyzer",
-  "description": "利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器或应用行为 的协议分析文档",
+  "description": "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis \u0026 MCP server for agent integration",
   "url": "https://github.com/Mouseww/anything-analyzer",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "",
-  "topics": [],
-  "fork_count": 266,
-  "star_count": 1100,
+  "topics": [
+    "2api",
+    "ai-tools",
+    "api-analysis",
+    "automation-tools",
+    "blackbox-testing",
+    "network-analysis",
+    "protocol-analysis",
+    "reverse-engineering",
+    "traffic-analysis",
+    "analysis-cli"
+  ],
+  "fork_count": 291,
+  "star_count": 1243,
   "is_archived": false,
   "star_history": [
     {
       "date": "2026-04-17",
-      "stars": 1100
+      "stars": 1243
     }
   ]
 }

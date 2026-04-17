@@ -1,7 +1,7 @@
 {
   "owner": "damionrashford",
   "name": "RivalSearchMCP",
-  "description": "Deep Research \u0026 Competitor Analysis MCP for Claude \u0026 Cursor. No API Keys. Features: Web Search, Social Media (Reddit/HN), Trends \u0026 OCR.",
+  "description": "Deterministic research MCP server on FastMCP 3 — 5-engine web search, 9-platform social search, 6 academic DBs, news aggregation, entity profiles, conflict detection, document analysis. No API keys. No in-server LLM. Structured outputs for agent chaining.",
   "url": "https://github.com/damionrashford/RivalSearchMCP",
   "homepage_url": "",
   "language": "Python",
@@ -14,7 +14,6 @@
     "ai-assistant",
     "mcp-server",
     "research-tools",
-    "ocr",
     "claude-mcp",
     "competitor-analysis",
     "cursor-mcp",
@@ -25,16 +24,17 @@
     "claude-code",
     "claude-code-skills",
     "market-intelligence",
-    "model",
-    "trends-analysis"
+    "structured-output",
+    "deterministic-tools",
+    "entity-research"
   ],
   "fork_count": 14,
-  "star_count": 71,
+  "star_count": 72,
   "is_archived": false,
   "star_history": [
     {
       "date": "2026-04-17",
-      "stars": 71
+      "stars": 72
     }
   ]
 }

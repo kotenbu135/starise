@@ -1,7 +1,7 @@
 {
   "owner": "langchain4j",
   "name": "langchain4j",
-  "description": "LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.",
+  "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
   "url": "https://github.com/langchain4j/langchain4j",
   "homepage_url": "https://docs.langchain4j.dev",
   "language": "Java",
@@ -28,13 +28,13 @@
     "llm",
     "llms"
   ],
-  "fork_count": 2139,
-  "star_count": 11639,
+  "fork_count": 2140,
+  "star_count": 11644,
   "is_archived": false,
   "star_history": [
     {
       "date": "2026-04-17",
-      "stars": 11639
+      "stars": 11644
     }
   ]
 }
