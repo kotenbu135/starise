@@ -1,26 +1,25 @@
 package cmd
 
 import (
-	"fmt"
-	"os"
-
 	"github.com/spf13/cobra"
 )
 
-var dbPath string
+var (
+	dbPath  string
+	verbose bool
+)
 
 var rootCmd = &cobra.Command{
-	Use:   "starise-batch",
-	Short: "starise batch processor — fetch GitHub stars and compute rankings",
+	Use:   "starise",
+	Short: "starise batch processor",
 }
 
 func init() {
 	rootCmd.PersistentFlags().StringVar(&dbPath, "db", "starise.db", "SQLite database path")
+	rootCmd.PersistentFlags().BoolVarP(&verbose, "verbose", "v", false, "verbose logging")
 }
 
-func Execute() {
-	if err := rootCmd.Execute(); err != nil {
-		fmt.Fprintln(os.Stderr, err)
-		os.Exit(1)
-	}
+// Execute runs the root command.
+func Execute() error {
+	return rootCmd.Execute()
 }

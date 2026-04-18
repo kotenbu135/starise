@@ -1,146 +1,138 @@
 package export
 
 import (
-	"database/sql"
 	"encoding/json"
 	"os"
 	"path/filepath"
 	"testing"
 
 	"github.com/kotenbu135/starise/batch/internal/db"
-
 	_ "modernc.org/sqlite"
 )
 
-func newTestDB(t *testing.T) *sql.DB {
-	t.Helper()
-	d, err := db.Open(":memory:")
+func TestExportWritesAllFiles(t *testing.T) {
+	d, err := db.Open("")
 	if err != nil {
-		t.Fatalf("open db: %v", err)
+		t.Fatalf("open: %v", err)
 	}
-	t.Cleanup(func() { _ = d.Close() })
-	return d
-}
+	defer d.Close()
+	if err := db.Migrate(d); err != nil {
+		t.Fatalf("migrate: %v", err)
+	}
 
-func seedRepoWithStar(t *testing.T, d *sql.DB, owner, name, date string, stars int) {
-	t.Helper()
-	id, err := db.UpsertRepository(d, &db.Repository{
-		GitHubID: owner + "/" + name, Owner: owner, Name: name,
-		Topics: "[]", // required: export marshals this as raw JSON
+	// Seed two repos + stars + rankings.
+	a, _ := db.UpsertRepository(d, &db.Repository{
+		GitHubID: "gA", Owner: "acme", Name: "widget", Language: "Go",
+		Description: "first", URL: "https://github.com/acme/widget",
+		Topics: `["ai","cli"]`,
 	})
-	if err != nil {
-		t.Fatalf("upsert repo: %v", err)
-	}
-	if err := db.UpsertDailyStar(d, &db.DailyStar{RepoID: id, RecordedDate: date, StarCount: stars}); err != nil {
-		t.Fatalf("upsert star: %v", err)
-	}
-}
-
-func TestExport_RemovesOrphans(t *testing.T) {
-	d := newTestDB(t)
-	seedRepoWithStar(t, d, "acme", "alpha", "2026-04-17", 100)
-	seedRepoWithStar(t, d, "acme", "beta", "2026-04-17", 200)
-
-	outDir := t.TempDir()
-	reposDir := filepath.Join(outDir, "repos")
-	if err := os.MkdirAll(reposDir, 0o755); err != nil {
-		t.Fatal(err)
-	}
-	// Pre-seed stale files: one is expected to be cleaned, one will be overwritten
-	orphan := filepath.Join(reposDir, "old-owner__dead-repo.json")
-	if err := os.WriteFile(orphan, []byte(`{}`), 0o644); err != nil {
-		t.Fatal(err)
-	}
-	stillHere := filepath.Join(reposDir, "acme__alpha.json")
-	if err := os.WriteFile(stillHere, []byte(`{"stale": true}`), 0o644); err != nil {
-		t.Fatal(err)
-	}
-
-	if err := Export(d, outDir); err != nil {
-		t.Fatalf("Export: %v", err)
-	}
-
-	if _, err := os.Stat(orphan); !os.IsNotExist(err) {
-		t.Errorf("orphan still exists (err=%v)", err)
-	}
-	if _, err := os.Stat(stillHere); err != nil {
-		t.Errorf("kept file missing: %v", err)
-	}
-	// acme__beta.json also created
-	if _, err := os.Stat(filepath.Join(reposDir, "acme__beta.json")); err != nil {
-		t.Errorf("expected beta.json: %v", err)
-	}
-}
-
-func TestExport_EmptyRankingsAreJSONArrayNotNull(t *testing.T) {
-	d := newTestDB(t)
-	// no repos → rankings.json.rankings[period] should serialize as [], not null
-	outDir := t.TempDir()
-	if err := Export(d, outDir); err != nil {
-		t.Fatalf("Export: %v", err)
-	}
-
-	raw, err := os.ReadFile(filepath.Join(outDir, "rankings.json"))
-	if err != nil {
-		t.Fatal(err)
-	}
-	var f RankingsFile
-	if err := json.Unmarshal(raw, &f); err != nil {
-		t.Fatal(err)
+	b, _ := db.UpsertRepository(d, &db.Repository{
+		GitHubID: "gB", Owner: "foo", Name: "bar", Language: "Rust",
+		URL: "https://github.com/foo/bar", Topics: "[]",
+	})
+	for _, s := range []db.DailyStar{
+		{RepoID: a, RecordedDate: "2026-04-11", StarCount: 100},
+		{RepoID: a, RecordedDate: "2026-04-18", StarCount: 150},
+		{RepoID: b, RecordedDate: "2026-04-11", StarCount: 200},
+		{RepoID: b, RecordedDate: "2026-04-18", StarCount: 220},
+	} {
+		_ = db.UpsertDailyStar(d, &s)
 	}
 	for _, period := range []string{"1d", "7d", "30d"} {
-		v, ok := f.Rankings[period]
-		if !ok {
-			t.Errorf("period %s missing", period)
-			continue
-		}
-		if v == nil {
-			t.Errorf("period %s is nil (should be empty slice)", period)
-		}
-		if len(v) != 0 {
-			t.Errorf("period %s: len=%d, want 0", period, len(v))
-		}
+		_ = db.ReplaceRankingsForDate(d, period, "2026-04-18", []db.Ranking{
+			{RepoID: a, Period: period, ComputedDate: "2026-04-18",
+				StartStars: 100, EndStars: 150, StarDelta: 50, GrowthPct: 50.0, Rank: 1},
+			{RepoID: b, Period: period, ComputedDate: "2026-04-18",
+				StartStars: 200, EndStars: 220, StarDelta: 20, GrowthPct: 10.0, Rank: 2},
+		})
 	}
-	// Verify the wire format itself, not just the parsed struct: the raw JSON
-	// must contain `[]`, not `null`, for each period.
-	var wire struct {
-		Rankings map[string]json.RawMessage `json:"rankings"`
+
+	dir := t.TempDir()
+	if err := Export(d, dir, "2026-04-18T00:00:00Z", "2026-04-18", 10); err != nil {
+		t.Fatalf("export: %v", err)
 	}
-	if err := json.Unmarshal(raw, &wire); err != nil {
-		t.Fatal(err)
+
+	// rankings.json
+	var r Rankings
+	mustReadJSON(t, filepath.Join(dir, "rankings.json"), &r)
+	if len(r.Rankings["7d"]) != 2 {
+		t.Errorf("rankings.json 7d entries=%d", len(r.Rankings["7d"]))
 	}
-	for period, v := range wire.Rankings {
-		if string(v) == "null" {
-			t.Errorf("period %s serialized as null, want []", period)
-		}
+	if r.Rankings["7d"][0].FullName != "acme/widget" {
+		t.Errorf("top full_name: %q", r.Rankings["7d"][0].FullName)
+	}
+	if r.Rankings["7d"][0].Language != "Go" {
+		t.Errorf("language not populated: %q", r.Rankings["7d"][0].Language)
+	}
+
+	// meta.json
+	var meta Meta
+	mustReadJSON(t, filepath.Join(dir, "meta.json"), &meta)
+	if meta.TotalRepos != 2 {
+		t.Errorf("meta total_repos: %d", meta.TotalRepos)
+	}
+	if len(meta.Periods) != 3 {
+		t.Errorf("meta periods: %v", meta.Periods)
+	}
+
+	// repo detail
+	var detail RepoDetail
+	mustReadJSON(t, filepath.Join(dir, "repos", "acme__widget.json"), &detail)
+	if detail.FullName != "acme/widget" || detail.StarCount != 150 {
+		t.Errorf("detail mismatch: %+v", detail)
+	}
+	if len(detail.StarHistory) != 2 {
+		t.Errorf("history len: %d", len(detail.StarHistory))
+	}
+	if detail.StarHistory[0].Date != "2026-04-11" || detail.StarHistory[1].Date != "2026-04-18" {
+		t.Errorf("history order: %+v", detail.StarHistory)
+	}
+	if detail.Topics[0] != "ai" {
+		t.Errorf("topics: %v", detail.Topics)
 	}
 }
 
-func TestExport_IgnoresNonJSONFilesInReposDir(t *testing.T) {
-	d := newTestDB(t)
-	seedRepoWithStar(t, d, "acme", "alpha", "2026-04-17", 100)
+func TestExportDetailIsDeterministic(t *testing.T) {
+	d, _ := db.Open("")
+	defer d.Close()
+	_ = db.Migrate(d)
 
-	outDir := t.TempDir()
-	reposDir := filepath.Join(outDir, "repos")
-	if err := os.MkdirAll(reposDir, 0o755); err != nil {
-		t.Fatal(err)
-	}
-	// Non-.json files and subdirs must not be touched by orphan cleanup.
-	if err := os.WriteFile(filepath.Join(reposDir, ".gitkeep"), []byte(""), 0o644); err != nil {
-		t.Fatal(err)
-	}
-	if err := os.Mkdir(filepath.Join(reposDir, "subdir"), 0o755); err != nil {
-		t.Fatal(err)
-	}
+	_, _ = db.UpsertRepository(d, &db.Repository{GitHubID: "g", Owner: "o", Name: "r", Topics: "[]"})
+	_ = db.UpsertDailyStar(d, &db.DailyStar{RepoID: 1, RecordedDate: "2026-04-18", StarCount: 1})
+	_ = db.ReplaceRankingsForDate(d, "7d", "2026-04-18", []db.Ranking{
+		{RepoID: 1, Period: "7d", ComputedDate: "2026-04-18", StartStars: 10, EndStars: 12, StarDelta: 2, GrowthPct: 20.0, Rank: 1},
+	})
 
-	if err := Export(d, outDir); err != nil {
-		t.Fatalf("Export: %v", err)
+	dir := t.TempDir()
+	if err := Export(d, dir, "2026-04-18T00:00:00Z", "2026-04-18", 10); err != nil {
+		t.Fatalf("export: %v", err)
 	}
 
-	if _, err := os.Stat(filepath.Join(reposDir, ".gitkeep")); err != nil {
-		t.Errorf(".gitkeep removed: %v", err)
+	b1, err := os.ReadFile(filepath.Join(dir, "rankings.json"))
+	if err != nil {
+		t.Fatal(err)
 	}
-	if _, err := os.Stat(filepath.Join(reposDir, "subdir")); err != nil {
-		t.Errorf("subdir removed: %v", err)
+	// Run export a second time into a fresh dir.
+	dir2 := t.TempDir()
+	if err := Export(d, dir2, "2026-04-18T00:00:00Z", "2026-04-18", 10); err != nil {
+		t.Fatalf("second export: %v", err)
+	}
+	b2, err := os.ReadFile(filepath.Join(dir2, "rankings.json"))
+	if err != nil {
+		t.Fatal(err)
+	}
+	if string(b1) != string(b2) {
+		t.Errorf("non-deterministic rankings.json")
+	}
+}
+
+func mustReadJSON(t *testing.T, path string, v any) {
+	t.Helper()
+	b, err := os.ReadFile(path)
+	if err != nil {
+		t.Fatalf("read %s: %v", path, err)
+	}
+	if err := json.Unmarshal(b, v); err != nil {
+		t.Fatalf("unmarshal %s: %v", path, err)
 	}
 }

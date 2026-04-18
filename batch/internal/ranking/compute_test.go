@@ -1,188 +1,169 @@
 package ranking
 
 import (
-	"database/sql"
 	"math"
 	"testing"
-
-	"github.com/kotenbu135/starise/batch/internal/db"
-
-	_ "modernc.org/sqlite"
 )
 
-func newTestDB(t *testing.T) *sql.DB {
-	t.Helper()
-	d, err := db.Open(":memory:")
-	if err != nil {
-		t.Fatalf("open db: %v", err)
-	}
-	t.Cleanup(func() { _ = d.Close() })
-	return d
-}
-
-func seed(t *testing.T, d *sql.DB, owner, name, startDate string, startStars int, endDate string, endStars int) int64 {
-	t.Helper()
-	id, err := db.UpsertRepository(d, &db.Repository{
-		GitHubID: owner + "/" + name, Owner: owner, Name: name,
-	})
-	if err != nil {
-		t.Fatalf("seed repo: %v", err)
-	}
-	if startDate != "" {
-		if err := db.UpsertDailyStar(d, &db.DailyStar{RepoID: id, RecordedDate: startDate, StarCount: startStars}); err != nil {
-			t.Fatalf("seed start star: %v", err)
-		}
-	}
-	if err := db.UpsertDailyStar(d, &db.DailyStar{RepoID: id, RecordedDate: endDate, StarCount: endStars}); err != nil {
-		t.Fatalf("seed end star: %v", err)
-	}
-	return id
-}
-
-func fetchRankings(t *testing.T, d *sql.DB, period string) []rankRow {
-	t.Helper()
-	rows, err := d.Query(`
-		SELECT r.owner, r.name, rk.star_start, rk.star_end, rk.star_delta, rk.growth_rate, rk.rank
-		FROM rankings rk JOIN repositories r ON r.id = rk.repo_id
-		WHERE rk.period = ? ORDER BY rk.rank`, period)
-	if err != nil {
-		t.Fatalf("query rankings: %v", err)
-	}
-	defer rows.Close()
-	var out []rankRow
-	for rows.Next() {
-		var r rankRow
-		if err := rows.Scan(&r.Owner, &r.Name, &r.Start, &r.End, &r.Delta, &r.Rate, &r.Rank); err != nil {
-			t.Fatalf("scan: %v", err)
-		}
-		out = append(out, r)
-	}
-	return out
-}
-
-type rankRow struct {
-	Owner, Name    string
-	Start, End     int
-	Delta, Rank    int
-	Rate           float64
-}
-
-func TestCompute_GrowthRateMath(t *testing.T) {
-	d := newTestDB(t)
-	// 7-day window: end=2026-04-17 (MAX), start=2026-04-10
-	seed(t, d, "acme", "fast", "2026-04-10", 100, "2026-04-17", 200)   // +100%
-	seed(t, d, "acme", "slow", "2026-04-10", 100, "2026-04-17", 110)   // +10%
-	seed(t, d, "acme", "flat", "2026-04-10", 100, "2026-04-17", 100)   // 0%
-	seed(t, d, "acme", "drop", "2026-04-10", 100, "2026-04-17", 50)    // -50%
-
-	if err := Compute(d); err != nil {
-		t.Fatalf("Compute: %v", err)
-	}
-
-	rows := fetchRankings(t, d, "7d")
-	if len(rows) != 4 {
-		t.Fatalf("got %d rankings, want 4", len(rows))
-	}
-
-	wantByName := map[string]float64{
-		"fast": 100, "slow": 10, "flat": 0, "drop": -50,
-	}
-	for _, r := range rows {
-		want := wantByName[r.Name]
-		if math.Abs(r.Rate-want) > 0.01 {
-			t.Errorf("%s: rate=%.2f, want %.2f", r.Name, r.Rate, want)
-		}
-	}
-
-	// Rank order: fast(1), slow(2), flat(3), drop(4)
-	order := []string{"fast", "slow", "flat", "drop"}
-	for i, r := range rows {
-		if r.Name != order[i] {
-			t.Errorf("rank %d: got %s, want %s", r.Rank, r.Name, order[i])
-		}
-		if r.Rank != i+1 {
-			t.Errorf("%s: rank=%d, want %d", r.Name, r.Rank, i+1)
-		}
-	}
-}
-
-func TestCompute_SkipsRepoWithoutHistory(t *testing.T) {
-	d := newTestDB(t)
-	// Has 7-day-old row → should rank
-	seed(t, d, "acme", "tracked", "2026-04-10", 50, "2026-04-17", 100)
-	// No 7-day-old row → previously caused StarStart=0 bug, now excluded
-	seed(t, d, "acme", "orphan", "", 0, "2026-04-17", 99999)
-
-	if err := Compute(d); err != nil {
-		t.Fatalf("Compute: %v", err)
-	}
-
-	rows := fetchRankings(t, d, "7d")
-	if len(rows) != 1 {
-		t.Fatalf("got %d rankings, want 1 (orphan must be skipped): %+v", len(rows), rows)
-	}
-	if rows[0].Name != "tracked" {
-		t.Errorf("got %s, want tracked", rows[0].Name)
-	}
-	// Bug A fingerprint: rate == delta == end must not appear for real entries
-	if rows[0].Rate == float64(rows[0].Delta) && rows[0].Delta == rows[0].End {
-		t.Errorf("Bug A regression: rate(%f) == delta(%d) == end(%d)", rows[0].Rate, rows[0].Delta, rows[0].End)
-	}
-}
-
-func TestCompute_AllPeriodsIndependent(t *testing.T) {
-	d := newTestDB(t)
-	id, err := db.UpsertRepository(d, &db.Repository{GitHubID: "acme/multi", Owner: "acme", Name: "multi"})
-	if err != nil {
-		t.Fatal(err)
-	}
-	// Feed 30d, 7d, 1d baselines — all relative to MAX(2026-04-17)=100
-	for _, s := range []struct {
-		date  string
-		count int
+// TestGrowthPctFormula locks down the core math:
+//   growth = (end - start) / start * 100   (in %)
+// Below MinStartStars → result is excluded. start == 0 → excluded.
+func TestGrowthPctFormula(t *testing.T) {
+	cases := []struct {
+		name     string
+		start    int
+		end      int
+		wantPct  float64
+		excluded bool
 	}{
-		{"2026-03-18", 10}, // 30 days before
-		{"2026-04-10", 50}, // 7 days before
-		{"2026-04-16", 80}, // 1 day before
-		{"2026-04-17", 100},
-	} {
-		if err := db.UpsertDailyStar(d, &db.DailyStar{RepoID: id, RecordedDate: s.date, StarCount: s.count}); err != nil {
-			t.Fatal(err)
-		}
+		{"normal growth", 100, 150, 50.0, false},
+		{"no change", 100, 100, 0.0, false},
+		{"decline", 100, 80, -20.0, false},
+		{"threshold exact", 10, 20, 100.0, false},
+		{"above threshold", 50, 75, 50.0, false},
+		{"zero start excluded", 0, 100, 0, true},
+		{"below threshold excluded", 5, 100, 0, true},
+		{"one star excluded", 1, 100, 0, true},
+		{"nine stars excluded", 9, 9999, 0, true},
 	}
 
-	if err := Compute(d); err != nil {
-		t.Fatalf("Compute: %v", err)
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			got, ok := GrowthPct(tc.start, tc.end)
+			if ok == tc.excluded {
+				t.Fatalf("inclusion mismatch: ok=%v excluded=%v (start=%d end=%d)",
+					ok, tc.excluded, tc.start, tc.end)
+			}
+			if !tc.excluded && !floatEqual(got, tc.wantPct, 1e-9) {
+				t.Errorf("pct mismatch: got %v want %v", got, tc.wantPct)
+			}
+		})
 	}
+}
 
-	want := map[string]float64{
-		"1d":  25,  // (100-80)/80 * 100
-		"7d":  100, // (100-50)/50 * 100
-		"30d": 900, // (100-10)/10 * 100
-	}
-	for period, wantRate := range want {
-		rows := fetchRankings(t, d, period)
-		if len(rows) != 1 {
-			t.Errorf("%s: got %d rankings, want 1", period, len(rows))
-			continue
-		}
-		if math.Abs(rows[0].Rate-wantRate) > 0.01 {
-			t.Errorf("%s: rate=%.2f, want %.2f", period, rows[0].Rate, wantRate)
+func TestGrowthPctNeverReturnsNaNOrInf(t *testing.T) {
+	// Fuzz-ish: every input that is included must yield a finite float.
+	for start := 0; start <= 30; start++ {
+		for end := 0; end <= 1000; end += 37 {
+			got, ok := GrowthPct(start, end)
+			if !ok {
+				continue
+			}
+			if math.IsNaN(got) || math.IsInf(got, 0) {
+				t.Errorf("start=%d end=%d produced non-finite %v", start, end, got)
+			}
 		}
 	}
 }
 
-func TestCompute_IsIdempotent(t *testing.T) {
-	d := newTestDB(t)
-	seed(t, d, "acme", "alpha", "2026-04-10", 100, "2026-04-17", 150)
+// TestComputeRepoGrowth verifies the window-based growth computation using
+// daily snapshots. start snapshot is the latest at-or-before (endDate - period).
+func TestComputeRepoGrowth(t *testing.T) {
+	snapshots := []Snapshot{
+		{Date: "2026-03-18", Stars: 100},
+		{Date: "2026-04-10", Stars: 150},
+		{Date: "2026-04-11", Stars: 160},
+		{Date: "2026-04-17", Stars: 200},
+		{Date: "2026-04-18", Stars: 210},
+	}
 
-	for i := 0; i < 3; i++ {
-		if err := Compute(d); err != nil {
-			t.Fatalf("Compute iter %d: %v", i, err)
-		}
+	cases := []struct {
+		name     string
+		period   Period
+		wantPct  float64
+		wantDelt int
+		wantStart int
+		wantEnd   int
+		excluded bool
+	}{
+		// 1d: base = 2026-04-17 (200). end = 2026-04-18 (210). (210-200)/200*100 = 5
+		{"1d", Period1d, 5.0, 10, 200, 210, false},
+		// 7d: base = 2026-04-11 (160). (210-160)/160*100 = 31.25
+		{"7d", Period7d, 31.25, 50, 160, 210, false},
+		// 30d: base = 2026-03-18 snapshot (at-or-before 2026-03-19) -> 100. (210-100)/100 = 110
+		{"30d", Period30d, 110.0, 110, 100, 210, false},
 	}
-	rows := fetchRankings(t, d, "7d")
-	if len(rows) != 1 {
-		t.Fatalf("got %d, want 1 (UPSERT should dedupe)", len(rows))
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			r, ok := ComputeRepoGrowth(snapshots, "2026-04-18", tc.period)
+			if !ok {
+				t.Fatalf("unexpected exclusion")
+			}
+			if r.StartStars != tc.wantStart || r.EndStars != tc.wantEnd {
+				t.Errorf("range wrong: start=%d end=%d want start=%d end=%d",
+					r.StartStars, r.EndStars, tc.wantStart, tc.wantEnd)
+			}
+			if r.StarDelta != tc.wantDelt {
+				t.Errorf("delta: %d want %d", r.StarDelta, tc.wantDelt)
+			}
+			if !floatEqual(r.GrowthPct, tc.wantPct, 1e-9) {
+				t.Errorf("pct: %v want %v", r.GrowthPct, tc.wantPct)
+			}
+		})
 	}
+}
+
+func TestComputeRepoGrowthMissingEndSnapshot(t *testing.T) {
+	// end date has no snapshot at or before → excluded.
+	snapshots := []Snapshot{{Date: "2026-05-01", Stars: 100}}
+	_, ok := ComputeRepoGrowth(snapshots, "2026-04-18", Period7d)
+	if ok {
+		t.Fatal("expected exclusion: no end snapshot")
+	}
+}
+
+func TestComputeRepoGrowthMissingStartSnapshot(t *testing.T) {
+	// no snapshot at-or-before the period start → excluded.
+	// End date 2026-04-18. 30d back = 2026-03-19. Only snapshot is 2026-04-18.
+	snapshots := []Snapshot{{Date: "2026-04-18", Stars: 500}}
+	_, ok := ComputeRepoGrowth(snapshots, "2026-04-18", Period30d)
+	if ok {
+		t.Fatal("expected exclusion: no start snapshot")
+	}
+}
+
+func TestComputeRepoGrowthBelowMinStart(t *testing.T) {
+	snapshots := []Snapshot{
+		{Date: "2026-04-11", Stars: 5},
+		{Date: "2026-04-18", Stars: 500},
+	}
+	_, ok := ComputeRepoGrowth(snapshots, "2026-04-18", Period7d)
+	if ok {
+		t.Fatal("expected exclusion: start 5 below MinStartStars 10")
+	}
+}
+
+func TestRankAssignsDenseByPctDesc(t *testing.T) {
+	rows := []RepoGrowth{
+		{RepoID: 1, GrowthPct: 10},
+		{RepoID: 2, GrowthPct: 50},
+		{RepoID: 3, GrowthPct: 30},
+	}
+	ranked := AssignRanks(rows)
+	// Expect rank 1 = repo 2 (50%), rank 2 = repo 3 (30%), rank 3 = repo 1 (10%)
+	if ranked[0].RepoID != 2 || ranked[0].Rank != 1 {
+		t.Errorf("rank1: %+v", ranked[0])
+	}
+	if ranked[1].RepoID != 3 || ranked[1].Rank != 2 {
+		t.Errorf("rank2: %+v", ranked[1])
+	}
+	if ranked[2].RepoID != 1 || ranked[2].Rank != 3 {
+		t.Errorf("rank3: %+v", ranked[2])
+	}
+}
+
+func TestRankStableTieBreakByRepoID(t *testing.T) {
+	rows := []RepoGrowth{
+		{RepoID: 5, GrowthPct: 50.0},
+		{RepoID: 2, GrowthPct: 50.0},
+		{RepoID: 9, GrowthPct: 50.0},
+	}
+	ranked := AssignRanks(rows)
+	if ranked[0].RepoID != 2 || ranked[1].RepoID != 5 || ranked[2].RepoID != 9 {
+		t.Errorf("tie break expected ascending repo id, got %+v", ranked)
+	}
+}
+
+func floatEqual(a, b, eps float64) bool {
+	return math.Abs(a-b) < eps
 }

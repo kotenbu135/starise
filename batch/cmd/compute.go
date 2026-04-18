@@ -1,16 +1,17 @@
 package cmd
 
 import (
-	"github.com/kotenbu135/starise/batch/internal/db"
-	"github.com/kotenbu135/starise/batch/internal/ranking"
+	"time"
+
 	"github.com/spf13/cobra"
 
-	_ "modernc.org/sqlite"
+	"github.com/kotenbu135/starise/batch/internal/db"
+	"github.com/kotenbu135/starise/batch/internal/pipeline"
 )
 
 var computeCmd = &cobra.Command{
 	Use:   "compute",
-	Short: "Calculate 1d/7d/30d star growth rankings",
+	Short: "Compute 1d/7d/30d growth rankings",
 	RunE:  runCompute,
 }
 
@@ -18,12 +19,15 @@ func init() {
 	rootCmd.AddCommand(computeCmd)
 }
 
-func runCompute(cmd *cobra.Command, args []string) error {
-	database, err := db.Open(dbPath)
+func runCompute(_ *cobra.Command, _ []string) error {
+	d, err := db.Open(dbPath)
 	if err != nil {
 		return err
 	}
-	defer database.Close()
-
-	return ranking.Compute(database)
+	defer d.Close()
+	if err := db.Migrate(d); err != nil {
+		return err
+	}
+	today := time.Now().UTC().Format("2006-01-02")
+	return pipeline.Compute(d, today)
 }

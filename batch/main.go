@@ -1,7 +1,13 @@
 package main
 
-import "github.com/kotenbu135/starise/batch/cmd"
+import (
+	"log"
+
+	"github.com/kotenbu135/starise/batch/cmd"
+)
 
 func main() {
-	cmd.Execute()
+	if err := cmd.Execute(); err != nil {
+		log.Fatal(err)
+	}
 }

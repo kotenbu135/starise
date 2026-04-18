@@ -2,90 +2,70 @@ package cmd
 
 import (
 	"fmt"
-	"log"
 	"os"
 	"time"
 
-	"github.com/kotenbu135/starise/batch/internal/db"
-	"github.com/kotenbu135/starise/batch/internal/export"
-	"github.com/kotenbu135/starise/batch/internal/github"
-	"github.com/kotenbu135/starise/batch/internal/ranking"
 	"github.com/spf13/cobra"
 
-	_ "modernc.org/sqlite"
+	"github.com/kotenbu135/starise/batch/internal/db"
+	"github.com/kotenbu135/starise/batch/internal/fetch"
+	"github.com/kotenbu135/starise/batch/internal/github"
+	"github.com/kotenbu135/starise/batch/internal/pipeline"
 )
 
-var runSeedFile string
-var runOutDir string
-var runMaxPages int
-var runSkipDiscover bool
-var runSkipRestore bool
+var (
+	runSeedFile     string
+	runOutDir       string
+	runTopN         int
+	runMaxPages     int
+	runSkipDiscover bool
+)
 
 var runCmd = &cobra.Command{
 	Use:   "run",
-	Short: "All-in-one: restore + discover + fetch + compute + export",
+	Short: "Fetch + discover + compute + export in one invocation",
 	RunE:  runAll,
 }
 
 func init() {
-	runCmd.Flags().StringVar(&runSeedFile, "seed-file", "seeds.txt", "seed repos file")
-	runCmd.Flags().StringVar(&runOutDir, "out-dir", "../data", "output directory for JSON files")
-	runCmd.Flags().IntVar(&runMaxPages, "max-pages", 10, "max pages per discover query (100 repos/page)")
-	runCmd.Flags().BoolVar(&runSkipDiscover, "skip-discover", false, "skip discover phase")
-	runCmd.Flags().BoolVar(&runSkipRestore, "skip-restore", false, "skip restore phase (use existing DB as-is)")
+	runCmd.Flags().StringVar(&runSeedFile, "seed-file", "seeds.txt", "seed list")
+	runCmd.Flags().StringVar(&runOutDir, "out-dir", "../data", "output directory")
+	runCmd.Flags().IntVar(&runTopN, "top-n", 500, "max entries per period (<=0 = all)")
+	runCmd.Flags().IntVar(&runMaxPages, "max-pages", 10, "pages per discover query")
+	runCmd.Flags().BoolVar(&runSkipDiscover, "skip-discover", false, "skip search-based discovery")
 	rootCmd.AddCommand(runCmd)
 }
 
-func runAll(cmd *cobra.Command, args []string) error {
-	seeds, err := readSeeds(runSeedFile)
-	if err != nil {
-		return err
-	}
-
+func runAll(_ *cobra.Command, _ []string) error {
 	token := os.Getenv("GITHUB_TOKEN")
 	if token == "" {
 		return fmt.Errorf("GITHUB_TOKEN not set")
 	}
-
-	database, err := db.Open(dbPath)
+	body, err := os.ReadFile(runSeedFile)
+	if err != nil {
+		return fmt.Errorf("read seed file: %w", err)
+	}
+	seeds, err := fetch.ParseSeedsText(string(body))
 	if err != nil {
 		return err
 	}
-	defer database.Close()
 
-	client := github.NewClient(token)
-	today := time.Now().UTC().Format("2006-01-02")
-
-	// 0. Restore — data/ is the source of truth; the local DB is ephemeral.
-	// Rebuilding from disk avoids depending on fragile GitHub Actions cache and
-	// guarantees the daily_stars history accumulated across prior runs is present.
-	if !runSkipRestore {
-		log.Println("=== Phase 0: Restore ===")
-		if err := Restore(database, runOutDir); err != nil {
-			log.Printf("WARN: restore: %v", err)
-		}
-	}
-
-	// 1. Discover
-	if !runSkipDiscover {
-		log.Println("=== Phase 1: Discover ===")
-		if err := discover(client, database, today, runMaxPages); err != nil {
-			log.Printf("WARN: discover: %v", err)
-		}
-	}
-
-	// 2. Fetch (seeds + unfetched DB repos)
-	log.Println("=== Phase 2: Fetch ===")
-	targets := mergeTargets(seeds, database, today)
-	fetchRepos(client, database, targets, today)
-
-	// 3. Compute
-	log.Println("=== Phase 3: Compute ===")
-	if err := ranking.Compute(database); err != nil {
+	d, err := db.Open(dbPath)
+	if err != nil {
 		return err
 	}
+	defer d.Close()
 
-	// 4. Export
-	log.Println("=== Phase 4: Export ===")
-	return export.Export(database, runOutDir)
+	now := time.Now().UTC()
+	return pipeline.RunAll(d, pipeline.RunOptions{
+		Client:       github.NewAPIClient(token),
+		Seeds:        seeds,
+		Today:        now.Format("2006-01-02"),
+		UpdatedAt:    now.Format(time.RFC3339),
+		ComputedDate: now.Format("2006-01-02"),
+		OutDir:       runOutDir,
+		TopN:         runTopN,
+		SkipDiscover: runSkipDiscover,
+		MaxPages:     runMaxPages,
+	})
 }

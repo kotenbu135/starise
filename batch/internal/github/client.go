@@ -1,404 +1,313 @@
+// Package github abstracts the GitHub GraphQL API behind an interface so that
+// the batch commands remain fully testable without hitting the real service.
+//
+// Tests MUST use the Mock implementation in this package. Hitting the real
+// GitHub API from a test is forbidden by project TDD policy.
 package github
 
 import (
-	"bytes"
-	"encoding/json"
+	"context"
+	"errors"
 	"fmt"
-	"io"
-	"log"
-	"math/rand"
 	"net/http"
 	"time"
+
+	"github.com/shurcooL/githubv4"
+	"golang.org/x/oauth2"
 )
 
-const maxRetries = 3
+// ErrNotFound is returned when a repo is not found (mock parity with real API 404s).
+var ErrNotFound = errors.New("github: not found")
 
-const endpoint = "https://api.github.com/graphql"
-
-type Client struct {
-	token      string
-	httpClient *http.Client
+// Owner is the minimal identity of a repo owner.
+type Owner struct {
+	Login string
 }
 
-func NewClient(token string) *Client {
-	return &Client{
-		token: token,
-		httpClient: &http.Client{
-			Timeout: 30 * time.Second,
-		},
-	}
+// LicenseInfo is the license subset we consume.
+type LicenseInfo struct {
+	Name string
 }
 
-type graphQLRequest struct {
-	Query     string         `json:"query"`
-	Variables map[string]any `json:"variables,omitempty"`
+// Language is one entry in the repository's language list.
+type Language struct {
+	Name string
 }
 
-type graphQLResponse struct {
-	Data   json.RawMessage `json:"data"`
-	Errors []struct {
-		Message string `json:"message"`
-	} `json:"errors"`
+// Topic is one topic node.
+type Topic struct {
+	Name string
 }
 
-type RateLimit struct {
-	Remaining int    `json:"remaining"`
-	ResetAt   string `json:"resetAt"`
-}
-
+// RepoData is the normalized repository payload returned by the client.
 type RepoData struct {
-	ID             string `json:"id"`
-	DatabaseID     int    `json:"databaseId"`
-	Name           string `json:"name"`
-	NameWithOwner  string `json:"nameWithOwner"`
-	Owner          struct {
-		Login string `json:"login"`
-	} `json:"owner"`
-	Description    *string `json:"description"`
-	URL            string  `json:"url"`
-	HomepageURL    *string `json:"homepageUrl"`
-	StargazerCount int     `json:"stargazerCount"`
-	ForkCount      int     `json:"forkCount"`
-	PrimaryLanguage *struct {
-		Name string `json:"name"`
-	} `json:"primaryLanguage"`
-	RepositoryTopics struct {
-		Nodes []struct {
-			Topic struct {
-				Name string `json:"name"`
-			} `json:"topic"`
-		} `json:"nodes"`
-	} `json:"repositoryTopics"`
-	LicenseInfo *struct {
-		SpdxID string `json:"spdxId"`
-		Name   string `json:"name"`
-	} `json:"licenseInfo"`
-	IsArchived bool   `json:"isArchived"`
-	IsFork     bool   `json:"isFork"`
-	CreatedAt  string `json:"createdAt"`
-	UpdatedAt  string `json:"updatedAt"`
-	PushedAt   string `json:"pushedAt"`
+	ID             string
+	Owner          Owner
+	Name           string
+	Description    *string
+	URL            string
+	HomepageURL    *string
+	StargazerCount int
+	ForkCount      int
+	IsArchived     bool
+	IsFork         bool
+	PrimaryLang    *Language
+	LicenseInfo    *LicenseInfo
+	Topics         []Topic
+	CreatedAt      string
+	UpdatedAt      string
+	PushedAt       string
 }
 
-type FetchResult struct {
+// RateLimitInfo mirrors GraphQL rate limit payload.
+type RateLimitInfo struct {
+	Limit     int
+	Remaining int
+	Cost      int
+	ResetAt   time.Time
+}
+
+// FetchRepoResult is a single-repo GraphQL result + rate limit state.
+type FetchRepoResult struct {
 	Repo      RepoData
-	RateLimit RateLimit
+	RateLimit RateLimitInfo
 }
 
-const repoQuery = `
-query ($owner: String!, $name: String!) {
-  repository(owner: $owner, name: $name) {
-    id
-    databaseId
-    name
-    nameWithOwner
-    owner { login }
-    description
-    url
-    homepageUrl
-    stargazerCount
-    forkCount
-    primaryLanguage { name }
-    repositoryTopics(first: 20) {
-      nodes { topic { name } }
-    }
-    licenseInfo { spdxId name }
-    isArchived
-    isFork
-    createdAt
-    updatedAt
-    pushedAt
-  }
-  rateLimit { remaining resetAt }
-}
-`
-
-func (c *Client) FetchRepo(owner, name string) (*FetchResult, error) {
-	vars := map[string]any{"owner": owner, "name": name}
-	body, err := c.do(repoQuery, vars)
-	if err != nil {
-		return nil, err
-	}
-
-	var result struct {
-		Repository RepoData  `json:"repository"`
-		RateLimit  RateLimit `json:"rateLimit"`
-	}
-	if err := json.Unmarshal(body, &result); err != nil {
-		return nil, fmt.Errorf("unmarshal: %w", err)
-	}
-	return &FetchResult{Repo: result.Repository, RateLimit: result.RateLimit}, nil
-}
-
-func (c *Client) do(query string, vars map[string]any) (json.RawMessage, error) {
-	reqBody, err := json.Marshal(graphQLRequest{Query: query, Variables: vars})
-	if err != nil {
-		return nil, fmt.Errorf("marshal request: %w", err)
-	}
-
-	var lastErr error
-	for attempt := 0; attempt < maxRetries; attempt++ {
-		if attempt > 0 {
-			wait := time.Duration(1<<(attempt-1)) * time.Second
-			jitter := time.Duration(rand.Intn(500)) * time.Millisecond
-			log.Printf("Retry %d/%d after %v", attempt, maxRetries-1, wait+jitter)
-			time.Sleep(wait + jitter)
-		}
-
-		req, err := http.NewRequest("POST", endpoint, bytes.NewReader(reqBody))
-		if err != nil {
-			return nil, fmt.Errorf("new request: %w", err)
-		}
-		req.Header.Set("Authorization", "bearer "+c.token)
-		req.Header.Set("Content-Type", "application/json")
-
-		resp, err := c.httpClient.Do(req)
-		if err != nil {
-			lastErr = fmt.Errorf("http do: %w", err)
-			continue // network error → retry
-		}
-
-		respBody, err := io.ReadAll(resp.Body)
-		resp.Body.Close()
-		if err != nil {
-			lastErr = fmt.Errorf("read body: %w", err)
-			continue
-		}
-
-		if resp.StatusCode == 502 || resp.StatusCode == 503 {
-			lastErr = fmt.Errorf("server error (status %d)", resp.StatusCode)
-			continue // transient server error → retry
-		}
-		if resp.StatusCode == 403 || resp.StatusCode == 429 {
-			return nil, fmt.Errorf("rate limited (status %d): %s", resp.StatusCode, respBody)
-		}
-		if resp.StatusCode != 200 {
-			return nil, fmt.Errorf("http %d: %s", resp.StatusCode, respBody)
-		}
-
-		var gqlResp graphQLResponse
-		if err := json.Unmarshal(respBody, &gqlResp); err != nil {
-			return nil, fmt.Errorf("unmarshal response: %w", err)
-		}
-		if len(gqlResp.Errors) > 0 {
-			return nil, fmt.Errorf("graphql error: %s", gqlResp.Errors[0].Message)
-		}
-		return gqlResp.Data, nil
-	}
-
-	return nil, fmt.Errorf("max retries exceeded: %w", lastErr)
-}
-
+// SearchResult is a page of the search API.
 type SearchResult struct {
-	Repos     []RepoData
 	Total     int
+	Repos     []RepoData
 	HasNext   bool
 	EndCursor string
-	RateLimit RateLimit
+	RateLimit RateLimitInfo
 }
 
-const searchReposQuery = `
-query ($query: String!, $first: Int!, $after: String) {
-  search(query: $query, type: REPOSITORY, first: $first, after: $after) {
-    repositoryCount
-    pageInfo {
-      hasNextPage
-      endCursor
-    }
-    nodes {
-      ... on Repository {
-        id
-        databaseId
-        name
-        nameWithOwner
-        owner { login }
-        description
-        url
-        homepageUrl
-        stargazerCount
-        forkCount
-        primaryLanguage { name }
-        repositoryTopics(first: 20) {
-          nodes { topic { name } }
-        }
-        licenseInfo { spdxId name }
-        isArchived
-        isFork
-        createdAt
-        updatedAt
-        pushedAt
-      }
-    }
-  }
-  rateLimit { remaining resetAt }
+// Client is the narrow interface consumed by cmd/ packages. Production code
+// uses *APIClient; tests use *Mock.
+type Client interface {
+	FetchRepo(owner, name string) (*FetchRepoResult, error)
+	SearchRepos(query string, first int, after string) (*SearchResult, error)
 }
-`
 
-func (c *Client) SearchRepos(query string, perPage int, after string) (*SearchResult, error) {
+// APIClient is the real GraphQL implementation.
+type APIClient struct {
+	gql *githubv4.Client
+}
+
+// NewAPIClient returns a Client backed by the public GitHub GraphQL endpoint.
+func NewAPIClient(token string) *APIClient {
+	src := oauth2.StaticTokenSource(&oauth2.Token{AccessToken: token})
+	httpClient := oauth2.NewClient(context.Background(), src)
+	httpClient.Timeout = 30 * time.Second
+	return &APIClient{gql: githubv4.NewClient(httpClient)}
+}
+
+// NewAPIClientWithHTTP allows tests and callers to inject a custom HTTP client
+// (e.g. for retry wrappers). Not used by the default code path.
+func NewAPIClientWithHTTP(h *http.Client) *APIClient {
+	return &APIClient{gql: githubv4.NewClient(h)}
+}
+
+type repoQuery struct {
+	Repository struct {
+		ID             githubv4.String
+		Name           githubv4.String
+		Description    *githubv4.String
+		URL            githubv4.String
+		HomepageURL    *githubv4.String
+		StargazerCount githubv4.Int
+		ForkCount      githubv4.Int
+		IsArchived     githubv4.Boolean
+		IsFork         githubv4.Boolean
+		CreatedAt      githubv4.DateTime
+		UpdatedAt      githubv4.DateTime
+		PushedAt       githubv4.DateTime
+		Owner          struct {
+			Login githubv4.String
+		}
+		PrimaryLanguage *struct {
+			Name githubv4.String
+		}
+		LicenseInfo *struct {
+			Name githubv4.String
+		}
+		RepositoryTopics struct {
+			Nodes []struct {
+				Topic struct {
+					Name githubv4.String
+				}
+			}
+		} `graphql:"repositoryTopics(first: 20)"`
+	} `graphql:"repository(owner: $owner, name: $name)"`
+	RateLimit rateLimitFragment
+}
+
+type rateLimitFragment struct {
+	Limit     githubv4.Int
+	Remaining githubv4.Int
+	Cost      githubv4.Int
+	ResetAt   githubv4.DateTime
+}
+
+// FetchRepo retrieves a single repository by owner/name.
+func (c *APIClient) FetchRepo(owner, name string) (*FetchRepoResult, error) {
+	var q repoQuery
 	vars := map[string]any{
-		"query": query,
-		"first": perPage,
+		"owner": githubv4.String(owner),
+		"name":  githubv4.String(name),
 	}
-	if after != "" {
-		vars["after"] = after
+	if err := c.gql.Query(context.Background(), &q, vars); err != nil {
+		return nil, fmt.Errorf("fetch %s/%s: %w", owner, name, err)
 	}
-
-	body, err := c.do(searchReposQuery, vars)
-	if err != nil {
-		return nil, err
-	}
-
-	var result struct {
-		Search struct {
-			RepositoryCount int `json:"repositoryCount"`
-			PageInfo        struct {
-				HasNextPage bool   `json:"hasNextPage"`
-				EndCursor   string `json:"endCursor"`
-			} `json:"pageInfo"`
-			Nodes []json.RawMessage `json:"nodes"`
-		} `json:"search"`
-		RateLimit RateLimit `json:"rateLimit"`
-	}
-	if err := json.Unmarshal(body, &result); err != nil {
-		return nil, fmt.Errorf("unmarshal search: %w", err)
-	}
-
-	var repos []RepoData
-	for _, raw := range result.Search.Nodes {
-		if string(raw) == "null" {
-			continue
-		}
-		var r RepoData
-		if err := json.Unmarshal(raw, &r); err != nil {
-			continue
-		}
-		if r.ID == "" {
-			continue
-		}
-		repos = append(repos, r)
-	}
-
-	return &SearchResult{
-		Repos:     repos,
-		Total:     result.Search.RepositoryCount,
-		HasNext:   result.Search.PageInfo.HasNextPage,
-		EndCursor: result.Search.PageInfo.EndCursor,
-		RateLimit: result.RateLimit,
+	return &FetchRepoResult{
+		Repo:      repoFromQuery(q),
+		RateLimit: rateLimitFrom(q.RateLimit),
 	}, nil
 }
 
-// FetchReposBatch fetches up to 20 repos in a single GraphQL request using aliases.
-func (c *Client) FetchReposBatch(slugs []string) (*BatchResult, error) {
-	if len(slugs) == 0 {
-		return &BatchResult{Repos: make(map[string]RepoData)}, nil
-	}
-	if len(slugs) > 20 {
-		slugs = slugs[:20]
-	}
-
-	vars := make(map[string]any)
-	var q bytes.Buffer
-
-	// Variable declarations
-	q.WriteString("query(")
-	first := true
-	for i, slug := range slugs {
-		if splitSlug(slug) == nil {
-			continue
+type searchQuery struct {
+	Search struct {
+		RepositoryCount githubv4.Int
+		PageInfo        struct {
+			HasNextPage githubv4.Boolean
+			EndCursor   githubv4.String
 		}
-		if !first {
-			q.WriteString(", ")
+		Nodes []struct {
+			Repository struct {
+				ID             githubv4.String
+				Name           githubv4.String
+				Description    *githubv4.String
+				URL            githubv4.String
+				HomepageURL    *githubv4.String
+				StargazerCount githubv4.Int
+				ForkCount      githubv4.Int
+				IsArchived     githubv4.Boolean
+				IsFork         githubv4.Boolean
+				CreatedAt      githubv4.DateTime
+				UpdatedAt      githubv4.DateTime
+				PushedAt       githubv4.DateTime
+				Owner          struct {
+					Login githubv4.String
+				}
+				PrimaryLanguage *struct {
+					Name githubv4.String
+				}
+				LicenseInfo *struct {
+					Name githubv4.String
+				}
+				RepositoryTopics struct {
+					Nodes []struct {
+						Topic struct {
+							Name githubv4.String
+						}
+					}
+				} `graphql:"repositoryTopics(first: 20)"`
+			} `graphql:"... on Repository"`
 		}
-		fmt.Fprintf(&q, "$owner%d: String!, $name%d: String!", i, i)
-		first = false
-	}
-	q.WriteString(") {")
-
-	// Aliased repository fields
-	for i, slug := range slugs {
-		parts := splitSlug(slug)
-		if parts == nil {
-			continue
-		}
-		vars[fmt.Sprintf("owner%d", i)] = parts[0]
-		vars[fmt.Sprintf("name%d", i)] = parts[1]
-		fmt.Fprintf(&q, "\n  repo%d: repository(owner: $owner%d, name: $name%d) { ...RepoFields }", i, i, i)
-	}
-
-	q.WriteString(`
-  rateLimit { remaining resetAt }
-}
-fragment RepoFields on Repository {
-  id databaseId name nameWithOwner
-  owner { login } description url homepageUrl
-  stargazerCount forkCount
-  primaryLanguage { name }
-  repositoryTopics(first: 20) { nodes { topic { name } } }
-  licenseInfo { spdxId name }
-  isArchived isFork createdAt updatedAt pushedAt
-}`)
-
-	body, err := c.do(q.String(), vars)
-	if err != nil {
-		return nil, err
-	}
-
-	var raw map[string]json.RawMessage
-	if err := json.Unmarshal(body, &raw); err != nil {
-		return nil, fmt.Errorf("unmarshal batch: %w", err)
-	}
-
-	result := &BatchResult{Repos: make(map[string]RepoData)}
-	for i, slug := range slugs {
-		key := fmt.Sprintf("repo%d", i)
-		data, ok := raw[key]
-		if !ok || string(data) == "null" {
-			continue
-		}
-		var repo RepoData
-		if err := json.Unmarshal(data, &repo); err != nil {
-			log.Printf("WARN: unmarshal batch repo %s: %v", slug, err)
-			continue
-		}
-		result.Repos[slug] = repo
-	}
-
-	if rlData, ok := raw["rateLimit"]; ok {
-		json.Unmarshal(rlData, &result.RateLimit)
-	}
-
-	return result, nil
+	} `graphql:"search(query: $q, type: REPOSITORY, first: $first, after: $after)"`
+	RateLimit rateLimitFragment
 }
 
-type BatchResult struct {
-	Repos     map[string]RepoData
-	RateLimit RateLimit
-}
-
-func splitSlug(slug string) []string {
-	for i, c := range slug {
-		if c == '/' {
-			if i > 0 && i < len(slug)-1 {
-				return []string{slug[:i], slug[i+1:]}
-			}
-			return nil
-		}
+// SearchRepos executes a GitHub search query and returns one page of results.
+// Pass after="" for the first page.
+func (c *APIClient) SearchRepos(query string, first int, after string) (*SearchResult, error) {
+	var q searchQuery
+	var cursor *githubv4.String
+	if after != "" {
+		c := githubv4.String(after)
+		cursor = &c
 	}
-	return nil
+	vars := map[string]any{
+		"q":     githubv4.String(query),
+		"first": githubv4.Int(first),
+		"after": cursor,
+	}
+	if err := c.gql.Query(context.Background(), &q, vars); err != nil {
+		return nil, fmt.Errorf("search %q: %w", query, err)
+	}
+
+	res := &SearchResult{
+		Total:     int(q.Search.RepositoryCount),
+		HasNext:   bool(q.Search.PageInfo.HasNextPage),
+		EndCursor: string(q.Search.PageInfo.EndCursor),
+		RateLimit: rateLimitFrom(q.RateLimit),
+	}
+	for _, n := range q.Search.Nodes {
+		rd := RepoData{
+			ID:             string(n.Repository.ID),
+			Owner:          Owner{Login: string(n.Repository.Owner.Login)},
+			Name:           string(n.Repository.Name),
+			URL:            string(n.Repository.URL),
+			StargazerCount: int(n.Repository.StargazerCount),
+			ForkCount:      int(n.Repository.ForkCount),
+			IsArchived:     bool(n.Repository.IsArchived),
+			IsFork:         bool(n.Repository.IsFork),
+			CreatedAt:      n.Repository.CreatedAt.Format(time.RFC3339),
+			UpdatedAt:      n.Repository.UpdatedAt.Format(time.RFC3339),
+			PushedAt:       n.Repository.PushedAt.Format(time.RFC3339),
+		}
+		if n.Repository.Description != nil {
+			s := string(*n.Repository.Description)
+			rd.Description = &s
+		}
+		if n.Repository.HomepageURL != nil {
+			s := string(*n.Repository.HomepageURL)
+			rd.HomepageURL = &s
+		}
+		if n.Repository.PrimaryLanguage != nil {
+			rd.PrimaryLang = &Language{Name: string(n.Repository.PrimaryLanguage.Name)}
+		}
+		if n.Repository.LicenseInfo != nil {
+			rd.LicenseInfo = &LicenseInfo{Name: string(n.Repository.LicenseInfo.Name)}
+		}
+		for _, tn := range n.Repository.RepositoryTopics.Nodes {
+			rd.Topics = append(rd.Topics, Topic{Name: string(tn.Topic.Name)})
+		}
+		res.Repos = append(res.Repos, rd)
+	}
+	return res, nil
 }
 
-func (c *Client) CheckRateLimit(rl RateLimit) {
-	if rl.Remaining < 100 {
-		resetAt, err := time.Parse(time.RFC3339, rl.ResetAt)
-		if err != nil {
-			log.Printf("WARN: rate limit low (%d remaining), can't parse resetAt", rl.Remaining)
-			time.Sleep(60 * time.Second)
-			return
-		}
-		wait := time.Until(resetAt) + time.Second
-		if wait > 0 {
-			log.Printf("Rate limit low (%d remaining), waiting %v until reset", rl.Remaining, wait)
-			time.Sleep(wait)
-		}
+func repoFromQuery(q repoQuery) RepoData {
+	r := q.Repository
+	rd := RepoData{
+		ID:             string(r.ID),
+		Owner:          Owner{Login: string(r.Owner.Login)},
+		Name:           string(r.Name),
+		URL:            string(r.URL),
+		StargazerCount: int(r.StargazerCount),
+		ForkCount:      int(r.ForkCount),
+		IsArchived:     bool(r.IsArchived),
+		IsFork:         bool(r.IsFork),
+		CreatedAt:      r.CreatedAt.Format(time.RFC3339),
+		UpdatedAt:      r.UpdatedAt.Format(time.RFC3339),
+		PushedAt:       r.PushedAt.Format(time.RFC3339),
+	}
+	if r.Description != nil {
+		s := string(*r.Description)
+		rd.Description = &s
+	}
+	if r.HomepageURL != nil {
+		s := string(*r.HomepageURL)
+		rd.HomepageURL = &s
+	}
+	if r.PrimaryLanguage != nil {
+		rd.PrimaryLang = &Language{Name: string(r.PrimaryLanguage.Name)}
+	}
+	if r.LicenseInfo != nil {
+		rd.LicenseInfo = &LicenseInfo{Name: string(r.LicenseInfo.Name)}
+	}
+	for _, tn := range r.RepositoryTopics.Nodes {
+		rd.Topics = append(rd.Topics, Topic{Name: string(tn.Topic.Name)})
+	}
+	return rd
+}
+
+func rateLimitFrom(rl rateLimitFragment) RateLimitInfo {
+	return RateLimitInfo{
+		Limit:     int(rl.Limit),
+		Remaining: int(rl.Remaining),
+		Cost:      int(rl.Cost),
+		ResetAt:   rl.ResetAt.Time,
 	}
 }

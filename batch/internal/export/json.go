@@ -4,224 +4,155 @@ import (
 	"database/sql"
 	"encoding/json"
 	"fmt"
-	"log"
 	"os"
 	"path/filepath"
-	"strings"
-	"time"
+	"sort"
 
 	"github.com/kotenbu135/starise/batch/internal/db"
 )
 
-type Meta struct {
-	GeneratedAt string   `json:"generated_at"`
-	TotalRepos  int      `json:"total_repos"`
-	Periods     []string `json:"periods"`
-}
+// Periods is the ordered set of periods written to rankings.json.
+var Periods = []string{"1d", "7d", "30d"}
 
-type RankingEntry struct {
-	Rank        int     `json:"rank"`
-	Owner       string  `json:"owner"`
-	Name        string  `json:"name"`
-	Description string  `json:"description"`
-	Language    string  `json:"language"`
-	License     string  `json:"license"`
-	StarCount   int     `json:"star_count"`
-	StarDelta   int     `json:"star_delta"`
-	GrowthRate  float64 `json:"growth_rate"`
-	URL         string  `json:"url"`
-	CreatedAt   string  `json:"created_at"`
-}
-
-type RankingsFile struct {
-	UpdatedAt string                    `json:"updated_at"`
-	Rankings  map[string][]RankingEntry `json:"rankings"`
-}
-
-type RepoDetail struct {
-	Owner       string          `json:"owner"`
-	Name        string          `json:"name"`
-	Description string          `json:"description"`
-	URL         string          `json:"url"`
-	HomepageURL string          `json:"homepage_url"`
-	Language    string          `json:"language"`
-	License     string          `json:"license"`
-	Topics      json.RawMessage `json:"topics"`
-	ForkCount   int             `json:"fork_count"`
-	StarCount   int             `json:"star_count"`
-	IsArchived  bool            `json:"is_archived"`
-	StarHistory []StarPoint     `json:"star_history"`
-}
-
-type StarPoint struct {
-	Date  string `json:"date"`
-	Stars int    `json:"stars"`
-}
-
-func Export(database *sql.DB, outDir string) error {
-	now := time.Now().UTC().Format(time.RFC3339)
-
-	repos, err := db.GetAllRepositories(database)
-	if err != nil {
-		return fmt.Errorf("get repos: %w", err)
-	}
-
-	// rankings.json
-	rankingsFile := RankingsFile{
-		UpdatedAt: now,
-		Rankings:  make(map[string][]RankingEntry),
-	}
-
-	for _, period := range []string{"1d", "7d", "30d"} {
-		entries, err := getRankingEntries(database, period, repos)
-		if err != nil {
-			return err
-		}
-		rankingsFile.Rankings[period] = entries
-	}
-
-	if err := writeJSON(filepath.Join(outDir, "rankings.json"), rankingsFile); err != nil {
-		return err
-	}
-
-	// repos/{owner}__{name}.json
-	reposDir := filepath.Join(outDir, "repos")
-	if err := os.MkdirAll(reposDir, 0o755); err != nil {
+// Export regenerates the full data/ tree under outDir. All writes go to
+// temp files that are renamed in place, so readers never see torn files.
+//
+//   - updatedAt:    ISO-8601 string for updated_at / generated_at
+//   - computedDate: YYYY-MM-DD — rankings row key
+//   - topN:         cap on entries per period (>0; <=0 means all)
+func Export(d *sql.DB, outDir, updatedAt, computedDate string, topN int) error {
+	if err := os.MkdirAll(filepath.Join(outDir, "repos"), 0o755); err != nil {
 		return fmt.Errorf("mkdir repos: %w", err)
 	}
 
-	// Build set of files this export run will produce; delete everything else.
-	// Prevents orphan accumulation when repos are archived / renamed / removed.
-	expected := make(map[string]struct{}, len(repos))
-	for _, r := range repos {
-		expected[fmt.Sprintf("%s__%s.json", r.Owner, r.Name)] = struct{}{}
+	repos, err := db.ListRepositories(d)
+	if err != nil {
+		return fmt.Errorf("list repos: %w", err)
 	}
-	if existing, err := os.ReadDir(reposDir); err == nil {
-		removed := 0
-		for _, de := range existing {
-			if de.IsDir() || !strings.HasSuffix(de.Name(), ".json") {
-				continue
-			}
-			if _, ok := expected[de.Name()]; ok {
-				continue
-			}
-			if err := os.Remove(filepath.Join(reposDir, de.Name())); err != nil {
-				log.Printf("WARN: remove orphan %s: %v", de.Name(), err)
-				continue
-			}
-			removed++
-		}
-		if removed > 0 {
-			log.Printf("Removed %d orphan repo JSON files", removed)
-		}
+	reposByID := make(map[int64]db.Repository, len(repos))
+	for _, r := range repos {
+		reposByID[r.ID] = r
 	}
 
-	latestStars := getLatestStars(database, repos)
-
-	for _, r := range repos {
-		history, err := db.GetStarHistory(database, r.ID)
-		if err != nil {
-			return fmt.Errorf("get star history: %w", err)
-		}
-
-		starPoints := make([]StarPoint, len(history))
-		for i, h := range history {
-			starPoints[i] = StarPoint{Date: h.Date, Stars: h.Stars}
-		}
-
-		detail := RepoDetail{
-			Owner:       r.Owner,
-			Name:        r.Name,
-			Description: r.Description,
-			URL:         r.URL,
-			HomepageURL: r.HomepageURL,
-			Language:    r.Language,
-			License:     r.License,
-			Topics:      json.RawMessage(r.Topics),
-			ForkCount:   r.ForkCount,
-			StarCount:   latestStars[r.ID],
-			IsArchived:  r.IsArchived,
-			StarHistory: starPoints,
-		}
-
-		fname := fmt.Sprintf("%s__%s.json", r.Owner, r.Name)
-		if err := writeJSON(filepath.Join(reposDir, fname), detail); err != nil {
-			return err
-		}
+	// rankings.json
+	rankings, rankedIDs, err := buildRankings(d, reposByID, computedDate, topN)
+	if err != nil {
+		return fmt.Errorf("build rankings: %w", err)
+	}
+	rankings.UpdatedAt = updatedAt
+	if err := writeJSONAtomic(filepath.Join(outDir, "rankings.json"), rankings); err != nil {
+		return err
 	}
 
 	// meta.json
 	meta := Meta{
-		GeneratedAt: now,
+		GeneratedAt: updatedAt,
 		TotalRepos:  len(repos),
-		Periods:     []string{"1d", "7d", "30d"},
+		Periods:     append([]string(nil), Periods...),
 	}
-	if err := writeJSON(filepath.Join(outDir, "meta.json"), meta); err != nil {
+	if err := writeJSONAtomic(filepath.Join(outDir, "meta.json"), meta); err != nil {
 		return err
 	}
 
-	log.Printf("Exported %d repos to %s", len(repos), outDir)
+	// repos/{owner}__{name}.json — only for repos that appear in at least one ranking.
+	for id := range rankedIDs {
+		r, ok := reposByID[id]
+		if !ok {
+			continue
+		}
+		detail, err := buildRepoDetail(d, r)
+		if err != nil {
+			return fmt.Errorf("detail %d: %w", id, err)
+		}
+		path := filepath.Join(outDir, "repos", fmt.Sprintf("%s__%s.json", r.Owner, r.Name))
+		if err := writeJSONAtomic(path, detail); err != nil {
+			return err
+		}
+	}
 	return nil
 }
 
-func getRankingEntries(database *sql.DB, period string, repos []db.Repository) ([]RankingEntry, error) {
-	repoMap := make(map[int64]db.Repository, len(repos))
-	for _, r := range repos {
-		repoMap[r.ID] = r
+func buildRankings(d *sql.DB, reposByID map[int64]db.Repository, date string, topN int) (Rankings, map[int64]struct{}, error) {
+	out := Rankings{Rankings: make(map[string][]RankingEntry, len(Periods))}
+	ranked := make(map[int64]struct{})
+	for _, p := range Periods {
+		rows, err := db.ListRankings(d, p, date, topN)
+		if err != nil {
+			return Rankings{}, nil, err
+		}
+		entries := make([]RankingEntry, 0, len(rows))
+		for _, r := range rows {
+			repo, ok := reposByID[r.RepoID]
+			if !ok {
+				continue
+			}
+			entries = append(entries, RankingEntry{
+				Rank:       r.Rank,
+				RepoID:     repo.GitHubID,
+				Owner:      repo.Owner,
+				Name:       repo.Name,
+				FullName:   repo.Owner + "/" + repo.Name,
+				Language:   repo.Language,
+				StartStars: r.StartStars,
+				EndStars:   r.EndStars,
+				StarDelta:  r.StarDelta,
+				GrowthPct:  r.GrowthPct,
+			})
+			ranked[r.RepoID] = struct{}{}
+		}
+		out.Rankings[p] = entries
 	}
+	return out, ranked, nil
+}
 
-	rows, err := database.Query(`
-		SELECT repo_id, rank, star_end, star_delta, growth_rate
-		FROM rankings
-		WHERE period = ? AND computed_date = (SELECT MAX(computed_date) FROM rankings WHERE period = ?)
-		ORDER BY rank`, period, period)
+func buildRepoDetail(d *sql.DB, r db.Repository) (RepoDetail, error) {
+	snaps, err := db.ListDailyStars(d, r.ID)
 	if err != nil {
-		return nil, fmt.Errorf("query rankings (%s): %w", period, err)
+		return RepoDetail{}, err
 	}
-	defer rows.Close()
+	history := make([]StarPoint, 0, len(snaps))
+	for _, s := range snaps {
+		history = append(history, StarPoint{Date: s.RecordedDate, Stars: s.StarCount})
+	}
+	sort.Slice(history, func(i, j int) bool { return history[i].Date < history[j].Date })
 
-	entries := make([]RankingEntry, 0)
-	for rows.Next() {
-		var repoID int64
-		var e RankingEntry
-		if err := rows.Scan(&repoID, &e.Rank, &e.StarCount, &e.StarDelta, &e.GrowthRate); err != nil {
-			return nil, fmt.Errorf("scan ranking: %w", err)
-		}
-		if r, ok := repoMap[repoID]; ok {
-			e.Owner = r.Owner
-			e.Name = r.Name
-			e.Description = r.Description
-			e.Language = r.Language
-			e.License = r.License
-			e.URL = r.URL
-			e.CreatedAt = r.CreatedAt
-		}
-		entries = append(entries, e)
+	topics := []string{}
+	if r.Topics != "" {
+		_ = json.Unmarshal([]byte(r.Topics), &topics)
 	}
-	return entries, rows.Err()
+
+	latest := 0
+	if n := len(snaps); n > 0 {
+		latest = snaps[n-1].StarCount
+	}
+	return RepoDetail{
+		RepoID:      r.GitHubID,
+		Owner:       r.Owner,
+		Name:        r.Name,
+		FullName:    r.Owner + "/" + r.Name,
+		Description: r.Description,
+		URL:         r.URL,
+		HomepageURL: r.HomepageURL,
+		Language:    r.Language,
+		License:     r.License,
+		Topics:      topics,
+		StarCount:   latest,
+		ForkCount:   r.ForkCount,
+		StarHistory: history,
+	}, nil
 }
 
-func getLatestStars(database *sql.DB, repos []db.Repository) map[int64]int {
-	m := make(map[int64]int, len(repos))
-	for _, r := range repos {
-		row := database.QueryRow(`
-			SELECT star_count FROM daily_stars
-			WHERE repo_id = ? ORDER BY recorded_date DESC LIMIT 1`, r.ID)
-		var count int
-		if row.Scan(&count) == nil {
-			m[r.ID] = count
-		}
-	}
-	return m
-}
-
-func writeJSON(path string, v any) error {
-	data, err := json.MarshalIndent(v, "", "  ")
+func writeJSONAtomic(path string, v any) error {
+	b, err := json.MarshalIndent(v, "", "  ")
 	if err != nil {
 		return fmt.Errorf("marshal %s: %w", path, err)
 	}
-	if err := os.WriteFile(path, data, 0o644); err != nil {
+	tmp := path + ".tmp"
+	if err := os.WriteFile(tmp, b, 0o644); err != nil {
 		return fmt.Errorf("write %s: %w", path, err)
+	}
+	if err := os.Rename(tmp, path); err != nil {
+		return fmt.Errorf("rename %s: %w", path, err)
 	}
 	return nil
 }

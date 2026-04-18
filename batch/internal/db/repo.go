@@ -2,10 +2,14 @@ package db
 
 import (
 	"database/sql"
+	"errors"
 	"fmt"
-	"time"
 )
 
+// ErrNotFound is returned when a lookup by key yields no row.
+var ErrNotFound = errors.New("not found")
+
+// Repository models a row in the repositories table.
 type Repository struct {
 	ID          int64
 	GitHubID    string
@@ -16,87 +20,118 @@ type Repository struct {
 	HomepageURL string
 	Language    string
 	License     string
-	Topics      string // JSON array
+	Topics      string // JSON-encoded array
 	IsArchived  bool
 	IsFork      bool
 	ForkCount   int
 	CreatedAt   string
 	UpdatedAt   string
 	PushedAt    string
-	FetchedAt   string
 }
 
-func UpsertRepository(db *sql.DB, r *Repository) (int64, error) {
-	// RETURNING is required: LastInsertId() is unreliable after ON CONFLICT DO UPDATE
-	// in modernc.org/sqlite — it may return a stale rowid from an earlier INSERT in
-	// the same connection, causing daily_stars to be written against the wrong repo
-	// (FK violation or silent data corruption).
+// UpsertRepository inserts or updates a repository by (owner, name) and
+// returns its primary key. github_id is kept in sync on update.
+func UpsertRepository(d *sql.DB, r *Repository) (int64, error) {
+	const q = `
+INSERT INTO repositories (
+	github_id, owner, name, description, url, homepage_url,
+	language, license, topics, is_archived, is_fork, fork_count,
+	created_at, updated_at, pushed_at
+) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+ON CONFLICT (owner, name) DO UPDATE SET
+	github_id    = excluded.github_id,
+	description  = excluded.description,
+	url          = excluded.url,
+	homepage_url = excluded.homepage_url,
+	language     = excluded.language,
+	license      = excluded.license,
+	topics       = excluded.topics,
+	is_archived  = excluded.is_archived,
+	is_fork      = excluded.is_fork,
+	fork_count   = excluded.fork_count,
+	created_at   = excluded.created_at,
+	updated_at   = excluded.updated_at,
+	pushed_at    = excluded.pushed_at
+RETURNING id;
+`
+	topics := r.Topics
+	if topics == "" {
+		topics = "[]"
+	}
 	var id int64
-	err := db.QueryRow(`
-		INSERT INTO repositories (github_id, owner, name, description, url, homepage_url,
-			language, license, topics, is_archived, is_fork, fork_count,
-			created_at, updated_at, pushed_at, fetched_at)
-		VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-		ON CONFLICT(github_id) DO UPDATE SET
-			owner=excluded.owner, name=excluded.name, description=excluded.description,
-			url=excluded.url, homepage_url=excluded.homepage_url,
-			language=excluded.language, license=excluded.license, topics=excluded.topics,
-			is_archived=excluded.is_archived, is_fork=excluded.is_fork, fork_count=excluded.fork_count,
-			created_at=excluded.created_at, updated_at=excluded.updated_at, pushed_at=excluded.pushed_at,
-			fetched_at=excluded.fetched_at
-		RETURNING id`,
+	err := d.QueryRow(q,
 		r.GitHubID, r.Owner, r.Name, r.Description, r.URL, r.HomepageURL,
-		r.Language, r.License, r.Topics, r.IsArchived, r.IsFork, r.ForkCount,
-		r.CreatedAt, r.UpdatedAt, r.PushedAt, time.Now().UTC().Format(time.RFC3339),
+		r.Language, r.License, topics, boolToInt(r.IsArchived), boolToInt(r.IsFork), r.ForkCount,
+		r.CreatedAt, r.UpdatedAt, r.PushedAt,
 	).Scan(&id)
 	if err != nil {
-		return 0, fmt.Errorf("upsert repo: %w", err)
+		return 0, fmt.Errorf("upsert repository %s/%s: %w", r.Owner, r.Name, err)
 	}
 	return id, nil
 }
 
-func GetReposNotFetchedToday(db *sql.DB, today string) ([]string, error) {
-	rows, err := db.Query(`
-		SELECT r.owner, r.name FROM repositories r
-		WHERE NOT EXISTS (
-			SELECT 1 FROM daily_stars ds
-			WHERE ds.repo_id = r.id AND ds.recorded_date = ?
-		)`, today)
+// GetRepositoryByOwnerName returns a repository by (owner, name). ErrNotFound
+// when no matching row exists.
+func GetRepositoryByOwnerName(d *sql.DB, owner, name string) (*Repository, error) {
+	const q = `
+SELECT id, github_id, owner, name, description, url, homepage_url,
+       language, license, topics, is_archived, is_fork, fork_count,
+       created_at, updated_at, pushed_at
+FROM repositories WHERE owner = ? AND name = ?;
+`
+	var r Repository
+	var archived, fork int
+	err := d.QueryRow(q, owner, name).Scan(
+		&r.ID, &r.GitHubID, &r.Owner, &r.Name, &r.Description, &r.URL, &r.HomepageURL,
+		&r.Language, &r.License, &r.Topics, &archived, &fork, &r.ForkCount,
+		&r.CreatedAt, &r.UpdatedAt, &r.PushedAt,
+	)
+	if err == sql.ErrNoRows {
+		return nil, ErrNotFound
+	}
 	if err != nil {
-		return nil, fmt.Errorf("query unfetched repos: %w", err)
+		return nil, fmt.Errorf("get repository %s/%s: %w", owner, name, err)
 	}
-	defer rows.Close()
-
-	var slugs []string
-	for rows.Next() {
-		var owner, name string
-		if err := rows.Scan(&owner, &name); err != nil {
-			return nil, fmt.Errorf("scan slug: %w", err)
-		}
-		slugs = append(slugs, owner+"/"+name)
-	}
-	return slugs, rows.Err()
+	r.IsArchived = archived != 0
+	r.IsFork = fork != 0
+	return &r, nil
 }
 
-func GetAllRepositories(db *sql.DB) ([]Repository, error) {
-	rows, err := db.Query(`SELECT id, github_id, owner, name, description, url, homepage_url,
-		language, license, topics, is_archived, is_fork, fork_count,
-		created_at, updated_at, pushed_at, fetched_at FROM repositories`)
+// ListRepositories returns all repositories ordered by id.
+func ListRepositories(d *sql.DB) ([]Repository, error) {
+	const q = `
+SELECT id, github_id, owner, name, description, url, homepage_url,
+       language, license, topics, is_archived, is_fork, fork_count,
+       created_at, updated_at, pushed_at
+FROM repositories ORDER BY id;
+`
+	rows, err := d.Query(q)
 	if err != nil {
-		return nil, fmt.Errorf("list repos: %w", err)
+		return nil, fmt.Errorf("list repositories: %w", err)
 	}
 	defer rows.Close()
 
-	var repos []Repository
+	var out []Repository
 	for rows.Next() {
 		var r Repository
-		if err := rows.Scan(&r.ID, &r.GitHubID, &r.Owner, &r.Name, &r.Description,
-			&r.URL, &r.HomepageURL, &r.Language, &r.License, &r.Topics,
-			&r.IsArchived, &r.IsFork, &r.ForkCount,
-			&r.CreatedAt, &r.UpdatedAt, &r.PushedAt, &r.FetchedAt); err != nil {
-			return nil, fmt.Errorf("scan repo: %w", err)
+		var archived, fork int
+		if err := rows.Scan(
+			&r.ID, &r.GitHubID, &r.Owner, &r.Name, &r.Description, &r.URL, &r.HomepageURL,
+			&r.Language, &r.License, &r.Topics, &archived, &fork, &r.ForkCount,
+			&r.CreatedAt, &r.UpdatedAt, &r.PushedAt,
+		); err != nil {
+			return nil, fmt.Errorf("scan: %w", err)
 		}
-		repos = append(repos, r)
+		r.IsArchived = archived != 0
+		r.IsFork = fork != 0
+		out = append(out, r)
 	}
-	return repos, rows.Err()
+	return out, rows.Err()
+}
+
+func boolToInt(b bool) int {
+	if b {
+		return 1
+	}
+	return 0
 }

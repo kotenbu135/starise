@@ -1,32 +1,46 @@
 package cmd
 
 import (
-	"github.com/kotenbu135/starise/batch/internal/db"
-	"github.com/kotenbu135/starise/batch/internal/export"
+	"time"
+
 	"github.com/spf13/cobra"
 
-	_ "modernc.org/sqlite"
+	"github.com/kotenbu135/starise/batch/internal/db"
+	"github.com/kotenbu135/starise/batch/internal/export"
 )
 
-var outDir string
+var (
+	exportOutDir string
+	exportTopN   int
+)
 
 var exportCmd = &cobra.Command{
 	Use:   "export",
-	Short: "Export rankings and repo data as static JSON",
+	Short: "Export rankings and repo details as static JSON",
 	RunE:  runExport,
 }
 
 func init() {
-	exportCmd.Flags().StringVar(&outDir, "out-dir", "../data", "output directory for JSON files")
+	exportCmd.Flags().StringVar(&exportOutDir, "out-dir", "../data", "output directory")
+	exportCmd.Flags().IntVar(&exportTopN, "top-n", 500, "max entries per period (<=0 = all)")
 	rootCmd.AddCommand(exportCmd)
 }
 
-func runExport(cmd *cobra.Command, args []string) error {
-	database, err := db.Open(dbPath)
+func runExport(_ *cobra.Command, _ []string) error {
+	d, err := db.Open(dbPath)
 	if err != nil {
 		return err
 	}
-	defer database.Close()
-
-	return export.Export(database, outDir)
+	defer d.Close()
+	if err := db.Migrate(d); err != nil {
+		return err
+	}
+	now := time.Now().UTC()
+	return export.Export(
+		d,
+		exportOutDir,
+		now.Format(time.RFC3339),
+		now.Format("2006-01-02"),
+		exportTopN,
+	)
 }
