@@ -4,106 +4,78 @@ import (
 	"testing"
 )
 
-func TestMigrateCreatesAllTables(t *testing.T) {
-	d := openMemory(t)
-
+func TestMigrateCreatesTables(t *testing.T) {
+	d := openMem(t)
 	if err := Migrate(d); err != nil {
-		t.Fatalf("Migrate: %v", err)
+		t.Fatalf("migrate: %v", err)
 	}
-
 	tables := []string{"repositories", "daily_stars", "rankings"}
 	for _, tbl := range tables {
-		var name string
-		err := d.QueryRow(
-			`SELECT name FROM sqlite_master WHERE type='table' AND name=?`, tbl,
-		).Scan(&name)
+		var got string
+		err := d.QueryRow("SELECT name FROM sqlite_master WHERE type='table' AND name=?", tbl).Scan(&got)
 		if err != nil {
 			t.Errorf("table %s missing: %v", tbl, err)
 		}
 	}
 }
 
-func TestMigrateIsIdempotent(t *testing.T) {
-	d := openMemory(t)
-
-	for i := 0; i < 3; i++ {
+// I10: Migrate idempotent.
+func TestMigrateIdempotent(t *testing.T) {
+	d := openMem(t)
+	for i := 0; i < 5; i++ {
 		if err := Migrate(d); err != nil {
-			t.Fatalf("Migrate #%d: %v", i, err)
+			t.Fatalf("migrate iter %d: %v", i, err)
 		}
 	}
 }
 
-func TestRepositoriesUniqueOwnerName(t *testing.T) {
-	d := openMemory(t)
-	mustMigrate(t, d)
-
-	_, err := d.Exec(
-		`INSERT INTO repositories (github_id, owner, name) VALUES (?, ?, ?)`,
-		"g1", "owner", "repo",
-	)
-	if err != nil {
-		t.Fatalf("first insert: %v", err)
+func TestMigrateCreatesRequiredColumns(t *testing.T) {
+	d := openMem(t)
+	if err := Migrate(d); err != nil {
+		t.Fatal(err)
 	}
-
-	_, err = d.Exec(
-		`INSERT INTO repositories (github_id, owner, name) VALUES (?, ?, ?)`,
-		"g2", "owner", "repo",
-	)
-	if err == nil {
-		t.Fatal("expected UNIQUE violation on (owner,name), got nil")
+	cases := map[string][]string{
+		"repositories": {"github_id", "owner", "name", "deleted_at", "is_archived", "is_fork", "topics"},
+		"daily_stars":  {"repo_id", "recorded_date", "star_count"},
+		"rankings":     {"repo_id", "period", "rank_type", "computed_date", "start_stars", "end_stars", "star_delta", "growth_pct", "rank"},
 	}
-}
-
-func TestDailyStarsUniqueRepoDate(t *testing.T) {
-	d := openMemory(t)
-	mustMigrate(t, d)
-
-	_, err := d.Exec(
-		`INSERT INTO repositories (github_id, owner, name) VALUES (?, ?, ?)`,
-		"g1", "o", "r",
-	)
-	if err != nil {
-		t.Fatalf("repo insert: %v", err)
-	}
-
-	_, err = d.Exec(
-		`INSERT INTO daily_stars (repo_id, recorded_date, star_count) VALUES (1, '2026-04-18', 100)`,
-	)
-	if err != nil {
-		t.Fatalf("first star: %v", err)
-	}
-	_, err = d.Exec(
-		`INSERT INTO daily_stars (repo_id, recorded_date, star_count) VALUES (1, '2026-04-18', 200)`,
-	)
-	if err == nil {
-		t.Fatal("expected UNIQUE violation on (repo_id,recorded_date)")
+	for tbl, cols := range cases {
+		rows, err := d.Query("PRAGMA table_info(" + tbl + ")")
+		if err != nil {
+			t.Fatalf("pragma %s: %v", tbl, err)
+		}
+		got := map[string]bool{}
+		for rows.Next() {
+			var cid int
+			var name, ctype string
+			var notnull, pk int
+			var dflt any
+			if err := rows.Scan(&cid, &name, &ctype, &notnull, &dflt, &pk); err != nil {
+				t.Fatal(err)
+			}
+			got[name] = true
+		}
+		rows.Close()
+		for _, c := range cols {
+			if !got[c] {
+				t.Errorf("table %s missing column %s", tbl, c)
+			}
+		}
 	}
 }
 
-func TestRankingsUniqueRepoPeriodDate(t *testing.T) {
-	d := openMemory(t)
-	mustMigrate(t, d)
-
-	_, err := d.Exec(
-		`INSERT INTO repositories (github_id, owner, name) VALUES (?, ?, ?)`,
-		"g1", "o", "r",
-	)
-	if err != nil {
-		t.Fatalf("repo insert: %v", err)
+func TestMigrateUniqueConstraints(t *testing.T) {
+	d := openMem(t)
+	if err := Migrate(d); err != nil {
+		t.Fatal(err)
 	}
-
-	_, err = d.Exec(
-		`INSERT INTO rankings (repo_id, period, computed_date, start_stars, end_stars, star_delta, growth_pct, rank)
-		 VALUES (1, '7d', '2026-04-18', 100, 150, 50, 50.0, 1)`,
-	)
-	if err != nil {
-		t.Fatalf("first ranking: %v", err)
+	if _, err := d.Exec("INSERT INTO repositories (github_id, owner, name) VALUES ('x', 'a', 'b')"); err != nil {
+		t.Fatal(err)
 	}
-	_, err = d.Exec(
-		`INSERT INTO rankings (repo_id, period, computed_date, start_stars, end_stars, star_delta, growth_pct, rank)
-		 VALUES (1, '7d', '2026-04-18', 100, 160, 60, 60.0, 2)`,
-	)
-	if err == nil {
-		t.Fatal("expected UNIQUE violation on (repo_id,period,computed_date)")
+	if _, err := d.Exec("INSERT INTO repositories (github_id, owner, name) VALUES ('x', 'c', 'd')"); err == nil {
+		t.Errorf("expected UNIQUE github_id violation")
+	}
+	if _, err := d.Exec("INSERT INTO repositories (github_id, owner, name) VALUES ('y', 'a', 'b')"); err == nil {
+		t.Errorf("expected UNIQUE (owner,name) violation")
 	}
 }

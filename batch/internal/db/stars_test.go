@@ -4,125 +4,72 @@ import (
 	"testing"
 )
 
-func TestUpsertDailyStarInsertsNew(t *testing.T) {
-	d := openMemory(t)
-	mustMigrate(t, d)
+func TestUpsertDailyStarsInsertAndOverwrite(t *testing.T) {
+	d := openMem(t)
+	Migrate(d)
+	id, _ := UpsertRepository(d, Repository{GitHubID: "G1", Owner: "a", Name: "b"})
 
-	repoID, err := UpsertRepository(d, &Repository{GitHubID: "g", Owner: "o", Name: "r"})
-	if err != nil {
-		t.Fatalf("repo: %v", err)
+	if err := UpsertDailyStar(d, id, "2026-04-18", 100); err != nil {
+		t.Fatal(err)
+	}
+	if err := UpsertDailyStar(d, id, "2026-04-18", 150); err != nil {
+		t.Fatal(err)
 	}
 
-	err = UpsertDailyStar(d, &DailyStar{
-		RepoID:       repoID,
-		RecordedDate: "2026-04-18",
-		StarCount:    1234,
-	})
+	stars, err := ListStarHistory(d, id)
 	if err != nil {
-		t.Fatalf("star: %v", err)
+		t.Fatal(err)
 	}
-
-	got, err := GetDailyStar(d, repoID, "2026-04-18")
-	if err != nil {
-		t.Fatalf("get: %v", err)
+	if len(stars) != 1 {
+		t.Fatalf("len=%d", len(stars))
 	}
-	if got.StarCount != 1234 {
-		t.Errorf("star count: %d", got.StarCount)
+	if stars[0].StarCount != 150 {
+		t.Errorf("overwrite failed: %d", stars[0].StarCount)
 	}
 }
 
-func TestUpsertDailyStarOverwrites(t *testing.T) {
-	d := openMemory(t)
-	mustMigrate(t, d)
+func TestStarsAtOrBefore(t *testing.T) {
+	d := openMem(t)
+	Migrate(d)
+	id, _ := UpsertRepository(d, Repository{GitHubID: "G1", Owner: "a", Name: "b"})
+	UpsertDailyStar(d, id, "2026-04-10", 100)
+	UpsertDailyStar(d, id, "2026-04-15", 200)
+	UpsertDailyStar(d, id, "2026-04-18", 300)
 
-	repoID, _ := UpsertRepository(d, &Repository{GitHubID: "g", Owner: "o", Name: "r"})
-
-	_ = UpsertDailyStar(d, &DailyStar{RepoID: repoID, RecordedDate: "2026-04-18", StarCount: 100})
-	err := UpsertDailyStar(d, &DailyStar{RepoID: repoID, RecordedDate: "2026-04-18", StarCount: 200})
-	if err != nil {
-		t.Fatalf("second upsert: %v", err)
+	cases := map[string]struct {
+		date string
+		want int
+		ok   bool
+	}{
+		"exact":  {"2026-04-15", 200, true},
+		"before": {"2026-04-12", 100, true},
+		"after":  {"2026-04-20", 300, true},
+		"none":   {"2026-04-09", 0, false},
 	}
-
-	got, _ := GetDailyStar(d, repoID, "2026-04-18")
-	if got.StarCount != 200 {
-		t.Errorf("expected 200, got %d", got.StarCount)
-	}
-}
-
-func TestGetDailyStarMissingReturnsNotFound(t *testing.T) {
-	d := openMemory(t)
-	mustMigrate(t, d)
-
-	repoID, _ := UpsertRepository(d, &Repository{GitHubID: "g", Owner: "o", Name: "r"})
-	_, err := GetDailyStar(d, repoID, "2099-12-31")
-	if err != ErrNotFound {
-		t.Errorf("expected ErrNotFound, got %v", err)
-	}
-}
-
-func TestListDailyStarsOrderedByDateAsc(t *testing.T) {
-	d := openMemory(t)
-	mustMigrate(t, d)
-
-	repoID, _ := UpsertRepository(d, &Repository{GitHubID: "g", Owner: "o", Name: "r"})
-
-	for _, s := range []DailyStar{
-		{RepoID: repoID, RecordedDate: "2026-04-17", StarCount: 10},
-		{RepoID: repoID, RecordedDate: "2026-04-15", StarCount: 5},
-		{RepoID: repoID, RecordedDate: "2026-04-18", StarCount: 20},
-	} {
-		if err := UpsertDailyStar(d, &s); err != nil {
-			t.Fatalf("seed: %v", err)
+	for name, tc := range cases {
+		got, ok, err := StarCountAtOrBefore(d, id, tc.date)
+		if err != nil {
+			t.Errorf("%s: err %v", name, err)
+		}
+		if ok != tc.ok || got != tc.want {
+			t.Errorf("%s: got (%d,%v), want (%d,%v)", name, got, ok, tc.want, tc.ok)
 		}
 	}
-
-	list, err := ListDailyStars(d, repoID)
-	if err != nil {
-		t.Fatalf("list: %v", err)
-	}
-	if len(list) != 3 {
-		t.Fatalf("len=%d", len(list))
-	}
-	if list[0].RecordedDate != "2026-04-15" || list[2].RecordedDate != "2026-04-18" {
-		t.Errorf("not ordered asc: %+v", list)
-	}
 }
 
-func TestGetStarAtOrBeforeReturnsClosestPrior(t *testing.T) {
-	d := openMemory(t)
-	mustMigrate(t, d)
+func TestListStarHistoryOrdered(t *testing.T) {
+	d := openMem(t)
+	Migrate(d)
+	id, _ := UpsertRepository(d, Repository{GitHubID: "G1", Owner: "a", Name: "b"})
+	UpsertDailyStar(d, id, "2026-04-15", 200)
+	UpsertDailyStar(d, id, "2026-04-10", 100)
+	UpsertDailyStar(d, id, "2026-04-18", 300)
 
-	repoID, _ := UpsertRepository(d, &Repository{GitHubID: "g", Owner: "o", Name: "r"})
-
-	for _, s := range []DailyStar{
-		{RepoID: repoID, RecordedDate: "2026-04-10", StarCount: 50},
-		{RepoID: repoID, RecordedDate: "2026-04-15", StarCount: 100},
-		{RepoID: repoID, RecordedDate: "2026-04-18", StarCount: 200},
-	} {
-		_ = UpsertDailyStar(d, &s)
-	}
-
-	// exact match
-	got, err := GetStarAtOrBefore(d, repoID, "2026-04-15")
-	if err != nil {
-		t.Fatalf("exact: %v", err)
-	}
-	if got.StarCount != 100 {
-		t.Errorf("exact: got %d want 100", got.StarCount)
-	}
-
-	// between -> returns 2026-04-15 (latest before target)
-	got, err = GetStarAtOrBefore(d, repoID, "2026-04-17")
-	if err != nil {
-		t.Fatalf("between: %v", err)
-	}
-	if got.RecordedDate != "2026-04-15" {
-		t.Errorf("between: got date %s want 2026-04-15", got.RecordedDate)
-	}
-
-	// before all -> not found
-	_, err = GetStarAtOrBefore(d, repoID, "2026-01-01")
-	if err != ErrNotFound {
-		t.Errorf("before all: expected ErrNotFound, got %v", err)
+	hist, _ := ListStarHistory(d, id)
+	want := []string{"2026-04-10", "2026-04-15", "2026-04-18"}
+	for i, h := range hist {
+		if h.RecordedDate != want[i] {
+			t.Errorf("idx %d: %s vs %s", i, h.RecordedDate, want[i])
+		}
 	}
 }

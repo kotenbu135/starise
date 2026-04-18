@@ -1,21 +1,5 @@
-# starise seed repositories — one per line.
-# Format: owner/name. Lines starting with '#' are ignored.
-# Discover command expands this list by querying the GitHub Search API.
-
-# Languages & frameworks
-microsoft/vscode
-facebook/react
-vuejs/vue
-vitejs/vite
-denoland/deno
-oven-sh/bun
+# GitHub repos to track (owner/name)
+# Lines starting with # are comments
 golang/go
 rust-lang/rust
-python/cpython
-
-# AI / LLM
-openai/openai-python
-langchain-ai/langchain
-ggml-org/llama.cpp
-huggingface/transformers
-ollama/ollama
+torvalds/linux
