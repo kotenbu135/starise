@@ -9,11 +9,13 @@ import (
 	"github.com/kotenbu135/starise/batch/internal/export"
 	"github.com/kotenbu135/starise/batch/internal/fetch"
 	"github.com/kotenbu135/starise/batch/internal/github"
+	"github.com/kotenbu135/starise/batch/internal/restore"
 )
 
 // RunOptions configures a full batch run.
 type RunOptions struct {
 	Client       github.Client
+	RestoreFrom  string   // if set, rebuild DB from this data/ tree before fetch
 	Seeds        []string // "owner/name" entries
 	Today        string   // YYYY-MM-DD for daily_stars snapshot
 	UpdatedAt    string   // ISO-8601 embedded in JSON
@@ -30,6 +32,14 @@ type RunOptions struct {
 func RunAll(d *sql.DB, opts RunOptions) error {
 	if err := db.Migrate(d); err != nil {
 		return fmt.Errorf("migrate: %w", err)
+	}
+
+	// 0. restore history from data/ if requested (source-of-truth recovery).
+	//    Lets GitHub Actions start with a fresh DB and still retain history.
+	if opts.RestoreFrom != "" {
+		if _, err := restore.FromDir(d, opts.RestoreFrom); err != nil {
+			return fmt.Errorf("restore: %w", err)
+		}
 	}
 
 	// 1. fetch seeds

@@ -19,6 +19,7 @@ var (
 	runTopN         int
 	runMaxPages     int
 	runSkipDiscover bool
+	runRestoreFrom  string
 )
 
 var runCmd = &cobra.Command{
@@ -33,6 +34,7 @@ func init() {
 	runCmd.Flags().IntVar(&runTopN, "top-n", 500, "max entries per period (<=0 = all)")
 	runCmd.Flags().IntVar(&runMaxPages, "max-pages", 10, "pages per discover query")
 	runCmd.Flags().BoolVar(&runSkipDiscover, "skip-discover", false, "skip search-based discovery")
+	runCmd.Flags().StringVar(&runRestoreFrom, "restore-from", "", "rebuild DB from this data/ tree before fetch (empty = skip)")
 	rootCmd.AddCommand(runCmd)
 }
 
@@ -59,6 +61,7 @@ func runAll(_ *cobra.Command, _ []string) error {
 	now := time.Now().UTC()
 	return pipeline.RunAll(d, pipeline.RunOptions{
 		Client:       github.NewAPIClient(token),
+		RestoreFrom:  runRestoreFrom,
 		Seeds:        seeds,
 		Today:        now.Format("2006-01-02"),
 		UpdatedAt:    now.Format(time.RFC3339),

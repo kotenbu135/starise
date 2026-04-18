@@ -24,15 +24,19 @@ jobs:
           cache-dependency-path: batch/go.sum
 
       # Fresh DB each run — data/ (committed to repo) is the source of truth.
-      # Phase 0 (restore) rebuilds the DB from data/repos/*.json so daily_stars
-      # history survives across runs without depending on GitHub Actions cache.
+      # --restore-from rebuilds daily_stars history from data/repos/*.json so
+      # yesterday's snapshots survive across runs without depending on GitHub
+      # Actions cache.
       - name: Run batch
         working-directory: batch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           rm -f starise.db starise.db-shm starise.db-wal
-          go run . run --seed-file seeds.txt --out-dir ../data
+          go run . run \
+            --seed-file seeds.txt \
+            --out-dir ../data \
+            --restore-from ../data
 
       - name: Commit data changes
         run: |
