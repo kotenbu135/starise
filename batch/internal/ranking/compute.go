@@ -1,91 +1,146 @@
+// Package ranking computes %-growth rankings from daily star snapshots.
+//
+// Core formula (documented and unit-tested):
+//
+//	growth_pct = (end_stars - start_stars) / start_stars * 100
+//
+// Exclusion rules (intentional — see CLAUDE.md):
+//
+//  1. start_stars < MinStartStars  → excluded (statistical noise: 1→2 = +100%)
+//  2. no snapshot at-or-before period start → excluded (insufficient data)
+//  3. no snapshot at-or-before period end   → excluded (insufficient data)
+//
+// These are the only paths to exclusion. The function is a pure function of
+// its inputs and must never panic / return NaN / return Inf.
 package ranking
 
 import (
-	"database/sql"
-	"fmt"
-	"log"
 	"sort"
 	"time"
-
-	"github.com/kotenbu135/starise/batch/internal/db"
 )
 
-type Entry struct {
-	RepoID    int64
-	StarStart int
-	StarEnd   int
-	StarDelta int
-	GrowthRate float64
+// MinStartStars is the minimum start_stars required for a repo to appear in
+// the %-growth ranking. Below this, tiny denominators produce misleading %.
+const MinStartStars = 10
+
+// Period identifies a ranking window.
+type Period string
+
+const (
+	Period1d  Period = "1d"
+	Period7d  Period = "7d"
+	Period30d Period = "30d"
+)
+
+// Days returns the number of days in the window.
+func (p Period) Days() int {
+	switch p {
+	case Period1d:
+		return 1
+	case Period7d:
+		return 7
+	case Period30d:
+		return 30
+	}
+	return 0
 }
 
-func Compute(database *sql.DB) error {
-	today := time.Now().UTC().Format("2006-01-02")
+// Snapshot is a (date, stars) pair. Date is YYYY-MM-DD.
+type Snapshot struct {
+	Date  string
+	Stars int
+}
 
-	for _, period := range []struct {
-		Name string
-		Days int
-	}{
-		{"1d", 1},
-		{"7d", 7},
-		{"30d", 30},
-	} {
-		pairs, err := db.GetStarPairs(database, period.Days)
-		if err != nil {
-			return fmt.Errorf("get star pairs (%s): %w", period.Name, err)
-		}
+// RepoGrowth is the result of computing growth for one repo+period.
+type RepoGrowth struct {
+	RepoID     int64
+	Period     Period
+	StartStars int
+	EndStars   int
+	StarDelta  int
+	GrowthPct  float64
+	Rank       int // populated by AssignRanks
+}
 
-		entries := make([]Entry, 0, len(pairs))
-		for _, p := range pairs {
-			if p.StarStart <= 0 {
-				continue
-			}
-			delta := p.StarEnd - p.StarStart
-			rate := float64(delta) / float64(p.StarStart) * 100
-			entries = append(entries, Entry{
-				RepoID:     p.RepoID,
-				StarStart:  p.StarStart,
-				StarEnd:    p.StarEnd,
-				StarDelta:  delta,
-				GrowthRate: rate,
-			})
-		}
-
-		sort.Slice(entries, func(i, j int) bool {
-			return entries[i].GrowthRate > entries[j].GrowthRate
-		})
-
-		// One transaction per period — 38k+ upserts go from ~12s → ~0.5s.
-		tx, err := database.Begin()
-		if err != nil {
-			return fmt.Errorf("begin tx (%s): %w", period.Name, err)
-		}
-		stmt, err := tx.Prepare(`
-			INSERT INTO rankings (repo_id, period, computed_date, star_start, star_end, star_delta, growth_rate, rank)
-			VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-			ON CONFLICT(repo_id, period, computed_date) DO UPDATE SET
-				star_start=excluded.star_start, star_end=excluded.star_end,
-				star_delta=excluded.star_delta, growth_rate=excluded.growth_rate, rank=excluded.rank`)
-		if err != nil {
-			_ = tx.Rollback()
-			return fmt.Errorf("prepare (%s): %w", period.Name, err)
-		}
-		for rank, e := range entries {
-			if _, err := stmt.Exec(e.RepoID, period.Name, today,
-				e.StarStart, e.StarEnd, e.StarDelta, e.GrowthRate, rank+1); err != nil {
-				_ = stmt.Close()
-				_ = tx.Rollback()
-				return fmt.Errorf("upsert ranking: %w", err)
-			}
-		}
-		if err := stmt.Close(); err != nil {
-			_ = tx.Rollback()
-			return fmt.Errorf("close stmt (%s): %w", period.Name, err)
-		}
-		if err := tx.Commit(); err != nil {
-			return fmt.Errorf("commit (%s): %w", period.Name, err)
-		}
-
-		log.Printf("Computed %s rankings: %d entries", period.Name, len(entries))
+// GrowthPct applies the core formula with exclusion rules.
+// Returns (pct, true) when included, or (0, false) when excluded.
+func GrowthPct(start, end int) (float64, bool) {
+	if start < MinStartStars {
+		return 0, false
 	}
-	return nil
+	return float64(end-start) / float64(start) * 100, true
+}
+
+// ComputeRepoGrowth derives a RepoGrowth from snapshots (ascending by date).
+// endDate is the "today" anchor (YYYY-MM-DD). period defines the window.
+func ComputeRepoGrowth(snapshots []Snapshot, endDate string, period Period) (RepoGrowth, bool) {
+	end, ok := latestAtOrBefore(snapshots, endDate)
+	if !ok {
+		return RepoGrowth{}, false
+	}
+
+	startDate, err := subtractDays(endDate, period.Days())
+	if err != nil {
+		return RepoGrowth{}, false
+	}
+	start, ok := latestAtOrBefore(snapshots, startDate)
+	if !ok {
+		return RepoGrowth{}, false
+	}
+
+	pct, included := GrowthPct(start.Stars, end.Stars)
+	if !included {
+		return RepoGrowth{}, false
+	}
+	return RepoGrowth{
+		Period:     period,
+		StartStars: start.Stars,
+		EndStars:   end.Stars,
+		StarDelta:  end.Stars - start.Stars,
+		GrowthPct:  pct,
+	}, true
+}
+
+// AssignRanks sorts rows by GrowthPct desc, RepoID asc (stable tie-break),
+// and writes 1-indexed Rank into each row.
+func AssignRanks(rows []RepoGrowth) []RepoGrowth {
+	out := make([]RepoGrowth, len(rows))
+	copy(out, rows)
+
+	sort.SliceStable(out, func(i, j int) bool {
+		if out[i].GrowthPct != out[j].GrowthPct {
+			return out[i].GrowthPct > out[j].GrowthPct
+		}
+		return out[i].RepoID < out[j].RepoID
+	})
+
+	for i := range out {
+		out[i].Rank = i + 1
+	}
+	return out
+}
+
+// latestAtOrBefore returns the snapshot with the greatest Date <= target.
+// Assumes snapshots may be in any order; performs a linear scan.
+func latestAtOrBefore(snapshots []Snapshot, target string) (Snapshot, bool) {
+	var best Snapshot
+	found := false
+	for _, s := range snapshots {
+		if s.Date > target {
+			continue
+		}
+		if !found || s.Date > best.Date {
+			best = s
+			found = true
+		}
+	}
+	return best, found
+}
+
+func subtractDays(date string, days int) (string, error) {
+	t, err := time.Parse("2006-01-02", date)
+	if err != nil {
+		return "", err
+	}
+	return t.AddDate(0, 0, -days).Format("2006-01-02"), nil
 }

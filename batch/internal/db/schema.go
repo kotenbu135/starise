@@ -7,33 +7,30 @@ import (
 )
 
 //go:embed schema.sql
-var ddl string
+var schemaSQL string
 
-func Migrate(db *sql.DB) error {
-	_, err := db.Exec(ddl)
-	if err != nil {
-		return fmt.Errorf("migrate: %w", err)
+// Migrate applies the schema to the given database.
+// Idempotent: safe to call multiple times against the same DB.
+func Migrate(d *sql.DB) error {
+	if _, err := d.Exec(schemaSQL); err != nil {
+		return fmt.Errorf("apply schema: %w", err)
 	}
 	return nil
 }
 
+// Open opens a sqlite DB at path and enables foreign keys.
+// An empty path is treated as a pure in-memory DB.
 func Open(path string) (*sql.DB, error) {
-	db, err := sql.Open("sqlite", path)
+	if path == "" {
+		path = ":memory:"
+	}
+	d, err := sql.Open("sqlite", path)
 	if err != nil {
-		return nil, fmt.Errorf("open db: %w", err)
+		return nil, fmt.Errorf("open %s: %w", path, err)
 	}
-	db.SetMaxOpenConns(1)
-	if _, err := db.Exec("PRAGMA journal_mode=WAL"); err != nil {
-		db.Close()
-		return nil, fmt.Errorf("set WAL: %w", err)
+	if _, err := d.Exec(`PRAGMA foreign_keys = ON`); err != nil {
+		_ = d.Close()
+		return nil, fmt.Errorf("enable fk: %w", err)
 	}
-	if _, err := db.Exec("PRAGMA foreign_keys=ON"); err != nil {
-		db.Close()
-		return nil, fmt.Errorf("enable foreign keys: %w", err)
-	}
-	if err := Migrate(db); err != nil {
-		db.Close()
-		return nil, err
-	}
-	return db, nil
+	return d, nil
 }

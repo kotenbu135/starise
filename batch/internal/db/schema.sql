@@ -1,44 +1,52 @@
+-- starise DB schema
+-- Single source of truth for batch DB.
+-- All migrations idempotent (CREATE IF NOT EXISTS).
+
 CREATE TABLE IF NOT EXISTS repositories (
-    id            INTEGER PRIMARY KEY AUTOINCREMENT,
-    github_id     TEXT    NOT NULL UNIQUE,
-    owner         TEXT    NOT NULL,
-    name          TEXT    NOT NULL,
-    description   TEXT    NOT NULL DEFAULT '',
-    url           TEXT    NOT NULL DEFAULT '',
-    homepage_url  TEXT    NOT NULL DEFAULT '',
-    language      TEXT    NOT NULL DEFAULT '',
-    license       TEXT    NOT NULL DEFAULT '',
-    topics        TEXT    NOT NULL DEFAULT '[]',
-    is_archived   INTEGER NOT NULL DEFAULT 0,
-    is_fork       INTEGER NOT NULL DEFAULT 0,
-    fork_count    INTEGER NOT NULL DEFAULT 0,
-    created_at    TEXT    NOT NULL DEFAULT '',
-    updated_at    TEXT    NOT NULL DEFAULT '',
-    pushed_at     TEXT    NOT NULL DEFAULT '',
-    fetched_at    TEXT    NOT NULL DEFAULT (datetime('now')),
-    UNIQUE(owner, name)
+    id           INTEGER PRIMARY KEY AUTOINCREMENT,
+    github_id    TEXT    NOT NULL UNIQUE,
+    owner        TEXT    NOT NULL,
+    name         TEXT    NOT NULL,
+    description  TEXT    NOT NULL DEFAULT '',
+    url          TEXT    NOT NULL DEFAULT '',
+    homepage_url TEXT    NOT NULL DEFAULT '',
+    language     TEXT    NOT NULL DEFAULT '',
+    license      TEXT    NOT NULL DEFAULT '',
+    topics       TEXT    NOT NULL DEFAULT '[]',
+    is_archived  INTEGER NOT NULL DEFAULT 0,
+    is_fork      INTEGER NOT NULL DEFAULT 0,
+    fork_count   INTEGER NOT NULL DEFAULT 0,
+    created_at   TEXT    NOT NULL DEFAULT '',
+    updated_at   TEXT    NOT NULL DEFAULT '',
+    pushed_at    TEXT    NOT NULL DEFAULT '',
+    UNIQUE (owner, name)
 );
 
 CREATE TABLE IF NOT EXISTS daily_stars (
     id            INTEGER PRIMARY KEY AUTOINCREMENT,
-    repo_id       INTEGER NOT NULL REFERENCES repositories(id),
+    repo_id       INTEGER NOT NULL,
     recorded_date TEXT    NOT NULL,
     star_count    INTEGER NOT NULL,
-    UNIQUE(repo_id, recorded_date)
+    FOREIGN KEY (repo_id) REFERENCES repositories(id) ON DELETE CASCADE,
+    UNIQUE (repo_id, recorded_date)
 );
+
+CREATE INDEX IF NOT EXISTS idx_daily_stars_repo_date
+    ON daily_stars (repo_id, recorded_date);
 
 CREATE TABLE IF NOT EXISTS rankings (
-    id            INTEGER PRIMARY KEY AUTOINCREMENT,
-    repo_id       INTEGER NOT NULL REFERENCES repositories(id),
-    period        TEXT    NOT NULL,
-    computed_date TEXT    NOT NULL,
-    star_start    INTEGER NOT NULL,
-    star_end      INTEGER NOT NULL,
-    star_delta    INTEGER NOT NULL,
-    growth_rate   REAL    NOT NULL,
-    rank          INTEGER NOT NULL,
-    UNIQUE(repo_id, period, computed_date)
+    id             INTEGER PRIMARY KEY AUTOINCREMENT,
+    repo_id        INTEGER NOT NULL,
+    period         TEXT    NOT NULL,
+    computed_date  TEXT    NOT NULL,
+    start_stars    INTEGER NOT NULL,
+    end_stars      INTEGER NOT NULL,
+    star_delta     INTEGER NOT NULL,
+    growth_pct     REAL    NOT NULL,
+    rank           INTEGER NOT NULL,
+    FOREIGN KEY (repo_id) REFERENCES repositories(id) ON DELETE CASCADE,
+    UNIQUE (repo_id, period, computed_date)
 );
 
-CREATE INDEX IF NOT EXISTS idx_daily_stars_repo_date ON daily_stars(repo_id, recorded_date);
-CREATE INDEX IF NOT EXISTS idx_rankings_period_date  ON rankings(period, computed_date, rank);
+CREATE INDEX IF NOT EXISTS idx_rankings_period_date_rank
+    ON rankings (period, computed_date, rank);
