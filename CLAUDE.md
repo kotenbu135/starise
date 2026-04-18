@@ -18,16 +18,21 @@ GitHub Actions (daily cron)
 
 ## Commands
 
-### Go batch
+### Go batch (v3, invariant-driven)
 ```bash
 cd batch
 export GITHUB_TOKEN=$(gh auth token)
 
-go build ./...                                      # Build
-go run . fetch --seed-file seeds.txt                # Fetch repos + stars
-go run . compute                                     # Calculate 7d/30d growth
-go run . export --out-dir ../data                    # Generate JSON
-go run . run --seed-file seeds.txt --out-dir ../data # All-in-one
+go build ./...                                                  # Build
+go test ./... -cover                                            # All tests + invariants
+
+go run . restore --in-dir ../data                               # Rebuild DB from data/
+go run . fetch --seed-file seeds.txt                            # Fetch seed repos + today snapshot
+go run . discover --query "stars:>10 sort:stars-desc"           # Discover via Search API
+go run . refresh                                                # Bulk refresh today snapshot for all repos
+go run . compute --top-n 2000                                   # Compute breakout + trending × 1d/7d/30d
+go run . export --out-dir ../data                               # Write JSON tree
+go run . run --seed-file seeds.txt --out-dir ../data            # All-in-one (matches CI)
 ```
 
 ### Frontend
@@ -57,8 +62,22 @@ jq . data/meta.json
 
 - **Go**: `modernc.org/sqlite` (pure Go, no CGO), `spf13/cobra`, `shurcooL/graphql`
 - **Frontend**: Astro + React islands, shadcn/ui, Tailwind CSS, Recharts
-- **DB**: SQLite 3 tables: `repositories`, `daily_stars`, `rankings`
+- **DB**: SQLite 3 tables: `repositories` (+ `deleted_at` soft delete), `daily_stars`, `rankings` (+ `rank_type`)
+- **Ranking**: 2-axis (breakout for `1<=start<100`, trending for `start>=100`) × 3 periods (1d/7d/30d)
 - **CI**: GitHub Actions cron (daily) + GitHub Pages deploy
+
+## Invariants (issue #2)
+
+Ranking + export correctness is enforced by 13 invariant tests under
+`batch/internal/pipeline/invariant_iN_test.go`. All MUST stay green:
+
+- I1 completeness, I2 export↔restore round-trip, I3 multi-day history,
+  I4 refresh failure tolerance (>30% missing aborts), I5a-d ranking math,
+  I6 no NaN/Inf, I7 contiguous 1..N ranks, I8 6-key rankings.json,
+  I9 JSON round-trip, I10 idempotent migrate, I11 data/ source-of-truth,
+  I12 macro emptiness aborts, I13 deterministic export.
+
+Run only the invariants: `go test ./batch/internal/pipeline/ -run Invariant`
 
 ## TDD 強制 (MUST)
 
