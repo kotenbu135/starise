@@ -11,14 +11,15 @@ import (
 )
 
 var (
-	runSeedFile     string
-	runOutDir       string
-	runRestoreFrom  string
-	runTopN         int
-	runMaxPages     int
-	runQuery        string
-	runSkipDiscover bool
-	runSkipRefresh  bool
+	runSeedFile           string
+	runOutDir             string
+	runRestoreFrom        string
+	runTopN               int
+	runMaxPages           int
+	runQuery              string
+	runSkipDiscover       bool
+	runSkipRefresh        bool
+	runAllowEmptyRankings bool
 )
 
 var runCmd = &cobra.Command{
@@ -50,6 +51,7 @@ var runCmd = &cobra.Command{
 			TopN: runTopN, MaxPages: runMaxPages, SearchQuery: runQuery,
 			SkipDiscover: runSkipDiscover, SkipRefresh: runSkipRefresh,
 			UpdatedAt: now, GeneratedAt: now,
+			AllowEmptyRankings: runAllowEmptyRankings,
 		})
 		fmt.Printf("run: %+v\n", report)
 		return err
@@ -65,4 +67,8 @@ func init() {
 	runCmd.Flags().StringVar(&runQuery, "query", "stars:>10 sort:stars-desc", "discover search query")
 	runCmd.Flags().BoolVar(&runSkipDiscover, "skip-discover", false, "skip discover step")
 	runCmd.Flags().BoolVar(&runSkipRefresh, "skip-refresh", false, "skip refresh step")
+	runCmd.Flags().BoolVar(&runAllowEmptyRankings, "allow-empty-rankings", false,
+		"do NOT abort when all 6 ranking slots are empty (required for bootstrap day "+
+			"when data/ has no history yet — production CI sets this true so daily export "+
+			"always proceeds; I12 still catches logic bugs in tests)")
 }

@@ -27,6 +27,11 @@ jobs:
       # --restore-from rebuilds daily_stars history from data/repos/*.json so
       # yesterday's snapshots survive across runs without depending on GitHub
       # Actions cache.
+      #
+      # --allow-empty-rankings: production export must always proceed, even on
+      # the bootstrap day when data/ has no history yet (issue #2 v3 rewrite
+      # wiped data/). I12 still catches in-process compute regressions in the
+      # test suite; here we never want to block daily JSON publish.
       - name: Run batch
         working-directory: batch
         env:
@@ -36,7 +41,8 @@ jobs:
           go run . run \
             --seed-file seeds.txt \
             --out-dir ../data \
-            --restore-from ../data
+            --restore-from ../data \
+            --allow-empty-rankings
 
       - name: Commit data changes
         run: |
