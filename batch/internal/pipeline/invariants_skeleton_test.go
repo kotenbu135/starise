@@ -33,20 +33,9 @@ func TestInvariantI4_RefreshFailureTolerance(t *testing.T) {
 	t.Skip("pending: requires P11 refresh")
 }
 
-// I5: 2-axis ranking correctness (a: breakout, b: trending, c: no zero/neg, d: no overlap).
-func TestInvariantI5_TwoAxisCorrectness(t *testing.T) {
-	t.Skip("pending: requires P3 ranking/growth, P4 ranking/breakout, P5 ranking/compute")
-}
-
-// I6: no NaN, +Inf, -Inf in any ranking row.
-func TestInvariantI6_NoNaNOrInf(t *testing.T) {
-	t.Skip("pending: requires P5 ranking/compute, P6 ranking/invariants")
-}
-
-// I7: ranks are 1..N contiguous per (period, rank_type).
-func TestInvariantI7_RankSequenceContiguous(t *testing.T) {
-	t.Skip("pending: requires P5 ranking/compute, P6 ranking/invariants")
-}
+// I5: promoted to invariant_i5_test.go (real assertions)
+// I6: promoted to invariant_i6_test.go (real assertions)
+// I7: promoted to invariant_i7_test.go (real assertions)
 
 // I8: rankings.json has exactly the 6 keys (1d/7d/30d × breakout/trending).
 func TestInvariantI8_RankingsJSONHasSixKeys(t *testing.T) {
@@ -68,10 +57,7 @@ func TestInvariantI11_DataIsSourceOfTruth(t *testing.T) {
 	t.Skip("pending: requires P12 restore, P14 export/json, P16 pipeline/compute")
 }
 
-// I12: empty rankings across all 6 slots aborts the pipeline (exit 1).
-func TestInvariantI12_EmptyRankingsAborts(t *testing.T) {
-	t.Skip("pending: requires P16 pipeline/compute")
-}
+// I12: promoted to invariant_i12_test.go (real assertions)
 
 // I13: re-export with same DB state and same computed_date is byte-identical
 // (modulo updated_at / generated_at fields).

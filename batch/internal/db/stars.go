@@ -38,17 +38,29 @@ func ListStarHistory(d *sql.DB, repoID int64) ([]DailyStar, error) {
 	return out, rows.Err()
 }
 
+// EarliestStarCount returns the oldest star snapshot for the repo, ok=false when none exist.
+func EarliestStarCount(d *sql.DB, repoID int64) (int, bool, error) {
+	var n int
+	err := d.QueryRow(`SELECT star_count FROM daily_stars
+        WHERE repo_id=? ORDER BY recorded_date ASC LIMIT 1`, repoID).Scan(&n)
+	if errors.Is(err, sql.ErrNoRows) {
+		return 0, false, nil
+	}
+	if err != nil {
+		return 0, false, err
+	}
+	return n, true, nil
+}
+
 // StarCountAtOrBefore returns the most recent star_count on or before the given date.
-// If the date is later than the latest record, returns the latest record.
-// If no record exists at all on or before the date, ok=false.
+// If no record exists at or before the date, ok=false (caller may fall back to
+// EarliestStarCount when computing period-start lookups for new repos).
 func StarCountAtOrBefore(d *sql.DB, repoID int64, date string) (int, bool, error) {
 	var n int
 	err := d.QueryRow(`SELECT star_count FROM daily_stars
         WHERE repo_id=? AND recorded_date <= ?
         ORDER BY recorded_date DESC LIMIT 1`, repoID, date).Scan(&n)
 	if errors.Is(err, sql.ErrNoRows) {
-		// Fall back to the earliest record only when the date is BEFORE the earliest.
-		// In that case the function contract says ok=false; we just return.
 		return 0, false, nil
 	}
 	if err != nil {
