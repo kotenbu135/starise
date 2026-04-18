@@ -2,14 +2,10 @@ package db
 
 import (
 	"database/sql"
-	"errors"
+	"encoding/json"
 	"fmt"
 )
 
-// ErrNotFound is returned when a lookup by key yields no row.
-var ErrNotFound = errors.New("not found")
-
-// Repository models a row in the repositories table.
 type Repository struct {
 	ID          int64
 	GitHubID    string
@@ -20,118 +16,147 @@ type Repository struct {
 	HomepageURL string
 	Language    string
 	License     string
-	Topics      string // JSON-encoded array
+	Topics      []string
 	IsArchived  bool
 	IsFork      bool
 	ForkCount   int
 	CreatedAt   string
 	UpdatedAt   string
 	PushedAt    string
+	DeletedAt   string
 }
 
-// UpsertRepository inserts or updates a repository by (owner, name) and
-// returns its primary key. github_id is kept in sync on update.
-func UpsertRepository(d *sql.DB, r *Repository) (int64, error) {
-	const q = `
-INSERT INTO repositories (
-	github_id, owner, name, description, url, homepage_url,
-	language, license, topics, is_archived, is_fork, fork_count,
-	created_at, updated_at, pushed_at
-) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-ON CONFLICT (owner, name) DO UPDATE SET
-	github_id    = excluded.github_id,
-	description  = excluded.description,
-	url          = excluded.url,
-	homepage_url = excluded.homepage_url,
-	language     = excluded.language,
-	license      = excluded.license,
-	topics       = excluded.topics,
-	is_archived  = excluded.is_archived,
-	is_fork      = excluded.is_fork,
-	fork_count   = excluded.fork_count,
-	created_at   = excluded.created_at,
-	updated_at   = excluded.updated_at,
-	pushed_at    = excluded.pushed_at
-RETURNING id;
-`
-	topics := r.Topics
-	if topics == "" {
-		topics = "[]"
-	}
-	var id int64
-	err := d.QueryRow(q,
-		r.GitHubID, r.Owner, r.Name, r.Description, r.URL, r.HomepageURL,
-		r.Language, r.License, topics, boolToInt(r.IsArchived), boolToInt(r.IsFork), r.ForkCount,
-		r.CreatedAt, r.UpdatedAt, r.PushedAt,
-	).Scan(&id)
-	if err != nil {
-		return 0, fmt.Errorf("upsert repository %s/%s: %w", r.Owner, r.Name, err)
-	}
-	return id, nil
-}
-
-// GetRepositoryByOwnerName returns a repository by (owner, name). ErrNotFound
-// when no matching row exists.
-func GetRepositoryByOwnerName(d *sql.DB, owner, name string) (*Repository, error) {
-	const q = `
-SELECT id, github_id, owner, name, description, url, homepage_url,
-       language, license, topics, is_archived, is_fork, fork_count,
-       created_at, updated_at, pushed_at
-FROM repositories WHERE owner = ? AND name = ?;
-`
-	var r Repository
-	var archived, fork int
-	err := d.QueryRow(q, owner, name).Scan(
-		&r.ID, &r.GitHubID, &r.Owner, &r.Name, &r.Description, &r.URL, &r.HomepageURL,
-		&r.Language, &r.License, &r.Topics, &archived, &fork, &r.ForkCount,
-		&r.CreatedAt, &r.UpdatedAt, &r.PushedAt,
-	)
-	if err == sql.ErrNoRows {
-		return nil, ErrNotFound
-	}
-	if err != nil {
-		return nil, fmt.Errorf("get repository %s/%s: %w", owner, name, err)
-	}
-	r.IsArchived = archived != 0
-	r.IsFork = fork != 0
-	return &r, nil
-}
-
-// ListRepositories returns all repositories ordered by id.
-func ListRepositories(d *sql.DB) ([]Repository, error) {
-	const q = `
-SELECT id, github_id, owner, name, description, url, homepage_url,
-       language, license, topics, is_archived, is_fork, fork_count,
-       created_at, updated_at, pushed_at
-FROM repositories ORDER BY id;
-`
-	rows, err := d.Query(q)
-	if err != nil {
-		return nil, fmt.Errorf("list repositories: %w", err)
-	}
-	defer rows.Close()
-
-	var out []Repository
-	for rows.Next() {
-		var r Repository
-		var archived, fork int
-		if err := rows.Scan(
-			&r.ID, &r.GitHubID, &r.Owner, &r.Name, &r.Description, &r.URL, &r.HomepageURL,
-			&r.Language, &r.License, &r.Topics, &archived, &fork, &r.ForkCount,
-			&r.CreatedAt, &r.UpdatedAt, &r.PushedAt,
-		); err != nil {
-			return nil, fmt.Errorf("scan: %w", err)
-		}
-		r.IsArchived = archived != 0
-		r.IsFork = fork != 0
-		out = append(out, r)
-	}
-	return out, rows.Err()
-}
-
-func boolToInt(b bool) int {
+func b2i(b bool) int {
 	if b {
 		return 1
 	}
 	return 0
+}
+
+// UpsertRepository inserts or updates by github_id and returns the row ID.
+// The deleted_at column is preserved (not overwritten) to keep soft deletes.
+func UpsertRepository(d *sql.DB, r Repository) (int64, error) {
+	topicsJSON, err := json.Marshal(r.Topics)
+	if err != nil {
+		return 0, fmt.Errorf("marshal topics: %w", err)
+	}
+	if r.Topics == nil {
+		topicsJSON = []byte("[]")
+	}
+
+	const q = `
+INSERT INTO repositories (
+    github_id, owner, name, description, url, homepage_url, language, license,
+    topics, is_archived, is_fork, fork_count, created_at, updated_at, pushed_at
+) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+ON CONFLICT(github_id) DO UPDATE SET
+    owner=excluded.owner,
+    name=excluded.name,
+    description=excluded.description,
+    url=excluded.url,
+    homepage_url=excluded.homepage_url,
+    language=excluded.language,
+    license=excluded.license,
+    topics=excluded.topics,
+    is_archived=excluded.is_archived,
+    is_fork=excluded.is_fork,
+    fork_count=excluded.fork_count,
+    created_at=excluded.created_at,
+    updated_at=excluded.updated_at,
+    pushed_at=excluded.pushed_at
+RETURNING id`
+	var id int64
+	err = d.QueryRow(q,
+		r.GitHubID, r.Owner, r.Name, r.Description, r.URL, r.HomepageURL,
+		r.Language, r.License, string(topicsJSON), b2i(r.IsArchived), b2i(r.IsFork),
+		r.ForkCount, r.CreatedAt, r.UpdatedAt, r.PushedAt,
+	).Scan(&id)
+	if err != nil {
+		return 0, fmt.Errorf("upsert repository: %w", err)
+	}
+	return id, nil
+}
+
+func SoftDeleteByGitHubID(d *sql.DB, githubID, date string) error {
+	_, err := d.Exec("UPDATE repositories SET deleted_at=? WHERE github_id=?", date, githubID)
+	return err
+}
+
+func HardDeleteByGitHubID(d *sql.DB, githubID string) error {
+	_, err := d.Exec("DELETE FROM repositories WHERE github_id=?", githubID)
+	return err
+}
+
+func GetRepositoryByGitHubID(d *sql.DB, githubID string) (Repository, error) {
+	const q = `SELECT id, github_id, owner, name, description, url, homepage_url, language, license,
+        topics, is_archived, is_fork, fork_count, created_at, updated_at, pushed_at, deleted_at
+        FROM repositories WHERE github_id=?`
+	return scanRepository(d.QueryRow(q, githubID))
+}
+
+func GetRepositoryByOwnerName(d *sql.DB, owner, name string) (Repository, error) {
+	const q = `SELECT id, github_id, owner, name, description, url, homepage_url, language, license,
+        topics, is_archived, is_fork, fork_count, created_at, updated_at, pushed_at, deleted_at
+        FROM repositories WHERE owner=? AND name=?`
+	return scanRepository(d.QueryRow(q, owner, name))
+}
+
+func ListActiveRepositories(d *sql.DB) ([]Repository, error) {
+	return queryRepositories(d, `SELECT id, github_id, owner, name, description, url, homepage_url, language, license,
+        topics, is_archived, is_fork, fork_count, created_at, updated_at, pushed_at, deleted_at
+        FROM repositories WHERE deleted_at='' AND is_archived=0 ORDER BY id`)
+}
+
+func ListNonDeletedRepositories(d *sql.DB) ([]Repository, error) {
+	return queryRepositories(d, `SELECT id, github_id, owner, name, description, url, homepage_url, language, license,
+        topics, is_archived, is_fork, fork_count, created_at, updated_at, pushed_at, deleted_at
+        FROM repositories WHERE deleted_at='' ORDER BY id`)
+}
+
+func ListAllRepositories(d *sql.DB) ([]Repository, error) {
+	return queryRepositories(d, `SELECT id, github_id, owner, name, description, url, homepage_url, language, license,
+        topics, is_archived, is_fork, fork_count, created_at, updated_at, pushed_at, deleted_at
+        FROM repositories ORDER BY id`)
+}
+
+type rowScanner interface {
+	Scan(dest ...any) error
+}
+
+func scanRepository(row rowScanner) (Repository, error) {
+	var r Repository
+	var topicsJSON string
+	var arch, fork int
+	if err := row.Scan(&r.ID, &r.GitHubID, &r.Owner, &r.Name, &r.Description,
+		&r.URL, &r.HomepageURL, &r.Language, &r.License,
+		&topicsJSON, &arch, &fork, &r.ForkCount,
+		&r.CreatedAt, &r.UpdatedAt, &r.PushedAt, &r.DeletedAt); err != nil {
+		return Repository{}, err
+	}
+	r.IsArchived = arch != 0
+	r.IsFork = fork != 0
+	if topicsJSON == "" {
+		topicsJSON = "[]"
+	}
+	if err := json.Unmarshal([]byte(topicsJSON), &r.Topics); err != nil {
+		return Repository{}, fmt.Errorf("unmarshal topics: %w", err)
+	}
+	return r, nil
+}
+
+func queryRepositories(d *sql.DB, q string, args ...any) ([]Repository, error) {
+	rows, err := d.Query(q, args...)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+	var out []Repository
+	for rows.Next() {
+		r, err := scanRepository(rows)
+		if err != nil {
+			return nil, err
+		}
+		out = append(out, r)
+	}
+	return out, rows.Err()
 }

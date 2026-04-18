@@ -2,81 +2,57 @@ package db
 
 import (
 	"database/sql"
-	"fmt"
+	"errors"
 )
 
-// DailyStar is one snapshot of a repo's star count on a given date.
 type DailyStar struct {
-	ID           int64
 	RepoID       int64
-	RecordedDate string // YYYY-MM-DD
+	RecordedDate string
 	StarCount    int
 }
 
-// UpsertDailyStar writes (or overwrites) the star snapshot for repo_id on
-// recorded_date.
-func UpsertDailyStar(d *sql.DB, s *DailyStar) error {
-	const q = `
-INSERT INTO daily_stars (repo_id, recorded_date, star_count)
-VALUES (?, ?, ?)
-ON CONFLICT (repo_id, recorded_date) DO UPDATE SET
-	star_count = excluded.star_count;
-`
-	if _, err := d.Exec(q, s.RepoID, s.RecordedDate, s.StarCount); err != nil {
-		return fmt.Errorf("upsert daily_star repo=%d date=%s: %w", s.RepoID, s.RecordedDate, err)
-	}
-	return nil
+// UpsertDailyStar overwrites the row for (repo_id, recorded_date).
+func UpsertDailyStar(d *sql.DB, repoID int64, date string, count int) error {
+	const q = `INSERT INTO daily_stars (repo_id, recorded_date, star_count)
+        VALUES (?, ?, ?)
+        ON CONFLICT(repo_id, recorded_date) DO UPDATE SET star_count=excluded.star_count`
+	_, err := d.Exec(q, repoID, date, count)
+	return err
 }
 
-// GetDailyStar returns the snapshot for a given repo+date or ErrNotFound.
-func GetDailyStar(d *sql.DB, repoID int64, date string) (*DailyStar, error) {
-	const q = `SELECT id, repo_id, recorded_date, star_count FROM daily_stars
-		WHERE repo_id = ? AND recorded_date = ?;`
-	var s DailyStar
-	err := d.QueryRow(q, repoID, date).Scan(&s.ID, &s.RepoID, &s.RecordedDate, &s.StarCount)
-	if err == sql.ErrNoRows {
-		return nil, ErrNotFound
-	}
+func ListStarHistory(d *sql.DB, repoID int64) ([]DailyStar, error) {
+	rows, err := d.Query(`SELECT repo_id, recorded_date, star_count FROM daily_stars
+        WHERE repo_id=? ORDER BY recorded_date`, repoID)
 	if err != nil {
-		return nil, fmt.Errorf("get daily_star: %w", err)
-	}
-	return &s, nil
-}
-
-// GetStarAtOrBefore returns the most recent snapshot whose recorded_date <= target.
-// Used by ranking to find the starting stars for a period window.
-func GetStarAtOrBefore(d *sql.DB, repoID int64, target string) (*DailyStar, error) {
-	const q = `SELECT id, repo_id, recorded_date, star_count FROM daily_stars
-		WHERE repo_id = ? AND recorded_date <= ?
-		ORDER BY recorded_date DESC LIMIT 1;`
-	var s DailyStar
-	err := d.QueryRow(q, repoID, target).Scan(&s.ID, &s.RepoID, &s.RecordedDate, &s.StarCount)
-	if err == sql.ErrNoRows {
-		return nil, ErrNotFound
-	}
-	if err != nil {
-		return nil, fmt.Errorf("get star at or before: %w", err)
-	}
-	return &s, nil
-}
-
-// ListDailyStars returns all snapshots for a repo in ascending date order.
-func ListDailyStars(d *sql.DB, repoID int64) ([]DailyStar, error) {
-	const q = `SELECT id, repo_id, recorded_date, star_count FROM daily_stars
-		WHERE repo_id = ? ORDER BY recorded_date ASC;`
-	rows, err := d.Query(q, repoID)
-	if err != nil {
-		return nil, fmt.Errorf("list daily_stars: %w", err)
+		return nil, err
 	}
 	defer rows.Close()
-
 	var out []DailyStar
 	for rows.Next() {
 		var s DailyStar
-		if err := rows.Scan(&s.ID, &s.RepoID, &s.RecordedDate, &s.StarCount); err != nil {
-			return nil, fmt.Errorf("scan: %w", err)
+		if err := rows.Scan(&s.RepoID, &s.RecordedDate, &s.StarCount); err != nil {
+			return nil, err
 		}
 		out = append(out, s)
 	}
 	return out, rows.Err()
+}
+
+// StarCountAtOrBefore returns the most recent star_count on or before the given date.
+// If the date is later than the latest record, returns the latest record.
+// If no record exists at all on or before the date, ok=false.
+func StarCountAtOrBefore(d *sql.DB, repoID int64, date string) (int, bool, error) {
+	var n int
+	err := d.QueryRow(`SELECT star_count FROM daily_stars
+        WHERE repo_id=? AND recorded_date <= ?
+        ORDER BY recorded_date DESC LIMIT 1`, repoID, date).Scan(&n)
+	if errors.Is(err, sql.ErrNoRows) {
+		// Fall back to the earliest record only when the date is BEFORE the earliest.
+		// In that case the function contract says ok=false; we just return.
+		return 0, false, nil
+	}
+	if err != nil {
+		return 0, false, err
+	}
+	return n, true, nil
 }
