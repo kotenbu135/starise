@@ -23,27 +23,16 @@ jobs:
           go-version-file: batch/go.mod
           cache-dependency-path: batch/go.sum
 
-      - name: Restore SQLite cache
-        uses: actions/cache/restore@v5
-        with:
-          path: batch/starise.db
-          key: starise-db-${{ github.ref_name }}-${{ github.run_id }}
-          restore-keys: |
-            starise-db-${{ github.ref_name }}-
-            starise-db-
-
+      # Fresh DB each run — data/ (committed to repo) is the source of truth.
+      # Phase 0 (restore) rebuilds the DB from data/repos/*.json so daily_stars
+      # history survives across runs without depending on GitHub Actions cache.
       - name: Run batch
         working-directory: batch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: go run . run --seed-file seeds.txt --out-dir ../data
-
-      - name: Save SQLite cache
-        uses: actions/cache/save@v5
-        if: always()
-        with:
-          path: batch/starise.db
-          key: starise-db-${{ github.ref_name }}-${{ github.run_id }}
+        run: |
+          rm -f starise.db starise.db-shm starise.db-wal
+          go run . run --seed-file seeds.txt --out-dir ../data
 
       - name: Commit data changes
         run: |

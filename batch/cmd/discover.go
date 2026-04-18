@@ -270,11 +270,14 @@ func saveTrendingRepo(ghClient *github.Client, database *sql.DB, p trending.Proj
 	// trending からは星数やID取れない → GraphQL で個別取得
 	result, err := ghClient.FetchRepo(p.Owner, p.RepositoryName)
 	if err != nil {
+		// On rate-limit / transient failure, pause proportional to reset window
+		// (handled inside CheckRateLimit) to avoid tight-looping against GitHub.
 		return 0, err
 	}
 
 	repo := result.Repo
 	if repo.IsArchived || repo.IsFork {
+		ghClient.CheckRateLimit(result.RateLimit)
 		return 0, nil
 	}
 

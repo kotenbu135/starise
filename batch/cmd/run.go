@@ -19,10 +19,11 @@ var runSeedFile string
 var runOutDir string
 var runMaxPages int
 var runSkipDiscover bool
+var runSkipRestore bool
 
 var runCmd = &cobra.Command{
 	Use:   "run",
-	Short: "All-in-one: discover + fetch + compute + export",
+	Short: "All-in-one: restore + discover + fetch + compute + export",
 	RunE:  runAll,
 }
 
@@ -31,6 +32,7 @@ func init() {
 	runCmd.Flags().StringVar(&runOutDir, "out-dir", "../data", "output directory for JSON files")
 	runCmd.Flags().IntVar(&runMaxPages, "max-pages", 10, "max pages per discover query (100 repos/page)")
 	runCmd.Flags().BoolVar(&runSkipDiscover, "skip-discover", false, "skip discover phase")
+	runCmd.Flags().BoolVar(&runSkipRestore, "skip-restore", false, "skip restore phase (use existing DB as-is)")
 	rootCmd.AddCommand(runCmd)
 }
 
@@ -53,6 +55,16 @@ func runAll(cmd *cobra.Command, args []string) error {
 
 	client := github.NewClient(token)
 	today := time.Now().UTC().Format("2006-01-02")
+
+	// 0. Restore — data/ is the source of truth; the local DB is ephemeral.
+	// Rebuilding from disk avoids depending on fragile GitHub Actions cache and
+	// guarantees the daily_stars history accumulated across prior runs is present.
+	if !runSkipRestore {
+		log.Println("=== Phase 0: Restore ===")
+		if err := Restore(database, runOutDir); err != nil {
+			log.Printf("WARN: restore: %v", err)
+		}
+	}
 
 	// 1. Discover
 	if !runSkipDiscover {

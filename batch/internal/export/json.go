@@ -7,6 +7,7 @@ import (
 	"log"
 	"os"
 	"path/filepath"
+	"strings"
 	"time"
 
 	"github.com/kotenbu135/starise/batch/internal/db"
@@ -89,6 +90,32 @@ func Export(database *sql.DB, outDir string) error {
 		return fmt.Errorf("mkdir repos: %w", err)
 	}
 
+	// Build set of files this export run will produce; delete everything else.
+	// Prevents orphan accumulation when repos are archived / renamed / removed.
+	expected := make(map[string]struct{}, len(repos))
+	for _, r := range repos {
+		expected[fmt.Sprintf("%s__%s.json", r.Owner, r.Name)] = struct{}{}
+	}
+	if existing, err := os.ReadDir(reposDir); err == nil {
+		removed := 0
+		for _, de := range existing {
+			if de.IsDir() || !strings.HasSuffix(de.Name(), ".json") {
+				continue
+			}
+			if _, ok := expected[de.Name()]; ok {
+				continue
+			}
+			if err := os.Remove(filepath.Join(reposDir, de.Name())); err != nil {
+				log.Printf("WARN: remove orphan %s: %v", de.Name(), err)
+				continue
+			}
+			removed++
+		}
+		if removed > 0 {
+			log.Printf("Removed %d orphan repo JSON files", removed)
+		}
+	}
+
 	latestStars := getLatestStars(database, repos)
 
 	for _, r := range repos {
@@ -153,7 +180,7 @@ func getRankingEntries(database *sql.DB, period string, repos []db.Repository) (
 	}
 	defer rows.Close()
 
-	var entries []RankingEntry
+	entries := make([]RankingEntry, 0)
 	for rows.Next() {
 		var repoID int64
 		var e RankingEntry

@@ -30,11 +30,15 @@ type StarPair struct {
 	StarEnd   int
 }
 
+// GetStarPairs returns (start, end) pairs for repos with an exact N-day-old snapshot.
+// Repos lacking a historical row for the requested period are excluded — mixing them
+// in would require a StarStart=0 fallback, which makes growth_rate collapse to the
+// absolute star count and corrupts the ranking.
 func GetStarPairs(db *sql.DB, days int) ([]StarPair, error) {
 	rows, err := db.Query(`
-		SELECT s_end.repo_id, COALESCE(s_start.star_count, 0), s_end.star_count
+		SELECT s_end.repo_id, s_start.star_count, s_end.star_count
 		FROM daily_stars s_end
-		LEFT JOIN daily_stars s_start
+		INNER JOIN daily_stars s_start
 			ON s_start.repo_id = s_end.repo_id
 			AND s_start.recorded_date = date(s_end.recorded_date, ?)
 		WHERE s_end.recorded_date = (SELECT MAX(recorded_date) FROM daily_stars)`,
