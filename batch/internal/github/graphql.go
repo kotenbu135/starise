@@ -18,9 +18,12 @@ type GraphQLClient struct {
 }
 
 // NewGraphQLClient builds a client using a GitHub personal access token.
+// Requests are wrapped in retryTransport so GitHub secondary rate limits
+// (403 with "rate limit" body) and 429 responses are retried — see
+// retry.go. maxRetries=4 covers bursts without hiding sustained outages.
 func NewGraphQLClient(token string) *GraphQLClient {
 	httpClient := &http.Client{
-		Transport: &authTransport{token: token},
+		Transport: newRetryTransport(&authTransport{token: token}, 4),
 		Timeout:   60 * time.Second,
 	}
 	return &GraphQLClient{c: graphql.NewClient("https://api.github.com/graphql", httpClient)}

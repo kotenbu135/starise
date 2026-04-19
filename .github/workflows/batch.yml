@@ -43,7 +43,7 @@ jobs:
             --out-dir ../data \
             --restore-from ../data \
             --preset \
-            --discover-concurrency 5 \
+            --discover-concurrency 2 \
             --allow-empty-rankings
 
       - name: Commit data changes
