@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/kotenbu135/starise/batch/internal/discover"
 	"github.com/kotenbu135/starise/batch/internal/fetch"
 	"github.com/kotenbu135/starise/batch/internal/pipeline"
 	"github.com/spf13/cobra"
@@ -17,6 +18,8 @@ var (
 	runTopN               int
 	runMaxPages           int
 	runQuery              string
+	runUsePreset          bool
+	runDiscoverConcurrency int
 	runSkipDiscover       bool
 	runSkipRefresh        bool
 	runAllowEmptyRankings bool
@@ -44,15 +47,22 @@ var runCmd = &cobra.Command{
 			t = time.Now().UTC().Format("2006-01-02")
 		}
 		now := time.Now().UTC().Format(time.RFC3339)
-		report, err := pipeline.RunAll(context.Background(), d, pipeline.Options{
+		opts := pipeline.Options{
 			Client: c, Today: t,
 			SeedOwners: owners, SeedNames: names,
 			OutDir: runOutDir, RestoreFrom: runRestoreFrom,
-			TopN: runTopN, MaxPages: runMaxPages, SearchQuery: runQuery,
-			SkipDiscover: runSkipDiscover, SkipRefresh: runSkipRefresh,
+			TopN: runTopN, MaxPages: runMaxPages,
+			DiscoverConcurrency: runDiscoverConcurrency,
+			SkipDiscover:        runSkipDiscover, SkipRefresh: runSkipRefresh,
 			UpdatedAt: now, GeneratedAt: now,
 			AllowEmptyRankings: runAllowEmptyRankings,
-		})
+		}
+		if runUsePreset {
+			opts.SearchQueries = discover.BuildQuerySet(time.Now().UTC())
+		} else {
+			opts.SearchQuery = runQuery
+		}
+		report, err := pipeline.RunAll(context.Background(), d, opts)
 		fmt.Printf("run: %+v\n", report)
 		return err
 	},
@@ -64,7 +74,12 @@ func init() {
 	runCmd.Flags().StringVar(&runRestoreFrom, "restore-from", "../data", "restore source dir (empty = skip)")
 	runCmd.Flags().IntVar(&runTopN, "top-n", 2000, "max rank entries per slot")
 	runCmd.Flags().IntVar(&runMaxPages, "max-pages", 10, "discover search pages")
-	runCmd.Flags().StringVar(&runQuery, "query", "stars:>10 sort:stars-desc", "discover search query")
+	runCmd.Flags().StringVar(&runQuery, "query", "stars:>10 sort:stars-desc", "discover search query (ignored when --preset is set)")
+	runCmd.Flags().BoolVar(&runUsePreset, "preset", false,
+		"use the built-in multi-query preset (star bands × language × topics). "+
+			"Produces the v1-scale ~30k discovery sweep; overrides --query.")
+	runCmd.Flags().IntVar(&runDiscoverConcurrency, "discover-concurrency", 5,
+		"parallel Search API queries when --preset is set")
 	runCmd.Flags().BoolVar(&runSkipDiscover, "skip-discover", false, "skip discover step")
 	runCmd.Flags().BoolVar(&runSkipRefresh, "skip-refresh", false, "skip refresh step")
 	runCmd.Flags().BoolVar(&runAllowEmptyRankings, "allow-empty-rankings", false,

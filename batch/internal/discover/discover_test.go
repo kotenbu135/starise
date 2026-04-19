@@ -2,11 +2,14 @@ package discover
 
 import (
 	"context"
+	"errors"
 	"testing"
 
 	"github.com/kotenbu135/starise/batch/internal/db"
 	"github.com/kotenbu135/starise/batch/internal/github"
 )
+
+var errInjected = errors.New("injected search error")
 
 func TestDiscoverInsertsNewRepos(t *testing.T) {
 	d, _ := db.Open("")
@@ -51,6 +54,31 @@ func TestDiscoverRefreshesKnownRepos(t *testing.T) {
 	}
 	if res.Refreshed != 1 {
 		t.Errorf("refreshed=%d", res.Refreshed)
+	}
+}
+
+func TestDiscoverPersistsPartialOnSearchError(t *testing.T) {
+	d, _ := db.Open("")
+	defer d.Close()
+	c := github.NewMockClient()
+	c.SearchByQuery = map[string][]github.RepoData{
+		"q": {
+			{GitHubID: "G1", Owner: "x", Name: "a", StarCount: 100},
+			{GitHubID: "G2", Owner: "x", Name: "b", StarCount: 200},
+		},
+	}
+	c.SearchErr = map[string]error{"q": errInjected}
+
+	res, err := Run(context.Background(), d, c, github.SearchOptions{Query: "q"}, "2026-04-18")
+	if err == nil {
+		t.Fatal("expected search error to surface")
+	}
+	if res.Discovered != 2 {
+		t.Errorf("discovered=%d, want 2 (partial data must persist)", res.Discovered)
+	}
+	active, _ := db.ListActiveRepositories(d)
+	if len(active) != 2 {
+		t.Errorf("active=%d, want 2", len(active))
 	}
 }
 

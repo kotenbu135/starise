@@ -28,11 +28,19 @@ go test ./... -cover                                            # All tests + in
 
 go run . restore --in-dir ../data                               # Rebuild DB from data/
 go run . fetch --seed-file seeds.txt                            # Fetch seed repos + today snapshot
-go run . discover --query "stars:>10 sort:stars-desc"           # Discover via Search API
-go run . refresh                                                # Bulk refresh today snapshot for all repos
+go run . discover --query "stars:>10 sort:stars-desc"           # Discover via Search API (single query)
+go run . refresh                                                # Parallel bulk refresh (nodes(ids:) ×5 concurrency)
 go run . compute --top-n 2000                                   # Compute breakout + trending × 1d/7d/30d
 go run . export --out-dir ../data                               # Write JSON tree
-go run . run --seed-file seeds.txt --out-dir ../data            # All-in-one (matches CI)
+
+# All-in-one — matches CI exactly:
+go run . run --seed-file seeds.txt --out-dir ../data --restore-from ../data \
+  --preset --discover-concurrency 5 --allow-empty-rankings
+
+# Single test (working dir = batch/):
+go test -run TestName ./internal/ranking
+go test ./internal/pipeline/ -run Invariant                     # Invariants only
+go test ./... -race                                             # Race detector (required before merge)
 ```
 
 ### Frontend
@@ -65,6 +73,8 @@ jq . data/meta.json
 - **DB**: SQLite 3 tables: `repositories` (+ `deleted_at` soft delete), `daily_stars`, `rankings` (+ `rank_type`)
 - **Ranking**: 2-axis (breakout for `1<=start<100`, trending for `start>=100`) × 3 periods (1d/7d/30d)
 - **CI**: GitHub Actions cron (daily) + GitHub Pages deploy
+- **Discovery scale**: `--preset` fans out ~64 queries (star bands × 15 langs × 7 topics) via `discover.BuildQuerySet`, dedup by GitHubID → v1-scale ~30k repos. Single-query mode is for debugging only
+- **Parallelism**: `refresh` and preset `discover` use `sync.WaitGroup`+semaphore (NOT errgroup) so one failing batch does NOT cancel siblings. Partial data is persisted before errors surface — `BulkRefresh` returns `(found, missing, limit, err)` where all four may be populated simultaneously
 
 ## Invariants (issue #2)
 

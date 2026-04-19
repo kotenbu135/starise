@@ -48,10 +48,11 @@ func Run(ctx context.Context, d *sql.DB, c github.Client, today string, maxFailu
 		idToRepo[r.GitHubID] = r
 	}
 
-	found, missing, _, err := c.BulkRefresh(ctx, ids)
-	if err != nil {
-		return Result{}, fmt.Errorf("bulk refresh: %w", err)
-	}
+	// Partial-data contract: BulkRefresh may return found/missing from the
+	// batches that succeeded alongside an error from one that didn't. We
+	// persist whatever came back before surfacing the error so a single
+	// rate-limit blip doesn't invalidate 29k other snapshots.
+	found, missing, _, bulkErr := c.BulkRefresh(ctx, ids)
 
 	res := Result{}
 
@@ -89,6 +90,9 @@ func Run(ctx context.Context, d *sql.DB, c github.Client, today string, maxFailu
 
 	res.FailureRate = float64(len(missing)) / float64(len(ids))
 
+	if bulkErr != nil {
+		return res, fmt.Errorf("bulk refresh: %w", bulkErr)
+	}
 	if res.FailureRate > maxFailureRate {
 		return res, ErrFailureRateExceeded
 	}

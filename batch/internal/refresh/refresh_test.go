@@ -88,6 +88,60 @@ func TestRefreshAbortsAboveThreshold(t *testing.T) {
 	}
 }
 
+// partialBulkClient wraps a MockClient to make BulkRefresh return partial
+// data alongside a transport-level error — simulating the case where one
+// GraphQL batch fails (rate limit / network) mid-run while the others
+// succeed. The real GraphQLClient's runBulkRefreshParallel now exposes
+// this contract; refresh.Run must persist the partial data so a single
+// flaky batch doesn't invalidate the whole daily snapshot.
+type partialBulkClient struct {
+	*github.MockClient
+	partialFound   []github.RepoData
+	partialMissing []string
+	partialErr     error
+}
+
+func (p *partialBulkClient) BulkRefresh(_ context.Context, _ []string) ([]github.RepoData, []string, github.RateLimitInfo, error) {
+	return p.partialFound, p.partialMissing, github.RateLimitInfo{}, p.partialErr
+}
+
+func TestRefreshPersistsPartialDataOnBulkError(t *testing.T) {
+	d, _ := db.Open("")
+	defer d.Close()
+
+	for i := 0; i < 5; i++ {
+		id := fmt.Sprintf("G%d", i)
+		db.UpsertRepository(d, db.Repository{GitHubID: id, Owner: "x", Name: fmt.Sprintf("r%d", i)})
+	}
+
+	// Only G0..G2 came back before the failing batch. G3, G4 were in the
+	// dropped batch — neither refreshed nor soft-deleted.
+	partial := &partialBulkClient{
+		MockClient: github.NewMockClient(),
+		partialFound: []github.RepoData{
+			{GitHubID: "G0", Owner: "x", Name: "r0", StarCount: 10},
+			{GitHubID: "G1", Owner: "x", Name: "r1", StarCount: 20},
+			{GitHubID: "G2", Owner: "x", Name: "r2", StarCount: 30},
+		},
+		partialErr: errors.New("batch 4 (100 ids): rate limited"),
+	}
+
+	res, err := Run(context.Background(), d, partial, "2026-04-18", DefaultMaxFailureRate)
+	if err == nil {
+		t.Fatal("expected bulk error to surface")
+	}
+	if res.Refreshed != 3 {
+		t.Errorf("refreshed=%d, want 3 (partial data must persist)", res.Refreshed)
+	}
+	// Verify today's snapshot actually landed in the DB.
+	for i := 0; i < 3; i++ {
+		r, _ := db.GetRepositoryByGitHubID(d, fmt.Sprintf("G%d", i))
+		if r.ID == 0 {
+			t.Errorf("G%d not found in DB", i)
+		}
+	}
+}
+
 func TestRefreshDetectsArchivedFlip(t *testing.T) {
 	d, _ := db.Open("")
 	defer d.Close()

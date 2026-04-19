@@ -25,10 +25,10 @@ func Run(ctx context.Context, d *sql.DB, c github.Client, opts github.SearchOpti
 	if opts.Query == "" {
 		return Result{}, errors.New("discover: empty query")
 	}
-	results, _, err := c.SearchRepos(ctx, opts)
-	if err != nil {
-		return Result{}, fmt.Errorf("search: %w", err)
-	}
+	// Partial-data contract: SearchRepos may return collected repos alongside
+	// a pagination error (e.g. 1000-result cap on a late page). Persist what
+	// came back before surfacing the error.
+	results, _, searchErr := c.SearchRepos(ctx, opts)
 
 	var res Result
 	for _, r := range results {
@@ -55,6 +55,9 @@ func Run(ctx context.Context, d *sql.DB, c github.Client, opts github.SearchOpti
 		} else {
 			res.Refreshed++
 		}
+	}
+	if searchErr != nil {
+		return res, fmt.Errorf("search: %w", searchErr)
 	}
 	return res, nil
 }

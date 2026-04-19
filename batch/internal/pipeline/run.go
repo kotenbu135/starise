@@ -28,7 +28,16 @@ type Options struct {
 	RestoreFrom        string // empty = skip restore
 	TopN               int
 	MaxPages           int
+	// SearchQuery is the legacy single-query entrypoint. When SearchQueries
+	// is non-empty it takes precedence.
 	SearchQuery        string
+	// SearchQueries runs the multi-query discover path (star bands × language
+	// × topic) in parallel. When set, SearchQuery is ignored.
+	SearchQueries      []string
+	// DiscoverConcurrency caps parallel Search API queries. 0 defaults to 1
+	// (sequential). 5 is a safe production setting: well below GitHub's
+	// secondary rate limit and leaves headroom for refresh running after.
+	DiscoverConcurrency int
 	SkipDiscover       bool
 	SkipRefresh        bool
 	UpdatedAt          string
@@ -40,12 +49,13 @@ type Options struct {
 }
 
 type RunReport struct {
-	Restored    restore.Result
-	Fetched     fetch.Result
-	Discovered  discover.Result
-	Refreshed   refresh.Result
-	ExportRepos int
-	Cleanup     export.CleanupResult
+	Restored       restore.Result
+	Fetched        fetch.Result
+	Discovered     discover.Result
+	DiscoveredMany discover.ManyResult
+	Refreshed      refresh.Result
+	ExportRepos    int
+	Cleanup        export.CleanupResult
 }
 
 // RunAll executes the full pipeline. Returns a report and any error from a
@@ -84,14 +94,27 @@ func RunAll(ctx context.Context, d *sql.DB, opts Options) (RunReport, error) {
 		report.Fetched = res
 	}
 
-	if !opts.SkipDiscover && opts.SearchQuery != "" {
-		res, err := discover.Run(ctx, d, opts.Client, github.SearchOptions{
-			Query: opts.SearchQuery, MaxPages: opts.MaxPages, PerPage: 50,
-		}, opts.Today)
-		if err != nil {
-			return report, fmt.Errorf("discover: %w", err)
+	if !opts.SkipDiscover {
+		switch {
+		case len(opts.SearchQueries) > 0:
+			res, err := discover.RunMany(ctx, d, opts.Client, opts.SearchQueries, opts.Today, discover.RunManyOptions{
+				Concurrency: opts.DiscoverConcurrency,
+				MaxPages:    opts.MaxPages,
+				PerPage:     100,
+			})
+			if err != nil {
+				return report, fmt.Errorf("discover: %w", err)
+			}
+			report.DiscoveredMany = res
+		case opts.SearchQuery != "":
+			res, err := discover.Run(ctx, d, opts.Client, github.SearchOptions{
+				Query: opts.SearchQuery, MaxPages: opts.MaxPages, PerPage: 50,
+			}, opts.Today)
+			if err != nil {
+				return report, fmt.Errorf("discover: %w", err)
+			}
+			report.Discovered = res
 		}
-		report.Discovered = res
 	}
 
 	if !opts.SkipRefresh {
