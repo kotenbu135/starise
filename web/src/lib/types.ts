@@ -1,25 +1,35 @@
 export interface RankingEntry {
   rank: number;
+  repo_id: string;
   owner: string;
   name: string;
-  description: string;
+  full_name: string;
   language: string;
-  license: string;
-  star_count: number;
+  start_stars: number;
+  end_stars: number;
   star_delta: number;
-  growth_rate: number;
-  url: string;
-  created_at: string;
+  growth_pct: number;
+  created_at?: string; // enriched at SSR time from data/repos/*.json
+}
+
+export type Period = "1d" | "7d" | "30d";
+
+export interface PeriodRankings {
+  "1d": RankingEntry[];
+  "7d": RankingEntry[];
+  "30d": RankingEntry[];
 }
 
 export interface RankingsData {
   updated_at: string;
-  rankings: {
-    "1d": RankingEntry[];
-    "7d": RankingEntry[];
-    "30d": RankingEntry[];
-  };
+  rankings: PeriodRankings;
 }
+
+export const EMPTY_PERIOD_RANKINGS: PeriodRankings = {
+  "1d": [],
+  "7d": [],
+  "30d": [],
+};
 
 export interface RepoDetail {
   owner: string;
@@ -42,8 +52,6 @@ export interface Meta {
   periods: string[];
 }
 
-export type Period = "1d" | "7d" | "30d";
-
-export type SortKey = "star_count" | "star_delta" | "growth_rate";
+export type SortKey = "end_stars" | "star_delta" | "growth_pct";
 export type SortDirection = "asc" | "desc";
 export type AgeFilter = "30d" | "90d" | "1y" | "all";

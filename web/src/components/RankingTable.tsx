@@ -1,7 +1,13 @@
 import { useState, useMemo } from "react";
 import { ArrowUp, ArrowDown, Star, TrendingUp, Zap, Sparkles } from "lucide-react";
 import { cn, formatNumber, formatGrowthRate } from "../lib/utils";
-import type { RankingEntry, Period, SortKey, SortDirection, AgeFilter } from "../lib/types";
+import type {
+  Period,
+  PeriodRankings,
+  SortKey,
+  SortDirection,
+  AgeFilter,
+} from "../lib/types";
 import { filterByAge, sortEntries, paginate } from "../lib/ranking";
 import { PeriodToggle } from "./PeriodToggle";
 import { FilterBar } from "./FilterBar";
@@ -11,11 +17,7 @@ import { Pagination } from "./Pagination";
 const PER_PAGE = 20;
 
 interface Props {
-  rankings: {
-    "1d": RankingEntry[];
-    "7d": RankingEntry[];
-    "30d": RankingEntry[];
-  };
+  rankings: PeriodRankings;
   updatedAt: string;
   basePath?: string;
 }
@@ -23,7 +25,7 @@ interface Props {
 export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
   const [period, setPeriod] = useState<Period>("7d");
   const [langFilter, setLangFilter] = useState("");
-  const [sortKey, setSortKey] = useState<SortKey>("growth_rate");
+  const [sortKey, setSortKey] = useState<SortKey>("growth_pct");
   const [sortDir, setSortDir] = useState<SortDirection>("desc");
   const [ageFilter, setAgeFilter] = useState<AgeFilter>("all");
   const [page, setPage] = useState(1);
@@ -83,8 +85,7 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
     setPage(1);
   };
 
-  // Use display index instead of rank when custom sort is active
-  const isDefaultSort = sortKey === "growth_rate" && sortDir === "desc";
+  const isDefaultSort = sortKey === "growth_pct" && sortDir === "desc";
 
   const updatedDate = new Date(updatedAt).toLocaleDateString("ja-JP", {
     year: "numeric",
@@ -125,7 +126,7 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
               <th className="py-3 px-2 w-24">言語</th>
               <SortHeader
                 label="スター"
-                sortKey="star_count"
+                sortKey="end_stars"
                 currentKey={sortKey}
                 direction={sortDir}
                 onSort={handleSort}
@@ -141,7 +142,7 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
               />
               <SortHeader
                 label="増加率"
-                sortKey="growth_rate"
+                sortKey="growth_pct"
                 currentKey={sortKey}
                 direction={sortDir}
                 onSort={handleSort}
@@ -158,21 +159,16 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
                 <td className="py-3 pr-2 whitespace-nowrap min-w-[3rem]">
                   <span className="text-base font-bold tabular-nums text-text-secondary inline-flex items-center gap-1">
                     {isDefaultSort ? entry.rank : (page - 1) * PER_PAGE + idx + 1}
-                    <TrendIcon rate={entry.growth_rate} rank={entry.rank} />
+                    <TrendIcon rate={entry.growth_pct} rank={entry.rank} />
                   </span>
                 </td>
                 <td className="py-3 px-2">
-                  <div>
-                    <a
-                      href={`${basePath}/repo/${entry.owner}/${entry.name}`}
-                      className="font-mono text-[13px] font-medium text-brand hover:text-brand-hover transition-colors duration-150"
-                    >
-                      {entry.owner}/{entry.name}
-                    </a>
-                    <p className="text-text-secondary text-xs mt-0.5 truncate max-w-[400px]">
-                      {entry.description}
-                    </p>
-                  </div>
+                  <a
+                    href={`${basePath}/repo/${entry.owner}/${entry.name}`}
+                    className="font-mono text-[13px] font-medium text-brand hover:text-brand-hover transition-colors duration-150"
+                  >
+                    {entry.owner}/{entry.name}
+                  </a>
                 </td>
                 <td className="py-3 px-2">
                   {entry.language && (
@@ -184,14 +180,14 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
                 <td className="py-3 px-2 text-right">
                   <span className="tabular-nums flex items-center justify-end gap-1">
                     <Star className="w-3.5 h-3.5 text-accent" />
-                    {formatNumber(entry.star_count)}
+                    {formatNumber(entry.end_stars)}
                   </span>
                 </td>
                 <td className="py-3 px-2 text-right">
                   <DeltaCell delta={entry.star_delta} />
                 </td>
                 <td className="py-3 pl-2 text-right">
-                  <GrowthCell rate={entry.growth_rate} />
+                  <GrowthCell rate={entry.growth_pct} />
                 </td>
               </tr>
             ))}
@@ -212,15 +208,12 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
                 <div className="flex items-center gap-2">
                   <span className="text-base font-bold tabular-nums text-text-secondary shrink-0 inline-flex items-center gap-1">
                     #{isDefaultSort ? entry.rank : (page - 1) * PER_PAGE + idx + 1}
-                    <TrendIcon rate={entry.growth_rate} rank={entry.rank} />
+                    <TrendIcon rate={entry.growth_pct} rank={entry.rank} />
                   </span>
                   <span className="font-mono text-[13px] font-medium text-brand truncate">
                     {entry.owner}/{entry.name}
                   </span>
                 </div>
-                <p className="text-text-secondary text-xs mt-1 line-clamp-2">
-                  {entry.description}
-                </p>
               </div>
             </div>
             <div className="flex items-center gap-4 mt-3 text-xs">
@@ -229,10 +222,10 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
               )}
               <span className="tabular-nums flex items-center gap-1">
                 <Star className="w-3 h-3 text-accent" />
-                {formatNumber(entry.star_count)}
+                {formatNumber(entry.end_stars)}
               </span>
               <DeltaCell delta={entry.star_delta} />
-              <GrowthCell rate={entry.growth_rate} />
+              <GrowthCell rate={entry.growth_pct} />
             </div>
           </a>
         ))}

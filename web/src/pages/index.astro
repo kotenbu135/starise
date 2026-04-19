@@ -1,19 +1,60 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { RankingTable } from '../components/RankingTable';
-import type { RankingsData } from '../lib/types';
+import type { RankingEntry, PeriodRankings, Period } from '../lib/types';
+import { EMPTY_PERIOD_RANKINGS } from '../lib/types';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
-let rankings: RankingsData = {
-  updated_at: new Date().toISOString(),
-  rankings: { "1d": [], "7d": [], "30d": [] }
-};
+const dataDir = path.join(process.cwd(), 'public', 'data');
+
+let updatedAt = new Date().toISOString();
+let rankings: PeriodRankings = { ...EMPTY_PERIOD_RANKINGS };
+
+// Build owner/name -> created_at lookup from data/repos/*.json so the frontend
+// can apply the repo-age filter. Rank entries in rankings.json don't carry
+// created_at, so we enrich at SSR time.
+const createdAtByFullName = new Map<string, string>();
+try {
+  const reposDir = path.join(dataDir, 'repos');
+  const files = await fs.readdir(reposDir);
+  await Promise.all(files
+    .filter((f) => f.endsWith('.json'))
+    .map(async (f) => {
+      try {
+        const raw = await fs.readFile(path.join(reposDir, f), 'utf-8');
+        const repo = JSON.parse(raw);
+        if (repo.full_name && repo.created_at) {
+          createdAtByFullName.set(repo.full_name, repo.created_at);
+        }
+      } catch {
+        // skip malformed
+      }
+    }));
+} catch {
+  // repos/ missing → enrichment skipped; age filter falls back to keep-all
+}
 
 try {
-  const filePath = path.join(process.cwd(), 'public', 'data', 'rankings.json');
+  const filePath = path.join(dataDir, 'rankings.json');
   const text = await fs.readFile(filePath, 'utf-8');
-  rankings = JSON.parse(text);
+  const parsed = JSON.parse(text);
+  if (parsed.updated_at) updatedAt = parsed.updated_at;
+
+  // Backend writes 6 keys (breakout/trending × 1d/7d/30d). UI only shows the
+  // trending slice (repos with >=100 stars), so map the 3 trending slots back
+  // to the period-keyed shape the component expects.
+  const periods: Period[] = ['1d', '7d', '30d'];
+  const raw = parsed.rankings ?? {};
+  for (const p of periods) {
+    const entries: RankingEntry[] = (raw[`${p}_trending`] ?? []).map(
+      (e: RankingEntry) => ({
+        ...e,
+        created_at: createdAtByFullName.get(e.full_name),
+      }),
+    );
+    rankings[p] = entries;
+  }
 } catch {
   // no data available yet
 }
@@ -30,8 +71,8 @@ try {
 
     <RankingTable
       client:load
-      rankings={rankings.rankings}
-      updatedAt={rankings.updated_at}
+      rankings={rankings}
+      updatedAt={updatedAt}
       basePath={import.meta.env.BASE_URL}
     />
   </div>
