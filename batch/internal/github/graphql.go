@@ -22,9 +22,15 @@ type GraphQLClient struct {
 // (403 with "rate limit" body) and 429 responses are retried — see
 // retry.go. maxRetries=4 covers bursts without hiding sustained outages.
 func NewGraphQLClient(token string) *GraphQLClient {
+	// Client.Timeout covers the ENTIRE RoundTrip, including retries inside
+	// retryTransport. 180s leaves headroom for one retry after a slow call
+	// plus short backoff on secondary-limit retries. Primary-limit retries
+	// can sleep minutes — they will exceed this budget and abort, which is
+	// the desired outcome (the pipeline's proactive throttle will have
+	// already paused before the budget ran out).
 	httpClient := &http.Client{
 		Transport: newRetryTransport(&authTransport{token: token}, 4),
-		Timeout:   60 * time.Second,
+		Timeout:   180 * time.Second,
 	}
 	return &GraphQLClient{c: graphql.NewClient("https://api.github.com/graphql", httpClient)}
 }
@@ -172,8 +178,15 @@ func (g *GraphQLClient) SearchRepos(ctx context.Context, opts SearchOptions) ([]
 }
 
 const (
-	bulkBatchSize   = 100
-	bulkConcurrency = 5
+	bulkBatchSize = 100
+	// bulkConcurrency=1 intentionally: parallel GraphQL calls reliably trip
+	// GitHub's secondary rate limit even with retries, burning real wallclock
+	// time on sleeps. Sequential execution fits well within the 5000 pts/hr
+	// primary budget (~300 batches × 1-3 pts ≈ 600 pts) and finishes in
+	// minutes. If parallelism is ever reintroduced, add cross-shard
+	// rate-limit awareness so one shard pauses when another reports low
+	// remaining.
+	bulkConcurrency = 1
 )
 
 // batchFetcher fetches a single GraphQL nodes() batch. Production uses

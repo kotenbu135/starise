@@ -29,13 +29,13 @@ go test ./... -cover                                            # All tests + in
 go run . restore --in-dir ../data                               # Rebuild DB from data/
 go run . fetch --seed-file seeds.txt                            # Fetch seed repos + today snapshot
 go run . discover --query "stars:>10 sort:stars-desc"           # Discover via Search API (single query)
-go run . refresh                                                # Parallel bulk refresh (nodes(ids:) ×5 concurrency)
+go run . refresh                                                # Sequential bulk refresh (nodes(ids:) ×100 per batch)
 go run . compute --top-n 2000                                   # Compute breakout + trending × 1d/7d/30d
 go run . export --out-dir ../data                               # Write JSON tree
 
 # All-in-one — matches CI exactly:
 go run . run --seed-file seeds.txt --out-dir ../data --restore-from ../data \
-  --preset --discover-concurrency 5 --allow-empty-rankings
+  --preset --discover-concurrency 1 --allow-empty-rankings
 
 # Single test (working dir = batch/):
 go test -run TestName ./internal/ranking
@@ -74,7 +74,12 @@ jq . data/meta.json
 - **Ranking**: 2-axis (breakout for `1<=start<100`, trending for `start>=100`) × 3 periods (1d/7d/30d)
 - **CI**: GitHub Actions cron (daily) + GitHub Pages deploy
 - **Discovery scale**: `--preset` fans out ~64 queries (star bands × 15 langs × 7 topics) via `discover.BuildQuerySet`, dedup by GitHubID → v1-scale ~30k repos. Single-query mode is for debugging only
-- **Parallelism**: `refresh` and preset `discover` use `sync.WaitGroup`+semaphore (NOT errgroup) so one failing batch does NOT cancel siblings. Partial data is persisted before errors surface — `BulkRefresh` returns `(found, missing, limit, err)` where all four may be populated simultaneously
+- **Execution model**: 並列は廃止。`refresh` と preset `discover` は **sequential (concurrency=1)** で実行。理由: 並列化すると GitHub の secondary rate limit に頻繁に引っかかり、retry sleep で結局 wallclock が延びるため。sequential でも primary budget (5000 pts/hr) 内に余裕で収まる試算 (~1500 pts/run)。`runBulkRefreshParallel` 内部実装は残してあり、将来 cross-shard rate-limit awareness を追加すれば再度並列化可能
+- **Rate limit defense** (`batch/internal/github/retry.go`):
+  - HTTP 429 / 403+"rate limit" (secondary) → Retry-After or exponential backoff (数秒)
+  - HTTP 200 + `errors[{type:"RATE_LIMITED"}]` (primary 枯渇) → `data.rateLimit.resetAt` まで sleep (最大1時間、5s buffer 付き)
+  - HTTP 200 + `errors[{type:"MAX_NODE_LIMIT_EXCEEDED"}]` → retry せずエラー伝播
+  - HTTP Client.Timeout は 180s (retry ループ全体を覆う)。primary 枯渇時の長 sleep は timeout 超過で abort する想定 — pipeline の次回実行が resetAt 後になるよう cron 設計で担保
 
 ## Invariants (issue #2)
 
@@ -118,8 +123,3 @@ Run only the invariants: `go test ./batch/internal/pipeline/ -run Invariant`
 **例外手続き**: TDD が物理的に困難な箇所（マイグレーション DDL、config ファイル、純粋な型定義）は PR 説明で理由を明示。
 
 関連: `/ecc:go-test` (Go TDD 自動化)、`/ecc:tdd` (汎用 TDD ワークフロー)
-
-## Communication Style
-
-- セッション開始時、自動で `/genshijin 極限` モード有効化。全レスポンス極限圧縮で返答
-- 解除: ユーザが「原始人やめて」「normal mode」と言った場合のみ

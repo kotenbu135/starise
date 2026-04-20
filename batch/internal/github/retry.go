@@ -2,6 +2,7 @@ package github
 
 import (
 	"bytes"
+	"encoding/json"
 	"io"
 	"net/http"
 	"strconv"
@@ -9,11 +10,17 @@ import (
 	"time"
 )
 
-// retryTransport wraps an http.RoundTripper and retries requests that hit
-// GitHub's secondary rate limit (HTTP 403 with "secondary rate limit" in the
-// body) or HTTP 429. Retry-After is honored when present; otherwise falls
-// back to exponential backoff. Non-rate-limit responses (including plain 403
-// auth errors) pass through untouched.
+// retryTransport wraps an http.RoundTripper and retries requests that hit a
+// GitHub rate limit. Three cases are handled:
+//
+//   - HTTP 429 / HTTP 403 "secondary rate limit" body: honor Retry-After or
+//     fall back to short exponential backoff (seconds).
+//   - HTTP 200 with GraphQL errors[{type:"RATE_LIMITED"}] — primary-limit
+//     exhaustion. Parse data.rateLimit.resetAt and sleep until then. If
+//     resetAt is absent, fall back to a minute-long backoff (short retries
+//     are wasted — the budget resets hourly).
+//   - HTTP 200 with GraphQL errors[{type:"MAX_NODE_LIMIT_EXCEEDED"}] — query
+//     too large. Do NOT retry; propagate so callers can shrink the batch.
 //
 // The transport buffers POST bodies so they can be replayed on retry — the
 // shurcooL/graphql client sends every query as POST, so this is mandatory.
@@ -32,6 +39,12 @@ func newRetryTransport(inner http.RoundTripper, maxRetries int) *retryTransport 
 		now:        time.Now,
 	}
 }
+
+// primaryLimitFallback is the sleep we apply when a primary-limit response is
+// seen without a parseable resetAt. One minute is long enough that short
+// retry churn doesn't burn attempts uselessly, short enough that callers
+// don't block forever if the resetAt was just missing from a partial body.
+const primaryLimitFallback = 60 * time.Second
 
 func (rt *retryTransport) RoundTrip(r *http.Request) (*http.Response, error) {
 	// Buffer body once so we can rewind it for each retry attempt.
@@ -55,12 +68,9 @@ func (rt *retryTransport) RoundTrip(r *http.Request) (*http.Response, error) {
 		if err != nil {
 			return resp, err
 		}
-		if !shouldRetryResponse(resp) || attempt == rt.maxRetries {
+		wait, retry := retryDecision(resp, attempt, rt.now())
+		if !retry || attempt == rt.maxRetries {
 			return resp, nil
-		}
-		wait := parseRetryAfter(resp.Header.Get("Retry-After"), rt.now())
-		if wait <= 0 {
-			wait = backoffDuration(attempt)
 		}
 		// Drain + close so the underlying connection can be reused.
 		_, _ = io.Copy(io.Discard, resp.Body)
@@ -70,29 +80,117 @@ func (rt *retryTransport) RoundTrip(r *http.Request) (*http.Response, error) {
 	return resp, nil
 }
 
-// shouldRetryResponse returns true for GitHub secondary rate-limit (403 with
-// a "rate limit" body) and for 429 Too Many Requests. It reads and restores
-// the response body so callers still see the full payload.
-func shouldRetryResponse(resp *http.Response) bool {
+// retryDecision inspects the response and returns (sleep, shouldRetry). It
+// restores resp.Body so a caller that ultimately receives this response still
+// reads the full payload (shurcooL/graphql parses 200 bodies into Go errors).
+func retryDecision(resp *http.Response, attempt int, now time.Time) (time.Duration, bool) {
 	if resp == nil {
-		return false
+		return 0, false
 	}
-	if resp.StatusCode == http.StatusTooManyRequests {
-		return true
+	switch resp.StatusCode {
+	case http.StatusTooManyRequests:
+		d := parseRetryAfter(resp.Header.Get("Retry-After"), now)
+		if d <= 0 {
+			d = backoffDuration(attempt)
+		}
+		return d, true
+	case http.StatusForbidden:
+		b := peekBody(resp)
+		if !strings.Contains(strings.ToLower(string(b)), "rate limit") {
+			return 0, false // plain auth 403 — do not retry
+		}
+		d := parseRetryAfter(resp.Header.Get("Retry-After"), now)
+		if d <= 0 {
+			d = backoffDuration(attempt)
+		}
+		return d, true
+	case http.StatusOK:
+		b := peekBody(resp)
+		kind, resetAt := classifyGraphQLError(b)
+		switch kind {
+		case gqlErrRateLimited:
+			if d := resetAtDelay(resetAt, now); d > 0 {
+				return d, true
+			}
+			return primaryLimitFallback, true
+		case gqlErrMaxNodeLimit:
+			return 0, false
+		}
+		return 0, false
 	}
-	if resp.StatusCode != http.StatusForbidden {
-		return false
+	return 0, false
+}
+
+// peekBody reads the response body fully and replaces it with a fresh
+// io.NopCloser so downstream consumers still see the same bytes. Returns
+// empty on error; callers treat unreadable bodies as non-retryable.
+func peekBody(resp *http.Response) []byte {
+	if resp.Body == nil {
+		return nil
 	}
-	// Peek the body to distinguish rate-limit 403 from auth 403. Restore it
-	// so the real consumer still reads the same bytes.
 	b, err := io.ReadAll(resp.Body)
 	_ = resp.Body.Close()
 	if err != nil {
-		return false
+		resp.Body = io.NopCloser(bytes.NewReader(nil))
+		return nil
 	}
 	resp.Body = io.NopCloser(bytes.NewReader(b))
-	lower := strings.ToLower(string(b))
-	return strings.Contains(lower, "rate limit")
+	return b
+}
+
+type gqlErrKind int
+
+const (
+	gqlErrNone gqlErrKind = iota
+	gqlErrRateLimited
+	gqlErrMaxNodeLimit
+)
+
+// classifyGraphQLError parses a 200 body looking for GitHub GraphQL error
+// markers we care about. Returns the detected kind and data.rateLimit.resetAt
+// (RFC3339) when present. A missing/malformed body yields gqlErrNone.
+func classifyGraphQLError(body []byte) (gqlErrKind, string) {
+	if len(body) == 0 {
+		return gqlErrNone, ""
+	}
+	var parsed struct {
+		Data struct {
+			RateLimit struct {
+				ResetAt string `json:"resetAt"`
+			} `json:"rateLimit"`
+		} `json:"data"`
+		Errors []struct {
+			Type string `json:"type"`
+		} `json:"errors"`
+	}
+	if err := json.Unmarshal(body, &parsed); err != nil {
+		return gqlErrNone, ""
+	}
+	for _, e := range parsed.Errors {
+		switch e.Type {
+		case "RATE_LIMITED":
+			return gqlErrRateLimited, parsed.Data.RateLimit.ResetAt
+		case "MAX_NODE_LIMIT_EXCEEDED":
+			return gqlErrMaxNodeLimit, ""
+		}
+	}
+	return gqlErrNone, ""
+}
+
+// resetAtDelay returns the duration from now until resetAt plus a 5s buffer,
+// or 0 when resetAt is empty/past/unparseable.
+func resetAtDelay(resetAt string, now time.Time) time.Duration {
+	if resetAt == "" {
+		return 0
+	}
+	t, err := time.Parse(time.RFC3339, resetAt)
+	if err != nil {
+		return 0
+	}
+	if !t.After(now) {
+		return 0
+	}
+	return t.Sub(now) + 5*time.Second
 }
 
 // parseRetryAfter accepts either a delay in seconds (RFC 7231 §7.1.3) or an

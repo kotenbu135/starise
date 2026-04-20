@@ -235,6 +235,142 @@ func TestRetryTransport_BodyRewoundOnRetry(t *testing.T) {
 	}
 }
 
+func TestRetryTransport_GraphQLRateLimited200_SleepsUntilResetAndRetries(t *testing.T) {
+	// GitHub GraphQL primary-limit exhaustion returns HTTP 200 with errors[{type:"RATE_LIMITED"}]
+	// and data.rateLimit.resetAt. The short Retry-After / 2s backoff that works for
+	// secondary limits is useless here — we must wait until resetAt.
+	resetAt := "2026-04-19T16:00:00Z"
+	rateLimitedBody := `{"data":{"rateLimit":{"remaining":0,"resetAt":"` + resetAt + `"}},"errors":[{"type":"RATE_LIMITED","message":"API rate limit exceeded"}]}`
+	inner := &scriptedRT{responses: []*http.Response{
+		makeResp(200, rateLimitedBody, nil),
+		makeResp(200, `{"data":{}}`, nil),
+	}}
+	rec := &recordSleeps{}
+	now, _ := time.Parse(time.RFC3339, "2026-04-19T15:45:00Z")
+	rt := &retryTransport{
+		inner:      inner,
+		maxRetries: 3,
+		sleep:      rec.sleep,
+		now:        func() time.Time { return now },
+	}
+
+	req, _ := http.NewRequest("POST", "http://example/graphql", strings.NewReader(`{"query":"x"}`))
+	resp, err := rt.RoundTrip(req)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if resp.StatusCode != 200 {
+		t.Errorf("status=%d, want 200", resp.StatusCode)
+	}
+	if inner.calls != 2 {
+		t.Errorf("calls=%d, want 2 (retry once)", inner.calls)
+	}
+	if len(rec.durs) != 1 {
+		t.Fatalf("sleeps=%d, want 1", len(rec.durs))
+	}
+	// resetAt - now = 15 min. Expect at least 15min sleep.
+	if rec.durs[0] < 15*time.Minute {
+		t.Errorf("sleep[0]=%v, want >= 15m (until resetAt)", rec.durs[0])
+	}
+}
+
+func TestRetryTransport_GraphQLRateLimited200_NoResetAt_FallsBackToBackoff(t *testing.T) {
+	// RATE_LIMITED without resetAt in body — fall back to long backoff (≥60s)
+	// so we don't hammer the API.
+	body := `{"errors":[{"type":"RATE_LIMITED","message":"rate limit exceeded"}]}`
+	inner := &scriptedRT{responses: []*http.Response{
+		makeResp(200, body, nil),
+		makeResp(200, `{"data":{}}`, nil),
+	}}
+	rec := &recordSleeps{}
+	rt := &retryTransport{inner: inner, maxRetries: 2, sleep: rec.sleep, now: time.Now}
+
+	req, _ := http.NewRequest("POST", "http://example/graphql", strings.NewReader(`{}`))
+	if _, err := rt.RoundTrip(req); err != nil {
+		t.Fatal(err)
+	}
+	if inner.calls != 2 {
+		t.Errorf("calls=%d, want 2", inner.calls)
+	}
+	if len(rec.durs) != 1 || rec.durs[0] < 60*time.Second {
+		t.Errorf("durs=%v, want one sleep >=60s as fallback", rec.durs)
+	}
+}
+
+func TestRetryTransport_GraphQLMaxNodeLimit200_NoRetry(t *testing.T) {
+	// MAX_NODE_LIMIT_EXCEEDED = query too big. Retrying the same query makes
+	// no sense. Propagate the 200 body up so the caller can see the error.
+	body := `{"errors":[{"type":"MAX_NODE_LIMIT_EXCEEDED","message":"too many nodes"}]}`
+	inner := &scriptedRT{responses: []*http.Response{
+		makeResp(200, body, nil),
+	}}
+	rec := &recordSleeps{}
+	rt := &retryTransport{inner: inner, maxRetries: 3, sleep: rec.sleep, now: time.Now}
+
+	req, _ := http.NewRequest("POST", "http://example/graphql", strings.NewReader(`{}`))
+	resp, err := rt.RoundTrip(req)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if inner.calls != 1 {
+		t.Errorf("calls=%d, want 1 (no retry for MAX_NODE_LIMIT)", inner.calls)
+	}
+	if len(rec.durs) != 0 {
+		t.Errorf("unexpected sleeps=%v", rec.durs)
+	}
+	if resp.StatusCode != 200 {
+		t.Errorf("status=%d, want 200", resp.StatusCode)
+	}
+}
+
+func TestRetryTransport_GraphQL200_NormalData_NoRetry(t *testing.T) {
+	// Regression guard: a 200 with a regular data payload (no errors array)
+	// must not be retried.
+	inner := &scriptedRT{responses: []*http.Response{
+		makeResp(200, `{"data":{"rateLimit":{"remaining":4999}}}`, nil),
+	}}
+	rec := &recordSleeps{}
+	rt := &retryTransport{inner: inner, maxRetries: 3, sleep: rec.sleep, now: time.Now}
+
+	req, _ := http.NewRequest("POST", "http://example/graphql", strings.NewReader(`{}`))
+	if _, err := rt.RoundTrip(req); err != nil {
+		t.Fatal(err)
+	}
+	if inner.calls != 1 {
+		t.Errorf("calls=%d, want 1", inner.calls)
+	}
+	if len(rec.durs) != 0 {
+		t.Errorf("unexpected sleeps: %v", rec.durs)
+	}
+}
+
+func TestRetryTransport_GraphQLRateLimited_BodyStillReadableByCaller(t *testing.T) {
+	// After the transport peeks the 200 body for RATE_LIMITED detection,
+	// the final response body must still be fully readable by downstream
+	// consumers (shurcooL/graphql parses it into Go errors).
+	okBody := `{"data":{"viewer":{"login":"test"}}}`
+	rateLimitedBody := `{"errors":[{"type":"RATE_LIMITED"}]}`
+	inner := &scriptedRT{responses: []*http.Response{
+		makeResp(200, rateLimitedBody, nil),
+		makeResp(200, okBody, nil),
+	}}
+	rec := &recordSleeps{}
+	rt := &retryTransport{inner: inner, maxRetries: 2, sleep: rec.sleep, now: time.Now}
+
+	req, _ := http.NewRequest("POST", "http://example/graphql", strings.NewReader(`{}`))
+	resp, err := rt.RoundTrip(req)
+	if err != nil {
+		t.Fatal(err)
+	}
+	got, err := io.ReadAll(resp.Body)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if string(got) != okBody {
+		t.Errorf("body=%q, want %q (final response body must be intact)", got, okBody)
+	}
+}
+
 // Integration-style sanity check using httptest — proves the transport plugs
 // into http.Client like a normal RoundTripper.
 func TestRetryTransport_IntegratesWithHTTPClient(t *testing.T) {
