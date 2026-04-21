@@ -1,6 +1,8 @@
 package github
 
 import (
+	"context"
+	"errors"
 	"io"
 	"net/http"
 	"net/http/httptest"
@@ -14,8 +16,12 @@ import (
 // sequence of responses for deterministic retry tests.
 type scriptedRT struct {
 	responses []*http.Response
-	calls     int64
-	lastBody  string
+	// errs parallels responses; when errs[i] != nil the transport returns
+	// (nil, errs[i]) on call i — simulating TCP resets, EOFs, and other
+	// transport-level failures that never produce an HTTP response.
+	errs     []error
+	calls    int64
+	lastBody string
 }
 
 func (s *scriptedRT) RoundTrip(r *http.Request) (*http.Response, error) {
@@ -25,10 +31,14 @@ func (s *scriptedRT) RoundTrip(r *http.Request) (*http.Response, error) {
 		s.lastBody = string(b)
 		r.Body.Close()
 	}
-	if int(idx) >= len(s.responses) {
+	i := int(idx)
+	if i < len(s.errs) && s.errs[i] != nil {
+		return nil, s.errs[i]
+	}
+	if i >= len(s.responses) {
 		return s.responses[len(s.responses)-1], nil
 	}
-	return s.responses[idx], nil
+	return s.responses[i], nil
 }
 
 func makeResp(status int, body string, headers map[string]string) *http.Response {
@@ -368,6 +378,137 @@ func TestRetryTransport_GraphQLRateLimited_BodyStillReadableByCaller(t *testing.
 	}
 	if string(got) != okBody {
 		t.Errorf("body=%q, want %q (final response body must be intact)", got, okBody)
+	}
+}
+
+func TestRetryTransport_EOF_RetriesThenSucceeds(t *testing.T) {
+	// The 2026-04-20 CI run failed with `batch 33 (100 ids): EOF`. io.EOF
+	// on a GraphQL POST is a server-side connection drop (GitHub LB idle
+	// timeout, abrupt TCP reset) — transient and retry-worthy. Before this
+	// change retryTransport returned (nil, err) unconditionally and any
+	// single EOF aborted an otherwise-healthy 290-batch bulk run.
+	inner := &scriptedRT{
+		errs: []error{io.EOF, nil},
+		responses: []*http.Response{
+			nil,
+			makeResp(200, `{"data":{}}`, nil),
+		},
+	}
+	rec := &recordSleeps{}
+	rt := &retryTransport{inner: inner, maxRetries: 3, sleep: rec.sleep, now: time.Now}
+
+	req, _ := http.NewRequest("POST", "http://example/graphql", strings.NewReader(`{}`))
+	resp, err := rt.RoundTrip(req)
+	if err != nil {
+		t.Fatalf("EOF must trigger retry, not surface: %v", err)
+	}
+	if resp.StatusCode != 200 {
+		t.Errorf("status=%d, want 200 after retry", resp.StatusCode)
+	}
+	if inner.calls != 2 {
+		t.Errorf("calls=%d, want 2", inner.calls)
+	}
+	if len(rec.durs) != 1 || rec.durs[0] <= 0 {
+		t.Errorf("expected one backoff sleep, got %v", rec.durs)
+	}
+}
+
+func TestRetryTransport_502BadGateway_RetriesThenSucceeds(t *testing.T) {
+	// The 2026-04-21 CI run failed with `batch 267 (100 ids): 502 Bad
+	// Gateway` from nginx. 502/503/504 from GitHub's edge are transient
+	// infra flaps — retrying resolves them; aborting a 290-batch run on
+	// one flap is excessive.
+	body := `<html><body>502 Bad Gateway</body></html>`
+	inner := &scriptedRT{responses: []*http.Response{
+		makeResp(502, body, nil),
+		makeResp(200, `{"data":{}}`, nil),
+	}}
+	rec := &recordSleeps{}
+	rt := &retryTransport{inner: inner, maxRetries: 3, sleep: rec.sleep, now: time.Now}
+
+	req, _ := http.NewRequest("POST", "http://example/graphql", strings.NewReader(`{}`))
+	resp, err := rt.RoundTrip(req)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if resp.StatusCode != 200 {
+		t.Errorf("status=%d, want 200", resp.StatusCode)
+	}
+	if inner.calls != 2 {
+		t.Errorf("calls=%d, want 2 (retry on 502)", inner.calls)
+	}
+	if len(rec.durs) != 1 {
+		t.Errorf("sleeps=%d, want 1", len(rec.durs))
+	}
+}
+
+func TestRetryTransport_503And504_Retry(t *testing.T) {
+	for _, tc := range []struct {
+		name   string
+		status int
+	}{
+		{"503 Service Unavailable", 503},
+		{"504 Gateway Timeout", 504},
+	} {
+		t.Run(tc.name, func(t *testing.T) {
+			inner := &scriptedRT{responses: []*http.Response{
+				makeResp(tc.status, `gateway`, nil),
+				makeResp(200, `{"data":{}}`, nil),
+			}}
+			rec := &recordSleeps{}
+			rt := &retryTransport{inner: inner, maxRetries: 3, sleep: rec.sleep, now: time.Now}
+
+			req, _ := http.NewRequest("POST", "http://example/graphql", strings.NewReader(`{}`))
+			resp, err := rt.RoundTrip(req)
+			if err != nil {
+				t.Fatal(err)
+			}
+			if resp.StatusCode != 200 {
+				t.Errorf("status=%d, want 200", resp.StatusCode)
+			}
+			if inner.calls != 2 {
+				t.Errorf("calls=%d, want 2", inner.calls)
+			}
+		})
+	}
+}
+
+func TestRetryTransport_ContextCanceled_NoRetry(t *testing.T) {
+	// Intentional cancellation must NOT be retried — re-trying would fight
+	// the parent's intent to stop work.
+	inner := &scriptedRT{errs: []error{context.Canceled}}
+	rec := &recordSleeps{}
+	rt := &retryTransport{inner: inner, maxRetries: 3, sleep: rec.sleep, now: time.Now}
+
+	req, _ := http.NewRequest("POST", "http://example/graphql", strings.NewReader(`{}`))
+	_, err := rt.RoundTrip(req)
+	if !errors.Is(err, context.Canceled) {
+		t.Errorf("got %v, want context.Canceled surfaced", err)
+	}
+	if inner.calls != 1 {
+		t.Errorf("calls=%d, want 1 (no retry for context.Canceled)", inner.calls)
+	}
+	if len(rec.durs) != 0 {
+		t.Errorf("unexpected sleeps %v", rec.durs)
+	}
+}
+
+func TestRetryTransport_TransportErrExhaustsRetries_SurfacesFinalErr(t *testing.T) {
+	// A sustained transport failure (infra outage, DNS flap) must eventually
+	// surface the error — we never want silent infinite retry.
+	errs := []error{io.EOF, io.EOF, io.EOF, io.EOF}
+	inner := &scriptedRT{errs: errs}
+	rec := &recordSleeps{}
+	rt := &retryTransport{inner: inner, maxRetries: 2, sleep: rec.sleep, now: time.Now}
+
+	req, _ := http.NewRequest("POST", "http://example/graphql", strings.NewReader(`{}`))
+	_, err := rt.RoundTrip(req)
+	if !errors.Is(err, io.EOF) {
+		t.Errorf("got %v, want io.EOF after exhausting retries", err)
+	}
+	// 1 initial + 2 retries = 3 calls
+	if inner.calls != 3 {
+		t.Errorf("calls=%d, want 3", inner.calls)
 	}
 }
 

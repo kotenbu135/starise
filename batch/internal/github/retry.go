@@ -2,8 +2,11 @@ package github
 
 import (
 	"bytes"
+	"context"
 	"encoding/json"
+	"errors"
 	"io"
+	"net"
 	"net/http"
 	"strconv"
 	"strings"
@@ -66,6 +69,15 @@ func (rt *retryTransport) RoundTrip(r *http.Request) (*http.Response, error) {
 		}
 		resp, err = rt.inner.RoundTrip(r)
 		if err != nil {
+			// Transport-level error (TCP reset, io.EOF, transient net
+			// timeout) — retry if classifiable as transient and we have
+			// attempts left. GitHub's edge occasionally drops keep-alive
+			// connections mid-stream on long bulk runs; one drop should
+			// not abort a 290-batch job.
+			if attempt < rt.maxRetries && isRetryableTransportErr(err) {
+				rt.sleep(backoffDuration(attempt))
+				continue
+			}
 			return resp, err
 		}
 		wait, retry := retryDecision(resp, attempt, rt.now())
@@ -78,6 +90,32 @@ func (rt *retryTransport) RoundTrip(r *http.Request) (*http.Response, error) {
 		rt.sleep(wait)
 	}
 	return resp, nil
+}
+
+// isRetryableTransportErr reports whether a transport-level error (no HTTP
+// response produced) is transient and worth retrying. Intentional
+// cancellation / deadline propagation is NOT retryable — respecting those
+// keeps parent contexts in control.
+func isRetryableTransportErr(err error) bool {
+	if err == nil {
+		return false
+	}
+	if errors.Is(err, context.Canceled) || errors.Is(err, context.DeadlineExceeded) {
+		return false
+	}
+	if errors.Is(err, io.EOF) || errors.Is(err, io.ErrUnexpectedEOF) {
+		return true
+	}
+	var nerr net.Error
+	if errors.As(err, &nerr) && nerr.Timeout() {
+		return true
+	}
+	// Syscall-wrapped TCP resets and broken pipes surface with varying
+	// typed errors across platforms; string-match the canonical phrases
+	// rather than enumerate syscall errno values.
+	msg := err.Error()
+	return strings.Contains(msg, "connection reset") ||
+		strings.Contains(msg, "broken pipe")
 }
 
 // retryDecision inspects the response and returns (sleep, shouldRetry). It
@@ -117,6 +155,16 @@ func retryDecision(resp *http.Response, attempt int, now time.Time) (time.Durati
 			return 0, false
 		}
 		return 0, false
+	case http.StatusBadGateway, http.StatusServiceUnavailable, http.StatusGatewayTimeout:
+		// 502/503/504 from GitHub's edge are transient infra flaps — one
+		// 290-batch bulk run saw `502 Bad Gateway` on batch 267 with 266
+		// batches of otherwise-healthy data already landed. Retry with
+		// backoff (honor Retry-After when present).
+		d := parseRetryAfter(resp.Header.Get("Retry-After"), now)
+		if d <= 0 {
+			d = backoffDuration(attempt)
+		}
+		return d, true
 	}
 	return 0, false
 }
