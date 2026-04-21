@@ -258,10 +258,12 @@ func runBulkRefreshParallel(ctx context.Context, ids []string, batchSize, concur
 	var allFound []RepoData
 	var allMissing []string
 	var firstErr error
-	// Pick the most conservative rate-limit snapshot (lowest Remaining) so
-	// downstream throttling decisions use the worst observed state across
-	// all shards, not whichever shard happened to land at a given index.
-	var minLimit RateLimitInfo
+	// Aggregate snapshot:
+	//   Remaining = min across shards (most conservative for throttling)
+	//   Cost      = sum across shards (total budget consumed by this bulk)
+	//   MaxBatchCost = max single-shard cost (surfaces expensive queries)
+	//   ResetAt   = carried from any non-empty snapshot
+	var aggLimit RateLimitInfo
 	haveLimit := false
 	for _, s := range shards {
 		if s.err != nil {
@@ -276,12 +278,19 @@ func runBulkRefreshParallel(ctx context.Context, ids []string, batchSize, concur
 		if empty {
 			continue
 		}
-		if !haveLimit || s.limit.Remaining < minLimit.Remaining {
-			minLimit = s.limit
+		aggLimit.Cost += s.limit.Cost
+		if s.limit.Cost > aggLimit.MaxBatchCost {
+			aggLimit.MaxBatchCost = s.limit.Cost
+		}
+		if s.limit.ResetAt != "" {
+			aggLimit.ResetAt = s.limit.ResetAt
+		}
+		if !haveLimit || s.limit.Remaining < aggLimit.Remaining {
+			aggLimit.Remaining = s.limit.Remaining
 			haveLimit = true
 		}
 	}
-	return allFound, allMissing, minLimit, firstErr
+	return allFound, allMissing, aggLimit, firstErr
 }
 
 // fetchBatch issues a single nodes() GraphQL call for one id batch.

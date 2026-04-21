@@ -30,8 +30,17 @@ type MockClient struct {
 	// are returned alongside the error so callers can exercise the
 	// "partial data + error" contract (e.g. Search API 1000-result cap).
 	SearchErr map[string]error
-	mu        sync.Mutex
-	Limit     RateLimitInfo
+	// LimitByQuery returns a per-query RateLimitInfo from SearchRepos. When
+	// set, it takes precedence over Limit for that query. Tests use this to
+	// verify cost aggregation across queries.
+	LimitByQuery map[string]RateLimitInfo
+	// BulkLimits returns a distinct RateLimitInfo per BulkRefresh call, in
+	// call order. When len(ids) exceeds the slice, the last entry is reused.
+	// Tests use this to exercise per-batch cost aggregation.
+	BulkLimits []RateLimitInfo
+	bulkCalls  int
+	mu         sync.Mutex
+	Limit      RateLimitInfo
 }
 
 func NewMockClient() *MockClient {
@@ -76,6 +85,9 @@ func (m *MockClient) SearchRepos(_ context.Context, opts SearchOptions) ([]RepoD
 	}
 	err := m.SearchErr[opts.Query]
 	limit := m.Limit
+	if l, ok := m.LimitByQuery[opts.Query]; ok {
+		limit = l
+	}
 	m.mu.Unlock()
 	return out, limit, err
 }

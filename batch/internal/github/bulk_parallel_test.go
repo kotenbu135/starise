@@ -168,6 +168,38 @@ func TestRunBulkRefreshParallelReturnsMinRemainingLimit(t *testing.T) {
 	}
 }
 
+func TestRunBulkRefreshParallelAggregatesCostAsSum(t *testing.T) {
+	// Post-2026-04-20 observability: the aggregate RateLimitInfo returned
+	// from runBulkRefreshParallel must sum Cost across all successful
+	// batches so refresh.Run can report the true budget consumption of a
+	// single run. Verifies the documented semantic shift — the per-call
+	// Cost is a point cost, the aggregated Cost is a sum.
+	ids := make([]string, 300) // 3 batches of 100
+	for i := range ids {
+		ids[i] = fmt.Sprintf("G%d", i)
+	}
+	var batchIdx int64
+	fetch := func(_ context.Context, batch []string) ([]RepoData, []string, RateLimitInfo, error) {
+		idx := atomic.AddInt64(&batchIdx, 1)
+		// Per-batch costs: 10, 15, 20. Sum=45, Max=20.
+		return nil, batch, RateLimitInfo{
+			Remaining: 5000 - int(idx)*10,
+			Cost:      5 + int(idx)*5,
+			ResetAt:   "2026-04-19T00:00:00Z",
+		}, nil
+	}
+	_, _, limit, err := runBulkRefreshParallel(context.Background(), ids, 100, 1, fetch)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if limit.Cost != 45 {
+		t.Errorf("aggregated Cost=%d, want 45 (sum of 10+15+20)", limit.Cost)
+	}
+	if limit.MaxBatchCost != 20 {
+		t.Errorf("MaxBatchCost=%d, want 20", limit.MaxBatchCost)
+	}
+}
+
 func TestRunBulkRefreshParallelEmptyInput(t *testing.T) {
 	fetch := func(_ context.Context, _ []string) ([]RepoData, []string, RateLimitInfo, error) {
 		t.Fatal("fetch must not be called for empty input")

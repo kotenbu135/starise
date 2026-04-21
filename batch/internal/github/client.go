@@ -37,11 +37,19 @@ type SearchOptions struct {
 	PerPage  int
 }
 
-// RateLimitInfo is returned with each call so callers can throttle.
+// RateLimitInfo is returned with each call so callers can throttle. When
+// returned from an aggregator (runBulkRefreshParallel, RunMany), the fields
+// carry aggregated semantics as documented below.
 type RateLimitInfo struct {
+	// Remaining: per-call value, OR the MIN observed when aggregated.
 	Remaining int
-	Cost      int
-	ResetAt   string // RFC3339, empty when unknown
+	// Cost: per-call point cost, OR the SUM across aggregated calls.
+	Cost int
+	// ResetAt is RFC3339, empty when unknown.
+	ResetAt string
+	// MaxBatchCost is observability-only: the largest single-unit cost seen
+	// during aggregation. Zero for non-aggregated (single-call) results.
+	MaxBatchCost int
 }
 
 // ErrNotFound is returned by FetchRepo / BulkRefresh when a repo no longer

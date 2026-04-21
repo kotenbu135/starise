@@ -26,6 +26,15 @@ type Result struct {
 	SoftDeleted     int
 	ArchivedFlipped int
 	FailureRate     float64
+
+	// Observability — populated from the aggregate RateLimitInfo returned
+	// by BulkRefresh. CostTotal = sum of per-batch costs, MinRemaining =
+	// lowest Remaining observed (most conservative), MaxCostPerBatch =
+	// largest single-batch cost. These let CI logs show exactly how much
+	// of the 5000 pts/hr PAT budget this run consumed.
+	CostTotal       int
+	MinRemaining    int
+	MaxCostPerBatch int
 }
 
 // Run loads all non-deleted repos, asks the client for fresh data via
@@ -52,9 +61,13 @@ func Run(ctx context.Context, d *sql.DB, c github.Client, today string, maxFailu
 	// batches that succeeded alongside an error from one that didn't. We
 	// persist whatever came back before surfacing the error so a single
 	// rate-limit blip doesn't invalidate 29k other snapshots.
-	found, missing, _, bulkErr := c.BulkRefresh(ctx, ids)
+	found, missing, limit, bulkErr := c.BulkRefresh(ctx, ids)
 
-	res := Result{}
+	res := Result{
+		CostTotal:       limit.Cost,
+		MinRemaining:    limit.Remaining,
+		MaxCostPerBatch: limit.MaxBatchCost,
+	}
 
 	for _, fresh := range found {
 		prev, ok := idToRepo[fresh.GitHubID]

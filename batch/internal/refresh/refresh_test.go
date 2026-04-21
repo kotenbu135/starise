@@ -142,6 +142,59 @@ func TestRefreshPersistsPartialDataOnBulkError(t *testing.T) {
 	}
 }
 
+// rateLimitedBulkClient injects a specific RateLimitInfo into the BulkRefresh
+// return. Lets tests pin down how refresh.Run propagates budget telemetry
+// into Result without standing up a real GraphQLClient.
+type rateLimitedBulkClient struct {
+	*github.MockClient
+	bulkLimit github.RateLimitInfo
+}
+
+func (r *rateLimitedBulkClient) BulkRefresh(ctx context.Context, ids []string) ([]github.RepoData, []string, github.RateLimitInfo, error) {
+	found, missing, _, err := r.MockClient.BulkRefresh(ctx, ids)
+	return found, missing, r.bulkLimit, err
+}
+
+func TestRefreshExposesRateLimitTelemetry(t *testing.T) {
+	// The 2026-04-20 run ended with Refreshed:0 and no budget telemetry in
+	// the log, so we could not tell whether primary (points/hour) or
+	// secondary (points/minute) was the trigger. This test locks in that
+	// CostTotal / MinRemaining / MaxCostPerBatch flow from BulkRefresh into
+	// the Result struct — cmd/run.go will then print them in CI logs for
+	// empirical validation of the theoretical budget calculation.
+	d, _ := db.Open("")
+	defer d.Close()
+	c := github.NewMockClient()
+	for i := 0; i < 3; i++ {
+		id := fmt.Sprintf("G%d", i)
+		db.UpsertRepository(d, db.Repository{GitHubID: id, Owner: "x", Name: fmt.Sprintf("r%d", i)})
+		c.Add(github.RepoData{GitHubID: id, Owner: "x", Name: fmt.Sprintf("r%d", i), StarCount: 100})
+	}
+	client := &rateLimitedBulkClient{
+		MockClient: c,
+		bulkLimit: github.RateLimitInfo{
+			Remaining:    3500, // min across batches
+			Cost:         5800, // sum across batches (aggregate semantic)
+			MaxBatchCost: 21,   // largest single batch
+			ResetAt:      "2026-04-20T17:00:00Z",
+		},
+	}
+
+	res, err := Run(context.Background(), d, client, "2026-04-18", DefaultMaxFailureRate)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if res.CostTotal != 5800 {
+		t.Errorf("CostTotal=%d, want 5800", res.CostTotal)
+	}
+	if res.MinRemaining != 3500 {
+		t.Errorf("MinRemaining=%d, want 3500", res.MinRemaining)
+	}
+	if res.MaxCostPerBatch != 21 {
+		t.Errorf("MaxCostPerBatch=%d, want 21", res.MaxCostPerBatch)
+	}
+}
+
 func TestRefreshDetectsArchivedFlip(t *testing.T) {
 	d, _ := db.Open("")
 	defer d.Close()

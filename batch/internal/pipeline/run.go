@@ -119,10 +119,15 @@ func RunAll(ctx context.Context, d *sql.DB, opts Options) (RunReport, error) {
 
 	if !opts.SkipRefresh {
 		res, err := refresh.Run(ctx, d, opts.Client, opts.Today, refresh.DefaultMaxFailureRate)
+		// Capture telemetry (CostTotal / MinRemaining / Refreshed count)
+		// BEFORE surfacing any error so the run summary log shows exactly
+		// where a failing run got to — regression guard against the
+		// 2026-04-20 incident where Refreshed:0 hid 32 batches of partial
+		// data that had already been persisted to DB.
+		report.Refreshed = res
 		if err != nil && !errors.Is(err, refresh.ErrFailureRateExceeded) {
 			return report, fmt.Errorf("refresh: %w", err)
 		}
-		report.Refreshed = res
 		if errors.Is(err, refresh.ErrFailureRateExceeded) {
 			return report, fmt.Errorf("refresh: %w (rate=%v)", err, res.FailureRate)
 		}
