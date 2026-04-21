@@ -1,0 +1,47 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkxNTcxMTE2Njg=",
+  "owner": "hakky54",
+  "name": "mutual-tls-ssl",
+  "full_name": "hakky54/mutual-tls-ssl",
+  "description": "🔐 Tutorial of setting up Security for your API with one way authentication with TLS/SSL and mutual authentication for a java based web server and a client with both Spring Boot. Different clients are provided such as Apache HttpClient, OkHttp, Spring RestTemplate, Spring WebFlux WebClient Jetty and Netty, the old and the new JDK HttpClient, the old and the new Jersey Client, Google HttpClient, Unirest, Retrofit, Feign, Methanol, vertx, Scala client Finagle, Featherbed, Dispatch Reboot, AsyncHttpClient, Sttp, Akka, Requests Scala, Http4s Blaze, Kotlin client Fuel, http4k, Kohttp and ktor. Also other server examples are available such as jersey with grizzly. Also gRPC, WebSocket and ElasticSearch examples are included",
+  "url": "https://github.com/Hakky54/mutual-tls-ssl",
+  "homepage_url": "",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "certificate",
+    "certificate-authority",
+    "certificate-signing-request",
+    "encryption",
+    "https",
+    "java",
+    "keystore",
+    "keytool",
+    "kotlin",
+    "mutual-authentication",
+    "mutual-tls",
+    "openssl",
+    "scala",
+    "security",
+    "server",
+    "spring-boot",
+    "ssl",
+    "tls",
+    "truststore",
+    "two-way-ssl-authentication"
+  ],
+  "star_count": 632,
+  "fork_count": 127,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2018-11-11T19:07:35Z",
+  "updated_at": "2026-04-20T07:48:44Z",
+  "pushed_at": "2026-04-14T06:42:40Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 632
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkyNjI4MDI5ODc=",
+  "owner": "kubernetes-csi",
+  "name": "csi-driver-smb",
+  "full_name": "kubernetes-csi/csi-driver-smb",
+  "description": "This driver allows Kubernetes to access SMB Server on both Linux and Windows nodes.",
+  "url": "https://github.com/kubernetes-csi/csi-driver-smb",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "k8s-sig-storage",
+    "kubernetes",
+    "smb",
+    "windows"
+  ],
+  "star_count": 633,
+  "fork_count": 160,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2020-05-10T14:18:54Z",
+  "updated_at": "2026-04-20T01:21:07Z",
+  "pushed_at": "2026-04-20T01:21:01Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 633
+    }
+  ]
+}

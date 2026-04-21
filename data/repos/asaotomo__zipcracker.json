@@ -1,0 +1,36 @@
+{
+  "repo_id": "R_kgDOKBLTpw",
+  "owner": "asaotomo",
+  "name": "zipcracker",
+  "full_name": "asaotomo/zipcracker",
+  "description": "ZipCracker是Hx0战队出品的一款功能强大的Zip密码破解工具。它集成了字典攻击、掩码攻击、短明文 CRC32 枚举恢复、已知明文攻击等多种破解模式，并能自动修复伪加密文件。凭借其高性能与多功能的特点，ZipCracker已成为CTF比赛中的一把利器。（ZipCracker by Hx0 team is a tool for cracking passwords on Zip files, great for CTF competitions.）",
+  "url": "https://github.com/asaotomo/ZipCracker",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "",
+  "topics": [
+    "brute-force-attack",
+    "crc32",
+    "ctf",
+    "dictionary-attack",
+    "known-plaintext-attack",
+    "kpa",
+    "security-tools",
+    "supports-huge-dictionaries",
+    "zip-file-cracking"
+  ],
+  "star_count": 839,
+  "fork_count": 107,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2023-07-29T17:16:00Z",
+  "updated_at": "2026-04-21T10:14:42Z",
+  "pushed_at": "2026-04-11T08:51:59Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 839
+    }
+  ]
+}

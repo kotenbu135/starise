@@ -1,0 +1,36 @@
+{
+  "repo_id": "R_kgDONfhl0g",
+  "owner": "pollockjj",
+  "name": "comfyui-multigpu",
+  "full_name": "pollockjj/comfyui-multigpu",
+  "description": "This custom_node for ComfyUI adds one-click \"Virtual VRAM\" for any UNet and CLIP loader as well MultiGPU integration in WanVideoWrapper, managing the offload/Block Swap of layers to DRAM *or* VRAM to maximize the latent space of your card. Also includes nodes for directly loading entire components (UNet, CLIP, VAE) onto the device you choose",
+  "url": "https://github.com/pollockjj/ComfyUI-MultiGPU",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "GPL-3.0",
+  "topics": [
+    "comfyui",
+    "comfyui-nodes",
+    "comfyui-workflow",
+    "ggml",
+    "gguf-models",
+    "pytorch",
+    "stable-diffusion",
+    "unet-pytorch",
+    "wanvideowrapper"
+  ],
+  "star_count": 852,
+  "fork_count": 65,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2024-12-18T22:34:38Z",
+  "updated_at": "2026-04-21T01:11:37Z",
+  "pushed_at": "2026-03-21T16:14:20Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 852
+    }
+  ]
+}

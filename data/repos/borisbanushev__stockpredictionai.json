@@ -1,0 +1,26 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkxNjQ4MTY5NDc=",
+  "owner": "borisbanushev",
+  "name": "stockpredictionai",
+  "full_name": "borisbanushev/stockpredictionai",
+  "description": "       In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversarial Network (GAN) with LSTM, a type of Recurrent Neural Network, as generator, and a Convolutional Neural Network, CNN, as a discriminator. We use LSTM for the obvious reason that we are trying to predict time series data. Why we use GAN and specifically CNN as a discriminator? That is a good question: there are special sections on that later.",
+  "url": "https://github.com/borisbanushev/stockpredictionai",
+  "homepage_url": "",
+  "language": "JavaScript",
+  "license": "",
+  "topics": [],
+  "star_count": 5559,
+  "fork_count": 1889,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2019-01-09T08:02:47Z",
+  "updated_at": "2026-04-21T14:43:29Z",
+  "pushed_at": "2025-08-19T04:04:58Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 5559
+    }
+  ]
+}

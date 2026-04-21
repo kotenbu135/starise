@@ -1,0 +1,26 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkyNDM3OTQ1OQ==",
+  "owner": "jtsylve",
+  "name": "lime",
+  "full_name": "jtsylve/lime",
+  "description": "LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered by Android. The tool supports acquiring memory either to the file system of the device or over the network. LiME is unique in that it is the first tool that allows full memory captures from Android devices. It also minimizes its interaction between user and kernel space processes during acquisition, which allows it to produce memory captures that are more forensically sound than those of other tools designed for Linux memory acquisition.",
+  "url": "https://github.com/jtsylve/LiME",
+  "homepage_url": "",
+  "language": "C",
+  "license": "GPL-2.0",
+  "topics": [],
+  "star_count": 1973,
+  "fork_count": 368,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2014-09-23T16:23:46Z",
+  "updated_at": "2026-04-20T05:42:04Z",
+  "pushed_at": "2026-04-05T13:42:51Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 1973
+    }
+  ]
+}

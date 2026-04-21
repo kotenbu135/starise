@@ -1,0 +1,39 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkzMzY5NzQ2ODI=",
+  "owner": "vogler75",
+  "name": "automation-gateway",
+  "full_name": "vogler75/automation-gateway",
+  "description": "A OPC UA gateway which gives you access to your OPC UA values via MQTT or GraphQL (HTTP). If you have an OPC UA server in your PLC, or a SCADA system with an OPC UA server, you can query data from there via MQTT and GraphQL (HTTP). In addition, the gateway can also log value changes from OPC UA nodes in an InfluxDB, IoTDB, Kafka, and others.",
+  "url": "https://github.com/vogler75/automation-gateway",
+  "homepage_url": "",
+  "language": "Kotlin",
+  "license": "GPL-3.0",
+  "topics": [
+    "cratedb",
+    "gateway",
+    "graphql",
+    "influxdb",
+    "iotdb",
+    "java",
+    "jdbc",
+    "mqtt",
+    "neo4j",
+    "opc-ua",
+    "opcua",
+    "plc4x"
+  ],
+  "star_count": 296,
+  "fork_count": 48,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2021-02-08T05:55:12Z",
+  "updated_at": "2026-04-18T06:14:24Z",
+  "pushed_at": "2026-04-07T11:56:50Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 296
+    }
+  ]
+}

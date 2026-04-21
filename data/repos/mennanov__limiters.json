@@ -1,0 +1,39 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkyMDQ5OTQyMzc=",
+  "owner": "mennanov",
+  "name": "limiters",
+  "full_name": "mennanov/limiters",
+  "description": "Golang rate limiters for distributed applications",
+  "url": "https://github.com/mennanov/limiters",
+  "homepage_url": "https://godoc.org/github.com/mennanov/limiters",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "concurrent-limiter",
+    "consul",
+    "etcd",
+    "fixed-window",
+    "golang",
+    "grpc",
+    "leaky-bucket",
+    "rate-limiting",
+    "redis",
+    "sliding-windows",
+    "token-bucket",
+    "zookeeper"
+  ],
+  "star_count": 632,
+  "fork_count": 61,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2019-08-28T18:09:54Z",
+  "updated_at": "2026-04-18T20:57:09Z",
+  "pushed_at": "2026-04-02T04:58:32Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 632
+    }
+  ]
+}

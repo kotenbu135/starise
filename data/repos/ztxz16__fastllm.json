@@ -1,0 +1,26 @@
+{
+  "repo_id": "R_kgDOJihVnA",
+  "owner": "ztxz16",
+  "name": "fastllm",
+  "full_name": "ztxz16/fastllm",
+  "description": "fastllm是后端无依赖的高性能大模型推理库。同时支持张量并行推理稠密模型和混合模式推理MOE模型，任意10G以上显卡即可推理满血DeepSeek。双路9004/9005服务器+单显卡部署DeepSeek满血满精度原版模型，单并发20tps；INT4量化模型单并发30tps，多并发可达60+。",
+  "url": "https://github.com/ztxz16/fastllm",
+  "homepage_url": "",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [],
+  "star_count": 4191,
+  "fork_count": 422,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2023-05-13T08:32:51Z",
+  "updated_at": "2026-04-21T14:20:54Z",
+  "pushed_at": "2026-04-21T02:55:29Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 4191
+    }
+  ]
+}

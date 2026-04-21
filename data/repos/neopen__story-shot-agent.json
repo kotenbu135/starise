@@ -1,0 +1,46 @@
+{
+  "repo_id": "R_kgDOQHpNGQ",
+  "owner": "neopen",
+  "name": "story-shot-agent",
+  "full_name": "neopen/story-shot-agent",
+  "description": "剧本分镜智能体（PenShot）：剧本→分镜→片段→prompt | 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词。保持角色/剧情跨片段一致，支持 MCP/REST API/函数调用 | Python库 + A2A集成。（LLM-powered screenplay-to-video-prompt agent. Break scripts into Sora/Veo-ready shots with character consistency. LangGraph + Chroma + MCP）",
+  "url": "https://github.com/neopen/story-shot-agent",
+  "homepage_url": "https://pengline.cn/2026/02/7e6cd67dd5ee45248f2276ac145555f5/",
+  "language": "Python",
+  "license": "NOASSERTION",
+  "topics": [
+    "agent-to-agent",
+    "ai-filmmaking",
+    "ai-video-generation",
+    "character-consistency",
+    "function-calling",
+    "kling-ai",
+    "langgraph-agent",
+    "llm-agent",
+    "pika-labs",
+    "prompt-engineering",
+    "rag",
+    "screenplay",
+    "screenplay-parser",
+    "script-to-prompt",
+    "sora-prompts",
+    "storyboard-script",
+    "text-to-video",
+    "video-consistency",
+    "video-production"
+  ],
+  "star_count": 52,
+  "fork_count": 11,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-10-23T08:41:36Z",
+  "updated_at": "2026-04-21T08:40:50Z",
+  "pushed_at": "2026-04-21T08:40:45Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 52
+    }
+  ]
+}

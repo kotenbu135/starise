@@ -1,0 +1,36 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkxOTUyNzQxMjk=",
+  "owner": "enix",
+  "name": "x509-certificate-exporter",
+  "full_name": "enix/x509-certificate-exporter",
+  "description": "A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone",
+  "url": "https://github.com/enix/x509-certificate-exporter",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "alert",
+    "certificates",
+    "certificates-focusing",
+    "dashboard",
+    "expiration-monitoring",
+    "grafana-dashboard",
+    "kubernetes",
+    "monitoring-tool",
+    "prometheus-exporter"
+  ],
+  "star_count": 884,
+  "fork_count": 102,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2019-07-04T16:36:29Z",
+  "updated_at": "2026-04-21T12:18:12Z",
+  "pushed_at": "2026-04-16T07:13:07Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 884
+    }
+  ]
+}

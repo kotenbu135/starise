@@ -1,0 +1,37 @@
+{
+  "repo_id": "R_kgDORKKsVw",
+  "owner": "alphacorp-ai",
+  "name": "rustyrag",
+  "full_name": "alphacorp-ai/rustyrag",
+  "description": "Production-grade RAG API built in Rust. Hybrid search with HNSW dense vectors and BM25 sparse matching, cross-encoder reranking, layout-aware document extraction via Docling, and 94.5% accuracy on Open RAG Bench. Powered by Cerebras, Groq, Milvus, and Jina AI.",
+  "url": "https://github.com/AlphaCorp-AI/RustyRAG",
+  "homepage_url": "https://rustyrag.ai",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "actix-web",
+    "cerebras",
+    "groq",
+    "jinaai",
+    "llm",
+    "milvus",
+    "open-source",
+    "rag",
+    "rust",
+    "vector-search"
+  ],
+  "star_count": 79,
+  "fork_count": 10,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-02-06T15:01:38Z",
+  "updated_at": "2026-04-21T03:29:59Z",
+  "pushed_at": "2026-04-02T00:55:08Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 79
+    }
+  ]
+}

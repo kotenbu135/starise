@@ -1,0 +1,37 @@
+{
+  "repo_id": "R_kgDOK2dJ0w",
+  "owner": "gianlucam76",
+  "name": "k8s-cleaner",
+  "full_name": "gianlucam76/k8s-cleaner",
+  "description": "Cleaner is a Kubernetes controller that identifies unused or unhealthy resources, helping you maintain a streamlined and efficient Kubernetes cluster. It provides flexible scheduling, label filtering, Lua-based selection criteria, resource removal or update and notifications via Slack, Webex and Discord. it can also automate clusters operations.",
+  "url": "https://github.com/gianlucam76/k8s-cleaner",
+  "homepage_url": "https://projectsveltos.github.io/sveltos/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "discord",
+    "kubernetes",
+    "kubernetes-operator",
+    "lua",
+    "notifications",
+    "orphaned-resources",
+    "slack",
+    "stale-resources",
+    "unused-resources",
+    "webex"
+  ],
+  "star_count": 762,
+  "fork_count": 42,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2023-12-06T12:22:28Z",
+  "updated_at": "2026-04-21T06:09:30Z",
+  "pushed_at": "2026-04-21T16:33:37Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 762
+    }
+  ]
+}

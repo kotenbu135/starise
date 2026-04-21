@@ -1,0 +1,40 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkzMDU1MjI4MzU=",
+  "owner": "google-research-datasets",
+  "name": "objectron",
+  "full_name": "google-research-datasets/objectron",
+  "description": "Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box describes the object’s position, orientation, and dimensions. The dataset contains about 15K annotated video clips and 4M annotated images in the following categories: bikes, books, bottles, cameras, cereal boxes, chairs, cups, laptops, and shoes",
+  "url": "https://github.com/google-research-datasets/Objectron",
+  "homepage_url": "",
+  "language": "Jupyter Notebook",
+  "license": "NOASSERTION",
+  "topics": [
+    "3d",
+    "3d-reconstruction",
+    "3d-vision",
+    "ai",
+    "augmented-reality",
+    "computer-vision",
+    "dataset",
+    "deep-learning",
+    "machine-learning",
+    "neural-network",
+    "python",
+    "pytorch",
+    "tensorflow"
+  ],
+  "star_count": 2326,
+  "fork_count": 265,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2020-10-19T21:58:41Z",
+  "updated_at": "2026-04-20T23:32:04Z",
+  "pushed_at": "2026-03-06T17:27:37Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 2326
+    }
+  ]
+}

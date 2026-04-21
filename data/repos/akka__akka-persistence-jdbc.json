@@ -1,0 +1,32 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkyMDExMzAxNg==",
+  "owner": "akka",
+  "name": "akka-persistence-jdbc",
+  "full_name": "akka/akka-persistence-jdbc",
+  "description": "Asynchronously writes journal and snapshot entries to configured JDBC databases so that Akka Actors can recover state",
+  "url": "https://github.com/akka/akka-persistence-jdbc",
+  "homepage_url": "https://doc.akka.io/libraries/akka-persistence-jdbc/current/",
+  "language": "Scala",
+  "license": "NOASSERTION",
+  "topics": [
+    "akka-persistence",
+    "journal",
+    "persistence-query",
+    "scala",
+    "slick"
+  ],
+  "star_count": 310,
+  "fork_count": 135,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2014-05-23T20:26:52Z",
+  "updated_at": "2026-04-19T11:59:54Z",
+  "pushed_at": "2026-04-15T06:26:33Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 310
+    }
+  ]
+}

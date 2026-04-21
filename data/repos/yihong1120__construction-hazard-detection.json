@@ -1,0 +1,46 @@
+{
+  "repo_id": "R_kgDOK_9acA",
+  "owner": "yihong1120",
+  "name": "construction-hazard-detection",
+  "full_name": "yihong1120/construction-hazard-detection",
+  "description": "Enhances construction site safety using YOLO for object detection, identifying hazards like workers without helmets or safety vests, and proximity to machinery or vehicles. HDBSCAN clusters safety cone coordinates to create monitored zones. Post-processing algorithms improve detection accuracy.",
+  "url": "https://github.com/yihong1120/Construction-Hazard-Detection",
+  "homepage_url": "https://visionnaire-cda17.web.app/",
+  "language": "Python",
+  "license": "AGPL-3.0",
+  "topics": [
+    "alert-system",
+    "apis",
+    "artificial-intelligence",
+    "clustering",
+    "computer-vision",
+    "data-annotation",
+    "deep-learning",
+    "fastapi",
+    "fastmcp",
+    "hazard-detection",
+    "hdbscan",
+    "image-processing",
+    "machine-learning",
+    "mcp",
+    "nginx",
+    "object-detection",
+    "post-processing",
+    "restful-api",
+    "yolo26"
+  ],
+  "star_count": 369,
+  "fork_count": 51,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2024-01-02T14:58:37Z",
+  "updated_at": "2026-04-19T00:10:29Z",
+  "pushed_at": "2026-04-09T12:00:51Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 369
+    }
+  ]
+}

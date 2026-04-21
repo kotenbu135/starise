@@ -1,0 +1,44 @@
+{
+  "repo_id": "R_kgDORsG0hw",
+  "owner": "aiptimizer",
+  "name": "turboocr",
+  "full_name": "aiptimizer/turboocr",
+  "description": "Fast GPU OCR server. 270 img/s on FUNSD. TensorRT FP16, PP-OCRv5, HTTP + gRPC.",
+  "url": "https://github.com/aiptimizer/TurboOCR",
+  "homepage_url": "",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "document-ai",
+    "document-parsing",
+    "easyocr",
+    "fastapi",
+    "fp16",
+    "gpu-ocr",
+    "grpc",
+    "inference-server",
+    "nvidia",
+    "ocr",
+    "paddleocr",
+    "pdf-extraction",
+    "qwen-vl",
+    "rag",
+    "tensorrt",
+    "text-detection",
+    "text-recognition"
+  ],
+  "star_count": 59,
+  "fork_count": 4,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-20T10:42:34Z",
+  "updated_at": "2026-04-21T17:36:28Z",
+  "pushed_at": "2026-04-16T12:16:12Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 59
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkxMTk0NzQ5NTM=",
+  "owner": "grapheneos",
+  "name": "auditor",
+  "full_name": "grapheneos/auditor",
+  "description": "Hardware-based attestation and intrusion detection app for Android. It provides both local verification with another Android device via QR codes and optional scheduled server-based verification with support for alert emails. It uses hardware-backed keys and attestation support as the foundation and chains trust to the app for software checks.",
+  "url": "https://github.com/GrapheneOS/Auditor",
+  "homepage_url": "https://attestation.app/",
+  "language": "Java",
+  "license": "MIT",
+  "topics": [
+    "android",
+    "attestation",
+    "authenticity",
+    "cryptography",
+    "grapheneos",
+    "hsm",
+    "integrity",
+    "monitoring",
+    "remote-attestation",
+    "secure-boot",
+    "secureboot",
+    "security",
+    "strongbox",
+    "verifiedboot"
+  ],
+  "star_count": 650,
+  "fork_count": 104,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2018-01-30T03:08:48Z",
+  "updated_at": "2026-04-21T04:30:50Z",
+  "pushed_at": "2026-04-14T19:54:19Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 650
+    }
+  ]
+}
