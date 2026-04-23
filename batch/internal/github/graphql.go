@@ -293,10 +293,16 @@ func runBulkRefreshParallel(ctx context.Context, ids []string, batchSize, concur
 	return allFound, allMissing, aggLimit, firstErr
 }
 
-// fetchBatch issues a single nodes() GraphQL call for one id batch.
-// Each invocation allocates its own query struct so the shurcooL/graphql
-// client is safe for concurrent use under errgroup.
-func (g *GraphQLClient) fetchBatch(ctx context.Context, batch []string) ([]RepoData, []string, RateLimitInfo, error) {
+// fetchBatchRaw issues a single nodes() GraphQL call. When a batch contains
+// an id GitHub cannot resolve (repo deleted / went private since last sync),
+// shurcooL/graphql surfaces the response-level `errors` array as a Go error
+// and discards `data` — leaving the caller with nothing. fetchBatch wraps
+// this raw call with recoverBatchFromMissing to extract the bad id, drop it,
+// and re-query the remainder. maxNotFoundRecoveryIters caps the loop so one
+// pathological batch cannot spin forever.
+const maxNotFoundRecoveryIters = 50
+
+func (g *GraphQLClient) fetchBatchRaw(ctx context.Context, batch []string) ([]RepoData, []string, RateLimitInfo, error) {
 	gqlIDs := make([]graphql.ID, len(batch))
 	for i, id := range batch {
 		gqlIDs[i] = graphql.ID(id)
@@ -321,6 +327,72 @@ func (g *GraphQLClient) fetchBatch(ctx context.Context, batch []string) ([]RepoD
 		found = append(found, toRepoData(n.Repository))
 	}
 	return found, missing, toRateLimit(q.RateLimit), nil
+}
+
+func (g *GraphQLClient) fetchBatch(ctx context.Context, batch []string) ([]RepoData, []string, RateLimitInfo, error) {
+	return recoverBatchFromMissing(ctx, batch, g.fetchBatchRaw, maxNotFoundRecoveryIters)
+}
+
+// extractMissingNodeID parses the canonical GitHub GraphQL error that
+// surfaces when nodes(ids:[...]) encounters an unresolvable id:
+//
+//	"Could not resolve to a node with the global id of 'R_xyz'."
+//
+// Returns the extracted id and true when the phrase is present anywhere in
+// the error chain (handles fmt.Errorf wrapping).
+func extractMissingNodeID(err error) (string, bool) {
+	if err == nil {
+		return "", false
+	}
+	msg := err.Error()
+	const prefix = "Could not resolve to a node with the global id of '"
+	idx := strings.Index(msg, prefix)
+	if idx < 0 {
+		return "", false
+	}
+	rest := msg[idx+len(prefix):]
+	end := strings.Index(rest, "'")
+	if end < 0 {
+		return "", false
+	}
+	return rest[:end], true
+}
+
+// recoverBatchFromMissing retries a bulk nodes() call after peeling off any
+// id that GitHub could not resolve. Each failed call exposes at most one
+// bad id (GitHub returns on first failure), so the loop trims one id per
+// iteration until the remaining batch succeeds or another error class
+// surfaces. The returned missing list aggregates both the ids GitHub
+// returned as null-nodes AND the ids extracted from recovery errors.
+func recoverBatchFromMissing(ctx context.Context, batch []string, fetch batchFetcher, maxIters int) ([]RepoData, []string, RateLimitInfo, error) {
+	curr := append([]string(nil), batch...) // defensive copy
+	var accMissing []string
+	var lastLimit RateLimitInfo
+	for iter := 0; iter <= maxIters; iter++ {
+		if len(curr) == 0 {
+			return nil, accMissing, lastLimit, nil
+		}
+		found, missing, limit, err := fetch(ctx, curr)
+		if err == nil {
+			lastLimit = limit
+			return found, append(accMissing, missing...), limit, nil
+		}
+		id, isMissing := extractMissingNodeID(err)
+		if !isMissing {
+			return nil, accMissing, lastLimit, err
+		}
+		accMissing = append(accMissing, id)
+		next := make([]string, 0, len(curr)-1)
+		for _, x := range curr {
+			if x != id {
+				next = append(next, x)
+			}
+		}
+		curr = next
+	}
+	return nil, accMissing, lastLimit,
+		fmt.Errorf("recoverBatchFromMissing: exceeded %d iterations with %d ids remaining",
+			maxIters, len(curr))
 }
 
 func (g *GraphQLClient) BulkRefresh(ctx context.Context, ids []string) ([]RepoData, []string, RateLimitInfo, error) {

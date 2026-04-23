@@ -200,6 +200,127 @@ func TestRunBulkRefreshParallelAggregatesCostAsSum(t *testing.T) {
 	}
 }
 
+func TestExtractMissingNodeID_HappyPath(t *testing.T) {
+	// GitHub GraphQL reports a deleted/private node inside a nodes(ids:[])
+	// batch with the exact phrase below. shurcooL surfaces this as a Go
+	// error — we extract the id so the caller can drop it and retry.
+	err := errors.New("Could not resolve to a node with the global id of 'R_kgDOSIhctg'.")
+	id, ok := extractMissingNodeID(err)
+	if !ok {
+		t.Fatal("want ok=true for canonical message")
+	}
+	if id != "R_kgDOSIhctg" {
+		t.Errorf("id=%q, want R_kgDOSIhctg", id)
+	}
+}
+
+func TestExtractMissingNodeID_WrappedError(t *testing.T) {
+	// runBulkRefreshParallel wraps with fmt.Errorf("batch %d (%d ids): %w").
+	// The extractor must still find the id inside the wrapper.
+	wrapped := fmt.Errorf("batch 52 (100 ids): %w",
+		errors.New("Could not resolve to a node with the global id of 'R_xyz'."))
+	id, ok := extractMissingNodeID(wrapped)
+	if !ok || id != "R_xyz" {
+		t.Errorf("got (%q, %v), want (R_xyz, true)", id, ok)
+	}
+}
+
+func TestExtractMissingNodeID_NoMatch(t *testing.T) {
+	for _, in := range []error{
+		nil,
+		errors.New("some other error"),
+		errors.New("rate limit exceeded"),
+	} {
+		id, ok := extractMissingNodeID(in)
+		if ok || id != "" {
+			t.Errorf("in=%v → got (%q, %v), want (\"\", false)", in, id, ok)
+		}
+	}
+}
+
+func TestRecoverBatchFromMissing_DropsOffendingIDThenSucceeds(t *testing.T) {
+	// The 2026-04-22 production failure: 1 deleted repo inside a batch of
+	// 100 caused the entire batch to abort. recoverBatchFromMissing must
+	// strip the bad id, mark it missing, and re-query the remainder.
+	calls := 0
+	fetch := func(_ context.Context, batch []string) ([]RepoData, []string, RateLimitInfo, error) {
+		calls++
+		// First attempt: 100 ids → one bad. Second attempt: 99 ids → success.
+		for _, id := range batch {
+			if id == "R_BAD" {
+				return nil, nil, RateLimitInfo{},
+					errors.New("Could not resolve to a node with the global id of 'R_BAD'.")
+			}
+		}
+		found := make([]RepoData, 0, len(batch))
+		for _, id := range batch {
+			found = append(found, RepoData{GitHubID: id})
+		}
+		return found, nil, RateLimitInfo{Remaining: 4000, Cost: 1}, nil
+	}
+
+	batch := []string{"R_A", "R_BAD", "R_B", "R_C"}
+	found, missing, limit, err := recoverBatchFromMissing(context.Background(), batch, fetch, 10)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if calls != 2 {
+		t.Errorf("calls=%d, want 2 (one failed attempt, one retry)", calls)
+	}
+	if len(found) != 3 {
+		t.Errorf("found=%d, want 3", len(found))
+	}
+	if len(missing) != 1 || missing[0] != "R_BAD" {
+		t.Errorf("missing=%v, want [R_BAD]", missing)
+	}
+	if limit.Remaining != 4000 {
+		t.Errorf("limit not propagated from final successful call")
+	}
+}
+
+func TestRecoverBatchFromMissing_MultipleBadIDs(t *testing.T) {
+	// Several dead repos in one batch: the helper must peel them off
+	// iteratively. Each attempt exposes at most one bad id (GitHub returns
+	// on the first failure).
+	bad := map[string]bool{"R_X": true, "R_Y": true, "R_Z": true}
+	fetch := func(_ context.Context, batch []string) ([]RepoData, []string, RateLimitInfo, error) {
+		for _, id := range batch {
+			if bad[id] {
+				return nil, nil, RateLimitInfo{},
+					fmt.Errorf("Could not resolve to a node with the global id of '%s'.", id)
+			}
+		}
+		found := make([]RepoData, 0, len(batch))
+		for _, id := range batch {
+			found = append(found, RepoData{GitHubID: id})
+		}
+		return found, nil, RateLimitInfo{Remaining: 3000, Cost: 1}, nil
+	}
+
+	batch := []string{"R_A", "R_X", "R_B", "R_Y", "R_C", "R_Z"}
+	found, missing, _, err := recoverBatchFromMissing(context.Background(), batch, fetch, 10)
+	if err != nil {
+		t.Fatal(err)
+	}
+	if len(found) != 3 {
+		t.Errorf("found=%d, want 3 (good ids)", len(found))
+	}
+	if len(missing) != 3 {
+		t.Errorf("missing=%d, want 3 (bad ids)", len(missing))
+	}
+}
+
+func TestRecoverBatchFromMissing_UnrelatedErrorSurfaces(t *testing.T) {
+	sentinel := errors.New("network down")
+	fetch := func(_ context.Context, _ []string) ([]RepoData, []string, RateLimitInfo, error) {
+		return nil, nil, RateLimitInfo{}, sentinel
+	}
+	_, _, _, err := recoverBatchFromMissing(context.Background(), []string{"a", "b"}, fetch, 10)
+	if !errors.Is(err, sentinel) {
+		t.Errorf("got %v, want sentinel (non-NOT_FOUND errors must propagate)", err)
+	}
+}
+
 func TestRunBulkRefreshParallelEmptyInput(t *testing.T) {
 	fetch := func(_ context.Context, _ []string) ([]RepoData, []string, RateLimitInfo, error) {
 		t.Fatal("fetch must not be called for empty input")
