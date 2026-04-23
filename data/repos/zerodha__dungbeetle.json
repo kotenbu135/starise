@@ -1,0 +1,38 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkxMTY0OTQ5OTE=",
+  "owner": "zerodha",
+  "name": "dungbeetle",
+  "full_name": "zerodha/dungbeetle",
+  "description": "A distributed job server built specifically for queuing and executing heavy SQL read jobs asynchronously. Separate out reporting layer from apps. MySQL, Postgres, ClickHouse.",
+  "url": "https://github.com/zerodha/dungbeetle",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "broker-backend",
+    "database",
+    "job-queue",
+    "job-scheduler",
+    "mysql",
+    "postgres",
+    "postgresql",
+    "reporting",
+    "sql",
+    "sql-query",
+    "workers"
+  ],
+  "star_count": 1226,
+  "fork_count": 166,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2018-01-06T15:46:47Z",
+  "updated_at": "2026-04-22T11:00:32Z",
+  "pushed_at": "2026-04-08T20:42:12Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 1226
+    }
+  ]
+}

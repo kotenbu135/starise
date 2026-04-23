@@ -1,0 +1,47 @@
+{
+  "repo_id": "R_kgDONKWoNA",
+  "owner": "ivan-borovets",
+  "name": "fastapi-clean-example",
+  "full_name": "ivan-borovets/fastapi-clean-example",
+  "description": "Practical Clean Architecture backend example built with FastAPI. No stateful globals (DI), low coupling (DIP), tactical DDD, CQRS, proper UoW usage. REST API, per-route error handling, session-based auth, contextual RBAC. Bundled with extensive docs and modern tooling",
+  "url": "https://github.com/ivan-borovets/fastapi-clean-example",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "alembic",
+    "api",
+    "architecture",
+    "clean-architecture",
+    "cqrs",
+    "crud",
+    "dependency-injection",
+    "fastapi",
+    "fastapi-auth",
+    "fastapi-crud",
+    "fastapi-example",
+    "fastapi-template",
+    "hexagonal-architecture",
+    "onion-architecture",
+    "python",
+    "python-clean-architecture",
+    "restful-api",
+    "sqlalchemy",
+    "unit-of-work",
+    "uv"
+  ],
+  "star_count": 537,
+  "fork_count": 73,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2024-11-04T17:10:18Z",
+  "updated_at": "2026-04-21T18:38:12Z",
+  "pushed_at": "2026-04-17T20:32:20Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 537
+    }
+  ]
+}

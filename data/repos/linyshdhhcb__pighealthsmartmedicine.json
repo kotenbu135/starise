@@ -3,7 +3,7 @@
   "owner": "linyshdhhcb",
   "name": "pighealthsmartmedicine",
   "full_name": "linyshdhhcb/pighealthsmartmedicine",
-  "description": "本项目是一个基于RAG的生猪健康管理的智慧医药系统，集成了AI兽医诊断、疾病管理、药品管理、文章资讯管理等功能模块，旨在通过数字化手段提升生猪养殖的医疗管理水平。系统基于 SpringBoot3 + RAG +Ollama + Spring AI + DeepSeek + Mysql8.0 + Mybatis-Plus 技术栈构建，提供智能兽医诊断服务，帮助养殖户或兽医快速识别生猪病情并推荐相应的治疗方案。",
+  "description": "本项目是一个基于 RAG 的生猪健康管理智慧医药系统，集成了 AI 兽医诊断、疾病管理、药品管理、文章资讯管理等功能模块，旨在通过数字化手段提升生猪养殖的医疗管理水平。系统基于 Spring Boot 3 + Spring AI + Milvus + MySQL 8 + MyBatis-Plus + Ollama / DeepSeek / 通义千问/ 阿里百炼 / SiliconFlow 等技术构建，提供智能兽医诊断服务，帮助养殖户或兽医快速识别生猪病情并推荐相应的治疗方案。",
   "url": "https://github.com/linyshdhhcb/PigHealthSmartMedicine",
   "homepage_url": "",
   "language": "Vue",
@@ -30,12 +30,16 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-01T16:01:43Z",
-  "updated_at": "2026-04-21T15:18:02Z",
+  "updated_at": "2026-04-22T13:14:45Z",
   "pushed_at": "2026-04-21T15:17:57Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-21",
+      "stars": 147
+    },
+    {
+      "date": "2026-04-23",
       "stars": 147
     }
   ]

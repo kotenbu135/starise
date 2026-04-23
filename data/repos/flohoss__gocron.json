@@ -1,0 +1,36 @@
+{
+  "repo_id": "R_kgDON-6Dmg",
+  "owner": "flohoss",
+  "name": "gocron",
+  "full_name": "flohoss/gocron",
+  "description": "A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times using cron expressions, and passes in environment variables for each job.",
+  "url": "https://github.com/flohoss/gocron",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "backup",
+    "backups",
+    "cron",
+    "docker",
+    "golang",
+    "schedule",
+    "scheduler",
+    "task",
+    "vue"
+  ],
+  "star_count": 539,
+  "fork_count": 18,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-02-24T21:28:31Z",
+  "updated_at": "2026-04-22T19:17:46Z",
+  "pushed_at": "2026-04-21T17:59:50Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 539
+    }
+  ]
+}

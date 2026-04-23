@@ -1,0 +1,37 @@
+{
+  "repo_id": "R_kgDOSB2rsA",
+  "owner": "therealaleph",
+  "name": "sni-spoofing-rust",
+  "full_name": "therealaleph/sni-spoofing-rust",
+  "description": "DPI bypass via fake TLS ClientHello injection with wrong TCP sequence number. Rust port of @patterniha's SNI-Spoofing. Linux, macOS, Windows. Works with v2ray/xray VLESS configs behind Cloudflare.",
+  "url": "https://github.com/therealaleph/sni-spoofing-rust",
+  "homepage_url": "https://github.com/therealaleph/sni-spoofing-rust#setup-guide",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "censorship-circumvention",
+    "cloudflare",
+    "dpi-bypass",
+    "proxy",
+    "rust",
+    "sni-spoofing",
+    "tcp",
+    "v2ray",
+    "vless",
+    "xray"
+  ],
+  "star_count": 300,
+  "fork_count": 34,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-13T22:39:41Z",
+  "updated_at": "2026-04-23T00:44:09Z",
+  "pushed_at": "2026-04-20T18:38:16Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 300
+    }
+  ]
+}

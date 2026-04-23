@@ -1,0 +1,42 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkxNzUxNDc3NzQ=",
+  "owner": "samsung",
+  "name": "mtower",
+  "full_name": "samsung/mtower",
+  "description": "mTower is Trusted Execution Environment specially designed to be used on MicroController Units (MCUs) supporting ARM TrustZone technology (e.g., Cortex-M23/33/35p). mTower operates well under restrictions typical for such environment – small RAM and ROM sizes, relatively low performance, absence of rich OSes providing variety of services available on PCs or in enterprise environments. mTower is intended for usage in IoT, embedded devices, Smart Home applications, distributed heterogeneous networks and other environments where secure processing of sensitive data is necessary.",
+  "url": "https://github.com/Samsung/mTower",
+  "homepage_url": "",
+  "language": "C",
+  "license": "Apache-2.0",
+  "topics": [
+    "bootloader",
+    "cortex-m23",
+    "freertos",
+    "gcc",
+    "iot",
+    "m2351",
+    "makefile",
+    "microcontroller",
+    "numaker-pfm-m2351",
+    "nuvoton",
+    "risc-v",
+    "secure",
+    "smarthome",
+    "trusted-execution-environment",
+    "trustzone"
+  ],
+  "star_count": 75,
+  "fork_count": 21,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2019-03-12T06:19:43Z",
+  "updated_at": "2026-04-21T14:18:42Z",
+  "pushed_at": "2026-03-01T19:22:59Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 75
+    }
+  ]
+}

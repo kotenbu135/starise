@@ -3,7 +3,7 @@
   "owner": "golutra",
   "name": "golutra",
   "full_name": "golutra/golutra",
-  "description": "",
+  "description": "Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace.",
   "url": "https://github.com/golutra/golutra",
   "homepage_url": "https://www.golutra.com",
   "language": "Rust",
@@ -30,18 +30,22 @@
     "qwen-coder",
     "workflows"
   ],
-  "star_count": 3227,
-  "fork_count": 366,
+  "star_count": 3258,
+  "fork_count": 369,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T11:49:39Z",
-  "updated_at": "2026-04-21T17:50:56Z",
+  "updated_at": "2026-04-23T00:57:34Z",
   "pushed_at": "2026-04-07T14:30:23Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-21",
       "stars": 3227
+    },
+    {
+      "date": "2026-04-23",
+      "stars": 3258
     }
   ]
 }

@@ -3,29 +3,41 @@
   "owner": "onflow",
   "name": "flow-go",
   "full_name": "onflow/flow-go",
-  "description": "A fast, secure, and developer-friendly blockchain built to support the next generation of games, apps, and the digital assets that power them.",
+  "description": "Reference implementation of the Flow network in Go. Layer 1 proof-of-stake protocol built for consumer apps, AI Agents, and DeFi at scale",
   "url": "https://github.com/onflow/flow-go",
-  "homepage_url": "",
+  "homepage_url": "https://flow.com",
   "language": "Go",
   "license": "AGPL-3.0",
   "topics": [
     "blockchain",
+    "byzantine-fault-tolerance",
+    "cadence",
+    "consensus",
+    "distributed-systems",
     "flow",
     "go",
     "golang",
-    "onflow"
+    "hotstuff",
+    "layer-1",
+    "proof-of-stake",
+    "reference-implementation",
+    "smart-contracts"
   ],
   "star_count": 568,
   "fork_count": 209,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-09-22T21:39:12Z",
-  "updated_at": "2026-04-21T19:01:58Z",
-  "pushed_at": "2026-04-21T19:01:54Z",
+  "updated_at": "2026-04-22T23:09:01Z",
+  "pushed_at": "2026-04-23T01:54:27Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-21",
+      "stars": 568
+    },
+    {
+      "date": "2026-04-23",
       "stars": 568
     }
   ]

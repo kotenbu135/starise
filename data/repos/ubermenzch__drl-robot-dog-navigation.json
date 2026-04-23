@@ -1,0 +1,26 @@
+{
+  "repo_id": "R_kgDOPQiddw",
+  "owner": "ubermenzch",
+  "name": "drl-robot-dog-navigation",
+  "full_name": "ubermenzch/drl-robot-dog-navigation",
+  "description": "基于 reiniscimurs 的 DRL-Robot-Navigation-ROS2，在原有 SAC 导航框架上增加了多实例Gazebo环境用于数据收集、完全off-policy式的训练、更复杂的地图生成、自动化启动脚本与日志管理等功能，便于快速部署和高效训练。",
+  "url": "https://github.com/ubermenzch/DRL-Robot-Dog-Navigation",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [],
+  "star_count": 9,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-07-22T02:14:03Z",
+  "updated_at": "2026-03-16T01:59:45Z",
+  "pushed_at": "2026-03-02T08:41:11Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 9
+    }
+  ]
+}

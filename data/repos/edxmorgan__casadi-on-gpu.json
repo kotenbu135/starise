@@ -1,0 +1,36 @@
+{
+  "repo_id": "R_kgDOQZM9yA",
+  "owner": "edxmorgan",
+  "name": "casadi-on-gpu",
+  "full_name": "edxmorgan/casadi-on-gpu",
+  "description": "turn CasADi function into GPU ready kernels so large batches of function evaluations can run in parallel at high speed [𝐏𝐲𝐭𝐨𝐫𝐜𝐡 \u0026 𝐂𝐮𝐩𝐲 𝐜𝐨𝐦𝐩𝐚𝐭𝐢𝐛𝐥𝐞]",
+  "url": "https://github.com/edxmorgan/casadi-on-gpu",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "casadi",
+    "cuda",
+    "cupy",
+    "gpu",
+    "parallel-computing",
+    "pybind11",
+    "pytorch",
+    "robotics",
+    "simulation"
+  ],
+  "star_count": 57,
+  "fork_count": 3,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-11-19T23:38:57Z",
+  "updated_at": "2026-03-02T05:53:00Z",
+  "pushed_at": "2026-02-23T20:24:49Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 57
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "repo_id": "R_kgDOKZ4m8Q",
+  "owner": "eclipse-zenoh",
+  "name": "zenoh-plugin-ros2dds",
+  "full_name": "eclipse-zenoh/zenoh-plugin-ros2dds",
+  "description": "A Zenoh plug-in for ROS2 with a DDS RMW. See https://discourse.ros.org/t/ros-2-alternative-middleware-report/ for the advantages of using this plugin over other DDS RMW implementations.",
+  "url": "https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds",
+  "homepage_url": "https://zenoh.io",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "cyclonedds",
+    "dds",
+    "edge-computing",
+    "robotics",
+    "ros2",
+    "zenoh"
+  ],
+  "star_count": 257,
+  "fork_count": 51,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2023-09-29T12:59:40Z",
+  "updated_at": "2026-04-16T02:02:31Z",
+  "pushed_at": "2026-04-23T00:38:28Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 257
+    }
+  ]
+}

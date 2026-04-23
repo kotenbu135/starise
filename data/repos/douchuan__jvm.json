@@ -3,29 +3,31 @@
   "owner": "douchuan",
   "name": "jvm",
   "full_name": "douchuan/jvm",
-  "description": "JVM in Rust, written as a learning project.",
+  "description": "JVM in Rust",
   "url": "https://github.com/douchuan/jvm",
   "homepage_url": "",
   "language": "Rust",
   "license": "MIT",
   "topics": [
-    "java",
+    "jit",
     "jvm",
-    "modular",
-    "rust",
-    "vm"
+    "rust"
   ],
   "star_count": 528,
   "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-12T05:47:17Z",
-  "updated_at": "2026-04-21T12:44:44Z",
-  "pushed_at": "2026-04-21T12:44:40Z",
+  "updated_at": "2026-04-23T01:11:11Z",
+  "pushed_at": "2026-04-23T01:11:06Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-21",
+      "stars": 528
+    },
+    {
+      "date": "2026-04-23",
       "stars": 528
     }
   ]

@@ -1,0 +1,32 @@
+{
+  "repo_id": "R_kgDOJVFfgQ",
+  "owner": "huzaifaarain",
+  "name": "telescope-guzzle-watcher",
+  "full_name": "huzaifaarain/telescope-guzzle-watcher",
+  "description": "Telescope Guzzle Watcher provide a custom watcher for intercepting http requests made via guzzlehttp/guzzle php library. The package uses the on_stats request option for extracting the request/response data. The watcher intercept and log the request into the Laravel Telescope HTTP Client Watcher.",
+  "url": "https://github.com/huzaifaarain/telescope-guzzle-watcher",
+  "homepage_url": "https://packagist.org/packages/muhammadhuzaifa/telescope-guzzle-watcher",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "guzzle",
+    "http",
+    "laravel",
+    "php",
+    "telescope"
+  ],
+  "star_count": 98,
+  "fork_count": 5,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2023-04-10T19:21:22Z",
+  "updated_at": "2026-03-20T16:27:25Z",
+  "pushed_at": "2026-03-20T16:27:21Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 98
+    }
+  ]
+}

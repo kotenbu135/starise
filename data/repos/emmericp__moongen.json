@@ -1,0 +1,30 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkyNDUzMjQxNw==",
+  "owner": "emmericp",
+  "name": "moongen",
+  "full_name": "emmericp/moongen",
+  "description": "MoonGen is a fully scriptable high-speed packet generator built on DPDK and LuaJIT. It can saturate a 10 Gbit/s connection with 64 byte packets on a single CPU core while executing user-provided Lua scripts for each packet. Multi-core support allows for even higher rates. It also features precise and accurate timestamping and rate control.",
+  "url": "https://github.com/emmericp/MoonGen",
+  "homepage_url": "",
+  "language": "Lua",
+  "license": "MIT",
+  "topics": [
+    "dpdk",
+    "lua",
+    "packet-generator"
+  ],
+  "star_count": 1110,
+  "fork_count": 238,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2014-09-27T13:28:04Z",
+  "updated_at": "2026-04-18T04:26:10Z",
+  "pushed_at": "2025-11-30T09:22:25Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 1110
+    }
+  ]
+}

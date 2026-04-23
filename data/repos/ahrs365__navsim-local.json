@@ -1,0 +1,31 @@
+{
+  "repo_id": "R_kgDOQAWBug",
+  "owner": "ahrs365",
+  "name": "navsim-local",
+  "full_name": "ahrs365/navsim-local",
+  "description": "一个轨迹优化仿真器，可以加载json地图，进行动态障碍物仿真，支持不同的规划器插件，当前默认配置了一个alm-lbfgs优化的规划器插件。配合在线场景编辑器进行使用。",
+  "url": "https://github.com/ahrs365/navsim-local",
+  "homepage_url": "https://www.gl-robotics.com",
+  "language": "C++",
+  "license": "GPL-3.0",
+  "topics": [
+    "motion-planning",
+    "nlp",
+    "simulator",
+    "trajectory-optimization"
+  ],
+  "star_count": 59,
+  "fork_count": 17,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-10-11T06:36:48Z",
+  "updated_at": "2026-04-13T06:27:10Z",
+  "pushed_at": "2026-03-26T02:59:59Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 59
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkyMTkwMjMxNjc=",
+  "owner": "tomwojcik",
+  "name": "starlette-context",
+  "full_name": "tomwojcik/starlette-context",
+  "description": "Middleware for Starlette that allows you to store and access the context data of a request. Can be used with logging so logs automatically use request headers such as x-request-id or x-correlation-id.",
+  "url": "https://github.com/tomwojcik/starlette-context",
+  "homepage_url": "https://starlette-context.readthedocs.io/en/latest/",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "fastapi",
+    "middleware",
+    "python",
+    "python3",
+    "starlette",
+    "starlette-context"
+  ],
+  "star_count": 608,
+  "fork_count": 29,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2019-11-01T16:32:04Z",
+  "updated_at": "2026-04-01T20:35:28Z",
+  "pushed_at": "2026-04-14T01:52:39Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 608
+    }
+  ]
+}

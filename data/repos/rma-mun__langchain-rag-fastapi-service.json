@@ -1,0 +1,36 @@
+{
+  "repo_id": "R_kgDORf3Tww",
+  "owner": "rma-mun",
+  "name": "langchain-rag-fastapi-service",
+  "full_name": "rma-mun/langchain-rag-fastapi-service",
+  "description": "基于微服务架构的智能对话服务，采用 Django（用户管理）+ FastAPI（RAG/Agent 核心），独立数据库部署；结合 LangChain 实现检索增强生成（RAG）与智能体（Agent）能力，支持持久化对话记忆与 JWT 安全认证",
+  "url": "https://github.com/RMA-MUN/LangChain-RAG-FastAPI-Service",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "",
+  "topics": [
+    "chromadb",
+    "django",
+    "django-rest-framework",
+    "fastapi",
+    "langchain",
+    "mysql",
+    "sqlachemy",
+    "transformers",
+    "vue"
+  ],
+  "star_count": 59,
+  "fork_count": 8,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-06T08:43:18Z",
+  "updated_at": "2026-04-23T00:42:27Z",
+  "pushed_at": "2026-04-16T07:43:07Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 59
+    }
+  ]
+}

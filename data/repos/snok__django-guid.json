@@ -1,0 +1,41 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkyMjkyNDMzNTU=",
+  "owner": "snok",
+  "name": "django-guid",
+  "full_name": "snok/django-guid",
+  "description": "Inject an ID into every log message from a Django request. ASGI compatible, integrates with Sentry, and works with Celery",
+  "url": "https://github.com/snok/django-guid",
+  "homepage_url": "https://django-guid.readthedocs.io",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "asgi",
+    "celery",
+    "correlation",
+    "correlation-id",
+    "django",
+    "django-correlation-id",
+    "django-guid",
+    "django-rest-framework",
+    "django3",
+    "guid",
+    "logging",
+    "request-id",
+    "sentry",
+    "tracing"
+  ],
+  "star_count": 482,
+  "fork_count": 30,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2019-12-20T10:25:27Z",
+  "updated_at": "2026-04-08T16:47:19Z",
+  "pushed_at": "2026-02-03T20:48:01Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 482
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnk2MDU2NDkwNw==",
+  "owner": "vibhorkum",
+  "name": "pg_background",
+  "full_name": "vibhorkum/pg_background",
+  "description": "Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.",
+  "url": "https://github.com/vibhorkum/pg_background",
+  "homepage_url": "https://github.com/vibhorkum/pg_background",
+  "language": "PLpgSQL",
+  "license": "NOASSERTION",
+  "topics": [
+    "async",
+    "audit-logging",
+    "autonomous",
+    "autonomous-transactions",
+    "background-worker",
+    "c",
+    "database",
+    "etl",
+    "parallel-queries",
+    "pgextension",
+    "plpgsql",
+    "postgres",
+    "postgresql",
+    "postgresql-extension",
+    "sql",
+    "vacuum"
+  ],
+  "star_count": 246,
+  "fork_count": 42,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2016-06-06T22:25:42Z",
+  "updated_at": "2026-04-22T07:27:22Z",
+  "pushed_at": "2026-04-21T23:01:31Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 246
+    }
+  ]
+}

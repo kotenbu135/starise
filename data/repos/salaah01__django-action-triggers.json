@@ -1,0 +1,44 @@
+{
+  "repo_id": "R_kgDOMiE6hw",
+  "owner": "salaah01",
+  "name": "django-action-triggers",
+  "full_name": "salaah01/django-action-triggers",
+  "description": "A Django library for asynchronously triggering actions in response to database changes. It supports integration with webhooks, message brokers (e.g., Kafka, RabbitMQ), and can trigger other processes, including AWS Lambda functions.",
+  "url": "https://github.com/Salaah01/django-action-triggers",
+  "homepage_url": "https://django-action-triggers.readthedocs.io/",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "asyncio",
+    "automation",
+    "database-events",
+    "django",
+    "django-application",
+    "django-rest-framework",
+    "event-driven",
+    "events",
+    "extensible",
+    "kafka",
+    "message-broker",
+    "message-queue",
+    "python",
+    "queue",
+    "rabbitmq",
+    "triggers",
+    "webhooks"
+  ],
+  "star_count": 84,
+  "fork_count": 1,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2024-08-11T13:08:35Z",
+  "updated_at": "2026-03-08T01:35:58Z",
+  "pushed_at": "2026-02-15T15:28:43Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 84
+    }
+  ]
+}

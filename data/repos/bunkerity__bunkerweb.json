@@ -3,14 +3,13 @@
   "owner": "bunkerity",
   "name": "bunkerweb",
   "full_name": "bunkerity/bunkerweb",
-  "description": "🛡️ Open-source and next-generation Web Application Firewall (WAF)",
+  "description": "🛡️ Open-source and cloud-native Web Application Firewall (WAF)",
   "url": "https://github.com/bunkerity/bunkerweb",
   "homepage_url": "https://www.bunkerweb.io",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
     "antibot",
-    "bunkerized-nginx",
     "cybersecurity",
     "devops",
     "devsecops",
@@ -26,22 +25,27 @@
     "security",
     "security-tuning",
     "swarm",
+    "waap",
     "waf",
     "web-application-firewall",
     "web-security"
   ],
-  "star_count": 10333,
-  "fork_count": 583,
+  "star_count": 10343,
+  "fork_count": 584,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-08-20T21:20:48Z",
-  "updated_at": "2026-04-21T15:21:25Z",
-  "pushed_at": "2026-04-21T16:07:57Z",
+  "updated_at": "2026-04-22T21:21:37Z",
+  "pushed_at": "2026-04-22T19:47:39Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-21",
       "stars": 10333
+    },
+    {
+      "date": "2026-04-23",
+      "stars": 10343
     }
   ]
 }

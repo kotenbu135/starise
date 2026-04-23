@@ -1,0 +1,31 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkzNTQyOTUxOTk=",
+  "owner": "appotry",
+  "name": "pttool",
+  "full_name": "appotry/pttool",
+  "description": "自动化硬链接工具，在最大可能情况下节约空间，并保持做种。 小于1M的文件直接复制，刮削修改nfo等小文件不影响做种。 大于1M的文件硬链接到目的目录，可以随意修改文件名。",
+  "url": "https://github.com/appotry/PTtool",
+  "homepage_url": "",
+  "language": "Shell",
+  "license": "GPL-3.0",
+  "topics": [
+    "emby",
+    "hardlink",
+    "pt",
+    "tmm"
+  ],
+  "star_count": 648,
+  "fork_count": 55,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2021-04-03T13:10:00Z",
+  "updated_at": "2026-04-18T07:50:43Z",
+  "pushed_at": "2026-04-10T06:50:42Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 648
+    }
+  ]
+}

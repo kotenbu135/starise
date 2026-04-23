@@ -1,0 +1,37 @@
+{
+  "repo_id": "R_kgDOQ7Eukg",
+  "owner": "vicnaum",
+  "name": "shinode",
+  "full_name": "vicnaum/shinode",
+  "description": "Lightweight Ethereum history node — syncs headers, receipts \u0026 logs from P2P, serves eth_getLogs RPC. No EVM, no state trie. Full mainnet in ~6h.",
+  "url": "https://github.com/vicnaum/shinode",
+  "homepage_url": "https://shinode.rs/",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "blockchain",
+    "devp2p",
+    "eth-logs",
+    "ethereum",
+    "history-node",
+    "indexer",
+    "p2p",
+    "reth",
+    "rpc",
+    "rust"
+  ],
+  "star_count": 58,
+  "fork_count": 4,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-01-16T12:55:35Z",
+  "updated_at": "2026-04-21T11:19:27Z",
+  "pushed_at": "2026-03-11T14:41:51Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 58
+    }
+  ]
+}

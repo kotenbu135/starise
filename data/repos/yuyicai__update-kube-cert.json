@@ -1,0 +1,36 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkxOTkxODAzODA=",
+  "owner": "yuyicai",
+  "name": "update-kube-cert",
+  "full_name": "yuyicai/update-kube-cert",
+  "description": "K8s 集群证书过期处理，更新 kubeadm 生成的证书有效期为 10 年; 为新集群生成 100 年证书支持全部版本。A tool to update and extend Kubernetes certificate expiration dates to 10 years. Generate 100 years certificates for new Kubernetes cluster",
+  "url": "https://github.com/yuyicai/update-kube-cert",
+  "homepage_url": "",
+  "language": "Shell",
+  "license": "MIT",
+  "topics": [
+    "100year",
+    "100year-certificate",
+    "certificate",
+    "expire",
+    "k8s-cert-expired",
+    "kube-cert-expired",
+    "kubeadm-cert-expired",
+    "kubernetes",
+    "kubernetes-certification"
+  ],
+  "star_count": 668,
+  "fork_count": 334,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2019-07-27T15:13:07Z",
+  "updated_at": "2026-04-22T00:55:40Z",
+  "pushed_at": "2026-04-03T09:22:52Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 668
+    }
+  ]
+}

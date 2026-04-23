@@ -3,7 +3,7 @@
   "owner": "xquik-dev",
   "name": "tweetclaw",
   "full_name": "xquik-dev/tweetclaw",
-  "description": "Post tweets, reply, like, retweet, follow, DM \u0026 more from OpenClaw. Full X/Twitter automation via Xquik - 122 endpoints, reads from $0.00015/call (33x cheaper than official X API). 2 tools, 2 commands, background event poller.",
+  "description": "Post tweets, reply, like, retweet, follow, DM \u0026 more from OpenClaw. Full X/Twitter automation via Xquik - 111 endpoints, reads from $0.00015/call (33x cheaper than official X API). 2 tools, 2 commands, background event poller.",
   "url": "https://github.com/Xquik-dev/tweetclaw",
   "homepage_url": "https://xquik.com",
   "language": "TypeScript",
@@ -35,12 +35,16 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-13T12:18:27Z",
-  "updated_at": "2026-04-21T17:31:10Z",
-  "pushed_at": "2026-04-21T17:31:05Z",
+  "updated_at": "2026-04-23T00:06:28Z",
+  "pushed_at": "2026-04-23T00:06:23Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-21",
+      "stars": 32
+    },
+    {
+      "date": "2026-04-23",
       "stars": 32
     }
   ]

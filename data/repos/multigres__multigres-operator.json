@@ -1,0 +1,35 @@
+{
+  "repo_id": "R_kgDOP2pN7w",
+  "owner": "multigres",
+  "name": "multigres-operator",
+  "full_name": "multigres/multigres-operator",
+  "description": "Kubernetes operator for Multigres — deploys, scales, and manages horizontally scalable PostgreSQL clusters with automated topology orchestration, drain-safe rolling updates, and admission webhooks",
+  "url": "https://github.com/multigres/multigres-operator",
+  "homepage_url": "https://multigres.com/",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "cloud-native",
+    "database",
+    "go",
+    "horizontal-scaling",
+    "kubernetes",
+    "kubernetes-operator",
+    "operator",
+    "postgresql"
+  ],
+  "star_count": 226,
+  "fork_count": 22,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-09-25T10:03:51Z",
+  "updated_at": "2026-04-22T22:22:57Z",
+  "pushed_at": "2026-04-22T22:31:38Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 226
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkzNjA0MDE0MTE=",
+  "owner": "junchil",
+  "name": "eks-cluster",
+  "full_name": "junchil/eks-cluster",
+  "description": "Deploy golang and python apps in EKS cluster (mix EC2 and Fargate), service meshing using Istio, ALB Ingress, Terraform, Helm, golang admission controller, golang kubernetes operator",
+  "url": "https://github.com/junchil/eks-cluster",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "adminssion-controller",
+    "alb",
+    "aws",
+    "canary-deployment",
+    "eks",
+    "external-dns",
+    "helm-charts",
+    "istio",
+    "istio-ingress",
+    "kubernetes",
+    "kubernetes-operator",
+    "operator",
+    "prometheus",
+    "terraform"
+  ],
+  "star_count": 9,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2021-04-22T05:24:30Z",
+  "updated_at": "2026-02-28T21:11:44Z",
+  "pushed_at": "2026-02-28T21:11:39Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 9
+    }
+  ]
+}

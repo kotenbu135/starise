@@ -3,10 +3,10 @@
   "owner": "specterops",
   "name": "mssqlhound",
   "full_name": "specterops/mssqlhound",
-  "description": "PowerShell collector for adding MSSQL attack paths to BloodHound with OpenGraph",
+  "description": "Go (formerly PowerShell) collector for adding MSSQL attack paths to BloodHound with OpenGraph",
   "url": "https://github.com/SpecterOps/MSSQLHound",
   "homepage_url": "",
-  "language": "PowerShell",
+  "language": "Go",
   "license": "Apache-2.0",
   "topics": [],
   "star_count": 297,
@@ -14,12 +14,16 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-24T20:43:59Z",
-  "updated_at": "2026-04-20T18:36:16Z",
-  "pushed_at": "2026-04-20T18:36:11Z",
+  "updated_at": "2026-04-22T21:14:29Z",
+  "pushed_at": "2026-04-22T21:14:06Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-21",
+      "stars": 297
+    },
+    {
+      "date": "2026-04-23",
       "stars": 297
     }
   ]

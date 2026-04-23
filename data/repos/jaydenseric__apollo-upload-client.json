@@ -1,0 +1,35 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnk4Mjk5MDEwMg==",
+  "owner": "jaydenseric",
+  "name": "apollo-upload-client",
+  "full_name": "jaydenseric/apollo-upload-client",
+  "description": "A terminating Apollo Link for Apollo Client that fetches a GraphQL multipart request if the GraphQL variables contain files (by default FileList, File, or Blob instances), or else fetches a regular GraphQL POST or GET request (depending on the config and GraphQL operation).",
+  "url": "https://github.com/jaydenseric/apollo-upload-client",
+  "homepage_url": "https://npm.im/apollo-upload-client",
+  "language": "JavaScript",
+  "license": "",
+  "topics": [
+    "apollo",
+    "apollo-client",
+    "graphql",
+    "maintained",
+    "node",
+    "npm",
+    "react",
+    "react-native"
+  ],
+  "star_count": 1541,
+  "fork_count": 154,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2017-02-24T01:52:30Z",
+  "updated_at": "2026-04-13T09:15:15Z",
+  "pushed_at": "2026-03-02T08:06:42Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 1541
+    }
+  ]
+}

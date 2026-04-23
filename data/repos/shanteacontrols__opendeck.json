@@ -3,7 +3,7 @@
   "owner": "shanteacontrols",
   "name": "opendeck",
   "full_name": "shanteacontrols/opendeck",
-  "description": "Software and hardware platform for simpler building of MIDI controllers.",
+  "description": "Software and hardware platform for simpler building of MIDI controllers based on Zephyr RTOS.",
   "url": "https://github.com/shanteacontrols/OpenDeck",
   "homepage_url": "https://shanteacontrols.com",
   "language": "C++",
@@ -11,20 +11,26 @@
   "topics": [
     "midi",
     "midi-controller",
-    "webmidi"
+    "webmidi",
+    "zephyr",
+    "zephyr-rtos"
   ],
-  "star_count": 862,
+  "star_count": 870,
   "fork_count": 58,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-05-03T16:32:32Z",
-  "updated_at": "2026-04-20T15:44:26Z",
-  "pushed_at": "2026-04-21T19:20:18Z",
+  "updated_at": "2026-04-23T01:52:28Z",
+  "pushed_at": "2026-04-22T19:37:59Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-21",
       "stars": 862
+    },
+    {
+      "date": "2026-04-23",
+      "stars": 870
     }
   ]
 }

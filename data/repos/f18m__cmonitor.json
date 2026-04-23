@@ -1,0 +1,45 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkxNzg3NDEzMDk=",
+  "owner": "f18m",
+  "name": "cmonitor",
+  "full_name": "f18m/cmonitor",
+  "description": "A Docker/LXC/Kubernetes, database-free, lightweight container performance monitoring solution, perfect for ephemeral containers (e.g. containers used for DevOps automatic testing). Can also be used with InfluxDB, Prometheus and Grafana",
+  "url": "https://github.com/f18m/cmonitor",
+  "homepage_url": "https://f18m.github.io/cmonitor",
+  "language": "C++",
+  "license": "GPL-2.0",
+  "topics": [
+    "cgroups",
+    "containers",
+    "continuous-testing",
+    "cpu",
+    "devops",
+    "devops-tools",
+    "disk",
+    "docker",
+    "grafana",
+    "influxdb-client",
+    "kubernetes-monitoring",
+    "lxc-containers",
+    "memory",
+    "monitor",
+    "monitoring",
+    "performance",
+    "prometheus-client",
+    "system"
+  ],
+  "star_count": 60,
+  "fork_count": 9,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2019-03-31T20:56:09Z",
+  "updated_at": "2026-02-26T23:02:04Z",
+  "pushed_at": "2026-04-16T11:41:43Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 60
+    }
+  ]
+}

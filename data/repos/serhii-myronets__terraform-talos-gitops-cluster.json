@@ -1,0 +1,39 @@
+{
+  "repo_id": "R_kgDOOcApnQ",
+  "owner": "serhii-myronets",
+  "name": "terraform-talos-gitops-cluster",
+  "full_name": "serhii-myronets/terraform-talos-gitops-cluster",
+  "description": "Kubernetes cluster with fully automated infrastructure using Terraform and Talos on Proxmox. GitOps with Argo CD, Cilium networking, and full observability powered by OpenTelemetry.",
+  "url": "https://github.com/serhii-myronets/terraform-talos-gitops-cluster",
+  "homepage_url": "",
+  "language": "HCL",
+  "license": "",
+  "topics": [
+    "cilium",
+    "devops",
+    "gitops",
+    "homelab",
+    "infrastructure-as-code",
+    "kubernetes",
+    "kubernetes-cluster",
+    "open-telemetry",
+    "proxmox",
+    "self-hosted",
+    "talos",
+    "terraform"
+  ],
+  "star_count": 52,
+  "fork_count": 15,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-04-18T23:57:16Z",
+  "updated_at": "2026-04-04T18:47:53Z",
+  "pushed_at": "2026-04-22T19:43:04Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 52
+    }
+  ]
+}

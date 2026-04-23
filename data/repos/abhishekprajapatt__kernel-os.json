@@ -1,0 +1,39 @@
+{
+  "repo_id": "R_kgDOQTvZSQ",
+  "owner": "abhishekprajapatt",
+  "name": "kernel-os",
+  "full_name": "abhishekprajapatt/kernel-os",
+  "description": "⚙️ Kernel-OS - Minimal 64-bit x86 bare-metal kernel featuring VGA text output, multiboot GRUB booting, and long-mode setup. Built from scratch with custom x86_64-elf toolchain, C, NASM, and Docker for easy cross-compilation and QEMU emulation.",
+  "url": "https://github.com/abhishekprajapatt/kernel-os",
+  "homepage_url": "https://github.com/abhishekprajapatt/kernel-os",
+  "language": "Assembly",
+  "license": "MIT",
+  "topics": [
+    "assembly",
+    "bare-metal",
+    "bootloader",
+    "c",
+    "cross-compilation",
+    "grub",
+    "kernel",
+    "nasm",
+    "operating-system",
+    "qemu",
+    "vga-text-mode",
+    "x86-64-assembly-nasm"
+  ],
+  "star_count": 49,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-11-11T17:55:34Z",
+  "updated_at": "2026-04-22T11:02:23Z",
+  "pushed_at": "2026-01-25T07:50:56Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 49
+    }
+  ]
+}

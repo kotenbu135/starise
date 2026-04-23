@@ -1,0 +1,34 @@
+{
+  "repo_id": "R_kgDORF6YHg",
+  "owner": "valkdb",
+  "name": "postgresparser",
+  "full_name": "valkdb/postgresparser",
+  "description": "ANTLR-based PostgreSQL query parser for Go. Extracts tables, columns, joins, CTEs, parameters, DDL actions, and full column-usage metadata    from SQL into a structured IR.",
+  "url": "https://github.com/ValkDB/postgresparser",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "antlr",
+    "database",
+    "developer-tools",
+    "go",
+    "postgres",
+    "postgresql",
+    "sql-parser"
+  ],
+  "star_count": 208,
+  "fork_count": 9,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-02-01T05:22:33Z",
+  "updated_at": "2026-04-22T18:13:08Z",
+  "pushed_at": "2026-04-04T12:18:23Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 208
+    }
+  ]
+}

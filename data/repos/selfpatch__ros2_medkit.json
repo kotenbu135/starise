@@ -1,0 +1,41 @@
+{
+  "repo_id": "R_kgDOQXjN7Q",
+  "owner": "selfpatch",
+  "name": "ros2_medkit",
+  "full_name": "selfpatch/ros2_medkit",
+  "description": "ros2_medkit - diagnostics gateway for ROS 2 robots. Faults, live data, operations, scripts, locking, triggers, and OTA updates via REST API. No SSH, no custom tooling.",
+  "url": "https://github.com/selfpatch/ros2_medkit",
+  "homepage_url": "https://selfpatch.github.io/ros2_medkit/",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [
+    "diagnostics",
+    "edge",
+    "fleet",
+    "gateway",
+    "introspection",
+    "observability",
+    "rbac",
+    "remote-debugging",
+    "rest-api",
+    "robotics",
+    "ros2",
+    "ros2-diagnostics",
+    "ros2-medkit",
+    "sovd"
+  ],
+  "star_count": 215,
+  "fork_count": 25,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-11-17T17:27:24Z",
+  "updated_at": "2026-04-19T11:08:44Z",
+  "pushed_at": "2026-04-22T19:54:56Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 215
+    }
+  ]
+}
