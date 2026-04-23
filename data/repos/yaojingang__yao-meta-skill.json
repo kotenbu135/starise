@@ -3,7 +3,7 @@
   "owner": "yaojingang",
   "name": "yao-meta-skill",
   "full_name": "yaojingang/yao-meta-skill",
-  "description": "YAO = Yielding AI Outcomes. A lightweight but rigorous system for creating, evaluating, packaging, and governing reusable agent skills.",
+  "description": "YAO = Yielding AI Outcomes. A rigorous engineering, evaluation, governance, and portability system for reusable agent skills.",
   "url": "https://github.com/yaojingang/yao-meta-skill",
   "homepage_url": "https://github.com/yaojingang/yao-meta-skill#readme",
   "language": "Python",
@@ -11,18 +11,20 @@
   "topics": [
     "agent-skills",
     "ai-agents",
+    "evaluation",
+    "governance",
     "meta-skill",
-    "prompt-engineering",
+    "portability",
     "skill-engineering",
     "workflow-automation"
   ],
-  "star_count": 299,
+  "star_count": 302,
   "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T11:59:35Z",
-  "updated_at": "2026-04-22T10:56:28Z",
-  "pushed_at": "2026-04-19T03:47:26Z",
+  "updated_at": "2026-04-23T18:44:39Z",
+  "pushed_at": "2026-04-23T09:03:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -31,7 +33,7 @@
     },
     {
       "date": "2026-04-23",
-      "stars": 299
+      "stars": 302
     }
   ]
 }

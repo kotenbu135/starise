@@ -3,7 +3,7 @@
   "owner": "skardilabs",
   "name": "skardi",
   "full_name": "skardilabs/skardi",
-  "description": "Run SQL across Relational DBs, Data Lakes, S3, MongoDB, Redis, and vector stores. Turn any query into a REST API. Built on Rust + Apache DataFusion.",
+  "description": "Spark for Agents — a data platform that gives AI agents full data autonomy so every dataset in your stack becomes something an agent can actually use.",
   "url": "https://github.com/SkardiLabs/skardi",
   "homepage_url": "",
   "language": "Rust",
@@ -20,17 +20,18 @@
     "rag",
     "redis",
     "rust",
+    "spark",
     "sql",
     "sqlite",
     "vector-search"
   ],
-  "star_count": 40,
+  "star_count": 42,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T14:29:26Z",
-  "updated_at": "2026-04-22T13:48:26Z",
-  "pushed_at": "2026-04-22T13:48:44Z",
+  "updated_at": "2026-04-23T15:54:04Z",
+  "pushed_at": "2026-04-23T15:27:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,7 +40,7 @@
     },
     {
       "date": "2026-04-23",
-      "stars": 40
+      "stars": 42
     }
   ]
 }

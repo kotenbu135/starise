@@ -1,0 +1,35 @@
+{
+  "repo_id": "R_kgDOOctNvA",
+  "owner": "dtkmn",
+  "name": "mcp-zap-server",
+  "full_name": "dtkmn/mcp-zap-server",
+  "description": "A Spring Boot application exposing OWASP ZAP as an MCP (Model Context Protocol) server. It lets any MCP‑compatible AI agent (e.g., Claude Desktop, Cursor) orchestrate ZAP actions—spider, active scan, import OpenAPI specs, and generate reports.",
+  "url": "https://github.com/dtkmn/mcp-zap-server",
+  "homepage_url": "https://dtkmn.github.io/mcp-zap-server/",
+  "language": "Java",
+  "license": "MIT",
+  "topics": [
+    "java",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "owasp",
+    "spring-ai",
+    "spring-boot",
+    "zap"
+  ],
+  "star_count": 49,
+  "fork_count": 7,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-04-20T15:20:48Z",
+  "updated_at": "2026-04-23T11:27:43Z",
+  "pushed_at": "2026-04-23T11:28:46Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 49
+    }
+  ]
+}

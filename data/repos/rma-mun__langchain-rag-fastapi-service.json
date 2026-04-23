@@ -3,7 +3,7 @@
   "owner": "rma-mun",
   "name": "langchain-rag-fastapi-service",
   "full_name": "rma-mun/langchain-rag-fastapi-service",
-  "description": "基于微服务架构的智能对话服务，采用 Django（用户管理）+ FastAPI（RAG/Agent 核心），独立数据库部署；结合 LangChain 实现检索增强生成（RAG）与智能体（Agent）能力，支持持久化对话记忆与 JWT 安全认证",
+  "description": "基于 LangChain (Agent/RAG)+FastAPI (高性能接口)+Django(用户服务)的RAG对话服务，为 LLM 应用提供开箱即用的检索增强能力，适配智能问答、企业知识库等场景。",
   "url": "https://github.com/RMA-MUN/LangChain-RAG-FastAPI-Service",
   "homepage_url": "",
   "language": "Python",
@@ -19,18 +19,18 @@
     "transformers",
     "vue"
   ],
-  "star_count": 59,
-  "fork_count": 8,
+  "star_count": 65,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T08:43:18Z",
-  "updated_at": "2026-04-23T00:42:27Z",
-  "pushed_at": "2026-04-16T07:43:07Z",
+  "updated_at": "2026-04-23T16:25:59Z",
+  "pushed_at": "2026-04-23T13:03:21Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-23",
-      "stars": 59
+      "stars": 65
     }
   ]
 }

@@ -3,19 +3,19 @@
   "owner": "mgdaaslab",
   "name": "wharttest",
   "full_name": "mgdaaslab/wharttest",
-  "description": "WHartTest 是基于 Django REST Framework 与现代大模型技术打造的 AI 驱动测试自动化平台。平台聚合自然语言理解、知识库检索与嵌入搜索能力，结合 LangChain 与 MCP（Model Context Protocol） 工具调用，实现从需求到可执行测试用例的自动化生成与管理，帮助测试团队提升效率与覆盖率。",
+  "description": "WHartTest 是一款AI驱动的测试自动化平台，实现从需求到可执行测试用例的自动化生成与管理，帮助测试团队提升效率与覆盖率。 (WHartTest is an AI-driven test automation platform that automates the generation and management of executable test cases from requirements, helping testing teams improve efficiency and coverage.)",
   "url": "https://github.com/MGdaasLab/WHartTest",
-  "homepage_url": "https://mgdaaslab.github.io/WHartTest/",
+  "homepage_url": "https://docs.wharttest.mgdaas.cn:4430/",
   "language": "Python",
   "license": "MIT",
   "topics": [],
-  "star_count": 825,
-  "fork_count": 109,
+  "star_count": 826,
+  "fork_count": 111,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-15T03:44:07Z",
-  "updated_at": "2026-04-22T07:10:01Z",
-  "pushed_at": "2026-04-08T15:57:40Z",
+  "updated_at": "2026-04-23T10:44:01Z",
+  "pushed_at": "2026-04-23T08:30:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "date": "2026-04-23",
-      "stars": 825
+      "stars": 826
     }
   ]
 }

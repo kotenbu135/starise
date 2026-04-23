@@ -3,7 +3,7 @@
   "owner": "deretame",
   "name": "breeze",
   "full_name": "deretame/breeze",
-  "description": "Breeze 是哔咔(PicACG/bika)与禁漫（禁漫天堂，jm）的第三方安卓客户端，采用 Flutter 开发。",
+  "description": "Breeze 是一个漫画阅读器，通过插件提供漫画支持，现支持哔咔，禁漫，ehentai。采用 Flutter 开发。",
   "url": "https://github.com/deretame/Breeze",
   "homepage_url": "",
   "language": "Dart",
@@ -11,6 +11,7 @@
   "topics": [
     "android",
     "bika",
+    "ehentai-client",
     "ios",
     "jm",
     "jmcomic",
@@ -19,13 +20,13 @@
     "picacg",
     "windows"
   ],
-  "star_count": 944,
+  "star_count": 947,
   "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-03T14:20:24Z",
-  "updated_at": "2026-04-23T01:51:53Z",
-  "pushed_at": "2026-04-22T05:30:56Z",
+  "updated_at": "2026-04-23T14:49:59Z",
+  "pushed_at": "2026-04-23T14:49:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,7 +35,7 @@
     },
     {
       "date": "2026-04-23",
-      "stars": 944
+      "stars": 947
     }
   ]
 }
