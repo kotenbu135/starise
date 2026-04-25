@@ -3,9 +3,9 @@
   "owner": "lyonzin",
   "name": "knowledge-rag",
   "full_name": "lyonzin/knowledge-rag",
-  "description": "Local RAG System for Claude Code — Hybrid search + Cross-encoder Reranking + Markdown-aware Chunking + 12 MCP Tools. No external servers, pure ONNX in-process.",
+  "description": "Drop docs, search instantly from Claude Code — 12 MCP tools, 20 format parsers, hybrid search + reranking. Zero servers, zero API keys, 100% local.",
   "url": "https://github.com/lyonzin/knowledge-rag",
-  "homepage_url": "",
+  "homepage_url": "https://pypi.org/project/knowledge-rag/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -13,10 +13,15 @@
     "chromadb",
     "claude",
     "claude-code",
+    "document-search",
+    "embeddings",
     "fastembed",
+    "hybrid-search",
     "knowledge-base",
     "local-ai",
     "mcp",
+    "mcp-server",
+    "onnx",
     "privacy",
     "python",
     "rag",
@@ -25,13 +30,13 @@
     "semantic-search",
     "vector-database"
   ],
-  "star_count": 61,
+  "star_count": 63,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T14:23:33Z",
-  "updated_at": "2026-04-22T12:53:02Z",
-  "pushed_at": "2026-04-20T17:17:26Z",
+  "updated_at": "2026-04-25T16:34:49Z",
+  "pushed_at": "2026-04-24T15:57:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +46,10 @@
     {
       "date": "2026-04-23",
       "stars": 61
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 63
     }
   ]
 }

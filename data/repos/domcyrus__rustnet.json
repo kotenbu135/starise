@@ -8,13 +8,30 @@
   "homepage_url": "",
   "language": "Rust",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 2022,
-  "fork_count": 65,
+  "topics": [
+    "ebpf",
+    "freebsd",
+    "geoip",
+    "landlock",
+    "linux",
+    "network",
+    "network-monitoring",
+    "network-scanner",
+    "packet-capture",
+    "pcap-analyzer",
+    "rust",
+    "sandbox",
+    "seatbelt",
+    "security",
+    "tui",
+    "windows"
+  ],
+  "star_count": 2028,
+  "fork_count": 64,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-27T14:29:47Z",
-  "updated_at": "2026-04-23T11:52:07Z",
+  "updated_at": "2026-04-24T19:36:33Z",
   "pushed_at": "2026-04-23T06:08:34Z",
   "deleted_at": "",
   "star_history": [
@@ -25,6 +42,10 @@
     {
       "date": "2026-04-23",
       "stars": 2022
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 2028
     }
   ]
 }

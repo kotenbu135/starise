@@ -3,7 +3,7 @@
   "owner": "ioannisa",
   "name": "ksafe",
   "full_name": "ioannisa/ksafe",
-  "description": "Meet KSafe. An Effortless Enterprise-Grade Encrypted key-value storage for Kotlin Multiplatform and Native Android with Hardware-Backed Security.",
+  "description": "Meet KSafe. Secure-by-default key/value persistence for Kotlin Multiplatform and Android. Encrypted by default, with optional unencrypted storage, property delegates, Flow/StateFlow, and hardware-backed encryption.",
   "url": "https://github.com/ioannisa/KSafe",
   "homepage_url": "",
   "language": "Kotlin",
@@ -29,7 +29,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-23T11:12:08Z",
-  "updated_at": "2026-04-22T21:14:35Z",
+  "updated_at": "2026-04-24T13:45:04Z",
   "pushed_at": "2026-04-17T01:20:47Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +39,10 @@
     },
     {
       "date": "2026-04-23",
+      "stars": 270
+    },
+    {
+      "date": "2026-04-25",
       "stars": 270
     }
   ]

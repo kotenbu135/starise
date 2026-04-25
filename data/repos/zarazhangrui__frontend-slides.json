@@ -8,13 +8,24 @@
   "homepage_url": "",
   "language": "Shell",
   "license": "MIT",
-  "topics": [],
-  "star_count": 15382,
-  "fork_count": 1228,
+  "topics": [
+    "ai-slides",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-skill",
+    "generative-ui",
+    "html",
+    "presentation",
+    "slides",
+    "vibe-coding"
+  ],
+  "star_count": 15615,
+  "fork_count": 1253,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-28T00:42:34Z",
-  "updated_at": "2026-04-23T19:23:22Z",
+  "updated_at": "2026-04-25T17:46:37Z",
   "pushed_at": "2026-04-08T18:23:28Z",
   "deleted_at": "",
   "star_history": [
@@ -25,6 +36,10 @@
     {
       "date": "2026-04-23",
       "stars": 15382
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 15615
     }
   ]
 }

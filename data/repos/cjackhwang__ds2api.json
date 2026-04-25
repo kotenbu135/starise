@@ -3,7 +3,7 @@
   "owner": "cjackhwang",
   "name": "ds2api",
   "full_name": "cjackhwang/ds2api",
-  "description": "Deepseek to API - 客户端转API全栈开源工具，高性能，多账号轮询，支持纯vercel、docker部署使用。Google、Claude、ChatGPT多接口格式兼容",
+  "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
   "url": "https://github.com/CJackHwang/ds2api",
   "homepage_url": "https://linux.do/u/cjackhwang",
   "language": "Go",
@@ -24,18 +24,22 @@
     "vercel-deployment",
     "zeabur"
   ],
-  "star_count": 1188,
-  "fork_count": 394,
+  "star_count": 1352,
+  "fork_count": 442,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-21T15:14:40Z",
-  "updated_at": "2026-04-23T17:16:18Z",
-  "pushed_at": "2026-04-23T12:40:16Z",
+  "updated_at": "2026-04-25T16:56:06Z",
+  "pushed_at": "2026-04-25T12:31:42Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-23",
       "stars": 1188
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 1352
     }
   ]
 }

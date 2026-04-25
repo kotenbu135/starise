@@ -3,30 +3,30 @@
   "owner": "ataraxy-labs",
   "name": "weave",
   "full_name": "ataraxy-labs/weave",
-  "description": "Entity-level semantic merge driver for Git. Resolves conflicts that git can't by understanding code structure via tree-sitter. 31/31 clean merges vs git's 15/31.",
+  "description": "Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.",
   "url": "https://github.com/Ataraxy-Labs/weave",
-  "homepage_url": "https://ataraxy-labs.github.io/weave/",
+  "homepage_url": "https://ataraxy-labs.com/weave",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
     "ai-agents",
+    "code-intelligence",
+    "coding-agents",
     "conflict-resolution",
     "developer-tools",
-    "git",
+    "git-merge",
+    "llm-tools",
     "mcp",
-    "merge",
     "merge-driver",
-    "rust",
-    "semantic-merge",
     "tree-sitter"
   ],
-  "star_count": 939,
-  "fork_count": 24,
+  "star_count": 952,
+  "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T18:15:59Z",
-  "updated_at": "2026-04-23T18:03:02Z",
-  "pushed_at": "2026-04-23T06:44:15Z",
+  "updated_at": "2026-04-25T16:17:50Z",
+  "pushed_at": "2026-04-25T16:18:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +36,10 @@
     {
       "date": "2026-04-23",
       "stars": 939
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 952
     }
   ]
 }

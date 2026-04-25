@@ -3,7 +3,7 @@
   "owner": "martin-georgiev",
   "name": "postgresql-for-doctrine",
   "full_name": "martin-georgiev/postgresql-for-doctrine",
-  "description": "Extends Doctrine with native PostgreSQL support for arrays, JSONB, ranges, PostGIS geometries, test search, and 100+ PostgreSQL-specific functions.",
+  "description": "Extends Doctrine with native PostgreSQL support for arrays, JSONB, ranges, PostGIS geometries, text search, and 100+ PostgreSQL-specific functions.",
   "url": "https://github.com/martin-georgiev/postgresql-for-doctrine",
   "homepage_url": "https://packagist.org/packages/martin-georgiev/postgresql-for-doctrine",
   "language": "PHP",
@@ -32,7 +32,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-09-30T10:14:40Z",
-  "updated_at": "2026-04-23T15:09:28Z",
+  "updated_at": "2026-04-24T15:14:22Z",
   "pushed_at": "2026-04-20T13:47:11Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +42,10 @@
     },
     {
       "date": "2026-04-23",
+      "stars": 454
+    },
+    {
+      "date": "2026-04-25",
       "stars": 454
     }
   ]

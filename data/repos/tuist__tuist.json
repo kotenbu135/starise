@@ -3,12 +3,13 @@
   "owner": "tuist",
   "name": "tuist",
   "full_name": "tuist/tuist",
-  "description": "Your mobile platform team, as a service",
+  "description": "Your platform team, as a service",
   "url": "https://github.com/tuist/tuist",
   "homepage_url": "https://tuist.dev",
   "language": "Swift",
   "license": "NOASSERTION",
   "topics": [
+    "gradle",
     "ios",
     "objective-c",
     "productivity",
@@ -16,13 +17,13 @@
     "swift",
     "xcode"
   ],
-  "star_count": 5626,
-  "fork_count": 735,
+  "star_count": 5627,
+  "fork_count": 736,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-04-16T07:02:54Z",
-  "updated_at": "2026-04-23T19:11:01Z",
-  "pushed_at": "2026-04-23T19:38:26Z",
+  "updated_at": "2026-04-25T16:39:15Z",
+  "pushed_at": "2026-04-25T14:32:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-23",
       "stars": 5626
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 5627
     }
   ]
 }

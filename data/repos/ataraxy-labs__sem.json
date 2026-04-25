@@ -3,29 +3,30 @@
   "owner": "ataraxy-labs",
   "name": "sem",
   "full_name": "ataraxy-labs/sem",
-  "description": "Semantic version control CLI. Entity-level diff, blame, graph, and impact analysis for code. 26 languages via tree-sitter.",
+  "description": "Semantic version control — entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.",
   "url": "https://github.com/Ataraxy-Labs/sem",
-  "homepage_url": "https://ataraxy-labs.github.io/sem/",
+  "homepage_url": "https://ataraxy-labs.com/sem",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
     "ai-agents",
-    "cli",
-    "code-review",
+    "code-intelligence",
+    "coding-agents",
     "developer-tools",
-    "diff",
     "git",
-    "rust",
+    "llm-tools",
     "semantic-diff",
-    "tree-sitter"
+    "tree-sitter",
+    "typescript",
+    "version-control"
   ],
-  "star_count": 1843,
-  "fork_count": 49,
+  "star_count": 1884,
+  "fork_count": 51,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T19:49:35Z",
-  "updated_at": "2026-04-23T18:44:25Z",
-  "pushed_at": "2026-04-20T19:54:08Z",
+  "updated_at": "2026-04-25T16:35:40Z",
+  "pushed_at": "2026-04-25T16:35:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-23",
       "stars": 1843
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 1884
     }
   ]
 }

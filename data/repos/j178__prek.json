@@ -3,7 +3,7 @@
   "owner": "j178",
   "name": "prek",
   "full_name": "j178/prek",
-  "description": "⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.",
+  "description": "⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.",
   "url": "https://github.com/j178/prek",
   "homepage_url": "https://prek.j178.dev/",
   "language": "Rust",
@@ -13,13 +13,13 @@
     "git-hooks",
     "pre-commit"
   ],
-  "star_count": 7379,
+  "star_count": 7420,
   "fork_count": 205,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-07T08:21:29Z",
-  "updated_at": "2026-04-23T17:21:27Z",
-  "pushed_at": "2026-04-23T13:37:22Z",
+  "updated_at": "2026-04-25T16:10:08Z",
+  "pushed_at": "2026-04-25T11:18:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -29,6 +29,10 @@
     {
       "date": "2026-04-23",
       "stars": 7379
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 7420
     }
   ]
 }

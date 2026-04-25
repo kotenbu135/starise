@@ -3,7 +3,7 @@
   "owner": "jamailar",
   "name": "redbox",
   "full_name": "jamailar/redbox",
-  "description": "用AI创作高质量内容，小红书版Openclaw，自媒体创作者的AI工作台，小红书创作AI工具RedClaw，支持小红书图文下载、创作风格学习、智囊团AI群聊、小红书AI创作，AI图文制作，AI文章排版｜🌟 Star if you like it! ｜ 你桌面盒子里的AI小河狸🦫",
+  "description": "用AI创作高质量内容，用gpt-image-2创作的最佳生图工具，AI图片自动编排，小红书版Openclaw，自媒体创作者的AI工作台，小红书创作AI工具RedClaw，支持小红书图文下载、创作风格学习、小红书AI创作｜🌟 Star if you like it! ｜ 你桌面盒子里的AI小河狸🦫",
   "url": "https://github.com/Jamailar/RedBox",
   "homepage_url": "https://github.com/Jamailar/RedBox",
   "language": "TypeScript",
@@ -11,7 +11,9 @@
   "topics": [
     "ai",
     "ai-agents",
+    "claude-design",
     "content-creation",
+    "gpt-image-2",
     "harness-engineering",
     "hermes",
     "hermes-agent",
@@ -19,13 +21,13 @@
     "skills",
     "xiaohongshu-scraper"
   ],
-  "star_count": 799,
-  "fork_count": 109,
+  "star_count": 813,
+  "fork_count": 116,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-04T04:59:21Z",
-  "updated_at": "2026-04-23T19:05:12Z",
-  "pushed_at": "2026-04-23T16:34:45Z",
+  "updated_at": "2026-04-25T15:13:16Z",
+  "pushed_at": "2026-04-25T12:45:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +37,10 @@
     {
       "date": "2026-04-23",
       "stars": 799
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 813
     }
   ]
 }

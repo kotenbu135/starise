@@ -3,7 +3,7 @@
   "owner": "xquik-dev",
   "name": "x-twitter-scraper",
   "full_name": "xquik-dev/x-twitter-scraper",
-  "description": "X (Twitter) data platform skill for AI coding agents. 111 REST API endpoints, 2 MCP tools, 23 extraction types, HMAC webhooks. Reads from $0.00015/call - 33x cheaper than the official X API. Works with Claude Code, Cursor, Codex, Copilot, Windsurf \u0026 40+ agents.",
+  "description": "X (formerly Twitter) data platform skill for AI coding agents. 111 REST API endpoints, 2 MCP tools, 23 extraction types, HMAC webhooks. Reads from $0.00015/call - 33x cheaper than the official X API. Works with Claude Code, Cursor, Codex, Copilot, Windsurf \u0026 40+ agents.",
   "url": "https://github.com/Xquik-dev/x-twitter-scraper",
   "homepage_url": "https://xquik.com",
   "language": "JavaScript",
@@ -30,13 +30,13 @@
     "webhooks",
     "x-api"
   ],
-  "star_count": 53,
+  "star_count": 57,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-27T03:10:09Z",
-  "updated_at": "2026-04-23T18:55:26Z",
-  "pushed_at": "2026-04-23T18:55:22Z",
+  "updated_at": "2026-04-25T14:05:02Z",
+  "pushed_at": "2026-04-25T09:07:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-04-23",
       "stars": 53
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 57
     }
   ]
 }

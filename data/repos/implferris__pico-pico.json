@@ -3,7 +3,7 @@
   "owner": "implferris",
   "name": "pico-pico",
   "full_name": "implferris/pico-pico",
-  "description": "Pico Pico - Embedded Programming with Raspberry Pi Pico 2 and Rust",
+  "description": "Pico Pico - Embedded Rust Programming with Raspberry Pi Pico 2",
   "url": "https://github.com/ImplFerris/pico-pico",
   "homepage_url": "https://pico.implrust.com/",
   "language": "CSS",
@@ -19,6 +19,7 @@
     "raspberry-pi",
     "raspberrypi",
     "risc-v",
+    "rp2350",
     "rust",
     "rust-lang",
     "smarthome"
@@ -28,12 +29,16 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-19T18:50:04Z",
-  "updated_at": "2026-04-22T17:23:32Z",
-  "pushed_at": "2026-02-21T11:28:54Z",
+  "updated_at": "2026-04-25T01:55:48Z",
+  "pushed_at": "2026-04-25T01:55:39Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-23",
+      "stars": 141
+    },
+    {
+      "date": "2026-04-25",
       "stars": 141
     }
   ]

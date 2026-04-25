@@ -3,34 +3,38 @@
   "owner": "shakacode",
   "name": "react-on-rails-demo-ssr-hmr",
   "full_name": "shakacode/react-on-rails-demo-ssr-hmr",
-  "description": "react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup",
+  "description": "Reference tutorial app for React on Rails with SSR, Fast Refresh HMR, and Shakapacker/Webpack.",
   "url": "https://github.com/shakacode/react-on-rails-demo-ssr-hmr",
   "homepage_url": "",
   "language": "Ruby",
   "license": "MIT",
   "topics": [
+    "demo",
+    "fast-refresh",
+    "hot-module-replacement",
     "rails",
     "react",
     "react-on-rails",
-    "reactjs",
-    "ruby",
     "ruby-on-rails",
-    "tutorial",
-    "webpack",
-    "webpacker",
-    "webpacker-gem"
+    "server-side-rendering",
+    "shakapacker",
+    "tutorial"
   ],
   "star_count": 93,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-08-03T01:16:56Z",
-  "updated_at": "2026-04-20T03:10:59Z",
+  "updated_at": "2026-04-24T02:55:48Z",
   "pushed_at": "2026-04-15T15:05:20Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-23",
+      "stars": 93
+    },
+    {
+      "date": "2026-04-25",
       "stars": 93
     }
   ]

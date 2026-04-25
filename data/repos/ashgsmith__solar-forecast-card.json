@@ -3,19 +3,29 @@
   "owner": "ashgsmith",
   "name": "solar-forecast-card",
   "full_name": "ashgsmith/solar-forecast-card",
-  "description": "Home Assistant Solar Forecast Card",
+  "description": "Lovelace custom card to display solar energy forecast - Supports Solcast, Volcast, Open Meteo, Solar.Forecast and Custom Forecast Entities. ",
   "url": "https://github.com/AshGSmith/solar-forecast-card",
   "homepage_url": "",
   "language": "TypeScript",
-  "license": "",
-  "topics": [],
-  "star_count": 65,
+  "license": "MIT",
+  "topics": [
+    "hacs",
+    "home-assistant",
+    "lovelace",
+    "lovelace-card",
+    "lovelace-custom-card",
+    "solar",
+    "solar-forecast",
+    "solcast",
+    "volcast"
+  ],
+  "star_count": 74,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-15T11:26:04Z",
-  "updated_at": "2026-04-23T15:26:12Z",
-  "pushed_at": "2026-04-23T09:06:49Z",
+  "updated_at": "2026-04-25T06:56:26Z",
+  "pushed_at": "2026-04-24T15:56:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -25,6 +35,10 @@
     {
       "date": "2026-04-23",
       "stars": 65
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 74
     }
   ]
 }
