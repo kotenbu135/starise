@@ -9,6 +9,7 @@ import (
 	"sort"
 
 	"github.com/kotenbu135/starise/batch/internal/db"
+	"github.com/kotenbu135/starise/batch/internal/translate"
 )
 
 // Options control the export run.
@@ -18,6 +19,12 @@ type Options struct {
 	GeneratedAt  string // RFC3339, written verbatim into meta.json
 	ComputedDate string // YYYY-MM-DD; selects which rankings rows to include
 	TopN         int    // safety cap; rankings table is already capped
+	// TranslationCacheDir, when non-empty, points at the on-disk
+	// translate.Cache root (e.g. data/translations). Each repo's
+	// description is hashed and looked up; hits populate DescriptionJA,
+	// misses leave it empty and the frontend renders the original
+	// English description as fallback.
+	TranslationCacheDir string
 }
 
 // Export writes data/repos/*.json + data/rankings.json + data/meta.json.
@@ -51,6 +58,11 @@ func Export(d *sql.DB, opts Options) (int, error) {
 		return all[i].Name < all[j].Name
 	})
 
+	var trCache *translate.Cache
+	if opts.TranslationCacheDir != "" {
+		trCache = &translate.Cache{Dir: opts.TranslationCacheDir}
+	}
+
 	written := 0
 	for _, r := range all {
 		hist, err := db.ListStarHistory(d, r.ID)
@@ -65,26 +77,33 @@ func Export(d *sql.DB, opts Options) (int, error) {
 				latest = h.StarCount
 			}
 		}
+		descJA := ""
+		if trCache != nil && r.Description != "" {
+			if entry, ok, err := trCache.Get(r.Description); err == nil && ok {
+				descJA = entry.JA
+			}
+		}
 		detail := RepoDetail{
-			RepoID:      r.GitHubID,
-			Owner:       r.Owner,
-			Name:        r.Name,
-			FullName:    r.Owner + "/" + r.Name,
-			Description: r.Description,
-			URL:         r.URL,
-			HomepageURL: r.HomepageURL,
-			Language:    r.Language,
-			License:     r.License,
-			Topics:      sortedStrings(r.Topics),
-			StarCount:   latest,
-			ForkCount:   r.ForkCount,
-			IsArchived:  r.IsArchived,
-			IsFork:      r.IsFork,
-			CreatedAt:   r.CreatedAt,
-			UpdatedAt:   r.UpdatedAt,
-			PushedAt:    r.PushedAt,
-			DeletedAt:   r.DeletedAt,
-			StarHistory: points,
+			RepoID:        r.GitHubID,
+			Owner:         r.Owner,
+			Name:          r.Name,
+			FullName:      r.Owner + "/" + r.Name,
+			Description:   r.Description,
+			DescriptionJA: descJA,
+			URL:           r.URL,
+			HomepageURL:   r.HomepageURL,
+			Language:      r.Language,
+			License:       r.License,
+			Topics:        sortedStrings(r.Topics),
+			StarCount:     latest,
+			ForkCount:     r.ForkCount,
+			IsArchived:    r.IsArchived,
+			IsFork:        r.IsFork,
+			CreatedAt:     r.CreatedAt,
+			UpdatedAt:     r.UpdatedAt,
+			PushedAt:      r.PushedAt,
+			DeletedAt:     r.DeletedAt,
+			StarHistory:   points,
 		}
 		if err := writeJSON(filepath.Join(repoDir, r.Owner+"__"+r.Name+".json"), detail); err != nil {
 			return written, err

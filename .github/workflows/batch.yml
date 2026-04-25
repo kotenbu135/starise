@@ -32,10 +32,18 @@ jobs:
       # the bootstrap day when data/ has no history yet (issue #2 v3 rewrite
       # wiped data/). I12 still catches in-process compute regressions in the
       # test suite; here we never want to block daily JSON publish.
+      # GEMINI_API_KEY is optional. When unset, the pipeline logs
+      # "translate disabled: GEMINI_API_KEY not set" and skips the
+      # translate step entirely; existing cached translations under
+      # data/translations/ are still injected into description_ja by
+      # export, and missing entries fall back to the English original
+      # in the frontend. To enable daily incremental translation, add
+      # GEMINI_API_KEY as a repository secret.
       - name: Run batch
         working-directory: batch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           rm -f starise.db starise.db-shm starise.db-wal
           go run . run \
@@ -44,7 +52,11 @@ jobs:
             --restore-from ../data \
             --preset \
             --discover-concurrency 1 \
-            --allow-empty-rankings
+            --allow-empty-rankings \
+            --translate-provider gemini \
+            --translate-cache-dir ../data/translations \
+            --translate-limit 1000 \
+            --translate-batch-size 50
 
       - name: Commit data changes
         run: |

@@ -1,0 +1,6 @@
+{
+  "src": "Run your xunit-based tests on an STA thread with the WPF Dispatcher, a WinForms SynchronizationContext, or even a cross-platform generic UI thread emulation with a SynchronizationContext that keeps code running on a \"main thread\" for that test.",
+  "ja": "xunitベースのテストを、STAスレッド上でWPF Dispatcher、WinForms SynchronizationContext、またはクロスプラットフォーム汎用UIスレッドエミュレーション（テスト中コードを「メインスレッド」上で実行し続けるSynchronizationContext）で実行可能にする。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-25T20:04:24Z"
+}

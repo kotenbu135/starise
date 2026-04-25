@@ -38,9 +38,13 @@ interface Props {
 
 const { repo } = Astro.props;
 const title = `${repo.owner}/${repo.name} — starise`;
+// description_ja は LLM 翻訳結果。空ならまだ未翻訳なので英語原文にフォールバック。
+const displayDescription = (repo.description_ja && repo.description_ja.trim() !== '')
+  ? repo.description_ja
+  : repo.description;
 ---
 
-<Layout title={title} description={repo.description}>
+<Layout title={title} description={displayDescription}>
   <div class="space-y-8">
     <a href={`${import.meta.env.BASE_URL}/`} class="inline-flex items-center gap-1 text-sm text-text-secondary hover:text-brand transition-colors duration-150">
       <ArrowLeft className="w-4 h-4" />
@@ -60,9 +64,9 @@ const title = `${repo.owner}/${repo.name} — starise`;
         )}
       </div>
 
-      {repo.description && (
+      {displayDescription && (
         <p class="text-text-secondary leading-[1.7] max-w-[42em]">
-          {repo.description}
+          {displayDescription}
         </p>
       )}
 

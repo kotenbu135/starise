@@ -35,6 +35,7 @@ func init() {
 	rootCmd.AddCommand(exportCmd)
 	rootCmd.AddCommand(restoreCmd)
 	rootCmd.AddCommand(runCmd)
+	rootCmd.AddCommand(translateCmd)
 }
 
 // openDB is shared by every subcommand.

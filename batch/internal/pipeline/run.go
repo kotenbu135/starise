@@ -9,6 +9,7 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/kotenbu135/starise/batch/internal/db"
 	"github.com/kotenbu135/starise/batch/internal/discover"
 	"github.com/kotenbu135/starise/batch/internal/export"
 	"github.com/kotenbu135/starise/batch/internal/fetch"
@@ -16,6 +17,7 @@ import (
 	"github.com/kotenbu135/starise/batch/internal/ranking"
 	"github.com/kotenbu135/starise/batch/internal/refresh"
 	"github.com/kotenbu135/starise/batch/internal/restore"
+	"github.com/kotenbu135/starise/batch/internal/translate"
 )
 
 type Options struct {
@@ -46,6 +48,20 @@ type Options struct {
 	// simulation harness where early days legitimately produce empty slots
 	// (no history yet to rank against). Production runs must leave it false.
 	AllowEmptyRankings bool
+
+	// Translator is the optional translation provider for description_ja.
+	// When nil, the translate step is skipped — Export still reads from
+	// any pre-existing TranslationCacheDir, so prior runs' translations
+	// remain usable.
+	Translator translate.Translator
+	// TranslateLimit caps new translations performed in this run; protects
+	// the daily Gemini free-tier quota.
+	TranslateLimit int
+	// TranslateBatchSize is strings per provider call. 0 → 32.
+	TranslateBatchSize int
+	// TranslationCacheDir is the on-disk cache root (e.g. data/translations).
+	// Required for translation to do anything; also passed to export.
+	TranslationCacheDir string
 }
 
 type RunReport struct {
@@ -54,6 +70,7 @@ type RunReport struct {
 	Discovered     discover.Result
 	DiscoveredMany discover.ManyResult
 	Refreshed      refresh.Result
+	Translated     translate.RunStats
 	ExportRepos    int
 	Cleanup        export.CleanupResult
 }
@@ -143,10 +160,38 @@ func RunAll(ctx context.Context, d *sql.DB, opts Options) (RunReport, error) {
 		}
 	}
 
+	// Translate descriptions before export so newly-translated entries are
+	// picked up in this run's RepoDetail JSON. Failures are recorded in
+	// stats and tolerated — Export will fall back to empty description_ja
+	// (the frontend then renders the English original).
+	if opts.Translator != nil && opts.TranslationCacheDir != "" {
+		repos, err := db.ListAllRepositories(d)
+		if err != nil {
+			return report, fmt.Errorf("translate: list repos: %w", err)
+		}
+		descs := make([]string, 0, len(repos))
+		for _, r := range repos {
+			if r.Description != "" {
+				descs = append(descs, r.Description)
+			}
+		}
+		runner := &translate.Runner{
+			Cache:      &translate.Cache{Dir: opts.TranslationCacheDir},
+			Translator: opts.Translator,
+			BatchSize:  opts.TranslateBatchSize,
+		}
+		stats, err := runner.Run(ctx, descs, opts.TranslateLimit)
+		if err != nil {
+			return report, fmt.Errorf("translate: %w", err)
+		}
+		report.Translated = stats
+	}
+
 	if opts.OutDir != "" {
 		written, err := export.Export(d, export.Options{
 			OutDir: opts.OutDir, UpdatedAt: opts.UpdatedAt,
 			GeneratedAt: opts.GeneratedAt, ComputedDate: opts.Today, TopN: opts.TopN,
+			TranslationCacheDir: opts.TranslationCacheDir,
 		})
 		if err != nil {
 			return report, fmt.Errorf("export: %w", err)

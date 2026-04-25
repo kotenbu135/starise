@@ -35,6 +35,7 @@ export interface RepoDetail {
   owner: string;
   name: string;
   description: string;
+  description_ja?: string;
   url: string;
   homepage_url: string;
   language: string;

@@ -16,26 +16,32 @@ type HistoryPoint struct {
 }
 
 // RepoDetail is the per-repo JSON document under data/repos/.
+//
+// DescriptionJA is the Japanese translation of Description. It is sourced
+// from the content-addressed cache under data/translations/ at export time;
+// when the cache is missing an entry the field is the empty string and the
+// frontend falls back to the original English description.
 type RepoDetail struct {
-	RepoID       string         `json:"repo_id"`
-	Owner        string         `json:"owner"`
-	Name         string         `json:"name"`
-	FullName     string         `json:"full_name"`
-	Description  string         `json:"description"`
-	URL          string         `json:"url"`
-	HomepageURL  string         `json:"homepage_url"`
-	Language     string         `json:"language"`
-	License      string         `json:"license"`
-	Topics       []string       `json:"topics"`
-	StarCount    int            `json:"star_count"`
-	ForkCount    int            `json:"fork_count"`
-	IsArchived   bool           `json:"is_archived"`
-	IsFork       bool           `json:"is_fork"`
-	CreatedAt    string         `json:"created_at"`
-	UpdatedAt    string         `json:"updated_at"`
-	PushedAt     string         `json:"pushed_at"`
-	DeletedAt    string         `json:"deleted_at"`
-	StarHistory  []HistoryPoint `json:"star_history"`
+	RepoID        string         `json:"repo_id"`
+	Owner         string         `json:"owner"`
+	Name          string         `json:"name"`
+	FullName      string         `json:"full_name"`
+	Description   string         `json:"description"`
+	DescriptionJA string         `json:"description_ja"`
+	URL           string         `json:"url"`
+	HomepageURL   string         `json:"homepage_url"`
+	Language      string         `json:"language"`
+	License       string         `json:"license"`
+	Topics        []string       `json:"topics"`
+	StarCount     int            `json:"star_count"`
+	ForkCount     int            `json:"fork_count"`
+	IsArchived    bool           `json:"is_archived"`
+	IsFork        bool           `json:"is_fork"`
+	CreatedAt     string         `json:"created_at"`
+	UpdatedAt     string         `json:"updated_at"`
+	PushedAt      string         `json:"pushed_at"`
+	DeletedAt     string         `json:"deleted_at"`
+	StarHistory   []HistoryPoint `json:"star_history"`
 }
 
 // RankingEntry is one row inside rankings.json.

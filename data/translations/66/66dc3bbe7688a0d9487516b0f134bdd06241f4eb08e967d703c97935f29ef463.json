@@ -1,0 +1,6 @@
+{
+  "src": "A drop-in replacement for boto3.Session named RefreshableSession. It automatically refreshes temporary AWS credentials, caches clients, and natively supports MFA providers. It also supports automatic temporary AWS security credential refresh for STS, IOT Core, and custom credential callables.",
+  "ja": "boto3.Sessionの差し替え用ライブラリ RefreshableSession。一時AWS認証情報を自動更新、クライアントをキャッシュ、MFAプロバイダーをネイティブサポート。STS、IoT Core、カスタム認証コーラブルでの自動更新にも対応",
+  "provider": "claude-code",
+  "translated_at": "2026-04-25T20:01:33Z"
+}
