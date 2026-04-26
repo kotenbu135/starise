@@ -1,0 +1,6 @@
+{
+  "src": "MXLogger 是基于mmap内存映射机制的跨平台日志库，支持AES CFB 128位加密，支持iOS Android Flutter。核心代码使用C/C++实现， Flutter端通过ffi调用，性能几乎与原生一致。 底层序列化使用Google开源的flat_buffers实现，高效稳定。",
+  "ja": "MXLogger は mmap メモリマッピング機構を利用したクロスプラットフォームログライブラリ。AES CFB 128 ビット暗号化をサポートし、iOS・Android・Flutter に対応。コアコードは C/C++ で実装され、Flutter 側は FFI 経由で呼び出し、パフォーマンスはネイティブとほぼ同等。シリアライズには Google のオープンソース flat_buffers を採用し、高効率かつ安定。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:45:45Z"
+}
