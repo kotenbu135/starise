@@ -1,0 +1,6 @@
+{
+  "src": "Sniff wifi probes from nearby devices (passive monitoring only) and logs to a Django App/DB (with GUI) and optionally can log all probes into an InfluxDB time-series database (Using pcap or airmon-ng)",
+  "ja": "近くのデバイスからWi-Fiプローブを傍受（パッシブモニタリングのみ）し、Django App/DB（GUI付き）に記録。オプションでpcapまたはairmon-ngを使用してすべてのプローブをInfluxDB時系列データベースにも記録できます。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T06:14:34Z"
+}
