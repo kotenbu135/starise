@@ -1,0 +1,6 @@
+{
+  "src": "MCP server that gives AI coding assistants persistent cross-client memory. Facts and conversations stored in SQLite, encrypted with AES-256-GCM, synced to Arweave. No server, no account, recoverable with a 12-word phrase.",
+  "ja": "AIコーディングアシスタントにクライアントをまたいだ永続メモリを提供するMCPサーバー。事実と会話をSQLiteに保存し、AES-256-GCMで暗号化してArweaveに同期。サーバー不要、アカウント不要、12単語のフレーズで復元可能。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T05:56:56Z"
+}
