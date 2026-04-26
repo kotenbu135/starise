@@ -1,0 +1,6 @@
+{
+  "src": "undercover warns about methods, classes and blocks that were changed without tests, to help you easily find untested code and reduce the number of bugs. It does so by analysing data from git diffs, code structure and SimpleCov coverage reports",
+  "ja": "undercover は、テストなしで変更されたメソッド・クラス・ブロックを警告し、未テストのコードを簡単に発見してバグを削減します。git diff、コード構造、SimpleCov カバレッジレポートを解析して動作します。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T06:18:38Z"
+}

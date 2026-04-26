@@ -1,0 +1,6 @@
+{
+  "src": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
+  "ja": "pdf.jsとコンテンツプロバイダーに基づくシンプルなAndroid PDFビューア。アプリはパーミッション不要。PDFストリームはコンテンツやファイルにアクセスさせずにサンドボックス化されたWebViewに供給。WebView内のJavaScriptとスタイリングが完全に静的であることをCSPで強制。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T06:17:46Z"
+}
