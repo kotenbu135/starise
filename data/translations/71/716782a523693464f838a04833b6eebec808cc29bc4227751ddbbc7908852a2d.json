@@ -1,0 +1,6 @@
+{
+  "src": "Sign data using symmetric-key algorithm encryption. Validate signed data and identify possible validation errors. Uses sha-(1, 224, 256, 385 and 512)/hmac for signature encryption. Custom hash algorithms are allowed. Useful shortcut functions for signing (and validating) dictionaries and URLs.",
+  "ja": "共通鍵アルゴリズムでデータに署名します。署名済みデータの検証とエラーの特定が可能。sha-(1, 224, 256, 385, 512)/hmacを署名暗号化に使用。カスタムハッシュアルゴリズムにも対応。辞書やURLの署名・検証に便利なショートカット関数付き。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:29:57Z"
+}
