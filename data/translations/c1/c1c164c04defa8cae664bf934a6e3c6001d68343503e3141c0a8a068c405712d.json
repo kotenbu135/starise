@@ -1,0 +1,6 @@
+{
+  "src": "A travel agent based on Qwen2.5, fine-tuned by SFT + DPO/PPO/GRPO using traveling question-answer dataset, a mindmap can be output using the response. A RAG system is build upon the tuned qwen2, using Prompt-Template + Tool-Use + Chroma embedding database  + LangChain ",
+  "ja": "旅行Q\u0026Aデータセットを用いてSFT + DPO/PPO/GRPOで微調整したQwen2.5ベースの旅行エージェント。応答からマインドマップを出力可能。チューニング済みQwen2上にPrompt-Template + Tool-Use + Chromaエンベディングデータベース + LangChainを用いたRAGシステムを構築",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T11:59:33Z"
+}
