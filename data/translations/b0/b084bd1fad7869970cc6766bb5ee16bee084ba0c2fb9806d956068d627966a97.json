@@ -1,0 +1,6 @@
+{
+  "src": "DncZeus 是一个基于.NET 7 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET 7 + EF Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.com/rector/DncZeus 。演示地址(demo):",
+  "ja": "DncZeusは.NET 7 + Vue.js（iview-admin）をベースにしたフロントエンド・バックエンド分離型の汎用バックオフィス権限（ページアクセス・操作ボタン制御）管理システムフレームワークです。バックエンドは.NET 7 + EF Coreで構築され、UIはVue.jsベースの人気フレームワークiView（iview-admin）を採用。JWTベースのユーザートークン認証と動的権限管理を実装し、フロントエンドとバックエンドの連携をよりスムーズにします。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T11:29:17Z"
+}

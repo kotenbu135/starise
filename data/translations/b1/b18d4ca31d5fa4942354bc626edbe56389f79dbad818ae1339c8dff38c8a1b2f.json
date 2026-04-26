@@ -1,0 +1,6 @@
+{
+  "src": "A tool that can parse, filter, split, and merge RDB files, as well as analyze memory usage offline. It can also sync data between two Redis instances and allows users to define their own sink   services to migrate Redis data to custom destinations.",
+  "ja": "RDBファイルのパース、フィルタリング、分割、マージ、オフラインでのメモリ使用量分析が可能なツール。2つのRedisインスタンス間のデータ同期もでき、カスタムの送信先へRedisデータを移行するための独自シンクサービスを定義できます。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T11:32:05Z"
+}

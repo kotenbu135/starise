@@ -1,0 +1,6 @@
+{
+  "src": "Implementation of Vision Mamba from the paper: \"Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model\" It's 2.8x faster than DeiT and saves 86.8% GPU memory when performing batch inference to extract features on high-res images",
+  "ja": "論文「Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model」に基づくVision Mambaの実装。高解像度画像のバッチ推論による特徴抽出において、DeiTより2.8倍高速でGPUメモリを86.8%削減",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T11:28:58Z"
+}
