@@ -1,0 +1,6 @@
+{
+  "src": "Do it like =\u003e validates :photos, attached: true, content_type: ['image/png', 'image/jpg', 'image/jpeg'], size: { less_than: 500.kilobytes }, limit: { min: 1, max: 3 }, aspect_ratio: :landscape, dimension: { width: { in: 800..1600 }",
+  "ja": "validates :photos, attached: true, content_type: ['image/png', 'image/jpg', 'image/jpeg'], size: { less_than: 500.kilobytes }, limit: { min: 1, max: 3 }, aspect_ratio: :landscape, dimension: { width: { in: 800..1600 } のように記述できるバリデーション拡張",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T06:29:38Z"
+}
