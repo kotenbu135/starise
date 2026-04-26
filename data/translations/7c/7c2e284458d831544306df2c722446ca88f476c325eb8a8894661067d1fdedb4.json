@@ -1,0 +1,6 @@
+{
+  "src": "Jailer is an eBPF-based process jailing system that provides mandatory access control (MAC) for Linux. It tracks processes using BPF task_storage maps and enforces role-based policies on file access, network operations, and process execution.",
+  "ja": "JailerはeBPFベースのプロセスジェイルシステムで、Linuxに強制アクセス制御（MAC）を提供します。BPFのtask_storageマップでプロセスを追跡し、ファイルアクセス・ネットワーク操作・プロセス実行にロールベースポリシーを適用します。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T06:11:58Z"
+}

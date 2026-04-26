@@ -1,0 +1,6 @@
+{
+  "src": "A firewall that utilizes the Linux kernel's XDP hook. The XDP hook allows for very fast network processing on Linux systems. This is great for dropping malicious traffic from a (D)DoS attack. IPv6 is supported with this firewall! I hope this helps network engineers/programmers interested in utilizing XDP!",
+  "ja": "Linux カーネルの XDP フックを活用したファイアウォール。XDP フックにより Linux システムで非常に高速なネットワーク処理が可能。(D)DoS 攻撃の悪意あるトラフィックを遮断するのに最適。IPv6 もサポート。XDP の活用に興味のあるネットワークエンジニア／プログラマーの参考になれば幸いです！",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T06:11:23Z"
+}
