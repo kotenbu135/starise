@@ -4,6 +4,7 @@
   "name": "2captcha-csharp",
   "full_name": "2captcha/2captcha-csharp",
   "description": "C# library for easy integration with the API of 2captcha captcha solving service to bypass recaptcha, funcaptcha, geetest and solve any other captchas.",
+  "description_ja": "2captcha CAPTCHA解決サービスのAPIと簡単に統合できるC#ライブラリ。recaptcha、funcaptcha、geetestのバイパスやその他CAPTCHAの解決に対応",
   "url": "https://github.com/2captcha/2captcha-csharp",
   "homepage_url": "https://www.nuget.org/packages/2captcha-csharp",
   "language": "C#",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

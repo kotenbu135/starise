@@ -4,6 +4,7 @@
   "name": "extractor",
   "full_name": "lightfeed/extractor",
   "description": "Use LLMs to robustly extract web data",
+  "description_ja": "",
   "url": "https://github.com/lightfeed/extractor",
   "homepage_url": "https://lightfeed.ai",
   "language": "TypeScript",
@@ -30,12 +31,12 @@
     "web-extraction",
     "webscraping"
   ],
-  "star_count": 314,
+  "star_count": 315,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-02T18:53:37Z",
-  "updated_at": "2026-04-24T16:32:03Z",
+  "updated_at": "2026-04-25T18:48:36Z",
   "pushed_at": "2026-04-08T04:40:34Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 314
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 315
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "aircompressor",
   "full_name": "airlift/aircompressor",
   "description": "A port of Snappy, LZO, LZ4, and Zstandard  to Java",
+  "description_ja": "Snappy・LZO・LZ4・ZstandardのJava移植",
   "url": "https://github.com/airlift/aircompressor",
   "homepage_url": "",
   "language": "Java",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 630
+    },
+    {
+      "date": "2026-04-26",
       "stars": 630
     }
   ]

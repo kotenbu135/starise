@@ -4,6 +4,7 @@
   "name": "deep_cloneable",
   "full_name": "moiristo/deep_cloneable",
   "description": "This gem gives every ActiveRecord::Base object the possibility to do a deep clone that includes user specified associations.",
+  "description_ja": "",
   "url": "https://github.com/moiristo/deep_cloneable",
   "homepage_url": "",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 811
+    },
+    {
+      "date": "2026-04-26",
       "stars": 811
     }
   ]

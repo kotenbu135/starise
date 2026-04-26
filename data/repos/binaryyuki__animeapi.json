@@ -4,6 +4,7 @@
   "name": "animeapi",
   "full_name": "binaryyuki/animeapi",
   "description": "This project is a online video cms backend with a mature scrapy framework and async user-side push notification cron workers. Python-based web application with a framework of FastAPI for the backend. It includes health checks for Redis and MySQL, middleware for processing time, and session management. The application is containerized using Docker.",
+  "description_ja": "",
   "url": "https://github.com/binaryYuki/animeAPI",
   "homepage_url": "https://animeapi.rymax.me",
   "language": "Python",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 109
+    },
+    {
+      "date": "2026-04-26",
       "stars": 109
     }
   ]

@@ -4,6 +4,7 @@
   "name": "restic",
   "full_name": "restic/restic",
   "description": "Fast, secure, efficient backup program",
+  "description_ja": "",
   "url": "https://github.com/restic/restic",
   "homepage_url": "https://restic.net",
   "language": "Go",
@@ -16,12 +17,12 @@
     "restic",
     "secure-by-default"
   ],
-  "star_count": 33280,
-  "fork_count": 1744,
+  "star_count": 33288,
+  "fork_count": 1745,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-04-27T14:07:58Z",
-  "updated_at": "2026-04-25T16:34:26Z",
+  "updated_at": "2026-04-26T17:14:10Z",
   "pushed_at": "2026-04-01T10:19:59Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 33280
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 33288
     }
   ]
 }

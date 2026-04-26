@@ -4,6 +4,7 @@
   "name": "dracut",
   "full_name": "dracutdevs/dracut",
   "description": "dracut the event driven initramfs infrastructure",
+  "description_ja": "",
   "url": "https://github.com/dracutdevs/dracut",
   "homepage_url": "https://github.com/dracutdevs/dracut/wiki",
   "language": "Shell",
@@ -15,12 +16,12 @@
     "initramfs-generator",
     "initramfs-image"
   ],
-  "star_count": 675,
+  "star_count": 676,
   "fork_count": 404,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-03-14T10:43:41Z",
-  "updated_at": "2026-04-20T13:17:11Z",
+  "updated_at": "2026-04-25T17:13:12Z",
   "pushed_at": "2026-04-25T01:24:33Z",
   "deleted_at": "",
   "star_history": [
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 675
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 676
     }
   ]
 }

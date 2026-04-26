@@ -4,6 +4,7 @@
   "name": "jwt",
   "full_name": "golang-jwt/jwt",
   "description": "Go implementation of JSON Web Tokens (JWT).",
+  "description_ja": "",
   "url": "https://github.com/golang-jwt/jwt",
   "homepage_url": "https://golang-jwt.github.io/jwt/",
   "language": "Go",
@@ -16,12 +17,12 @@
     "jwt",
     "security"
   ],
-  "star_count": 9046,
+  "star_count": 9049,
   "fork_count": 425,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-05-18T22:42:37Z",
-  "updated_at": "2026-04-24T17:19:40Z",
+  "updated_at": "2026-04-26T16:35:41Z",
   "pushed_at": "2026-04-14T17:42:56Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 9046
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9049
     }
   ]
 }

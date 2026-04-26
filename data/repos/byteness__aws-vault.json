@@ -4,6 +4,7 @@
   "name": "aws-vault",
   "full_name": "byteness/aws-vault",
   "description": "A vault for securely storing and accessing AWS credentials in development environments",
+  "description_ja": "開発環境でAWS認証情報を安全に保存・アクセスするためのVault",
   "url": "https://github.com/ByteNess/aws-vault",
   "homepage_url": "",
   "language": "Go",
@@ -18,12 +19,12 @@
     "mfa",
     "temporary-credentials"
   ],
-  "star_count": 313,
+  "star_count": 314,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-22T20:15:33Z",
-  "updated_at": "2026-04-21T22:37:09Z",
+  "updated_at": "2026-04-25T17:53:38Z",
   "pushed_at": "2026-04-19T21:58:25Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 313
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 314
     }
   ]
 }

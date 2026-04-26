@@ -4,6 +4,7 @@
   "name": "debugmcp",
   "full_name": "microsoft/debugmcp",
   "description": "Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.",
+  "description_ja": "",
   "url": "https://github.com/microsoft/DebugMCP",
   "homepage_url": "",
   "language": "TypeScript",
@@ -20,12 +21,12 @@
     "model-context-protocol",
     "vscode-extension"
   ],
-  "star_count": 312,
+  "star_count": 314,
   "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-30T14:04:04Z",
-  "updated_at": "2026-04-25T15:57:31Z",
+  "updated_at": "2026-04-26T06:10:26Z",
   "pushed_at": "2026-04-25T15:57:26Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 312
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 314
     }
   ]
 }

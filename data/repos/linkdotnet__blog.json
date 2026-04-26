@@ -4,6 +4,7 @@
   "name": "blog",
   "full_name": "linkdotnet/blog",
   "description": "A blog (engine) completely written in C# and Blazor. It aims to be a simple use and easy to extend platform. Blogposts are written in Markdown and are rendered to HTML. This gives all the flexibility needed to express yourself but also have an easy way of creating posts in the first place.",
+  "description_ja": "",
   "url": "https://github.com/linkdotnet/Blog",
   "homepage_url": "https://steven-giesel.com/",
   "language": "C#",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 420
+    },
+    {
+      "date": "2026-04-26",
       "stars": 420
     }
   ]

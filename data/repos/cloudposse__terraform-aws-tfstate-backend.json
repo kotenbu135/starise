@@ -4,6 +4,7 @@
   "name": "terraform-aws-tfstate-backend",
   "full_name": "cloudposse/terraform-aws-tfstate-backend",
   "description": "Terraform module that provision an S3 bucket to store the `terraform.tfstate` file and a DynamoDB table to lock the state file to prevent concurrent modifications and state corruption.",
+  "description_ja": "",
   "url": "https://github.com/cloudposse/terraform-aws-tfstate-backend",
   "homepage_url": "https://cloudposse.com/accelerate",
   "language": "HCL",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 440
+    },
+    {
+      "date": "2026-04-26",
       "stars": 440
     }
   ]

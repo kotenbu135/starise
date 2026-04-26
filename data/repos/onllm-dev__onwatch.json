@@ -4,6 +4,7 @@
   "name": "onwatch",
   "full_name": "onllm-dev/onwatch",
   "description": "Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot \u0026 Antigravity in real time. Lightweight background daemon (\u003c50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry.",
+  "description_ja": "",
   "url": "https://github.com/onllm-dev/onWatch",
   "homepage_url": "https://onwatch.onllm.dev",
   "language": "Go",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 590
+    },
+    {
+      "date": "2026-04-26",
       "stars": 590
     }
   ]

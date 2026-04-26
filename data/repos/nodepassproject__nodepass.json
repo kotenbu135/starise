@@ -4,6 +4,7 @@
   "name": "nodepass",
   "full_name": "nodepassproject/nodepass",
   "description": "A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TCP/QUIC/WebSocket or HTTP/2 connections.",
+  "description_ja": "",
   "url": "https://github.com/NodePassProject/nodepass",
   "homepage_url": "https://nodepass.eu",
   "language": "Go",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2110
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2110
     }
   ]

@@ -4,6 +4,7 @@
   "name": "cat-dog-asm-cnn",
   "full_name": "mohammad-ghaderi/cat-dog-asm-cnn",
   "description": "A Convolutional Neural Network implemented entirely from scratch in x86-64 assembly using AVX-512, performing cat vs dog image classification without any ML frameworks or libraries.",
+  "description_ja": "",
   "url": "https://github.com/mohammad-ghaderi/cat-dog-asm-cnn",
   "homepage_url": "",
   "language": "Assembly",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 171
+    },
+    {
+      "date": "2026-04-26",
       "stars": 171
     }
   ]

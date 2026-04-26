@@ -4,6 +4,7 @@
   "name": "theidserver",
   "full_name": "aguafrommars/theidserver",
   "description": "OpenID/Connect, OAuth2, WS-Federation and SAML 2.0 server based on Duende IdentityServer and ITFoxtec Identity SAML 2.0 with its admin UI",
+  "description_ja": "[29] Duende IdentityServer と ITFoxtec Identity SAML 2.0 をベースにした OpenID/Connect、OAuth2、WS-Federation、SAML 2.0 サーバー (管理 UI 付き)",
   "url": "https://github.com/Aguafrommars/TheIdServer",
   "homepage_url": "https://theidserver-duende.herokuapp.com/",
   "language": "C#",
@@ -47,6 +48,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 756
+    },
+    {
+      "date": "2026-04-26",
       "stars": 756
     }
   ]

@@ -4,6 +4,7 @@
   "name": "arb_translate",
   "full_name": "leancodepl/arb_translate",
   "description": "A command-line tool for automatically adding missing message translations to ARB files using Google Gemini LLM by LeanCode",
+  "description_ja": "",
   "url": "https://github.com/leancodepl/arb_translate",
   "homepage_url": "https://leancode.co",
   "language": "Dart",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 70
+    },
+    {
+      "date": "2026-04-26",
       "stars": 70
     }
   ]

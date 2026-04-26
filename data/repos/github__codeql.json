@@ -4,6 +4,7 @@
   "name": "codeql",
   "full_name": "github/codeql",
   "description": "CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security",
+  "description_ja": "",
   "url": "https://github.com/github/codeql",
   "homepage_url": "https://codeql.github.com",
   "language": "CodeQL",
@@ -15,12 +16,12 @@
     "semmle-ql",
     "works-with-codespaces"
   ],
-  "star_count": 9524,
-  "fork_count": 1953,
+  "star_count": 9526,
+  "fork_count": 1955,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-07-31T16:35:51Z",
-  "updated_at": "2026-04-25T15:47:21Z",
+  "updated_at": "2026-04-26T17:08:17Z",
   "pushed_at": "2026-04-25T06:42:47Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 9524
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9526
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "dataxserver",
   "full_name": "tianlangstudio/dataxserver",
   "description": "为DataX(https://github.com/alibaba/DataX)  提供远程多语言调用（ThriftServer，HttpServer） 分布式运行（DataX on YARN） 功能",
+  "description_ja": "",
   "url": "https://github.com/TianLangStudio/DataXServer",
   "homepage_url": "",
   "language": "Scala",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 144
+    },
+    {
+      "date": "2026-04-26",
       "stars": 144
     }
   ]

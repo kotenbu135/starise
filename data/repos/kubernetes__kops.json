@@ -4,6 +4,7 @@
   "name": "kops",
   "full_name": "kubernetes/kops",
   "description": "Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",
+  "description_ja": "",
   "url": "https://github.com/kubernetes/kops",
   "homepage_url": "https://kops.sigs.k8s.io/",
   "language": "Go",
@@ -15,13 +16,13 @@
     "kops",
     "kubernetes"
   ],
-  "star_count": 16594,
+  "star_count": 16595,
   "fork_count": 4701,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-06-27T22:01:15Z",
-  "updated_at": "2026-04-25T10:14:51Z",
-  "pushed_at": "2026-04-25T11:36:46Z",
+  "updated_at": "2026-04-26T13:26:52Z",
+  "pushed_at": "2026-04-26T16:56:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 16594
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 16595
     }
   ]
 }

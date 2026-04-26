@@ -4,6 +4,7 @@
   "name": "shadow",
   "full_name": "shadow/shadow",
   "description": "Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.",
+  "description_ja": "",
   "url": "https://github.com/shadow/shadow",
   "homepage_url": "https://shadow.github.io",
   "language": "Rust",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1689
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1689
     }
   ]

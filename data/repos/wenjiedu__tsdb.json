@@ -4,6 +4,7 @@
   "name": "tsdb",
   "full_name": "wenjiedu/tsdb",
   "description": "a Python toolbox loads 173 public time series datasets for machine/deep learning with a single line of code. Datasets from multiple domains including healthcare, financial, power, traffic, weather, and etc.",
+  "description_ja": "",
   "url": "https://github.com/WenjieDu/TSDB",
   "homepage_url": "https://pypots.com/ecosystem/#TSDB",
   "language": "Python",
@@ -23,7 +24,7 @@
     "time-series-datasets"
   ],
   "star_count": 233,
-  "fork_count": 22,
+  "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-01T09:44:47Z",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 233
+    },
+    {
+      "date": "2026-04-26",
       "stars": 233
     }
   ]

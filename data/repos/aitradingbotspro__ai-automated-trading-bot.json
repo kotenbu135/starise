@@ -4,6 +4,7 @@
   "name": "ai-automated-trading-bot",
   "full_name": "aitradingbotspro/ai-automated-trading-bot",
   "description": "TradingView webhook bot for manual traders – execute alerts on Binance, Bybit, OKX, and Hyperliquid with risk limits, TP/SL, trailing stop, and optional AI review.",
+  "description_ja": "裁量トレーダー向け TradingView Webhook Bot — Binance、Bybit、OKX、Hyperliquid でアラートを自動執行。リスク制限、TP/SL、トレーリングストップ、AI レビュー対応",
   "url": "https://github.com/aitradingbotspro/ai-automated-trading-bot",
   "homepage_url": "",
   "language": "Python",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 76
+    },
+    {
+      "date": "2026-04-26",
       "stars": 76
     }
   ]

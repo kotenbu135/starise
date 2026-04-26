@@ -4,6 +4,7 @@
   "name": "httpyac",
   "full_name": "anweber/httpyac",
   "description": "Command Line Interface for *.http and *.rest files. Connect with http, gRPC, WebSocket and MQTT ",
+  "description_ja": "",
   "url": "https://github.com/AnWeber/httpyac",
   "homepage_url": "https://httpyac.github.io/",
   "language": "TypeScript",
@@ -19,12 +20,12 @@
     "rest-client",
     "websocket"
   ],
-  "star_count": 811,
+  "star_count": 812,
   "fork_count": 60,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-01-06T14:30:25Z",
-  "updated_at": "2026-04-23T16:25:13Z",
+  "updated_at": "2026-04-26T14:11:28Z",
   "pushed_at": "2026-03-04T19:23:18Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 811
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 812
     }
   ]
 }

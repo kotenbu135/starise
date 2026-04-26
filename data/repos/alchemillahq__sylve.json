@@ -4,6 +4,7 @@
   "name": "sylve",
   "full_name": "alchemillahq/sylve",
   "description": "Lightweight GUI for managing Bhyve, Jails, ZFS, networking, and more on FreeBSD",
+  "description_ja": "FreeBSD 上で Bhyve、Jail、ZFS、ネットワーク等を管理するための軽量 GUI",
   "url": "https://github.com/AlchemillaHQ/Sylve",
   "homepage_url": "",
   "language": "Go",
@@ -15,7 +16,7 @@
   "is_fork": false,
   "created_at": "2025-03-09T10:12:36Z",
   "updated_at": "2026-04-25T11:25:06Z",
-  "pushed_at": "2026-04-24T19:47:17Z",
+  "pushed_at": "2026-04-26T13:31:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 850
+    },
+    {
+      "date": "2026-04-26",
       "stars": 850
     }
   ]

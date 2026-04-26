@@ -4,6 +4,7 @@
   "name": "mygym",
   "full_name": "incognite-lab/mygym",
   "description": "myGym is the robotic simulator. It allows to create novel multi step long horizon tasks without coding. There are automatic task building routines, where user composes long horizon actions from basic set of protoactions, that are automatically paired with rewards. There are several humanoids and robotic arms ready to train.",
+  "description_ja": "",
   "url": "https://github.com/incognite-lab/myGym",
   "homepage_url": "https://mygym.readthedocs.io/en/latest/",
   "language": "Python",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 53
+    },
+    {
+      "date": "2026-04-26",
       "stars": 53
     }
   ]

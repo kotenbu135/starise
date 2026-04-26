@@ -4,6 +4,7 @@
   "name": "fastapi-template",
   "full_name": "seapagan/fastapi-template",
   "description": "A Configurable template for a FastAPI application, with Authentication, User integration, Caching, Logging, Admin pages and a snappy CLI to control it all!",
+  "description_ja": "",
   "url": "https://github.com/seapagan/fastapi-template",
   "homepage_url": "https://api-template.seapagan.net",
   "language": "Python",
@@ -27,12 +28,12 @@
     "sqlalchemy2",
     "template"
   ],
-  "star_count": 231,
+  "star_count": 232,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-10-12T16:00:02Z",
-  "updated_at": "2026-04-18T13:34:32Z",
+  "updated_at": "2026-04-25T23:24:00Z",
   "pushed_at": "2026-04-21T22:02:50Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 231
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 232
     }
   ]
 }

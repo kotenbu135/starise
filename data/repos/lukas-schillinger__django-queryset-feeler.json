@@ -4,6 +4,7 @@
   "name": "django-queryset-feeler",
   "full_name": "lukas-schillinger/django-queryset-feeler",
   "description": "Get a feel for how Django queries your database. Profile query count, execution time, and raw SQL from the command line, IPython, or Jupyter. No configuration required.",
+  "description_ja": "",
   "url": "https://github.com/Lukas-Schillinger/django-queryset-feeler",
   "homepage_url": "",
   "language": "Python",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 66
+    },
+    {
+      "date": "2026-04-26",
       "stars": 66
     }
   ]

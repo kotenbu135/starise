@@ -4,6 +4,7 @@
   "name": "velesdb",
   "full_name": "cyberlife-coder/velesdb",
   "description": "VelesDB is a local‑first AI data engine written in Rust that unifies vectors, full‑text and graph in a single file with a familiar SQL‑like language.  Instead of sending every RAG or semantic search query to a remote cluster, VelesDB runs directly on your server, laptop, browser, mobile or edge device — no cloud dependency, no external services, ..",
+  "description_ja": "",
   "url": "https://github.com/cyberlife-coder/VelesDB",
   "homepage_url": "https://velesdb.com",
   "language": "Rust",
@@ -24,12 +25,12 @@
     "vector-database"
   ],
   "star_count": 49,
-  "fork_count": 6,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-17T18:01:02Z",
-  "updated_at": "2026-04-25T14:28:07Z",
-  "pushed_at": "2026-04-25T14:56:33Z",
+  "updated_at": "2026-04-25T22:54:03Z",
+  "pushed_at": "2026-04-26T17:07:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

@@ -4,6 +4,7 @@
   "name": "nvim-unception",
   "full_name": "samjwill/nvim-unception",
   "description": "A plugin that leverages Neovim's built-in RPC functionality to simplify opening files from within Neovim's terminal emulator without nesting sessions.",
+  "description_ja": "",
   "url": "https://github.com/samjwill/nvim-unception",
   "homepage_url": "",
   "language": "Lua",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 240
+    },
+    {
+      "date": "2026-04-26",
       "stars": 240
     }
   ]

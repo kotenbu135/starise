@@ -4,6 +4,7 @@
   "name": "bg.nvim",
   "full_name": "typicode/bg.nvim",
   "description": "Automatically sync your terminal background with your Neovim colorscheme 🎆",
+  "description_ja": "",
   "url": "https://github.com/typicode/bg.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -25,12 +26,12 @@
     "theme",
     "wezterm"
   ],
-  "star_count": 181,
+  "star_count": 182,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-04T05:26:48Z",
-  "updated_at": "2026-04-20T17:37:48Z",
+  "updated_at": "2026-04-26T06:32:46Z",
   "pushed_at": "2026-02-18T22:49:53Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 181
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 182
     }
   ]
 }

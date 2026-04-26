@@ -4,6 +4,7 @@
   "name": "fastapi-injectable",
   "full_name": "jaspersui/fastapi-injectable",
   "description": "A seamless solution for using FastAPI's dependency injection system outside of route handlers, enabling painless reuse of dependencies in CLI tools, background tasks, and other non-HTTP contexts.",
+  "description_ja": "",
   "url": "https://github.com/JasperSui/fastapi-injectable",
   "homepage_url": "https://fastapi-injectable.readthedocs.io",
   "language": "Python",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 290
+    },
+    {
+      "date": "2026-04-26",
       "stars": 290
     }
   ]

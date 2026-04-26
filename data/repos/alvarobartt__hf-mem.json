@@ -4,6 +4,7 @@
   "name": "hf-mem",
   "full_name": "alvarobartt/hf-mem",
   "description": "A CLI to estimate inference memory requirements for Hugging Face models, written in Python.",
+  "description_ja": "Hugging Face モデルの推論メモリ要件を見積もる Python 製 CLI",
   "url": "https://github.com/alvarobartt/hf-mem",
   "homepage_url": "https://pypi.org/project/hf-mem/",
   "language": "Python",
@@ -14,12 +15,12 @@
     "huggingface",
     "safetensors"
   ],
-  "star_count": 910,
+  "star_count": 911,
   "fork_count": 83,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-22T19:04:22Z",
-  "updated_at": "2026-04-24T11:58:40Z",
+  "updated_at": "2026-04-25T17:27:18Z",
   "pushed_at": "2026-04-07T14:57:17Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 910
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 911
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "envpool",
   "full_name": "sail-sg/envpool",
   "description": "C++-based high-performance parallel environment execution engine (vectorized env) for general RL environments.",
+  "description_ja": "",
   "url": "https://github.com/sail-sg/envpool",
   "homepage_url": "https://envpool.readthedocs.io",
   "language": "C++",
@@ -26,12 +27,12 @@
     "threadpool",
     "vizdoom"
   ],
-  "star_count": 1329,
+  "star_count": 1330,
   "fork_count": 133,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-20T21:11:03Z",
-  "updated_at": "2026-04-23T06:50:17Z",
+  "updated_at": "2026-04-26T16:25:11Z",
   "pushed_at": "2026-04-17T01:38:39Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 1329
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1330
     }
   ]
 }

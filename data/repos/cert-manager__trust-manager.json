@@ -4,6 +4,7 @@
   "name": "trust-manager",
   "full_name": "cert-manager/trust-manager",
   "description": "trust-manager is an operator for distributing trust bundles across a Kubernetes cluster.",
+  "description_ja": "",
   "url": "https://github.com/cert-manager/trust-manager",
   "homepage_url": "https://cert-manager.io/docs/projects/trust-manager/",
   "language": "Go",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 370
+    },
+    {
+      "date": "2026-04-26",
       "stars": 370
     }
   ]

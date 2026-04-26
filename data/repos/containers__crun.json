@@ -4,6 +4,7 @@
   "name": "crun",
   "full_name": "containers/crun",
   "description": "A fast and lightweight fully featured OCI runtime and C library for running containers",
+  "description_ja": "",
   "url": "https://github.com/containers/crun",
   "homepage_url": "",
   "language": "C",
@@ -19,12 +20,12 @@
     "runtime",
     "wasm-oci"
   ],
-  "star_count": 3891,
+  "star_count": 3894,
   "fork_count": 400,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-09-13T20:20:58Z",
-  "updated_at": "2026-04-25T11:05:38Z",
+  "updated_at": "2026-04-26T10:46:49Z",
   "pushed_at": "2026-04-24T17:16:16Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 3891
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3894
     }
   ]
 }

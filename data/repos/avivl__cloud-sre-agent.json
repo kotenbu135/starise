@@ -4,6 +4,7 @@
   "name": "cloud-sre-agent",
   "full_name": "avivl/cloud-sre-agent",
   "description": "An autonomous SRE agent that monitors cloud logs across multiple platforms, leveraging AI models from various providers to detect anomalies, perform root cause analysis, and automate remediation by creating GitHub Pull Requests.",
+  "description_ja": "",
   "url": "https://github.com/avivl/cloud-sre-agent",
   "homepage_url": "",
   "language": "Python",
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 41
+    },
+    {
+      "date": "2026-04-26",
       "stars": 41
     }
   ]

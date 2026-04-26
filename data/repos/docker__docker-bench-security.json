@@ -4,6 +4,7 @@
   "name": "docker-bench-security",
   "full_name": "docker/docker-bench-security",
   "description": "The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.",
+  "description_ja": "",
   "url": "https://github.com/docker/docker-bench-security",
   "homepage_url": "",
   "language": "Shell",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9623
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9623
     }
   ]

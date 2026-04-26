@@ -4,6 +4,7 @@
   "name": "swhkd",
   "full_name": "waycrate/swhkd",
   "description": "Sxhkd clone for Wayland (works on TTY and X11 too)",
+  "description_ja": "",
   "url": "https://github.com/waycrate/swhkd",
   "homepage_url": "https://git.sr.ht/~shinyzenith/swhkd",
   "language": "Rust",
@@ -28,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-09T07:15:55Z",
-  "updated_at": "2026-04-24T03:12:45Z",
-  "pushed_at": "2026-01-05T17:55:19Z",
+  "updated_at": "2026-04-26T07:33:16Z",
+  "pushed_at": "2026-04-26T07:33:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 836
+    },
+    {
+      "date": "2026-04-26",
       "stars": 836
     }
   ]

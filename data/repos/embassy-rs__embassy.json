@@ -4,6 +4,7 @@
   "name": "embassy",
   "full_name": "embassy-rs/embassy",
   "description": "Modern embedded framework, using Rust and async.",
+  "description_ja": "",
   "url": "https://github.com/embassy-rs/embassy",
   "homepage_url": "https://embassy.dev",
   "language": "Rust",
@@ -16,13 +17,13 @@
     "hal",
     "rust"
   ],
-  "star_count": 9117,
-  "fork_count": 1455,
+  "star_count": 9124,
+  "fork_count": 1457,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-09-22T16:04:20Z",
-  "updated_at": "2026-04-25T11:44:47Z",
-  "pushed_at": "2026-04-24T23:29:29Z",
+  "updated_at": "2026-04-26T16:46:38Z",
+  "pushed_at": "2026-04-26T12:28:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 9117
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9124
     }
   ]
 }

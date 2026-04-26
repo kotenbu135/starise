@@ -4,6 +4,7 @@
   "name": "firmware",
   "full_name": "meshtastic/firmware",
   "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+  "description_ja": "",
   "url": "https://github.com/meshtastic/firmware",
   "homepage_url": "https://meshtastic.org",
   "language": "C++",
@@ -25,13 +26,13 @@
     "ttgo",
     "ttgo-tbeam"
   ],
-  "star_count": 7339,
-  "fork_count": 2269,
+  "star_count": 7351,
+  "fork_count": 2276,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-02-01T17:00:35Z",
-  "updated_at": "2026-04-25T16:34:51Z",
-  "pushed_at": "2026-04-25T17:26:38Z",
+  "updated_at": "2026-04-26T16:23:29Z",
+  "pushed_at": "2026-04-26T14:49:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 7339
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 7351
     }
   ]
 }

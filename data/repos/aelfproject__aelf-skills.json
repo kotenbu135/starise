@@ -4,6 +4,7 @@
   "name": "aelf-skills",
   "full_name": "aelfproject/aelf-skills",
   "description": "Unified aelf skills hub for discovery, routing, bootstrap, and health checks across OpenClaw, Codex, Cursor, and Claude Code.",
+  "description_ja": "[6] OpenClaw、Codex、Cursor、Claude Code間で発見、ルーティング、ブートストラップ、ヘルスチェックを行う統合aelfスキルハブ。",
   "url": "https://github.com/AElfProject/aelf-skills",
   "homepage_url": "",
   "language": "TypeScript",
@@ -24,7 +25,7 @@
     "web3"
   ],
   "star_count": 183,
-  "fork_count": 9,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T15:12:54Z",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 183
+    },
+    {
+      "date": "2026-04-26",
       "stars": 183
     }
   ]

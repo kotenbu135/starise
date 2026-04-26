@@ -4,6 +4,7 @@
   "name": "action-pull-request",
   "full_name": "devops-infra/action-pull-request",
   "description": "GitHub Action that will create a pull request from the current branch",
+  "description_ja": "",
   "url": "https://github.com/devops-infra/action-pull-request",
   "homepage_url": "https://shyper.pro",
   "language": "Shell",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

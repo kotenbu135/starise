@@ -4,6 +4,7 @@
   "name": "verdure-mcp-for-xiaozhi",
   "full_name": "maker-community/verdure-mcp-for-xiaozhi",
   "description": "面向多种 AI 助手的 MCP 对接与服务管理平台，支持连接小智、涂鸦等助手端点，并将外部 MCP 工具远程注入到对应助手中，让助手能够通过对话调用各类外部服务。  An MCP integration and service management platform for multiple AI assistants, supporting endpoints such as Xiaozhi and Tuya, and enabling remote injection of external MCP tools so assistants can invoke external services through conversation.",
+  "description_ja": "",
   "url": "https://github.com/maker-community/verdure-mcp-for-xiaozhi",
   "homepage_url": "https://hub.verdure-hiro.cn/",
   "language": "C#",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

@@ -4,6 +4,7 @@
   "name": "fuse-overlayfs-snapshotter",
   "full_name": "containerd/fuse-overlayfs-snapshotter",
   "description": "fuse-overlayfs plugin for rootless containerd on old Linux (not needed on modern Linux)",
+  "description_ja": "",
   "url": "https://github.com/containerd/fuse-overlayfs-snapshotter",
   "homepage_url": "",
   "language": "Go",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

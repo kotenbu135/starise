@@ -4,6 +4,7 @@
   "name": "tools.nrepl",
   "full_name": "clojure/tools.nrepl",
   "description": "A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.",
+  "description_ja": "",
   "url": "https://github.com/clojure/tools.nrepl",
   "homepage_url": "",
   "language": "Clojure",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 665
+    },
+    {
+      "date": "2026-04-26",
       "stars": 665
     }
   ]

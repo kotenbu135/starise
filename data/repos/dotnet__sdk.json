@@ -4,6 +4,7 @@
   "name": "sdk",
   "full_name": "dotnet/sdk",
   "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
+  "description_ja": "",
   "url": "https://github.com/dotnet/sdk",
   "homepage_url": "https://dot.net/core",
   "language": "C#",
@@ -14,13 +15,13 @@
     "sdk",
     "visual-studio"
   ],
-  "star_count": 3108,
-  "fork_count": 1233,
+  "star_count": 3109,
+  "fork_count": 1234,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-07-22T21:26:02Z",
-  "updated_at": "2026-04-25T02:43:49Z",
-  "pushed_at": "2026-04-25T07:16:10Z",
+  "updated_at": "2026-04-26T02:43:21Z",
+  "pushed_at": "2026-04-26T15:59:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 3108
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3109
     }
   ]
 }

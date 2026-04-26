@@ -4,6 +4,7 @@
   "name": "psteams",
   "full_name": "evotecit/psteams",
   "description": "PSTeams is a PowerShell Module working on Windows / Linux and Mac. It allows sending notifications to Microsoft Teams via WebHook Notifications. It's pretty flexible and provides a bunch of options. Initially, it only supported one sort of Team Cards but since version 2.X.X it supports Adaptive Cards, Hero Cards, List Cards, and Thumbnail Cards. All those new cards have their own cmdlets and the old version of creating Teams Cards stays as-is for compatibility reasons.",
+  "description_ja": "",
   "url": "https://github.com/EvotecIT/PSTeams",
   "homepage_url": "",
   "language": "C#",
@@ -31,6 +32,10 @@
   "star_history": [
     {
       "date": "2026-04-25",
+      "stars": 438
+    },
+    {
+      "date": "2026-04-26",
       "stars": 438
     }
   ]

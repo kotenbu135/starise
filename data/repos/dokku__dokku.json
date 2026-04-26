@@ -4,6 +4,7 @@
   "name": "dokku",
   "full_name": "dokku/dokku",
   "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+  "description_ja": "",
   "url": "https://github.com/dokku/dokku",
   "homepage_url": "https://dokku.com",
   "language": "Shell",
@@ -22,12 +23,12 @@
     "selfhosted"
   ],
   "star_count": 31858,
-  "fork_count": 2028,
+  "fork_count": 2029,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-06-08T10:26:57Z",
-  "updated_at": "2026-04-25T17:07:30Z",
-  "pushed_at": "2026-04-25T10:01:35Z",
+  "updated_at": "2026-04-26T09:35:12Z",
+  "pushed_at": "2026-04-26T16:15:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 31858
+    },
+    {
+      "date": "2026-04-26",
       "stars": 31858
     }
   ]

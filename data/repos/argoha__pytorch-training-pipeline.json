@@ -4,6 +4,7 @@
   "name": "pytorch-training-pipeline",
   "full_name": "argoha/pytorch-training-pipeline",
   "description": "This is PyTorch training pipeline example with hydra configs, wandb and exports to ONNX, TensorRT, OpenVino, TFLite",
+  "description_ja": "",
   "url": "https://github.com/ArgoHA/Pytorch-training-pipeline",
   "homepage_url": "",
   "language": "Python",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

@@ -4,6 +4,7 @@
   "name": "badpods",
   "full_name": "bishopfox/badpods",
   "description": "A collection of manifests that will create pods with elevated privileges.",
+  "description_ja": "",
   "url": "https://github.com/BishopFox/badPods",
   "homepage_url": "https://labs.bishopfox.com/tech-blog/bad-pods-kubernetes-pod-privilege-escalation",
   "language": "Shell",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 695
+    },
+    {
+      "date": "2026-04-26",
       "stars": 695
     }
   ]

@@ -4,6 +4,7 @@
   "name": "xrpl-rust",
   "full_name": "xrplf/xrpl-rust",
   "description": "A 100% Rust library to interact with the XRPL. XRPL Grant Winner",
+  "description_ja": "",
   "url": "https://github.com/XRPLF/xrpl-rust",
   "homepage_url": "https://crates.io/crates/xrpl-rust",
   "language": "Rust",
@@ -17,12 +18,12 @@
     "xrp-ledger",
     "xrpl"
   ],
-  "star_count": 40,
+  "star_count": 41,
   "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-30T21:35:30Z",
-  "updated_at": "2026-04-24T20:46:34Z",
+  "updated_at": "2026-04-26T16:20:52Z",
   "pushed_at": "2026-04-21T16:30:28Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 40
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 41
     }
   ]
 }

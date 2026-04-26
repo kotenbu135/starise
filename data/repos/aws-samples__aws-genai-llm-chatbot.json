@@ -4,6 +4,7 @@
   "name": "aws-genai-llm-chatbot",
   "full_name": "aws-samples/aws-genai-llm-chatbot",
   "description": "A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere, Mistral) using AWS CDK on AWS",
+  "description_ja": "",
   "url": "https://github.com/aws-samples/aws-genai-llm-chatbot",
   "homepage_url": "https://aws-samples.github.io/aws-genai-llm-chatbot/",
   "language": "TypeScript",
@@ -48,6 +49,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1386
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1386
     }
   ]

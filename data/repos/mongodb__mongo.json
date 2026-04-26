@@ -4,6 +4,7 @@
   "name": "mongo",
   "full_name": "mongodb/mongo",
   "description": "The MongoDB Database",
+  "description_ja": "",
   "url": "https://github.com/mongodb/mongo",
   "homepage_url": "https://www.mongodb.com/",
   "language": "C++",
@@ -15,11 +16,11 @@
     "nosql"
   ],
   "star_count": 28265,
-  "fork_count": 5771,
+  "fork_count": 5770,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2009-01-15T16:15:18Z",
-  "updated_at": "2026-04-25T14:52:26Z",
+  "updated_at": "2026-04-26T16:27:32Z",
   "pushed_at": "2026-04-23T19:05:41Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 28265
+    },
+    {
+      "date": "2026-04-26",
       "stars": 28265
     }
   ]

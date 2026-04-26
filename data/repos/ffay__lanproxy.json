@@ -4,6 +4,7 @@
   "name": "lanproxy",
   "full_name": "ffay/lanproxy",
   "description": "lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209",
+  "description_ja": "",
   "url": "https://github.com/ffay/lanproxy",
   "homepage_url": "https://nat.nioee.com",
   "language": "Java",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5856
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5856
     }
   ]

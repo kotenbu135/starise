@@ -4,6 +4,7 @@
   "name": "bolt-python",
   "full_name": "slackapi/bolt-python",
   "description": "A framework to build Slack apps using Python",
+  "description_ja": "",
   "url": "https://github.com/slackapi/bolt-python",
   "homepage_url": "https://docs.slack.dev/tools/bolt-python/",
   "language": "Python",
@@ -30,7 +31,7 @@
     "websockets"
   ],
   "star_count": 1292,
-  "fork_count": 288,
+  "fork_count": 289,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-02T12:32:17Z",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1292
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1292
     }
   ]

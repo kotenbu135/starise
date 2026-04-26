@@ -4,6 +4,7 @@
   "name": "manager",
   "full_name": "linode/manager",
   "description": "The Akamai Cloud Manager is an open-source, single-page application serving as the official UI for interacting with the Linode API. It is trusted by hundreds of thousands of customers to manage their Linode services.",
+  "description_ja": "",
   "url": "https://github.com/linode/manager",
   "homepage_url": "https://cloud.linode.com",
   "language": "TypeScript",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 736
+    },
+    {
+      "date": "2026-04-26",
       "stars": 736
     }
   ]

@@ -4,6 +4,7 @@
   "name": "heroku-buildpack-php",
   "full_name": "heroku/heroku-buildpack-php",
   "description": "Heroku's classic buildpack for PHP applications.",
+  "description_ja": "",
   "url": "https://github.com/heroku/heroku-buildpack-php",
   "homepage_url": "https://devcenter.heroku.com/categories/php-support",
   "language": "Shell",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 816
+    },
+    {
+      "date": "2026-04-26",
       "stars": 816
     }
   ]

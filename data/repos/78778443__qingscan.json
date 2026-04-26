@@ -4,13 +4,14 @@
   "name": "qingscan",
   "full_name": "78778443/qingscan",
   "description": "一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。",
+  "description_ja": "脆弱性スキャナーの統合ツール。ターゲット追加後 30 種類のツールを自動呼び出し。Web スキャン、システムスキャン、サブドメイン収集、ディレクトリスキャン、ホストスキャン、ホスト発見、コンポーネント識別、URL クローラー、XRAY スキャン、AWVS 自動スキャン、POC 一括検証、SSH 一括テスト、vulmap に対応。",
   "url": "https://github.com/78778443/QingScan",
   "homepage_url": "",
   "language": "PHP",
   "license": "",
   "topics": [],
   "star_count": 1830,
-  "fork_count": 295,
+  "fork_count": 294,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-06T02:49:49Z",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1830
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1830
     }
   ]

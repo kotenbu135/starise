@@ -4,6 +4,7 @@
   "name": "babelfish_extensions",
   "full_name": "babelfish-for-postgresql/babelfish_extensions",
   "description": "Babelfish for PostgreSQL provides the capability for PostgreSQL to work with applications written for Microsoft SQL Server. Babelfish understands the SQL Server wire-protocol and T-SQL, the Microsoft SQL Server query and procedural language, so you don’t have to switch database drivers or rewrite all of your application queries.",
+  "description_ja": "",
   "url": "https://github.com/babelfish-for-postgresql/babelfish_extensions",
   "homepage_url": "https://babelfishpg.org/",
   "language": "TSQL",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 329
+    },
+    {
+      "date": "2026-04-26",
       "stars": 329
     }
   ]

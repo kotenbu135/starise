@@ -4,6 +4,7 @@
   "name": "infracost",
   "full_name": "infracost/infracost",
   "description": "Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!",
+  "description_ja": "",
   "url": "https://github.com/infracost/infracost",
   "homepage_url": "https://infracost.io",
   "language": "Go",
@@ -25,12 +26,12 @@
     "terraform",
     "terraform-cost-estimation"
   ],
-  "star_count": 12272,
-  "fork_count": 667,
+  "star_count": 12273,
+  "fork_count": 666,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-24T09:11:56Z",
-  "updated_at": "2026-04-24T09:03:27Z",
+  "updated_at": "2026-04-26T12:29:51Z",
   "pushed_at": "2026-04-24T20:53:47Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 12272
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 12273
     }
   ]
 }

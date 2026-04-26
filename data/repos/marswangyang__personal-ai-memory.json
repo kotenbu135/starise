@@ -4,6 +4,7 @@
   "name": "personal-ai-memory",
   "full_name": "marswangyang/personal-ai-memory",
   "description": "A local-first Chrome extension that passively captures ChatGPT, Gemini, Claude, Grok, Perplexity conversations into a private memory graph. Features in-browser Hybrid RAG (Vector + BM25), semantic search, and 100% privacy via WebAssembly and IndexedDB. No servers, no API keys.",
+  "description_ja": "",
   "url": "https://github.com/marswangyang/personal-ai-memory",
   "homepage_url": "https://ai-memory-beta.vercel.app/",
   "language": "TypeScript",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 36
+    },
+    {
+      "date": "2026-04-26",
       "stars": 36
     }
   ]

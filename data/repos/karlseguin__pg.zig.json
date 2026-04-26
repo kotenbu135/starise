@@ -4,6 +4,7 @@
   "name": "pg.zig",
   "full_name": "karlseguin/pg.zig",
   "description": "Native PostgreSQL driver / client for Zig",
+  "description_ja": "",
   "url": "https://github.com/karlseguin/pg.zig",
   "homepage_url": "",
   "language": "Zig",
@@ -14,12 +15,12 @@
     "zig-library",
     "zig-package"
   ],
-  "star_count": 537,
+  "star_count": 539,
   "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-26T02:13:32Z",
-  "updated_at": "2026-04-25T08:43:35Z",
+  "updated_at": "2026-04-26T01:40:13Z",
   "pushed_at": "2026-04-25T06:00:14Z",
   "deleted_at": "",
   "star_history": [
@@ -30,6 +31,10 @@
     {
       "date": "2026-04-25",
       "stars": 537
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 539
     }
   ]
 }

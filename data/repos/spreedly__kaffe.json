@@ -4,6 +4,7 @@
   "name": "kaffe",
   "full_name": "spreedly/kaffe",
   "description": "An opinionated Elixir wrapper around brod, the Erlang Kafka client, that supports encrypted connections to Heroku Kafka out of the box.",
+  "description_ja": "",
   "url": "https://github.com/spreedly/kaffe",
   "homepage_url": "https://hex.pm/packages/kaffe",
   "language": "Elixir",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 164
+    },
+    {
+      "date": "2026-04-26",
       "stars": 164
     }
   ]

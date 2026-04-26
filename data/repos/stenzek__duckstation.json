@@ -4,6 +4,7 @@
   "name": "duckstation",
   "full_name": "stenzek/duckstation",
   "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+  "description_ja": "",
   "url": "https://github.com/stenzek/duckstation",
   "homepage_url": "",
   "language": "C++",
@@ -21,13 +22,13 @@
     "psx",
     "vulkan"
   ],
-  "star_count": 10043,
+  "star_count": 10045,
   "fork_count": 911,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-09-09T07:00:39Z",
-  "updated_at": "2026-04-25T09:41:25Z",
-  "pushed_at": "2026-04-25T00:47:34Z",
+  "updated_at": "2026-04-26T14:49:50Z",
+  "pushed_at": "2026-04-26T14:57:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 10043
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 10045
     }
   ]
 }

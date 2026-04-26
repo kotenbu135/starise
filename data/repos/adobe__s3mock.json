@@ -4,6 +4,7 @@
   "name": "s3mock",
   "full_name": "adobe/s3mock",
   "description": "A mock implementation of the AWS S3 API startable as Docker image, TestContainer, JUnit 4 rule, JUnit Jupiter extension or TestNG listener",
+  "description_ja": "AWS S3 APIのモック実装。Dockerイメージ、TestContainer、JUnit 4ルール、JUnit Jupiter拡張、TestNGリスナーとして起動可能",
   "url": "https://github.com/adobe/S3Mock",
   "homepage_url": "",
   "language": "Kotlin",
@@ -27,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-07-19T19:23:56Z",
-  "updated_at": "2026-04-23T20:18:25Z",
-  "pushed_at": "2026-04-25T16:39:39Z",
+  "updated_at": "2026-04-25T19:31:03Z",
+  "pushed_at": "2026-04-25T19:48:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1092
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1092
     }
   ]

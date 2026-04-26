@@ -4,6 +4,7 @@
   "name": "youtube_summarizer",
   "full_name": "devrico003/youtube_summarizer",
   "description": "A modern Next.js-based tool for AI-powered YouTube video summarization.   Features smart chapter detection with clickable timestamps,   multi-language support (EN, DE, FR, ES, IT), visual chapter timelines,   and full transcript access with markdown export.",
+  "description_ja": "",
   "url": "https://github.com/DevRico003/youtube_summarizer",
   "homepage_url": "https://www.atmos-code.io",
   "language": "TypeScript",
@@ -24,7 +25,7 @@
     "youtube"
   ],
   "star_count": 208,
-  "fork_count": 62,
+  "fork_count": 63,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-31T11:59:03Z",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 208
+    },
+    {
+      "date": "2026-04-26",
       "stars": 208
     }
   ]

@@ -4,6 +4,7 @@
   "name": "simplevisor",
   "full_name": "ionescu007/simplevisor",
   "description": "SimpleVisor is a simple, portable, Intel VT-x hypervisor with two specific goals: using the least amount of assembly code (10 lines), and having the smallest amount of VMX-related code to support dynamic hyperjacking and unhyperjacking (that is, virtualizing the host state from within the host). It works on Windows and UEFI.",
+  "description_ja": "",
   "url": "https://github.com/ionescu007/SimpleVisor",
   "homepage_url": "http://ionescu007.github.io/SimpleVisor/",
   "language": "C",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1944
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1944
     }
   ]

@@ -4,6 +4,7 @@
   "name": "korean-law-mcp",
   "full_name": "chrisryugj/korean-law-mcp",
   "description": "국가법령정보MCP | 법제처 41개 API → 16개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 + LLM 환각 방지 인용 검증 | 41 Korean legal APIs → 16 MCP tools with AI citation hallucination guard",
+  "description_ja": "",
   "url": "https://github.com/chrisryugj/korean-law-mcp",
   "homepage_url": "https://www.npmjs.com/package/korean-law-mcp",
   "language": "TypeScript",
@@ -28,13 +29,13 @@
     "precedent",
     "typescript"
   ],
-  "star_count": 1585,
-  "fork_count": 303,
+  "star_count": 1593,
+  "fork_count": 305,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-19T11:03:22Z",
-  "updated_at": "2026-04-25T10:47:32Z",
-  "pushed_at": "2026-04-18T02:08:55Z",
+  "updated_at": "2026-04-26T16:28:37Z",
+  "pushed_at": "2026-04-25T18:30:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 1585
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1593
     }
   ]
 }

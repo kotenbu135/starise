@@ -4,6 +4,7 @@
   "name": "mcp-gateway-registry",
   "full_name": "agentic-community/mcp-gateway-registry",
   "description": "Enterprise-ready MCP Gateway \u0026 Registry that centralizes AI development tools with secure OAuth authentication, dynamic tool discovery, and unified access for both autonomous AI agents and AI coding assistants. Transform scattered MCP server chaos into governed, auditable tool access with Keycloak/Entra integration.",
+  "description_ja": "[28] エンタープライズ対応のMCPゲートウェイ＆レジストリ。安全なOAuth認証、動的ツール検出、自律型AIエージェントとAIコーディングアシスタントの両方への統一アクセスでAI開発ツールを集約。Keycloak/Entra統合により、散在するMCPサーバーの混乱を統制された監査可能なツールアクセスに変換。",
   "url": "https://github.com/agentic-community/mcp-gateway-registry",
   "homepage_url": "https://agentic-community.github.io/mcp-gateway-registry/",
   "language": "Python",
@@ -29,13 +30,13 @@
     "skills",
     "terraform"
   ],
-  "star_count": 608,
+  "star_count": 609,
   "fork_count": 158,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-29T18:23:37Z",
-  "updated_at": "2026-04-25T13:57:50Z",
-  "pushed_at": "2026-04-25T13:57:45Z",
+  "updated_at": "2026-04-26T16:29:31Z",
+  "pushed_at": "2026-04-26T01:18:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 608
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 609
     }
   ]
 }

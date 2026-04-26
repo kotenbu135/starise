@@ -4,6 +4,7 @@
   "name": "vector-io",
   "full_name": "ai-northstar-tech/vector-io",
   "description": "Comprehensive Vector Data Tooling. The universal interface for all vector database, datasets and RAG platforms. Easily export, import, backup, re-embed (using any model) or access your vector data from any vector databases or repository.",
+  "description_ja": "包括的なベクトルデータツール群。あらゆるベクトルDB・データセット・RAGプラットフォームの統一インターフェース。任意のベクトルDBやリポジトリからエクスポート、インポート、バックアップ、再埋め込み（任意モデル使用）、アクセスが容易",
   "url": "https://github.com/AI-Northstar-Tech/vector-io",
   "homepage_url": "https://vector-io.com",
   "language": "Jupyter Notebook",
@@ -48,6 +49,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 267
+    },
+    {
+      "date": "2026-04-26",
       "stars": 267
     }
   ]

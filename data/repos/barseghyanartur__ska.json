@@ -4,6 +4,7 @@
   "name": "ska",
   "full_name": "barseghyanartur/ska",
   "description": "Sign data using symmetric-key algorithm encryption. Validate signed data and identify possible validation errors. Uses sha-(1, 224, 256, 385 and 512)/hmac for signature encryption. Custom hash algorithms are allowed. Useful shortcut functions for signing (and validating) dictionaries and URLs.",
+  "description_ja": "",
   "url": "https://github.com/barseghyanartur/ska",
   "homepage_url": "https://pypi.python.org/pypi/ska",
   "language": "Python",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 41
+    },
+    {
+      "date": "2026-04-26",
       "stars": 41
     }
   ]

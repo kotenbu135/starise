@@ -4,6 +4,7 @@
   "name": "cli-terraform",
   "full_name": "akamai/cli-terraform",
   "description": "Akamai CLI plugin Admin Support for multiple OpenAPI resource types",
+  "description_ja": "複数のOpenAPIリソースタイプ向けAdmin Supportを提供するAkamai CLIプラグイン",
   "url": "https://github.com/akamai/cli-terraform",
   "homepage_url": "",
   "language": "Go Template",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

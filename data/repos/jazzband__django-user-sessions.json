@@ -4,6 +4,7 @@
   "name": "django-user-sessions",
   "full_name": "jazzband/django-user-sessions",
   "description": "Extend Django sessions with a foreign key back to the user, allowing enumerating all user's sessions.",
+  "description_ja": "",
   "url": "https://github.com/jazzband/django-user-sessions",
   "homepage_url": "https://pypi.python.org/pypi/django-user-sessions",
   "language": "Python",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 710
+    },
+    {
+      "date": "2026-04-26",
       "stars": 710
     }
   ]

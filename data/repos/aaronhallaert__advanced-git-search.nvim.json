@@ -4,6 +4,7 @@
   "name": "advanced-git-search.nvim",
   "full_name": "aaronhallaert/advanced-git-search.nvim",
   "description": "Search your git history by commit message, content and author in Neovim",
+  "description_ja": "Neovimでgit履歴をコミットメッセージ・内容・著者から検索。",
   "url": "https://github.com/aaronhallaert/advanced-git-search.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 391
+    },
+    {
+      "date": "2026-04-26",
       "stars": 391
     }
   ]

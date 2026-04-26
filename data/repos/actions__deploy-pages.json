@@ -4,6 +4,7 @@
   "name": "deploy-pages",
   "full_name": "actions/deploy-pages",
   "description": "GitHub Action to publish artifacts to GitHub Pages for deployments",
+  "description_ja": "デプロイメント用にGitHub Pagesへ成果物を公開するGitHub Action",
   "url": "https://github.com/actions/deploy-pages",
   "homepage_url": "https://pages.github.com",
   "language": "JavaScript",
@@ -15,12 +16,12 @@
     "github-pages",
     "workflows"
   ],
-  "star_count": 896,
+  "star_count": 897,
   "fork_count": 126,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-14T04:07:28Z",
-  "updated_at": "2026-04-23T09:16:33Z",
+  "updated_at": "2026-04-26T02:58:13Z",
   "pushed_at": "2026-03-25T17:24:12Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 896
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 897
     }
   ]
 }

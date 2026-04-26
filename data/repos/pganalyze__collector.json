@@ -4,6 +4,7 @@
   "name": "collector",
   "full_name": "pganalyze/collector",
   "description": "pganalyze statistics collector for gathering PostgreSQL metrics and log data",
+  "description_ja": "",
   "url": "https://github.com/pganalyze/collector",
   "homepage_url": "https://pganalyze.com",
   "language": "Go",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 397
+    },
+    {
+      "date": "2026-04-26",
       "stars": 397
     }
   ]

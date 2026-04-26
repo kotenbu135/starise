@@ -4,6 +4,7 @@
   "name": "cloudflare-ddns",
   "full_name": "timothymiller/cloudflare-ddns",
   "description": "🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare",
+  "description_ja": "",
   "url": "https://github.com/timothymiller/cloudflare-ddns",
   "homepage_url": "https://timknowsbest.com/free-dynamic-dns",
   "language": "Rust",
@@ -22,7 +23,7 @@
     "self-hosted"
   ],
   "star_count": 4139,
-  "fork_count": 406,
+  "fork_count": 407,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-09-29T19:28:31Z",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 4139
+    },
+    {
+      "date": "2026-04-26",
       "stars": 4139
     }
   ]

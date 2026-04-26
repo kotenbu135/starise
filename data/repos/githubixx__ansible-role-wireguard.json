@@ -4,6 +4,7 @@
   "name": "ansible-role-wireguard",
   "full_name": "githubixx/ansible-role-wireguard",
   "description": "Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora, openSUSE Leap and some Redhat ES variants.",
+  "description_ja": "",
   "url": "https://github.com/githubixx/ansible-role-wireguard",
   "homepage_url": "https://www.tauceti.blog/post/kubernetes-the-not-so-hard-way-with-ansible-wireguard/",
   "language": "Jinja",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 678
+    },
+    {
+      "date": "2026-04-26",
       "stars": 678
     }
   ]

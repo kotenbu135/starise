@@ -4,6 +4,7 @@
   "name": "gtop",
   "full_name": "aksakalli/gtop",
   "description": "System monitoring dashboard for terminal",
+  "description_ja": "ターミナル向けシステム監視ダッシュボード",
   "url": "https://github.com/aksakalli/gtop",
   "homepage_url": "",
   "language": "JavaScript",
@@ -16,12 +17,12 @@
     "top",
     "tui"
   ],
-  "star_count": 9915,
+  "star_count": 9916,
   "fork_count": 337,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-08-09T15:12:28Z",
-  "updated_at": "2026-04-24T21:07:35Z",
+  "updated_at": "2026-04-25T23:28:30Z",
   "pushed_at": "2025-11-06T13:55:02Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 9915
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9916
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "uuid",
   "full_name": "ramsey/uuid",
   "description": ":snowflake: A PHP library for generating universally unique identifiers (UUIDs).",
+  "description_ja": "",
   "url": "https://github.com/ramsey/uuid",
   "homepage_url": "https://uuid.ramsey.dev",
   "language": "PHP",
@@ -16,12 +17,12 @@
     "uid",
     "uuid"
   ],
-  "star_count": 12613,
+  "star_count": 12614,
   "fork_count": 519,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-07-05T23:24:53Z",
-  "updated_at": "2026-04-24T11:40:12Z",
+  "updated_at": "2026-04-25T23:26:31Z",
   "pushed_at": "2026-03-30T22:06:38Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 12613
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 12614
     }
   ]
 }

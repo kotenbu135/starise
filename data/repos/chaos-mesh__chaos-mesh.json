@@ -4,6 +4,7 @@
   "name": "chaos-mesh",
   "full_name": "chaos-mesh/chaos-mesh",
   "description": "A Chaos Engineering Platform for Kubernetes.",
+  "description_ja": "",
   "url": "https://github.com/chaos-mesh/chaos-mesh",
   "homepage_url": "https://chaos-mesh.org",
   "language": "Go",
@@ -24,12 +25,12 @@
     "operator",
     "site-reliability-engineering"
   ],
-  "star_count": 7628,
+  "star_count": 7629,
   "fork_count": 942,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-09-04T02:29:38Z",
-  "updated_at": "2026-04-25T15:04:06Z",
+  "updated_at": "2026-04-26T13:37:10Z",
   "pushed_at": "2026-04-16T09:40:24Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 7628
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 7629
     }
   ]
 }

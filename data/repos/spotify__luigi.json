@@ -4,6 +4,7 @@
   "name": "luigi",
   "full_name": "spotify/luigi",
   "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. ",
+  "description_ja": "",
   "url": "https://github.com/spotify/luigi",
   "homepage_url": "",
   "language": "Python",
@@ -15,12 +16,12 @@
     "python",
     "scheduling"
   ],
-  "star_count": 18705,
+  "star_count": 18706,
   "fork_count": 2449,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-09-20T15:06:38Z",
-  "updated_at": "2026-04-24T04:49:53Z",
+  "updated_at": "2026-04-25T19:48:23Z",
   "pushed_at": "2026-04-10T11:58:23Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 18705
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 18706
     }
   ]
 }

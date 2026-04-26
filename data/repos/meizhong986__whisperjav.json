@@ -4,6 +4,7 @@
   "name": "whisperjav",
   "full_name": "meizhong986/whisperjav",
   "description": "ASR/STT subtitle generator. Uses Qwen3-ASR, local LLM, Whisper, TEN-VAD. Noise-robust for JAV",
+  "description_ja": "",
   "url": "https://github.com/meizhong986/WhisperJAV",
   "homepage_url": "https://github.com/meizhong986/WhisperJAV/releases/latest",
   "language": "Python",
@@ -23,12 +24,12 @@
     "whisper",
     "zipformer"
   ],
-  "star_count": 1492,
+  "star_count": 1499,
   "fork_count": 131,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-18T20:37:14Z",
-  "updated_at": "2026-04-25T15:57:18Z",
+  "updated_at": "2026-04-26T17:09:02Z",
   "pushed_at": "2026-04-20T22:46:39Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 1492
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1499
     }
   ]
 }

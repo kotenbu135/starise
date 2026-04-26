@@ -4,6 +4,7 @@
   "name": "cryptocurrency.cv",
   "full_name": "nirholas/cryptocurrency.cv",
   "description": "Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana \u0026 altcoins. No API key required. RSS/Atom feeds, JSON REST API, historical archive with market context, embeddable widgets, ChatGPT plugin, Claude MCP server, SDKs (Python, TypeScript, Go, React, PHP). AI/LLM ready. Vibe coding friendly. Open source.",
+  "description_ja": "",
   "url": "https://github.com/nirholas/cryptocurrency.cv",
   "homepage_url": "https://cryptocurrency.cv",
   "language": "TypeScript",
@@ -31,7 +32,7 @@
     "web3"
   ],
   "star_count": 160,
-  "fork_count": 26,
+  "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-02T15:06:43Z",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 160
+    },
+    {
+      "date": "2026-04-26",
       "stars": 160
     }
   ]

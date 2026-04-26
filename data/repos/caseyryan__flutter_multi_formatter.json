@@ -4,6 +4,7 @@
   "name": "flutter_multi_formatter",
   "full_name": "caseyryan/flutter_multi_formatter",
   "description": "A set of formatters for text and input fields. Not only it can format a phone number but also automatically detect a country dial code and the name of the country. It also can apply formatting for currencies e.g. you need to convert 100000 into a USD currency value representation. Add MoneyInputFormatter and you can get it e.g. like: $100,000.00 right on the fly or whatever you need. Just see the example of usage",
+  "description_ja": "",
   "url": "https://github.com/caseyryan/flutter_multi_formatter",
   "homepage_url": "https://pub.dev/packages/flutter_multi_formatter",
   "language": "Dart",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 315
+    },
+    {
+      "date": "2026-04-26",
       "stars": 315
     }
   ]

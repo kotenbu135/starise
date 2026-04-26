@@ -4,6 +4,7 @@
   "name": "rippled",
   "full_name": "xrplf/rippled",
   "description": "Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger protocol in C++",
+  "description_ja": "",
   "url": "https://github.com/XRPLF/rippled",
   "homepage_url": "https://xrpl.org",
   "language": "C++",
@@ -17,13 +18,13 @@
     "xrp-ledger",
     "xrpl"
   ],
-  "star_count": 5137,
+  "star_count": 5138,
   "fork_count": 1634,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-11-07T04:40:15Z",
-  "updated_at": "2026-04-24T17:45:58Z",
-  "pushed_at": "2026-04-25T16:36:47Z",
+  "updated_at": "2026-04-26T16:20:51Z",
+  "pushed_at": "2026-04-26T15:49:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 5137
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5138
     }
   ]
 }

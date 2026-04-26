@@ -4,6 +4,7 @@
   "name": "graft",
   "full_name": "orbitinghail/graft",
   "description": "Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications.",
+  "description_ja": "",
   "url": "https://github.com/orbitinghail/graft",
   "homepage_url": "https://graft.rs",
   "language": "Rust",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1465
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1465
     }
   ]

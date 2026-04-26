@@ -4,6 +4,7 @@
   "name": "docker-documentserver",
   "full_name": "onlyoffice/docker-documentserver",
   "description": "ONLYOFFICE Document Server is an online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.",
+  "description_ja": "",
   "url": "https://github.com/ONLYOFFICE/Docker-DocumentServer",
   "homepage_url": "",
   "language": "Shell",
@@ -12,12 +13,12 @@
     "docker-image",
     "onlyoffice"
   ],
-  "star_count": 2201,
-  "fork_count": 692,
+  "star_count": 2202,
+  "fork_count": 693,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-04-17T15:24:38Z",
-  "updated_at": "2026-04-24T10:28:54Z",
+  "updated_at": "2026-04-26T17:34:41Z",
   "pushed_at": "2026-04-25T12:02:28Z",
   "deleted_at": "",
   "star_history": [
@@ -28,6 +29,10 @@
     {
       "date": "2026-04-25",
       "stars": 2201
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2202
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "spring-boot-quick",
   "full_name": "vector4wang/spring-boot-quick",
   "description": ":herb: 基于springboot的快速学习示例,整合自己遇到的开源框架,如：rabbitmq(延迟队列)、Kafka、jpa、redies、oauth2、swagger、jsp、docker、k3s、k3d、k8s、mybatis加解密插件、异常处理、日志输出、多模块开发、多环境打包、缓存cache、爬虫、jwt、GraphQL、dubbo、zookeeper和Async等等:pushpin:",
+  "description_ja": "",
   "url": "https://github.com/vector4wang/spring-boot-quick",
   "homepage_url": "http://blog.wangxc.club",
   "language": "Java",
@@ -30,12 +31,12 @@
     "sse",
     "swagger"
   ],
-  "star_count": 2767,
+  "star_count": 2768,
   "fork_count": 926,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-03-13T12:32:30Z",
-  "updated_at": "2026-04-23T09:33:03Z",
+  "updated_at": "2026-04-26T12:24:36Z",
   "pushed_at": "2026-03-09T10:01:29Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 2767
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2768
     }
   ]
 }

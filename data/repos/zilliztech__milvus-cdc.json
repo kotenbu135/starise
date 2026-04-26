@@ -4,6 +4,7 @@
   "name": "milvus-cdc",
   "full_name": "zilliztech/milvus-cdc",
   "description": "Milvus-CDC is a change data capture tool for Milvus. It can capture the changes of upstream Milvus collections and sink them to downstream Milvus.",
+  "description_ja": "",
   "url": "https://github.com/zilliztech/milvus-cdc",
   "homepage_url": "",
   "language": "Go",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

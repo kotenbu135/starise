@@ -4,6 +4,7 @@
   "name": "tor-relay-scanner",
   "full_name": "valdikss/tor-relay-scanner",
   "description": "Tor Relay availability checker, for using it as a bridge in countries with censorship",
+  "description_ja": "",
   "url": "https://github.com/ValdikSS/tor-relay-scanner",
   "homepage_url": "",
   "language": "Python",
@@ -14,12 +15,12 @@
     "proxy-scanner",
     "tor"
   ],
-  "star_count": 586,
+  "star_count": 588,
   "fork_count": 49,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-12T22:38:55Z",
-  "updated_at": "2026-04-25T09:25:43Z",
+  "updated_at": "2026-04-25T20:57:56Z",
   "pushed_at": "2026-02-04T21:17:30Z",
   "deleted_at": "",
   "star_history": [
@@ -30,6 +31,10 @@
     {
       "date": "2026-04-25",
       "stars": 586
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 588
     }
   ]
 }

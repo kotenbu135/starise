@@ -4,6 +4,7 @@
   "name": "local-llm-pdf-ocr",
   "full_name": "ahnafnafee/local-llm-pdf-ocr",
   "description": "Convert scanned PDFs into searchable text locally using Vision LLMs (olmOCR). 100% private, offline, and free. Features a modern Web UI \u0026 CLI.",
+  "description_ja": "Vision LLM（olmOCR）を使ってスキャンしたPDFをローカルで検索可能なテキストに変換。100%プライベート、オフライン、無料。モダンなWeb UIとCLIを搭載。",
   "url": "https://github.com/ahnafnafee/local-llm-pdf-ocr",
   "homepage_url": "https://www.ahnafnafee.dev/blog/local-llm-pdf-ocr",
   "language": "Python",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 35
+    },
+    {
+      "date": "2026-04-26",
       "stars": 35
     }
   ]

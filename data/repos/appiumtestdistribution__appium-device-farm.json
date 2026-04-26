@@ -4,6 +4,7 @@
   "name": "appium-device-farm",
   "full_name": "appiumtestdistribution/appium-device-farm",
   "description": "This is an Appium 2.0 plugin designed to manage and create driver sessions on available devices.",
+  "description_ja": "",
   "url": "https://github.com/AppiumTestDistribution/appium-device-farm",
   "homepage_url": "https://devicefarm.org",
   "language": "TypeScript",
@@ -21,7 +22,7 @@
     "polling"
   ],
   "star_count": 590,
-  "fork_count": 164,
+  "fork_count": 165,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-03-15T09:45:06Z",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 590
+    },
+    {
+      "date": "2026-04-26",
       "stars": 590
     }
   ]

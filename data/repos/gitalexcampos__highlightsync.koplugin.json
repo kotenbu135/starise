@@ -4,6 +4,7 @@
   "name": "highlightsync.koplugin",
   "full_name": "gitalexcampos/highlightsync.koplugin",
   "description": "A KOReader plugin to sync highlights, notes, and bookmarks across multiple devices using cloud storage like WebDAV or Dropbox.",
+  "description_ja": "",
   "url": "https://github.com/gitalexcampos/highlightsync.koplugin",
   "homepage_url": "",
   "language": "Lua",
@@ -16,12 +17,12 @@
     "koreader",
     "koreader-plugin"
   ],
-  "star_count": 183,
+  "star_count": 184,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-12T14:39:39Z",
-  "updated_at": "2026-04-25T04:07:14Z",
+  "updated_at": "2026-04-26T14:32:44Z",
   "pushed_at": "2026-02-12T16:16:50Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 183
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 184
     }
   ]
 }

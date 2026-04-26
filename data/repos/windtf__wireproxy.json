@@ -4,6 +4,7 @@
   "name": "wireproxy",
   "full_name": "windtf/wireproxy",
   "description": "Wireguard client that exposes itself as a socks5 proxy",
+  "description_ja": "",
   "url": "https://github.com/windtf/wireproxy",
   "homepage_url": "",
   "language": "Go",
@@ -18,12 +19,12 @@
     "wireguard",
     "wireguard-tunnel"
   ],
-  "star_count": 5555,
+  "star_count": 5558,
   "fork_count": 381,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-03-11T12:32:10Z",
-  "updated_at": "2026-04-25T15:18:02Z",
+  "updated_at": "2026-04-26T06:22:26Z",
   "pushed_at": "2026-03-05T15:01:34Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 5555
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5558
     }
   ]
 }

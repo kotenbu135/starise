@@ -4,6 +4,7 @@
   "name": "pydantic-ai-backend",
   "full_name": "vstorm-co/pydantic-ai-backend",
   "description": "File Storage \u0026 Sandbox Backends for Pydantic AI: console tools for file operations, Docker-isolated sandboxes for safe execution, and permission system with presets for access control. Enables secure multi-user handling and testing in agents via in-memory, local, or containerized storage.",
+  "description_ja": "",
   "url": "https://github.com/vstorm-co/pydantic-ai-backend",
   "homepage_url": "https://vstorm-co.github.io/pydantic-ai-backend/",
   "language": "Python",
@@ -27,12 +28,12 @@
     "sandbox",
     "vstorm"
   ],
-  "star_count": 82,
+  "star_count": 83,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-28T04:42:20Z",
-  "updated_at": "2026-04-25T12:40:05Z",
+  "updated_at": "2026-04-26T05:59:27Z",
   "pushed_at": "2026-04-20T21:33:42Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 82
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 83
     }
   ]
 }

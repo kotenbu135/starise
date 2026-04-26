@@ -4,6 +4,7 @@
   "name": "freeim",
   "full_name": "2881099/freeim",
   "description": ".NETCore websocket 实现简易、高性能、集群即时通讯组件，支持点对点通讯、群聊通讯、上线下线事件消息等众多实用性功能.",
+  "description_ja": "シンプルかつ高性能なクラスタ対応リアルタイム通信コンポーネントを.NET Core WebSocketで実装。P2P通信、グループチャット通信、オンライン・オフラインイベントメッセージなど多くの実用機能をサポート",
   "url": "https://github.com/2881099/FreeIM",
   "homepage_url": "",
   "language": "C#",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1580
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1580
     }
   ]

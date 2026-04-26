@@ -4,6 +4,7 @@
   "name": "lemmy",
   "full_name": "lemmynet/lemmy",
   "description": "🐀 A decentralised discussion platform for communities.",
+  "description_ja": "",
   "url": "https://github.com/LemmyNet/lemmy",
   "homepage_url": "https://join-lemmy.org",
   "language": "Rust",
@@ -17,12 +18,12 @@
     "reddit",
     "rust"
   ],
-  "star_count": 14354,
+  "star_count": 14356,
   "fork_count": 948,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-02-14T17:17:17Z",
-  "updated_at": "2026-04-25T13:01:19Z",
+  "updated_at": "2026-04-26T11:38:20Z",
   "pushed_at": "2026-04-24T14:16:45Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 14354
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 14356
     }
   ]
 }

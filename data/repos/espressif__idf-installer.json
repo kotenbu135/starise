@@ -4,6 +4,7 @@
   "name": "idf-installer",
   "full_name": "espressif/idf-installer",
   "description": "ESP IDF Windows Installer",
+  "description_ja": "",
   "url": "https://github.com/espressif/idf-installer",
   "homepage_url": "https://dl.espressif.com/dl/esp-idf/",
   "language": "Inno Setup",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 121
+    },
+    {
+      "date": "2026-04-26",
       "stars": 121
     }
   ]

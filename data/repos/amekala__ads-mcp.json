@@ -4,6 +4,7 @@
   "name": "ads-mcp",
   "full_name": "amekala/ads-mcp",
   "description": "MCP server for managing ad campaigns across Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads. 100+ tools for campaign creation, performance analysis, keyword research, and budget optimization. Works with ChatGPT, Claude, Gemini CLI, Cursor, Codex, and Windsurf.",
+  "description_ja": "Google Ads、Meta Ads、LinkedIn Ads、TikTok Adsの広告キャンペーン管理用MCPサーバー。キャンペーン作成、パフォーマンス分析、キーワードリサーチ、予算最適化のための100以上のツールを提供。ChatGPT、Claude、Gemini CLI、Cursor、Codex、Windsurfに対応",
   "url": "https://github.com/amekala/ads-mcp",
   "homepage_url": "https://www.adspirer.com",
   "language": "Jupyter Notebook",
@@ -26,12 +27,12 @@
     "tiktok-ads",
     "windsurf"
   ],
-  "star_count": 35,
+  "star_count": 36,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-27T23:16:56Z",
-  "updated_at": "2026-04-24T14:12:38Z",
+  "updated_at": "2026-04-26T16:43:00Z",
   "pushed_at": "2026-04-17T23:33:10Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 35
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 36
     }
   ]
 }

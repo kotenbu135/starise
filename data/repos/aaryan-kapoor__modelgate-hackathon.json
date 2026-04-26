@@ -4,6 +4,7 @@
   "name": "modelgate-hackathon",
   "full_name": "aaryan-kapoor/modelgate-hackathon",
   "description": "🏆Winning Project | ModelGate is a contract-aware AI control plane that ingests customer contracts, extracts SLA/privacy/routing constraints, and generates an OpenAI-compatible endpoint that automatically routes every request to the optimal model. Simple queries go to cheap models. Complex queries go to premium ones.",
+  "description_ja": "🏆受賞プロジェクト | ModelGateは契約を理解するAIコントロールプレーン。顧客契約を取り込み、SLA・プライバシー・ルーティング制約を抽出し、全リクエストを最適なモデルへ自動振り分けするOpenAI互換エンドポイントを生成。単純なクエリは安価なモデル、複雑なクエリはプレミアムモデルへ。",
   "url": "https://github.com/Aaryan-Kapoor/ModelGate-Hackathon",
   "homepage_url": "",
   "language": "TypeScript",
@@ -48,6 +49,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

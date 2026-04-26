@@ -4,6 +4,7 @@
   "name": "adaptive-mogrpo",
   "full_name": "nancui0000/adaptive-mogrpo",
   "description": "Adaptive Weight Scheduling for Multi-Objective GRPO in Code Generation. Fixed multi-objective rewards cause reward hacking (short but broken code). Our curriculum approach—correctness first, then gradually adding efficiency/brevity—preserves 81.7% HumanEval while generating 11% shorter code.",
+  "description_ja": "",
   "url": "https://github.com/nancui0000/adaptive-mogrpo",
   "homepage_url": "",
   "language": "Python",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

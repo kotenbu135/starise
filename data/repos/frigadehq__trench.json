@@ -4,6 +4,7 @@
   "name": "trench",
   "full_name": "frigadehq/trench",
   "description": "Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, observability platforms, or any other analytics product.",
+  "description_ja": "",
   "url": "https://github.com/FrigadeHQ/trench",
   "homepage_url": "https://trench.dev",
   "language": "TypeScript",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1623
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1623
     }
   ]

@@ -4,6 +4,7 @@
   "name": "dive",
   "full_name": "wagoodman/dive",
   "description": "A tool for exploring each layer in a docker image",
+  "description_ja": "",
   "url": "https://github.com/wagoodman/dive",
   "homepage_url": "",
   "language": "Go",
@@ -16,12 +17,12 @@
     "inspector",
     "tui"
   ],
-  "star_count": 53831,
-  "fork_count": 1992,
+  "star_count": 53833,
+  "fork_count": 1991,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-05-13T15:44:01Z",
-  "updated_at": "2026-04-25T12:04:25Z",
+  "updated_at": "2026-04-26T16:01:07Z",
   "pushed_at": "2025-12-15T17:20:36Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 53831
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 53833
     }
   ]
 }

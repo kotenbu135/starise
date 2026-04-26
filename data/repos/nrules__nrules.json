@@ -4,6 +4,7 @@
   "name": "nrules",
   "full_name": "nrules/nrules",
   "description": "Rules engine for .NET, based on the Rete matching algorithm, with internal DSL in C#. ",
+  "description_ja": "",
   "url": "https://github.com/NRules/NRules",
   "homepage_url": "https://nrules.net",
   "language": "C#",
@@ -18,7 +19,7 @@
     "rules-engine"
   ],
   "star_count": 1634,
-  "fork_count": 281,
+  "fork_count": 280,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-10-27T20:34:40Z",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1634
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1634
     }
   ]

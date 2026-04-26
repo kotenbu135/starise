@@ -4,6 +4,7 @@
   "name": "laravel-rag",
   "full_name": "moneo/laravel-rag",
   "description": "A complete, driver based RAG pipeline for Laravel with pgvector \u0026 sqlite-vec, streaming, agentic retrieval, hybrid search, evals, MCP server, Filament admin.",
+  "description_ja": "",
   "url": "https://github.com/moneo/laravel-rag",
   "homepage_url": "https://moneo.com.tr/blog/rag-pipelines-now-native-to-laravel",
   "language": "PHP",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 33
+    },
+    {
+      "date": "2026-04-26",
       "stars": 33
     }
   ]

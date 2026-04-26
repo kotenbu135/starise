@@ -4,6 +4,7 @@
   "name": "agentos",
   "full_name": "framersai/agentos",
   "description": "Build autonomous AI agents with adaptive intelligence and emergent behaviors to simulate any scenario. Multimodal RAG included.",
+  "description_ja": "",
   "url": "https://github.com/framersai/agentos",
   "homepage_url": "https://docs.agentos.sh",
   "language": "TypeScript",
@@ -14,27 +15,23 @@
     "agentos",
     "agents",
     "ai-agents",
-    "anthropic",
     "autonomous-agents",
     "emergent-behavior",
     "guardrails",
     "hexaco",
     "llm",
     "multi-agent",
-    "openai",
     "orchestration",
     "personality",
-    "rag",
-    "tool-forging",
-    "typescript"
+    "rag"
   ],
   "star_count": 77,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-28T04:35:14Z",
-  "updated_at": "2026-04-25T06:51:29Z",
-  "pushed_at": "2026-04-25T06:52:26Z",
+  "updated_at": "2026-04-26T07:18:56Z",
+  "pushed_at": "2026-04-26T07:19:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 77
+    },
+    {
+      "date": "2026-04-26",
       "stars": 77
     }
   ]

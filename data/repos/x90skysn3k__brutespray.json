@@ -4,6 +4,7 @@
   "name": "brutespray",
   "full_name": "x90skysn3k/brutespray",
   "description": "Fast, multi-protocol credential brute-forcer. Parses Nmap, Nessus, and Nexpose output to automatically test default and custom credentials across 30+ protocols.",
+  "description_ja": "",
   "url": "https://github.com/x90skysn3k/brutespray",
   "homepage_url": "https://pkg.go.dev/github.com/x90skysn3k/brutespray/v2",
   "language": "Go",
@@ -29,12 +30,12 @@
     "socks5-proxy",
     "ssh"
   ],
-  "star_count": 2410,
+  "star_count": 2412,
   "fork_count": 425,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-04-05T17:05:10Z",
-  "updated_at": "2026-04-25T16:16:54Z",
+  "updated_at": "2026-04-25T22:12:49Z",
   "pushed_at": "2026-04-23T21:25:18Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 2410
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2412
     }
   ]
 }

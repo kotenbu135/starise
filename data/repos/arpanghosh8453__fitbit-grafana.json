@@ -4,6 +4,7 @@
   "name": "fitbit-grafana",
   "full_name": "arpanghosh8453/fitbit-grafana",
   "description": "A script to fetch data from Fitbit servers using their API and store the data in a local influxdb database and visualize them with Grafana",
+  "description_ja": "",
   "url": "https://github.com/arpanghosh8453/fitbit-grafana",
   "homepage_url": "",
   "language": "Python",
@@ -21,13 +22,13 @@
     "python",
     "python3"
   ],
-  "star_count": 851,
+  "star_count": 852,
   "fork_count": 68,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-22T03:21:05Z",
-  "updated_at": "2026-04-24T12:04:23Z",
-  "pushed_at": "2026-04-20T22:37:59Z",
+  "updated_at": "2026-04-26T11:09:41Z",
+  "pushed_at": "2026-04-26T08:54:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 851
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 852
     }
   ]
 }

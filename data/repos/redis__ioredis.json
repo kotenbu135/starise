@@ -4,6 +4,7 @@
   "name": "ioredis",
   "full_name": "redis/ioredis",
   "description": "🚀 A robust, performance-focused, and full-featured Redis client for Node.js.",
+  "description_ja": "",
   "url": "https://github.com/redis/ioredis",
   "homepage_url": "",
   "language": "TypeScript",
@@ -17,12 +18,12 @@
     "redis-sentinel",
     "typescript"
   ],
-  "star_count": 15248,
+  "star_count": 15249,
   "fork_count": 1227,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-04-02T06:42:46Z",
-  "updated_at": "2026-04-25T10:13:43Z",
+  "updated_at": "2026-04-26T10:43:28Z",
   "pushed_at": "2026-04-23T12:29:44Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 15248
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 15249
     }
   ]
 }

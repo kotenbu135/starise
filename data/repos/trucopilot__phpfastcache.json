@@ -4,6 +4,7 @@
   "name": "phpfastcache",
   "full_name": "trucopilot/phpfastcache",
   "description": "A high-performance backend cache system.  It is intended for use in speeding up dynamic web applications by alleviating database load.  Well implemented, it can drops the database load to almost nothing, yielding faster page load times for users, better resource utilization.  It is simple yet powerful. ",
+  "description_ja": "",
   "url": "https://github.com/TruCopilot/phpfastcache",
   "homepage_url": "https://www.phpfastcache.com",
   "language": "PHP",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2409
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2409
     }
   ]

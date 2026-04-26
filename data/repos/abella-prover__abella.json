@@ -4,6 +4,7 @@
   "name": "abella",
   "full_name": "abella-prover/abella",
   "description": "An interactive theorem prover based on lambda-tree syntax",
+  "description_ja": "ラムダツリー構文に基づく対話型定理証明器",
   "url": "https://github.com/abella-prover/abella",
   "homepage_url": "https://abella-prover.org/",
   "language": "OCaml",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

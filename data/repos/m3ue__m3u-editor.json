@@ -4,6 +4,7 @@
   "name": "m3u-editor",
   "full_name": "m3ue/m3u-editor",
   "description": "A full-featured IPTV editor, including features similar to xteve or threadfin. With full EPG management, Xtream API output, ability to store and sync .strm files, post processing with ability to call custom scripts, send webhook requests, or send an email, and much more!",
+  "description_ja": "",
   "url": "https://github.com/m3ue/m3u-editor",
   "homepage_url": "https://m3ue.sparkison.dev/",
   "language": "PHP",
@@ -23,12 +24,12 @@
     "xtream",
     "xtream-codes"
   ],
-  "star_count": 695,
+  "star_count": 696,
   "fork_count": 92,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-21T21:42:29Z",
-  "updated_at": "2026-04-24T10:41:43Z",
+  "updated_at": "2026-04-26T06:29:20Z",
   "pushed_at": "2026-04-25T16:32:32Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 695
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 696
     }
   ]
 }

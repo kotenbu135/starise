@@ -4,6 +4,7 @@
   "name": "certificates",
   "full_name": "smallstep/certificates",
   "description": "🛡️ A private certificate authority (X.509 \u0026 SSH) \u0026 ACME server for secure automated certificate management, so you can use TLS everywhere \u0026 SSO for SSH.",
+  "description_ja": "",
   "url": "https://github.com/smallstep/certificates",
   "homepage_url": "https://smallstep.com/certificates",
   "language": "Go",
@@ -22,12 +23,12 @@
     "tls",
     "x509"
   ],
-  "star_count": 8434,
+  "star_count": 8435,
   "fork_count": 544,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-11-01T03:44:28Z",
-  "updated_at": "2026-04-25T00:21:06Z",
+  "updated_at": "2026-04-26T08:24:27Z",
   "pushed_at": "2026-04-23T00:49:46Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 8434
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8435
     }
   ]
 }

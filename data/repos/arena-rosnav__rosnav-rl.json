@@ -4,6 +4,7 @@
   "name": "rosnav-rl",
   "full_name": "arena-rosnav/rosnav-rl",
   "description": "Modular DRL framework for autonomous robot navigation in ROS2. Plug-and-play RL backends (Stable-Baselines3, DreamerV3), composable reward functions, observation spaces \u0026 neural architectures - built for research and deployment.",
+  "description_ja": "",
   "url": "https://github.com/Arena-Rosnav/rosnav-rl",
   "homepage_url": "https://discord.gg/XDg24s5D",
   "language": "Python",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 85
+    },
+    {
+      "date": "2026-04-26",
       "stars": 85
     }
   ]

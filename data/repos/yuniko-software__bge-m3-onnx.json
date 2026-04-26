@@ -4,6 +4,7 @@
   "name": "bge-m3-onnx",
   "full_name": "yuniko-software/bge-m3-onnx",
   "description": "ONNX implementation of the BGE-M3 multilingual embedding model and tokenizer with native C#, Java, and Python implementations. Generates all three embedding types: dense, sparse, and ColBERT vectors.",
+  "description_ja": "",
   "url": "https://github.com/yuniko-software/bge-m3-onnx",
   "homepage_url": "",
   "language": "Jupyter Notebook",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 35
+    },
+    {
+      "date": "2026-04-26",
       "stars": 35
     }
   ]

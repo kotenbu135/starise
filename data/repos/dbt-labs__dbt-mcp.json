@@ -4,6 +4,7 @@
   "name": "dbt-mcp",
   "full_name": "dbt-labs/dbt-mcp",
   "description": "A MCP (Model Context Protocol) server for interacting with dbt.",
+  "description_ja": "",
   "url": "https://github.com/dbt-labs/dbt-mcp",
   "homepage_url": "",
   "language": "Python",
@@ -17,13 +18,13 @@
     "mcp-server",
     "model-context-protocol"
   ],
-  "star_count": 544,
+  "star_count": 546,
   "fork_count": 115,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-12T20:13:12Z",
-  "updated_at": "2026-04-25T12:14:21Z",
-  "pushed_at": "2026-04-24T15:32:10Z",
+  "updated_at": "2026-04-26T10:41:16Z",
+  "pushed_at": "2026-04-26T16:14:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 544
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 546
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "erlang-rpm",
   "full_name": "rabbitmq/erlang-rpm",
   "description": "Latest Erlang/OTP releases packaged as a zero dependency RPM, just enough for running RabbitMQ",
+  "description_ja": "",
   "url": "https://github.com/rabbitmq/erlang-rpm",
   "homepage_url": "https://rabbitmq.com/install-rpm.html",
   "language": "Shell",
@@ -19,7 +20,7 @@
   "is_fork": false,
   "created_at": "2015-12-09T08:49:56Z",
   "updated_at": "2026-04-22T02:59:48Z",
-  "pushed_at": "2026-04-22T02:59:43Z",
+  "pushed_at": "2026-04-26T00:24:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 578
+    },
+    {
+      "date": "2026-04-26",
       "stars": 578
     }
   ]

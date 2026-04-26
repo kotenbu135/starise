@@ -4,6 +4,7 @@
   "name": "claude-notifications-go",
   "full_name": "777genius/claude-notifications-go",
   "description": "🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation. Instant. Analyze context. Zero dependencies. webhooks (ntfy, slack, telegram...). Linux, MacOS, Windows.",
+  "description_ja": "🔔 Claude Code 向けクロスプラットフォームスマート通知プラグイン。6 種類の通知。クリックでフォーカス。1 行でインストール。即時反応。コンテキストを解析。依存関係ゼロ。webhook (ntfy、slack、telegram など) 対応。Linux、macOS、Windows 対応。",
   "url": "https://github.com/777genius/claude-notifications-go",
   "homepage_url": "",
   "language": "Go",
@@ -21,12 +22,12 @@
     "webhooks",
     "windows"
   ],
-  "star_count": 573,
+  "star_count": 576,
   "fork_count": 72,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-19T15:10:46Z",
-  "updated_at": "2026-04-25T13:58:24Z",
+  "updated_at": "2026-04-26T16:36:38Z",
   "pushed_at": "2026-04-19T10:51:31Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 573
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 576
     }
   ]
 }

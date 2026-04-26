@@ -4,6 +4,7 @@
   "name": "llama-gpt",
   "full_name": "getumbrel/llama-gpt",
   "description": "A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!",
+  "description_ja": "",
   "url": "https://github.com/getumbrel/llama-gpt",
   "homepage_url": "https://apps.umbrel.com/app/llama-gpt",
   "language": "TypeScript",
@@ -26,12 +27,12 @@
     "openai",
     "self-hosted"
   ],
-  "star_count": 10975,
+  "star_count": 10976,
   "fork_count": 714,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-22T20:12:54Z",
-  "updated_at": "2026-04-25T03:05:54Z",
+  "updated_at": "2026-04-25T20:13:08Z",
   "pushed_at": "2024-04-23T18:56:06Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 10975
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 10976
     }
   ]
 }

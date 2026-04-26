@@ -4,6 +4,7 @@
   "name": "tansu",
   "full_name": "tansu-io/tansu",
   "description": "Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake",
+  "description_ja": "",
   "url": "https://github.com/tansu-io/tansu",
   "homepage_url": "https://docs.tansu.io",
   "language": "Rust",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1748
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1748
     }
   ]

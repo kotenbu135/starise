@@ -4,6 +4,7 @@
   "name": "vykar",
   "full_name": "borgbase/vykar",
   "description": "Fast, encrypted, deduplicated backups in Rust — with friendly YAML config, a desktop GUI, and support for S3, custom REST and SFTP storage.",
+  "description_ja": "",
   "url": "https://github.com/borgbase/vykar",
   "homepage_url": "https://vykar.borgbase.com",
   "language": "Rust",
@@ -13,12 +14,12 @@
     "rust",
     "sysadmin"
   ],
-  "star_count": 556,
+  "star_count": 558,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T20:23:32Z",
-  "updated_at": "2026-04-25T15:59:16Z",
+  "updated_at": "2026-04-26T04:13:51Z",
   "pushed_at": "2026-04-24T12:13:23Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 556
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 558
     }
   ]
 }

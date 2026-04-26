@@ -4,6 +4,7 @@
   "name": "breakproof-base-monorepo",
   "full_name": "yotpoltd/breakproof-base-monorepo",
   "description": "📄 A pnpm monorepo template where each tool lives in its own package, runs its own version of Node.js and provides strict default config to be used by your projects and the built-in optimized CI/CD 🔀 Clone to create your own monorepo! 🔄 Pull to update the tools!",
+  "description_ja": "",
   "url": "https://github.com/YotpoLtd/breakproof-base-monorepo",
   "homepage_url": "https://github.com/YotpoLtd/breakproof-base-monorepo/blob/main/README.md",
   "language": "TypeScript",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

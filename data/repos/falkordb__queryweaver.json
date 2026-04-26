@@ -4,6 +4,7 @@
   "name": "queryweaver",
   "full_name": "falkordb/queryweaver",
   "description": "An open-source Text2SQL tool that transforms natural language into SQL using graph-powered schema understanding. Ask your database questions in plain English, QueryWeaver handles the weaving.",
+  "description_ja": "",
   "url": "https://github.com/FalkorDB/QueryWeaver",
   "homepage_url": "https://app.queryweaver.ai",
   "language": "TypeScript",
@@ -13,13 +14,13 @@
     "semantic-layer",
     "text2sql"
   ],
-  "star_count": 957,
+  "star_count": 965,
   "fork_count": 124,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-27T20:21:51Z",
-  "updated_at": "2026-04-25T16:13:39Z",
-  "pushed_at": "2026-04-24T16:09:05Z",
+  "updated_at": "2026-04-26T12:18:45Z",
+  "pushed_at": "2026-04-26T12:56:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 957
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 965
     }
   ]
 }

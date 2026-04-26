@@ -4,6 +4,7 @@
   "name": "r2inspect",
   "full_name": "seifreed/r2inspect",
   "description": "r2inspect is a professional malware analysis framework that automates deep static inspection for PE, ELF, and Mach-O binaries using the radare2 ecosystem. It combines format parsing, detection heuristics, and rich reporting to support reverse engineers, incident responders, and threat analysts.",
+  "description_ja": "",
   "url": "https://github.com/seifreed/r2inspect",
   "homepage_url": "",
   "language": "Python",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

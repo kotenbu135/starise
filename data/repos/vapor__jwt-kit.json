@@ -4,6 +4,7 @@
   "name": "jwt-kit",
   "full_name": "vapor/jwt-kit",
   "description": "🔑 JSON Web Token (JWT) signing and verification (HMAC, ECDSA, EdDSA, MLDSA, RSA, PSS) with support for JWS and JWK",
+  "description_ja": "",
   "url": "https://github.com/vapor/jwt-kit",
   "homepage_url": "https://api.vapor.codes/jwtkit/documentation/jwtkit/",
   "language": "Swift",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 276
+    },
+    {
+      "date": "2026-04-26",
       "stars": 276
     }
   ]

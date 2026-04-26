@@ -4,6 +4,7 @@
   "name": "math",
   "full_name": "stan-dev/math",
   "description": "The Stan Math Library is a C++ template library for automatic differentiation of any order using forward, reverse, and mixed modes.  It includes a range of built-in functions for probabilistic modeling, linear algebra, and equation solving.",
+  "description_ja": "",
   "url": "https://github.com/stan-dev/math",
   "homepage_url": "https://mc-stan.org",
   "language": "C++",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 820
+    },
+    {
+      "date": "2026-04-26",
       "stars": 820
     }
   ]

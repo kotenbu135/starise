@@ -4,6 +4,7 @@
   "name": "image-auditor",
   "full_name": "0franco/image-auditor",
   "description": "🔎 Rust TUI that finds \u0026 AI-fixes Lighthouse image issues (CLS, lazy loading, WebP, srcset) across your entire codebase in seconds.",
+  "description_ja": "🔎 コードベース全体の Lighthouse 画像問題（CLS、遅延読み込み、WebP、srcset）を数秒で発見し AI で修正する Rust 製 TUI",
   "url": "https://github.com/0franco/image-auditor",
   "homepage_url": "",
   "language": "Rust",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 43
+    },
+    {
+      "date": "2026-04-26",
       "stars": 43
     }
   ]

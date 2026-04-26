@@ -4,6 +4,7 @@
   "name": "ethereum-kit-android",
   "full_name": "horizontalsystems/ethereum-kit-android",
   "description": "Comprehensive EVM SDK (Ethereum, Binance Smart Chain, Avalanche, Arbitrum, Optimism, Polygon) for Android, implemented on Kotlin. Create wallets, watch wallets (read-only), sync transactions, filter transactions by type (erc20, bep20, swap transactions etc.), swap using native DEX protocols, connect to DeFi smart contracts using WalletConnect. Easily extendable to work with custom smart contracts. Full support for EIP1159.",
+  "description_ja": "",
   "url": "https://github.com/horizontalsystems/ethereum-kit-android",
   "homepage_url": "https://unstoppable.money",
   "language": "Kotlin",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 118
+    },
+    {
+      "date": "2026-04-26",
       "stars": 118
     }
   ]

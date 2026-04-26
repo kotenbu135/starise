@@ -4,6 +4,7 @@
   "name": "vault-conductor",
   "full_name": "pirafrank/vault-conductor",
   "description": "An SSH Agent that provides SSH keys stored in Bitwarden Secrets Manager",
+  "description_ja": "",
   "url": "https://github.com/pirafrank/vault-conductor",
   "homepage_url": "https://crates.io/crates/vault-conductor",
   "language": "Rust",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 37
+    },
+    {
+      "date": "2026-04-26",
       "stars": 37
     }
   ]

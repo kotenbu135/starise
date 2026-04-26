@@ -4,6 +4,7 @@
   "name": "ginan",
   "full_name": "geoscienceaustralia/ginan",
   "description": "The Australian Government, through Positioning Australia (part of Geoscience Australia), is funding the design, development and operational service of a Global Navigation Satellite System (GNSS) position correction system - the Ginan service and toolkit. The application of the Ginan correction service by a GNSS device has the potential to increase positioning accuracy from meters to centimetres across Australia. The suite of software systems in this repository (the Ginan toolkit) will be used to create the service. It is available now under an open source licence. Ginan will give individuals and organisations no-cost access to the Ginan software and service as a public good.",
+  "description_ja": "",
   "url": "https://github.com/GeoscienceAustralia/ginan",
   "homepage_url": "https://geoscienceaustralia.github.io/ginan/",
   "language": "C++",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 296
+    },
+    {
+      "date": "2026-04-26",
       "stars": 296
     }
   ]

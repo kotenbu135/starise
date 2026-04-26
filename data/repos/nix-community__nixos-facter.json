@@ -4,6 +4,7 @@
   "name": "nixos-facter",
   "full_name": "nix-community/nixos-facter",
   "description": "Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]",
+  "description_ja": "",
   "url": "https://github.com/nix-community/nixos-facter",
   "homepage_url": "https://nix-community.github.io/nixos-facter/",
   "language": "Go",
@@ -13,13 +14,13 @@
     "nix-community-buildbot",
     "nixos"
   ],
-  "star_count": 617,
+  "star_count": 618,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-12T08:51:04Z",
-  "updated_at": "2026-04-25T09:15:21Z",
-  "pushed_at": "2026-04-25T04:36:10Z",
+  "updated_at": "2026-04-26T14:15:47Z",
+  "pushed_at": "2026-04-26T05:11:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 617
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 618
     }
   ]
 }

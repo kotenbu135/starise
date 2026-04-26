@@ -4,6 +4,7 @@
   "name": "rocketride-server",
   "full_name": "rocketride-org/rocketride-server",
   "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
+  "description_ja": "",
   "url": "https://github.com/rocketride-org/rocketride-server",
   "homepage_url": "",
   "language": "C++",
@@ -20,13 +21,13 @@
     "typescript",
     "vscode-extension"
   ],
-  "star_count": 1869,
-  "fork_count": 49,
+  "star_count": 1873,
+  "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T17:02:53Z",
-  "updated_at": "2026-04-25T10:38:46Z",
-  "pushed_at": "2026-04-25T07:17:03Z",
+  "updated_at": "2026-04-26T09:18:00Z",
+  "pushed_at": "2026-04-26T15:58:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 1869
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1873
     }
   ]
 }

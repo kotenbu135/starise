@@ -4,6 +4,7 @@
   "name": "ocaml-cohttp",
   "full_name": "mirage/ocaml-cohttp",
   "description": "An OCaml library for HTTP clients and servers using Lwt or Async",
+  "description_ja": "",
   "url": "https://github.com/mirage/ocaml-cohttp",
   "homepage_url": "",
   "language": "OCaml",
@@ -15,12 +16,12 @@
     "ocaml",
     "unix"
   ],
-  "star_count": 773,
+  "star_count": 769,
   "fork_count": 182,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2009-09-30T12:48:23Z",
-  "updated_at": "2026-04-17T21:32:10Z",
+  "updated_at": "2026-04-26T14:59:07Z",
   "pushed_at": "2026-04-17T21:32:05Z",
   "deleted_at": "",
   "star_history": [
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 773
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 769
     }
   ]
 }

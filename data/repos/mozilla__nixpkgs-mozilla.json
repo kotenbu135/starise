@@ -4,6 +4,7 @@
   "name": "nixpkgs-mozilla",
   "full_name": "mozilla/nixpkgs-mozilla",
   "description": "Mozilla overlay for Nixpkgs.",
+  "description_ja": "",
   "url": "https://github.com/mozilla/nixpkgs-mozilla",
   "homepage_url": "",
   "language": "Nix",
@@ -13,12 +14,12 @@
     "nix-overlay",
     "rustlang"
   ],
-  "star_count": 582,
+  "star_count": 583,
   "fork_count": 131,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-06-16T22:14:00Z",
-  "updated_at": "2026-04-21T08:38:07Z",
+  "updated_at": "2026-04-26T08:44:09Z",
   "pushed_at": "2026-03-26T18:34:07Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 582
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 583
     }
   ]
 }

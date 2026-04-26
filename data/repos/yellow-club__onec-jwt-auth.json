@@ -4,6 +4,7 @@
   "name": "onec-jwt-auth",
   "full_name": "yellow-club/onec-jwt-auth",
   "description": "Готовый продукт на 1С для авторизации HTTP API: выдача JWT по PAT (резерв — Basic) и проверка входящих JWT (RS256). Права через области доступа и роли поверх 1С. Двойной контроль токена: валидатор платформы + проверка сессии в регистре. В логах секреты подчищаются, ошибки аккуратно маппятся в 401/403/500. Есть пример API для расширения.",
+  "description_ja": "",
   "url": "https://github.com/yellow-club/onec-jwt-auth",
   "homepage_url": "",
   "language": "1C Enterprise",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

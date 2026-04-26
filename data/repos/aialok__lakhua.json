@@ -4,6 +4,7 @@
   "name": "lakhua",
   "full_name": "aialok/lakhua",
   "description": "Lightweight, blazing fast offline reverse geocoding for India using H3 and OpenStreetMap. Zero API costs. Sub millisecond latency.",
+  "description_ja": "H3とOpenStreetMapを用いたインド向けの軽量・超高速オフライン逆ジオコーディング。API費用ゼロ。サブミリ秒のレイテンシ",
   "url": "https://github.com/aialok/lakhua",
   "homepage_url": "https://www.npmjs.com/package/@aialok/lakhua",
   "language": "Python",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 50
+    },
+    {
+      "date": "2026-04-26",
       "stars": 50
     }
   ]

@@ -4,6 +4,7 @@
   "name": "pgsync",
   "full_name": "ankane/pgsync",
   "description": "Sync data from one Postgres database to another",
+  "description_ja": "あるPostgresデータベースから別のPostgresへデータを同期",
   "url": "https://github.com/ankane/pgsync",
   "homepage_url": "",
   "language": "Ruby",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3447
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3447
     }
   ]

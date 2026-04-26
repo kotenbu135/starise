@@ -4,6 +4,7 @@
   "name": "lakesoul",
   "full_name": "lakesoul-io/lakesoul",
   "description": "LakeSoul is an end-to-end, realtime and cloud native Lakehouse framework with fast data ingestion, concurrent update and incremental data analytics on cloud storages for both BI and AI applications.",
+  "description_ja": "",
   "url": "https://github.com/lakesoul-io/LakeSoul",
   "homepage_url": "https://lakesoul-io.github.io/",
   "language": "Java",
@@ -28,12 +29,12 @@
     "vectorized",
     "velox"
   ],
-  "star_count": 3230,
+  "star_count": 3231,
   "fork_count": 415,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-28T08:53:11Z",
-  "updated_at": "2026-04-24T08:28:40Z",
+  "updated_at": "2026-04-25T21:29:43Z",
   "pushed_at": "2026-04-23T11:16:33Z",
   "deleted_at": "",
   "star_history": [
@@ -48,6 +49,10 @@
     {
       "date": "2026-04-25",
       "stars": 3230
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3231
     }
   ]
 }

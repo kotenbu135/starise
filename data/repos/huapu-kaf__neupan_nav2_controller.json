@@ -4,6 +4,7 @@
   "name": "neupan_nav2_controller",
   "full_name": "huapu-kaf/neupan_nav2_controller",
   "description": "NeuPAN neural path-following Nav2 controller plugin (ROS 2 Humble). Includes vendored NeuPAN core, configs, and in-package models for out-of-the-box use.",
+  "description_ja": "",
   "url": "https://github.com/huapu-kaf/neupan_nav2_controller",
   "homepage_url": "",
   "language": "C++",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

@@ -4,6 +4,7 @@
   "name": "cloud-mail-server",
   "full_name": "xvhuan/cloud-mail-server",
   "description": "纯服务器自建临时邮箱平台，Docker 一键部署，无 Cloudflare 收信依赖；仅开放 25（SMTP）与 8787（Web/API）端口。",
+  "description_ja": "",
   "url": "https://github.com/xvhuan/Cloud-Mail-Server",
   "homepage_url": "",
   "language": "JavaScript",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 50
+    },
+    {
+      "date": "2026-04-26",
       "stars": 50
     }
   ]

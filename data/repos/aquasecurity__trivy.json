@@ -4,6 +4,7 @@
   "name": "trivy",
   "full_name": "aquasecurity/trivy",
   "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+  "description_ja": "",
   "url": "https://github.com/aquasecurity/trivy",
   "homepage_url": "https://trivy.dev",
   "language": "Go",
@@ -25,12 +26,12 @@
     "vulnerability-detection",
     "vulnerability-scanners"
   ],
-  "star_count": 34703,
-  "fork_count": 317,
+  "star_count": 34712,
+  "fork_count": 320,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-11T01:01:07Z",
-  "updated_at": "2026-04-25T16:15:06Z",
+  "updated_at": "2026-04-26T15:58:45Z",
   "pushed_at": "2026-04-24T11:55:12Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 34703
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 34712
     }
   ]
 }

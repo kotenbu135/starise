@@ -4,6 +4,7 @@
   "name": "iati.cloud",
   "full_name": "zimmerman-team/iati.cloud",
   "description": "IATI datastore powered by Apache Solr. Automatically Extracts and parses IATI XML files referenced in the IATI Registry \u0026 refreshed every 3 hrs. IATI is a global initiative to improve the transparency of development and humanitarian resources and their results for addressing poverty and crises.",
+  "description_ja": "",
   "url": "https://github.com/zimmerman-team/IATI.cloud",
   "homepage_url": "https://datastore.iati.cloud",
   "language": "Python",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 33
+    },
+    {
+      "date": "2026-04-26",
       "stars": 33
     }
   ]

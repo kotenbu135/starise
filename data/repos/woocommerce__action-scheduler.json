@@ -4,6 +4,7 @@
   "name": "action-scheduler",
   "full_name": "woocommerce/action-scheduler",
   "description": "A scalable, traceable job queue for background processing large queues of tasks in WordPress. Specifically designed for distribution in WordPress plugins (and themes) - no server access required.",
+  "description_ja": "",
   "url": "https://github.com/woocommerce/action-scheduler",
   "homepage_url": "https://actionscheduler.org",
   "language": "PHP",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 708
+    },
+    {
+      "date": "2026-04-26",
       "stars": 708
     }
   ]

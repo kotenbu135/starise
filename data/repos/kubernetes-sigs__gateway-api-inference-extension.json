@@ -4,6 +4,7 @@
   "name": "gateway-api-inference-extension",
   "full_name": "kubernetes-sigs/gateway-api-inference-extension",
   "description": "Gateway API Inference Extension",
+  "description_ja": "",
   "url": "https://github.com/kubernetes-sigs/gateway-api-inference-extension",
   "homepage_url": "https://gateway-api-inference-extension.sigs.k8s.io/",
   "language": "Go",
@@ -11,13 +12,13 @@
   "topics": [
     "k8s-sig-network"
   ],
-  "star_count": 657,
+  "star_count": 656,
   "fork_count": 281,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-28T20:04:10Z",
-  "updated_at": "2026-04-25T08:46:12Z",
-  "pushed_at": "2026-04-24T19:56:47Z",
+  "updated_at": "2026-04-26T14:22:10Z",
+  "pushed_at": "2026-04-26T07:06:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 657
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 656
     }
   ]
 }

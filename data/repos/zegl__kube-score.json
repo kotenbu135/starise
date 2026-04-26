@@ -4,6 +4,7 @@
   "name": "kube-score",
   "full_name": "zegl/kube-score",
   "description": "Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kubernetes.",
+  "description_ja": "",
   "url": "https://github.com/zegl/kube-score",
   "homepage_url": "https://kube-score.com",
   "language": "Go",
@@ -27,12 +28,12 @@
     "static-code-analysis",
     "static-code-analyzer"
   ],
-  "star_count": 3057,
+  "star_count": 3060,
   "fork_count": 197,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-09-16T13:19:19Z",
-  "updated_at": "2026-04-23T06:42:48Z",
+  "updated_at": "2026-04-26T15:07:02Z",
   "pushed_at": "2026-04-10T11:02:44Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 3057
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3060
     }
   ]
 }

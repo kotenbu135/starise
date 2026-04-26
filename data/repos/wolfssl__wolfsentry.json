@@ -4,6 +4,7 @@
   "name": "wolfsentry",
   "full_name": "wolfssl/wolfsentry",
   "description": "wolfSSL Intrusion Detection and Prevention System (IDPS)",
+  "description_ja": "",
   "url": "https://github.com/wolfSSL/wolfsentry",
   "homepage_url": "https://www.wolfssl.com/",
   "language": "C",
@@ -29,12 +30,12 @@
     "security-tools",
     "wolfssl"
   ],
-  "star_count": 50,
+  "star_count": 51,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-20T20:24:46Z",
-  "updated_at": "2026-04-23T12:02:23Z",
+  "updated_at": "2026-04-26T07:31:47Z",
   "pushed_at": "2026-04-17T17:28:27Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 50
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 51
     }
   ]
 }

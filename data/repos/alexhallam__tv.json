@@ -4,6 +4,7 @@
   "name": "tv",
   "full_name": "alexhallam/tv",
   "description": "📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.",
+  "description_ja": "📺(tv) Tidy Viewerは、列のスタイリングで見やすさを最大化する、クロスプラットフォーム対応のCLI製CSV整形ツール",
   "url": "https://github.com/alexhallam/tv",
   "homepage_url": "",
   "language": "Rust",
@@ -29,12 +30,12 @@
     "terminal",
     "tibble"
   ],
-  "star_count": 2149,
+  "star_count": 2150,
   "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-30T13:18:16Z",
-  "updated_at": "2026-04-18T09:38:43Z",
+  "updated_at": "2026-04-26T15:47:44Z",
   "pushed_at": "2025-08-21T00:29:44Z",
   "deleted_at": "",
   "star_history": [
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 2149
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2150
     }
   ]
 }

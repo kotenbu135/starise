@@ -4,6 +4,7 @@
   "name": "text-splitter",
   "full_name": "benbrandt/text-splitter",
   "description": "Split text into semantic chunks, up to a desired chunk size. Supports calculating length by characters and tokens, and is callable from Rust and Python.",
+  "description_ja": "",
   "url": "https://github.com/benbrandt/text-splitter",
   "homepage_url": "",
   "language": "Rust",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 594
+    },
+    {
+      "date": "2026-04-26",
       "stars": 594
     }
   ]

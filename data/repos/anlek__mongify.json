@@ -4,6 +4,7 @@
   "name": "mongify",
   "full_name": "anlek/mongify",
   "description": "Mongify allows you to map your data from a sql database and into a mongodb document database.",
+  "description_ja": "MongifyはSQLデータベースからMongoDBドキュメントデータベースへのデータマッピングを可能にします。",
   "url": "https://github.com/anlek/mongify",
   "homepage_url": "http://github.com/anlek/mongify",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 315
+    },
+    {
+      "date": "2026-04-26",
       "stars": 315
     }
   ]

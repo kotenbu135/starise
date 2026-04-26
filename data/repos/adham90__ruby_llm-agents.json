@@ -4,6 +4,7 @@
   "name": "ruby_llm-agents",
   "full_name": "adham90/ruby_llm-agents",
   "description": "A Rails agent framework for RubyLLM — define AI agents with prompts, schemas, caching, logging, cost tracking, and a built-in dashboard for monitoring LLM usage in production.",
+  "description_ja": "[9] RubyLLM向けRailsエージェントフレームワーク。プロンプト、スキーマ、キャッシュ、ロギング、コスト追跡を備えたAIエージェントを定義し、本番環境でのLLM利用を監視する組み込みダッシュボード付き",
   "url": "https://github.com/adham90/ruby_llm-agents",
   "homepage_url": "https://rubygems.org/gems/ruby_llm-agents",
   "language": "Ruby",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 123
+    },
+    {
+      "date": "2026-04-26",
       "stars": 123
     }
   ]

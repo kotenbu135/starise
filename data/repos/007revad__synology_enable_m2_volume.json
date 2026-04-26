@@ -4,6 +4,7 @@
   "name": "synology_enable_m2_volume",
   "full_name": "007revad/synology_enable_m2_volume",
   "description": "Enable creating volumes with non-Synology M.2 drives",
+  "description_ja": "Synology純正以外のM.2ドライブでのボリューム作成を可能にする",
   "url": "https://github.com/007revad/Synology_enable_M2_volume",
   "homepage_url": "",
   "language": "Shell",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 765
+    },
+    {
+      "date": "2026-04-26",
       "stars": 765
     }
   ]

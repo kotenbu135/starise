@@ -4,6 +4,7 @@
   "name": "workflows",
   "full_name": "warpdotdev/workflows",
   "description": "Workflows make it easy to browse, search, execute and share commands (or a series of commands)--without needing to leave your terminal.",
+  "description_ja": "",
   "url": "https://github.com/warpdotdev/workflows",
   "homepage_url": "https://commands.dev",
   "language": "Rust",
@@ -14,7 +15,7 @@
     "zsh"
   ],
   "star_count": 769,
-  "fork_count": 149,
+  "fork_count": 150,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-23T15:33:16Z",
@@ -24,6 +25,10 @@
   "star_history": [
     {
       "date": "2026-04-25",
+      "stars": 769
+    },
+    {
+      "date": "2026-04-26",
       "stars": 769
     }
   ]

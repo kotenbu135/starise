@@ -4,6 +4,7 @@
   "name": "silly",
   "full_name": "findstr/silly",
   "description": "A lightweight coroutine-based Lua network framework. TCP, TLS, WebSocket, gRPC, Redis, MySQL, Crypto, Prometheus, etcd v3, gzip, snappy, lz4.",
+  "description_ja": "",
   "url": "https://github.com/findstr/silly",
   "homepage_url": "https://findstr.github.io/silly/",
   "language": "Lua",
@@ -22,7 +23,7 @@
   "is_fork": false,
   "created_at": "2015-06-27T04:13:38Z",
   "updated_at": "2026-04-25T04:44:19Z",
-  "pushed_at": "2026-04-25T04:45:32Z",
+  "pushed_at": "2026-04-26T12:52:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 119
+    },
+    {
+      "date": "2026-04-26",
       "stars": 119
     }
   ]

@@ -4,6 +4,7 @@
   "name": "docker",
   "full_name": "remnux/docker",
   "description": "This repository contains Dockerfiles for building Docker images of popular malware analysis tools, which are distributed through the REMnux repository on Docker Hub.",
+  "description_ja": "",
   "url": "https://github.com/REMnux/docker",
   "homepage_url": "https://REMnux.org",
   "language": "Dockerfile",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 299
+    },
+    {
+      "date": "2026-04-26",
       "stars": 299
     }
   ]

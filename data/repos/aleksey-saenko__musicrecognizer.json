@@ -4,6 +4,7 @@
   "name": "musicrecognizer",
   "full_name": "aleksey-saenko/musicrecognizer",
   "description": "An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.",
+  "description_ja": "AudD、ACRCloud、Shazamを統合し、楽曲識別を行うオープンソースのAndroid向け音楽認識アプリ。",
   "url": "https://github.com/aleksey-saenko/MusicRecognizer",
   "homepage_url": "",
   "language": "Kotlin",
@@ -22,12 +23,12 @@
     "shazam",
     "shazam-like"
   ],
-  "star_count": 1071,
+  "star_count": 1076,
   "fork_count": 42,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-01T12:09:49Z",
-  "updated_at": "2026-04-25T16:58:16Z",
+  "updated_at": "2026-04-26T11:09:50Z",
   "pushed_at": "2026-04-25T08:24:01Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 1071
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1076
     }
   ]
 }

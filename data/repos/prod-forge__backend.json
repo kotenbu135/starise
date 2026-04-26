@@ -4,6 +4,7 @@
   "name": "backend",
   "full_name": "prod-forge/backend",
   "description": "What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.",
+  "description_ja": "",
   "url": "https://github.com/prod-forge/backend",
   "homepage_url": "",
   "language": "TypeScript",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 72
+    },
+    {
+      "date": "2026-04-26",
       "stars": 72
     }
   ]

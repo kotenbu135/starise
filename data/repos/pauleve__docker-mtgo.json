@@ -4,6 +4,7 @@
   "name": "docker-mtgo",
   "full_name": "pauleve/docker-mtgo",
   "description": "Docker image with ready-to-play MTGO (Magic Online) for Linux and macOS",
+  "description_ja": "",
   "url": "https://github.com/pauleve/docker-mtgo",
   "homepage_url": "https://hub.docker.com/r/panard/mtgo/",
   "language": "Shell",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 545
+    },
+    {
+      "date": "2026-04-26",
       "stars": 545
     }
   ]

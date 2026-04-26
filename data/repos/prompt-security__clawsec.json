@@ -4,6 +4,7 @@
   "name": "clawsec",
   "full_name": "prompt-security/clawsec",
   "description": "A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite.",
+  "description_ja": "",
   "url": "https://github.com/prompt-security/clawsec",
   "homepage_url": "https://prompt.security/clawsec",
   "language": "JavaScript",
@@ -24,15 +25,17 @@
     "openclaw-plugin",
     "openclaw-security",
     "openclaw-skill",
-    "openclaw-skills"
+    "openclaw-skills",
+    "picoclaw",
+    "picoclaw-install"
   ],
-  "star_count": 926,
-  "fork_count": 95,
+  "star_count": 950,
+  "fork_count": 99,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T19:59:46Z",
-  "updated_at": "2026-04-25T14:08:24Z",
-  "pushed_at": "2026-04-25T06:29:18Z",
+  "updated_at": "2026-04-26T16:15:52Z",
+  "pushed_at": "2026-04-26T11:38:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +49,10 @@
     {
       "date": "2026-04-25",
       "stars": 926
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 950
     }
   ]
 }

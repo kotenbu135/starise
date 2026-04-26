@@ -4,6 +4,7 @@
   "name": "apx",
   "full_name": "vanilla-os/apx",
   "description": "Apx (/à·peks/) is the default package manager in Vanilla OS. It is a wrapper around multiple package managers to install packages and run commands inside a managed container.",
+  "description_ja": "",
   "url": "https://github.com/Vanilla-OS/apx",
   "homepage_url": "https://dev-apx.vanillaos.org",
   "language": "Go",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 575
+    },
+    {
+      "date": "2026-04-26",
       "stars": 575
     }
   ]

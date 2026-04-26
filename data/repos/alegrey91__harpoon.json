@@ -4,6 +4,7 @@
   "name": "harpoon",
   "full_name": "alegrey91/harpoon",
   "description": "🔍  Function-level tracing tool for Seccomp profiling, with eBPF",
+  "description_ja": "🔍 eBPFを活用したSeccompプロファイリング向け、関数レベルトレーシングツール",
   "url": "https://github.com/alegrey91/harpoon",
   "homepage_url": "https://alegrey91.github.io/harpoon/",
   "language": "C",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 176
+    },
+    {
+      "date": "2026-04-26",
       "stars": 176
     }
   ]

@@ -4,6 +4,7 @@
   "name": "dtctl",
   "full_name": "dynatrace-oss/dtctl",
   "description": "CLI for managing Dynatrace platform resources - built for humans and AI agents alike",
+  "description_ja": "",
   "url": "https://github.com/dynatrace-oss/dtctl",
   "homepage_url": "https://dynatrace-oss.github.io/dtctl/",
   "language": "Go",
@@ -17,12 +18,12 @@
     "monitoring",
     "observability"
   ],
-  "star_count": 125,
-  "fork_count": 34,
+  "star_count": 126,
+  "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-09T14:29:29Z",
-  "updated_at": "2026-04-23T06:24:35Z",
+  "updated_at": "2026-04-25T22:23:05Z",
   "pushed_at": "2026-04-24T07:02:10Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 125
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 126
     }
   ]
 }

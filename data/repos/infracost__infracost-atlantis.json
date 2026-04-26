@@ -4,6 +4,7 @@
   "name": "infracost-atlantis",
   "full_name": "infracost/infracost-atlantis",
   "description": "Atlantis integration for Infracost. Shows cloud cost estimates for Terraform in pull requests.",
+  "description_ja": "",
   "url": "https://github.com/infracost/infracost-atlantis",
   "homepage_url": "https://infracost.io",
   "language": "Dockerfile",
@@ -19,7 +20,7 @@
     "terraform-cost-estimation"
   ],
   "star_count": 150,
-  "fork_count": 22,
+  "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-02-04T13:34:22Z",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 150
+    },
+    {
+      "date": "2026-04-26",
       "stars": 150
     }
   ]

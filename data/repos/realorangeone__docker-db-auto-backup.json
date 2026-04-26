@@ -4,6 +4,7 @@
   "name": "docker-db-auto-backup",
   "full_name": "realorangeone/docker-db-auto-backup",
   "description": "A script to automatically back up all databases running under docker on a host",
+  "description_ja": "",
   "url": "https://github.com/RealOrangeOne/docker-db-auto-backup",
   "homepage_url": "https://theorangeone.net/projects/docker-db-auto-backup/",
   "language": "Python",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 196
+    },
+    {
+      "date": "2026-04-26",
       "stars": 196
     }
   ]

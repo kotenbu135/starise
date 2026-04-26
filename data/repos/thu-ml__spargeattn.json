@@ -4,6 +4,7 @@
   "name": "spargeattn",
   "full_name": "thu-ml/spargeattn",
   "description": "[ICML2025] SpargeAttention: A training-free sparse attention that accelerates any model inference.",
+  "description_ja": "",
   "url": "https://github.com/thu-ml/SpargeAttn",
   "homepage_url": "https://arxiv.org/abs/2502.18137",
   "language": "Cuda",
@@ -21,12 +22,12 @@
     "vision-transformer",
     "vit"
   ],
-  "star_count": 985,
+  "star_count": 986,
   "fork_count": 91,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-25T10:03:09Z",
-  "updated_at": "2026-04-23T06:34:56Z",
+  "updated_at": "2026-04-26T06:40:58Z",
   "pushed_at": "2026-02-25T00:07:21Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 985
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 986
     }
   ]
 }

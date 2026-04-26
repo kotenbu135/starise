@@ -4,6 +4,7 @@
   "name": "aboutcode-toolkit",
   "full_name": "aboutcode-org/aboutcode-toolkit",
   "description": ":white_check_mark: AboutCode Toolkit provides a simple way to document provenance metadata (origin and license) about third-party code that you use in your project: it includes utilities to generate inventory/BOM or Attribution documentation.",
+  "description_ja": "AboutCode Toolkit はプロジェクトで利用するサードパーティコードの来歴メタデータ（出自・ライセンス）を簡単に文書化する手段を提供。インベントリ/BOM や Attribution ドキュメント生成ユーティリティを含む",
   "url": "https://github.com/aboutcode-org/aboutcode-toolkit",
   "homepage_url": "",
   "language": "Python",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

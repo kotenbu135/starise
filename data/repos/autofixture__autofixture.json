@@ -4,6 +4,7 @@
   "name": "autofixture",
   "full_name": "autofixture/autofixture",
   "description": "AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.",
+  "description_ja": "",
   "url": "https://github.com/AutoFixture/AutoFixture",
   "homepage_url": "",
   "language": "C#",
@@ -29,13 +30,13 @@
     "unit-testing",
     "xunit"
   ],
-  "star_count": 3526,
+  "star_count": 3527,
   "fork_count": 357,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-05-29T00:00:02Z",
-  "updated_at": "2026-04-22T23:21:16Z",
-  "pushed_at": "2026-04-22T23:21:11Z",
+  "updated_at": "2026-04-26T11:43:27Z",
+  "pushed_at": "2026-04-25T20:46:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 3526
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3527
     }
   ]
 }

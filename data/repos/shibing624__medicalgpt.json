@@ -4,6 +4,7 @@
   "name": "medicalgpt",
   "full_name": "shibing624/medicalgpt",
   "description": "MedicalGPT: Training Your Own Medical GPT Model with ChatGPT Training Pipeline. 训练医疗大模型，实现了包括增量预训练(PT)、有监督微调(SFT)、RLHF、DPO、ORPO、GRPO。",
+  "description_ja": "",
   "url": "https://github.com/shibing624/MedicalGPT",
   "homepage_url": "",
   "language": "Python",
@@ -17,12 +18,12 @@
     "medical",
     "medicalgpt"
   ],
-  "star_count": 5309,
-  "fork_count": 743,
+  "star_count": 5313,
+  "fork_count": 742,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-06-02T06:07:11Z",
-  "updated_at": "2026-04-25T13:55:22Z",
+  "updated_at": "2026-04-26T12:32:48Z",
   "pushed_at": "2026-04-23T02:32:27Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 5309
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5313
     }
   ]
 }

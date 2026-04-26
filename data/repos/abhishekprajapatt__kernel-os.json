@@ -4,6 +4,7 @@
   "name": "kernel-os",
   "full_name": "abhishekprajapatt/kernel-os",
   "description": "⚙️ Kernel-OS - Minimal 64-bit x86 bare-metal kernel featuring VGA text output, multiboot GRUB booting, and long-mode setup. Built from scratch with custom x86_64-elf toolchain, C, NASM, and Docker for easy cross-compilation and QEMU emulation.",
+  "description_ja": "⚙️ Kernel-OS — VGAテキスト出力、multiboot GRUBブート、ロングモード設定を備えたミニマルな64ビットx86ベアメタルカーネル。x86_64-elfカスタムツールチェーン、C、NASM、Dockerでスクラッチから構築し、クロスコンパイルとQEMUエミュレーションを容易にしています。",
   "url": "https://github.com/abhishekprajapatt/kernel-os",
   "homepage_url": "https://github.com/abhishekprajapatt/kernel-os",
   "language": "Assembly",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

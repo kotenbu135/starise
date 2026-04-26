@@ -4,6 +4,7 @@
   "name": "vanadium",
   "full_name": "grapheneos/vanadium",
   "description": "Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.",
+  "description_ja": "",
   "url": "https://github.com/GrapheneOS/Vanadium",
   "homepage_url": "https://vanadium.app/",
   "language": "Shell",
@@ -17,12 +18,12 @@
     "security",
     "webview"
   ],
-  "star_count": 1747,
+  "star_count": 1751,
   "fork_count": 104,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-11-22T21:01:40Z",
-  "updated_at": "2026-04-24T23:18:18Z",
+  "updated_at": "2026-04-26T14:38:16Z",
   "pushed_at": "2026-04-24T23:18:12Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 1747
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1751
     }
   ]
 }

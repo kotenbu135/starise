@@ -4,6 +4,7 @@
   "name": "portable",
   "full_name": "libressl/portable",
   "description": "LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome.",
+  "description_ja": "",
   "url": "https://github.com/libressl/portable",
   "homepage_url": "https://www.libressl.org",
   "language": "C",
@@ -23,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-07-11T12:14:29Z",
-  "updated_at": "2026-04-25T07:38:39Z",
-  "pushed_at": "2026-04-25T07:38:57Z",
+  "updated_at": "2026-04-26T08:23:00Z",
+  "pushed_at": "2026-04-26T08:22:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1471
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1471
     }
   ]

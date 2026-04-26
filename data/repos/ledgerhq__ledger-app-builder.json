@@ -4,6 +4,7 @@
   "name": "ledger-app-builder",
   "full_name": "ledgerhq/ledger-app-builder",
   "description": "Docker image to compile app for Ledger device (NanoS, X, S+, Stax and Flex).",
+  "description_ja": "",
   "url": "https://github.com/LedgerHQ/ledger-app-builder",
   "homepage_url": "",
   "language": "Dockerfile",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

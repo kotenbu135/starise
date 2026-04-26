@@ -4,6 +4,7 @@
   "name": "app",
   "full_name": "wip/app",
   "description": "The WIP GitHub App",
+  "description_ja": "",
   "url": "https://github.com/wip/app",
   "homepage_url": "https://wip.vercel.app/",
   "language": "JavaScript",
@@ -13,7 +14,7 @@
     "probot-app"
   ],
   "star_count": 746,
-  "fork_count": 135,
+  "fork_count": 136,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-06-30T21:22:36Z",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 746
+    },
+    {
+      "date": "2026-04-26",
       "stars": 746
     }
   ]

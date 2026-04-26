@@ -4,6 +4,7 @@
   "name": "ingress",
   "full_name": "caddyserver/ingress",
   "description": "WIP Caddy 2 ingress controller for Kubernetes",
+  "description_ja": "",
   "url": "https://github.com/caddyserver/ingress",
   "homepage_url": "",
   "language": "Go",
@@ -19,7 +20,7 @@
     "kubernetes-ingress-controller"
   ],
   "star_count": 814,
-  "fork_count": 84,
+  "fork_count": 86,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-06-04T20:20:16Z",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 814
+    },
+    {
+      "date": "2026-04-26",
       "stars": 814
     }
   ]

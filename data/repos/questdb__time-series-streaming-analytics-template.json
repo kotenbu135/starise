@@ -4,6 +4,7 @@
   "name": "time-series-streaming-analytics-template",
   "full_name": "questdb/time-series-streaming-analytics-template",
   "description": "Template to quickstart streaming analytics using Apache Kafka for ingestion, QuestDB for time-series storage and analytics, Grafana for near real-time dashboards, and Jupyter Notebook for data science",
+  "description_ja": "",
   "url": "https://github.com/questdb/time-series-streaming-analytics-template",
   "homepage_url": "",
   "language": "Jupyter Notebook",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 106
+    },
+    {
+      "date": "2026-04-26",
       "stars": 106
     }
   ]

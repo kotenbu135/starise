@@ -4,6 +4,7 @@
   "name": "cloudwatch_exporter",
   "full_name": "prometheus/cloudwatch_exporter",
   "description": "Metrics exporter for Amazon AWS CloudWatch",
+  "description_ja": "",
   "url": "https://github.com/prometheus/cloudwatch_exporter",
   "homepage_url": "",
   "language": "Java",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 975
+    },
+    {
+      "date": "2026-04-26",
       "stars": 975
     }
   ]

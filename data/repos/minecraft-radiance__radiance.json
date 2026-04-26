@@ -4,6 +4,7 @@
   "name": "radiance",
   "full_name": "minecraft-radiance/radiance",
   "description": "Radiance is rebuilt of Minecraft renderer on a Vulkan C++ backend, featuring native Hardware Ray Tracing on Windows \u0026 Linux. Break free from OpenGL limits for Minecraft.",
+  "description_ja": "",
   "url": "https://github.com/Minecraft-Radiance/Radiance",
   "homepage_url": "https://www.minecraft-radiance.com/",
   "language": "Java",
@@ -15,12 +16,12 @@
     "ray-tracing",
     "vulkan"
   ],
-  "star_count": 944,
+  "star_count": 945,
   "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-28T19:38:26Z",
-  "updated_at": "2026-04-25T13:36:14Z",
+  "updated_at": "2026-04-26T05:04:43Z",
   "pushed_at": "2026-03-21T21:26:46Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 944
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 945
     }
   ]
 }

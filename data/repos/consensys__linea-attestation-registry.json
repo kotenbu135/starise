@@ -4,6 +4,7 @@
   "name": "linea-attestation-registry",
   "full_name": "consensys/linea-attestation-registry",
   "description": "Verax is a shared registry for storing attestations of public interest on EVM chains, designed to enhance data discoverability and consumption for dApps across the network.",
+  "description_ja": "",
   "url": "https://github.com/Consensys/linea-attestation-registry",
   "homepage_url": "https://ver.ax",
   "language": "TypeScript",
@@ -20,7 +21,7 @@
     "web3"
   ],
   "star_count": 176,
-  "fork_count": 98,
+  "fork_count": 97,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-05T13:56:18Z",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 176
+    },
+    {
+      "date": "2026-04-26",
       "stars": 176
     }
   ]

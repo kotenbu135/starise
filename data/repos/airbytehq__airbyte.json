@@ -4,6 +4,7 @@
   "name": "airbyte",
   "full_name": "airbytehq/airbyte",
   "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases \u0026 files to data warehouses, data lakes \u0026 data lakehouses. Both self-hosted and Cloud-hosted.",
+  "description_ja": "API・データベース・ファイルからデータウェアハウス・データレイク・データレイクハウスへのETL/ELTデータパイプラインをリードするデータ統合プラットフォーム。セルフホスト型・クラウドホスト型の両方を提供",
   "url": "https://github.com/airbytehq/airbyte",
   "homepage_url": "https://airbyte.com",
   "language": "Python",
@@ -30,13 +31,13 @@
     "self-hosted",
     "snowflake"
   ],
-  "star_count": 21135,
-  "fork_count": 5155,
+  "star_count": 21138,
+  "fork_count": 5154,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-07-27T23:55:54Z",
-  "updated_at": "2026-04-25T12:35:58Z",
-  "pushed_at": "2026-04-25T12:42:26Z",
+  "updated_at": "2026-04-26T10:49:54Z",
+  "pushed_at": "2026-04-26T11:47:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 21135
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 21138
     }
   ]
 }

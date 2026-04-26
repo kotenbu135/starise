@@ -4,6 +4,7 @@
   "name": "chef-server",
   "full_name": "chef/chef-server",
   "description": "Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.",
+  "description_ja": "",
   "url": "https://github.com/chef/chef-server",
   "homepage_url": "https://www.chef.io/chef/",
   "language": "Erlang",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 300
+    },
+    {
+      "date": "2026-04-26",
       "stars": 300
     }
   ]

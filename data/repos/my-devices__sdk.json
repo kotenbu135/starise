@@ -4,6 +4,7 @@
   "name": "sdk",
   "full_name": "my-devices/sdk",
   "description": "macchina.io REMOTE provides secure remote access via web (HTTP), shell (SSH), remote desktop (VNC, RDP) and other protocols to IoT devices behind routers or firewalls. No port forwarding, scarce public IPv4 addresses, or complex and inflexible VPNs required. This SDK contains the Device Agent and client tools.",
+  "description_ja": "",
   "url": "https://github.com/my-devices/sdk",
   "homepage_url": "https://macchina.io/remote.html",
   "language": "C++",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 47
+    },
+    {
+      "date": "2026-04-26",
       "stars": 47
     }
   ]

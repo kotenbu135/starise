@@ -4,6 +4,7 @@
   "name": "stable-baselines3",
   "full_name": "dlr-rm/stable-baselines3",
   "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
+  "description_ja": "",
   "url": "https://github.com/DLR-RM/stable-baselines3",
   "homepage_url": "https://stable-baselines3.readthedocs.io",
   "language": "Python",
@@ -24,12 +25,12 @@
     "stable-baselines",
     "toolbox"
   ],
-  "star_count": 13157,
+  "star_count": 13163,
   "fork_count": 2114,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-05T05:52:26Z",
-  "updated_at": "2026-04-25T16:19:11Z",
+  "updated_at": "2026-04-26T15:51:32Z",
   "pushed_at": "2026-04-19T20:19:27Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 13157
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 13163
     }
   ]
 }

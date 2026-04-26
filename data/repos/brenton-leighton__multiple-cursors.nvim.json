@@ -4,6 +4,7 @@
   "name": "multiple-cursors.nvim",
   "full_name": "brenton-leighton/multiple-cursors.nvim",
   "description": "A multi-cursor plugin for Neovim that works in normal, insert/replace, or visual modes, and with almost every command",
+  "description_ja": "",
   "url": "https://github.com/brenton-leighton/multiple-cursors.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -13,12 +14,12 @@
     "neovim",
     "neovim-plugin"
   ],
-  "star_count": 405,
+  "star_count": 404,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-09T01:53:40Z",
-  "updated_at": "2026-04-17T11:24:09Z",
+  "updated_at": "2026-04-26T16:18:16Z",
   "pushed_at": "2026-01-02T04:22:59Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 405
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 404
     }
   ]
 }

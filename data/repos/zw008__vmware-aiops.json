@@ -4,6 +4,7 @@
   "name": "vmware-aiops",
   "full_name": "zw008/vmware-aiops",
   "description": "VMware vCenter/ESXi AI-powered monitoring and operations. Two skills: vmware-monitor (read-only, safe) and vmware-aiops (full operations) | Claude Code Skill",
+  "description_ja": "",
   "url": "https://github.com/zw008/VMware-AIops",
   "homepage_url": "https://skills.sh/zw008/VMware-AIops",
   "language": "Python",
@@ -29,12 +30,12 @@
     "vmware",
     "vsphere"
   ],
-  "star_count": 40,
+  "star_count": 39,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-25T05:50:24Z",
-  "updated_at": "2026-04-24T16:59:06Z",
+  "updated_at": "2026-04-25T21:24:35Z",
   "pushed_at": "2026-04-21T12:07:48Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 40
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 39
     }
   ]
 }

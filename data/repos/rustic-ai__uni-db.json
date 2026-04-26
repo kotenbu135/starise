@@ -4,6 +4,7 @@
   "name": "uni-db",
   "full_name": "rustic-ai/uni-db",
   "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance) into a single, cohesive engine. It is designed for applications requiring local, fast, and multimodal data access, backed by object storage (S3/GCS) durability.",
+  "description_ja": "",
   "url": "https://github.com/rustic-ai/uni-db",
   "homepage_url": "https://rustic-ai.github.io/uni-db/",
   "language": "Rust",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 31
+    },
+    {
+      "date": "2026-04-26",
       "stars": 31
     }
   ]

@@ -4,6 +4,7 @@
   "name": "database-engine",
   "full_name": "adambcomer/database-engine",
   "description": "LSM-Tree Key-Value Store based on RocksDB",
+  "description_ja": "RocksDBベースのLSM-TreeキーバリューストアKey-Value Store",
   "url": "https://github.com/adambcomer/database-engine",
   "homepage_url": "https://adambcomer.com/blog/simple-database",
   "language": "Rust",
@@ -29,6 +30,10 @@
   "star_history": [
     {
       "date": "2026-04-25",
+      "stars": 82
+    },
+    {
+      "date": "2026-04-26",
       "stars": 82
     }
   ]

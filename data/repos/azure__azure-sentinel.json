@@ -4,6 +4,7 @@
   "name": "azure-sentinel",
   "full_name": "azure/azure-sentinel",
   "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+  "description_ja": "",
   "url": "https://github.com/Azure/Azure-Sentinel",
   "homepage_url": "https://azure.microsoft.com/en-us/services/azure-sentinel/",
   "language": "Python",
@@ -12,12 +13,12 @@
     "cybersecurity",
     "sample-code"
   ],
-  "star_count": 5739,
-  "fork_count": 3605,
+  "star_count": 5772,
+  "fork_count": 3609,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-08-18T02:25:15Z",
-  "updated_at": "2026-04-25T16:59:40Z",
+  "updated_at": "2026-04-26T16:45:15Z",
   "pushed_at": "2026-04-24T22:19:40Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 5739
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5772
     }
   ]
 }

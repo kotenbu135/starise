@@ -4,6 +4,7 @@
   "name": "clair",
   "full_name": "quay/clair",
   "description": "Vulnerability Static Analysis for Containers",
+  "description_ja": "",
   "url": "https://github.com/quay/clair",
   "homepage_url": "https://quay.github.io/clair/",
   "language": "Go",
@@ -19,12 +20,12 @@
     "static-analysis",
     "vulnerabilities"
   ],
-  "star_count": 10969,
+  "star_count": 10971,
   "fork_count": 1200,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-11-13T18:46:16Z",
-  "updated_at": "2026-04-24T18:07:31Z",
+  "updated_at": "2026-04-26T14:42:27Z",
   "pushed_at": "2026-04-24T18:07:26Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 10969
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 10971
     }
   ]
 }

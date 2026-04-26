@@ -4,6 +4,7 @@
   "name": "gitkube",
   "full_name": "hasura/gitkube",
   "description": "Build and deploy docker images to Kubernetes using git push",
+  "description_ja": "",
   "url": "https://github.com/hasura/gitkube",
   "homepage_url": "",
   "language": "Go",
@@ -19,7 +20,7 @@
     "kubernetes"
   ],
   "star_count": 3848,
-  "fork_count": 199,
+  "fork_count": 198,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-03-08T06:25:53Z",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3848
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3848
     }
   ]

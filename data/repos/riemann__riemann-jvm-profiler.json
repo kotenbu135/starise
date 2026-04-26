@@ -4,6 +4,7 @@
   "name": "riemann-jvm-profiler",
   "full_name": "riemann/riemann-jvm-profiler",
   "description": "Sends stacktrace-level performance data from a JVM process to Riemann.",
+  "description_ja": "",
   "url": "https://github.com/riemann/riemann-jvm-profiler",
   "homepage_url": "",
   "language": "Clojure",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 296
+    },
+    {
+      "date": "2026-04-26",
       "stars": 296
     }
   ]

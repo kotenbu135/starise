@@ -4,6 +4,7 @@
   "name": "deepaudit",
   "full_name": "lintsinghua/deepaudit",
   "description": "DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。",
+  "description_ja": "",
   "url": "https://github.com/lintsinghua/DeepAudit",
   "homepage_url": "",
   "language": "Python",
@@ -27,12 +28,12 @@
     "vulnerability-scanner",
     "xai"
   ],
-  "star_count": 5849,
+  "star_count": 5852,
   "fork_count": 716,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-19T15:53:48Z",
-  "updated_at": "2026-04-25T16:04:45Z",
+  "updated_at": "2026-04-26T09:02:20Z",
   "pushed_at": "2026-04-01T02:00:30Z",
   "deleted_at": "",
   "star_history": [
@@ -47,6 +48,10 @@
     {
       "date": "2026-04-25",
       "stars": 5849
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5852
     }
   ]
 }

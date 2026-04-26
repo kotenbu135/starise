@@ -4,6 +4,7 @@
   "name": "laravel-userstamps",
   "full_name": "mattiverse/laravel-userstamps",
   "description": "Laravel Userstamps provides an Eloquent trait which automatically maintains created_by and updated_by columns on your model, populated by the currently authenticated user in your application.",
+  "description_ja": "",
   "url": "https://github.com/mattiverse/Laravel-Userstamps",
   "homepage_url": "",
   "language": "PHP",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 753
+    },
+    {
+      "date": "2026-04-26",
       "stars": 753
     }
   ]

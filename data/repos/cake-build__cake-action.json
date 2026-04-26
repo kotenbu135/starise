@@ -4,6 +4,7 @@
   "name": "cake-action",
   "full_name": "cake-build/cake-action",
   "description": ":cake::octocat: Run Cake (C# Make) in your GitHub Actions workflows.",
+  "description_ja": "",
   "url": "https://github.com/cake-build/cake-action",
   "homepage_url": "https://cakebuild.net",
   "language": "TypeScript",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

@@ -4,6 +4,7 @@
   "name": "stac-fastapi-pgstac",
   "full_name": "stac-utils/stac-fastapi-pgstac",
   "description": "PostgreSQL backend for stac-fastapi using pgstac (https://github.com/stac-utils/pgstac)",
+  "description_ja": "",
   "url": "https://github.com/stac-utils/stac-fastapi-pgstac",
   "homepage_url": "https://stac-utils.github.io/stac-fastapi-pgstac/",
   "language": "Python",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

@@ -4,6 +4,7 @@
   "name": "rpi-imager",
   "full_name": "raspberrypi/rpi-imager",
   "description": "The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.",
+  "description_ja": "",
   "url": "https://github.com/raspberrypi/rpi-imager",
   "homepage_url": "https://www.raspberrypi.com/software",
   "language": "C++",
@@ -23,12 +24,12 @@
     "raspberrypi",
     "raspberrypi4"
   ],
-  "star_count": 2442,
+  "star_count": 2443,
   "fork_count": 414,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-09-30T12:49:05Z",
-  "updated_at": "2026-04-24T06:15:12Z",
+  "updated_at": "2026-04-26T00:04:15Z",
   "pushed_at": "2026-04-23T13:03:18Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 2442
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2443
     }
   ]
 }

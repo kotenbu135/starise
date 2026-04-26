@@ -4,6 +4,7 @@
   "name": "securityonion",
   "full_name": "security-onion-solutions/securityonion",
   "description": "Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.",
+  "description_ja": "",
   "url": "https://github.com/Security-Onion-Solutions/securityonion",
   "homepage_url": "https://securityonion.net",
   "language": "Shell",
@@ -20,12 +21,12 @@
     "security-tools",
     "threat-hunting"
   ],
-  "star_count": 4569,
+  "star_count": 4572,
   "fork_count": 636,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-02-05T17:30:31Z",
-  "updated_at": "2026-04-25T08:02:03Z",
+  "updated_at": "2026-04-26T16:00:25Z",
   "pushed_at": "2026-04-24T20:21:04Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 4569
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4572
     }
   ]
 }

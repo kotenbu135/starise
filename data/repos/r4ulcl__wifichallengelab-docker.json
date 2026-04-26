@@ -4,6 +4,7 @@
   "name": "wifichallengelab-docker",
   "full_name": "r4ulcl/wifichallengelab-docker",
   "description": "Virtualized Wi-Fi pentesting laboratory without the need for physical Wi-Fi cards, using mac80211_hwsim. Docker version of WiFiChallenge Lab with modifications in the challenges and improved stability. Ubuntu virtual machine with virtualized networks and clients to perform Wi-Fi attacks on OPN, WPA2, WPA3 and Enterprise networks.",
+  "description_ja": "",
   "url": "https://github.com/r4ulcl/WiFiChallengeLab-docker",
   "homepage_url": "https://lab.wifichallenge.com",
   "language": "Shell",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 383
+    },
+    {
+      "date": "2026-04-26",
       "stars": 383
     }
   ]

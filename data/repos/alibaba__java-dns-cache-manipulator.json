@@ -4,6 +4,7 @@
   "name": "java-dns-cache-manipulator",
   "full_name": "alibaba/java-dns-cache-manipulator",
   "description": "🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of running JVM process.",
+  "description_ja": "[39] hosts ファイルを触らずにプログラムから DNS を設定・参照できる依存ゼロでスレッドセーフな小型 Java ライブラリ。ユニット/統合テストの可搬性を高める。実行中の JVM プロセスの DNS を設定・参照する小型ツールも同梱",
   "url": "https://github.com/alibaba/java-dns-cache-manipulator",
   "homepage_url": "https://github.com/alibaba/java-dns-cache-manipulator",
   "language": "Java",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 965
+    },
+    {
+      "date": "2026-04-26",
       "stars": 965
     }
   ]

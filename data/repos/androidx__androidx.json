@@ -4,6 +4,7 @@
   "name": "androidx",
   "full_name": "androidx/androidx",
   "description": "Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.",
+  "description_ja": "androidx名前空間配下のAndroid Jetpack拡張ライブラリの開発環境。AOSP上のAndroid Jetpack主開発ブランチと同期。",
   "url": "https://github.com/androidx/androidx",
   "homepage_url": "https://android.googlesource.com/platform/frameworks/support",
   "language": "Kotlin",
@@ -18,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-04-17T19:17:41Z",
-  "updated_at": "2026-04-25T11:00:21Z",
-  "pushed_at": "2026-04-25T09:42:00Z",
+  "updated_at": "2026-04-26T13:36:24Z",
+  "pushed_at": "2026-04-26T00:11:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5980
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5980
     }
   ]

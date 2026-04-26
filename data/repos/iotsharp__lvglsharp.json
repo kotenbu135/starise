@@ -4,6 +4,7 @@
   "name": "lvglsharp",
   "full_name": "iotsharp/lvglsharp",
   "description": "LVGLSharp 是一个跨平台的 WinForms API 兼容层，以 LVGL 作为底层渲染引擎。目标是实现所见即所得——在 Visual Studio Windows Forms 设计器中设计的界面，可以在 Linux（arm / arm64 / x64）等嵌入式平台上以高度一致的效果运行。",
+  "description_ja": "",
   "url": "https://github.com/IoTSharp/LVGLSharp",
   "homepage_url": "https://lvglsharp.net/",
   "language": "C#",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

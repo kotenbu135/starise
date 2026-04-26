@@ -4,6 +4,7 @@
   "name": "jank",
   "full_name": "jank-lang/jank",
   "description": "The native Clojure dialect hosted on LLVM with seamless C++ interop.",
+  "description_ja": "",
   "url": "https://github.com/jank-lang/jank",
   "homepage_url": "https://jank-lang.org",
   "language": "C++",
@@ -20,13 +21,13 @@
     "native",
     "programming-language"
   ],
-  "star_count": 3190,
+  "star_count": 3191,
   "fork_count": 118,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-07-02T14:48:41Z",
-  "updated_at": "2026-04-25T08:08:36Z",
-  "pushed_at": "2026-04-24T22:09:09Z",
+  "updated_at": "2026-04-25T18:25:06Z",
+  "pushed_at": "2026-04-25T22:08:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 3190
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3191
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "usbguard",
   "full_name": "usbguard/usbguard",
   "description": "USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the system)",
+  "description_ja": "",
   "url": "https://github.com/USBGuard/usbguard",
   "homepage_url": "https://usbguard.github.io/",
   "language": "C++",
@@ -20,12 +21,12 @@
     "usb-devices",
     "whitelist"
   ],
-  "star_count": 1325,
+  "star_count": 1326,
   "fork_count": 151,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-03-18T13:14:42Z",
-  "updated_at": "2026-04-24T13:54:57Z",
+  "updated_at": "2026-04-26T06:51:28Z",
   "pushed_at": "2026-01-27T00:03:28Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 1325
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1326
     }
   ]
 }

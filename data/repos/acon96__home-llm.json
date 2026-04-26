@@ -4,6 +4,7 @@
   "name": "home-llm",
   "full_name": "acon96/home-llm",
   "description": "A Home Assistant integration \u0026 Model to control your smart home using a Local LLM",
+  "description_ja": "ローカルLLMを使ってスマートホームを制御するHome Assistant統合とモデル",
   "url": "https://github.com/acon96/home-llm",
   "homepage_url": "",
   "language": "Python",
@@ -12,12 +13,12 @@
     "homeassistant-custom-component",
     "large-language-model"
   ],
-  "star_count": 1320,
+  "star_count": 1321,
   "fork_count": 133,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-23T04:50:06Z",
-  "updated_at": "2026-04-24T22:05:47Z",
+  "updated_at": "2026-04-25T23:49:36Z",
   "pushed_at": "2026-04-12T21:10:19Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 1320
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1321
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "redpanda-edge-agent",
   "full_name": "redpanda-data/redpanda-edge-agent",
   "description": "Lightweight internet of things agent that forwards events from the edge",
+  "description_ja": "",
   "url": "https://github.com/redpanda-data/redpanda-edge-agent",
   "homepage_url": "",
   "language": "Go",
@@ -16,7 +17,7 @@
     "redpanda"
   ],
   "star_count": 31,
-  "fork_count": 12,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-07T16:14:37Z",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 31
+    },
+    {
+      "date": "2026-04-26",
       "stars": 31
     }
   ]

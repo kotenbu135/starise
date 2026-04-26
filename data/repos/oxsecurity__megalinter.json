@@ -4,6 +4,7 @@
   "name": "megalinter",
   "full_name": "oxsecurity/megalinter",
   "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
+  "description_ja": "",
   "url": "https://github.com/oxsecurity/megalinter",
   "homepage_url": "http://megalinter.io/",
   "language": "Dockerfile",
@@ -30,13 +31,13 @@
     "security",
     "terraform"
   ],
-  "star_count": 2466,
-  "fork_count": 291,
+  "star_count": 2467,
+  "fork_count": 292,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-17T08:16:25Z",
-  "updated_at": "2026-04-24T20:35:55Z",
-  "pushed_at": "2026-04-25T15:32:58Z",
+  "updated_at": "2026-04-26T16:39:57Z",
+  "pushed_at": "2026-04-26T13:49:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 2466
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2467
     }
   ]
 }

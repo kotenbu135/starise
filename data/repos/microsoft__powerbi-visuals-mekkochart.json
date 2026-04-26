@@ -4,6 +4,7 @@
   "name": "powerbi-visuals-mekkochart",
   "full_name": "microsoft/powerbi-visuals-mekkochart",
   "description": "A Mekko chart is a mix of a 100% stacked column chart and a 100% stacked bar chart combined into one view. Similar to a treemap, the dimensional values are represented by length and width of each rectangle. The width of a column is proportional to the total value of the column.",
+  "description_ja": "",
   "url": "https://github.com/microsoft/powerbi-visuals-mekkochart",
   "homepage_url": "",
   "language": "TypeScript",
@@ -15,7 +16,7 @@
   "is_fork": false,
   "created_at": "2017-01-18T11:57:16Z",
   "updated_at": "2026-04-05T18:02:40Z",
-  "pushed_at": "2026-04-25T06:53:18Z",
+  "pushed_at": "2026-04-26T06:53:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

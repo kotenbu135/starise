@@ -4,6 +4,7 @@
   "name": "prealloc",
   "full_name": "alexkohler/prealloc",
   "description": "prealloc is a Go static analysis tool to find slice declarations that could potentially be preallocated.",
+  "description_ja": "preallocは事前確保できる可能性のあるスライス宣言を検出するGo静的解析ツール。",
   "url": "https://github.com/alexkohler/prealloc",
   "homepage_url": "",
   "language": "Go",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 664
+    },
+    {
+      "date": "2026-04-26",
       "stars": 664
     }
   ]

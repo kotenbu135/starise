@@ -4,6 +4,7 @@
   "name": "jooq-gradle-plugin",
   "full_name": "monosoul/jooq-gradle-plugin",
   "description": "Plugin for generating jOOQ classes using dockerized databases",
+  "description_ja": "",
   "url": "https://github.com/monosoul/jooq-gradle-plugin",
   "homepage_url": "https://plugins.gradle.org/plugin/dev.monosoul.jooq-docker",
   "language": "Kotlin",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 97
+    },
+    {
+      "date": "2026-04-26",
       "stars": 97
     }
   ]

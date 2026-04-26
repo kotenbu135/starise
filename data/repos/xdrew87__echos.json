@@ -4,6 +4,7 @@
   "name": "echos",
   "full_name": "xdrew87/echos",
   "description": "Echos is a stealthy C2 traffic emulator built in Rust for Red Teamers. It simulates adversarial beaconing patterns and custom jitter to test EDR/NDR detection logic. Ideal for validating network security signatures in a safe, modular framework.",
+  "description_ja": "",
   "url": "https://github.com/xdrew87/Echos",
   "homepage_url": "",
   "language": "Rust",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

@@ -4,6 +4,7 @@
   "name": "tailpipe",
   "full_name": "turbot/tailpipe",
   "description": "select * from logs; Tailpipe is an open source SIEM for instant log insights, powered by DuckDB. Analyze millions of events in seconds, right from your terminal.",
+  "description_ja": "",
   "url": "https://github.com/turbot/tailpipe",
   "homepage_url": "https://tailpipe.io",
   "language": "Go",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 552
+    },
+    {
+      "date": "2026-04-26",
       "stars": 552
     }
   ]

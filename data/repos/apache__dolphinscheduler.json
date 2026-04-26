@@ -4,6 +4,7 @@
   "name": "dolphinscheduler",
   "full_name": "apache/dolphinscheduler",
   "description": "Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code",
+  "description_ja": "Apache DolphinSchedulerはモダンなデータオーケストレーションプラットフォーム。ローコードで高性能ワークフローを俊敏に構築",
   "url": "https://github.com/apache/dolphinscheduler",
   "homepage_url": "https://dolphinscheduler.apache.org/",
   "language": "Java",
@@ -21,12 +22,12 @@
     "workflow-orchestration",
     "workflow-schedule"
   ],
-  "star_count": 14243,
-  "fork_count": 5036,
+  "star_count": 14245,
+  "fork_count": 5037,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-03-01T16:39:25Z",
-  "updated_at": "2026-04-25T08:10:01Z",
+  "updated_at": "2026-04-26T13:04:54Z",
   "pushed_at": "2026-04-24T05:37:12Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 14243
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 14245
     }
   ]
 }

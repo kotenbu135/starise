@@ -4,6 +4,7 @@
   "name": "kui",
   "full_name": "abersheeran/kui",
   "description": "An easy-to-use web framework. Supports both WSGI and ASGI modes. Gevent or asyncio, this is the question.",
+  "description_ja": "使いやすいWebフレームワーク。WSGIとASGIの両モードに対応。Geventかasyncioか、それが問題だ。",
   "url": "https://github.com/abersheeran/kui",
   "homepage_url": "https://kui.aber.sh",
   "language": "Python",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 298
+    },
+    {
+      "date": "2026-04-26",
       "stars": 298
     }
   ]

@@ -4,6 +4,7 @@
   "name": "active_scaffold",
   "full_name": "activescaffold/active_scaffold",
   "description": "Save time and headaches, and create a more easily maintainable set of pages, with ActiveScaffold. ActiveScaffold handles all your CRUD (create, read, update, delete) user interface needs, leaving you more time to focus on more challenging (and interesting!) problems.",
+  "description_ja": "ActiveScaffoldで時間と手間を節約し、より保守しやすいページ群を作成。ActiveScaffoldはすべてのCRUD（作成・読み取り・更新・削除）UI要件を処理し、より挑戦的で興味深い問題に集中する時間を残してくれる",
   "url": "https://github.com/activescaffold/active_scaffold",
   "homepage_url": "https://activescaffold.eu",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1130
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1130
     }
   ]

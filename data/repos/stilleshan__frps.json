@@ -4,6 +4,7 @@
   "name": "frps",
   "full_name": "stilleshan/frps",
   "description": "基于原版 frp 内网穿透服务端 frps 的一键安装卸载脚本和 docker 镜像.支持 Linux 服务器和 docker 等多种环境安装部署.",
+  "description_ja": "",
   "url": "https://github.com/stilleshan/frps",
   "homepage_url": "https://hub.docker.com/r/stilleshan/frps",
   "language": "Shell",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 841
+    },
+    {
+      "date": "2026-04-26",
       "stars": 841
     }
   ]

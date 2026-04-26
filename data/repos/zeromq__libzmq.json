@@ -4,6 +4,7 @@
   "name": "libzmq",
   "full_name": "zeromq/libzmq",
   "description": "ZeroMQ core engine in C++, implements ZMTP/3.1",
+  "description_ja": "",
   "url": "https://github.com/zeromq/libzmq",
   "homepage_url": "https://www.zeromq.org",
   "language": "C++",
@@ -22,7 +23,7 @@
     "zmtp"
   ],
   "star_count": 10856,
-  "fork_count": 2477,
+  "fork_count": 2478,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2009-07-29T09:56:41Z",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 10856
+    },
+    {
+      "date": "2026-04-26",
       "stars": 10856
     }
   ]

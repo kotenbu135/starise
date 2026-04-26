@@ -4,6 +4,7 @@
   "name": "wirken",
   "full_name": "gebruder/wirken",
   "description": "The switchboard for the agent era. Per-channel isolation, encrypted credential vault, per-session hash-chained audit log. Single static Rust binary.",
+  "description_ja": "",
   "url": "https://github.com/gebruder/wirken",
   "homepage_url": "https://gebruder.ottenheimer.app/briefs/wirken.html",
   "language": "Rust",
@@ -26,13 +27,13 @@
     "wasm",
     "whatsapp"
   ],
-  "star_count": 112,
+  "star_count": 113,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-25T07:40:19Z",
-  "updated_at": "2026-04-25T14:59:53Z",
-  "pushed_at": "2026-04-23T20:35:23Z",
+  "updated_at": "2026-04-26T09:32:57Z",
+  "pushed_at": "2026-04-26T09:32:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 112
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 113
     }
   ]
 }

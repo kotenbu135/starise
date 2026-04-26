@@ -4,6 +4,7 @@
   "name": "undercover",
   "full_name": "grodowski/undercover",
   "description": "undercover warns about methods, classes and blocks that were changed without tests, to help you easily find untested code and reduce the number of bugs. It does so by analysing data from git diffs, code structure and SimpleCov coverage reports",
+  "description_ja": "",
   "url": "https://github.com/grodowski/undercover",
   "homepage_url": "https://undercover-ci.com",
   "language": "Ruby",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 833
+    },
+    {
+      "date": "2026-04-26",
       "stars": 833
     }
   ]

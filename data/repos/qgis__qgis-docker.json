@@ -4,6 +4,7 @@
   "name": "qgis-docker",
   "full_name": "qgis/qgis-docker",
   "description": "Official Docker image for QGIS Server and Desktop",
+  "description_ja": "",
   "url": "https://github.com/qgis/qgis-docker",
   "homepage_url": "",
   "language": "Shell",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 100
+    },
+    {
+      "date": "2026-04-26",
       "stars": 100
     }
   ]

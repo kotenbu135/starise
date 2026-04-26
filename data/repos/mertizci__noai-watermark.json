@@ -4,6 +4,7 @@
   "name": "noai-watermark",
   "full_name": "mertizci/noai-watermark",
   "description": "Remove invisible AI watermarks (SynthID, StableSignature, TreeRing) and strip AI metadata from images. Open-source CLI \u0026 Python toolkit.",
+  "description_ja": "",
   "url": "https://github.com/mertizci/noai-watermark",
   "homepage_url": "https://github.com/mertizci/noai-watermark",
   "language": "Python",
@@ -24,12 +25,12 @@
     "synthid",
     "watermark-removal"
   ],
-  "star_count": 70,
+  "star_count": 71,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-21T14:08:23Z",
-  "updated_at": "2026-04-25T14:49:00Z",
+  "updated_at": "2026-04-25T18:57:30Z",
   "pushed_at": "2026-02-24T14:16:38Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 70
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 71
     }
   ]
 }

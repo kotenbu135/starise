@@ -4,6 +4,7 @@
   "name": "nft",
   "full_name": "near-examples/nft",
   "description": "Example implementations of tokens to represent unique assets, such as collectibles or deeds, using the NEP-171 spec (similar to ERC-721) ",
+  "description_ja": "",
   "url": "https://github.com/near-examples/NFT",
   "homepage_url": "https://nomicon.io/Standards/NonFungibleToken/Core.html",
   "language": "Rust",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 387
+    },
+    {
+      "date": "2026-04-26",
       "stars": 387
     }
   ]

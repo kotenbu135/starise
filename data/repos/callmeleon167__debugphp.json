@@ -4,6 +4,7 @@
   "name": "debugphp",
   "full_name": "callmeleon167/debugphp",
   "description": "Real-time PHP debugging in the browser — stream debug output to a dashboard via SSE. Zero config, zero dependencies, just Debug::send() and see.",
+  "description_ja": "",
   "url": "https://github.com/CallMeLeon167/debugphp",
   "homepage_url": "https://debugphp.dev",
   "language": "PHP",
@@ -20,18 +21,22 @@
     "sse",
     "wordpress"
   ],
-  "star_count": 90,
+  "star_count": 91,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T14:54:03Z",
-  "updated_at": "2026-04-24T12:41:49Z",
+  "updated_at": "2026-04-25T20:51:01Z",
   "pushed_at": "2026-04-23T10:10:39Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-25",
       "stars": 90
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 91
     }
   ]
 }

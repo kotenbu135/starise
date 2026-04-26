@@ -4,6 +4,7 @@
   "name": "cabal2nix",
   "full_name": "nixos/cabal2nix",
   "description": "Generate Nix build instructions from a Cabal file",
+  "description_ja": "",
   "url": "https://github.com/NixOS/cabal2nix",
   "homepage_url": "https://nixos.org/manual/nixpkgs/unstable/#haskell",
   "language": "Haskell",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 400
+    },
+    {
+      "date": "2026-04-26",
       "stars": 400
     }
   ]

@@ -4,6 +4,7 @@
   "name": "spiderpool",
   "full_name": "spidernet-io/spiderpool",
   "description": "Underlay and RDMA network solution of the Kubernetes, for bare metal, VM and any public cloud",
+  "description_ja": "",
   "url": "https://github.com/spidernet-io/spiderpool",
   "homepage_url": "https://spidernet-io.github.io/spiderpool/",
   "language": "Go",
@@ -23,7 +24,7 @@
   "is_fork": false,
   "created_at": "2022-03-07T03:45:43Z",
   "updated_at": "2026-04-23T07:03:09Z",
-  "pushed_at": "2026-04-22T20:21:05Z",
+  "pushed_at": "2026-04-25T23:50:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 645
+    },
+    {
+      "date": "2026-04-26",
       "stars": 645
     }
   ]

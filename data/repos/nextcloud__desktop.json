@@ -4,6 +4,7 @@
   "name": "desktop",
   "full_name": "nextcloud/desktop",
   "description": "💻 Desktop sync client for Nextcloud",
+  "description_ja": "",
   "url": "https://github.com/nextcloud/desktop",
   "homepage_url": "https://nextcloud.com/install/#install-clients",
   "language": "C++",
@@ -24,7 +25,7 @@
     "windows"
   ],
   "star_count": 3686,
-  "fork_count": 937,
+  "fork_count": 938,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-09-27T11:38:04Z",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3686
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3686
     }
   ]

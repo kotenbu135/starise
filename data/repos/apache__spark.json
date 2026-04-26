@@ -4,6 +4,7 @@
   "name": "spark",
   "full_name": "apache/spark",
   "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+  "description_ja": "",
   "url": "https://github.com/apache/spark",
   "homepage_url": "https://spark.apache.org/",
   "language": "Scala",
@@ -18,13 +19,13 @@
     "spark",
     "sql"
   ],
-  "star_count": 43192,
-  "fork_count": 29164,
+  "star_count": 43199,
+  "fork_count": 29161,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-02-25T08:00:08Z",
-  "updated_at": "2026-04-25T16:21:51Z",
-  "pushed_at": "2026-04-25T06:44:30Z",
+  "updated_at": "2026-04-26T16:59:35Z",
+  "pushed_at": "2026-04-26T16:59:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 43192
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 43199
     }
   ]
 }

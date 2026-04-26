@@ -4,6 +4,7 @@
   "name": "trino",
   "full_name": "trinodb/trino",
   "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+  "description_ja": "",
   "url": "https://github.com/trinodb/trino",
   "homepage_url": "https://trino.io",
   "language": "Java",
@@ -29,13 +30,13 @@
     "sql",
     "trino"
   ],
-  "star_count": 12754,
+  "star_count": 12757,
   "fork_count": 3580,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-01-19T06:38:14Z",
-  "updated_at": "2026-04-25T17:17:33Z",
-  "pushed_at": "2026-04-24T19:31:24Z",
+  "updated_at": "2026-04-26T08:17:25Z",
+  "pushed_at": "2026-04-25T21:52:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 12754
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 12757
     }
   ]
 }

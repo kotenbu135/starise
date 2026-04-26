@@ -4,6 +4,7 @@
   "name": "wal-g",
   "full_name": "wal-g/wal-g",
   "description": "Archival and Restoration for databases in the Cloud",
+  "description_ja": "",
   "url": "https://github.com/wal-g/wal-g",
   "homepage_url": "",
   "language": "Go",
@@ -28,13 +29,13 @@
     "s3",
     "sqlserver"
   ],
-  "star_count": 4022,
-  "fork_count": 538,
+  "star_count": 4023,
+  "fork_count": 540,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-06-22T18:16:19Z",
-  "updated_at": "2026-04-25T08:34:20Z",
-  "pushed_at": "2026-04-24T14:33:03Z",
+  "updated_at": "2026-04-26T03:10:29Z",
+  "pushed_at": "2026-04-25T21:28:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 4022
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4023
     }
   ]
 }

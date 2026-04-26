@@ -4,6 +4,7 @@
   "name": "safe-svg",
   "full_name": "10up/safe-svg",
   "description": "Enable SVG uploads and sanitize them to stop XML/SVG vulnerabilities in your WordPress website.",
+  "description_ja": "SVGアップロードを有効化しサニタイズして、WordPressサイトのXML/SVG脆弱性を防ぐ。",
   "url": "https://github.com/10up/safe-svg",
   "homepage_url": "https://wordpress.org/plugins/safe-svg/",
   "language": "PHP",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 332
+    },
+    {
+      "date": "2026-04-26",
       "stars": 332
     }
   ]

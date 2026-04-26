@@ -4,6 +4,7 @@
   "name": "mcp-gateway",
   "full_name": "theognis1002/mcp-gateway",
   "description": "Model Context Protocol (MCP) Gateway \u0026 Registry - Central hub for managing tools, resources, and prompts for MCP-compatible LLMs. Translates REST APIs into MCP, builds virtual MCP servers with security and observability, and bridges multiple transports (stdio, SSE, streamable HTTP).",
+  "description_ja": "",
   "url": "https://github.com/theognis1002/mcp-gateway",
   "homepage_url": "",
   "language": "Go",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 41
+    },
+    {
+      "date": "2026-04-26",
       "stars": 41
     }
   ]

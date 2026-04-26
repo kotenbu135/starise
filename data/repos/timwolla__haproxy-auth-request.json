@@ -4,6 +4,7 @@
   "name": "haproxy-auth-request",
   "full_name": "timwolla/haproxy-auth-request",
   "description": "auth-request allows you to add access control to your HTTP services based on a subrequest to a configured HAProxy backend.",
+  "description_ja": "",
   "url": "https://github.com/TimWolla/haproxy-auth-request",
   "homepage_url": "https://bl.duesterhus.eu/20180119/",
   "language": "Lua",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 165
+    },
+    {
+      "date": "2026-04-26",
       "stars": 165
     }
   ]

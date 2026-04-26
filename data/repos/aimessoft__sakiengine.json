@@ -4,6 +4,7 @@
   "name": "sakiengine",
   "full_name": "aimessoft/sakiengine",
   "description": "SakiEngine 是一个基于 Flutter 的现代化视觉小说游戏引擎，专为跨平台游戏开发而设计。语法类似Ren'Py但是没有缩进。",
+  "description_ja": "SakiEngine は Flutter ベースのモダンなビジュアルノベルゲームエンジン。クロスプラットフォーム ゲーム開発向けに設計され、Ren'Py に似た構文を採用しつつインデント不要",
   "url": "https://github.com/AimesSoft/SakiEngine",
   "homepage_url": "",
   "language": "Dart",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 35
+    },
+    {
+      "date": "2026-04-26",
       "stars": 35
     }
   ]

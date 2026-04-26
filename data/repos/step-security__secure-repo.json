@@ -4,6 +4,7 @@
   "name": "secure-repo",
   "full_name": "step-security/secure-repo",
   "description": "Orchestrate GitHub Actions Security",
+  "description_ja": "",
   "url": "https://github.com/step-security/secure-repo",
   "homepage_url": "https://app.stepsecurity.io",
   "language": "Go",
@@ -18,12 +19,12 @@
     "supply-chain-security",
     "workflow"
   ],
-  "star_count": 319,
+  "star_count": 320,
   "fork_count": 51,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-12T01:31:29Z",
-  "updated_at": "2026-04-22T06:48:50Z",
+  "updated_at": "2026-04-26T09:51:02Z",
   "pushed_at": "2026-04-24T17:26:53Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 319
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 320
     }
   ]
 }

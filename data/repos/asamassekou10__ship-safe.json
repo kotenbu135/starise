@@ -4,6 +4,7 @@
   "name": "ship-safe",
   "full_name": "asamassekou10/ship-safe",
   "description": "CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies.",
+  "description_ja": "",
   "url": "https://github.com/asamassekou10/ship-safe",
   "homepage_url": "https://www.shipsafecli.com",
   "language": "JavaScript",
@@ -18,13 +19,13 @@
     "security-tools",
     "static-analysis"
   ],
-  "star_count": 590,
+  "star_count": 614,
   "fork_count": 71,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-02T08:19:37Z",
-  "updated_at": "2026-04-25T16:58:04Z",
-  "pushed_at": "2026-04-25T03:05:19Z",
+  "updated_at": "2026-04-26T16:14:55Z",
+  "pushed_at": "2026-04-26T06:31:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 590
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 614
     }
   ]
 }

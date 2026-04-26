@@ -4,6 +4,7 @@
   "name": "crossdesk",
   "full_name": "kunkundi/crossdesk",
   "description": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。",
+  "description_ja": "",
   "url": "https://github.com/kunkundi/crossdesk",
   "homepage_url": "https://www.crossdesk.cn",
   "language": "C++",
@@ -26,12 +27,12 @@
     "webrtc",
     "xmake"
   ],
-  "star_count": 3975,
+  "star_count": 3977,
   "fork_count": 372,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-20T06:31:52Z",
-  "updated_at": "2026-04-25T16:52:34Z",
+  "updated_at": "2026-04-26T16:25:35Z",
   "pushed_at": "2026-04-21T16:17:05Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 3975
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3977
     }
   ]
 }

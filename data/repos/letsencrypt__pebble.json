@@ -4,6 +4,7 @@
   "name": "pebble",
   "full_name": "letsencrypt/pebble",
   "description": "A miniature version of Boulder, Pebble is a small RFC 8555 ACME test server not suited for a production certificate authority.",
+  "description_ja": "",
   "url": "https://github.com/letsencrypt/pebble",
   "homepage_url": "",
   "language": "Go",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 769
+    },
+    {
+      "date": "2026-04-26",
       "stars": 769
     }
   ]

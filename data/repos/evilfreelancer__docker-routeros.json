@@ -4,6 +4,7 @@
   "name": "docker-routeros",
   "full_name": "evilfreelancer/docker-routeros",
   "description": "This project provides a Docker image that runs a MikroTik RouterOS virtual machine inside QEMU.",
+  "description_ja": "",
   "url": "https://github.com/EvilFreelancer/docker-routeros",
   "homepage_url": "https://hub.docker.com/r/evilfreelancer/docker-routeros/",
   "language": "Shell",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 540
+    },
+    {
+      "date": "2026-04-26",
       "stars": 540
     }
   ]

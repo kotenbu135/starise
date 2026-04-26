@@ -4,6 +4,7 @@
   "name": "mini-swe-agent",
   "full_name": "swe-agent/mini-swe-agent",
   "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores \u003e74% on SWE-bench verified!",
+  "description_ja": "",
   "url": "https://github.com/SWE-agent/mini-swe-agent",
   "homepage_url": "https://mini-swe-agent.com",
   "language": "Python",
@@ -16,12 +17,12 @@
     "ai-agent",
     "textual"
   ],
-  "star_count": 3998,
-  "fork_count": 553,
+  "star_count": 4038,
+  "fork_count": 557,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-28T20:18:15Z",
-  "updated_at": "2026-04-25T13:48:26Z",
+  "updated_at": "2026-04-26T17:46:41Z",
   "pushed_at": "2026-04-20T21:22:09Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 3998
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4038
     }
   ]
 }

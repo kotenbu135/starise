@@ -4,6 +4,7 @@
   "name": "xcode-build-server",
   "full_name": "solawing/xcode-build-server",
   "description": "a build server protocol implementation for integrate xcode with sourcekit-lsp",
+  "description_ja": "",
   "url": "https://github.com/SolaWing/xcode-build-server",
   "homepage_url": "",
   "language": "Python",
@@ -14,12 +15,12 @@
     "swift",
     "xcode"
   ],
-  "star_count": 952,
+  "star_count": 953,
   "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-04-04T14:01:03Z",
-  "updated_at": "2026-04-24T06:22:42Z",
+  "updated_at": "2026-04-26T05:56:03Z",
   "pushed_at": "2026-01-31T05:54:29Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 952
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 953
     }
   ]
 }

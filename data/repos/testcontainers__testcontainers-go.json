@@ -4,6 +4,7 @@
   "name": "testcontainers-go",
   "full_name": "testcontainers/testcontainers-go",
   "description": "Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.",
+  "description_ja": "",
   "url": "https://github.com/testcontainers/testcontainers-go",
   "homepage_url": "https://golang.testcontainers.org",
   "language": "Go",
@@ -19,7 +20,7 @@
     "testing"
   ],
   "star_count": 4801,
-  "fork_count": 605,
+  "fork_count": 604,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-07-18T15:04:31Z",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 4801
+    },
+    {
+      "date": "2026-04-26",
       "stars": 4801
     }
   ]

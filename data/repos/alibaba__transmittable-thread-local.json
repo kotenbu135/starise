@@ -4,6 +4,7 @@
   "name": "transmittable-thread-local",
   "full_name": "alibaba/transmittable-thread-local",
   "description": "📌 a missing Java std lib(simple \u0026 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using thread pooling components.",
+  "description_ja": "[13] 📌 フレームワーク／ミドルウェア向けに不足していた Java 標準ライブラリ（シンプル＆依存ゼロ）。スレッドプール利用時もスレッド間で値を引き継げる強化版 InheritableThreadLocal を提供。",
   "url": "https://github.com/alibaba/transmittable-thread-local",
   "homepage_url": "https://github.com/alibaba/transmittable-thread-local",
   "language": "Java",
@@ -29,12 +30,12 @@
     "transmittable",
     "transmittable-thread-local"
   ],
-  "star_count": 8285,
+  "star_count": 8286,
   "fork_count": 1724,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-10-13T08:48:33Z",
-  "updated_at": "2026-04-25T09:15:48Z",
+  "updated_at": "2026-04-25T20:30:57Z",
   "pushed_at": "2026-04-17T14:31:57Z",
   "deleted_at": "",
   "star_history": [
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 8285
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8286
     }
   ]
 }

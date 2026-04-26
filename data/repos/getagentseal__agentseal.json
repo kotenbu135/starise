@@ -4,6 +4,7 @@
   "name": "agentseal",
   "full_name": "getagentseal/agentseal",
   "description": "Security toolkit for AI agents. Scan your machine for dangerous skills and MCP configs, monitor for supply chain attacks, test prompt injection resistance, and audit live MCP servers for tool poisoning.",
+  "description_ja": "",
   "url": "https://github.com/getagentseal/agentseal",
   "homepage_url": "https://agentseal.org",
   "language": "Python",
@@ -26,12 +27,12 @@
     "security",
     "vulnerability-scanner"
   ],
-  "star_count": 201,
-  "fork_count": 28,
+  "star_count": 215,
+  "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T10:01:58Z",
-  "updated_at": "2026-04-25T16:32:27Z",
+  "updated_at": "2026-04-26T16:36:10Z",
   "pushed_at": "2026-04-04T12:14:02Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 201
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 215
     }
   ]
 }

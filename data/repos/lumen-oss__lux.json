@@ -4,6 +4,7 @@
   "name": "lux",
   "full_name": "lumen-oss/lux",
   "description": "A luxurious package manager for Lua",
+  "description_ja": "",
   "url": "https://github.com/lumen-oss/lux",
   "homepage_url": "https://lux.lumen-labs.org/",
   "language": "Rust",
@@ -12,13 +13,13 @@
     "luarocks",
     "package-manager"
   ],
-  "star_count": 939,
-  "fork_count": 21,
+  "star_count": 940,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-11T08:11:52Z",
-  "updated_at": "2026-04-24T20:06:11Z",
-  "pushed_at": "2026-04-24T20:14:55Z",
+  "updated_at": "2026-04-26T14:26:28Z",
+  "pushed_at": "2026-04-26T14:48:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 939
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 940
     }
   ]
 }

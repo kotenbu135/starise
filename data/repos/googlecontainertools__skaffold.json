@@ -4,6 +4,7 @@
   "name": "skaffold",
   "full_name": "googlecontainertools/skaffold",
   "description": "Easy and Repeatable Kubernetes Development",
+  "description_ja": "",
   "url": "https://github.com/GoogleContainerTools/skaffold",
   "homepage_url": "https://skaffold.dev/",
   "language": "Go",
@@ -14,12 +15,12 @@
     "docker",
     "kubernetes"
   ],
-  "star_count": 15817,
-  "fork_count": 1701,
+  "star_count": 15816,
+  "fork_count": 1700,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-01-23T18:51:29Z",
-  "updated_at": "2026-04-24T14:26:50Z",
+  "updated_at": "2026-04-26T15:15:02Z",
   "pushed_at": "2026-04-23T17:36:28Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 15817
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 15816
     }
   ]
 }

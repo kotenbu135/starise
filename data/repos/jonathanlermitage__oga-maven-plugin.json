@@ -4,6 +4,7 @@
   "name": "oga-maven-plugin",
   "full_name": "jonathanlermitage/oga-maven-plugin",
   "description": ":jigsaw: Old GroupIds Alerter - A Maven plugin that checks for deprecated groupId+artifactId (e.g. did you know that graphql-spring-boot-starter moved from com.graphql-java to com.graphql-java-kickstart?).",
+  "description_ja": "",
   "url": "https://github.com/jonathanlermitage/oga-maven-plugin",
   "homepage_url": "https://central.sonatype.com/search?q=biz.lermitage.oga",
   "language": "Kotlin",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

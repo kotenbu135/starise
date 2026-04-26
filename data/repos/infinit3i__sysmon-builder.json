@@ -4,6 +4,7 @@
   "name": "sysmon-builder",
   "full_name": "infinit3i/sysmon-builder",
   "description": "Import and export custom Sysmon configurations using an interactive GUI that lets you build event rules, manage filters, and generate clean XML configs without manually editing Sysmon files.",
+  "description_ja": "",
   "url": "https://github.com/Infinit3i/sysmon-builder",
   "homepage_url": "",
   "language": "Python",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

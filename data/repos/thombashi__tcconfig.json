@@ -4,6 +4,7 @@
   "name": "tcconfig",
   "full_name": "thombashi/tcconfig",
   "description": "A tc command wrapper. Make it easy to set up traffic control of network bandwidth/latency/packet-loss/packet-corruption/etc. to a network-interface/Docker-container(veth).",
+  "description_ja": "",
   "url": "https://github.com/thombashi/tcconfig",
   "homepage_url": "https://tcconfig.rtfd.io/",
   "language": "Python",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 853
+    },
+    {
+      "date": "2026-04-26",
       "stars": 853
     }
   ]

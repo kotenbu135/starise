@@ -4,6 +4,7 @@
   "name": "tiffimageryprovider",
   "full_name": "hongfaqiu/tiffimageryprovider",
   "description": "Load GeoTIFF/COG(Cloud optimized GeoTIFF) on Cesium",
+  "description_ja": "",
   "url": "https://github.com/hongfaqiu/TIFFImageryProvider",
   "homepage_url": "https://tiff-imagery-provider.opendde.com/?panel=layer",
   "language": "TypeScript",
@@ -18,12 +19,12 @@
     "web-worker",
     "webgl"
   ],
-  "star_count": 103,
+  "star_count": 104,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-19T03:42:59Z",
-  "updated_at": "2026-04-24T12:36:55Z",
+  "updated_at": "2026-04-26T07:42:05Z",
   "pushed_at": "2026-03-13T09:42:33Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 103
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 104
     }
   ]
 }

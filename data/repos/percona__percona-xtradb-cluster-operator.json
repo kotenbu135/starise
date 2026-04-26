@@ -4,6 +4,7 @@
   "name": "percona-xtradb-cluster-operator",
   "full_name": "percona/percona-xtradb-cluster-operator",
   "description": "Percona Operator for MySQL based on Percona XtraDB Cluster",
+  "description_ja": "",
   "url": "https://github.com/percona/percona-xtradb-cluster-operator",
   "homepage_url": "https://www.percona.com/doc/kubernetes-operator-for-pxc/index.html",
   "language": "Go",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 618
+    },
+    {
+      "date": "2026-04-26",
       "stars": 618
     }
   ]

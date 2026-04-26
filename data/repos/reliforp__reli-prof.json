@@ -4,6 +4,7 @@
   "name": "reli-prof",
   "full_name": "reliforp/reli-prof",
   "description": "A sampling profiler or a memory profiler for PHP written in PHP, which reads information about running PHP VM from outside the process. You can find performance bottlenecks or memory leaks of your scripts without changing the target script or loading extensions.",
+  "description_ja": "",
   "url": "https://github.com/reliforp/reli-prof",
   "homepage_url": "",
   "language": "PHP",
@@ -25,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-03T22:56:10Z",
-  "updated_at": "2026-04-25T17:24:21Z",
-  "pushed_at": "2026-04-25T17:30:15Z",
+  "updated_at": "2026-04-26T17:42:24Z",
+  "pushed_at": "2026-04-26T17:42:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 513
+    },
+    {
+      "date": "2026-04-26",
       "stars": 513
     }
   ]

@@ -4,6 +4,7 @@
   "name": "bigcache",
   "full_name": "allegro/bigcache",
   "description": "Efficient cache for gigabytes of data written in Go.",
+  "description_ja": "Goで書かれた、ギガバイト規模データ向けの効率的なキャッシュ",
   "url": "https://github.com/allegro/bigcache",
   "homepage_url": "http://allegro.tech/2016/03/writing-fast-cache-service-in-go.html",
   "language": "Go",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 8120
+    },
+    {
+      "date": "2026-04-26",
       "stars": 8120
     }
   ]

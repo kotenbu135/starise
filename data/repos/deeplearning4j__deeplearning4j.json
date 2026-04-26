@@ -4,6 +4,7 @@
   "name": "deeplearning4j",
   "full_name": "deeplearning4j/deeplearning4j",
   "description": "Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learn...",
+  "description_ja": "",
   "url": "https://github.com/deeplearning4j/deeplearning4j",
   "homepage_url": "http://deeplearning4j.konduit.ai",
   "language": "Java",
@@ -25,12 +26,12 @@
     "scala",
     "spark"
   ],
-  "star_count": 14224,
-  "fork_count": 3841,
+  "star_count": 14226,
+  "fork_count": 3840,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-11-27T02:03:28Z",
-  "updated_at": "2026-04-23T02:44:35Z",
+  "updated_at": "2026-04-26T17:04:02Z",
   "pushed_at": "2026-04-02T01:36:40Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 14224
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 14226
     }
   ]
 }

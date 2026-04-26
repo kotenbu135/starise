@@ -4,6 +4,7 @@
   "name": "tesla_auth",
   "full_name": "adriankumpf/tesla_auth",
   "description": "Securely generate API tokens for third-party access to your Tesla.",
+  "description_ja": "Teslaへのサードパーティアクセス用APIトークンを安全に生成。",
   "url": "https://github.com/adriankumpf/tesla_auth",
   "homepage_url": "",
   "language": "Rust",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 537
+    },
+    {
+      "date": "2026-04-26",
       "stars": 537
     }
   ]

@@ -4,6 +4,7 @@
   "name": "orcid-source",
   "full_name": "orcid/orcid-source",
   "description": "ORCID Open Source Project",
+  "description_ja": "",
   "url": "https://github.com/ORCID/ORCID-Source",
   "homepage_url": "https://orcid.org",
   "language": "Java",
@@ -21,7 +22,7 @@
     "spring-web-mvc"
   ],
   "star_count": 557,
-  "fork_count": 262,
+  "fork_count": 263,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-02-28T17:57:01Z",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 557
+    },
+    {
+      "date": "2026-04-26",
       "stars": 557
     }
   ]

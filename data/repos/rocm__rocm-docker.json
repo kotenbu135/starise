@@ -4,6 +4,7 @@
   "name": "rocm-docker",
   "full_name": "rocm/rocm-docker",
   "description": "Dockerfiles for the various software layers defined in the ROCm software platform",
+  "description_ja": "",
   "url": "https://github.com/ROCm/ROCm-docker",
   "homepage_url": "",
   "language": "Shell",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 518
+    },
+    {
+      "date": "2026-04-26",
       "stars": 518
     }
   ]

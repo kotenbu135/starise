@@ -4,6 +4,7 @@
   "name": "linkerd2",
   "full_name": "linkerd/linkerd2",
   "description": "Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.",
+  "description_ja": "",
   "url": "https://github.com/linkerd/linkerd2",
   "homepage_url": "https://linkerd.io",
   "language": "Go",
@@ -16,12 +17,12 @@
     "rust",
     "service-mesh"
   ],
-  "star_count": 11382,
+  "star_count": 11383,
   "fork_count": 1350,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-04T23:16:56Z",
-  "updated_at": "2026-04-24T23:14:37Z",
+  "updated_at": "2026-04-26T15:50:32Z",
   "pushed_at": "2026-04-24T23:14:33Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 11382
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 11383
     }
   ]
 }

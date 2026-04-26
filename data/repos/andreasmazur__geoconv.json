@@ -4,6 +4,7 @@
   "name": "geoconv",
   "full_name": "andreasmazur/geoconv",
   "description": "A Python library for end-to-end learning on surfaces. It implements pre-processing functions that include geodesic algorithms, neural network layers that operate on surfaces, visualization tools and benchmarking functionalities.",
+  "description_ja": "サーフェス上のエンドツーエンド学習向け Python ライブラリ。測地線アルゴリズムなどの前処理関数、サーフェス上で動作するニューラルネットワーク層、可視化ツール、ベンチマーク機能を実装。",
   "url": "https://github.com/andreasMazur/geoconv",
   "homepage_url": "",
   "language": "Python",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 38
+    },
+    {
+      "date": "2026-04-26",
       "stars": 38
     }
   ]

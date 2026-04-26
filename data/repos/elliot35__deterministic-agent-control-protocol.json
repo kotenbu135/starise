@@ -4,6 +4,7 @@
   "name": "deterministic-agent-control-protocol",
   "full_name": "elliot35/deterministic-agent-control-protocol",
   "description": "Governance gateway for AI agents — bounded, auditable, session-aware control with MCP proxy, shell proxy \u0026 HTTP API. Works with Cursor, Claude Code, Codex, and any MCP-compatible agent.",
+  "description_ja": "",
   "url": "https://github.com/elliot35/deterministic-agent-control-protocol",
   "homepage_url": "https://www.npmjs.com/package/@det-acp/core",
   "language": "TypeScript",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 97
+    },
+    {
+      "date": "2026-04-26",
       "stars": 97
     }
   ]

@@ -4,6 +4,7 @@
   "name": "unipdf",
   "full_name": "unidoc/unipdf",
   "description": "Golang PDF library for creating and processing PDF files (pure go)",
+  "description_ja": "",
   "url": "https://github.com/unidoc/unipdf",
   "homepage_url": "https://unidoc.io",
   "language": "Go",
@@ -23,12 +24,12 @@
     "signing",
     "text-extraction"
   ],
-  "star_count": 3069,
+  "star_count": 3071,
   "fork_count": 277,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-16T11:00:38Z",
-  "updated_at": "2026-04-25T14:41:05Z",
+  "updated_at": "2026-04-26T15:02:44Z",
   "pushed_at": "2026-04-10T00:37:28Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 3069
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3071
     }
   ]
 }

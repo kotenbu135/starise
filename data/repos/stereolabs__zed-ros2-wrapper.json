@@ -4,6 +4,7 @@
   "name": "zed-ros2-wrapper",
   "full_name": "stereolabs/zed-ros2-wrapper",
   "description": "ROS 2 wrapper for the ZED SDK",
+  "description_ja": "",
   "url": "https://github.com/stereolabs/zed-ros2-wrapper",
   "homepage_url": "https://www.stereolabs.com/docs/ros2/",
   "language": "C++",
@@ -22,7 +23,7 @@
     "zed-camera"
   ],
   "star_count": 312,
-  "fork_count": 312,
+  "fork_count": 313,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-12T14:23:46Z",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 312
+    },
+    {
+      "date": "2026-04-26",
       "stars": 312
     }
   ]

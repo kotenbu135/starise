@@ -4,6 +4,7 @@
   "name": "apisix-docker",
   "full_name": "apache/apisix-docker",
   "description": "the docker for Apache APISIX",
+  "description_ja": "[40] Apache APISIX用docker",
   "url": "https://github.com/apache/apisix-docker",
   "homepage_url": "https://apisix.apache.org/",
   "language": "Dockerfile",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 853
+    },
+    {
+      "date": "2026-04-26",
       "stars": 853
     }
   ]

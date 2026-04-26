@@ -4,6 +4,7 @@
   "name": "postgresparser",
   "full_name": "valkdb/postgresparser",
   "description": "ANTLR-based PostgreSQL query parser for Go. Extracts tables, columns, joins, CTEs, parameters, DDL actions, and full column-usage metadata    from SQL into a structured IR.",
+  "description_ja": "",
   "url": "https://github.com/ValkDB/postgresparser",
   "homepage_url": "",
   "language": "Go",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 208
+    },
+    {
+      "date": "2026-04-26",
       "stars": 208
     }
   ]

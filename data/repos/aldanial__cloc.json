@@ -4,6 +4,7 @@
   "name": "cloc",
   "full_name": "aldanial/cloc",
   "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+  "description_ja": "clocは多くのプログラミング言語のソースコードについて、空行・コメント行・物理行数をカウントします。",
   "url": "https://github.com/AlDanial/cloc",
   "homepage_url": "",
   "language": "Perl",
@@ -13,12 +14,12 @@
     "count-lines",
     "programming-language"
   ],
-  "star_count": 22931,
+  "star_count": 22934,
   "fork_count": 1105,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-09-07T03:30:43Z",
-  "updated_at": "2026-04-25T15:23:33Z",
+  "updated_at": "2026-04-26T10:45:17Z",
   "pushed_at": "2026-04-24T02:11:09Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 22931
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 22934
     }
   ]
 }

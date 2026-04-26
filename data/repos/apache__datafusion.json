@@ -4,6 +4,7 @@
   "name": "datafusion",
   "full_name": "apache/datafusion",
   "description": "Apache DataFusion SQL Query Engine",
+  "description_ja": "Apache DataFusion SQLクエリエンジン",
   "url": "https://github.com/apache/datafusion",
   "homepage_url": "https://datafusion.apache.org/",
   "language": "Rust",
@@ -19,12 +20,12 @@
     "rust",
     "sql"
   ],
-  "star_count": 8646,
-  "fork_count": 2061,
+  "star_count": 8648,
+  "fork_count": 2060,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-17T15:40:23Z",
-  "updated_at": "2026-04-25T16:40:29Z",
+  "updated_at": "2026-04-26T12:07:22Z",
   "pushed_at": "2026-04-25T16:40:25Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 8646
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8648
     }
   ]
 }

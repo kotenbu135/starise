@@ -4,6 +4,7 @@
   "name": "nvim",
   "full_name": "allaman/nvim",
   "description": "Minimal, blazingly fast, and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python, Golang, Terraform, and, of course, YAML",
+  "description_ja": "DevOps/クラウドエンジニアとしての業務用に作られた、ミニマルで圧倒的に高速、純Luaベースのバッテリー同梱Neovim設定。Python、Golang、Terraform、もちろんYAMLにも対応",
   "url": "https://github.com/Allaman/nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 708
+    },
+    {
+      "date": "2026-04-26",
       "stars": 708
     }
   ]

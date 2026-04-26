@@ -4,6 +4,7 @@
   "name": "aaru",
   "full_name": "aaru-dps/aaru",
   "description": "Aaru Data Preservation Suite",
+  "description_ja": "Aaruデータ保存スイート。",
   "url": "https://github.com/aaru-dps/Aaru",
   "homepage_url": "",
   "language": "C#",
@@ -28,12 +29,12 @@
     "unix",
     "usb"
   ],
-  "star_count": 586,
+  "star_count": 588,
   "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-04-18T19:30:25Z",
-  "updated_at": "2026-04-24T09:58:52Z",
+  "updated_at": "2026-04-25T19:58:39Z",
   "pushed_at": "2026-04-24T09:58:47Z",
   "deleted_at": "",
   "star_history": [
@@ -48,6 +49,10 @@
     {
       "date": "2026-04-25",
       "stars": 586
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 588
     }
   ]
 }

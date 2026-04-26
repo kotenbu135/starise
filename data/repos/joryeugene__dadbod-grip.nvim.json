@@ -4,6 +4,7 @@
   "name": "dadbod-grip.nvim",
   "full_name": "joryeugene/dadbod-grip.nvim",
   "description": "Edit database tables like Vim buffers. Staged mutations + live SQL preview, transaction undo, schema browser + ER diagrams + DDL, FK navigation, cross-database federation, data profiling, SQL notebooks, AI SQL via Anthropic/OpenAI/Gemini/Ollama, Parquet/CSV/remote files. PostgreSQL · SQLite · MySQL · DuckDB · MotherDuck",
+  "description_ja": "",
   "url": "https://github.com/joryeugene/dadbod-grip.nvim",
   "homepage_url": "https://jorypestorious.com/dadbod-grip-web/",
   "language": "Lua",
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 138
+    },
+    {
+      "date": "2026-04-26",
       "stars": 138
     }
   ]

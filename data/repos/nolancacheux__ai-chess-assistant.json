@@ -4,6 +4,7 @@
   "name": "ai-chess-assistant",
   "full_name": "nolancacheux/ai-chess-assistant",
   "description": "A Chrome extension that integrates Stockfish chess engine with chess.com to provide real-time move analysis, position evaluation, and educational insights into chess engine behavior. Features automated play capabilities, advantage tracking, and move highlighting for learning purposes.",
+  "description_ja": "",
   "url": "https://github.com/nolancacheux/AI-Chess-Assistant",
   "homepage_url": "https://github.com/nolancacheux/chess-cheat-assistant",
   "language": "TypeScript",
@@ -19,12 +20,12 @@
     "javascript",
     "stockfish"
   ],
-  "star_count": 10,
+  "star_count": 9,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-30T00:31:52Z",
-  "updated_at": "2026-04-24T20:50:05Z",
+  "updated_at": "2026-04-25T23:29:47Z",
   "pushed_at": "2026-02-16T10:14:04Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 10
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9
     }
   ]
 }

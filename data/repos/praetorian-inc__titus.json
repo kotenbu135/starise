@@ -4,6 +4,7 @@
   "name": "titus",
   "full_name": "praetorian-inc/titus",
   "description": "High-performance secrets scanner. CLI, Go library, Burp Suite extension, and Chrome extension. 487 detection rules with live credential validation.",
+  "description_ja": "",
   "url": "https://github.com/praetorian-inc/titus",
   "homepage_url": "https://www.praetorian.com/blog/titus-open-source-secret-scanner/",
   "language": "Go",
@@ -29,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-25T00:52:04Z",
-  "updated_at": "2026-04-25T15:08:05Z",
-  "pushed_at": "2026-04-25T14:02:44Z",
+  "updated_at": "2026-04-26T13:19:46Z",
+  "pushed_at": "2026-04-26T01:52:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 524
+    },
+    {
+      "date": "2026-04-26",
       "stars": 524
     }
   ]

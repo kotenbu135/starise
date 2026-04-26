@@ -4,6 +4,7 @@
   "name": "mail",
   "full_name": "genkgo/mail",
   "description": "Library to send e-mails over different transports and protocols (like SMTP and IMAP) using immutable messages and streams. Also includes SMTP server.",
+  "description_ja": "",
   "url": "https://github.com/genkgo/mail",
   "homepage_url": "https://mail.readthedocs.io/",
   "language": "PHP",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 402
+    },
+    {
+      "date": "2026-04-26",
       "stars": 402
     }
   ]

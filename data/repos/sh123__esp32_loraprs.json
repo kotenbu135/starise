@@ -4,6 +4,7 @@
   "name": "esp32_loraprs",
   "full_name": "sh123/esp32_loraprs",
   "description": "LoRa ESP32 KISS Bluetooth modem (for APRSDroid or aprs.fi iOS) +  APRS-IS RX/TX iGate over WiFi + Digipeater + DV (with Codec2 Walkie-Talkie)",
+  "description_ja": "",
   "url": "https://github.com/sh123/esp32_loraprs",
   "homepage_url": "https://github.com/sh123/esp32_loraprs",
   "language": "C++",
@@ -31,7 +32,7 @@
     "uhf"
   ],
   "star_count": 263,
-  "fork_count": 43,
+  "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-25T06:10:21Z",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 263
+    },
+    {
+      "date": "2026-04-26",
       "stars": 263
     }
   ]

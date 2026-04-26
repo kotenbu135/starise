@@ -4,6 +4,7 @@
   "name": "mcp-gateway",
   "full_name": "hyprmcp/mcp-gateway",
   "description": "MCP OAuth Proxy incl. dynamic client registration (DCR), MCP prompt analytics and MCP firewall to build enterprise grade MCP servers.",
+  "description_ja": "",
   "url": "https://github.com/hyprmcp/mcp-gateway",
   "homepage_url": "https://hyprmcp.com",
   "language": "Go",
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 93
+    },
+    {
+      "date": "2026-04-26",
       "stars": 93
     }
   ]

@@ -4,6 +4,7 @@
   "name": "kubernetes-vagrant-centos-cluster",
   "full_name": "rootsongjc/kubernetes-vagrant-centos-cluster",
   "description": "Setting up a distributed Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox, only PoC or Demo use.",
+  "description_ja": "",
   "url": "https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster",
   "homepage_url": "https://jimmysong.io",
   "language": "Shell",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1921
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1921
     }
   ]

@@ -4,6 +4,7 @@
   "name": "novel",
   "full_name": "201206030/novel",
   "description": "novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。",
+  "description_ja": "[28] novel は最新の Java 技術スタック Spring Boot 3 + Vue 3 を用いた、フロント／バックエンド分離型の学習用小説プロジェクト。手取り足取りのチュートリアル付きで、本番品質の Java システムをゼロから構築・運用できる。小説ポータル、作家管理、プラットフォーム管理など複数のサブシステムから構成され、レコメンド、作品検索、ランキング、閲覧、コメント、会員センター、作家専用エリア、課金・サブスク、ニュース投稿などの機能を提供",
   "url": "https://github.com/201206030/novel",
   "homepage_url": "https://novel.xxyopen.com",
   "language": "Java",
@@ -16,12 +17,12 @@
     "read",
     "springboot"
   ],
-  "star_count": 5702,
+  "star_count": 5704,
   "fork_count": 1456,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-11-11T01:13:52Z",
-  "updated_at": "2026-04-24T08:27:57Z",
+  "updated_at": "2026-04-26T06:35:13Z",
   "pushed_at": "2025-11-05T10:19:00Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 5702
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5704
     }
   ]
 }

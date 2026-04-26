@@ -4,6 +4,7 @@
   "name": "starpod",
   "full_name": "sinaptik-ai/starpod",
   "description": "Open-source AI agent runtime built in Rust. Define once, deploy isolated instances per tenant with built-in memory, encrypted vault, self-extending skills, cron, and multi-channel support.",
+  "description_ja": "",
   "url": "https://github.com/sinaptik-ai/starpod",
   "homepage_url": "https://starpod.sh",
   "language": "Rust",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 64
+    },
+    {
+      "date": "2026-04-26",
       "stars": 64
     }
   ]

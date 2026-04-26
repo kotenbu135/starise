@@ -4,6 +4,7 @@
   "name": "ua-cloudpublisher",
   "full_name": "barnstee/ua-cloudpublisher",
   "description": "A cross-platform OPC UA cloud publisher reference implementation leveraging OPC UA PubSub over MQTT or Kafka. It runs in a Docker container on standard Docker hosts or on Kubernetes and comes with an easy-to-use web user interface.",
+  "description_ja": "",
   "url": "https://github.com/barnstee/UA-CloudPublisher",
   "homepage_url": "",
   "language": "C#",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 46
+    },
+    {
+      "date": "2026-04-26",
       "stars": 46
     }
   ]

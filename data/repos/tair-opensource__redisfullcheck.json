@@ -4,6 +4,7 @@
   "name": "redisfullcheck",
   "full_name": "tair-opensource/redisfullcheck",
   "description": "redis-full-check is used to compare whether two redis have the same data. Support redis version from 2.x to 7.x (Don't support Redis Modules).",
+  "description_ja": "",
   "url": "https://github.com/tair-opensource/RedisFullCheck",
   "homepage_url": "",
   "language": "Go",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 744
+    },
+    {
+      "date": "2026-04-26",
       "stars": 744
     }
   ]

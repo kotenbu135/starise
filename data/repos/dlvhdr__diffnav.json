@@ -4,6 +4,7 @@
   "name": "diffnav",
   "full_name": "dlvhdr/diffnav",
   "description": "A git diff pager based on delta but with a file tree, à la GitHub.",
+  "description_ja": "",
   "url": "https://github.com/dlvhdr/diffnav",
   "homepage_url": "",
   "language": "Go",
@@ -17,12 +18,12 @@
     "golang",
     "tui"
   ],
-  "star_count": 1309,
+  "star_count": 1312,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-18T14:41:16Z",
-  "updated_at": "2026-04-25T16:20:57Z",
+  "updated_at": "2026-04-26T11:46:26Z",
   "pushed_at": "2026-04-20T20:00:22Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 1309
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1312
     }
   ]
 }

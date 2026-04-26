@@ -4,6 +4,7 @@
   "name": "django-guid",
   "full_name": "snok/django-guid",
   "description": "Inject an ID into every log message from a Django request. ASGI compatible, integrates with Sentry, and works with Celery",
+  "description_ja": "",
   "url": "https://github.com/snok/django-guid",
   "homepage_url": "https://django-guid.readthedocs.io",
   "language": "Python",
@@ -24,12 +25,12 @@
     "sentry",
     "tracing"
   ],
-  "star_count": 483,
+  "star_count": 482,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-20T10:25:27Z",
-  "updated_at": "2026-04-24T15:17:57Z",
+  "updated_at": "2026-04-26T14:50:14Z",
   "pushed_at": "2026-02-03T20:48:01Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 483
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 482
     }
   ]
 }

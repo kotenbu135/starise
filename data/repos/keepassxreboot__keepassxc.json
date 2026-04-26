@@ -4,6 +4,7 @@
   "name": "keepassxc",
   "full_name": "keepassxreboot/keepassxc",
   "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+  "description_ja": "",
   "url": "https://github.com/keepassxreboot/keepassxc",
   "homepage_url": "https://keepassxc.org/",
   "language": "C++",
@@ -22,12 +23,12 @@
     "windows",
     "yubikey"
   ],
-  "star_count": 26737,
-  "fork_count": 1759,
+  "star_count": 26743,
+  "fork_count": 1761,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-02-28T15:52:40Z",
-  "updated_at": "2026-04-25T16:02:23Z",
+  "updated_at": "2026-04-26T10:21:26Z",
   "pushed_at": "2026-04-25T14:13:47Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 26737
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 26743
     }
   ]
 }

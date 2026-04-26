@@ -4,6 +4,7 @@
   "name": "tbmq",
   "full_name": "thingsboard/tbmq",
   "description": "The ultimate distributed MQTT broker. Handles 100M+ connections and 10M msg/sec with ease. Built on Kafka to provide industrial-grade persistence and eliminate data loss.",
+  "description_ja": "",
   "url": "https://github.com/thingsboard/tbmq",
   "homepage_url": "https://thingsboard.io/products/mqtt-broker/",
   "language": "Java",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 725
+    },
+    {
+      "date": "2026-04-26",
       "stars": 725
     }
   ]

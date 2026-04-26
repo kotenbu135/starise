@@ -4,6 +4,7 @@
   "name": "sparkmeasure",
   "full_name": "lucacanali/sparkmeasure",
   "description": "This repository contains the development code for sparkMeasure, an Apache Spark performance analysis and troubleshooting library. It simplifies collecting, aggregating, and exporting Spark task/stage metrics, and is designed for practical use by developers and data engineers in interactive analysis, testing, and production monitoring workflows.",
+  "description_ja": "",
   "url": "https://github.com/LucaCanali/sparkMeasure",
   "homepage_url": "",
   "language": "Scala",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 820
+    },
+    {
+      "date": "2026-04-26",
       "stars": 820
     }
   ]

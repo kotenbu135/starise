@@ -4,6 +4,7 @@
   "name": "dynamic-wallpaper",
   "full_name": "adi1090x/dynamic-wallpaper",
   "description": "A simple bash script to set wallpapers according to current time, using cron job scheduler.",
+  "description_ja": "[11] cronジョブスケジューラを使い、現在時刻に応じて壁紙を設定するシンプルなbashスクリプト",
   "url": "https://github.com/adi1090x/dynamic-wallpaper",
   "homepage_url": "",
   "language": "Shell",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2169
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2169
     }
   ]

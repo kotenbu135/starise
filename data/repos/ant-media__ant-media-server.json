@@ -4,6 +4,7 @@
   "name": "ant-media-server",
   "full_name": "ant-media/ant-media-server",
   "description": "Ant Media Server — Ultra-low latency streaming engine with WebRTC (~0.5s), SRT, RTMP, HLS, CMAF, adaptive bitrate, transcoding \u0026 scaling",
+  "description_ja": "Ant Media Server — WebRTC（約0.5秒）、SRT、RTMP、HLS、CMAF、アダプティブビットレート、トランスコーディング、スケーリングに対応した超低遅延ストリーミングエンジン",
   "url": "https://github.com/ant-media/Ant-Media-Server",
   "homepage_url": "https://antmedia.io",
   "language": "Java",
@@ -48,6 +49,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 4666
+    },
+    {
+      "date": "2026-04-26",
       "stars": 4666
     }
   ]

@@ -4,6 +4,7 @@
   "name": "kjarni",
   "full_name": "olafurjohannsson/kjarni",
   "description": "Native and Private ML inference engine, embeddings, classification, reranking, search, and text generation. Rust core with C# bindings. No Python, no ONNX, no CUDA.",
+  "description_ja": "",
   "url": "https://github.com/olafurjohannsson/kjarni",
   "homepage_url": "https://kjarni.ai",
   "language": "Rust",
@@ -48,6 +49,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 31
+    },
+    {
+      "date": "2026-04-26",
       "stars": 31
     }
   ]

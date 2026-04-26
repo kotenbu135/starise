@@ -4,6 +4,7 @@
   "name": "adodb",
   "full_name": "adodb/adodb",
   "description": "ADOdb is a PHP database class library that provides powerful abstractions for performing queries and managing databases. ADOdb also hides the differences between DB engines so you can easily switch them without changing your code.",
+  "description_ja": "ADOdbはPHPデータベースクラスライブラリで、強力な抽象化によるクエリ実行とデータベース管理を提供。DBエンジン間の差異も隠蔽し、コードを変えずに切り替え可能。",
   "url": "https://github.com/ADOdb/ADOdb",
   "homepage_url": "https://adodb.org/",
   "language": "PHP",
@@ -15,12 +16,12 @@
     "php-library"
   ],
   "star_count": 456,
-  "fork_count": 274,
+  "fork_count": 277,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-08-08T22:06:36Z",
   "updated_at": "2026-04-09T07:51:29Z",
-  "pushed_at": "2026-04-05T00:18:12Z",
+  "pushed_at": "2026-04-26T00:53:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 456
+    },
+    {
+      "date": "2026-04-26",
       "stars": 456
     }
   ]

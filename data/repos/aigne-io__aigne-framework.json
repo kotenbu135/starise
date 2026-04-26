@@ -4,6 +4,7 @@
   "name": "aigne-framework",
   "full_name": "aigne-io/aigne-framework",
   "description": "The functional, composable, and typescript-first AI Agent framework for real-world LLM Apps.",
+  "description_ja": "実世界のLLMアプリ向け、関数型・コンポーザブル・TypeScriptファーストなAIエージェントフレームワーク",
   "url": "https://github.com/AIGNE-io/aigne-framework",
   "homepage_url": "https://aigne.io/framework",
   "language": "TypeScript",
@@ -19,7 +20,7 @@
     "typescript"
   ],
   "star_count": 363,
-  "fork_count": 182,
+  "fork_count": 183,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-17T06:08:06Z",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 363
+    },
+    {
+      "date": "2026-04-26",
       "stars": 363
     }
   ]

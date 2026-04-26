@@ -4,6 +4,7 @@
   "name": "initialization-actions",
   "full_name": "googleclouddataproc/initialization-actions",
   "description": "Run in all nodes of your cluster before the cluster starts - lets you customize your cluster",
+  "description_ja": "",
   "url": "https://github.com/GoogleCloudDataproc/initialization-actions",
   "homepage_url": "https://cloud.google.com/dataproc/init-actions",
   "language": "Shell",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 597
+    },
+    {
+      "date": "2026-04-26",
       "stars": 597
     }
   ]

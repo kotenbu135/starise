@@ -4,6 +4,7 @@
   "name": "ably-flutter",
   "full_name": "ably/ably-flutter",
   "description": "A wrapper around our Cocoa and Java client library SDKs, providing iOS and Android support for those using Flutter and Dart.",
+  "description_ja": "Cocoa および Java クライアントライブラリ SDK のラッパーで、Flutter および Dart 利用者向けに iOS / Android サポートを提供",
   "url": "https://github.com/ably/ably-flutter",
   "homepage_url": "https://ably.com/download",
   "language": "Dart",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 65
+    },
+    {
+      "date": "2026-04-26",
       "stars": 65
     }
   ]

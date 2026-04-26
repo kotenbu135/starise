@@ -4,6 +4,7 @@
   "name": "toktoken",
   "full_name": "mauriziofonte/toktoken",
   "description": "TokToken is a fast, single-binary C codebase indexer for AI coding agents. Powered by universal-ctags and SQLite FTS5, it provides precise symbol search, dependency tracking, and an MCP server. TokToken reduces LLM context token usage by 88-99% by retrieving exact code symbols instead of reading entire files. Zero runtime dependencies.",
+  "description_ja": "",
   "url": "https://github.com/mauriziofonte/toktoken",
   "homepage_url": "",
   "language": "C",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 50
+    },
+    {
+      "date": "2026-04-26",
       "stars": 50
     }
   ]

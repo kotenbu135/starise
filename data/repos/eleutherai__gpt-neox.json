@@ -4,6 +4,7 @@
   "name": "gpt-neox",
   "full_name": "eleutherai/gpt-neox",
   "description": "An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries",
+  "description_ja": "",
   "url": "https://github.com/EleutherAI/gpt-neox",
   "homepage_url": "https://www.eleuther.ai/",
   "language": "Python",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 7424
+    },
+    {
+      "date": "2026-04-26",
       "stars": 7424
     }
   ]

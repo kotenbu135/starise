@@ -4,6 +4,7 @@
   "name": "django-generate-series",
   "full_name": "omenapps/django-generate-series",
   "description": "Use Postgres' generate_series to create sequences with Django's ORM",
+  "description_ja": "",
   "url": "https://github.com/OmenApps/django-generate-series",
   "homepage_url": "https://django-generate-series.readthedocs.io/en/latest/",
   "language": "Python",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 33
+    },
+    {
+      "date": "2026-04-26",
       "stars": 33
     }
   ]

@@ -4,6 +4,7 @@
   "name": "lynx",
   "full_name": "pedrovgs/lynx",
   "description": "Lynx is an Android library created to show a custom view with all the information Android logcat is printing, different traces of different levels will be rendererd to show from log messages to your application exceptions. You can filter this traces, share your logcat to other apps, configure the max number of traces to show or the sampling rate used by the library.",
+  "description_ja": "",
   "url": "https://github.com/pedrovgs/Lynx",
   "homepage_url": "",
   "language": "Java",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 789
+    },
+    {
+      "date": "2026-04-26",
       "stars": 789
     }
   ]

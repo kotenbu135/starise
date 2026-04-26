@@ -4,6 +4,7 @@
   "name": "dt",
   "full_name": "rstudio/dt",
   "description": "R Interface to the jQuery Plug-in DataTables",
+  "description_ja": "",
   "url": "https://github.com/rstudio/DT",
   "homepage_url": "https://rstudio.github.io/DT/",
   "language": "JavaScript",
@@ -16,12 +17,12 @@
     "r-package",
     "shiny"
   ],
-  "star_count": 621,
+  "star_count": 620,
   "fork_count": 178,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-11-11T21:28:04Z",
-  "updated_at": "2026-04-23T14:13:04Z",
+  "updated_at": "2026-04-26T08:53:16Z",
   "pushed_at": "2026-03-23T18:01:03Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 621
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 620
     }
   ]
 }

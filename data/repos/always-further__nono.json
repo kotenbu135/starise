@@ -4,6 +4,7 @@
   "name": "nono",
   "full_name": "always-further/nono",
   "description": "nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency. ",
+  "description_ja": "nono — 開発者向けに作られた、ケイパビリティベースの多重化サンドボックスツール。本番への lift'n'shift をシームレスに実現。追加インフラ不要、セットアップゼロ、レイテンシゼロでエージェントを安全に実行",
   "url": "https://github.com/always-further/nono",
   "homepage_url": "https://nono.sh",
   "language": "Rust",
@@ -28,12 +29,12 @@
     "supply-chain-security",
     "zero-trust"
   ],
-  "star_count": 2113,
-  "fork_count": 148,
+  "star_count": 2120,
+  "fork_count": 149,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-31T09:25:45Z",
-  "updated_at": "2026-04-25T09:12:57Z",
+  "updated_at": "2026-04-26T15:14:15Z",
   "pushed_at": "2026-04-25T09:12:55Z",
   "deleted_at": "",
   "star_history": [
@@ -48,6 +49,10 @@
     {
       "date": "2026-04-25",
       "stars": 2113
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2120
     }
   ]
 }

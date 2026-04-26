@@ -4,6 +4,7 @@
   "name": "transfer",
   "full_name": "artie-labs/transfer",
   "description": "Database replication platform that leverages change data capture. Stream production data from databases to your data warehouse (Snowflake, BigQuery, Redshift, Databricks) in real-time. ",
+  "description_ja": "",
   "url": "https://github.com/artie-labs/transfer",
   "homepage_url": "https://artie.com",
   "language": "Go",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 840
+    },
+    {
+      "date": "2026-04-26",
       "stars": 840
     }
   ]

@@ -4,6 +4,7 @@
   "name": "faststream",
   "full_name": "ag2ai/faststream",
   "description": "FastStream is a powerful and easy-to-use asynchronous Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS, MQTT and Redis.",
+  "description_ja": "FastStreamはApache Kafka、RabbitMQ、NATS、MQTT、Redisなどのイベントストリームと連携する非同期サービス構築のための強力で使いやすいPython非同期フレームワーク",
   "url": "https://github.com/ag2ai/faststream",
   "homepage_url": "http://faststream.ag2.ai/latest/",
   "language": "Python",
@@ -27,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-01T09:46:18Z",
-  "updated_at": "2026-04-25T13:46:59Z",
-  "pushed_at": "2026-04-25T15:04:23Z",
+  "updated_at": "2026-04-26T12:11:16Z",
+  "pushed_at": "2026-04-26T01:42:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5128
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5128
     }
   ]

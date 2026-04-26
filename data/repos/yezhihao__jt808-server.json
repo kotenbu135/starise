@@ -4,6 +4,7 @@
   "name": "jt808-server",
   "full_name": "yezhihao/jt808-server",
   "description": "JT808、JT808协议解析；支持TCP、UDP，实时兼容2011、2013、2019版本协议，支持分包。支持JT/T1078音视频协议，T/JSATL12苏标主动安全协议，T/GDRTA002粤标主动安全协议，支持Android客户端编解码。",
+  "description_ja": "",
   "url": "https://github.com/yezhihao/jt808-server",
   "homepage_url": "",
   "language": "Java",
@@ -21,7 +22,7 @@
     "jtt808"
   ],
   "star_count": 796,
-  "fork_count": 300,
+  "fork_count": 301,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-09T03:28:07Z",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 796
+    },
+    {
+      "date": "2026-04-26",
       "stars": 796
     }
   ]

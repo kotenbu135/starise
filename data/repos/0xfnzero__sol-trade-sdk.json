@@ -4,6 +4,7 @@
   "name": "sol-trade-sdk",
   "full_name": "0xfnzero/sol-trade-sdk",
   "description": "A high-performance Rust SDK for low-latency Solana DEX trading bots. Built for speed and efficiency, it enables seamless, high-throughput interaction with PumpFun, Pump AMM (PumpSwap), Bonk, Meteora DAMM v2, Raydium AMM v4, and Raydium CPMM for latency-critical trading strategies.",
+  "description_ja": "低レイテンシ Solana DEX 取引ボット向け高性能 Rust SDK。スピードと効率を追求し、PumpFun、Pump AMM（PumpSwap）、Bonk、Meteora DAMM v2、Raydium AMM v4、Raydium CPMM とのシームレスで高スループットな対話を可能にし、レイテンシ重視の取引戦略に対応",
   "url": "https://github.com/0xfnzero/sol-trade-sdk",
   "homepage_url": "https://fnzero.dev",
   "language": "Rust",
@@ -30,12 +31,12 @@
     "solana",
     "solana-bot"
   ],
-  "star_count": 298,
+  "star_count": 299,
   "fork_count": 146,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-28T06:14:09Z",
-  "updated_at": "2026-04-21T19:30:31Z",
+  "updated_at": "2026-04-25T18:35:47Z",
   "pushed_at": "2026-04-23T04:35:58Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 298
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 299
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "mysql",
   "full_name": "amphp/mysql",
   "description": "An async MySQL client for PHP, optimizing database interactions with efficient non-blocking capabilities. Perfect for responsive, high-performance applications.",
+  "description_ja": "PHP 向け非同期 MySQL クライアント。効率的なノンブロッキング処理でデータベースとのやり取りを最適化し、レスポンシブで高性能なアプリに最適",
   "url": "https://github.com/amphp/mysql",
   "homepage_url": "",
   "language": "PHP",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 376
+    },
+    {
+      "date": "2026-04-26",
       "stars": 376
     }
   ]

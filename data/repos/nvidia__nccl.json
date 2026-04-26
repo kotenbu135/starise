@@ -4,6 +4,7 @@
   "name": "nccl",
   "full_name": "nvidia/nccl",
   "description": "Optimized primitives for collective multi-GPU communication",
+  "description_ja": "",
   "url": "https://github.com/NVIDIA/nccl",
   "homepage_url": "https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html",
   "language": "C++",
@@ -16,12 +17,12 @@
     "gpu",
     "nvidia"
   ],
-  "star_count": 4646,
+  "star_count": 4647,
   "fork_count": 1219,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-11-14T00:12:04Z",
-  "updated_at": "2026-04-25T10:09:08Z",
+  "updated_at": "2026-04-26T12:40:07Z",
   "pushed_at": "2026-04-24T20:32:43Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 4646
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4647
     }
   ]
 }

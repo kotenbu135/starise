@@ -4,6 +4,7 @@
   "name": "bazel-diff",
   "full_name": "tinder/bazel-diff",
   "description": "Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building",
+  "description_ja": "",
   "url": "https://github.com/Tinder/bazel-diff",
   "homepage_url": "",
   "language": "Kotlin",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 500
+    },
+    {
+      "date": "2026-04-26",
       "stars": 500
     }
   ]

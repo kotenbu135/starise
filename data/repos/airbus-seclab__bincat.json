@@ -4,6 +4,7 @@
   "name": "bincat",
   "full_name": "airbus-seclab/bincat",
   "description": "Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection",
+  "description_ja": "IDA連携機能付きバイナリコード静的解析器。値解析・テイント解析・型再構築・use-after-free・double-free検出を実行",
   "url": "https://github.com/airbus-seclab/bincat",
   "homepage_url": "",
   "language": "OCaml",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1857
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1857
     }
   ]

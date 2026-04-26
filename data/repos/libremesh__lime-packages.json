@@ -4,6 +4,7 @@
   "name": "lime-packages",
   "full_name": "libremesh/lime-packages",
   "description": "LibreMesh packages configuring OpenWrt for wireless mesh networking",
+  "description_ja": "",
   "url": "https://github.com/libremesh/lime-packages",
   "homepage_url": "https://libremesh.org",
   "language": "Lua",
@@ -20,12 +21,12 @@
     "openwrt-package",
     "routing"
   ],
-  "star_count": 317,
+  "star_count": 318,
   "fork_count": 113,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-05-11T18:55:14Z",
-  "updated_at": "2026-04-20T15:21:23Z",
+  "updated_at": "2026-04-26T13:24:30Z",
   "pushed_at": "2026-04-16T08:41:42Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 317
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 318
     }
   ]
 }

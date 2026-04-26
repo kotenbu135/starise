@@ -4,6 +4,7 @@
   "name": "nimpl-getters",
   "full_name": "alexdln/nimpl-getters",
   "description": "Implementation of server getters in React Server Components without switching to SSR",
+  "description_ja": "SSRに切り替えることなくReact Server Componentsでサーバーゲッターを実装",
   "url": "https://github.com/alexdln/nimpl-getters",
   "homepage_url": "https://nimpl.dev/docs/getters",
   "language": "TypeScript",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 145
+    },
+    {
+      "date": "2026-04-26",
       "stars": 145
     }
   ]

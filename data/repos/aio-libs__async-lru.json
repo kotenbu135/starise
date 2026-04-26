@@ -4,6 +4,7 @@
   "name": "async-lru",
   "full_name": "aio-libs/async-lru",
   "description": "Simple LRU cache for asyncio",
+  "description_ja": "asyncio 向けのシンプルな LRU キャッシュ",
   "url": "https://github.com/aio-libs/async-lru",
   "homepage_url": "https://pypi.org/p/async-lru",
   "language": "Python",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 940
+    },
+    {
+      "date": "2026-04-26",
       "stars": 940
     }
   ]

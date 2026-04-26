@@ -4,6 +4,7 @@
   "name": "openwisp-firmware-upgrader",
   "full_name": "openwisp/openwisp-firmware-upgrader",
   "description": "Firmware upgrade solution for OpenWRT with possibility to add support for other embedded OSes. Provides features like automatic retry for network failures, mass upgrades, REST API and more.",
+  "description_ja": "",
   "url": "https://github.com/openwisp/openwisp-firmware-upgrader",
   "homepage_url": "https://openwisp.io/docs/stable/firmware-upgrader/",
   "language": "Python",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 95
+    },
+    {
+      "date": "2026-04-26",
       "stars": 95
     }
   ]

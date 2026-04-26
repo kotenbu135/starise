@@ -4,6 +4,7 @@
   "name": "warpgate",
   "full_name": "warp-tech/warpgate",
   "description": "Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software",
+  "description_ja": "",
   "url": "https://github.com/warp-tech/warpgate",
   "homepage_url": "https://warpgate.null.page",
   "language": "Rust",
@@ -26,12 +27,12 @@
     "ssh",
     "ssh-server"
   ],
-  "star_count": 6845,
+  "star_count": 6846,
   "fork_count": 265,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-05T13:30:51Z",
-  "updated_at": "2026-04-25T15:35:40Z",
+  "updated_at": "2026-04-25T20:01:37Z",
   "pushed_at": "2026-04-22T20:07:14Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 6845
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6846
     }
   ]
 }

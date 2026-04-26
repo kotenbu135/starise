@@ -4,6 +4,7 @@
   "name": "tirith",
   "full_name": "sheeki03/tirith",
   "description": "Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.",
+  "description_ja": "",
   "url": "https://github.com/sheeki03/tirith",
   "homepage_url": "https://tirith.sh",
   "language": "Rust",
@@ -20,13 +21,13 @@
     "unicode",
     "url-security"
   ],
-  "star_count": 2256,
+  "star_count": 2257,
   "fork_count": 77,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-02T04:33:47Z",
-  "updated_at": "2026-04-25T17:12:34Z",
-  "pushed_at": "2026-04-25T06:05:01Z",
+  "updated_at": "2026-04-26T15:46:04Z",
+  "pushed_at": "2026-04-26T06:27:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 2256
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2257
     }
   ]
 }

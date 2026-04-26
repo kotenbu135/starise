@@ -4,6 +4,7 @@
   "name": "next-openapi-gen",
   "full_name": "tazo90/next-openapi-gen",
   "description": "Automatically generate OpenAPI 3.0, 3.1, and 3.2 documentation from Next.js projects, with support for Zod schemas, TypeScript types, and reusable OpenAPI fragments.",
+  "description_ja": "",
   "url": "https://github.com/tazo90/next-openapi-gen",
   "homepage_url": "https://www.npmjs.com/package/next-openapi-gen",
   "language": "TypeScript",
@@ -23,12 +24,12 @@
     "typescript",
     "zod"
   ],
-  "star_count": 167,
+  "star_count": 168,
   "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-05T07:13:48Z",
-  "updated_at": "2026-04-22T21:08:39Z",
+  "updated_at": "2026-04-25T19:12:48Z",
   "pushed_at": "2026-04-22T21:08:35Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 167
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 168
     }
   ]
 }

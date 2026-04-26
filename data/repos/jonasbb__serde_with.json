@@ -4,6 +4,7 @@
   "name": "serde_with",
   "full_name": "jonasbb/serde_with",
   "description": "This crate provides custom de/serialization helpers to use in combination with serde's `with`-annotation and with the improved `serde_as`-annotation.",
+  "description_ja": "",
   "url": "https://github.com/jonasbb/serde_with",
   "homepage_url": "https://docs.rs/serde_with",
   "language": "Rust",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 833
+    },
+    {
+      "date": "2026-04-26",
       "stars": 833
     }
   ]

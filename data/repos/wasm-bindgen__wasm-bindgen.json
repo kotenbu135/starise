@@ -4,6 +4,7 @@
   "name": "wasm-bindgen",
   "full_name": "wasm-bindgen/wasm-bindgen",
   "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
+  "description_ja": "",
   "url": "https://github.com/wasm-bindgen/wasm-bindgen",
   "homepage_url": "https://wasm-bindgen.github.io/wasm-bindgen/",
   "language": "Rust",
@@ -15,12 +16,12 @@
     "rust-wasm",
     "wasm"
   ],
-  "star_count": 8967,
-  "fork_count": 1208,
+  "star_count": 8965,
+  "fork_count": 1209,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-18T20:38:44Z",
-  "updated_at": "2026-04-24T23:43:13Z",
+  "updated_at": "2026-04-26T15:06:07Z",
   "pushed_at": "2026-04-25T00:39:45Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 8967
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8965
     }
   ]
 }

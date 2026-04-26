@@ -4,6 +4,7 @@
   "name": "faster_react",
   "full_name": "hviana/faster_react",
   "description": "Tiny Full-Stack React framework. Avoid Overengineering. Automatic routes, reload and component bundle. It uses its own RSC engine, combining SSR and CSR. 100% Deno, no Node dependencies. Fully compatible with Deno Deploy and Serverless Environments.",
+  "description_ja": "",
   "url": "https://github.com/hviana/faster_react",
   "homepage_url": "",
   "language": "TypeScript",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

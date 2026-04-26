@@ -4,6 +4,7 @@
   "name": "litestream",
   "full_name": "akoutmos/litestream",
   "description": "This Elixir library wraps Litestream so that SQLite databases can be easily backed up",
+  "description_ja": "Litestreamをラップし、SQLiteデータベースを簡単にバックアップできるElixirライブラリ",
   "url": "https://github.com/akoutmos/litestream",
   "homepage_url": "",
   "language": "Elixir",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

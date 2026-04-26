@@ -4,6 +4,7 @@
   "name": "tft_espi",
   "full_name": "bodmer/tft_espi",
   "description": "Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips",
+  "description_ja": "",
   "url": "https://github.com/Bodmer/TFT_eSPI",
   "homepage_url": "",
   "language": "C",
@@ -21,12 +22,12 @@
     "tft-displays",
     "ttgo"
   ],
-  "star_count": 4707,
+  "star_count": 4710,
   "fork_count": 1356,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-02-22T03:08:05Z",
-  "updated_at": "2026-04-24T13:18:39Z",
+  "updated_at": "2026-04-26T07:18:37Z",
   "pushed_at": "2026-04-03T23:54:07Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 4707
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4710
     }
   ]
 }

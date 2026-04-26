@@ -4,6 +4,7 @@
   "name": "colossalai",
   "full_name": "hpcaitech/colossalai",
   "description": "Making large AI models cheaper, faster and more accessible",
+  "description_ja": "",
   "url": "https://github.com/hpcaitech/ColossalAI",
   "homepage_url": "https://www.colossalai.org",
   "language": "Python",
@@ -22,12 +23,12 @@
     "model-parallelism",
     "pipeline-parallelism"
   ],
-  "star_count": 41377,
+  "star_count": 41379,
   "fork_count": 4518,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-28T16:19:44Z",
-  "updated_at": "2026-04-25T13:35:40Z",
+  "updated_at": "2026-04-26T04:49:41Z",
   "pushed_at": "2026-04-13T17:31:24Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 41377
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 41379
     }
   ]
 }

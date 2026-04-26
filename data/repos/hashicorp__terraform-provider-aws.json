@@ -4,6 +4,7 @@
   "name": "terraform-provider-aws",
   "full_name": "hashicorp/terraform-provider-aws",
   "description": "The AWS Provider enables Terraform to manage AWS resources.",
+  "description_ja": "",
   "url": "https://github.com/hashicorp/terraform-provider-aws",
   "homepage_url": "https://registry.terraform.io/providers/hashicorp/aws",
   "language": "Go",
@@ -13,12 +14,12 @@
     "terraform",
     "terraform-provider"
   ],
-  "star_count": 10854,
-  "fork_count": 10095,
+  "star_count": 10856,
+  "fork_count": 10097,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-06-05T20:37:52Z",
-  "updated_at": "2026-04-25T16:19:49Z",
+  "updated_at": "2026-04-26T04:52:29Z",
   "pushed_at": "2026-04-24T20:16:32Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 10854
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 10856
     }
   ]
 }

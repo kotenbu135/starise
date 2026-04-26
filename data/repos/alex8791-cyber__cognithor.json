@@ -4,6 +4,7 @@
   "name": "cognithor",
   "full_name": "alex8791-cyber/cognithor",
   "description": "Cognithor · Agent OS: Local-first autonomous agent operating system. 19 LLM providers, 18 channels, 145 MCP tools, 6-tier memory, Agent Packs marketplace, zero telemetry. Python 3.12+, Apache 2.0.",
+  "description_ja": "Cognithor · Agent OS: ローカルファースト型の自律エージェント OS。19 種の LLM プロバイダ、18 チャネル、145 MCP ツール、6 段階メモリ、Agent Packs マーケットプレイスを搭載し、テレメトリなし。Python 3.12+、Apache 2.0 ライセンス",
   "url": "https://github.com/Alex8791-cyber/cognithor",
   "homepage_url": "https://cognithor.ai",
   "language": "Python",
@@ -30,13 +31,13 @@
     "openai",
     "telegram-bot"
   ],
-  "star_count": 116,
+  "star_count": 115,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-25T01:24:40Z",
-  "updated_at": "2026-04-25T16:35:59Z",
-  "pushed_at": "2026-04-25T17:02:18Z",
+  "updated_at": "2026-04-26T14:04:01Z",
+  "pushed_at": "2026-04-26T17:06:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 116
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 115
     }
   ]
 }

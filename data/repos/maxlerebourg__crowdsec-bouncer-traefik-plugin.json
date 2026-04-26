@@ -4,6 +4,7 @@
   "name": "crowdsec-bouncer-traefik-plugin",
   "full_name": "maxlerebourg/crowdsec-bouncer-traefik-plugin",
   "description": "Traefik plugin for Crowdsec - WAF and IP protection",
+  "description_ja": "",
   "url": "https://github.com/maxlerebourg/crowdsec-bouncer-traefik-plugin",
   "homepage_url": "",
   "language": "Go",
@@ -16,12 +17,12 @@
     "traefik-plugin",
     "waf"
   ],
-  "star_count": 757,
+  "star_count": 759,
   "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-09-27T15:57:26Z",
-  "updated_at": "2026-04-25T12:43:58Z",
+  "updated_at": "2026-04-26T10:05:33Z",
   "pushed_at": "2026-04-25T16:04:33Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 757
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 759
     }
   ]
 }

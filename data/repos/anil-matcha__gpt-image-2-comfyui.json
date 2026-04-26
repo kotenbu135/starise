@@ -4,6 +4,7 @@
   "name": "gpt-image-2-comfyui",
   "full_name": "anil-matcha/gpt-image-2-comfyui",
   "description": "ComfyUI custom nodes for GPT-Image-2 image generation via muapi.ai — text-to-image and image-to-image",
+  "description_ja": "muapi.ai経由でGPT-Image-2画像生成を行うComfyUIカスタムノード — text-to-imageおよびimage-to-image",
   "url": "https://github.com/Anil-matcha/gpt-image-2-comfyui",
   "homepage_url": "",
   "language": "Python",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 31
+    },
+    {
+      "date": "2026-04-26",
       "stars": 31
     }
   ]

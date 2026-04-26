@@ -4,6 +4,7 @@
   "name": "isoalloc",
   "full_name": "struct/isoalloc",
   "description": "A general purpose memory allocator that implements an isolation security strategy to mitigate memory safety issues while maintaining good performance",
+  "description_ja": "",
   "url": "https://github.com/struct/isoalloc",
   "homepage_url": "https://secure.dev",
   "language": "C",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 387
+    },
+    {
+      "date": "2026-04-26",
       "stars": 387
     }
   ]

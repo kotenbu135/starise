@@ -4,6 +4,7 @@
   "name": "agent-os",
   "full_name": "rivet-dev/agent-os",
   "description": "A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.",
+  "description_ja": "",
   "url": "https://github.com/rivet-dev/agent-os",
   "homepage_url": "https://www.rivet.dev/agent-os",
   "language": "Rust",
@@ -18,12 +19,12 @@
     "wasm",
     "webassembly"
   ],
-  "star_count": 2734,
-  "fork_count": 115,
+  "star_count": 2735,
+  "fork_count": 116,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-07T01:06:25Z",
-  "updated_at": "2026-04-25T14:55:56Z",
+  "updated_at": "2026-04-26T13:45:23Z",
   "pushed_at": "2026-04-23T01:24:11Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 2734
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2735
     }
   ]
 }

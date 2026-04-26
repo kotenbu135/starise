@@ -4,6 +4,7 @@
   "name": "consecutivescroller",
   "full_name": "donkingliang/consecutivescroller",
   "description": "ConsecutiveScrollerLayout是Android下支持多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件(TextView、ImageView、LinearLayou、自定义View等)持续连贯滑动的容器,它使所有的子View像一个整体一样连续顺畅滑动。并且支持布局吸顶功能。",
+  "description_ja": "",
   "url": "https://github.com/donkingliang/ConsecutiveScroller",
   "homepage_url": "",
   "language": "Java",
@@ -21,12 +22,12 @@
     "sticky",
     "sticky-headers"
   ],
-  "star_count": 2895,
+  "star_count": 2896,
   "fork_count": 375,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-15T08:01:26Z",
-  "updated_at": "2026-04-24T08:37:04Z",
+  "updated_at": "2026-04-26T04:43:44Z",
   "pushed_at": "2023-03-28T06:57:07Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 2895
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2896
     }
   ]
 }

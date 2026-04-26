@@ -4,6 +4,7 @@
   "name": "garage",
   "full_name": "deuxfleurs-org/garage",
   "description": "(Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage",
+  "description_ja": "",
   "url": "https://github.com/deuxfleurs-org/garage",
   "homepage_url": "https://garagehq.deuxfleurs.fr",
   "language": "Rust",
@@ -13,13 +14,13 @@
     "rust",
     "s3"
   ],
-  "star_count": 3587,
+  "star_count": 3614,
   "fork_count": 134,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-11-17T16:20:00Z",
-  "updated_at": "2026-04-25T16:48:12Z",
-  "pushed_at": "2026-04-23T20:42:25Z",
+  "updated_at": "2026-04-26T16:45:15Z",
+  "pushed_at": "2026-04-26T10:35:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 3587
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3614
     }
   ]
 }

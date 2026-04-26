@@ -4,6 +4,7 @@
   "name": "esp-mqtt",
   "full_name": "256dpi/esp-mqtt",
   "description": "MQTT component for esp-idf projects based on the lwmqtt library",
+  "description_ja": "[50] lwmqtt ライブラリベースの esp-idf プロジェクト向け MQTT コンポーネント",
   "url": "https://github.com/256dpi/esp-mqtt",
   "homepage_url": "",
   "language": "C",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 101
+    },
+    {
+      "date": "2026-04-26",
       "stars": 101
     }
   ]

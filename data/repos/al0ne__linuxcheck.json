@@ -4,6 +4,7 @@
   "name": "linuxcheck",
   "full_name": "al0ne/linuxcheck",
   "description": "Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查",
+  "description_ja": "Linux緊急対応/情報収集/脆弱性検知ツール。基本設定/ネットワークトラフィック/cron/環境変数/ユーザー情報/Services/bash/悪意あるファイル/カーネルRootkit/SSH/Webshell/マイニングファイル/マイニングプロセス/サプライチェーン/サーバーリスクなど13カテゴリ70項目以上の検査をサポート",
   "url": "https://github.com/al0ne/LinuxCheck",
   "homepage_url": "",
   "language": "Shell",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2067
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2067
     }
   ]

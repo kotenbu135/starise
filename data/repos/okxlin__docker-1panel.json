@@ -4,6 +4,7 @@
   "name": "docker-1panel",
   "full_name": "okxlin/docker-1panel",
   "description": "Docker方式运行的1Panel；1Panel running in Docker",
+  "description_ja": "",
   "url": "https://github.com/okxlin/docker-1panel",
   "homepage_url": "https://hub.docker.com/r/moelin/1panel",
   "language": "Shell",
@@ -14,12 +15,12 @@
     "docker-compose",
     "dockerfile"
   ],
-  "star_count": 301,
+  "star_count": 302,
   "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-19T02:14:32Z",
-  "updated_at": "2026-04-25T11:20:19Z",
+  "updated_at": "2026-04-26T15:08:47Z",
   "pushed_at": "2026-02-25T11:50:43Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 301
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 302
     }
   ]
 }

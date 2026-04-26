@@ -4,6 +4,7 @@
   "name": "dnscrypt-server-docker",
   "full_name": "dnscrypt/dnscrypt-server-docker",
   "description": "A Docker image for a non-censoring, non-logging, DNSSEC-capable, DNSCrypt-enabled DNS resolver",
+  "description_ja": "",
   "url": "https://github.com/DNSCrypt/dnscrypt-server-docker",
   "homepage_url": "https://dnscrypt.info",
   "language": "Shell",
@@ -18,12 +19,12 @@
     "docker-image",
     "doh"
   ],
-  "star_count": 801,
+  "star_count": 802,
   "fork_count": 150,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-07-05T22:27:32Z",
-  "updated_at": "2026-04-10T11:49:22Z",
+  "updated_at": "2026-04-26T13:53:11Z",
   "pushed_at": "2025-12-01T11:04:02Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 801
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 802
     }
   ]
 }

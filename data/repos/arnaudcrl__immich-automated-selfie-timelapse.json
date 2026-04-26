@@ -4,6 +4,7 @@
   "name": "immich-automated-selfie-timelapse",
   "full_name": "arnaudcrl/immich-automated-selfie-timelapse",
   "description": "Automated face extraction, resizing and alignment suitable to make a selfie timelapse video.",
+  "description_ja": "",
   "url": "https://github.com/ArnaudCrl/immich-automated-selfie-timelapse",
   "homepage_url": "https://hub.docker.com/r/arnaudcayrol/immich-selfie-timelapse",
   "language": "Rust",
@@ -14,12 +15,12 @@
     "self-hosted",
     "timelapse"
   ],
-  "star_count": 540,
+  "star_count": 541,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-28T18:53:44Z",
-  "updated_at": "2026-04-24T21:57:12Z",
+  "updated_at": "2026-04-26T10:16:31Z",
   "pushed_at": "2026-03-30T17:08:58Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 540
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 541
     }
   ]
 }

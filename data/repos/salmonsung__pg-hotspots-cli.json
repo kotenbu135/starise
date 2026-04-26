@@ -4,6 +4,7 @@
   "name": "pg-hotspots-cli",
   "full_name": "salmonsung/pg-hotspots-cli",
   "description": "PostgreSQL Hotspots is a diagnostic cli tool built for high-pressure “database down” situations...All reports are written into an interactive html file + txt file so the result can be shared and used with customers easily  Besides, metrics have been mapped into a diagnosis-ready format for rapid trouble-shooting.",
+  "description_ja": "",
   "url": "https://github.com/SalmonSung/pg-hotspots-cli",
   "homepage_url": "",
   "language": "HTML",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 160
+    },
+    {
+      "date": "2026-04-26",
       "stars": 160
     }
   ]

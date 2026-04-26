@@ -4,6 +4,7 @@
   "name": "rocmvalidationsuite",
   "full_name": "rocm/rocmvalidationsuite",
   "description": "A system validation and diagnostics tool for monitoring, stress testing, detecting, and troubleshooting issues impacting AMD GPUs in high-performance computing environments",
+  "description_ja": "",
   "url": "https://github.com/ROCm/ROCmValidationSuite",
   "homepage_url": "https://rocm.docs.amd.com/projects/ROCmValidationSuite/en/latest/",
   "language": "C++",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 100
+    },
+    {
+      "date": "2026-04-26",
       "stars": 100
     }
   ]

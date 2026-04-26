@@ -4,6 +4,7 @@
   "name": "logstash",
   "full_name": "elastic/logstash",
   "description": "Logstash - transport and process your logs, events, or other data",
+  "description_ja": "",
   "url": "https://github.com/elastic/logstash",
   "homepage_url": "https://www.elastic.co/products/logstash",
   "language": "Java",
@@ -16,12 +17,12 @@
     "real-time-processing",
     "streaming"
   ],
-  "star_count": 14843,
+  "star_count": 14844,
   "fork_count": 3502,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2010-11-18T01:31:50Z",
-  "updated_at": "2026-04-25T15:28:30Z",
+  "updated_at": "2026-04-26T04:40:38Z",
   "pushed_at": "2026-04-24T18:46:40Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 14843
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 14844
     }
   ]
 }

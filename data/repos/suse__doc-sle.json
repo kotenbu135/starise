@@ -4,6 +4,7 @@
   "name": "doc-sle",
   "full_name": "suse/doc-sle",
   "description": "Official SUSE Linux Enterprise Documentation [Everyone, please use feature/ branches, create PRs and ensure CI runs successfully rather than just pushing to main!]",
+  "description_ja": "",
   "url": "https://github.com/SUSE/doc-sle",
   "homepage_url": "https://documentation.suse.com/sles/",
   "language": "Emacs Lisp",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 100
+    },
+    {
+      "date": "2026-04-26",
       "stars": 100
     }
   ]

@@ -4,6 +4,7 @@
   "name": "php-passphrase",
   "full_name": "nicobleiler/php-passphrase",
   "description": "Passphrase generator with Laravel integration, inspired by Bitwarden. Uses the EFF long word list by default with support for custom wordlists.",
+  "description_ja": "",
   "url": "https://github.com/nicobleiler/php-passphrase",
   "homepage_url": "https://packagist.org/packages/nicobleiler/php-passphrase",
   "language": "PHP",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 46
+    },
+    {
+      "date": "2026-04-26",
       "stars": 46
     }
   ]

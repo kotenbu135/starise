@@ -4,6 +4,7 @@
   "name": "fast-rir",
   "full_name": "anton-jeran/fast-rir",
   "description": "This is the official implementation of our neural-network-based fast diffuse room impulse response generator (FAST-RIR)  for generating room impulse responses (RIRs) for a given acoustic environment.",
+  "description_ja": "与えられた音響環境の室内インパルス応答（RIR）を生成するニューラルネットワークベースの高速拡散室内インパルス応答ジェネレータ（FAST-RIR）の公式実装。",
   "url": "https://github.com/anton-jeran/FAST-RIR",
   "homepage_url": "https://anton-jeran.github.io/FRIR/",
   "language": "Python",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 181
+    },
+    {
+      "date": "2026-04-26",
       "stars": 181
     }
   ]

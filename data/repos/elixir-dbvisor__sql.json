@@ -4,6 +4,7 @@
   "name": "sql",
   "full_name": "elixir-dbvisor/sql",
   "description": "SQL provides state-of-the-art, high-performance SQL integration for Elixir, built to handle extreme concurrency with unmatched expressiveness and ergonomic query composition. Write safe, composable, parameterized queries directly, without translating to Ecto or any ORM.",
+  "description_ja": "",
   "url": "https://github.com/elixir-dbvisor/sql",
   "homepage_url": "",
   "language": "Elixir",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 256
+    },
+    {
+      "date": "2026-04-26",
       "stars": 256
     }
   ]

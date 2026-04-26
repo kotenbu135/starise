@@ -4,6 +4,7 @@
   "name": "lnmp",
   "full_name": "khs1994-docker/lnmp",
   "description": ":computer: :whale: :elephant: :dolphin: :penguin: :rocket: Start Docker LNMP(LEMP) In less than 2 minutes Powered by Docker Compose. 让 PHP 开发者快速（一键）搭建基于容器技术（Docker、Kubernetes）的开发、测试、生产（CI/CD by Drone）环境.",
+  "description_ja": "",
   "url": "https://github.com/khs1994-docker/lnmp",
   "homepage_url": "https://docs.lnmp.khs1994.com",
   "language": "Dockerfile",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 678
+    },
+    {
+      "date": "2026-04-26",
       "stars": 678
     }
   ]

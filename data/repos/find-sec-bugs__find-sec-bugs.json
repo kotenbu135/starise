@@ -4,6 +4,7 @@
   "name": "find-sec-bugs",
   "full_name": "find-sec-bugs/find-sec-bugs",
   "description": "The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)",
+  "description_ja": "",
   "url": "https://github.com/find-sec-bugs/find-sec-bugs",
   "homepage_url": "https://find-sec-bugs.github.io/",
   "language": "Java",
@@ -21,12 +22,12 @@
     "static-analysis",
     "taint-analysis"
   ],
-  "star_count": 2424,
+  "star_count": 2423,
   "fork_count": 479,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-05-17T04:07:57Z",
-  "updated_at": "2026-04-24T14:04:36Z",
+  "updated_at": "2026-04-26T08:23:21Z",
   "pushed_at": "2026-03-26T05:29:48Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 2424
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2423
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "manga-image-translator",
   "full_name": "zyddnys/manga-image-translator",
   "description": "Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/ (no longer working)",
+  "description_ja": "",
   "url": "https://github.com/zyddnys/manga-image-translator",
   "homepage_url": "https://cotrans.touhou.ai/",
   "language": "Python",
@@ -25,12 +26,12 @@
     "text-detection-recognition",
     "transformer"
   ],
-  "star_count": 9784,
-  "fork_count": 978,
+  "star_count": 9789,
+  "fork_count": 980,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-02-18T03:03:23Z",
-  "updated_at": "2026-04-25T17:27:51Z",
+  "updated_at": "2026-04-26T17:03:30Z",
   "pushed_at": "2026-04-23T10:46:02Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 9784
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9789
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "virtualxposed",
   "full_name": "android-hacker/virtualxposed",
   "description": "A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.",
+  "description_ja": "[30] root 化、ブートローダーアンロック、システムイメージ改変などをせずに Xposed を利用できるシンプルなアプリ",
   "url": "https://github.com/android-hacker/VirtualXposed",
   "homepage_url": "https://vxp.app",
   "language": "Java",
@@ -16,7 +17,7 @@
     "xposed"
   ],
   "star_count": 15975,
-  "fork_count": 2522,
+  "fork_count": 2521,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-01T09:00:58Z",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 15975
+    },
+    {
+      "date": "2026-04-26",
       "stars": 15975
     }
   ]

@@ -4,6 +4,7 @@
   "name": "chinesepinyin-codecompletionhelper",
   "full_name": "tuchg/chinesepinyin-codecompletionhelper",
   "description": "让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏",
+  "description_ja": "",
   "url": "https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper",
   "homepage_url": "https://plugins.jetbrains.com/plugin/14838",
   "language": "Kotlin",
@@ -15,12 +16,12 @@
     "pinyin",
     "pinyin-completions-plugin"
   ],
-  "star_count": 1825,
+  "star_count": 1826,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-07-27T06:12:23Z",
-  "updated_at": "2026-04-24T16:29:19Z",
+  "updated_at": "2026-04-26T12:20:36Z",
   "pushed_at": "2024-03-02T05:03:53Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 1825
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1826
     }
   ]
 }

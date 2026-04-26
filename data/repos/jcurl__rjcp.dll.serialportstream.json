@@ -4,13 +4,14 @@
   "name": "rjcp.dll.serialportstream",
   "full_name": "jcurl/rjcp.dll.serialportstream",
   "description": "SerialPortStream is an independent implementation of System.IO.Ports.SerialPort and SerialStream for better reliability and maintainability. Default branch is 2.x and now has support for Mono with help of a C library.",
+  "description_ja": "",
   "url": "https://github.com/jcurl/RJCP.DLL.SerialPortStream",
   "homepage_url": "",
   "language": "C#",
   "license": "MS-PL",
   "topics": [],
   "star_count": 726,
-  "fork_count": 201,
+  "fork_count": 202,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-02-13T13:21:46Z",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 726
+    },
+    {
+      "date": "2026-04-26",
       "stars": 726
     }
   ]

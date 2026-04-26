@@ -4,6 +4,7 @@
   "name": "cursor-deepseek",
   "full_name": "danilofalcao/cursor-deepseek",
   "description": "A high-performance HTTP/2-enabled proxy server designed specifically to enable Cursor IDE's Composer to use DeepSeek's and OpenRouter's language models. This proxy translates OpenAI-compatible API requests to DeepSeek/OpenRouter API format, allowing Cursor's Composer and other OpenAI API-compatible tools to seamlessly work with these models.",
+  "description_ja": "",
   "url": "https://github.com/danilofalcao/cursor-deepseek",
   "homepage_url": "",
   "language": "Go",
@@ -13,12 +14,12 @@
     "deepseek",
     "openrouter"
   ],
-  "star_count": 617,
+  "star_count": 618,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-21T21:56:17Z",
-  "updated_at": "2026-04-25T15:44:56Z",
+  "updated_at": "2026-04-26T15:07:17Z",
   "pushed_at": "2026-01-14T23:08:56Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 617
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 618
     }
   ]
 }

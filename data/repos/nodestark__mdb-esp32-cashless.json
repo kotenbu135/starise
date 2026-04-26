@@ -4,6 +4,7 @@
   "name": "mdb-esp32-cashless",
   "full_name": "nodestark/mdb-esp32-cashless",
   "description": "ESP32-based MDB cashless device for vending machines, supporting EVA DTS DEX/DDCMP telemetry and payments over the MDB protocol via Bluetooth and MQTT",
+  "description_ja": "",
   "url": "https://github.com/nodestark/mdb-esp32-cashless",
   "homepage_url": "https://vmflow.xyz",
   "language": "Vue",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 127
+    },
+    {
+      "date": "2026-04-26",
       "stars": 127
     }
   ]

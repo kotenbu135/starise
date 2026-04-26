@@ -4,6 +4,7 @@
   "name": "abstract-cs",
   "full_name": "abstract-ide/abstract-cs",
   "description": "Colorscheme for (neo)vim written in lua, specially made for roshnivim with Tree-sitter support.",
+  "description_ja": "(neo)vim 向け Lua 製カラースキーム。roshnivim 専用、Tree-sitter サポート付き",
   "url": "https://github.com/Abstract-IDE/Abstract-cs",
   "homepage_url": "",
   "language": "Lua",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 115
+    },
+    {
+      "date": "2026-04-26",
       "stars": 115
     }
   ]

@@ -4,6 +4,7 @@
   "name": "mini.diff",
   "full_name": "nvim-mini/mini.diff",
   "description": "Work with diff hunks. Part of 'mini.nvim' library. ",
+  "description_ja": "",
   "url": "https://github.com/nvim-mini/mini.diff",
   "homepage_url": "",
   "language": "Lua",
@@ -14,12 +15,12 @@
     "neovim",
     "neovim-plugin"
   ],
-  "star_count": 215,
+  "star_count": 214,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-28T16:13:36Z",
-  "updated_at": "2026-04-16T01:49:30Z",
+  "updated_at": "2026-04-26T15:29:14Z",
   "pushed_at": "2026-04-03T14:02:17Z",
   "deleted_at": "",
   "star_history": [
@@ -30,6 +31,10 @@
     {
       "date": "2026-04-25",
       "stars": 215
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 214
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "text2vec",
   "full_name": "shibing624/text2vec",
   "description": "text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。",
+  "description_ja": "",
   "url": "https://github.com/shibing624/text2vec",
   "homepage_url": "https://pypi.org/project/text2vec/",
   "language": "Python",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 4962
+    },
+    {
+      "date": "2026-04-26",
       "stars": 4962
     }
   ]

@@ -4,6 +4,7 @@
   "name": "docker-palworld-dedicated-server",
   "full_name": "jammsen/docker-palworld-dedicated-server",
   "description": "Docker container to easily provision and manage Palworld Dedicated Server",
+  "description_ja": "",
   "url": "https://github.com/jammsen/docker-palworld-dedicated-server",
   "homepage_url": "https://hub.docker.com/r/jammsen/palworld-dedicated-server",
   "language": "Shell",
@@ -22,7 +23,7 @@
     "rcon"
   ],
   "star_count": 967,
-  "fork_count": 155,
+  "fork_count": 154,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-19T08:30:55Z",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 967
+    },
+    {
+      "date": "2026-04-26",
       "stars": 967
     }
   ]

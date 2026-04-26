@@ -4,6 +4,7 @@
   "name": "llamafactory",
   "full_name": "hiyouga/llamafactory",
   "description": "Unified Efficient Fine-Tuning of 100+ LLMs \u0026 VLMs (ACL 2024)",
+  "description_ja": "",
   "url": "https://github.com/hiyouga/LlamaFactory",
   "homepage_url": "https://llamafactory.readthedocs.io",
   "language": "Python",
@@ -30,13 +31,13 @@
     "rlhf",
     "transformers"
   ],
-  "star_count": 70601,
-  "fork_count": 8629,
+  "star_count": 70635,
+  "fork_count": 8635,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-28T10:09:12Z",
-  "updated_at": "2026-04-25T15:51:32Z",
-  "pushed_at": "2026-04-23T09:29:06Z",
+  "updated_at": "2026-04-26T17:14:38Z",
+  "pushed_at": "2026-04-26T16:37:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +59,10 @@
     {
       "date": "2026-04-25",
       "stars": 70601
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 70635
     }
   ]
 }

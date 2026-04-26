@@ -4,6 +4,7 @@
   "name": "guardrails",
   "full_name": "nvidia-nemo/guardrails",
   "description": "NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.",
+  "description_ja": "",
   "url": "https://github.com/NVIDIA-NeMo/Guardrails",
   "homepage_url": "https://docs.nvidia.com/nemo/guardrails/latest/index.html",
   "language": "Python",
@@ -19,13 +20,13 @@
     "python",
     "safety"
   ],
-  "star_count": 6038,
-  "fork_count": 658,
+  "star_count": 6041,
+  "fork_count": 660,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-18T12:32:47Z",
-  "updated_at": "2026-04-25T13:51:35Z",
-  "pushed_at": "2026-04-24T23:41:14Z",
+  "updated_at": "2026-04-26T13:24:11Z",
+  "pushed_at": "2026-04-26T12:07:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 6038
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6041
     }
   ]
 }

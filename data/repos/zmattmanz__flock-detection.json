@@ -4,6 +4,7 @@
   "name": "flock-detection",
   "full_name": "zmattmanz/flock-detection",
   "description": "ESP32-S3 surveillance detector — identifies Flock Safety ALPR cameras and Raven gunshot detectors via WiFi/BLE with confidence scoring, GPS-tagged CSV logging, and OLED display",
+  "description_ja": "",
   "url": "https://github.com/zmattmanz/flock-detection",
   "homepage_url": "",
   "language": "C++",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 50
+    },
+    {
+      "date": "2026-04-26",
       "stars": 50
     }
   ]

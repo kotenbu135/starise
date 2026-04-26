@@ -4,6 +4,7 @@
   "name": "osquery",
   "full_name": "osquery/osquery",
   "description": "SQL powered operating system instrumentation, monitoring, and analytics.",
+  "description_ja": "",
   "url": "https://github.com/osquery/osquery",
   "homepage_url": "https://osquery.io",
   "language": "C++",
@@ -15,13 +16,13 @@
     "security",
     "sql"
   ],
-  "star_count": 23232,
+  "star_count": 23231,
   "fork_count": 2567,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-07-29T20:27:33Z",
-  "updated_at": "2026-04-25T14:01:56Z",
-  "pushed_at": "2026-04-24T21:12:07Z",
+  "updated_at": "2026-04-25T21:30:55Z",
+  "pushed_at": "2026-04-25T20:33:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 23232
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 23231
     }
   ]
 }

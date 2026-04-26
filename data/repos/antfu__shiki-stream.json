@@ -4,6 +4,7 @@
   "name": "shiki-stream",
   "full_name": "antfu/shiki-stream",
   "description": "Streaming highlighting with Shiki. Useful for highlighting text streams like LLM outputs.",
+  "description_ja": "Shikiによるストリーミング構文ハイライト。LLM出力などのテキストストリームのハイライトに有用",
   "url": "https://github.com/antfu/shiki-stream",
   "homepage_url": "https://shiki-stream.netlify.app/",
   "language": "TypeScript",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 588
+    },
+    {
+      "date": "2026-04-26",
       "stars": 588
     }
   ]

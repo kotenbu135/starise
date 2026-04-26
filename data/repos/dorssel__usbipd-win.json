@@ -4,6 +4,7 @@
   "name": "usbipd-win",
   "full_name": "dorssel/usbipd-win",
   "description": "Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.",
+  "description_ja": "",
   "url": "https://github.com/dorssel/usbipd-win",
   "homepage_url": "",
   "language": "C#",
@@ -18,13 +19,13 @@
     "wsl",
     "wsl2"
   ],
-  "star_count": 5624,
-  "fork_count": 345,
+  "star_count": 5627,
+  "fork_count": 346,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-18T21:44:11Z",
-  "updated_at": "2026-04-25T17:12:41Z",
-  "pushed_at": "2026-04-25T17:03:10Z",
+  "updated_at": "2026-04-26T10:57:06Z",
+  "pushed_at": "2026-04-26T05:41:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 5624
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5627
     }
   ]
 }

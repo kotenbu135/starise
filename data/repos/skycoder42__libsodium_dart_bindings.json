@@ -4,6 +4,7 @@
   "name": "libsodium_dart_bindings",
   "full_name": "skycoder42/libsodium_dart_bindings",
   "description": "Dart bindings for libsodium, supporting both the VM and JS without flutter dependencies.",
+  "description_ja": "",
   "url": "https://github.com/Skycoder42/libsodium_dart_bindings",
   "homepage_url": "https://pub.dev/packages/sodium",
   "language": "Dart",
@@ -22,12 +23,12 @@
     "web",
     "windows"
   ],
-  "star_count": 39,
+  "star_count": 40,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-03-29T06:10:27Z",
-  "updated_at": "2026-04-23T10:49:17Z",
+  "updated_at": "2026-04-26T13:05:21Z",
   "pushed_at": "2026-04-24T13:03:52Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 39
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 40
     }
   ]
 }

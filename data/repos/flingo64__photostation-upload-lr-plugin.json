@@ -4,6 +4,7 @@
   "name": "photostation-upload-lr-plugin",
   "full_name": "flingo64/photostation-upload-lr-plugin",
   "description": "Photo StatLr (aka PhotoStation Upload) is a Lightroom Publish and Export Service Plugin that enables the export /publishing of photos and videos from Lr to a Synology Photo Station. It uploads the photos/videos and all required thumbnails. It can download comments and ratings and do a real two-way synch of various metadata (tags, ratings, labels).",
+  "description_ja": "",
   "url": "https://github.com/flingo64/PhotoStation-Upload-Lr-Plugin",
   "homepage_url": "http://messmer-online.de/index.php/software/11-photo-statlr",
   "language": "Lua",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 212
+    },
+    {
+      "date": "2026-04-26",
       "stars": 212
     }
   ]

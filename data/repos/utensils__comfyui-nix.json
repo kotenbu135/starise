@@ -4,6 +4,7 @@
   "name": "comfyui-nix",
   "full_name": "utensils/comfyui-nix",
   "description": "A slightly opinionated Nix flake for ComfyUI with curated custom nodes. Supports macOS (Apple Silicon) and Linux with CUDA.",
+  "description_ja": "",
   "url": "https://github.com/utensils/comfyui-nix",
   "homepage_url": "https://flakehub.com/flake/utensils/comfyui",
   "language": "Nix",
@@ -22,7 +23,7 @@
     "stable-diffusion"
   ],
   "star_count": 93,
-  "fork_count": 25,
+  "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-17T08:44:36Z",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 93
+    },
+    {
+      "date": "2026-04-26",
       "stars": 93
     }
   ]

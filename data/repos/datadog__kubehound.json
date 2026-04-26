@@ -4,6 +4,7 @@
   "name": "kubehound",
   "full_name": "datadog/kubehound",
   "description": "Tool for building Kubernetes attack paths",
+  "description_ja": "",
   "url": "https://github.com/DataDog/KubeHound",
   "homepage_url": "https://kubehound.io",
   "language": "Go",
@@ -29,7 +30,7 @@
   "is_fork": false,
   "created_at": "2023-05-15T07:48:42Z",
   "updated_at": "2026-04-25T02:19:03Z",
-  "pushed_at": "2026-04-24T20:42:47Z",
+  "pushed_at": "2026-04-26T15:40:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 966
+    },
+    {
+      "date": "2026-04-26",
       "stars": 966
     }
   ]

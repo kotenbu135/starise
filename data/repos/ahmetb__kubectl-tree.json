@@ -4,6 +4,7 @@
   "name": "kubectl-tree",
   "full_name": "ahmetb/kubectl-tree",
   "description": "kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)",
+  "description_ja": "Kubernetesオブジェクトの階層をツリー表示するkubectlプラグイン 🎄（利用中の方はぜひスターを）",
   "url": "https://github.com/ahmetb/kubectl-tree",
   "homepage_url": "",
   "language": "Go",
@@ -14,7 +15,7 @@
     "kubectl-plugins"
   ],
   "star_count": 3362,
-  "fork_count": 139,
+  "fork_count": 138,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-23T21:46:55Z",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3362
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3362
     }
   ]

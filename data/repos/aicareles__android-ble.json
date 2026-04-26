@@ -4,6 +4,7 @@
   "name": "android-ble",
   "full_name": "aicareles/android-ble",
   "description": "Android-BLE蓝牙框架,提供了扫描、连接、使能/除能通知、发送/读取数据、接收数据,读取rssi,设置mtu等蓝牙相关的所有操作接口,内部优化了连接队列,以及快速写入队列, 并支持多服务通讯,可扩展配置蓝牙相关操作。",
+  "description_ja": "Android-BLE Bluetoothフレームワーク。スキャン、接続、通知の有効化/無効化、データ送受信、RSSI読み取り、MTU設定などBluetooth関連の全操作APIを提供。接続キューや高速書き込みキューを内部最適化し、マルチサービス通信に対応、Bluetooth関連操作を拡張的に設定可能",
   "url": "https://github.com/aicareles/Android-BLE",
   "homepage_url": "",
   "language": "Java",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2848
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2848
     }
   ]

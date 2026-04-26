@@ -4,6 +4,7 @@
   "name": "doc2dataset",
   "full_name": "3dcf-labs/doc2dataset",
   "description": "3DCF / doc2dataset: token-efficient document layer with NumGuard numeric integrity and multi-framework exports for RAG \u0026 fine-tuning.",
+  "description_ja": "3DCF / doc2dataset: トークン効率に優れたドキュメントレイヤー。NumGuardによる数値整合性とRAG・ファインチューニング向けマルチフレームワークエクスポートを提供",
   "url": "https://github.com/3DCF-Labs/doc2dataset",
   "homepage_url": "",
   "language": "Rust",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 57
+    },
+    {
+      "date": "2026-04-26",
       "stars": 57
     }
   ]

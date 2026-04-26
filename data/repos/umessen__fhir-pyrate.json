@@ -4,6 +4,7 @@
   "name": "fhir-pyrate",
   "full_name": "umessen/fhir-pyrate",
   "description": "FHIR-PYrate is a package that provides a high-level API to query FHIR Servers for bundles of resources and return the structured information as pandas DataFrames. It can also be used to filter resources using RegEx and SpaCy and download DICOM studies and series.",
+  "description_ja": "",
   "url": "https://github.com/UMEssen/FHIR-PYrate",
   "homepage_url": "",
   "language": "Python",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 79
+    },
+    {
+      "date": "2026-04-26",
       "stars": 79
     }
   ]

@@ -4,6 +4,7 @@
   "name": "az-iranian-bank-gateways",
   "full_name": "ali-zahedi/az-iranian-bank-gateways",
   "description": "درگاه اتصال به بانک های ایرانی ( درگاه پرداخت بانک ملی ایران،بانک سامان، بانک ملت، درگاه پرداخت زرین پال و ... ) با استفاده از پایتون",
+  "description_ja": "Pythonを使ったイラン銀行（メッリ銀行、サマン銀行、メッラト銀行、ZarinPal決済ゲートウェイなど）の決済ゲートウェイ接続ライブラリ。",
   "url": "https://github.com/ali-zahedi/az-iranian-bank-gateways",
   "homepage_url": "",
   "language": "Python",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 598
+    },
+    {
+      "date": "2026-04-26",
       "stars": 598
     }
   ]

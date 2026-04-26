@@ -4,6 +4,7 @@
   "name": "crispasr",
   "full_name": "crispstrobe/crispasr",
   "description": "C++ ggml runtime hub for multilingual ASR models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment via NeMo Forced Aligner-style CTC, and others. Fork of whisper.cpp.",
+  "description_ja": "",
   "url": "https://github.com/CrispStrobe/CrispASR",
   "homepage_url": "",
   "language": "C++",
@@ -20,13 +21,13 @@
     "voxtral",
     "whisper-cpp"
   ],
-  "star_count": 53,
+  "star_count": 55,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-29T21:24:48Z",
-  "updated_at": "2026-04-25T17:09:49Z",
-  "pushed_at": "2026-04-25T17:09:45Z",
+  "updated_at": "2026-04-26T17:14:18Z",
+  "pushed_at": "2026-04-26T17:14:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 53
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 55
     }
   ]
 }

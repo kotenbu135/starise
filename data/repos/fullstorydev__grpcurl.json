@@ -4,6 +4,7 @@
   "name": "grpcurl",
   "full_name": "fullstorydev/grpcurl",
   "description": "Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers",
+  "description_ja": "",
   "url": "https://github.com/fullstorydev/grpcurl",
   "homepage_url": "https://www.fullstory.com/resources/content/fullstory-engineering-blog/",
   "language": "Go",
@@ -13,12 +14,12 @@
     "grpc",
     "protobuf"
   ],
-  "star_count": 12594,
+  "star_count": 12597,
   "fork_count": 567,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-11-20T15:53:31Z",
-  "updated_at": "2026-04-25T15:26:59Z",
+  "updated_at": "2026-04-26T17:12:01Z",
   "pushed_at": "2026-01-27T17:58:21Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 12594
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 12597
     }
   ]
 }

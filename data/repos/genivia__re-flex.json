@@ -4,6 +4,7 @@
   "name": "re-flex",
   "full_name": "genivia/re-flex",
   "description": "Yet another high-performance C++ regex library and lexical analyzer generator like Flex: extends Flex++ with Unicode support, indent/dedent anchors, lazy quantifiers, functions for lex and syntax error reporting and more. Seamlessly integrates with Bison and other parsers.",
+  "description_ja": "",
   "url": "https://github.com/Genivia/RE-flex",
   "homepage_url": "https://www.genivia.com/doc/reflex/html",
   "language": "C++",
@@ -46,6 +47,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 592
+    },
+    {
+      "date": "2026-04-26",
       "stars": 592
     }
   ]

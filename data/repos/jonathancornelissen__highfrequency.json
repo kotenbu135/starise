@@ -4,6 +4,7 @@
   "name": "highfrequency",
   "full_name": "jonathancornelissen/highfrequency",
   "description": "The highfrequency package contains an extensive toolkit for the use of highfrequency financial data in R. It contains functionality to manage, clean and match highfrequency trades and quotes data. Furthermore, it enables users to: calculate easily various liquidity measures, estimate and forecast volatility, and investigate microstructure noise and intraday periodicity.",
+  "description_ja": "",
   "url": "https://github.com/jonathancornelissen/highfrequency",
   "homepage_url": "",
   "language": "R",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 160
+    },
+    {
+      "date": "2026-04-26",
       "stars": 160
     }
   ]

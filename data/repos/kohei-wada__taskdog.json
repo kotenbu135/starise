@@ -4,6 +4,7 @@
   "name": "taskdog",
   "full_name": "kohei-wada/taskdog",
   "description": "Terminal task manager with intelligent schedule optimization.Keyboard-only. No dragging, no micromanagement.",
+  "description_ja": "",
   "url": "https://github.com/Kohei-Wada/taskdog",
   "homepage_url": "",
   "language": "Python",
@@ -24,12 +25,12 @@
     "tui",
     "uv"
   ],
-  "star_count": 232,
+  "star_count": 234,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-10T05:30:34Z",
-  "updated_at": "2026-04-25T04:19:28Z",
+  "updated_at": "2026-04-26T07:01:38Z",
   "pushed_at": "2026-04-21T22:22:53Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 232
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 234
     }
   ]
 }

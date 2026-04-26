@@ -4,6 +4,7 @@
   "name": "validates_timeliness",
   "full_name": "adzap/validates_timeliness",
   "description": "Date and time validation plugin for ActiveModel and Rails.  Supports multiple ORMs and allows custom date/time formats.",
+  "description_ja": "ActiveModelとRails向けの日付・時刻バリデーションプラグイン。複数のORMに対応し、カスタム日付/時刻フォーマットも利用可能。",
   "url": "https://github.com/adzap/validates_timeliness",
   "homepage_url": "",
   "language": "Ruby",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1609
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1609
     }
   ]

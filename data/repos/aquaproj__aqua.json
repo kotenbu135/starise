@@ -4,6 +4,7 @@
   "name": "aqua",
   "full_name": "aquaproj/aqua",
   "description": "Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly",
+  "description_ja": "",
   "url": "https://github.com/aquaproj/aqua",
   "homepage_url": "https://aquaproj.github.io",
   "language": "Go",
@@ -13,13 +14,13 @@
     "oss",
     "version-manager"
   ],
-  "star_count": 1619,
+  "star_count": 1623,
   "fork_count": 61,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-25T12:31:16Z",
-  "updated_at": "2026-04-25T13:31:28Z",
-  "pushed_at": "2026-04-25T13:31:25Z",
+  "updated_at": "2026-04-26T14:17:39Z",
+  "pushed_at": "2026-04-26T13:38:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 1619
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1623
     }
   ]
 }

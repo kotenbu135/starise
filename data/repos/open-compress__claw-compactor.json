@@ -4,6 +4,7 @@
   "name": "claw-compactor",
   "full_name": "open-compress/claw-compactor",
   "description": "14-stage Fusion Pipeline for LLM token compression — reversible compression, AST-aware code analysis, intelligent content routing. Zero LLM inference cost. MIT licensed.",
+  "description_ja": "",
   "url": "https://github.com/open-compress/claw-compactor",
   "homepage_url": "https://www.opencompress.ai/",
   "language": "Python",
@@ -30,12 +31,12 @@
     "token-compression",
     "tree-sitter"
   ],
-  "star_count": 2205,
-  "fork_count": 204,
+  "star_count": 2219,
+  "fork_count": 205,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-10T00:27:08Z",
-  "updated_at": "2026-04-25T09:45:04Z",
+  "updated_at": "2026-04-26T17:00:52Z",
   "pushed_at": "2026-04-01T08:31:20Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 2205
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2219
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "run-tests",
   "full_name": "buildpack-ci/run-tests",
   "description": "Heroku-style builds and unit tests with buildpacks on GitHub",
+  "description_ja": "",
   "url": "https://github.com/buildpack-ci/run-tests",
   "homepage_url": "https://buildpack-ci.github.io/",
   "language": "Shell",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

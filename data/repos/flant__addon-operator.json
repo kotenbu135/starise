@@ -4,6 +4,7 @@
   "name": "addon-operator",
   "full_name": "flant/addon-operator",
   "description": "A system to manage additional components for Kubernetes cluster in a simple, consistent and automated way.",
+  "description_ja": "",
   "url": "https://github.com/flant/addon-operator",
   "homepage_url": "https://flant.github.io/addon-operator/",
   "language": "Go",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 511
+    },
+    {
+      "date": "2026-04-26",
       "stars": 511
     }
   ]

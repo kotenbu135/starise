@@ -4,6 +4,7 @@
   "name": "dotnetcore.skit.flurlhttpclient.wechat",
   "full_name": "fudiwei/dotnetcore.skit.flurlhttpclient.wechat",
   "description": "可能是全网最完整的 C# 版微信 SDK，封装全部已知的微信 OpenAPI，包含微信公众平台（订阅号+服务号+小程序+小游戏+小商店+视频号）、微信开放平台、微信商户平台（微信支付+微企付）、企业微信、微信广告平台、微信智能对话开放平台等模块，可跨平台。持续随官方更新，欢迎 Star/Fork/PR。QQ 交流群 875580418【满】、930461548【满】、611974621。",
+  "description_ja": "",
   "url": "https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat",
   "homepage_url": "https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient",
   "language": "C#",
@@ -23,12 +24,12 @@
     "wxpay-sdk",
     "wxwork"
   ],
-  "star_count": 1834,
+  "star_count": 1835,
   "fork_count": 341,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-23T07:08:35Z",
-  "updated_at": "2026-04-25T01:07:28Z",
+  "updated_at": "2026-04-26T02:24:22Z",
   "pushed_at": "2026-03-17T08:10:02Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 1834
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1835
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "mintlayer-core",
   "full_name": "mintlayer/mintlayer-core",
   "description": "Mintlayer Core: The central repository housing the essential components to operate a Mintlayer node. It encompasses the node and wallet functionalities necessary for seamless operation, alongside an additional API server designed to facilitate applications.",
+  "description_ja": "",
   "url": "https://github.com/mintlayer/mintlayer-core",
   "homepage_url": "https://www.mintlayer.org",
   "language": "Rust",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 53
+    },
+    {
+      "date": "2026-04-26",
       "stars": 53
     }
   ]

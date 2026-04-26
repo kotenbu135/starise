@@ -4,6 +4,7 @@
   "name": "wrapper_videostation",
   "full_name": "darknebular/wrapper_videostation",
   "description": "Synology VideoStation and DLNA FFmpeg Wrapper with AAC, DTS, EAC3 and TrueHD support via pipes (now with GStreamer support). It enables full hardware transcoding from Synology´s FFmpeg for video and transcoding DTS, EAC3, TrueHD and AAC from the SynoCommunity's FFmpeg  only when necessary.",
+  "description_ja": "",
   "url": "https://github.com/darknebular/Wrapper_VideoStation",
   "homepage_url": "",
   "language": "Shell",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 723
+    },
+    {
+      "date": "2026-04-26",
       "stars": 723
     }
   ]

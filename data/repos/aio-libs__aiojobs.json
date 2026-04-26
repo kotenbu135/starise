@@ -4,6 +4,7 @@
   "name": "aiojobs",
   "full_name": "aio-libs/aiojobs",
   "description": "Jobs scheduler for managing background task (asyncio)",
+  "description_ja": "バックグラウンドタスク管理のためのジョブスケジューラ (asyncio)",
   "url": "https://github.com/aio-libs/aiojobs",
   "homepage_url": "https://aiojobs.readthedocs.io",
   "language": "Python",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 924
+    },
+    {
+      "date": "2026-04-26",
       "stars": 924
     }
   ]

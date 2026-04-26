@@ -4,6 +4,7 @@
   "name": "yupi-hot-monitor",
   "full_name": "liyupi/yupi-hot-monitor",
   "description": "2026 年编程导航 AI 编程实战新项目，基于 Node.js + Express + React + OpenRouter 的 AI 热点监控工具，支持多信息源聚合抓取（Twitter / Bing / HackerNews / B 站等 7+ 平台）、AI 查询扩展、AI 真假识别与相关性分析、WebSocket 实时推送、邮件通知、多维度筛选排序，并将热点监控能力封装为 Agent Skills 技能包。覆盖 Prisma + SQLite 数据库、Socket.io 实时通信、Axios + Cheerio 网页爬虫、OpenRouter 大模型接入、Aceternity UI 炫酷前端、node-cron 定时任务、VSCode Copilot Vibe Coding + MCP",
+  "description_ja": "",
   "url": "https://github.com/liyupi/yupi-hot-monitor",
   "homepage_url": "https://www.codefather.cn/course/2026625439052627970",
   "language": "TypeScript",
@@ -21,12 +22,12 @@
     "vibe-coding",
     "web"
   ],
-  "star_count": 340,
-  "fork_count": 76,
+  "star_count": 344,
+  "fork_count": 77,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-27T08:15:28Z",
-  "updated_at": "2026-04-25T14:20:45Z",
+  "updated_at": "2026-04-26T13:51:27Z",
   "pushed_at": "2026-04-16T11:56:53Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 340
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 344
     }
   ]
 }

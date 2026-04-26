@@ -4,6 +4,7 @@
   "name": "all-jellyfin-media-server",
   "full_name": "morzomb/all-jellyfin-media-server",
   "description": "Self-hosted complete media server Jellyfin with sonarr, radarr, jackett, prowlarr, qbittorrent, flaredolverr and gluetun Nord VPN Proton VPN in docker compose",
+  "description_ja": "",
   "url": "https://github.com/Morzomb/All-jellyfin-media-server",
   "homepage_url": "https://morzomb.github.io/All-jellyfin-media-server/",
   "language": "Shell",
@@ -29,12 +30,12 @@
     "video",
     "vpn"
   ],
-  "star_count": 504,
+  "star_count": 506,
   "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-31T09:47:12Z",
-  "updated_at": "2026-04-23T13:49:28Z",
+  "updated_at": "2026-04-26T10:13:41Z",
   "pushed_at": "2026-03-10T11:54:58Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 504
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 506
     }
   ]
 }

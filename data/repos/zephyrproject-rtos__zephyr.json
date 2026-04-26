@@ -4,6 +4,7 @@
   "name": "zephyr",
   "full_name": "zephyrproject-rtos/zephyr",
   "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+  "description_ja": "",
   "url": "https://github.com/zephyrproject-rtos/zephyr",
   "homepage_url": "https://docs.zephyrproject.org",
   "language": "C",
@@ -22,13 +23,13 @@
     "zephyr-rtos",
     "zephyros"
   ],
-  "star_count": 15085,
-  "fork_count": 9047,
+  "star_count": 15092,
+  "fork_count": 9044,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-05-26T17:54:19Z",
-  "updated_at": "2026-04-25T17:22:19Z",
-  "pushed_at": "2026-04-25T09:31:11Z",
+  "updated_at": "2026-04-26T16:26:09Z",
+  "pushed_at": "2026-04-26T15:42:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 15085
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 15092
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "streaq",
   "full_name": "tastyware/streaq",
   "description": "Fast, async, fully-typed distributed task queue via Redis streams",
+  "description_ja": "",
   "url": "https://github.com/tastyware/streaq",
   "homepage_url": "https://streaq.rtfd.io",
   "language": "Python",
@@ -19,7 +20,7 @@
     "typed"
   ],
   "star_count": 142,
-  "fork_count": 12,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-05T00:52:19Z",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 142
+    },
+    {
+      "date": "2026-04-26",
       "stars": 142
     }
   ]

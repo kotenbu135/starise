@@ -4,6 +4,7 @@
   "name": "bluetooth",
   "full_name": "tinygo-org/bluetooth",
   "description": "Cross-platform Bluetooth API for Go and TinyGo. Supports Linux, macOS, Windows, and bare metal using Nordic SoftDevice or HCI",
+  "description_ja": "",
   "url": "https://github.com/tinygo-org/bluetooth",
   "homepage_url": "https://tinygo.org",
   "language": "C",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 962
+    },
+    {
+      "date": "2026-04-26",
       "stars": 962
     }
   ]

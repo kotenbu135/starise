@@ -4,6 +4,7 @@
   "name": "isaac_ros_dnn_inference",
   "full_name": "nvidia-isaac-ros/isaac_ros_dnn_inference",
   "description": "NVIDIA-accelerated DNN model inference ROS 2 packages using NVIDIA Triton/TensorRT for both Jetson and x86_64 with CUDA-capable GPU",
+  "description_ja": "",
   "url": "https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_dnn_inference",
   "homepage_url": "https://developer.nvidia.com/isaac-ros-gems",
   "language": "C++",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 131
+    },
+    {
+      "date": "2026-04-26",
       "stars": 131
     }
   ]

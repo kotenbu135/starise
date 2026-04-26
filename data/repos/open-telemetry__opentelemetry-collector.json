@@ -4,6 +4,7 @@
   "name": "opentelemetry-collector",
   "full_name": "open-telemetry/opentelemetry-collector",
   "description": "OpenTelemetry Collector",
+  "description_ja": "",
   "url": "https://github.com/open-telemetry/opentelemetry-collector",
   "homepage_url": "https://opentelemetry.io",
   "language": "Go",
@@ -16,12 +17,12 @@
     "opentelemetry",
     "telemetry"
   ],
-  "star_count": 6891,
-  "fork_count": 2042,
+  "star_count": 6895,
+  "fork_count": 2045,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-09T19:42:55Z",
-  "updated_at": "2026-04-25T10:47:18Z",
+  "updated_at": "2026-04-26T15:24:35Z",
   "pushed_at": "2026-04-24T23:37:08Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 6891
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6895
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "qtap",
   "full_name": "qpoint-io/qtap",
   "description": "Qtap: An eBPF agent that captures pre-encrypted network traffic, providing rich context about egress connections and their originating processes.",
+  "description_ja": "",
   "url": "https://github.com/qpoint-io/qtap",
   "homepage_url": "https://qpoint.io/products/qtap",
   "language": "C",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1431
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1431
     }
   ]

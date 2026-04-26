@@ -4,8 +4,9 @@
   "name": "voquill",
   "full_name": "voquill/voquill",
   "description": "Open source voice dictation technology",
+  "description_ja": "",
   "url": "https://github.com/voquill/voquill",
-  "homepage_url": "https://voquill.com/",
+  "homepage_url": "https://voquill.com/dictation",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
@@ -21,11 +22,11 @@
     "whisper"
   ],
   "star_count": 880,
-  "fork_count": 98,
+  "fork_count": 99,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-23T00:51:58Z",
-  "updated_at": "2026-04-25T01:20:34Z",
+  "updated_at": "2026-04-26T02:21:26Z",
   "pushed_at": "2026-04-25T01:20:30Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 880
+    },
+    {
+      "date": "2026-04-26",
       "stars": 880
     }
   ]

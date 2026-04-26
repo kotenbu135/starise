@@ -4,6 +4,7 @@
   "name": "n8n-claw",
   "full_name": "freddy-schuetz/n8n-claw",
   "description": "OpenClaw-inspired autonomous AI agent built entirely in n8n. Adaptive RAG-powered memory, Skills via MCP templates, Expert Agents with delegated sub-agents, proactive task management, media understanding - self-hosted with one setup script",
+  "description_ja": "",
   "url": "https://github.com/freddy-schuetz/n8n-claw",
   "homepage_url": "https://n8n-claw.com",
   "language": "Shell",
@@ -27,12 +28,12 @@
     "skills",
     "supabase"
   ],
-  "star_count": 401,
-  "fork_count": 78,
+  "star_count": 404,
+  "fork_count": 79,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T18:13:35Z",
-  "updated_at": "2026-04-24T13:31:41Z",
+  "updated_at": "2026-04-26T11:48:33Z",
   "pushed_at": "2026-04-21T18:32:21Z",
   "deleted_at": "",
   "star_history": [
@@ -47,6 +48,10 @@
     {
       "date": "2026-04-25",
       "stars": 401
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 404
     }
   ]
 }

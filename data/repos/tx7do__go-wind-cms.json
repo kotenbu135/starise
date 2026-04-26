@@ -4,6 +4,7 @@
   "name": "go-wind-cms",
   "full_name": "tx7do/go-wind-cms",
   "description": "这是一个前后端分离的内容中台系统，后端基于 Go、go-kratos，后台前端基于 Vue3、Vben，前台提供 React、Vue3、Taro，支持多端渲染与跨平台发布。 后台具备多租户、数据权限、动态 API、任务调度、多数据库兼容、高级查询等能力，集成统一认证、国际化、接口文档等企业级特性。 支持富文本、Markdown、JSON 编辑器，提供多语言内容管理与多端数据同步，可快速构建多语言、跨平台的内容应用。",
+  "description_ja": "",
   "url": "https://github.com/tx7do/go-wind-cms",
   "homepage_url": "https://www.gowind.cloud/cms/intro.html",
   "language": "TypeScript",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 202
+    },
+    {
+      "date": "2026-04-26",
       "stars": 202
     }
   ]

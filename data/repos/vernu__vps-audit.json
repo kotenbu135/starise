@@ -4,6 +4,7 @@
   "name": "vps-audit",
   "full_name": "vernu/vps-audit",
   "description": "lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.",
+  "description_ja": "",
   "url": "https://github.com/vernu/vps-audit",
   "homepage_url": "https://vpsaudit.vernu.dev?ref=github",
   "language": "Shell",
@@ -29,12 +30,12 @@
     "ubuntu",
     "vps"
   ],
-  "star_count": 1908,
+  "star_count": 1909,
   "fork_count": 154,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-13T10:30:53Z",
-  "updated_at": "2026-04-24T12:53:24Z",
+  "updated_at": "2026-04-25T23:32:32Z",
   "pushed_at": "2026-01-12T12:19:05Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 1908
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1909
     }
   ]
 }

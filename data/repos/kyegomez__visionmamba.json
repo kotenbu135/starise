@@ -4,6 +4,7 @@
   "name": "visionmamba",
   "full_name": "kyegomez/visionmamba",
   "description": "Implementation of Vision Mamba from the paper: \"Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model\" It's 2.8x faster than DeiT and saves 86.8% GPU memory when performing batch inference to extract features on high-res images",
+  "description_ja": "",
   "url": "https://github.com/kyegomez/VisionMamba",
   "homepage_url": "https://discord.gg/GYbXvDGevY",
   "language": "Python",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 489
+    },
+    {
+      "date": "2026-04-26",
       "stars": 489
     }
   ]

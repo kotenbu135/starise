@@ -4,6 +4,7 @@
   "name": "presto",
   "full_name": "prestodb/presto",
   "description": "The official home of the Presto distributed SQL query engine for big data",
+  "description_ja": "",
   "url": "https://github.com/prestodb/presto",
   "homepage_url": "http://prestodb.io",
   "language": "Java",
@@ -19,13 +20,13 @@
     "query",
     "sql"
   ],
-  "star_count": 16697,
-  "fork_count": 5531,
+  "star_count": 16699,
+  "fork_count": 5532,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-08-09T01:03:37Z",
-  "updated_at": "2026-04-25T06:09:25Z",
-  "pushed_at": "2026-04-25T06:09:16Z",
+  "updated_at": "2026-04-26T03:51:09Z",
+  "pushed_at": "2026-04-25T18:01:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 16697
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 16699
     }
   ]
 }

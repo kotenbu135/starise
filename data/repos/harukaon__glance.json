@@ -4,6 +4,7 @@
   "name": "glance",
   "full_name": "harukaon/glance",
   "description": "Glance — 一款轻量级桌面截图翻译工具。快捷键截屏，框选即翻译，基于有道 OCR 实现实时图片翻译，支持多语言互译。使用 Tauri 2 +   原生窗口渲染，启动快、体积小。",
+  "description_ja": "",
   "url": "https://github.com/Harukaon/Glance",
   "homepage_url": "",
   "language": "Rust",
@@ -20,6 +21,10 @@
   "star_history": [
     {
       "date": "2026-04-25",
+      "stars": 48
+    },
+    {
+      "date": "2026-04-26",
       "stars": 48
     }
   ]

@@ -4,6 +4,7 @@
   "name": "tempo",
   "full_name": "databrickslabs/tempo",
   "description": "API for manipulating time series on top of Apache Spark: lagged time values, rolling statistics (mean, avg, sum, count, etc), AS OF joins, downsampling, and interpolation",
+  "description_ja": "",
   "url": "https://github.com/databrickslabs/tempo",
   "homepage_url": "https://pypi.org/project/dbl-tempo",
   "language": "Jupyter Notebook",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 340
+    },
+    {
+      "date": "2026-04-26",
       "stars": 340
     }
   ]

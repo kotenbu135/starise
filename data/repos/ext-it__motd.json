@@ -4,6 +4,7 @@
   "name": "motd",
   "full_name": "ext-it/motd",
   "description": "Pre-login warning banner and dynamic post-login MOTD for Linux — standalone shell installer and SaltStack formula from one unified schema.",
+  "description_ja": "",
   "url": "https://github.com/EXT-IT/motd",
   "homepage_url": "https://ext-it.tech",
   "language": "Shell",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 41
+    },
+    {
+      "date": "2026-04-26",
       "stars": 41
     }
   ]

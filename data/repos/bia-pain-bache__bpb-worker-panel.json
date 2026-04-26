@@ -4,6 +4,7 @@
   "name": "bpb-worker-panel",
   "full_name": "bia-pain-bache/bpb-worker-panel",
   "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside a private DoH server and chain proxies, offering full DNS, clean IP,  Fragment, Warp, Warp pro and routing settings for cross-platform clients using Amnezia, Wireguard, Sing-box, Clash/Mihomo and Xray cores.",
+  "description_ja": "",
   "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
   "homepage_url": "https://bia-pain-bache.github.io/BPB-Worker-Panel/",
   "language": "TypeScript",
@@ -26,12 +27,12 @@
     "windows",
     "xray-core"
   ],
-  "star_count": 10307,
-  "fork_count": 31566,
+  "star_count": 10311,
+  "fork_count": 31564,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-19T17:58:28Z",
-  "updated_at": "2026-04-25T16:41:34Z",
+  "updated_at": "2026-04-26T15:11:19Z",
   "pushed_at": "2026-02-24T13:54:37Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 10307
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 10311
     }
   ]
 }

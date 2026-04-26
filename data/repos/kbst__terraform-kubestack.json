@@ -4,6 +4,7 @@
   "name": "terraform-kubestack",
   "full_name": "kbst/terraform-kubestack",
   "description": "Kubestack is a framework for Kubernetes platform engineering teams to define the entire cloud native stack in one Terraform code base and continuously evolve the platform safely through GitOps.",
+  "description_ja": "",
   "url": "https://github.com/kbst/terraform-kubestack",
   "homepage_url": "https://www.kubestack.com",
   "language": "HCL",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 709
+    },
+    {
+      "date": "2026-04-26",
       "stars": 709
     }
   ]

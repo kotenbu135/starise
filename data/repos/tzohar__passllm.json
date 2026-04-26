@@ -4,6 +4,7 @@
   "name": "passllm",
   "full_name": "tzohar/passllm",
   "description": "World's most accurate password guessing AI tool. A PyTorch implementation of PassLLM (USENIX 2025) that leverages PII and LoRA fine-tuning to outperform existing tools by over 45% on consumer hardware.",
+  "description_ja": "",
   "url": "https://github.com/Tzohar/PassLLM",
   "homepage_url": "",
   "language": "Python",
@@ -48,6 +49,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 98
+    },
+    {
+      "date": "2026-04-26",
       "stars": 98
     }
   ]

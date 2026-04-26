@@ -4,6 +4,7 @@
   "name": "zzz-api",
   "full_name": "xing61/zzz-api",
   "description": "优质稳定的OpenAI、Claude等的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持Anthropic claude的官方接口形式，支持Google gemini的官方接口形式，支持：gpt-5，sora。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增",
+  "description_ja": "",
   "url": "https://github.com/xing61/zzz-api",
   "homepage_url": "https://gpt.zhizengzeng.com/#/login",
   "language": "PHP",
@@ -27,12 +28,12 @@
     "proxy",
     "xai"
   ],
-  "star_count": 934,
+  "star_count": 936,
   "fork_count": 78,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-12T06:14:29Z",
-  "updated_at": "2026-04-22T08:26:15Z",
+  "updated_at": "2026-04-26T12:40:07Z",
   "pushed_at": "2026-02-02T03:29:24Z",
   "deleted_at": "",
   "star_history": [
@@ -47,6 +48,10 @@
     {
       "date": "2026-04-25",
       "stars": 934
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 936
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "filament-ptbr-form-fields",
   "full_name": "leandrocfe/filament-ptbr-form-fields",
   "description": "This package provides custom form fields for Filament (\u003e=v2.17.28) that are commonly used in Brazilian web applications, such as CPF/CNPJ validation, phone number formatting, money with currency symbol, and CEP integration with ViaCep.",
+  "description_ja": "",
   "url": "https://github.com/leandrocfe/filament-ptbr-form-fields",
   "homepage_url": "",
   "language": "PHP",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 142
+    },
+    {
+      "date": "2026-04-26",
       "stars": 142
     }
   ]

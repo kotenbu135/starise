@@ -4,6 +4,7 @@
   "name": "signatory",
   "full_name": "ecadlabs/signatory",
   "description": "Tezos remote signer with policies, Prometheus metrics, and HSM/KMS + TEE backends (YubiHSM, CloudHSM, Nitro Enclaves, Confidential Space).",
+  "description_ja": "",
   "url": "https://github.com/ecadlabs/signatory",
   "homepage_url": "https://signatory.io",
   "language": "Go",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 76
+    },
+    {
+      "date": "2026-04-26",
       "stars": 76
     }
   ]

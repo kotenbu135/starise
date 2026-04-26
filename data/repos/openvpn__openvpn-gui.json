@@ -4,6 +4,7 @@
   "name": "openvpn-gui",
   "full_name": "openvpn/openvpn-gui",
   "description": "OpenVPN GUI is a graphical frontend for OpenVPN running on Windows (10 and 11). It creates an icon in the notification area from which you can control OpenVPN to start/stop your VPN tunnels, view the log and do other useful things.",
+  "description_ja": "",
   "url": "https://github.com/OpenVPN/openvpn-gui",
   "homepage_url": "",
   "language": "C",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1746
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1746
     }
   ]

@@ -4,6 +4,7 @@
   "name": "docker-asciidoctor",
   "full_name": "asciidoctor/docker-asciidoctor",
   "description": ":ship: A Docker image for using the Asciidoctor toolchain to process AsciiDoc content",
+  "description_ja": "",
   "url": "https://github.com/asciidoctor/docker-asciidoctor",
   "homepage_url": "https://hub.docker.com/r/asciidoctor/docker-asciidoctor/",
   "language": "Shell",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 349
+    },
+    {
+      "date": "2026-04-26",
       "stars": 349
     }
   ]

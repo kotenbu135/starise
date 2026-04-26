@@ -4,6 +4,7 @@
   "name": "logcabin",
   "full_name": "logcabin/logcabin",
   "description": "LogCabin is a distributed storage system built on Raft that provides a small amount of highly replicated, consistent storage. It is a reliable place for other distributed systems to store their core metadata and is helpful in solving cluster management issues.",
+  "description_ja": "",
   "url": "https://github.com/logcabin/logcabin",
   "homepage_url": "",
   "language": "C++",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1957
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1957
     }
   ]

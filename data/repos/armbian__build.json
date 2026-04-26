@@ -4,6 +4,7 @@
   "name": "build",
   "full_name": "armbian/build",
   "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
+  "description_ja": "",
   "url": "https://github.com/armbian/build",
   "homepage_url": "https://www.armbian.com",
   "language": "Shell",
@@ -30,12 +31,12 @@
     "x86"
   ],
   "star_count": 5211,
-  "fork_count": 2955,
+  "fork_count": 2956,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-10-07T18:45:03Z",
-  "updated_at": "2026-04-24T19:19:00Z",
-  "pushed_at": "2026-04-25T07:35:18Z",
+  "updated_at": "2026-04-26T12:33:07Z",
+  "pushed_at": "2026-04-26T15:56:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5211
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5211
     }
   ]

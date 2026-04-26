@@ -4,6 +4,7 @@
   "name": "openmpt",
   "full_name": "openmpt/openmpt",
   "description": "Official read-only git mirror of the OpenMPT and libopenmpt subversion repository at https://source.openmpt.org/. This repository may occasionally get rebased without further notice when subversion revision properties (commit message) get fixed in recent history after the fact. Be sure to rebase often in case you clone or fork it.",
+  "description_ja": "",
   "url": "https://github.com/OpenMPT/openmpt",
   "homepage_url": "https://openmpt.org/",
   "language": "C++",
@@ -22,12 +23,12 @@
     "tracker"
   ],
   "star_count": 727,
-  "fork_count": 84,
+  "fork_count": 85,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-02-23T10:04:01Z",
-  "updated_at": "2026-04-25T13:36:40Z",
-  "pushed_at": "2026-04-25T13:36:34Z",
+  "updated_at": "2026-04-26T11:23:39Z",
+  "pushed_at": "2026-04-26T11:23:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 727
+    },
+    {
+      "date": "2026-04-26",
       "stars": 727
     }
   ]

@@ -4,6 +4,7 @@
   "name": "sgdynamictextassets",
   "full_name": "start-games-open-source/sgdynamictextassets",
   "description": "The Start Games Dynamic Text Assets is an Unreal Engine plugin that provides a text-based (JSON, XML, YAML, can extend to others) data configuration system similar to Primary Data Assets but stored as external text files. These files serve as the source of truth for static game data configuration.",
+  "description_ja": "",
   "url": "https://github.com/Start-Games-Open-Source/SGDynamicTextAssets",
   "homepage_url": "",
   "language": "C++",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 48
+    },
+    {
+      "date": "2026-04-26",
       "stars": 48
     }
   ]

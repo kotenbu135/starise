@@ -4,6 +4,7 @@
   "name": "first-interaction",
   "full_name": "actions/first-interaction",
   "description": "An action for filtering pull requests and issues from first-time contributors",
+  "description_ja": "初回コントリビューターからのプルリクエストとイシューをフィルタリングするAction",
   "url": "https://github.com/actions/first-interaction",
   "homepage_url": "",
   "language": "TypeScript",
@@ -14,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-08-02T17:15:34Z",
-  "updated_at": "2026-04-25T14:30:11Z",
+  "updated_at": "2026-04-25T18:51:51Z",
   "pushed_at": "2026-01-21T23:53:14Z",
   "deleted_at": "",
   "star_history": [
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 863
+    },
+    {
+      "date": "2026-04-26",
       "stars": 863
     }
   ]

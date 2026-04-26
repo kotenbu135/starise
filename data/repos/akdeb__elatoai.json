@@ -4,6 +4,7 @@
   "name": "elatoai",
   "full_name": "akdeb/elatoai",
   "description": "Realtime Voice AI with 100+ Models on Arduino ESP32 with Secure Websockets and Edge Functions for AI Toys, Companions, and Devices",
+  "description_ja": "Arduino ESP32上で100以上のモデルを使うリアルタイム音声AI。AIトイ・コンパニオン・デバイス向けにセキュアWebSocketとEdge Functionsを採用",
   "url": "https://github.com/akdeb/ElatoAI",
   "homepage_url": "https://www.elatoai.com",
   "language": "TypeScript",
@@ -29,12 +30,12 @@
     "tts",
     "websocket"
   ],
-  "star_count": 1638,
-  "fork_count": 190,
+  "star_count": 1641,
+  "fork_count": 191,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-08T13:03:05Z",
-  "updated_at": "2026-04-25T16:07:23Z",
+  "updated_at": "2026-04-26T13:52:16Z",
   "pushed_at": "2026-04-21T09:02:46Z",
   "deleted_at": "",
   "star_history": [
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 1638
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1641
     }
   ]
 }

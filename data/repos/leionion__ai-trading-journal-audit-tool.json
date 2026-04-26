@@ -4,6 +4,7 @@
   "name": "ai-trading-journal-audit-tool",
   "full_name": "leionion/ai-trading-journal-audit-tool",
   "description": "Drop in your Binance or Bybit CSV export. An AI agent identifies revenge trading, overleverage, FOMO entries, and other psychological errors — with dollar attribution per error class. Runs locally. No API keys. No account linking.",
+  "description_ja": "",
   "url": "https://github.com/leionion/ai-trading-journal-audit-tool",
   "homepage_url": "",
   "language": "Python",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 37
+    },
+    {
+      "date": "2026-04-26",
       "stars": 37
     }
   ]

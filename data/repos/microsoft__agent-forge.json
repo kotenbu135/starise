@@ -4,6 +4,7 @@
   "name": "agent-forge",
   "full_name": "microsoft/agent-forge",
   "description": "AGENT-FORGE is a Context Engineering Toolkit that generates GitHub Copilot customization files for your VS Code project. Instead of manually authoring .github/ configuration, you describe what you need and a multi-agent AI pipeline plans, generates, validates, and installs everything.",
+  "description_ja": "",
   "url": "https://github.com/microsoft/agent-forge",
   "homepage_url": "",
   "language": "TypeScript",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 53
+    },
+    {
+      "date": "2026-04-26",
       "stars": 53
     }
   ]

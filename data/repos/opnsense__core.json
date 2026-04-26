@@ -4,6 +4,7 @@
   "name": "core",
   "full_name": "opnsense/core",
   "description": "OPNsense GUI, API and systems backend",
+  "description_ja": "",
   "url": "https://github.com/opnsense/core",
   "homepage_url": "https://opnsense.org/",
   "language": "PHP",
@@ -21,12 +22,12 @@
     "shaping",
     "vpn"
   ],
-  "star_count": 4383,
+  "star_count": 4386,
   "fork_count": 945,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-12-13T15:43:50Z",
-  "updated_at": "2026-04-25T10:17:21Z",
+  "updated_at": "2026-04-26T12:23:15Z",
   "pushed_at": "2026-04-24T14:33:02Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 4383
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4386
     }
   ]
 }

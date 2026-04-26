@@ -4,6 +4,7 @@
   "name": "terratag",
   "full_name": "env0/terratag",
   "description": "Terratag is a CLI tool that enables users of Terraform to automatically create and maintain tags across their entire set of AWS, Azure, and GCP resources",
+  "description_ja": "",
   "url": "https://github.com/env0/terratag",
   "homepage_url": "https://terratag.io",
   "language": "Go",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1048
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1048
     }
   ]

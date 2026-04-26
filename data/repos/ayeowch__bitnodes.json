@@ -4,6 +4,7 @@
   "name": "bitnodes",
   "full_name": "ayeowch/bitnodes",
   "description": "Bitnodes estimates the size of the Bitcoin peer-to-peer network by finding all of its reachable and unreachable nodes.",
+  "description_ja": "",
   "url": "https://github.com/ayeowch/bitnodes",
   "homepage_url": "https://bitnodes.io",
   "language": "Python",
@@ -14,7 +15,7 @@
     "p2p"
   ],
   "star_count": 642,
-  "fork_count": 314,
+  "fork_count": 313,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-05-09T11:08:52Z",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 642
+    },
+    {
+      "date": "2026-04-26",
       "stars": 642
     }
   ]

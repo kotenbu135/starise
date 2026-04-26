@@ -4,6 +4,7 @@
   "name": "gluetun",
   "full_name": "qdm12/gluetun",
   "description": "VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
+  "description_ja": "",
   "url": "https://github.com/qdm12/gluetun",
   "homepage_url": "https://github.com/qdm12/gluetun-wiki",
   "language": "Go",
@@ -29,12 +30,12 @@
     "windscribe",
     "wireguard"
   ],
-  "star_count": 13940,
+  "star_count": 13954,
   "fork_count": 570,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-02-06T22:16:29Z",
-  "updated_at": "2026-04-25T16:37:14Z",
+  "updated_at": "2026-04-26T17:01:37Z",
   "pushed_at": "2026-04-24T20:26:45Z",
   "deleted_at": "",
   "star_history": [
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 13940
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 13954
     }
   ]
 }

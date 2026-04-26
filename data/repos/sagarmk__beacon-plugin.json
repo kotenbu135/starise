@@ -4,6 +4,7 @@
   "name": "beacon-plugin",
   "full_name": "sagarmk/beacon-plugin",
   "description": "Semantic code search plugin for Claude Code  using hybrid vector search + BM25. 98% accuracy, 5x faster than grep.",
+  "description_ja": "",
   "url": "https://github.com/sagarmk/beacon-plugin",
   "homepage_url": "https://github.com/sagarmk/beacon-plugin",
   "language": "JavaScript",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 32
+    },
+    {
+      "date": "2026-04-26",
       "stars": 32
     }
   ]

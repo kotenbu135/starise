@@ -4,6 +4,7 @@
   "name": "kangaroo",
   "full_name": "dbkangaroo/kangaroo",
   "description": "Kangaroo is an AI-powered SQL client and admin tool for popular databases (MariaDB / MySQL / Oracle / PostgreSQL / Redis / SQLite / SQL Server / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.",
+  "description_ja": "",
   "url": "https://github.com/dbkangaroo/kangaroo",
   "homepage_url": "https://www.datatable.online/?from=github",
   "language": "TSQL",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 468
+    },
+    {
+      "date": "2026-04-26",
       "stars": 468
     }
   ]

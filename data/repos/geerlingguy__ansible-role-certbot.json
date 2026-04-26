@@ -4,6 +4,7 @@
   "name": "ansible-role-certbot",
   "full_name": "geerlingguy/ansible-role-certbot",
   "description": "Ansible Role - Certbot (for Let's Encrypt)",
+  "description_ja": "",
   "url": "https://github.com/geerlingguy/ansible-role-certbot",
   "homepage_url": "https://galaxy.ansible.com/geerlingguy/certbot/",
   "language": "Shell",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 875
+    },
+    {
+      "date": "2026-04-26",
       "stars": 875
     }
   ]

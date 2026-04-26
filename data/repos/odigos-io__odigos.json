@@ -4,6 +4,7 @@
   "name": "odigos",
   "full_name": "odigos-io/odigos",
   "description": "Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF",
+  "description_ja": "",
   "url": "https://github.com/odigos-io/odigos",
   "homepage_url": "https://odigos.io",
   "language": "Go",
@@ -26,12 +27,12 @@
     "traces"
   ],
   "star_count": 3652,
-  "fork_count": 245,
+  "fork_count": 246,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-08T04:09:44Z",
-  "updated_at": "2026-04-23T10:57:24Z",
-  "pushed_at": "2026-04-25T11:09:39Z",
+  "updated_at": "2026-04-26T13:10:44Z",
+  "pushed_at": "2026-04-26T16:41:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3652
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3652
     }
   ]

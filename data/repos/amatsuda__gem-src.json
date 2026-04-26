@@ -4,6 +4,7 @@
   "name": "gem-src",
   "full_name": "amatsuda/gem-src",
   "description": "Gem.post_install { `git clone gem_source src` }",
+  "description_ja": "Gem.post_install { `git clone gem_source src` }",
   "url": "https://github.com/amatsuda/gem-src",
   "homepage_url": "",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 220
+    },
+    {
+      "date": "2026-04-26",
       "stars": 220
     }
   ]

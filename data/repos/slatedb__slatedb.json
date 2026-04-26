@@ -4,6 +4,7 @@
   "name": "slatedb",
   "full_name": "slatedb/slatedb",
   "description": "A cloud native embedded storage engine built on object storage.",
+  "description_ja": "",
   "url": "https://github.com/slatedb/slatedb",
   "homepage_url": "https://slatedb.io",
   "language": "Rust",
@@ -17,13 +18,13 @@
     "rust",
     "storage-engine"
   ],
-  "star_count": 2898,
-  "fork_count": 224,
+  "star_count": 2905,
+  "fork_count": 225,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-26T18:28:31Z",
-  "updated_at": "2026-04-25T05:24:56Z",
-  "pushed_at": "2026-04-25T05:24:50Z",
+  "updated_at": "2026-04-26T16:55:21Z",
+  "pushed_at": "2026-04-26T16:55:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 2898
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2905
     }
   ]
 }

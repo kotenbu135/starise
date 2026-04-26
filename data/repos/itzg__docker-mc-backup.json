@@ -4,6 +4,7 @@
   "name": "docker-mc-backup",
   "full_name": "itzg/docker-mc-backup",
   "description": "Provides a side-car container to backup itzg/minecraft-server server data",
+  "description_ja": "",
   "url": "https://github.com/itzg/docker-mc-backup",
   "homepage_url": "https://hub.docker.com/r/itzg/mc-backup",
   "language": "Shell",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 495
+    },
+    {
+      "date": "2026-04-26",
       "stars": 495
     }
   ]

@@ -4,6 +4,7 @@
   "name": "mcp-for-argocd",
   "full_name": "argoproj-labs/mcp-for-argocd",
   "description": "An implementation of Model Context Protocol (MCP) server for Argo CD.",
+  "description_ja": "",
   "url": "https://github.com/argoproj-labs/mcp-for-argocd",
   "homepage_url": "https://www.npmjs.com/package/argocd-mcp",
   "language": "TypeScript",
@@ -22,12 +23,12 @@
     "model-context-protocol",
     "model-context-protocol-servers"
   ],
-  "star_count": 413,
+  "star_count": 414,
   "fork_count": 69,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-16T02:42:48Z",
-  "updated_at": "2026-04-24T07:25:41Z",
+  "updated_at": "2026-04-26T16:06:54Z",
   "pushed_at": "2026-03-26T02:57:22Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 413
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 414
     }
   ]
 }

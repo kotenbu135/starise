@@ -4,6 +4,7 @@
   "name": "beads_rust",
   "full_name": "dicklesworthstone/beads_rust",
   "description": "Fast Rust port of Steve Yegge's beads: local-first, non-invasive issue tracker storing tasks in SQLite with JSONL export for git collaboration",
+  "description_ja": "",
   "url": "https://github.com/Dicklesworthstone/beads_rust",
   "homepage_url": "",
   "language": "Rust",
@@ -15,13 +16,13 @@
     "rust",
     "sqlite"
   ],
-  "star_count": 841,
-  "fork_count": 93,
+  "star_count": 845,
+  "fork_count": 94,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-18T19:19:59Z",
-  "updated_at": "2026-04-25T16:47:09Z",
-  "pushed_at": "2026-04-25T16:47:06Z",
+  "updated_at": "2026-04-26T14:33:31Z",
+  "pushed_at": "2026-04-25T19:29:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 841
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 845
     }
   ]
 }

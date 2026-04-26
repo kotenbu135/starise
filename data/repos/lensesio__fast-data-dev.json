@@ -4,6 +4,7 @@
   "name": "fast-data-dev",
   "full_name": "lensesio/fast-data-dev",
   "description": "Kafka Docker for development. Kafka, Zookeeper, Schema Registry, Kafka-Connect, , 20+ connectors",
+  "description_ja": "",
   "url": "https://github.com/lensesio/fast-data-dev",
   "homepage_url": "https://lenses.io",
   "language": "Shell",
@@ -16,7 +17,7 @@
     "schema-registry"
   ],
   "star_count": 2075,
-  "fork_count": 341,
+  "fork_count": 340,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-08-19T17:29:49Z",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2075
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2075
     }
   ]

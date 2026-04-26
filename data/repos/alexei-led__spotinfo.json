@@ -4,6 +4,7 @@
   "name": "spotinfo",
   "full_name": "alexei-led/spotinfo",
   "description": "CLI for exploring AWS EC2 Spot inventory. Inspect AWS Spot instance types, saving, price, and interruption frequency.",
+  "description_ja": "AWS EC2 Spotインベントリを探索するCLI。AWS Spotインスタンスタイプ、節約額、価格、中断頻度を確認",
   "url": "https://github.com/alexei-led/spotinfo",
   "homepage_url": "",
   "language": "Go",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 160
+    },
+    {
+      "date": "2026-04-26",
       "stars": 160
     }
   ]

@@ -4,6 +4,7 @@
   "name": "justtrustmepro",
   "full_name": "hang666/justtrustmepro",
   "description": "An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning, but better",
+  "description_ja": "",
   "url": "https://github.com/hang666/JustTrustMePro",
   "homepage_url": "",
   "language": "Kotlin",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

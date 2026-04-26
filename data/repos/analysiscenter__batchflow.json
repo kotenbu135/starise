@@ -4,6 +4,7 @@
   "name": "batchflow",
   "full_name": "analysiscenter/batchflow",
   "description": "BatchFlow helps you conveniently work with random or sequential batches of your data and define data processing and machine learning workflows even for datasets that do not fit into memory.",
+  "description_ja": "BatchFlow は、ランダムまたは順次のデータバッチを快適に扱い、メモリに収まらないデータセットでもデータ処理と機械学習ワークフローを定義できるよう支援する。",
   "url": "https://github.com/analysiscenter/batchflow",
   "homepage_url": "https://analysiscenter.github.io/batchflow/",
   "language": "Python",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 205
+    },
+    {
+      "date": "2026-04-26",
       "stars": 205
     }
   ]

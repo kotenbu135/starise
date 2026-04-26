@@ -4,6 +4,7 @@
   "name": "spork",
   "full_name": "sporkrb/spork",
   "description": "A DRb server for testing frameworks (RSpec / Cucumber currently) that forks before each run to ensure a clean testing state.",
+  "description_ja": "",
   "url": "https://github.com/sporkrb/spork",
   "homepage_url": "spork.rubyforge.org",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1385
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1385
     }
   ]

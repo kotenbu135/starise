@@ -4,6 +4,7 @@
   "name": "rtedbg",
   "full_name": "rtedbg/rtedbg",
   "description": "A fast and flexible data logging/tracing toolkit for software testing, debugging, and visualization. Features minimally intrusive C/C++ code instrumentation, a host-based decoding application, and demo code. It is essentially an fprintf() function that runs on the host instead of the embedded system.",
+  "description_ja": "",
   "url": "https://github.com/RTEdbg/RTEdbg",
   "homepage_url": "",
   "language": "C",
@@ -30,12 +31,12 @@
     "tracing-library",
     "visualization"
   ],
-  "star_count": 197,
+  "star_count": 198,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-11T20:11:03Z",
-  "updated_at": "2026-04-23T01:40:06Z",
+  "updated_at": "2026-04-26T00:39:15Z",
   "pushed_at": "2026-02-16T15:13:27Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 197
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 198
     }
   ]
 }

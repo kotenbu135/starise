@@ -3,7 +3,8 @@
   "owner": "1minds3t",
   "name": "omnipkg",
   "full_name": "1minds3t/omnipkg",
-  "description": "Universal Python Runtime Orchestrator  - One environment. Infinite Pythons and packages. \u003c1ms zero-copy IPC. On @conda-forge and Docker.",
+  "description": "Run infinite Python package \u0026 interpreter versions concurrently in one environment in milliseconds. On @conda-forge and Docker.",
+  "description_ja": "",
   "url": "https://github.com/1minds3t/omnipkg",
   "homepage_url": "https://omnipkg.pages.dev/",
   "language": "Python",
@@ -35,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-04T18:38:19Z",
-  "updated_at": "2026-04-24T20:15:17Z",
-  "pushed_at": "2026-04-25T05:18:57Z",
+  "updated_at": "2026-04-26T16:17:18Z",
+  "pushed_at": "2026-04-26T16:17:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 52
+    },
+    {
+      "date": "2026-04-26",
       "stars": 52
     }
   ]

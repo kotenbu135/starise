@@ -4,6 +4,7 @@
   "name": "skywalking-banyandb",
   "full_name": "apache/skywalking-banyandb",
   "description": "An observability database aims to ingest, analyze and store Metrics, Tracing and Logging data.",
+  "description_ja": "",
   "url": "https://github.com/apache/skywalking-banyandb",
   "homepage_url": "https://skywalking.apache.org/",
   "language": "Go",
@@ -24,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-03-26T02:26:42Z",
-  "updated_at": "2026-04-25T09:01:49Z",
-  "pushed_at": "2026-04-25T09:01:49Z",
+  "updated_at": "2026-04-26T10:59:01Z",
+  "pushed_at": "2026-04-26T10:58:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 337
+    },
+    {
+      "date": "2026-04-26",
       "stars": 337
     }
   ]

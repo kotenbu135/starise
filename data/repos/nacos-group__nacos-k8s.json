@@ -4,6 +4,7 @@
   "name": "nacos-k8s",
   "full_name": "nacos-group/nacos-k8s",
   "description": "This project contains a Nacos Docker image meant to facilitate the deployment of Nacos on Kubernetes using StatefulSets.",
+  "description_ja": "",
   "url": "https://github.com/nacos-group/nacos-k8s",
   "homepage_url": "",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 679
+    },
+    {
+      "date": "2026-04-26",
       "stars": 679
     }
   ]

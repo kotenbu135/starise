@@ -4,6 +4,7 @@
   "name": "gym-fx",
   "full_name": "harveybc/gym-fx",
   "description": "Forex trading simulator environment for OpenAI Gym, observations contain the order status, performance and timeseries loaded from a CSV file containing rates and indicators. Work In Progress",
+  "description_ja": "",
   "url": "https://github.com/harveybc/gym-fx",
   "homepage_url": "",
   "language": "Python",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 208
+    },
+    {
+      "date": "2026-04-26",
       "stars": 208
     }
   ]

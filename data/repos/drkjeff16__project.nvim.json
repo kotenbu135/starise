@@ -4,6 +4,7 @@
   "name": "project.nvim",
   "full_name": "drkjeff16/project.nvim",
   "description": "A Neovim plugin to detect and chdir to the project root, with its own UI. Provides lualine component, supports oil.nvim, includes pickers for telescope, snacks, fzf-lua, and picker.nvim.",
+  "description_ja": "",
   "url": "https://github.com/DrKJeff16/project.nvim",
   "homepage_url": "https://luarocks.org/modules/drkjeff16/project.nvim",
   "language": "Lua",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 159
+    },
+    {
+      "date": "2026-04-26",
       "stars": 159
     }
   ]

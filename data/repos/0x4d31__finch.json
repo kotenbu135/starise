@@ -4,6 +4,7 @@
   "name": "finch",
   "full_name": "0x4d31/finch",
   "description": "Fingerprint-aware TLS reverse proxy. Use Finch to outsmart bad traffic—collect client fingerprints (JA3, JA4 +QUIC, JA4H, HTTP/2) and act on them: block, reroute, tarpit, or deceive in real time.",
+  "description_ja": "フィンガープリント認識型 TLS リバースプロキシ。Finch でクライアントフィンガープリント（JA3、JA4 +QUIC、JA4H、HTTP/2）を収集し、ブロック、再ルーティング、タールピット、欺瞞をリアルタイムで実行して悪意あるトラフィックを出し抜く",
   "url": "https://github.com/0x4D31/finch",
   "homepage_url": "",
   "language": "Go",
@@ -31,6 +32,10 @@
   "star_history": [
     {
       "date": "2026-04-25",
+      "stars": 293
+    },
+    {
+      "date": "2026-04-26",
       "stars": 293
     }
   ]

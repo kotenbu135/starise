@@ -4,6 +4,7 @@
   "name": "photonix",
   "full_name": "photonixapp/photonix",
   "description": "A modern, web-based photo management server. Run it on your home server and it will let you find the right photo from your collection on any device. Smart filtering is made possible by object recognition, face recognition, location awareness, color analysis and other ML algorithms.",
+  "description_ja": "",
   "url": "https://github.com/photonixapp/photonix",
   "homepage_url": "https://photonix.org/",
   "language": "Python",
@@ -30,12 +31,12 @@
     "tensorflow",
     "web"
   ],
-  "star_count": 1945,
+  "star_count": 1946,
   "fork_count": 137,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-03-07T22:30:32Z",
-  "updated_at": "2026-04-25T10:03:32Z",
+  "updated_at": "2026-04-26T14:56:52Z",
   "pushed_at": "2026-04-15T18:51:21Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 1945
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1946
     }
   ]
 }

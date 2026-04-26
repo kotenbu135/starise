@@ -4,6 +4,7 @@
   "name": "docker-mailserver",
   "full_name": "jeboehm/docker-mailserver",
   "description": "Self-hosted email server with Docker/Kubernetes support. Features IMAP, SMTP, spam filtering, webmail, and web admin.",
+  "description_ja": "",
   "url": "https://github.com/jeboehm/docker-mailserver",
   "homepage_url": "https://jeboehm.github.io/docker-mailserver/",
   "language": "Shell",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 447
+    },
+    {
+      "date": "2026-04-26",
       "stars": 447
     }
   ]

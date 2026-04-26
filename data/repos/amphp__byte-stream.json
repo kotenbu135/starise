@@ -4,6 +4,7 @@
   "name": "byte-stream",
   "full_name": "amphp/byte-stream",
   "description": "A non-blocking stream abstraction for PHP based on Amp.",
+  "description_ja": "Amp をベースにした PHP 用ノンブロッキングストリーム抽象化ライブラリ",
   "url": "https://github.com/amphp/byte-stream",
   "homepage_url": "https://amphp.org/byte-stream",
   "language": "PHP",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 392
+    },
+    {
+      "date": "2026-04-26",
       "stars": 392
     }
   ]

@@ -4,6 +4,7 @@
   "name": "narrowlink",
   "full_name": "narrowlink/narrowlink",
   "description": "A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls",
+  "description_ja": "",
   "url": "https://github.com/narrowlink/narrowlink",
   "homepage_url": "https://narrowlink.com",
   "language": "Rust",
@@ -23,12 +24,12 @@
     "tunnel",
     "zero-trust-network-access"
   ],
-  "star_count": 642,
+  "star_count": 643,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-30T21:04:19Z",
-  "updated_at": "2026-04-14T16:51:38Z",
+  "updated_at": "2026-04-26T09:16:06Z",
   "pushed_at": "2026-04-22T23:01:42Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 642
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 643
     }
   ]
 }

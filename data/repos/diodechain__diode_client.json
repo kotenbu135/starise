@@ -4,6 +4,7 @@
   "name": "diode_client",
   "full_name": "diodechain/diode_client",
   "description": "Diode client written in GO that runs the Blockquick™ algorithm and a socks server to transmit data through diode ztna network.",
+  "description_ja": "",
   "url": "https://github.com/diodechain/diode_client",
   "homepage_url": "https://diode.io/download",
   "language": "Go",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 71
+    },
+    {
+      "date": "2026-04-26",
       "stars": 71
     }
   ]

@@ -4,6 +4,7 @@
   "name": "fswatch",
   "full_name": "emcrisostomo/fswatch",
   "description": "A cross-platform file change monitor with multiple backends: Apple macOS File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify and fanotify, Microsoft Windows and a stat()-based backend.",
+  "description_ja": "",
   "url": "https://github.com/emcrisostomo/fswatch",
   "homepage_url": "https://emcrisostomo.github.io/fswatch/",
   "language": "C++",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5518
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5518
     }
   ]

@@ -4,6 +4,7 @@
   "name": "autonomous-uav-navigation-system",
   "full_name": "ajinkya-001/autonomous-uav-navigation-system",
   "description": "Autonomous UAV navigation system featuring real-time 2.5D occupancy-grid mapping, A* global path planning, and depth + LiDAR sensor fusion for dynamic obstacle avoidance in complex urban environments. Fully integrated with ROS 2, PX4 Offboard control, and Gazebo simulation for high-fidelity testing and deployment.",
+  "description_ja": "リアルタイム 2.5D 占有グリッドマッピング、A* グローバル経路計画、Depth + LiDAR センサーフュージョンによる動的障害物回避を備えた自律 UAV ナビゲーションシステム。複雑な都市環境向け。ROS 2、PX4 Offboard 制御、Gazebo シミュレーションと完全統合し、高忠実度のテストとデプロイに対応",
   "url": "https://github.com/Ajinkya-001/Autonomous-UAV-Navigation-System",
   "homepage_url": "",
   "language": "Python",
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 41
+    },
+    {
+      "date": "2026-04-26",
       "stars": 41
     }
   ]

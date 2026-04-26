@@ -4,6 +4,7 @@
   "name": "terraform-provider-snowflake",
   "full_name": "snowflakedb/terraform-provider-snowflake",
   "description": "Terraform provider for managing Snowflake accounts",
+  "description_ja": "",
   "url": "https://github.com/snowflakedb/terraform-provider-snowflake",
   "homepage_url": "https://registry.terraform.io/providers/snowflakedb/snowflake/latest",
   "language": "Go",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 673
+    },
+    {
+      "date": "2026-04-26",
       "stars": 673
     }
   ]

@@ -4,6 +4,7 @@
   "name": "arkflow",
   "full_name": "arkflow-rs/arkflow",
   "description": "High performance Rust stream processing engine seamlessly integrates AI capabilities, providing powerful real-time data processing and intelligent analysis. ",
+  "description_ja": "",
   "url": "https://github.com/arkflow-rs/arkflow",
   "homepage_url": "https://arkflow-rs.com/",
   "language": "Rust",
@@ -30,12 +31,12 @@
     "tokio-rs",
     "websocket"
   ],
-  "star_count": 1271,
+  "star_count": 1272,
   "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-01T03:02:55Z",
-  "updated_at": "2026-04-24T23:51:35Z",
+  "updated_at": "2026-04-26T14:55:06Z",
   "pushed_at": "2026-04-24T13:45:18Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 1271
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1272
     }
   ]
 }

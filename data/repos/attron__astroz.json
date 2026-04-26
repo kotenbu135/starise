@@ -4,6 +4,7 @@
   "name": "astroz",
   "full_name": "attron/astroz",
   "description": "Astrodynamics and Spacecraft Toolkit. Features fast orbit prop, celestial precession, CCSDS parsing, RF parsing, fits image parsing, and more!",
+  "description_ja": "",
   "url": "https://github.com/ATTron/astroz",
   "homepage_url": "https://attron.github.io/astroz/",
   "language": "Zig",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 250
+    },
+    {
+      "date": "2026-04-26",
       "stars": 250
     }
   ]

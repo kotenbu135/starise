@@ -4,6 +4,7 @@
   "name": "emby.plugins.javscraper",
   "full_name": "javscraper/emby.plugins.javscraper",
   "description": "Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。",
+  "description_ja": "",
   "url": "https://github.com/JavScraper/Emby.Plugins.JavScraper",
   "homepage_url": "https://javscraper.com",
   "language": "C#",
@@ -24,12 +25,12 @@
     "scraper",
     "synology"
   ],
-  "star_count": 3759,
-  "fork_count": 557,
+  "star_count": 3760,
+  "fork_count": 558,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-01-20T07:48:25Z",
-  "updated_at": "2026-04-24T04:12:54Z",
+  "updated_at": "2026-04-26T11:38:00Z",
   "pushed_at": "2024-07-08T09:05:51Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 3759
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3760
     }
   ]
 }

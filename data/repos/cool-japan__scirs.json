@@ -4,6 +4,7 @@
   "name": "scirs",
   "full_name": "cool-japan/scirs",
   "description": "SciRS2 - Scientific Computing and AI in Rust., providing SciPy-compatible APIs while leveraging Rust's performance, safety, and concurrency features. Unlike traditional scientific libraries",
+  "description_ja": "",
   "url": "https://github.com/cool-japan/scirs",
   "homepage_url": "https://github.com/cool-japan/scirs",
   "language": "Rust",
@@ -27,13 +28,13 @@
     "scipy",
     "statistics"
   ],
-  "star_count": 203,
-  "fork_count": 28,
+  "star_count": 207,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-12T10:47:07Z",
-  "updated_at": "2026-04-22T19:36:25Z",
-  "pushed_at": "2026-04-25T16:45:15Z",
+  "updated_at": "2026-04-26T09:39:16Z",
+  "pushed_at": "2026-04-26T05:39:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 203
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 207
     }
   ]
 }

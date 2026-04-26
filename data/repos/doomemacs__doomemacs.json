@@ -4,6 +4,7 @@
   "name": "doomemacs",
   "full_name": "doomemacs/doomemacs",
   "description": "An Emacs framework for the stubborn martian hacker",
+  "description_ja": "",
   "url": "https://github.com/doomemacs/doomemacs",
   "homepage_url": "",
   "language": "Emacs Lisp",
@@ -16,12 +17,12 @@
     "evil",
     "vim"
   ],
-  "star_count": 22011,
+  "star_count": 22016,
   "fork_count": 3160,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-07-12T09:29:52Z",
-  "updated_at": "2026-04-25T16:18:56Z",
+  "updated_at": "2026-04-26T13:20:09Z",
   "pushed_at": "2026-04-24T12:42:06Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 22011
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 22016
     }
   ]
 }

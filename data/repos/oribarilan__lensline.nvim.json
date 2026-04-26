@@ -4,6 +4,7 @@
   "name": "lensline.nvim",
   "full_name": "oribarilan/lensline.nvim",
   "description": "Modular nvim codelens support with inline references, git blame and more",
+  "description_ja": "",
   "url": "https://github.com/oribarilan/lensline.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -21,12 +22,12 @@
     "plugin",
     "vim"
   ],
-  "star_count": 275,
+  "star_count": 276,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-24T12:21:23Z",
-  "updated_at": "2026-04-24T15:22:42Z",
+  "updated_at": "2026-04-25T22:32:52Z",
   "pushed_at": "2026-04-23T06:38:47Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 275
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 276
     }
   ]
 }

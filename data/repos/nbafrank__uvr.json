@@ -4,6 +4,7 @@
   "name": "uvr",
   "full_name": "nbafrank/uvr",
   "description": "An extremely fast R package manager, written in Rust. The R equivalent of uv for Python.",
+  "description_ja": "",
   "url": "https://github.com/nbafrank/uvr",
   "homepage_url": "https://nbafrank.github.io/uvr/",
   "language": "Rust",
@@ -18,18 +19,22 @@
     "rstats",
     "rust"
   ],
-  "star_count": 100,
+  "star_count": 104,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T23:12:42Z",
-  "updated_at": "2026-04-25T14:12:18Z",
+  "updated_at": "2026-04-26T17:02:24Z",
   "pushed_at": "2026-04-25T07:47:38Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-25",
       "stars": 100
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 104
     }
   ]
 }

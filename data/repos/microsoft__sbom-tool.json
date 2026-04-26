@@ -4,6 +4,7 @@
   "name": "sbom-tool",
   "full_name": "microsoft/sbom-tool",
   "description": "The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.",
+  "description_ja": "",
   "url": "https://github.com/microsoft/sbom-tool",
   "homepage_url": "",
   "language": "C#",
@@ -12,12 +13,12 @@
     "sbom",
     "sbom-generator"
   ],
-  "star_count": 2015,
+  "star_count": 2016,
   "fork_count": 197,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-01T16:58:49Z",
-  "updated_at": "2026-04-24T23:23:27Z",
+  "updated_at": "2026-04-26T09:41:52Z",
   "pushed_at": "2026-04-24T23:30:46Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 2015
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2016
     }
   ]
 }

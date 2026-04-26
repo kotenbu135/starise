@@ -4,6 +4,7 @@
   "name": "antspy",
   "full_name": "antsx/antspy",
   "description": "A fast medical imaging analysis library in Python with algorithms for registration, segmentation, and more.",
+  "description_ja": "レジストレーション、セグメンテーションなどのアルゴリズムを備えたPython製の高速医療画像解析ライブラリ。",
   "url": "https://github.com/ANTsX/ANTsPy",
   "homepage_url": "https://antspy.readthedocs.io",
   "language": "Python",
@@ -13,12 +14,12 @@
     "neuroimaging",
     "python"
   ],
-  "star_count": 858,
+  "star_count": 860,
   "fork_count": 178,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-08-28T18:00:57Z",
-  "updated_at": "2026-04-25T04:12:04Z",
+  "updated_at": "2026-04-26T07:59:27Z",
   "pushed_at": "2026-03-11T17:43:26Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 858
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 860
     }
   ]
 }

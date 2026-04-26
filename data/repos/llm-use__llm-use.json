@@ -4,6 +4,7 @@
   "name": "llm-use",
   "full_name": "llm-use/llm-use",
   "description": "LLM orchestration toolkit for agent workflows: planner + workers + synthesis, optional router (LLM + learned   fallback), supports OpenAI/Anthropic/Ollama/llama.cpp, real scraping with caching, MCP server integration, and a TUI   chat UI.",
+  "description_ja": "",
   "url": "https://github.com/llm-use/llm-use",
   "homepage_url": "",
   "language": "Python",
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 38
+    },
+    {
+      "date": "2026-04-26",
       "stars": 38
     }
   ]

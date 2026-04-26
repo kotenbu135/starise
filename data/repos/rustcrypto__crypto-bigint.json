@@ -4,6 +4,7 @@
   "name": "crypto-bigint",
   "full_name": "rustcrypto/crypto-bigint",
   "description": "Cryptography-oriented big integer library with constant-time, stack-allocated (no_std-friendly) implementations of modern formulas",
+  "description_ja": "",
   "url": "https://github.com/RustCrypto/crypto-bigint",
   "homepage_url": "",
   "language": "Rust",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 297
+    },
+    {
+      "date": "2026-04-26",
       "stars": 297
     }
   ]

@@ -4,6 +4,7 @@
   "name": "texo",
   "full_name": "alephpi/texo",
   "description": "A minimalist SOTA LaTeX OCR model with only 20M parameters, running in browser. Full training pipeline available for self-reproduction. | 超轻量SOTA LaTeX公式识别模型，仅20M参数量，可在浏览器中运行。训练全流程代码开源，以便自学复现。",
+  "description_ja": "ブラウザで実行できる、わずか20MパラメータのミニマリストSOTA LaTeX OCRモデル。自己再現用のフルトレーニングパイプラインも公開。| 超軽量SOTAのLaTeX数式認識モデル。パラメータ数はわずか20Mで、ブラウザ上で実行可能。自己学習・再現できるよう、トレーニング全工程のコードがオープンソース化されている。",
   "url": "https://github.com/alephpi/Texo",
   "homepage_url": "https://texocr.netlify.app/",
   "language": "Python",
@@ -29,12 +30,12 @@
     "unimernet",
     "vision-encoder-decoder"
   ],
-  "star_count": 806,
+  "star_count": 807,
   "fork_count": 47,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-29T10:08:28Z",
-  "updated_at": "2026-04-23T08:10:53Z",
+  "updated_at": "2026-04-26T16:23:59Z",
   "pushed_at": "2026-02-23T12:05:42Z",
   "deleted_at": "",
   "star_history": [
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 806
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 807
     }
   ]
 }

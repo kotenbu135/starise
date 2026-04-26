@@ -4,6 +4,7 @@
   "name": "temodar-agent",
   "full_name": "xeloxa/temodar-agent",
   "description": "Temodar Agent is an AI-powered WordPress plugin and theme security analysis platform built for security researchers, product security teams, auditors, and defenders. It combines AI agent workflows, multi-provider LLM orchestration, Semgrep-powered static analysis, and risk-based WordPress reconnaissance in one local-first Docker application.",
+  "description_ja": "",
   "url": "https://github.com/xeloxa/temodar-agent",
   "homepage_url": "https://hub.docker.com/r/xeloxa/temodar-agent",
   "language": "Python",
@@ -46,6 +47,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 57
+    },
+    {
+      "date": "2026-04-26",
       "stars": 57
     }
   ]

@@ -4,6 +4,7 @@
   "name": "zola",
   "full_name": "getzola/zola",
   "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+  "description_ja": "",
   "url": "https://github.com/getzola/zola",
   "homepage_url": "https://www.getzola.org",
   "language": "Rust",
@@ -21,12 +22,12 @@
     "static-site-generator",
     "tera"
   ],
-  "star_count": 16967,
-  "fork_count": 1134,
+  "star_count": 16972,
+  "fork_count": 1135,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-12-06T02:57:25Z",
-  "updated_at": "2026-04-25T11:30:31Z",
+  "updated_at": "2026-04-26T17:07:05Z",
   "pushed_at": "2026-04-23T09:18:08Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 16967
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 16972
     }
   ]
 }

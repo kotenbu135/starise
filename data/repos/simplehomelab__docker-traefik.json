@@ -4,6 +4,7 @@
   "name": "docker-traefik",
   "full_name": "simplehomelab/docker-traefik",
   "description": "Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2/Authelia, and LetsEncrypt. Built with Deployrr and UDMS guides/videos.",
+  "description_ja": "",
   "url": "https://github.com/SimpleHomelab/Docker-Traefik",
   "homepage_url": "https://www.simplehomelab.com/",
   "language": "Shell",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3441
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3441
     }
   ]

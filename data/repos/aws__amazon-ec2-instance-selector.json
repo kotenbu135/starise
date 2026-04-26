@@ -4,6 +4,7 @@
   "name": "amazon-ec2-instance-selector",
   "full_name": "aws/amazon-ec2-instance-selector",
   "description": "A CLI tool and go library which recommends instance types based on resource criteria like vcpus and memory",
+  "description_ja": "",
   "url": "https://github.com/aws/amazon-ec2-instance-selector",
   "homepage_url": "",
   "language": "Go",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 931
+    },
+    {
+      "date": "2026-04-26",
       "stars": 931
     }
   ]

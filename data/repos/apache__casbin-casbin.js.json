@@ -4,6 +4,7 @@
   "name": "casbin-casbin.js",
   "full_name": "apache/casbin-casbin.js",
   "description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Frontend Javascript",
+  "description_ja": "ACL、RBAC、ABACなどのアクセス制御モデルをフロントエンドJavaScriptでサポートする認可ライブラリ",
   "url": "https://github.com/apache/casbin-casbin.js",
   "homepage_url": "https://casbin.org/docs/frontend",
   "language": "TypeScript",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 201
+    },
+    {
+      "date": "2026-04-26",
       "stars": 201
     }
   ]

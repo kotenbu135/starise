@@ -4,6 +4,7 @@
   "name": "proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray",
   "full_name": "varuzhnikov/proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray",
   "description": "End-to-end infrastructure-as-code for self-hosted Kubernetes on Hetzner: includes Proxmox VE setup with LVM/NAT, VM templating via cloud-init, Terraform automation, and Kubespray-based cluster bootstrap.",
+  "description_ja": "",
   "url": "https://github.com/varuzhnikov/proxmox-lvm-k8s-cluster-hetzner-terraform-kubespray",
   "homepage_url": "",
   "language": "HCL",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

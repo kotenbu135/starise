@@ -4,6 +4,7 @@
   "name": "brpc",
   "full_name": "apache/brpc",
   "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+  "description_ja": "brpcはC++製の産業グレードRPCフレームワーク。検索、ストレージ、機械学習、広告、レコメンドなど高性能システムで広く採用される。「brpc」は「better RPC」の意。",
   "url": "https://github.com/apache/brpc",
   "homepage_url": "https://brpc.apache.org",
   "language": "C++",
@@ -11,13 +12,13 @@
   "topics": [
     "rpc"
   ],
-  "star_count": 17494,
+  "star_count": 17496,
   "fork_count": 4104,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-09-04T09:28:47Z",
-  "updated_at": "2026-04-25T15:08:32Z",
-  "pushed_at": "2026-04-24T05:34:58Z",
+  "updated_at": "2026-04-26T11:17:00Z",
+  "pushed_at": "2026-04-26T09:44:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 17494
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 17496
     }
   ]
 }

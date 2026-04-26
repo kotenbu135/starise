@@ -4,6 +4,7 @@
   "name": "php-watcher",
   "full_name": "seregazhuk/php-watcher",
   "description": "Monitor for any changes in your php application and automatically restart it (suitable for async apps).",
+  "description_ja": "",
   "url": "https://github.com/seregazhuk/php-watcher",
   "homepage_url": "",
   "language": "PHP",
@@ -17,12 +18,12 @@
     "reactphp",
     "watch"
   ],
-  "star_count": 396,
+  "star_count": 395,
   "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-09-23T17:34:59Z",
-  "updated_at": "2026-04-13T11:23:18Z",
+  "updated_at": "2026-04-26T11:41:39Z",
   "pushed_at": "2025-10-25T09:29:07Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 396
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 395
     }
   ]
 }

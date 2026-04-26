@@ -4,6 +4,7 @@
   "name": "provenance-action",
   "full_name": "danielroe/provenance-action",
   "description": "Fail CI when dependencies in your lockfile lose npm provenance or trusted publisher status",
+  "description_ja": "",
   "url": "https://github.com/danielroe/provenance-action",
   "homepage_url": "",
   "language": "TypeScript",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 305
+    },
+    {
+      "date": "2026-04-26",
       "stars": 305
     }
   ]

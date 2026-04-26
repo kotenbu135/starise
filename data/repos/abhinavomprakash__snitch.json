@@ -4,6 +4,7 @@
   "name": "snitch",
   "full_name": "abhinavomprakash/snitch",
   "description": "    Snitch injects inline defs in your functions and multimethods. This enables a repl-based, editor-agnostic, clojure and clojurescript debugging workflow. It is inline-defs on steroids.",
+  "description_ja": "Snitchは関数やマルチメソッドにinline defを注入します。これによりREPLベースかつエディタ非依存のClojure・ClojureScriptデバッグワークフローが可能に。inline-defsの強化版です。",
   "url": "https://github.com/AbhinavOmprakash/snitch",
   "homepage_url": "",
   "language": "Clojure",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 216
+    },
+    {
+      "date": "2026-04-26",
       "stars": 216
     }
   ]

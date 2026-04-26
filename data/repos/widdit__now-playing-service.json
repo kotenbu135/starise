@@ -4,6 +4,7 @@
   "name": "now-playing-service",
   "full_name": "widdit/now-playing-service",
   "description": "一款全能的「正在播放」歌曲展示工具。支持检测 20+ 款音乐软件的歌曲信息，内置精美歌曲组件、歌词组件、播放器，提供 API 接口。适配 OBS 等直播软件以及日常桌面使用。",
+  "description_ja": "",
   "url": "https://github.com/Widdit/now-playing-service",
   "homepage_url": "",
   "language": "Java",
@@ -20,12 +21,12 @@
     "stream",
     "widget"
   ],
-  "star_count": 610,
+  "star_count": 611,
   "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-28T05:58:28Z",
-  "updated_at": "2026-04-25T17:40:49Z",
+  "updated_at": "2026-04-25T17:50:14Z",
   "pushed_at": "2026-04-25T14:34:59Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 610
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 611
     }
   ]
 }

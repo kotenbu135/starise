@@ -4,6 +4,7 @@
   "name": "amp",
   "full_name": "amphp/amp",
   "description": "A non-blocking concurrency framework for PHP applications. 🐘",
+  "description_ja": "PHP アプリケーション向けノンブロッキング並行処理フレームワーク 🐘",
   "url": "https://github.com/amphp/amp",
   "homepage_url": "https://amphp.org/amp",
   "language": "PHP",
@@ -19,12 +20,12 @@
     "promises",
     "revolt"
   ],
-  "star_count": 4414,
+  "star_count": 4413,
   "fork_count": 259,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-08-05T20:02:39Z",
-  "updated_at": "2026-04-24T17:19:18Z",
+  "updated_at": "2026-04-26T11:42:51Z",
   "pushed_at": "2026-02-25T04:13:21Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 4414
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4413
     }
   ]
 }

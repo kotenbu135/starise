@@ -4,6 +4,7 @@
   "name": "janus",
   "full_name": "aio-libs/janus",
   "description": "Thread-safe asyncio-aware queue for Python",
+  "description_ja": "Python 向けスレッドセーフかつ asyncio 対応のキュー",
   "url": "https://github.com/aio-libs/janus",
   "homepage_url": "",
   "language": "Python",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 960
+    },
+    {
+      "date": "2026-04-26",
       "stars": 960
     }
   ]

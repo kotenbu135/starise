@@ -4,6 +4,7 @@
   "name": "casr",
   "full_name": "ispras/casr",
   "description": "Collect crash (or UndefinedBehaviorSanitizer error) reports, triage, and estimate severity.",
+  "description_ja": "",
   "url": "https://github.com/ispras/casr",
   "homepage_url": "",
   "language": "Rust",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 353
+    },
+    {
+      "date": "2026-04-26",
       "stars": 353
     }
   ]

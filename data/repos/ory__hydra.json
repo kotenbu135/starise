@@ -4,6 +4,7 @@
   "name": "hydra",
   "full_name": "ory/hydra",
   "description": "Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on Ory Network or self-host. Trusted by OpenAI and many others for scale and security. Written in Go.",
+  "description_ja": "",
   "url": "https://github.com/ory/hydra",
   "homepage_url": "https://www.ory.com/?utm_source=github\u0026utm_medium=banner\u0026utm_campaign=hydra",
   "language": "Go",
@@ -30,12 +31,12 @@
     "server",
     "sso"
   ],
-  "star_count": 17089,
-  "fork_count": 1560,
+  "star_count": 17092,
+  "fork_count": 1559,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-05-22T12:42:08Z",
-  "updated_at": "2026-04-25T17:32:53Z",
+  "updated_at": "2026-04-26T06:51:58Z",
   "pushed_at": "2026-04-14T07:13:13Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 17089
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 17092
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "adversarial-spec",
   "full_name": "zscole/adversarial-spec",
   "description": "A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus.",
+  "description_ja": "",
   "url": "https://github.com/zscole/adversarial-spec",
   "homepage_url": "",
   "language": "Python",
@@ -17,12 +18,12 @@
     "llm",
     "orchestration"
   ],
-  "star_count": 534,
+  "star_count": 536,
   "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-11T04:24:30Z",
-  "updated_at": "2026-04-25T03:27:44Z",
+  "updated_at": "2026-04-26T08:53:06Z",
   "pushed_at": "2026-01-22T06:33:17Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 534
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 536
     }
   ]
 }

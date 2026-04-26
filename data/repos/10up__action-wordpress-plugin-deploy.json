@@ -4,6 +4,7 @@
   "name": "action-wordpress-plugin-deploy",
   "full_name": "10up/action-wordpress-plugin-deploy",
   "description": "Deploy your plugin to the WordPress.org repository using GitHub Actions",
+  "description_ja": "GitHub Actionsを使用してプラグインを WordPress.org リポジトリにデプロイ",
   "url": "https://github.com/10up/action-wordpress-plugin-deploy",
   "homepage_url": "",
   "language": "Shell",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 642
+    },
+    {
+      "date": "2026-04-26",
       "stars": 642
     }
   ]

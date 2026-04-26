@@ -4,6 +4,7 @@
   "name": "containerd",
   "full_name": "containerd/containerd",
   "description": "An open and reliable container runtime",
+  "description_ja": "",
   "url": "https://github.com/containerd/containerd",
   "homepage_url": "https://containerd.io",
   "language": "Go",
@@ -18,13 +19,13 @@
     "kubernetes",
     "oci"
   ],
-  "star_count": 20629,
+  "star_count": 20633,
   "fork_count": 3883,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-11-13T00:27:43Z",
-  "updated_at": "2026-04-25T07:57:07Z",
-  "pushed_at": "2026-04-25T01:09:20Z",
+  "updated_at": "2026-04-26T15:03:39Z",
+  "pushed_at": "2026-04-26T15:03:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 20629
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 20633
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "lm-proxy",
   "full_name": "nayjest/lm-proxy",
   "description": "OpenAI-compatible HTTP LLM proxy / gateway for multi-provider inference (Google, Anthropic, OpenAI, PyTorch). Lightweight, extensible Python/FastAPI—use as library or standalone service.",
+  "description_ja": "",
   "url": "https://github.com/Nayjest/lm-proxy",
   "homepage_url": "",
   "language": "Python",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 114
+    },
+    {
+      "date": "2026-04-26",
       "stars": 114
     }
   ]

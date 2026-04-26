@@ -4,6 +4,7 @@
   "name": "magnus",
   "full_name": "matsadler/magnus",
   "description": "Ruby bindings for Rust. Write Ruby extension gems in Rust, or call Ruby from Rust.",
+  "description_ja": "",
   "url": "https://github.com/matsadler/magnus",
   "homepage_url": "https://docs.rs/magnus/latest/magnus/",
   "language": "Rust",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 876
+    },
+    {
+      "date": "2026-04-26",
       "stars": 876
     }
   ]

@@ -4,6 +4,7 @@
   "name": "face-antispoof-onnx",
   "full_name": "facenox/face-antispoof-onnx",
   "description": "Ultra-lightweight (600KB) Face Anti-Spoofing classifier. Optimized MiniFASNetV2-SE implementation validated on 70k+ samples with ~98% accuracy for edge devices.",
+  "description_ja": "",
   "url": "https://github.com/facenox/face-antispoof-onnx",
   "homepage_url": "",
   "language": "Python",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 200
+    },
+    {
+      "date": "2026-04-26",
       "stars": 200
     }
   ]

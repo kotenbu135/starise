@@ -4,6 +4,7 @@
   "name": "gemma-gem",
   "full_name": "kessler/gemma-gem",
   "description": "Gemma Gem runs Google's Gemma 4 model entirely on-device via WebGPU — no API keys, no cloud, no data leaving your machine.",
+  "description_ja": "",
   "url": "https://github.com/kessler/gemma-gem",
   "homepage_url": "",
   "language": "TypeScript",
@@ -16,12 +17,12 @@
     "gemma4-agent-skills",
     "llm"
   ],
-  "star_count": 836,
-  "fork_count": 85,
+  "star_count": 842,
+  "fork_count": 86,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-05T20:07:56Z",
-  "updated_at": "2026-04-25T11:50:38Z",
+  "updated_at": "2026-04-26T16:21:47Z",
   "pushed_at": "2026-04-17T21:55:28Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 836
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 842
     }
   ]
 }

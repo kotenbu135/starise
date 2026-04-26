@@ -4,6 +4,7 @@
   "name": "terraform-aws-cloudwatch-alarms",
   "full_name": "clouddrove/terraform-aws-cloudwatch-alarms",
   "description": "Terraform module creates Cloudwatch Alarm on AWS for monitoriing AWS services.",
+  "description_ja": "",
   "url": "https://github.com/clouddrove/terraform-aws-cloudwatch-alarms",
   "homepage_url": "https://www.terraform.io/docs/providers/aws/r/cloudwatch_metric_alarm.html",
   "language": "HCL",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 44
+    },
+    {
+      "date": "2026-04-26",
       "stars": 44
     }
   ]

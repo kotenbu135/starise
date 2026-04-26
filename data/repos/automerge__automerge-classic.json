@@ -4,6 +4,7 @@
   "name": "automerge-classic",
   "full_name": "automerge/automerge-classic",
   "description": "A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.",
+  "description_ja": "",
   "url": "https://github.com/automerge/automerge-classic",
   "homepage_url": "http://automerge.org/",
   "language": "JavaScript",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 14707
+    },
+    {
+      "date": "2026-04-26",
       "stars": 14707
     }
   ]

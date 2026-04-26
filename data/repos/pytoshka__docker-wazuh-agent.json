@@ -4,6 +4,7 @@
   "name": "docker-wazuh-agent",
   "full_name": "pytoshka/docker-wazuh-agent",
   "description": "Monitoring a Kubernetes cluster involves deploying and utilizing the Wazuh agent within the Kubernetes environment.",
+  "description_ja": "",
   "url": "https://github.com/pyToshka/docker-wazuh-agent",
   "homepage_url": "",
   "language": "Python",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 75
+    },
+    {
+      "date": "2026-04-26",
       "stars": 75
     }
   ]

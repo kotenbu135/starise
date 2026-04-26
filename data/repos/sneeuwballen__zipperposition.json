@@ -4,6 +4,7 @@
   "name": "zipperposition",
   "full_name": "sneeuwballen/zipperposition",
   "description": "An automatic theorem prover in OCaml for typed higher-order logic with equality and datatypes, based on superposition+rewriting; and Logtk, a supporting library for manipulating terms, formulas, clauses, etc.",
+  "description_ja": "",
   "url": "https://github.com/sneeuwballen/zipperposition",
   "homepage_url": "https://sneeuwballen.github.io/zipperposition/",
   "language": "OCaml",
@@ -29,7 +30,7 @@
   "is_fork": false,
   "created_at": "2012-08-15T14:53:47Z",
   "updated_at": "2026-04-24T00:12:51Z",
-  "pushed_at": "2026-04-25T04:54:31Z",
+  "pushed_at": "2026-04-25T19:17:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 159
+    },
+    {
+      "date": "2026-04-26",
       "stars": 159
     }
   ]

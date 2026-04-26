@@ -4,6 +4,7 @@
   "name": "kauldron",
   "full_name": "google-research/kauldron",
   "description": "Modular, scalable library to train ML models",
+  "description_ja": "",
   "url": "https://github.com/google-research/kauldron",
   "homepage_url": "https://kauldron.readthedocs.io/",
   "language": "Python",
@@ -13,12 +14,12 @@
     "jax",
     "python"
   ],
-  "star_count": 233,
+  "star_count": 235,
   "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-06-19T08:56:33Z",
-  "updated_at": "2026-04-14T21:28:36Z",
+  "updated_at": "2026-04-26T02:08:28Z",
   "pushed_at": "2026-04-14T13:27:59Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 233
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 235
     }
   ]
 }

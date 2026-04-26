@@ -4,6 +4,7 @@
   "name": "terraform-aws-ec2",
   "full_name": "clouddrove/terraform-aws-ec2",
   "description": "Terraform module to create an EC2 resource on AWS with Elastic IP Addresses and Elastic Block Store.",
+  "description_ja": "",
   "url": "https://github.com/clouddrove/terraform-aws-ec2",
   "homepage_url": "",
   "language": "HCL",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 55
+    },
+    {
+      "date": "2026-04-26",
       "stars": 55
     }
   ]

@@ -4,6 +4,7 @@
   "name": "vs-streamjsonrpc",
   "full_name": "microsoft/vs-streamjsonrpc",
   "description": "The StreamJsonRpc library offers JSON-RPC 2.0 over any .NET Stream, WebSocket, or Pipe. With bonus support for request cancellation, client proxy generation, and more.",
+  "description_ja": "",
   "url": "https://github.com/microsoft/vs-streamjsonrpc",
   "homepage_url": "https://microsoft.github.io/vs-streamjsonrpc/",
   "language": "C#",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 919
+    },
+    {
+      "date": "2026-04-26",
       "stars": 919
     }
   ]

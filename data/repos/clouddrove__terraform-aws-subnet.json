@@ -4,6 +4,7 @@
   "name": "terraform-aws-subnet",
   "full_name": "clouddrove/terraform-aws-subnet",
   "description": "Terraform module to create public, private and public-private subnet with network acl, route table, Elastic IP, nat gateway, flow log.",
+  "description_ja": "",
   "url": "https://github.com/clouddrove/terraform-aws-subnet",
   "homepage_url": "https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html",
   "language": "HCL",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 42
+    },
+    {
+      "date": "2026-04-26",
       "stars": 42
     }
   ]

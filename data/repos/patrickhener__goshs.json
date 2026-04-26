@@ -4,6 +4,7 @@
   "name": "goshs",
   "full_name": "patrickhener/goshs",
   "description": "Feature-rich single-binary file server for red teamers and developers.  HTTP/S · WebDAV · SFTP · SMB · NTLM hash capture · DNS/SMTP callbacks ·  TLS · Auth · Share links. A powerful python3 -m http.server replacement.",
+  "description_ja": "",
   "url": "https://github.com/patrickhener/goshs",
   "homepage_url": "https://goshs.de",
   "language": "Go",
@@ -30,12 +31,12 @@
     "smtp-server",
     "webdav"
   ],
-  "star_count": 658,
+  "star_count": 667,
   "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-02T08:24:17Z",
-  "updated_at": "2026-04-25T16:34:27Z",
+  "updated_at": "2026-04-26T16:56:19Z",
   "pushed_at": "2026-04-24T13:10:25Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 658
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 667
     }
   ]
 }

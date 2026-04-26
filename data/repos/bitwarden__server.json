@@ -4,6 +4,7 @@
   "name": "server",
   "full_name": "bitwarden/server",
   "description": "Bitwarden infrastructure/backend (API, database, Docker, etc).",
+  "description_ja": "",
   "url": "https://github.com/bitwarden/server",
   "homepage_url": "https://bitwarden.com",
   "language": "C#",
@@ -21,12 +22,12 @@
     "sql",
     "sql-server"
   ],
-  "star_count": 18492,
-  "fork_count": 1566,
+  "star_count": 18494,
+  "fork_count": 1567,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-11-23T23:45:33Z",
-  "updated_at": "2026-04-25T16:57:28Z",
+  "updated_at": "2026-04-26T16:26:42Z",
   "pushed_at": "2026-04-25T16:57:20Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 18492
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 18494
     }
   ]
 }

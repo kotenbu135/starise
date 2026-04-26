@@ -4,6 +4,7 @@
   "name": "neotest-golang",
   "full_name": "fredrikaverpil/neotest-golang",
   "description": "Reliable Neotest adapter for running Go tests in Neovim.",
+  "description_ja": "",
   "url": "https://github.com/fredrikaverpil/neotest-golang",
   "homepage_url": "https://fredrikaverpil.github.io/neotest-golang",
   "language": "Lua",
@@ -20,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-15T22:52:29Z",
-  "updated_at": "2026-04-25T15:57:27Z",
-  "pushed_at": "2026-04-25T15:57:24Z",
+  "updated_at": "2026-04-25T19:47:19Z",
+  "pushed_at": "2026-04-25T19:47:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 260
+    },
+    {
+      "date": "2026-04-26",
       "stars": 260
     }
   ]

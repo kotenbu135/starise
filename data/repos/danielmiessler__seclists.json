@@ -4,18 +4,19 @@
   "name": "seclists",
   "full_name": "danielmiessler/seclists",
   "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+  "description_ja": "",
   "url": "https://github.com/danielmiessler/SecLists",
   "homepage_url": "https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project",
   "language": "PHP",
   "license": "MIT",
   "topics": [],
-  "star_count": 70491,
-  "fork_count": 24979,
+  "star_count": 70515,
+  "fork_count": 24978,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-02-19T01:30:18Z",
-  "updated_at": "2026-04-25T16:33:06Z",
-  "pushed_at": "2026-04-25T11:21:15Z",
+  "updated_at": "2026-04-26T16:33:43Z",
+  "pushed_at": "2026-04-26T11:21:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 70491
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 70515
     }
   ]
 }

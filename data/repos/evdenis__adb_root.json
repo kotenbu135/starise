@@ -4,6 +4,7 @@
   "name": "adb_root",
   "full_name": "evdenis/adb_root",
   "description": "Magisk Module that allows you to run \"adb root\". Android 10 only. Probably will work with Android 9. Definitely not with Android 11/12.",
+  "description_ja": "",
   "url": "https://github.com/evdenis/adb_root",
   "homepage_url": "",
   "language": "Shell",
@@ -16,12 +17,12 @@
     "magisk-module",
     "root"
   ],
-  "star_count": 496,
+  "star_count": 497,
   "fork_count": 82,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-01-13T14:29:03Z",
-  "updated_at": "2026-04-24T09:59:14Z",
+  "updated_at": "2026-04-25T22:10:25Z",
   "pushed_at": "2026-03-21T12:41:40Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 496
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 497
     }
   ]
 }

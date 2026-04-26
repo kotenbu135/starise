@@ -4,6 +4,7 @@
   "name": "gitflow-maven-plugin",
   "full_name": "aleksandr-m/gitflow-maven-plugin",
   "description": "The Git-Flow Maven Plugin supports various Git workflows, including GitFlow and GitHub Flow. This plugin runs Git and Maven commands from the command line.",
+  "description_ja": "Git-Flow Maven Pluginは、GitFlowやGitHub Flowなど、さまざまなGitワークフローをサポート。このプラグインはコマンドラインからGitおよびMavenコマンドを実行する。",
   "url": "https://github.com/aleksandr-m/gitflow-maven-plugin",
   "homepage_url": "https://aleksandr-m.github.io/gitflow-maven-plugin/",
   "language": "Java",
@@ -17,12 +18,12 @@
     "maven",
     "maven-plugin"
   ],
-  "star_count": 508,
+  "star_count": 509,
   "fork_count": 185,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-04-29T18:35:29Z",
-  "updated_at": "2026-04-08T06:17:05Z",
+  "updated_at": "2026-04-25T23:59:05Z",
   "pushed_at": "2026-03-27T22:51:47Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 508
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 509
     }
   ]
 }

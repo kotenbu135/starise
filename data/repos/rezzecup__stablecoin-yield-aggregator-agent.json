@@ -4,6 +4,7 @@
   "name": "stablecoin-yield-aggregator-agent",
   "full_name": "rezzecup/stablecoin-yield-aggregator-agent",
   "description": "An automated agent that scans Aave, Morpho, and Compound to move USDC/USDT to the highest-yielding pool every 24 hours.",
+  "description_ja": "",
   "url": "https://github.com/Rezzecup/stablecoin-yield-aggregator-agent",
   "homepage_url": "",
   "language": "Python",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 35
+    },
+    {
+      "date": "2026-04-26",
       "stars": 35
     }
   ]

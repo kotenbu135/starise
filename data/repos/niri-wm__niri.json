@@ -4,6 +4,7 @@
   "name": "niri",
   "full_name": "niri-wm/niri",
   "description": "A scrollable-tiling Wayland compositor.",
+  "description_ja": "",
   "url": "https://github.com/niri-wm/niri",
   "homepage_url": "https://niri-wm.github.io/niri/",
   "language": "Rust",
@@ -15,13 +16,13 @@
     "wayland",
     "wayland-compositor"
   ],
-  "star_count": 23018,
-  "fork_count": 840,
+  "star_count": 23234,
+  "fork_count": 844,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-10T10:53:14Z",
-  "updated_at": "2026-04-25T17:29:33Z",
-  "pushed_at": "2026-04-25T13:52:51Z",
+  "updated_at": "2026-04-26T17:33:27Z",
+  "pushed_at": "2026-04-26T14:04:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 23018
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 23234
     }
   ]
 }

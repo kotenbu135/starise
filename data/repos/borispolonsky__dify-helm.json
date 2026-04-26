@@ -4,6 +4,7 @@
   "name": "dify-helm",
   "full_name": "borispolonsky/dify-helm",
   "description": "Deploy langgenious/dify, an LLM based app on kubernetes with helm chart.",
+  "description_ja": "",
   "url": "https://github.com/BorisPolonsky/dify-helm",
   "homepage_url": "",
   "language": "Go Template",
@@ -16,12 +17,12 @@
     "k8s",
     "llm"
   ],
-  "star_count": 632,
+  "star_count": 631,
   "fork_count": 180,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-06-05T04:20:42Z",
-  "updated_at": "2026-04-23T07:13:36Z",
+  "updated_at": "2026-04-25T17:42:17Z",
   "pushed_at": "2026-04-20T03:39:05Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 632
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 631
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "grpc-gateway",
   "full_name": "grpc-ecosystem/grpc-gateway",
   "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+  "description_ja": "",
   "url": "https://github.com/grpc-ecosystem/grpc-gateway",
   "homepage_url": "https://grpc-ecosystem.github.io/grpc-gateway/",
   "language": "Go",
@@ -17,13 +18,13 @@
     "restful-api",
     "swagger"
   ],
-  "star_count": 19881,
+  "star_count": 19884,
   "fork_count": 2376,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-04-03T07:25:13Z",
-  "updated_at": "2026-04-25T01:36:41Z",
-  "pushed_at": "2026-04-25T01:36:37Z",
+  "updated_at": "2026-04-26T09:14:06Z",
+  "pushed_at": "2026-04-26T05:28:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 19881
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 19884
     }
   ]
 }

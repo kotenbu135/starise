@@ -4,6 +4,7 @@
   "name": "appimagekit",
   "full_name": "appimage/appimagekit",
   "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat",
+  "description_ja": "",
   "url": "https://github.com/AppImage/AppImageKit",
   "homepage_url": "http://appimage.org",
   "language": "C",
@@ -16,12 +17,12 @@
     "linux-app",
     "packaging"
   ],
-  "star_count": 9306,
+  "star_count": 9308,
   "fork_count": 586,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-04-14T20:53:12Z",
-  "updated_at": "2026-04-24T01:28:08Z",
+  "updated_at": "2026-04-26T10:43:29Z",
   "pushed_at": "2025-06-09T05:35:59Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 9306
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9308
     }
   ]
 }

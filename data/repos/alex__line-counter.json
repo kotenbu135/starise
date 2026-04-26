@@ -4,6 +4,7 @@
   "name": "line-counter",
   "full_name": "alex/line-counter",
   "description": "Like `wc -l`, but in Rust and maybe faster",
+  "description_ja": "`wc -l` のような行数カウントを Rust で実装、もしかしたら高速",
   "url": "https://github.com/alex/line-counter",
   "homepage_url": "",
   "language": "Rust",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

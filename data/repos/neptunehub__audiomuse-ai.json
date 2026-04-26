@@ -4,6 +4,7 @@
   "name": "audiomuse-ai",
   "full_name": "neptunehub/audiomuse-ai",
   "description": "AudioMuse-AI is a self-hosted, Dockerized music playlist generator using sonic analysis to discover related tracks for Jellyfin, Navidrome, LMS, Lyrion, and Emby: no metadata or external APIs needed.",
+  "description_ja": "",
   "url": "https://github.com/NeptuneHub/AudioMuse-AI",
   "homepage_url": "https://neptunehub.github.io/AudioMuse-AI/",
   "language": "Python",
@@ -30,13 +31,13 @@
     "smart-playlists",
     "sonic-analysis"
   ],
-  "star_count": 1607,
+  "star_count": 1613,
   "fork_count": 87,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-24T08:12:12Z",
-  "updated_at": "2026-04-25T13:24:39Z",
-  "pushed_at": "2026-04-25T10:02:04Z",
+  "updated_at": "2026-04-26T14:12:57Z",
+  "pushed_at": "2026-04-26T17:24:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 1607
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1613
     }
   ]
 }

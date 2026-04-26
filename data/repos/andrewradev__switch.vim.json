@@ -4,6 +4,7 @@
   "name": "switch.vim",
   "full_name": "andrewradev/switch.vim",
   "description": "A simple Vim plugin to switch segments of text with predefined replacements",
+  "description_ja": "[5] 定義済み置換を使ってテキストセグメントを切り替えるシンプルな Vim プラグイン",
   "url": "https://github.com/AndrewRadev/switch.vim",
   "homepage_url": "http://www.vim.org/scripts/script.php?script_id=4172",
   "language": "Ruby",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 761
+    },
+    {
+      "date": "2026-04-26",
       "stars": 761
     }
   ]

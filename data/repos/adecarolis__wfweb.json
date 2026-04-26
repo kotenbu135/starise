@@ -4,6 +4,7 @@
   "name": "wfweb",
   "full_name": "adecarolis/wfweb",
   "description": "Turn any Icom transceiver into a web-accessible station. Headless wfview fork with browser-based control, audio streaming, SSB, FreeDV, CW and FT8.",
+  "description_ja": "[36] 任意の Icom トランシーバーを Web アクセス可能な局に変換。ブラウザ制御、音声ストリーミング、SSB、FreeDV、CW、FT8 対応のヘッドレス wfview フォーク",
   "url": "https://github.com/adecarolis/wfweb",
   "homepage_url": "",
   "language": "C++",
@@ -23,13 +24,13 @@
     "rade",
     "ssb"
   ],
-  "star_count": 46,
+  "star_count": 47,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-21T21:50:32Z",
-  "updated_at": "2026-04-22T01:58:41Z",
-  "pushed_at": "2026-04-25T16:40:28Z",
+  "updated_at": "2026-04-26T14:59:36Z",
+  "pushed_at": "2026-04-26T15:06:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 46
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 47
     }
   ]
 }

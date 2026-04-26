@@ -4,6 +4,7 @@
   "name": "fluxer",
   "full_name": "0n1con3/fluxer",
   "description": "FluxER - The bash script which installs and runs the Fluxion tool inside Termux. The wireless security auditing tool used to perform WPA/WPA2 auditing and MITM auditing.",
+  "description_ja": "FluxER - Termux 内に Fluxion ツールをインストールして実行する bash スクリプト。WPA/WPA2 監査と MITM 監査を行う無線セキュリティ監査ツール",
   "url": "https://github.com/0n1cOn3/FluxER",
   "homepage_url": "",
   "language": "Shell",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 670
+    },
+    {
+      "date": "2026-04-26",
       "stars": 670
     }
   ]

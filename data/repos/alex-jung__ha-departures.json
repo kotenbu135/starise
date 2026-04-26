@@ -4,6 +4,7 @@
   "name": "ha-departures",
   "full_name": "alex-jung/ha-departures",
   "description": "Home Assistant custom component to get departure times of public transport in more as 60 countries.",
+  "description_ja": "60 カ国以上の公共交通機関の発車時刻を取得できる Home Assistant カスタムコンポーネント",
   "url": "https://github.com/alex-jung/ha-departures",
   "homepage_url": "",
   "language": "Python",
@@ -21,7 +22,7 @@
     "tram"
   ],
   "star_count": 58,
-  "fork_count": 5,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-20T20:22:13Z",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 58
+    },
+    {
+      "date": "2026-04-26",
       "stars": 58
     }
   ]

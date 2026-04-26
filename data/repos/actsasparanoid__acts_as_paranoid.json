@@ -4,6 +4,7 @@
   "name": "acts_as_paranoid",
   "full_name": "actsasparanoid/acts_as_paranoid",
   "description": "ActiveRecord plugin allowing you to hide and restore records without actually deleting them.",
+  "description_ja": "ActiveRecord プラグイン。レコードを実際に削除せず非表示・復元できる。",
   "url": "https://github.com/ActsAsParanoid/acts_as_paranoid",
   "homepage_url": "",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1507
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1507
     }
   ]

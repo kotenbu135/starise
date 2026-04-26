@@ -4,6 +4,7 @@
   "name": "mpi-operator",
   "full_name": "kubeflow/mpi-operator",
   "description": "Kubernetes Operator for MPI-based applications (distributed training, HPC, etc.)",
+  "description_ja": "",
   "url": "https://github.com/kubeflow/mpi-operator",
   "homepage_url": "https://www.kubeflow.org/docs/components/training/mpi/",
   "language": "Go",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 524
+    },
+    {
+      "date": "2026-04-26",
       "stars": 524
     }
   ]

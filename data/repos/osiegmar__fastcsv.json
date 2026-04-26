@@ -4,6 +4,7 @@
   "name": "fastcsv",
   "full_name": "osiegmar/fastcsv",
   "description": "Fast, lightweight, and RFC 4180 compliant CSV library for Java. Zero dependencies, ~90 KiB. Trusted by Apache NiFi, JUnit, and Neo4j.",
+  "description_ja": "",
   "url": "https://github.com/osiegmar/FastCSV",
   "homepage_url": "https://fastcsv.org/",
   "language": "Java",
@@ -16,7 +17,7 @@
     "zero-dependency"
   ],
   "star_count": 676,
-  "fork_count": 103,
+  "fork_count": 102,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-06-22T08:10:16Z",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 676
+    },
+    {
+      "date": "2026-04-26",
       "stars": 676
     }
   ]

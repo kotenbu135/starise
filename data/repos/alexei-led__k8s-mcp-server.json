@@ -4,6 +4,7 @@
   "name": "k8s-mcp-server",
   "full_name": "alexei-led/k8s-mcp-server",
   "description": "K8s-mcp-server is a Model Context Protocol (MCP) server that enables AI assistants like Claude to securely execute Kubernetes commands. It provides a bridge between language models and essential Kubernetes CLI tools including kubectl, helm, istioctl, and argocd, allowing AI systems to assist with cluster management, troubleshooting, and deployments",
+  "description_ja": "K8s-mcp-serverは、ClaudeなどのAIアシスタントが安全にKubernetesコマンドを実行できるようにするModel Context Protocol（MCP）サーバー。kubectl、helm、istioctl、argocdといった主要なKubernetes CLIツールと言語モデルを橋渡しし、クラスタ管理、トラブルシューティング、デプロイをAIで支援",
   "url": "https://github.com/alexei-led/k8s-mcp-server",
   "homepage_url": "",
   "language": "Python",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 208
+    },
+    {
+      "date": "2026-04-26",
       "stars": 208
     }
   ]

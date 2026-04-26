@@ -4,6 +4,7 @@
   "name": "tuya-smart-plug-exporter",
   "full_name": "luizbizzio/tuya-smart-plug-exporter",
   "description": "🔌 Prometheus exporter for Tuya smart plugs using local network polling via TinyTuya, with automatic DPS and scaling autodiscovery for voltage, current, power, and relay metrics.",
+  "description_ja": "",
   "url": "https://github.com/luizbizzio/tuya-smart-plug-exporter",
   "homepage_url": "https://github.com/luizbizzio/tuya-smart-plug-exporter",
   "language": "Python",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 32
+    },
+    {
+      "date": "2026-04-26",
       "stars": 32
     }
   ]

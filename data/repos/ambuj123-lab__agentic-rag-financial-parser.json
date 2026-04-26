@@ -4,6 +4,7 @@
   "name": "agentic-rag-financial-parser",
   "full_name": "ambuj123-lab/agentic-rag-financial-parser",
   "description": "Enterprise RAG ecosystem managing 15,000+ semantic chunks. Features hybrid parsing (LlamaParse/PyMuPDF) and 256-dim MRL embeddings for 512MB RAM environments",
+  "description_ja": "15,000以上のセマンティックチャンクを管理するエンタープライズRAGエコシステム。ハイブリッドパース (LlamaParse/PyMuPDF) と512MB RAM環境向け256次元MRL埋め込みを搭載",
   "url": "https://github.com/Ambuj123-lab/agentic-rag-financial-parser",
   "homepage_url": "https://agentic-rag-financial-parser.onrender.com/",
   "language": "Python",
@@ -20,7 +21,7 @@
     "rag"
   ],
   "star_count": 53,
-  "fork_count": 21,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T22:31:44Z",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 53
+    },
+    {
+      "date": "2026-04-26",
       "stars": 53
     }
   ]

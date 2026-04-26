@@ -4,6 +4,7 @@
   "name": "bypass-firewalls-by-dns-history",
   "full_name": "vincentcox/bypass-firewalls-by-dns-history",
   "description": "Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.",
+  "description_ja": "",
   "url": "https://github.com/vincentcox/bypass-firewalls-by-DNS-history",
   "homepage_url": "",
   "language": "Shell",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1276
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1276
     }
   ]

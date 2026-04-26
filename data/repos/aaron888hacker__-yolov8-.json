@@ -4,6 +4,7 @@
   "name": "-yolov8-",
   "full_name": "aaron888hacker/-yolov8-",
   "description": "YOLOv8-Pose-GUI Real-time pose estimation \u0026 sitting posture analysis. Input: image / video / camera. Detects: normal sitting, bowed head, hunchback, left/right tilt.",
+  "description_ja": "YOLOv8-Pose-GUI リアルタイム姿勢推定・座位姿勢分析。入力: 画像/動画/カメラ。検出: 通常の座位、頭の前傾、猫背、左右の傾き。",
   "url": "https://github.com/aaron888hacker/-yolov8-",
   "homepage_url": "",
   "language": "Python",
@@ -24,12 +25,12 @@
     "yolov8-detection",
     "yolov8-pose"
   ],
-  "star_count": 58,
+  "star_count": 59,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-06T09:06:55Z",
-  "updated_at": "2026-04-25T06:03:39Z",
+  "updated_at": "2026-04-26T11:05:24Z",
   "pushed_at": "2026-04-08T14:07:25Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 58
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 59
     }
   ]
 }

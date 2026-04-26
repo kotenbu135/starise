@@ -4,6 +4,7 @@
   "name": "kia_uvo",
   "full_name": "hyundai-kia-connect/kia_uvo",
   "description": "A Home Assistant HACS integration that supports Kia Connect(Uvo) and Hyundai Bluelink. The integration supports the EU, Canada and the USA.",
+  "description_ja": "",
   "url": "https://github.com/Hyundai-Kia-Connect/kia_uvo",
   "homepage_url": "",
   "language": "Python",
@@ -18,7 +19,7 @@
     "uvo"
   ],
   "star_count": 840,
-  "fork_count": 188,
+  "fork_count": 189,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-09T20:03:08Z",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 840
+    },
+    {
+      "date": "2026-04-26",
       "stars": 840
     }
   ]

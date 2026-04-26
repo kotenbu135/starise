@@ -4,6 +4,7 @@
   "name": "tg-signer",
   "full_name": "amchii/tg-signer",
   "description": "电报自动执行（签到、发送消息、点击键盘、AI回复等）；个人、群组、频道消息监控、转发与自动回复。Automated Telegram tasks (check-ins, sending messages, keyboard clicks, AI replies, etc.); monitoring, forwarding, and auto-replying to private, group, and channel messages.",
+  "description_ja": "Telegram自動化 (チェックイン、メッセージ送信、キーボード操作、AI返信など)。個人・グループ・チャンネルメッセージの監視、転送、自動返信に対応",
   "url": "https://github.com/amchii/tg-signer",
   "homepage_url": "",
   "language": "Python",
@@ -12,12 +13,12 @@
     "telegram",
     "telegram-bot"
   ],
-  "star_count": 872,
+  "star_count": 878,
   "fork_count": 174,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-16T06:40:51Z",
-  "updated_at": "2026-04-25T14:03:13Z",
+  "updated_at": "2026-04-26T16:59:23Z",
   "pushed_at": "2026-04-23T07:29:34Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 872
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 878
     }
   ]
 }

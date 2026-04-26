@@ -4,6 +4,7 @@
   "name": "aawaf",
   "full_name": "aapanel/aawaf",
   "description": "aawaf 是一款基于语义分析的Web应用防火墙",
+  "description_ja": "aawafはセマンティック解析に基づくWebアプリケーションファイアウォール",
   "url": "https://github.com/aaPanel/aaWAF",
   "homepage_url": "",
   "language": "Go",
@@ -29,12 +30,12 @@
     "web-security",
     "xss"
   ],
-  "star_count": 694,
+  "star_count": 696,
   "fork_count": 127,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-12T03:54:53Z",
-  "updated_at": "2026-04-25T05:57:09Z",
+  "updated_at": "2026-04-26T14:31:42Z",
   "pushed_at": "2026-04-15T10:12:40Z",
   "deleted_at": "",
   "star_history": [
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 694
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 696
     }
   ]
 }

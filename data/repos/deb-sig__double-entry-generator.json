@@ -4,6 +4,7 @@
   "name": "double-entry-generator",
   "full_name": "deb-sig/double-entry-generator",
   "description": "Rule-based double-entry bookkeeping importer (from Alipay/WeChat/Huobi etc. to Beancount/Ledger).",
+  "description_ja": "",
   "url": "https://github.com/deb-sig/double-entry-generator",
   "homepage_url": "https://deb-sig.github.io/double-entry-generator/",
   "language": "Go",
@@ -18,13 +19,13 @@
     "ledger",
     "wechat"
   ],
-  "star_count": 690,
+  "star_count": 691,
   "fork_count": 99,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-10-08T06:00:41Z",
-  "updated_at": "2026-04-25T13:12:07Z",
-  "pushed_at": "2026-03-19T16:13:50Z",
+  "updated_at": "2026-04-26T10:40:47Z",
+  "pushed_at": "2026-04-26T01:26:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 690
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 691
     }
   ]
 }

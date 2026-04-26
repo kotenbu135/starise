@@ -4,6 +4,7 @@
   "name": "sharpedrchecker",
   "full_name": "pwndexter/sharpedrchecker",
   "description": "Checks running processes, process metadata, Dlls loaded into your current process and the each DLLs metadata, common install directories, installed services and each service binaries metadata, installed drivers and each drivers metadata, all for the presence of known defensive products such as AV's, EDR's and logging tools.",
+  "description_ja": "",
   "url": "https://github.com/PwnDexter/SharpEDRChecker",
   "homepage_url": "",
   "language": "C#",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 747
+    },
+    {
+      "date": "2026-04-26",
       "stars": 747
     }
   ]

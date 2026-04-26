@@ -4,6 +4,7 @@
   "name": "golembot",
   "full_name": "0xranx/golembot",
   "description": "Any Agent × Any Provider × Anywhere. Connect Cursor, Claude Code, OpenCode, or Codex to Slack, Telegram, Discord, Feishu, DingTalk, WeCom, WeChat — with any LLM provider.",
+  "description_ja": "Any Agent × Any Provider × Anywhere. Cursor、Claude Code、OpenCode、CodexをSlack、Telegram、Discord、Feishu、DingTalk、WeCom、WeChatに接続 — 任意のLLMプロバイダーで。",
   "url": "https://github.com/0xranx/golembot",
   "homepage_url": "https://0xranx.github.io/golembot/",
   "language": "TypeScript",
@@ -30,12 +31,12 @@
     "typescript",
     "wecom"
   ],
-  "star_count": 261,
+  "star_count": 262,
   "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T09:50:33Z",
-  "updated_at": "2026-04-25T11:08:00Z",
+  "updated_at": "2026-04-26T14:52:35Z",
   "pushed_at": "2026-04-12T14:14:50Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 261
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 262
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "wasmtime",
   "full_name": "bytecodealliance/wasmtime",
   "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+  "description_ja": "",
   "url": "https://github.com/bytecodealliance/wasmtime",
   "homepage_url": "https://wasmtime.dev/",
   "language": "Rust",
@@ -23,12 +24,12 @@
     "wasmtime",
     "webassembly"
   ],
-  "star_count": 17924,
-  "fork_count": 1682,
+  "star_count": 17922,
+  "fork_count": 1683,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-08-29T14:01:55Z",
-  "updated_at": "2026-04-25T03:56:16Z",
+  "updated_at": "2026-04-26T15:06:05Z",
   "pushed_at": "2026-04-24T22:23:09Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 17924
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 17922
     }
   ]
 }

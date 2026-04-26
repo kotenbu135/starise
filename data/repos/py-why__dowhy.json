@@ -4,6 +4,7 @@
   "name": "dowhy",
   "full_name": "py-why/dowhy",
   "description": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. ",
+  "description_ja": "",
   "url": "https://github.com/py-why/dowhy",
   "homepage_url": "https://www.pywhy.org/dowhy",
   "language": "Python",
@@ -21,13 +22,13 @@
     "python3",
     "treatment-effects"
   ],
-  "star_count": 8085,
+  "star_count": 8086,
   "fork_count": 1024,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-05-31T13:07:04Z",
-  "updated_at": "2026-04-25T16:38:13Z",
-  "pushed_at": "2026-04-25T13:24:27Z",
+  "updated_at": "2026-04-26T04:36:51Z",
+  "pushed_at": "2026-04-26T13:18:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 8085
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8086
     }
   ]
 }

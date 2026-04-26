@@ -4,6 +4,7 @@
   "name": "bun",
   "full_name": "uptrace/bun",
   "description": "SQL-first Golang ORM",
+  "description_ja": "",
   "url": "https://github.com/uptrace/bun",
   "homepage_url": "https://bun.uptrace.dev",
   "language": "Go",
@@ -22,7 +23,7 @@
     "sqlite3"
   ],
   "star_count": 4771,
-  "fork_count": 274,
+  "fork_count": 275,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-05-03T11:40:52Z",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 4771
+    },
+    {
+      "date": "2026-04-26",
       "stars": 4771
     }
   ]

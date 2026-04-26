@@ -4,6 +4,7 @@
   "name": "homebrew-musl-cross",
   "full_name": "filosottile/homebrew-musl-cross",
   "description": "Homebrew Formula for static-friendly musl-based GCC macOS-to-Linux cross-compilers",
+  "description_ja": "",
   "url": "https://github.com/FiloSottile/homebrew-musl-cross",
   "homepage_url": "https://blog.filippo.io/easy-windows-and-linux-cross-compilers-for-macos/",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 658
+    },
+    {
+      "date": "2026-04-26",
       "stars": 658
     }
   ]

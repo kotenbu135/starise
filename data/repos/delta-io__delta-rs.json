@@ -4,6 +4,7 @@
   "name": "delta-rs",
   "full_name": "delta-io/delta-rs",
   "description": "A native Rust library for Delta Lake, with bindings into Python",
+  "description_ja": "",
   "url": "https://github.com/delta-io/delta-rs",
   "homepage_url": "https://delta-io.github.io/delta-rs/",
   "language": "Rust",
@@ -18,12 +19,12 @@
     "rust"
   ],
   "star_count": 3201,
-  "fork_count": 611,
+  "fork_count": 612,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-04-26T03:48:06Z",
-  "updated_at": "2026-04-25T12:03:09Z",
-  "pushed_at": "2026-04-25T12:03:03Z",
+  "updated_at": "2026-04-26T16:13:58Z",
+  "pushed_at": "2026-04-26T15:22:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3201
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3201
     }
   ]

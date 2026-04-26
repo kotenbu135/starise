@@ -4,6 +4,7 @@
   "name": "docker-openvpn",
   "full_name": "kylemanna/docker-openvpn",
   "description": "🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA",
+  "description_ja": "",
   "url": "https://github.com/kylemanna/docker-openvpn",
   "homepage_url": "https://hub.docker.com/r/kylemanna/openvpn/",
   "language": "Shell",
@@ -17,12 +18,12 @@
     "openvpn-server",
     "pki"
   ],
-  "star_count": 9075,
+  "star_count": 9076,
   "fork_count": 2439,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-06-04T03:26:38Z",
-  "updated_at": "2026-04-24T22:13:45Z",
+  "updated_at": "2026-04-26T09:09:51Z",
   "pushed_at": "2025-05-21T05:36:59Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 9075
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9076
     }
   ]
 }

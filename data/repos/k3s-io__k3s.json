@@ -4,6 +4,7 @@
   "name": "k3s",
   "full_name": "k3s-io/k3s",
   "description": "Lightweight Kubernetes",
+  "description_ja": "",
   "url": "https://github.com/k3s-io/k3s",
   "homepage_url": "https://k3s.io",
   "language": "Go",
@@ -12,12 +13,12 @@
     "k8s",
     "kubernetes"
   ],
-  "star_count": 32859,
-  "fork_count": 2647,
+  "star_count": 32865,
+  "fork_count": 2648,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-05-31T01:37:46Z",
-  "updated_at": "2026-04-25T17:09:10Z",
+  "updated_at": "2026-04-26T13:58:42Z",
   "pushed_at": "2026-04-24T18:07:35Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 32859
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 32865
     }
   ]
 }

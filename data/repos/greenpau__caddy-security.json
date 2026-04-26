@@ -4,6 +4,7 @@
   "name": "caddy-security",
   "full_name": "greenpau/caddy-security",
   "description": "🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐",
+  "description_ja": "",
   "url": "https://github.com/greenpau/caddy-security",
   "homepage_url": "https://authcrunch.com/",
   "language": "Go",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2132
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2132
     }
   ]

@@ -4,6 +4,7 @@
   "name": "garmin-grafana",
   "full_name": "arpanghosh8453/garmin-grafana",
   "description": "A Dockerized python Script to fetch Garmin health data and populate that in a InfluxDB Database, for visualization long term health trends with Grafana",
+  "description_ja": "",
   "url": "https://github.com/arpanghosh8453/garmin-grafana",
   "homepage_url": "",
   "language": "Python",
@@ -22,13 +23,13 @@
     "python",
     "python3"
   ],
-  "star_count": 3122,
-  "fork_count": 192,
+  "star_count": 3125,
+  "fork_count": 194,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-14T11:59:09Z",
-  "updated_at": "2026-04-25T09:20:33Z",
-  "pushed_at": "2026-04-20T06:40:35Z",
+  "updated_at": "2026-04-26T15:26:50Z",
+  "pushed_at": "2026-04-26T08:49:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 3122
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3125
     }
   ]
 }

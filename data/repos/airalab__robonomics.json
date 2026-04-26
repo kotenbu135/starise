@@ -4,6 +4,7 @@
   "name": "robonomics",
   "full_name": "airalab/robonomics",
   "description": "Robonomics node implementation for Polkadot ecosystem; Kusama parachain slot #2048 since January 2022",
+  "description_ja": "Polkadot エコシステム向けの Robonomics ノード実装。2022 年 1 月以降 Kusama パラチェーンスロット #2048 を運用",
   "url": "https://github.com/airalab/robonomics",
   "homepage_url": "https://robonomics.subscan.io/",
   "language": "Rust",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 227
+    },
+    {
+      "date": "2026-04-26",
       "stars": 227
     }
   ]

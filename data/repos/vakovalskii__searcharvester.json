@@ -4,6 +4,7 @@
   "name": "searcharvester",
   "full_name": "vakovalskii/searcharvester",
   "description": "Self-hosted search + markdown harvester for AI agents. SearXNG (100+ engines) + FastAPI + trafilatura. Tavily-compatible /search plus /extract with size presets and pagination. One-command Docker Compose.",
+  "description_ja": "",
   "url": "https://github.com/vakovalskii/searcharvester",
   "homepage_url": "https://github.com/vakovalskii/searcharvester",
   "language": "Python",
@@ -24,12 +25,12 @@
     "trafilatura",
     "web-scraping"
   ],
-  "star_count": 201,
-  "fork_count": 34,
+  "star_count": 202,
+  "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-11T21:40:24Z",
-  "updated_at": "2026-04-25T12:28:55Z",
+  "updated_at": "2026-04-26T15:34:29Z",
   "pushed_at": "2026-04-24T11:07:05Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 201
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 202
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "travel-agent-based-on-qwen2-rlhf",
   "full_name": "njuxlj/travel-agent-based-on-qwen2-rlhf",
   "description": "A travel agent based on Qwen2.5, fine-tuned by SFT + DPO/PPO/GRPO using traveling question-answer dataset, a mindmap can be output using the response. A RAG system is build upon the tuned qwen2, using Prompt-Template + Tool-Use + Chroma embedding database  + LangChain ",
+  "description_ja": "",
   "url": "https://github.com/NJUxlj/Travel-Agent-based-on-Qwen2-RLHF",
   "homepage_url": "",
   "language": "Python",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 71
+    },
+    {
+      "date": "2026-04-26",
       "stars": 71
     }
   ]

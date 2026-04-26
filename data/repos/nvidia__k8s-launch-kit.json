@@ -4,6 +4,7 @@
   "name": "k8s-launch-kit",
   "full_name": "nvidia/k8s-launch-kit",
   "description": "K8s Launch Kit (l8k) is a CLI tool for deploying and managing NVIDIA cloud-native solutions on Kubernetes. The tool helps provide flexible deployment workflows for optimal network performance with SR-IOV, RDMA, and other networking technologies.",
+  "description_ja": "",
   "url": "https://github.com/NVIDIA/k8s-launch-kit",
   "homepage_url": "",
   "language": "Go",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

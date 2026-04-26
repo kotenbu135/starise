@@ -4,6 +4,7 @@
   "name": "video2tfrecord",
   "full_name": "ferreirafabio/video2tfrecord",
   "description": "Easily convert RGB video data (e.g. .avi) to the TensorFlow tfrecords file format for training e.g. a NN in TensorFlow. This implementation allows to limit the number of frames per video to be stored in the tfrecords.",
+  "description_ja": "",
   "url": "https://github.com/ferreirafabio/video2tfrecord",
   "homepage_url": "",
   "language": "Python",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 153
+    },
+    {
+      "date": "2026-04-26",
       "stars": 153
     }
   ]

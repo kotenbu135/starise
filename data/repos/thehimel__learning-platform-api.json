@@ -4,6 +4,7 @@
   "name": "learning-platform-api",
   "full_name": "thehimel/learning-platform-api",
   "description": "Learning platform API with FastAPI, PostgreSQL, and JWT auth. Courses, enrollments, ratings, and role-based access (student, instructor, admin).",
+  "description_ja": "",
   "url": "https://github.com/thehimel/learning-platform-api",
   "homepage_url": "https://learningplatform-api.vercel.app",
   "language": "Python",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 35
+    },
+    {
+      "date": "2026-04-26",
       "stars": 35
     }
   ]

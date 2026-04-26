@@ -4,6 +4,7 @@
   "name": "yarepl.nvim",
   "full_name": "milanglacier/yarepl.nvim",
   "description": "Versatile REPL/CLI manager. Multiple sending modes with parallel sessions, buffer attachments, and cross-language support. AI CLI integration for Aider  and OpenAI Codex. Picker support, project-level configs, code cell text objects, and native dot-repeat.",
+  "description_ja": "",
   "url": "https://github.com/milanglacier/yarepl.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 248
+    },
+    {
+      "date": "2026-04-26",
       "stars": 248
     }
   ]

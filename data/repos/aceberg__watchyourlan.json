@@ -4,6 +4,7 @@
   "name": "watchyourlan",
   "full_name": "aceberg/watchyourlan",
   "description": "Lightweight network IP scanner written in Go. With notifications, history, export to Grafana",
+  "description_ja": "[8] Go で書かれた軽量なネットワーク IP スキャナ。通知、履歴、Grafana へのエクスポートに対応",
   "url": "https://github.com/aceberg/WatchYourLAN",
   "homepage_url": "https://hub.docker.com/r/aceberg/watchyourlan",
   "language": "Go",
@@ -17,12 +18,12 @@
     "self-hosted",
     "selfhosted"
   ],
-  "star_count": 6891,
+  "star_count": 6893,
   "fork_count": 237,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-15T04:58:22Z",
-  "updated_at": "2026-04-24T12:19:45Z",
+  "updated_at": "2026-04-25T20:50:30Z",
   "pushed_at": "2025-09-10T12:08:09Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 6891
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6893
     }
   ]
 }

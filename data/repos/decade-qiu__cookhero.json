@@ -4,6 +4,7 @@
   "name": "cookhero",
   "full_name": "decade-qiu/cookhero",
   "description": "CookHero是一个基于 LLM + RAG + Agent + 多模态的智能饮食与烹饪管理平台，支持智能菜谱查询、个性化饮食计划、AI 饮食记录、营养分析、Web 搜索增强，以及可扩展的 ReAct Agent / Subagent 工具体系，帮助厨房新手轻松成为“烹饪英雄”。",
+  "description_ja": "",
   "url": "https://github.com/Decade-qiu/CookHero",
   "homepage_url": "",
   "language": "Python",
@@ -20,12 +21,12 @@
     "tool",
     "web-search"
   ],
-  "star_count": 473,
+  "star_count": 475,
   "fork_count": 79,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-29T08:52:43Z",
-  "updated_at": "2026-04-24T22:47:24Z",
+  "updated_at": "2026-04-26T06:22:05Z",
   "pushed_at": "2026-04-21T22:32:58Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 473
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 475
     }
   ]
 }

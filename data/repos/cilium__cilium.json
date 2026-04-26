@@ -4,6 +4,7 @@
   "name": "cilium",
   "full_name": "cilium/cilium",
   "description": "eBPF-based Networking, Security, and Observability",
+  "description_ja": "",
   "url": "https://github.com/cilium/cilium",
   "homepage_url": "https://cilium.io",
   "language": "Go",
@@ -26,13 +27,13 @@
     "troubleshooting",
     "xdp"
   ],
-  "star_count": 24203,
-  "fork_count": 3733,
+  "star_count": 24208,
+  "fork_count": 3737,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-12-16T12:33:31Z",
-  "updated_at": "2026-04-25T16:32:07Z",
-  "pushed_at": "2026-04-24T18:42:47Z",
+  "updated_at": "2026-04-26T16:40:43Z",
+  "pushed_at": "2026-04-26T17:01:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 24203
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 24208
     }
   ]
 }

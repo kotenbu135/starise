@@ -4,6 +4,7 @@
   "name": "gogs",
   "full_name": "gogs/gogs",
   "description": "Gogs is a painless self-hosted Git service",
+  "description_ja": "",
   "url": "https://github.com/gogs/gogs",
   "homepage_url": "https://gogs.io",
   "language": "Go",
@@ -21,12 +22,12 @@
     "sqlite3",
     "version-control"
   ],
-  "star_count": 47494,
-  "fork_count": 5048,
+  "star_count": 47495,
+  "fork_count": 5050,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-02-12T01:57:08Z",
-  "updated_at": "2026-04-25T16:36:52Z",
+  "updated_at": "2026-04-26T15:03:47Z",
   "pushed_at": "2026-04-24T02:11:24Z",
   "deleted_at": "",
   "star_history": [
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 47494
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 47495
     }
   ]
 }

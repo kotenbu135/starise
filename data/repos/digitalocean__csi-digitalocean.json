@@ -4,6 +4,7 @@
   "name": "csi-digitalocean",
   "full_name": "digitalocean/csi-digitalocean",
   "description": "A Container Storage Interface (CSI) Driver  for DigitalOcean Block Storage",
+  "description_ja": "",
   "url": "https://github.com/digitalocean/csi-digitalocean",
   "homepage_url": "",
   "language": "Go",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 599
+    },
+    {
+      "date": "2026-04-26",
       "stars": 599
     }
   ]

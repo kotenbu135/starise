@@ -4,6 +4,7 @@
   "name": "geoip",
   "full_name": "v2fly/geoip",
   "description": "GeoIP for V2Ray. Generate and release GeoIP files such as geoip.dat and geoip-only-cn-private.dat for V2Ray automatically monthly.",
+  "description_ja": "",
   "url": "https://github.com/v2fly/geoip",
   "homepage_url": "https://www.v2fly.org",
   "language": "Go",
@@ -20,12 +21,12 @@
     "v2ray",
     "v2ray-core"
   ],
-  "star_count": 887,
-  "fork_count": 140,
+  "star_count": 888,
+  "fork_count": 141,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-07-23T04:04:03Z",
-  "updated_at": "2026-04-25T07:33:13Z",
+  "updated_at": "2026-04-26T12:02:22Z",
   "pushed_at": "2026-04-20T05:46:03Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 887
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 888
     }
   ]
 }

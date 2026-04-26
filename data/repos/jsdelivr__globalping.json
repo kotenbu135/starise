@@ -4,6 +4,7 @@
   "name": "globalping",
   "full_name": "jsdelivr/globalping",
   "description": "A global network of probes to run network tests like ping, traceroute and DNS resolve",
+  "description_ja": "",
   "url": "https://github.com/jsdelivr/globalping",
   "homepage_url": "https://globalping.io",
   "language": "TypeScript",
@@ -27,12 +28,12 @@
     "sysops",
     "traceroute"
   ],
-  "star_count": 505,
+  "star_count": 511,
   "fork_count": 51,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-19T19:25:39Z",
-  "updated_at": "2026-04-25T13:59:06Z",
+  "updated_at": "2026-04-26T11:46:28Z",
   "pushed_at": "2026-04-24T16:16:59Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 505
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 511
     }
   ]
 }

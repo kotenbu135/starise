@@ -4,6 +4,7 @@
   "name": "octopass",
   "full_name": "linyows/octopass",
   "description": "Octopass brings GitHub's team management to your Linux servers. No more manually managing /etc/passwd or distributing SSH keys — just add users to your GitHub team, and they're ready to SSH into your servers.",
+  "description_ja": "",
   "url": "https://github.com/linyows/octopass",
   "homepage_url": "https://octopass.linyo.ws",
   "language": "Zig",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 143
+    },
+    {
+      "date": "2026-04-26",
       "stars": 143
     }
   ]

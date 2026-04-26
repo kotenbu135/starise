@@ -4,6 +4,7 @@
   "name": "tokenizers",
   "full_name": "huggingface/tokenizers",
   "description": "💥 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+  "description_ja": "",
   "url": "https://github.com/huggingface/tokenizers",
   "homepage_url": "https://huggingface.co/docs/tokenizers",
   "language": "Rust",
@@ -17,12 +18,12 @@
     "nlp",
     "transformers"
   ],
-  "star_count": 10670,
-  "fork_count": 1075,
+  "star_count": 10673,
+  "fork_count": 1078,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-11-01T17:52:20Z",
-  "updated_at": "2026-04-25T15:34:16Z",
+  "updated_at": "2026-04-26T13:45:07Z",
   "pushed_at": "2026-04-24T10:13:16Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 10670
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 10673
     }
   ]
 }

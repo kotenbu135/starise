@@ -4,6 +4,7 @@
   "name": "cluster-api-provider-hetzner",
   "full_name": "syself/cluster-api-provider-hetzner",
   "description": "Cluster API Provider Hetzner :rocket: The best way to manage Kubernetes clusters on Hetzner, fully declarative, Kubernetes-native and with self-healing capabilities",
+  "description_ja": "",
   "url": "https://github.com/syself/cluster-api-provider-hetzner",
   "homepage_url": "https://caph.syself.com",
   "language": "Go",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1102
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1102
     }
   ]

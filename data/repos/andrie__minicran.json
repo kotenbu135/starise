@@ -4,6 +4,7 @@
   "name": "minicran",
   "full_name": "andrie/minicran",
   "description": "R package to create internally consistent, mini version of CRAN",
+  "description_ja": "[20] CRAN の内部整合性を保ったミニ版を作成する R パッケージ",
   "url": "https://github.com/andrie/miniCRAN",
   "homepage_url": "http://andrie.github.io/miniCRAN/",
   "language": "R",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 163
+    },
+    {
+      "date": "2026-04-26",
       "stars": 163
     }
   ]

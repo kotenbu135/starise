@@ -4,6 +4,7 @@
   "name": "stunk",
   "full_name": "i-am-abdulazeez/stunk",
   "description": "A framework-agnostic state management library that keeps your app’s state clean and simple. It uses a fine-grained state model, breaking state into independent, manageable chunks.",
+  "description_ja": "",
   "url": "https://github.com/I-am-abdulazeez/stunk",
   "homepage_url": "https://stunk.dev/",
   "language": "TypeScript",
@@ -21,7 +22,7 @@
     "zustand-alternative"
   ],
   "star_count": 168,
-  "fork_count": 12,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-27T10:29:15Z",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 168
+    },
+    {
+      "date": "2026-04-26",
       "stars": 168
     }
   ]

@@ -4,6 +4,7 @@
   "name": "ocaml-containers",
   "full_name": "c-cube/ocaml-containers",
   "description": "A lightweight, modular standard library extension, string library, and interfaces to various libraries (unix, threads, etc.) BSD license.",
+  "description_ja": "",
   "url": "https://github.com/c-cube/ocaml-containers",
   "homepage_url": "https://c-cube.github.io/ocaml-containers/",
   "language": "OCaml",
@@ -17,12 +18,12 @@
     "portable",
     "stdlib"
   ],
-  "star_count": 522,
+  "star_count": 520,
   "fork_count": 89,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-02-27T14:17:32Z",
-  "updated_at": "2026-04-24T16:30:50Z",
+  "updated_at": "2026-04-26T14:59:08Z",
   "pushed_at": "2026-04-24T16:31:44Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 522
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 520
     }
   ]
 }

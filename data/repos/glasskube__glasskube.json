@@ -4,6 +4,7 @@
   "name": "glasskube",
   "full_name": "glasskube/glasskube",
   "description": "🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.",
+  "description_ja": "",
   "url": "https://github.com/glasskube/glasskube",
   "homepage_url": "https://glasskube.dev/docs/",
   "language": "Go",
@@ -33,7 +34,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-11T19:19:34Z",
-  "updated_at": "2026-04-23T13:06:03Z",
+  "updated_at": "2026-04-26T16:11:03Z",
   "pushed_at": "2026-04-20T10:11:49Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3490
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3490
     }
   ]

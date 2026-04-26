@@ -4,6 +4,7 @@
   "name": "amazon-dynamodb-lock-client",
   "full_name": "awslabs/amazon-dynamodb-lock-client",
   "description": "The AmazonDynamoDBLockClient is a general purpose distributed locking library built on top of DynamoDB. It supports both coarse-grained and fine-grained locking.",
+  "description_ja": "",
   "url": "https://github.com/awslabs/amazon-dynamodb-lock-client",
   "homepage_url": "",
   "language": "Java",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 516
+    },
+    {
+      "date": "2026-04-26",
       "stars": 516
     }
   ]

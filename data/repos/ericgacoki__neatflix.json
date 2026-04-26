@@ -4,6 +4,7 @@
   "name": "neatflix",
   "full_name": "ericgacoki/neatflix",
   "description": "An android app built using Jetpack Compose that consumes TMDB API to display the current trending, upcoming, top rated, and popular movies and tv-shows. It also suggests films based on your watch list.",
+  "description_ja": "",
   "url": "https://github.com/Ericgacoki/NeatFlix",
   "homepage_url": "",
   "language": "Kotlin",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 301
+    },
+    {
+      "date": "2026-04-26",
       "stars": 301
     }
   ]

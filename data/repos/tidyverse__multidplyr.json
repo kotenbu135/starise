@@ -4,6 +4,7 @@
   "name": "multidplyr",
   "full_name": "tidyverse/multidplyr",
   "description": "A dplyr backend that partitions a data frame over multiple processes",
+  "description_ja": "",
   "url": "https://github.com/tidyverse/multidplyr",
   "homepage_url": "https://multidplyr.tidyverse.org",
   "language": "R",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 649
+    },
+    {
+      "date": "2026-04-26",
       "stars": 649
     }
   ]

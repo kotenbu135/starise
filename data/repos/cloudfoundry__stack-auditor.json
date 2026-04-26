@@ -4,6 +4,7 @@
   "name": "stack-auditor",
   "full_name": "cloudfoundry/stack-auditor",
   "description": "Stack Auditor is a cf CLI plugin that provides commands for listing apps and their stacks, migrating apps to a new stack, and deleting a stack.",
+  "description_ja": "",
   "url": "https://github.com/cloudfoundry/stack-auditor",
   "homepage_url": "https://docs.cloudfoundry.org/adminguide/stack-auditor.html",
   "language": "Go",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

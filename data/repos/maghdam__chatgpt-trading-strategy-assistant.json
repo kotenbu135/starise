@@ -4,6 +4,7 @@
   "name": "chatgpt-trading-strategy-assistant",
   "full_name": "maghdam/chatgpt-trading-strategy-assistant",
   "description": "Fully automated pipeline using FastAPI, cTrader Open API, and Docker. Analyze charts, journal trades to Notion, and place market/limit/stop orders across Forex, indices, and stocks — all in natural language (English, French, Spanish, and more) through ChatGPT.",
+  "description_ja": "",
   "url": "https://github.com/maghdam/chatgpt-trading-strategy-assistant",
   "homepage_url": "",
   "language": "Python",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 37
+    },
+    {
+      "date": "2026-04-26",
       "stars": 37
     }
   ]

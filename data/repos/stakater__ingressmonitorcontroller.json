@@ -4,6 +4,7 @@
   "name": "ingressmonitorcontroller",
   "full_name": "stakater/ingressmonitorcontroller",
   "description": "A Kubernetes controller to watch ingresses and create liveness alerts for your apps/microservices in UptimeRobot, StatusCake, Pingdom, etc.  – [✩Star] if you're using it!",
+  "description_ja": "",
   "url": "https://github.com/stakater/IngressMonitorController",
   "homepage_url": "https://stakater.com",
   "language": "Go",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 726
+    },
+    {
+      "date": "2026-04-26",
       "stars": 726
     }
   ]

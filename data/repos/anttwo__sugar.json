@@ -4,6 +4,7 @@
   "name": "sugar",
   "full_name": "anttwo/sugar",
   "description": "[CVPR 2024] Official PyTorch implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering",
+  "description_ja": "[CVPR 2024] SuGaR: 効率的な3Dメッシュ再構成と高品質メッシュレンダリングのためのSurface-Aligned Gaussian Splattingの公式PyTorch実装。",
   "url": "https://github.com/Anttwo/SuGaR",
   "homepage_url": "https://anttwo.github.io/sugar/",
   "language": "C++",
@@ -19,12 +20,12 @@
     "neural-rendering",
     "surface-reconstruction"
   ],
-  "star_count": 3316,
+  "star_count": 3321,
   "fork_count": 293,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-27T02:49:09Z",
-  "updated_at": "2026-04-25T08:30:39Z",
+  "updated_at": "2026-04-26T09:29:41Z",
   "pushed_at": "2024-09-24T15:13:31Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 3316
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3321
     }
   ]
 }

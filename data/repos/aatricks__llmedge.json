@@ -4,6 +4,7 @@
   "name": "llmedge",
   "full_name": "aatricks/llmedge",
   "description": "Android native AI inference library, bringing  gguf models and stable-diffusion inference on android devices, powered by llama.cpp and stable-diffusion.cpp",
+  "description_ja": "Android向けネイティブAI推論ライブラリ。llama.cppとstable-diffusion.cppを基盤に、ggufモデルとstable-diffusion推論をAndroid端末で実現。",
   "url": "https://github.com/Aatricks/llmedge",
   "homepage_url": "https://aatricks.github.io/llmedge/",
   "language": "Kotlin",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 42
+    },
+    {
+      "date": "2026-04-26",
       "stars": 42
     }
   ]

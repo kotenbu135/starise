@@ -4,6 +4,7 @@
   "name": "dconf2nix",
   "full_name": "nix-community/dconf2nix",
   "description": ":feet: Convert dconf files (e.g. GNOME Shell) to Nix, as expected by Home Manager [maintainer=@jtojnar]",
+  "description_ja": "",
   "url": "https://github.com/nix-community/dconf2nix",
   "homepage_url": "",
   "language": "Nix",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 300
+    },
+    {
+      "date": "2026-04-26",
       "stars": 300
     }
   ]

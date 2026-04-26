@@ -4,6 +4,7 @@
   "name": "wassette",
   "full_name": "microsoft/wassette",
   "description": "Wassette: A security-oriented runtime that runs WebAssembly Components via MCP",
+  "description_ja": "",
   "url": "https://github.com/microsoft/wassette",
   "homepage_url": "https://microsoft.github.io/wassette/",
   "language": "Rust",
@@ -19,12 +20,12 @@
     "wasm-component",
     "wasmtime"
   ],
-  "star_count": 880,
+  "star_count": 879,
   "fork_count": 60,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-15T07:48:43Z",
-  "updated_at": "2026-04-25T06:31:22Z",
+  "updated_at": "2026-04-26T08:26:49Z",
   "pushed_at": "2026-04-23T02:05:38Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 880
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 879
     }
   ]
 }

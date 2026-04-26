@@ -4,6 +4,7 @@
   "name": "open-agent-auth",
   "full_name": "alibaba/open-agent-auth",
   "description": "An enterprise framework implementing the Agent Operation Authorization protocol with cryptographic identity binding, fine-grained authorization, and semantic audit trails for secure AI agent operations.",
+  "description_ja": "[48] 暗号学的 ID バインディング、きめ細かな認可、セマンティック監査証跡により AI エージェント操作のセキュリティを担保する、Agent Operation Authorization プロトコル実装のエンタープライズ向けフレームワーク",
   "url": "https://github.com/alibaba/open-agent-auth",
   "homepage_url": "https://alibaba.github.io/open-agent-auth/",
   "language": "Java",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 45
+    },
+    {
+      "date": "2026-04-26",
       "stars": 45
     }
   ]

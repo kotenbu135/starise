@@ -4,6 +4,7 @@
   "name": "tun2socks",
   "full_name": "xjasonlyu/tun2socks",
   "description": "tun2socks - powered by gVisor TCP/IP stack",
+  "description_ja": "",
   "url": "https://github.com/xjasonlyu/tun2socks",
   "homepage_url": "https://github.com/xjasonlyu/tun2socks/wiki",
   "language": "Go",
@@ -28,12 +29,12 @@
     "udp",
     "wireguard"
   ],
-  "star_count": 5070,
+  "star_count": 5072,
   "fork_count": 597,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-07-16T03:25:40Z",
-  "updated_at": "2026-04-25T17:45:52Z",
+  "updated_at": "2026-04-26T13:19:03Z",
   "pushed_at": "2026-03-30T22:13:23Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 5070
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5072
     }
   ]
 }

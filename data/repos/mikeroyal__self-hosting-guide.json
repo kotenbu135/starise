@@ -4,6 +4,7 @@
   "name": "self-hosting-guide",
   "full_name": "mikeroyal/self-hosting-guide",
   "description": "Self-Hosting Guide. Learn all about  locally hosting (on premises \u0026 private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+  "description_ja": "",
   "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
   "homepage_url": "",
   "language": "Dockerfile",
@@ -30,12 +31,12 @@
     "ssh",
     "wireguard"
   ],
-  "star_count": 19516,
-  "fork_count": 970,
+  "star_count": 19527,
+  "fork_count": 969,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-06T20:03:15Z",
-  "updated_at": "2026-04-25T16:49:44Z",
+  "updated_at": "2026-04-26T16:14:04Z",
   "pushed_at": "2025-06-27T01:51:16Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 19516
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 19527
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "vox",
   "full_name": "mrtozner/vox",
   "description": "Local voice AI framework for Rust. Whisper + LLM + TTS with no cloud dependencies.",
+  "description_ja": "",
   "url": "https://github.com/mrtozner/vox",
   "homepage_url": "",
   "language": "Rust",
@@ -20,18 +21,22 @@
     "voice-ai",
     "whisper"
   ],
-  "star_count": 30,
+  "star_count": 31,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T14:27:06Z",
-  "updated_at": "2026-04-24T21:09:23Z",
+  "updated_at": "2026-04-26T08:47:38Z",
   "pushed_at": "2026-04-12T15:16:10Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-25",
       "stars": 30
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 31
     }
   ]
 }

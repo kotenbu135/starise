@@ -4,6 +4,7 @@
   "name": "camilladsp",
   "full_name": "henquist/camilladsp",
   "description": "A flexible cross-platform IIR and FIR engine for crossovers, room correction etc.",
+  "description_ja": "",
   "url": "https://github.com/HEnquist/camilladsp",
   "homepage_url": "https://henquist.github.io/",
   "language": "Rust",
@@ -18,13 +19,13 @@
     "pulseaudio",
     "wasapi"
   ],
-  "star_count": 889,
-  "fork_count": 87,
+  "star_count": 890,
+  "fork_count": 88,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-11-28T19:40:03Z",
-  "updated_at": "2026-04-23T14:17:36Z",
-  "pushed_at": "2026-04-24T21:36:09Z",
+  "updated_at": "2026-04-25T19:26:39Z",
+  "pushed_at": "2026-04-26T14:16:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 889
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 890
     }
   ]
 }

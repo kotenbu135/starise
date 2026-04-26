@@ -4,6 +4,7 @@
   "name": "vouch-proxy",
   "full_name": "vouch/vouch-proxy",
   "description": "an SSO and OAuth / OIDC login solution for Nginx using the auth_request module",
+  "description_ja": "",
   "url": "https://github.com/vouch/vouch-proxy",
   "homepage_url": "",
   "language": "Go",
@@ -20,12 +21,12 @@
     "sso-login",
     "sso-solution"
   ],
-  "star_count": 3253,
-  "fork_count": 332,
+  "star_count": 3254,
+  "fork_count": 333,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-07-21T20:16:12Z",
-  "updated_at": "2026-04-24T18:01:40Z",
+  "updated_at": "2026-04-25T22:00:39Z",
   "pushed_at": "2025-07-25T00:42:45Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 3253
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3254
     }
   ]
 }

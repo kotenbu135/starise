@@ -4,6 +4,7 @@
   "name": "bailing",
   "full_name": "wwbin2017/bailing",
   "description": "百聆 是一个类似GPT-4o的语音对话机器人，通过ASR+LLM+TTS实现，集成DeepSeek R1等优秀大模型，接入openClaw，真正的个人语音助手，时延低至800ms，Mac等低配置也可运行，支持打断",
+  "description_ja": "",
   "url": "https://github.com/wwbin2017/bailing",
   "homepage_url": "",
   "language": "Python",
@@ -22,12 +23,12 @@
     "tts",
     "voice-assistant"
   ],
-  "star_count": 1676,
+  "star_count": 1675,
   "fork_count": 293,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-25T08:52:46Z",
-  "updated_at": "2026-04-24T15:55:05Z",
+  "updated_at": "2026-04-26T05:49:24Z",
   "pushed_at": "2026-04-06T04:21:13Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 1676
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1675
     }
   ]
 }

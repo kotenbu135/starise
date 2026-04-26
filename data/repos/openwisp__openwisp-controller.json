@@ -4,6 +4,7 @@
   "name": "openwisp-controller",
   "full_name": "openwisp/openwisp-controller",
   "description": "Network and WiFi controller: provisioning, configuration management and updates, (pull via openwisp-config or push via SSH), x509 PKI management and more. Mainly OpenWRT, but designed to work also on other systems.",
+  "description_ja": "",
   "url": "https://github.com/openwisp/openwisp-controller",
   "homepage_url": "https://openwisp.io/docs/stable/controller/",
   "language": "Python",
@@ -26,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-12-27T09:46:14Z",
-  "updated_at": "2026-04-24T18:53:24Z",
-  "pushed_at": "2026-04-22T17:02:03Z",
+  "updated_at": "2026-04-25T17:53:21Z",
+  "pushed_at": "2026-04-25T17:53:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 745
+    },
+    {
+      "date": "2026-04-26",
       "stars": 745
     }
   ]

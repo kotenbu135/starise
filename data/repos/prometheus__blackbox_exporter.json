@@ -4,6 +4,7 @@
   "name": "blackbox_exporter",
   "full_name": "prometheus/blackbox_exporter",
   "description": "Blackbox prober exporter",
+  "description_ja": "",
   "url": "https://github.com/prometheus/blackbox_exporter",
   "homepage_url": "https://prometheus.io",
   "language": "Go",
@@ -14,12 +15,12 @@
     "prometheus",
     "prometheus-exporter"
   ],
-  "star_count": 5656,
+  "star_count": 5657,
   "fork_count": 1192,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-09-05T14:45:00Z",
-  "updated_at": "2026-04-25T14:51:07Z",
+  "updated_at": "2026-04-26T04:01:05Z",
   "pushed_at": "2026-04-16T10:26:48Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 5656
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5657
     }
   ]
 }

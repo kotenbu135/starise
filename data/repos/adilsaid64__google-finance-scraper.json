@@ -4,6 +4,7 @@
   "name": "google-finance-scraper",
   "full_name": "adilsaid64/google-finance-scraper",
   "description": "Scraping Google Finance with BeautifulSoup to create a portfolio tracker. Scraped data is stored into an SQLite database.",
+  "description_ja": "[21] BeautifulSoupでGoogle Financeをスクレイピングしてポートフォリオトラッカーを作成。スクレイピングしたデータはSQLiteデータベースに保存",
   "url": "https://github.com/adilsaid64/google-finance-scraper",
   "homepage_url": "",
   "language": "Python",
@@ -13,12 +14,12 @@
     "nosql-database",
     "web-scraping"
   ],
-  "star_count": 83,
+  "star_count": 84,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-10T21:54:41Z",
-  "updated_at": "2026-04-19T22:41:36Z",
+  "updated_at": "2026-04-26T01:28:52Z",
   "pushed_at": "2026-04-19T22:41:33Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 83
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 84
     }
   ]
 }

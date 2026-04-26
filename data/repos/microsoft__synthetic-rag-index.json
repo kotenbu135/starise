@@ -4,6 +4,7 @@
   "name": "synthetic-rag-index",
   "full_name": "microsoft/synthetic-rag-index",
   "description": "Service to import data from various sources and index it in AI Search. Increases data relevance and reduces final size by 90%+. Useful for RAG scenarios with LLM. Hosted in Azure with serverless architecture.",
+  "description_ja": "",
   "url": "https://github.com/microsoft/synthetic-rag-index",
   "homepage_url": "",
   "language": "Python",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 37
+    },
+    {
+      "date": "2026-04-26",
       "stars": 37
     }
   ]

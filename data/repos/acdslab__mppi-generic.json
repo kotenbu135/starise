@@ -4,6 +4,7 @@
   "name": "mppi-generic",
   "full_name": "acdslab/mppi-generic",
   "description": "Templated C++/CUDA implementation of Model Predictive Path Integral Control (MPPI)",
+  "description_ja": "[3] Model Predictive Path Integral Control (MPPI) のテンプレート化された C++/CUDA 実装",
   "url": "https://github.com/ACDSLab/MPPI-Generic",
   "homepage_url": "https://acdslab.github.io/mppi-generic-website/",
   "language": "Cuda",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 268
+    },
+    {
+      "date": "2026-04-26",
       "stars": 268
     }
   ]

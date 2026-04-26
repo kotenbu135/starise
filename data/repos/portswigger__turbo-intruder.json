@@ -4,6 +4,7 @@
   "name": "turbo-intruder",
   "full_name": "portswigger/turbo-intruder",
   "description": "Turbo Intruder is a Burp Suite extension for sending large numbers of HTTP requests and analyzing the results.",
+  "description_ja": "",
   "url": "https://github.com/PortSwigger/turbo-intruder",
   "homepage_url": "https://portswigger.net/blog/turbo-intruder-embracing-the-billion-request-attack",
   "language": "Kotlin",
@@ -11,12 +12,12 @@
   "topics": [
     "extension"
   ],
-  "star_count": 1752,
+  "star_count": 1753,
   "fork_count": 234,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-01-16T09:04:28Z",
-  "updated_at": "2026-04-20T18:31:14Z",
+  "updated_at": "2026-04-25T20:37:17Z",
   "pushed_at": "2025-12-15T13:02:57Z",
   "deleted_at": "",
   "star_history": [
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 1752
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1753
     }
   ]
 }

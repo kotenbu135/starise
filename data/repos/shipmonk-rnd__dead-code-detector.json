@@ -4,6 +4,7 @@
   "name": "dead-code-detector",
   "full_name": "shipmonk-rnd/dead-code-detector",
   "description": "💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Laravel, Symfony, Twig, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. Able to detect dead code used only in tests. Finds unused methods, constants, properties and enum cases.",
+  "description_ja": "",
   "url": "https://github.com/shipmonk-rnd/dead-code-detector",
   "homepage_url": "",
   "language": "PHP",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 458
+    },
+    {
+      "date": "2026-04-26",
       "stars": 458
     }
   ]

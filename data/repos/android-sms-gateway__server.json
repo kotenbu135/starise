@@ -4,6 +4,7 @@
   "name": "server",
   "full_name": "android-sms-gateway/server",
   "description": "The SMS Gateway for Android™ Server enables the dispatch of SMS messages through Android devices without requiring direct Internet access to them.",
+  "description_ja": "[32] Android™ 向け SMS Gateway Server。直接インターネット接続不要で Android デバイス経由の SMS 送信を可能にする",
   "url": "https://github.com/android-sms-gateway/server",
   "homepage_url": "https://docs.sms-gate.app",
   "language": "Go",
@@ -18,12 +19,12 @@
     "server",
     "sms-gateway"
   ],
-  "star_count": 110,
+  "star_count": 111,
   "fork_count": 42,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-29T06:37:33Z",
-  "updated_at": "2026-04-25T12:20:36Z",
+  "updated_at": "2026-04-25T17:35:33Z",
   "pushed_at": "2026-04-24T04:55:50Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 110
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 111
     }
   ]
 }

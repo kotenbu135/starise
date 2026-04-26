@@ -4,6 +4,7 @@
   "name": "px4-sitl_gazebo-classic",
   "full_name": "px4/px4-sitl_gazebo-classic",
   "description": "Set of plugins, models and worlds to use with OSRF Gazebo Simulator in SITL and HITL.",
+  "description_ja": "",
   "url": "https://github.com/PX4/PX4-SITL_gazebo-classic",
   "homepage_url": "http://dev.px4.io/simulation-gazebo.html",
   "language": "C++",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 449
+    },
+    {
+      "date": "2026-04-26",
       "stars": 449
     }
   ]

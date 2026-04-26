@@ -4,6 +4,7 @@
   "name": "thingsboard-gateway",
   "full_name": "thingsboard/thingsboard-gateway",
   "description": "Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with ThingsBoard IoT Platform using Modbus, CAN bus, BACnet, BLE, OPC-UA, MQTT, ODBC and REST protocols.",
+  "description_ja": "",
   "url": "https://github.com/thingsboard/thingsboard-gateway",
   "homepage_url": "https://thingsboard.io/docs/iot-gateway/what-is-iot-gateway/",
   "language": "Python",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2118
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2118
     }
   ]

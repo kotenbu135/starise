@@ -4,6 +4,7 @@
   "name": "mariadb-galera",
   "full_name": "wilgat/mariadb-galera",
   "description": "A robust, extremely defensive **Bash** script that installs MariaDB 11.8 + Galera, manages cluster IP addresses and guides you through bootstrap vs join setup.",
+  "description_ja": "",
   "url": "https://github.com/Wilgat/mariadb-galera",
   "homepage_url": "",
   "language": "Shell",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 51
+    },
+    {
+      "date": "2026-04-26",
       "stars": 51
     }
   ]

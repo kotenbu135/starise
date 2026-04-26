@@ -4,6 +4,7 @@
   "name": "xunit.stafact",
   "full_name": "aarnott/xunit.stafact",
   "description": "Run your xunit-based tests on an STA thread with the WPF Dispatcher, a WinForms SynchronizationContext, or even a cross-platform generic UI thread emulation with a SynchronizationContext that keeps code running on a \"main thread\" for that test.",
+  "description_ja": "xunitベースのテストを、STAスレッド上でWPF Dispatcher、WinForms SynchronizationContext、またはクロスプラットフォーム汎用UIスレッドエミュレーション（テスト中コードを「メインスレッド」上で実行し続けるSynchronizationContext）で実行可能にする。",
   "url": "https://github.com/AArnott/Xunit.StaFact",
   "homepage_url": "http://aarnott.github.io/Xunit.StaFact/",
   "language": "C#",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 98
+    },
+    {
+      "date": "2026-04-26",
       "stars": 98
     }
   ]

@@ -4,17 +4,18 @@
   "name": "baseimage-docker",
   "full_name": "phusion/baseimage-docker",
   "description": "A minimal Ubuntu base image modified for Docker-friendliness",
+  "description_ja": "",
   "url": "https://github.com/phusion/baseimage-docker",
   "homepage_url": "http://phusion.github.io/baseimage-docker/",
   "language": "Shell",
   "license": "MIT",
   "topics": [],
-  "star_count": 9094,
+  "star_count": 9095,
   "fork_count": 1080,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-11-12T10:41:02Z",
-  "updated_at": "2026-04-23T23:15:07Z",
+  "updated_at": "2026-04-26T01:03:54Z",
   "pushed_at": "2026-03-15T10:24:42Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 9094
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9095
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "ros2_unbag",
   "full_name": "ika-rwth-aachen/ros2_unbag",
   "description": "A ROS 2 tool for exporting bags to human readable files. Supports pluggable export routines to handle any message type.",
+  "description_ja": "",
   "url": "https://github.com/ika-rwth-aachen/ros2_unbag",
   "homepage_url": "",
   "language": "Python",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 178
+    },
+    {
+      "date": "2026-04-26",
       "stars": 178
     }
   ]

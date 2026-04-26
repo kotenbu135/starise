@@ -4,6 +4,7 @@
   "name": "microk8s",
   "full_name": "canonical/microk8s",
   "description": "MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.",
+  "description_ja": "",
   "url": "https://github.com/canonical/microk8s",
   "homepage_url": "https://microk8s.io",
   "language": "Python",
@@ -22,8 +23,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-05-09T09:19:36Z",
-  "updated_at": "2026-04-25T14:36:30Z",
-  "pushed_at": "2026-04-23T10:34:50Z",
+  "updated_at": "2026-04-26T10:50:29Z",
+  "pushed_at": "2026-04-26T10:19:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9269
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9269
     }
   ]

@@ -4,6 +4,7 @@
   "name": "gin",
   "full_name": "gin-gonic/gin",
   "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+  "description_ja": "",
   "url": "https://github.com/gin-gonic/gin",
   "homepage_url": "https://gin-gonic.com/",
   "language": "Go",
@@ -17,12 +18,12 @@
     "router",
     "server"
   ],
-  "star_count": 88378,
-  "fork_count": 8583,
+  "star_count": 88382,
+  "fork_count": 8582,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-06-16T23:57:25Z",
-  "updated_at": "2026-04-25T16:59:38Z",
+  "updated_at": "2026-04-26T14:55:29Z",
   "pushed_at": "2026-04-22T22:32:49Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 88378
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 88382
     }
   ]
 }

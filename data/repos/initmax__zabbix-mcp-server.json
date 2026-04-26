@@ -4,6 +4,7 @@
   "name": "zabbix-mcp-server",
   "full_name": "initmax/zabbix-mcp-server",
   "description": "MCP server for the complete Zabbix API — 231 tools, multi-server support, bearer auth, systemd ready. Works with ChatGPT, Claude, VS Code, Codex, JetBrains and any MCP client.",
+  "description_ja": "",
   "url": "https://github.com/initMAX/zabbix-mcp-server",
   "homepage_url": "https://www.initmax.com",
   "language": "Python",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 79
+    },
+    {
+      "date": "2026-04-26",
       "stars": 79
     }
   ]

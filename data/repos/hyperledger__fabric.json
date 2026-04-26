@@ -4,6 +4,7 @@
   "name": "fabric",
   "full_name": "hyperledger/fabric",
   "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+  "description_ja": "",
   "url": "https://github.com/hyperledger/fabric",
   "homepage_url": "https://lf-hyperledger.atlassian.net/wiki/spaces/fabric",
   "language": "Go",
@@ -17,11 +18,11 @@
     "hyperledger"
   ],
   "star_count": 16633,
-  "fork_count": 9119,
+  "fork_count": 9120,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-08-25T16:05:27Z",
-  "updated_at": "2026-04-25T16:38:01Z",
+  "updated_at": "2026-04-26T15:58:47Z",
   "pushed_at": "2026-04-24T20:43:27Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 16633
+    },
+    {
+      "date": "2026-04-26",
       "stars": 16633
     }
   ]

@@ -4,6 +4,7 @@
   "name": "mdcx-docker",
   "full_name": "northsea4/mdcx-docker",
   "description": " 在Docker容器中运行 MDCX，并通过Web界面或远程桌面进行控制。Run MDCX in a Docker container, accessible and controllable via a web interface or remote desktop.",
+  "description_ja": "",
   "url": "https://github.com/northsea4/mdcx-docker",
   "homepage_url": "",
   "language": "Shell",
@@ -14,12 +15,12 @@
     "rdp",
     "webtop"
   ],
-  "star_count": 855,
+  "star_count": 857,
   "fork_count": 95,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-29T08:09:17Z",
-  "updated_at": "2026-04-23T15:07:06Z",
+  "updated_at": "2026-04-26T14:27:06Z",
   "pushed_at": "2026-03-31T09:48:03Z",
   "deleted_at": "",
   "star_history": [
@@ -30,6 +31,10 @@
     {
       "date": "2026-04-25",
       "stars": 855
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 857
     }
   ]
 }

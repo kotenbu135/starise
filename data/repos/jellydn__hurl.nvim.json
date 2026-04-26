@@ -4,6 +4,7 @@
   "name": "hurl.nvim",
   "full_name": "jellydn/hurl.nvim",
   "description": "Hurl.nvim is a Neovim plugin designed to run HTTP requests directly from `.hurl` files. Elevate your API development workflow by executing and viewing responses without leaving your editor.",
+  "description_ja": "",
   "url": "https://github.com/jellydn/hurl.nvim",
   "homepage_url": "https://gyazo.com/19492e8b5366cec3f22d5fd97a63f37a",
   "language": "Lua",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 255
+    },
+    {
+      "date": "2026-04-26",
       "stars": 255
     }
   ]

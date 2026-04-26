@@ -4,6 +4,7 @@
   "name": "cx-jenkins-ci",
   "full_name": "iarsystems/cx-jenkins-ci",
   "description": "A CI workflow using IAR Build Tools, Jenkins and Gitea in Docker containers",
+  "description_ja": "",
   "url": "https://github.com/iarsystems/cx-jenkins-ci",
   "homepage_url": "https://iar.com/cx",
   "language": "Dockerfile",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 38
+    },
+    {
+      "date": "2026-04-26",
       "stars": 38
     }
   ]

@@ -4,6 +4,7 @@
   "name": "lws",
   "full_name": "kubernetes-sigs/lws",
   "description": "LeaderWorkerSet: An API for deploying a group of pods as a unit of replication",
+  "description_ja": "",
   "url": "https://github.com/kubernetes-sigs/lws",
   "homepage_url": "https://lws.sigs.k8s.io",
   "language": "Go",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 706
+    },
+    {
+      "date": "2026-04-26",
       "stars": 706
     }
   ]

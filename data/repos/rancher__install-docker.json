@@ -4,6 +4,7 @@
   "name": "install-docker",
   "full_name": "rancher/install-docker",
   "description": "Scripts for docker-machine to install a particular docker version",
+  "description_ja": "",
   "url": "https://github.com/rancher/install-docker",
   "homepage_url": "",
   "language": "Shell",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 385
+    },
+    {
+      "date": "2026-04-26",
       "stars": 385
     }
   ]

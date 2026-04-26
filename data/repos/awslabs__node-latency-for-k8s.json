@@ -4,6 +4,7 @@
   "name": "node-latency-for-k8s",
   "full_name": "awslabs/node-latency-for-k8s",
   "description": "The node-latency-for-k8s tool provides process-level telemetry via prometheus metrics, cloudwatch metrics, and markdown timing charts to optimized K8s node launch times.",
+  "description_ja": "",
   "url": "https://github.com/awslabs/node-latency-for-k8s",
   "homepage_url": "",
   "language": "Go",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 98
+    },
+    {
+      "date": "2026-04-26",
       "stars": 98
     }
   ]

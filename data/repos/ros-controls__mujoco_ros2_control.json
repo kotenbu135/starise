@@ -4,6 +4,7 @@
   "name": "mujoco_ros2_control",
   "full_name": "ros-controls/mujoco_ros2_control",
   "description": "Provides a ROS 2 control hardware interface for the MuJoCo physics simulator, including plugins for various sensors, RGB-D cameras, and lidar.",
+  "description_ja": "",
   "url": "https://github.com/ros-controls/mujoco_ros2_control",
   "homepage_url": "",
   "language": "Python",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 181
+    },
+    {
+      "date": "2026-04-26",
       "stars": 181
     }
   ]

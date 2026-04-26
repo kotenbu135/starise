@@ -4,6 +4,7 @@
   "name": "cairo-vm",
   "full_name": "starkware-libs/cairo-vm",
   "description": "cairo-vm is a Rust implementation of the Cairo VM. Cairo (CPU Algebraic Intermediate Representation) is a programming language for writing provable programs, where one party can prove to another that a certain computation was executed correctly without the need for this party to re-execute the same program.",
+  "description_ja": "",
   "url": "https://github.com/starkware-libs/cairo-vm",
   "homepage_url": "https://lambdaclass.github.io/cairo-vm",
   "language": "Rust",
@@ -18,12 +19,12 @@
     "zkp"
   ],
   "star_count": 583,
-  "fork_count": 222,
+  "fork_count": 221,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-26T15:13:05Z",
   "updated_at": "2026-04-24T16:25:03Z",
-  "pushed_at": "2026-04-22T15:06:03Z",
+  "pushed_at": "2026-04-26T09:00:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 583
+    },
+    {
+      "date": "2026-04-26",
       "stars": 583
     }
   ]

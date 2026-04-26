@@ -4,6 +4,7 @@
   "name": "cctag",
   "full_name": "alicevision/cctag",
   "description": "Detection of CCTag markers made up of concentric circles.",
+  "description_ja": "[23] 同心円で構成された CCTag マーカーの検出。",
   "url": "https://github.com/alicevision/CCTag",
   "homepage_url": "https://cctag.readthedocs.io",
   "language": "C++",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 405
+    },
+    {
+      "date": "2026-04-26",
       "stars": 405
     }
   ]

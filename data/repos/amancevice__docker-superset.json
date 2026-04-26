@@ -4,6 +4,7 @@
   "name": "docker-superset",
   "full_name": "amancevice/docker-superset",
   "description": "Docker image for Airbnb's Superset",
+  "description_ja": "AirbnbのSuperset用Dockerイメージ",
   "url": "https://github.com/amancevice/docker-superset",
   "homepage_url": "https://hub.docker.com/r/amancevice/superset/",
   "language": "Dockerfile",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 991
+    },
+    {
+      "date": "2026-04-26",
       "stars": 991
     }
   ]

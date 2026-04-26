@@ -4,6 +4,7 @@
   "name": "mcp-toolbox",
   "full_name": "googleapis/mcp-toolbox",
   "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+  "description_ja": "",
   "url": "https://github.com/googleapis/mcp-toolbox",
   "homepage_url": "https://mcp-toolbox.dev/documentation/introduction/",
   "language": "Go",
@@ -30,12 +31,12 @@
     "spanner",
     "tidb"
   ],
-  "star_count": 14811,
-  "fork_count": 1480,
+  "star_count": 14817,
+  "fork_count": 1481,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-07T20:52:54Z",
-  "updated_at": "2026-04-25T15:02:55Z",
+  "updated_at": "2026-04-26T16:53:47Z",
   "pushed_at": "2026-04-25T05:41:20Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 14811
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 14817
     }
   ]
 }

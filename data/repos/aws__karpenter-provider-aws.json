@@ -4,17 +4,18 @@
   "name": "karpenter-provider-aws",
   "full_name": "aws/karpenter-provider-aws",
   "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+  "description_ja": "",
   "url": "https://github.com/aws/karpenter-provider-aws",
   "homepage_url": "https://karpenter.sh",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 7616,
+  "star_count": 7617,
   "fork_count": 1245,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-07-09T22:04:22Z",
-  "updated_at": "2026-04-25T00:39:57Z",
+  "updated_at": "2026-04-25T21:31:28Z",
   "pushed_at": "2026-04-25T00:39:52Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 7616
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 7617
     }
   ]
 }

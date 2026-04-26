@@ -4,6 +4,7 @@
   "name": "neurondb",
   "full_name": "neurondb/neurondb",
   "description": "NeuronDB PostgreSQL extension: vector similarity search (HNSW, IVFFlat), embeddings, kNN, ML in SQL, and hybrid full-text + vector retrieval.",
+  "description_ja": "",
   "url": "https://github.com/neurondb/neurondb",
   "homepage_url": "https://www.neurondb.ai",
   "language": "C",
@@ -47,6 +48,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 45
+    },
+    {
+      "date": "2026-04-26",
       "stars": 45
     }
   ]

@@ -3,7 +3,8 @@
   "owner": "openstudy-dev",
   "name": "openstudy",
   "full_name": "openstudy-dev/openstudy",
-  "description": "Self-hostable study dashboard with a built-in MCP server so Claude can read, write, and teach from your courses, lectures, and deadlines — Making better use of your Claude subscription",
+  "description": "Self-hostable study dashboard with a built-in MCP server so Claude can read, write, and teach from your courses, lectures, and deadlines — Making better use of your Claude/ChatGPT subscription",
+  "description_ja": "",
   "url": "https://github.com/OpenStudy-dev/OpenStudy",
   "homepage_url": "",
   "language": "TypeScript",
@@ -26,13 +27,13 @@
     "tailwindcss",
     "typescript"
   ],
-  "star_count": 45,
-  "fork_count": 4,
+  "star_count": 50,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T12:58:58Z",
-  "updated_at": "2026-04-24T15:16:57Z",
-  "pushed_at": "2026-04-24T15:16:54Z",
+  "updated_at": "2026-04-26T17:28:05Z",
+  "pushed_at": "2026-04-26T17:28:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 45
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 50
     }
   ]
 }

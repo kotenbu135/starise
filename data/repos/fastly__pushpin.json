@@ -4,6 +4,7 @@
   "name": "pushpin",
   "full_name": "fastly/pushpin",
   "description": "A proxy server for adding push to your API, used at the core of Fastly's Fanout service",
+  "description_ja": "",
   "url": "https://github.com/fastly/pushpin",
   "homepage_url": "https://pushpin.org",
   "language": "Rust",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3845
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3845
     }
   ]

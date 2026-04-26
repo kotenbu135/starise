@@ -4,6 +4,7 @@
   "name": "halo",
   "full_name": "4rtemi5/halo",
   "description": "A drop-in replacement for the standard Categorical Cross-Entropy (CCE) loss that significantly improves OOD and Calibration performance without reducing ID performance.",
+  "description_ja": "標準のCategorical Cross-Entropy (CCE)ロスのドロップイン代替。ID性能を損なわずにOODとキャリブレーション性能を大幅に改善",
   "url": "https://github.com/4rtemi5/halo",
   "homepage_url": "https://pisoni.ai/posts/halo/",
   "language": "Python",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 48
+    },
+    {
+      "date": "2026-04-26",
       "stars": 48
     }
   ]

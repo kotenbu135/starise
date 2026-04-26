@@ -4,6 +4,7 @@
   "name": "nimforue",
   "full_name": "jmgomez/nimforue",
   "description": "Nim plugin for UE5 with native performance, hot reloading and full interop that sits between C++ and Blueprints. This allows you to do common UE workflows like for example to extend any UE class in Nim and extending it again in Blueprint if you wish so without restarting the editor. The final aim is to be able to do in Nim what you can do in C++",
+  "description_ja": "",
   "url": "https://github.com/jmgomez/NimForUE",
   "homepage_url": "",
   "language": "Nim",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 540
+    },
+    {
+      "date": "2026-04-26",
       "stars": 540
     }
   ]

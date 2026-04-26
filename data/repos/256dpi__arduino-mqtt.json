@@ -4,6 +4,7 @@
   "name": "arduino-mqtt",
   "full_name": "256dpi/arduino-mqtt",
   "description": "MQTT library for Arduino",
+  "description_ja": "[49] Arduino 用 MQTT ライブラリ",
   "url": "https://github.com/256dpi/arduino-mqtt",
   "homepage_url": "",
   "language": "C",
@@ -13,12 +14,12 @@
     "iot",
     "mqtt"
   ],
-  "star_count": 1087,
+  "star_count": 1088,
   "fork_count": 243,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-11-30T21:02:07Z",
-  "updated_at": "2026-04-16T18:05:12Z",
+  "updated_at": "2026-04-25T19:14:42Z",
   "pushed_at": "2026-04-16T06:38:44Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 1087
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1088
     }
   ]
 }

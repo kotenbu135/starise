@@ -4,6 +4,7 @@
   "name": "application-gateway-kubernetes-ingress",
   "full_name": "azure/application-gateway-kubernetes-ingress",
   "description": "This is an ingress controller that can be run on Azure Kubernetes Service (AKS) to allow an Azure Application Gateway to act as the ingress for an AKS cluster.",
+  "description_ja": "",
   "url": "https://github.com/Azure/application-gateway-kubernetes-ingress",
   "homepage_url": "https://azure.github.io/application-gateway-kubernetes-ingress",
   "language": "Go",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 700
+    },
+    {
+      "date": "2026-04-26",
       "stars": 700
     }
   ]

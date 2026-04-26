@@ -4,6 +4,7 @@
   "name": "luci-app-amlogic",
   "full_name": "ophub/luci-app-amlogic",
   "description": "Supports managing OpenWrt on Amlogic, Allwinner, and Rockchip devices. include install and update the OpenWrt and kernel, Backup and Restore config, Snapshot management, etc.",
+  "description_ja": "",
   "url": "https://github.com/ophub/luci-app-amlogic",
   "homepage_url": "",
   "language": "Shell",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 387
+    },
+    {
+      "date": "2026-04-26",
       "stars": 387
     }
   ]

@@ -4,6 +4,7 @@
   "name": "certd",
   "full_name": "certd/certd",
   "description": "开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署",
+  "description_ja": "",
   "url": "https://github.com/certd/certd",
   "homepage_url": "https://certd.docmirror.cn/",
   "language": "JavaScript",
@@ -19,12 +20,12 @@
     "ssl-certificate"
   ],
   "star_count": 4637,
-  "fork_count": 537,
+  "fork_count": 538,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-12-13T00:08:01Z",
-  "updated_at": "2026-04-24T08:26:33Z",
-  "pushed_at": "2026-04-25T16:51:18Z",
+  "updated_at": "2026-04-26T06:10:39Z",
+  "pushed_at": "2026-04-26T16:58:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 4637
+    },
+    {
+      "date": "2026-04-26",
       "stars": 4637
     }
   ]

@@ -4,6 +4,7 @@
   "name": "waybar",
   "full_name": "alexays/waybar",
   "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
+  "description_ja": "Sway および Wlroots ベースのコンポジタ向けの高度にカスタマイズ可能な Wayland バー",
   "url": "https://github.com/Alexays/Waybar",
   "homepage_url": "",
   "language": "C++",
@@ -17,12 +18,12 @@
     "wayland",
     "wlroots"
   ],
-  "star_count": 11148,
-  "fork_count": 1034,
+  "star_count": 11152,
+  "fork_count": 1033,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-08-08T21:53:36Z",
-  "updated_at": "2026-04-25T16:07:15Z",
+  "updated_at": "2026-04-26T13:43:35Z",
   "pushed_at": "2026-04-22T18:50:48Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 11148
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 11152
     }
   ]
 }

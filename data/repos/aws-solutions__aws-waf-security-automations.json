@@ -4,6 +4,7 @@
   "name": "aws-waf-security-automations",
   "full_name": "aws-solutions/aws-waf-security-automations",
   "description": "This solution automatically deploys a single web access control list (web ACL) with a set of AWS WAF rules designed to filter common web-based attacks.",
+  "description_ja": "",
   "url": "https://github.com/aws-solutions/aws-waf-security-automations",
   "homepage_url": "https://aws.amazon.com/solutions/aws-waf-security-automations",
   "language": "Python",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 922
+    },
+    {
+      "date": "2026-04-26",
       "stars": 922
     }
   ]

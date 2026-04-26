@@ -4,6 +4,7 @@
   "name": "hexstrike-ai",
   "full_name": "0x4m4/hexstrike-ai",
   "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+  "description_ja": "HexStrike AI MCP Agents は、AI エージェント（Claude、GPT、Copilot など）が 150+ のサイバーセキュリティツールを自律的に実行できる高度な MCP サーバー。自動ペネトレーションテスト、脆弱性発見、バグバウンティ自動化、セキュリティ研究に対応。LLM と実際の攻撃的セキュリティ機能をシームレスに橋渡し",
   "url": "https://github.com/0x4m4/hexstrike-ai",
   "homepage_url": "https://www.hexstrike.com/",
   "language": "Python",
@@ -30,12 +31,12 @@
     "pentesting",
     "pentesting-tools"
   ],
-  "star_count": 8293,
-  "fork_count": 1803,
+  "star_count": 8300,
+  "fork_count": 1810,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-10T17:53:18Z",
-  "updated_at": "2026-04-25T16:57:11Z",
+  "updated_at": "2026-04-26T10:56:04Z",
   "pushed_at": "2026-03-06T22:35:52Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 8293
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8300
     }
   ]
 }

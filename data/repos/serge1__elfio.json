@@ -4,6 +4,7 @@
   "name": "elfio",
   "full_name": "serge1/elfio",
   "description": "ELFIO and ARIO are robust, header-only C++ libraries designed to make binary file and archive manipulation effortless, efficient, and portable. Whether you are building compilers, linkers, binary analysis tools, or custom build systems, these libraries provide the foundation you need for working with ELF files and UNIX archives.",
+  "description_ja": "",
   "url": "https://github.com/serge1/ELFIO",
   "homepage_url": "http://serge1.github.io/ELFIO",
   "language": "C++",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 865
+    },
+    {
+      "date": "2026-04-26",
       "stars": 865
     }
   ]

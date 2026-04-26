@@ -4,6 +4,7 @@
   "name": "scorecard-action",
   "full_name": "ossf/scorecard-action",
   "description": "Official GitHub Action for OpenSSF Scorecard.",
+  "description_ja": "",
   "url": "https://github.com/ossf/scorecard-action",
   "homepage_url": "",
   "language": "Go",
@@ -15,13 +16,13 @@
     "security",
     "supply-chain"
   ],
-  "star_count": 373,
+  "star_count": 374,
   "fork_count": 84,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-25T16:29:31Z",
-  "updated_at": "2026-04-24T18:06:56Z",
-  "pushed_at": "2026-04-24T21:13:37Z",
+  "updated_at": "2026-04-26T05:47:47Z",
+  "pushed_at": "2026-04-26T05:31:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 373
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 374
     }
   ]
 }

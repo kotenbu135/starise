@@ -4,6 +4,7 @@
   "name": "iree",
   "full_name": "iree-org/iree",
   "description": "A retargetable MLIR-based machine learning compiler and runtime toolkit.",
+  "description_ja": "",
   "url": "https://github.com/iree-org/iree",
   "homepage_url": "http://iree.dev/",
   "language": "C++",
@@ -21,13 +22,13 @@
     "tensorflow",
     "vulkan"
   ],
-  "star_count": 3733,
+  "star_count": 3735,
   "fork_count": 893,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-09-12T20:57:39Z",
-  "updated_at": "2026-04-25T10:41:23Z",
-  "pushed_at": "2026-04-25T14:19:57Z",
+  "updated_at": "2026-04-26T17:23:54Z",
+  "pushed_at": "2026-04-26T14:20:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 3733
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3735
     }
   ]
 }

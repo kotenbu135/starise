@@ -4,6 +4,7 @@
   "name": "woodpecker",
   "full_name": "woodpecker-ci/woodpecker",
   "description": "Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.",
+  "description_ja": "",
   "url": "https://github.com/woodpecker-ci/woodpecker",
   "homepage_url": "https://woodpecker-ci.org",
   "language": "Go",
@@ -17,13 +18,13 @@
     "kubernetes",
     "woodpeckerci"
   ],
-  "star_count": 6866,
+  "star_count": 6871,
   "fork_count": 550,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-03T18:06:38Z",
-  "updated_at": "2026-04-25T14:36:32Z",
-  "pushed_at": "2026-04-25T14:41:33Z",
+  "updated_at": "2026-04-26T17:12:57Z",
+  "pushed_at": "2026-04-26T13:43:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 6866
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6871
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "ringbuf",
   "full_name": "agerasev/ringbuf",
   "description": "Lock-free SPSC FIFO ring buffer with direct access to inner data",
+  "description_ja": "内部データへの直接アクセスが可能なロックフリーSPSC FIFOリングバッファ",
   "url": "https://github.com/agerasev/ringbuf",
   "homepage_url": "https://crates.io/crates/ringbuf",
   "language": "Rust",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 556
+    },
+    {
+      "date": "2026-04-26",
       "stars": 556
     }
   ]

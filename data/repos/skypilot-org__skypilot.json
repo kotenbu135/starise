@@ -4,6 +4,7 @@
   "name": "skypilot",
   "full_name": "skypilot-org/skypilot",
   "description": "Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access \u0026 manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).",
+  "description_ja": "",
   "url": "https://github.com/skypilot-org/skypilot",
   "homepage_url": "https://docs.skypilot.co/",
   "language": "Python",
@@ -29,13 +30,13 @@
     "spot-instances",
     "tpu"
   ],
-  "star_count": 9895,
-  "fork_count": 1044,
+  "star_count": 9901,
+  "fork_count": 1046,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-11T23:32:15Z",
-  "updated_at": "2026-04-25T16:43:23Z",
-  "pushed_at": "2026-04-25T15:25:16Z",
+  "updated_at": "2026-04-26T15:42:30Z",
+  "pushed_at": "2026-04-26T13:07:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 9895
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9901
     }
   ]
 }

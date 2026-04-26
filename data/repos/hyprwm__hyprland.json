@@ -4,6 +4,7 @@
   "name": "hyprland",
   "full_name": "hyprwm/hyprland",
   "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+  "description_ja": "",
   "url": "https://github.com/hyprwm/Hyprland",
   "homepage_url": "https://hypr.land",
   "language": "C++",
@@ -14,13 +15,13 @@
     "wayland",
     "wayland-compositor"
   ],
-  "star_count": 35270,
-  "fork_count": 1687,
+  "star_count": 35282,
+  "fork_count": 1689,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-03-16T19:49:13Z",
-  "updated_at": "2026-04-25T16:48:28Z",
-  "pushed_at": "2026-04-24T14:21:16Z",
+  "updated_at": "2026-04-26T17:03:28Z",
+  "pushed_at": "2026-04-26T14:16:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 35270
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 35282
     }
   ]
 }

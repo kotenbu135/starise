@@ -4,6 +4,7 @@
   "name": "postgresql_cursor",
   "full_name": "afair/postgresql_cursor",
   "description": "ActiveRecord PostgreSQL Adapter extension for using a cursor to return a large result set",
+  "description_ja": "[38] カーソルを使って大規模な結果セットを返すためのActiveRecord PostgreSQLアダプター拡張",
   "url": "https://github.com/afair/postgresql_cursor",
   "homepage_url": "",
   "language": "Ruby",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 649
+    },
+    {
+      "date": "2026-04-26",
       "stars": 649
     }
   ]

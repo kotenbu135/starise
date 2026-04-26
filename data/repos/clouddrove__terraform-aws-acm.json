@@ -4,6 +4,7 @@
   "name": "terraform-aws-acm",
   "full_name": "clouddrove/terraform-aws-acm",
   "description": "This terraform module is used for requesting or importing SSL/TLS certificate with validation.",
+  "description_ja": "",
   "url": "https://github.com/clouddrove/terraform-aws-acm",
   "homepage_url": "",
   "language": "HCL",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

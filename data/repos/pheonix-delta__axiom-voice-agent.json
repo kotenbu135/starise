@@ -4,6 +4,7 @@
   "name": "axiom-voice-agent",
   "full_name": "pheonix-delta/axiom-voice-agent",
   "description": "Run a \u003c400ms latency Voice Agent on just 4GB VRAM. Fully offline, no API keys required. Optimized for GTX 1650 and edge robotics with zero-copy inference. (Apache 2.0)",
+  "description_ja": "",
   "url": "https://github.com/pheonix-delta/axiom-voice-agent",
   "homepage_url": "",
   "language": "Python",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 118
+    },
+    {
+      "date": "2026-04-26",
       "stars": 118
     }
   ]

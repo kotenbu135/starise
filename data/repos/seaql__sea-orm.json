@@ -4,6 +4,7 @@
   "name": "sea-orm",
   "full_name": "seaql/sea-orm",
   "description": "🐚 A powerful relational ORM for Rust",
+  "description_ja": "",
   "url": "https://github.com/SeaQL/sea-orm",
   "homepage_url": "https://www.sea-ql.org/SeaORM/",
   "language": "Rust",
@@ -22,12 +23,12 @@
     "sqlx",
     "tokio"
   ],
-  "star_count": 9572,
-  "fork_count": 694,
+  "star_count": 9574,
+  "fork_count": 695,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-02-09T07:16:15Z",
-  "updated_at": "2026-04-24T13:47:39Z",
+  "updated_at": "2026-04-26T15:13:12Z",
   "pushed_at": "2026-04-22T16:28:26Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 9572
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9574
     }
   ]
 }

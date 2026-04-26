@@ -4,6 +4,7 @@
   "name": "rplidar_ros2_driver",
   "full_name": "frozenreboot/rplidar_ros2_driver",
   "description": "A heavily refactored, industrial-grade ROS 2 driver for Slamtec RPLIDAR. Features Lifecycle management, fault-tolerant FSM, and zero-copy optimization.",
+  "description_ja": "",
   "url": "https://github.com/frozenreboot/rplidar_ros2_driver",
   "homepage_url": "https://frozenreboot.github.io",
   "language": "C++",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 44
+    },
+    {
+      "date": "2026-04-26",
       "stars": 44
     }
   ]

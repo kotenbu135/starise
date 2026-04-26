@@ -4,6 +4,7 @@
   "name": "admidio",
   "full_name": "admidio/admidio",
   "description": "Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization.",
+  "description_ja": "[44] Admidioは組織やグループのウェブサイト向けの無料オープンソースユーザー管理システム。柔軟なロールモデルにより、組織の構造と権限を反映可能",
   "url": "https://github.com/Admidio/admidio",
   "homepage_url": "https://www.admidio.org",
   "language": "PHP",
@@ -23,7 +24,7 @@
     "user-management"
   ],
   "star_count": 454,
-  "fork_count": 158,
+  "fork_count": 159,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-01-05T11:03:46Z",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 454
+    },
+    {
+      "date": "2026-04-26",
       "stars": 454
     }
   ]

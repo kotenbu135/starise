@@ -4,6 +4,7 @@
   "name": "uet",
   "full_name": "redpointgames/uet",
   "description": "UET (Unreal Engine Tool) makes building and testing Unreal Engine projects and plugins easy. It can distribute builds with BuildGraph, remotely execute automation tests on device and across multiple machines, handles fault tolerance and automatic retries and generally makes the whole experience of automating Unreal Engine a lot more pleasant.",
+  "description_ja": "",
   "url": "https://github.com/RedpointGames/uet",
   "homepage_url": "https://docs.redpoint.games/uet/",
   "language": "C#",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 136
+    },
+    {
+      "date": "2026-04-26",
       "stars": 136
     }
   ]

@@ -4,6 +4,7 @@
   "name": "k8ssandra-operator",
   "full_name": "k8ssandra/k8ssandra-operator",
   "description": "The Kubernetes operator for K8ssandra",
+  "description_ja": "",
   "url": "https://github.com/k8ssandra/k8ssandra-operator",
   "homepage_url": "https://k8ssandra.io/",
   "language": "Go",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 223
+    },
+    {
+      "date": "2026-04-26",
       "stars": 223
     }
   ]

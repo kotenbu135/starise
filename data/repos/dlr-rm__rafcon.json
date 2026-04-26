@@ -4,6 +4,7 @@
   "name": "rafcon",
   "full_name": "dlr-rm/rafcon",
   "description": "RAFCON (RMC advanced flow control) uses hierarchical state machines, featuring concurrent state execution, to represent robot programs. It ships with a graphical user interface supporting the creation of state machines and contains IDE like debugging mechanisms. Alternatively, state machines can programmatically be generated using RAFCON's API.",
+  "description_ja": "",
   "url": "https://github.com/DLR-RM/RAFCON",
   "homepage_url": "https://dlr-rm.github.io/RAFCON/",
   "language": "Python",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 206
+    },
+    {
+      "date": "2026-04-26",
       "stars": 206
     }
   ]

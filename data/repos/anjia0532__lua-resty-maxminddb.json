@@ -4,6 +4,7 @@
   "name": "lua-resty-maxminddb",
   "full_name": "anjia0532/lua-resty-maxminddb",
   "description": "A Lua library for reading MaxMind's Geolocation database",
+  "description_ja": "MaxMindのGeolocationデータベースを読み込むためのLuaライブラリ",
   "url": "https://github.com/anjia0532/lua-resty-maxminddb",
   "homepage_url": "",
   "language": "Lua",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 119
+    },
+    {
+      "date": "2026-04-26",
       "stars": 119
     }
   ]

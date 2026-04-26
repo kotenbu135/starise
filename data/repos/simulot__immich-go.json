@@ -4,6 +4,7 @@
   "name": "immich-go",
   "full_name": "simulot/immich-go",
   "description": "An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.",
+  "description_ja": "",
   "url": "https://github.com/simulot/immich-go",
   "homepage_url": "",
   "language": "Go",
@@ -16,12 +17,12 @@
     "photos",
     "takeout"
   ],
-  "star_count": 6043,
-  "fork_count": 201,
+  "star_count": 6045,
+  "fork_count": 203,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-21T14:52:04Z",
-  "updated_at": "2026-04-25T12:51:02Z",
+  "updated_at": "2026-04-26T09:48:25Z",
   "pushed_at": "2026-03-02T09:00:04Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 6043
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6045
     }
   ]
 }

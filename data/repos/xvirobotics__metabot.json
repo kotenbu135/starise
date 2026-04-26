@@ -4,6 +4,7 @@
   "name": "metabot",
   "full_name": "xvirobotics/metabot",
   "description": "构建受监督的、自我进化的 Agent 组织的基础设施 | Infrastructure for supervised, self-improving agent organization. 飞书/Telegram 手机端运行 Claude Code 或 Kimi Code（双引擎，两家原生订阅直接用），共享记忆、Agent 工厂、定时任务、通信总线。",
+  "description_ja": "",
   "url": "https://github.com/xvirobotics/metabot",
   "homepage_url": "https://xvirobotics.com/metabot/",
   "language": "TypeScript",
@@ -30,12 +31,12 @@
     "voice-assistant",
     "wechat-bot"
   ],
-  "star_count": 662,
-  "fork_count": 99,
+  "star_count": 665,
+  "fork_count": 100,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-07T13:44:14Z",
-  "updated_at": "2026-04-25T16:10:22Z",
+  "updated_at": "2026-04-26T16:33:32Z",
   "pushed_at": "2026-04-25T08:34:59Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 662
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 665
     }
   ]
 }

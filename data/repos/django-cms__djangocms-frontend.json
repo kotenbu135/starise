@@ -4,6 +4,7 @@
   "name": "djangocms-frontend",
   "full_name": "django-cms/djangocms-frontend",
   "description": "django CMS Frontend facilitates the easy creation of reusable frontend components. It supports any CSS framework. For immediate use, it includes a comprehensive set of Bootstrap 5 components and templates.",
+  "description_ja": "",
   "url": "https://github.com/django-cms/djangocms-frontend",
   "homepage_url": "https://djangocms-frontend.readthedocs.io/",
   "language": "Python",
@@ -13,12 +14,12 @@
     "django",
     "django-cms"
   ],
-  "star_count": 72,
+  "star_count": 73,
   "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-17T10:36:26Z",
-  "updated_at": "2026-04-20T05:38:24Z",
+  "updated_at": "2026-04-25T19:53:55Z",
   "pushed_at": "2026-04-20T05:38:26Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 72
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 73
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "alibaba-cloud-csi-driver",
   "full_name": "kubernetes-sigs/alibaba-cloud-csi-driver",
   "description": "CSI Plugin for Kubernetes, Support Alibaba Cloud EBS/NAS/OSS/CPFS",
+  "description_ja": "",
   "url": "https://github.com/kubernetes-sigs/alibaba-cloud-csi-driver",
   "homepage_url": "",
   "language": "Go",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 575
+    },
+    {
+      "date": "2026-04-26",
       "stars": 575
     }
   ]

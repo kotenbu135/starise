@@ -4,6 +4,7 @@
   "name": "traefik-certs-cleaner",
   "full_name": "ldez/traefik-certs-cleaner",
   "description": "A simple helper to clean the Traefik `acme.json` file by removing and revoking certificates.",
+  "description_ja": "",
   "url": "https://github.com/ldez/traefik-certs-cleaner",
   "homepage_url": "",
   "language": "Go",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

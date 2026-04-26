@@ -4,6 +4,7 @@
   "name": "spotify-lyrics-api",
   "full_name": "akashrchandran/spotify-lyrics-api",
   "description": "A Rest API for fetching lyrics from Spotify which is powered by Musixmatch. Commandline version is available at akashrchandran/syrics.",
+  "description_ja": "Musixmatchを基盤としたSpotify歌詞取得用REST API。コマンドライン版はakashrchandran/syricsで提供",
   "url": "https://github.com/akashrchandran/spotify-lyrics-api",
   "homepage_url": "http://github.akashrchandran.in/spotify-lyrics-api/",
   "language": "PHP",
@@ -21,7 +22,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-13T18:42:56Z",
-  "updated_at": "2026-04-24T14:11:37Z",
+  "updated_at": "2026-04-26T06:55:19Z",
   "pushed_at": "2025-12-30T18:54:30Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 609
+    },
+    {
+      "date": "2026-04-26",
       "stars": 609
     }
   ]

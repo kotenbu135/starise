@@ -4,6 +4,7 @@
   "name": "roslyn",
   "full_name": "dotnet/roslyn",
   "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+  "description_ja": "",
   "url": "https://github.com/dotnet/roslyn",
   "homepage_url": "https://docs.microsoft.com/dotnet/csharp/roslyn-sdk/",
   "language": "C#",
@@ -15,13 +16,13 @@
     "visual-basic",
     "visual-studio"
   ],
-  "star_count": 20384,
-  "fork_count": 4245,
+  "star_count": 20386,
+  "fork_count": 4247,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-01-11T02:39:03Z",
-  "updated_at": "2026-04-25T16:54:25Z",
-  "pushed_at": "2026-04-25T17:11:40Z",
+  "updated_at": "2026-04-26T09:00:18Z",
+  "pushed_at": "2026-04-26T16:47:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 20384
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 20386
     }
   ]
 }

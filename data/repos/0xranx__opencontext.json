@@ -4,6 +4,7 @@
   "name": "opencontext",
   "full_name": "0xranx/opencontext",
   "description": "A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.",
+  "description_ja": "AIエージェント・アシスタント向けのパーソナルコンテキストストア。既存のコーディングエージェントCLI（Codex/Claude/OpenCode）を再利用し、組み込みのSkills/ツールとデスクトップGUIで、エージェントやリポジトリをまたいでプロジェクト知識をキャプチャ・検索・再利用可能。",
   "url": "https://github.com/0xranx/OpenContext",
   "homepage_url": "https://0xranx.github.io/OpenContext/",
   "language": "JavaScript",
@@ -25,12 +26,12 @@
     "opencode",
     "tauri"
   ],
-  "star_count": 485,
-  "fork_count": 29,
+  "star_count": 541,
+  "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-17T09:05:19Z",
-  "updated_at": "2026-04-23T22:59:06Z",
+  "updated_at": "2026-04-26T16:42:44Z",
   "pushed_at": "2026-01-30T14:05:24Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 485
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 541
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "valkey-go",
   "full_name": "valkey-io/valkey-go",
   "description": "A fast Golang Valkey client that supports Client Side Caching, Auto Pipelining, and RMDA.",
+  "description_ja": "",
   "url": "https://github.com/valkey-io/valkey-go",
   "homepage_url": "",
   "language": "Go",
@@ -16,12 +17,12 @@
     "valkey",
     "valkey-client"
   ],
-  "star_count": 627,
-  "fork_count": 55,
+  "star_count": 628,
+  "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-19T15:17:25Z",
-  "updated_at": "2026-04-21T13:43:42Z",
+  "updated_at": "2026-04-25T19:38:27Z",
   "pushed_at": "2026-04-21T05:19:33Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 627
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 628
     }
   ]
 }

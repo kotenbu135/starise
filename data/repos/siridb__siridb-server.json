@@ -4,6 +4,7 @@
   "name": "siridb-server",
   "full_name": "siridb/siridb-server",
   "description": "SiriDB is a highly-scalable, robust and super fast time series database. Build from the ground up SiriDB uses a unique mechanism to operate without a global index and allows server resources to be added on the fly. SiriDB's unique query language includes dynamic grouping of time series for easy analysis over large amounts of time series.",
+  "description_ja": "",
   "url": "https://github.com/SiriDB/siridb-server",
   "homepage_url": "https://siridb.com",
   "language": "C",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 512
+    },
+    {
+      "date": "2026-04-26",
       "stars": 512
     }
   ]

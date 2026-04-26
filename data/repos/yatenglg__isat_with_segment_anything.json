@@ -4,6 +4,7 @@
   "name": "isat_with_segment_anything",
   "full_name": "yatenglg/isat_with_segment_anything",
   "description": "Labeling tool with SAM(segment anything model),supports SAM, SAM2, SAM3, sam-hq, MobileSAM EdgeSAM etc.交互式半自动图像标注工具",
+  "description_ja": "",
   "url": "https://github.com/yatengLG/ISAT_with_segment_anything",
   "homepage_url": "",
   "language": "Python",
@@ -21,12 +22,12 @@
     "text-prompt",
     "video-segmentation"
   ],
-  "star_count": 2102,
+  "star_count": 2104,
   "fork_count": 207,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-18T13:23:48Z",
-  "updated_at": "2026-04-25T07:22:59Z",
+  "updated_at": "2026-04-26T13:54:41Z",
   "pushed_at": "2026-01-30T08:10:13Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 2102
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2104
     }
   ]
 }

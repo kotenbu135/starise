@@ -4,6 +4,7 @@
   "name": "activiti",
   "full_name": "activiti/activiti",
   "description": "Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts. ",
+  "description_ja": "Activitiはビジネスパーソン、開発者、システム管理者向けの軽量ワークフロー・BPM（ビジネスプロセス管理）プラットフォーム。コアはJava用の超高速で堅牢なBPMN 2プロセスエンジン。オープンソースでApacheライセンスの下で配布。Activitiは任意のJavaアプリケーション、サーバー、クラスター、クラウドで動作。Springと完全に統合し、極めて軽量でシンプルな概念に基づいている",
   "url": "https://github.com/Activiti/Activiti",
   "homepage_url": "https://www.activiti.org",
   "language": "Java",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 10529
+    },
+    {
+      "date": "2026-04-26",
       "stars": 10529
     }
   ]

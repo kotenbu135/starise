@@ -4,6 +4,7 @@
   "name": "workload-discovery-on-aws",
   "full_name": "aws-solutions/workload-discovery-on-aws",
   "description": "Workload Discovery on AWS is a solution to visualize AWS Cloud workloads. With it you can build, customize, and share architecture diagrams of your workloads based on live data from AWS. The solution maintains an inventory of the AWS resources across your accounts and regions, mapping their relationships and displaying them in the user interface.",
+  "description_ja": "",
   "url": "https://github.com/aws-solutions/workload-discovery-on-aws",
   "homepage_url": "https://aws.amazon.com/solutions/implementations/workload-discovery-on-aws/",
   "language": "JavaScript",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 817
+    },
+    {
+      "date": "2026-04-26",
       "stars": 817
     }
   ]

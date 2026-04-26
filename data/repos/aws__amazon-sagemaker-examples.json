@@ -4,6 +4,7 @@
   "name": "amazon-sagemaker-examples",
   "full_name": "aws/amazon-sagemaker-examples",
   "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. ",
+  "description_ja": "",
   "url": "https://github.com/aws/amazon-sagemaker-examples",
   "homepage_url": "https://sagemaker-examples.readthedocs.io",
   "language": "Jupyter Notebook",
@@ -21,12 +22,12 @@
     "sagemaker",
     "training"
   ],
-  "star_count": 10908,
+  "star_count": 10910,
   "fork_count": 6978,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-10-23T05:55:22Z",
-  "updated_at": "2026-04-24T18:08:07Z",
+  "updated_at": "2026-04-26T11:41:54Z",
   "pushed_at": "2026-04-24T18:08:01Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 10908
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 10910
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "pdfusion",
   "full_name": "seehiong/pdfusion",
   "description": "A privacy-first PDF processing engine that deconstructs documents into their core elements—text, images, and tables—and reconstructs them into pristine, structured Markdown. Self-hosted React + FastAPI stack with local AI vision models via LiteLLM/Ollama. Your data never leaves your machine.",
+  "description_ja": "",
   "url": "https://github.com/seehiong/pdfusion",
   "homepage_url": "https://seehiong.github.io/posts/2026/04/self-hosting-signoz-observability-with-litellm/",
   "language": "Python",
@@ -24,12 +25,12 @@
     "react",
     "self-hosted"
   ],
-  "star_count": 50,
+  "star_count": 51,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-10T11:58:21Z",
-  "updated_at": "2026-04-25T17:00:51Z",
+  "updated_at": "2026-04-26T06:08:16Z",
   "pushed_at": "2026-04-04T04:27:57Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 50
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 51
     }
   ]
 }

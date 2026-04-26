@@ -4,6 +4,7 @@
   "name": "vince",
   "full_name": "certcc/vince",
   "description": "VINCE is the Vulnerability Information and Coordination Environment developed and used by the CERT Coordination Center to improve coordinated vulnerability disclosure. VINCE is a Python-based web platform. ",
+  "description_ja": "",
   "url": "https://github.com/CERTCC/VINCE",
   "homepage_url": "https://kb.cert.org/vince/",
   "language": "Python",
@@ -20,12 +21,12 @@
     "vulnerability-identification",
     "vulnerability-management"
   ],
-  "star_count": 98,
+  "star_count": 100,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-02T15:00:02Z",
-  "updated_at": "2026-04-20T16:43:47Z",
+  "updated_at": "2026-04-26T17:02:38Z",
   "pushed_at": "2026-04-20T16:45:03Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 98
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 100
     }
   ]
 }

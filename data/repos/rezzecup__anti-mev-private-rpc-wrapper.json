@@ -4,6 +4,7 @@
   "name": "anti-mev-private-rpc-wrapper",
   "full_name": "rezzecup/anti-mev-private-rpc-wrapper",
   "description": "Python proxy that routes DEX trades through Flashbots \u0026 Jito private RPCs to eliminate sandwich attacks and front-running on Ethereum and Solana.",
+  "description_ja": "",
   "url": "https://github.com/Rezzecup/anti-mev-private-rpc-wrapper",
   "homepage_url": "",
   "language": "Python",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 35
+    },
+    {
+      "date": "2026-04-26",
       "stars": 35
     }
   ]

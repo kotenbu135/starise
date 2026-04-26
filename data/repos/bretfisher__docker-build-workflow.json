@@ -4,6 +4,7 @@
   "name": "docker-build-workflow",
   "full_name": "bretfisher/docker-build-workflow",
   "description": "A Reusable Workflow of the Docker GitHub Actions",
+  "description_ja": "",
   "url": "https://github.com/BretFisher/docker-build-workflow",
   "homepage_url": "",
   "language": "Dockerfile",
@@ -17,12 +18,12 @@
     "workflow",
     "workflow-reusable"
   ],
-  "star_count": 52,
+  "star_count": 53,
   "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-03-02T00:48:19Z",
-  "updated_at": "2026-04-18T03:02:47Z",
+  "updated_at": "2026-04-26T14:15:32Z",
   "pushed_at": "2026-04-17T02:12:36Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 52
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 53
     }
   ]
 }

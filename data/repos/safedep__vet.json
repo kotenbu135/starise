@@ -4,6 +4,7 @@
   "name": "vet",
   "full_name": "safedep/vet",
   "description": "Protect against malicious open source packages 🤖",
+  "description_ja": "",
   "url": "https://github.com/safedep/vet",
   "homepage_url": "https://safedep.io",
   "language": "Go",
@@ -21,12 +22,12 @@
     "static-analysis",
     "supply-chain-security"
   ],
-  "star_count": 1018,
+  "star_count": 1019,
   "fork_count": 95,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-30T03:39:03Z",
-  "updated_at": "2026-04-25T17:24:46Z",
+  "updated_at": "2026-04-26T14:11:39Z",
   "pushed_at": "2026-04-20T08:45:06Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 1018
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1019
     }
   ]
 }

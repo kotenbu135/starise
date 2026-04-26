@@ -4,6 +4,7 @@
   "name": "codeql-action-sync-tool",
   "full_name": "github/codeql-action-sync-tool",
   "description": "A tool for syncing the CodeQL Action from GitHub.com to GitHub Enterprise Server, including copying the CodeQL bundle.",
+  "description_ja": "",
   "url": "https://github.com/github/codeql-action-sync-tool",
   "homepage_url": "",
   "language": "Go",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

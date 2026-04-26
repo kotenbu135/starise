@@ -4,6 +4,7 @@
   "name": "exploresingapore",
   "full_name": "adityaprasad-sudo/exploresingapore",
   "description": "A sophisticated RAG intelligence engine for Singaporean laws, policies, and history. Comes with a triple-AI failover backend (Gemini/Llama/Groq), semantic embeddings using FAISS, and an Apple-inspired interactive UI. Designed with precision and high availability in mind.",
+  "description_ja": "[40] シンガポールの法律、政策、歴史向けの高度なRAGインテリジェンスエンジン。トリプルAIフェイルオーバーバックエンド（Gemini/Llama/Groq）、FAISSによるセマンティック埋め込み、AppleにインスパイアされたインタラクティブなUIを搭載。精緻さと高可用性を念頭に設計",
   "url": "https://github.com/adityaprasad-sudo/ExploreSingapore",
   "homepage_url": "https://exploresingapore.vercel.app/",
   "language": "Python",
@@ -48,6 +49,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 66
+    },
+    {
+      "date": "2026-04-26",
       "stars": 66
     }
   ]

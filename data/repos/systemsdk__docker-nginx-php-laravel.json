@@ -4,6 +4,7 @@
   "name": "docker-nginx-php-laravel",
   "full_name": "systemsdk/docker-nginx-php-laravel",
   "description": "Docker environment required to run Laravel (based on official php and mysql docker hub repositories)",
+  "description_ja": "",
   "url": "https://github.com/systemsdk/docker-nginx-php-laravel",
   "homepage_url": "",
   "language": "PHP",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 345
+    },
+    {
+      "date": "2026-04-26",
       "stars": 345
     }
   ]

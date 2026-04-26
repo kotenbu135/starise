@@ -4,6 +4,7 @@
   "name": "openvpn-install",
   "full_name": "angristan/openvpn-install",
   "description": "Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more",
+  "description_ja": "Debian、Ubuntu、Fedora、CentOS、Arch Linuxなどに自前のOpenVPNサーバーをセットアップ",
   "url": "https://github.com/angristan/openvpn-install",
   "homepage_url": "https://stanislas.blog/2019/01/how-to-setup-vpn-server-wireguard-nat-ipv6/",
   "language": "Shell",
@@ -25,12 +26,12 @@
     "vpn-manager",
     "vpn-server"
   ],
-  "star_count": 15760,
+  "star_count": 15764,
   "fork_count": 3299,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-11-20T12:18:45Z",
-  "updated_at": "2026-04-25T16:18:39Z",
+  "updated_at": "2026-04-26T16:16:11Z",
   "pushed_at": "2026-04-24T00:53:20Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 15760
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 15764
     }
   ]
 }

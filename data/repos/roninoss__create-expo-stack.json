@@ -4,6 +4,7 @@
   "name": "create-expo-stack",
   "full_name": "roninoss/create-expo-stack",
   "description": "CLI tool to initialize a React Native application with Expo. Provides options to include Typescript, file-based routing via Expo Router, configuration based routing via pure React Navigation, styling via Nativewind, Restyle, Unistyles, StyleSheets, or Tamagui, and/or backend as a service such as Firebase and Supabase.",
+  "description_ja": "",
   "url": "https://github.com/roninoss/create-expo-stack",
   "homepage_url": "https://rn.new",
   "language": "TypeScript",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2539
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2539
     }
   ]

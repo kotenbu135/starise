@@ -4,6 +4,7 @@
   "name": "llocalsearch",
   "full_name": "nilsherzig/llocalsearch",
   "description": "LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.",
+  "description_ja": "",
   "url": "https://github.com/nilsherzig/LLocalSearch",
   "homepage_url": "",
   "language": "Go",
@@ -17,7 +18,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-23T08:53:25Z",
-  "updated_at": "2026-04-25T07:18:07Z",
+  "updated_at": "2026-04-26T07:09:54Z",
   "pushed_at": "2026-03-24T09:58:01Z",
   "deleted_at": "",
   "star_history": [
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5959
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5959
     }
   ]

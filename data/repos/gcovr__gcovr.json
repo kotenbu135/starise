@@ -4,6 +4,7 @@
   "name": "gcovr",
   "full_name": "gcovr/gcovr",
   "description": "Generate code coverage reports with gcc/gcov",
+  "description_ja": "",
   "url": "https://github.com/gcovr/gcovr",
   "homepage_url": "https://gcovr.com/",
   "language": "Python",
@@ -20,12 +21,12 @@
     "lcov",
     "python"
   ],
-  "star_count": 985,
+  "star_count": 986,
   "fork_count": 286,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-05-15T01:45:20Z",
-  "updated_at": "2026-04-23T12:04:39Z",
+  "updated_at": "2026-04-25T20:09:53Z",
   "pushed_at": "2026-04-12T17:16:19Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 985
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 986
     }
   ]
 }

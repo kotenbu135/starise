@@ -4,6 +4,7 @@
   "name": "openrag",
   "full_name": "incidentfox/openrag",
   "description": "Multi-strategy RAG system achieving 74% Recall@10 on MultiHop-RAG. Combines RAPTOR hierarchical retrieval, knowledge graphs, HyDE, BM25, and Cohere neural reranking.",
+  "description_ja": "",
   "url": "https://github.com/incidentfox/OpenRag",
   "homepage_url": "",
   "language": "Python",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 38
+    },
+    {
+      "date": "2026-04-26",
       "stars": 38
     }
   ]

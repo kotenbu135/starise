@@ -4,6 +4,7 @@
   "name": "platformdirs",
   "full_name": "tox-dev/platformdirs",
   "description": " A Python package for determining platform-specific directories (e.g. user data, config, cache, logs). Handles the differences between macOS, Windows, Linux/Unix, and Android so you don't have to.",
+  "description_ja": "",
   "url": "https://github.com/tox-dev/platformdirs",
   "homepage_url": "https://platformdirs.readthedocs.io",
   "language": "Python",
@@ -16,7 +17,7 @@
     "xdg-user-dirs"
   ],
   "star_count": 932,
-  "fork_count": 81,
+  "fork_count": 80,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-05-13T11:48:19Z",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 932
+    },
+    {
+      "date": "2026-04-26",
       "stars": 932
     }
   ]

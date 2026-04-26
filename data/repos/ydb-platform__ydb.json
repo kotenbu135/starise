@@ -4,6 +4,7 @@
   "name": "ydb",
   "full_name": "ydb-platform/ydb",
   "description": "YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions",
+  "description_ja": "",
   "url": "https://github.com/ydb-platform/ydb",
   "homepage_url": "https://ydb.tech",
   "language": "C++",
@@ -19,13 +20,13 @@
     "distributed-sql-database",
     "sql"
   ],
-  "star_count": 4717,
+  "star_count": 4718,
   "fork_count": 767,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-07T14:52:36Z",
-  "updated_at": "2026-04-25T16:40:28Z",
-  "pushed_at": "2026-04-25T17:50:21Z",
+  "updated_at": "2026-04-26T15:35:33Z",
+  "pushed_at": "2026-04-26T17:39:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 4717
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4718
     }
   ]
 }

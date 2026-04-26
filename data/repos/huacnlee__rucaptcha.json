@@ -4,6 +4,7 @@
   "name": "rucaptcha",
   "full_name": "huacnlee/rucaptcha",
   "description": "Captcha Gem for Rails, which generates captcha image by Rust.",
+  "description_ja": "",
   "url": "https://github.com/huacnlee/rucaptcha",
   "homepage_url": "https://huacnlee.github.io/rucaptcha",
   "language": "Ruby",
@@ -15,12 +16,12 @@
     "recaptcha",
     "rust"
   ],
-  "star_count": 703,
+  "star_count": 702,
   "fork_count": 134,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-10-26T06:07:48Z",
-  "updated_at": "2026-03-31T19:07:16Z",
+  "updated_at": "2026-04-26T10:35:25Z",
   "pushed_at": "2026-02-05T03:52:45Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 703
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 702
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "async-stripe",
   "full_name": "arlyon/async-stripe",
   "description": "Async (and blocking!) Rust bindings for the Stripe API",
+  "description_ja": "",
   "url": "https://github.com/arlyon/async-stripe",
   "homepage_url": "https://payments.arlyon.dev",
   "language": "Rust",
@@ -12,12 +13,12 @@
     "rust",
     "stripe"
   ],
-  "star_count": 712,
-  "fork_count": 180,
+  "star_count": 715,
+  "fork_count": 181,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-28T22:57:18Z",
-  "updated_at": "2026-04-25T14:14:45Z",
+  "updated_at": "2026-04-26T15:10:26Z",
   "pushed_at": "2026-04-20T06:00:19Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 712
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 715
     }
   ]
 }

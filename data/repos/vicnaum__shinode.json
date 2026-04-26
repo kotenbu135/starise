@@ -4,6 +4,7 @@
   "name": "shinode",
   "full_name": "vicnaum/shinode",
   "description": "Lightweight Ethereum history node — syncs headers, receipts \u0026 logs from P2P, serves eth_getLogs RPC. No EVM, no state trie. Full mainnet in ~6h.",
+  "description_ja": "",
   "url": "https://github.com/vicnaum/shinode",
   "homepage_url": "https://shinode.rs/",
   "language": "Rust",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 58
+    },
+    {
+      "date": "2026-04-26",
       "stars": 58
     }
   ]

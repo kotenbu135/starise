@@ -4,6 +4,7 @@
   "name": "claude-code",
   "full_name": "codeaashu/claude-code",
   "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+  "description_ja": "Claude Codeはターミナル内で動作するエージェント型コーディングツール。コードベースを理解し、定型作業の実行、複雑なコードの説明、gitワークフローの処理を自然言語コマンドで行い、開発を高速化する",
   "url": "https://github.com/codeaashu/claude-code",
   "homepage_url": "https://repoxray.devdisplay.org",
   "language": "TypeScript",
@@ -18,12 +19,12 @@
     "claude-leak",
     "claude-skills"
   ],
-  "star_count": 2312,
-  "fork_count": 3109,
+  "star_count": 2320,
+  "fork_count": 3116,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T12:56:05Z",
-  "updated_at": "2026-04-25T16:46:45Z",
+  "updated_at": "2026-04-26T17:01:53Z",
   "pushed_at": "2026-04-22T07:08:37Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 2312
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2320
     }
   ]
 }

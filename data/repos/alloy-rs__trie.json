@@ -4,6 +4,7 @@
   "name": "trie",
   "full_name": "alloy-rs/trie",
   "description": "Fast Merkle-Patricia Trie (MPT) state root calculator and proof generator for prefix-sorted nibbles",
+  "description_ja": "[30] プレフィックスソート済みニブル向けの高速 Merkle-Patricia Trie (MPT) ステートルート計算機・証明生成器。",
   "url": "https://github.com/alloy-rs/trie",
   "homepage_url": "",
   "language": "Rust",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 158
+    },
+    {
+      "date": "2026-04-26",
       "stars": 158
     }
   ]

@@ -4,6 +4,7 @@
   "name": "puppet-os-hardening",
   "full_name": "dev-sec/puppet-os-hardening",
   "description": "This puppet module provides numerous security-related configurations, providing all-round base protection.",
+  "description_ja": "",
   "url": "https://github.com/dev-sec/puppet-os-hardening",
   "homepage_url": "http://dev-sec.io/",
   "language": "Puppet",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 291
+    },
+    {
+      "date": "2026-04-26",
       "stars": 291
     }
   ]

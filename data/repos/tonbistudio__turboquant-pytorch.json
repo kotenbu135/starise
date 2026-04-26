@@ -4,17 +4,18 @@
   "name": "turboquant-pytorch",
   "full_name": "tonbistudio/turboquant-pytorch",
   "description": "From-scratch PyTorch implementation of Google's TurboQuant (ICLR 2026) for LLM KV cache compression. 5x compression at 3-bit with 99.5% attention fidelity.",
+  "description_ja": "",
   "url": "https://github.com/tonbistudio/turboquant-pytorch",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [],
-  "star_count": 961,
+  "star_count": 962,
   "fork_count": 131,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-25T08:03:23Z",
-  "updated_at": "2026-04-25T08:10:21Z",
+  "updated_at": "2026-04-26T15:14:59Z",
   "pushed_at": "2026-04-23T19:45:18Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 961
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 962
     }
   ]
 }

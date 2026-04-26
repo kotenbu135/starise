@@ -4,6 +4,7 @@
   "name": "nein-linq",
   "full_name": "axelheer/nein-linq",
   "description": "NeinLinq provides helpful extensions for using LINQ providers such as Entity Framework that support only a minor subset of .NET functions, reusing functions, rewriting queries, even making them null-safe, and building dynamic queries using translatable predicates and selectors.",
+  "description_ja": "",
   "url": "https://github.com/axelheer/nein-linq",
   "homepage_url": "",
   "language": "C#",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 538
+    },
+    {
+      "date": "2026-04-26",
       "stars": 538
     }
   ]

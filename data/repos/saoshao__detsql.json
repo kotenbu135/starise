@@ -4,6 +4,7 @@
   "name": "detsql",
   "full_name": "saoshao/detsql",
   "description": "Burp插件，快速探测可能存在SQL注入的请求并标记，提高测试效率",
+  "description_ja": "",
   "url": "https://github.com/saoshao/DetSql",
   "homepage_url": "",
   "language": "Java",
@@ -13,12 +14,12 @@
     "burp-plugin",
     "burpsuite-extender"
   ],
-  "star_count": 784,
+  "star_count": 785,
   "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-03T14:58:23Z",
-  "updated_at": "2026-04-23T03:23:43Z",
+  "updated_at": "2026-04-26T15:45:23Z",
   "pushed_at": "2026-02-26T15:06:32Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 784
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 785
     }
   ]
 }

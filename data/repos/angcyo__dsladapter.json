@@ -4,6 +4,7 @@
   "name": "dsladapter",
   "full_name": "angcyo/dsladapter",
   "description": ":fire: Android Kotlin时代的Adapter, Dsl 的形式使用 RecyclerView.Adapter, 支持折叠展开, 树结构,悬停,情感图状态切换, 加载更多, 多类型Item,侧滑菜单等",
+  "description_ja": "[fire] Android Kotlin時代のAdapter。DSL形式でRecyclerView.Adapterを使い、折り畳み・展開、ツリー構造、ホバー、感情画像状態切替、ロード追加、複数タイプItem、スワイプメニューなどに対応",
   "url": "https://github.com/angcyo/DslAdapter",
   "homepage_url": "https://github.com/angcyo/HoverItemDecoration",
   "language": "Kotlin",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 738
+    },
+    {
+      "date": "2026-04-26",
       "stars": 738
     }
   ]

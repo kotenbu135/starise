@@ -4,6 +4,7 @@
   "name": "drf-user",
   "full_name": "101loop/drf-user",
   "description": "This Django User Model is customised user model keeping in mind the practical need (esp. in India)",
+  "description_ja": "インド特有の実用ニーズを念頭に置いてカスタマイズされた、Djangoユーザーモデル",
   "url": "https://github.com/101Loop/drf-user",
   "homepage_url": "https://drf-user.readthedocs.io",
   "language": "Python",
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 158
+    },
+    {
+      "date": "2026-04-26",
       "stars": 158
     }
   ]

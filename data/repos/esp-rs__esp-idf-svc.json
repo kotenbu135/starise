@@ -4,6 +4,7 @@
   "name": "esp-idf-svc",
   "full_name": "esp-rs/esp-idf-svc",
   "description": "Type-Safe Rust Wrappers for various ESP-IDF services (WiFi, Network, Httpd, Logging, etc.)",
+  "description_ja": "",
   "url": "https://github.com/esp-rs/esp-idf-svc",
   "homepage_url": "https://docs.esp-rs.org/esp-idf-svc",
   "language": "Rust",
@@ -14,7 +15,7 @@
     "rust"
   ],
   "star_count": 507,
-  "fork_count": 239,
+  "fork_count": 238,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-01-10T16:24:16Z",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 507
+    },
+    {
+      "date": "2026-04-26",
       "stars": 507
     }
   ]

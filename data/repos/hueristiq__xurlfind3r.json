@@ -4,6 +4,7 @@
   "name": "xurlfind3r",
   "full_name": "hueristiq/xurlfind3r",
   "description": "A command-line utility designed to discover URLs for a given domain in a simple, efficient way. It works by gathering information from a variety of passive sources, meaning it doesn't interact directly with the target but instead gathers data that is already publicly available. ",
+  "description_ja": "",
   "url": "https://github.com/hueristiq/xurlfind3r",
   "homepage_url": "https://github.com/hueristiq/xurlfind3r",
   "language": "Go",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 701
+    },
+    {
+      "date": "2026-04-26",
       "stars": 701
     }
   ]

@@ -4,6 +4,7 @@
   "name": "embeddedmqttbroker",
   "full_name": "alexcajas/embeddedmqttbroker",
   "description": "Async MQTT Broker and sync MQTTS Broker over TCP/TLS (mTLS), websockets and secure websocekt for embedded systems, specifically ESP32/ESP8266. Use FreeRTOS to advanced multitasking capabilities and Arduino core.",
+  "description_ja": "組み込みシステム（特にESP32/ESP8266）向けの非同期MQTTブローカーと同期MQTTSブローカー。TCP/TLS（mTLS）、WebSocket、セキュアWebSocketに対応。FreeRTOSで高度なマルチタスクを実現し、Arduinoコアを使用",
   "url": "https://github.com/alexCajas/EmbeddedMqttBroker",
   "homepage_url": "https://github.com/alexCajas/EmbeddedMqttBroker",
   "language": "C++",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 105
+    },
+    {
+      "date": "2026-04-26",
       "stars": 105
     }
   ]

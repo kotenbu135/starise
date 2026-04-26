@@ -4,6 +4,7 @@
   "name": "yor",
   "full_name": "bridgecrewio/yor",
   "description": "Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.",
+  "description_ja": "",
   "url": "https://github.com/bridgecrewio/yor",
   "homepage_url": "https://www.yor.io",
   "language": "Go",
@@ -21,7 +22,7 @@
     "terraform"
   ],
   "star_count": 922,
-  "fork_count": 130,
+  "fork_count": 131,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-02-02T15:17:40Z",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 922
+    },
+    {
+      "date": "2026-04-26",
       "stars": 922
     }
   ]

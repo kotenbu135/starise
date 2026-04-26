@@ -4,6 +4,7 @@
   "name": "gops",
   "full_name": "google/gops",
   "description": "A tool to list and diagnose Go processes currently running on your system",
+  "description_ja": "",
   "url": "https://github.com/google/gops",
   "homepage_url": "",
   "language": "Go",
@@ -16,12 +17,12 @@
     "golang",
     "heap-profile"
   ],
-  "star_count": 7010,
+  "star_count": 7011,
   "fork_count": 335,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-11-10T23:49:31Z",
-  "updated_at": "2026-04-24T20:08:15Z",
+  "updated_at": "2026-04-26T08:16:33Z",
   "pushed_at": "2026-01-08T08:23:07Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 7010
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 7011
     }
   ]
 }

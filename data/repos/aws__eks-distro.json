@@ -4,6 +4,7 @@
   "name": "eks-distro",
   "full_name": "aws/eks-distro",
   "description": "Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.",
+  "description_ja": "",
   "url": "https://github.com/aws/eks-distro",
   "homepage_url": "https://distro.eks.amazonaws.com/",
   "language": "Shell",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1456
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1456
     }
   ]

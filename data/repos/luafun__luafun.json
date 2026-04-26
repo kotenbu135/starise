@@ -4,6 +4,7 @@
   "name": "luafun",
   "full_name": "luafun/luafun",
   "description": "Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind.",
+  "description_ja": "",
   "url": "https://github.com/luafun/luafun",
   "homepage_url": "https://luafun.github.io/",
   "language": "Lua",
@@ -14,12 +15,12 @@
     "luajit",
     "luarocks"
   ],
-  "star_count": 2245,
+  "star_count": 2246,
   "fork_count": 111,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-11-19T19:02:26Z",
-  "updated_at": "2026-04-22T01:21:41Z",
+  "updated_at": "2026-04-25T18:33:59Z",
   "pushed_at": "2025-04-15T14:55:30Z",
   "deleted_at": "",
   "star_history": [
@@ -30,6 +31,10 @@
     {
       "date": "2026-04-25",
       "stars": 2245
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2246
     }
   ]
 }

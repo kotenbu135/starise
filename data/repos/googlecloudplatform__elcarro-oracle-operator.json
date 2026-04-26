@@ -4,6 +4,7 @@
   "name": "elcarro-oracle-operator",
   "full_name": "googlecloudplatform/elcarro-oracle-operator",
   "description": "El Carro is a new project that offers a way to run Oracle databases in Kubernetes as a portable, open source, community driven, no vendor lock-in container orchestration system. El Carro provides a powerful declarative API for comprehensive and consistent configuration and deployment as well as for real-time operations and monitoring.",
+  "description_ja": "",
   "url": "https://github.com/GoogleCloudPlatform/elcarro-oracle-operator",
   "homepage_url": "",
   "language": "Go",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 213
+    },
+    {
+      "date": "2026-04-26",
       "stars": 213
     }
   ]

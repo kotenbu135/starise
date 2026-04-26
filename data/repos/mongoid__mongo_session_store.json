@@ -4,6 +4,7 @@
   "name": "mongo_session_store",
   "full_name": "mongoid/mongo_session_store",
   "description": "MongoSessionStore is a Rails-compatible session store for MongoDB using either Mongoid or the MongoDB Ruby Driver. It also allows for custom Mongo session store that works with any (or no!) Mongo ODM",
+  "description_ja": "",
   "url": "https://github.com/mongoid/mongo_session_store",
   "homepage_url": "http://mongoid.github.io/",
   "language": "Ruby",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 55
+    },
+    {
+      "date": "2026-04-26",
       "stars": 55
     }
   ]

@@ -4,6 +4,7 @@
   "name": "run-aspnetcore-microservices",
   "full_name": "aspnetrun/run-aspnetcore-microservices",
   "description": "Microservices on .NET platforms used ASP.NET Web API, Docker, RabbitMQ, MassTransit, Grpc, Yarp API Gateway, PostgreSQL, Redis, SQLite, SqlServer, Marten, Entity Framework Core, CQRS, MediatR, DDD, Vertical and Clean Architecture implementation with using latest features of .NET 8 and C# 12",
+  "description_ja": "",
   "url": "https://github.com/aspnetrun/run-aspnetcore-microservices",
   "homepage_url": "https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=MARC26",
   "language": "C#",
@@ -31,7 +32,7 @@
     "swagger"
   ],
   "star_count": 3223,
-  "fork_count": 1732,
+  "fork_count": 1733,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-14T19:06:48Z",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3223
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3223
     }
   ]

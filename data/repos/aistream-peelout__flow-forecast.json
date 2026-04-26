@@ -4,6 +4,7 @@
   "name": "flow-forecast",
   "full_name": "aistream-peelout/flow-forecast",
   "description": "Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).",
+  "description_ja": "時系列予測・分類・異常検知向けのPyTorchによる深層学習ライブラリ（元々は洪水予測用）",
   "url": "https://github.com/AIStream-Peelout/flow-forecast",
   "homepage_url": "https://flow-forecast.atlassian.net/wiki/spaces/FF/overview",
   "language": "Python",
@@ -24,12 +25,12 @@
     "transfer-learning",
     "transformer"
   ],
-  "star_count": 2278,
+  "star_count": 2277,
   "fork_count": 304,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-08-15T17:02:09Z",
-  "updated_at": "2026-04-22T16:28:06Z",
+  "updated_at": "2026-04-26T15:06:23Z",
   "pushed_at": "2026-02-09T00:26:55Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 2278
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2277
     }
   ]
 }

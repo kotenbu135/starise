@@ -4,6 +4,7 @@
   "name": "sp1",
   "full_name": "succinctlabs/sp1",
   "description": "SP1 is a zero‑knowledge virtual machine that proves the correct execution of programs compiled for the RISC-V architecture.",
+  "description_ja": "",
   "url": "https://github.com/succinctlabs/sp1",
   "homepage_url": "https://docs.succinct.xyz/docs/sp1/introduction",
   "language": "Rust",
@@ -16,13 +17,13 @@
     "rust",
     "zero-knowledge"
   ],
-  "star_count": 1648,
-  "fork_count": 649,
+  "star_count": 1649,
+  "fork_count": 651,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-05T00:54:44Z",
-  "updated_at": "2026-04-24T23:45:46Z",
-  "pushed_at": "2026-04-24T23:48:34Z",
+  "updated_at": "2026-04-26T07:56:19Z",
+  "pushed_at": "2026-04-26T09:07:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 1648
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1649
     }
   ]
 }

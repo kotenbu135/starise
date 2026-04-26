@@ -4,6 +4,7 @@
   "name": "django-localekit",
   "full_name": "alexivanchyk/django-localekit",
   "description": "A Django library that adds database-backed model translations with optional Django REST Framework integration. Translations are stored in a separate table — original field values are never modified",
+  "description_ja": "Django REST Framework統合をオプションでサポートする、データベース基盤のモデル翻訳をDjangoに追加するライブラリ。翻訳は別テーブルに格納され、元のフィールド値は変更されない",
   "url": "https://github.com/AlexIvanchyk/django-localekit",
   "homepage_url": "https://alexivanchyk.github.io/django-localekit/",
   "language": "Python",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

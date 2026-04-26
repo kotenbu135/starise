@@ -4,6 +4,7 @@
   "name": "stateful_enum",
   "full_name": "amatsuda/stateful_enum",
   "description": "A very simple state machine plugin built on top of ActiveRecord::Enum",
+  "description_ja": "ActiveRecord::Enum上に構築された非常にシンプルなステートマシンプラグイン",
   "url": "https://github.com/amatsuda/stateful_enum",
   "homepage_url": "",
   "language": "Ruby",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 636
+    },
+    {
+      "date": "2026-04-26",
       "stars": 636
     }
   ]

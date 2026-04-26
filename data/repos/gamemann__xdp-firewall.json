@@ -4,6 +4,7 @@
   "name": "xdp-firewall",
   "full_name": "gamemann/xdp-firewall",
   "description": "A firewall that utilizes the Linux kernel's XDP hook. The XDP hook allows for very fast network processing on Linux systems. This is great for dropping malicious traffic from a (D)DoS attack. IPv6 is supported with this firewall! I hope this helps network engineers/programmers interested in utilizing XDP!",
+  "description_ja": "",
   "url": "https://github.com/gamemann/XDP-Firewall",
   "homepage_url": "https://cdeacon.net",
   "language": "C",
@@ -30,12 +31,12 @@
     "security",
     "xdp"
   ],
-  "star_count": 835,
+  "star_count": 836,
   "fork_count": 132,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-04T13:06:26Z",
-  "updated_at": "2026-04-24T02:58:09Z",
+  "updated_at": "2026-04-26T12:11:50Z",
   "pushed_at": "2026-02-13T21:25:25Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 835
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 836
     }
   ]
 }

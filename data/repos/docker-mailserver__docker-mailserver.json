@@ -4,6 +4,7 @@
   "name": "docker-mailserver",
   "full_name": "docker-mailserver/docker-mailserver",
   "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",
+  "description_ja": "",
   "url": "https://github.com/docker-mailserver/docker-mailserver",
   "homepage_url": "https://docker-mailserver.github.io/docker-mailserver/latest/",
   "language": "Shell",
@@ -24,12 +25,12 @@
     "rspamd",
     "smtp"
   ],
-  "star_count": 18172,
+  "star_count": 18175,
   "fork_count": 2004,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-03-28T14:56:28Z",
-  "updated_at": "2026-04-25T06:28:33Z",
+  "updated_at": "2026-04-26T14:47:58Z",
   "pushed_at": "2026-04-23T00:19:19Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 18172
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 18175
     }
   ]
 }

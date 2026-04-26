@@ -4,6 +4,7 @@
   "name": "antidote",
   "full_name": "antidotedb/antidote",
   "description": "A planet scale, highly available, transactional database built on CRDT technology",
+  "description_ja": "CRDT技術を基盤とした、惑星規模・高可用・トランザクショナルなデータベース",
   "url": "https://github.com/AntidoteDB/antidote",
   "homepage_url": "https://www.antidotedb.eu",
   "language": "Erlang",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 881
+    },
+    {
+      "date": "2026-04-26",
       "stars": 881
     }
   ]

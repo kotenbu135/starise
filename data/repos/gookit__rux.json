@@ -4,6 +4,7 @@
   "name": "rux",
   "full_name": "gookit/rux",
   "description": "⚡ Rux is an simple and fast web framework. support route group, param route binding, middleware, compatible http.Handler interface. 简单且快速的 Go api/web 框架，支持路由分组，路由参数绑定，中间件，兼容 http.Handler 接口",
+  "description_ja": "",
   "url": "https://github.com/gookit/rux",
   "homepage_url": "https://pkg.go.dev/github.com/gookit/rux?tab=doc",
   "language": "Go",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

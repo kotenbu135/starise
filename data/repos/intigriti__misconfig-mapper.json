@@ -4,6 +4,7 @@
   "name": "misconfig-mapper",
   "full_name": "intigriti/misconfig-mapper",
   "description": "Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!",
+  "description_ja": "",
   "url": "https://github.com/intigriti/misconfig-mapper",
   "homepage_url": "https://bugology.intigriti.io/misconfig-mapper-docs",
   "language": "Go",
@@ -18,13 +19,13 @@
     "misfconfiguration",
     "services"
   ],
-  "star_count": 901,
+  "star_count": 902,
   "fork_count": 76,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-11T15:10:11Z",
-  "updated_at": "2026-04-23T23:02:56Z",
-  "pushed_at": "2026-04-20T04:14:13Z",
+  "updated_at": "2026-04-26T02:53:15Z",
+  "pushed_at": "2026-04-25T18:47:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 901
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 902
     }
   ]
 }

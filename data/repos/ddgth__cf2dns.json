@@ -4,6 +4,7 @@
   "name": "cf2dns",
   "full_name": "ddgth/cf2dns",
   "description": "筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式",
+  "description_ja": "",
   "url": "https://github.com/ddgth/cf2dns",
   "homepage_url": "",
   "language": "Python",
@@ -14,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-08-29T09:34:28Z",
-  "updated_at": "2026-04-24T17:19:28Z",
+  "updated_at": "2026-04-26T10:05:12Z",
   "pushed_at": "2025-01-06T06:16:13Z",
   "deleted_at": "",
   "star_history": [
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5142
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5142
     }
   ]

@@ -4,6 +4,7 @@
   "name": "zeptoclaw",
   "full_name": "qhkm/zeptoclaw",
   "description": "AI coding agent — 32 tools, 9 providers, 9 channels. The agent runtime that ZeptoRT supervises.",
+  "description_ja": "",
   "url": "https://github.com/qhkm/zeptoclaw",
   "homepage_url": "https://zeptoclaw.com/",
   "language": "Rust",
@@ -15,7 +16,7 @@
     "rust"
   ],
   "star_count": 611,
-  "fork_count": 93,
+  "fork_count": 94,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-12T10:11:01Z",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 611
+    },
+    {
+      "date": "2026-04-26",
       "stars": 611
     }
   ]

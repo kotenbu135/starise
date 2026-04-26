@@ -4,6 +4,7 @@
   "name": "zpdf",
   "full_name": "lulzx/zpdf",
   "description": "Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration.",
+  "description_ja": "",
   "url": "https://github.com/Lulzx/zpdf",
   "homepage_url": "https://lulzx.com/zpdf",
   "language": "Zig",
@@ -19,7 +20,7 @@
     "zig"
   ],
   "star_count": 898,
-  "fork_count": 37,
+  "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-30T18:09:29Z",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 898
+    },
+    {
+      "date": "2026-04-26",
       "stars": 898
     }
   ]

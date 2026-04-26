@@ -4,6 +4,7 @@
   "name": "fernflower",
   "full_name": "jetbrains/fernflower",
   "description": "Decompiler from Java bytecode to Java, used in IntelliJ IDEA.",
+  "description_ja": "",
   "url": "https://github.com/JetBrains/fernflower",
   "homepage_url": "https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine",
   "language": "Java",
@@ -13,12 +14,12 @@
     "java",
     "reverse-engineering"
   ],
-  "star_count": 4255,
+  "star_count": 4257,
   "fork_count": 729,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-10-03T05:00:15Z",
-  "updated_at": "2026-04-24T19:13:00Z",
+  "updated_at": "2026-04-26T08:58:39Z",
   "pushed_at": "2026-04-24T06:34:41Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 4255
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4257
     }
   ]
 }

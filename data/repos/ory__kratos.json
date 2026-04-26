@@ -4,6 +4,7 @@
   "name": "kratos",
   "full_name": "ory/kratos",
   "description": "Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, Magic Link, Multi-Factor Auth, SMS, SAML, TOTP, and more. Runs everywhere, runs best on Ory Network. ",
+  "description_ja": "",
   "url": "https://github.com/ory/kratos",
   "homepage_url": "https://www.ory.com/?utm_source=github\u0026utm_medium=banner\u0026utm_campaign=kratos",
   "language": "Go",
@@ -21,12 +22,12 @@
     "user-profiles",
     "users"
   ],
-  "star_count": 13598,
-  "fork_count": 1129,
+  "star_count": 13599,
+  "fork_count": 1127,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-05-29T16:09:37Z",
-  "updated_at": "2026-04-25T16:40:07Z",
+  "updated_at": "2026-04-26T15:27:58Z",
   "pushed_at": "2026-04-24T11:31:25Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 13598
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 13599
     }
   ]
 }

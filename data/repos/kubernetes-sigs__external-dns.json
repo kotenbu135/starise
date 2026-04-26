@@ -4,6 +4,7 @@
   "name": "external-dns",
   "full_name": "kubernetes-sigs/external-dns",
   "description": "Configure external DNS servers dynamically from Kubernetes resources",
+  "description_ja": "",
   "url": "https://github.com/kubernetes-sigs/external-dns",
   "homepage_url": "https://kubernetes-sigs.github.io/external-dns/",
   "language": "Go",
@@ -23,13 +24,13 @@
     "kubernetes",
     "route53"
   ],
-  "star_count": 8919,
-  "fork_count": 2858,
+  "star_count": 8920,
+  "fork_count": 2860,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-02-09T21:34:27Z",
-  "updated_at": "2026-04-25T15:43:18Z",
-  "pushed_at": "2026-04-24T15:21:38Z",
+  "updated_at": "2026-04-26T12:12:57Z",
+  "pushed_at": "2026-04-26T12:24:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 8919
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8920
     }
   ]
 }

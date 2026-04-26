@@ -4,6 +4,7 @@
   "name": "maturin",
   "full_name": "pyo3/maturin",
   "description": "Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages",
+  "description_ja": "",
   "url": "https://github.com/PyO3/maturin",
   "homepage_url": "https://maturin.rs",
   "language": "Rust",
@@ -22,13 +23,13 @@
     "uniffi",
     "wheels"
   ],
-  "star_count": 5565,
+  "star_count": 5566,
   "fork_count": 396,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-07-21T21:27:46Z",
-  "updated_at": "2026-04-25T10:43:54Z",
-  "pushed_at": "2026-04-25T10:43:48Z",
+  "updated_at": "2026-04-26T12:38:07Z",
+  "pushed_at": "2026-04-26T12:38:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 5565
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5566
     }
   ]
 }

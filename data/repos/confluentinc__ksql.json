@@ -4,6 +4,7 @@
   "name": "ksql",
   "full_name": "confluentinc/ksql",
   "description": "The database purpose-built for stream processing applications.",
+  "description_ja": "",
   "url": "https://github.com/confluentinc/ksql",
   "homepage_url": "https://ksqldb.io",
   "language": "Java",
@@ -22,13 +23,13 @@
     "stream-processing",
     "streaming-queries"
   ],
-  "star_count": 299,
+  "star_count": 300,
   "fork_count": 1039,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-09-27T21:30:15Z",
-  "updated_at": "2026-04-24T18:40:34Z",
-  "pushed_at": "2026-04-25T12:36:15Z",
+  "updated_at": "2026-04-26T13:41:40Z",
+  "pushed_at": "2026-04-26T12:13:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 299
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 300
     }
   ]
 }

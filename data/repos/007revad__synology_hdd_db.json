@@ -4,6 +4,7 @@
   "name": "synology_hdd_db",
   "full_name": "007revad/synology_hdd_db",
   "description": "Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more",
+  "description_ja": "HDD、SSD、NVMeドライブをSynologyの互換ドライブデータベースに追加できるほか、多数の機能を提供",
   "url": "https://github.com/007revad/Synology_HDD_db",
   "homepage_url": "",
   "language": "Shell",
@@ -17,12 +18,12 @@
     "synology-dsm",
     "synology-nas"
   ],
-  "star_count": 5437,
+  "star_count": 5438,
   "fork_count": 350,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-26T02:59:13Z",
-  "updated_at": "2026-04-24T22:07:59Z",
+  "updated_at": "2026-04-26T14:28:58Z",
   "pushed_at": "2026-04-24T22:07:55Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 5437
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5438
     }
   ]
 }

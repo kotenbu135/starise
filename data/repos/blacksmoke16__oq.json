@@ -4,6 +4,7 @@
   "name": "oq",
   "full_name": "blacksmoke16/oq",
   "description": "A performant, and portable jq wrapper to facilitate the consumption and output of formats other than JSON; using jq filters to transform the data.",
+  "description_ja": "",
   "url": "https://github.com/Blacksmoke16/oq",
   "homepage_url": "https://blacksmoke16.github.io/oq/",
   "language": "Crystal",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 206
+    },
+    {
+      "date": "2026-04-26",
       "stars": 206
     }
   ]

@@ -4,6 +4,7 @@
   "name": "vulscan",
   "full_name": "scipag/vulscan",
   "description": "Advanced vulnerability scanning with Nmap NSE",
+  "description_ja": "",
   "url": "https://github.com/scipag/vulscan",
   "homepage_url": "https://www.computec.ch/projekte/vulscan/",
   "language": "Lua",
@@ -30,12 +31,12 @@
     "vulnerability-scanners",
     "vulnerability-scanning"
   ],
-  "star_count": 3748,
-  "fork_count": 692,
+  "star_count": 3749,
+  "fork_count": 693,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-03-10T12:34:02Z",
-  "updated_at": "2026-04-25T13:27:30Z",
+  "updated_at": "2026-04-26T15:23:52Z",
   "pushed_at": "2026-02-06T15:04:56Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 3748
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3749
     }
   ]
 }

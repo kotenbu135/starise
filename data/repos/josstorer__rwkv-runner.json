@@ -4,6 +4,7 @@
   "name": "rwkv-runner",
   "full_name": "josstorer/rwkv-runner",
   "description": "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.",
+  "description_ja": "",
   "url": "https://github.com/josStorer/RWKV-Runner",
   "homepage_url": "https://www.rwkv.com",
   "language": "TypeScript",
@@ -17,12 +18,12 @@
     "tool",
     "wails"
   ],
-  "star_count": 6327,
-  "fork_count": 594,
+  "star_count": 6329,
+  "fork_count": 595,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-05T04:21:56Z",
-  "updated_at": "2026-04-24T16:49:40Z",
+  "updated_at": "2026-04-26T14:54:41Z",
   "pushed_at": "2026-03-20T10:59:04Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 6327
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6329
     }
   ]
 }

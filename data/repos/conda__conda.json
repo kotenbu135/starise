@@ -4,6 +4,7 @@
   "name": "conda",
   "full_name": "conda/conda",
   "description": "A system-level, binary package and environment manager running on all major operating systems and platforms.",
+  "description_ja": "",
   "url": "https://github.com/conda/conda",
   "homepage_url": "https://docs.conda.io/projects/conda/",
   "language": "Python",
@@ -14,7 +15,7 @@
     "python"
   ],
   "star_count": 7386,
-  "fork_count": 2153,
+  "fork_count": 2154,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-10-15T22:08:03Z",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 7386
+    },
+    {
+      "date": "2026-04-26",
       "stars": 7386
     }
   ]

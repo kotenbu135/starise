@@ -4,6 +4,7 @@
   "name": "openclaw-android",
   "full_name": "aidanpark/openclaw-android",
   "description": "Run OpenClaw on Android with a single command — no proot, no Linux",
+  "description_ja": "Android上でOpenClawをワンコマンド実行 — proot不要、Linux不要",
   "url": "https://github.com/AidanPark/openclaw-android",
   "homepage_url": "",
   "language": "Java",
@@ -20,12 +21,12 @@
     "self-hosted",
     "termux"
   ],
-  "star_count": 1386,
-  "fork_count": 169,
+  "star_count": 1394,
+  "fork_count": 172,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T05:48:53Z",
-  "updated_at": "2026-04-25T14:59:07Z",
+  "updated_at": "2026-04-26T16:38:45Z",
   "pushed_at": "2026-04-20T12:09:09Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 1386
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1394
     }
   ]
 }

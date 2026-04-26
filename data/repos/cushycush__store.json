@@ -4,6 +4,7 @@
   "name": "store",
   "full_name": "cushycush/store",
   "description": "`store` manages symlinks for your dotfiles without requiring mirrored directory structures. Each \"store\" is a directory in your repository that gets symlinked to a t",
+  "description_ja": "",
   "url": "https://github.com/cushycush/store",
   "homepage_url": "",
   "language": "Go",
@@ -14,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-01T21:02:50Z",
-  "updated_at": "2026-04-25T05:07:57Z",
-  "pushed_at": "2026-04-22T09:50:03Z",
+  "updated_at": "2026-04-25T18:07:30Z",
+  "pushed_at": "2026-04-25T18:07:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 48
+    },
+    {
+      "date": "2026-04-26",
       "stars": 48
     }
   ]

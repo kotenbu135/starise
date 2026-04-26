@@ -4,6 +4,7 @@
   "name": "fixedsizearrays.jl",
   "full_name": "juliaarrays/fixedsizearrays.jl",
   "description": "      Fixed-size multidimensional arrays. An Array-like type with less indirection at the cost of resizing capability.",
+  "description_ja": "",
   "url": "https://github.com/JuliaArrays/FixedSizeArrays.jl",
   "homepage_url": "https://juliaarrays.github.io/FixedSizeArrays.jl/",
   "language": "Julia",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

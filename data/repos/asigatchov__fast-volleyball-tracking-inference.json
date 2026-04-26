@@ -4,6 +4,7 @@
   "name": "fast-volleyball-tracking-inference",
   "full_name": "asigatchov/fast-volleyball-tracking-inference",
   "description": "Fast Volleyball Tracking Inference: Real-time volleyball ball detection and tracking at 100 FPS on CPU (Intel i5-10400F). Powered by an optimized ONNX model, outputs ball coordinates to CSV, with optional video visualization. Ideal for sports analytics and computer vision research.",
+  "description_ja": "",
   "url": "https://github.com/asigatchov/fast-volleyball-tracking-inference",
   "homepage_url": "",
   "language": "Python",
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

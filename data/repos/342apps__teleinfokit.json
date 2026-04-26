@@ -4,6 +4,7 @@
   "name": "teleinfokit",
   "full_name": "342apps/teleinfokit",
   "description": "An ESP01 based module that reads and sends energy meter data from french meters",
+  "description_ja": "フランスの電力メーターからエネルギーメーターデータを読み取り送信するESP01ベースのモジュール",
   "url": "https://github.com/342apps/teleinfokit",
   "homepage_url": "https://342apps.net",
   "language": "C++",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 37
+    },
+    {
+      "date": "2026-04-26",
       "stars": 37
     }
   ]

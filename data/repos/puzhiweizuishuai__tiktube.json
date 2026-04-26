@@ -4,6 +4,7 @@
   "name": "tiktube",
   "full_name": "puzhiweizuishuai/tiktube",
   "description": "一个简单的视频网站，界面参考了Youtube。支持自动生成封面图，发送弹幕等功能。A simple video website with an interface inspired by YouTube. The backend is built with Spring Boot, and the frontend uses Vue with Vuetify.js. It supports features like automatic thumbnail generation and live comment (danmaku) streaming.",
+  "description_ja": "",
   "url": "https://github.com/PuZhiweizuishuai/TikTube",
   "homepage_url": "https://tiktube.buguagaoshu.com",
   "language": "Vue",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 105
+    },
+    {
+      "date": "2026-04-26",
       "stars": 105
     }
   ]

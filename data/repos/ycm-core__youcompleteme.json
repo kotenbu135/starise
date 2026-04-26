@@ -4,6 +4,7 @@
   "name": "youcompleteme",
   "full_name": "ycm-core/youcompleteme",
   "description": "A code-completion engine for Vim",
+  "description_ja": "",
   "url": "https://github.com/ycm-core/YouCompleteMe",
   "homepage_url": "http://ycm-core.github.io/YouCompleteMe/",
   "language": "Python",
@@ -14,12 +15,12 @@
     "semantic-engine",
     "vim"
   ],
-  "star_count": 25977,
-  "fork_count": 2761,
+  "star_count": 25976,
+  "fork_count": 2760,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-04-16T03:12:14Z",
-  "updated_at": "2026-04-25T15:22:48Z",
+  "updated_at": "2026-04-26T10:13:24Z",
   "pushed_at": "2026-04-18T13:43:45Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 25977
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 25976
     }
   ]
 }

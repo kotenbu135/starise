@@ -4,6 +4,7 @@
   "name": "flannel",
   "full_name": "flannel-io/flannel",
   "description": "flannel is a network fabric for containers, designed for Kubernetes",
+  "description_ja": "",
   "url": "https://github.com/flannel-io/flannel",
   "homepage_url": "",
   "language": "Go",
@@ -18,12 +19,12 @@
     "overlay-network",
     "subnet"
   ],
-  "star_count": 9440,
-  "fork_count": 2891,
+  "star_count": 9439,
+  "fork_count": 2890,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-07-10T17:45:29Z",
-  "updated_at": "2026-04-24T13:05:48Z",
+  "updated_at": "2026-04-26T14:53:34Z",
   "pushed_at": "2026-04-23T08:22:40Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 9440
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9439
     }
   ]
 }

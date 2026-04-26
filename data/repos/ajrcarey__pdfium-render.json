@@ -4,17 +4,18 @@
   "name": "pdfium-render",
   "full_name": "ajrcarey/pdfium-render",
   "description": "A high-level idiomatic Rust wrapper around Pdfium, the C++ PDF library used by the Google Chromium project.",
+  "description_ja": "Google Chromium プロジェクトで使われる C++ PDF ライブラリ Pdfium のハイレベルでイディオマティックな Rust ラッパー",
   "url": "https://github.com/ajrcarey/pdfium-render",
   "homepage_url": "https://crates.io/crates/pdfium-render",
   "language": "Rust",
   "license": "NOASSERTION",
   "topics": [],
-  "star_count": 641,
+  "star_count": 642,
   "fork_count": 119,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-12T21:00:50Z",
-  "updated_at": "2026-04-24T15:53:15Z",
+  "updated_at": "2026-04-25T23:17:26Z",
   "pushed_at": "2026-04-19T18:39:39Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 641
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 642
     }
   ]
 }

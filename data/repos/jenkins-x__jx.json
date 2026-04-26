@@ -4,6 +4,7 @@
   "name": "jx",
   "full_name": "jenkins-x/jx",
   "description": "Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton",
+  "description_ja": "",
   "url": "https://github.com/jenkins-x/jx",
   "homepage_url": "https://jenkins-x.io/",
   "language": "Go",
@@ -23,12 +24,12 @@
     "pipeline",
     "tekton"
   ],
-  "star_count": 4689,
-  "fork_count": 799,
+  "star_count": 4690,
+  "fork_count": 798,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-01-05T15:46:09Z",
-  "updated_at": "2026-04-25T08:18:31Z",
+  "updated_at": "2026-04-26T06:03:21Z",
   "pushed_at": "2026-04-15T07:10:15Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 4689
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4690
     }
   ]
 }

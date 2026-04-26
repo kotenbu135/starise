@@ -4,6 +4,7 @@
   "name": "chainlink",
   "full_name": "smartcontractkit/chainlink",
   "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+  "description_ja": "",
   "url": "https://github.com/smartcontractkit/chainlink",
   "homepage_url": "https://chain.link",
   "language": "Go",
@@ -16,13 +17,13 @@
     "oracle",
     "solidity"
   ],
-  "star_count": 8200,
+  "star_count": 8201,
   "fork_count": 1963,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-11-20T19:50:46Z",
-  "updated_at": "2026-04-24T23:01:47Z",
-  "pushed_at": "2026-04-25T17:07:39Z",
+  "updated_at": "2026-04-25T17:54:02Z",
+  "pushed_at": "2026-04-26T16:08:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 8200
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8201
     }
   ]
 }

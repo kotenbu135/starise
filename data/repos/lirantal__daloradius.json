@@ -4,6 +4,7 @@
   "name": "daloradius",
   "full_name": "lirantal/daloradius",
   "description": "daloRADIUS is an advanced RADIUS web management application for managing hotspots and general-purpose ISP deployments. It features user management, graphical reporting, accounting, a billing engine, and integrates with OpenStreetMap for geolocation. The system is based on FreeRADIUS with which it shares access to the backend database.",
+  "description_ja": "",
   "url": "https://github.com/lirantal/daloradius",
   "homepage_url": "http://www.daloradius.com",
   "language": "PHP",
@@ -17,12 +18,12 @@
     "radius",
     "wifi-manager"
   ],
-  "star_count": 866,
+  "star_count": 867,
   "fork_count": 420,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-05-02T09:06:40Z",
-  "updated_at": "2026-04-22T18:18:36Z",
+  "updated_at": "2026-04-26T17:09:55Z",
   "pushed_at": "2026-04-12T21:39:53Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 866
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 867
     }
   ]
 }

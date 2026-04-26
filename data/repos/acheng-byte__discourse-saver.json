@@ -4,6 +4,7 @@
   "name": "discourse-saver",
   "full_name": "acheng-byte/discourse-saver",
   "description": "通用 Discourse 论坛内容保存工具 - 支持全球数百个 Discourse 站点，一键保存到 Obsidian/飞书/Notion/语雀/思源笔记",
+  "description_ja": "[18] 汎用 Discourse フォーラムコンテンツ保存ツール - 世界中の数百の Discourse サイトに対応、Obsidian / 飞书 / Notion / 语雀 / 思源筆記へワンクリック保存",
   "url": "https://github.com/acheng-byte/discourse-saver",
   "homepage_url": "https://github.com/acheng-byte/discourse-saver",
   "language": "JavaScript",
@@ -20,12 +21,12 @@
     "userscript",
     "web-scraper"
   ],
-  "star_count": 110,
+  "star_count": 113,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T03:55:45Z",
-  "updated_at": "2026-04-25T16:58:50Z",
+  "updated_at": "2026-04-26T16:36:45Z",
   "pushed_at": "2026-04-23T22:02:38Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 110
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 113
     }
   ]
 }

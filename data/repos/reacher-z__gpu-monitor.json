@@ -4,6 +4,7 @@
   "name": "gpu-monitor",
   "full_name": "reacher-z/gpu-monitor",
   "description": "Lightweight NVIDIA GPU monitor — alerts on Slack/Discord/Telegram/20 channels when training crashes or GPU overheats. Zero dependencies. Single file.",
+  "description_ja": "",
   "url": "https://github.com/reacher-z/gpu-monitor",
   "homepage_url": "https://reacher-z.github.io/gpu-monitor/",
   "language": "Python",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 171
+    },
+    {
+      "date": "2026-04-26",
       "stars": 171
     }
   ]

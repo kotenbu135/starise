@@ -4,6 +4,7 @@
   "name": "datalinkx",
   "full_name": "spitfireuptown/datalinkx",
   "description": "🔥🔥DatalinkX异构数据源之间的数据同步系统，支持海量数据的增量或全量同步，同时支持HTTP、Oracle、MySQL、ES等数据源之间的数据流转，支持中间transform算子如SQL算子、大模型算子，底层依赖Flink、Seatunnel引擎，提供流转任务管理、任务级联配置、任务日志采集等功能🔥🔥",
+  "description_ja": "",
   "url": "https://github.com/spitfireuptown/datalinkx",
   "homepage_url": "",
   "language": "Java",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 368
+    },
+    {
+      "date": "2026-04-26",
       "stars": 368
     }
   ]

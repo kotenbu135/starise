@@ -4,6 +4,7 @@
   "name": "mlua",
   "full_name": "mlua-rs/mlua",
   "description": "High level Lua 5.5/5.4/5.3/5.2/5.1 (including LuaJIT) and Luau bindings to Rust with async/await support",
+  "description_ja": "",
   "url": "https://github.com/mlua-rs/mlua",
   "homepage_url": "",
   "language": "Rust",
@@ -20,7 +21,7 @@
     "wasm"
   ],
   "star_count": 2673,
-  "fork_count": 200,
+  "fork_count": 201,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-11-30T01:20:27Z",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2673
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2673
     }
   ]

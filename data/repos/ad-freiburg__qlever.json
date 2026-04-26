@@ -4,6 +4,7 @@
   "name": "qlever",
   "full_name": "ad-freiburg/qlever",
   "description": "Graph database implementing the RDF and SPARQL standards. Very fast and scales to more than a trillion triples on a single commodity machine",
+  "description_ja": "RDF と SPARQL 標準を実装するグラフデータベース。非常に高速で、単一の汎用マシンで 1 兆トリプル以上にスケールする",
   "url": "https://github.com/ad-freiburg/qlever",
   "homepage_url": "",
   "language": "C++",
@@ -20,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-12-05T14:09:19Z",
-  "updated_at": "2026-04-23T16:50:29Z",
-  "pushed_at": "2026-04-25T16:35:22Z",
+  "updated_at": "2026-04-26T15:14:06Z",
+  "pushed_at": "2026-04-26T15:14:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 822
+    },
+    {
+      "date": "2026-04-26",
       "stars": 822
     }
   ]

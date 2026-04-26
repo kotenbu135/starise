@@ -4,6 +4,7 @@
   "name": "tree-sitter",
   "full_name": "tree-sitter/tree-sitter",
   "description": "An incremental parsing system for programming tools",
+  "description_ja": "",
   "url": "https://github.com/tree-sitter/tree-sitter",
   "homepage_url": "https://tree-sitter.github.io",
   "language": "Rust",
@@ -17,13 +18,13 @@
     "tree-sitter",
     "wasm"
   ],
-  "star_count": 25008,
-  "fork_count": 2591,
+  "star_count": 25027,
+  "fork_count": 2593,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-11-06T06:16:00Z",
-  "updated_at": "2026-04-25T17:04:37Z",
-  "pushed_at": "2026-04-24T07:36:12Z",
+  "updated_at": "2026-04-26T17:26:27Z",
+  "pushed_at": "2026-04-26T17:24:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 25008
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 25027
     }
   ]
 }

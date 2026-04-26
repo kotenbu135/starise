@@ -4,6 +4,7 @@
   "name": "docker-postgres-upgrade",
   "full_name": "tianon/docker-postgres-upgrade",
   "description": "a PoC for using \"pg_upgrade\" inside Docker -- learn from it, adapt it for your needs; don't expect it to work as-is!",
+  "description_ja": "",
   "url": "https://github.com/tianon/docker-postgres-upgrade",
   "homepage_url": "https://hub.docker.com/r/tianon/postgres-upgrade/",
   "language": "Shell",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1351
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1351
     }
   ]

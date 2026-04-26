@@ -4,6 +4,7 @@
   "name": "posthog.com",
   "full_name": "posthog/posthog.com",
   "description": "Official docs, website, and handbook for PostHog.",
+  "description_ja": "",
   "url": "https://github.com/PostHog/posthog.com",
   "homepage_url": "https://posthog.com",
   "language": "TypeScript",
@@ -16,13 +17,13 @@
     "posthog",
     "tailwindcss"
   ],
-  "star_count": 1000,
+  "star_count": 999,
   "fork_count": 789,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-01T20:17:52Z",
-  "updated_at": "2026-04-25T13:01:37Z",
-  "pushed_at": "2026-04-25T13:25:43Z",
+  "updated_at": "2026-04-26T14:50:36Z",
+  "pushed_at": "2026-04-26T16:38:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 1000
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 999
     }
   ]
 }

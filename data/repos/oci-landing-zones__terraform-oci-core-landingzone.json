@@ -4,6 +4,7 @@
   "name": "terraform-oci-core-landingzone",
   "full_name": "oci-landing-zones/terraform-oci-core-landingzone",
   "description": "The OCI Core Landing Zone unifies the OCI landing zone initiatives that follow a centralized deployment paradigm for provisioning the base tenancy, including CIS Landing Zone and Oracle Enterprise Landing Zone. For deploying landing zones in multiple stacks, see The OCI Operating Entities Landing Zone.",
+  "description_ja": "",
   "url": "https://github.com/oci-landing-zones/terraform-oci-core-landingzone",
   "homepage_url": "",
   "language": "HCL",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

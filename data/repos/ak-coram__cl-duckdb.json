@@ -4,6 +4,7 @@
   "name": "cl-duckdb",
   "full_name": "ak-coram/cl-duckdb",
   "description": "Common Lisp CFFI wrapper around the DuckDB C API",
+  "description_ja": "DuckDB C API への Common Lisp CFFI ラッパー",
   "url": "https://github.com/ak-coram/cl-duckdb",
   "homepage_url": "https://github.com/ak-coram/cl-duckdb/blob/main/README.org",
   "language": "Common Lisp",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 51
+    },
+    {
+      "date": "2026-04-26",
       "stars": 51
     }
   ]

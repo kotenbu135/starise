@@ -4,6 +4,7 @@
   "name": "hivemq-mqtt-client",
   "full_name": "hivemq/hivemq-mqtt-client",
   "description": "HiveMQ MQTT Client is an MQTT 5.0 and MQTT 3.1.1 compatible and feature-rich high-performance Java client library with different API flavours and backpressure support",
+  "description_ja": "",
   "url": "https://github.com/hivemq/hivemq-mqtt-client",
   "homepage_url": "https://hivemq.github.io/hivemq-mqtt-client/",
   "language": "Java",
@@ -22,12 +23,12 @@
     "reactor",
     "rxjava"
   ],
-  "star_count": 1079,
+  "star_count": 1080,
   "fork_count": 181,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-01-02T21:15:55Z",
-  "updated_at": "2026-04-25T12:27:20Z",
+  "updated_at": "2026-04-26T00:54:03Z",
   "pushed_at": "2026-04-22T09:08:40Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 1079
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1080
     }
   ]
 }

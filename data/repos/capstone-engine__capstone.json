@@ -4,6 +4,7 @@
   "name": "capstone",
   "full_name": "capstone-engine/capstone",
   "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
+  "description_ja": "",
   "url": "https://github.com/capstone-engine/capstone",
   "homepage_url": "http://www.capstone-engine.org",
   "language": "C",
@@ -31,7 +32,7 @@
     "x86-64"
   ],
   "star_count": 8684,
-  "fork_count": 1670,
+  "fork_count": 1672,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-11-27T02:32:11Z",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 8684
+    },
+    {
+      "date": "2026-04-26",
       "stars": 8684
     }
   ]

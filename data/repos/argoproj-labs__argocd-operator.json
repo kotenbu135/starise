@@ -4,6 +4,7 @@
   "name": "argocd-operator",
   "full_name": "argoproj-labs/argocd-operator",
   "description": "A Kubernetes operator for managing Argo CD clusters.",
+  "description_ja": "",
   "url": "https://github.com/argoproj-labs/argocd-operator",
   "homepage_url": "https://argocd-operator.readthedocs.io",
   "language": "Go",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 858
+    },
+    {
+      "date": "2026-04-26",
       "stars": 858
     }
   ]

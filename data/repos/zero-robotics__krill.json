@@ -4,6 +4,7 @@
   "name": "krill",
   "full_name": "zero-robotics/krill",
   "description": "Professional-grade DAG-based process orchestrator for robotics systems. Manage ROS2 nodes, Docker containers, and Python services with health monitoring, automatic restarts, and cascading failure handling. Built in Rust.",
+  "description_ja": "",
   "url": "https://github.com/Zero-Robotics/krill",
   "homepage_url": "",
   "language": "Rust",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 47
+    },
+    {
+      "date": "2026-04-26",
       "stars": 47
     }
   ]

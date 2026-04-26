@@ -4,6 +4,7 @@
   "name": "dali",
   "full_name": "nvidia/dali",
   "description": "A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.",
+  "description_ja": "",
   "url": "https://github.com/NVIDIA/DALI",
   "homepage_url": "https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html",
   "language": "C++",
@@ -25,12 +26,12 @@
     "python",
     "pytorch"
   ],
-  "star_count": 5678,
+  "star_count": 5679,
   "fork_count": 662,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-06-01T22:18:01Z",
-  "updated_at": "2026-04-25T13:24:42Z",
+  "updated_at": "2026-04-26T10:00:41Z",
   "pushed_at": "2026-04-24T15:56:02Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 5678
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5679
     }
   ]
 }

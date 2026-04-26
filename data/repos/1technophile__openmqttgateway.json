@@ -4,6 +4,7 @@
   "name": "openmqttgateway",
   "full_name": "1technophile/openmqttgateway",
   "description": "MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermometer compatibility \u0026 LoRa.",
+  "description_ja": "[16] ESP8266/ESP32 用 MQTT ゲートウェイ。双方向 433MHz/315MHz/868MHz、赤外線通信、BLE、Bluetooth、ビーコン検出、Mi Flora、Mi Jia、LYWSD02、LYWSD03MMC、Mi Scale、TPMS、BBQ サーモメーター、LoRa に対応",
   "url": "https://github.com/1technophile/OpenMQTTGateway",
   "homepage_url": "https://docs.openmqttgateway.com",
   "language": "C++",
@@ -29,13 +30,13 @@
     "wemos-d1",
     "xiaomi"
   ],
-  "star_count": 3997,
+  "star_count": 3999,
   "fork_count": 864,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-09-17T15:25:25Z",
-  "updated_at": "2026-04-25T17:00:18Z",
-  "pushed_at": "2026-04-25T17:00:16Z",
+  "updated_at": "2026-04-26T06:18:52Z",
+  "pushed_at": "2026-04-26T00:58:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 3997
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3999
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "translatebookswithllms",
   "full_name": "hydropix/translatebookswithllms",
   "description": "Translate full-length books and documents with Ollama, OpenAI (comptatible), Gemini, Mistral, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.",
+  "description_ja": "",
   "url": "https://github.com/hydropix/TranslateBooksWithLLMs",
   "homepage_url": "",
   "language": "Python",
@@ -26,12 +27,12 @@
     "translation",
     "translation-tool"
   ],
-  "star_count": 740,
-  "fork_count": 88,
+  "star_count": 1093,
+  "fork_count": 138,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-22T07:16:43Z",
-  "updated_at": "2026-04-25T17:16:26Z",
+  "updated_at": "2026-04-26T17:14:24Z",
   "pushed_at": "2026-04-12T13:33:29Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 740
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1093
     }
   ]
 }

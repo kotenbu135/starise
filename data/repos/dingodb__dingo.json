@@ -4,6 +4,7 @@
   "name": "dingo",
   "full_name": "dingodb/dingo",
   "description": "A multi-modal vector database that supports upserts and vector queries using unified SQL (MySQL-Compatible) on structured and unstructured data, while meeting the requirements of high concurrency and ultra-low latency.",
+  "description_ja": "",
   "url": "https://github.com/dingodb/dingo",
   "homepage_url": "https://www.dingodb.com",
   "language": "Java",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1701
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1701
     }
   ]

@@ -4,6 +4,7 @@
   "name": "efcore.bulkextensions",
   "full_name": "borisdj/efcore.bulkextensions",
   "description": "Entity Framework EF Core efcore Bulk Batch Extensions with BulkCopy in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL, MySQL, SQLite, Oracle",
+  "description_ja": "",
   "url": "https://github.com/borisdj/EFCore.BulkExtensions",
   "homepage_url": "https://codis.tech/efcorebulk",
   "language": "C#",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3981
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3981
     }
   ]

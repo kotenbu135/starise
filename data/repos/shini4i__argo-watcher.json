@@ -4,6 +4,7 @@
   "name": "argo-watcher",
   "full_name": "shini4i/argo-watcher",
   "description": "A service that bridges traditional pipelines and GitOps, improving deployment visibility. Includes a built-in GitOps repo updater.",
+  "description_ja": "",
   "url": "https://github.com/shini4i/argo-watcher",
   "homepage_url": "https://argo-watcher.readthedocs.io/",
   "language": "Go",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 96
+    },
+    {
+      "date": "2026-04-26",
       "stars": 96
     }
   ]

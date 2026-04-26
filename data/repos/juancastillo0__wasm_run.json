@@ -4,6 +4,7 @@
   "name": "wasm_run",
   "full_name": "juancastillo0/wasm_run",
   "description": "A WebAssembly executor for Dart and Flutter applications. Uses Rust's wasmtime optimizing runtime or wasmi interpreter to parse and execute WASM and WAT files.",
+  "description_ja": "",
   "url": "https://github.com/juancastillo0/wasm_run",
   "homepage_url": "https://juancastillo0.github.io/wasm_run/",
   "language": "Rust",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 141
+    },
+    {
+      "date": "2026-04-26",
       "stars": 141
     }
   ]

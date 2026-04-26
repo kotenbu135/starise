@@ -4,6 +4,7 @@
   "name": "caddy",
   "full_name": "caddyserver/caddy",
   "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+  "description_ja": "",
   "url": "https://github.com/caddyserver/caddy",
   "homepage_url": "https://caddyserver.com",
   "language": "Go",
@@ -25,13 +26,13 @@
     "tls",
     "web-server"
   ],
-  "star_count": 71827,
+  "star_count": 71854,
   "fork_count": 4704,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-01-13T19:45:03Z",
-  "updated_at": "2026-04-25T16:46:15Z",
-  "pushed_at": "2026-04-25T10:52:08Z",
+  "updated_at": "2026-04-26T16:02:43Z",
+  "pushed_at": "2026-04-26T13:51:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -53,6 +54,10 @@
     {
       "date": "2026-04-25",
       "stars": 71827
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 71854
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "unity-mcp-plugin",
   "full_name": "anklebreaker-studio/unity-mcp-plugin",
   "description": "Unity MCP Plugin (UPM) — Editor bridge for AI-assisted game development. Enables Claude, Cursor \u0026 MCP-compatible AI to control Unity Editor with 268 tools: scenes, GameObjects, components, builds, profiling, Shader Graph, Amplify Shader Editor, terrain, physics, NavMesh \u0026 more. Free \u0026 open source.",
+  "description_ja": "Unity MCPプラグイン (UPM) — AI支援ゲーム開発のためのエディタブリッジ。Claude、Cursor、およびMCP互換AIが268種のツールでUnity Editorを制御可能: シーン、GameObject、コンポーネント、ビルド、プロファイリング、Shader Graph、Amplify Shader Editor、地形、物理、NavMeshなど。無料・オープンソース。",
   "url": "https://github.com/AnkleBreaker-Studio/unity-mcp-plugin",
   "homepage_url": "https://github.com/AnkleBreaker-Studio/unity-mcp-server",
   "language": "C#",
@@ -30,12 +31,12 @@
     "unity3d",
     "upm"
   ],
-  "star_count": 72,
+  "star_count": 75,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-25T10:19:30Z",
-  "updated_at": "2026-04-25T09:57:17Z",
+  "updated_at": "2026-04-26T14:57:55Z",
   "pushed_at": "2026-04-22T15:06:40Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 72
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 75
     }
   ]
 }

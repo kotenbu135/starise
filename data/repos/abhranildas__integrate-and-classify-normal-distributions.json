@@ -4,6 +4,7 @@
   "name": "integrate-and-classify-normal-distributions",
   "full_name": "abhranildas/integrate-and-classify-normal-distributions",
   "description": "Matlab toolbox to integrate normal (Gaussian) distributions in any dimensions with any parameters in any domain, compute pdf/cdf/inverse cdf of any function of a normal vector, and measures of classification performance among two or more multinormals, like error matrix and d'.",
+  "description_ja": "任意の次元・任意のパラメータ・任意の領域で正規（ガウス）分布を積分し、正規ベクトル関数のpdf/cdf/逆cdfを計算し、誤差行列やd'などの2つ以上の多変量正規分布間の分類性能指標を求めるMatlabツールボックス。",
   "url": "https://github.com/abhranildas/Integrate-and-Classify-Normal-Distributions",
   "homepage_url": "",
   "language": "MATLAB",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

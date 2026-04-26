@@ -4,6 +4,7 @@
   "name": "ignition",
   "full_name": "coreos/ignition",
   "description": "First boot installer and configuration tool",
+  "description_ja": "",
   "url": "https://github.com/coreos/ignition",
   "homepage_url": "https://coreos.github.io/ignition/",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 949
+    },
+    {
+      "date": "2026-04-26",
       "stars": 949
     }
   ]

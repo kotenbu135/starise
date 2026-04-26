@@ -4,6 +4,7 @@
   "name": "redsync",
   "full_name": "go-redsync/redsync",
   "description": "Distributed mutual exclusion lock using Redis for Go",
+  "description_ja": "",
   "url": "https://github.com/go-redsync/redsync",
   "homepage_url": "http://redis.io/topics/distlock",
   "language": "Go",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 4003
+    },
+    {
+      "date": "2026-04-26",
       "stars": 4003
     }
   ]

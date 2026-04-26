@@ -4,6 +4,7 @@
   "name": "claude_code_agent_farm",
   "full_name": "dicklesworthstone/claude_code_agent_farm",
   "description": "Orchestration framework for running 20+ Claude Code agents in parallel: automated bug fixing, best-practices sweeps, lock-based coordination, and real-time tmux monitoring",
+  "description_ja": "",
   "url": "https://github.com/Dicklesworthstone/claude_code_agent_farm",
   "homepage_url": "",
   "language": "Shell",
@@ -15,12 +16,12 @@
     "python",
     "tmux"
   ],
-  "star_count": 789,
-  "fork_count": 85,
+  "star_count": 793,
+  "fork_count": 86,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-28T01:46:46Z",
-  "updated_at": "2026-04-25T16:47:22Z",
+  "updated_at": "2026-04-26T17:15:02Z",
   "pushed_at": "2026-04-06T00:02:12Z",
   "deleted_at": "",
   "star_history": [
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 789
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 793
     }
   ]
 }

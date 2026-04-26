@@ -4,6 +4,7 @@
   "name": "pg_background",
   "full_name": "vibhorkum/pg_background",
   "description": "Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.",
+  "description_ja": "",
   "url": "https://github.com/vibhorkum/pg_background",
   "homepage_url": "https://github.com/vibhorkum/pg_background",
   "language": "PLpgSQL",
@@ -26,13 +27,13 @@
     "sql",
     "vacuum"
   ],
-  "star_count": 246,
+  "star_count": 247,
   "fork_count": 42,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-06-06T22:25:42Z",
-  "updated_at": "2026-04-23T19:42:14Z",
-  "pushed_at": "2026-04-25T17:09:40Z",
+  "updated_at": "2026-04-26T05:45:29Z",
+  "pushed_at": "2026-04-26T12:15:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 246
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 247
     }
   ]
 }

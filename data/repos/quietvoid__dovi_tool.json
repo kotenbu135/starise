@@ -4,6 +4,7 @@
   "name": "dovi_tool",
   "full_name": "quietvoid/dovi_tool",
   "description": "dovi_tool is a CLI tool combining multiple utilities for working with Dolby Vision.",
+  "description_ja": "",
   "url": "https://github.com/quietvoid/dovi_tool",
   "homepage_url": "",
   "language": "Rust",
@@ -16,12 +17,12 @@
     "ffmpeg",
     "hdr"
   ],
-  "star_count": 932,
+  "star_count": 934,
   "fork_count": 73,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-04T23:31:18Z",
-  "updated_at": "2026-04-24T01:38:20Z",
+  "updated_at": "2026-04-26T11:24:56Z",
   "pushed_at": "2026-04-14T23:50:40Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 932
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 934
     }
   ]
 }

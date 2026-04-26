@@ -4,6 +4,7 @@
   "name": "wrapping.nvim",
   "full_name": "andrewferrier/wrapping.nvim",
   "description": "Plugin to make it easier to switch between 'soft' and 'hard' line wrapping in NeoVim",
+  "description_ja": "NeoVim で「ソフト」「ハード」な改行折り返しを切り替えやすくするプラグイン",
   "url": "https://github.com/andrewferrier/wrapping.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 176
+    },
+    {
+      "date": "2026-04-26",
       "stars": 176
     }
   ]

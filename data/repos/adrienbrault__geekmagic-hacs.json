@@ -4,6 +4,7 @@
   "name": "geekmagic-hacs",
   "full_name": "adrienbrault/geekmagic-hacs",
   "description": "Home Assistant integration for GeekMagic displays (SmallTV Pro/Ultra). Server-side rendering, no device flashing required.",
+  "description_ja": "GeekMagicディスプレイ（SmallTV Pro/Ultra）向けHome Assistant統合。サーバーサイドレンダリング、デバイスのフラッシュ不要。",
   "url": "https://github.com/adrienbrault/geekmagic-hacs",
   "homepage_url": "",
   "language": "Python",
@@ -18,12 +19,12 @@
     "iot",
     "smalltv"
   ],
-  "star_count": 219,
+  "star_count": 221,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-13T09:45:01Z",
-  "updated_at": "2026-04-25T10:46:19Z",
+  "updated_at": "2026-04-26T14:08:34Z",
   "pushed_at": "2026-03-30T15:46:52Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 219
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 221
     }
   ]
 }

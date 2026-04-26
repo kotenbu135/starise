@@ -4,6 +4,7 @@
   "name": "pipeline.nvim",
   "full_name": "topaxi/pipeline.nvim",
   "description": "See status of ci/cd pipeline runs directly in neovim. Currently supports GitHub Actions and GitLab CI.",
+  "description_ja": "",
   "url": "https://github.com/topaxi/pipeline.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 183
+    },
+    {
+      "date": "2026-04-26",
       "stars": 183
     }
   ]

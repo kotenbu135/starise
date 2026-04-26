@@ -4,6 +4,7 @@
   "name": "mediawiki-aws-s3",
   "full_name": "edwardspec/mediawiki-aws-s3",
   "description": "Extension:AWS allows MediaWiki to use Amazon S3 (instead of the local directory) to store images.",
+  "description_ja": "",
   "url": "https://github.com/edwardspec/mediawiki-aws-s3",
   "homepage_url": "https://www.mediawiki.org/wiki/Extension:AWS",
   "language": "PHP",
@@ -26,6 +27,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 50
+    },
+    {
+      "date": "2026-04-26",
       "stars": 50
     }
   ]

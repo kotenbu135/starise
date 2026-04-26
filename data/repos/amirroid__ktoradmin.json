@@ -4,6 +4,7 @@
   "name": "ktoradmin",
   "full_name": "amirroid/ktoradmin",
   "description": "A dynamic admin panel for Ktor applications, supporting ORM structures without predefined schemas and simplifying data management with advanced features.",
+  "description_ja": "Ktorアプリケーション用の動的管理パネル。事前定義スキーマなしでORM構造をサポートし、高度な機能でデータ管理を簡素化。",
   "url": "https://github.com/amirroid/KtorAdmin",
   "homepage_url": "https://amirreza-gholami.gitbook.io/ktor-admin",
   "language": "Kotlin",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 32
+    },
+    {
+      "date": "2026-04-26",
       "stars": 32
     }
   ]

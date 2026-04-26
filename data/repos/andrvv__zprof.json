@@ -4,6 +4,7 @@
   "name": "zprof",
   "full_name": "andrvv/zprof",
   "description": "A cross-allocator memory profiler for Zig. Tracks logical allocations, detects memory leaks, and logs memory changes with optional thread-safe mode.",
+  "description_ja": "Zig向けクロスアロケータ・メモリプロファイラ。論理アロケーションを追跡し、メモリリークを検出、メモリ変動をログ出力。スレッドセーフモードもオプションで利用可能。",
   "url": "https://github.com/ANDRVV/zprof",
   "homepage_url": "",
   "language": "Zig",
@@ -16,12 +17,12 @@
     "zig-package",
     "ziglang"
   ],
-  "star_count": 108,
+  "star_count": 109,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-10T19:34:43Z",
-  "updated_at": "2026-04-25T15:34:57Z",
+  "updated_at": "2026-04-26T05:42:41Z",
   "pushed_at": "2026-04-14T21:26:39Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 108
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 109
     }
   ]
 }

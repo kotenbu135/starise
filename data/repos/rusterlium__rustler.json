@@ -4,6 +4,7 @@
   "name": "rustler",
   "full_name": "rusterlium/rustler",
   "description": "Safe Rust bridge for creating Erlang NIF functions",
+  "description_ja": "",
   "url": "https://github.com/rusterlium/rustler",
   "homepage_url": "https://docs.rs/crate/rustler",
   "language": "Rust",
@@ -16,12 +17,12 @@
     "nif",
     "rust"
   ],
-  "star_count": 4785,
+  "star_count": 4784,
   "fork_count": 238,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-08-18T16:25:26Z",
-  "updated_at": "2026-04-23T16:11:47Z",
+  "updated_at": "2026-04-26T14:50:53Z",
   "pushed_at": "2026-03-15T18:14:42Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 4785
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4784
     }
   ]
 }

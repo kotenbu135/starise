@@ -4,6 +4,7 @@
   "name": "rustpython",
   "full_name": "rustpython/rustpython",
   "description": "A Python Interpreter written in Rust",
+  "description_ja": "",
   "url": "https://github.com/RustPython/RustPython",
   "homepage_url": "https://rustpython.github.io",
   "language": "Rust",
@@ -19,13 +20,13 @@
     "rust",
     "wasm"
   ],
-  "star_count": 22026,
+  "star_count": 22023,
   "fork_count": 1429,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-05-28T19:27:01Z",
-  "updated_at": "2026-04-25T17:31:20Z",
-  "pushed_at": "2026-04-25T16:34:07Z",
+  "updated_at": "2026-04-26T16:05:00Z",
+  "pushed_at": "2026-04-26T06:13:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 22026
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 22023
     }
   ]
 }

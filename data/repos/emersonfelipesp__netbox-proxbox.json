@@ -4,6 +4,7 @@
   "name": "netbox-proxbox",
   "full_name": "emersonfelipesp/netbox-proxbox",
   "description": "Netbox Plugin for integration between Proxmox and Netbox",
+  "description_ja": "",
   "url": "https://github.com/emersonfelipesp/netbox-proxbox",
   "homepage_url": "https://emersonfelipesp.github.io/netbox-proxbox/",
   "language": "Python",
@@ -30,7 +31,7 @@
     "virtualization"
   ],
   "star_count": 536,
-  "fork_count": 63,
+  "fork_count": 62,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-07T20:26:30Z",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 536
+    },
+    {
+      "date": "2026-04-26",
       "stars": 536
     }
   ]

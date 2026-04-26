@@ -4,6 +4,7 @@
   "name": "recordlinker",
   "full_name": "cdcgov/recordlinker",
   "description": "The RecordLinker is a service that links records from two datasets based on a set of common attributes. The service is designed to be used in a variety of public health contexts, such as linking patient records from different sources or linking records from different public health surveillance systems.",
+  "description_ja": "",
   "url": "https://github.com/CDCgov/RecordLinker",
   "homepage_url": "https://cdcgov.github.io/RecordLinker/",
   "language": "Python",
@@ -24,6 +25,10 @@
   "star_history": [
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

@@ -3,19 +3,20 @@
   "owner": "wanxingai",
   "name": "lightagent",
   "full_name": "wanxingai/lightagent",
-  "description": "LightAgent: Lightweight AI agent framework with memory, tools \u0026 tree-of-thought. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.",
+  "description": "LightAgent: Lightweight AI agent framework with memory, mcp \u0026 skill. Supports multi-agent collaboration, self-learning, and major LLMs (OpenAI/DeepSeek/Qwen). Open-source with MCP/SSE protocol integration.",
+  "description_ja": "",
   "url": "https://github.com/wanxingai/LightAgent",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 894,
+  "star_count": 899,
   "fork_count": 118,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-20T12:31:57Z",
-  "updated_at": "2026-04-25T15:43:31Z",
-  "pushed_at": "2026-04-13T14:30:04Z",
+  "updated_at": "2026-04-26T15:36:51Z",
+  "pushed_at": "2026-04-26T14:25:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 894
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 899
     }
   ]
 }

@@ -3,23 +3,31 @@
   "owner": "ctrlpanel-gg",
   "name": "panel",
   "full_name": "ctrlpanel-gg/panel",
-  "description": "CtrlPanel offers an easy-to-use and free billing solution for all starting and experienced hosting providers that seamlessly integrates with the Pterodactyl panel.",
+  "description": "Free, easy-to-use billing solution for hosting providers with seamless Pterodactyl Panel integration",
+  "description_ja": "",
   "url": "https://github.com/Ctrlpanel-gg/panel",
   "homepage_url": "https://ctrlpanel.gg/",
   "language": "PHP",
   "license": "MPL-2.0",
   "topics": [
     "billing",
-    "ctrlpanel",
+    "commerce",
+    "ecommerce",
+    "laravel",
+    "marketplace",
+    "open-source",
     "payment",
-    "pterodactyl"
+    "paypal",
+    "php",
+    "pterodactyl-panel",
+    "stripe"
   ],
   "star_count": 501,
   "fork_count": 178,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-05T09:26:12Z",
-  "updated_at": "2026-04-24T13:23:42Z",
+  "updated_at": "2026-04-26T04:25:22Z",
   "pushed_at": "2026-04-24T12:38:47Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 501
+    },
+    {
+      "date": "2026-04-26",
       "stars": 501
     }
   ]

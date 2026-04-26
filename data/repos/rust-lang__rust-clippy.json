@@ -4,6 +4,7 @@
   "name": "rust-clippy",
   "full_name": "rust-lang/rust-clippy",
   "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+  "description_ja": "",
   "url": "https://github.com/rust-lang/rust-clippy",
   "homepage_url": "https://rust-lang.github.io/rust-clippy/",
   "language": "Rust",
@@ -12,13 +13,13 @@
     "lint",
     "rust"
   ],
-  "star_count": 13100,
-  "fork_count": 1977,
+  "star_count": 13102,
+  "fork_count": 1979,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-11-19T07:49:21Z",
-  "updated_at": "2026-04-25T03:55:09Z",
-  "pushed_at": "2026-04-25T03:55:06Z",
+  "updated_at": "2026-04-26T15:06:22Z",
+  "pushed_at": "2026-04-26T13:50:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 13100
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 13102
     }
   ]
 }

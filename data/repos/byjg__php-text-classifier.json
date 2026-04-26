@@ -4,6 +4,7 @@
   "name": "php-text-classifier",
   "full_name": "byjg/php-text-classifier",
   "description": "A PHP text classifier supporting binary spam filtering (Robinson-Fisher Bayesian) and multi-class Naive Bayes classification, with optional LLM-assisted active learning fallback.",
+  "description_ja": "",
   "url": "https://github.com/byjg/php-text-classifier",
   "homepage_url": "",
   "language": "PHP",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

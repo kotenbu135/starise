@@ -4,6 +4,7 @@
   "name": "sentencepiece",
   "full_name": "google/sentencepiece",
   "description": "Unsupervised text tokenizer for Neural Network-based text generation.",
+  "description_ja": "",
   "url": "https://github.com/google/sentencepiece",
   "homepage_url": "",
   "language": "C++",
@@ -13,13 +14,13 @@
     "neural-machine-translation",
     "word-segmentation"
   ],
-  "star_count": 11783,
-  "fork_count": 1337,
+  "star_count": 11785,
+  "fork_count": 1338,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-03-07T10:03:48Z",
-  "updated_at": "2026-04-25T11:15:12Z",
-  "pushed_at": "2026-04-22T10:21:57Z",
+  "updated_at": "2026-04-26T08:37:00Z",
+  "pushed_at": "2026-04-26T08:36:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 11783
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 11785
     }
   ]
 }

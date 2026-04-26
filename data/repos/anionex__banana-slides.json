@@ -4,9 +4,10 @@
   "name": "banana-slides",
   "full_name": "anionex/banana-slides",
   "description": "一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材\u0026智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌",
+  "description_ja": "nano banana pro🍌をベースにしたAIネイティブのスライド生成アプリ、真の\"Vibe PPT\"を目指す。任意のテンプレート画像のアップロードに対応、任意の素材アップロードとスマート解析、一文/アウトライン/ページ説明からPPTを自動生成、指定範囲を口頭で修正、編集可能なpptをワンクリックでエクスポート — nano banana pro🍌ベースのAIネイティブスライド生成ツール",
   "url": "https://github.com/Anionex/banana-slides",
   "homepage_url": "http://bananaslides.online",
-  "language": "TypeScript",
+  "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
     "ai-ppt-maker",
@@ -21,13 +22,13 @@
     "slides",
     "text2image"
   ],
-  "star_count": 14134,
-  "fork_count": 1663,
+  "star_count": 14148,
+  "fork_count": 1667,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-29T17:37:26Z",
-  "updated_at": "2026-04-25T15:31:50Z",
-  "pushed_at": "2026-04-25T15:31:46Z",
+  "updated_at": "2026-04-26T16:50:41Z",
+  "pushed_at": "2026-04-26T16:53:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 14134
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 14148
     }
   ]
 }

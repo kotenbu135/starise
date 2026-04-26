@@ -4,6 +4,7 @@
   "name": "zonetree",
   "full_name": "koculu/zonetree",
   "description": "ZoneTree is a persistent, high-performance, transactional, and ACID-compliant ordered key-value database for .NET. It operates seamlessly both in-memory and on local/cloud storage, making it an ideal choice for a wide range of applications requiring efficient data management.",
+  "description_ja": "",
   "url": "https://github.com/koculu/ZoneTree",
   "homepage_url": "https://tenray.io/",
   "language": "C#",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 470
+    },
+    {
+      "date": "2026-04-26",
       "stars": 470
     }
   ]

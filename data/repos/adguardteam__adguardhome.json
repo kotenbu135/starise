@@ -4,6 +4,7 @@
   "name": "adguardhome",
   "full_name": "adguardteam/adguardhome",
   "description": "Network-wide ads \u0026 trackers blocking DNS server",
+  "description_ja": "[7] ネットワーク全体の広告・トラッカーをブロックするDNSサーバ",
   "url": "https://github.com/AdguardTeam/AdGuardHome",
   "homepage_url": "https://adguard.com/adguard-home/overview.html",
   "language": "Go",
@@ -20,12 +21,12 @@
     "open-source",
     "privacy"
   ],
-  "star_count": 33689,
-  "fork_count": 2318,
+  "star_count": 33700,
+  "fork_count": 2319,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-07-06T10:31:47Z",
-  "updated_at": "2026-04-25T15:39:02Z",
+  "updated_at": "2026-04-26T15:26:56Z",
   "pushed_at": "2026-04-24T15:13:11Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 33689
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 33700
     }
   ]
 }

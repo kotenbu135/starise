@@ -4,6 +4,7 @@
   "name": "diffsitter",
   "full_name": "afnanenayet/diffsitter",
   "description": "A tree-sitter based AST difftool to get meaningful semantic diffs",
+  "description_ja": "意味のあるセマンティック差分を取得するためのtree-sitterベースAST diffツール",
   "url": "https://github.com/afnanenayet/diffsitter",
   "homepage_url": "",
   "language": "Rust",
@@ -15,13 +16,13 @@
     "rust",
     "tree-sitter"
   ],
-  "star_count": 2361,
+  "star_count": 2362,
   "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-28T04:45:22Z",
-  "updated_at": "2026-04-25T16:09:36Z",
-  "pushed_at": "2026-04-25T05:40:53Z",
+  "updated_at": "2026-04-26T05:33:32Z",
+  "pushed_at": "2026-04-26T05:53:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 2361
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2362
     }
   ]
 }

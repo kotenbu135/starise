@@ -4,6 +4,7 @@
   "name": "ugrep",
   "full_name": "genivia/ugrep",
   "description": "🔍 ugrep 7.7 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar, pax, cpio), compressed files (gz, Z, bz2, lzma, xz, lz4, zstd, brotli), pdfs, docs, and more",
+  "description_ja": "",
   "url": "https://github.com/Genivia/ugrep",
   "homepage_url": "https://ugrep.com",
   "language": "C++",
@@ -26,12 +27,12 @@
     "unicode",
     "zip"
   ],
-  "star_count": 3119,
+  "star_count": 3120,
   "fork_count": 136,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-29T01:42:38Z",
-  "updated_at": "2026-04-25T02:31:24Z",
+  "updated_at": "2026-04-26T06:43:43Z",
   "pushed_at": "2026-04-22T19:53:32Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 3119
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3120
     }
   ]
 }

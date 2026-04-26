@@ -4,6 +4,7 @@
   "name": "vulnerablecode",
   "full_name": "aboutcode-org/vulnerablecode",
   "description": "A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these vulnerabilities. Sponsored by NLnet https://nlnet.nl/project/vulnerabilitydatabase/ for https://www.aboutcode.org/ Chat at https://gitter.im/aboutcode-org/vulnerablecode  Docs at https://vulnerablecode.readthedocs.org/",
+  "description_ja": "フリーかつオープンな脆弱性データベースと影響を受けるパッケージ群、およびそれらを集約・相関させるツール。NLnet https://nlnet.nl/project/vulnerabilitydatabase/ が https://www.aboutcode.org/ のためにスポンサー。チャット: https://gitter.im/aboutcode-org/vulnerablecode  ドキュメント: https://vulnerablecode.readthedocs.org/",
   "url": "https://github.com/aboutcode-org/vulnerablecode",
   "homepage_url": "https://public.vulnerablecode.io",
   "language": "Python",
@@ -28,12 +29,12 @@
     "vulnerability-identification",
     "vulnerability-scanners"
   ],
-  "star_count": 661,
+  "star_count": 662,
   "fork_count": 303,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-05-19T07:56:17Z",
-  "updated_at": "2026-04-24T12:19:02Z",
+  "updated_at": "2026-04-25T22:09:26Z",
   "pushed_at": "2026-04-24T12:20:35Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 661
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 662
     }
   ]
 }

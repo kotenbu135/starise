@@ -4,6 +4,7 @@
   "name": "browserwing",
   "full_name": "browserwing/browserwing",
   "description": "BrowserWing turns your browser actions into MCP commands Or Claude Skill, allowing AI agents to control browsers efficiently and reliably. Say goodbye to slow, token-heavy LLM interactions — let agents call commands directly for faster automation. Perfect for AI-driven tasks, browser automation, and boosting productivity.",
+  "description_ja": "",
   "url": "https://github.com/browserwing/browserwing",
   "homepage_url": "https://www.browserwing.com",
   "language": "Go",
@@ -14,12 +15,12 @@
     "llm",
     "react"
   ],
-  "star_count": 1245,
-  "fork_count": 107,
+  "star_count": 1249,
+  "fork_count": 108,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-10T23:54:17Z",
-  "updated_at": "2026-04-25T09:27:32Z",
+  "updated_at": "2026-04-26T16:05:50Z",
   "pushed_at": "2026-04-24T10:18:02Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 1245
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1249
     }
   ]
 }

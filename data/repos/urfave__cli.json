@@ -4,6 +4,7 @@
   "name": "cli",
   "full_name": "urfave/cli",
   "description": "A declarative, simple, fast, and fun package for building command line tools in Go",
+  "description_ja": "",
   "url": "https://github.com/urfave/cli",
   "homepage_url": "https://cli.urfave.org",
   "language": "Go",
@@ -17,12 +18,12 @@
     "toml",
     "yaml"
   ],
-  "star_count": 23993,
+  "star_count": 23994,
   "fork_count": 1773,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-07-13T19:32:06Z",
-  "updated_at": "2026-04-25T15:23:03Z",
+  "updated_at": "2026-04-26T14:43:57Z",
   "pushed_at": "2026-04-18T18:48:23Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 23993
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 23994
     }
   ]
 }

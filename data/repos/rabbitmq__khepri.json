@@ -4,6 +4,7 @@
   "name": "khepri",
   "full_name": "rabbitmq/khepri",
   "description": "Khepri is a tree-like replicated on-disk database library for Erlang and Elixir.",
+  "description_ja": "",
   "url": "https://github.com/rabbitmq/khepri",
   "homepage_url": "https://rabbitmq.github.io/khepri/",
   "language": "Erlang",
@@ -18,12 +19,12 @@
     "erlang-library",
     "raft"
   ],
-  "star_count": 460,
+  "star_count": 461,
   "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-03-15T13:38:36Z",
-  "updated_at": "2026-04-23T09:44:15Z",
+  "updated_at": "2026-04-26T16:04:37Z",
   "pushed_at": "2026-04-24T13:55:36Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 460
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 461
     }
   ]
 }

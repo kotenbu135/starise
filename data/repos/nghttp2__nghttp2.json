@@ -4,6 +4,7 @@
   "name": "nghttp2",
   "full_name": "nghttp2/nghttp2",
   "description": "nghttp2 - HTTP/2 C Library and tools",
+  "description_ja": "",
   "url": "https://github.com/nghttp2/nghttp2",
   "homepage_url": "https://nghttp2.org",
   "language": "C++",
@@ -15,13 +16,13 @@
     "http3",
     "quic"
   ],
-  "star_count": 4985,
-  "fork_count": 931,
+  "star_count": 4988,
+  "fork_count": 930,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-07-16T15:12:33Z",
-  "updated_at": "2026-04-25T09:26:04Z",
-  "pushed_at": "2026-04-25T10:36:48Z",
+  "updated_at": "2026-04-26T12:29:26Z",
+  "pushed_at": "2026-04-26T12:29:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 4985
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4988
     }
   ]
 }

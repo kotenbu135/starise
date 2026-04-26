@@ -4,6 +4,7 @@
   "name": "scramblery",
   "full_name": "altunenes/scramblery",
   "description": "Desktop app for image and video scrambling/bluring with various methods including Fourier phase, diffeomorphic scramble with optical flow : Entire image/video or just detected facial area.",
+  "description_ja": "画像・動画のスクランブル／ぼかしを行うデスクトップアプリ。フーリエ位相、オプティカルフローによる微分同相スクランブルなど多彩な手法に対応。画像・動画全体または検出した顔領域のみに適用可能",
   "url": "https://github.com/altunenes/scramblery",
   "homepage_url": "",
   "language": "Rust",
@@ -26,7 +27,7 @@
     "video-processing"
   ],
   "star_count": 29,
-  "fork_count": 1,
+  "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-17T20:08:33Z",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

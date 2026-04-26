@@ -4,6 +4,7 @@
   "name": "examples",
   "full_name": "serverless/examples",
   "description": "Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.",
+  "description_ja": "",
   "url": "https://github.com/serverless/examples",
   "homepage_url": "https://www.serverless.com/examples/",
   "language": "JavaScript",
@@ -14,7 +15,7 @@
     "serverless-framework"
   ],
   "star_count": 11517,
-  "fork_count": 4400,
+  "fork_count": 4399,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-11-12T02:14:55Z",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 11517
+    },
+    {
+      "date": "2026-04-26",
       "stars": 11517
     }
   ]

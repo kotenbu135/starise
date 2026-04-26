@@ -4,6 +4,7 @@
   "name": "functions-samples",
   "full_name": "firebase/functions-samples",
   "description": "Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase",
+  "description_ja": "",
   "url": "https://github.com/firebase/functions-samples",
   "homepage_url": "https://firebase.google.com/docs/functions",
   "language": "JavaScript",
@@ -18,13 +19,13 @@
     "google-cloud-storage",
     "serverless"
   ],
-  "star_count": 12226,
-  "fork_count": 3843,
+  "star_count": 12225,
+  "fork_count": 3844,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-10-18T17:40:55Z",
-  "updated_at": "2026-04-24T10:43:08Z",
-  "pushed_at": "2026-04-25T08:44:48Z",
+  "updated_at": "2026-04-26T14:45:29Z",
+  "pushed_at": "2026-04-26T08:44:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 12226
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 12225
     }
   ]
 }

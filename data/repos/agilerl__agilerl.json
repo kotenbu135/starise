@@ -4,6 +4,7 @@
   "name": "agilerl",
   "full_name": "agilerl/agilerl",
   "description": "Streamlining reinforcement learning with RLOps. State-of-the-art RL algorithms and tools, with 10x faster training through evolutionary hyperparameter optimization.",
+  "description_ja": "RLOpsで強化学習を効率化。最先端のRLアルゴリズムとツール、進化的ハイパーパラメータ最適化により10倍高速なトレーニングを実現",
   "url": "https://github.com/AgileRL/AgileRL",
   "homepage_url": "https://agilerl.com",
   "language": "Python",
@@ -30,12 +31,12 @@
     "rlops",
     "training"
   ],
-  "star_count": 911,
+  "star_count": 912,
   "fork_count": 72,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-01T15:27:51Z",
-  "updated_at": "2026-04-20T11:28:25Z",
+  "updated_at": "2026-04-25T17:14:58Z",
   "pushed_at": "2026-04-24T17:35:51Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 911
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 912
     }
   ]
 }

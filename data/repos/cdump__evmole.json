@@ -4,6 +4,7 @@
   "name": "evmole",
   "full_name": "cdump/evmole",
   "description": "Extracts function selectors, arguments, state mutability and storage layout from EVM bytecode, even for unverified contracts",
+  "description_ja": "",
   "url": "https://github.com/cdump/evmole",
   "homepage_url": "https://evmole.xyz",
   "language": "Rust",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 435
+    },
+    {
+      "date": "2026-04-26",
       "stars": 435
     }
   ]

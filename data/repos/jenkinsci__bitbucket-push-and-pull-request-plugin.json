@@ -4,6 +4,7 @@
   "name": "bitbucket-push-and-pull-request-plugin",
   "full_name": "jenkinsci/bitbucket-push-and-pull-request-plugin",
   "description": "Plugin for Jenkins v2.138.2 or later, that triggers job builds on Bitbucket's push and pull request events.",
+  "description_ja": "",
   "url": "https://github.com/jenkinsci/bitbucket-push-and-pull-request-plugin",
   "homepage_url": "https://plugins.jenkins.io/bitbucket-push-and-pull-request",
   "language": "Java",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

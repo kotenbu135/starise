@@ -4,6 +4,7 @@
   "name": "etl",
   "full_name": "supabase/etl",
   "description": "Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.",
+  "description_ja": "",
   "url": "https://github.com/supabase/etl",
   "homepage_url": "https://supabase.github.io/etl/",
   "language": "Rust",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2227
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2227
     }
   ]

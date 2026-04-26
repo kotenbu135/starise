@@ -4,6 +4,7 @@
   "name": "graphgen",
   "full_name": "internscience/graphgen",
   "description": "GraphGen: Enhancing Supervised Fine-Tuning for LLMs with Knowledge-Driven Synthetic Data Generation",
+  "description_ja": "",
   "url": "https://github.com/InternScience/GraphGen",
   "homepage_url": "https://chenzihong.gitbook.io/graphgen-cookbook/",
   "language": "Python",
@@ -26,12 +27,12 @@
     "sft-data",
     "xtuner"
   ],
-  "star_count": 1026,
+  "star_count": 1025,
   "fork_count": 80,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-08T06:49:17Z",
-  "updated_at": "2026-04-23T15:26:20Z",
+  "updated_at": "2026-04-26T12:54:30Z",
   "pushed_at": "2026-04-13T12:09:50Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 1026
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1025
     }
   ]
 }

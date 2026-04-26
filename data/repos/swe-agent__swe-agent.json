@@ -4,6 +4,7 @@
   "name": "swe-agent",
   "full_name": "swe-agent/swe-agent",
   "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] ",
+  "description_ja": "",
   "url": "https://github.com/SWE-agent/SWE-agent",
   "homepage_url": "https://swe-agent.com",
   "language": "Python",
@@ -17,12 +18,12 @@
     "llm",
     "lms"
   ],
-  "star_count": 19057,
-  "fork_count": 2059,
+  "star_count": 19064,
+  "fork_count": 2058,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-02T04:09:47Z",
-  "updated_at": "2026-04-25T14:13:03Z",
+  "updated_at": "2026-04-26T16:28:07Z",
   "pushed_at": "2026-04-20T21:22:07Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 19057
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 19064
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "kapp",
   "full_name": "carvel-dev/kapp",
   "description": "kapp is a simple deployment tool focused on the concept of \"Kubernetes application\" — a set of resources with the same label",
+  "description_ja": "",
   "url": "https://github.com/carvel-dev/kapp",
   "homepage_url": "https://carvel.dev/kapp",
   "language": "Go",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1053
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1053
     }
   ]

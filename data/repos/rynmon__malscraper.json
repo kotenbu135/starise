@@ -4,6 +4,7 @@
   "name": "malscraper",
   "full_name": "rynmon/malscraper",
   "description": "Scrapes a list of Payload Domains, IOC's \u0026 C2 IPs from from various feeds for easy blacklisting.",
+  "description_ja": "",
   "url": "https://github.com/rynmon/malScraper",
   "homepage_url": "https://rynmon.ie/malScraper.html",
   "language": "Rust",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

@@ -4,6 +4,7 @@
   "name": "fp-go",
   "full_name": "ibm/fp-go",
   "description": "Functional programming library for Go 1.24+, inspired by fp-ts. Uses generic type aliases for a clean, composable API. Provides Option, Either, Result, IO, IOResult, Reader, and ReaderIOResult monads, plus optics (Lens, Prism, Traversal) for immutable data manipulation. Supports Functor, Applicative, and Monad abstractions with do-notation-style",
+  "description_ja": "",
   "url": "https://github.com/IBM/fp-go",
   "homepage_url": "https://github.com/IBM/fp-go/tree/main/v2",
   "language": "Go",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1982
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1982
     }
   ]

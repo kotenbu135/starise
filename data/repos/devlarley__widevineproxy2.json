@@ -4,6 +4,7 @@
   "name": "widevineproxy2",
   "full_name": "devlarley/widevineproxy2",
   "description": "An extension-based proxy for Widevine EME challenges and license messages. Modifies the challenge before it reaches the web player. Bypasses Hashes, one-time-tokens and license wrapping.",
+  "description_ja": "",
   "url": "https://github.com/DevLARLEY/WidevineProxy2",
   "homepage_url": "",
   "language": "JavaScript",
@@ -27,12 +28,12 @@
     "widevine-drm",
     "widevine-l3-decryptor"
   ],
-  "star_count": 862,
+  "star_count": 863,
   "fork_count": 152,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-22T09:08:35Z",
-  "updated_at": "2026-04-25T06:25:09Z",
+  "updated_at": "2026-04-26T17:12:07Z",
   "pushed_at": "2026-03-15T07:06:42Z",
   "deleted_at": "",
   "star_history": [
@@ -47,6 +48,10 @@
     {
       "date": "2026-04-25",
       "stars": 862
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 863
     }
   ]
 }

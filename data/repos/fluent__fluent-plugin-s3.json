@@ -4,6 +4,7 @@
   "name": "fluent-plugin-s3",
   "full_name": "fluent/fluent-plugin-s3",
   "description": "Amazon S3 input and output plugin for Fluentd",
+  "description_ja": "",
   "url": "https://github.com/fluent/fluent-plugin-s3",
   "homepage_url": "https://docs.fluentd.org/output/s3",
   "language": "Ruby",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 321
+    },
+    {
+      "date": "2026-04-26",
       "stars": 321
     }
   ]

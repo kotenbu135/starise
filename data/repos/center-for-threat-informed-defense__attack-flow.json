@@ -4,6 +4,7 @@
   "name": "attack-flow",
   "full_name": "center-for-threat-informed-defense/attack-flow",
   "description": "Attack Flow helps executives, SOC managers, and defenders easily understand how attackers compose ATT\u0026CK techniques into attacks by developing a representation of attack flows, modeling attack flows for a small corpus of incidents, and creating visualization tools to display attack flows.",
+  "description_ja": "",
   "url": "https://github.com/center-for-threat-informed-defense/attack-flow",
   "homepage_url": "https://ctid.io/flow",
   "language": "TypeScript",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 735
+    },
+    {
+      "date": "2026-04-26",
       "stars": 735
     }
   ]

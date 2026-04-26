@@ -4,6 +4,7 @@
   "name": "pinto_model_zoo",
   "full_name": "pinto0309/pinto_model_zoo",
   "description": "A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), EdgeTPU, CoreML.",
+  "description_ja": "",
   "url": "https://github.com/PINTO0309/PINTO_model_zoo",
   "homepage_url": "https://qiita.com/PINTO",
   "language": "Python",
@@ -30,12 +31,12 @@
     "tflite",
     "tflite-models"
   ],
-  "star_count": 4136,
+  "star_count": 4137,
   "fork_count": 638,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-11T13:02:40Z",
-  "updated_at": "2026-04-24T11:09:44Z",
+  "updated_at": "2026-04-26T08:19:53Z",
   "pushed_at": "2026-04-17T00:43:36Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 4136
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4137
     }
   ]
 }

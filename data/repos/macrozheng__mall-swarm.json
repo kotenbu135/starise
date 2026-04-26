@@ -4,6 +4,7 @@
   "name": "mall-swarm",
   "full_name": "macrozheng/mall-swarm",
   "description": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud Alibaba、Spring Boot 3.2、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。",
+  "description_ja": "",
   "url": "https://github.com/macrozheng/mall-swarm",
   "homepage_url": "https://cloud.macrozheng.com",
   "language": "Java",
@@ -24,12 +25,12 @@
     "springboot",
     "springcloud"
   ],
-  "star_count": 12928,
+  "star_count": 12926,
   "fork_count": 5511,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-11-25T06:55:31Z",
-  "updated_at": "2026-04-25T02:09:01Z",
+  "updated_at": "2026-04-26T12:58:49Z",
   "pushed_at": "2025-10-16T06:34:06Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 12928
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 12926
     }
   ]
 }

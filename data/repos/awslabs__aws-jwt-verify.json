@@ -4,6 +4,7 @@
   "name": "aws-jwt-verify",
   "full_name": "awslabs/aws-jwt-verify",
   "description": "JS library for verifying JWTs signed by Amazon Cognito, and any OIDC-compatible IDP that signs JWTs with RS256, RS384, RS512, ES256, ES384, ES512, Ed25519 and Ed448",
+  "description_ja": "",
   "url": "https://github.com/awslabs/aws-jwt-verify",
   "homepage_url": "",
   "language": "TypeScript",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 738
+    },
+    {
+      "date": "2026-04-26",
       "stars": 738
     }
   ]

@@ -4,6 +4,7 @@
   "name": "deep-image-matching",
   "full_name": "3dom-fbk/deep-image-matching",
   "description": "Multiview matching with deep-learning and hand-crafted local features for COLMAP and other SfM software. Supports high-resolution formats and images with rotations. Both CLI and GUI are supported.",
+  "description_ja": "COLMAPおよび他のSfMソフトウェア向けのディープラーニングと手作り局所特徴量によるマルチビューマッチング。高解像度フォーマットと回転画像をサポート。CLIとGUIの両方に対応",
   "url": "https://github.com/3DOM-FBK/deep-image-matching",
   "homepage_url": "https://3dom-fbk.github.io/deep-image-matching/",
   "language": "Python",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 535
+    },
+    {
+      "date": "2026-04-26",
       "stars": 535
     }
   ]

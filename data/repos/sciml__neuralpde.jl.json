@@ -4,6 +4,7 @@
   "name": "neuralpde.jl",
   "full_name": "sciml/neuralpde.jl",
   "description": "Physics-Informed Neural Networks (PINN) Solvers of (Partial) Differential Equations for Scientific Machine Learning (SciML) accelerated simulation",
+  "description_ja": "",
   "url": "https://github.com/SciML/NeuralPDE.jl",
   "homepage_url": "https://docs.sciml.ai/NeuralPDE/stable/",
   "language": "Julia",
@@ -25,12 +26,12 @@
     "scientific-ml",
     "sciml"
   ],
-  "star_count": 1191,
+  "star_count": 1192,
   "fork_count": 241,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-03-14T20:53:14Z",
-  "updated_at": "2026-04-24T20:21:49Z",
+  "updated_at": "2026-04-26T06:23:19Z",
   "pushed_at": "2026-04-23T08:15:41Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 1191
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1192
     }
   ]
 }

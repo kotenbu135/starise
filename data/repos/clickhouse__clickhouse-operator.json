@@ -4,6 +4,7 @@
   "name": "clickhouse-operator",
   "full_name": "clickhouse/clickhouse-operator",
   "description": "Official Kubernetes Operator for ClickHouse®",
+  "description_ja": "",
   "url": "https://github.com/ClickHouse/clickhouse-operator",
   "homepage_url": "https://clickhouse.com",
   "language": "Go",
@@ -17,7 +18,7 @@
     "kubernetes-operator"
   ],
   "star_count": 225,
-  "fork_count": 25,
+  "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-17T18:00:07Z",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 225
+    },
+    {
+      "date": "2026-04-26",
       "stars": 225
     }
   ]

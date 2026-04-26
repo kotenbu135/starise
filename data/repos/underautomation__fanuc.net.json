@@ -4,6 +4,7 @@
   "name": "fanuc.net",
   "full_name": "underautomation/fanuc.net",
   "description": "🦾.NET library to communicate with Fanuc robots. Nothing to install on the robot. 100% managed assembly with no dependencies. Modern alternative to PCDK (FRROBOT.DLL) or Robot IF (FRRJIF.DLL): pay once for a company-wide license, then use forever—no runtime or development fees, unlimited robots, developers, and redistributed software.",
+  "description_ja": "",
   "url": "https://github.com/underautomation/Fanuc.NET",
   "homepage_url": "https://underautomation.com/fanuc",
   "language": "C#",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 54
+    },
+    {
+      "date": "2026-04-26",
       "stars": 54
     }
   ]

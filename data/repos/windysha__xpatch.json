@@ -4,6 +4,7 @@
   "name": "xpatch",
   "full_name": "windysha/xpatch",
   "description": "This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.",
+  "description_ja": "",
   "url": "https://github.com/WindySha/Xpatch",
   "homepage_url": "",
   "language": "Java",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3004
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3004
     }
   ]

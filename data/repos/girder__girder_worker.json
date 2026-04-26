@@ -4,6 +4,7 @@
   "name": "girder_worker",
   "full_name": "girder/girder_worker",
   "description": "Distributed task execution engine with Girder integration, developed by Kitware",
+  "description_ja": "",
   "url": "https://github.com/girder/girder_worker",
   "homepage_url": "http://girder-worker.readthedocs.io/",
   "language": "Python",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 35
+    },
+    {
+      "date": "2026-04-26",
       "stars": 35
     }
   ]

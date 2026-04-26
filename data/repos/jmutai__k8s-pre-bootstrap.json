@@ -4,6 +4,7 @@
   "name": "k8s-pre-bootstrap",
   "full_name": "jmutai/k8s-pre-bootstrap",
   "description": "Ansible playbook to prepare Kubernetes nodes on Rocky Linux, AlmaLinux, Ubuntu \u0026 Debian - installs containerd/CRI-O/Docker, kubeadm, kubelet, kubectl.",
+  "description_ja": "",
   "url": "https://github.com/jmutai/k8s-pre-bootstrap",
   "homepage_url": "",
   "language": "Jinja",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 61
+    },
+    {
+      "date": "2026-04-26",
       "stars": 61
     }
   ]

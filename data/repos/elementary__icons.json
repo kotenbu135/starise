@@ -4,6 +4,7 @@
   "name": "icons",
   "full_name": "elementary/icons",
   "description": "Named, vector icons for elementary OS",
+  "description_ja": "",
   "url": "https://github.com/elementary/icons",
   "homepage_url": "https://elementary.io",
   "language": "Meson",
@@ -18,7 +19,7 @@
     "vector-icons"
   ],
   "star_count": 586,
-  "fork_count": 84,
+  "fork_count": 85,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-12-08T00:29:15Z",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 586
+    },
+    {
+      "date": "2026-04-26",
       "stars": 586
     }
   ]

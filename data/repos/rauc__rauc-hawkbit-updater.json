@@ -4,6 +4,7 @@
   "name": "rauc-hawkbit-updater",
   "full_name": "rauc/rauc-hawkbit-updater",
   "description": "Simple daemon running on your embedded Linux target interfacing between RAUC and hawkBit",
+  "description_ja": "",
   "url": "https://github.com/rauc/rauc-hawkbit-updater",
   "homepage_url": "https://rauc-hawkbit-updater.readthedocs.io",
   "language": "C",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 71
+    },
+    {
+      "date": "2026-04-26",
       "stars": 71
     }
   ]

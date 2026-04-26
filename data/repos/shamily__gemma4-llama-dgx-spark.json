@@ -4,6 +4,7 @@
   "name": "gemma4-llama-dgx-spark",
   "full_name": "shamily/gemma4-llama-dgx-spark",
   "description": "Dockerized inference server and benchmarks for quantized Gemma 4 family on the NVIDIA DGX Spark (GB10). Features ARM64 CUDA 13 builds using llama.cpp.",
+  "description_ja": "",
   "url": "https://github.com/shamily/gemma4-llama-dgx-spark",
   "homepage_url": "",
   "language": "Shell",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 10
+    },
+    {
+      "date": "2026-04-26",
       "stars": 10
     }
   ]

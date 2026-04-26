@@ -4,6 +4,7 @@
   "name": "frpc",
   "full_name": "stilleshan/frpc",
   "description": "基于原版 frp 内网穿透客户端 frpc 的一键安装卸载脚本和 docker 镜像.支持群晖NAS,Linux 服务器和 docker 等多种环境安装部署.",
+  "description_ja": "",
   "url": "https://github.com/stilleshan/frpc",
   "homepage_url": "https://hub.docker.com/r/stilleshan/frpc",
   "language": "Shell",
@@ -13,12 +14,12 @@
     "frpc",
     "frpc-docker"
   ],
-  "star_count": 987,
+  "star_count": 986,
   "fork_count": 264,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-02-08T05:27:46Z",
-  "updated_at": "2026-04-24T06:31:57Z",
+  "updated_at": "2026-04-26T16:25:30Z",
   "pushed_at": "2026-04-15T09:35:29Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 987
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 986
     }
   ]
 }

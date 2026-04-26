@@ -4,6 +4,7 @@
   "name": "kcov",
   "full_name": "simonkagstrom/kcov",
   "description": "Code coverage tool for compiled programs, Python and Bash which uses debugging information to collect and report data without special compilation options",
+  "description_ja": "",
   "url": "https://github.com/SimonKagstrom/kcov",
   "homepage_url": "http://simonkagstrom.github.io/kcov/",
   "language": "C++",
@@ -16,12 +17,12 @@
     "travis-ci",
     "unittesting"
   ],
-  "star_count": 810,
+  "star_count": 811,
   "fork_count": 121,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2010-08-23T12:03:31Z",
-  "updated_at": "2026-04-15T12:03:17Z",
+  "updated_at": "2026-04-26T10:38:05Z",
   "pushed_at": "2026-04-02T05:18:41Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 810
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 811
     }
   ]
 }

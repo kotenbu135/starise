@@ -4,6 +4,7 @@
   "name": "bup",
   "full_name": "bup/bup",
   "description": "Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problems or patches to the mailing list for discussion (see the end of the README below).",
+  "description_ja": "",
   "url": "https://github.com/bup/bup",
   "homepage_url": "https://bup.github.io/",
   "language": "Python",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 7314
+    },
+    {
+      "date": "2026-04-26",
       "stars": 7314
     }
   ]

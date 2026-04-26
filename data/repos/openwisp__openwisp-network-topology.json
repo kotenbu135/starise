@@ -4,6 +4,7 @@
   "name": "openwisp-network-topology",
   "full_name": "openwisp/openwisp-network-topology",
   "description": "Network topology collector and visualizer. Collects network topology data from dynamic mesh routing protocols or other popular networking software like OpenVPN, allows to visualize the network graph, save daily snapshots that can be viewed in the future and more.",
+  "description_ja": "",
   "url": "https://github.com/openwisp/openwisp-network-topology",
   "homepage_url": "https://openwisp.io/docs/dev/network-topology/",
   "language": "Python",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 237
+    },
+    {
+      "date": "2026-04-26",
       "stars": 237
     }
   ]

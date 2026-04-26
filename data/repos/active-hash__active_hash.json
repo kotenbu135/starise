@@ -4,6 +4,7 @@
   "name": "active_hash",
   "full_name": "active-hash/active_hash",
   "description": "A readonly ActiveRecord-esque base class that lets you use a hash, a Yaml file or a custom file as the datasource",
+  "description_ja": "ハッシュ、YAMLファイル、またはカスタムファイルをデータソースとして使えるread-only ActiveRecord風ベースクラス",
   "url": "https://github.com/active-hash/active_hash",
   "homepage_url": "",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1348
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1348
     }
   ]

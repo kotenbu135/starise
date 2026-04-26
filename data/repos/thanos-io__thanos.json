@@ -4,6 +4,7 @@
   "name": "thanos",
   "full_name": "thanos-io/thanos",
   "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+  "description_ja": "",
   "url": "https://github.com/thanos-io/thanos",
   "homepage_url": "https://thanos.io",
   "language": "Go",
@@ -24,12 +25,12 @@
     "storage",
     "thanos"
   ],
-  "star_count": 14032,
-  "fork_count": 2287,
+  "star_count": 14034,
+  "fork_count": 2288,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-11-01T17:38:03Z",
-  "updated_at": "2026-04-25T17:09:07Z",
+  "updated_at": "2026-04-26T16:41:25Z",
   "pushed_at": "2026-04-23T19:10:48Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 14032
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 14034
     }
   ]
 }

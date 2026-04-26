@@ -4,6 +4,7 @@
   "name": "argo-rollouts",
   "full_name": "argoproj/argo-rollouts",
   "description": "Progressive Delivery for Kubernetes",
+  "description_ja": "",
   "url": "https://github.com/argoproj/argo-rollouts",
   "homepage_url": "https://argo-rollouts.readthedocs.io/",
   "language": "Go",
@@ -20,12 +21,12 @@
     "kubernetes",
     "progressive-delivery"
   ],
-  "star_count": 3455,
+  "star_count": 3456,
   "fork_count": 1118,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-11-17T18:28:39Z",
-  "updated_at": "2026-04-24T08:46:13Z",
+  "updated_at": "2026-04-25T22:36:08Z",
   "pushed_at": "2026-04-14T16:57:36Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 3455
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3456
     }
   ]
 }

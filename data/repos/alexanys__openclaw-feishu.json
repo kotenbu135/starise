@@ -4,6 +4,7 @@
   "name": "openclaw-feishu",
   "full_name": "alexanys/openclaw-feishu",
   "description": "飞书插件 × OpenClaw 保姆级配置指南 \u0026 社区支持 （0328 - 更新飞书cli调用指南，增加 API 耗尽根因排查、Lark Webhook 内网穿透方案）",
+  "description_ja": "飛書（Feishu）プラグイン × OpenClaw の至れり尽くせり設定ガイド＆コミュニティサポート（0328 更新: 飛書 CLI 呼び出しガイドを更新、API 枯渇の根本原因調査と Lark Webhook 内ネット貫通方式を追加）",
   "url": "https://github.com/AlexAnys/openclaw-feishu",
   "homepage_url": "",
   "language": "TypeScript",
@@ -19,12 +20,12 @@
     "webhook",
     "websocket"
   ],
-  "star_count": 674,
+  "star_count": 676,
   "fork_count": 54,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-28T14:17:44Z",
-  "updated_at": "2026-04-25T14:53:18Z",
+  "updated_at": "2026-04-26T14:24:25Z",
   "pushed_at": "2026-03-30T12:45:24Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 674
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 676
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "adosmissioncontrol",
   "full_name": "altnautica/adosmissioncontrol",
   "description": "Open-source web-based Ground Control Station for autonomous drones. FC config, sensor calibration, mission planning, MAVLink protocol, manual flight control. Supports multi drone fleet and companion software for true software defined drones.",
+  "description_ja": "自律ドローン向けのオープンソース Web ベース地上管制ステーション。FC 設定、センサーキャリブレーション、ミッション計画、MAVLink プロトコル、手動飛行制御に対応。マルチドローン編隊と、真のソフトウェア定義ドローンを実現するコンパニオンソフトウェアをサポート",
   "url": "https://github.com/altnautica/ADOSMissionControl",
   "homepage_url": "https://command.altnautica.com/",
   "language": "TypeScript",
@@ -23,13 +24,13 @@
     "sitl",
     "uav"
   ],
-  "star_count": 48,
-  "fork_count": 13,
+  "star_count": 54,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-27T13:29:45Z",
-  "updated_at": "2026-04-25T12:27:08Z",
-  "pushed_at": "2026-04-25T12:27:04Z",
+  "updated_at": "2026-04-26T14:01:58Z",
+  "pushed_at": "2026-04-26T10:44:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 48
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 54
     }
   ]
 }

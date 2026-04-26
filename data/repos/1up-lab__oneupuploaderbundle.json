@@ -4,6 +4,7 @@
   "name": "oneupuploaderbundle",
   "full_name": "1up-lab/oneupuploaderbundle",
   "description": "This Symfony bundle provides a server implementation for handling single and multiple file uploads using either FineUploader, jQuery File Uploader, YUI3 Uploader, Uploadify, FancyUpload, MooUpload, Plupload or Dropzone. Features include chunked uploads, orphanages, Gaufrette and Flysystem support.",
+  "description_ja": "[18] 単一/複数ファイルアップロードを処理するサーバ実装を提供する Symfony バンドル。FineUploader、jQuery File Uploader、YUI3 Uploader、Uploadify、FancyUpload、MooUpload、Plupload、Dropzone に対応。チャンク分割アップロード、孤児ファイル管理、Gaufrette/Flysystem サポートなどの機能を備える",
   "url": "https://github.com/1up-lab/OneupUploaderBundle",
   "homepage_url": "",
   "language": "PHP",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 606
+    },
+    {
+      "date": "2026-04-26",
       "stars": 606
     }
   ]

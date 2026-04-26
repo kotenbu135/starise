@@ -4,6 +4,7 @@
   "name": "genieacs-container",
   "full_name": "geiserx/genieacs-container",
   "description": "Original \u0026 most popular Helm Chart / Container for GenieACS",
+  "description_ja": "",
   "url": "https://github.com/GeiserX/genieacs-container",
   "homepage_url": "https://geiser.cloud/how-to-deploy-genieacs/",
   "language": "Dockerfile",
@@ -31,7 +32,7 @@
     "tr069"
   ],
   "star_count": 113,
-  "fork_count": 62,
+  "fork_count": 63,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-03-27T22:56:34Z",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 113
+    },
+    {
+      "date": "2026-04-26",
       "stars": 113
     }
   ]

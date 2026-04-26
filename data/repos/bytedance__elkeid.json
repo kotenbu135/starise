@@ -4,6 +4,7 @@
   "name": "elkeid",
   "full_name": "bytedance/elkeid",
   "description": "Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices.",
+  "description_ja": "",
   "url": "https://github.com/bytedance/Elkeid",
   "homepage_url": "https://elkeid.bytedance.com",
   "language": "Go",
@@ -16,12 +17,12 @@
     "rasp",
     "security"
   ],
-  "star_count": 2632,
+  "star_count": 2633,
   "fork_count": 466,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-12-18T03:15:54Z",
-  "updated_at": "2026-04-24T12:13:44Z",
+  "updated_at": "2026-04-26T13:04:22Z",
   "pushed_at": "2026-04-25T10:30:47Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 2632
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2633
     }
   ]
 }

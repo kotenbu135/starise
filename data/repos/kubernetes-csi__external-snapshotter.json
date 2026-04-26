@@ -4,6 +4,7 @@
   "name": "external-snapshotter",
   "full_name": "kubernetes-csi/external-snapshotter",
   "description": "Sidecar container that watches Kubernetes Snapshot CRD objects and triggers CreateSnapshot/DeleteSnapshot against a CSI endpoint.",
+  "description_ja": "",
   "url": "https://github.com/kubernetes-csi/external-snapshotter",
   "homepage_url": "",
   "language": "Go",
@@ -12,7 +13,7 @@
     "k8s-sig-storage"
   ],
   "star_count": 624,
-  "fork_count": 420,
+  "fork_count": 421,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-07-09T07:05:08Z",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 624
+    },
+    {
+      "date": "2026-04-26",
       "stars": 624
     }
   ]

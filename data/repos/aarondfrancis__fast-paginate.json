@@ -4,6 +4,7 @@
   "name": "fast-paginate",
   "full_name": "aarondfrancis/fast-paginate",
   "description": "A fast implementation of offset/limit pagination for Laravel.",
+  "description_ja": "Laravel向け offset/limit ページネーションの高速実装。",
   "url": "https://github.com/aarondfrancis/fast-paginate",
   "homepage_url": "",
   "language": "PHP",
@@ -12,12 +13,12 @@
     "laravel",
     "pagination"
   ],
-  "star_count": 1362,
+  "star_count": 1363,
   "fork_count": 63,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-18T22:39:30Z",
-  "updated_at": "2026-04-15T20:25:07Z",
+  "updated_at": "2026-04-25T20:42:25Z",
   "pushed_at": "2025-11-28T04:22:53Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 1362
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1363
     }
   ]
 }

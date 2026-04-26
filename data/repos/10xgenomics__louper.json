@@ -4,6 +4,7 @@
   "name": "louper",
   "full_name": "10xgenomics/louper",
   "description": "Convert Seurat objects to 10x Genomics Loupe files.",
+  "description_ja": "Seuratオブジェクトを10x Genomics Loupeファイルに変換。",
   "url": "https://github.com/10XGenomics/loupeR",
   "homepage_url": "https://10xgen.com/louper",
   "language": "R",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 153
+    },
+    {
+      "date": "2026-04-26",
       "stars": 153
     }
   ]

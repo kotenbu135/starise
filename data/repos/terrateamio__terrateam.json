@@ -4,6 +4,7 @@
   "name": "terrateam",
   "full_name": "terrateamio/terrateam",
   "description": "Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.",
+  "description_ja": "",
   "url": "https://github.com/terrateamio/terrateam",
   "homepage_url": "https://docs.terrateam.io",
   "language": "OCaml",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1225
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1225
     }
   ]

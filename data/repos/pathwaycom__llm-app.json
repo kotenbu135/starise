@@ -4,6 +4,7 @@
   "name": "llm-app",
   "full_name": "pathwaycom/llm-app",
   "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+  "description_ja": "",
   "url": "https://github.com/pathwaycom/llm-app",
   "homepage_url": "https://pathway.com/developers/templates/",
   "language": "Jupyter Notebook",
@@ -25,12 +26,12 @@
     "vector-database",
     "vector-index"
   ],
-  "star_count": 59921,
-  "fork_count": 1431,
+  "star_count": 59910,
+  "fork_count": 1432,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-19T08:43:37Z",
-  "updated_at": "2026-04-25T16:36:13Z",
+  "updated_at": "2026-04-26T17:11:52Z",
   "pushed_at": "2026-01-07T11:59:38Z",
   "deleted_at": "",
   "star_history": [
@@ -53,6 +54,10 @@
     {
       "date": "2026-04-25",
       "stars": 59921
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 59910
     }
   ]
 }

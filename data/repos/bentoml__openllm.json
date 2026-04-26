@@ -4,6 +4,7 @@
   "name": "openllm",
   "full_name": "bentoml/openllm",
   "description": "Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.",
+  "description_ja": "",
   "url": "https://github.com/bentoml/OpenLLM",
   "homepage_url": "https://bentoml.com",
   "language": "Python",
@@ -28,12 +29,12 @@
     "openllm",
     "vicuna"
   ],
-  "star_count": 12297,
+  "star_count": 12299,
   "fork_count": 807,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-19T00:27:52Z",
-  "updated_at": "2026-04-25T08:29:13Z",
+  "updated_at": "2026-04-26T13:37:01Z",
   "pushed_at": "2026-04-20T16:52:59Z",
   "deleted_at": "",
   "star_history": [
@@ -48,6 +49,10 @@
     {
       "date": "2026-04-25",
       "stars": 12297
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 12299
     }
   ]
 }

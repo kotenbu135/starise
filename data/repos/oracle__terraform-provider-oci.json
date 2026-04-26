@@ -4,6 +4,7 @@
   "name": "terraform-provider-oci",
   "full_name": "oracle/terraform-provider-oci",
   "description": "Terraform Oracle Cloud Infrastructure provider",
+  "description_ja": "",
   "url": "https://github.com/oracle/terraform-provider-oci",
   "homepage_url": "https://www.terraform.io/docs/providers/oci/",
   "language": "Go",
@@ -20,7 +21,7 @@
     "terraform-provider"
   ],
   "star_count": 859,
-  "fork_count": 742,
+  "fork_count": 741,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-11-04T04:50:57Z",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 859
+    },
+    {
+      "date": "2026-04-26",
       "stars": 859
     }
   ]

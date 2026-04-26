@@ -4,6 +4,7 @@
   "name": "plotlars",
   "full_name": "alceal/plotlars",
   "description": "Plotlars is a Rust library designed to facilitate the integration between the Polars data analysis library and Plotly library.",
+  "description_ja": "Plotlars は、Polars データ分析ライブラリと Plotly ライブラリの統合を容易にするための Rust ライブラリ",
   "url": "https://github.com/alceal/plotlars",
   "homepage_url": "https://docs.rs/plotlars",
   "language": "Rust",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 655
+    },
+    {
+      "date": "2026-04-26",
       "stars": 655
     }
   ]

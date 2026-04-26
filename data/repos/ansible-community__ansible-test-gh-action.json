@@ -4,6 +4,7 @@
   "name": "ansible-test-gh-action",
   "full_name": "ansible-community/ansible-test-gh-action",
   "description": "A composite GitHub Action encapsulating the GitHub Actions CI/CD workflows setup necessary for testing Ansible collection repositories on GitHub",
+  "description_ja": "Ansibleコレクションリポジトリを GitHub 上でテストするために必要な GitHub Actions CI/CD ワークフロー設定をカプセル化した composite GitHub Action",
   "url": "https://github.com/ansible-community/ansible-test-gh-action",
   "homepage_url": "https://github.com/marketplace/actions/ansible-test",
   "language": "Python",
@@ -19,12 +20,12 @@
     "idiomatic",
     "idiomatic-ansible"
   ],
-  "star_count": 29,
+  "star_count": 28,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-17T19:06:36Z",
-  "updated_at": "2026-04-07T05:19:00Z",
+  "updated_at": "2026-04-26T12:04:42Z",
   "pushed_at": "2026-04-07T05:18:55Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 29
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 28
     }
   ]
 }

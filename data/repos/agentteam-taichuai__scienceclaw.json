@@ -4,6 +4,7 @@
   "name": "scienceclaw",
   "full_name": "agentteam-taichuai/scienceclaw",
   "description": "ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, better transparency, and a more user-friendly experience.",
+  "description_ja": "ScienceClawはLangChain DeepAgentsとAIO Sandboxインフラで構築された個人向けリサーチアシスタント。OpenClawを超える全く新しいアーキテクチャを採用し、より強固なセキュリティ、優れた透明性、使いやすい体験を提供",
   "url": "https://github.com/AgentTeam-TaichuAI/ScienceClaw",
   "homepage_url": "https://scienceclaw.taichuai.cn/",
   "language": "Python",
@@ -30,12 +31,12 @@
     "vue",
     "wechat"
   ],
-  "star_count": 530,
-  "fork_count": 54,
+  "star_count": 532,
+  "fork_count": 55,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-13T06:52:33Z",
-  "updated_at": "2026-04-25T16:40:37Z",
+  "updated_at": "2026-04-26T12:51:16Z",
   "pushed_at": "2026-04-23T03:05:54Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 530
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 532
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "packer-plugin-openstack",
   "full_name": "hashicorp/packer-plugin-openstack",
   "description": "Packer plugin for OpenStack Builder",
+  "description_ja": "",
   "url": "https://github.com/hashicorp/packer-plugin-openstack",
   "homepage_url": "https://www.packer.io/docs/builders/openstack",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

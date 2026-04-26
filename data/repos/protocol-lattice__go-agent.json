@@ -4,6 +4,7 @@
   "name": "go-agent",
   "full_name": "protocol-lattice/go-agent",
   "description": "An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent orchestration. Built for production.",
+  "description_ja": "",
   "url": "https://github.com/Protocol-Lattice/go-agent",
   "homepage_url": "https://deepwiki.com/Protocol-Lattice/go-agent",
   "language": "Go",
@@ -20,12 +21,12 @@
     "rag",
     "utcp"
   ],
-  "star_count": 196,
+  "star_count": 198,
   "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-13T08:28:36Z",
-  "updated_at": "2026-04-25T00:52:43Z",
+  "updated_at": "2026-04-26T09:59:13Z",
   "pushed_at": "2026-03-01T19:44:46Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 196
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 198
     }
   ]
 }

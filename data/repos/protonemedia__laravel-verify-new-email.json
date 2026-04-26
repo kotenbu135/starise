@@ -4,6 +4,7 @@
   "name": "laravel-verify-new-email",
   "full_name": "protonemedia/laravel-verify-new-email",
   "description": "This package adds support for verifying new email addresses: when a user updates its email address, it won't replace the old one until the new one is verified.",
+  "description_ja": "",
   "url": "https://github.com/protonemedia/laravel-verify-new-email",
   "homepage_url": "https://protone.media/en/blog/an-add-on-to-laravels-built-in-email-verification-only-update-a-users-email-address-if-the-new-one-is-verified-as-well",
   "language": "PHP",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 414
+    },
+    {
+      "date": "2026-04-26",
       "stars": 414
     }
   ]

@@ -4,6 +4,7 @@
   "name": "pymple.nvim",
   "full_name": "alexpasmantier/pymple.nvim",
   "description": "Refactor Python imports on file move/rename in Neovim",
+  "description_ja": "Neovimでファイル移動/リネーム時にPythonのimportをリファクタリング。",
   "url": "https://github.com/alexpasmantier/pymple.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 149
+    },
+    {
+      "date": "2026-04-26",
       "stars": 149
     }
   ]

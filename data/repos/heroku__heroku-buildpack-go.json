@@ -4,6 +4,7 @@
   "name": "heroku-buildpack-go",
   "full_name": "heroku/heroku-buildpack-go",
   "description": "Heroku's classic buildpack for Go applications.",
+  "description_ja": "",
   "url": "https://github.com/heroku/heroku-buildpack-go",
   "homepage_url": "https://devcenter.heroku.com/categories/go-support",
   "language": "Shell",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 791
+    },
+    {
+      "date": "2026-04-26",
       "stars": 791
     }
   ]

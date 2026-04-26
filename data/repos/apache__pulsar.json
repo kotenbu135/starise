@@ -4,6 +4,7 @@
   "name": "pulsar",
   "full_name": "apache/pulsar",
   "description": "Apache Pulsar - distributed pub-sub messaging system",
+  "description_ja": "",
   "url": "https://github.com/apache/pulsar",
   "homepage_url": "https://pulsar.apache.org/",
   "language": "Java",
@@ -16,13 +17,13 @@
     "queuing",
     "streaming"
   ],
-  "star_count": 15213,
-  "fork_count": 3727,
+  "star_count": 15212,
+  "fork_count": 3728,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-06-28T07:00:03Z",
-  "updated_at": "2026-04-25T15:03:58Z",
-  "pushed_at": "2026-04-25T04:33:32Z",
+  "updated_at": "2026-04-26T09:36:08Z",
+  "pushed_at": "2026-04-26T04:48:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 15213
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 15212
     }
   ]
 }

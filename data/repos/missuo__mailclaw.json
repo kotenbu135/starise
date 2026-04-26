@@ -4,6 +4,7 @@
   "name": "mailclaw",
   "full_name": "missuo/mailclaw",
   "description": "Cloudflare Workers email inbox with token-protected API. Catch-all receiving, full-text search, and AI agent skill included.",
+  "description_ja": "",
   "url": "https://github.com/missuo/mailclaw",
   "homepage_url": "https://mailclaw.me",
   "language": "Rust",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 48
+    },
+    {
+      "date": "2026-04-26",
       "stars": 48
     }
   ]

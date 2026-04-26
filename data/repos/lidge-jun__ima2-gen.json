@@ -4,8 +4,9 @@
   "name": "ima2-gen",
   "full_name": "lidge-jun/ima2-gen",
   "description": "Minimal CLI + web UI for OpenAI GPT Image 2 generation. Dual auth: API Key (paid) or OAuth via ChatGPT (free). Text-to-image, image-to-image, parallel gen, custom sizes.",
+  "description_ja": "",
   "url": "https://github.com/lidge-jun/ima2-gen",
-  "homepage_url": "https://www.npmjs.com/package/ima2-gen",
+  "homepage_url": "https://lidge-jun.github.io/ima2-gen/",
   "language": "JavaScript",
   "license": "",
   "topics": [
@@ -18,13 +19,13 @@
     "oauth",
     "openai"
   ],
-  "star_count": 72,
-  "fork_count": 15,
+  "star_count": 82,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-21T19:46:16Z",
-  "updated_at": "2026-04-25T17:08:12Z",
-  "pushed_at": "2026-04-25T13:39:57Z",
+  "updated_at": "2026-04-26T17:03:43Z",
+  "pushed_at": "2026-04-26T17:03:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 72
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 82
     }
   ]
 }

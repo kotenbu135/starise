@@ -4,6 +4,7 @@
   "name": "terraform-aws-vpc",
   "full_name": "clouddrove/terraform-aws-vpc",
   "description": "Terraform module to create VPC resource on AWS.",
+  "description_ja": "",
   "url": "https://github.com/clouddrove/terraform-aws-vpc",
   "homepage_url": "https://www.terraform.io/docs/providers/aws/r/vpc.html",
   "language": "HCL",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 37
+    },
+    {
+      "date": "2026-04-26",
       "stars": 37
     }
   ]

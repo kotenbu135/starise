@@ -4,6 +4,7 @@
   "name": "tansu",
   "full_name": "amadeusitgroup/tansu",
   "description": "tansu is a lightweight, push-based framework-agnostic state management library. It borrows the ideas and APIs originally designed and implemented by Svelte stores and extends them with computed and batch.",
+  "description_ja": "tansuは軽量でプッシュベース、フレームワーク非依存の状態管理ライブラリ。Svelteストアが設計・実装したアイデアとAPIを借用し、computedとbatchで拡張。",
   "url": "https://github.com/AmadeusITGroup/tansu",
   "homepage_url": "https://amadeusitgroup.github.io/tansu/",
   "language": "TypeScript",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 100
+    },
+    {
+      "date": "2026-04-26",
       "stars": 100
     }
   ]

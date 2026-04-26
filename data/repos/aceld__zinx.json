@@ -4,6 +4,7 @@
   "name": "zinx",
   "full_name": "aceld/zinx",
   "description": "A lightweight concurrent server framework based on Golang.",
+  "description_ja": "[12] Golang ベースの軽量な並行サーバーフレームワーク",
   "url": "https://github.com/aceld/zinx",
   "homepage_url": "https://github.com/aceld/zinx/wiki",
   "language": "Go",
@@ -15,12 +16,12 @@
     "tcp-server",
     "zinx"
   ],
-  "star_count": 7722,
+  "star_count": 7721,
   "fork_count": 1264,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-01-23T13:15:31Z",
-  "updated_at": "2026-04-24T08:26:35Z",
+  "updated_at": "2026-04-26T08:43:26Z",
   "pushed_at": "2025-10-27T08:42:24Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 7722
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 7721
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "spank",
   "full_name": "taigrr/spank",
   "description": "Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID.",
+  "description_ja": "",
   "url": "https://github.com/taigrr/spank",
   "homepage_url": "",
   "language": "Go",
@@ -16,12 +17,12 @@
     "iokit",
     "macos"
   ],
-  "star_count": 4538,
+  "star_count": 4544,
   "fork_count": 240,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-23T00:43:05Z",
-  "updated_at": "2026-04-25T16:23:16Z",
+  "updated_at": "2026-04-26T07:40:59Z",
   "pushed_at": "2026-03-30T05:14:16Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 4538
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4544
     }
   ]
 }

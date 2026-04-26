@@ -4,6 +4,7 @@
   "name": "rbnacl",
   "full_name": "rubycrypto/rbnacl",
   "description": "Ruby FFI binding to the Networking and Cryptography (NaCl) library (a.k.a. libsodium)",
+  "description_ja": "",
   "url": "https://github.com/RubyCrypto/rbnacl",
   "homepage_url": "",
   "language": "Ruby",
@@ -19,7 +20,7 @@
     "x25519"
   ],
   "star_count": 988,
-  "fork_count": 93,
+  "fork_count": 94,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-01-21T00:17:11Z",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 988
+    },
+    {
+      "date": "2026-04-26",
       "stars": 988
     }
   ]

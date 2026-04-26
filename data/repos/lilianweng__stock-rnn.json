@@ -4,6 +4,7 @@
   "name": "stock-rnn",
   "full_name": "lilianweng/stock-rnn",
   "description": "Predict stock market prices using RNN model with multilayer LSTM cells + optional multi-stock embeddings.",
+  "description_ja": "",
   "url": "https://github.com/lilianweng/stock-rnn",
   "homepage_url": "https://lilianweng.github.io/lil-log",
   "language": "Python",
@@ -14,12 +15,12 @@
     "rnn-tensorflow",
     "stock-price-prediction"
   ],
-  "star_count": 1973,
-  "fork_count": 677,
+  "star_count": 1974,
+  "fork_count": 676,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-07-11T05:23:38Z",
-  "updated_at": "2026-04-19T20:13:06Z",
+  "updated_at": "2026-04-26T13:16:52Z",
   "pushed_at": "2022-07-28T06:36:59Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 1973
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1974
     }
   ]
 }

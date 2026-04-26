@@ -4,6 +4,7 @@
   "name": "db",
   "full_name": "upper/db",
   "description": "Data Access Layer (DAL) for PostgreSQL, CockroachDB, MySQL, SQLite and MongoDB with ORM-like features.",
+  "description_ja": "",
   "url": "https://github.com/upper/db",
   "homepage_url": "https://upper.io/",
   "language": "Go",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3657
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3657
     }
   ]

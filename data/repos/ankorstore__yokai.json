@@ -4,6 +4,7 @@
   "name": "yokai",
   "full_name": "ankorstore/yokai",
   "description": "Simple, modular, and observable Go framework for backend applications.",
+  "description_ja": "バックエンドアプリケーション向けのシンプル、モジュール式、可観測なGoフレームワーク。",
   "url": "https://github.com/ankorstore/yokai",
   "homepage_url": "https://ankorstore.github.io/yokai",
   "language": "Go",
@@ -27,12 +28,12 @@
     "worker-pool",
     "yokai"
   ],
-  "star_count": 828,
+  "star_count": 829,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-10T10:39:53Z",
-  "updated_at": "2026-04-25T01:00:00Z",
+  "updated_at": "2026-04-26T13:22:38Z",
   "pushed_at": "2026-02-24T11:24:06Z",
   "deleted_at": "",
   "star_history": [
@@ -47,6 +48,10 @@
     {
       "date": "2026-04-25",
       "stars": 828
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 829
     }
   ]
 }

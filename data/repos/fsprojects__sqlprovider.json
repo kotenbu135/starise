@@ -4,6 +4,7 @@
   "name": "sqlprovider",
   "full_name": "fsprojects/sqlprovider",
   "description": "A general F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides.",
+  "description_ja": "",
   "url": "https://github.com/fsprojects/SQLProvider",
   "homepage_url": "https://fsprojects.github.io/SQLProvider",
   "language": "F#",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 625
+    },
+    {
+      "date": "2026-04-26",
       "stars": 625
     }
   ]

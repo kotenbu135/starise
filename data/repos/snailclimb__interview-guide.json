@@ -4,6 +4,7 @@
   "name": "interview-guide",
   "full_name": "snailclimb/interview-guide",
   "description": "基于 Spring Boot 4.0 + Java 21 + Spring AI + PostgreSQL + pgvector + RustFS + Redis，实现简历智能分析、AI模拟面试、知识库RAG检索等核心功能。非常适合作为学习和简历项目，学习门槛低。",
+  "description_ja": "",
   "url": "https://github.com/Snailclimb/interview-guide",
   "homepage_url": "https://javaguide.cn/zhuanlan/interview-guide.html",
   "language": "Java",
@@ -24,12 +25,12 @@
     "springboot4",
     "tika"
   ],
-  "star_count": 1805,
+  "star_count": 1820,
   "fork_count": 401,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-03T11:25:48Z",
-  "updated_at": "2026-04-25T15:52:24Z",
+  "updated_at": "2026-04-26T17:25:34Z",
   "pushed_at": "2026-04-25T14:31:32Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 1805
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1820
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "rack-utf8_sanitizer",
   "full_name": "whitequark/rack-utf8_sanitizer",
   "description": "Rack::UTF8Sanitizer is a Rack middleware which cleans up invalid UTF8 characters in request URI and headers.",
+  "description_ja": "",
   "url": "https://github.com/whitequark/rack-utf8_sanitizer",
   "homepage_url": "",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 330
+    },
+    {
+      "date": "2026-04-26",
       "stars": 330
     }
   ]

@@ -4,6 +4,7 @@
   "name": "clinicaltrialsgov-mcp-server",
   "full_name": "cyanheads/clinicaltrialsgov-mcp-server",
   "description": "MCP server for the ClinicalTrials.gov v2 API. Search trials, retrieve study details and results, and match patients to eligible trials.",
+  "description_ja": "",
   "url": "https://github.com/cyanheads/clinicaltrialsgov-mcp-server",
   "homepage_url": "https://www.npmjs.com/package/clinicaltrialsgov-mcp-server",
   "language": "TypeScript",
@@ -30,12 +31,12 @@
     "trial-finder",
     "typescript"
   ],
-  "star_count": 66,
+  "star_count": 67,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-17T09:34:35Z",
-  "updated_at": "2026-04-24T15:34:09Z",
+  "updated_at": "2026-04-25T17:56:17Z",
   "pushed_at": "2026-04-24T15:34:08Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 66
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 67
     }
   ]
 }

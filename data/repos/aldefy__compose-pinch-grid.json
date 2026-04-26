@@ -4,6 +4,7 @@
   "name": "compose-pinch-grid",
   "full_name": "aldefy/compose-pinch-grid",
   "description": "ComposePinchGrid — Google Photos-style pinch-to-resize grid for Compose Multiplatform. Pinch to change column count with haptic feedback, breathing scale animation, and smooth transitions. Android, iOS, Desktop, Web.",
+  "description_ja": "ComposePinchGrid — Compose Multiplatform向け、Googleフォト風ピンチでサイズ変更できるグリッド。ピンチで列数を変更でき、触覚フィードバック、ブリージングスケールアニメーション、スムーズなトランジションを備える。Android、iOS、デスクトップ、Web対応。",
   "url": "https://github.com/aldefy/compose-pinch-grid",
   "homepage_url": "",
   "language": "Kotlin",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 30
+    },
+    {
+      "date": "2026-04-26",
       "stars": 30
     }
   ]

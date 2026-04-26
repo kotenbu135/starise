@@ -4,6 +4,7 @@
   "name": "zedis",
   "full_name": "vicanso/zedis",
   "description": "Zedis: A blazing-fast, native Redis GUI built with Rust and GPUI.",
+  "description_ja": "",
   "url": "https://github.com/vicanso/zedis",
   "homepage_url": "",
   "language": "Rust",
@@ -13,13 +14,13 @@
     "redis",
     "redis-client"
   ],
-  "star_count": 1816,
+  "star_count": 1817,
   "fork_count": 42,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-09T12:21:15Z",
-  "updated_at": "2026-04-25T11:20:30Z",
-  "pushed_at": "2026-04-25T11:20:25Z",
+  "updated_at": "2026-04-26T08:26:07Z",
+  "pushed_at": "2026-04-26T00:08:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 1816
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1817
     }
   ]
 }

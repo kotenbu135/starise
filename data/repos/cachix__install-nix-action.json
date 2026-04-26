@@ -4,6 +4,7 @@
   "name": "install-nix-action",
   "full_name": "cachix/install-nix-action",
   "description": "Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.",
+  "description_ja": "",
   "url": "https://github.com/cachix/install-nix-action",
   "homepage_url": "",
   "language": "Shell",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 672
+    },
+    {
+      "date": "2026-04-26",
       "stars": 672
     }
   ]

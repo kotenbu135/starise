@@ -4,6 +4,7 @@
   "name": "shadow-tls",
   "full_name": "ihciah/shadow-tls",
   "description": "A proxy to expose real tls handshake to the firewall",
+  "description_ja": "",
   "url": "https://github.com/ihciah/shadow-tls",
   "homepage_url": "https://www.ihcblog.com/a-better-tls-obfs-proxy/",
   "language": "Rust",
@@ -12,12 +13,12 @@
     "proxy",
     "tls"
   ],
-  "star_count": 2656,
+  "star_count": 2655,
   "fork_count": 291,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-25T11:38:48Z",
-  "updated_at": "2026-04-24T04:42:42Z",
+  "updated_at": "2026-04-26T10:05:24Z",
   "pushed_at": "2025-04-25T16:27:14Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 2656
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2655
     }
   ]
 }

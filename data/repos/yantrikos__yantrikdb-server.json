@@ -4,6 +4,7 @@
   "name": "yantrikdb-server",
   "full_name": "yantrikos/yantrikdb-server",
   "description": "Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temporal decay. Rust, AGPL, ships as library / MCP server / HTTP cluster.",
+  "description_ja": "",
   "url": "https://github.com/yantrikos/yantrikdb-server",
   "homepage_url": "https://yantrikdb.com",
   "language": "Python",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 117
+    },
+    {
+      "date": "2026-04-26",
       "stars": 117
     }
   ]

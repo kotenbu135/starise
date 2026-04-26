@@ -4,6 +4,7 @@
   "name": "telegram-feedback-bot",
   "full_name": "yshalsager/telegram-feedback-bot",
   "description": "A self-hosted toolkit for provisioning and operating Telegram feedback bots. The new stack pairs a Django + python-telegram-bot backend with a SvelteKit mini app so owners can manage bots, rotate tokens, review stats, and handle banned users without leaving Telegram.",
+  "description_ja": "",
   "url": "https://github.com/yshalsager/telegram-feedback-bot",
   "homepage_url": "https://telegram-feedback-bot.yshalsager.com/",
   "language": "Python",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 37
+    },
+    {
+      "date": "2026-04-26",
       "stars": 37
     }
   ]

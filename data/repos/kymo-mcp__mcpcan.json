@@ -4,6 +4,7 @@
   "name": "mcpcan",
   "full_name": "kymo-mcp/mcpcan",
   "description": "MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token verification, solving security risks and enabling rapid deployment of MCP services. It uses SSE, STDIO, and STREAMABLEHTTP access protocols to deploy MCP。",
+  "description_ja": "",
   "url": "https://github.com/Kymo-MCP/mcpcan",
   "homepage_url": "https://www.mcpcan.com",
   "language": "Go",
@@ -46,6 +47,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 719
+    },
+    {
+      "date": "2026-04-26",
       "stars": 719
     }
   ]

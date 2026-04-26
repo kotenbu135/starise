@@ -4,6 +4,7 @@
   "name": "ossec-hids",
   "full_name": "ossec/ossec-hids",
   "description": "OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.",
+  "description_ja": "",
   "url": "https://github.com/ossec/ossec-hids",
   "homepage_url": "http://www.ossec.net",
   "language": "C",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5007
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5007
     }
   ]

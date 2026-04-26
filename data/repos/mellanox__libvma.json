@@ -4,6 +4,7 @@
   "name": "libvma",
   "full_name": "mellanox/libvma",
   "description": "Linux user space library for network socket acceleration based on RDMA compatible network adaptors",
+  "description_ja": "",
   "url": "https://github.com/Mellanox/libvma",
   "homepage_url": "https://www.mellanox.com/products/software/accelerator-software/vma?mtag=vma",
   "language": "C++",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 682
+    },
+    {
+      "date": "2026-04-26",
       "stars": 682
     }
   ]

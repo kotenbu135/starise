@@ -4,6 +4,7 @@
   "name": "slipnet",
   "full_name": "anonvector/slipnet",
   "description": "Android VPN client with DNS tunneling (DNSTT, NoizDNS \u0026 Slipstream), NaiveProxy, SSH, Tor, and DoH support — featuring a built-in DNS scanner.",
+  "description_ja": "DNSトンネリング(DNSTT、NoizDNS、Slipstream)、NaiveProxy、SSH、Tor、DoHに対応するAndroid VPNクライアント — DNSスキャナー内蔵。",
   "url": "https://github.com/anonvector/SlipNet",
   "homepage_url": "",
   "language": "C",
@@ -15,13 +16,13 @@
     "slipstream",
     "tunneling"
   ],
-  "star_count": 813,
-  "fork_count": 62,
+  "star_count": 816,
+  "fork_count": 63,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-01T22:36:34Z",
-  "updated_at": "2026-04-25T14:01:18Z",
-  "pushed_at": "2026-04-18T11:46:34Z",
+  "updated_at": "2026-04-26T16:44:25Z",
+  "pushed_at": "2026-04-26T17:03:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 813
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 816
     }
   ]
 }

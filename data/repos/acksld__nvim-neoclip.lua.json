@@ -4,6 +4,7 @@
   "name": "nvim-neoclip.lua",
   "full_name": "acksld/nvim-neoclip.lua",
   "description": "Clipboard manager neovim plugin with telescope integration",
+  "description_ja": "[42] telescope 連携対応の neovim 用クリップボードマネージャプラグイン",
   "url": "https://github.com/AckslD/nvim-neoclip.lua",
   "homepage_url": "",
   "language": "Lua",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1126
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1126
     }
   ]

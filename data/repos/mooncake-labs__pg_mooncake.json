@@ -4,6 +4,7 @@
   "name": "pg_mooncake",
   "full_name": "mooncake-labs/pg_mooncake",
   "description": "Real-time analytics on Postgres tables",
+  "description_ja": "",
   "url": "https://github.com/Mooncake-Labs/pg_mooncake",
   "homepage_url": "https://mooncake.dev/",
   "language": "Rust",
@@ -17,12 +18,12 @@
     "parquet",
     "postgresql"
   ],
-  "star_count": 1955,
+  "star_count": 1954,
   "fork_count": 65,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-05T04:45:58Z",
-  "updated_at": "2026-04-21T15:26:33Z",
+  "updated_at": "2026-04-26T15:37:18Z",
   "pushed_at": "2026-03-31T05:53:29Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 1955
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1954
     }
   ]
 }

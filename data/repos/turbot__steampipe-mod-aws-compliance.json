@@ -4,6 +4,7 @@
   "name": "steampipe-mod-aws-compliance",
   "full_name": "turbot/steampipe-mod-aws-compliance",
   "description": "Run individual controls or full compliance benchmarks for CIS, PCI, NIST, HIPAA and more across all of your AWS accounts using Powerpipe and Steampipe.",
+  "description_ja": "",
   "url": "https://github.com/turbot/steampipe-mod-aws-compliance",
   "homepage_url": "https://hub.steampipe.io/mods/turbot/aws_compliance",
   "language": "Puppet",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 413
+    },
+    {
+      "date": "2026-04-26",
       "stars": 413
     }
   ]

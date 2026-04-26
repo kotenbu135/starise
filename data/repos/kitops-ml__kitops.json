@@ -4,6 +4,7 @@
   "name": "kitops",
   "full_name": "kitops-ml/kitops",
   "description": "An open source DevOps tool from the CNCF for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI Artifact.",
+  "description_ja": "",
   "url": "https://github.com/kitops-ml/kitops",
   "homepage_url": "https://KitOps.org",
   "language": "Go",
@@ -30,12 +31,12 @@
     "sklearn",
     "tensorflow"
   ],
-  "star_count": 1335,
+  "star_count": 1337,
   "fork_count": 174,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-02T18:53:31Z",
-  "updated_at": "2026-04-25T12:00:40Z",
+  "updated_at": "2026-04-26T13:20:29Z",
   "pushed_at": "2026-04-20T22:06:24Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 1335
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1337
     }
   ]
 }

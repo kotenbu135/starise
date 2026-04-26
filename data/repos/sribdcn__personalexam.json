@@ -4,6 +4,7 @@
   "name": "personalexam",
   "full_name": "sribdcn/personalexam",
   "description": "🧠 AI-powered Personalized Exam System: Integrating OpenPangu LLM, Knowledge Graph RAG, and BKT algorithm for adaptive question generation and recommendation. 基于LLM与知识图谱的智能个性化出题系统。",
+  "description_ja": "",
   "url": "https://github.com/sribdcn/PersonalExam",
   "homepage_url": "",
   "language": "Python",
@@ -30,12 +31,12 @@
     "pytorch",
     "rag"
   ],
-  "star_count": 404,
-  "fork_count": 14,
+  "star_count": 418,
+  "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-17T08:12:42Z",
-  "updated_at": "2026-04-25T15:56:48Z",
+  "updated_at": "2026-04-26T15:08:21Z",
   "pushed_at": "2026-03-30T03:28:44Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 404
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 418
     }
   ]
 }

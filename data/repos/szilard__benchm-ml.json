@@ -4,6 +4,7 @@
   "name": "benchm-ml",
   "full_name": "szilard/benchm-ml",
   "description": "A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.).",
+  "description_ja": "",
   "url": "https://github.com/szilard/benchm-ml",
   "homepage_url": "",
   "language": "R",
@@ -20,12 +21,12 @@
     "spark",
     "xgboost"
   ],
-  "star_count": 1895,
-  "fork_count": 330,
+  "star_count": 1896,
+  "fork_count": 329,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-03-28T00:34:18Z",
-  "updated_at": "2026-04-15T09:00:23Z",
+  "updated_at": "2026-04-25T22:43:04Z",
   "pushed_at": "2022-09-16T14:01:14Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 1895
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1896
     }
   ]
 }

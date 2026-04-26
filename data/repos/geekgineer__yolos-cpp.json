@@ -4,17 +4,18 @@
   "name": "yolos-cpp",
   "full_name": "geekgineer/yolos-cpp",
   "description": "Cross-Platform Production-ready C++ inference engine for YOLO models (v5-v12, YOLO26). Unified API for detection, segmentation, pose estimation, OBB, and classification. Built on ONNX Runtime and OpenCV. Optimized for CPU/GPU with quantization support.",
+  "description_ja": "",
   "url": "https://github.com/Geekgineer/YOLOs-CPP",
   "homepage_url": "https://geekgineer.github.io/YOLOs-CPP/",
   "language": "C++",
   "license": "AGPL-3.0",
   "topics": [],
-  "star_count": 954,
+  "star_count": 955,
   "fork_count": 137,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-09T07:33:13Z",
-  "updated_at": "2026-04-25T09:59:09Z",
+  "updated_at": "2026-04-25T17:46:49Z",
   "pushed_at": "2026-04-13T21:19:27Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 954
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 955
     }
   ]
 }

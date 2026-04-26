@@ -4,6 +4,7 @@
   "name": "onekey-gateway",
   "full_name": "aiagenta2z/onekey-gateway",
   "description": "OneKey Agent Gateway access to Commercial APIs, Skills, MCPs Build once and Ship 10× faster. For devs \u0026 builders, A unified API registry to serve and distribute across all agent formats—CLI, REST, MCP, and Skills—eliminating multiple builds. Access 30+ categories like search, image, finance, and 3D Rendering, register, and monetize APIs 10× faster",
+  "description_ja": "OneKey Agent Gateway: 商用API、スキル、MCPへのアクセス。一度作って10倍速で出荷。開発者・ビルダー向けの統一APIレジストリで、CLI・REST・MCP・スキルの全エージェント形式を横断配信し重複ビルドを排除。検索、画像、金融、3Dレンダリングなど30以上のカテゴリにアクセスし、登録・収益化を10倍高速化",
   "url": "https://github.com/aiagenta2z/onekey-gateway",
   "homepage_url": "https://www.deepnlp.org/doc/onekey_gateway",
   "language": "Python",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 45
+    },
+    {
+      "date": "2026-04-26",
       "stars": 45
     }
   ]

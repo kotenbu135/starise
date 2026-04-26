@@ -4,6 +4,7 @@
   "name": "api",
   "full_name": "polkadot-js/api",
   "description": "Promise and RxJS APIs around Polkadot and Substrate based chains via RPC calls. It is dynamically generated based on what the Substrate runtime provides in terms of metadata.",
+  "description_ja": "",
   "url": "https://github.com/polkadot-js/api",
   "homepage_url": "",
   "language": "TypeScript",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1105
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1105
     }
   ]

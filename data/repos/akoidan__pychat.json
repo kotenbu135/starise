@@ -4,6 +4,7 @@
   "name": "pychat",
   "full_name": "akoidan/pychat",
   "description": "webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing",
+  "description_ja": "WebSocket/WebRTCを利用したWebチャット。メッセージング、ビデオ通話、画面共有が可能",
   "url": "https://github.com/akoidan/pychat",
   "homepage_url": "https://pychat.org",
   "language": "TypeScript",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 244
+    },
+    {
+      "date": "2026-04-26",
       "stars": 244
     }
   ]

@@ -4,6 +4,7 @@
   "name": "nuqs",
   "full_name": "47ng/nuqs",
   "description": "Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.",
+  "description_ja": "Reactフレームワーク向けの型安全な検索パラメータ状態管理。useStateと同じ感覚でURLクエリ文字列に保存",
   "url": "https://github.com/47ng/nuqs",
   "homepage_url": "https://nuqs.dev",
   "language": "TypeScript",
@@ -19,12 +20,12 @@
     "url-params",
     "url-state"
   ],
-  "star_count": 10379,
+  "star_count": 10384,
   "fork_count": 260,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-11T03:52:32Z",
-  "updated_at": "2026-04-25T09:23:03Z",
+  "updated_at": "2026-04-26T14:56:42Z",
   "pushed_at": "2026-04-24T23:32:55Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 10379
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 10384
     }
   ]
 }

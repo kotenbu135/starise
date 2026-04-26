@@ -4,6 +4,7 @@
   "name": "meteor-collection2",
   "full_name": "meteor-community-packages/meteor-collection2",
   "description": "A Meteor package that extends Mongo.Collection to provide support for specifying a schema and then validating against that schema when inserting and updating.",
+  "description_ja": "",
   "url": "https://github.com/Meteor-Community-Packages/meteor-collection2",
   "homepage_url": "https://packosphere.com/aldeed/collection2",
   "language": "JavaScript",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1017
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1017
     }
   ]

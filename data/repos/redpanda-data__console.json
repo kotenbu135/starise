@@ -4,6 +4,7 @@
   "name": "console",
   "full_name": "redpanda-data/console",
   "description": "Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.",
+  "description_ja": "",
   "url": "https://github.com/redpanda-data/console",
   "homepage_url": "https://redpanda.com",
   "language": "TypeScript",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 4269
+    },
+    {
+      "date": "2026-04-26",
       "stars": 4269
     }
   ]

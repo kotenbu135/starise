@@ -4,6 +4,7 @@
   "name": "redis_exporter",
   "full_name": "oliver006/redis_exporter",
   "description": "Prometheus Exporter for Valkey \u0026 Redis Metrics. Supports Valkey 9.x, 8.x, 7.x and various Redis versions",
+  "description_ja": "",
   "url": "https://github.com/oliver006/redis_exporter",
   "homepage_url": "https://github.com/oliver006/redis_exporter",
   "language": "Go",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3618
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3618
     }
   ]

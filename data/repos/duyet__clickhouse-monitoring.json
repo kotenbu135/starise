@@ -4,6 +4,7 @@
   "name": "clickhouse-monitoring",
   "full_name": "duyet/clickhouse-monitoring",
   "description": "Simple ClickHouse UI that relies on system tables to help monitor and provide overview of your cluster",
+  "description_ja": "",
   "url": "https://github.com/duyet/clickhouse-monitoring",
   "homepage_url": "https://clickhouse.duyet.net",
   "language": "TypeScript",
@@ -20,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-16T13:18:24Z",
-  "updated_at": "2026-04-25T04:37:46Z",
-  "pushed_at": "2026-04-25T04:50:39Z",
+  "updated_at": "2026-04-26T08:04:02Z",
+  "pushed_at": "2026-04-26T08:04:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 219
+    },
+    {
+      "date": "2026-04-26",
       "stars": 219
     }
   ]

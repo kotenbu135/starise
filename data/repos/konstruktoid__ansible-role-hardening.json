@@ -4,6 +4,7 @@
   "name": "ansible-role-hardening",
   "full_name": "konstruktoid/ansible-role-hardening",
   "description": "Ansible role to apply a security baseline. Systemd edition.",
+  "description_ja": "",
   "url": "https://github.com/konstruktoid/ansible-role-hardening",
   "homepage_url": "",
   "language": "Jinja",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 627
+    },
+    {
+      "date": "2026-04-26",
       "stars": 627
     }
   ]

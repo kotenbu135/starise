@@ -4,18 +4,19 @@
   "name": "hf-mount",
   "full_name": "huggingface/hf-mount",
   "description": "Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting.",
+  "description_ja": "",
   "url": "https://github.com/huggingface/hf-mount",
   "homepage_url": "",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 688,
-  "fork_count": 42,
+  "star_count": 690,
+  "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T17:26:01Z",
-  "updated_at": "2026-04-25T17:13:10Z",
-  "pushed_at": "2026-04-25T16:02:23Z",
+  "updated_at": "2026-04-26T16:31:50Z",
+  "pushed_at": "2026-04-26T16:50:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 688
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 690
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "luaunit",
   "full_name": "bluebird75/luaunit",
   "description": "LuaUnit is a popular unit-testing framework for Lua, with an interface typical of xUnit libraries (Python unittest, Junit, NUnit, ...). It supports several output formats (Text, TAP, JUnit, ...) to be used directly or work with Continuous Integration platforms (Jenkins, Maven, ...).",
+  "description_ja": "",
   "url": "https://github.com/bluebird75/luaunit",
   "homepage_url": "",
   "language": "Lua",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 622
+    },
+    {
+      "date": "2026-04-26",
       "stars": 622
     }
   ]

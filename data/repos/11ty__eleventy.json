@@ -4,6 +4,7 @@
   "name": "eleventy",
   "full_name": "11ty/eleventy",
   "description": "A simpler site generator. Transforms a directory of templates (of varying types) into HTML.",
+  "description_ja": "よりシンプルなサイトジェネレーター。様々な種類のテンプレートが入ったディレクトリをHTMLに変換。",
   "url": "https://github.com/11ty/eleventy",
   "homepage_url": "https://www.11ty.dev/",
   "language": "JavaScript",
@@ -16,12 +17,12 @@
     "static-site-generator",
     "templates"
   ],
-  "star_count": 19586,
+  "star_count": 19585,
   "fork_count": 579,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-11-27T05:19:00Z",
-  "updated_at": "2026-04-25T15:15:25Z",
+  "updated_at": "2026-04-26T09:42:19Z",
   "pushed_at": "2026-04-21T14:38:31Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 19586
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 19585
     }
   ]
 }

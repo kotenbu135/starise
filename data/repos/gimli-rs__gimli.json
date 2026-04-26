@@ -4,6 +4,7 @@
   "name": "gimli",
   "full_name": "gimli-rs/gimli",
   "description": "A library for reading and writing the DWARF debugging format",
+  "description_ja": "",
   "url": "https://github.com/gimli-rs/gimli",
   "homepage_url": "https://docs.rs/gimli/",
   "language": "Rust",
@@ -14,7 +15,7 @@
     "rust"
   ],
   "star_count": 980,
-  "fork_count": 131,
+  "fork_count": 132,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-06-15T00:39:04Z",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 980
+    },
+    {
+      "date": "2026-04-26",
       "stars": 980
     }
   ]

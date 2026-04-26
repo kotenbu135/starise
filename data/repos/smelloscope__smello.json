@@ -4,6 +4,7 @@
   "name": "smello",
   "full_name": "smelloscope/smello",
   "description": "A developer tool that captures outgoing HTTP requests from your code and displays them in a local web dashboard",
+  "description_ja": "",
   "url": "https://github.com/smelloscope/smello",
   "homepage_url": "http://smello.io",
   "language": "Python",
@@ -18,12 +19,12 @@
     "python",
     "requests"
   ],
-  "star_count": 47,
+  "star_count": 48,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-16T09:59:24Z",
-  "updated_at": "2026-04-23T13:15:32Z",
+  "updated_at": "2026-04-26T09:08:11Z",
   "pushed_at": "2026-04-13T10:13:50Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 47
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 48
     }
   ]
 }

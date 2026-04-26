@@ -4,6 +4,7 @@
   "name": "terraform-aws-s3",
   "full_name": "clouddrove/terraform-aws-s3",
   "description": "Terraform module to create default S3 bucket with logging and encryption type specific features.",
+  "description_ja": "",
   "url": "https://github.com/clouddrove/terraform-aws-s3",
   "homepage_url": "https://www.terraform.io/docs/providers/aws/r/s3_bucket.html",
   "language": "HCL",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 34
+    },
+    {
+      "date": "2026-04-26",
       "stars": 34
     }
   ]

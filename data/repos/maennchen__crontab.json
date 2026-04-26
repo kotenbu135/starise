@@ -4,6 +4,7 @@
   "name": "crontab",
   "full_name": "maennchen/crontab",
   "description": ":alarm_clock: Parse Cron Expressions, Compose Cron Expression Strings and Caluclate Execution Dates.",
+  "description_ja": "",
   "url": "https://github.com/maennchen/crontab",
   "homepage_url": "https://hex.pm/packages/crontab",
   "language": "Elixir",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 100
+    },
+    {
+      "date": "2026-04-26",
       "stars": 100
     }
   ]

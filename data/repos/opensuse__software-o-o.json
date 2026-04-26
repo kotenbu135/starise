@@ -4,6 +4,7 @@
   "name": "software-o-o",
   "full_name": "opensuse/software-o-o",
   "description": "The site behind https://software.opensuse.org. It is the default web interface to download openSUSE distributions and to search for OBS packages. Packaged at https://build.opensuse.org/project/show/openSUSE:infrastructure:software.opensuse.org",
+  "description_ja": "",
   "url": "https://github.com/openSUSE/software-o-o",
   "homepage_url": "https://software.opensuse.org/",
   "language": "SCSS",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 157
+    },
+    {
+      "date": "2026-04-26",
       "stars": 157
     }
   ]

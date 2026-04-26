@@ -4,6 +4,7 @@
   "name": "garnet",
   "full_name": "microsoft/garnet",
   "description": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.",
+  "description_ja": "",
   "url": "https://github.com/microsoft/garnet",
   "homepage_url": "https://microsoft.github.io/garnet/",
   "language": "C#",
@@ -22,13 +23,13 @@
     "scalable",
     "store"
   ],
-  "star_count": 11807,
+  "star_count": 11808,
   "fork_count": 654,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-21T21:54:58Z",
-  "updated_at": "2026-04-25T01:41:47Z",
-  "pushed_at": "2026-04-25T12:14:53Z",
+  "updated_at": "2026-04-25T19:52:03Z",
+  "pushed_at": "2026-04-26T12:16:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 11807
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 11808
     }
   ]
 }

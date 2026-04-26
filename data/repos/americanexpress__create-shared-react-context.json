@@ -4,6 +4,7 @@
   "name": "create-shared-react-context",
   "full_name": "americanexpress/create-shared-react-context",
   "description": "✨A memoized wrapper around React.createContext. Used by One App as a dependency to pass React context between Holocron modules without external usage.",
+  "description_ja": "React.createContextのメモ化ラッパー。One AppがHolocronモジュール間でReactコンテキストを受け渡すための依存として使用、外部利用は想定外",
   "url": "https://github.com/americanexpress/create-shared-react-context",
   "homepage_url": "",
   "language": "TypeScript",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

@@ -4,6 +4,7 @@
   "name": "pandoc_docx_template",
   "full_name": "achuan-2/pandoc_docx_template",
   "description": "Markdown导出为docx时使用的模板，可控制导出docx的段落文字、标题编号等样式，适用于obsidian、typora、思源笔记等Markdown笔记软件丨Template for exporting Markdown to docx (Word) using pandoc",
+  "description_ja": "[25] Markdown を docx へエクスポートする際に使用するテンプレート。docx の段落テキスト、見出し番号などのスタイルを制御可能。obsidian、typora、思源筆記などの Markdown ノートソフトに対応 | pandoc を用いた Markdown → docx (Word) エクスポート用テンプレート",
   "url": "https://github.com/Achuan-2/pandoc_docx_template",
   "homepage_url": "",
   "language": "Lua",
@@ -13,12 +14,12 @@
     "pandoc",
     "siyuan-note"
   ],
-  "star_count": 674,
+  "star_count": 678,
   "fork_count": 84,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-14T16:06:01Z",
-  "updated_at": "2026-04-25T05:46:19Z",
+  "updated_at": "2026-04-26T11:54:31Z",
   "pushed_at": "2026-01-25T13:47:53Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 674
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 678
     }
   ]
 }

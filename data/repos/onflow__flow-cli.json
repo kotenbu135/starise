@@ -4,6 +4,7 @@
   "name": "flow-cli",
   "full_name": "onflow/flow-cli",
   "description": "Flow CLI. Deploy contracts, run transactions, manage accounts, and run a local Flow emulator. The primary tool for building on Flow",
+  "description_ja": "",
   "url": "https://github.com/onflow/flow-cli",
   "homepage_url": "https://developers.flow.com/tools/flow-cli",
   "language": "Go",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 211
+    },
+    {
+      "date": "2026-04-26",
       "stars": 211
     }
   ]

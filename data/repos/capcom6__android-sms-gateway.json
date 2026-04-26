@@ -4,6 +4,7 @@
   "name": "android-sms-gateway",
   "full_name": "capcom6/android-sms-gateway",
   "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.",
+  "description_ja": "",
   "url": "https://github.com/capcom6/android-sms-gateway",
   "homepage_url": "https://docs.sms-gate.app",
   "language": "Kotlin",
@@ -22,12 +23,12 @@
     "textbee",
     "ttl"
   ],
-  "star_count": 4229,
-  "fork_count": 688,
+  "star_count": 4243,
+  "fork_count": 694,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-15T15:41:39Z",
-  "updated_at": "2026-04-25T16:02:39Z",
+  "updated_at": "2026-04-26T16:07:38Z",
   "pushed_at": "2026-04-24T02:15:25Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 4229
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4243
     }
   ]
 }

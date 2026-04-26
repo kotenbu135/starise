@@ -4,6 +4,7 @@
   "name": "oxide-auth",
   "full_name": "197g/oxide-auth",
   "description": "A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends.",
+  "description_ja": "actixや他のフロントエンドと組み合わせて使用するOAuth2サーバーライブラリ。設定可能でプラガブルなバックエンドのセットを搭載。",
   "url": "https://github.com/197g/oxide-auth",
   "homepage_url": "",
   "language": "Rust",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 775
+    },
+    {
+      "date": "2026-04-26",
       "stars": 775
     }
   ]

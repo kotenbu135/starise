@@ -4,6 +4,7 @@
   "name": "ai00_server",
   "full_name": "ai00-x/ai00_server",
   "description": "The all-in-one RWKV runtime box with embed, RAG, AI agents, and more.",
+  "description_ja": "埋め込み、RAG、AIエージェントなどを備えたオールインワンRWKVランタイムボックス",
   "url": "https://github.com/Ai00-X/ai00_server",
   "homepage_url": "https://ai00-x.github.io/ai00_server/",
   "language": "Rust",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 610
+    },
+    {
+      "date": "2026-04-26",
       "stars": 610
     }
   ]

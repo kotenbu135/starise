@@ -4,6 +4,7 @@
   "name": "iggy",
   "full_name": "apache/iggy",
   "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+  "description_ja": "",
   "url": "https://github.com/apache/iggy",
   "homepage_url": "https://iggy.apache.org",
   "language": "Rust",
@@ -18,13 +19,13 @@
     "streaming",
     "tcp"
   ],
-  "star_count": 4163,
-  "fork_count": 305,
+  "star_count": 4165,
+  "fork_count": 307,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-18T21:39:42Z",
-  "updated_at": "2026-04-25T09:29:43Z",
-  "pushed_at": "2026-04-25T07:13:46Z",
+  "updated_at": "2026-04-26T17:08:14Z",
+  "pushed_at": "2026-04-26T09:14:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 4163
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4165
     }
   ]
 }

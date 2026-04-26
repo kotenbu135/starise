@@ -4,6 +4,7 @@
   "name": "esphome-jk-bms",
   "full_name": "syssi/esphome-jk-bms",
   "description": "ESPHome component to monitor and control a Jikong Battery Management System (JK-BMS) via UART-TTL or BLE",
+  "description_ja": "",
   "url": "https://github.com/syssi/esphome-jk-bms",
   "homepage_url": "",
   "language": "C++",
@@ -19,12 +20,12 @@
     "neey-balancer",
     "uart"
   ],
-  "star_count": 900,
-  "fork_count": 281,
+  "star_count": 901,
+  "fork_count": 282,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-08T07:31:46Z",
-  "updated_at": "2026-04-25T07:36:56Z",
+  "updated_at": "2026-04-26T17:13:19Z",
   "pushed_at": "2026-04-17T14:15:53Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 900
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 901
     }
   ]
 }

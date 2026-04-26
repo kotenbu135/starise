@@ -4,6 +4,7 @@
   "name": "bypass-finals",
   "full_name": "dg/bypass-finals",
   "description": "Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.",
+  "description_ja": "",
   "url": "https://github.com/dg/bypass-finals",
   "homepage_url": "",
   "language": "PHP",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 567
+    },
+    {
+      "date": "2026-04-26",
       "stars": 567
     }
   ]

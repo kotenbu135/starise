@@ -4,6 +4,7 @@
   "name": "simple-websockets-chat-app",
   "full_name": "aws-samples/simple-websockets-chat-app",
   "description": "This SAM application provides the Lambda functions, DynamoDB table, and roles to allow you to build a simple chat application based on API Gateway's new WebSocket-based API feature. ",
+  "description_ja": "",
   "url": "https://github.com/aws-samples/simple-websockets-chat-app",
   "homepage_url": "",
   "language": "JavaScript",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 704
+    },
+    {
+      "date": "2026-04-26",
       "stars": 704
     }
   ]

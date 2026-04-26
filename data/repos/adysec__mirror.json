@@ -4,6 +4,7 @@
   "name": "mirror",
   "full_name": "adysec/mirror",
   "description": "AdySec CF拉平镜像站 | 官方源可信度和稳定性最高，但国内访问速度较慢，通过众生平等Cloudflare，利用全球的边缘节点，将用户请求转发到离用户距离最近的节点，同时缓存静态内容加速，减少网络延迟和下载速度，使用Cloudflare Workers配置反代实现",
+  "description_ja": "AdySec CFミラーサイト | 公式ソースは信頼性と安定性が最も高いものの、国内からのアクセス速度は遅め。Cloudflareの全世界エッジノードを利用してユーザーリクエストを最寄りノードに転送し、静的コンテンツをキャッシュ加速することでネットワーク遅延を低減しダウンロード速度を向上。Cloudflare Workersでリバースプロキシを設定して実現。",
   "url": "https://github.com/adysec/mirror",
   "homepage_url": "https://mirror.adysec.com",
   "language": "Rust",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 369
+    },
+    {
+      "date": "2026-04-26",
       "stars": 369
     }
   ]

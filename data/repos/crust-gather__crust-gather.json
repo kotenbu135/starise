@@ -4,6 +4,7 @@
   "name": "crust-gather",
   "full_name": "crust-gather/crust-gather",
   "description": "kubectl debugging plugin to collect full or partial cluster state and serve via an api server. Kubernetes time machine",
+  "description_ja": "",
   "url": "https://github.com/crust-gather/crust-gather",
   "homepage_url": "https://deepwiki.com/crust-gather/crust-gather/",
   "language": "Rust",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

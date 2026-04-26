@@ -4,6 +4,7 @@
   "name": "ripgrep",
   "full_name": "burntsushi/ripgrep",
   "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+  "description_ja": "",
   "url": "https://github.com/BurntSushi/ripgrep",
   "homepage_url": "",
   "language": "Rust",
@@ -20,12 +21,12 @@
     "rust",
     "search"
   ],
-  "star_count": 62935,
-  "fork_count": 2519,
+  "star_count": 62960,
+  "fork_count": 2521,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-03-11T02:02:33Z",
-  "updated_at": "2026-04-25T16:43:45Z",
+  "updated_at": "2026-04-26T17:11:14Z",
   "pushed_at": "2026-02-27T16:25:19Z",
   "deleted_at": "",
   "star_history": [
@@ -48,6 +49,10 @@
     {
       "date": "2026-04-25",
       "stars": 62935
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 62960
     }
   ]
 }

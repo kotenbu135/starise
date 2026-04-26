@@ -4,6 +4,7 @@
   "name": "esp32-transpiler",
   "full_name": "andygeiss/esp32-transpiler",
   "description": "Transpile Golang into Arduino code to use fully automated testing at your IoT projects.",
+  "description_ja": "GoをArduinoコードにトランスパイルし、IoTプロジェクトで完全自動テストを利用可能にする。",
   "url": "https://github.com/andygeiss/esp32-transpiler",
   "homepage_url": "",
   "language": "Go",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

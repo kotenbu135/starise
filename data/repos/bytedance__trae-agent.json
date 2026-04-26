@@ -4,6 +4,7 @@
   "name": "trae-agent",
   "full_name": "bytedance/trae-agent",
   "description": "Trae Agent is an LLM-based agent for general purpose software engineering tasks.",
+  "description_ja": "",
   "url": "https://github.com/bytedance/trae-agent",
   "homepage_url": "https://www.trae.ai/",
   "language": "Python",
@@ -13,12 +14,12 @@
     "llm",
     "software-engineering"
   ],
-  "star_count": 11402,
-  "fork_count": 1245,
+  "star_count": 11409,
+  "fork_count": 1246,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-13T12:05:15Z",
-  "updated_at": "2026-04-25T15:55:47Z",
+  "updated_at": "2026-04-26T15:33:00Z",
   "pushed_at": "2026-02-05T11:21:00Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 11402
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 11409
     }
   ]
 }

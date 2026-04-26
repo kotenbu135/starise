@@ -4,6 +4,7 @@
   "name": "karamel",
   "full_name": "fstarlang/karamel",
   "description": "KaRaMeL is a tool for extracting low-level F* programs to readable C code",
+  "description_ja": "",
   "url": "https://github.com/FStarLang/karamel",
   "homepage_url": "",
   "language": "OCaml",
@@ -15,12 +16,12 @@
     "proofs",
     "verification"
   ],
-  "star_count": 504,
+  "star_count": 505,
   "fork_count": 72,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-05-27T23:29:05Z",
-  "updated_at": "2026-04-25T14:05:54Z",
+  "updated_at": "2026-04-26T13:45:36Z",
   "pushed_at": "2026-04-25T14:05:51Z",
   "deleted_at": "",
   "star_history": [
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 504
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 505
     }
   ]
 }

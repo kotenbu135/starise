@@ -4,6 +4,7 @@
   "name": "aws-efs-csi-driver",
   "full_name": "kubernetes-sigs/aws-efs-csi-driver",
   "description": "CSI Driver for Amazon EFS https://aws.amazon.com/efs/",
+  "description_ja": "",
   "url": "https://github.com/kubernetes-sigs/aws-efs-csi-driver",
   "homepage_url": "",
   "language": "Go",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 793
+    },
+    {
+      "date": "2026-04-26",
       "stars": 793
     }
   ]

@@ -4,6 +4,7 @@
   "name": "waifu2x-extension-gui",
   "full_name": "aaronfeng753/waifu2x-extension-gui",
   "description": "Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.",
+  "description_ja": "動画・画像・GIFのアップスケール／拡大（超解像）と動画フレーム補間。Waifu2x、Real-ESRGAN、Real-CUGAN、RTX Video Super Resolution VSR、SRMD、RealSR、Anime4K、RIFE、IFRNet、CAIN、DAIN、ACNetで実現。",
   "url": "https://github.com/AaronFeng753/Waifu2x-Extension-GUI",
   "homepage_url": "https://patreon.com/aaronfeng",
   "language": "C++",
@@ -30,12 +31,12 @@
     "waifu2x",
     "waifu2x-ncnn-vulkan"
   ],
-  "star_count": 16453,
+  "star_count": 16466,
   "fork_count": 1040,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-01-20T10:01:28Z",
-  "updated_at": "2026-04-25T14:39:53Z",
+  "updated_at": "2026-04-26T16:45:06Z",
   "pushed_at": "2026-04-19T02:34:17Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 16453
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 16466
     }
   ]
 }

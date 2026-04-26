@@ -4,6 +4,7 @@
   "name": "anywhere-sdr",
   "full_name": "lll9p/anywhere-sdr",
   "description": "A software-defined GPS signal simulator written in Rust that generates GPS L1 C/A signals for SDR transmission. Compatible with gps-sdr-sim while offering enhanced features and modern architecture.",
+  "description_ja": "",
   "url": "https://github.com/lll9p/anywhere-sdr",
   "homepage_url": "",
   "language": "Rust",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 10
+    },
+    {
+      "date": "2026-04-26",
       "stars": 10
     }
   ]

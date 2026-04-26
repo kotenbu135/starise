@@ -4,6 +4,7 @@
   "name": "mlpack",
   "full_name": "mlpack/mlpack",
   "description": "mlpack: a fast, header-only C++ machine learning library",
+  "description_ja": "",
   "url": "https://github.com/mlpack/mlpack",
   "homepage_url": "https://www.mlpack.org/",
   "language": "C++",
@@ -18,12 +19,12 @@
     "regression",
     "scientific-computing"
   ],
-  "star_count": 5630,
+  "star_count": 5633,
   "fork_count": 1707,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-12-17T18:16:59Z",
-  "updated_at": "2026-04-25T02:40:48Z",
+  "updated_at": "2026-04-26T14:04:27Z",
   "pushed_at": "2026-04-23T13:47:24Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 5630
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5633
     }
   ]
 }

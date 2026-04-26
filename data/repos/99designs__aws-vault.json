@@ -4,6 +4,7 @@
   "name": "aws-vault",
   "full_name": "99designs/aws-vault",
   "description": "A vault for securely storing and accessing AWS credentials in development environments",
+  "description_ja": "開発環境でAWS認証情報を安全に保存・アクセスするためのVault",
   "url": "https://github.com/99designs/aws-vault",
   "homepage_url": "",
   "language": "Go",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 8969
+    },
+    {
+      "date": "2026-04-26",
       "stars": 8969
     }
   ]

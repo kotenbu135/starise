@@ -4,6 +4,7 @@
   "name": "lanzaboote",
   "full_name": "nix-community/lanzaboote",
   "description": "Secure Boot \u0026 Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]",
+  "description_ja": "",
   "url": "https://github.com/nix-community/lanzaboote",
   "homepage_url": "https://nix-community.github.io/lanzaboote/",
   "language": "Rust",
@@ -21,12 +22,12 @@
     "tpm2",
     "uefi"
   ],
-  "star_count": 1629,
+  "star_count": 1633,
   "fork_count": 99,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-11-21T11:10:07Z",
-  "updated_at": "2026-04-25T05:59:32Z",
+  "updated_at": "2026-04-26T09:38:34Z",
   "pushed_at": "2026-04-21T18:51:52Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 1629
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1633
     }
   ]
 }

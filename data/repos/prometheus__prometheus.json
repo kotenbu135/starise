@@ -4,6 +4,7 @@
   "name": "prometheus",
   "full_name": "prometheus/prometheus",
   "description": "The Prometheus monitoring system and time series database.",
+  "description_ja": "",
   "url": "https://github.com/prometheus/prometheus",
   "homepage_url": "https://prometheus.io/",
   "language": "Go",
@@ -17,13 +18,13 @@
     "prometheus",
     "time-series"
   ],
-  "star_count": 63774,
-  "fork_count": 10360,
+  "star_count": 63787,
+  "fork_count": 10365,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-11-24T11:14:12Z",
-  "updated_at": "2026-04-25T17:34:09Z",
-  "pushed_at": "2026-04-24T17:42:26Z",
+  "updated_at": "2026-04-26T17:09:52Z",
+  "pushed_at": "2026-04-26T16:09:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 63774
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 63787
     }
   ]
 }

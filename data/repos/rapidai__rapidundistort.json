@@ -4,6 +4,7 @@
   "name": "rapidundistort",
   "full_name": "rapidai/rapidundistort",
   "description": "修正文档扭曲/模糊/阴影等情况，使用onnx模型简单轻量部署，未来持续跟进最新最好的文档矫正方案和模型,Correct document distortion using a lightweight ONNX model for easy deployment. We will continue to follow and integrate the latest and best document correction solutions and models in the future.",
+  "description_ja": "",
   "url": "https://github.com/RapidAI/RapidUnDistort",
   "homepage_url": "",
   "language": "Python",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 100
+    },
+    {
+      "date": "2026-04-26",
       "stars": 100
     }
   ]

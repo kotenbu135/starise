@@ -4,6 +4,7 @@
   "name": "server",
   "full_name": "mariadb/server",
   "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
+  "description_ja": "",
   "url": "https://github.com/MariaDB/server",
   "homepage_url": "https://mariadb.org",
   "language": "C++",
@@ -25,13 +26,13 @@
     "storage-engine",
     "vector-database"
   ],
-  "star_count": 7496,
-  "fork_count": 2035,
+  "star_count": 7501,
+  "fork_count": 2034,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-05-15T10:58:50Z",
-  "updated_at": "2026-04-25T16:48:30Z",
-  "pushed_at": "2026-04-25T12:13:57Z",
+  "updated_at": "2026-04-26T16:34:40Z",
+  "pushed_at": "2026-04-26T16:09:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 7496
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 7501
     }
   ]
 }

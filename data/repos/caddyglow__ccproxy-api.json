@@ -4,6 +4,7 @@
   "name": "ccproxy-api",
   "full_name": "caddyglow/ccproxy-api",
   "description": "is a local reverse proxy providing unified access to multiple AI providers (Claude, Codex) through a single interface, using your existing subscriptions without API key billing.",
+  "description_ja": "",
   "url": "https://github.com/CaddyGlow/ccproxy-api",
   "homepage_url": "https://caddyglow.github.io/ccproxy-api/",
   "language": "Python",
@@ -18,12 +19,12 @@
     "openai",
     "python"
   ],
-  "star_count": 231,
+  "star_count": 232,
   "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-04T07:56:48Z",
-  "updated_at": "2026-04-24T09:12:07Z",
+  "updated_at": "2026-04-26T07:17:42Z",
   "pushed_at": "2026-04-13T14:09:53Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 231
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 232
     }
   ]
 }

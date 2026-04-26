@@ -4,6 +4,7 @@
   "name": "companion-app",
   "full_name": "a16z-infra/companion-app",
   "description": "AI companions with memory: a lightweight stack to create and host your own AI companions",
+  "description_ja": "記憶を持つAIコンパニオン：自前のAIコンパニオンを作成・ホストするための軽量スタック",
   "url": "https://github.com/a16z-infra/companion-app",
   "homepage_url": "https://ai-companion-stack.com/",
   "language": "TypeScript",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5949
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5949
     }
   ]

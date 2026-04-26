@@ -4,6 +4,7 @@
   "name": "pdfviewer",
   "full_name": "grapheneos/pdfviewer",
   "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
+  "description_ja": "",
   "url": "https://github.com/GrapheneOS/PdfViewer",
   "homepage_url": "https://grapheneos.org/",
   "language": "Java",
@@ -21,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-01-16T21:20:40Z",
-  "updated_at": "2026-04-24T18:02:28Z",
-  "pushed_at": "2026-04-21T11:46:26Z",
+  "updated_at": "2026-04-25T20:26:17Z",
+  "pushed_at": "2026-04-25T20:26:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 935
+    },
+    {
+      "date": "2026-04-26",
       "stars": 935
     }
   ]

@@ -4,6 +4,7 @@
   "name": "rna-kg",
   "full_name": "anacletolab/rna-kg",
   "description": "Collection of tutorials to build RNA-KG v2.0 from scratch and for reproducing experiments such as \"context-aware\" KG pruning, clustering, and link prediction.",
+  "description_ja": "RNA-KG v2.0 をゼロから構築するためのチュートリアル集。「文脈考慮型」KG 剪定、クラスタリング、リンク予測などの実験再現にも対応。",
   "url": "https://github.com/AnacletoLAB/RNA-KG",
   "homepage_url": "https://RNA-KG.biodata.di.unimi.it",
   "language": "Jupyter Notebook",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

@@ -4,6 +4,7 @@
   "name": "pingoo",
   "full_name": "pingooio/pingoo",
   "description": "The fast and secure Load Balancer / API Gateway / Reverse Proxy with built-in service discovery, GeoIP, WAF, bot protection and much more - https://pingoo.io",
+  "description_ja": "",
   "url": "https://github.com/pingooio/pingoo",
   "homepage_url": "https://pingoo.io",
   "language": "Rust",
@@ -30,12 +31,12 @@
     "service-discovery",
     "waf"
   ],
-  "star_count": 984,
-  "fork_count": 40,
+  "star_count": 985,
+  "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-17T07:18:40Z",
-  "updated_at": "2026-04-24T12:33:52Z",
+  "updated_at": "2026-04-26T03:10:55Z",
   "pushed_at": "2026-01-26T08:58:21Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 984
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 985
     }
   ]
 }

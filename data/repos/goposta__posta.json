@@ -4,6 +4,7 @@
   "name": "posta",
   "full_name": "goposta/posta",
   "description": "Self-hosted email delivery platform that enables applications to send emails via HTTP APIs while handling SMTP delivery, templates, storage, security, and analytics. Fully self-hostable alternative to services like SendGrid or Mailgun.",
+  "description_ja": "",
   "url": "https://github.com/goposta/posta",
   "homepage_url": "https://goposta.dev",
   "language": "Go",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 50
+    },
+    {
+      "date": "2026-04-26",
       "stars": 50
     }
   ]

@@ -4,6 +4,7 @@
   "name": "proxmoxmcp-plus",
   "full_name": "rekklesna/proxmoxmcp-plus",
   "description": "Use MCP and OpenAPI to safely control Proxmox VE VMs, LXCs, backups, and snapshots from LLMs and AI agents.",
+  "description_ja": "",
   "url": "https://github.com/RekklesNA/ProxmoxMCP-Plus",
   "homepage_url": "https://github.com/RekklesNA/ProxmoxMCP-Plus#readme",
   "language": "Python",
@@ -23,12 +24,12 @@
     "qemu",
     "virtualization"
   ],
-  "star_count": 146,
+  "star_count": 150,
   "fork_count": 42,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-23T07:19:12Z",
-  "updated_at": "2026-04-25T10:08:29Z",
+  "updated_at": "2026-04-26T06:20:36Z",
   "pushed_at": "2026-04-25T03:45:57Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 146
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 150
     }
   ]
 }

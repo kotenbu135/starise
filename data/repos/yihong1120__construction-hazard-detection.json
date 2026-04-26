@@ -4,6 +4,7 @@
   "name": "construction-hazard-detection",
   "full_name": "yihong1120/construction-hazard-detection",
   "description": "Enhances construction site safety using YOLO for object detection, identifying hazards like workers without helmets or safety vests, and proximity to machinery or vehicles. HDBSCAN clusters safety cone coordinates to create monitored zones. Post-processing algorithms improve detection accuracy.",
+  "description_ja": "",
   "url": "https://github.com/yihong1120/Construction-Hazard-Detection",
   "homepage_url": "https://visionnaire-cda17.web.app/",
   "language": "Python",
@@ -48,6 +49,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 371
+    },
+    {
+      "date": "2026-04-26",
       "stars": 371
     }
   ]

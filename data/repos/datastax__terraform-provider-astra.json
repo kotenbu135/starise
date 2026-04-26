@@ -4,6 +4,7 @@
   "name": "terraform-provider-astra",
   "full_name": "datastax/terraform-provider-astra",
   "description": "A project that allows DataStax Astra users to manage their full database lifecycle for Astra Serverless databases (built on Apache Cassandra(TM)) using Terraform",
+  "description_ja": "",
   "url": "https://github.com/datastax/terraform-provider-astra",
   "homepage_url": "https://registry.terraform.io/providers/datastax/astra",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

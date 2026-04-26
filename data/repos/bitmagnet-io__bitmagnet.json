@@ -4,6 +4,7 @@
   "name": "bitmagnet",
   "full_name": "bitmagnet-io/bitmagnet",
   "description": "A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.",
+  "description_ja": "",
   "url": "https://github.com/bitmagnet-io/bitmagnet",
   "homepage_url": "https://bitmagnet.io/",
   "language": "Go",
@@ -20,12 +21,12 @@
     "torrents",
     "torznab"
   ],
-  "star_count": 4000,
-  "fork_count": 227,
+  "star_count": 4002,
+  "fork_count": 228,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-02T20:47:56Z",
-  "updated_at": "2026-04-25T04:57:04Z",
+  "updated_at": "2026-04-26T10:39:12Z",
   "pushed_at": "2026-01-31T11:47:44Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 4000
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4002
     }
   ]
 }

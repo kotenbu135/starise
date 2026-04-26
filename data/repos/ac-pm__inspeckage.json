@@ -4,6 +4,7 @@
   "name": "inspeckage",
   "full_name": "ac-pm/inspeckage",
   "description": "Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)",
+  "description_ja": "Androidパッケージインスペクター - APIフックによる動的解析、非エクスポートアクティビティの起動など（Xposedモジュール）",
   "url": "https://github.com/ac-pm/Inspeckage",
   "homepage_url": "",
   "language": "Java",
@@ -19,7 +20,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-02-28T22:59:51Z",
-  "updated_at": "2026-04-23T23:15:13Z",
+  "updated_at": "2026-04-26T14:51:46Z",
   "pushed_at": "2020-09-22T01:45:56Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2961
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2961
     }
   ]

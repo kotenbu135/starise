@@ -4,6 +4,7 @@
   "name": "wasm",
   "full_name": "polkadot-js/wasm",
   "description": "A collection of WASM wrappers (mostly around Rust libraries) that are used as faster versions of JS-native functions on Polkadot and Substrate networks.",
+  "description_ja": "",
   "url": "https://github.com/polkadot-js/wasm",
   "homepage_url": "",
   "language": "TypeScript",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 135
+    },
+    {
+      "date": "2026-04-26",
       "stars": 135
     }
   ]

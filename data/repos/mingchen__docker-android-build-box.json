@@ -4,6 +4,7 @@
   "name": "docker-android-build-box",
   "full_name": "mingchen/docker-android-build-box",
   "description": "An optimized docker image includes Android, Kotlin, Flutter sdk.",
+  "description_ja": "",
   "url": "https://github.com/mingchen/docker-android-build-box",
   "homepage_url": "https://hub.docker.com/r/mingc/android-build-box/",
   "language": "Dockerfile",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 614
+    },
+    {
+      "date": "2026-04-26",
       "stars": 614
     }
   ]

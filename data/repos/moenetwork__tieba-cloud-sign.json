@@ -4,6 +4,7 @@
   "name": "tieba-cloud-sign",
   "full_name": "moenetwork/tieba-cloud-sign",
   "description": "百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能。注意：Gitee (原Git@osc) 仓库将不再维护，目前唯一指定的仓库为 Github。本项目没有官方交流群，如需交流可以直接使用Github的Discussions。没有商业版本，目前贴吧云签到由社区共同维护，不会停止更新（PR 通常在一天内处理）。",
+  "description_ja": "",
   "url": "https://github.com/MoeNetwork/Tieba-Cloud-Sign",
   "homepage_url": "https://github.com/MoeNetwork/Tieba-Cloud-Sign/wiki",
   "language": "PHP",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1940
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1940
     }
   ]

@@ -4,6 +4,7 @@
   "name": "alpine-make-vm-image",
   "full_name": "alpinelinux/alpine-make-vm-image",
   "description": "Make customized Alpine Linux disk image for virtual machines",
+  "description_ja": "仮想マシン向けのカスタマイズされたAlpine Linuxディスクイメージを作成",
   "url": "https://github.com/alpinelinux/alpine-make-vm-image",
   "homepage_url": "",
   "language": "Shell",
@@ -15,12 +16,12 @@
     "disk-image",
     "vm-images"
   ],
-  "star_count": 368,
+  "star_count": 369,
   "fork_count": 121,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-08-29T18:10:38Z",
-  "updated_at": "2026-04-18T10:48:54Z",
+  "updated_at": "2026-04-26T10:19:19Z",
   "pushed_at": "2026-03-31T12:23:53Z",
   "deleted_at": "",
   "star_history": [
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 368
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 369
     }
   ]
 }

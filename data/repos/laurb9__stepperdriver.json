@@ -4,6 +4,7 @@
   "name": "stepperdriver",
   "full_name": "laurb9/stepperdriver",
   "description": "Arduino library for A4988, DRV8825, DRV8834, DRV8880 and generic two-pin (DIR/STEP) stepper motor drivers",
+  "description_ja": "",
   "url": "https://github.com/laurb9/StepperDriver",
   "homepage_url": "",
   "language": "C++",
@@ -18,7 +19,7 @@
     "stepper-motor-control"
   ],
   "star_count": 613,
-  "fork_count": 235,
+  "fork_count": 236,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-12-11T05:27:10Z",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 613
+    },
+    {
+      "date": "2026-04-26",
       "stars": 613
     }
   ]

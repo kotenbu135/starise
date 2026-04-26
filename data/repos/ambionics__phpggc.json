@@ -4,6 +4,7 @@
   "name": "phpggc",
   "full_name": "ambionics/phpggc",
   "description": "PHPGGC is a library of PHP unserialize() payloads along with a tool to generate them, from command line or programmatically. ",
+  "description_ja": "PHPGGCはPHPのunserialize()ペイロードのライブラリで、コマンドラインまたはプログラムから生成可能なツールを提供",
   "url": "https://github.com/ambionics/phpggc",
   "homepage_url": "https://ambionics.io/blog",
   "language": "PHP",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3788
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3788
     }
   ]

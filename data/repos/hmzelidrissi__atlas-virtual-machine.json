@@ -4,6 +4,7 @@
   "name": "atlas-virtual-machine",
   "full_name": "hmzelidrissi/atlas-virtual-machine",
   "description": "AtlasVM is a distributed virtual machine capable of executing programs written in a basic programming language called AtlasPL. This project explores the challenges and benefits of distributed computing through a simplified virtual machine framework, where multiple nodes collaborate to run a program and reach consensus on the final output.",
+  "description_ja": "",
   "url": "https://github.com/HMZElidrissi/atlas-virtual-machine",
   "homepage_url": "https://hmzelidrissi.ma/blog/AtlasVM-Building-a-Distributed-Virtual-Machine",
   "language": "Go",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

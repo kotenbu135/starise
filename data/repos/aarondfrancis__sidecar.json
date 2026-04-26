@@ -4,6 +4,7 @@
   "name": "sidecar",
   "full_name": "aarondfrancis/sidecar",
   "description": "Deploy and execute AWS Lambda functions from your Laravel application.",
+  "description_ja": "LaravelアプリケーションからAWS Lambda関数をデプロイ・実行。",
   "url": "https://github.com/aarondfrancis/sidecar",
   "homepage_url": "https://hammerstone.dev/sidecar/docs/main",
   "language": "PHP",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 885
+    },
+    {
+      "date": "2026-04-26",
       "stars": 885
     }
   ]

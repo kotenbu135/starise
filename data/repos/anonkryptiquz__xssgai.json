@@ -4,6 +4,7 @@
   "name": "xssgai",
   "full_name": "anonkryptiquz/xssgai",
   "description": "XSSGAI is the first-ever AI-powered XSS (Cross-Site Scripting) payload generator. It leverages machine learning and deep learning to create novel payloads based on patterns from real-world XSS attacks.",
+  "description_ja": "XSSGAIは初のAI駆動XSS(クロスサイトスクリプティング)ペイロード生成ツールです。機械学習と深層学習を活用し、実世界のXSS攻撃パターンに基づく新規ペイロードを生成します。",
   "url": "https://github.com/AnonKryptiQuz/XSSGAI",
   "homepage_url": "https://AnonKryptiQuz.github.io/",
   "language": "Jupyter Notebook",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 39
+    },
+    {
+      "date": "2026-04-26",
       "stars": 39
     }
   ]

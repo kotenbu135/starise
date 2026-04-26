@@ -4,6 +4,7 @@
   "name": "logstash-output-elasticsearch",
   "full_name": "logstash-plugins/logstash-output-elasticsearch",
   "description": "",
+  "description_ja": "",
   "url": "https://github.com/logstash-plugins/logstash-output-elasticsearch",
   "homepage_url": "https://www.elastic.co/guide/en/logstash/current/plugins-outputs-elasticsearch.html",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 220
+    },
+    {
+      "date": "2026-04-26",
       "stars": 220
     }
   ]

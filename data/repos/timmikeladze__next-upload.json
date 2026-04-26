@@ -4,6 +4,7 @@
   "name": "next-upload",
   "full_name": "timmikeladze/next-upload",
   "description": "🗃️ Turn-key solution for signed \u0026 secure file-uploads to an S3 compliant storage service such as R2, AWS, or Minio. Built for Next.js. Generates signed URLs for uploading files directly to your storage service and optionally integrates with a database to store additional metadata about your files.",
+  "description_ja": "",
   "url": "https://github.com/TimMikeladze/next-upload",
   "homepage_url": "",
   "language": "TypeScript",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 109
+    },
+    {
+      "date": "2026-04-26",
       "stars": 109
     }
   ]

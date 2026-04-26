@@ -4,6 +4,7 @@
   "name": "diagram.nvim",
   "full_name": "3rd/diagram.nvim",
   "description": "Diagrams as code in Neovim.",
+  "description_ja": "Neovim内でコードとして図を描く",
   "url": "https://github.com/3rd/diagram.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -13,7 +14,7 @@
     "neovim-plugin"
   ],
   "star_count": 367,
-  "fork_count": 31,
+  "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-15T14:11:09Z",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 367
+    },
+    {
+      "date": "2026-04-26",
       "stars": 367
     }
   ]

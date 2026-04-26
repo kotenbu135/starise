@@ -4,6 +4,7 @@
   "name": "mytube",
   "full_name": "franklioxygen/mytube",
   "description": "Self-hosted downloader and player for YouTube, Bilibili, Twitch, MissAV, and yt-dlp sites. Features channel subscriptions, auto-downloads, and local storage for media. Organize your library into collections with a sleek UI. Includes built-in Cloudflare Tunnel support for secure remote access without port forwarding. Docker-ready deployment.",
+  "description_ja": "",
   "url": "https://github.com/franklioxygen/MyTube",
   "homepage_url": "https://mytube-demo.vercel.app",
   "language": "TypeScript",
@@ -28,13 +29,13 @@
     "youtube-downloader",
     "yt-dlp"
   ],
-  "star_count": 953,
-  "fork_count": 77,
+  "star_count": 959,
+  "fork_count": 81,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-09T03:33:55Z",
-  "updated_at": "2026-04-25T04:35:06Z",
-  "pushed_at": "2026-04-25T04:40:44Z",
+  "updated_at": "2026-04-26T16:23:26Z",
+  "pushed_at": "2026-04-25T23:55:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -48,6 +49,10 @@
     {
       "date": "2026-04-25",
       "stars": 953
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 959
     }
   ]
 }

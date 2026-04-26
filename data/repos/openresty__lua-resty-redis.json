@@ -4,6 +4,7 @@
   "name": "lua-resty-redis",
   "full_name": "openresty/lua-resty-redis",
   "description": "Lua redis client driver for the ngx_lua based on the cosocket API",
+  "description_ja": "",
   "url": "https://github.com/openresty/lua-resty-redis",
   "homepage_url": "",
   "language": "Lua",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1955
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1955
     }
   ]

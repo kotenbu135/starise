@@ -4,6 +4,7 @@
   "name": "terraform-aws-sso",
   "full_name": "cloudposse/terraform-aws-sso",
   "description": "Terraform module to configure AWS Single Sign-On (SSO)",
+  "description_ja": "",
   "url": "https://github.com/cloudposse/terraform-aws-sso",
   "homepage_url": "https://cloudposse.com/accelerate",
   "language": "HCL",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

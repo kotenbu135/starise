@@ -4,6 +4,7 @@
   "name": "akka-persistence-cassandra",
   "full_name": "akka/akka-persistence-cassandra",
   "description": "A replicated Akka Persistence journal backed by Apache Cassandra",
+  "description_ja": "Apache Cassandraをバックエンドとするレプリケーション対応のAkka Persistenceジャーナル",
   "url": "https://github.com/akka/akka-persistence-cassandra",
   "homepage_url": "https://doc.akka.io/libraries/akka-persistence-cassandra/current/",
   "language": "Scala",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 329
+    },
+    {
+      "date": "2026-04-26",
       "stars": 329
     }
   ]

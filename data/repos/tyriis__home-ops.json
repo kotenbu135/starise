@@ -4,6 +4,7 @@
   "name": "home-ops",
   "full_name": "tyriis/home-ops",
   "description": "IaC for my HomeLab kubernetes cluster resources with Flux",
+  "description_ja": "",
   "url": "https://github.com/tyriis/home-ops",
   "homepage_url": "https://github.com/tyriis/home-ops/blob/main/README.md",
   "language": "YAML",
@@ -25,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-25T19:23:23Z",
-  "updated_at": "2026-04-25T10:21:38Z",
-  "pushed_at": "2026-04-25T17:22:09Z",
+  "updated_at": "2026-04-26T16:20:39Z",
+  "pushed_at": "2026-04-26T17:20:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 78
+    },
+    {
+      "date": "2026-04-26",
       "stars": 78
     }
   ]

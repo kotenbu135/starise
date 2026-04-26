@@ -4,6 +4,7 @@
   "name": "base-repository",
   "full_name": "4jades/base-repository",
   "description": "A repository library that wraps SQLAlchemy and provides built-in CRUD and a query DSL.",
+  "description_ja": "SQLAlchemyをラップし、CRUDとクエリDSLを組み込んだリポジトリライブラリ",
   "url": "https://github.com/4jades/base-repository",
   "homepage_url": "",
   "language": "Python",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 46
+    },
+    {
+      "date": "2026-04-26",
       "stars": 46
     }
   ]

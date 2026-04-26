@@ -4,6 +4,7 @@
   "name": "onnxruntime_backend",
   "full_name": "triton-inference-server/onnxruntime_backend",
   "description": "The Triton backend for the ONNX Runtime.",
+  "description_ja": "",
   "url": "https://github.com/triton-inference-server/onnxruntime_backend",
   "homepage_url": "",
   "language": "C++",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 174
+    },
+    {
+      "date": "2026-04-26",
       "stars": 174
     }
   ]

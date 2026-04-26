@@ -4,6 +4,7 @@
   "name": "agent-browser-mcp",
   "full_name": "335234131/agent-browser-mcp",
   "description": "让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入",
+  "description_ja": "Agentが実Chromeを直接操作するMCPサービス。ページスキャン、CDP、スクリーンショット、物理入力をサポート",
   "url": "https://github.com/335234131/agent-browser-mcp",
   "homepage_url": "",
   "language": "Python",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 149
+    },
+    {
+      "date": "2026-04-26",
       "stars": 149
     }
   ]

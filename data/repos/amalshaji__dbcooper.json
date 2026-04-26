@@ -4,6 +4,7 @@
   "name": "dbcooper",
   "full_name": "amalshaji/dbcooper",
   "description": "A database client for PostgreSQL, SQLite, Redis, and ClickHouse, built with Tauri, React, and TypeScript.",
+  "description_ja": "Tauri、React、TypeScriptで構築したPostgreSQL、SQLite、Redis、ClickHouse対応のデータベースクライアント。",
   "url": "https://github.com/amalshaji/dbcooper",
   "homepage_url": "https://dbcooper.amal.sh",
   "language": "TypeScript",
@@ -17,12 +18,12 @@
     "sqlite",
     "sqlite3"
   ],
-  "star_count": 433,
+  "star_count": 434,
   "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-21T06:32:22Z",
-  "updated_at": "2026-04-25T14:24:33Z",
+  "updated_at": "2026-04-26T05:03:39Z",
   "pushed_at": "2026-04-24T17:01:39Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 433
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 434
     }
   ]
 }

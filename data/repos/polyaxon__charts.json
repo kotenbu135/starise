@@ -4,6 +4,7 @@
   "name": "charts",
   "full_name": "polyaxon/charts",
   "description": "Helm charts for creating reproducible and maintainable deployments of Polyaxon with Kubernetes.",
+  "description_ja": "",
   "url": "https://github.com/polyaxon/charts",
   "homepage_url": "https://charts.polyaxon.com",
   "language": "Go Template",
@@ -29,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-01-17T01:58:28Z",
-  "updated_at": "2026-04-19T11:06:00Z",
-  "pushed_at": "2026-04-19T11:11:51Z",
+  "updated_at": "2026-04-26T15:09:33Z",
+  "pushed_at": "2026-04-26T15:09:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 34
+    },
+    {
+      "date": "2026-04-26",
       "stars": 34
     }
   ]

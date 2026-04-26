@@ -4,17 +4,18 @@
   "name": "turboquant-wasm",
   "full_name": "teamchong/turboquant-wasm",
   "description": "TurboQuant WASM SIMD vector compression — 3 bits/dim with fast dot product. Requires relaxed SIMD (Chrome 114+, Firefox 128+, Safari 18+, Node 20+)",
+  "description_ja": "",
   "url": "https://github.com/teamchong/turboquant-wasm",
   "homepage_url": "https://teamchong.github.io/turboquant-wasm/",
   "language": "Zig",
   "license": "MIT",
   "topics": [],
-  "star_count": 288,
+  "star_count": 294,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T02:38:12Z",
-  "updated_at": "2026-04-25T06:34:28Z",
+  "updated_at": "2026-04-26T17:19:35Z",
   "pushed_at": "2026-04-19T15:00:52Z",
   "deleted_at": "",
   "star_history": [
@@ -25,6 +26,10 @@
     {
       "date": "2026-04-25",
       "stars": 288
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 294
     }
   ]
 }

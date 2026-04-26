@@ -4,6 +4,7 @@
   "name": "embedded-kafka-schema-registry",
   "full_name": "embeddedkafka/embedded-kafka-schema-registry",
   "description": "A library that provides in-memory instances of both Kafka and Confluent Schema Registry to run your tests against.",
+  "description_ja": "",
   "url": "https://github.com/embeddedkafka/embedded-kafka-schema-registry",
   "homepage_url": "",
   "language": "Scala",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 115
+    },
+    {
+      "date": "2026-04-26",
       "stars": 115
     }
   ]

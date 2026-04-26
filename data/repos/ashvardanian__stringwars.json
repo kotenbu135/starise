@@ -4,6 +4,7 @@
   "name": "stringwars",
   "full_name": "ashvardanian/stringwars",
   "description": "Comparing performance-oriented string-processing libraries for substring search, multi-pattern matching, hashing, edit-distances, sketching, and sorting across CPUs and GPUs in Rust 🦀 and Python 🐍",
+  "description_ja": "",
   "url": "https://github.com/ashvardanian/StringWars",
   "homepage_url": "https://ashvardanian.com/posts/stringwars-on-gpus/",
   "language": "Rust",
@@ -23,12 +24,12 @@
     "strstr",
     "substring-search"
   ],
-  "star_count": 144,
+  "star_count": 145,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-23T22:31:57Z",
-  "updated_at": "2026-03-20T20:09:12Z",
+  "updated_at": "2026-04-26T07:06:02Z",
   "pushed_at": "2026-03-19T17:48:57Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 144
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 145
     }
   ]
 }

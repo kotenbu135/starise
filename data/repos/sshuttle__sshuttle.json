@@ -4,17 +4,18 @@
   "name": "sshuttle",
   "full_name": "sshuttle/sshuttle",
   "description": "Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.",
+  "description_ja": "",
   "url": "https://github.com/sshuttle/sshuttle",
   "homepage_url": "",
   "language": "Python",
   "license": "LGPL-2.1",
   "topics": [],
-  "star_count": 13284,
+  "star_count": 13286,
   "fork_count": 786,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-09-15T04:51:13Z",
-  "updated_at": "2026-04-25T15:15:39Z",
+  "updated_at": "2026-04-26T14:10:24Z",
   "pushed_at": "2026-04-24T02:31:14Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 13284
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 13286
     }
   ]
 }

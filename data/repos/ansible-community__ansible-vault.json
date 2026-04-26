@@ -4,6 +4,7 @@
   "name": "ansible-vault",
   "full_name": "ansible-community/ansible-vault",
   "description": "Ansible role to install HashiCorp Vault",
+  "description_ja": "HashiCorp Vault をインストールする Ansible role",
   "url": "https://github.com/ansible-community/ansible-vault",
   "homepage_url": "",
   "language": "Jinja",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 404
+    },
+    {
+      "date": "2026-04-26",
       "stars": 404
     }
   ]

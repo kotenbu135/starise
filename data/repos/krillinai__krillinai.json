@@ -4,6 +4,7 @@
   "name": "krillinai",
   "full_name": "krillinai/krillinai",
   "description": "Video translation and dubbing tool powered by LLMs. The video translator offers 100 language translations and one-click full-process deployment. The video translation output is optimized for platforms like YouTube，TikTok.   AI视频翻译配音工具，100种语言双向翻译，一键部署全流程，可以生抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube等形态的内容成适配",
+  "description_ja": "",
   "url": "https://github.com/krillinai/KrillinAI",
   "homepage_url": "https://www.klic.studio/",
   "language": "Go",
@@ -15,12 +16,12 @@
     "video-transcription",
     "video-translation"
   ],
-  "star_count": 9903,
-  "fork_count": 886,
+  "star_count": 9916,
+  "fork_count": 889,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-17T01:59:22Z",
-  "updated_at": "2026-04-25T07:44:47Z",
+  "updated_at": "2026-04-26T13:05:44Z",
   "pushed_at": "2026-02-08T14:00:50Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 9903
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9916
     }
   ]
 }

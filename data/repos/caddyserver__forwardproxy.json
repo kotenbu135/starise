@@ -4,6 +4,7 @@
   "name": "forwardproxy",
   "full_name": "caddyserver/forwardproxy",
   "description": "Forward proxy plugin for the Caddy web server",
+  "description_ja": "",
   "url": "https://github.com/caddyserver/forwardproxy",
   "homepage_url": "",
   "language": "Go",
@@ -16,7 +17,7 @@
     "proxy"
   ],
   "star_count": 710,
-  "fork_count": 276,
+  "fork_count": 275,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-08-16T21:34:32Z",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 710
+    },
+    {
+      "date": "2026-04-26",
       "stars": 710
     }
   ]

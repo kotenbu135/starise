@@ -4,6 +4,7 @@
   "name": "pytest-testmon",
   "full_name": "tarpas/pytest-testmon",
   "description": "Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.",
+  "description_ja": "",
   "url": "https://github.com/tarpas/pytest-testmon",
   "homepage_url": "https://testmon.org",
   "language": "Python",
@@ -15,12 +16,12 @@
     "test-automation",
     "testing"
   ],
-  "star_count": 972,
+  "star_count": 973,
   "fork_count": 77,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-02-02T14:21:10Z",
-  "updated_at": "2026-04-24T20:51:25Z",
+  "updated_at": "2026-04-25T20:25:39Z",
   "pushed_at": "2025-12-01T07:34:04Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 972
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 973
     }
   ]
 }

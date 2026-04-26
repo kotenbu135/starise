@@ -4,6 +4,7 @@
   "name": "hetzner-k3s",
   "full_name": "vitobotta/hetzner-k3s",
   "description": "The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud",
+  "description_ja": "",
   "url": "https://github.com/vitobotta/hetzner-k3s",
   "homepage_url": "https://hetzner-k3s.com/",
   "language": "Crystal",
@@ -21,12 +22,12 @@
     "k8s",
     "kubernetes"
   ],
-  "star_count": 3485,
-  "fork_count": 210,
+  "star_count": 3491,
+  "fork_count": 211,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-07T11:39:12Z",
-  "updated_at": "2026-04-25T14:36:43Z",
+  "updated_at": "2026-04-26T17:44:52Z",
   "pushed_at": "2026-04-25T13:06:11Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 3485
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3491
     }
   ]
 }

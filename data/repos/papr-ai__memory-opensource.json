@@ -4,6 +4,7 @@
   "name": "memory-opensource",
   "full_name": "papr-ai/memory-opensource",
   "description": "Predictive memory layer for AI agents. MongoDB + Qdrant + Neo4j with multi-tier caching, custom schema support \u0026 GraphQL. 91% Stanford STARK accuracy, \u003c100ms on-device retrieval",
+  "description_ja": "",
   "url": "https://github.com/Papr-ai/memory-opensource",
   "homepage_url": "https://papr.ai",
   "language": "Python",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 50
+    },
+    {
+      "date": "2026-04-26",
       "stars": 50
     }
   ]

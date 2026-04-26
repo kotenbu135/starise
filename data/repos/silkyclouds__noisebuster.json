@@ -4,6 +4,7 @@
   "name": "noisebuster",
   "full_name": "silkyclouds/noisebuster",
   "description": "Bust the noise with ease! This Python script analyzes and injects noise events into InfluxDB, publishes MQTT topics, and sends optional notifications via Pushbullet and Discord(if that's what you like). ",
+  "description_ja": "",
   "url": "https://github.com/silkyclouds/NoiseBuster",
   "homepage_url": "",
   "language": "",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 98
+    },
+    {
+      "date": "2026-04-26",
       "stars": 98
     }
   ]

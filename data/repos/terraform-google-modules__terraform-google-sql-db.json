@@ -4,6 +4,7 @@
   "name": "terraform-google-sql-db",
   "full_name": "terraform-google-modules/terraform-google-sql-db",
   "description": "Creates a Cloud SQL database instance",
+  "description_ja": "",
   "url": "https://github.com/terraform-google-modules/terraform-google-sql-db",
   "homepage_url": "https://registry.terraform.io/modules/terraform-google-modules/sql-db/google",
   "language": "HCL",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 295
+    },
+    {
+      "date": "2026-04-26",
       "stars": 295
     }
   ]

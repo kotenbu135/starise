@@ -4,6 +4,7 @@
   "name": "mlxsharp",
   "full_name": "managedcode/mlxsharp",
   "description": "MLXSharp is the first .NET wrapper around Apple MLX that plugs straight into Microsoft.Extensions.AI. It is designed and tested on macOS (Apple silicon) but ships prebuilt native binaries for both macOS and Linux so that NuGet consumers can run out-of-the-box.",
+  "description_ja": "",
   "url": "https://github.com/managedcode/MLXSharp",
   "homepage_url": "",
   "language": "C#",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

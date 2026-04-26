@@ -4,6 +4,7 @@
   "name": "run-gemini-cli",
   "full_name": "google-github-actions/run-gemini-cli",
   "description": "A GitHub Action invoking the Gemini CLI.",
+  "description_ja": "",
   "url": "https://github.com/google-github-actions/run-gemini-cli",
   "homepage_url": "https://github.com/google-gemini/gemini-cli",
   "language": "TypeScript",
@@ -18,12 +19,12 @@
     "google-cloud",
     "google-cloud-platform"
   ],
-  "star_count": 1953,
+  "star_count": 1952,
   "fork_count": 247,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-11T15:49:11Z",
-  "updated_at": "2026-04-25T01:22:05Z",
+  "updated_at": "2026-04-26T15:26:48Z",
   "pushed_at": "2026-04-24T21:05:28Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 1953
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1952
     }
   ]
 }

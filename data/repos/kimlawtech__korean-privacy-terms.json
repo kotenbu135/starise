@@ -4,6 +4,7 @@
   "name": "korean-privacy-terms",
   "full_name": "kimlawtech/korean-privacy-terms",
   "description": "한국 법령 기반 개인정보처리방침·이용약관 자동 생성 Claude Code 스킬. 2025.4.21 작성지침 및 2026.3 개정 법령 반영.",
+  "description_ja": "",
   "url": "https://github.com/kimlawtech/korean-privacy-terms",
   "homepage_url": "https://discord.gg/EgBgqysHJv",
   "language": "Go Template",
@@ -21,12 +22,12 @@
     "tailwindcss",
     "terms-of-service"
   ],
-  "star_count": 214,
+  "star_count": 215,
   "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-18T12:31:18Z",
-  "updated_at": "2026-04-25T01:28:23Z",
+  "updated_at": "2026-04-25T22:20:47Z",
   "pushed_at": "2026-04-22T03:00:51Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 214
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 215
     }
   ]
 }

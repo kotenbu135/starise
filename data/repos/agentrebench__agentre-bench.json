@@ -4,6 +4,7 @@
   "name": "agentre-bench",
   "full_name": "agentrebench/agentre-bench",
   "description": "AgentRE-Bench is an agentic benchmark that evaluates state-of-the-art models on long-horizon reverse engineering tasks, measuring their ability to analyze binaries, use tooling effectively, and reason over multi-step execution artifacts",
+  "description_ja": "[44] AgentRE-Benchは最先端モデルを長期的なリバースエンジニアリングタスクで評価するエージェンティックベンチマーク。バイナリの解析能力、ツールの効果的な活用、複数ステップの実行アーティファクトに対する推論能力を測定。",
   "url": "https://github.com/agentrebench/AgentRE-Bench",
   "homepage_url": "",
   "language": "Python",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 52
+    },
+    {
+      "date": "2026-04-26",
       "stars": 52
     }
   ]

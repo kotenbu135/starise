@@ -4,6 +4,7 @@
   "name": "mywords",
   "full_name": "vito-go/mywords",
   "description": "通过在线浏览或手动输入网址，自动提取网页中的单词及其上下文。软件会对单词进行去重、统计，并筛选出陌生的单词。作为一款开源字典工具，它将成为您英语学习的得力助手。",
+  "description_ja": "",
   "url": "https://github.com/vito-go/mywords",
   "homepage_url": "",
   "language": "Dart",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 272
+    },
+    {
+      "date": "2026-04-26",
       "stars": 272
     }
   ]

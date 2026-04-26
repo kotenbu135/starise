@@ -4,6 +4,7 @@
   "name": "alfa-leetcode-api",
   "full_name": "alfaarghya/alfa-leetcode-api",
   "description": "It's a custom leetcode api. This API provides endpoints to retrieve details about a user's profile, badges, solved questions, contest details, contest history, submissions, calendar and and also daily questions, selected problem, list of problems.",
+  "description_ja": "カスタムleetcode API。ユーザープロフィール、バッジ、解答済み問題、コンテスト詳細、コンテスト履歴、提出、カレンダー、デイリー問題、選択問題、問題リストを取得するエンドポイントを提供。",
   "url": "https://github.com/alfaarghya/alfa-leetcode-api",
   "homepage_url": "https://alfaarghya.github.io/alfa-leetcode-api/",
   "language": "TypeScript",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 749
+    },
+    {
+      "date": "2026-04-26",
       "stars": 749
     }
   ]

@@ -4,6 +4,7 @@
   "name": "guac",
   "full_name": "guacsec/guac",
   "description": "GUAC aggregates software security metadata into a high fidelity graph database.",
+  "description_ja": "",
   "url": "https://github.com/guacsec/guac",
   "homepage_url": "https://guac.sh",
   "language": "Go",
@@ -30,7 +31,7 @@
     "vulnerability-management"
   ],
   "star_count": 1481,
-  "fork_count": 199,
+  "fork_count": 198,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-10T17:28:07Z",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1481
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1481
     }
   ]

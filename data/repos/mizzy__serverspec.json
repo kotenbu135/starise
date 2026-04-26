@@ -4,6 +4,7 @@
   "name": "serverspec",
   "full_name": "mizzy/serverspec",
   "description": "RSpec tests for your servers configured by CFEngine, Puppet, Chef, Ansible, Itamae or anything else even by hand",
+  "description_ja": "",
   "url": "https://github.com/mizzy/serverspec",
   "homepage_url": "http://serverspec.org/",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2520
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2520
     }
   ]

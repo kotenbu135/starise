@@ -4,6 +4,7 @@
   "name": "healthsync",
   "full_name": "bro3886/healthsync",
   "description": "Parse Apple Health exports into a local SQLite database",
+  "description_ja": "",
   "url": "https://github.com/BRO3886/healthsync",
   "homepage_url": "https://healthsync.sidv.dev",
   "language": "Go",
@@ -18,7 +19,7 @@
     "tailscale"
   ],
   "star_count": 49,
-  "fork_count": 3,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-12T14:34:27Z",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

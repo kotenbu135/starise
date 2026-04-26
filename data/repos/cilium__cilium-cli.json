@@ -4,6 +4,7 @@
   "name": "cilium-cli",
   "full_name": "cilium/cilium-cli",
   "description": "CLI to install, manage \u0026 troubleshoot Kubernetes clusters running Cilium",
+  "description_ja": "",
   "url": "https://github.com/cilium/cilium-cli",
   "homepage_url": "https://cilium.io",
   "language": "Makefile",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 568
+    },
+    {
+      "date": "2026-04-26",
       "stars": 568
     }
   ]

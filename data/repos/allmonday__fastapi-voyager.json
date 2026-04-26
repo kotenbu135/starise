@@ -4,6 +4,7 @@
   "name": "fastapi-voyager",
   "full_name": "allmonday/fastapi-voyager",
   "description": "Visualize your API endpoints and explore them interactively, also support Django ninja \u0026 Litestar",
+  "description_ja": "[23] API エンドポイントを可視化しインタラクティブに探索。Django ninja と Litestar にも対応。",
   "url": "https://github.com/allmonday/fastapi-voyager",
   "homepage_url": "https://www.fastapi-voyager.top/voyager/?tag=demo\u0026mode=voyager",
   "language": "Python",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 442
+    },
+    {
+      "date": "2026-04-26",
       "stars": 442
     }
   ]

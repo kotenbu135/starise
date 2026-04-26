@@ -4,6 +4,7 @@
   "name": "query-exporter",
   "full_name": "albertodonato/query-exporter",
   "description": "Export Prometheus metrics from SQL queries",
+  "description_ja": "SQL クエリから Prometheus メトリクスをエクスポート",
   "url": "https://github.com/albertodonato/query-exporter",
   "homepage_url": "",
   "language": "Python",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 525
+    },
+    {
+      "date": "2026-04-26",
       "stars": 525
     }
   ]

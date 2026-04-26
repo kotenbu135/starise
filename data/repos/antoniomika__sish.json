@@ -4,6 +4,7 @@
   "name": "sish",
   "full_name": "antoniomika/sish",
   "description": "HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.",
+  "description_ja": "SSHのみを使ってlocalhostへHTTP(S)/WS(S)/TCPトンネルを張る。",
   "url": "https://github.com/antoniomika/sish",
   "homepage_url": "https://ssi.sh",
   "language": "Go",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 4590
+    },
+    {
+      "date": "2026-04-26",
       "stars": 4590
     }
   ]

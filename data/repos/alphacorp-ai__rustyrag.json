@@ -4,6 +4,7 @@
   "name": "rustyrag",
   "full_name": "alphacorp-ai/rustyrag",
   "description": "Production-grade RAG API built in Rust. Hybrid search with HNSW dense vectors and BM25 sparse matching, cross-encoder reranking, layout-aware document extraction via Docling, and 94.5% accuracy on Open RAG Bench. Powered by Cerebras, Groq, Milvus, and Jina AI.",
+  "description_ja": "Rustで構築された本番グレードのRAG API。HNSW密ベクトルとBM25疎マッチングによるハイブリッド検索、クロスエンコーダーによるリランキング、Doclingによるレイアウト認識ドキュメント抽出、Open RAG Benchで94.5%の精度。Cerebras、Groq、Milvus、Jina AIを採用",
   "url": "https://github.com/AlphaCorp-AI/RustyRAG",
   "homepage_url": "https://rustyrag.ai",
   "language": "Rust",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 81
+    },
+    {
+      "date": "2026-04-26",
       "stars": 81
     }
   ]

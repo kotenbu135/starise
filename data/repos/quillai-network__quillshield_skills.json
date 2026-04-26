@@ -4,6 +4,7 @@
   "name": "quillshield_skills",
   "full_name": "quillai-network/quillshield_skills",
   "description": "Structured skills for smart contract security audits. Infers state invariants, detects semantic guard gaps, models flash loan + oracle attack chains, simulates adversarial exploits, and scores findings.",
+  "description_ja": "",
   "url": "https://github.com/quillai-network/quillshield_skills",
   "homepage_url": "",
   "language": "Shell",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

@@ -4,6 +4,7 @@
   "name": "exile",
   "full_name": "akash-akya/exile",
   "description": "Alternative to ports for running external programs. It provides back-pressure, non-blocking io, and solves port related issues",
+  "description_ja": "外部プログラム実行時のportsに代わる選択肢。バックプレッシャー、ノンブロッキングIOを提供し、port関連の問題を解決",
   "url": "https://github.com/akash-akya/exile",
   "homepage_url": "",
   "language": "Elixir",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 186
+    },
+    {
+      "date": "2026-04-26",
       "stars": 186
     }
   ]

@@ -4,6 +4,7 @@
   "name": "omnibus-gitlab",
   "full_name": "gitlabhq/omnibus-gitlab",
   "description": "GitLab Omnibus Mirror | Please open new issues in our issue tracker on GitLab.com",
+  "description_ja": "",
   "url": "https://github.com/gitlabhq/omnibus-gitlab",
   "homepage_url": "https://gitlab.com/gitlab-org/omnibus-gitlab/",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 225
+    },
+    {
+      "date": "2026-04-26",
       "stars": 225
     }
   ]

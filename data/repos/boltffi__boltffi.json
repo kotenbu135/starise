@@ -4,6 +4,7 @@
   "name": "boltffi",
   "full_name": "boltffi/boltffi",
   "description": "A high-performance multi-language bindings generator for Rust, up to 1,000x faster than UniFFI. Ship Rust libraries that feels native to Swift, Kotlin, and more",
+  "description_ja": "",
   "url": "https://github.com/boltffi/boltffi",
   "homepage_url": "https://boltffi.dev/docs/overview",
   "language": "Rust",
@@ -26,13 +27,13 @@
     "wasm-bindgen",
     "xcframework"
   ],
-  "star_count": 561,
-  "fork_count": 24,
+  "star_count": 562,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-23T07:43:26Z",
-  "updated_at": "2026-04-24T22:42:11Z",
-  "pushed_at": "2026-04-25T10:14:41Z",
+  "updated_at": "2026-04-26T15:49:47Z",
+  "pushed_at": "2026-04-26T15:49:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 561
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 562
     }
   ]
 }

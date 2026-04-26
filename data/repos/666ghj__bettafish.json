@@ -4,6 +4,7 @@
   "name": "bettafish",
   "full_name": "666ghj/bettafish",
   "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
+  "description_ja": "微輿: 誰もが使えるマルチAgent世論分析アシスタント。情報の偏りを打破し、世論の実態を可視化、今後の動向を予測して意思決定を支援。フレームワーク非依存でゼロから実装",
   "url": "https://github.com/666ghj/BettaFish",
   "homepage_url": "https://deepwiki.com/666ghj/BettaFish",
   "language": "Python",
@@ -20,12 +21,12 @@
     "python3",
     "sentiment-analysis"
   ],
-  "star_count": 40622,
-  "fork_count": 7524,
+  "star_count": 40630,
+  "fork_count": 7522,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-01T13:11:38Z",
-  "updated_at": "2026-04-25T16:14:55Z",
+  "updated_at": "2026-04-26T16:03:17Z",
   "pushed_at": "2026-03-13T16:22:40Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 40622
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 40630
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "mysql-escape-string-polyfill",
   "full_name": "abreksa4/mysql-escape-string-polyfill",
   "description": "a very insecure mysql_escape_string implementation for a very limited use case",
+  "description_ja": "非常に限定的なユースケース向けの、非常に安全でない mysql_escape_string 実装",
   "url": "https://github.com/abreksa4/mysql-escape-string-polyfill",
   "homepage_url": "https://abreksa4.github.io/mysql-escape-string-polyfill/",
   "language": "PHP",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

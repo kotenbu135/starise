@@ -4,6 +4,7 @@
   "name": "purgecss",
   "full_name": "fullhuman/purgecss",
   "description": "Remove unused CSS",
+  "description_ja": "",
   "url": "https://github.com/FullHuman/purgecss",
   "homepage_url": "https://purgecss.com",
   "language": "TypeScript",
@@ -17,12 +18,12 @@
     "rollup-plugin",
     "webpack-plugin"
   ],
-  "star_count": 8036,
+  "star_count": 8037,
   "fork_count": 242,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-07-01T15:01:43Z",
-  "updated_at": "2026-04-23T12:11:38Z",
+  "updated_at": "2026-04-26T05:26:21Z",
   "pushed_at": "2026-04-15T19:21:52Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 8036
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8037
     }
   ]
 }

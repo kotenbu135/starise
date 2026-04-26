@@ -4,6 +4,7 @@
   "name": "alist",
   "full_name": "alistgo/alist",
   "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
+  "description_ja": "🗂️複数ストレージに対応したファイルリスト/WebDAVプログラム。GinとSolidjsで実装。/ 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
   "url": "https://github.com/AlistGo/alist",
   "homepage_url": "https://alistgo.com",
   "language": "Go",
@@ -17,11 +18,11 @@
     "webdav"
   ],
   "star_count": 49370,
-  "fork_count": 7947,
+  "fork_count": 7948,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-12-23T17:40:29Z",
-  "updated_at": "2026-04-25T16:06:40Z",
+  "updated_at": "2026-04-26T14:28:40Z",
   "pushed_at": "2026-04-21T16:26:33Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49370
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49370
     }
   ]

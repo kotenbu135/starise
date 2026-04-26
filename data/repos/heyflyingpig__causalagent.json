@@ -4,6 +4,7 @@
   "name": "causalagent",
   "full_name": "heyflyingpig/causalagent",
   "description": "这是一个由LangGraph协议主导的因果分析Muti-Agent，结合MCP,RAG等多种工具进行辅助进行因果分析，提供给用户一份完善的因果分析的分析报告和因果图",
+  "description_ja": "",
   "url": "https://github.com/Heyflyingpig/CausalAgent",
   "homepage_url": "",
   "language": "Python",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 35
+    },
+    {
+      "date": "2026-04-26",
       "stars": 35
     }
   ]

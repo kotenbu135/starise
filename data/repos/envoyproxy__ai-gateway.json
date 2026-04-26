@@ -4,6 +4,7 @@
   "name": "ai-gateway",
   "full_name": "envoyproxy/ai-gateway",
   "description": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
+  "description_ja": "",
   "url": "https://github.com/envoyproxy/ai-gateway",
   "homepage_url": "https://aigateway.envoyproxy.io",
   "language": "Go",
@@ -17,12 +18,12 @@
     "kubernetes",
     "llm"
   ],
-  "star_count": 1558,
-  "fork_count": 229,
+  "star_count": 1559,
+  "fork_count": 230,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-21T02:59:59Z",
-  "updated_at": "2026-04-25T16:09:23Z",
+  "updated_at": "2026-04-26T04:51:50Z",
   "pushed_at": "2026-04-24T17:48:11Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 1558
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1559
     }
   ]
 }

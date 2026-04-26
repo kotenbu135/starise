@@ -4,6 +4,7 @@
   "name": "project_aura",
   "full_name": "21cncstudio/project_aura",
   "description": "ESP32‑S3 air‑quality station with LVGL UI, MQTT, Home Assistant",
+  "description_ja": "[33] LVGL UI、MQTT、Home Assistant に対応した ESP32-S3 製エアクオリティステーション",
   "url": "https://github.com/21cncstudio/project_aura",
   "homepage_url": "https://makerworld.com/en/crowdfunding/159-project-aura-aq-make-the-invisible-visible",
   "language": "C",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 587
+    },
+    {
+      "date": "2026-04-26",
       "stars": 587
     }
   ]

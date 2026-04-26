@@ -4,6 +4,7 @@
   "name": "phpantom_lsp",
   "full_name": "ajenbo/phpantom_lsp",
   "description": "Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant.",
+  "description_ja": "深い型推論機能を備えた高速 PHP 言語サーバー。Generics、Laravel、PHPStan アノテーション対応。瞬時に利用可能",
   "url": "https://github.com/AJenbo/phpantom_lsp",
   "homepage_url": "",
   "language": "Rust",
@@ -18,12 +19,12 @@
     "phpstorm-plugin",
     "vscode-extension"
   ],
-  "star_count": 575,
+  "star_count": 578,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T23:32:32Z",
-  "updated_at": "2026-04-25T12:50:45Z",
+  "updated_at": "2026-04-26T16:16:12Z",
   "pushed_at": "2026-04-25T09:21:45Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 575
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 578
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "agentshield",
   "full_name": "affaan-m/agentshield",
   "description": "AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️",
+  "description_ja": "[49] AIエージェントセキュリティスキャナー。エージェント設定、MCPサーバー、ツール権限の脆弱性を検出。CLI、GitHub Action、ECCプラグイン、GitHub App統合として提供。🛡️",
   "url": "https://github.com/affaan-m/agentshield",
   "homepage_url": "https://cerebralvalley.ai/e/claude-code-hackathon",
   "language": "TypeScript",
@@ -17,12 +18,12 @@
     "opus",
     "security"
   ],
-  "star_count": 549,
-  "fork_count": 114,
+  "star_count": 554,
+  "fork_count": 113,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T06:31:44Z",
-  "updated_at": "2026-04-25T15:15:38Z",
+  "updated_at": "2026-04-26T15:41:06Z",
   "pushed_at": "2026-04-17T05:30:38Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 549
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 554
     }
   ]
 }

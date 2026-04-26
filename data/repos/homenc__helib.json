@@ -4,6 +4,7 @@
   "name": "helib",
   "full_name": "homenc/helib",
   "description": "HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations for efficient homomorphic evaluation, focusing on effective use of ciphertext packing techniques and on the Gentry-Halevi-Smart optimizations.",
+  "description_ja": "",
   "url": "https://github.com/homenc/HElib",
   "homepage_url": "https://homenc.github.io/HElib",
   "language": "C++",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3238
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3238
     }
   ]

@@ -4,6 +4,7 @@
   "name": "nanochat-mlx",
   "full_name": "scasella/nanochat-mlx",
   "description": "Train your own ChatGPT on Apple Silicon — MLX port of nanochat",
+  "description_ja": "",
   "url": "https://github.com/scasella/nanochat-mlx",
   "homepage_url": "https://github.com/karpathy/nanochat",
   "language": "Python",
@@ -24,18 +25,22 @@
     "training",
     "transformer"
   ],
-  "star_count": 47,
+  "star_count": 48,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-25T12:02:26Z",
-  "updated_at": "2026-04-25T10:35:00Z",
+  "updated_at": "2026-04-26T05:17:17Z",
   "pushed_at": "2026-04-24T11:48:20Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-25",
       "stars": 47
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 48
     }
   ]
 }

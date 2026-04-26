@@ -4,6 +4,7 @@
   "name": "pre-commit-terraform",
   "full_name": "antonbabenko/pre-commit-terraform",
   "description": "pre-commit git hooks to take care of Terraform configurations 🇺🇦",
+  "description_ja": "Terraform設定を管理するためのpre-commit gitフック 🇺🇦",
   "url": "https://github.com/antonbabenko/pre-commit-terraform",
   "homepage_url": "",
   "language": "Shell",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3697
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3697
     }
   ]

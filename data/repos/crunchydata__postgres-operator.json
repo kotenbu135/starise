@@ -4,6 +4,7 @@
   "name": "postgres-operator",
   "full_name": "crunchydata/postgres-operator",
   "description": "Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",
+  "description_ja": "",
   "url": "https://github.com/CrunchyData/postgres-operator",
   "homepage_url": "https://access.crunchydata.com/documentation/postgres-operator/v5/",
   "language": "Go",
@@ -26,12 +27,12 @@
     "postgresql-metrics",
     "postgresql-monitoring"
   ],
-  "star_count": 4397,
+  "star_count": 4398,
   "fork_count": 667,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-02-27T22:21:44Z",
-  "updated_at": "2026-04-24T07:39:38Z",
+  "updated_at": "2026-04-25T21:32:02Z",
   "pushed_at": "2026-04-08T00:12:21Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 4397
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4398
     }
   ]
 }

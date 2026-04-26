@@ -4,6 +4,7 @@
   "name": "octelium",
   "full_name": "octelium/octelium",
   "description": "A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.",
+  "description_ja": "",
   "url": "https://github.com/octelium/octelium",
   "homepage_url": "https://octelium.com/docs",
   "language": "Go",
@@ -30,12 +31,12 @@
     "zero-trust",
     "ztna"
   ],
-  "star_count": 3758,
-  "fork_count": 127,
+  "star_count": 3759,
+  "fork_count": 128,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-18T16:56:34Z",
-  "updated_at": "2026-04-25T14:37:51Z",
+  "updated_at": "2026-04-26T13:00:48Z",
   "pushed_at": "2026-04-23T05:15:53Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 3758
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3759
     }
   ]
 }

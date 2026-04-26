@@ -4,6 +4,7 @@
   "name": "acra",
   "full_name": "cossacklabs/acra",
   "description": "Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side (\"transparent\") encryption. SQL, NoSQL.",
+  "description_ja": "",
   "url": "https://github.com/cossacklabs/acra",
   "homepage_url": "https://www.cossacklabs.com/acra/",
   "language": "Go",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1473
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1473
     }
   ]

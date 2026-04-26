@@ -4,6 +4,7 @@
   "name": "voice_clone",
   "full_name": "jingangdidi/voice_clone",
   "description": "An OpenVoice-based voice cloning tool, single executable file (~14M), supporting multiple formats without dependencies on ffmpeg, Python, PyTorch, ONNX. 基于OpenVoice的声音克隆工具，免安装的单个可执行文件（~14M），支持多种格式，不依赖ffmpeg、python、pytorch、onnx",
+  "description_ja": "",
   "url": "https://github.com/jingangdidi/voice_clone",
   "homepage_url": "",
   "language": "Rust",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

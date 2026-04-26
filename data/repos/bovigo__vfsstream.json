@@ -4,6 +4,7 @@
   "name": "vfsstream",
   "full_name": "bovigo/vfsstream",
   "description": "vfsStream is a stream wrapper for a virtual file system that may be helpful in unit tests to mock the real file system. It can be used with any unit test framework, like PHPUnit or SimpleTest.",
+  "description_ja": "",
   "url": "https://github.com/bovigo/vfsStream",
   "homepage_url": "",
   "language": "PHP",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1437
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1437
     }
   ]

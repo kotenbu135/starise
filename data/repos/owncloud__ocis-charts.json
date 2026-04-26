@@ -4,6 +4,7 @@
   "name": "ocis-charts",
   "full_name": "owncloud/ocis-charts",
   "description": ":chart_with_upwards_trend: Helm Charts for ownCloud's OCIS",
+  "description_ja": "",
   "url": "https://github.com/owncloud/ocis-charts",
   "homepage_url": "https://owncloud.dev/ocis/deployment/kubernetes/",
   "language": "Mustache",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 60
+    },
+    {
+      "date": "2026-04-26",
       "stars": 60
     }
   ]

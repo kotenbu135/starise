@@ -4,6 +4,7 @@
   "name": "coremqtt-agent",
   "full_name": "freertos/coremqtt-agent",
   "description": "Implements an MQTT agent (or daemon) task for simple MQTT connection sharing among different threads of execution.",
+  "description_ja": "",
   "url": "https://github.com/FreeRTOS/coreMQTT-Agent",
   "homepage_url": "",
   "language": "C",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 41
+    },
+    {
+      "date": "2026-04-26",
       "stars": 41
     }
   ]

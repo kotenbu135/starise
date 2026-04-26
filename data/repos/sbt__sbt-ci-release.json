@@ -4,6 +4,7 @@
   "name": "sbt-ci-release",
   "full_name": "sbt/sbt-ci-release",
   "description": "sbt plugin to automate Sonatype releases from GitHub Actions",
+  "description_ja": "",
   "url": "https://github.com/sbt/sbt-ci-release",
   "homepage_url": "",
   "language": "Scala",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 306
+    },
+    {
+      "date": "2026-04-26",
       "stars": 306
     }
   ]

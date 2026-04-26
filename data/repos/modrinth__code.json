@@ -4,6 +4,7 @@
   "name": "code",
   "full_name": "modrinth/code",
   "description": "The Modrinth monorepo containing all code which powers Modrinth!",
+  "description_ja": "",
   "url": "https://github.com/modrinth/code",
   "homepage_url": "https://modrinth.com",
   "language": "Rust",
@@ -15,13 +16,13 @@
     "modrinth",
     "modrinth-api"
   ],
-  "star_count": 2050,
-  "fork_count": 427,
+  "star_count": 2051,
+  "fork_count": 429,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-20T21:38:30Z",
-  "updated_at": "2026-04-25T14:13:56Z",
-  "pushed_at": "2026-04-25T14:29:19Z",
+  "updated_at": "2026-04-26T13:12:23Z",
+  "pushed_at": "2026-04-26T15:10:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 2050
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2051
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "boto3-refresh-session",
   "full_name": "61418/boto3-refresh-session",
   "description": "A drop-in replacement for boto3.Session named RefreshableSession. It automatically refreshes temporary AWS credentials, caches clients, and natively supports MFA providers. It also supports automatic temporary AWS security credential refresh for STS, IOT Core, and custom credential callables.",
+  "description_ja": "boto3.Sessionの差し替え用ライブラリ RefreshableSession。一時AWS認証情報を自動更新、クライアントをキャッシュ、MFAプロバイダーをネイティブサポート。STS、IoT Core、カスタム認証コーラブルでの自動更新にも対応",
   "url": "https://github.com/61418/boto3-refresh-session",
   "homepage_url": "https://61418.io/boto3-refresh-session/",
   "language": "Python",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 50
+    },
+    {
+      "date": "2026-04-26",
       "stars": 50
     }
   ]

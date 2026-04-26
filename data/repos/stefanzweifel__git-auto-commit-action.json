@@ -4,6 +4,7 @@
   "name": "git-auto-commit-action",
   "full_name": "stefanzweifel/git-auto-commit-action",
   "description": "Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.",
+  "description_ja": "",
   "url": "https://github.com/stefanzweifel/git-auto-commit-action",
   "homepage_url": "",
   "language": "Shell",
@@ -16,12 +17,12 @@
     "trigger",
     "workflow-runs"
   ],
-  "star_count": 2529,
+  "star_count": 2530,
   "fork_count": 279,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-06-10T12:27:38Z",
-  "updated_at": "2026-04-24T14:57:25Z",
+  "updated_at": "2026-04-25T19:33:59Z",
   "pushed_at": "2026-03-22T16:30:45Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 2529
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2530
     }
   ]
 }

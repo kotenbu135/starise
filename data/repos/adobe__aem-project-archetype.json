@@ -4,6 +4,7 @@
   "name": "aem-project-archetype",
   "full_name": "adobe/aem-project-archetype",
   "description": "Maven template to create best-practice websites on AEM.",
+  "description_ja": "AEM上でベストプラクティスに沿ったウェブサイトを作成するMavenテンプレート。",
   "url": "https://github.com/adobe/aem-project-archetype",
   "homepage_url": "https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html",
   "language": "JavaScript",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 592
+    },
+    {
+      "date": "2026-04-26",
       "stars": 592
     }
   ]

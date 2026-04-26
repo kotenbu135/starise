@@ -4,6 +4,7 @@
   "name": "trdsql",
   "full_name": "noborus/trdsql",
   "description": "CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.",
+  "description_ja": "",
   "url": "https://github.com/noborus/trdsql",
   "homepage_url": "https://noborus.github.io/trdsql/",
   "language": "Go",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2159
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2159
     }
   ]

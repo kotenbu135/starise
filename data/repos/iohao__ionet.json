@@ -4,6 +4,7 @@
   "name": "ionet",
   "full_name": "iohao/ionet",
   "description": "A Java distributed server framework based on Aeron and Netty, featuring a lock-free, asynchronous, and event-driven architectural design. Suitable for game servers, IoT, high-frequency financial trading, and high-frequency market data pushing.                               基于 Aeron、Netty 的 java 分布式服务器框架，无锁异步化、事件驱动架构设计。适用于游戏服务器、物联网、高频金融交易、高频行情推送。",
+  "description_ja": "",
   "url": "https://github.com/iohao/ionet",
   "homepage_url": "https://iohao.github.io/ionet",
   "language": "Java",
@@ -22,13 +23,13 @@
     "unity",
     "vue"
   ],
-  "star_count": 180,
+  "star_count": 181,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-03T01:49:51Z",
-  "updated_at": "2026-04-15T10:30:05Z",
-  "pushed_at": "2026-04-08T07:39:49Z",
+  "updated_at": "2026-04-26T09:30:09Z",
+  "pushed_at": "2026-04-26T09:30:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 180
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 181
     }
   ]
 }

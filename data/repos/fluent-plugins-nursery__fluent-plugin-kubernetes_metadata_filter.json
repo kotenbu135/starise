@@ -4,6 +4,7 @@
   "name": "fluent-plugin-kubernetes_metadata_filter",
   "full_name": "fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter",
   "description": "Enrich your fluentd events with Kubernetes metadata",
+  "description_ja": "",
   "url": "https://github.com/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter",
   "homepage_url": "",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 355
+    },
+    {
+      "date": "2026-04-26",
       "stars": 355
     }
   ]

@@ -4,6 +4,7 @@
   "name": "ha-anker-solix-official",
   "full_name": "anker-charging/ha-anker-solix-official",
   "description": "Official Home Assistant integration for Anker Solix devices via local Modbus TCP. No cloud required.",
+  "description_ja": "ローカルModbus TCP経由でAnker Solixデバイスを統合する公式Home Assistantインテグレーション。クラウド不要。",
   "url": "https://github.com/anker-charging/ha-anker-solix-official",
   "homepage_url": "",
   "language": "Python",
@@ -17,12 +18,12 @@
     "modbus-tcp",
     "solix"
   ],
-  "star_count": 103,
+  "star_count": 106,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T03:15:37Z",
-  "updated_at": "2026-04-24T21:00:28Z",
+  "updated_at": "2026-04-26T08:05:18Z",
   "pushed_at": "2026-04-20T04:20:47Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 103
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 106
     }
   ]
 }

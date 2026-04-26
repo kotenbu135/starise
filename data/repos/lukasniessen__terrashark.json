@@ -4,6 +4,7 @@
   "name": "terrashark",
   "full_name": "lukasniessen/terrashark",
   "description": "Terraform Skill for Claude Code and Codex. LLMs hallucinate a lot with Terraform - TerraShark fixes this. It eliminates hallucinations, is designed for modular and secure code and grounds your IaC in the official Hashicorp Terraform best practices.",
+  "description_ja": "",
   "url": "https://github.com/LukasNiessen/terrashark",
   "homepage_url": "https://terraformskill.com/",
   "language": "",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 165
+    },
+    {
+      "date": "2026-04-26",
       "stars": 165
     }
   ]

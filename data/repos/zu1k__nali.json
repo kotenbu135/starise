@@ -4,6 +4,7 @@
   "name": "nali",
   "full_name": "zu1k/nali",
   "description": "An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.",
+  "description_ja": "",
   "url": "https://github.com/zu1k/nali",
   "homepage_url": "https://github.com/zu1k/nali",
   "language": "Go",
@@ -24,12 +25,12 @@
     "qqwry-ip-database",
     "zx-ipv6"
   ],
-  "star_count": 4081,
-  "fork_count": 365,
+  "star_count": 4083,
+  "fork_count": 366,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-07-17T01:02:26Z",
-  "updated_at": "2026-04-23T23:15:36Z",
+  "updated_at": "2026-04-26T09:16:44Z",
   "pushed_at": "2025-02-21T06:13:25Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 4081
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4083
     }
   ]
 }

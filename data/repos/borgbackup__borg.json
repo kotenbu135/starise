@@ -4,6 +4,7 @@
   "name": "borg",
   "full_name": "borgbackup/borg",
   "description": "Deduplicating archiver with compression and authenticated encryption.",
+  "description_ja": "",
   "url": "https://github.com/borgbackup/borg",
   "homepage_url": "https://www.borgbackup.org/",
   "language": "Python",
@@ -17,12 +18,12 @@
     "python",
     "ssh"
   ],
-  "star_count": 13241,
-  "fork_count": 843,
+  "star_count": 13243,
+  "fork_count": 844,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-05-12T23:10:47Z",
-  "updated_at": "2026-04-25T15:08:08Z",
+  "updated_at": "2026-04-26T15:24:04Z",
   "pushed_at": "2026-04-21T05:43:24Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 13241
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 13243
     }
   ]
 }

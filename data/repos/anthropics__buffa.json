@@ -4,17 +4,18 @@
   "name": "buffa",
   "full_name": "anthropics/buffa",
   "description": "Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views",
+  "description_ja": "エディション対応、JSONシリアライゼーション、ゼロコピービューを備えたprotobufのRust実装",
   "url": "https://github.com/anthropics/buffa",
   "homepage_url": "",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 673,
-  "fork_count": 33,
+  "star_count": 675,
+  "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T16:47:32Z",
-  "updated_at": "2026-04-25T12:47:12Z",
+  "updated_at": "2026-04-26T09:12:38Z",
   "pushed_at": "2026-04-24T18:59:22Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 673
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 675
     }
   ]
 }

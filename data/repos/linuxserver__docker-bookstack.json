@@ -4,6 +4,7 @@
   "name": "docker-bookstack",
   "full_name": "linuxserver/docker-bookstack",
   "description": "A Docker container for the BookStack documentation wiki",
+  "description_ja": "",
   "url": "https://github.com/linuxserver/docker-bookstack",
   "homepage_url": "",
   "language": "Dockerfile",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 971
+    },
+    {
+      "date": "2026-04-26",
       "stars": 971
     }
   ]

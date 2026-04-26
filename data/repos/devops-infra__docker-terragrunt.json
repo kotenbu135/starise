@@ -4,6 +4,7 @@
   "name": "docker-terragrunt",
   "full_name": "devops-infra/docker-terragrunt",
   "description": "Dockerized framework with Terraform, Terragrunt, Python, Make, Docker, Git, and all needed components to easily manage cloud infrastructure.",
+  "description_ja": "",
   "url": "https://github.com/devops-infra/docker-terragrunt",
   "homepage_url": "https://shyper.pro",
   "language": "Dockerfile",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 178
+    },
+    {
+      "date": "2026-04-26",
       "stars": 178
     }
   ]

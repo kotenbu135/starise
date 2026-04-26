@@ -4,6 +4,7 @@
   "name": "gaussian-splatting",
   "full_name": "graphdeco-inria/gaussian-splatting",
   "description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+  "description_ja": "",
   "url": "https://github.com/graphdeco-inria/gaussian-splatting",
   "homepage_url": "https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/",
   "language": "Python",
@@ -13,12 +14,12 @@
     "computer-vision",
     "radiance-field"
   ],
-  "star_count": 21538,
-  "fork_count": 3140,
+  "star_count": 21549,
+  "fork_count": 3143,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-04T07:51:38Z",
-  "updated_at": "2026-04-25T17:10:50Z",
+  "updated_at": "2026-04-26T15:55:09Z",
   "pushed_at": "2025-10-17T14:28:15Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 21538
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 21549
     }
   ]
 }

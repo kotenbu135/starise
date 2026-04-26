@@ -4,6 +4,7 @@
   "name": "x509-certificate-exporter",
   "full_name": "enix/x509-certificate-exporter",
   "description": "A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone",
+  "description_ja": "",
   "url": "https://github.com/enix/x509-certificate-exporter",
   "homepage_url": "",
   "language": "Go",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 885
+    },
+    {
+      "date": "2026-04-26",
       "stars": 885
     }
   ]

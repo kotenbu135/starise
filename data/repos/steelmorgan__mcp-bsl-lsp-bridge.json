@@ -4,6 +4,7 @@
   "name": "mcp-bsl-lsp-bridge",
   "full_name": "steelmorgan/mcp-bsl-lsp-bridge",
   "description": "MCP-сервер, который даёт ИИ-агентам (Cursor, Claude Code и др.) доступ к возможностям BSL Language Server для работы с кодом 1С и OneScript: навигация, поиск, диагностика, рефакторинг. Цель - обеспечить детерминированные операции над кодом и экономия токенов (конечно модель всё может сделать грепами, но сколько токенов сожжет?)",
+  "description_ja": "",
   "url": "https://github.com/SteelMorgan/mcp-bsl-lsp-bridge",
   "homepage_url": "",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 48
+    },
+    {
+      "date": "2026-04-26",
       "stars": 48
     }
   ]

@@ -4,6 +4,7 @@
   "name": "ai-generated-content-detection",
   "full_name": "rustyneuron01/ai-generated-content-detection",
   "description": "Multi-modal AI-generated content detection: image, video, and audio. Benchmarks, training code (DINOv2, DINOv3, ReStraV, BreathNet), and evaluation pipeline for real vs. synthetic classification with calibration-aware metrics.",
+  "description_ja": "",
   "url": "https://github.com/rustyneuron01/AI-Generated-Content-Detection",
   "homepage_url": "",
   "language": "Python",
@@ -25,12 +26,12 @@
     "video-classification",
     "vision-transformer"
   ],
-  "star_count": 84,
+  "star_count": 83,
   "fork_count": 47,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-14T06:26:10Z",
-  "updated_at": "2026-04-23T23:50:11Z",
+  "updated_at": "2026-04-25T17:48:53Z",
   "pushed_at": "2026-03-13T07:06:56Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 84
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 83
     }
   ]
 }

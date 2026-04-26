@@ -4,6 +4,7 @@
   "name": "redis-rdb-cli",
   "full_name": "leonchen83/redis-rdb-cli",
   "description": "Redis RDB CLI: A command-line tool to parse, filter, split, and merge Redis RDB files, and to analyze memory usage offline. It also supports data synchronization between two Redis instances and   allows users to define custom sink services for data migration.",
+  "description_ja": "",
   "url": "https://github.com/leonchen83/redis-rdb-cli",
   "homepage_url": "",
   "language": "Java",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 479
+    },
+    {
+      "date": "2026-04-26",
       "stars": 479
     }
   ]

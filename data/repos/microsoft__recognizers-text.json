@@ -4,6 +4,7 @@
   "name": "recognizers-text",
   "full_name": "microsoft/recognizers-text",
   "description": "Microsoft.Recognizers.Text provides recognition and resolution of numbers, units, date/time, etc. in multiple languages (ZH, EN, FR, ES, PT, DE, IT, TR, HI, NL. Partial support for JA, KO, AR, SV). Packages available at: https://www.nuget.org/profiles/Recognizers.Text, https://www.npmjs.com/~recognizers.text",
+  "description_ja": "",
   "url": "https://github.com/microsoft/Recognizers-Text",
   "homepage_url": "",
   "language": "C#",
@@ -27,7 +28,7 @@
     "timex"
   ],
   "star_count": 1778,
-  "fork_count": 435,
+  "fork_count": 436,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-04-17T19:45:47Z",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1778
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1778
     }
   ]

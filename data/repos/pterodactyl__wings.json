@@ -4,6 +4,7 @@
   "name": "wings",
   "full_name": "pterodactyl/wings",
   "description": "The server control plane for Pterodactyl Panel. Written from the ground-up with security, speed, and stability in mind.",
+  "description_ja": "",
   "url": "https://github.com/pterodactyl/wings",
   "homepage_url": "https://pterodactyl.io",
   "language": "Go",
@@ -16,7 +17,7 @@
     "pterodactyl"
   ],
   "star_count": 979,
-  "fork_count": 453,
+  "fork_count": 454,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-05-17T10:49:28Z",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 979
+    },
+    {
+      "date": "2026-04-26",
       "stars": 979
     }
   ]

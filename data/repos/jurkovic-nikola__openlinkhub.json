@@ -4,6 +4,7 @@
   "name": "openlinkhub",
   "full_name": "jurkovic-nikola/openlinkhub",
   "description": "Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux. Manage RGB lighting, fan speeds, system metrics, as well as keyboards, mice, headsets via a web dashboard.",
+  "description_ja": "",
   "url": "https://github.com/jurkovic-nikola/OpenLinkHub",
   "homepage_url": "https://openlinkhub.dev",
   "language": "Go",
@@ -22,12 +23,12 @@
     "rgb-controller",
     "scuf"
   ],
-  "star_count": 971,
-  "fork_count": 70,
+  "star_count": 974,
+  "fork_count": 71,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-08T21:46:33Z",
-  "updated_at": "2026-04-25T13:51:01Z",
+  "updated_at": "2026-04-26T04:30:22Z",
   "pushed_at": "2026-04-23T17:54:49Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 971
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 974
     }
   ]
 }

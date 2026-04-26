@@ -4,6 +4,7 @@
   "name": "terway",
   "full_name": "aliyuncontainerservice/terway",
   "description": "CNI plugin for Alibaba Cloud VPC/ENI",
+  "description_ja": "Alibaba Cloud VPC/ENI向けCNIプラグイン",
   "url": "https://github.com/AliyunContainerService/terway",
   "homepage_url": "https://www.aliyun.com/product/kubernetes",
   "language": "Go",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 602
+    },
+    {
+      "date": "2026-04-26",
       "stars": 602
     }
   ]

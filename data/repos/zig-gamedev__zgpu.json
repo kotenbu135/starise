@@ -4,6 +4,7 @@
   "name": "zgpu",
   "full_name": "zig-gamedev/zgpu",
   "description": "Cross-platform graphics lib for Zig built on top of Dawn native WebGPU implementation.",
+  "description_ja": "",
   "url": "https://github.com/zig-gamedev/zgpu",
   "homepage_url": "",
   "language": "C++",
@@ -17,12 +18,12 @@
     "webgpu",
     "zig"
   ],
-  "star_count": 65,
+  "star_count": 64,
   "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-03T22:07:58Z",
-  "updated_at": "2026-04-21T01:01:56Z",
+  "updated_at": "2026-04-26T14:44:33Z",
   "pushed_at": "2026-03-08T18:25:42Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 65
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 64
     }
   ]
 }

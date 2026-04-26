@@ -4,6 +4,7 @@
   "name": "automq",
   "full_name": "automq/automq",
   "description": "AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+  "description_ja": "",
   "url": "https://github.com/AutoMQ/automq",
   "homepage_url": "https://www.automq.com",
   "language": "Java",
@@ -14,12 +15,12 @@
     "kafka",
     "serverless"
   ],
-  "star_count": 9717,
+  "star_count": 9716,
   "fork_count": 689,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-17T07:50:13Z",
-  "updated_at": "2026-04-25T15:39:59Z",
+  "updated_at": "2026-04-26T14:57:53Z",
   "pushed_at": "2026-04-25T01:43:54Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 9717
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9716
     }
   ]
 }

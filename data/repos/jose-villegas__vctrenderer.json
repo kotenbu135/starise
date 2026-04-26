@@ -4,6 +4,7 @@
   "name": "vctrenderer",
   "full_name": "jose-villegas/vctrenderer",
   "description": "A real time global illumination solution that achieves glossy surfaces, diffuse reflection, specular reflection, ambient occlusion, indirect shadows, soft shadows, emissive materials and 2-bounce GI. Published here  http://ieeexplore.ieee.org/abstract/document/7833375/",
+  "description_ja": "",
   "url": "https://github.com/jose-villegas/VCTRenderer",
   "homepage_url": "https://jose-villegas.github.io/post/deferred_voxel_shading/",
   "language": "C++",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 653
+    },
+    {
+      "date": "2026-04-26",
       "stars": 653
     }
   ]

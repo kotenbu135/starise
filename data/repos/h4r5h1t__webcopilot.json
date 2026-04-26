@@ -4,6 +4,7 @@
   "name": "webcopilot",
   "full_name": "h4r5h1t/webcopilot",
   "description": "An automation tool that enumerates subdomains then filters out xss, sqli, open redirect, lfi, ssrf and rce parameters and then scans for vulnerabilities.",
+  "description_ja": "",
   "url": "https://github.com/h4r5h1t/webcopilot",
   "homepage_url": "",
   "language": "Shell",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1280
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1280
     }
   ]

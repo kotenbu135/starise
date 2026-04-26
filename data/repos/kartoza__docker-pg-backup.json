@@ -4,6 +4,7 @@
   "name": "docker-pg-backup",
   "full_name": "kartoza/docker-pg-backup",
   "description": "A cron job that will back up databases running in a docker postgres container",
+  "description_ja": "",
   "url": "https://github.com/kartoza/docker-pg-backup",
   "homepage_url": "",
   "language": "Shell",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 626
+    },
+    {
+      "date": "2026-04-26",
       "stars": 626
     }
   ]

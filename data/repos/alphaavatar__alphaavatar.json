@@ -4,6 +4,7 @@
   "name": "alphaavatar",
   "full_name": "alphaavatar/alphaavatar",
   "description": "A real-time interactive Omni Avatar built on LiveKit, which allows you to seamlessly integrate with any open source Avatar components (real-time model, visual, voice, memory, search, etc.).",
+  "description_ja": "LiveKit上に構築されたリアルタイム対話型Omni Avatar。任意のオープンソースAvatarコンポーネント（リアルタイムモデル、ビジュアル、音声、メモリ、検索など）とシームレスに統合可能",
   "url": "https://github.com/AlphaAvatar/AlphaAvatar",
   "homepage_url": "https://www.alphaavatar.ai",
   "language": "Python",
@@ -25,7 +26,7 @@
     "visual"
   ],
   "star_count": 567,
-  "fork_count": 22,
+  "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-30T13:42:30Z",
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 567
+    },
+    {
+      "date": "2026-04-26",
       "stars": 567
     }
   ]

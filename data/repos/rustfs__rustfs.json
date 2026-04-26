@@ -4,6 +4,7 @@
   "name": "rustfs",
   "full_name": "rustfs/rustfs",
   "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+  "description_ja": "",
   "url": "https://github.com/rustfs/rustfs",
   "homepage_url": "https://rustfs.com/download/",
   "language": "Rust",
@@ -22,13 +23,13 @@
     "rust",
     "s3"
   ],
-  "star_count": 26436,
-  "fork_count": 1131,
+  "star_count": 26487,
+  "fork_count": 1135,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-23T13:45:10Z",
-  "updated_at": "2026-04-25T17:14:29Z",
-  "pushed_at": "2026-04-25T17:26:41Z",
+  "updated_at": "2026-04-26T17:30:52Z",
+  "pushed_at": "2026-04-26T17:01:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 26436
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 26487
     }
   ]
 }

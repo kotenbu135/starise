@@ -4,6 +4,7 @@
   "name": "anomalib",
   "full_name": "open-edge-platform/anomalib",
   "description": "An anomaly detection library comprising state-of-the-art algorithms and features such as experiment management, hyper-parameter optimization, and edge inference.",
+  "description_ja": "",
   "url": "https://github.com/open-edge-platform/anomalib",
   "homepage_url": "https://anomalib.readthedocs.io/en/latest/",
   "language": "Python",
@@ -17,13 +18,13 @@
     "openvino",
     "unsupervised-learning"
   ],
-  "star_count": 5663,
+  "star_count": 5665,
   "fork_count": 916,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-11-02T09:11:38Z",
-  "updated_at": "2026-04-25T09:22:39Z",
-  "pushed_at": "2026-04-25T03:36:46Z",
+  "updated_at": "2026-04-26T14:36:47Z",
+  "pushed_at": "2026-04-26T03:45:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 5663
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5665
     }
   ]
 }

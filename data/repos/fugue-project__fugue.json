@@ -4,6 +4,7 @@
   "name": "fugue",
   "full_name": "fugue-project/fugue",
   "description": "A unified interface for distributed computing. Fugue executes SQL, Python, Pandas, and Polars code on Spark, Dask and Ray without any rewrites.",
+  "description_ja": "",
   "url": "https://github.com/fugue-project/fugue",
   "homepage_url": "https://fugue-tutorials.readthedocs.io/",
   "language": "Python",
@@ -19,12 +20,12 @@
     "spark",
     "sql"
   ],
-  "star_count": 2152,
+  "star_count": 2153,
   "fork_count": 100,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-24T16:48:59Z",
-  "updated_at": "2026-04-17T11:58:08Z",
+  "updated_at": "2026-04-26T06:22:00Z",
   "pushed_at": "2026-04-24T16:17:38Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 2152
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2153
     }
   ]
 }

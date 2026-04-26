@@ -4,6 +4,7 @@
   "name": "paradedb",
   "full_name": "paradedb/paradedb",
   "description": "Simple, Elastic-quality search for Postgres",
+  "description_ja": "",
   "url": "https://github.com/paradedb/paradedb",
   "homepage_url": "https://paradedb.com",
   "language": "Rust",
@@ -24,13 +25,13 @@
     "sparse-vector",
     "sql"
   ],
-  "star_count": 8697,
+  "star_count": 8700,
   "fork_count": 371,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-06-30T20:21:47Z",
-  "updated_at": "2026-04-25T15:15:46Z",
-  "pushed_at": "2026-04-25T07:20:48Z",
+  "updated_at": "2026-04-26T17:32:44Z",
+  "pushed_at": "2026-04-26T17:08:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 8697
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8700
     }
   ]
 }

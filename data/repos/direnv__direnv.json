@@ -4,6 +4,7 @@
   "name": "direnv",
   "full_name": "direnv/direnv",
   "description": "unclutter your .profile",
+  "description_ja": "",
   "url": "https://github.com/direnv/direnv",
   "homepage_url": "http://direnv.net",
   "language": "Go",
@@ -19,12 +20,12 @@
     "tcsh",
     "zsh"
   ],
-  "star_count": 15010,
+  "star_count": 15012,
   "fork_count": 778,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-01-04T12:46:15Z",
-  "updated_at": "2026-04-25T14:46:16Z",
+  "updated_at": "2026-04-26T13:24:14Z",
   "pushed_at": "2026-03-31T18:52:06Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 15010
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 15012
     }
   ]
 }

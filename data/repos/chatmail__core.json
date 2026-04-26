@@ -4,6 +4,7 @@
   "name": "core",
   "full_name": "chatmail/core",
   "description": "Chatmail Rust Core library, used by Android/iOS/desktop chatmail apps, bindings and bots 📧 ",
+  "description_ja": "",
   "url": "https://github.com/chatmail/core",
   "homepage_url": "https://delta.chat/en/contribute",
   "language": "Rust",
@@ -22,13 +23,13 @@
     "rust",
     "smtp"
   ],
-  "star_count": 876,
+  "star_count": 878,
   "fork_count": 125,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-26T11:43:27Z",
-  "updated_at": "2026-04-24T20:31:15Z",
-  "pushed_at": "2026-04-24T23:58:04Z",
+  "updated_at": "2026-04-26T15:04:23Z",
+  "pushed_at": "2026-04-26T15:04:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 876
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 878
     }
   ]
 }

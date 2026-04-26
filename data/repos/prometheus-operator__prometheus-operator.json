@@ -4,6 +4,7 @@
   "name": "prometheus-operator",
   "full_name": "prometheus-operator/prometheus-operator",
   "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
+  "description_ja": "",
   "url": "https://github.com/prometheus-operator/prometheus-operator",
   "homepage_url": "https://prometheus-operator.dev",
   "language": "Go",
@@ -15,7 +16,7 @@
     "prometheus"
   ],
   "star_count": 9907,
-  "fork_count": 3852,
+  "fork_count": 3851,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-09-22T21:38:06Z",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9907
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9907
     }
   ]

@@ -4,6 +4,7 @@
   "name": "osync",
   "full_name": "deajan/osync",
   "description": "A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync",
+  "description_ja": "",
   "url": "https://github.com/deajan/osync",
   "homepage_url": "http://www.netpower.fr/osync",
   "language": "Shell",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 988
+    },
+    {
+      "date": "2026-04-26",
       "stars": 988
     }
   ]

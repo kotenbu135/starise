@@ -4,6 +4,7 @@
   "name": "azure-dev",
   "full_name": "azure/azure-dev",
   "description": "A developer CLI for working with Azure resources to build and deploy AI applications. Commands map to key workflow stages: code, build, deploy, and monitor.",
+  "description_ja": "",
   "url": "https://github.com/Azure/azure-dev",
   "homepage_url": "https://aka.ms/azd",
   "language": "Go",
@@ -22,7 +23,7 @@
   "is_fork": false,
   "created_at": "2022-07-05T20:47:01Z",
   "updated_at": "2026-04-25T01:08:04Z",
-  "pushed_at": "2026-04-25T04:15:32Z",
+  "pushed_at": "2026-04-26T14:04:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 519
+    },
+    {
+      "date": "2026-04-26",
       "stars": 519
     }
   ]

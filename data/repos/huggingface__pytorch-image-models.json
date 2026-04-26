@@ -4,6 +4,7 @@
   "name": "pytorch-image-models",
   "full_name": "huggingface/pytorch-image-models",
   "description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 \u0026 V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+  "description_ja": "",
   "url": "https://github.com/huggingface/pytorch-image-models",
   "homepage_url": "https://huggingface.co/docs/timm",
   "language": "Python",
@@ -30,12 +31,12 @@
     "resnet",
     "vision-transformer-models"
   ],
-  "star_count": 36705,
-  "fork_count": 5148,
+  "star_count": 36713,
+  "fork_count": 5147,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-02-02T05:51:12Z",
-  "updated_at": "2026-04-25T16:46:59Z",
+  "updated_at": "2026-04-26T10:06:12Z",
   "pushed_at": "2026-04-24T18:31:06Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 36705
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 36713
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "strimzi-kafka-operator",
   "full_name": "strimzi/strimzi-kafka-operator",
   "description": "Apache Kafka® running on Kubernetes",
+  "description_ja": "",
   "url": "https://github.com/strimzi/strimzi-kafka-operator",
   "homepage_url": "https://strimzi.io/",
   "language": "Java",
@@ -22,12 +23,12 @@
     "messaging",
     "openshift"
   ],
-  "star_count": 5781,
-  "fork_count": 1477,
+  "star_count": 5782,
+  "fork_count": 1478,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-05-06T08:52:33Z",
-  "updated_at": "2026-04-25T17:01:53Z",
+  "updated_at": "2026-04-26T08:50:04Z",
   "pushed_at": "2026-04-24T20:32:55Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 5781
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5782
     }
   ]
 }

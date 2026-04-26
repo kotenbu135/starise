@@ -4,6 +4,7 @@
   "name": "openwrtinvasion",
   "full_name": "acecilia/openwrtinvasion",
   "description": "Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...",
+  "description_ja": "[9] 複数の Xiaomi ルーター（4A Gigabit、4A 100M、4、4C、3Gv2、4Q、miWifi 3C 他）向けの root shell エクスプロイト",
   "url": "https://github.com/acecilia/OpenWRTInvasion",
   "homepage_url": "",
   "language": "Lua",
@@ -18,12 +19,12 @@
     "xiaomi",
     "xiaomi-routers"
   ],
-  "star_count": 1766,
+  "star_count": 1767,
   "fork_count": 295,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-19T01:16:18Z",
-  "updated_at": "2026-04-20T18:20:18Z",
+  "updated_at": "2026-04-26T05:34:07Z",
   "pushed_at": "2023-12-10T23:27:41Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 1766
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1767
     }
   ]
 }

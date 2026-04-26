@@ -4,6 +4,7 @@
   "name": "clusterlint",
   "full_name": "digitalocean/clusterlint",
   "description": "A best practices checker for Kubernetes clusters. 🤠",
+  "description_ja": "",
   "url": "https://github.com/digitalocean/clusterlint",
   "homepage_url": "",
   "language": "Go",
@@ -14,12 +15,12 @@
     "kubernetes",
     "linter"
   ],
-  "star_count": 587,
+  "star_count": 588,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-06-10T19:12:29Z",
-  "updated_at": "2026-04-13T10:54:24Z",
+  "updated_at": "2026-04-25T20:40:23Z",
   "pushed_at": "2026-02-04T10:07:41Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 587
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 588
     }
   ]
 }

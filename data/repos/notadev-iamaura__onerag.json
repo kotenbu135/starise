@@ -4,6 +4,7 @@
   "name": "onerag",
   "full_name": "notadev-iamaura/onerag",
   "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB, pgvector, MongoDB), 5 LLMs (Gemini, OpenAI, Claude, Ollama, OpenRouter). OpenAI-compatible API. 2100+ tests.",
+  "description_ja": "",
   "url": "https://github.com/notadev-iamaura/OneRAG",
   "homepage_url": "https://github.com/notadev-iamaura/OneRAG",
   "language": "Python",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 119
+    },
+    {
+      "date": "2026-04-26",
       "stars": 119
     }
   ]

@@ -4,6 +4,7 @@
   "name": "directpv",
   "full_name": "minio/directpv",
   "description": "Kubernetes CSI driver for Direct Attached Storage :minidisc:",
+  "description_ja": "",
   "url": "https://github.com/minio/directpv",
   "homepage_url": "https://directpv.io",
   "language": "Go",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 702
+    },
+    {
+      "date": "2026-04-26",
       "stars": 702
     }
   ]

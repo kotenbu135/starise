@@ -4,6 +4,7 @@
   "name": "kind-action",
   "full_name": "helm/kind-action",
   "description": "A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes",
+  "description_ja": "",
   "url": "https://github.com/helm/kind-action",
   "homepage_url": "https://kind.sigs.k8s.io/",
   "language": "Shell",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 373
+    },
+    {
+      "date": "2026-04-26",
       "stars": 373
     }
   ]

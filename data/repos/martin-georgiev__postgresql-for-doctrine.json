@@ -4,6 +4,7 @@
   "name": "postgresql-for-doctrine",
   "full_name": "martin-georgiev/postgresql-for-doctrine",
   "description": "Extends Doctrine with native PostgreSQL support for arrays, JSONB, ranges, PostGIS geometries, text search, and 100+ PostgreSQL-specific functions.",
+  "description_ja": "",
   "url": "https://github.com/martin-georgiev/postgresql-for-doctrine",
   "homepage_url": "https://packagist.org/packages/martin-georgiev/postgresql-for-doctrine",
   "language": "PHP",
@@ -46,6 +47,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 454
+    },
+    {
+      "date": "2026-04-26",
       "stars": 454
     }
   ]

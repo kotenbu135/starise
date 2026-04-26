@@ -4,6 +4,7 @@
   "name": "wiki-rag",
   "full_name": "moodlehq/wiki-rag",
   "description": "An experimental Retrieval-Augmented Generation (RAG) system specialised in ingesting MediaWiki sites via their API and providing an OpenAI API interface to interact with them.",
+  "description_ja": "",
   "url": "https://github.com/moodlehq/wiki-rag",
   "homepage_url": "",
   "language": "Python",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 36
+    },
+    {
+      "date": "2026-04-26",
       "stars": 36
     }
   ]

@@ -4,6 +4,7 @@
   "name": "sspoffer-interview-assistant",
   "full_name": "alvinxx1123/sspoffer-interview-assistant",
   "description": "“接入大模型的AI-agent 互联网后端面试助手，支持在线 ACM模式IDE 与多平台面经整合，支持定制化个人面经库(RAG)与简历/面试复盘”",
+  "description_ja": "「大規模モデル接続型 AI エージェントのインターネットバックエンド面接アシスタント。オンライン ACM モード IDE と複数プラットフォームの面接体験記統合に対応。個人面接体験記ライブラリ（RAG）および履歴書／面接振り返りのカスタマイズをサポート」",
   "url": "https://github.com/alvinxx1123/sspOffer-interview-assistant",
   "homepage_url": "http://8.138.47.162:8080",
   "language": "Java",
@@ -14,12 +15,12 @@
     "langchain4j",
     "rag"
   ],
-  "star_count": 69,
+  "star_count": 70,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T13:16:15Z",
-  "updated_at": "2026-04-21T16:48:18Z",
+  "updated_at": "2026-04-26T10:35:23Z",
   "pushed_at": "2026-03-18T11:18:10Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 69
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 70
     }
   ]
 }

@@ -3,7 +3,8 @@
   "owner": "oxygen-updater",
   "name": "os-updater",
   "full_name": "oxygen-updater/os-updater",
-  "description": "OS Updater is a third-party app that lets you skip staged rollout queues and update your OPPO/OnePlus device ASAP! Ensure your device is up-to-date — it's quick, easy, and free!",
+  "description": "Third-party Android app that lets you skip rollout queues \u0026 update your OPPO/OnePlus/realme device ASAP! Ensure your device is up-to-date — it's quick, easy, and free!",
+  "description_ja": "",
   "url": "https://github.com/oxygen-updater/os-updater",
   "homepage_url": "https://play.google.com/store/apps/details?id=com.arjanvlek.oxygenupdater\u0026utm_source=github",
   "language": "Kotlin",
@@ -17,15 +18,16 @@
     "os-updater",
     "osupdater",
     "oxygen-updater",
-    "oxygenos"
+    "oxygenos",
+    "realme"
   ],
-  "star_count": 671,
+  "star_count": 672,
   "fork_count": 87,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-11-24T20:36:29Z",
-  "updated_at": "2026-04-23T16:52:05Z",
-  "pushed_at": "2026-04-16T09:19:37Z",
+  "updated_at": "2026-04-25T22:45:21Z",
+  "pushed_at": "2026-04-25T21:48:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 671
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 672
     }
   ]
 }

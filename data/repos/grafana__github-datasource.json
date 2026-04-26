@@ -4,6 +4,7 @@
   "name": "github-datasource",
   "full_name": "grafana/github-datasource",
   "description": "The GitHub data source lets you visualize GitHub data in Grafana dashboards.",
+  "description_ja": "",
   "url": "https://github.com/grafana/github-datasource",
   "homepage_url": "https://grafana.com/docs/plugins/grafana-github-datasource/latest/",
   "language": "Go",
@@ -17,12 +18,12 @@
     "group-datasources",
     "squad-big-tent-plugins"
   ],
-  "star_count": 299,
+  "star_count": 300,
   "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-27T15:11:28Z",
-  "updated_at": "2026-04-22T16:10:52Z",
+  "updated_at": "2026-04-26T12:30:32Z",
   "pushed_at": "2026-04-22T18:54:39Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 299
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 300
     }
   ]
 }

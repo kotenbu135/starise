@@ -4,6 +4,7 @@
   "name": "torchsynth",
   "full_name": "torchsynth/torchsynth",
   "description": "A GPU-optional modular synthesizer in pytorch, 16200x faster than realtime, for audio ML researchers.",
+  "description_ja": "",
   "url": "https://github.com/torchsynth/torchsynth",
   "homepage_url": "https://torchsynth.rtfd.io/",
   "language": "Python",
@@ -16,12 +17,12 @@
     "synthesizers",
     "torch"
   ],
-  "star_count": 372,
+  "star_count": 373,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-12-18T22:02:29Z",
-  "updated_at": "2026-04-22T00:03:22Z",
+  "updated_at": "2026-04-25T18:03:23Z",
   "pushed_at": "2026-02-16T14:44:20Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 372
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 373
     }
   ]
 }

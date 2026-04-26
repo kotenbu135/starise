@@ -4,6 +4,7 @@
   "name": "macthrottle",
   "full_name": "angristan/macthrottle",
   "description": "Menu bar app to know when your Mac is thermal throttling",
+  "description_ja": "Macがサーマルスロットリング中かを知らせるメニューバーアプリ",
   "url": "https://github.com/angristan/MacThrottle",
   "homepage_url": "https://stanislas.blog/2025/12/macos-thermal-throttling-app/",
   "language": "Swift",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 624
+    },
+    {
+      "date": "2026-04-26",
       "stars": 624
     }
   ]

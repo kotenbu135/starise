@@ -4,6 +4,7 @@
   "name": "blocklist-ipsets",
   "full_name": "firehol/blocklist-ipsets",
   "description": "ipsets dynamically updated with firehol's update-ipsets.sh script",
+  "description_ja": "",
   "url": "https://github.com/firehol/blocklist-ipsets",
   "homepage_url": "https://iplists.firehol.org",
   "language": "Shell",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3816
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3816
     }
   ]

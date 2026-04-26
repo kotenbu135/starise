@@ -4,6 +4,7 @@
   "name": "mjml_nif",
   "full_name": "adoptoposs/mjml_nif",
   "description": "Elixir NIF bindings for the MJML Rust implementation (mrml)",
+  "description_ja": "MJMLのRust実装(mrml)へのElixir NIFバインディング",
   "url": "https://github.com/adoptoposs/mjml_nif",
   "homepage_url": "https://hexdocs.pm/mjml",
   "language": "Elixir",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 143
+    },
+    {
+      "date": "2026-04-26",
       "stars": 143
     }
   ]

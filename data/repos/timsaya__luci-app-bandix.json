@@ -4,6 +4,7 @@
   "name": "luci-app-bandix",
   "full_name": "timsaya/luci-app-bandix",
   "description": "A network traffic monitoring application for OpenWrt",
+  "description_ja": "",
   "url": "https://github.com/timsaya/luci-app-bandix",
   "homepage_url": "",
   "language": "JavaScript",
@@ -14,12 +15,12 @@
     "openwrt",
     "wrtbwmon"
   ],
-  "star_count": 778,
+  "star_count": 780,
   "fork_count": 59,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-18T14:26:48Z",
-  "updated_at": "2026-04-25T13:55:27Z",
+  "updated_at": "2026-04-26T03:59:15Z",
   "pushed_at": "2026-04-25T07:12:25Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 778
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 780
     }
   ]
 }

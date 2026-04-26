@@ -4,6 +4,7 @@
   "name": "arrow",
   "full_name": "apache/arrow",
   "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+  "description_ja": "[45] Apache Arrowは高速データ交換とインメモリ分析向けの統一カラムナフォーマット兼多言語ツールボックス",
   "url": "https://github.com/apache/arrow",
   "homepage_url": "https://arrow.apache.org/",
   "language": "C++",
@@ -12,13 +13,13 @@
     "arrow",
     "parquet"
   ],
-  "star_count": 16689,
-  "fork_count": 4084,
+  "star_count": 16691,
+  "fork_count": 4086,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-02-17T08:00:23Z",
-  "updated_at": "2026-04-25T15:05:51Z",
-  "pushed_at": "2026-04-25T17:00:22Z",
+  "updated_at": "2026-04-25T21:54:08Z",
+  "pushed_at": "2026-04-26T16:21:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 16689
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 16691
     }
   ]
 }

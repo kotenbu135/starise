@@ -4,6 +4,7 @@
   "name": "krbrelayup",
   "full_name": "dec0ne/krbrelayup",
   "description": "KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).",
+  "description_ja": "",
   "url": "https://github.com/Dec0ne/KrbRelayUp",
   "homepage_url": "",
   "language": "C#",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1640
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1640
     }
   ]

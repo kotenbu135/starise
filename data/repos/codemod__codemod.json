@@ -4,6 +4,7 @@
   "name": "codemod",
   "full_name": "codemod/codemod",
   "description": "The CLI for codemods: scaffold, share, and run multi-step transformations of any size. First-class ast-grep support. Fast, reliable, polyglot.",
+  "description_ja": "",
   "url": "https://github.com/codemod/codemod",
   "homepage_url": "https://go.codemod.com/docs",
   "language": "Rust",
@@ -18,12 +19,12 @@
     "ts-morph",
     "upgrade"
   ],
-  "star_count": 983,
-  "fork_count": 67,
+  "star_count": 984,
+  "fork_count": 69,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-26T11:30:00Z",
-  "updated_at": "2026-04-25T01:12:42Z",
+  "updated_at": "2026-04-26T12:39:19Z",
   "pushed_at": "2026-04-25T01:12:38Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 983
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 984
     }
   ]
 }

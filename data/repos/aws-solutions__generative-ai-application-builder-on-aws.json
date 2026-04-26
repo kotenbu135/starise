@@ -4,6 +4,7 @@
   "name": "generative-ai-application-builder-on-aws",
   "full_name": "aws-solutions/generative-ai-application-builder-on-aws",
   "description": "Generative AI Application Builder on AWS facilitates the development, rapid experimentation, and deployment of generative artificial intelligence (AI) applications without requiring deep experience in AI. The solution includes integrations with Amazon Bedrock and its included LLMs, such as Amazon Titan, and pre-built connectors for 3rd-party LLMs.",
+  "description_ja": "",
   "url": "https://github.com/aws-solutions/generative-ai-application-builder-on-aws",
   "homepage_url": "https://aws.amazon.com/solutions/implementations/generative-ai-application-builder-on-aws",
   "language": "TypeScript",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 340
+    },
+    {
+      "date": "2026-04-26",
       "stars": 340
     }
   ]

@@ -4,6 +4,7 @@
   "name": "caddy-defender",
   "full_name": "jasonlovesdoggo/caddy-defender",
   "description": "Caddy module to block or manipulate requests originating from AIs or cloud services trying to train on your websites",
+  "description_ja": "",
   "url": "https://github.com/JasonLovesDoggo/caddy-defender",
   "homepage_url": "http://defender.jsn.cam/",
   "language": "Go",
@@ -29,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-14T22:55:23Z",
-  "updated_at": "2026-04-19T00:57:28Z",
-  "pushed_at": "2026-04-19T00:57:24Z",
+  "updated_at": "2026-04-26T00:59:44Z",
+  "pushed_at": "2026-04-26T00:59:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 513
+    },
+    {
+      "date": "2026-04-26",
       "stars": 513
     }
   ]

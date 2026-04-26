@@ -4,6 +4,7 @@
   "name": "hwpx-mcp-server",
   "full_name": "airmang/hwpx-mcp-server",
   "description": "MCP server for AI agents to read, edit, inspect, and validate local HWPX documents.",
+  "description_ja": "ローカルHWPXドキュメントの読込・編集・検査・検証をAIエージェントに提供するMCPサーバー",
   "url": "https://github.com/airmang/hwpx-mcp-server",
   "homepage_url": "https://pypi.org/project/hwpx-mcp-server/",
   "language": "Python",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 54
+    },
+    {
+      "date": "2026-04-26",
       "stars": 54
     }
   ]

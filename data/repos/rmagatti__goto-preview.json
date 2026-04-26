@@ -4,6 +4,7 @@
   "name": "goto-preview",
   "full_name": "rmagatti/goto-preview",
   "description": "A small Neovim plugin for previewing definitions using floating windows.",
+  "description_ja": "",
   "url": "https://github.com/rmagatti/goto-preview",
   "homepage_url": "",
   "language": "Lua",
@@ -14,12 +15,12 @@
     "neovim",
     "neovim-plugin"
   ],
-  "star_count": 1034,
+  "star_count": 1035,
   "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-07T05:46:09Z",
-  "updated_at": "2026-04-24T01:52:23Z",
+  "updated_at": "2026-04-26T15:06:33Z",
   "pushed_at": "2025-12-26T08:51:02Z",
   "deleted_at": "",
   "star_history": [
@@ -30,6 +31,10 @@
     {
       "date": "2026-04-25",
       "stars": 1034
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1035
     }
   ]
 }

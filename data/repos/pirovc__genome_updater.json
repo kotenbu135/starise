@@ -4,6 +4,7 @@
   "name": "genome_updater",
   "full_name": "pirovc/genome_updater",
   "description": "genome_updater is a bash script that downloads and updates (non-redundant) snapshots of the NCBI Genomes repository (RefSeq/GenBank) with advanced filters, detailed logs and reports, file integrity checks, NCBI taxonomy and GTDB integration and support for parallel downloads.",
+  "description_ja": "",
   "url": "https://github.com/pirovc/genome_updater",
   "homepage_url": "",
   "language": "Shell",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 168
+    },
+    {
+      "date": "2026-04-26",
       "stars": 168
     }
   ]

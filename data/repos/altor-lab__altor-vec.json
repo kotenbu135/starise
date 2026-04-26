@@ -4,6 +4,7 @@
   "name": "altor-vec",
   "full_name": "altor-lab/altor-vec",
   "description": "Client-side vector search powered by HNSW. 54KB gzipped WASM. Sub-millisecond latency.",
+  "description_ja": "HNSW を活用したクライアントサイドベクター検索。gzip 圧縮で 54KB の WASM。ミリ秒未満のレイテンシ",
   "url": "https://github.com/Altor-lab/altor-vec",
   "homepage_url": "https://altorlab.dev",
   "language": "TypeScript",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 48
+    },
+    {
+      "date": "2026-04-26",
       "stars": 48
     }
   ]

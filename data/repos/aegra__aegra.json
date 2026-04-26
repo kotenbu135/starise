@@ -4,6 +4,7 @@
   "name": "aegra",
   "full_name": "aegra/aegra",
   "description": "Open source alternative to LangGraph Platform (now LangSmith Deployments) - Self-hosted AI agent backend with FastAPI and PostgreSQL. Zero vendor lock-in, full control over your agent infrastructure.",
+  "description_ja": "LangGraph Platform（現LangSmith Deployments）のオープンソース代替 - FastAPIとPostgreSQLによるセルフホスト型AIエージェントバックエンド。ベンダーロックインなし、エージェント基盤を完全制御。",
   "url": "https://github.com/aegra/aegra",
   "homepage_url": "https://aegra.dev",
   "language": "Python",
@@ -18,12 +19,12 @@
     "postgres",
     "python"
   ],
-  "star_count": 829,
+  "star_count": 832,
   "fork_count": 157,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-20T20:31:23Z",
-  "updated_at": "2026-04-25T15:30:28Z",
+  "updated_at": "2026-04-26T15:54:17Z",
   "pushed_at": "2026-04-25T16:26:09Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 829
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 832
     }
   ]
 }

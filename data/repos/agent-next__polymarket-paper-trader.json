@@ -4,6 +4,7 @@
   "name": "polymarket-paper-trader",
   "full_name": "agent-next/polymarket-paper-trader",
   "description": "Paper trading simulator for Polymarket — built for AI agents. MCP server, live order books, strategy backtesting. Install: npx clawhub install polymarket-paper-trader",
+  "description_ja": "[12] Polymarket向けのペーパートレーディングシミュレーター — AIエージェント向けに構築。MCPサーバー、ライブオーダーブック、戦略バックテスト対応。インストール: npx clawhub install polymarket-paper-trader",
   "url": "https://github.com/agent-next/polymarket-paper-trader",
   "homepage_url": "https://clawhub.com/robotlearning123/polymarket-paper-trader",
   "language": "Python",
@@ -22,12 +23,12 @@
     "sqlite",
     "trading-bot"
   ],
-  "star_count": 264,
+  "star_count": 265,
   "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T01:49:47Z",
-  "updated_at": "2026-04-25T01:38:57Z",
+  "updated_at": "2026-04-26T14:49:07Z",
   "pushed_at": "2026-03-02T05:24:25Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 264
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 265
     }
   ]
 }

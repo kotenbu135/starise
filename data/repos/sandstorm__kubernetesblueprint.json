@@ -4,6 +4,7 @@
   "name": "kubernetesblueprint",
   "full_name": "sandstorm/kubernetesblueprint",
   "description": "Sandstorm Kubernetes Blueprint - Opinionated Blueprint for pragmatic production K8S deployment for SMEs. K3S, Cilium, Ansible-based; with custom operators for custom PAAS",
+  "description_ja": "",
   "url": "https://github.com/sandstorm/KubernetesBlueprint",
   "homepage_url": "",
   "language": "Shell",
@@ -20,6 +21,10 @@
   "star_history": [
     {
       "date": "2026-04-25",
+      "stars": 10
+    },
+    {
+      "date": "2026-04-26",
       "stars": 10
     }
   ]

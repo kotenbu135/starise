@@ -4,6 +4,7 @@
   "name": "openapi-sdk-php",
   "full_name": "aliyun/openapi-sdk-php",
   "description": "The Alibaba Cloud V1.0 SDK will soon enter the Basic Security Maintenance phase and is no longer recommended for use. V2.0 SDK is available here: https://github.com/aliyun/alibabacloud-php-sdk",
+  "description_ja": "Alibaba Cloud V1.0 SDKは間もなく基本セキュリティ保守フェーズに移行し、利用は推奨されません。V2.0 SDKはこちら: https://github.com/aliyun/alibabacloud-php-sdk",
   "url": "https://github.com/aliyun/openapi-sdk-php",
   "homepage_url": "https://packagist.org/packages/alibabacloud/sdk",
   "language": "PHP",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 528
+    },
+    {
+      "date": "2026-04-26",
       "stars": 528
     }
   ]

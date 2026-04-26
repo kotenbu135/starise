@@ -4,6 +4,7 @@
   "name": "django-read-only",
   "full_name": "adamchainz/django-read-only",
   "description": "Disable Django database writes.",
+  "description_ja": "Djangoのデータベース書き込みを無効化。",
   "url": "https://github.com/adamchainz/django-read-only",
   "homepage_url": "",
   "language": "Python",
@@ -26,6 +27,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 108
+    },
+    {
+      "date": "2026-04-26",
       "stars": 108
     }
   ]

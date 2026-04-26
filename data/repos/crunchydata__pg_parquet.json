@@ -4,6 +4,7 @@
   "name": "pg_parquet",
   "full_name": "crunchydata/pg_parquet",
   "description": "Copy to/from Parquet in S3, Azure Blob Storage, Google Cloud Storage, http(s) stores, local files or standard inout stream from within PostgreSQL",
+  "description_ja": "",
   "url": "https://github.com/CrunchyData/pg_parquet",
   "homepage_url": "",
   "language": "Rust",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 668
+    },
+    {
+      "date": "2026-04-26",
       "stars": 668
     }
   ]

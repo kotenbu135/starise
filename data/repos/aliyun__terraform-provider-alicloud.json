@@ -4,6 +4,7 @@
   "name": "terraform-provider-alicloud",
   "full_name": "aliyun/terraform-provider-alicloud",
   "description": "Terraform AliCloud provider",
+  "description_ja": "Terraform AliCloudプロバイダー",
   "url": "https://github.com/aliyun/terraform-provider-alicloud",
   "homepage_url": "https://www.terraform.io/docs/providers/alicloud/",
   "language": "Go",
@@ -18,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-06-05T20:54:04Z",
-  "updated_at": "2026-04-24T06:27:10Z",
-  "pushed_at": "2026-04-24T20:43:18Z",
+  "updated_at": "2026-04-26T14:15:44Z",
+  "pushed_at": "2026-04-26T14:15:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 653
+    },
+    {
+      "date": "2026-04-26",
       "stars": 653
     }
   ]

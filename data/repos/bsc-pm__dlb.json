@@ -4,6 +4,7 @@
   "name": "dlb",
   "full_name": "bsc-pm/dlb",
   "description": "DLB (Dynamic Load Balancing) library is a tool, transparent to the user, that will dynamically react to the application imbalance modifying the number of resources at any given time.",
+  "description_ja": "",
   "url": "https://github.com/bsc-pm/dlb",
   "homepage_url": "https://pm.bsc.es/dlb",
   "language": "C",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

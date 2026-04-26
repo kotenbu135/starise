@@ -4,6 +4,7 @@
   "name": "quick.nvim",
   "full_name": "albingroen/quick.nvim",
   "description": "A very fast Lua based Neovim configuration that uses native LSP for intellisense",
+  "description_ja": "ネイティブ LSP によるインテリセンスを採用した、Lua ベースの非常に高速な Neovim 設定",
   "url": "https://github.com/albingroen/quick.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 312
+    },
+    {
+      "date": "2026-04-26",
       "stars": 312
     }
   ]

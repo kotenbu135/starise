@@ -4,6 +4,7 @@
   "name": "matterbridge",
   "full_name": "42wim/matterbridge",
   "description": "bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)",
+  "description_ja": "mattermost、IRC、gitter、xmpp、slack、discord、telegram、rocketchat、twitch、ssh-chat、zulip、whatsapp、keybase、matrix、Microsoft Teams、nextcloud、mumble、vkなどを橋渡し。REST API付き(mattermost不要)",
   "url": "https://github.com/42wim/matterbridge",
   "homepage_url": "",
   "language": "Go",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 7459
+    },
+    {
+      "date": "2026-04-26",
       "stars": 7459
     }
   ]

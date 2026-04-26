@@ -4,6 +4,7 @@
   "name": "hardened_malloc",
   "full_name": "grapheneos/hardened_malloc",
   "description": "Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability/integration over time.",
+  "description_ja": "",
   "url": "https://github.com/GrapheneOS/hardened_malloc",
   "homepage_url": "https://grapheneos.org/",
   "language": "C",
@@ -20,12 +21,12 @@
     "security",
     "slab-allocator"
   ],
-  "star_count": 1818,
-  "fork_count": 135,
+  "star_count": 1820,
+  "fork_count": 136,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-08-23T04:43:10Z",
-  "updated_at": "2026-04-24T15:33:45Z",
+  "updated_at": "2026-04-26T06:13:51Z",
   "pushed_at": "2026-04-24T15:54:59Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 1818
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1820
     }
   ]
 }

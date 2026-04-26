@@ -4,6 +4,7 @@
   "name": "mlops-v2",
   "full_name": "azure/mlops-v2",
   "description": "Azure MLOps (v2) solution accelerators. Enterprise ready templates to deploy your machine learning models on the Azure Platform. ",
+  "description_ja": "",
   "url": "https://github.com/Azure/mlops-v2",
   "homepage_url": "https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment",
   "language": "Shell",
@@ -22,12 +23,12 @@
     "mlops-template",
     "mlops-workflow"
   ],
-  "star_count": 625,
+  "star_count": 626,
   "fork_count": 333,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-27T05:40:46Z",
-  "updated_at": "2026-04-18T13:27:57Z",
+  "updated_at": "2026-04-25T17:58:41Z",
   "pushed_at": "2025-12-08T17:32:19Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 625
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 626
     }
   ]
 }

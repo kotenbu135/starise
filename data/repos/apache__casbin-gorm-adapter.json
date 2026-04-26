@@ -4,6 +4,7 @@
   "name": "casbin-gorm-adapter",
   "full_name": "apache/casbin-gorm-adapter",
   "description": "GORM adapter for Casbin, see extended version of GORM Adapter Ex at: https://github.com/casbin/gorm-adapter-ex",
+  "description_ja": "Casbin用GORMアダプタ。拡張版GORM Adapter Exはこちら: https://github.com/casbin/gorm-adapter-ex",
   "url": "https://github.com/apache/casbin-gorm-adapter",
   "homepage_url": "https://github.com/casbin/casbin",
   "language": "Go",
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 744
+    },
+    {
+      "date": "2026-04-26",
       "stars": 744
     }
   ]

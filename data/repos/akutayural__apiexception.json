@@ -4,6 +4,7 @@
   "name": "apiexception",
   "full_name": "akutayural/apiexception",
   "description": "Standardize FastAPI error/exception handling with APIException. Custom error codes, fallback logging, and beautiful Swagger UI integration.",
+  "description_ja": "FastAPIのエラー/例外処理をAPIExceptionで標準化。カスタムエラーコード、フォールバックログ、Swagger UIへの美しい統合に対応。",
   "url": "https://github.com/akutayural/APIException",
   "homepage_url": "https://akutayural.github.io/APIException/",
   "language": "Python",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 250
+    },
+    {
+      "date": "2026-04-26",
       "stars": 250
     }
   ]

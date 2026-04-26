@@ -4,6 +4,7 @@
   "name": "kubeli",
   "full_name": "atilladeniz/kubeli",
   "description": "A modern Kubernetes GUI management desktop app for macOS \u0026 Windows. Multi-cluster support, real-time monitoring, AI assistant, terminal access, and more.",
+  "description_ja": "",
   "url": "https://github.com/atilladeniz/Kubeli",
   "homepage_url": "https://kubeli.dev",
   "language": "TypeScript",
@@ -19,13 +20,13 @@
     "kubernetes-ui",
     "pods"
   ],
-  "star_count": 335,
+  "star_count": 336,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-17T12:27:49Z",
-  "updated_at": "2026-04-17T09:10:36Z",
-  "pushed_at": "2026-04-24T17:03:50Z",
+  "updated_at": "2026-04-26T16:45:09Z",
+  "pushed_at": "2026-04-26T17:03:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 335
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 336
     }
   ]
 }

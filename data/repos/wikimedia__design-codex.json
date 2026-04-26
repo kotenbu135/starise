@@ -4,6 +4,7 @@
   "name": "design-codex",
   "full_name": "wikimedia/design-codex",
   "description": "Codex is the Design System for Wikimedia. Codex features a toolkit for building user interfaces, containing design tokens, Vue 3 components and VitePress documentation site packages. This is a mirror from https://gerrit.wikimedia.org/g/design/codex/",
+  "description_ja": "",
   "url": "https://github.com/wikimedia/design-codex",
   "homepage_url": "https://doc.wikimedia.org/codex/main/",
   "language": "TypeScript",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 104
+    },
+    {
+      "date": "2026-04-26",
       "stars": 104
     }
   ]

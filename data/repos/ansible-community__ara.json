@@ -4,6 +4,7 @@
   "name": "ara",
   "full_name": "ansible-community/ara",
   "description": "ARA Records Ansible and makes it easier to understand and troubleshoot.",
+  "description_ja": "ARA は Ansible の実行を記録し、理解とトラブルシューティングを容易にする",
   "url": "https://github.com/ansible-community/ara",
   "homepage_url": "https://ara.recordsansible.org",
   "language": "Python",
@@ -18,12 +19,12 @@
     "python",
     "reporting"
   ],
-  "star_count": 2010,
+  "star_count": 2009,
   "fork_count": 179,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-06-08T20:52:08Z",
-  "updated_at": "2026-04-23T10:53:14Z",
+  "updated_at": "2026-04-26T12:39:46Z",
   "pushed_at": "2026-02-25T23:59:54Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 2010
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2009
     }
   ]
 }

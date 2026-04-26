@@ -4,6 +4,7 @@
   "name": "typhon",
   "full_name": "monzo/typhon",
   "description": "A wrapper around Go's net/http to provide safety and convenience. At Monzo, Typhon forms the basis of most clients and servers in our microservices platform.",
+  "description_ja": "",
   "url": "https://github.com/monzo/typhon",
   "homepage_url": "",
   "language": "Go",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 785
+    },
+    {
+      "date": "2026-04-26",
       "stars": 785
     }
   ]

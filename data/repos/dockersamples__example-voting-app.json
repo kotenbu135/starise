@@ -4,6 +4,7 @@
   "name": "example-voting-app",
   "full_name": "dockersamples/example-voting-app",
   "description": "Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes",
+  "description_ja": "",
   "url": "https://github.com/dockersamples/example-voting-app",
   "homepage_url": "",
   "language": "C#",
@@ -17,12 +18,12 @@
     "sample",
     "swarm"
   ],
-  "star_count": 5678,
-  "fork_count": 15557,
+  "star_count": 5676,
+  "fork_count": 15556,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-11-15T19:59:56Z",
-  "updated_at": "2026-04-24T12:28:00Z",
+  "updated_at": "2026-04-26T08:35:01Z",
   "pushed_at": "2024-10-10T15:05:06Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 5678
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5676
     }
   ]
 }

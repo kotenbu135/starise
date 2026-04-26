@@ -4,6 +4,7 @@
   "name": "yubikey-full-disk-encryption",
   "full_name": "agherzan/yubikey-full-disk-encryption",
   "description": "Use YubiKey to unlock a LUKS partition",
+  "description_ja": "YubiKeyを使ってLUKSパーティションをアンロック",
   "url": "https://github.com/agherzan/yubikey-full-disk-encryption",
   "homepage_url": "",
   "language": "Shell",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 876
+    },
+    {
+      "date": "2026-04-26",
       "stars": 876
     }
   ]

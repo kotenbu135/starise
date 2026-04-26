@@ -4,6 +4,7 @@
   "name": "fastapi-backend-template",
   "full_name": "aeternalis-ingenium/fastapi-backend-template",
   "description": "A backend project template with FastAPI, PostgreSQL with asynchronous SQLAlchemy 2.0, Alembic for asynchronous database migration, and Docker.",
+  "description_ja": "[25] FastAPI、非同期SQLAlchemy 2.0付きPostgreSQL、非同期DBマイグレーション用Alembic、Dockerで構築したバックエンドプロジェクトテンプレート。",
   "url": "https://github.com/Aeternalis-Ingenium/FastAPI-Backend-Template",
   "homepage_url": "",
   "language": "Python",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 851
+    },
+    {
+      "date": "2026-04-26",
       "stars": 851
     }
   ]

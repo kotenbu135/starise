@@ -4,6 +4,7 @@
   "name": "saltbox",
   "full_name": "saltyorg/saltbox",
   "description": "Ansible-based solution for rapidly deploying a Docker containerized cloud media server.",
+  "description_ja": "",
   "url": "https://github.com/saltyorg/Saltbox",
   "homepage_url": "https://docs.saltbox.dev",
   "language": "Python",
@@ -30,12 +31,12 @@
     "tautulli",
     "traefik"
   ],
-  "star_count": 838,
+  "star_count": 839,
   "fork_count": 89,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-10T18:50:37Z",
-  "updated_at": "2026-04-21T16:03:43Z",
+  "updated_at": "2026-04-25T23:53:59Z",
   "pushed_at": "2026-04-24T21:10:57Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 838
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 839
     }
   ]
 }

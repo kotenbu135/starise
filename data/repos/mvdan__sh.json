@@ -4,6 +4,7 @@
   "name": "sh",
   "full_name": "mvdan/sh",
   "description": "A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt",
+  "description_ja": "",
   "url": "https://github.com/mvdan/sh",
   "homepage_url": "https://pkg.go.dev/mvdan.cc/sh/v3",
   "language": "Go",
@@ -21,12 +22,12 @@
     "shfmt",
     "zsh"
   ],
-  "star_count": 8697,
-  "fork_count": 395,
+  "star_count": 8699,
+  "fork_count": 396,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-01-16T08:39:09Z",
-  "updated_at": "2026-04-25T05:38:25Z",
+  "updated_at": "2026-04-26T17:18:40Z",
   "pushed_at": "2026-04-08T14:23:57Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 8697
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8699
     }
   ]
 }

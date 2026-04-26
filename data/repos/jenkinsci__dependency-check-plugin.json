@@ -4,6 +4,7 @@
   "name": "dependency-check-plugin",
   "full_name": "jenkinsci/dependency-check-plugin",
   "description": "Jenkins plugin for OWASP Dependency-Check. Inspects project components for known vulnerabilities (e.g. CVEs).",
+  "description_ja": "",
   "url": "https://github.com/jenkinsci/dependency-check-plugin",
   "homepage_url": "",
   "language": "Java",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 140
+    },
+    {
+      "date": "2026-04-26",
       "stars": 140
     }
   ]

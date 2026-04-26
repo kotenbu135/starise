@@ -4,6 +4,7 @@
   "name": "full-stack-fastapi-template",
   "full_name": "fastapi/full-stack-fastapi-template",
   "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+  "description_ja": "",
   "url": "https://github.com/fastapi/full-stack-fastapi-template",
   "homepage_url": "",
   "language": "TypeScript",
@@ -29,12 +30,12 @@
     "traefik",
     "typescript"
   ],
-  "star_count": 42858,
-  "fork_count": 8451,
+  "star_count": 42875,
+  "fork_count": 8453,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-02-23T15:08:34Z",
-  "updated_at": "2026-04-25T17:00:55Z",
+  "updated_at": "2026-04-26T17:11:23Z",
   "pushed_at": "2026-04-21T23:05:05Z",
   "deleted_at": "",
   "star_history": [
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 42858
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 42875
     }
   ]
 }

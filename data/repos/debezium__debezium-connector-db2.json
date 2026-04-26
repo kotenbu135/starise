@@ -4,6 +4,7 @@
   "name": "debezium-connector-db2",
   "full_name": "debezium/debezium-connector-db2",
   "description": "A Debezium connector for Db2 LUW and z/OS. Please log issues at https://github.com/debezium/dbz/issues.",
+  "description_ja": "",
   "url": "https://github.com/debezium/debezium-connector-db2",
   "homepage_url": "https://debezium.io/",
   "language": "Java",
@@ -13,7 +14,7 @@
     "debezium-connector"
   ],
   "star_count": 29,
-  "fork_count": 62,
+  "fork_count": 63,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-12-01T16:04:03Z",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

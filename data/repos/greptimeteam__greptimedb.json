@@ -4,6 +4,7 @@
   "name": "greptimedb",
   "full_name": "greptimeteam/greptimedb",
   "description": "The open-source Observability 2.0 database. One engine for metrics, logs, and traces — replacing Prometheus, Loki \u0026 ES.",
+  "description_ja": "",
   "url": "https://github.com/GreptimeTeam/greptimedb",
   "homepage_url": "https://greptime.com/",
   "language": "Rust",
@@ -30,13 +31,13 @@
     "sql",
     "traces"
   ],
-  "star_count": 6204,
-  "fork_count": 483,
+  "star_count": 6209,
+  "fork_count": 484,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-11T03:46:48Z",
-  "updated_at": "2026-04-25T15:51:02Z",
-  "pushed_at": "2026-04-24T14:44:10Z",
+  "updated_at": "2026-04-26T16:02:06Z",
+  "pushed_at": "2026-04-26T14:48:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 6204
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6209
     }
   ]
 }

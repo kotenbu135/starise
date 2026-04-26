@@ -4,6 +4,7 @@
   "name": "apisix",
   "full_name": "apache/apisix",
   "description": "The Cloud-Native API Gateway and AI Gateway",
+  "description_ja": "[42] クラウドネイティブAPIゲートウェイ兼AIゲートウェイ",
   "url": "https://github.com/apache/apisix",
   "homepage_url": "https://apisix.apache.org/blog/",
   "language": "Lua",
@@ -30,12 +31,12 @@
     "serverless",
     "service-mesh"
   ],
-  "star_count": 16513,
-  "fork_count": 2842,
+  "star_count": 16515,
+  "fork_count": 2843,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-10T02:02:05Z",
-  "updated_at": "2026-04-25T15:22:19Z",
+  "updated_at": "2026-04-26T16:07:00Z",
   "pushed_at": "2026-04-25T02:46:01Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 16513
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 16515
     }
   ]
 }

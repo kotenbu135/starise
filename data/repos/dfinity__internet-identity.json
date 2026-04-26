@@ -4,6 +4,7 @@
   "name": "internet-identity",
   "full_name": "dfinity/internet-identity",
   "description": "Internet Identity, a blockchain authentication system for the Internet Computer",
+  "description_ja": "",
   "url": "https://github.com/dfinity/internet-identity",
   "homepage_url": "https://identity.ic0.app",
   "language": "Rust",
@@ -13,13 +14,13 @@
     "blockchain",
     "identity"
   ],
-  "star_count": 512,
-  "fork_count": 176,
+  "star_count": 513,
+  "fork_count": 177,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-09T17:18:09Z",
-  "updated_at": "2026-04-25T16:04:30Z",
-  "pushed_at": "2026-04-25T16:07:46Z",
+  "updated_at": "2026-04-26T11:13:33Z",
+  "pushed_at": "2026-04-26T17:05:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 512
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 513
     }
   ]
 }

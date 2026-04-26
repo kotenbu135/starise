@@ -4,6 +4,7 @@
   "name": "vtktoolbox",
   "full_name": "kit-ibt/vtktoolbox",
   "description": "A MEX interface to the VTK library. It provides MATLAB functions to read and write VTK files and to apply VTK filters to datasets.",
+  "description_ja": "",
   "url": "https://github.com/KIT-IBT/vtkToolbox",
   "homepage_url": "",
   "language": "C++",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 28
+    },
+    {
+      "date": "2026-04-26",
       "stars": 28
     }
   ]

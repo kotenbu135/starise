@@ -4,6 +4,7 @@
   "name": "rustunnel",
   "full_name": "joaoh82/rustunnel",
   "description": "**Rustunnel** is an open-source tunnel that scales with you. Don't pay for idle time. Secure, Rust-fast, and Pay-as-you-go.. It exposes local services running behind NAT/firewalls to the public internet through a relay server self-hosted or our managed service.",
+  "description_ja": "",
   "url": "https://github.com/joaoh82/rustunnel",
   "homepage_url": "https://www.rustunnel.com",
   "language": "Rust",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 622
+    },
+    {
+      "date": "2026-04-26",
       "stars": 622
     }
   ]

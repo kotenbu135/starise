@@ -4,6 +4,7 @@
   "name": "tfcmt-gitlab",
   "full_name": "hirosassa/tfcmt-gitlab",
   "description": "tfcmt-gitlab is a CLI command to parse and notify Terraform execution results. This command supports GitLab as a CI and notification platform.",
+  "description_ja": "",
   "url": "https://github.com/hirosassa/tfcmt-gitlab",
   "homepage_url": "",
   "language": "Go",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 42
+    },
+    {
+      "date": "2026-04-26",
       "stars": 42
     }
   ]

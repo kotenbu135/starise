@@ -4,6 +4,7 @@
   "name": "tidylog",
   "full_name": "elbersb/tidylog",
   "description": "Tidylog provides feedback about dplyr and tidyr operations. It provides wrapper functions for the most common functions, such as filter, mutate, select, and group_by, and provides detailed output for joins.",
+  "description_ja": "",
   "url": "https://github.com/elbersb/tidylog",
   "homepage_url": "",
   "language": "R",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 613
+    },
+    {
+      "date": "2026-04-26",
       "stars": 613
     }
   ]

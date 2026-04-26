@@ -4,6 +4,7 @@
   "name": "smart-admin",
   "full_name": "1024-lab/smart-admin",
   "description": "SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot2/3 + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。",
+  "description_ja": "SmartAdmin: 国内初の「高品質コード」をコアとし、「シンプル・効率的・安全」な迅速開発プラットフォーム。SpringBoot2/3 + Sa-Token + Mybatis-Plus および Vue3 + Vite5 + Ant Design Vue 4.x ベース（JavaScriptとTypeScript両版対応）。国家等級保護三級要件への対応、ログイン制限、APIデータの国産暗号化・復号、高防御SQLインジェクション対策など一連のセキュリティ体系をサポート。",
   "url": "https://github.com/1024-lab/smart-admin",
   "homepage_url": "https://smartadmin.vip",
   "language": "Java",
@@ -24,13 +25,13 @@
     "vue",
     "vue3"
   ],
-  "star_count": 3700,
+  "star_count": 3701,
   "fork_count": 978,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-11-16T02:30:31Z",
-  "updated_at": "2026-04-24T14:26:56Z",
-  "pushed_at": "2026-04-18T01:12:52Z",
+  "updated_at": "2026-04-26T01:58:30Z",
+  "pushed_at": "2026-04-25T23:31:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 3700
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3701
     }
   ]
 }

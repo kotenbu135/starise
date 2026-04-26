@@ -4,6 +4,7 @@
   "name": "guacamole",
   "full_name": "flcontainers/guacamole",
   "description": "A Docker Container for Apache Guacamole, a client-less remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH over HTML5. For x64, arm64 and ppc64le.",
+  "description_ja": "",
   "url": "https://github.com/flcontainers/guacamole",
   "homepage_url": "https://hub.docker.com/r/flcontainers/guacamole",
   "language": "Shell",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 443
+    },
+    {
+      "date": "2026-04-26",
       "stars": 443
     }
   ]

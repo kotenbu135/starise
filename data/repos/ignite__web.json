@@ -4,6 +4,7 @@
   "name": "web",
   "full_name": "ignite/web",
   "description": "Monorepo for packages used by Ignite CLI, including a template, component library and a set of Vuex modules",
+  "description_ja": "",
   "url": "https://github.com/ignite/web",
   "homepage_url": "https://ignite.com/cli",
   "language": "Vue",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 84
+    },
+    {
+      "date": "2026-04-26",
       "stars": 84
     }
   ]

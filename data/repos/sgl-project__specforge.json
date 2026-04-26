@@ -4,6 +4,7 @@
   "name": "specforge",
   "full_name": "sgl-project/specforge",
   "description": "Train speculative decoding models effortlessly and port them smoothly to SGLang serving.",
+  "description_ja": "",
   "url": "https://github.com/sgl-project/SpecForge",
   "homepage_url": "https://docs.sglang.ai/SpecForge/",
   "language": "Python",
@@ -17,12 +18,12 @@
     "sglang",
     "training"
   ],
-  "star_count": 800,
+  "star_count": 802,
   "fork_count": 214,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-09T05:28:34Z",
-  "updated_at": "2026-04-25T16:28:37Z",
+  "updated_at": "2026-04-26T15:04:44Z",
   "pushed_at": "2026-04-02T07:52:00Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 800
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 802
     }
   ]
 }

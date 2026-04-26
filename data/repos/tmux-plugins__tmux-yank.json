@@ -4,6 +4,7 @@
   "name": "tmux-yank",
   "full_name": "tmux-plugins/tmux-yank",
   "description": "Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.",
+  "description_ja": "",
   "url": "https://github.com/tmux-plugins/tmux-yank",
   "homepage_url": "https://tmux-plugins.github.io/tmux-yank/",
   "language": "Shell",
@@ -18,12 +19,12 @@
     "tpm",
     "wsl"
   ],
-  "star_count": 3068,
+  "star_count": 3067,
   "fork_count": 132,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-06-24T09:37:12Z",
-  "updated_at": "2026-04-25T07:39:29Z",
+  "updated_at": "2026-04-26T10:39:10Z",
   "pushed_at": "2024-03-24T11:30:18Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 3068
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3067
     }
   ]
 }

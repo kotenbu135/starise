@@ -4,6 +4,7 @@
   "name": "octopus-energy-rates-card",
   "full_name": "lozzd/octopus-energy-rates-card",
   "description": "This lovelace card for Home Assistant displays the Octopus Energy rate prices per each 30 minute slot",
+  "description_ja": "",
   "url": "https://github.com/lozzd/octopus-energy-rates-card",
   "homepage_url": "",
   "language": "JavaScript",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

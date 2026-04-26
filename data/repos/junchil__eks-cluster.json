@@ -4,6 +4,7 @@
   "name": "eks-cluster",
   "full_name": "junchil/eks-cluster",
   "description": "Deploy golang and python apps in EKS cluster (mix EC2 and Fargate), service meshing using Istio, ALB Ingress, Terraform, Helm, golang admission controller, golang kubernetes operator",
+  "description_ja": "",
   "url": "https://github.com/junchil/eks-cluster",
   "homepage_url": "",
   "language": "Go",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

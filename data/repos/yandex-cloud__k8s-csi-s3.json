@@ -4,6 +4,7 @@
   "name": "k8s-csi-s3",
   "full_name": "yandex-cloud/k8s-csi-s3",
   "description": "GeeseFS-based CSI for mounting S3 buckets as PersistentVolumes",
+  "description_ja": "",
   "url": "https://github.com/yandex-cloud/k8s-csi-s3",
   "homepage_url": "",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 848
+    },
+    {
+      "date": "2026-04-26",
       "stars": 848
     }
   ]

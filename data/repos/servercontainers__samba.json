@@ -4,6 +4,7 @@
   "name": "samba",
   "full_name": "servercontainers/samba",
   "description": "samba - (ghcr.io/servercontainers/samba) (+ optional zeroconf, wsdd2 \u0026 time machine) on alpine [x86 + arm]",
+  "description_ja": "",
   "url": "https://github.com/ServerContainers/samba",
   "homepage_url": "",
   "language": "Shell",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 649
+    },
+    {
+      "date": "2026-04-26",
       "stars": 649
     }
   ]

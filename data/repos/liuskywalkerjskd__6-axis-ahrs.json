@@ -4,6 +4,7 @@
   "name": "6-axis-ahrs",
   "full_name": "liuskywalkerjskd/6-axis-ahrs",
   "description": "A robust, standalone 6-Axis (Gyroscope + Accelerometer) Attitude and Heading Reference System (AHRS). Provides two        algorithms: Madgwick gradient descent fusion and Extended Kalman Filter (EKF). Includes adaptive features: impact         detection with fast recovery, linear motion compensation, and automatic gyroscope bias correction. ",
+  "description_ja": "",
   "url": "https://github.com/liuskywalkerjskd/6-Axis-AHRS",
   "homepage_url": "https://liuskywalkerjskd.github.io/6-Axis-AHRS/",
   "language": "C++",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 30
+    },
+    {
+      "date": "2026-04-26",
       "stars": 30
     }
   ]

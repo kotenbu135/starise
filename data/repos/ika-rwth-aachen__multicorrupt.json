@@ -4,6 +4,7 @@
   "name": "multicorrupt",
   "full_name": "ika-rwth-aachen/multicorrupt",
   "description": "[IV2024] MultiCorrupt: A benchmark for robust multi-modal 3D object detection, evaluating LiDAR-Camera fusion models in autonomous driving. Includes diverse corruption types (e.g., misalignment, miscalibration, weather) and severity levels. Assess model performance under challenging conditions.",
+  "description_ja": "",
   "url": "https://github.com/ika-rwth-aachen/MultiCorrupt",
   "homepage_url": "",
   "language": "Jupyter Notebook",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 86
+    },
+    {
+      "date": "2026-04-26",
       "stars": 86
     }
   ]

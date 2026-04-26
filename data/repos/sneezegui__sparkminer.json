@@ -4,6 +4,7 @@
   "name": "sparkminer",
   "full_name": "sneezegui/sparkminer",
   "description": "SparkMiner: A high-performance, open-source ESP32 Bitcoin solo miner. By combining the usability of NerdMinerV2 with the raw speed of BitsyMiner's pipelined assembly, SparkMiner delivers optimized hashrates (~725+ KH/s) to challenge paid firmware alternatives.",
+  "description_ja": "",
   "url": "https://github.com/SneezeGUI/SparkMiner",
   "homepage_url": "",
   "language": "C++",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 41
+    },
+    {
+      "date": "2026-04-26",
       "stars": 41
     }
   ]

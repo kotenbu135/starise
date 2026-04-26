@@ -4,6 +4,7 @@
   "name": "ntfs",
   "full_name": "colinfinck/ntfs",
   "description": "An implementation of the NTFS filesystem in a Rust crate, usable from firmware level up to user-mode.",
+  "description_ja": "",
   "url": "https://github.com/ColinFinck/ntfs",
   "homepage_url": "",
   "language": "Rust",
@@ -14,12 +15,12 @@
     "rust",
     "windows"
   ],
-  "star_count": 591,
+  "star_count": 592,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-03T18:07:17Z",
-  "updated_at": "2026-04-21T16:05:14Z",
+  "updated_at": "2026-04-26T04:50:20Z",
   "pushed_at": "2026-01-14T08:16:14Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 591
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 592
     }
   ]
 }

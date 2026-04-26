@@ -4,6 +4,7 @@
   "name": "mirage-tcpip",
   "full_name": "mirage/mirage-tcpip",
   "description": "TCP/IP networking stack in pure OCaml, using the Mirage platform libraries.  Includes IPv4/6, ICMP, and UDP/TCP support.",
+  "description_ja": "",
   "url": "https://github.com/mirage/mirage-tcpip",
   "homepage_url": "https://mirage.io",
   "language": "OCaml",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 354
+    },
+    {
+      "date": "2026-04-26",
       "stars": 354
     }
   ]

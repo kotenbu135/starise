@@ -4,6 +4,7 @@
   "name": "pgmq",
   "full_name": "pgmq/pgmq",
   "description": "A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.",
+  "description_ja": "",
   "url": "https://github.com/pgmq/pgmq",
   "homepage_url": "https://pgmq.github.io/pgmq/",
   "language": "PLpgSQL",
@@ -11,12 +12,12 @@
   "topics": [
     "message-queue"
   ],
-  "star_count": 4807,
+  "star_count": 4810,
   "fork_count": 137,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-24T13:49:58Z",
-  "updated_at": "2026-04-25T12:43:35Z",
+  "updated_at": "2026-04-26T16:31:33Z",
   "pushed_at": "2026-04-24T12:21:28Z",
   "deleted_at": "",
   "star_history": [
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 4807
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4810
     }
   ]
 }

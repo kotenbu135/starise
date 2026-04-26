@@ -4,6 +4,7 @@
   "name": "parallel",
   "full_name": "amphp/parallel",
   "description": "An advanced parallelization library for PHP, enabling efficient multitasking, optimizing resource use, and application responsiveness through multiple CPU threads.",
+  "description_ja": "PHP 向けの高度な並列化ライブラリ。複数の CPU スレッドを活用して効率的なマルチタスク処理、リソース利用の最適化、アプリの応答性向上を実現",
   "url": "https://github.com/amphp/parallel",
   "homepage_url": "",
   "language": "PHP",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 848
+    },
+    {
+      "date": "2026-04-26",
       "stars": 848
     }
   ]

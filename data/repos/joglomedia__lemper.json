@@ -4,6 +4,7 @@
   "name": "lemper",
   "full_name": "joglomedia/lemper",
   "description": "LEMPer Stack is terminal-based LEMP / LNMP ( Linux, Nginx, MariaDB, PostgreSQL, MongoDB, Redis, Memcache, PHP, Secure FTP ) auto installer and virtual host manager for Debian \u0026 Ubuntu cloud or virtual server (vps) and on-premise (bare metal).",
+  "description_ja": "",
   "url": "https://github.com/joglomedia/LEMPer",
   "homepage_url": "https://lemper.cloud/",
   "language": "Shell",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 233
+    },
+    {
+      "date": "2026-04-26",
       "stars": 233
     }
   ]

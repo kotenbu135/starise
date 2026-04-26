@@ -4,6 +4,7 @@
   "name": "clash2singbox",
   "full_name": "xmdhs/clash2singbox",
   "description": "将 clash.meta 格式的配置文件或链接转换为 sing-box 格式",
+  "description_ja": "",
   "url": "https://github.com/xmdhs/clash2singbox",
   "homepage_url": "https://clash2sfa.xmdhs.com",
   "language": "Go",
@@ -14,7 +15,7 @@
     "sing-box"
   ],
   "star_count": 919,
-  "fork_count": 109,
+  "fork_count": 110,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-11-19T17:07:50Z",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 919
+    },
+    {
+      "date": "2026-04-26",
       "stars": 919
     }
   ]

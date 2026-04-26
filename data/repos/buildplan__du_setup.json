@@ -4,6 +4,7 @@
   "name": "du_setup",
   "full_name": "buildplan/du_setup",
   "description": "A Bash script to automate the initial configuration and security hardening of Debian and Ubuntu servers.",
+  "description_ja": "",
   "url": "https://github.com/buildplan/du_setup",
   "homepage_url": "https://buildplan.org/du_setup/getting-started",
   "language": "Shell",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 529
+    },
+    {
+      "date": "2026-04-26",
       "stars": 529
     }
   ]

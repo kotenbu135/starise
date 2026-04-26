@@ -4,6 +4,7 @@
   "name": "clawhuddle",
   "full_name": "allen-hsu/clawhuddle",
   "description": "Self-hosted OpenClaw for teams — Give every person on your team their own AI assistant.  Each team member gets an isolated OpenClaw instance with zero maintenance. You add people, the system handles the rest.",
+  "description_ja": "[1] チーム向けセルフホスト型 OpenClaw — チームの全員に専用 AI アシスタントを提供。メンバーごとに隔離された OpenClaw インスタンスをメンテナンス不要で利用可能。人を追加すれば、あとはシステムが処理する。",
   "url": "https://github.com/allen-hsu/clawhuddle",
   "homepage_url": "https://clawhuddle.com",
   "language": "TypeScript",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

@@ -4,6 +4,7 @@
   "name": "nats.net",
   "full_name": "nats-io/nats.net",
   "description": "Async .NET client for NATS: pub/sub, request/reply, JetStream, KV, Object Store, Services",
+  "description_ja": "",
   "url": "https://github.com/nats-io/nats.net",
   "homepage_url": "https://nats-io.github.io/nats.net",
   "language": "C#",
@@ -26,7 +27,7 @@
   "is_fork": false,
   "created_at": "2022-06-14T15:44:43Z",
   "updated_at": "2026-04-24T09:37:15Z",
-  "pushed_at": "2026-04-23T12:58:36Z",
+  "pushed_at": "2026-04-26T15:29:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 435
+    },
+    {
+      "date": "2026-04-26",
       "stars": 435
     }
   ]

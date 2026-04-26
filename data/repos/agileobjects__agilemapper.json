@@ -4,6 +4,7 @@
   "name": "agilemapper",
   "full_name": "agileobjects/agilemapper",
   "description": "A zero-configuration, highly-configurable, unopinionated object mapper with viewable execution plans. Flattens, unflattens, deep clones, merges, updates and projects queries. .NET 3.5+ and .NET Standard 1.0+.",
+  "description_ja": "ゼロコンフィグ、高度に設定可能、思想を押し付けないオブジェクトマッパー。実行プランを可視化可能。フラット化、アンフラット化、ディープクローン、マージ、更新、クエリプロジェクションに対応。.NET 3.5+ および .NET Standard 1.0+対応",
   "url": "https://github.com/agileobjects/AgileMapper",
   "homepage_url": "",
   "language": "C#",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 463
+    },
+    {
+      "date": "2026-04-26",
       "stars": 463
     }
   ]

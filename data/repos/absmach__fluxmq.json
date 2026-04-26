@@ -4,6 +4,7 @@
   "name": "fluxmq",
   "full_name": "absmach/fluxmq",
   "description": "High-performance scalable message broker for modern event-driven applications",
+  "description_ja": "モダンなイベント駆動型アプリケーション向けの高性能スケーラブルメッセージブローカー",
   "url": "https://github.com/absmach/fluxmq",
   "homepage_url": "http://fluxmq.absmach.eu/",
   "language": "Go",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 201
+    },
+    {
+      "date": "2026-04-26",
       "stars": 201
     }
   ]

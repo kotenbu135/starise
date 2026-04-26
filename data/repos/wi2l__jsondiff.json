@@ -4,6 +4,7 @@
   "name": "jsondiff",
   "full_name": "wi2l/jsondiff",
   "description": "Compute the diff between two JSON documents as a series of JSON Patch (RFC6902) operations",
+  "description_ja": "",
   "url": "https://github.com/wI2L/jsondiff",
   "homepage_url": "https://jsondiff-play-wi2l.vercel.app",
   "language": "Go",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 623
+    },
+    {
+      "date": "2026-04-26",
       "stars": 623
     }
   ]

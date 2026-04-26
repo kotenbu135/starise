@@ -4,6 +4,7 @@
   "name": "fastapi-cli",
   "full_name": "fastapi/fastapi-cli",
   "description": "Run and manage FastAPI apps from the command line with FastAPI CLI. 🚀",
+  "description_ja": "",
   "url": "https://github.com/fastapi/fastapi-cli",
   "homepage_url": "",
   "language": "Python",
@@ -14,12 +15,12 @@
     "typer",
     "uvicorn"
   ],
-  "star_count": 596,
+  "star_count": 597,
   "fork_count": 80,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-02T18:48:32Z",
-  "updated_at": "2026-04-24T07:51:29Z",
+  "updated_at": "2026-04-26T09:18:32Z",
   "pushed_at": "2026-04-24T10:47:37Z",
   "deleted_at": "",
   "star_history": [
@@ -30,6 +31,10 @@
     {
       "date": "2026-04-25",
       "stars": 596
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 597
     }
   ]
 }

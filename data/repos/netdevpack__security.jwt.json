@@ -4,6 +4,7 @@
   "name": "security.jwt",
   "full_name": "netdevpack/security.jwt",
   "description": "Jwt Manager. Set of components to deal with Jwt Stuff. Automate your key rotating, add support for jwks_uri. Store your cryptography keys in a secure place.",
+  "description_ja": "",
   "url": "https://github.com/NetDevPack/Security.Jwt",
   "homepage_url": "",
   "language": "C#",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 296
+    },
+    {
+      "date": "2026-04-26",
       "stars": 296
     }
   ]

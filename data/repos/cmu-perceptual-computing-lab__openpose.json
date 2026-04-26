@@ -4,6 +4,7 @@
   "name": "openpose",
   "full_name": "cmu-perceptual-computing-lab/openpose",
   "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+  "description_ja": "",
   "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
   "homepage_url": "https://cmu-perceptual-computing-lab.github.io/openpose",
   "language": "C++",
@@ -30,12 +31,12 @@
     "pose-estimation",
     "real-time"
   ],
-  "star_count": 34016,
-  "fork_count": 8057,
+  "star_count": 34025,
+  "fork_count": 8056,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-04-24T14:06:31Z",
-  "updated_at": "2026-04-25T16:42:35Z",
+  "updated_at": "2026-04-26T15:10:01Z",
   "pushed_at": "2024-08-03T01:59:11Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 34016
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 34025
     }
   ]
 }

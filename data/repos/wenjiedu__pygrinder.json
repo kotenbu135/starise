@@ -4,6 +4,7 @@
   "name": "pygrinder",
   "full_name": "wenjiedu/pygrinder",
   "description": "PyGrinder: a Python toolkit for grinding data beans into the incomplete for real-world data simulation by introducing missing values with different missingness patterns, including MCAR (complete at random), MAR (at random), MNAR (not at random), sub sequence missing, and block missing",
+  "description_ja": "",
   "url": "https://github.com/WenjieDu/PyGrinder",
   "homepage_url": "https://pypots.com/ecosystem/#PyGrinder",
   "language": "Python",
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 65
+    },
+    {
+      "date": "2026-04-26",
       "stars": 65
     }
   ]

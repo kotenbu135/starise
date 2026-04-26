@@ -4,6 +4,7 @@
   "name": "kalmanfilter",
   "full_name": "tkjelectronics/kalmanfilter",
   "description": "This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope.",
+  "description_ja": "",
   "url": "https://github.com/TKJElectronics/KalmanFilter",
   "homepage_url": "http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it",
   "language": "C++",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1938
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1938
     }
   ]

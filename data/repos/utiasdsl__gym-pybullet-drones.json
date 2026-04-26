@@ -4,6 +4,7 @@
   "name": "gym-pybullet-drones",
   "full_name": "utiasdsl/gym-pybullet-drones",
   "description": "PyBullet Gymnasium environments for single and multi-agent reinforcement learning of quadcopter control",
+  "description_ja": "",
   "url": "https://github.com/utiasDSL/gym-pybullet-drones",
   "homepage_url": "https://arxiv.org/pdf/2103.02142",
   "language": "Python",
@@ -24,12 +25,12 @@
     "stable-baselines3",
     "uav"
   ],
-  "star_count": 1980,
+  "star_count": 1982,
   "fork_count": 534,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-08-10T07:38:09Z",
-  "updated_at": "2026-04-25T11:35:45Z",
+  "updated_at": "2026-04-26T08:59:12Z",
   "pushed_at": "2026-04-14T18:39:47Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 1980
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1982
     }
   ]
 }

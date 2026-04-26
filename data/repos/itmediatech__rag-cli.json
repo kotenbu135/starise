@@ -4,6 +4,7 @@
   "name": "rag-cli",
   "full_name": "itmediatech/rag-cli",
   "description": "Local Retrieval-Augmented Generation (RAG) plugin for Claude Code that combines Chroma db vector embeddings with intelligent info retrieval with Multi-Agent Framework (MAF) orchestration for context-aware development assistance. Uses Open Source / Free frameworks. Implements bridge to Claude Code CLI so no token use. And it's easy to setup.",
+  "description_ja": "",
   "url": "https://github.com/ItMeDiaTech/rag-cli",
   "homepage_url": "",
   "language": "Python",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 42
+    },
+    {
+      "date": "2026-04-26",
       "stars": 42
     }
   ]

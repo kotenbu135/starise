@@ -3,12 +3,14 @@
   "owner": "q00",
   "name": "ouroboros",
   "full_name": "q00/ouroboros",
-  "description": "Stop prompting. Start specifying.",
+  "description": "Agent OS: Stop prompting. Start specifying.",
+  "description_ja": "",
   "url": "https://github.com/Q00/ouroboros",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "agentos",
     "ai-agent",
     "claude-code",
     "codex-cli",
@@ -22,13 +24,13 @@
     "spec-driven-development",
     "workflow-automation"
   ],
-  "star_count": 2714,
+  "star_count": 2723,
   "fork_count": 250,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-14T01:14:04Z",
-  "updated_at": "2026-04-25T15:40:17Z",
-  "pushed_at": "2026-04-23T17:51:15Z",
+  "updated_at": "2026-04-26T17:35:50Z",
+  "pushed_at": "2026-04-26T17:41:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 2714
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2723
     }
   ]
 }

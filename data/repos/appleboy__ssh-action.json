@@ -4,6 +4,7 @@
   "name": "ssh-action",
   "full_name": "appleboy/ssh-action",
   "description": "GitHub Actions for executing remote ssh commands.",
+  "description_ja": "",
   "url": "https://github.com/appleboy/ssh-action",
   "homepage_url": "https://github.com/marketplace/actions/ssh-remote-commands",
   "language": "Shell",
@@ -13,12 +14,12 @@
     "ssh",
     "ssh-client"
   ],
-  "star_count": 6064,
+  "star_count": 6065,
   "fork_count": 674,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-12T02:28:18Z",
-  "updated_at": "2026-04-24T17:19:36Z",
+  "updated_at": "2026-04-25T21:29:49Z",
   "pushed_at": "2026-03-28T04:07:09Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 6064
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6065
     }
   ]
 }

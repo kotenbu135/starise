@@ -4,6 +4,7 @@
   "name": "musicbrainz-docker",
   "full_name": "metabrainz/musicbrainz-docker",
   "description": "Docker Compose project for the MusicBrainz Server with replication, search, and development setup",
+  "description_ja": "",
   "url": "https://github.com/metabrainz/musicbrainz-docker",
   "homepage_url": "https://musicbrainz.org/doc/MusicBrainz_Server/Setup",
   "language": "Shell",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 487
+    },
+    {
+      "date": "2026-04-26",
       "stars": 487
     }
   ]

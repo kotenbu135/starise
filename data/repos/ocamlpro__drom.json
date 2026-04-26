@@ -4,6 +4,7 @@
   "name": "drom",
   "full_name": "ocamlpro/drom",
   "description": "drom is a wrapper over opam/dune in an attempt to provide a cargo-like user experience. It can be used to create full OCaml projects with sphinx and odoc documentation. It has specific knowledge of Github and will generate files for Github Actions CI and Github pages.",
+  "description_ja": "",
   "url": "https://github.com/OCamlPro/drom",
   "homepage_url": "https://ocamlpro.github.io/drom",
   "language": "OCaml",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 200
+    },
+    {
+      "date": "2026-04-26",
       "stars": 200
     }
   ]

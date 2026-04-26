@@ -4,6 +4,7 @@
   "name": "dhcp",
   "full_name": "insomniacslk/dhcp",
   "description": "DHCPv6 and DHCPv4 packet library, client and server written in Go",
+  "description_ja": "",
   "url": "https://github.com/insomniacslk/dhcp",
   "homepage_url": "",
   "language": "Go",
@@ -21,12 +22,12 @@
     "go",
     "golang"
   ],
-  "star_count": 825,
+  "star_count": 826,
   "fork_count": 191,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-11-29T21:24:15Z",
-  "updated_at": "2026-04-23T00:20:30Z",
+  "updated_at": "2026-04-26T05:32:15Z",
   "pushed_at": "2026-04-07T06:09:28Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 825
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 826
     }
   ]
 }

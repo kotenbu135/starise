@@ -4,6 +4,7 @@
   "name": "lama",
   "full_name": "advimman/lama",
   "description": "🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022",
+  "description_ja": "🦙 LaMa Image Inpainting、Fourier Convolutionsを用いた解像度ロバストな大領域マスクInpainting、WACV 2022",
   "url": "https://github.com/advimman/lama",
   "homepage_url": "https://advimman.github.io/lama-project/",
   "language": "Jupyter Notebook",
@@ -28,12 +29,12 @@
     "inpainting-methods",
     "pytorch"
   ],
-  "star_count": 9894,
+  "star_count": 9900,
   "fork_count": 1045,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-30T18:27:52Z",
-  "updated_at": "2026-04-25T07:34:34Z",
+  "updated_at": "2026-04-26T16:31:03Z",
   "pushed_at": "2025-02-05T08:41:52Z",
   "deleted_at": "",
   "star_history": [
@@ -48,6 +49,10 @@
     {
       "date": "2026-04-25",
       "stars": 9894
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9900
     }
   ]
 }

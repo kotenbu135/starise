@@ -4,6 +4,7 @@
   "name": "apisix-ingress-controller",
   "full_name": "apache/apisix-ingress-controller",
   "description": "APISIX Ingress Controller for Kubernetes",
+  "description_ja": "[41] Kubernetes向けAPISIX Ingress Controller",
   "url": "https://github.com/apache/apisix-ingress-controller",
   "homepage_url": "https://apisix.apache.org/",
   "language": "Go",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1126
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1126
     }
   ]

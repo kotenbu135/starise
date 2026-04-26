@@ -4,6 +4,7 @@
   "name": "popsift",
   "full_name": "alicevision/popsift",
   "description": "PopSift is an implementation of the SIFT algorithm in CUDA.",
+  "description_ja": "[25] PopSift は CUDA による SIFT アルゴリズムの実装。",
   "url": "https://github.com/alicevision/popsift",
   "homepage_url": "https://popsift.readthedocs.io",
   "language": "Cuda",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 492
+    },
+    {
+      "date": "2026-04-26",
       "stars": 492
     }
   ]

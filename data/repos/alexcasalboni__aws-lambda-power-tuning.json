@@ -4,6 +4,7 @@
   "name": "aws-lambda-power-tuning",
   "full_name": "alexcasalboni/aws-lambda-power-tuning",
   "description": "AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Functions - and it supports three optimization strategies: cost, speed, and balanced.",
+  "description_ja": "AWS Lambda Power Tuningは、Lambda関数のメモリ/パワー設定を可視化・最適化するオープンソースツール。AWS Step Functionsを基盤に自分のAWSアカウント内で動作し、コスト・速度・バランスの3つの最適化戦略をサポート",
   "url": "https://github.com/alexcasalboni/aws-lambda-power-tuning",
   "homepage_url": "",
   "language": "JavaScript",
@@ -18,12 +19,12 @@
     "serverless",
     "stepfunctions"
   ],
-  "star_count": 5998,
+  "star_count": 5999,
   "fork_count": 413,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-03-27T15:18:12Z",
-  "updated_at": "2026-04-24T15:56:33Z",
+  "updated_at": "2026-04-26T00:36:35Z",
   "pushed_at": "2026-04-13T09:55:18Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 5998
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5999
     }
   ]
 }

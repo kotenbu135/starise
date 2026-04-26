@@ -4,6 +4,7 @@
   "name": "sql-studio",
   "full_name": "frectonz/sql-studio",
   "description": "SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]",
+  "description_ja": "",
   "url": "https://github.com/frectonz/sql-studio",
   "homepage_url": "https://sql-studio-docs.frectonz.et",
   "language": "Rust",
@@ -20,12 +21,12 @@
     "sqlite",
     "sqlite-browser"
   ],
-  "star_count": 3532,
-  "fork_count": 124,
+  "star_count": 3533,
+  "fork_count": 123,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-11T18:32:36Z",
-  "updated_at": "2026-04-22T21:42:00Z",
+  "updated_at": "2026-04-26T01:00:10Z",
   "pushed_at": "2026-03-15T20:25:56Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 3532
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3533
     }
   ]
 }

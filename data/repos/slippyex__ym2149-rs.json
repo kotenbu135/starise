@@ -4,6 +4,7 @@
   "name": "ym2149-rs",
   "full_name": "slippyex/ym2149-rs",
   "description": "Cycle-accurate YM2149 PSG emulator with real-time audio playback and visualization. Includes a Bevy plugin for easy integration into game engines and creative projects. Supports SNDH, GIST, Arkos-Tracker 2/3 \u0026 YM2-YM6 and AY formats with drag-and-drop file loading.",
+  "description_ja": "",
   "url": "https://github.com/slippyex/ym2149-rs",
   "homepage_url": "https://ym2149-rs.org",
   "language": "HTML",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

@@ -4,6 +4,7 @@
   "name": "clov-ai",
   "full_name": "alexandephilia/clov-ai",
   "description": "Context Limiter \u0026 Output Vetter for context bloat. It is a highly specialized, structure-aware JSON built specifically to intercept and compress MCP responses before they annihilate your LLM's context window.",
+  "description_ja": "コンテキスト肥大化対策の Context Limiter \u0026 Output Vetter。MCP レスポンスを LLM のコンテキストウィンドウを破壊する前に傍受・圧縮するために構築された、構造認識型の高度に特化した JSON",
   "url": "https://github.com/alexandephilia/clov-ai",
   "homepage_url": "",
   "language": "Rust",
@@ -46,6 +47,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 34
+    },
+    {
+      "date": "2026-04-26",
       "stars": 34
     }
   ]

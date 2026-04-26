@@ -4,6 +4,7 @@
   "name": "repomind",
   "full_name": "403errors/repomind",
   "description": "An open-source, AI-powered application using Agentic CAG to chat with any public GitHub repository or developer profile, offering deep code analysis, visual architecture maps and security audits",
+  "description_ja": "Agentic CAGを活用し、任意の公開GitHubリポジトリや開発者プロファイルとチャットできるオープンソースAI搭載アプリ。深いコード解析、ビジュアルアーキテクチャマップ、セキュリティ監査を提供",
   "url": "https://github.com/403errors/repomind",
   "homepage_url": "https://repomind.in",
   "language": "TypeScript",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 241
+    },
+    {
+      "date": "2026-04-26",
       "stars": 241
     }
   ]

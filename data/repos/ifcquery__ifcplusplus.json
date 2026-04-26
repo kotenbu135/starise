@@ -4,17 +4,18 @@
   "name": "ifcplusplus",
   "full_name": "ifcquery/ifcplusplus",
   "description": "IfcPlusPlus is an open source C++ class model, as well as a reader and writer for IFC files in STEP format. Features: Easy and efficient memory management using smart pointers. Parallel reader for very fast parsing on multi-core CPU's. Additionally, there's a simple IFC viewer application, using Qt and OpenSceneGraph. It can be used as starting point for all kinds of applications around the open building model standard IFC.",
+  "description_ja": "",
   "url": "https://github.com/ifcquery/ifcplusplus",
   "homepage_url": "http://www.ifcquery.com",
   "language": "C++",
   "license": "MIT",
   "topics": [],
-  "star_count": 650,
+  "star_count": 649,
   "fork_count": 225,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-04-01T13:53:19Z",
-  "updated_at": "2026-04-24T16:05:09Z",
+  "updated_at": "2026-04-25T19:22:59Z",
   "pushed_at": "2025-12-16T11:02:10Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 650
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 649
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "home-assistant-futurehome",
   "full_name": "adrianjagielak/home-assistant-futurehome",
   "description": "Futurehome add-on for Home Assistant. Designed to be a complete drop-in replacement for the official Futurehome app, with support for all device types compatible with the Futurehome hub. See the FAQ for more details.",
+  "description_ja": "Home Assistant向けFuturehomeアドオン。公式Futurehomeアプリの完全な代替として設計されており、Futurehomeハブ対応の全デバイスタイプをサポート。詳細はFAQ参照。",
   "url": "https://github.com/adrianjagielak/home-assistant-futurehome",
   "homepage_url": "",
   "language": "TypeScript",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 298
+    },
+    {
+      "date": "2026-04-26",
       "stars": 298
     }
   ]

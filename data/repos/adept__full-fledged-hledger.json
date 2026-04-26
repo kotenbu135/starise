@@ -4,13 +4,14 @@
   "name": "full-fledged-hledger",
   "full_name": "adept/full-fledged-hledger",
   "description": "Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports",
+  "description_ja": "[50] 複数年ファイル、複数ソースのインポート、各種自動生成レポートを含む Hledger セットアップのチュートリアル",
   "url": "https://github.com/adept/full-fledged-hledger",
   "homepage_url": "https://github.com/adept/full-fledged-hledger/wiki",
   "language": "Haskell",
   "license": "BSD-3-Clause",
   "topics": [],
   "star_count": 557,
-  "fork_count": 37,
+  "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-01T23:31:11Z",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 557
+    },
+    {
+      "date": "2026-04-26",
       "stars": 557
     }
   ]

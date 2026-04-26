@@ -4,6 +4,7 @@
   "name": "cvat",
   "full_name": "cvat-ai/cvat",
   "description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+  "description_ja": "",
   "url": "https://github.com/cvat-ai/cvat",
   "homepage_url": "https://cvat.ai",
   "language": "Python",
@@ -30,12 +31,12 @@
     "tensorflow",
     "video-annotation"
   ],
-  "star_count": 15710,
-  "fork_count": 3658,
+  "star_count": 15712,
+  "fork_count": 3657,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-06-29T14:02:45Z",
-  "updated_at": "2026-04-25T14:37:38Z",
+  "updated_at": "2026-04-26T14:16:17Z",
   "pushed_at": "2026-04-24T23:29:16Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 15710
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 15712
     }
   ]
 }

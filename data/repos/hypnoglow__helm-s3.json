@@ -4,6 +4,7 @@
   "name": "helm-s3",
   "full_name": "hypnoglow/helm-s3",
   "description": "⎈ Helm plugin that adds support for AWS S3 as a chart repository.",
+  "description_ja": "",
   "url": "https://github.com/hypnoglow/helm-s3",
   "homepage_url": "https://helm-s3.hypnoglow.io",
   "language": "Go",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 610
+    },
+    {
+      "date": "2026-04-26",
       "stars": 610
     }
   ]

@@ -4,6 +4,7 @@
   "name": "docker-galaxy",
   "full_name": "bgruening/docker-galaxy",
   "description": ":whale::bar_chart::books: Docker Images tracking the stable Galaxy releases.",
+  "description_ja": "",
   "url": "https://github.com/bgruening/docker-galaxy",
   "homepage_url": "http://bgruening.github.io/docker-galaxy",
   "language": "Shell",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 238
+    },
+    {
+      "date": "2026-04-26",
       "stars": 238
     }
   ]

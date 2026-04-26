@@ -4,6 +4,7 @@
   "name": "config-file-validator",
   "full_name": "boeing/config-file-validator",
   "description": "Cross-platform CLI tool to validate configuration files (JSON, YAML, TOML, XML, INI, HCL, ENV, Properties, CSV, and more). Catch errors in syntax and schema before deployment. Written in Go.",
+  "description_ja": "",
   "url": "https://github.com/Boeing/config-file-validator",
   "homepage_url": "https://boeing.github.io/config-file-validator/",
   "language": "Go",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 501
+    },
+    {
+      "date": "2026-04-26",
       "stars": 501
     }
   ]

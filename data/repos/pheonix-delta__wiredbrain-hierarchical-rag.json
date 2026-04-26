@@ -4,6 +4,7 @@
   "name": "wiredbrain-hierarchical-rag",
   "full_name": "pheonix-delta/wiredbrain-hierarchical-rag",
   "description": "Hierarchical RAG architecture scaling to 693K chunks on consumer hardware (4GB VRAM). Features 3-address routing, hybrid vector+graph fusion, and SetFit classification.",
+  "description_ja": "",
   "url": "https://github.com/pheonix-delta/WiredBrain-Hierarchical-Rag",
   "homepage_url": "",
   "language": "Python",
@@ -48,6 +49,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 37
+    },
+    {
+      "date": "2026-04-26",
       "stars": 37
     }
   ]

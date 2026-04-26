@@ -4,6 +4,7 @@
   "name": "autobuildimmortalwrt",
   "full_name": "wukongdaily/autobuildimmortalwrt",
   "description": "它是一个工作流。可快速构建 可选docker、可选自定义固件大小的 immortalWrt。它相当于一个云端的ImageBuilder,属于构建的范畴,不算是编译。目前也支持第三方插件的按需集成。",
+  "description_ja": "",
   "url": "https://github.com/wukongdaily/AutoBuildImmortalWrt",
   "homepage_url": "https://wkdaily.cpolar.cn/archives/40",
   "language": "Shell",
@@ -18,12 +19,12 @@
     "rootfs",
     "rootsize"
   ],
-  "star_count": 2264,
-  "fork_count": 7910,
+  "star_count": 2273,
+  "fork_count": 7919,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-31T07:44:02Z",
-  "updated_at": "2026-04-25T07:28:28Z",
+  "updated_at": "2026-04-26T17:14:14Z",
   "pushed_at": "2026-04-25T07:28:23Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 2264
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2273
     }
   ]
 }

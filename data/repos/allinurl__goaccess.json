@@ -4,6 +4,7 @@
   "name": "goaccess",
   "full_name": "allinurl/goaccess",
   "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+  "description_ja": "[20] GoAccess は *nix のターミナルまたはブラウザで動作する、リアルタイム Web ログ解析・インタラクティブビューア。",
   "url": "https://github.com/allinurl/goaccess",
   "homepage_url": "https://goaccess.io",
   "language": "C",
@@ -30,12 +31,12 @@
     "web-analytics",
     "webserver"
   ],
-  "star_count": 20451,
+  "star_count": 20453,
   "fork_count": 1173,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-07-14T03:42:08Z",
-  "updated_at": "2026-04-25T07:45:44Z",
+  "updated_at": "2026-04-26T15:59:51Z",
   "pushed_at": "2026-04-23T22:31:12Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 20451
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 20453
     }
   ]
 }

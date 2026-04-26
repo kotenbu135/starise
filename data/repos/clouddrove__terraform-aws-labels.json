@@ -4,6 +4,7 @@
   "name": "terraform-aws-labels",
   "full_name": "clouddrove/terraform-aws-labels",
   "description": "This terraform module is designed to generate consistent label names and tags for resources. You can use terraform-labels to implement a strict naming convention.",
+  "description_ja": "",
   "url": "https://github.com/clouddrove/terraform-aws-labels",
   "homepage_url": "",
   "language": "HCL",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 43
+    },
+    {
+      "date": "2026-04-26",
       "stars": 43
     }
   ]

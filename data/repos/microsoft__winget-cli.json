@@ -4,6 +4,7 @@
   "name": "winget-cli",
   "full_name": "microsoft/winget-cli",
   "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+  "description_ja": "",
   "url": "https://github.com/microsoft/winget-cli",
   "homepage_url": "https://learn.microsoft.com/windows/package-manager/",
   "language": "C++",
@@ -14,12 +15,12 @@
     "windows",
     "winget"
   ],
-  "star_count": 25759,
-  "fork_count": 1722,
+  "star_count": 25765,
+  "fork_count": 1724,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-07-16T22:16:49Z",
-  "updated_at": "2026-04-25T17:00:08Z",
+  "updated_at": "2026-04-26T13:43:54Z",
   "pushed_at": "2026-04-24T22:09:18Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 25759
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 25765
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "tropical-gemm",
   "full_name": "tensorbfs/tropical-gemm",
   "description": "High-performance tropical matrix multiplication in Rust with SIMD and CUDA backends",
+  "description_ja": "",
   "url": "https://github.com/TensorBFS/tropical-gemm",
   "homepage_url": "https://tensorbfs.github.io/tropical-gemm/",
   "language": "Rust",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

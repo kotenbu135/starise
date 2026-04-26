@@ -4,6 +4,7 @@
   "name": "justtrustme",
   "full_name": "fuzion24/justtrustme",
   "description": "An xposed module that disables SSL certificate checking for the purposes of auditing an app with cert pinning",
+  "description_ja": "",
   "url": "https://github.com/Fuzion24/JustTrustMe",
   "homepage_url": "",
   "language": "Java",
@@ -14,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-07-24T23:45:05Z",
-  "updated_at": "2026-04-25T11:10:15Z",
+  "updated_at": "2026-04-26T11:27:18Z",
   "pushed_at": "2024-09-02T19:03:26Z",
   "deleted_at": "",
   "star_history": [
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5303
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5303
     }
   ]

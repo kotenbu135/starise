@@ -4,6 +4,7 @@
   "name": "luci-app-unblockmusic",
   "full_name": "maxlicheng/luci-app-unblockmusic",
   "description": "用于解锁网易云灰色歌曲的OpenWRT/LEDE路由器插件 (openwrt/lede luci support for unblock neteasecloudmusic)",
+  "description_ja": "",
   "url": "https://github.com/maxlicheng/luci-app-unblockmusic",
   "homepage_url": "",
   "language": "Shell",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1500
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1500
     }
   ]

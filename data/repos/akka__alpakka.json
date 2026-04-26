@@ -4,6 +4,7 @@
   "name": "alpakka",
   "full_name": "akka/alpakka",
   "description": "Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+  "description_ja": "AlpakkaはReactive StreamsとAkkaに基づく、Java/Scala向けのリアクティブなエンタープライズ統合ライブラリ",
   "url": "https://github.com/akka/alpakka",
   "homepage_url": "https://doc.akka.io/libraries/alpakka/current/",
   "language": "Scala",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1271
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1271
     }
   ]

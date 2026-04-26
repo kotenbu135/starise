@@ -4,6 +4,7 @@
   "name": "tinypki",
   "full_name": "kakahuote1/tinypki",
   "description": "A high-performance, lightweight C11 PKI core framework for IoT and edge computing. Features ECQV implicit certificates, Merkle-tree revocation proofs, and BFT state synchronization with SM2/SM3/SM4 cryptography.",
+  "description_ja": "",
   "url": "https://github.com/kakahuote1/TinyPKI",
   "homepage_url": "",
   "language": "C",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 125
+    },
+    {
+      "date": "2026-04-26",
       "stars": 125
     }
   ]

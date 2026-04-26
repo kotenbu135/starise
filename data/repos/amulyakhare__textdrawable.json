@@ -4,6 +4,7 @@
   "name": "textdrawable",
   "full_name": "amulyakhare/textdrawable",
   "description": "This light-weight library provides images with letter/text like the Gmail app. It extends the Drawable class thus can be used with existing/custom/network ImageView classes. Also included is a fluent interface for creating drawables and a customizable ColorGenerator.",
+  "description_ja": "Gmail アプリ風の文字入り画像を提供する軽量ライブラリ。Drawable クラスを拡張しているため既存・カスタム・ネットワーク ImageView クラスでも利用可能。Drawable 生成用の流暢なインターフェースとカスタマイズ可能な ColorGenerator も同梱。",
   "url": "https://github.com/amulyakhare/TextDrawable",
   "homepage_url": "",
   "language": "Java",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3145
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3145
     }
   ]

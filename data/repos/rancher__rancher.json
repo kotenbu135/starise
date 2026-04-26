@@ -4,6 +4,7 @@
   "name": "rancher",
   "full_name": "rancher/rancher",
   "description": "Complete container management platform",
+  "description_ja": "",
   "url": "https://github.com/rancher/rancher",
   "homepage_url": "http://rancher.com",
   "language": "Go",
@@ -16,12 +17,12 @@
     "orchestration",
     "rancher"
   ],
-  "star_count": 25524,
-  "fork_count": 3181,
+  "star_count": 25525,
+  "fork_count": 3180,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-11-07T20:49:31Z",
-  "updated_at": "2026-04-25T11:59:18Z",
+  "updated_at": "2026-04-26T15:53:11Z",
   "pushed_at": "2026-04-25T12:29:27Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 25524
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 25525
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "meross-homeassistant",
   "full_name": "albertogeniola/meross-homeassistant",
   "description": "Custom component that leverages the Meross IoT library to integrate with Homeassistant",
+  "description_ja": "Meross IoT ライブラリを活用して Home Assistant と連携するカスタムコンポーネント",
   "url": "https://github.com/albertogeniola/meross-homeassistant",
   "homepage_url": "",
   "language": "Python",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 845
+    },
+    {
+      "date": "2026-04-26",
       "stars": 845
     }
   ]

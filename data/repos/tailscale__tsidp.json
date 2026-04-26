@@ -4,6 +4,7 @@
   "name": "tsidp",
   "full_name": "tailscale/tsidp",
   "description": "A simple OIDC / OAuth Identity Provider (IdP) server for your tailnet.",
+  "description_ja": "",
   "url": "https://github.com/tailscale/tsidp",
   "homepage_url": "",
   "language": "Go",
@@ -16,12 +17,12 @@
     "oidc",
     "tailscale"
   ],
-  "star_count": 570,
-  "fork_count": 45,
+  "star_count": 571,
+  "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-05T16:49:35Z",
-  "updated_at": "2026-04-25T09:28:24Z",
+  "updated_at": "2026-04-26T15:18:59Z",
   "pushed_at": "2026-04-23T14:08:13Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 570
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 571
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "lua-resty-lock",
   "full_name": "openresty/lua-resty-lock",
   "description": "Simple nonblocking lock API for ngx_lua based on shared memory dictionaries",
+  "description_ja": "",
   "url": "https://github.com/openresty/lua-resty-lock",
   "homepage_url": "",
   "language": "Lua",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 320
+    },
+    {
+      "date": "2026-04-26",
       "stars": 320
     }
   ]

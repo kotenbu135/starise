@@ -4,6 +4,7 @@
   "name": "gameserver-ingress-controller",
   "full_name": "octops/gameserver-ingress-controller",
   "description": "Automatic Ingress configuration for Game Servers managed by Agones",
+  "description_ja": "",
   "url": "https://github.com/Octops/gameserver-ingress-controller",
   "homepage_url": "https://octops.io",
   "language": "Go",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 77
+    },
+    {
+      "date": "2026-04-26",
       "stars": 77
     }
   ]

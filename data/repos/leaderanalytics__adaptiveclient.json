@@ -4,6 +4,7 @@
   "name": "adaptiveclient",
   "full_name": "leaderanalytics/adaptiveclient",
   "description": "Library and pattern for creating a scalable, loosely coupled service layer. Build interdependent services that are granular and testable. Inject a single client that allows the application to access the entire service layer. Provision services across multiple providers and transports with almost zero application infrastructure.",
+  "description_ja": "",
   "url": "https://github.com/leaderanalytics/AdaptiveClient",
   "homepage_url": "",
   "language": "C#",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

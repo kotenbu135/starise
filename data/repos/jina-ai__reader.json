@@ -4,6 +4,7 @@
   "name": "reader",
   "full_name": "jina-ai/reader",
   "description": "Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/",
+  "description_ja": "",
   "url": "https://github.com/jina-ai/reader",
   "homepage_url": "https://jina.ai/reader",
   "language": "TypeScript",
@@ -12,12 +13,12 @@
     "llm",
     "proxy"
   ],
-  "star_count": 10669,
-  "fork_count": 798,
+  "star_count": 10680,
+  "fork_count": 799,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-10T04:05:06Z",
-  "updated_at": "2026-04-25T17:20:19Z",
+  "updated_at": "2026-04-26T16:04:20Z",
   "pushed_at": "2026-04-16T10:02:36Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 10669
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 10680
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "slack-plugin",
   "full_name": "jenkinsci/slack-plugin",
   "description": "A Jenkins plugin for posting notifications to a Slack channel",
+  "description_ja": "",
   "url": "https://github.com/jenkinsci/slack-plugin",
   "homepage_url": "https://plugins.jenkins.io/slack/",
   "language": "Java",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 670
+    },
+    {
+      "date": "2026-04-26",
       "stars": 670
     }
   ]

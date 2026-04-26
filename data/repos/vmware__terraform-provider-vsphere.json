@@ -4,6 +4,7 @@
   "name": "terraform-provider-vsphere",
   "full_name": "vmware/terraform-provider-vsphere",
   "description": "Terraform Provider for VMware vSphere",
+  "description_ja": "",
   "url": "https://github.com/vmware/terraform-provider-vsphere",
   "homepage_url": "https://registry.terraform.io/providers/vmware/vsphere/",
   "language": "Go",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 671
+    },
+    {
+      "date": "2026-04-26",
       "stars": 671
     }
   ]

@@ -3,11 +3,12 @@
   "owner": "thysrael",
   "name": "horizon",
   "full_name": "thysrael/horizon",
-  "description": "📡 Your own AI-powered news radar. Generates daily briefings in English \u0026 Chinese. | 构建你专属的 AI 新闻雷达",
+  "description": "📡 Your own AI-powered news radar. Generates daily briefings in English \u0026 Chinese. | 用 AI 构建你专属的新闻雷达",
+  "description_ja": "",
   "url": "https://github.com/Thysrael/Horizon",
   "homepage_url": "https://www.horizon1123.top",
   "language": "Python",
-  "license": "",
+  "license": "MIT",
   "topics": [
     "aggregator",
     "feishu-bot",
@@ -18,13 +19,13 @@
     "python",
     "webhook"
   ],
-  "star_count": 1080,
-  "fork_count": 183,
+  "star_count": 1088,
+  "fork_count": 184,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-20T08:22:45Z",
-  "updated_at": "2026-04-25T12:32:19Z",
-  "pushed_at": "2026-04-25T12:32:25Z",
+  "updated_at": "2026-04-26T16:29:29Z",
+  "pushed_at": "2026-04-26T13:13:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 1080
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1088
     }
   ]
 }

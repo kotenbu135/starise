@@ -4,6 +4,7 @@
   "name": "aws-otel-collector",
   "full_name": "aws-observability/aws-otel-collector",
   "description": "AWS Distro for OpenTelemetry Collector (see ADOT Roadmap at https://github.com/orgs/aws-observability/projects/4)",
+  "description_ja": "",
   "url": "https://github.com/aws-observability/aws-otel-collector",
   "homepage_url": "https://aws-otel.github.io/",
   "language": "Go",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 737
+    },
+    {
+      "date": "2026-04-26",
       "stars": 737
     }
   ]

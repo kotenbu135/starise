@@ -4,6 +4,7 @@
   "name": "couchdb-docker",
   "full_name": "apache/couchdb-docker",
   "description": "Semi-official Apache CouchDB Docker images",
+  "description_ja": "準公式のApache CouchDB Dockerイメージ",
   "url": "https://github.com/apache/couchdb-docker",
   "homepage_url": "https://github.com/apache/couchdb-docker",
   "language": "Dockerfile",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 285
+    },
+    {
+      "date": "2026-04-26",
       "stars": 285
     }
   ]

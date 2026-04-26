@@ -4,6 +4,7 @@
   "name": "syncvault",
   "full_name": "dhzdhd/syncvault",
   "description": "A cross-platform (Windows, Linux, MacOS, Android) app to sync your local files in the background with the drive of your choice using RClone",
+  "description_ja": "",
   "url": "https://github.com/dhzdhd/SyncVault",
   "homepage_url": "https://dhzdhd.github.io/SyncVault/",
   "language": "Dart",
@@ -21,12 +22,12 @@
     "rclone-client",
     "sync"
   ],
-  "star_count": 55,
+  "star_count": 56,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-18T07:59:45Z",
-  "updated_at": "2026-04-02T00:32:56Z",
+  "updated_at": "2026-04-26T03:10:05Z",
   "pushed_at": "2026-03-28T05:35:49Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 55
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 56
     }
   ]
 }

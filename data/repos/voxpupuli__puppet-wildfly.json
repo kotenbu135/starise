@@ -4,6 +4,7 @@
   "name": "puppet-wildfly",
   "full_name": "voxpupuli/puppet-wildfly",
   "description": "Puppet module to install, configure and manage Wildfly (8/9/10+), JBoss EAP (6.1+/7.0+) and some Wildfly based products like apiman, Keycloak and Infinispan.",
+  "description_ja": "",
   "url": "https://github.com/voxpupuli/puppet-wildfly",
   "homepage_url": "",
   "language": "Ruby",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 29
+    },
+    {
+      "date": "2026-04-26",
       "stars": 29
     }
   ]

@@ -4,6 +4,7 @@
   "name": "chatterbox-tts-api",
   "full_name": "travisvn/chatterbox-tts-api",
   "description": "Local, OpenAI-compatible text-to-speech (TTS) API using Chatterbox, enabling users to generate voice cloned speech anywhere the OpenAI API is used (e.g. Open WebUI, AnythingLLM, etc.)",
+  "description_ja": "",
   "url": "https://github.com/travisvn/chatterbox-tts-api",
   "homepage_url": "https://chatterboxtts.com",
   "language": "Python",
@@ -29,12 +30,12 @@
     "voice-clone",
     "voice-cloning"
   ],
-  "star_count": 585,
+  "star_count": 587,
   "fork_count": 136,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-31T20:44:03Z",
-  "updated_at": "2026-04-25T04:54:45Z",
+  "updated_at": "2026-04-26T05:27:40Z",
   "pushed_at": "2025-12-23T01:05:47Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 585
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 587
     }
   ]
 }

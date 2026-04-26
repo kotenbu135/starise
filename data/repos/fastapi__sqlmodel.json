@@ -4,6 +4,7 @@
   "name": "sqlmodel",
   "full_name": "fastapi/sqlmodel",
   "description": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
+  "description_ja": "",
   "url": "https://github.com/fastapi/sqlmodel",
   "homepage_url": "https://sqlmodel.tiangolo.com/",
   "language": "Python",
@@ -17,12 +18,12 @@
     "sql",
     "sqlalchemy"
   ],
-  "star_count": 17867,
+  "star_count": 17868,
   "fork_count": 844,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-24T14:26:53Z",
-  "updated_at": "2026-04-25T02:48:14Z",
+  "updated_at": "2026-04-26T08:22:38Z",
   "pushed_at": "2026-04-24T22:06:19Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 17867
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 17868
     }
   ]
 }

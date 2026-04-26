@@ -4,6 +4,7 @@
   "name": "nodejs-argo",
   "full_name": "eooce/nodejs-argo",
   "description": "nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏玩具平台设计。它支持多种代理协议（VLESS、VMess、Trojan等），并集成了哪吒探针功能，支持npm install nodejs-argo一键安装包",
+  "description_ja": "",
   "url": "https://github.com/eooce/nodejs-argo",
   "homepage_url": "https://www.npmjs.com/package/nodejs-argo",
   "language": "JavaScript",
@@ -17,12 +18,12 @@
     "vmess-ws-tls",
     "xray"
   ],
-  "star_count": 7068,
-  "fork_count": 11043,
+  "star_count": 7070,
+  "fork_count": 11045,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-27T08:48:34Z",
-  "updated_at": "2026-04-25T15:17:22Z",
+  "updated_at": "2026-04-26T04:55:17Z",
   "pushed_at": "2026-03-21T05:33:49Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 7068
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 7070
     }
   ]
 }

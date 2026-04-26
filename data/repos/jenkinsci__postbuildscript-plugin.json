@@ -4,6 +4,7 @@
   "name": "postbuildscript-plugin",
   "full_name": "jenkinsci/postbuildscript-plugin",
   "description": "The PostBuildScript Jenkins plugin lets you execute a set of scripts at the end of the build depending on the build status.",
+  "description_ja": "",
   "url": "https://github.com/jenkinsci/postbuildscript-plugin",
   "homepage_url": "https://plugins.jenkins.io/postbuildscript",
   "language": "Java",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 47
+    },
+    {
+      "date": "2026-04-26",
       "stars": 47
     }
   ]

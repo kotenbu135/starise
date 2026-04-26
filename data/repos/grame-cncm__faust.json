@@ -4,6 +4,7 @@
   "name": "faust",
   "full_name": "grame-cncm/faust",
   "description": "Functional programming language for signal processing and sound synthesis",
+  "description_ja": "",
   "url": "https://github.com/grame-cncm/faust",
   "homepage_url": "http://faust.grame.fr",
   "language": "C++",
@@ -30,11 +31,11 @@
     "wasm"
   ],
   "star_count": 3027,
-  "fork_count": 407,
+  "fork_count": 408,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-11-05T13:09:11Z",
-  "updated_at": "2026-04-25T04:35:18Z",
+  "updated_at": "2026-04-26T10:26:22Z",
   "pushed_at": "2026-04-12T18:02:25Z",
   "deleted_at": "",
   "star_history": [
@@ -48,6 +49,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3027
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3027
     }
   ]

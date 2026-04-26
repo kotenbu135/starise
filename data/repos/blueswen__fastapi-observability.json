@@ -4,6 +4,7 @@
   "name": "fastapi-observability",
   "full_name": "blueswen/fastapi-observability",
   "description": "Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry.",
+  "description_ja": "",
   "url": "https://github.com/blueswen/fastapi-observability",
   "homepage_url": "",
   "language": "Python",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1089
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1089
     }
   ]

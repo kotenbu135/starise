@@ -4,6 +4,7 @@
   "name": "fabric-private-chaincode",
   "full_name": "hyperledger/fabric-private-chaincode",
   "description": "FPC enables Confidential Chaincode Execution for Hyperledger Fabric using Intel SGX.",
+  "description_ja": "",
   "url": "https://github.com/hyperledger/fabric-private-chaincode",
   "homepage_url": "",
   "language": "Go",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 175
+    },
+    {
+      "date": "2026-04-26",
       "stars": 175
     }
   ]

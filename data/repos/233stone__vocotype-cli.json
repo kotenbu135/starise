@@ -4,6 +4,7 @@
   "name": "vocotype-cli",
   "full_name": "233stone/vocotype-cli",
   "description": "VocoType 是一款运行在本地端侧的隐私安全语音输入工具，通过快捷键即可将语音实时转换为文字并自动输入到当前应用。支持语音转文字MCP、AI 优化文本、自定义替换词典、录音视频转文字等功能，让语音输入更高效、更安全。",
+  "description_ja": "[43] VocoType はローカル端末で動作するプライバシー重視の音声入力ツール。ショートカットキー一発で音声をリアルタイムにテキスト変換し、現在のアプリへ自動入力。音声→テキスト MCP、AI によるテキスト最適化、カスタム置換辞書、録音／動画の文字起こしなどに対応し、より効率的かつ安全な音声入力を実現",
   "url": "https://github.com/233stone/vocotype-cli",
   "homepage_url": "https://vocotype.com",
   "language": "Python",
@@ -12,12 +13,12 @@
     "asr",
     "funasr"
   ],
-  "star_count": 602,
-  "fork_count": 66,
+  "star_count": 603,
+  "fork_count": 67,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-13T09:52:12Z",
-  "updated_at": "2026-04-25T05:14:59Z",
+  "updated_at": "2026-04-26T07:56:24Z",
   "pushed_at": "2026-04-18T16:19:40Z",
   "deleted_at": "",
   "star_history": [
@@ -28,6 +29,10 @@
     {
       "date": "2026-04-25",
       "stars": 602
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 603
     }
   ]
 }

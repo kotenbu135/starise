@@ -4,6 +4,7 @@
   "name": "mmap-sync",
   "full_name": "cloudflare/mmap-sync",
   "description": "Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization.",
+  "description_ja": "",
   "url": "https://github.com/cloudflare/mmap-sync",
   "homepage_url": "https://crates.io/crates/mmap-sync",
   "language": "Rust",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 626
+    },
+    {
+      "date": "2026-04-26",
       "stars": 626
     }
   ]

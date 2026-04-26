@@ -4,6 +4,7 @@
   "name": "mockery",
   "full_name": "mockery/mockery",
   "description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).",
+  "description_ja": "",
   "url": "https://github.com/mockery/mockery",
   "homepage_url": "http://docs.mockery.io/en/stable/",
   "language": "PHP",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 10729
+    },
+    {
+      "date": "2026-04-26",
       "stars": 10729
     }
   ]

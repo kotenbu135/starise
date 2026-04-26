@@ -4,6 +4,7 @@
   "name": "pipeline_etl_weather_data_tutorial_youtube",
   "full_name": "vbluuiza/pipeline_etl_weather_data_tutorial_youtube",
   "description": "📄 Tutorial prático de Engenharia de Dados para YouTube. Pipeline ETL completo com Airflow, Python e PostgreSQL que coleta dados meteorológicos de São Paulo, aplica transformações e persiste em banco de dados. Containerizado com Docker para fácil reprodução. @vbluuiza",
+  "description_ja": "",
   "url": "https://github.com/vbluuiza/pipeline_etl_weather_data_tutorial_youtube",
   "homepage_url": "https://www.youtube.com/watch?v=I8qPqbXQBDU",
   "language": "Python",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 30
+    },
+    {
+      "date": "2026-04-26",
       "stars": 30
     }
   ]

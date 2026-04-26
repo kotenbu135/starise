@@ -4,6 +4,7 @@
   "name": "jetson-inference",
   "full_name": "dusty-nv/jetson-inference",
   "description": "Hello AI World guide to deploying deep-learning inference networks and deep vision primitives with TensorRT and NVIDIA Jetson.",
+  "description_ja": "",
   "url": "https://github.com/dusty-nv/jetson-inference",
   "homepage_url": "https://developer.nvidia.com/embedded/twodaystoademo",
   "language": "C++",
@@ -30,12 +31,12 @@
     "tensorrt",
     "video-analytics"
   ],
-  "star_count": 8823,
+  "star_count": 8826,
   "fork_count": 3097,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-07-30T19:56:47Z",
-  "updated_at": "2026-04-24T12:37:11Z",
+  "updated_at": "2026-04-26T13:32:54Z",
   "pushed_at": "2025-10-16T17:34:47Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 8823
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8826
     }
   ]
 }

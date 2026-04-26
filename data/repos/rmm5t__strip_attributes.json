@@ -4,6 +4,7 @@
   "name": "strip_attributes",
   "full_name": "rmm5t/strip_attributes",
   "description": ":hocho: An ActiveModel extension that automatically strips all attributes of leading and trailing whitespace before validation. If the attribute is blank, it strips the value to nil.",
+  "description_ja": "",
   "url": "https://github.com/rmm5t/strip_attributes",
   "homepage_url": "https://rubygems.org/gems/strip_attributes",
   "language": "Ruby",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 638
+    },
+    {
+      "date": "2026-04-26",
       "stars": 638
     }
   ]

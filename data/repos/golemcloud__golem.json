@@ -4,6 +4,7 @@
   "name": "golem",
   "full_name": "golemcloud/golem",
   "description": "Golem Cloud is the agent-native platform for building AI agents and distributed applications that never lose state, never duplicate work, and never require you to build infrastructure.",
+  "description_ja": "",
   "url": "https://github.com/golemcloud/golem",
   "homepage_url": "https://learn.golem.cloud/",
   "language": "Rust",
@@ -26,12 +27,12 @@
     "wasm",
     "wasm-component"
   ],
-  "star_count": 990,
+  "star_count": 989,
   "fork_count": 191,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-24T08:54:54Z",
-  "updated_at": "2026-04-25T08:45:43Z",
+  "updated_at": "2026-04-26T15:16:44Z",
   "pushed_at": "2026-04-24T18:31:24Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 990
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 989
     }
   ]
 }

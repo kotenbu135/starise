@@ -4,6 +4,7 @@
   "name": "gdbgui",
   "full_name": "cs01/gdbgui",
   "description": "Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.",
+  "description_ja": "",
   "url": "https://github.com/cs01/gdbgui",
   "homepage_url": "https://gdbgui.com",
   "language": "TypeScript",
@@ -26,12 +27,12 @@
     "rust",
     "websockets"
   ],
-  "star_count": 10328,
+  "star_count": 10327,
   "fork_count": 521,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-10-27T03:19:25Z",
-  "updated_at": "2026-04-23T23:15:16Z",
+  "updated_at": "2026-04-26T09:13:50Z",
   "pushed_at": "2025-06-29T22:40:49Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 10328
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 10327
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "telegram_restricted_media_downloader",
   "full_name": "gentlesprite/telegram_restricted_media_downloader",
   "description": "💎💎💎支持断点续传的Telegram下载器💎💎💎支持向机器人发送链接下载、转发、监听下载、监听转发、上传、下载后上传。电报任意群组中不可下载的内容，提供媒体的链接即可下载对应媒体。Telegram API (Pyrogram) - Telegram downloader (TRMD): Supports resumable downloads and uploads. Bot supports commands/links for downloading, forwarding, listening, ​​uploading, and upload-after-download​​ of non-downloadable Telegram content via API.",
+  "description_ja": "",
   "url": "https://github.com/Gentlesprite/Telegram_Restricted_Media_Downloader",
   "homepage_url": "https://t.me/RestrictedMediaDownloader",
   "language": "Python",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 295
+    },
+    {
+      "date": "2026-04-26",
       "stars": 295
     }
   ]

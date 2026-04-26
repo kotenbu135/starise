@@ -4,6 +4,7 @@
   "name": "clustermq",
   "full_name": "mschubert/clustermq",
   "description": "R package to send function calls as jobs on LSF, SGE, Slurm, PBS/Torque, or each via SSH",
+  "description_ja": "",
   "url": "https://github.com/mschubert/clustermq",
   "homepage_url": "https://mschubert.github.io/clustermq/",
   "language": "R",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 153
+    },
+    {
+      "date": "2026-04-26",
       "stars": 153
     }
   ]

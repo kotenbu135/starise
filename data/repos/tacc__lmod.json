@@ -4,6 +4,7 @@
   "name": "lmod",
   "full_name": "tacc/lmod",
   "description": "Lmod: An Environment Module System based on Lua, Reads TCL Modules, Supports a Software Hierarchy",
+  "description_ja": "",
   "url": "https://github.com/TACC/Lmod",
   "homepage_url": "http://lmod.readthedocs.org",
   "language": "Lua",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 591
+    },
+    {
+      "date": "2026-04-26",
       "stars": 591
     }
   ]

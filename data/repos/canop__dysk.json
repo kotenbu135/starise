@@ -4,6 +4,7 @@
   "name": "dysk",
   "full_name": "canop/dysk",
   "description": "A linux utility to get information on filesystems, like df but better",
+  "description_ja": "",
   "url": "https://github.com/Canop/dysk",
   "homepage_url": "https://dystroy.org/dysk",
   "language": "Rust",
@@ -14,12 +15,12 @@
     "linux",
     "rust"
   ],
-  "star_count": 2754,
+  "star_count": 2756,
   "fork_count": 54,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-09T20:42:49Z",
-  "updated_at": "2026-04-24T15:23:59Z",
+  "updated_at": "2026-04-26T16:21:09Z",
   "pushed_at": "2026-01-17T16:08:45Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 2754
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2756
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "prometheus-msteams",
   "full_name": "prometheus-msteams/prometheus-msteams",
   "description": "Forward Prometheus Alert Manager notifications to Microsoft Teams.",
+  "description_ja": "",
   "url": "https://github.com/prometheus-msteams/prometheus-msteams",
   "homepage_url": "",
   "language": "Go",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 567
+    },
+    {
+      "date": "2026-04-26",
       "stars": 567
     }
   ]

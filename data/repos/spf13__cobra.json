@@ -4,6 +4,7 @@
   "name": "cobra",
   "full_name": "spf13/cobra",
   "description": "A Commander for modern Go CLI interactions",
+  "description_ja": "",
   "url": "https://github.com/spf13/cobra",
   "homepage_url": "https://cobra.dev",
   "language": "Go",
@@ -26,13 +27,13 @@
     "posix-compliant-flags",
     "subcommands"
   ],
-  "star_count": 43770,
-  "fork_count": 3128,
+  "star_count": 43772,
+  "fork_count": 3129,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-09-03T20:40:26Z",
-  "updated_at": "2026-04-25T17:36:04Z",
-  "pushed_at": "2026-04-24T20:41:57Z",
+  "updated_at": "2026-04-26T17:13:04Z",
+  "pushed_at": "2026-04-25T23:07:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 43770
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 43772
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "kubeshark",
   "full_name": "kubeshark/kubeshark",
   "description": "eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.",
+  "description_ja": "",
   "url": "https://github.com/kubeshark/kubeshark",
   "homepage_url": "https://kubeshark.com",
   "language": "Go",
@@ -30,13 +31,13 @@
     "sre",
     "wireshark"
   ],
-  "star_count": 11882,
+  "star_count": 11883,
   "fork_count": 531,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-19T10:29:56Z",
-  "updated_at": "2026-04-24T11:14:17Z",
-  "pushed_at": "2026-04-24T05:15:05Z",
+  "updated_at": "2026-04-25T20:48:02Z",
+  "pushed_at": "2026-04-26T08:59:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 11882
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 11883
     }
   ]
 }

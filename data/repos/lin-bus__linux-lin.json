@@ -4,6 +4,7 @@
   "name": "linux-lin",
   "full_name": "lin-bus/linux-lin",
   "description": "Linux kernel LIN bus support implemented as  TTY line discipline for generic UART conrollers, documentation https://github.com/lin-bus/linux-lin/wiki, based on https://github.com/lin-bus/linux-lin/wiki/sllin-rtlws14-paper.pdf, more CAN related projects http://canbus.pages.fel.cvut.cz/",
+  "description_ja": "",
   "url": "https://github.com/lin-bus/linux-lin",
   "homepage_url": "https://github.com/lin-bus/linux-lin/wiki",
   "language": "C",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 50
+    },
+    {
+      "date": "2026-04-26",
       "stars": 50
     }
   ]

@@ -4,6 +4,7 @@
   "name": "docker-registry-mirrors",
   "full_name": "kubesre/docker-registry-mirrors",
   "description": "多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s, Quay, Microsoft 等镜像仓库.",
+  "description_ja": "",
   "url": "https://github.com/kubesre/docker-registry-mirrors",
   "homepage_url": "https://docker.gbfeng.com",
   "language": "Shell",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1572
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1572
     }
   ]

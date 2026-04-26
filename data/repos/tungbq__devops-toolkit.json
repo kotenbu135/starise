@@ -4,6 +4,7 @@
   "name": "devops-toolkit",
   "full_name": "tungbq/devops-toolkit",
   "description": "🐳 Container image for an all-in-one DevOps environment with popular tools like Ansible, Terraform, kubectl, Helm, AWS CLI, Azure CLI, Git, Python and more.",
+  "description_ja": "",
   "url": "https://github.com/tungbq/devops-toolkit",
   "homepage_url": "https://hub.docker.com/r/tungbq/devops-toolkit",
   "language": "Python",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 60
+    },
+    {
+      "date": "2026-04-26",
       "stars": 60
     }
   ]

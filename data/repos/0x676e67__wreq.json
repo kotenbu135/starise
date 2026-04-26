@@ -4,6 +4,7 @@
   "name": "wreq",
   "full_name": "0x676e67/wreq",
   "description": "An ergonomic Rust HTTP Client with TLS fingerprint",
+  "description_ja": "TLS フィンガープリント対応のエルゴノミックな Rust 製 HTTP クライアント",
   "url": "https://github.com/0x676e67/wreq",
   "homepage_url": "https://wreq.org",
   "language": "Rust",
@@ -46,6 +47,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 777
+    },
+    {
+      "date": "2026-04-26",
       "stars": 777
     }
   ]

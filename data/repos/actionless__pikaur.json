@@ -4,6 +4,7 @@
   "name": "pikaur",
   "full_name": "actionless/pikaur",
   "description": "AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.",
+  "description_ja": "最小限の依存関係を持つAURヘルパー。PKGBUILDをまとめてレビューし、ユーザー操作なしで一括ビルド",
   "url": "https://github.com/actionless/pikaur",
   "homepage_url": "",
   "language": "Python",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 946
+    },
+    {
+      "date": "2026-04-26",
       "stars": 946
     }
   ]

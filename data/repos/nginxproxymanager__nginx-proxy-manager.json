@@ -4,6 +4,7 @@
   "name": "nginx-proxy-manager",
   "full_name": "nginxproxymanager/nginx-proxy-manager",
   "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
+  "description_ja": "",
   "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
   "homepage_url": "https://nginxproxymanager.com",
   "language": "TypeScript",
@@ -12,12 +13,12 @@
     "nginx",
     "nginx-proxy"
   ],
-  "star_count": 32607,
-  "fork_count": 3713,
+  "star_count": 32617,
+  "fork_count": 3712,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-20T23:01:16Z",
-  "updated_at": "2026-04-25T16:46:05Z",
+  "updated_at": "2026-04-26T16:05:12Z",
   "pushed_at": "2026-04-24T15:45:55Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 32607
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 32617
     }
   ]
 }

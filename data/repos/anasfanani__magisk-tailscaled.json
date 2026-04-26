@@ -4,6 +4,7 @@
   "name": "magisk-tailscaled",
   "full_name": "anasfanani/magisk-tailscaled",
   "description": "Magisk/KernelSU module for running Tailscale on rooted Android devices. The easiest, most secure way to use WireGuard and 2FA.",
+  "description_ja": "root 化済み Android デバイスで Tailscale を実行するための Magisk/KernelSU モジュール。WireGuard と 2FA を最も簡単かつ安全に利用する方法。",
   "url": "https://github.com/anasfanani/magisk-tailscaled",
   "homepage_url": "https://t.me/systembinsh/158",
   "language": "Shell",
@@ -22,12 +23,12 @@
     "wireguard-vpn",
     "wireguard-vpn-setup"
   ],
-  "star_count": 439,
+  "star_count": 440,
   "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-13T20:02:49Z",
-  "updated_at": "2026-04-22T03:15:35Z",
+  "updated_at": "2026-04-26T00:43:09Z",
   "pushed_at": "2025-11-04T17:23:38Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 439
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 440
     }
   ]
 }

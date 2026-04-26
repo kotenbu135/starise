@@ -4,6 +4,7 @@
   "name": "lfops",
   "full_name": "linuxfabrik/lfops",
   "description": "Ansible Collection of roles, playbooks \u0026 plugins for Linux-based cloud infrastructure. Covers OS hardening, MariaDB, Icinga2, Nextcloud, FreeIPA, KVM \u0026 more. Bitwarden \u0026 Cloud integration.",
+  "description_ja": "",
   "url": "https://github.com/Linuxfabrik/lfops",
   "homepage_url": "https://linuxfabrik.ch",
   "language": "Jinja",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 75
+    },
+    {
+      "date": "2026-04-26",
       "stars": 75
     }
   ]

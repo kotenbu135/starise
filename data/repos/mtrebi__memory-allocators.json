@@ -4,6 +4,7 @@
   "name": "memory-allocators",
   "full_name": "mtrebi/memory-allocators",
   "description": "Custom memory allocators in C++ to improve the performance of dynamic memory allocation",
+  "description_ja": "",
   "url": "https://github.com/mtrebi/memory-allocators",
   "homepage_url": "",
   "language": "C++",
@@ -16,12 +17,12 @@
     "pool-allocator",
     "stack-allocator"
   ],
-  "star_count": 1964,
+  "star_count": 1965,
   "fork_count": 170,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-11-22T17:32:21Z",
-  "updated_at": "2026-04-20T15:07:11Z",
+  "updated_at": "2026-04-26T15:51:37Z",
   "pushed_at": "2026-04-12T17:51:32Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 1964
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1965
     }
   ]
 }

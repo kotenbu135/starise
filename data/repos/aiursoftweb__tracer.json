@@ -4,6 +4,7 @@
   "name": "tracer",
   "full_name": "aiursoftweb/tracer",
   "description": "Tracer is a simple network speed test app. Deploy this on your server. Open your tracer on your browser. And you can test the speed between you and your server. Mirror of https://gitlab.aiursoft.com/aiursoft/tracer",
+  "description_ja": "Tracer はシンプルなネットワーク速度測定アプリ。サーバーにデプロイし、ブラウザで Tracer を開けば、自分とサーバー間の速度を計測できる。https://gitlab.aiursoft.com/aiursoft/tracer のミラー",
   "url": "https://github.com/AiursoftWeb/Tracer",
   "homepage_url": "https://tracer.aiursoft.com",
   "language": "C#",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

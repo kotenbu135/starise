@@ -4,6 +4,7 @@
   "name": "fyler.nvim",
   "full_name": "a7lavinraj/fyler.nvim",
   "description": "A neovim file manager which can edit file system like a buffer with tree view",
+  "description_ja": "ファイルシステムをツリービューのバッファのように編集できるneovimファイルマネージャ",
   "url": "https://github.com/A7Lavinraj/fyler.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -14,12 +15,12 @@
     "nvim",
     "telescope-extension"
   ],
-  "star_count": 683,
+  "star_count": 684,
   "fork_count": 45,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-19T16:34:13Z",
-  "updated_at": "2026-04-24T13:04:43Z",
+  "updated_at": "2026-04-26T00:25:50Z",
   "pushed_at": "2026-04-05T09:35:20Z",
   "deleted_at": "",
   "star_history": [
@@ -30,6 +31,10 @@
     {
       "date": "2026-04-25",
       "stars": 683
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 684
     }
   ]
 }

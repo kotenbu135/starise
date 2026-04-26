@@ -4,6 +4,7 @@
   "name": "tarpc",
   "full_name": "google/tarpc",
   "description": "An RPC framework for Rust with a focus on ease of use.",
+  "description_ja": "",
   "url": "https://github.com/google/tarpc",
   "homepage_url": "",
   "language": "Rust",
@@ -15,12 +16,12 @@
     "rust",
     "tokio"
   ],
-  "star_count": 3686,
-  "fork_count": 219,
+  "star_count": 3689,
+  "fork_count": 220,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-02-11T01:07:24Z",
-  "updated_at": "2026-04-22T03:22:30Z",
+  "updated_at": "2026-04-26T13:34:13Z",
   "pushed_at": "2026-03-25T06:11:05Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 3686
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3689
     }
   ]
 }

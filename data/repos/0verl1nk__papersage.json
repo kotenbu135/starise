@@ -4,6 +4,7 @@
   "name": "papersage",
   "full_name": "0verl1nk/papersage",
   "description": "📚 AI-powered research reading workbench. Project-based paper Q\u0026A with Hybrid RAG, multi-agent workflows (ReAct/Plan-Act/RePlan), long-term memory, and traceable evidence. Built with LangChain + LangGraph + Streamlit.",
+  "description_ja": "📚 AI 駆動の研究論文閲覧ワークベンチ。Hybrid RAG、マルチエージェントワークフロー（ReAct/Plan-Act/RePlan）、長期メモリ、追跡可能な根拠を備えたプロジェクトベースの論文 Q\u0026A。LangChain + LangGraph + Streamlit で構築",
   "url": "https://github.com/0verL1nk/PaperSage",
   "homepage_url": "",
   "language": "Python",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 35
+    },
+    {
+      "date": "2026-04-26",
       "stars": 35
     }
   ]

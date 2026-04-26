@@ -4,6 +4,7 @@
   "name": "ksiotframeworklib",
   "full_name": "cziter15/ksiotframeworklib",
   "description": ":symbols: Arduino Library for ESP32/ESP8266 - composition oriented internet of things framework that provides simple and extendable architecture, handles device setup (WiFi setup, MQTT and application specific configuration), network connectivity, MQTT telemetry protocol and more...",
+  "description_ja": "",
   "url": "https://github.com/cziter15/ksIotFrameworkLib",
   "homepage_url": "https://cziter15.github.io/ksIotFrameworkLib/",
   "language": "C++",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 36
+    },
+    {
+      "date": "2026-04-26",
       "stars": 36
     }
   ]

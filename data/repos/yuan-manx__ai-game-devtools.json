@@ -3,12 +3,16 @@
   "owner": "yuan-manx",
   "name": "ai-game-devtools",
   "full_name": "yuan-manx/ai-game-devtools",
-  "description": "Here we will keep track of the latest AI Game Development Tools, including LLM, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥",
+  "description": "Your AI Game Dev Hub. The ultimate resource hub for AI-powered game development tools. Discover cutting-edge LLMs, World Model, Agent, Code, Image, Texture, Shader, 3D Model, Animation, Video, Audio, Music, Singing Voice and Analytics. 🔥",
+  "description_ja": "",
   "url": "https://github.com/Yuan-ManX/ai-game-devtools",
   "homepage_url": "https://yuan-manx.github.io/ai-game-devtools/",
-  "language": "",
+  "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "ai-agents",
+    "ai-game-development",
+    "ai-game-engine",
     "ai-platform",
     "ai-toolkit",
     "aigc",
@@ -19,15 +23,16 @@
     "game-development",
     "game-engine",
     "mechine-learing",
-    "unity"
+    "unity",
+    "world-models"
   ],
-  "star_count": 1150,
+  "star_count": 1152,
   "fork_count": 113,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-21T03:01:17Z",
-  "updated_at": "2026-04-25T13:38:15Z",
-  "pushed_at": "2026-04-25T13:38:11Z",
+  "updated_at": "2026-04-26T16:39:19Z",
+  "pushed_at": "2026-04-26T16:39:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 1150
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1152
     }
   ]
 }

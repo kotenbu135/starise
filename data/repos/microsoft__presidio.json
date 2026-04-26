@@ -4,6 +4,7 @@
   "name": "presidio",
   "full_name": "microsoft/presidio",
   "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.",
+  "description_ja": "",
   "url": "https://github.com/microsoft/presidio",
   "homepage_url": "https://microsoft.github.io/presidio",
   "language": "Python",
@@ -30,13 +31,13 @@
     "spacy",
     "transformers"
   ],
-  "star_count": 7790,
-  "fork_count": 1016,
+  "star_count": 7819,
+  "fork_count": 1018,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-05-04T11:08:58Z",
-  "updated_at": "2026-04-25T17:11:53Z",
-  "pushed_at": "2026-04-23T13:34:26Z",
+  "updated_at": "2026-04-26T16:52:13Z",
+  "pushed_at": "2026-04-26T08:17:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 7790
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 7819
     }
   ]
 }

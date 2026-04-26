@@ -4,6 +4,7 @@
   "name": "bitpay-app",
   "full_name": "bitpay/bitpay-app",
   "description": "BitPay App (formerly Copay) is a popular Bitcoin and other crypto currencies wallet platform for IOS/Android.",
+  "description_ja": "",
   "url": "https://github.com/bitpay/bitpay-app",
   "homepage_url": "http://bitpay.com/wallet",
   "language": "TypeScript",
@@ -16,7 +17,7 @@
     "wallet-service"
   ],
   "star_count": 117,
-  "fork_count": 67,
+  "fork_count": 68,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-05-20T16:55:51Z",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 117
+    },
+    {
+      "date": "2026-04-26",
       "stars": 117
     }
   ]

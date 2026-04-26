@@ -4,6 +4,7 @@
   "name": "scala-collection-compat",
   "full_name": "scala/scala-collection-compat",
   "description": "makes some Scala 2.13 APIs (primarily collections, also some others) available on 2.11 and 2.12, to aid cross-building",
+  "description_ja": "",
   "url": "https://github.com/scala/scala-collection-compat",
   "homepage_url": "",
   "language": "Scala",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 209
+    },
+    {
+      "date": "2026-04-26",
       "stars": 209
     }
   ]

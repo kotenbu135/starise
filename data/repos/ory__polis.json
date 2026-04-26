@@ -4,6 +4,7 @@
   "name": "polis",
   "full_name": "ory/polis",
   "description": "Streamline your web application's authentication with Polis, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via the SCIM 2.0 protocol for automatic user and group provisioning/de-provisioning.",
+  "description_ja": "",
   "url": "https://github.com/ory/polis",
   "homepage_url": "https://www.ory.com/?utm_source=github\u0026utm_medium=banner\u0026utm_campaign=polis",
   "language": "TypeScript",
@@ -30,12 +31,12 @@
     "sso-authentication",
     "typescript"
   ],
-  "star_count": 2230,
+  "star_count": 2229,
   "fork_count": 216,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-14T04:41:00Z",
-  "updated_at": "2026-04-25T10:27:15Z",
+  "updated_at": "2026-04-26T14:58:52Z",
   "pushed_at": "2026-04-25T10:27:10Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 2230
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2229
     }
   ]
 }

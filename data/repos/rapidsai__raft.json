@@ -4,6 +4,7 @@
   "name": "raft",
   "full_name": "rapidsai/raft",
   "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
+  "description_ja": "",
   "url": "https://github.com/rapidsai/raft",
   "homepage_url": "https://docs.rapids.ai/api/raft/stable/",
   "language": "Cuda",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1002
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1002
     }
   ]

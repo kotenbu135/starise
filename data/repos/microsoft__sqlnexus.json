@@ -4,6 +4,7 @@
   "name": "sqlnexus",
   "full_name": "microsoft/sqlnexus",
   "description": "SQL Nexus is a tool that helps you identify the root cause of SQL Server performance issues. It loads and analyzes performance data collected by  SQL LogScout, SQLDiag or PSSDiag. It can dramatically reduce the amount of time you spend manually analyzing data.",
+  "description_ja": "",
   "url": "https://github.com/microsoft/SqlNexus",
   "homepage_url": "",
   "language": "C#",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 417
+    },
+    {
+      "date": "2026-04-26",
       "stars": 417
     }
   ]

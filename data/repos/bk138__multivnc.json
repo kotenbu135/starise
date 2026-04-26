@@ -4,6 +4,7 @@
   "name": "multivnc",
   "full_name": "bk138/multivnc",
   "description": "MultiVNC is a cross-platform SSH-enabled VNC viewer. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.",
+  "description_ja": "",
   "url": "https://github.com/bk138/multivnc",
   "homepage_url": "",
   "language": "C++",
@@ -25,12 +26,12 @@
     "wxwidgets",
     "zeroconf"
   ],
-  "star_count": 631,
+  "star_count": 632,
   "fork_count": 92,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-08-18T15:50:59Z",
-  "updated_at": "2026-04-25T16:55:01Z",
+  "updated_at": "2026-04-26T08:16:03Z",
   "pushed_at": "2026-04-22T19:33:12Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 631
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 632
     }
   ]
 }

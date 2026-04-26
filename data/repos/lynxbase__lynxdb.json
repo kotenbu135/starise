@@ -4,6 +4,7 @@
   "name": "lynxdb",
   "full_name": "lynxbase/lynxdb",
   "description": "A lightweight schema-on-read analytics in a single binary",
+  "description_ja": "",
   "url": "https://github.com/lynxbase/lynxdb",
   "homepage_url": "https://docs.lynxdb.org/",
   "language": "Go",
@@ -16,18 +17,22 @@
     "logging",
     "splunk"
   ],
-  "star_count": 41,
+  "star_count": 43,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T12:48:10Z",
-  "updated_at": "2026-04-25T16:40:48Z",
+  "updated_at": "2026-04-26T10:30:12Z",
   "pushed_at": "2026-04-24T15:09:21Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-25",
       "stars": 41
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 43
     }
   ]
 }

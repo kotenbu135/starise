@@ -4,6 +4,7 @@
   "name": "docker-unifi-rpi",
   "full_name": "ryansch/docker-unifi-rpi",
   "description": "Unifi Controller for Raspberry Pi 3+ and x86",
+  "description_ja": "",
   "url": "https://github.com/ryansch/docker-unifi-rpi",
   "homepage_url": "https://hub.docker.com/r/ryansch/unifi-rpi/",
   "language": "Shell",
@@ -14,12 +15,12 @@
     "unifi",
     "unifi-controller"
   ],
-  "star_count": 352,
+  "star_count": 353,
   "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-04-28T21:59:38Z",
-  "updated_at": "2026-04-21T12:25:18Z",
+  "updated_at": "2026-04-26T14:02:16Z",
   "pushed_at": "2026-04-21T12:25:15Z",
   "deleted_at": "",
   "star_history": [
@@ -30,6 +31,10 @@
     {
       "date": "2026-04-25",
       "stars": 352
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 353
     }
   ]
 }

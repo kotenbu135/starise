@@ -4,6 +4,7 @@
   "name": "esp-idf-hal",
   "full_name": "esp-rs/esp-idf-hal",
   "description": "embedded-hal implementation for Rust on ESP32 and ESP-IDF",
+  "description_ja": "",
   "url": "https://github.com/esp-rs/esp-idf-hal",
   "homepage_url": "https://esp-rs.github.io/esp-idf-hal",
   "language": "Rust",
@@ -16,7 +17,7 @@
     "rust"
   ],
   "star_count": 715,
-  "fork_count": 225,
+  "fork_count": 224,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-23T06:16:08Z",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 715
+    },
+    {
+      "date": "2026-04-26",
       "stars": 715
     }
   ]

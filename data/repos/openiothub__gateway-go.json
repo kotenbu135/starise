@@ -4,6 +4,7 @@
   "name": "gateway-go",
   "full_name": "openiothub/gateway-go",
   "description": "🎁Running on the LAN to receive remote access requests for OpenIoTHub,display a QR code for adding on the client side[云亿连访问内网端口和设备的网关，运行在你需要访问的远程内网，展示一个二维码用于客户端添加]",
+  "description_ja": "",
   "url": "https://github.com/OpenIoTHub/gateway-go",
   "homepage_url": "http://github.com/OpenIoTHub",
   "language": "Go",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 158
+    },
+    {
+      "date": "2026-04-26",
       "stars": 158
     }
   ]

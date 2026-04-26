@@ -4,6 +4,7 @@
   "name": "dbackup",
   "full_name": "skyfay/dbackup",
   "description": "A self-hosted database backup automation tool for MySQL, PostgreSQL, MongoDB \u0026 more. Backup to S3, FTP, or Local Storage. Features cron scheduling, notifications, and easy restores via a modern Web UI.",
+  "description_ja": "",
   "url": "https://github.com/Skyfay/DBackup",
   "homepage_url": "https://dbackup.app",
   "language": "TypeScript",
@@ -35,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-27T11:13:56Z",
-  "updated_at": "2026-04-25T10:21:23Z",
-  "pushed_at": "2026-04-25T08:00:08Z",
+  "updated_at": "2026-04-26T14:27:53Z",
+  "pushed_at": "2026-04-26T15:24:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 59
+    },
+    {
+      "date": "2026-04-26",
       "stars": 59
     }
   ]

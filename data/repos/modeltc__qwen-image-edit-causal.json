@@ -4,6 +4,7 @@
   "name": "qwen-image-edit-causal",
   "full_name": "modeltc/qwen-image-edit-causal",
   "description": "In our implementation of Qwen-Image-Edit, we employ block causal attention to improve inference speed.",
+  "description_ja": "",
   "url": "https://github.com/ModelTC/Qwen-Image-Edit-Causal",
   "homepage_url": "",
   "language": "Python",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 50
+    },
+    {
+      "date": "2026-04-26",
       "stars": 50
     }
   ]

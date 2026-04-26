@@ -4,6 +4,7 @@
   "name": "ais.net",
   "full_name": "ais-dotnet/ais.net",
   "description": ".NET Standard, high performance, zero allocation AIS decoder, which can process millions of AIVDM/AIVDO sentences per second on a single core. Sponsored by endjin",
+  "description_ja": "シングルコアで毎秒数百万のAIVDM/AIVDOセンテンスを処理可能な、.NET Standard対応の高性能ゼロアロケーションAISデコーダー。endjinが支援",
   "url": "https://github.com/ais-dotnet/Ais.Net",
   "homepage_url": "",
   "language": "C#",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 149
+    },
+    {
+      "date": "2026-04-26",
       "stars": 149
     }
   ]

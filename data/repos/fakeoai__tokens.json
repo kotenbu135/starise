@@ -4,6 +4,7 @@
   "name": "tokens",
   "full_name": "fakeoai/tokens",
   "description": "商用逆向Tokens管理平台，调度管理号池将各大国外AI平台的模型转化为OpenAI、Anthropic、Gemini等平台的API接口标准格式，支持Claude Code、Codex、GeminiCli等终端调用",
+  "description_ja": "",
   "url": "https://github.com/FakeOAI/tokens",
   "homepage_url": "https://docs2.tokens-pool.top",
   "language": "Shell",
@@ -21,13 +22,13 @@
     "grok2api",
     "sora2api"
   ],
-  "star_count": 360,
+  "star_count": 362,
   "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-25T14:35:20Z",
-  "updated_at": "2026-04-25T16:16:44Z",
-  "pushed_at": "2026-04-25T06:19:11Z",
+  "updated_at": "2026-04-26T12:03:51Z",
+  "pushed_at": "2026-04-26T03:35:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 360
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 362
     }
   ]
 }

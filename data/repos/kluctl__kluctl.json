@@ -4,6 +4,7 @@
   "name": "kluctl",
   "full_name": "kluctl/kluctl",
   "description": "The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way.",
+  "description_ja": "",
   "url": "https://github.com/kluctl/kluctl",
   "homepage_url": "https://kluctl.io",
   "language": "Go",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 862
+    },
+    {
+      "date": "2026-04-26",
       "stars": 862
     }
   ]

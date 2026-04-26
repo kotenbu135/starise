@@ -4,6 +4,7 @@
   "name": "resilientdecoding",
   "full_name": "airbnb/resilientdecoding",
   "description": "This package makes your Decodable types resilient to decoding errors and allows you to inspect those errors.",
+  "description_ja": "Decodable型をデコードエラーに耐性を持たせ、エラーを検査可能にするパッケージ",
   "url": "https://github.com/airbnb/ResilientDecoding",
   "homepage_url": "",
   "language": "Swift",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 602
+    },
+    {
+      "date": "2026-04-26",
       "stars": 602
     }
   ]

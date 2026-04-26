@@ -4,6 +4,7 @@
   "name": "sea-query",
   "full_name": "seaql/sea-query",
   "description": "🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite",
+  "description_ja": "",
   "url": "https://github.com/SeaQL/sea-query",
   "homepage_url": "https://www.sea-ql.org",
   "language": "Rust",
@@ -22,12 +23,12 @@
     "sqlite",
     "sqlx"
   ],
-  "star_count": 1688,
-  "fork_count": 251,
+  "star_count": 1691,
+  "fork_count": 250,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-12-16T03:44:23Z",
-  "updated_at": "2026-04-24T16:23:35Z",
+  "updated_at": "2026-04-26T12:17:58Z",
   "pushed_at": "2026-04-09T21:16:55Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 1688
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1691
     }
   ]
 }

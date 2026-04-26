@@ -4,6 +4,7 @@
   "name": "openclaw-in-docker",
   "full_name": "cncfstack/openclaw-in-docker",
   "description": "OpenClaw In Docker 提供一个类似虚拟机的环境运行 OpenClaw ，并提供安全的用户登录与 HTTPS 访问OpenClaw能力，使其可以安全的部署开放在互联网上。",
+  "description_ja": "",
   "url": "https://github.com/cncfstack/openclaw-in-docker",
   "homepage_url": "https://cncfstack.com/i/cncfstack/openclaw-in-docker",
   "language": "Shell",
@@ -14,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T02:16:24Z",
-  "updated_at": "2026-04-24T16:23:34Z",
-  "pushed_at": "2026-04-24T16:23:29Z",
+  "updated_at": "2026-04-25T18:59:51Z",
+  "pushed_at": "2026-04-25T18:59:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

@@ -4,6 +4,7 @@
   "name": "amqproxy",
   "full_name": "cloudamqp/amqproxy",
   "description": "An intelligent AMQP proxy, with connection and channel pooling/reusing",
+  "description_ja": "",
   "url": "https://github.com/cloudamqp/amqproxy",
   "homepage_url": "https://www.cloudamqp.com",
   "language": "Crystal",
@@ -13,12 +14,12 @@
     "proxy",
     "rabbitmq"
   ],
-  "star_count": 403,
+  "star_count": 404,
   "fork_count": 51,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-03-20T14:15:20Z",
-  "updated_at": "2026-04-20T22:13:06Z",
+  "updated_at": "2026-04-26T13:38:05Z",
   "pushed_at": "2026-03-05T22:13:40Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 403
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 404
     }
   ]
 }

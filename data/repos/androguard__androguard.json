@@ -4,6 +4,7 @@
   "name": "androguard",
   "full_name": "androguard/androguard",
   "description": "Reverse engineering and pentesting for Android applications ",
+  "description_ja": "[27] Android アプリケーション向けのリバースエンジニアリングとペンテスト",
   "url": "https://github.com/androguard/androguard",
   "homepage_url": "",
   "language": "Python",
@@ -16,12 +17,12 @@
     "pentesting",
     "reverse-engineering"
   ],
-  "star_count": 6051,
-  "fork_count": 1137,
+  "star_count": 6053,
+  "fork_count": 1138,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-09-12T08:48:56Z",
-  "updated_at": "2026-04-25T16:38:17Z",
+  "updated_at": "2026-04-26T11:04:17Z",
   "pushed_at": "2026-01-12T08:13:52Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 6051
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6053
     }
   ]
 }

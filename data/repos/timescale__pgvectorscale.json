@@ -4,17 +4,18 @@
   "name": "pgvectorscale",
   "full_name": "timescale/pgvectorscale",
   "description": "Postgres extension for vector search (DiskANN), complements pgvector for performance and scale. Postgres OSS licensed.",
+  "description_ja": "",
   "url": "https://github.com/timescale/pgvectorscale",
   "homepage_url": "",
   "language": "Rust",
   "license": "PostgreSQL",
   "topics": [],
-  "star_count": 2982,
+  "star_count": 2985,
   "fork_count": 135,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-01T01:05:05Z",
-  "updated_at": "2026-04-25T11:28:05Z",
+  "updated_at": "2026-04-26T15:01:31Z",
   "pushed_at": "2025-12-11T07:25:03Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 2982
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2985
     }
   ]
 }

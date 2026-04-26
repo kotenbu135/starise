@@ -4,6 +4,7 @@
   "name": "bench",
   "full_name": "frappe/bench",
   "description": "CLI to manage Multi-tenant deployments for Frappe apps",
+  "description_ja": "",
   "url": "https://github.com/frappe/bench",
   "homepage_url": "https://frappeframework.com/docs/user/en/bench",
   "language": "Python",
@@ -15,12 +16,12 @@
     "python",
     "setup-bench"
   ],
-  "star_count": 1679,
+  "star_count": 1680,
   "fork_count": 1327,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-07-09T10:24:30Z",
-  "updated_at": "2026-04-25T13:01:25Z",
+  "updated_at": "2026-04-26T05:02:22Z",
   "pushed_at": "2026-04-23T15:43:56Z",
   "deleted_at": "",
   "star_history": [
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 1679
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1680
     }
   ]
 }

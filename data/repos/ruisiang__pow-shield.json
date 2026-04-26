@@ -4,6 +4,7 @@
   "name": "pow-shield",
   "full_name": "ruisiang/pow-shield",
   "description": "Project dedicated to fight Layer 7 DDoS with proof of work, with an additional WAF and controller. Completed with full set of features and containerized for rapid and lightweight deployment.",
+  "description_ja": "",
   "url": "https://github.com/RuiSiang/PoW-Shield",
   "homepage_url": "https://shield.rs.me",
   "language": "TypeScript",
@@ -25,12 +26,12 @@
     "typescript",
     "waf"
   ],
-  "star_count": 403,
+  "star_count": 404,
   "fork_count": 72,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-03-08T09:12:20Z",
-  "updated_at": "2026-04-15T13:58:05Z",
+  "updated_at": "2026-04-26T11:38:24Z",
   "pushed_at": "2026-04-08T19:02:45Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 403
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 404
     }
   ]
 }

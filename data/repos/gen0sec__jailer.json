@@ -4,6 +4,7 @@
   "name": "jailer",
   "full_name": "gen0sec/jailer",
   "description": "Jailer is an eBPF-based process jailing system that provides mandatory access control (MAC) for Linux. It tracks processes using BPF task_storage maps and enforces role-based policies on file access, network operations, and process execution.",
+  "description_ja": "",
   "url": "https://github.com/gen0sec/jailer",
   "homepage_url": "https://gen0sec.com",
   "language": "C",
@@ -28,6 +29,10 @@
   "star_history": [
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

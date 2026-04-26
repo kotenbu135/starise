@@ -4,6 +4,7 @@
   "name": "earlybird",
   "full_name": "americanexpress/earlybird",
   "description": "EarlyBird is a sensitive data detection tool capable of scanning source code repositories for clear text password violations, PII, outdated cryptography methods, key files and more.",
+  "description_ja": "EarlyBirdはソースコードリポジトリをスキャンし、平文パスワード違反、PII、古い暗号化方式、鍵ファイルなどを検出する機密データ検出ツール",
   "url": "https://github.com/americanexpress/earlybird",
   "homepage_url": "",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 766
+    },
+    {
+      "date": "2026-04-26",
       "stars": 766
     }
   ]

@@ -4,6 +4,7 @@
   "name": "palm-rlhf-pytorch",
   "full_name": "lucidrains/palm-rlhf-pytorch",
   "description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+  "description_ja": "",
   "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
   "homepage_url": "",
   "language": "Python",
@@ -16,12 +17,12 @@
     "reinforcement-learning",
     "transformers"
   ],
-  "star_count": 7871,
+  "star_count": 7870,
   "fork_count": 679,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-09T17:53:46Z",
-  "updated_at": "2026-04-25T14:55:31Z",
+  "updated_at": "2026-04-25T23:59:58Z",
   "pushed_at": "2025-10-11T18:50:56Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 7871
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 7870
     }
   ]
 }

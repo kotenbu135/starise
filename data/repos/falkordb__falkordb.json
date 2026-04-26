@@ -4,6 +4,7 @@
   "name": "falkordb",
   "full_name": "falkordb/falkordb",
   "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+  "description_ja": "",
   "url": "https://github.com/FalkorDB/FalkorDB",
   "homepage_url": "https://www.falkordb.com/",
   "language": "C",
@@ -19,13 +20,13 @@
     "knowledge-graph",
     "realtime-database"
   ],
-  "star_count": 4209,
-  "fork_count": 337,
+  "star_count": 4239,
+  "fork_count": 338,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-20T10:47:51Z",
-  "updated_at": "2026-04-25T16:06:04Z",
-  "pushed_at": "2026-04-24T19:17:26Z",
+  "updated_at": "2026-04-26T17:18:35Z",
+  "pushed_at": "2026-04-26T17:14:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 4209
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4239
     }
   ]
 }

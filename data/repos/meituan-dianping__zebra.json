@@ -4,6 +4,7 @@
   "name": "zebra",
   "full_name": "meituan-dianping/zebra",
   "description": "美团点评集团统一使用的MySQL数据库访问层的中间件。主要提供对业务开发透明、读写分库、分库分表能力，并提供了端到端SQL监控的集成方案。",
+  "description_ja": "",
   "url": "https://github.com/Meituan-Dianping/Zebra",
   "homepage_url": "",
   "language": "Java",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2772
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2772
     }
   ]

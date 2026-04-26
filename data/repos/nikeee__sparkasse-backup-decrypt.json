@@ -4,6 +4,7 @@
   "name": "sparkasse-backup-decrypt",
   "full_name": "nikeee/sparkasse-backup-decrypt",
   "description": "CLI tool to extract and decrypt the SQLite database of a backup ZIP of the Sparkasse Android application.",
+  "description_ja": "",
   "url": "https://github.com/nikeee/sparkasse-backup-decrypt",
   "homepage_url": "",
   "language": "Rust",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

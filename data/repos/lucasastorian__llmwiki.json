@@ -4,6 +4,7 @@
   "name": "llmwiki",
   "full_name": "lucasastorian/llmwiki",
   "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
+  "description_ja": "",
   "url": "https://github.com/lucasastorian/llmwiki",
   "homepage_url": "https://llmwiki.app",
   "language": "TypeScript",
@@ -21,12 +22,12 @@
     "rag",
     "supabase"
   ],
-  "star_count": 667,
-  "fork_count": 106,
+  "star_count": 683,
+  "fork_count": 110,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T17:10:02Z",
-  "updated_at": "2026-04-25T16:21:36Z",
+  "updated_at": "2026-04-26T16:52:13Z",
   "pushed_at": "2026-04-21T22:59:09Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 667
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 683
     }
   ]
 }

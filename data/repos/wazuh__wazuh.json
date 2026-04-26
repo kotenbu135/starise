@@ -4,6 +4,7 @@
   "name": "wazuh",
   "full_name": "wazuh/wazuh",
   "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+  "description_ja": "",
   "url": "https://github.com/wazuh/wazuh",
   "homepage_url": "https://wazuh.com/",
   "language": "C++",
@@ -30,13 +31,13 @@
     "wazuh",
     "xdr"
   ],
-  "star_count": 15391,
-  "fork_count": 2274,
+  "star_count": 15401,
+  "fork_count": 2277,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-08-11T17:39:03Z",
-  "updated_at": "2026-04-25T11:09:34Z",
-  "pushed_at": "2026-04-25T01:03:23Z",
+  "updated_at": "2026-04-26T14:53:45Z",
+  "pushed_at": "2026-04-25T23:57:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 15391
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 15401
     }
   ]
 }

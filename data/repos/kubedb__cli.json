@@ -4,6 +4,7 @@
   "name": "cli",
   "full_name": "kubedb/cli",
   "description": "`kubectl` plugin for KubeDB",
+  "description_ja": "",
   "url": "https://github.com/kubedb/cli",
   "homepage_url": "https://kubedb.com",
   "language": "Go",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 734
+    },
+    {
+      "date": "2026-04-26",
       "stars": 734
     }
   ]

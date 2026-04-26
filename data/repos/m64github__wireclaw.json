@@ -4,6 +4,7 @@
   "name": "wireclaw",
   "full_name": "m64github/wireclaw",
   "description": "ESP32 AI agent with persistent memory and offline rule engine - chat to configure, run locally 24/7. (Telegram / Serial / NATS).",
+  "description_ja": "",
   "url": "https://github.com/M64GitHub/WireClaw",
   "homepage_url": "https://wireclaw.io",
   "language": "C++",
@@ -26,12 +27,12 @@
     "sensors",
     "telegram"
   ],
-  "star_count": 52,
+  "star_count": 54,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-09T19:34:48Z",
-  "updated_at": "2026-04-24T22:38:33Z",
+  "updated_at": "2026-04-26T09:00:27Z",
   "pushed_at": "2026-02-23T07:28:49Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 52
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 54
     }
   ]
 }

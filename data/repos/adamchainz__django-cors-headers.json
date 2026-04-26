@@ -4,6 +4,7 @@
   "name": "django-cors-headers",
   "full_name": "adamchainz/django-cors-headers",
   "description": "Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)",
+  "description_ja": "Cross-Origin Resource Sharing (CORS) に必要なサーバーヘッダーを処理するDjangoアプリ",
   "url": "https://github.com/adamchainz/django-cors-headers",
   "homepage_url": "",
   "language": "Python",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5594
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5594
     }
   ]

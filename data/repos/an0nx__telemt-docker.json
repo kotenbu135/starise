@@ -4,6 +4,7 @@
   "name": "telemt-docker",
   "full_name": "an0nx/telemt-docker",
   "description": "Secure multi-arch (amd64/arm64) Docker image for Telemt — a fast Rust-based MTProxy (MTProto) server, shipped as a static binary in a distroless non-root container.",
+  "description_ja": "Telemt 用のセキュアなマルチアーキ（amd64/arm64）Docker イメージ。Rust 製の高速 MTProxy（MTProto）サーバーを、distroless かつ非 root のコンテナに静的バイナリとして同梱。",
   "url": "https://github.com/An0nX/telemt-docker",
   "homepage_url": "",
   "language": "Dockerfile",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1256
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1256
     }
   ]

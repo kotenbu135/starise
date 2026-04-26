@@ -4,17 +4,18 @@
   "name": "fast-dllm",
   "full_name": "nvlabs/fast-dllm",
   "description": "Official implementation of \"Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding\"",
+  "description_ja": "",
   "url": "https://github.com/NVlabs/Fast-dLLM",
   "homepage_url": "https://nvlabs.github.io/Fast-dLLM/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 943,
+  "star_count": 946,
   "fork_count": 117,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-27T14:46:09Z",
-  "updated_at": "2026-04-25T06:44:49Z",
+  "updated_at": "2026-04-26T14:09:26Z",
   "pushed_at": "2026-04-14T05:57:17Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 943
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 946
     }
   ]
 }

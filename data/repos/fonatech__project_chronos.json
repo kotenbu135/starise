@@ -4,6 +4,7 @@
   "name": "project_chronos",
   "full_name": "fonatech/project_chronos",
   "description": "⚡ Zero-Stall MoE Inference via Lookahead Prediction \u0026 Async DMA Prefetching. Optimized for SSD I/O with Hybrid MLA+Sliding Window Attention.",
+  "description_ja": "",
   "url": "https://github.com/FonaTech/Project_Chronos",
   "homepage_url": "",
   "language": "Python",
@@ -28,18 +29,22 @@
     "ssd-offloading",
     "streaming-llm"
   ],
-  "star_count": 50,
-  "fork_count": 17,
+  "star_count": 75,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-19T21:05:18Z",
-  "updated_at": "2026-04-25T17:52:15Z",
-  "pushed_at": "2026-04-23T14:01:02Z",
+  "updated_at": "2026-04-26T15:54:57Z",
+  "pushed_at": "2026-04-26T08:21:10Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-25",
       "stars": 50
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 75
     }
   ]
 }

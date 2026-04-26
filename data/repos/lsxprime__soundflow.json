@@ -4,6 +4,7 @@
   "name": "soundflow",
   "full_name": "lsxprime/soundflow",
   "description": "A high-performance, modular audio \u0026 MIDI engine for .NET 8+. A complete toolkit for the entire audio lifecycle: Playback, Recording, Multi-track Editing, Pro Synthesis (MPE/SF2), Real-time DSP, and Visualization. Includes a unique security suite for AES-256 encryption, acoustic fingerprinting, and watermarking. Featuring SIMD and NativeAOT support.",
+  "description_ja": "",
   "url": "https://github.com/LSXPrime/SoundFlow",
   "homepage_url": "https://lsxprime.github.io/soundflow-docs/",
   "language": "C#",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 458
+    },
+    {
+      "date": "2026-04-26",
       "stars": 458
     }
   ]

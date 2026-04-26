@@ -4,6 +4,7 @@
   "name": "clangql",
   "full_name": "amrdeveloper/clangql",
   "description": " ClangQL is a tool that allow you to run SQL-like query on C/C++ Code instead of database files using the GitQL SDK",
+  "description_ja": "ClangQL は GitQL SDK を用いて、データベースファイルではなく C/C++ コードに対して SQL ライクなクエリを実行できるツール",
   "url": "https://github.com/AmrDeveloper/ClangQL",
   "homepage_url": "https://amrdeveloper.github.io/ClangQL/",
   "language": "Rust",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 533
+    },
+    {
+      "date": "2026-04-26",
       "stars": 533
     }
   ]

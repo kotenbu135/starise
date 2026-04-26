@@ -4,6 +4,7 @@
   "name": "node-ansible",
   "full_name": "0xpolygon/node-ansible",
   "description": "Ansible scripts to setup Matic validator node",
+  "description_ja": "Maticバリデータノードをセットアップするための Ansibleスクリプト",
   "url": "https://github.com/0xPolygon/node-ansible",
   "homepage_url": "",
   "language": "Shell",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-04-26",
       "stars": 99
     }
   ]

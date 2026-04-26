@@ -4,6 +4,7 @@
   "name": "alpakka-kafka",
   "full_name": "akka/alpakka-kafka",
   "description": "Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+  "description_ja": "Alpakka Kafkaコネクタ。AlpakkaはReactive StreamsとAkkaに基づく、Java/Scala向けのリアクティブなエンタープライズ統合ライブラリ",
   "url": "https://github.com/akka/alpakka-kafka",
   "homepage_url": "https://doc.akka.io/libraries/alpakka-kafka/current/",
   "language": "Scala",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1424
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1424
     }
   ]

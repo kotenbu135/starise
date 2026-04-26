@@ -4,6 +4,7 @@
   "name": "ossfs",
   "full_name": "aliyun/ossfs",
   "description": "A high-performance file client for mounting an OSS bucket as a local filesystem.",
+  "description_ja": "OSSバケットをローカルファイルシステムとしてマウントするための高性能ファイルクライアント",
   "url": "https://github.com/aliyun/ossfs",
   "homepage_url": "",
   "language": "C++",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 790
+    },
+    {
+      "date": "2026-04-26",
       "stars": 790
     }
   ]

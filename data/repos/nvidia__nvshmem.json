@@ -4,6 +4,7 @@
   "name": "nvshmem",
   "full_name": "nvidia/nvshmem",
   "description": "NVIDIA NVSHMEM is a parallel programming interface for NVIDIA GPUs based on OpenSHMEM. NVSHMEM can significantly reduce multi-process communication and coordination overheads by allowing programmers to perform one-sided communication from within CUDA kernels and on CUDA streams.",
+  "description_ja": "",
   "url": "https://github.com/NVIDIA/nvshmem",
   "homepage_url": "https://docs.nvidia.com/nvshmem/api/index.html",
   "language": "C++",
@@ -16,12 +17,12 @@
     "nvidia",
     "python"
   ],
-  "star_count": 515,
+  "star_count": 516,
   "fork_count": 76,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-27T15:37:11Z",
-  "updated_at": "2026-04-23T23:05:45Z",
+  "updated_at": "2026-04-26T03:34:19Z",
   "pushed_at": "2026-04-14T23:06:50Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 515
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 516
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "gccrs",
   "full_name": "rust-gcc/gccrs",
   "description": "GCC Front-End for Rust",
+  "description_ja": "",
   "url": "https://github.com/Rust-GCC/gccrs",
   "homepage_url": "https://rust-gcc.github.io/",
   "language": "C++",
@@ -16,12 +17,12 @@
     "rust",
     "rust-lang"
   ],
-  "star_count": 2869,
+  "star_count": 2871,
   "fork_count": 224,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-10-17T15:30:28Z",
-  "updated_at": "2026-04-25T05:19:49Z",
+  "updated_at": "2026-04-26T07:15:58Z",
   "pushed_at": "2026-04-21T23:49:31Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 2869
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2871
     }
   ]
 }

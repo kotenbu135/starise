@@ -4,6 +4,7 @@
   "name": "pr-preview-action",
   "full_name": "rossjrw/pr-preview-action",
   "description": "GitHub Action that deploys a pull request preview to GitHub Pages, similar to Vercel and Netlify, and cleans up after itself.",
+  "description_ja": "",
   "url": "https://github.com/rossjrw/pr-preview-action",
   "homepage_url": "https://github.com/marketplace/actions/deploy-pr-preview",
   "language": "Shell",
@@ -20,13 +21,13 @@
     "pull-requests",
     "workflow"
   ],
-  "star_count": 414,
+  "star_count": 415,
   "fork_count": 67,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-22T20:39:32Z",
-  "updated_at": "2026-04-24T19:30:40Z",
-  "pushed_at": "2026-01-30T12:29:26Z",
+  "updated_at": "2026-04-26T07:35:29Z",
+  "pushed_at": "2026-04-26T00:29:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 414
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 415
     }
   ]
 }

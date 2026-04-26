@@ -4,6 +4,7 @@
   "name": "dbslice",
   "full_name": "nabroleonx/dbslice",
   "description": "Extract a slice of your production database to reproduce bugs locally. Point dbslice at a record, it follows foreign keys and gives you a complete, importable subset",
+  "description_ja": "",
   "url": "https://github.com/nabroleonx/dbslice",
   "homepage_url": "https://nabroleonx.github.io/dbslice/",
   "language": "Python",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 131
+    },
+    {
+      "date": "2026-04-26",
       "stars": 131
     }
   ]

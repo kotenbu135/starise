@@ -4,6 +4,7 @@
   "name": "asus-linux-mint",
   "full_name": "andreas-glaser/asus-linux-mint",
   "description": "An automated installation script for asusctl and supergfxctl on ASUS ROG/TUF laptops running Linux Mint.",
+  "description_ja": "Linux Mint 上で動作する ASUS ROG / TUF ラップトップ向け asusctl と supergfxctl の自動インストールスクリプト",
   "url": "https://github.com/andreas-glaser/asus-linux-mint",
   "homepage_url": "https://github.com/andreas-glaser/asus-linux-mint",
   "language": "Shell",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 50
+    },
+    {
+      "date": "2026-04-26",
       "stars": 50
     }
   ]

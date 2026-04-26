@@ -4,6 +4,7 @@
   "name": "hoprnet",
   "full_name": "hoprnet/hoprnet",
   "description": "HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange. HOPR is similar to Tor but actually private, decentralized and economically sustainable.",
+  "description_ja": "",
   "url": "https://github.com/hoprnet/hoprnet",
   "homepage_url": "https://hoprnet.org",
   "language": "Rust",
@@ -13,12 +14,12 @@
     "ethereum",
     "privacy"
   ],
-  "star_count": 250,
+  "star_count": 251,
   "fork_count": 105,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-08-10T11:57:55Z",
-  "updated_at": "2026-04-24T14:20:34Z",
+  "updated_at": "2026-04-26T10:13:24Z",
   "pushed_at": "2026-04-25T12:04:04Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 250
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 251
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "lunar-python",
   "full_name": "6tail/lunar-python",
   "description": "日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.",
+  "description_ja": "カレンダー、新暦(陽暦)、旧暦(陰暦、老黄暦)、仏暦、道暦に対応。祝日、星座、ユリウス日、干支、十二支、二十四節気、節句、彭祖百忌、毎日の宜忌、吉神宜趨凶煞宜忌、吉神(喜神/福神/財神/陽貴神/陰貴神)方位、胎神方位、冲煞、納音、星宿、八字、五行、十神、建除十二値星、青龍明堂など十二神、黄道黒道日および吉凶などをサポート。lunar は新暦と中国旧暦のためのカレンダーライブラリです。",
   "url": "https://github.com/6tail/lunar-python",
   "homepage_url": "https://6tail.cn/calendar/api.html",
   "language": "Python",
@@ -13,12 +14,12 @@
     "lunar",
     "solar"
   ],
-  "star_count": 588,
+  "star_count": 589,
   "fork_count": 141,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-13T13:37:04Z",
-  "updated_at": "2026-04-24T09:42:04Z",
+  "updated_at": "2026-04-26T07:19:03Z",
   "pushed_at": "2026-01-24T03:07:22Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 588
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 589
     }
   ]
 }

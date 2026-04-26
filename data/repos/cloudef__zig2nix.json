@@ -4,6 +4,7 @@
   "name": "zig2nix",
   "full_name": "cloudef/zig2nix",
   "description": "Flake for packaging, building and running Zig projects.",
+  "description_ja": "",
   "url": "https://github.com/Cloudef/zig2nix",
   "homepage_url": "",
   "language": "Zig",
@@ -22,13 +23,13 @@
     "reproducible",
     "zig"
   ],
-  "star_count": 170,
-  "fork_count": 12,
+  "star_count": 171,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-11T05:16:46Z",
-  "updated_at": "2026-04-25T02:43:54Z",
-  "pushed_at": "2026-04-25T02:43:51Z",
+  "updated_at": "2026-04-26T09:11:48Z",
+  "pushed_at": "2026-04-26T09:11:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 170
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 171
     }
   ]
 }

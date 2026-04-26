@@ -4,6 +4,7 @@
   "name": "zenoh-plugin-ros2dds",
   "full_name": "eclipse-zenoh/zenoh-plugin-ros2dds",
   "description": "A Zenoh plug-in for ROS2 with a DDS RMW. See https://discourse.ros.org/t/ros-2-alternative-middleware-report/ for the advantages of using this plugin over other DDS RMW implementations.",
+  "description_ja": "",
   "url": "https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds",
   "homepage_url": "https://zenoh.io",
   "language": "Rust",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 257
+    },
+    {
+      "date": "2026-04-26",
       "stars": 257
     }
   ]

@@ -4,6 +4,7 @@
   "name": "codemagic-sample-projects",
   "full_name": "codemagic-ci-cd/codemagic-sample-projects",
   "description": "A collection of sample apps built with Codemagic CI/CD. Please see the codemagic.yaml file for a sample workflow configuration.",
+  "description_ja": "",
   "url": "https://github.com/codemagic-ci-cd/codemagic-sample-projects",
   "homepage_url": "https://codemagic.io",
   "language": "C#",
@@ -18,7 +19,7 @@
     "yaml"
   ],
   "star_count": 201,
-  "fork_count": 429,
+  "fork_count": 430,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-13T07:59:46Z",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 201
+    },
+    {
+      "date": "2026-04-26",
       "stars": 201
     }
   ]

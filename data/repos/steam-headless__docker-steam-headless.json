@@ -4,6 +4,7 @@
   "name": "docker-steam-headless",
   "full_name": "steam-headless/docker-steam-headless",
   "description": "A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI",
+  "description_ja": "",
   "url": "https://github.com/Steam-Headless/docker-steam-headless",
   "homepage_url": "",
   "language": "Shell",
@@ -17,12 +18,12 @@
     "steam",
     "sunshine"
   ],
-  "star_count": 2845,
+  "star_count": 2846,
   "fork_count": 202,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-10T09:49:01Z",
-  "updated_at": "2026-04-25T09:46:19Z",
+  "updated_at": "2026-04-26T14:04:59Z",
   "pushed_at": "2026-04-20T11:32:44Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 2845
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2846
     }
   ]
 }

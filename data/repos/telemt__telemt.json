@@ -4,6 +4,7 @@
   "name": "telemt",
   "full_name": "telemt/telemt",
   "description": "MTProxy for Telegram on Rust + Tokio",
+  "description_ja": "",
   "url": "https://github.com/telemt/telemt",
   "homepage_url": "",
   "language": "Rust",
@@ -25,12 +26,12 @@
     "tls",
     "tokio"
   ],
-  "star_count": 3459,
-  "fork_count": 193,
+  "star_count": 3481,
+  "fork_count": 195,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-30T02:00:23Z",
-  "updated_at": "2026-04-25T15:48:39Z",
+  "updated_at": "2026-04-26T16:16:43Z",
   "pushed_at": "2026-04-25T16:08:36Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 3459
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3481
     }
   ]
 }

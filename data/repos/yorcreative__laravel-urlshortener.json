@@ -4,6 +4,7 @@
   "name": "laravel-urlshortener",
   "full_name": "yorcreative/laravel-urlshortener",
   "description": "A Laravel URL Shortener package that provides URL redirects with optionally protected URL password, URL expiration, open limits before expiration, ability to set feature activation dates, click tracking, custom vanity identifiers, event dispatching, and soft delete/restore out of the box for your Laravel applications.",
+  "description_ja": "",
   "url": "https://github.com/YorCreative/Laravel-UrlShortener",
   "homepage_url": "",
   "language": "PHP",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 121
+    },
+    {
+      "date": "2026-04-26",
       "stars": 121
     }
   ]

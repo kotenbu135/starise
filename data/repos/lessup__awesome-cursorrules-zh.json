@@ -3,38 +3,29 @@
   "owner": "lessup",
   "name": "awesome-cursorrules-zh",
   "full_name": "lessup/awesome-cursorrules-zh",
-  "description": "💻✨专为中文开发者优化的 Cursor AI 编程规则集合",
+  "description": "Chinese-first bilingual Cursor rules library with OpenSpec-driven maintenance",
+  "description_ja": "",
   "url": "https://github.com/LessUp/awesome-cursorrules-zh",
-  "homepage_url": "",
-  "language": "CSS",
+  "homepage_url": "https://awesome-cursorrules-zh.js.org/",
+  "language": "JavaScript",
   "license": "MIT",
   "topics": [
-    "ai-programming",
-    "awesome-list",
-    "backend",
-    "best-practices",
+    "bilingual",
     "chinese",
-    "code-quality",
     "cursor",
     "cursorrules",
     "developer-tools",
-    "frontend",
-    "javascript",
-    "nodejs",
-    "programming-rules",
-    "python",
-    "react",
-    "translation",
-    "typescript",
-    "vue"
+    "documentation",
+    "openspec",
+    "vitepress"
   ],
   "star_count": 164,
   "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-28T12:21:22Z",
-  "updated_at": "2026-04-23T10:38:06Z",
-  "pushed_at": "2026-04-16T17:19:33Z",
+  "updated_at": "2026-04-26T14:18:50Z",
+  "pushed_at": "2026-04-26T14:18:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 164
+    },
+    {
+      "date": "2026-04-26",
       "stars": 164
     }
   ]

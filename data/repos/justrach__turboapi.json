@@ -4,6 +4,7 @@
   "name": "turboapi",
   "full_name": "justrach/turboapi",
   "description": "FastAPI-compatible Python framework with Zig HTTP core; 7x faster, free-threading native",
+  "description_ja": "",
   "url": "https://github.com/justrach/turboAPI",
   "homepage_url": "https://turboapi.trilok.ai",
   "language": "Zig",
@@ -13,13 +14,13 @@
     "http-server",
     "zig"
   ],
-  "star_count": 954,
+  "star_count": 952,
   "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-15T03:13:32Z",
-  "updated_at": "2026-04-25T15:34:24Z",
-  "pushed_at": "2026-04-25T17:14:17Z",
+  "updated_at": "2026-04-26T14:23:55Z",
+  "pushed_at": "2026-04-26T08:28:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 954
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 952
     }
   ]
 }

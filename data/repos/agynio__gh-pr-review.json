@@ -4,6 +4,7 @@
   "name": "gh-pr-review",
   "full_name": "agynio/gh-pr-review",
   "description": "GitHub CLI extension that adds full inline PR review comment support — view, navigate, reply to, and resolve review threads directly from the terminal. LLM-ready and ideal for automated PR review agents.",
+  "description_ja": "[37] PR インラインレビューコメントを完全にサポートする GitHub CLI 拡張。レビュースレッドの閲覧、移動、返信、解決をターミナルから直接実行可能。LLM 対応で自動 PR レビューエージェントに最適。",
   "url": "https://github.com/agynio/gh-pr-review",
   "homepage_url": "https://agyn.io",
   "language": "Go",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 138
+    },
+    {
+      "date": "2026-04-26",
       "stars": 138
     }
   ]

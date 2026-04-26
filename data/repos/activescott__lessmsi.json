@@ -4,6 +4,7 @@
   "name": "lessmsi",
   "full_name": "activescott/lessmsi",
   "description": "A tool to view and extract the contents of an Windows Installer (.msi) file.",
+  "description_ja": "Windows Installer (.msi) ファイルの内容を表示・抽出するツール",
   "url": "https://github.com/activescott/lessmsi",
   "homepage_url": "https://lessmsi.activescott.com",
   "language": "C#",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1705
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1705
     }
   ]

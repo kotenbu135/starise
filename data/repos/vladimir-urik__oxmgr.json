@@ -4,6 +4,7 @@
   "name": "oxmgr",
   "full_name": "vladimir-urik/oxmgr",
   "description": "Oxmgr is a modern, lightweight process manager written in Rust, a fast, deterministic alternative to PM2 for managing any executable across platforms.",
+  "description_ja": "",
   "url": "https://github.com/Vladimir-Urik/OxMgr",
   "homepage_url": "https://oxmgr.empellio.com",
   "language": "Rust",
@@ -26,13 +27,13 @@
     "system-tools",
     "windows"
   ],
-  "star_count": 100,
-  "fork_count": 4,
+  "star_count": 102,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T09:49:59Z",
-  "updated_at": "2026-04-24T23:17:41Z",
-  "pushed_at": "2026-04-24T23:17:37Z",
+  "updated_at": "2026-04-26T16:16:25Z",
+  "pushed_at": "2026-04-26T07:14:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 100
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 102
     }
   ]
 }

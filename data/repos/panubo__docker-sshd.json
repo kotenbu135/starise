@@ -4,6 +4,7 @@
   "name": "docker-sshd",
   "full_name": "panubo/docker-sshd",
   "description": "Minimal Alpine Linux Docker image with sshd exposed and rsync installed",
+  "description_ja": "",
   "url": "https://github.com/panubo/docker-sshd",
   "homepage_url": "https://quay.io/repository/panubo/sshd",
   "language": "Shell",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 476
+    },
+    {
+      "date": "2026-04-26",
       "stars": 476
     }
   ]

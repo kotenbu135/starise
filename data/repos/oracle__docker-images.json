@@ -4,6 +4,7 @@
   "name": "docker-images",
   "full_name": "oracle/docker-images",
   "description": "Official source of container configurations, images, and examples for Oracle products and projects",
+  "description_ja": "",
   "url": "https://github.com/oracle/docker-images",
   "homepage_url": "https://developer.oracle.com/use-cases/#containers",
   "language": "Shell",
@@ -25,12 +26,12 @@
     "oracle-products",
     "oraclelinux"
   ],
-  "star_count": 6973,
+  "star_count": 6974,
   "fork_count": 5450,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-12-19T18:53:18Z",
-  "updated_at": "2026-04-25T11:28:05Z",
+  "updated_at": "2026-04-26T08:03:35Z",
   "pushed_at": "2026-04-25T11:27:51Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 6973
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6974
     }
   ]
 }

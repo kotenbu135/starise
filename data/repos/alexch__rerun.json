@@ -4,6 +4,7 @@
   "name": "rerun",
   "full_name": "alexch/rerun",
   "description": "Restarts an app when the filesystem changes. Uses growl and FSEventStream if on OS X.",
+  "description_ja": "ファイルシステム変更時にアプリを再起動するツール。OS XではGrowlとFSEventStreamを使用",
   "url": "https://github.com/alexch/rerun",
   "homepage_url": "",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 992
+    },
+    {
+      "date": "2026-04-26",
       "stars": 992
     }
   ]

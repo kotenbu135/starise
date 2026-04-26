@@ -4,6 +4,7 @@
   "name": "quickcv",
   "full_name": "siduck/quickcv",
   "description": "Fast cv / resume builder to create beautiful resumes ( PDF ), uses browser's native window.print() to generate PDF at high quality",
+  "description_ja": "",
   "url": "https://github.com/siduck/quickcv",
   "homepage_url": "https://quickcv.vercel.app/",
   "language": "Svelte",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 236
+    },
+    {
+      "date": "2026-04-26",
       "stars": 236
     }
   ]

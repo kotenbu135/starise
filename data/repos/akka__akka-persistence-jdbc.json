@@ -4,6 +4,7 @@
   "name": "akka-persistence-jdbc",
   "full_name": "akka/akka-persistence-jdbc",
   "description": "Asynchronously writes journal and snapshot entries to configured JDBC databases so that Akka Actors can recover state",
+  "description_ja": "設定されたJDBCデータベースへ非同期にジャーナルおよびスナップショットエントリを書き込み、Akkaアクターの状態復元を可能にする",
   "url": "https://github.com/akka/akka-persistence-jdbc",
   "homepage_url": "https://doc.akka.io/libraries/akka-persistence-jdbc/current/",
   "language": "Scala",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 310
+    },
+    {
+      "date": "2026-04-26",
       "stars": 310
     }
   ]

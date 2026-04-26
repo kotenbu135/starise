@@ -4,6 +4,7 @@
   "name": "exzeitable",
   "full_name": "alanvardy/exzeitable",
   "description": "Dynamically updating, searchable, sortable datatables with Phoenix LiveView",
+  "description_ja": "Phoenix LiveView による動的更新・検索・ソート対応のデータテーブル",
   "url": "https://github.com/alanvardy/exzeitable",
   "homepage_url": "",
   "language": "Elixir",
@@ -14,7 +15,7 @@
     "phoenix"
   ],
   "star_count": 239,
-  "fork_count": 28,
+  "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-10-03T16:14:14Z",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 239
+    },
+    {
+      "date": "2026-04-26",
       "stars": 239
     }
   ]

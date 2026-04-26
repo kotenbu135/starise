@@ -4,6 +4,7 @@
   "name": "logicpaper",
   "full_name": "logicpaper/logicpaper",
   "description": "Batch document generation engine. Transforms raw Excel data into high-fidelity PDF, Word, and PowerPoint reports using Jinja2 templates and Headless LibreOffice. Features robust logic strategies, privacy masking, and real-time telemetry.",
+  "description_ja": "",
   "url": "https://github.com/LogicPaper/LogicPaper",
   "homepage_url": "https://logicpaper.github.io/LogicPaper/",
   "language": "Python",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 118
+    },
+    {
+      "date": "2026-04-26",
       "stars": 118
     }
   ]

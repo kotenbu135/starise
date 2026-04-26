@@ -4,6 +4,7 @@
   "name": "openomnibot",
   "full_name": "omnimind-ai/openomnibot",
   "description": "你的端侧 AI 助手，她可以操作终端，也可以完成 Android 世界的广泛任务 || Your on-device AI assistant, capable of operating terminals and performing a wide range of tasks in the Android world",
+  "description_ja": "",
   "url": "https://github.com/omnimind-ai/OpenOmniBot",
   "homepage_url": "",
   "language": "Kotlin",
@@ -15,18 +16,19 @@
     "android",
     "automation",
     "bot",
+    "claw",
     "gui",
     "linux",
     "on-device",
     "skills"
   ],
-  "star_count": 960,
-  "fork_count": 33,
+  "star_count": 1017,
+  "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T15:18:51Z",
-  "updated_at": "2026-04-25T17:27:55Z",
-  "pushed_at": "2026-04-25T16:10:33Z",
+  "updated_at": "2026-04-26T17:24:02Z",
+  "pushed_at": "2026-04-26T15:51:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 960
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1017
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "huggingface_hub",
   "full_name": "huggingface/huggingface_hub",
   "description": "The official Python client for the Hugging Face Hub.",
+  "description_ja": "",
   "url": "https://github.com/huggingface/huggingface_hub",
   "homepage_url": "https://huggingface.co/docs/huggingface_hub",
   "language": "Python",
@@ -18,12 +19,12 @@
     "pretrained-models",
     "pytorch"
   ],
-  "star_count": 3550,
-  "fork_count": 998,
+  "star_count": 3551,
+  "fork_count": 1000,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-12-22T10:20:28Z",
-  "updated_at": "2026-04-25T06:39:35Z",
+  "updated_at": "2026-04-25T22:08:07Z",
   "pushed_at": "2026-04-25T03:56:50Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 3550
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3551
     }
   ]
 }

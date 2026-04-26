@@ -4,6 +4,7 @@
   "name": "agentfm-core",
   "full_name": "agent-fm/agentfm-core",
   "description": "AgentFM is a peer-to-peer network that turns everyday computers into a decentralized AI supercomputer. AgentFM lets you run massive AI workloads directly across a global mesh of idle CPUs and GPUs.",
+  "description_ja": "[9] AgentFMは日常のコンピュータを分散型AIスーパーコンピュータに変えるピアツーピアネットワーク。世界中のアイドル状態のCPUとGPUを横断して大規模AIワークロードを直接実行できます。",
   "url": "https://github.com/Agent-FM/agentfm-core",
   "homepage_url": "https://agentfm.net",
   "language": "Go",
@@ -18,13 +19,13 @@
     "p2p",
     "python"
   ],
-  "star_count": 86,
+  "star_count": 89,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-11T17:16:34Z",
-  "updated_at": "2026-04-23T22:10:04Z",
-  "pushed_at": "2026-04-23T22:10:00Z",
+  "updated_at": "2026-04-26T16:09:41Z",
+  "pushed_at": "2026-04-26T16:27:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 86
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 89
     }
   ]
 }

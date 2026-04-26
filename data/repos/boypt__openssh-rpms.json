@@ -4,6 +4,7 @@
   "name": "openssh-rpms",
   "full_name": "boypt/openssh-rpms",
   "description": "A script to backport openssh rpm package from upstream.",
+  "description_ja": "",
   "url": "https://github.com/boypt/openssh-rpms",
   "homepage_url": "",
   "language": "Shell",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 460
+    },
+    {
+      "date": "2026-04-26",
       "stars": 460
     }
   ]

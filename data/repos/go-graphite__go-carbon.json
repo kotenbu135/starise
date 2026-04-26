@@ -4,6 +4,7 @@
   "name": "go-carbon",
   "full_name": "go-graphite/go-carbon",
   "description": "Golang implementation of Graphite/Carbon server with classic architecture: Agent -\u003e Cache -\u003e Persister",
+  "description_ja": "",
   "url": "https://github.com/go-graphite/go-carbon",
   "homepage_url": "",
   "language": "Go",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 827
+    },
+    {
+      "date": "2026-04-26",
       "stars": 827
     }
   ]

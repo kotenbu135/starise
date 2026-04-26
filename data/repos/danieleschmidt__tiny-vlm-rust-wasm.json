@@ -4,6 +4,7 @@
   "name": "tiny-vlm-rust-wasm",
   "full_name": "danieleschmidt/tiny-vlm-rust-wasm",
   "description": "Pure Rust + SIMD implementation of Apple's FastVLM encoder, compiled to WebAssembly for sub-200ms inference on iPhone 17 Neural Engine, matching Apple's CVPR-25 demo performance.",
+  "description_ja": "",
   "url": "https://github.com/danieleschmidt/Tiny-VLM-Rust-WASM",
   "homepage_url": "",
   "language": "Rust",
@@ -20,6 +21,10 @@
   "star_history": [
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

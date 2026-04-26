@@ -4,6 +4,7 @@
   "name": "superagent",
   "full_name": "superagent-ai/superagent",
   "description": "Superagent protects your AI applications against prompt injections, data leaks, and harmful outputs. Embed safety directly into your app and prove compliance to your customers.",
+  "description_ja": "",
   "url": "https://github.com/superagent-ai/superagent",
   "homepage_url": "https://superagent.sh",
   "language": "TypeScript",
@@ -17,12 +18,12 @@
     "prompt-injection",
     "security"
   ],
-  "star_count": 6555,
-  "fork_count": 959,
+  "star_count": 6559,
+  "fork_count": 960,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-10T18:50:39Z",
-  "updated_at": "2026-04-25T07:16:13Z",
+  "updated_at": "2026-04-26T15:38:09Z",
   "pushed_at": "2026-04-11T08:34:31Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 6555
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6559
     }
   ]
 }

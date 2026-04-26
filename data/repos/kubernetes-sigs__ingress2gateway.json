@@ -4,6 +4,7 @@
   "name": "ingress2gateway",
   "full_name": "kubernetes-sigs/ingress2gateway",
   "description": "Convert Ingress resources to Gateway API resources",
+  "description_ja": "",
   "url": "https://github.com/kubernetes-sigs/ingress2gateway",
   "homepage_url": "",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 984
+    },
+    {
+      "date": "2026-04-26",
       "stars": 984
     }
   ]

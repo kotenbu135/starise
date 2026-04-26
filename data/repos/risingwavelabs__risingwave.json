@@ -4,6 +4,7 @@
   "name": "risingwave",
   "full_name": "risingwavelabs/risingwave",
   "description": "Event streaming platform for agentic AI. Continuously ingest, transform, and serve event streams in real time, at scale.",
+  "description_ja": "",
   "url": "https://github.com/risingwavelabs/risingwave",
   "homepage_url": "https://go.risingwave.com/slack",
   "language": "Rust",
@@ -21,13 +22,13 @@
     "stream-processing",
     "webhook"
   ],
-  "star_count": 8944,
+  "star_count": 8946,
   "fork_count": 758,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-28T12:58:03Z",
-  "updated_at": "2026-04-25T05:48:27Z",
-  "pushed_at": "2026-04-25T05:48:24Z",
+  "updated_at": "2026-04-26T15:26:52Z",
+  "pushed_at": "2026-04-26T16:44:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 8944
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8946
     }
   ]
 }

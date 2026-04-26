@@ -4,6 +4,7 @@
   "name": "frp",
   "full_name": "fatedier/frp",
   "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+  "description_ja": "",
   "url": "https://github.com/fatedier/frp",
   "homepage_url": "",
   "language": "Go",
@@ -20,13 +21,13 @@
     "reverse-proxy",
     "tunnel"
   ],
-  "star_count": 106087,
-  "fork_count": 15017,
+  "star_count": 106107,
+  "fork_count": 15020,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-12-21T15:24:59Z",
-  "updated_at": "2026-04-25T16:30:41Z",
-  "pushed_at": "2026-04-13T17:29:15Z",
+  "updated_at": "2026-04-26T16:24:49Z",
+  "pushed_at": "2026-04-26T17:10:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -48,6 +49,10 @@
     {
       "date": "2026-04-25",
       "stars": 106087
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 106107
     }
   ]
 }

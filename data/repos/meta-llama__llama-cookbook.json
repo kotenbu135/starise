@@ -4,6 +4,7 @@
   "name": "llama-cookbook",
   "full_name": "meta-llama/llama-cookbook",
   "description": "Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  ",
+  "description_ja": "",
   "url": "https://github.com/meta-llama/llama-cookbook",
   "homepage_url": "https://www.llama.com",
   "language": "Jupyter Notebook",
@@ -20,12 +21,12 @@
     "pytorch",
     "vllm"
   ],
-  "star_count": 18302,
-  "fork_count": 2721,
+  "star_count": 18304,
+  "fork_count": 2722,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-17T07:33:48Z",
-  "updated_at": "2026-04-25T14:51:04Z",
+  "updated_at": "2026-04-26T07:27:13Z",
   "pushed_at": "2026-04-21T21:24:26Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 18302
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 18304
     }
   ]
 }

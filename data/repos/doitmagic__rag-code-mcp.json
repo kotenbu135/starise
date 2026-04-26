@@ -4,6 +4,7 @@
   "name": "rag-code-mcp",
   "full_name": "doitmagic/rag-code-mcp",
   "description": "Privacy-first semantic code navigation MCP server using RAG. Features deep AST multi-language support (Go, PHP/Laravel/WP, JS/TS/React, Python), 100% local LLMs (Ollama), and vector search (Qdrant) for AI IDEs like Cursor, Windsurf, Copilot, and Claude.",
+  "description_ja": "",
   "url": "https://github.com/doITmagic/rag-code-mcp",
   "homepage_url": "https://doitmagic.github.io/rag-code-mcp/",
   "language": "Go",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 36
+    },
+    {
+      "date": "2026-04-26",
       "stars": 36
     }
   ]

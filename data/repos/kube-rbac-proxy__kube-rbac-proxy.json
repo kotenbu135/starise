@@ -4,6 +4,7 @@
   "name": "kube-rbac-proxy",
   "full_name": "kube-rbac-proxy/kube-rbac-proxy",
   "description": "Kubernetes RBAC authorizing HTTP proxy for a single upstream.",
+  "description_ja": "",
   "url": "https://github.com/kube-rbac-proxy/kube-rbac-proxy",
   "homepage_url": "",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 672
+    },
+    {
+      "date": "2026-04-26",
       "stars": 672
     }
   ]

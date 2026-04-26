@@ -4,6 +4,7 @@
   "name": "dapper-extensions",
   "full_name": "tmsmith/dapper-extensions",
   "description": "Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. For more advanced querying scenarios, Dapper Extensions provides a predicate system. The goal of this library is to keep your POCOs pure by not requiring any attributes or base class inheritance.",
+  "description_ja": "",
   "url": "https://github.com/tmsmith/Dapper-Extensions",
   "homepage_url": "",
   "language": "C#",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1818
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1818
     }
   ]

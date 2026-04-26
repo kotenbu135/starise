@@ -4,6 +4,7 @@
   "name": "voicehub",
   "full_name": "laoshuikaixue/voicehub",
   "description": "这是一个使用Nuxt 4全栈框架开发的低成本校园广播站点歌系统。系统提供完整的点歌投票、排期管理、权限控制和打印导出功能，具备现代化的UI设计。管理员可通过直观的拖拽界面进行排期管理，支持多播出时段配置。系统内置完善的权限管理体系、学期管理、黑名单控制等功能，同时针对移动端进行了优化，确保在各种设备上都能提供出色的用户体验",
+  "description_ja": "",
   "url": "https://github.com/laoshuikaixue/VoiceHub",
   "homepage_url": "https://voicehub.smart-teach.cn",
   "language": "Vue",
@@ -24,13 +25,13 @@
     "vercel",
     "vue"
   ],
-  "star_count": 135,
-  "fork_count": 67,
+  "star_count": 136,
+  "fork_count": 68,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-12T12:15:32Z",
-  "updated_at": "2026-04-25T15:32:49Z",
-  "pushed_at": "2026-04-25T08:32:09Z",
+  "updated_at": "2026-04-26T13:19:01Z",
+  "pushed_at": "2026-04-26T05:41:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 135
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 136
     }
   ]
 }

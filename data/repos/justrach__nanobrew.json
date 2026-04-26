@@ -4,6 +4,7 @@
   "name": "nanobrew",
   "full_name": "justrach/nanobrew",
   "description": "The fastest macOS package manager. Written in Zig. 3ms warm installs.",
+  "description_ja": "",
   "url": "https://github.com/justrach/nanobrew",
   "homepage_url": "https://nanobrew.trilok.ai",
   "language": "Zig",
@@ -15,13 +16,13 @@
     "macos",
     "zig"
   ],
-  "star_count": 1011,
+  "star_count": 1024,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T05:33:56Z",
-  "updated_at": "2026-04-25T04:44:01Z",
-  "pushed_at": "2026-04-25T17:21:52Z",
+  "updated_at": "2026-04-26T17:23:09Z",
+  "pushed_at": "2026-04-26T11:12:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 1011
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1024
     }
   ]
 }

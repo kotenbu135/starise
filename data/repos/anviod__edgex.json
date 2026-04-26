@@ -4,6 +4,7 @@
   "name": "edgex",
   "full_name": "anviod/edgex",
   "description": "边缘计算网关程序部署于工业现场(零依赖)，南向支持Modbus、BACnet、OPC-UA 、CAN、PLC，北向通过MQTT、OPC-UA Server、Sparkplug-B接入云端，实现数据采集与边缘计算。  Edge Gateway collects data southbound via Modbus, OPC-UA Client, CAN, PLC, and connects northbound via MQTT, OPC-UA Server, Sparkplug-B for edge computing and cloud integration.",
+  "description_ja": "",
   "url": "https://github.com/anviod/edgex",
   "homepage_url": "https://anviod.github.io/edgex/",
   "language": "Go",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 52
+    },
+    {
+      "date": "2026-04-26",
       "stars": 52
     }
   ]

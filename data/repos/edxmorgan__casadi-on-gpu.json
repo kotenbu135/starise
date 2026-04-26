@@ -4,6 +4,7 @@
   "name": "casadi-on-gpu",
   "full_name": "edxmorgan/casadi-on-gpu",
   "description": "turn CasADi function into GPU ready kernels so large batches of function evaluations can run in parallel at high speed [𝐏𝐲𝐭𝐨𝐫𝐜𝐡 \u0026 𝐂𝐮𝐩𝐲 𝐜𝐨𝐦𝐩𝐚𝐭𝐢𝐛𝐥𝐞]",
+  "description_ja": "",
   "url": "https://github.com/edxmorgan/casadi-on-gpu",
   "homepage_url": "",
   "language": "Python",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 57
+    },
+    {
+      "date": "2026-04-26",
       "stars": 57
     }
   ]

@@ -4,6 +4,7 @@
   "name": "tfnotify",
   "full_name": "mercari/tfnotify",
   "description": "A CLI command to parse Terraform execution result and notify it to GitHub",
+  "description_ja": "",
   "url": "https://github.com/mercari/tfnotify",
   "homepage_url": "",
   "language": "Go",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 646
+    },
+    {
+      "date": "2026-04-26",
       "stars": 646
     }
   ]

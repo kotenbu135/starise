@@ -4,6 +4,7 @@
   "name": "aria2",
   "full_name": "aria2/aria2",
   "description": "aria2 is a lightweight multi-protocol \u0026 multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+  "description_ja": "",
   "url": "https://github.com/aria2/aria2",
   "homepage_url": "https://aria2.github.io/",
   "language": "C++",
@@ -18,12 +19,12 @@
     "rpc",
     "sftp"
   ],
-  "star_count": 40730,
+  "star_count": 40744,
   "fork_count": 3849,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2010-11-27T09:41:48Z",
-  "updated_at": "2026-04-25T16:40:36Z",
+  "updated_at": "2026-04-26T16:45:12Z",
   "pushed_at": "2026-03-10T10:01:53Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 40730
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 40744
     }
   ]
 }

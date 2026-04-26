@@ -4,6 +4,7 @@
   "name": "agent-fusion",
   "full_name": "krokozyab/agent-fusion",
   "description": " Agent Fusion is a local RAG semantic search engine that gives AI agents instant access to your code, documentation (Markdown, Word, PDF). Query    your codebase from code agents without hallucinations. Runs 100% locally, includes a lightweight embedding model, and optional multi-agent task    orchestration. Deploy with a single JAR",
+  "description_ja": "",
   "url": "https://github.com/krokozyab/Agent-Fusion",
   "homepage_url": "",
   "language": "Kotlin",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 65
+    },
+    {
+      "date": "2026-04-26",
       "stars": 65
     }
   ]

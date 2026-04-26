@@ -4,6 +4,7 @@
   "name": "sparsevoxeloctree",
   "full_name": "adamyuan/sparsevoxeloctree",
   "description": "A GPU SVO Builder using rasterization pipeline, a efficient SVO ray marcher and a simple SVO path tracer.",
+  "description_ja": "[14] ラスタライズパイプラインを使った GPU SVO ビルダー、効率的な SVO レイマーチャー、およびシンプルな SVO パストレーサー",
   "url": "https://github.com/AdamYuan/SparseVoxelOctree",
   "homepage_url": "",
   "language": "C++",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 679
+    },
+    {
+      "date": "2026-04-26",
       "stars": 679
     }
   ]

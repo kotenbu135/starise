@@ -4,6 +4,7 @@
   "name": "keyden",
   "full_name": "tasselx/keyden",
   "description": "Keyden is a clean and elegant macOS menu bar TOTP authenticator — securely store secrets in macOS Keychain, add accounts via QR code scanning, and copy codes with one click . Keyden 是一款简洁优雅的 macOS 菜单栏 TOTP 验证器——密钥安全存储于 macOS 钥匙串，支持扫码添加账号与一键复制验证码",
+  "description_ja": "",
   "url": "https://github.com/tasselx/Keyden",
   "homepage_url": "https://tasselx.github.io/Keyden/",
   "language": "Swift",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 228
+    },
+    {
+      "date": "2026-04-26",
       "stars": 228
     }
   ]

@@ -4,6 +4,7 @@
   "name": "hip",
   "full_name": "rocm/hip",
   "description": "HIP: C++ Heterogeneous-Compute Interface for Portability",
+  "description_ja": "",
   "url": "https://github.com/ROCm/hip",
   "homepage_url": "https://rocmdocs.amd.com/projects/HIP/",
   "language": "C++",
@@ -16,12 +17,12 @@
     "hip-runtime",
     "hipify"
   ],
-  "star_count": 4325,
+  "star_count": 4327,
   "fork_count": 582,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-01-07T17:41:56Z",
-  "updated_at": "2026-04-25T07:33:55Z",
+  "updated_at": "2026-04-26T14:38:09Z",
   "pushed_at": "2026-04-16T17:18:54Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 4325
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4327
     }
   ]
 }

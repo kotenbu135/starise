@@ -4,6 +4,7 @@
   "name": "windiff",
   "full_name": "ergrelet/windiff",
   "description": "Web-based tool that allows comparing symbol, type and syscall information of Microsoft Windows binaries across different versions of the OS.",
+  "description_ja": "",
   "url": "https://github.com/ergrelet/windiff",
   "homepage_url": "https://windiff.vercel.app",
   "language": "Rust",
@@ -24,13 +25,13 @@
     "win32",
     "windows"
   ],
-  "star_count": 380,
+  "star_count": 381,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-08T00:53:12Z",
-  "updated_at": "2026-04-25T09:03:43Z",
-  "pushed_at": "2026-04-25T09:03:38Z",
+  "updated_at": "2026-04-26T16:22:13Z",
+  "pushed_at": "2026-04-26T09:09:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 380
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 381
     }
   ]
 }

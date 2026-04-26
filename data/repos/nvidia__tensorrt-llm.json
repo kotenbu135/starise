@@ -4,6 +4,7 @@
   "name": "tensorrt-llm",
   "full_name": "nvidia/tensorrt-llm",
   "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+  "description_ja": "",
   "url": "https://github.com/NVIDIA/TensorRT-LLM",
   "homepage_url": "https://nvidia.github.io/TensorRT-LLM",
   "language": "Python",
@@ -15,13 +16,13 @@
     "moe",
     "pytorch"
   ],
-  "star_count": 13474,
-  "fork_count": 2319,
+  "star_count": 13481,
+  "fork_count": 2321,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-16T17:14:27Z",
-  "updated_at": "2026-04-25T15:17:16Z",
-  "pushed_at": "2026-04-25T15:17:12Z",
+  "updated_at": "2026-04-26T17:00:34Z",
+  "pushed_at": "2026-04-26T14:31:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 13474
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 13481
     }
   ]
 }

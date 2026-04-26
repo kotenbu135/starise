@@ -4,6 +4,7 @@
   "name": "loglayer",
   "full_name": "loglayer/loglayer",
   "description": "A modern logging library for Javascript / Typescript that routes logs to various logging libraries, cloud providers, files, StatsD, and OpenTelemetry while providing a fluent API for specifying log messages, metadata and errors.",
+  "description_ja": "",
   "url": "https://github.com/loglayer/loglayer",
   "homepage_url": "http://loglayer.dev/",
   "language": "TypeScript",
@@ -30,12 +31,12 @@
     "typescript",
     "wrapper"
   ],
-  "star_count": 491,
+  "star_count": 492,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-11-25T23:24:36Z",
-  "updated_at": "2026-04-25T05:48:53Z",
+  "updated_at": "2026-04-26T10:37:50Z",
   "pushed_at": "2026-04-19T00:47:45Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 491
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 492
     }
   ]
 }

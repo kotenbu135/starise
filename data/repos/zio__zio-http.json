@@ -4,6 +4,7 @@
   "name": "zio-http",
   "full_name": "zio/zio-http",
   "description": "A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers",
+  "description_ja": "",
   "url": "https://github.com/zio/zio-http",
   "homepage_url": "https://ziohttp.com",
   "language": "Scala",
@@ -17,7 +18,7 @@
     "zio"
   ],
   "star_count": 867,
-  "fork_count": 486,
+  "fork_count": 487,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-02-17T17:16:23Z",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 867
+    },
+    {
+      "date": "2026-04-26",
       "stars": 867
     }
   ]

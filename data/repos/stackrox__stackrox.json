@@ -4,6 +4,7 @@
   "name": "stackrox",
   "full_name": "stackrox/stackrox",
   "description": "The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.",
+  "description_ja": "",
   "url": "https://github.com/stackrox/stackrox",
   "homepage_url": "",
   "language": "Go",
@@ -21,7 +22,7 @@
   "is_fork": false,
   "created_at": "2021-12-01T23:24:26Z",
   "updated_at": "2026-04-25T11:00:18Z",
-  "pushed_at": "2026-04-25T06:20:01Z",
+  "pushed_at": "2026-04-26T17:00:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1276
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1276
     }
   ]

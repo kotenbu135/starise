@@ -4,6 +4,7 @@
   "name": "fastapi-clean-example",
   "full_name": "ivan-borovets/fastapi-clean-example",
   "description": "Practical Clean Architecture backend example built with FastAPI. No stateful globals (DI), low coupling (DIP), tactical DDD, CQRS, proper UoW usage. REST API, per-route error handling, session-based auth, contextual RBAC. Bundled with extensive docs and modern tooling",
+  "description_ja": "",
   "url": "https://github.com/ivan-borovets/fastapi-clean-example",
   "homepage_url": "",
   "language": "Python",
@@ -30,12 +31,12 @@
     "unit-of-work",
     "uv"
   ],
-  "star_count": 539,
+  "star_count": 540,
   "fork_count": 74,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-04T17:10:18Z",
-  "updated_at": "2026-04-25T16:04:07Z",
+  "updated_at": "2026-04-25T20:59:20Z",
   "pushed_at": "2026-04-25T09:13:50Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 539
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 540
     }
   ]
 }

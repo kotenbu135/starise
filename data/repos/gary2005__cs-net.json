@@ -4,6 +4,7 @@
   "name": "cs-net",
   "full_name": "gary2005/cs-net",
   "description": "CS-NET is a Transformer-based deep learning framework for analyzing Counter-Strike 2 match replays (.dem demo files). It parses match recordings, converts game states into token sequences, and uses pre-trained Transformer models for multiple real-time predictions.",
+  "description_ja": "",
   "url": "https://github.com/Gary2005/cs-net",
   "homepage_url": "",
   "language": "Python",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 55
+    },
+    {
+      "date": "2026-04-26",
       "stars": 55
     }
   ]

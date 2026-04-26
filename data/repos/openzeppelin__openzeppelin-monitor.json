@@ -4,6 +4,7 @@
   "name": "openzeppelin-monitor",
   "full_name": "openzeppelin/openzeppelin-monitor",
   "description": "A blockchain monitoring service that watches for specific on-chain activities and triggers notifications based on configurable conditions.",
+  "description_ja": "",
   "url": "https://github.com/OpenZeppelin/openzeppelin-monitor",
   "homepage_url": "https://docs.openzeppelin.com/monitor",
   "language": "Rust",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 129
+    },
+    {
+      "date": "2026-04-26",
       "stars": 129
     }
   ]

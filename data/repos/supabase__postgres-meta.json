@@ -4,6 +4,7 @@
   "name": "postgres-meta",
   "full_name": "supabase/postgres-meta",
   "description": "A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries",
+  "description_ja": "",
   "url": "https://github.com/supabase/postgres-meta",
   "homepage_url": "https://supabase.com",
   "language": "TypeScript",
@@ -14,7 +15,7 @@
     "postgresql"
   ],
   "star_count": 1194,
-  "fork_count": 196,
+  "fork_count": 197,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-20T12:36:37Z",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1194
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1194
     }
   ]

@@ -4,6 +4,7 @@
   "name": "server-edition",
   "full_name": "fullstaq-ruby/server-edition",
   "description": "A server-optimized Ruby distribution: less memory, faster, easy to install and security-patch via APT/YUM",
+  "description_ja": "",
   "url": "https://github.com/fullstaq-ruby/server-edition",
   "homepage_url": "https://fullstaqruby.org",
   "language": "Shell",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 629
+    },
+    {
+      "date": "2026-04-26",
       "stars": 629
     }
   ]

@@ -4,6 +4,7 @@
   "name": "sylar",
   "full_name": "sylar-yin/sylar",
   "description": "C++高性能分布式服务器框架,webserver,websocket server,自定义tcp_server（包含日志模块，配置模块，线程模块，协程模块，协程调度模块，io协程调度模块，hook模块，socket模块，bytearray序列化，http模块，TcpServer模块，Websocket模块，Https模块等, Smtp邮件模块, MySQL, SQLite3, ORM,Redis,Zookeeper)",
+  "description_ja": "",
   "url": "https://github.com/sylar-yin/sylar",
   "homepage_url": "http://www.sylar.top",
   "language": "C++",
@@ -23,12 +24,12 @@
     "websocket-client",
     "websocket-server"
   ],
-  "star_count": 4648,
+  "star_count": 4647,
   "fork_count": 1040,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-18T18:41:55Z",
-  "updated_at": "2026-04-25T04:19:44Z",
+  "updated_at": "2026-04-26T17:35:15Z",
   "pushed_at": "2023-12-08T04:40:11Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 4648
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4647
     }
   ]
 }

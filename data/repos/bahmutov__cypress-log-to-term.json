@@ -4,6 +4,7 @@
   "name": "cypress-log-to-term",
   "full_name": "bahmutov/cypress-log-to-term",
   "description": "Overwrite the cy.log command to print to both the Command Log and to the terminal",
+  "description_ja": "",
   "url": "https://github.com/bahmutov/cypress-log-to-term",
   "homepage_url": "https://cypress.tips/courses/cypress-plugins",
   "language": "JavaScript",
@@ -26,6 +27,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

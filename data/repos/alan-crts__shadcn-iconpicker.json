@@ -4,6 +4,7 @@
   "name": "shadcn-iconpicker",
   "full_name": "alan-crts/shadcn-iconpicker",
   "description": "A searchable icon picker component built with NextJS, Lucide-react, TailwindCSS and shadcn/ui. Features infinite scroll, tooltips, and customizable trigger button.",
+  "description_ja": "Next.js、Lucide-react、TailwindCSS、shadcn/uiで構築された検索可能なアイコンピッカーコンポーネント。無限スクロール、ツールチップ、カスタマイズ可能なトリガーボタンを搭載。",
   "url": "https://github.com/alan-crts/shadcn-iconpicker",
   "homepage_url": "https://icon-picker.alan-courtois.fr/",
   "language": "TypeScript",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 140
+    },
+    {
+      "date": "2026-04-26",
       "stars": 140
     }
   ]

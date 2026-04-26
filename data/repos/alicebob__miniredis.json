@@ -4,6 +4,7 @@
   "name": "miniredis",
   "full_name": "alicebob/miniredis",
   "description": "Pure Go Redis server for Go unittests",
+  "description_ja": "[20] Go ユニットテスト向けの Pure Go 製 Redis サーバー",
   "url": "https://github.com/alicebob/miniredis",
   "homepage_url": "",
   "language": "Go",
@@ -13,12 +14,12 @@
     "redis",
     "unittest"
   ],
-  "star_count": 3517,
+  "star_count": 3519,
   "fork_count": 249,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-09-03T15:24:50Z",
-  "updated_at": "2026-04-24T17:57:58Z",
+  "updated_at": "2026-04-26T07:34:11Z",
   "pushed_at": "2026-04-25T08:32:11Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 3517
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3519
     }
   ]
 }

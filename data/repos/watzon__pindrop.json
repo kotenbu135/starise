@@ -4,6 +4,7 @@
   "name": "pindrop",
   "full_name": "watzon/pindrop",
   "description": "A native macOS menu bar dictation app using local speech-to-text with WhisperKit",
+  "description_ja": "",
   "url": "https://github.com/watzon/pindrop",
   "homepage_url": "https://pindropstt.com",
   "language": "Swift",
@@ -21,12 +22,12 @@
     "test-verify",
     "whisperkit"
   ],
-  "star_count": 471,
+  "star_count": 470,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-26T22:15:21Z",
-  "updated_at": "2026-04-25T12:24:49Z",
+  "updated_at": "2026-04-26T06:55:59Z",
   "pushed_at": "2026-04-21T02:19:42Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 471
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 470
     }
   ]
 }

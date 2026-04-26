@@ -4,6 +4,7 @@
   "name": "luci-app-fleth",
   "full_name": "makeding/luci-app-fleth",
   "description": "luci-app-fleth は、IPv4 over IPv6トンネル（DS-Lite/MAP-E/IPIP6）の自動設定ヘルパです。",
+  "description_ja": "",
   "url": "https://github.com/makeding/luci-app-fleth",
   "homepage_url": "https://fleth.link",
   "language": "Shell",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

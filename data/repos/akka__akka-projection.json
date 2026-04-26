@@ -4,6 +4,7 @@
   "name": "akka-projection",
   "full_name": "akka/akka-projection",
   "description": "Akka Projections is intended for building systems with the CQRS pattern, and facilitate in event-based service-to-service communication.",
+  "description_ja": "Akka ProjectionsはCQRSパターンによるシステム構築を目的とし、イベントベースのサービス間通信を支援する",
   "url": "https://github.com/akka/akka-projection",
   "homepage_url": "https://doc.akka.io/libraries/akka-projection/current/",
   "language": "Scala",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 105
+    },
+    {
+      "date": "2026-04-26",
       "stars": 105
     }
   ]

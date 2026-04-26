@@ -4,6 +4,7 @@
   "name": "typesense",
   "full_name": "typesense/typesense",
   "description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences",
+  "description_ja": "",
   "url": "https://github.com/typesense/typesense",
   "homepage_url": "https://typesense.org",
   "language": "C++",
@@ -30,12 +31,12 @@
     "typo-tolerance",
     "vector-search"
   ],
-  "star_count": 25712,
-  "fork_count": 878,
+  "star_count": 25725,
+  "fork_count": 879,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-01-18T08:01:47Z",
-  "updated_at": "2026-04-25T16:48:35Z",
+  "updated_at": "2026-04-26T16:25:55Z",
   "pushed_at": "2026-04-24T15:38:16Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 25712
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 25725
     }
   ]
 }

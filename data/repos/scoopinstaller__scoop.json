@@ -4,6 +4,7 @@
   "name": "scoop",
   "full_name": "scoopinstaller/scoop",
   "description": "A command-line installer for Windows.",
+  "description_ja": "",
   "url": "https://github.com/ScoopInstaller/Scoop",
   "homepage_url": "https://scoop.sh",
   "language": "PowerShell",
@@ -14,12 +15,12 @@
     "scoop",
     "windows"
   ],
-  "star_count": 24001,
+  "star_count": 24003,
   "fork_count": 1526,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-05-11T03:52:15Z",
-  "updated_at": "2026-04-25T11:15:44Z",
+  "updated_at": "2026-04-26T14:35:51Z",
   "pushed_at": "2026-04-24T05:38:03Z",
   "deleted_at": "",
   "star_history": [
@@ -30,6 +31,10 @@
     {
       "date": "2026-04-25",
       "stars": 24001
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 24003
     }
   ]
 }

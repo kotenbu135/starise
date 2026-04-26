@@ -4,6 +4,7 @@
   "name": "public-image-mirror",
   "full_name": "daocloud/public-image-mirror",
   "description": "很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。",
+  "description_ja": "",
   "url": "https://github.com/DaoCloud/public-image-mirror",
   "homepage_url": "",
   "language": "Shell",
@@ -12,12 +13,12 @@
     "mirror",
     "speedup"
   ],
-  "star_count": 13911,
+  "star_count": 13914,
   "fork_count": 1503,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-09T02:53:40Z",
-  "updated_at": "2026-04-25T16:41:48Z",
+  "updated_at": "2026-04-26T12:34:13Z",
   "pushed_at": "2026-04-17T09:13:32Z",
   "deleted_at": "",
   "star_history": [
@@ -28,6 +29,10 @@
     {
       "date": "2026-04-25",
       "stars": 13911
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 13914
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "fluentstorage",
   "full_name": "robinrodricks/fluentstorage",
   "description": "A polycloud .NET cloud storage abstraction layer. Provides Blob storage (AWS S3, GCP, FTP, SFTP, Azure Blob/File/Event Hub/Data Lake) and Messaging (AWS SQS, Azure Queue/ServiceBus). Supports .NET 5+ and .NET Standard 2.0+. Pure C#.",
+  "description_ja": "",
   "url": "https://github.com/robinrodricks/FluentStorage",
   "homepage_url": "",
   "language": "C#",
@@ -26,12 +27,12 @@
     "ftps",
     "gcp"
   ],
-  "star_count": 425,
+  "star_count": 426,
   "fork_count": 69,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-18T08:04:41Z",
-  "updated_at": "2026-04-20T13:24:10Z",
+  "updated_at": "2026-04-26T00:12:42Z",
   "pushed_at": "2026-04-04T12:13:05Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 425
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 426
     }
   ]
 }

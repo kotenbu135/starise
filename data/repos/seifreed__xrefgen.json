@@ -4,6 +4,7 @@
   "name": "xrefgen",
   "full_name": "seifreed/xrefgen",
   "description": "XrefGen is a professional-grade cross-reference generator that detects indirect references and complex control-flow patterns that IDA Pro may miss. It is designed to feed Mandiant XRefer with additional user xrefs in the exact format the plugin expects.",
+  "description_ja": "",
   "url": "https://github.com/seifreed/xrefgen",
   "homepage_url": "",
   "language": "Python",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 30
+    },
+    {
+      "date": "2026-04-26",
       "stars": 30
     }
   ]

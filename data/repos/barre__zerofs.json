@@ -4,6 +4,7 @@
   "name": "zerofs",
   "full_name": "barre/zerofs",
   "description": "ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com",
+  "description_ja": "",
   "url": "https://github.com/Barre/ZeroFS",
   "homepage_url": "https://www.zerofs.net",
   "language": "Rust",
@@ -17,12 +18,12 @@
     "plan9",
     "s3fs"
   ],
-  "star_count": 1848,
+  "star_count": 1851,
   "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-14T22:22:46Z",
-  "updated_at": "2026-04-24T18:32:21Z",
+  "updated_at": "2026-04-26T15:08:14Z",
   "pushed_at": "2026-04-16T21:55:37Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 1848
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1851
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "distribute_reads",
   "full_name": "ankane/distribute_reads",
   "description": "Scale database reads to replicas in Rails",
+  "description_ja": "Rails向けデータベース読み込みをレプリカへスケール",
   "url": "https://github.com/ankane/distribute_reads",
   "homepage_url": "",
   "language": "Ruby",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 369
+    },
+    {
+      "date": "2026-04-26",
       "stars": 369
     }
   ]

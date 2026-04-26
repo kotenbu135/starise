@@ -4,6 +4,7 @@
   "name": "kafka-proxy",
   "full_name": "grepplabs/kafka-proxy",
   "description": "Proxy connections to Kafka cluster. Connect through SOCKS Proxy, HTTP Proxy or to cluster running in Kubernetes.",
+  "description_ja": "",
   "url": "https://github.com/grepplabs/kafka-proxy",
   "homepage_url": "",
   "language": "Go",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 617
+    },
+    {
+      "date": "2026-04-26",
       "stars": 617
     }
   ]

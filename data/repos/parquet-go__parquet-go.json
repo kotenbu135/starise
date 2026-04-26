@@ -4,6 +4,7 @@
   "name": "parquet-go",
   "full_name": "parquet-go/parquet-go",
   "description": "High-performance Go package to read and write Parquet files",
+  "description_ja": "",
   "url": "https://github.com/parquet-go/parquet-go",
   "homepage_url": "https://pkg.go.dev/github.com/parquet-go/parquet-go",
   "language": "Go",
@@ -16,12 +17,12 @@
     "parquet-files",
     "performance"
   ],
-  "star_count": 704,
+  "star_count": 705,
   "fork_count": 121,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-12T16:50:35Z",
-  "updated_at": "2026-04-22T13:03:09Z",
+  "updated_at": "2026-04-26T11:31:41Z",
   "pushed_at": "2026-04-20T18:31:22Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 704
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 705
     }
   ]
 }

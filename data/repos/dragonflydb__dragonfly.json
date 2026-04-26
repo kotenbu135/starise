@@ -4,6 +4,7 @@
   "name": "dragonfly",
   "full_name": "dragonflydb/dragonfly",
   "description": "A modern replacement for Redis and Memcached",
+  "description_ja": "",
   "url": "https://github.com/dragonflydb/dragonfly",
   "homepage_url": "https://www.dragonflydb.io/",
   "language": "C++",
@@ -25,13 +26,13 @@
     "valkey",
     "vector-search"
   ],
-  "star_count": 30399,
+  "star_count": 30402,
   "fork_count": 1170,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-11T10:00:42Z",
-  "updated_at": "2026-04-25T11:23:48Z",
-  "pushed_at": "2026-04-25T15:50:49Z",
+  "updated_at": "2026-04-26T05:31:06Z",
+  "pushed_at": "2026-04-26T15:12:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +46,10 @@
     {
       "date": "2026-04-25",
       "stars": 30399
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 30402
     }
   ]
 }

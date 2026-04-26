@@ -4,6 +4,7 @@
   "name": "hassio-ecoflow-mqtt-decoder",
   "full_name": "rgarrett93/hassio-ecoflow-mqtt-decoder",
   "description": "EcoFlow MQTT Decoder is a Home Assistant add-on that listens / controls EcoFlow devices using your local MQTT broker instead of the EcoFlow MQTT Cloud Server.",
+  "description_ja": "",
   "url": "https://github.com/RGarrett93/hassio-ecoflow-mqtt-decoder",
   "homepage_url": "",
   "language": "Python",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

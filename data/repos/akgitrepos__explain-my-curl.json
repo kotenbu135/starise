@@ -4,6 +4,7 @@
   "name": "explain-my-curl",
   "full_name": "akgitrepos/explain-my-curl",
   "description": "Takes a curl command and explains DNS/TLS/HTTP details step-by-step",
+  "description_ja": "curlコマンドを受け取り、DNS/TLS/HTTPの詳細を段階的に解説",
   "url": "https://github.com/akgitrepos/explain-my-curl",
   "homepage_url": "",
   "language": "Go",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 97
+    },
+    {
+      "date": "2026-04-26",
       "stars": 97
     }
   ]

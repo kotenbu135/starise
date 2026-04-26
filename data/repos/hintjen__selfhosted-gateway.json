@@ -4,6 +4,7 @@
   "name": "selfhosted-gateway",
   "full_name": "hintjen/selfhosted-gateway",
   "description": "Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.",
+  "description_ja": "",
   "url": "https://github.com/hintjen/selfhosted-gateway",
   "homepage_url": "https://gethomerun.app",
   "language": "Shell",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1698
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1698
     }
   ]

@@ -4,6 +4,7 @@
   "name": "zio-schema",
   "full_name": "zio/zio-schema",
   "description": "Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.",
+  "description_ja": "",
   "url": "https://github.com/zio/zio-schema",
   "homepage_url": "https://zio.dev/zio-schema",
   "language": "Scala",
@@ -19,7 +20,7 @@
     "zio"
   ],
   "star_count": 167,
-  "fork_count": 219,
+  "fork_count": 221,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-21T12:28:31Z",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 167
+    },
+    {
+      "date": "2026-04-26",
       "stars": 167
     }
   ]

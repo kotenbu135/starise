@@ -4,6 +4,7 @@
   "name": "casbin-gateway",
   "full_name": "apache/casbin-gateway",
   "description": "Casbin AI \u0026 MCP security gateway for HTTP, online demo: https://door.caswaf.com",
+  "description_ja": "Casbin AI \u0026 MCPセキュリティゲートウェイ(HTTP対応)。オンラインデモ: https://door.caswaf.com",
   "url": "https://github.com/apache/casbin-gateway",
   "homepage_url": "https://caswaf.org",
   "language": "Go",
@@ -41,6 +42,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 558
+    },
+    {
+      "date": "2026-04-26",
       "stars": 558
     }
   ]

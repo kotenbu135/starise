@@ -4,6 +4,7 @@
   "name": "timecop",
   "full_name": "travisjeffery/timecop",
   "description": "A gem providing \"time travel\", \"time freezing\", and \"time acceleration\" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.",
+  "description_ja": "",
   "url": "https://github.com/travisjeffery/timecop",
   "homepage_url": "",
   "language": "Ruby",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3413
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3413
     }
   ]

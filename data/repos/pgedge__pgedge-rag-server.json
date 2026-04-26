@@ -4,6 +4,7 @@
   "name": "pgedge-rag-server",
   "full_name": "pgedge/pgedge-rag-server",
   "description": "A simple API server for performing Retrieval-Augmented Generation (RAG) of text based on content from a PostgreSQL database using pgvector.",
+  "description_ja": "",
   "url": "https://github.com/pgEdge/pgedge-rag-server",
   "homepage_url": "https://docs.pgedge.com/pgedge-rag-server/",
   "language": "Go",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 39
+    },
+    {
+      "date": "2026-04-26",
       "stars": 39
     }
   ]

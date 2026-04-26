@@ -4,6 +4,7 @@
   "name": "alarik",
   "full_name": "achtungsoftware/alarik",
   "description": "High performance S3 compatible object storage focused on speed and simplicity and designed to be an open alternative to MinIO and RustFS.",
+  "description_ja": "[24] 速度とシンプルさに特化した高性能な S3 互換オブジェクトストレージ。MinIO や RustFS のオープンな代替として設計",
   "url": "https://github.com/achtungsoftware/alarik",
   "homepage_url": "https://alarik.io",
   "language": "Swift",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 263
+    },
+    {
+      "date": "2026-04-26",
       "stars": 263
     }
   ]

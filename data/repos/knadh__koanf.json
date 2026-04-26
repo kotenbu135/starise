@@ -4,6 +4,7 @@
   "name": "koanf",
   "full_name": "knadh/koanf",
   "description": "Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.",
+  "description_ja": "",
   "url": "https://github.com/knadh/koanf",
   "homepage_url": "",
   "language": "Go",
@@ -23,12 +24,12 @@
     "viper",
     "yaml"
   ],
-  "star_count": 3985,
+  "star_count": 3986,
   "fork_count": 184,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-06-18T06:34:05Z",
-  "updated_at": "2026-04-25T11:57:05Z",
+  "updated_at": "2026-04-26T08:46:36Z",
   "pushed_at": "2026-04-03T04:04:01Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 3985
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3986
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "promptfoo",
   "full_name": "promptfoo/promptfoo",
   "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+  "description_ja": "",
   "url": "https://github.com/promptfoo/promptfoo",
   "homepage_url": "https://promptfoo.dev",
   "language": "TypeScript",
@@ -28,13 +29,13 @@
     "testing",
     "vulnerability-scanners"
   ],
-  "star_count": 20558,
-  "fork_count": 1780,
+  "star_count": 20587,
+  "fork_count": 1783,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-28T15:48:49Z",
-  "updated_at": "2026-04-25T16:52:25Z",
-  "pushed_at": "2026-04-25T15:53:26Z",
+  "updated_at": "2026-04-26T16:51:28Z",
+  "pushed_at": "2026-04-26T14:11:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -48,6 +49,10 @@
     {
       "date": "2026-04-25",
       "stars": 20558
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 20587
     }
   ]
 }

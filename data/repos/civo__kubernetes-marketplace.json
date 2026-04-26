@@ -4,6 +4,7 @@
   "name": "kubernetes-marketplace",
   "full_name": "civo/kubernetes-marketplace",
   "description": "Marketplace of Kubernetes applications available for quick and easy installation in to Civo Kubernetes clusters",
+  "description_ja": "",
   "url": "https://github.com/civo/kubernetes-marketplace",
   "homepage_url": "https://www.civo.com/",
   "language": "Shell",
@@ -20,7 +21,7 @@
     "storage"
   ],
   "star_count": 247,
-  "fork_count": 203,
+  "fork_count": 202,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-08-19T19:29:27Z",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 247
+    },
+    {
+      "date": "2026-04-26",
       "stars": 247
     }
   ]

@@ -3,7 +3,8 @@
   "owner": "datazip-inc",
   "name": "olake",
   "full_name": "datazip-inc/olake",
-  "description": "OLake - Fastest Databases, Kafka \u0026 S3 Replication to Apache Iceberg or Plain Parquet. ⚡ Efficient, quick and scalable data ingestion for real-time analytics.  Supported sources :  Postgres, MongoDB, MySQL, Oracle, MSSql, DB2, Kafka, S3.",
+  "description": "OLake - Fastest Databases, Kafka \u0026 S3 Replication to Apache Iceberg with Table optimization (Called OLake Fusion). ⚡ Efficient, quick and scalable data ingestion for real-time analytics.  Supported sources :  Postgres, MongoDB, MySQL, Oracle, MSSql, DB2, Kafka, S3.",
+  "description_ja": "",
   "url": "https://github.com/datazip-inc/olake",
   "homepage_url": "https://olake.io",
   "language": "Go",
@@ -27,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-15T07:39:34Z",
-  "updated_at": "2026-04-22T21:13:10Z",
-  "pushed_at": "2026-04-24T13:54:34Z",
+  "updated_at": "2026-04-26T13:44:33Z",
+  "pushed_at": "2026-04-26T07:15:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1325
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1325
     }
   ]

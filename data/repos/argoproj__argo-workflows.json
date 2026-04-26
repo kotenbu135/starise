@@ -4,6 +4,7 @@
   "name": "argo-workflows",
   "full_name": "argoproj/argo-workflows",
   "description": "Workflow Engine for Kubernetes",
+  "description_ja": "",
   "url": "https://github.com/argoproj/argo-workflows",
   "homepage_url": "https://argo-workflows.readthedocs.io/",
   "language": "Go",
@@ -28,12 +29,12 @@
     "workflow",
     "workflow-engine"
   ],
-  "star_count": 16644,
-  "fork_count": 3509,
+  "star_count": 16647,
+  "fork_count": 3510,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-08-21T18:50:44Z",
-  "updated_at": "2026-04-25T08:05:58Z",
+  "updated_at": "2026-04-26T17:00:45Z",
   "pushed_at": "2026-04-24T07:33:46Z",
   "deleted_at": "",
   "star_history": [
@@ -48,6 +49,10 @@
     {
       "date": "2026-04-25",
       "stars": 16644
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 16647
     }
   ]
 }

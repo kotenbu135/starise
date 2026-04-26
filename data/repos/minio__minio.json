@@ -4,6 +4,7 @@
   "name": "minio",
   "full_name": "minio/minio",
   "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+  "description_ja": "",
   "url": "https://github.com/minio/minio",
   "homepage_url": "",
   "language": "Go",
@@ -22,12 +23,12 @@
     "s3",
     "storage"
   ],
-  "star_count": 60798,
-  "fork_count": 7411,
+  "star_count": 60800,
+  "fork_count": 7414,
   "is_archived": true,
   "is_fork": false,
   "created_at": "2015-01-14T19:23:58Z",
-  "updated_at": "2026-04-25T14:23:10Z",
+  "updated_at": "2026-04-26T16:00:13Z",
   "pushed_at": "2026-04-24T17:54:39Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 60798
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 60800
     }
   ]
 }

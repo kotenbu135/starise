@@ -4,6 +4,7 @@
   "name": "django-o11y",
   "full_name": "adinhodovic/django-o11y",
   "description": "Opinionated, off-the-shelf observability for Django. Drop it in and get traces, structured logs, metrics, and profiling wired up with sensible defaults.",
+  "description_ja": "[27] Django向けの設定済みオブザーバビリティ。導入するだけでトレース、構造化ログ、メトリクス、プロファイリングを妥当なデフォルトで利用可能",
   "url": "https://github.com/adinhodovic/django-o11y",
   "homepage_url": "https://adinhodovic.github.io/django-o11y/.",
   "language": "Python",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 39
+    },
+    {
+      "date": "2026-04-26",
       "stars": 39
     }
   ]

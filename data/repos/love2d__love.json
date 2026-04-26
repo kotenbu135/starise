@@ -4,6 +4,7 @@
   "name": "love",
   "full_name": "love2d/love",
   "description": "LÖVE is an awesome 2D game framework for Lua.",
+  "description_ja": "",
   "url": "https://github.com/love2d/love",
   "homepage_url": "https://love2d.org",
   "language": "C++",
@@ -15,12 +16,12 @@
     "lua",
     "luajit"
   ],
-  "star_count": 8241,
+  "star_count": 8246,
   "fork_count": 584,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-25T18:43:48Z",
-  "updated_at": "2026-04-25T15:30:37Z",
+  "updated_at": "2026-04-26T14:11:24Z",
   "pushed_at": "2026-04-18T02:30:35Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 8241
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8246
     }
   ]
 }

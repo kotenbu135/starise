@@ -4,6 +4,7 @@
   "name": "cucumber",
   "full_name": "cucumber-rs/cucumber",
   "description": "Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.",
+  "description_ja": "",
   "url": "https://github.com/cucumber-rs/cucumber",
   "homepage_url": "https://cucumber-rs.github.io/cucumber/main",
   "language": "Rust",
@@ -15,12 +16,12 @@
     "rust",
     "tdd"
   ],
-  "star_count": 710,
+  "star_count": 709,
   "fork_count": 84,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-06-17T09:12:02Z",
-  "updated_at": "2026-04-25T01:03:24Z",
+  "updated_at": "2026-04-26T11:22:41Z",
   "pushed_at": "2026-04-23T22:25:15Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 710
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 709
     }
   ]
 }

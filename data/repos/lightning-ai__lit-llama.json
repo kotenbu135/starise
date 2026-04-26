@@ -4,6 +4,7 @@
   "name": "lit-llama",
   "full_name": "lightning-ai/lit-llama",
   "description": "Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+  "description_ja": "",
   "url": "https://github.com/Lightning-AI/lit-llama",
   "homepage_url": "",
   "language": "Python",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 6084
+    },
+    {
+      "date": "2026-04-26",
       "stars": 6084
     }
   ]

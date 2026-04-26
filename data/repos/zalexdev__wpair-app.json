@@ -4,6 +4,7 @@
   "name": "wpair-app",
   "full_name": "zalexdev/wpair-app",
   "description": "WPair is a defensive security research tool that demonstrates the CVE-2025-36911 (eg WhisperPair) vulnerability in Google's Fast Pair protocol. This vulnerability affects millions of Bluetooth audio devices worldwide, allowing unauthorized pairing and potential microphone access without user consent.",
+  "description_ja": "",
   "url": "https://github.com/zalexdev/wpair-app",
   "homepage_url": "",
   "language": "Kotlin",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 767
+    },
+    {
+      "date": "2026-04-26",
       "stars": 767
     }
   ]

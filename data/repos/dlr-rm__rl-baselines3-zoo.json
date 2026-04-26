@@ -4,6 +4,7 @@
   "name": "rl-baselines3-zoo",
   "full_name": "dlr-rm/rl-baselines3-zoo",
   "description": "A training framework for Stable Baselines3 reinforcement learning agents, with hyperparameter optimization and pre-trained agents included.",
+  "description_ja": "",
   "url": "https://github.com/DLR-RM/rl-baselines3-zoo",
   "homepage_url": "https://rl-baselines3-zoo.readthedocs.io",
   "language": "Python",
@@ -27,12 +28,12 @@
     "stable-baselines",
     "tuning-hyperparameters"
   ],
-  "star_count": 2785,
+  "star_count": 2786,
   "fork_count": 594,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-05T05:53:27Z",
-  "updated_at": "2026-04-24T11:02:52Z",
+  "updated_at": "2026-04-26T01:53:48Z",
   "pushed_at": "2026-04-23T08:57:36Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 2785
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2786
     }
   ]
 }

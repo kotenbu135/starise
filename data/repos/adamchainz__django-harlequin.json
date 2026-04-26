@@ -4,6 +4,7 @@
   "name": "django-harlequin",
   "full_name": "adamchainz/django-harlequin",
   "description": "Launch Harlequin, the SQL IDE for your Terminal, with your Django database configuration.",
+  "description_ja": "ターミナル向けSQL IDE「Harlequin」をDjangoのデータベース設定で起動。",
   "url": "https://github.com/adamchainz/django-harlequin",
   "homepage_url": "",
   "language": "Python",
@@ -26,6 +27,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 85
+    },
+    {
+      "date": "2026-04-26",
       "stars": 85
     }
   ]

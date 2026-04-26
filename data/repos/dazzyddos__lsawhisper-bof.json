@@ -4,6 +4,7 @@
   "name": "lsawhisper-bof",
   "full_name": "dazzyddos/lsawhisper-bof",
   "description": "A Beacon Object File (BOF) that talks directly to Windows authentication packages through the LSA untrusted/trusted client interface, without touching LSASS process memory.",
+  "description_ja": "",
   "url": "https://github.com/dazzyddos/lsawhisper-bof",
   "homepage_url": "",
   "language": "C",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 296
+    },
+    {
+      "date": "2026-04-26",
       "stars": 296
     }
   ]

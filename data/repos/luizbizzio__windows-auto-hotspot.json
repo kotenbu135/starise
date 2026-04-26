@@ -4,6 +4,7 @@
   "name": "windows-auto-hotspot",
   "full_name": "luizbizzio/windows-auto-hotspot",
   "description": "🛜 A PowerShell script designed to automatically enable and disable your PC's Wi-Fi hotspot based on the Ethernet connection status. Ideal for laptops, it activates the hotspot when Ethernet is connected, ensuring seamless internet sharing without manual intervention.",
+  "description_ja": "",
   "url": "https://github.com/luizbizzio/windows-auto-hotspot",
   "homepage_url": "https://github.com/luizbizzio/windows-auto-hotspot",
   "language": "PowerShell",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 35
+    },
+    {
+      "date": "2026-04-26",
       "stars": 35
     }
   ]

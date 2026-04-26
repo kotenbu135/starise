@@ -4,6 +4,7 @@
   "name": "diy-llm",
   "full_name": "datawhalechina/diy-llm",
   "description": "🎓 系统性大语言模型构建课程｜🛠️ 覆盖预训练数据工程、Tokenizer、Transformer、MoE、GPU 编程 (CUDA/Triton)、分布式训练、Scaling Laws、推理优化及对齐 (SFT/RLHF/GRPO)｜🚀 6 个渐进式作业 + 代码驱动，建立 LLM 全栈认知体系",
+  "description_ja": "",
   "url": "https://github.com/datawhalechina/diy-llm",
   "homepage_url": "https://datawhalechina.github.io/diy-llm/",
   "language": "Jupyter Notebook",
@@ -17,12 +18,12 @@
     "transformer",
     "triton"
   ],
-  "star_count": 642,
+  "star_count": 646,
   "fork_count": 76,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-24T02:51:46Z",
-  "updated_at": "2026-04-25T14:53:21Z",
+  "updated_at": "2026-04-26T10:02:35Z",
   "pushed_at": "2026-04-24T02:58:52Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 642
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 646
     }
   ]
 }

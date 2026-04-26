@@ -4,6 +4,7 @@
   "name": "nvim-mcp",
   "full_name": "linw1995/nvim-mcp",
   "description": "A Model Context Protocol (MCP) server that provides seamless integration with Neovim instances, enabling AI assistants to interact with your editor through connections and access diagnostic information via structured resources.",
+  "description_ja": "",
   "url": "https://github.com/linw1995/nvim-mcp",
   "homepage_url": "",
   "language": "Rust",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

@@ -4,6 +4,7 @@
   "name": "hashcat",
   "full_name": "hashcat/hashcat",
   "description": "World's fastest and most advanced password recovery utility",
+  "description_ja": "",
   "url": "https://github.com/hashcat/hashcat",
   "homepage_url": "https://hashcat.net/hashcat/",
   "language": "C",
@@ -18,12 +19,12 @@
     "opencl",
     "password"
   ],
-  "star_count": 25844,
-  "fork_count": 3414,
+  "star_count": 25851,
+  "fork_count": 3415,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-12-04T14:46:51Z",
-  "updated_at": "2026-04-25T15:23:11Z",
+  "updated_at": "2026-04-26T11:43:15Z",
   "pushed_at": "2026-02-20T11:54:48Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 25844
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 25851
     }
   ]
 }

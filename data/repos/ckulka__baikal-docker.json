@@ -4,6 +4,7 @@
   "name": "baikal-docker",
   "full_name": "ckulka/baikal-docker",
   "description": "Provides a ready-to-go Baikal server, incl. docker-compose.yml \u0026 Systemd service file",
+  "description_ja": "",
   "url": "https://github.com/ckulka/baikal-docker",
   "homepage_url": "https://hub.docker.com/r/ckulka/baikal",
   "language": "PHP",
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 614
+    },
+    {
+      "date": "2026-04-26",
       "stars": 614
     }
   ]

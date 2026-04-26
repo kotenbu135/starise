@@ -4,6 +4,7 @@
   "name": "ios-backports",
   "full_name": "superwall/ios-backports",
   "description": "SwiftUI-Backports makes it easy to use the latest SwiftUI modifier, like those introduced in iOS 26, while still supporting older iOS versions. With a simple .backport modifier, you can write modern SwiftUI code without wrapping every new API in #available checks. It’s lightweight, drop-in ready, and keeps your UI code clean and future-proof.",
+  "description_ja": "",
   "url": "https://github.com/superwall/iOS-Backports",
   "homepage_url": "https://superwall.com",
   "language": "Swift",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 399
+    },
+    {
+      "date": "2026-04-26",
       "stars": 399
     }
   ]

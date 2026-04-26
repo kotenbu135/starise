@@ -4,6 +4,7 @@
   "name": "lazy-ninja",
   "full_name": "aghastygd/lazy-ninja",
   "description": "A Django library that turns your models into instant APIs. Built on top of Django Ninja, it auto-generates structured, documented endpoints so you can skip the boilerplate and ship faster",
+  "description_ja": "Djangoモデルを即座にAPI化するライブラリ。Django Ninjaをベースに構築され、構造化されたドキュメント付きエンドポイントを自動生成。ボイラープレートを省略して高速に開発可能",
   "url": "https://github.com/AghastyGD/lazy-ninja",
   "homepage_url": "https://lazy-ninja.readthedocs.io",
   "language": "Python",
@@ -23,7 +24,7 @@
   "is_fork": false,
   "created_at": "2025-02-09T20:07:46Z",
   "updated_at": "2026-04-16T16:58:48Z",
-  "pushed_at": "2026-04-16T17:05:12Z",
+  "pushed_at": "2026-04-26T11:32:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 54
+    },
+    {
+      "date": "2026-04-26",
       "stars": 54
     }
   ]

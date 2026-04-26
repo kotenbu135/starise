@@ -4,6 +4,7 @@
   "name": "phoenix",
   "full_name": "acinq/phoenix",
   "description": "Phoenix is a self-custodial Bitcoin wallet using Lightning to send/receive payments.",
+  "description_ja": "[37] Phoenix は Lightning で送受信を行うセルフカストディの Bitcoin ウォレット",
   "url": "https://github.com/ACINQ/phoenix",
   "homepage_url": "https://phoenix.acinq.co",
   "language": "Kotlin",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 832
+    },
+    {
+      "date": "2026-04-26",
       "stars": 832
     }
   ]

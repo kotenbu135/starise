@@ -4,6 +4,7 @@
   "name": "supabase",
   "full_name": "supabase/supabase",
   "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+  "description_ja": "",
   "url": "https://github.com/supabase/supabase",
   "homepage_url": "https://supabase.com",
   "language": "TypeScript",
@@ -29,13 +30,13 @@
     "vectors",
     "websockets"
   ],
-  "star_count": 101416,
-  "fork_count": 12174,
+  "star_count": 101456,
+  "fork_count": 12187,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-10-12T05:56:49Z",
-  "updated_at": "2026-04-25T17:17:03Z",
-  "pushed_at": "2026-04-25T10:28:54Z",
+  "updated_at": "2026-04-26T17:20:12Z",
+  "pushed_at": "2026-04-26T14:32:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +58,10 @@
     {
       "date": "2026-04-25",
       "stars": 101416
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 101456
     }
   ]
 }

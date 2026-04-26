@@ -4,6 +4,7 @@
   "name": "agent-fs",
   "full_name": "geekjourneyx/agent-fs",
   "description": " A CLI tool for AI Agents to handle file operations and cloud storage with JSON output.            Support for S3, R2, MinIO, and more. Token-aware, secure, and agent-first design.",
+  "description_ja": "",
   "url": "https://github.com/geekjourneyx/agent-fs",
   "homepage_url": "",
   "language": "Go",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

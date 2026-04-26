@@ -4,6 +4,7 @@
   "name": "django-pghistory",
   "full_name": "ambitioneng/django-pghistory",
   "description": "Track historical events to Django models using Postgres triggers.",
+  "description_ja": "PostgreSQLトリガーでDjangoモデルの履歴イベントを追跡",
   "url": "https://github.com/AmbitionEng/django-pghistory",
   "homepage_url": "https://django-pghistory.readthedocs.io",
   "language": "Python",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 519
+    },
+    {
+      "date": "2026-04-26",
       "stars": 519
     }
   ]

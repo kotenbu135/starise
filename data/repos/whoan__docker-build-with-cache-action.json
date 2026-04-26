@@ -4,6 +4,7 @@
   "name": "docker-build-with-cache-action",
   "full_name": "whoan/docker-build-with-cache-action",
   "description": ":octocat: Build and push docker images caching each stage to reduce build time",
+  "description_ja": "",
   "url": "https://github.com/whoan/docker-build-with-cache-action",
   "homepage_url": "",
   "language": "Shell",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 350
+    },
+    {
+      "date": "2026-04-26",
       "stars": 350
     }
   ]

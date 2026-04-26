@@ -4,6 +4,7 @@
   "name": "rbac-lookup",
   "full_name": "fairwindsops/rbac-lookup",
   "description": "Easily find roles and cluster roles attached to any user, service account, or group name in your Kubernetes cluster",
+  "description_ja": "",
   "url": "https://github.com/FairwindsOps/rbac-lookup",
   "homepage_url": "https://fairwinds.com",
   "language": "Go",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 967
+    },
+    {
+      "date": "2026-04-26",
       "stars": 967
     }
   ]

@@ -4,6 +4,7 @@
   "name": "preswald",
   "full_name": "structuredlabs/preswald",
   "description": "Preswald is a WASM packager for Python-based interactive data apps: bundle full complex data workflows, particularly visualizations, into single files, runnable completely in-browser, using Pyodide, DuckDB, Pandas, and Plotly, Matplotlib, etc. Build dashboards, reports, and notebooks that run offline, load fast, and share like a document.",
+  "description_ja": "",
   "url": "https://github.com/StructuredLabs/preswald",
   "homepage_url": "https://www.preswald.com/",
   "language": "Python",
@@ -31,7 +32,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-14T08:56:02Z",
-  "updated_at": "2026-04-25T03:29:44Z",
+  "updated_at": "2026-04-26T15:36:46Z",
   "pushed_at": "2026-04-14T03:51:06Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 4286
+    },
+    {
+      "date": "2026-04-26",
       "stars": 4286
     }
   ]

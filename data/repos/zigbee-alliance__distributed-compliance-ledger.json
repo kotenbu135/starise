@@ -4,6 +4,7 @@
   "name": "distributed-compliance-ledger",
   "full_name": "zigbee-alliance/distributed-compliance-ledger",
   "description": "DCL is a public permissioned ledger framework for certification of device models. The ledger is based on Cosmos SDK and CometBFT (Tendermint).",
+  "description_ja": "",
   "url": "https://github.com/zigbee-alliance/distributed-compliance-ledger",
   "homepage_url": "",
   "language": "TypeScript",
@@ -20,7 +21,7 @@
     "zigbee"
   ],
   "star_count": 97,
-  "fork_count": 58,
+  "fork_count": 57,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-07-13T15:42:09Z",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 97
+    },
+    {
+      "date": "2026-04-26",
       "stars": 97
     }
   ]

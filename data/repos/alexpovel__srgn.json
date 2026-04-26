@@ -4,6 +4,7 @@
   "name": "srgn",
   "full_name": "alexpovel/srgn",
   "description": "A grep-like tool which understands source code syntax and allows for manipulation in addition to search",
+  "description_ja": "ソースコード構文を理解するgrep系ツール。検索だけでなく操作も可能。",
   "url": "https://github.com/alexpovel/srgn",
   "homepage_url": "https://crates.io/crates/srgn/",
   "language": "Rust",
@@ -46,6 +47,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 890
+    },
+    {
+      "date": "2026-04-26",
       "stars": 890
     }
   ]

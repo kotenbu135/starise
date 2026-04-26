@@ -4,6 +4,7 @@
   "name": "ramalama",
   "full_name": "containers/ramalama",
   "description": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers.",
+  "description_ja": "",
   "url": "https://github.com/containers/ramalama",
   "homepage_url": "https://ramalama.ai",
   "language": "Python",
@@ -21,13 +22,13 @@
     "podman",
     "vllm"
   ],
-  "star_count": 2787,
+  "star_count": 2789,
   "fork_count": 335,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-24T19:09:58Z",
-  "updated_at": "2026-04-25T12:00:59Z",
-  "pushed_at": "2026-04-25T08:13:56Z",
+  "updated_at": "2026-04-26T16:17:54Z",
+  "pushed_at": "2026-04-26T12:07:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 2787
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2789
     }
   ]
 }

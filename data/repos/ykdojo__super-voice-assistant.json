@@ -4,6 +4,7 @@
   "name": "super-voice-assistant",
   "full_name": "ykdojo/super-voice-assistant",
   "description": "macOS voice assistant with global hotkeys - transcribe speech to text with offline models (WhisperKit or Parakeet) or cloud-based Gemini API, capture and transcribe screen recordings with visual context, and read selected text aloud with Gemini Live.",
+  "description_ja": "",
   "url": "https://github.com/ykdojo/super-voice-assistant",
   "homepage_url": "",
   "language": "Swift",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 185
+    },
+    {
+      "date": "2026-04-26",
       "stars": 185
     }
   ]

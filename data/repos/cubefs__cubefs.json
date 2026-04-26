@@ -4,6 +4,7 @@
   "name": "cubefs",
   "full_name": "cubefs/cubefs",
   "description": "cloud-native distributed storage",
+  "description_ja": "",
   "url": "https://github.com/cubefs/cubefs",
   "homepage_url": "https://cubefs.io",
   "language": "Go",
@@ -22,12 +23,12 @@
     "kubernetes",
     "object-storage"
   ],
-  "star_count": 5546,
-  "fork_count": 697,
+  "star_count": 5548,
+  "fork_count": 698,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-02-19T03:15:04Z",
-  "updated_at": "2026-04-25T03:06:23Z",
+  "updated_at": "2026-04-26T13:52:36Z",
   "pushed_at": "2026-04-23T08:29:32Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 5546
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5548
     }
   ]
 }

@@ -4,17 +4,18 @@
   "name": "bjorn",
   "full_name": "infinition/bjorn",
   "description": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.",
+  "description_ja": "",
   "url": "https://github.com/infinition/Bjorn",
   "homepage_url": "https://infinition.github.io/Bjorn/",
   "language": "Python",
   "license": "MIT",
   "topics": [],
-  "star_count": 5882,
-  "fork_count": 345,
+  "star_count": 5883,
+  "fork_count": 346,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-02T11:33:14Z",
-  "updated_at": "2026-04-25T11:53:07Z",
+  "updated_at": "2026-04-25T17:40:14Z",
   "pushed_at": "2026-03-19T16:00:00Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +30,10 @@
     {
       "date": "2026-04-25",
       "stars": 5882
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5883
     }
   ]
 }

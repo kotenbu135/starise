@@ -4,6 +4,7 @@
   "name": "paddledetection",
   "full_name": "paddlepaddle/paddledetection",
   "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+  "description_ja": "",
   "url": "https://github.com/PaddlePaddle/PaddleDetection",
   "homepage_url": "",
   "language": "Python",
@@ -30,12 +31,12 @@
     "yolov7",
     "yolox"
   ],
-  "star_count": 14180,
+  "star_count": 14181,
   "fork_count": 3023,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-10-25T07:21:14Z",
-  "updated_at": "2026-04-24T14:28:19Z",
+  "updated_at": "2026-04-26T06:07:12Z",
   "pushed_at": "2026-03-19T13:53:33Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 14180
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 14181
     }
   ]
 }

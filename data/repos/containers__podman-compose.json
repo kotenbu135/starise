@@ -4,6 +4,7 @@
   "name": "podman-compose",
   "full_name": "containers/podman-compose",
   "description": "a script to run docker-compose.yml using podman",
+  "description_ja": "",
   "url": "https://github.com/containers/podman-compose",
   "homepage_url": "",
   "language": "Python",
@@ -14,12 +15,12 @@
     "podman",
     "rootless-containers"
   ],
-  "star_count": 6054,
+  "star_count": 6056,
   "fork_count": 588,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-03-04T08:52:30Z",
-  "updated_at": "2026-04-24T12:13:15Z",
+  "updated_at": "2026-04-26T13:47:27Z",
   "pushed_at": "2026-04-22T07:25:43Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 6054
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 6056
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "skills",
   "full_name": "qdrant/skills",
   "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, Java",
+  "description_ja": "",
   "url": "https://github.com/qdrant/skills",
   "homepage_url": "https://skills.qdrant.tech",
   "language": "Python",
@@ -26,12 +27,12 @@
     "vector-database",
     "vector-search"
   ],
-  "star_count": 85,
-  "fork_count": 10,
+  "star_count": 86,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-29T18:14:49Z",
-  "updated_at": "2026-04-25T02:37:41Z",
+  "updated_at": "2026-04-26T00:00:52Z",
   "pushed_at": "2026-04-23T09:50:38Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 85
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 86
     }
   ]
 }

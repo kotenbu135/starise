@@ -4,6 +4,7 @@
   "name": "libafl",
   "full_name": "aflplusplus/libafl",
   "description": "Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...",
+  "description_ja": "高度なファジングライブラリ - RustでFuzzerを組み立てる！コアやマシン間でスケール。Windows、Android、MacOS、Linux、no_std対応",
   "url": "https://github.com/AFLplusplus/LibAFL",
   "homepage_url": "",
   "language": "Rust",
@@ -20,12 +21,12 @@
     "libafl",
     "rust"
   ],
-  "star_count": 2558,
+  "star_count": 2560,
   "fork_count": 468,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-22T23:53:37Z",
-  "updated_at": "2026-04-25T15:12:07Z",
+  "updated_at": "2026-04-26T11:21:58Z",
   "pushed_at": "2026-04-24T17:02:52Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 2558
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2560
     }
   ]
 }

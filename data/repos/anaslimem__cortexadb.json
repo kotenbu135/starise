@@ -4,6 +4,7 @@
   "name": "cortexadb",
   "full_name": "anaslimem/cortexadb",
   "description": "It is a simple, fast, and hard-durable embedded database designed specifically for AI agent memory. It provides a single-file-like experience (no server required) but with native support for vectors, graphs, and temporal search.",
+  "description_ja": "AI エージェントのメモリ用途に特化した、シンプル・高速・堅牢な組み込みデータベース。シングルファイル感覚（サーバー不要）で利用でき、ベクトル・グラフ・時系列検索をネイティブにサポート。",
   "url": "https://github.com/anaslimem/CortexaDB",
   "homepage_url": "https://cortexa-db.vercel.app",
   "language": "Rust",
@@ -16,12 +17,12 @@
     "rust",
     "vector-database"
   ],
-  "star_count": 40,
+  "star_count": 41,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-21T12:45:36Z",
-  "updated_at": "2026-04-21T11:05:54Z",
+  "updated_at": "2026-04-25T19:32:52Z",
   "pushed_at": "2026-04-21T11:05:49Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 40
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 41
     }
   ]
 }

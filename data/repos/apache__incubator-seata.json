@@ -4,6 +4,7 @@
   "name": "incubator-seata",
   "full_name": "apache/incubator-seata",
   "description": ":fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
+  "description_ja": "",
   "url": "https://github.com/apache/incubator-seata",
   "homepage_url": "https://seata.apache.org/",
   "language": "Java",
@@ -17,12 +18,12 @@
     "tcc",
     "xa"
   ],
-  "star_count": 25968,
-  "fork_count": 8885,
+  "star_count": 25967,
+  "fork_count": 8882,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-12-28T08:37:22Z",
-  "updated_at": "2026-04-25T07:48:46Z",
+  "updated_at": "2026-04-25T23:07:07Z",
   "pushed_at": "2026-04-24T05:42:26Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 25968
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 25967
     }
   ]
 }

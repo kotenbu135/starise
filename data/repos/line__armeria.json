@@ -4,6 +4,7 @@
   "name": "armeria",
   "full_name": "line/armeria",
   "description": "Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.",
+  "description_ja": "",
   "url": "https://github.com/line/armeria",
   "homepage_url": "https://armeria.dev",
   "language": "Java",
@@ -31,7 +32,7 @@
     "thrift-server"
   ],
   "star_count": 5101,
-  "fork_count": 989,
+  "fork_count": 988,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-11-16T04:04:01Z",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5101
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5101
     }
   ]

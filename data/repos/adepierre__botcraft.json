@@ -4,6 +4,7 @@
   "name": "botcraft",
   "full_name": "adepierre/botcraft",
   "description": "Botcraft is a cross-platform C++ library to create bots that connect and interact with Minecraft servers with (optional) integrated OpenGL renderer",
+  "description_ja": "[48] Botcraft は Minecraft サーバーへ接続・操作するボットを作成するクロスプラットフォーム C++ ライブラリ。OpenGL レンダラーを統合可能 (オプション)",
   "url": "https://github.com/adepierre/Botcraft",
   "homepage_url": "",
   "language": "C++",
@@ -15,12 +16,12 @@
     "minecraft",
     "opengl"
   ],
-  "star_count": 569,
+  "star_count": 570,
   "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-07-23T20:28:25Z",
-  "updated_at": "2026-04-24T05:21:59Z",
+  "updated_at": "2026-04-26T11:53:02Z",
   "pushed_at": "2026-04-10T23:31:56Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 569
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 570
     }
   ]
 }

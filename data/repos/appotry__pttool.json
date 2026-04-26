@@ -4,6 +4,7 @@
   "name": "pttool",
   "full_name": "appotry/pttool",
   "description": "自动化硬链接工具，在最大可能情况下节约空间，并保持做种。 小于1M的文件直接复制，刮削修改nfo等小文件不影响做种。 大于1M的文件硬链接到目的目录，可以随意修改文件名。",
+  "description_ja": "",
   "url": "https://github.com/appotry/PTtool",
   "homepage_url": "",
   "language": "Shell",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 648
+    },
+    {
+      "date": "2026-04-26",
       "stars": 648
     }
   ]

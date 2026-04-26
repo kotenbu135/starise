@@ -4,6 +4,7 @@
   "name": "starrocks",
   "full_name": "starrocks/starrocks",
   "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+  "description_ja": "",
   "url": "https://github.com/StarRocks/starrocks",
   "homepage_url": "https://starrocks.io",
   "language": "Java",
@@ -30,13 +31,13 @@
     "star-schema",
     "vectorized"
   ],
-  "star_count": 11612,
-  "fork_count": 2399,
+  "star_count": 11614,
+  "fork_count": 2400,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-04T02:29:35Z",
-  "updated_at": "2026-04-25T16:31:28Z",
-  "pushed_at": "2026-04-25T16:31:23Z",
+  "updated_at": "2026-04-26T17:11:14Z",
+  "pushed_at": "2026-04-26T17:11:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 11612
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 11614
     }
   ]
 }

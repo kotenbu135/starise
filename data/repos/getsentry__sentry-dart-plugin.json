@@ -4,6 +4,7 @@
   "name": "sentry-dart-plugin",
   "full_name": "getsentry/sentry-dart-plugin",
   "description": "A Dart Build Plugin that uploads debug symbols for Android, iOS/macOS and source maps for Web to Sentry via sentry-cli",
+  "description_ja": "",
   "url": "https://github.com/getsentry/sentry-dart-plugin",
   "homepage_url": "",
   "language": "Dart",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 75
+    },
+    {
+      "date": "2026-04-26",
       "stars": 75
     }
   ]

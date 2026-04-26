@@ -4,6 +4,7 @@
   "name": "elastiknn",
   "full_name": "alexklibisz/elastiknn",
   "description": "Elasticsearch plugin for nearest neighbor search. Store vectors and run similarity search using exact and approximate algorithms.",
+  "description_ja": "近傍探索用のElasticsearchプラグイン。ベクトルを保存し、厳密および近似アルゴリズムによる類似性検索を実行",
   "url": "https://github.com/alexklibisz/elastiknn",
   "homepage_url": "https://alexklibisz.github.io/elastiknn",
   "language": "Scala",
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 393
+    },
+    {
+      "date": "2026-04-26",
       "stars": 393
     }
   ]

@@ -4,6 +4,7 @@
   "name": "killwxapkg",
   "full_name": "ackites/killwxapkg",
   "description": "自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改",
+  "description_ja": "[40] WeChat ミニプログラムを自動的に逆コンパイルするツール、ミニプログラムのセキュリティ評価ツール。セキュリティ問題の発見、自動復号、アンパック、プロジェクトディレクトリの復元に対応し、Hook やミニプログラムの改造もサポート",
   "url": "https://github.com/Ackites/KillWxapkg",
   "homepage_url": "https://x.com/intent/follow?screen_name=actkites",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5761
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5761
     }
   ]

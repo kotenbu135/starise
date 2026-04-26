@@ -4,6 +4,7 @@
   "name": "docker-shared-services",
   "full_name": "wayofdev/docker-shared-services",
   "description": "🐳 Docker-powered local development environment for macOS and Linux, featuring Traefik with SSL support via mkcert. Streamlines development by eliminating `/etc/hosts` edits, resolving port conflicts. Local domains supported via dnsmasq. Ideal for HTTP-based projects like Laravel or Symfony. Enhances workflow consistency and team productivity.",
+  "description_ja": "",
   "url": "https://github.com/wayofdev/docker-shared-services",
   "homepage_url": "https://wayof.dev",
   "language": "Makefile",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 44
+    },
+    {
+      "date": "2026-04-26",
       "stars": 44
     }
   ]

@@ -4,6 +4,7 @@
   "name": "storm",
   "full_name": "stanford-oval/storm",
   "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+  "description_ja": "",
   "url": "https://github.com/stanford-oval/storm",
   "homepage_url": "http://storm.genie.stanford.edu",
   "language": "Python",
@@ -19,12 +20,12 @@
     "report-generation",
     "retrieval-augmented-generation"
   ],
-  "star_count": 28129,
-  "fork_count": 2561,
+  "star_count": 28131,
+  "fork_count": 2560,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-24T16:23:39Z",
-  "updated_at": "2026-04-25T16:48:43Z",
+  "updated_at": "2026-04-26T14:39:59Z",
   "pushed_at": "2025-09-30T18:07:21Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +40,10 @@
     {
       "date": "2026-04-25",
       "stars": 28129
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 28131
     }
   ]
 }

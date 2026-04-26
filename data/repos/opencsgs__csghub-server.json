@@ -4,6 +4,7 @@
   "name": "csghub-server",
   "full_name": "opencsgs/csghub-server",
   "description": "csghub-server is the backend server for CSGHub which helps user to manage datasets, modes, and also run Model Inference, Finetune and Application Spaces.",
+  "description_ja": "",
   "url": "https://github.com/OpenCSGs/csghub-server",
   "homepage_url": "https://opencsg.com/models",
   "language": "Go",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1125
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1125
     }
   ]

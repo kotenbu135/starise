@@ -4,6 +4,7 @@
   "name": "inlets-operator",
   "full_name": "inlets/inlets-operator",
   "description": "Get public TCP LoadBalancers for local Kubernetes clusters",
+  "description_ja": "",
   "url": "https://github.com/inlets/inlets-operator",
   "homepage_url": "https://docs.inlets.dev/reference/inlets-operator",
   "language": "Go",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1430
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1430
     }
   ]

@@ -4,6 +4,7 @@
   "name": "unity-dependencies-hunter",
   "full_name": "alexeyperov/unity-dependencies-hunter",
   "description": "This tool finds unreferenced assets by scanning all files in your Unity project.",
+  "description_ja": "Unityプロジェクト内の全ファイルをスキャンして未参照のアセットを検出するツール",
   "url": "https://github.com/AlexeyPerov/Unity-Dependencies-Hunter",
   "homepage_url": "",
   "language": "C#",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 710
+    },
+    {
+      "date": "2026-04-26",
       "stars": 710
     }
   ]

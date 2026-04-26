@@ -4,6 +4,7 @@
   "name": "server",
   "full_name": "triton-inference-server/server",
   "description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution. ",
+  "description_ja": "",
   "url": "https://github.com/triton-inference-server/server",
   "homepage_url": "https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html",
   "language": "Python",
@@ -17,12 +18,12 @@
     "inference",
     "machine-learning"
   ],
-  "star_count": 10605,
-  "fork_count": 1763,
+  "star_count": 10612,
+  "fork_count": 1766,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-10-04T21:10:30Z",
-  "updated_at": "2026-04-25T07:06:28Z",
+  "updated_at": "2026-04-26T16:26:58Z",
   "pushed_at": "2026-04-25T03:45:22Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 10605
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 10612
     }
   ]
 }

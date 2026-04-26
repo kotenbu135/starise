@@ -4,6 +4,7 @@
   "name": "create-github-app-token",
   "full_name": "actions/create-github-app-token",
   "description": "GitHub Action for creating a GitHub App Installation Access Token",
+  "description_ja": "GitHub App Installation Access Tokenを作成するGitHub Action",
   "url": "https://github.com/actions/create-github-app-token",
   "homepage_url": "https://github.com/marketplace/actions/create-github-app-token",
   "language": "JavaScript",
@@ -14,12 +15,12 @@
     "hacktoberfest",
     "tokens"
   ],
-  "star_count": 792,
+  "star_count": 793,
   "fork_count": 150,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-18T22:34:57Z",
-  "updated_at": "2026-04-24T13:24:37Z",
+  "updated_at": "2026-04-25T21:24:01Z",
   "pushed_at": "2026-04-21T16:56:11Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 792
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 793
     }
   ]
 }

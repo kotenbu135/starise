@@ -4,6 +4,7 @@
   "name": "opendocuments",
   "full_name": "joungminsung/opendocuments",
   "description": "Open source RAG tool for AI document search - connect GitHub, Notion, Google Drive and ask questions with cited answers. Self-hosted with Ollama/OpenAI/Claude.",
+  "description_ja": "",
   "url": "https://github.com/joungminsung/OpenDocuments",
   "homepage_url": "",
   "language": "TypeScript",
@@ -29,12 +30,12 @@
     "typescript",
     "vector-search"
   ],
-  "star_count": 67,
+  "star_count": 68,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-27T03:23:14Z",
-  "updated_at": "2026-04-22T08:27:50Z",
+  "updated_at": "2026-04-26T03:14:56Z",
   "pushed_at": "2026-04-22T04:02:24Z",
   "deleted_at": "",
   "star_history": [
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-25",
       "stars": 67
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 68
     }
   ]
 }

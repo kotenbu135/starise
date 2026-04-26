@@ -4,6 +4,7 @@
   "name": "ffmpeg",
   "full_name": "ffmpeg/ffmpeg",
   "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
+  "description_ja": "",
   "url": "https://github.com/FFmpeg/FFmpeg",
   "homepage_url": "https://ffmpeg.org/",
   "language": "C",
@@ -25,13 +26,13 @@
     "video",
     "webm"
   ],
-  "star_count": 59269,
-  "fork_count": 13747,
+  "star_count": 59300,
+  "fork_count": 13746,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-04-14T14:12:38Z",
-  "updated_at": "2026-04-25T17:14:08Z",
-  "pushed_at": "2026-04-25T17:14:03Z",
+  "updated_at": "2026-04-26T17:18:16Z",
+  "pushed_at": "2026-04-26T15:29:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -53,6 +54,10 @@
     {
       "date": "2026-04-25",
       "stars": 59269
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 59300
     }
   ]
 }

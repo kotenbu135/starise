@@ -4,6 +4,7 @@
   "name": "licenseplate_yolov8_filters_paddleocr",
   "full_name": "ablanco1950/licenseplate_yolov8_filters_paddleocr",
   "description": "Recognition of license plate numbers, in any format, by automatic detection with Yolov8, pipeline of filters and  paddleocr as OCR",
+  "description_ja": "Yolov8 による自動検出、フィルタパイプライン、OCR としての paddleocr を用いた、任意の形式のナンバープレート認識",
   "url": "https://github.com/ablanco1950/LicensePlate_Yolov8_Filters_PaddleOCR",
   "homepage_url": "",
   "language": "Python",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 31
+    },
+    {
+      "date": "2026-04-26",
       "stars": 31
     }
   ]

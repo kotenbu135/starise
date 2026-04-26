@@ -4,6 +4,7 @@
   "name": "magiskmodulemanager",
   "full_name": "androidacy/magiskmodulemanager",
   "description": "Previously known as Fox's Magisk Module Manager (FoxMMM), this app helps users find, install \"Magisk Modules\" - powerful little zips/apps for your device that plug into the Magisk framework.",
+  "description_ja": "旧称Fox's Magisk Module Manager (FoxMMM)。Magiskフレームワークに組み込まれる強力なzip/アプリ「Magisk Modules」を検索・インストールできるアプリ。",
   "url": "https://github.com/Androidacy/MagiskModuleManager",
   "homepage_url": "https://www.androidacy.com",
   "language": "Kotlin",
@@ -15,12 +16,12 @@
     "magisk-manager",
     "root"
   ],
-  "star_count": 1202,
+  "star_count": 1203,
   "fork_count": 45,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-01T17:38:55Z",
-  "updated_at": "2026-04-23T09:37:46Z",
+  "updated_at": "2026-04-26T14:25:00Z",
   "pushed_at": "2026-04-09T19:36:46Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 1202
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1203
     }
   ]
 }

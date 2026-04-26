@@ -4,6 +4,7 @@
   "name": "raft-boltdb",
   "full_name": "hashicorp/raft-boltdb",
   "description": "Raft backend implementation using BoltDB",
+  "description_ja": "",
   "url": "https://github.com/hashicorp/raft-boltdb",
   "homepage_url": "",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 705
+    },
+    {
+      "date": "2026-04-26",
       "stars": 705
     }
   ]

@@ -4,6 +4,7 @@
   "name": "listenbrainz-server",
   "full_name": "metabrainz/listenbrainz-server",
   "description": "Server for the ListenBrainz project, including the front-end (javascript/react) code that it serves and all of the data processing components that LB uses.",
+  "description_ja": "",
   "url": "https://github.com/metabrainz/listenbrainz-server",
   "homepage_url": "https://listenbrainz.org/",
   "language": "Python",
@@ -20,12 +21,12 @@
     "web"
   ],
   "star_count": 941,
-  "fork_count": 341,
+  "fork_count": 342,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-09-05T12:30:49Z",
   "updated_at": "2026-04-25T15:14:30Z",
-  "pushed_at": "2026-04-24T11:07:10Z",
+  "pushed_at": "2026-04-26T17:11:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +39,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 941
+    },
+    {
+      "date": "2026-04-26",
       "stars": 941
     }
   ]

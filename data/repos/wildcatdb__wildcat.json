@@ -4,6 +4,7 @@
   "name": "wildcat",
   "full_name": "wildcatdb/wildcat",
   "description": "Open-source bLSM-like storage engine for highly concurrent, transactional key-value storage.",
+  "description_ja": "",
   "url": "https://github.com/wildcatdb/wildcat",
   "homepage_url": "https://wildcatdb.com/",
   "language": "Go",
@@ -45,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 252
+    },
+    {
+      "date": "2026-04-26",
       "stars": 252
     }
   ]

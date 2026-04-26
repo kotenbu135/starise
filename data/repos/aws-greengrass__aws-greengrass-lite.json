@@ -4,6 +4,7 @@
   "name": "aws-greengrass-lite",
   "full_name": "aws-greengrass/aws-greengrass-lite",
   "description": "The Greengrass nucleus lite provides a lightweight alternative to the Greengrass nucleus runtime. The nucleus lite aims to be compatible with the Greengrass nucleus, but implements a subset of its functionality. Expect future releases to reduce the feature gap.",
+  "description_ja": "",
   "url": "https://github.com/aws-greengrass/aws-greengrass-lite",
   "homepage_url": "",
   "language": "C",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 33
+    },
+    {
+      "date": "2026-04-26",
       "stars": 33
     }
   ]

@@ -4,6 +4,7 @@
   "name": "fastify-cookie",
   "full_name": "fastify/fastify-cookie",
   "description": "A Fastify plugin to add cookies support",
+  "description_ja": "",
   "url": "https://github.com/fastify/fastify-cookie",
   "homepage_url": "https://npmjs.com/package/@fastify/cookie",
   "language": "JavaScript",
@@ -12,12 +13,12 @@
     "fastify",
     "fastify-plugin"
   ],
-  "star_count": 295,
+  "star_count": 296,
   "fork_count": 67,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-09-10T13:17:29Z",
-  "updated_at": "2026-04-20T04:26:36Z",
+  "updated_at": "2026-04-25T20:43:20Z",
   "pushed_at": "2026-04-08T18:56:03Z",
   "deleted_at": "",
   "star_history": [
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 295
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 296
     }
   ]
 }

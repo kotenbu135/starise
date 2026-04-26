@@ -4,6 +4,7 @@
   "name": "img",
   "full_name": "genuinetools/img",
   "description": "Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.",
+  "description_ja": "",
   "url": "https://github.com/genuinetools/img",
   "homepage_url": "https://blog.jessfraz.com/post/building-container-images-securely-on-kubernetes/",
   "language": "Go",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3982
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3982
     }
   ]

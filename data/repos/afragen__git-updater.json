@@ -4,6 +4,7 @@
   "name": "git-updater",
   "full_name": "afragen/git-updater",
   "description": "This WP plugin will update GitHub, Bitbucket, GitLab, and Gitea hosted plugins and themes",
+  "description_ja": "GitHub、Bitbucket、GitLab、Giteaでホストされたプラグインやテーマを更新するWPプラグイン",
   "url": "https://github.com/afragen/git-updater",
   "homepage_url": "https://git-updater.com",
   "language": "PHP",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 3316
+    },
+    {
+      "date": "2026-04-26",
       "stars": 3316
     }
   ]

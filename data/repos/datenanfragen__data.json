@@ -4,6 +4,7 @@
   "name": "data",
   "full_name": "datenanfragen/data",
   "description": "The data behind the Datenanfragen.de project. This contains a directory of contact information and privacy-related data on companies under the scope of the EU GDPR, a directory of supervisory authorities for privacy concerns, a collection of templates for GDPR requests and a list of suggested companies to send access requests to.",
+  "description_ja": "",
   "url": "https://github.com/datenanfragen/data",
   "homepage_url": "https://www.datarequests.org/company",
   "language": "TypeScript",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 124
+    },
+    {
+      "date": "2026-04-26",
       "stars": 124
     }
   ]

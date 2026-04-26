@@ -4,6 +4,7 @@
   "name": "gnark-crypto",
   "full_name": "consensys/gnark-crypto",
   "description": "gnark-crypto provides elliptic curve and pairing-based cryptography on BN, BLS12, BLS24 and BW6 curves. It also provides various algorithms (algebra, crypto) of particular interest to zero knowledge proof systems",
+  "description_ja": "",
   "url": "https://github.com/Consensys/gnark-crypto",
   "homepage_url": "",
   "language": "Go",
@@ -48,6 +49,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 593
+    },
+    {
+      "date": "2026-04-26",
       "stars": 593
     }
   ]

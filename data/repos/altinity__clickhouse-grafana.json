@@ -4,6 +4,7 @@
   "name": "clickhouse-grafana",
   "full_name": "altinity/clickhouse-grafana",
   "description": "Altinity Grafana datasource plugin for ClickHouse®",
+  "description_ja": "Altinity 製 ClickHouse® 用 Grafana データソースプラグイン",
   "url": "https://github.com/Altinity/clickhouse-grafana",
   "homepage_url": "",
   "language": "TypeScript",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 772
+    },
+    {
+      "date": "2026-04-26",
       "stars": 772
     }
   ]

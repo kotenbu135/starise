@@ -4,6 +4,7 @@
   "name": "xacrodoc",
   "full_name": "adamheins/xacrodoc",
   "description": "Compile xacro files to plain URDF or MJCF from Python or the command line (no ROS required).",
+  "description_ja": "xacroファイルをPythonまたはコマンドラインからプレーンなURDFまたはMJCFにコンパイル (ROS不要)。",
   "url": "https://github.com/adamheins/xacrodoc",
   "homepage_url": "https://xacrodoc.readthedocs.io/en/latest/",
   "language": "Python",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 71
+    },
+    {
+      "date": "2026-04-26",
       "stars": 71
     }
   ]

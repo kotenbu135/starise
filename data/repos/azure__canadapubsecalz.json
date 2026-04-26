@@ -4,6 +4,7 @@
   "name": "canadapubsecalz",
   "full_name": "azure/canadapubsecalz",
   "description": "This reference implementation is based on Cloud Adoption Framework for Azure and provides an opinionated implementation that enables ITSG-33 regulatory compliance by using NIST SP 800-53 Rev. 4 and Canada Federal PBMM Regulatory Compliance Policy Sets.",
+  "description_ja": "",
   "url": "https://github.com/Azure/CanadaPubSecALZ",
   "homepage_url": "",
   "language": "Bicep",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 141
+    },
+    {
+      "date": "2026-04-26",
       "stars": 141
     }
   ]

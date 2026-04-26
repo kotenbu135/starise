@@ -4,6 +4,7 @@
   "name": "requestrepo",
   "full_name": "adrgs/requestrepo",
   "description": "Analyze HTTP, DNS and SMTP requests and create custom responses and DNS records for your subdomain",
+  "description_ja": "HTTP・DNS・SMTPリクエストを解析し、サブドメインに対するカスタムレスポンスとDNSレコードを作成",
   "url": "https://github.com/adrgs/requestrepo",
   "homepage_url": "https://requestrepo.com",
   "language": "Rust",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 509
+    },
+    {
+      "date": "2026-04-26",
       "stars": 509
     }
   ]

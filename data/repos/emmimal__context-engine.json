@@ -4,6 +4,7 @@
   "name": "context-engine",
   "full_name": "emmimal/context-engine",
   "description": "A pure-Python context management layer for LLM systems — retrieval, re-ranking, memory decay, and token-budget enforcement in one pipeline.",
+  "description_ja": "",
   "url": "https://github.com/Emmimal/context-engine",
   "homepage_url": "",
   "language": "Python",
@@ -15,12 +16,12 @@
     "prompt-engineering",
     "rag"
   ],
-  "star_count": 108,
+  "star_count": 110,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-10T02:33:10Z",
-  "updated_at": "2026-04-24T15:59:34Z",
+  "updated_at": "2026-04-26T06:30:21Z",
   "pushed_at": "2026-04-15T12:07:04Z",
   "deleted_at": "",
   "star_history": [
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 108
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 110
     }
   ]
 }

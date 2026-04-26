@@ -4,6 +4,7 @@
   "name": "irbox",
   "full_name": "frank-vpl/irbox",
   "description": "A versatile proxy client supporting multiple protocols including VLESS, VMess, Shadowsocks, Trojan, Hysteria2, and TUIC with advanced management features, subscription support, routing rules, and system proxy/TUN modes",
+  "description_ja": "",
   "url": "https://github.com/frank-vpl/IRBox",
   "homepage_url": "https://github.com/frank-vpl/IRBox/discussions",
   "language": "Rust",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 535
+    },
+    {
+      "date": "2026-04-26",
       "stars": 535
     }
   ]

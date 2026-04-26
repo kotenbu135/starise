@@ -4,6 +4,7 @@
   "name": "syft",
   "full_name": "anchore/syft",
   "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+  "description_ja": "コンテナイメージとファイルシステムから SBOM (Software Bill of Materials) を生成する CLI ツール兼ライブラリ",
   "url": "https://github.com/anchore/syft",
   "homepage_url": "",
   "language": "Go",
@@ -21,12 +22,12 @@
     "static-analysis",
     "tool"
   ],
-  "star_count": 8814,
+  "star_count": 8821,
   "fork_count": 840,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-07T18:19:29Z",
-  "updated_at": "2026-04-25T10:34:36Z",
+  "updated_at": "2026-04-26T16:47:47Z",
   "pushed_at": "2026-04-24T16:44:26Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 8814
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8821
     }
   ]
 }

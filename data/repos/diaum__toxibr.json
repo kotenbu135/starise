@@ -4,6 +4,7 @@
   "name": "toxibr",
   "full_name": "diaum/toxibr",
   "description": "Biblioteca de moderação de conteúdo em português. Bloqueia xingamentos e palavras toxicas em PT-BR. Filtro client-side com wordlist, detecção normalização anti-bypas e bloqueio de links/telefones.",
+  "description_ja": "",
   "url": "https://github.com/Diaum/toxibr",
   "homepage_url": "https://toxibr.vercel.app",
   "language": "TypeScript",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 48
+    },
+    {
+      "date": "2026-04-26",
       "stars": 48
     }
   ]

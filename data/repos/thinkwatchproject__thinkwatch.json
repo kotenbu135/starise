@@ -4,6 +4,7 @@
   "name": "thinkwatch",
   "full_name": "thinkwatchproject/thinkwatch",
   "description": "Enterprise AI bastion host for secure AI API and MCP access, with unified proxying, RBAC, audit logs, rate limiting, and cost tracking across OpenAI, Anthropic, Gemini, and self-hosted LLMs.",
+  "description_ja": "",
   "url": "https://github.com/ThinkWatchProject/ThinkWatch",
   "homepage_url": "https://thinkwat.ch",
   "language": "Rust",
@@ -19,13 +20,13 @@
     "mcp-server",
     "security"
   ],
-  "star_count": 456,
-  "fork_count": 8,
+  "star_count": 493,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-02T15:29:52Z",
-  "updated_at": "2026-04-25T16:58:12Z",
-  "pushed_at": "2026-04-25T16:58:08Z",
+  "updated_at": "2026-04-26T17:46:13Z",
+  "pushed_at": "2026-04-26T11:59:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-04-25",
       "stars": 456
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 493
     }
   ]
 }

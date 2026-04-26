@@ -4,6 +4,7 @@
   "name": "nextdns",
   "full_name": "nextdns/nextdns",
   "description": "NextDNS CLI client (DoH Proxy)",
+  "description_ja": "",
   "url": "https://github.com/nextdns/nextdns",
   "homepage_url": "https://nextdns.io",
   "language": "Go",
@@ -12,12 +13,12 @@
     "dns",
     "dns-over-https"
   ],
-  "star_count": 4002,
+  "star_count": 4003,
   "fork_count": 243,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-09-27T00:50:59Z",
-  "updated_at": "2026-04-24T22:07:18Z",
+  "updated_at": "2026-04-26T08:09:01Z",
   "pushed_at": "2026-04-18T17:50:53Z",
   "deleted_at": "",
   "star_history": [
@@ -28,6 +29,10 @@
     {
       "date": "2026-04-25",
       "stars": 4002
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4003
     }
   ]
 }

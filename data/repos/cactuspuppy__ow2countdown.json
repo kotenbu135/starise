@@ -4,6 +4,7 @@
   "name": "ow2countdown",
   "full_name": "cactuspuppy/ow2countdown",
   "description": "A countdown to important dates and times for Overwatch 2",
+  "description_ja": "",
   "url": "https://github.com/CactusPuppy/ow2countdown",
   "homepage_url": "https://ow2countdown.com",
   "language": "Svelte",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 32
+    },
+    {
+      "date": "2026-04-26",
       "stars": 32
     }
   ]

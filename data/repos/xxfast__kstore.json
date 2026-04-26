@@ -4,6 +4,7 @@
   "name": "kstore",
   "full_name": "xxfast/kstore",
   "description": "A tiny Kotlin multiplatform library that assists in saving and restoring objects to and from disk using kotlinx.coroutines, kotlinx.serialisation and kotlinx.io",
+  "description_ja": "",
   "url": "https://github.com/xxfast/KStore",
   "homepage_url": "https://xxfast.github.io/KStore/",
   "language": "Kotlin",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 659
+    },
+    {
+      "date": "2026-04-26",
       "stars": 659
     }
   ]

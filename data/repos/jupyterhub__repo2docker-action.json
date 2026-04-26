@@ -4,6 +4,7 @@
   "name": "repo2docker-action",
   "full_name": "jupyterhub/repo2docker-action",
   "description": "A GitHub action to build data science environment images with repo2docker and push them to registries.",
+  "description_ja": "",
   "url": "https://github.com/jupyterhub/repo2docker-action",
   "homepage_url": "",
   "language": "Shell",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 152
+    },
+    {
+      "date": "2026-04-26",
       "stars": 152
     }
   ]

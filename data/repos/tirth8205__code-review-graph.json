@@ -4,6 +4,7 @@
   "name": "code-review-graph",
   "full_name": "tirth8205/code-review-graph",
   "description": "Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.",
+  "description_ja": "",
   "url": "https://github.com/tirth8205/code-review-graph",
   "homepage_url": "https://code-review-graph.com",
   "language": "Python",
@@ -22,12 +23,12 @@
     "static-analysis",
     "tree-sitter"
   ],
-  "star_count": 13087,
-  "fork_count": 1461,
+  "star_count": 13232,
+  "fork_count": 1473,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T17:25:13Z",
-  "updated_at": "2026-04-25T17:33:21Z",
+  "updated_at": "2026-04-26T17:49:04Z",
   "pushed_at": "2026-04-21T16:48:20Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 13087
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 13232
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "ucto",
   "full_name": "languagemachines/ucto",
   "description": "Unicode tokeniser. Ucto tokenizes text files: it separates words from punctuation, and splits sentences. It offers several other basic preprocessing steps such as changing case that you can all use to make your text suited for further processing such as indexing, part-of-speech tagging, or machine translation.  Ucto comes with tokenisation rules for several languages and can be easily extended to suit other languages. It has been incorporated for tokenizing Dutch text in Frog, our Dutch morpho-syntactic processor. http://ilk.uvt.nl/ucto --",
+  "description_ja": "",
   "url": "https://github.com/LanguageMachines/ucto",
   "homepage_url": "https://languagemachines.github.io/ucto",
   "language": "C++",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 70
+    },
+    {
+      "date": "2026-04-26",
       "stars": 70
     }
   ]

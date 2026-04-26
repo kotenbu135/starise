@@ -4,6 +4,7 @@
   "name": "mdsilo-app",
   "full_name": "mdsilo/mdsilo-app",
   "description": "Lightweight Knowledge Base and Feed Reader.",
+  "description_ja": "",
   "url": "https://github.com/mdSilo/mdSilo-app",
   "homepage_url": "https://mdsilo.com/",
   "language": "TypeScript",
@@ -23,12 +24,12 @@
     "rss",
     "tauri"
   ],
-  "star_count": 840,
+  "star_count": 841,
   "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-17T03:06:55Z",
-  "updated_at": "2026-04-25T15:21:39Z",
+  "updated_at": "2026-04-26T10:43:39Z",
   "pushed_at": "2026-03-25T15:37:28Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 840
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 841
     }
   ]
 }

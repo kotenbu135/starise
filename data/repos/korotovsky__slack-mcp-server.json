@@ -4,6 +4,7 @@
   "name": "slack-mcp-server",
   "full_name": "korotovsky/slack-mcp-server",
   "description": "The most powerful MCP Slack Server with no permission requirements, Apps support, GovSlack, DMs, Group DMs and smart history fetch logic.",
+  "description_ja": "",
   "url": "https://github.com/korotovsky/slack-mcp-server",
   "homepage_url": "",
   "language": "Go",
@@ -17,12 +18,12 @@
     "slack",
     "slack-api"
   ],
-  "star_count": 1557,
-  "fork_count": 299,
+  "star_count": 1558,
+  "fork_count": 300,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-12T11:31:34Z",
-  "updated_at": "2026-04-24T23:45:56Z",
+  "updated_at": "2026-04-26T07:56:17Z",
   "pushed_at": "2026-04-16T17:16:15Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 1557
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1558
     }
   ]
 }

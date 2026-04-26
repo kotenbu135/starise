@@ -4,6 +4,7 @@
   "name": "privacysentry",
   "full_name": "allenymt/privacysentry",
   "description": "Android隐私合规整改检测工具，注解+Asm修改字节码的检测方案",
+  "description_ja": "[15] Android プライバシーコンプライアンス検査ツール。アノテーション + ASM によるバイトコード書き換えで検知。",
   "url": "https://github.com/allenymt/PrivacySentry",
   "homepage_url": "",
   "language": "Kotlin",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2271
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2271
     }
   ]

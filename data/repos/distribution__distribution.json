@@ -4,6 +4,7 @@
   "name": "distribution",
   "full_name": "distribution/distribution",
   "description": "The toolkit to pack, ship, store, and deliver container content",
+  "description_ja": "",
   "url": "https://github.com/distribution/distribution",
   "homepage_url": "https://distribution.github.io/distribution",
   "language": "Go",
@@ -16,12 +17,12 @@
     "oci-specification",
     "registry"
   ],
-  "star_count": 10376,
-  "fork_count": 2738,
+  "star_count": 10379,
+  "fork_count": 2736,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-12-22T23:49:26Z",
-  "updated_at": "2026-04-25T07:53:33Z",
+  "updated_at": "2026-04-26T15:32:17Z",
   "pushed_at": "2026-04-22T18:07:46Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 10376
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 10379
     }
   ]
 }

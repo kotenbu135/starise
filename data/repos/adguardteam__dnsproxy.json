@@ -4,6 +4,7 @@
   "name": "dnsproxy",
   "full_name": "adguardteam/dnsproxy",
   "description": "Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support",
+  "description_ja": "[8] DoH、DoT、DoQ、DNSCryptに対応したシンプルなDNSプロキシ",
   "url": "https://github.com/AdguardTeam/dnsproxy",
   "homepage_url": "",
   "language": "Go",
@@ -18,12 +19,12 @@
     "open-source",
     "proxy"
   ],
-  "star_count": 3078,
+  "star_count": 3080,
   "fork_count": 321,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-12-19T12:46:18Z",
-  "updated_at": "2026-04-25T15:56:09Z",
+  "updated_at": "2026-04-26T16:22:25Z",
   "pushed_at": "2026-04-23T10:00:24Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 3078
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 3080
     }
   ]
 }

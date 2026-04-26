@@ -4,6 +4,7 @@
   "name": "monetdb",
   "full_name": "monetdb/monetdb",
   "description": "This is the official mirror of the MonetDB Mercurial repository. Please note that we do not accept pull requests on github. The regression test results can be found on the MonetDB Testweb https://www.monetdb.org/testweb/web/status.php .For contributions please see: https://www.monetdb.org/documentation/dev-guide/",
+  "description_ja": "",
   "url": "https://github.com/MonetDB/MonetDB",
   "homepage_url": "http://www.monetdb.org",
   "language": "C",
@@ -15,12 +16,12 @@
     "sql",
     "sql-database"
   ],
-  "star_count": 463,
+  "star_count": 464,
   "fork_count": 63,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-28T08:35:36Z",
-  "updated_at": "2026-04-25T16:00:19Z",
+  "updated_at": "2026-04-26T14:13:23Z",
   "pushed_at": "2026-04-25T16:00:11Z",
   "deleted_at": "",
   "star_history": [
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 463
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 464
     }
   ]
 }

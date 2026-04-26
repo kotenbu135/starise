@@ -4,6 +4,7 @@
   "name": "trufflehog",
   "full_name": "trufflesecurity/trufflehog",
   "description": "Find, verify, and analyze leaked credentials",
+  "description_ja": "",
   "url": "https://github.com/trufflesecurity/trufflehog",
   "homepage_url": "https://trufflesecurity.com",
   "language": "Go",
@@ -22,13 +23,13 @@
     "trufflehog",
     "verification"
   ],
-  "star_count": 25914,
-  "fork_count": 2344,
+  "star_count": 25918,
+  "fork_count": 2346,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-12-31T05:08:12Z",
-  "updated_at": "2026-04-25T15:48:47Z",
-  "pushed_at": "2026-04-24T20:41:40Z",
+  "updated_at": "2026-04-26T16:42:50Z",
+  "pushed_at": "2026-04-25T21:22:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 25914
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 25918
     }
   ]
 }

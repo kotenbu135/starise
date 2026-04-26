@@ -4,6 +4,7 @@
   "name": "llama.vim",
   "full_name": "ggml-org/llama.vim",
   "description": "Vim plugin for LLM-assisted code/text completion",
+  "description_ja": "",
   "url": "https://github.com/ggml-org/llama.vim",
   "homepage_url": "",
   "language": "Vim Script",
@@ -16,12 +17,12 @@
     "vim",
     "vim-plugin"
   ],
-  "star_count": 1971,
+  "star_count": 1973,
   "fork_count": 103,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-28T11:35:11Z",
-  "updated_at": "2026-04-25T13:47:24Z",
+  "updated_at": "2026-04-26T05:32:38Z",
   "pushed_at": "2026-04-02T07:52:33Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     {
       "date": "2026-04-25",
       "stars": 1971
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1973
     }
   ]
 }

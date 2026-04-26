@@ -4,6 +4,7 @@
   "name": "skill-optimizer",
   "full_name": "fastxyz/skill-optimizer",
   "description": "Benchmark and self-optimize SDK/CLI/MCP guidance so every agent model can use your tool reliably.",
+  "description_ja": "",
   "url": "https://github.com/fastxyz/skill-optimizer",
   "homepage_url": "",
   "language": "TypeScript",
@@ -22,12 +23,12 @@
     "sdk",
     "tool-calling"
   ],
-  "star_count": 45,
+  "star_count": 44,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T10:34:42Z",
-  "updated_at": "2026-04-24T07:29:07Z",
+  "updated_at": "2026-04-26T16:03:26Z",
   "pushed_at": "2026-04-24T19:29:23Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 45
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 44
     }
   ]
 }

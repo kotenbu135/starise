@@ -4,6 +4,7 @@
   "name": "nextjs-notion-waitlist-template",
   "full_name": "lakshaybhushan/nextjs-notion-waitlist-template",
   "description": "A template repository for creating a waitlist using Next.js 14, Notion as a CMS, Upstash Redis for rate limiting and Resend for sending emails with a custom domain.",
+  "description_ja": "",
   "url": "https://github.com/lakshaybhushan/nextjs-notion-waitlist-template",
   "homepage_url": "https://nextjs-notion-waitlist.vercel.app",
   "language": "TypeScript",
@@ -22,7 +23,7 @@
     "vercel"
   ],
   "star_count": 286,
-  "fork_count": 380,
+  "fork_count": 381,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-23T09:39:16Z",
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 286
+    },
+    {
+      "date": "2026-04-26",
       "stars": 286
     }
   ]

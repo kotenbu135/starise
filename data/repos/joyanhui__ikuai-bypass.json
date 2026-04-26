@@ -4,6 +4,7 @@
   "name": "ikuai-bypass",
   "full_name": "joyanhui/ikuai-bypass",
   "description": "爱快分流规则维护：自动将通过指定的远程配置文件把区域ip，域名等，整理到到爱快，实现旁路由自动切换，域名分流、端口分流（IP分组分流）、自定义运营商、广告屏蔽等",
+  "description_ja": "",
   "url": "https://github.com/joyanhui/ikuai-bypass",
   "homepage_url": "https://dev.leiyanhui.com/",
   "language": "Rust",
@@ -12,13 +13,13 @@
     "ikuai",
     "openwrt"
   ],
-  "star_count": 584,
+  "star_count": 585,
   "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-26T04:49:55Z",
-  "updated_at": "2026-04-25T11:28:25Z",
-  "pushed_at": "2026-04-11T19:48:45Z",
+  "updated_at": "2026-04-26T10:14:23Z",
+  "pushed_at": "2026-04-26T10:14:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +33,10 @@
     {
       "date": "2026-04-25",
       "stars": 584
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 585
     }
   ]
 }

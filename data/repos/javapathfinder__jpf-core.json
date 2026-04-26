@@ -4,6 +4,7 @@
   "name": "jpf-core",
   "full_name": "javapathfinder/jpf-core",
   "description": "JPF is an extensible software analysis framework for Java bytecode. jpf-core is the basis for all JPF projects; you always need to install it. It contains the basic VM and model checking infrastructure, and can be used to check for concurrency defects like deadlocks, and unhandled exceptions like NullPointerExceptions and AssertionErrors.",
+  "description_ja": "",
   "url": "https://github.com/javapathfinder/jpf-core",
   "homepage_url": "",
   "language": "Java",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 610
+    },
+    {
+      "date": "2026-04-26",
       "stars": 610
     }
   ]

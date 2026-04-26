@@ -4,6 +4,7 @@
   "name": "openagent",
   "full_name": "haohao-end/openagent",
   "description": "AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + LangChain, featuring one-click Docker deployment.",
+  "description_ja": "",
   "url": "https://github.com/Haohao-end/openagent",
   "homepage_url": "https://openllm.cloud",
   "language": "Python",
@@ -26,12 +27,12 @@
     "vue",
     "weaviate"
   ],
-  "star_count": 784,
-  "fork_count": 77,
+  "star_count": 785,
+  "fork_count": 78,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-20T02:04:17Z",
-  "updated_at": "2026-04-25T15:44:43Z",
+  "updated_at": "2026-04-26T06:22:22Z",
   "pushed_at": "2026-04-16T04:15:52Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 784
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 785
     }
   ]
 }

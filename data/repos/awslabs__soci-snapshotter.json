@@ -4,6 +4,7 @@
   "name": "soci-snapshotter",
   "full_name": "awslabs/soci-snapshotter",
   "description": "A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step.",
+  "description_ja": "",
   "url": "https://github.com/awslabs/soci-snapshotter",
   "homepage_url": "",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 722
+    },
+    {
+      "date": "2026-04-26",
       "stars": 722
     }
   ]

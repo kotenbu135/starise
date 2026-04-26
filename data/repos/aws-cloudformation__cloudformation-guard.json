@@ -4,6 +4,7 @@
   "name": "cloudformation-guard",
   "full_name": "aws-cloudformation/cloudformation-guard",
   "description": "Guard offers a policy-as-code domain-specific language (DSL) to write rules and validate JSON- and YAML-formatted data such as CloudFormation Templates, K8s configurations, and Terraform JSON plans/configurations against those rules. Take this survey to provide feedback about cfn-guard: https://amazonmr.au1.qualtrics.com/jfe/form/SV_bpyzpfoYGGuuUl0",
+  "description_ja": "",
   "url": "https://github.com/aws-cloudformation/cloudformation-guard",
   "homepage_url": "",
   "language": "Rust",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1379
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1379
     }
   ]

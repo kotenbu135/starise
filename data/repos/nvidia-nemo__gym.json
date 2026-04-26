@@ -4,6 +4,7 @@
   "name": "gym",
   "full_name": "nvidia-nemo/gym",
   "description": "Build RL environments for LLM training",
+  "description_ja": "",
   "url": "https://github.com/NVIDIA-NeMo/Gym",
   "homepage_url": "https://docs.nvidia.com/nemo/gym/latest/index.html",
   "language": "Python",
@@ -17,13 +18,13 @@
     "rl-environment",
     "rl-training"
   ],
-  "star_count": 855,
+  "star_count": 856,
   "fork_count": 123,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-25T21:37:55Z",
-  "updated_at": "2026-04-25T03:43:56Z",
-  "pushed_at": "2026-04-25T15:15:53Z",
+  "updated_at": "2026-04-26T13:24:48Z",
+  "pushed_at": "2026-04-26T17:21:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 855
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 856
     }
   ]
 }

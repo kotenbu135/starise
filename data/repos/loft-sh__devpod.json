@@ -4,6 +4,7 @@
   "name": "devpod",
   "full_name": "loft-sh/devpod",
   "description": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
+  "description_ja": "",
   "url": "https://github.com/loft-sh/devpod",
   "homepage_url": "https://devpod.sh",
   "language": "Go",
@@ -21,12 +22,12 @@
     "remote-development-environment",
     "vscode"
   ],
-  "star_count": 14858,
+  "star_count": 14857,
   "fork_count": 546,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-24T12:59:48Z",
-  "updated_at": "2026-04-25T09:37:07Z",
+  "updated_at": "2026-04-26T15:45:25Z",
   "pushed_at": "2025-11-14T06:33:38Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 14858
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 14857
     }
   ]
 }

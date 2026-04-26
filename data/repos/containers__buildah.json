@@ -4,6 +4,7 @@
   "name": "buildah",
   "full_name": "containers/buildah",
   "description": "A tool that facilitates building OCI images.",
+  "description_ja": "",
   "url": "https://github.com/containers/buildah",
   "homepage_url": "https://buildah.io",
   "language": "Go",
@@ -17,12 +18,12 @@
     "oci-image",
     "podman"
   ],
-  "star_count": 8751,
-  "fork_count": 894,
+  "star_count": 8753,
+  "fork_count": 893,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-01-26T16:59:13Z",
-  "updated_at": "2026-04-25T12:48:27Z",
+  "updated_at": "2026-04-26T14:39:57Z",
   "pushed_at": "2026-04-24T18:48:43Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 8751
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 8753
     }
   ]
 }

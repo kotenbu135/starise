@@ -4,6 +4,7 @@
   "name": "cspbypass",
   "full_name": "renniepak/cspbypass",
   "description": "CSPBypass.com, a tool designed to help ethical hackers bypass restrictive Content Security Policies (CSP) and exploit XSS (Cross-Site Scripting) vulnerabilities on sites where injections are blocked by CSPs that only allow certain whitelisted domains.",
+  "description_ja": "",
   "url": "https://github.com/renniepak/CSPBypass",
   "homepage_url": "https://cspbypass.com",
   "language": "JavaScript",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 647
+    },
+    {
+      "date": "2026-04-26",
       "stars": 647
     }
   ]

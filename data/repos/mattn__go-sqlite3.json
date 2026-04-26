@@ -4,6 +4,7 @@
   "name": "go-sqlite3",
   "full_name": "mattn/go-sqlite3",
   "description": "sqlite3 driver for go using database/sql",
+  "description_ja": "",
   "url": "https://github.com/mattn/go-sqlite3",
   "homepage_url": "http://mattn.github.io/go-sqlite3",
   "language": "C",
@@ -13,12 +14,12 @@
     "sqlite",
     "sqlite3-driver"
   ],
-  "star_count": 9064,
+  "star_count": 9065,
   "fork_count": 1158,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-11-11T12:36:50Z",
-  "updated_at": "2026-04-25T04:17:35Z",
+  "updated_at": "2026-04-26T11:26:35Z",
   "pushed_at": "2026-04-14T05:23:39Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     {
       "date": "2026-04-25",
       "stars": 9064
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 9065
     }
   ]
 }

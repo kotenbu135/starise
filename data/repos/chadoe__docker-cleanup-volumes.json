@@ -4,6 +4,7 @@
   "name": "docker-cleanup-volumes",
   "full_name": "chadoe/docker-cleanup-volumes",
   "description": "Shellscript to delete orphaned docker volumes",
+  "description_ja": "",
   "url": "https://github.com/chadoe/docker-cleanup-volumes",
   "homepage_url": "https://registry.hub.docker.com/u/martin/docker-cleanup-volumes/",
   "language": "Shell",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1438
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1438
     }
   ]

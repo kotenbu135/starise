@@ -4,6 +4,7 @@
   "name": "wayvr",
   "full_name": "wayvr-org/wayvr",
   "description": "Your way to enjoy VR on Linux. Run apps inside VR \u0026 access your Wayland/X11 screens from Monado/WiVRn/SteamVR.",
+  "description_ja": "",
   "url": "https://github.com/wayvr-org/wayvr",
   "homepage_url": "https://wayvr.org",
   "language": "Rust",
@@ -20,12 +21,12 @@
     "wayland",
     "x11"
   ],
-  "star_count": 972,
-  "fork_count": 96,
+  "star_count": 975,
+  "fork_count": 97,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-09T13:28:33Z",
-  "updated_at": "2026-04-24T23:03:24Z",
+  "updated_at": "2026-04-26T14:53:22Z",
   "pushed_at": "2026-04-24T15:59:19Z",
   "deleted_at": "",
   "star_history": [
@@ -40,6 +41,10 @@
     {
       "date": "2026-04-25",
       "stars": 972
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 975
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "terraform-google-vpn",
   "full_name": "terraform-google-modules/terraform-google-vpn",
   "description": "Sets up a Cloud VPN gateway",
+  "description_ja": "",
   "url": "https://github.com/terraform-google-modules/terraform-google-vpn",
   "homepage_url": "https://registry.terraform.io/modules/terraform-google-modules/vpn/google",
   "language": "HCL",
@@ -27,6 +28,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 98
+    },
+    {
+      "date": "2026-04-26",
       "stars": 98
     }
   ]

@@ -4,6 +4,7 @@
   "name": "kubelogin",
   "full_name": "azure/kubelogin",
   "description": "A Kubernetes credential (exec) plugin implementing azure authentication",
+  "description_ja": "",
   "url": "https://github.com/Azure/kubelogin",
   "homepage_url": "https://azure.github.io/kubelogin/",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 567
+    },
+    {
+      "date": "2026-04-26",
       "stars": 567
     }
   ]

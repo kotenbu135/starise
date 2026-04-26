@@ -4,6 +4,7 @@
   "name": "howtrader",
   "full_name": "51bitquant/howtrader",
   "description": "Howtrader: A crypto quant framework for developing, backtesting, and executing your own trading strategies. Seamlessly integrates with TradingView and other third-party signals. Simply send a post request to automate trading and order placement. Supports Binance and Okex exchanges.",
+  "description_ja": "Howtrader: 暗号資産向けのクオンツフレームワーク。取引戦略の開発・バックテスト・実行に対応。TradingViewなど外部シグナルとシームレスに連携し、POSTリクエストで自動売買を実現。Binance、Okexに対応",
   "url": "https://github.com/51bitquant/howtrader",
   "homepage_url": "",
   "language": "Python",
@@ -30,12 +31,12 @@
     "tradingview-webhooks",
     "vnpy"
   ],
-  "star_count": 897,
-  "fork_count": 336,
+  "star_count": 901,
+  "fork_count": 337,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-30T14:59:18Z",
-  "updated_at": "2026-04-11T02:09:06Z",
+  "updated_at": "2026-04-26T12:25:22Z",
   "pushed_at": "2026-01-01T08:03:38Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +51,10 @@
     {
       "date": "2026-04-25",
       "stars": 897
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 901
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "aiogram",
   "full_name": "aiogram/aiogram",
   "description": "aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio",
+  "description_ja": "aiogram は asyncio を用いて Python で書かれた Telegram Bot API 向けのモダンで完全非同期なフレームワーク",
   "url": "https://github.com/aiogram/aiogram",
   "homepage_url": "https://aiogram.dev",
   "language": "Python",
@@ -22,7 +23,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-11-18T14:11:13Z",
-  "updated_at": "2026-04-25T14:36:05Z",
+  "updated_at": "2026-04-26T16:53:05Z",
   "pushed_at": "2026-04-13T18:49:15Z",
   "deleted_at": "",
   "star_history": [
@@ -36,6 +37,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 5672
+    },
+    {
+      "date": "2026-04-26",
       "stars": 5672
     }
   ]

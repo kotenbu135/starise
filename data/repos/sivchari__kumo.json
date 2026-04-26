@@ -4,6 +4,7 @@
   "name": "kumo",
   "full_name": "sivchari/kumo",
   "description": "A lightweight AWS service emulator written in Go",
+  "description_ja": "",
   "url": "https://github.com/sivchari/kumo",
   "homepage_url": "",
   "language": "Go",
@@ -18,12 +19,12 @@
     "localstack",
     "testing"
   ],
-  "star_count": 1018,
-  "fork_count": 49,
+  "star_count": 1030,
+  "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-03T05:18:01Z",
-  "updated_at": "2026-04-25T15:07:18Z",
+  "updated_at": "2026-04-26T17:23:41Z",
   "pushed_at": "2026-04-23T08:52:39Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 1018
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1030
     }
   ]
 }

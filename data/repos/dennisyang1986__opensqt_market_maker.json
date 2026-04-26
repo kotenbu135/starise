@@ -4,6 +4,7 @@
   "name": "opensqt_market_maker",
   "full_name": "dennisyang1986/opensqt_market_maker",
   "description": "OpenSQT 是一个高性能、低延迟的加密货币做市商系统，专注于永续合约市场的做多网格交易策略。系统采用 Go 语言开发，基于 WebSocket 实时数据流驱动，旨在为 Binance、Bitget、Gate.io 等主流交易所提供稳定的流动性支持。",
+  "description_ja": "",
   "url": "https://github.com/dennisyang1986/opensqt_market_maker",
   "homepage_url": "https://www.OpenSQT.com/",
   "language": "Go",
@@ -14,12 +15,12 @@
     "marketmaker",
     "marketmakerbot"
   ],
-  "star_count": 834,
+  "star_count": 836,
   "fork_count": 330,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-24T11:22:01Z",
-  "updated_at": "2026-04-25T15:17:18Z",
+  "updated_at": "2026-04-26T16:00:07Z",
   "pushed_at": "2026-04-25T10:26:20Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +35,10 @@
     {
       "date": "2026-04-25",
       "stars": 834
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 836
     }
   ]
 }

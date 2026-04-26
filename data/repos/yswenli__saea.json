@@ -4,6 +4,7 @@
   "name": "saea",
   "full_name": "yswenli/saea",
   "description": "SAEA.Socket is a high-performance IOCP framework TCP based on dotnet standard 2.0; Src contains its application test scenarios, such as websocket,rpc, redis driver, MVC WebAPI, lightweight message server, ultra large file transmission, etc. SAEA.Socket是一个高性能IOCP框架的 TCP，基于dotnet standard 2.0；Src中含有其应用测试场景，例如websocket、rpc、redis驱动、MVC WebAPI、轻量级消息服务器、超大文件传输等",
+  "description_ja": "",
   "url": "https://github.com/yswenli/SAEA",
   "homepage_url": "http://www.cnblogs.com/yswenli/",
   "language": "C#",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 422
+    },
+    {
+      "date": "2026-04-26",
       "stars": 422
     }
   ]

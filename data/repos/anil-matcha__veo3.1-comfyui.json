@@ -4,6 +4,7 @@
   "name": "veo3.1-comfyui",
   "full_name": "anil-matcha/veo3.1-comfyui",
   "description": "ComfyUI custom nodes for Veo 3.1 video generation — text-to-video, image-to-video, reference-to-video, extend, and 4K upscale via MuAPI",
+  "description_ja": "MuAPI経由でVeo 3.1動画生成を行うComfyUIカスタムノード — text-to-video、image-to-video、reference-to-video、extend、4Kアップスケール",
   "url": "https://github.com/Anil-matcha/veo3.1-comfyui",
   "homepage_url": "",
   "language": "Python",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 63
+    },
+    {
+      "date": "2026-04-26",
       "stars": 63
     }
   ]

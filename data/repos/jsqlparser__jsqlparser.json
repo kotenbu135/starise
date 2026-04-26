@@ -4,6 +4,7 @@
   "name": "jsqlparser",
   "full_name": "jsqlparser/jsqlparser",
   "description": "JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern",
+  "description_ja": "",
   "url": "https://github.com/JSQLParser/JSqlParser",
   "homepage_url": "https://github.com/JSQLParser/JSqlParser/wiki",
   "language": "Java",
@@ -23,12 +24,12 @@
     "sqlserver",
     "statement"
   ],
-  "star_count": 5941,
+  "star_count": 5942,
   "fork_count": 1419,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-06-23T22:51:52Z",
-  "updated_at": "2026-04-24T09:39:14Z",
+  "updated_at": "2026-04-26T06:15:13Z",
   "pushed_at": "2026-04-12T12:16:18Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 5941
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 5942
     }
   ]
 }

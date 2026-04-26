@@ -4,6 +4,7 @@
   "name": "zon2nix",
   "full_name": "nix-community/zon2nix",
   "description": "Convert the dependencies in `build.zig.zon` to a Nix expression [maintainer=@figsoda]",
+  "description_ja": "",
   "url": "https://github.com/nix-community/zon2nix",
   "homepage_url": "https://discourse.nixos.org/t/31468",
   "language": "Zig",
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 113
+    },
+    {
+      "date": "2026-04-26",
       "stars": 113
     }
   ]

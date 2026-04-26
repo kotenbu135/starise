@@ -4,6 +4,7 @@
   "name": "twofactor_totp",
   "full_name": "nextcloud/twofactor_totp",
   "description": "🔑 Second factor TOTP (RFC 6238) provider for Nextcloud",
+  "description_ja": "",
   "url": "https://github.com/nextcloud/twofactor_totp",
   "homepage_url": "https://apps.nextcloud.com/apps/twofactor_totp",
   "language": "JavaScript",
@@ -22,8 +23,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-06-04T11:17:10Z",
-  "updated_at": "2026-04-16T14:23:36Z",
-  "pushed_at": "2026-04-23T17:12:23Z",
+  "updated_at": "2026-04-26T01:56:49Z",
+  "pushed_at": "2026-04-26T04:18:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 316
+    },
+    {
+      "date": "2026-04-26",
       "stars": 316
     }
   ]

@@ -4,6 +4,7 @@
   "name": "cluster-api-provider-nutanix",
   "full_name": "nutanix-cloud-native/cluster-api-provider-nutanix",
   "description": "Kubernetes-native declarative infrastructure provider for Nutanix AHV",
+  "description_ja": "",
   "url": "https://github.com/nutanix-cloud-native/cluster-api-provider-nutanix",
   "homepage_url": "https://opendocs.nutanix.com/capx/latest/getting_started/",
   "language": "Go",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-04-26",
       "stars": 49
     }
   ]

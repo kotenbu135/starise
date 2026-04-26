@@ -4,6 +4,7 @@
   "name": "parca-agent",
   "full_name": "parca-dev/parca-agent",
   "description": "eBPF based always-on CPU/GPU profiler auto-discovering targets in Kubernetes and systemd, zero code changes or restarts needed!",
+  "description_ja": "",
   "url": "https://github.com/parca-dev/parca-agent",
   "homepage_url": "https://parca.dev/",
   "language": "Go",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 719
+    },
+    {
+      "date": "2026-04-26",
       "stars": 719
     }
   ]

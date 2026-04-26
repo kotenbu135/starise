@@ -4,6 +4,7 @@
   "name": "git-hound",
   "full_name": "tillson/git-hound",
   "description": "Fast GitHub recon tool. Scans for leaked secrets across all of GitHub, not just known repos and orgs. Support for GitHub dorks.",
+  "description_ja": "",
   "url": "https://github.com/tillson/git-hound",
   "homepage_url": "http://githoundexplore.com/",
   "language": "Go",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1415
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1415
     }
   ]

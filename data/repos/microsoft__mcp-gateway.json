@@ -4,6 +4,7 @@
   "name": "mcp-gateway",
   "full_name": "microsoft/mcp-gateway",
   "description": "MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.",
+  "description_ja": "",
   "url": "https://github.com/microsoft/mcp-gateway",
   "homepage_url": "https://microsoft.github.io/mcp-gateway/",
   "language": "C#",
@@ -28,7 +29,7 @@
     "restful-api"
   ],
   "star_count": 599,
-  "fork_count": 63,
+  "fork_count": 64,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-14T18:16:35Z",
@@ -46,6 +47,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 599
+    },
+    {
+      "date": "2026-04-26",
       "stars": 599
     }
   ]

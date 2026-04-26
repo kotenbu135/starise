@@ -4,6 +4,7 @@
   "name": "ai_osint",
   "full_name": "7waysecurity/ai_osint",
   "description": "🤖 Curated AI OSINT resources — Google dorks, Shodan queries, GitHub dorks, and techniques to discover exposed LLM endpoints, leaked AI API keys, misconfigured vector databases, and unprotected AI agents",
+  "description_ja": "🤖 厳選された AI OSINT リソース集 — Google dork、Shodan クエリ、GitHub dork、および露出した LLM エンドポイント、漏洩した AI API キー、設定ミスのベクトルデータベース、保護されていない AI エージェントを発見するための手法",
   "url": "https://github.com/7WaySecurity/ai_osint",
   "homepage_url": "https://www.7waysecurity.co",
   "language": "",
@@ -31,7 +32,7 @@
     "vector-database"
   ],
   "star_count": 68,
-  "fork_count": 13,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-08T14:08:41Z",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 68
+    },
+    {
+      "date": "2026-04-26",
       "stars": 68
     }
   ]

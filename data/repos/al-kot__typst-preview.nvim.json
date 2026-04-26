@@ -4,6 +4,7 @@
   "name": "typst-preview.nvim",
   "full_name": "al-kot/typst-preview.nvim",
   "description": "Live typst preview directly in neovim",
+  "description_ja": "Neovim上で直接動作するTypstのライブプレビュー",
   "url": "https://github.com/al-kot/typst-preview.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -15,12 +16,12 @@
     "nvim-plugin",
     "typst"
   ],
-  "star_count": 50,
+  "star_count": 51,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-17T19:19:57Z",
-  "updated_at": "2026-04-20T04:29:22Z",
+  "updated_at": "2026-04-26T08:32:03Z",
   "pushed_at": "2025-12-15T11:13:40Z",
   "deleted_at": "",
   "star_history": [
@@ -31,6 +32,10 @@
     {
       "date": "2026-04-25",
       "stars": 50
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 51
     }
   ]
 }

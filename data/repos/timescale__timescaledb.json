@@ -4,6 +4,7 @@
   "name": "timescaledb",
   "full_name": "timescale/timescaledb",
   "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+  "description_ja": "",
   "url": "https://github.com/timescale/timescaledb",
   "homepage_url": "https://www.tigerdata.com/",
   "language": "C",
@@ -23,13 +24,13 @@
     "timescaledb",
     "tsdb"
   ],
-  "star_count": 22480,
+  "star_count": 22485,
   "fork_count": 1082,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-03-07T20:03:41Z",
-  "updated_at": "2026-04-25T14:49:50Z",
-  "pushed_at": "2026-04-25T17:18:00Z",
+  "updated_at": "2026-04-26T15:02:26Z",
+  "pushed_at": "2026-04-26T17:46:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-25",
       "stars": 22480
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 22485
     }
   ]
 }

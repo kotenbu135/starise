@@ -4,6 +4,7 @@
   "name": "spring-on-k8s",
   "full_name": "andriykalashnykov/spring-on-k8s",
   "description": "Spring Boot 4 on Kubernetes — Actuator probes, Prometheus, ConfigMap configtree, Carvel ytt + kapp deploy, KinD + cloud-provider-kind local e2e",
+  "description_ja": "[25] Kubernetes 上の Spring Boot 4 — Actuator プローブ、Prometheus、ConfigMap configtree、Carvel ytt + kapp デプロイ、KinD + cloud-provider-kind によるローカル e2e",
   "url": "https://github.com/AndriyKalashnykov/spring-on-k8s",
   "homepage_url": "",
   "language": "Makefile",
@@ -43,6 +44,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

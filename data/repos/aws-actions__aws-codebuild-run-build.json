@@ -4,6 +4,7 @@
   "name": "aws-codebuild-run-build",
   "full_name": "aws-actions/aws-codebuild-run-build",
   "description": "Run an AWS CodeBuild project as a step in a GitHub Actions workflow job.",
+  "description_ja": "",
   "url": "https://github.com/aws-actions/aws-codebuild-run-build",
   "homepage_url": "https://aws.amazon.com/codebuild",
   "language": "JavaScript",
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 292
+    },
+    {
+      "date": "2026-04-26",
       "stars": 292
     }
   ]

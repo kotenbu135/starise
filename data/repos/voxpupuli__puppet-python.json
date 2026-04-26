@@ -4,6 +4,7 @@
   "name": "puppet-python",
   "full_name": "voxpupuli/puppet-python",
   "description": "Puppet module for installing and managing Python, pip, virtualenvs and Gunicorn virtual hosts.",
+  "description_ja": "",
   "url": "https://github.com/voxpupuli/puppet-python",
   "homepage_url": "https://forge.puppetlabs.com/puppet/python",
   "language": "Ruby",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 196
+    },
+    {
+      "date": "2026-04-26",
       "stars": 196
     }
   ]

@@ -4,6 +4,7 @@
   "name": "dreamserver",
   "full_name": "light-heart-labs/dreamserver",
   "description": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.",
+  "description_ja": "",
   "url": "https://github.com/Light-Heart-Labs/DreamServer",
   "homepage_url": "https://dreamserver.ai/",
   "language": "Rust",
@@ -26,12 +27,12 @@
     "text-to-speech",
     "workflow-automation"
   ],
-  "star_count": 464,
-  "fork_count": 148,
+  "star_count": 479,
+  "fork_count": 150,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-09T13:14:58Z",
-  "updated_at": "2026-04-25T16:49:10Z",
+  "updated_at": "2026-04-26T15:28:39Z",
   "pushed_at": "2026-04-23T08:37:35Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 464
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 479
     }
   ]
 }

@@ -4,6 +4,7 @@
   "name": "claude-mem",
   "full_name": "thedotmack/claude-mem",
   "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+  "description_ja": "",
   "url": "https://github.com/thedotmack/claude-mem",
   "homepage_url": "https://claude-mem.ai",
   "language": "TypeScript",
@@ -30,13 +31,13 @@
     "sqlite",
     "supermemory"
   ],
-  "star_count": 67358,
-  "fork_count": 5731,
+  "star_count": 67843,
+  "fork_count": 5779,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-31T20:50:03Z",
-  "updated_at": "2026-04-25T17:41:19Z",
-  "pushed_at": "2026-04-25T02:36:43Z",
+  "updated_at": "2026-04-26T17:48:55Z",
+  "pushed_at": "2026-04-26T04:29:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +59,10 @@
     {
       "date": "2026-04-25",
       "stars": 67358
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 67843
     }
   ]
 }

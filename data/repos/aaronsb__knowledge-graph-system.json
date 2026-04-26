@@ -4,6 +4,7 @@
   "name": "knowledge-graph-system",
   "full_name": "aaronsb/knowledge-graph-system",
   "description": "Kappa Graph — κ(G). A semantic knowledge graph where knowledge has weight. Extracts concepts, measures grounding strength, preserves disagreement, traces everything to source.",
+  "description_ja": "Kappa Graph — κ(G)。知識に重みを持たせる意味的ナレッジグラフ。概念抽出、根拠の強さの測定、不一致の保持、すべてを出典まで追跡。",
   "url": "https://github.com/aaronsb/knowledge-graph-system",
   "homepage_url": "https://aaronsb.github.io/knowledge-graph-system/",
   "language": "Python",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 35
+    },
+    {
+      "date": "2026-04-26",
       "stars": 35
     }
   ]

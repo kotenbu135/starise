@@ -4,6 +4,7 @@
   "name": "molgraph",
   "full_name": "akensert/molgraph",
   "description": "Graph neural networks for molecular machine learning: Implemented and compatible with TensorFlow and Keras.",
+  "description_ja": "分子機械学習向けのグラフニューラルネットワーク。TensorFlowとKerasで実装・互換",
   "url": "https://github.com/akensert/molgraph",
   "homepage_url": "https://molgraph.readthedocs.io/en/latest/",
   "language": "Python",
@@ -35,6 +36,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 64
+    },
+    {
+      "date": "2026-04-26",
       "stars": 64
     }
   ]

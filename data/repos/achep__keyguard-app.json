@@ -4,6 +4,7 @@
   "name": "keyguard-app",
   "full_name": "achep/keyguard-app",
   "description": "Alternative client for the Bitwarden® platform \u0026 KeePass (KDBX), created to provide the best user experience possible.",
+  "description_ja": "[19] Bitwarden® プラットフォームと KeePass (KDBX) の代替クライアント。最高のユーザー体験を提供することを目指して開発",
   "url": "https://github.com/AChep/keyguard-app",
   "homepage_url": "https://play.google.com/store/apps/details?id=com.artemchep.keyguard",
   "language": "Kotlin",
@@ -17,13 +18,13 @@
     "kotlin",
     "multiplatform"
   ],
-  "star_count": 2763,
+  "star_count": 2767,
   "fork_count": 79,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-23T06:12:36Z",
-  "updated_at": "2026-04-25T12:21:59Z",
-  "pushed_at": "2026-04-23T10:33:39Z",
+  "updated_at": "2026-04-26T15:49:31Z",
+  "pushed_at": "2026-04-26T15:32:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 2763
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2767
     }
   ]
 }

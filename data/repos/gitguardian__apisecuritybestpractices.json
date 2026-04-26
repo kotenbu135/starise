@@ -4,6 +4,7 @@
   "name": "apisecuritybestpractices",
   "full_name": "gitguardian/apisecuritybestpractices",
   "description": "Resources to help you keep secrets (API keys, database credentials, certificates, ...) out of source code and remediate the issue in case of a leaked API key. Made available by GitGuardian.",
+  "description_ja": "",
   "url": "https://github.com/GitGuardian/APISecurityBestPractices",
   "homepage_url": "https://www.gitguardian.com",
   "language": "",
@@ -16,7 +17,7 @@
     "security-tools"
   ],
   "star_count": 1976,
-  "fork_count": 95,
+  "fork_count": 96,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-05-11T21:19:16Z",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 1976
+    },
+    {
+      "date": "2026-04-26",
       "stars": 1976
     }
   ]

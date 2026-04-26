@@ -4,6 +4,7 @@
   "name": "config",
   "full_name": "gookit/config",
   "description": "📝 Go configuration manage(load,get,set,export). support JSON, YAML, TOML, Properties, INI, HCL, ENV and Flags. Multi file load, data override merge, parse ENV var. Go应用配置加载管理，支持多种格式，多文件加载，远程文件加载，支持数据合并，解析环境变量名",
+  "description_ja": "",
   "url": "https://github.com/gookit/config",
   "homepage_url": "https://zread.ai/gookit/config",
   "language": "Go",
@@ -42,6 +43,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 584
+    },
+    {
+      "date": "2026-04-26",
       "stars": 584
     }
   ]

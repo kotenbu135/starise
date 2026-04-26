@@ -4,6 +4,7 @@
   "name": "minify",
   "full_name": "matthiasmullie/minify",
   "description": "CSS \u0026 JavaScript minifier, in PHP. Removes whitespace, strips comments, combines files (incl. @import statements and small assets in CSS files), and optimizes/shortens a few common programming patterns.",
+  "description_ja": "",
   "url": "https://github.com/matthiasmullie/minify",
   "homepage_url": "https://matthiasmullie.github.io/minify/",
   "language": "PHP",
@@ -39,6 +40,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 2039
+    },
+    {
+      "date": "2026-04-26",
       "stars": 2039
     }
   ]

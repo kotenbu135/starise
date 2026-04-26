@@ -4,6 +4,7 @@
   "name": "securityclaw",
   "full_name": "securityclaw/securityclaw",
   "description": "A modular, skill-based autonomous Security Operations Center (SOC) agent that monitors OpenSearch/Elasticsearch data, builds RAG-based behavioral memory, and validates real-time anomalies using LLMs.",
+  "description_ja": "",
   "url": "https://github.com/SecurityClaw/SecurityClaw",
   "homepage_url": "",
   "language": "Python",
@@ -24,12 +25,12 @@
     "threat-detection",
     "threat-hunting"
   ],
-  "star_count": 209,
+  "star_count": 212,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T04:38:03Z",
-  "updated_at": "2026-04-24T06:04:19Z",
+  "updated_at": "2026-04-26T14:14:41Z",
   "pushed_at": "2026-04-15T22:51:11Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +45,10 @@
     {
       "date": "2026-04-25",
       "stars": 209
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 212
     }
   ]
 }

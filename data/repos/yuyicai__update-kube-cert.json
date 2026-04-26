@@ -4,6 +4,7 @@
   "name": "update-kube-cert",
   "full_name": "yuyicai/update-kube-cert",
   "description": "K8s 集群证书过期处理，更新 kubeadm 生成的证书有效期为 10 年; 为新集群生成 100 年证书支持全部版本。A tool to update and extend Kubernetes certificate expiration dates to 10 years. Generate 100 years certificates for new Kubernetes cluster",
+  "description_ja": "",
   "url": "https://github.com/yuyicai/update-kube-cert",
   "homepage_url": "",
   "language": "Shell",
@@ -34,6 +35,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 668
+    },
+    {
+      "date": "2026-04-26",
       "stars": 668
     }
   ]

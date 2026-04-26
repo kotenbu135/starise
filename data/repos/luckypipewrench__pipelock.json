@@ -3,15 +3,18 @@
   "owner": "luckypipewrench",
   "name": "pipelock",
   "full_name": "luckypipewrench/pipelock",
-  "description": "Firewall for AI agents. DLP scanning, SSRF protection, bidirectional MCP scanning, tool poisoning detection, and prompt injection blocking.",
+  "description": "Open-source AI agent firewall for MCP security: agent egress control, DLP, SSRF, and prompt injection defense.",
+  "description_ja": "",
   "url": "https://github.com/luckyPipewrench/pipelock",
   "homepage_url": "https://pipelab.org",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
+    "agent-security",
+    "ai-agent-security",
     "ai-agents",
+    "ai-firewall",
     "ai-security",
-    "ci",
     "dlp",
     "egress-proxy",
     "fetch-proxy",
@@ -20,8 +23,12 @@
     "integrity-monitoring",
     "llm-security",
     "mcp",
+    "mcp-security",
+    "prompt-injection",
     "security",
     "security-scanning",
+    "security-tools",
+    "ssrf",
     "ssrf-protection"
   ],
   "star_count": 342,
@@ -29,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-08T00:40:18Z",
-  "updated_at": "2026-04-25T03:16:26Z",
-  "pushed_at": "2026-04-25T03:33:36Z",
+  "updated_at": "2026-04-26T12:42:27Z",
+  "pushed_at": "2026-04-26T15:49:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +46,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 342
+    },
+    {
+      "date": "2026-04-26",
       "stars": 342
     }
   ]

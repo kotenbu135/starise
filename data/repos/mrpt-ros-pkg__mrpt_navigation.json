@@ -4,6 +4,7 @@
   "name": "mrpt_navigation",
   "full_name": "mrpt-ros-pkg/mrpt_navigation",
   "description": "ROS 2 nodes wrapping core MRPT functionality: localization, autonomous navigation, rawlogs, etc. SLAM is in other packages.",
+  "description_ja": "",
   "url": "https://github.com/mrpt-ros-pkg/mrpt_navigation",
   "homepage_url": "http://wiki.ros.org/mrpt_navigation",
   "language": "C++",
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 213
+    },
+    {
+      "date": "2026-04-26",
       "stars": 213
     }
   ]

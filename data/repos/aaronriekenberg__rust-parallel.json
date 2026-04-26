@@ -4,6 +4,7 @@
   "name": "rust-parallel",
   "full_name": "aaronriekenberg/rust-parallel",
   "description": "Fast command line app in rust/tokio to run commands in parallel.  Similar interface to GNU parallel or xargs plus useful features.  Listed in Awesome Rust utilities.",
+  "description_ja": "Rust/Tokio製の高速CLIアプリでコマンドを並列実行。GNU parallelやxargsに似たインターフェースに加え便利機能を搭載。Awesome Rustユーティリティに掲載。",
   "url": "https://github.com/aaronriekenberg/rust-parallel",
   "homepage_url": "",
   "language": "Rust",
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 294
+    },
+    {
+      "date": "2026-04-26",
       "stars": 294
     }
   ]

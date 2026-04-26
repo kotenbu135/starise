@@ -4,6 +4,7 @@
   "name": "ultimatealpr-sdk",
   "full_name": "doubangotelecom/ultimatealpr-sdk",
   "description": "World's fastest ANPR / ALPR implementation for CPUs, GPUs, VPUs and NPUs using deep learning (Tensorflow, Tensorflow lite, TensorRT, OpenVX, OpenVINO). Multi-Charset (Latin, Korean, Chinese) \u0026 Multi-OS (Jetson, Android, Raspberry Pi, Linux, Windows) \u0026 Multi-Arch (ARM, x86).",
+  "description_ja": "",
   "url": "https://github.com/DoubangoTelecom/ultimateALPR-SDK",
   "homepage_url": "https://www.doubango.org/webapps/alpr/",
   "language": "C++",
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 716
+    },
+    {
+      "date": "2026-04-26",
       "stars": 716
     }
   ]

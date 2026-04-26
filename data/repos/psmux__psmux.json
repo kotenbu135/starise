@@ -4,6 +4,7 @@
   "name": "psmux",
   "full_name": "psmux/psmux",
   "description": "Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀",
+  "description_ja": "",
   "url": "https://github.com/psmux/psmux",
   "homepage_url": "https://psmux.pages.dev/",
   "language": "PowerShell",
@@ -26,13 +27,13 @@
     "windows-terminal",
     "windows-tmux"
   ],
-  "star_count": 1537,
+  "star_count": 1548,
   "fork_count": 100,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-30T18:09:19Z",
-  "updated_at": "2026-04-25T17:05:35Z",
-  "pushed_at": "2026-04-25T17:05:30Z",
+  "updated_at": "2026-04-26T15:50:15Z",
+  "pushed_at": "2026-04-26T15:50:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-25",
       "stars": 1537
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1548
     }
   ]
 }

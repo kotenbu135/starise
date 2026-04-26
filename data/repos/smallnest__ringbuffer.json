@@ -4,6 +4,7 @@
   "name": "ringbuffer",
   "full_name": "smallnest/ringbuffer",
   "description": "a thread-safe circular buffer (ring buffer) in Go, implemented io.ReaderWriter interface",
+  "description_ja": "",
   "url": "https://github.com/smallnest/ringbuffer",
   "homepage_url": "",
   "language": "Go",
@@ -28,6 +29,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 626
+    },
+    {
+      "date": "2026-04-26",
       "stars": 626
     }
   ]

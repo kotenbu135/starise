@@ -4,6 +4,7 @@
   "name": "flipperzero-firmware",
   "full_name": "flipperdevices/flipperzero-firmware",
   "description": "Flipper Zero firmware source code",
+  "description_ja": "",
   "url": "https://github.com/flipperdevices/flipperzero-firmware",
   "homepage_url": "https://flipperzero.one",
   "language": "C",
@@ -21,12 +22,12 @@
     "stm32",
     "subghz"
   ],
-  "star_count": 15872,
+  "star_count": 15876,
   "fork_count": 3332,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-07-31T21:43:20Z",
-  "updated_at": "2026-04-25T16:50:14Z",
+  "updated_at": "2026-04-26T17:16:11Z",
   "pushed_at": "2025-12-05T19:35:25Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +42,10 @@
     {
       "date": "2026-04-25",
       "stars": 15872
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 15876
     }
   ]
 }

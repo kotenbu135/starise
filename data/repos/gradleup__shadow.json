@@ -4,6 +4,7 @@
   "name": "shadow",
   "full_name": "gradleup/shadow",
   "description": "Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.",
+  "description_ja": "",
   "url": "https://github.com/GradleUp/shadow",
   "homepage_url": "https://gradleup.com/shadow/",
   "language": "Kotlin",
@@ -46,6 +47,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 4195
+    },
+    {
+      "date": "2026-04-26",
       "stars": 4195
     }
   ]

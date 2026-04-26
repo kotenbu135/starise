@@ -4,6 +4,7 @@
   "name": "aports",
   "full_name": "alpinelinux/aports",
   "description": "[MIRROR] Alpine packages build scripts",
+  "description_ja": "[MIRROR] Alpineパッケージビルドスクリプト",
   "url": "https://github.com/alpinelinux/aports",
   "homepage_url": "https://gitlab.alpinelinux.org/alpine/aports",
   "language": "Shell",
@@ -19,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-05-16T09:41:28Z",
-  "updated_at": "2026-04-25T15:46:21Z",
-  "pushed_at": "2026-04-25T15:46:16Z",
+  "updated_at": "2026-04-26T16:03:38Z",
+  "pushed_at": "2026-04-26T16:03:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -29,6 +30,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 708
+    },
+    {
+      "date": "2026-04-26",
       "stars": 708
     }
   ]

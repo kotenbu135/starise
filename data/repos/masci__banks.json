@@ -4,6 +4,7 @@
   "name": "banks",
   "full_name": "masci/banks",
   "description": "LLM prompt language based on Jinja. Banks provides tools and functions to build prompts text and chat messages from generic blueprints. It allows attaching metadata to prompts to ease their management, and versioning is first-class citizen. Banks provides ways to store prompts on disk along with their metadata.",
+  "description_ja": "",
   "url": "https://github.com/masci/banks",
   "homepage_url": "https://masci.github.io/banks/",
   "language": "Python",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 125
+    },
+    {
+      "date": "2026-04-26",
       "stars": 125
     }
   ]

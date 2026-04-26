@@ -4,6 +4,7 @@
   "name": "sqlsync",
   "full_name": "orbitinghail/sqlsync",
   "description": "SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge.",
+  "description_ja": "",
   "url": "https://github.com/orbitinghail/sqlsync",
   "homepage_url": "https://sqlsync.dev",
   "language": "Rust",
@@ -18,12 +19,12 @@
     "sqlite",
     "sqlsync"
   ],
-  "star_count": 2892,
+  "star_count": 2893,
   "fork_count": 42,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-26T15:52:29Z",
-  "updated_at": "2026-04-21T05:34:43Z",
+  "updated_at": "2026-04-26T07:14:05Z",
   "pushed_at": "2025-11-19T20:47:39Z",
   "deleted_at": "",
   "star_history": [
@@ -38,6 +39,10 @@
     {
       "date": "2026-04-25",
       "stars": 2892
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 2893
     }
   ]
 }

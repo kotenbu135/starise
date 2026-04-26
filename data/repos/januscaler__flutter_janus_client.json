@@ -4,6 +4,7 @@
   "name": "flutter_janus_client",
   "full_name": "januscaler/flutter_janus_client",
   "description": "A plugin that allows the flutter app to communicate with a Janus server using different transport mechanisms, such as WebSocket and HTTP(rest). It features a developer-friendly api to interact with various WebRTC Janus Plugins. Hence, it can be considered as a swiss-knife for WebRTC solutions.",
+  "description_ja": "",
   "url": "https://github.com/januscaler/flutter_janus_client",
   "homepage_url": "",
   "language": "Dart",
@@ -44,6 +45,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 151
+    },
+    {
+      "date": "2026-04-26",
       "stars": 151
     }
   ]

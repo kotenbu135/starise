@@ -4,6 +4,7 @@
   "name": "dockedup",
   "full_name": "anilrajrimal1/dockedup",
   "description": "A real-time, interactive CLI dashboard for monitoring Docker containers. View status, health, CPU, and memory usage with a clean, color-coded interface. Supports docker-compose grouping and hotkeys for logs, restarts, and shell access — all from the terminal.",
+  "description_ja": "Dockerコンテナを監視するためのリアルタイムでインタラクティブなCLIダッシュボード。クリーンで色分けされたインターフェースでステータス、ヘルス、CPU、メモリ使用量を表示。docker-composeのグルーピング、ログ・再起動・シェルアクセス用ホットキーをサポート — すべてターミナルから操作可能。",
   "url": "https://github.com/anilrajrimal1/dockedup",
   "homepage_url": "",
   "language": "Python",
@@ -31,6 +32,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 38
+    },
+    {
+      "date": "2026-04-26",
       "stars": 38
     }
   ]

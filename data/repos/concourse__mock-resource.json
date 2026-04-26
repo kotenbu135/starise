@@ -4,6 +4,7 @@
   "name": "mock-resource",
   "full_name": "concourse/mock-resource",
   "description": "A resource for testing the resource interface. It reflects the version it's told, and is able to mirror its own container image",
+  "description_ja": "",
   "url": "https://github.com/concourse/mock-resource",
   "homepage_url": "",
   "language": "Go",
@@ -24,6 +25,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 9
+    },
+    {
+      "date": "2026-04-26",
       "stars": 9
     }
   ]

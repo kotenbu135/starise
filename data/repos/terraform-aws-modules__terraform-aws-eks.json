@@ -4,6 +4,7 @@
   "name": "terraform-aws-eks",
   "full_name": "terraform-aws-modules/terraform-aws-eks",
   "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+  "description_ja": "",
   "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
   "homepage_url": "https://registry.terraform.io/modules/terraform-aws-modules/eks/aws",
   "language": "HCL",
@@ -19,7 +20,7 @@
     "terraform-module"
   ],
   "star_count": 4929,
-  "fork_count": 4383,
+  "fork_count": 4384,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-06-07T00:43:18Z",
@@ -37,6 +38,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 4929
+    },
+    {
+      "date": "2026-04-26",
       "stars": 4929
     }
   ]

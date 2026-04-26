@@ -4,6 +4,7 @@
   "name": "unity-mcp-server",
   "full_name": "anklebreaker-studio/unity-mcp-server",
   "description": "Unity MCP Server — 268 tools for AI-assisted game development. Connect Claude, Cursor, or any MCP client to Unity Editor \u0026 Unity Hub. Scene management, GameObjects, components, builds, profiling, Shader Graph, Amplify, terrain, physics, NavMesh, animation, MPPM multiplayer \u0026 more. Free \u0026 open source by AnkleBreaker Studio.",
+  "description_ja": "Unity MCPサーバー — AI支援ゲーム開発のための268種のツール。Claude、Cursor、または任意のMCPクライアントをUnity EditorおよびUnity Hubに接続。シーン管理、GameObject、コンポーネント、ビルド、プロファイリング、Shader Graph、Amplify、地形、物理、NavMesh、アニメーション、MPPMマルチプレイヤーなど。AnkleBreaker Studio製、無料・オープンソース。",
   "url": "https://github.com/AnkleBreaker-Studio/unity-mcp-server",
   "homepage_url": "https://anklebreaker-consulting.com/en/projects/unity-mcp",
   "language": "JavaScript",
@@ -30,12 +31,12 @@
     "unity-plugin",
     "unity3d"
   ],
-  "star_count": 127,
+  "star_count": 129,
   "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-25T10:19:14Z",
-  "updated_at": "2026-04-24T10:36:44Z",
+  "updated_at": "2026-04-26T07:51:02Z",
   "pushed_at": "2026-04-22T15:06:46Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +47,10 @@
     {
       "date": "2026-04-25",
       "stars": 127
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 129
     }
   ]
 }

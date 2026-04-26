@@ -4,6 +4,7 @@
   "name": "open-responses-server",
   "full_name": "teabranch/open-responses-server",
   "description": "Wraps any OpenAI API interface as Responses with MCPs support so it supports Codex. Adding any missing stateful features. Ollama and Vllm compliant.",
+  "description_ja": "",
   "url": "https://github.com/teabranch/open-responses-server",
   "homepage_url": "https://open-responses-server.teabranch.dev",
   "language": "Python",
@@ -40,6 +41,10 @@
     },
     {
       "date": "2026-04-25",
+      "stars": 170
+    },
+    {
+      "date": "2026-04-26",
       "stars": 170
     }
   ]

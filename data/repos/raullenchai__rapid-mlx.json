@@ -4,6 +4,7 @@
   "name": "rapid-mlx",
   "full_name": "raullenchai/rapid-mlx",
   "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
+  "description_ja": "",
   "url": "https://github.com/raullenchai/Rapid-MLX",
   "homepage_url": "https://pypi.org/project/rapid-mlx",
   "language": "Python",
@@ -21,12 +22,12 @@
     "python",
     "tool-calling"
   ],
-  "star_count": 279,
-  "fork_count": 67,
+  "star_count": 281,
+  "fork_count": 68,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-25T00:41:44Z",
-  "updated_at": "2026-04-25T15:59:39Z",
+  "updated_at": "2026-04-26T16:39:49Z",
   "pushed_at": "2026-04-22T18:13:51Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +38,10 @@
     {
       "date": "2026-04-25",
       "stars": 279
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 281
     }
   ]
 }
