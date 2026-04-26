@@ -1,0 +1,6 @@
+{
+  "src": "kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s clusters, stateful config via filesystem or  git - GUI and TUI available",
+  "ja": "ローカルサービスを公開するkubectl port-forwardマネージャ兼リバーストンネル（ngrok風）。TLS終端・HTTPトラフィック検査・UDP転送・k8sクラスタ経由のマルチホッププロキシ・ファイルシステムまたはgitによる状態管理に対応。GUI・TUIあり。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T06:22:44Z"
+}
