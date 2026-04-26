@@ -1,0 +1,6 @@
+{
+  "src": "Terraform module that provision an S3 bucket to store the `terraform.tfstate` file and a DynamoDB table to lock the state file to prevent concurrent modifications and state corruption.",
+  "ja": "`terraform.tfstate`ファイルの保存用S3バケットと、同時変更や状態破損を防ぐロック用DynamoDBテーブルをプロビジョニングするTerraformモジュール",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:44:49Z"
+}

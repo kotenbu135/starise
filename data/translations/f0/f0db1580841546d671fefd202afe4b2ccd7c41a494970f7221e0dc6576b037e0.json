@@ -1,0 +1,6 @@
+{
+  "src": "ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxes, containers and other use-cases where startup time is critical.",
+  "ja": "ArtifactFS は、大規模な git リポジトリを可能な限り高速にマウントするために設計されたファイルシステムドライバです。初回クローンをブロックせず、ファイル内容をオンザフライで展開します。起動時間が重要なエージェント・サンドボックス・コンテナなどのユースケースに最適です。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:44:15Z"
+}
