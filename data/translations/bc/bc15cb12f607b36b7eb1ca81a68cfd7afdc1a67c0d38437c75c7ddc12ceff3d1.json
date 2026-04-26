@@ -1,0 +1,6 @@
+{
+  "src": "Modifies ActiveRecord 4+ with the ability to store the actual class (instead of the base class) in polymorphic _type columns when using STI",
+  "ja": "STI 使用時にポリモーフィックな _type カラムへ基底クラスではなく実際のクラスを格納できるよう ActiveRecord 4+ を拡張します。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:22:00Z"
+}
