@@ -1,0 +1,6 @@
+{
+  "src": "This application is built in four stages using infrastructure as code with CDK with Python to deploy. In the first stage, an Amazon Aurora PostgreSQL vector database is set up. In the second stage, the Knowledge Base for Amazon Bedrock is created using the established database. The third stage involves creating an Amazon",
+  "ja": "Python を使った CDK によるインフラストラクチャ as コードで 4 段階に分けて構築・デプロイするアプリケーション。第 1 段階では Amazon Aurora PostgreSQL ベクターデータベースをセットアップし、第 2 段階では構築したデータベースを使って Amazon Bedrock の Knowledge Base を作成する。第 3 段階では Amazon のリソースを作成する。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:36:39Z"
+}

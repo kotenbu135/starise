@@ -1,0 +1,6 @@
+{
+  "src": "Async web3py middleware that collects eth calls and batches them into multicalls, then batches those multicalls into jsonrpc batches along with all your other calls in the background.",
+  "ja": "eth 呼び出しを収集してマルチコールにまとめ、さらに他のすべての呼び出しとともにバックグラウンドで jsonrpc バッチにまとめる非同期 web3py ミドルウェア。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:34:12Z"
+}

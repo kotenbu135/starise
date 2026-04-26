@@ -1,0 +1,6 @@
+{
+  "src": "History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.",
+  "ja": "History.js は全ブラウザで HTML5 の History/State API（pushState、replaceState、onPopState）を適切にサポート。data・title・replaceState の継続サポートも含む。jQuery、MooTools、Prototype に対応。HTML5 ブラウザではハッシュ不要で URL を直接変更可能。HTML4 ブラウザでは旧来の onhashchange 機能にフォールバック。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:35:43Z"
+}

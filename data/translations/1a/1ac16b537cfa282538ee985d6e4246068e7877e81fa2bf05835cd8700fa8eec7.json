@@ -1,0 +1,6 @@
+{
+  "src": "       In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversarial Network (GAN) with LSTM, a type of Recurrent Neural Network, as generator, and a Convolutional Neural Network, CNN, as a discriminator. We use LSTM for the obvious reason that we are trying to predict time series data. Why we use GAN and specifically CNN as a discriminator? That is a good question: there are special sections on that later.",
+  "ja": "このノートブックでは、株価変動を予測するための完全なプロセスを構築します。生成器としてLSTM（Recurrent Neural Networkの一種）を組み込んだGenerative Adversarial Network（GAN）を、識別器としてConvolutional Neural Network（CNN）を使用します。時系列データの予測にLSTMを使う理由は明白ですが、なぜGANを使い識別器に特にCNNを選ぶのかについては、後ほど専用のセクションで説明します。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:34:51Z"
+}
