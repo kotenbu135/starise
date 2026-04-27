@@ -1,0 +1,6 @@
+{
+  "src": "ETL / ELT / Reverse ETL Framework powered by DuckDB, designed to seamlessly integrate and process data from diverse sources. It leverages Markdown as a configuration medium, where YAML blocks define metadata for each data source, and embedded SQL blocks specify the extraction, transformation, and loading logic.",
+  "ja": "DuckDB を基盤とした ETL / ELT / Reverse ETL フレームワーク。多様なソースのデータを統合・処理するよう設計されており、Markdown を設定媒体として活用し、YAML ブロックで各データソースのメタデータを定義し、埋め込み SQL ブロックで抽出・変換・ロードのロジックを記述する。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T01:10:50Z"
+}
