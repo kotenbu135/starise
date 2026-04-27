@@ -1,0 +1,6 @@
+{
+  "src": "A Docker lab integrating Splunk SIEM with Ollama LLM via MCP for AI security operations. Features Promptfoo OWASP evaluation, TA-ollama and TA-mcp-jsonrpc add-ons, dual bind-mount log ingestion, and real-time HEC streaming across six indexes for MITRE ATLAS TTP detection.",
+  "ja": "Ollama LLM を MCP 経由で Splunk SIEM と統合した Docker ラボ。AI セキュリティオペレーション向け。Promptfoo による OWASP 評価、TA-ollama・TA-mcp-jsonrpc アドオン、デュアルバインドマウントログ取り込み、6 つのインデックスにわたるリアルタイム HEC ストリーミングによる MITRE ATLAS TTP 検出機能を搭載。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T01:16:41Z"
+}
