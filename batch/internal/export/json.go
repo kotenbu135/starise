@@ -125,17 +125,26 @@ func Export(d *sql.DB, opts Options) (int, error) {
 			if err != nil {
 				return written, fmt.Errorf("ranking lookup repo_id=%d: %w", r.RepoID, err)
 			}
+			descJA := ""
+			if trCache != nil && repo.Description != "" {
+				if entry, ok, err := trCache.Get(repo.Description); err == nil && ok {
+					descJA = entry.JA
+				}
+			}
 			entries = append(entries, RankingEntry{
-				Rank:       r.Rank,
-				RepoID:     repo.GitHubID,
-				Owner:      repo.Owner,
-				Name:       repo.Name,
-				FullName:   repo.Owner + "/" + repo.Name,
-				Language:   repo.Language,
-				StartStars: r.StartStars,
-				EndStars:   r.EndStars,
-				StarDelta:  r.StarDelta,
-				GrowthPct:  r.GrowthPct,
+				Rank:          r.Rank,
+				RepoID:        repo.GitHubID,
+				Owner:         repo.Owner,
+				Name:          repo.Name,
+				FullName:      repo.Owner + "/" + repo.Name,
+				Description:   repo.Description,
+				DescriptionJA: descJA,
+				Language:      repo.Language,
+				CreatedAt:     repo.CreatedAt,
+				StartStars:    r.StartStars,
+				EndStars:      r.EndStars,
+				StarDelta:     r.StarDelta,
+				GrowthPct:     r.GrowthPct,
 			})
 		}
 		rk.Rankings[key] = entries

@@ -45,17 +45,25 @@ type RepoDetail struct {
 }
 
 // RankingEntry is one row inside rankings.json.
+//
+// Description / DescriptionJA / CreatedAt are denormalised onto each
+// entry so the frontend can render the rankings page without scanning
+// every file under data/repos/ (which now holds ~60k entries — a full
+// scan on each SSR request is the dominant page-load cost).
 type RankingEntry struct {
-	Rank       int     `json:"rank"`
-	RepoID     string  `json:"repo_id"`
-	Owner      string  `json:"owner"`
-	Name       string  `json:"name"`
-	FullName   string  `json:"full_name"`
-	Language   string  `json:"language"`
-	StartStars int     `json:"start_stars"`
-	EndStars   int     `json:"end_stars"`
-	StarDelta  int     `json:"star_delta"`
-	GrowthPct  float64 `json:"growth_pct"`
+	Rank          int     `json:"rank"`
+	RepoID        string  `json:"repo_id"`
+	Owner         string  `json:"owner"`
+	Name          string  `json:"name"`
+	FullName      string  `json:"full_name"`
+	Description   string  `json:"description"`
+	DescriptionJA string  `json:"description_ja"`
+	Language      string  `json:"language"`
+	CreatedAt     string  `json:"created_at"`
+	StartStars    int     `json:"start_stars"`
+	EndStars      int     `json:"end_stars"`
+	StarDelta     int     `json:"star_delta"`
+	GrowthPct     float64 `json:"growth_pct"`
 }
 
 // Rankings is the rankings.json document. UpdatedAt is the only field

@@ -11,30 +11,9 @@ const dataDir = path.join(process.cwd(), 'public', 'data');
 let updatedAt = new Date().toISOString();
 let rankings: PeriodRankings = { ...EMPTY_PERIOD_RANKINGS };
 
-// Build owner/name -> created_at lookup from data/repos/*.json so the frontend
-// can apply the repo-age filter. Rank entries in rankings.json don't carry
-// created_at, so we enrich at SSR time.
-const createdAtByFullName = new Map<string, string>();
-try {
-  const reposDir = path.join(dataDir, 'repos');
-  const files = await fs.readdir(reposDir);
-  await Promise.all(files
-    .filter((f) => f.endsWith('.json'))
-    .map(async (f) => {
-      try {
-        const raw = await fs.readFile(path.join(reposDir, f), 'utf-8');
-        const repo = JSON.parse(raw);
-        if (repo.full_name && repo.created_at) {
-          createdAtByFullName.set(repo.full_name, repo.created_at);
-        }
-      } catch {
-        // skip malformed
-      }
-    }));
-} catch {
-  // repos/ missing → enrichment skipped; age filter falls back to keep-all
-}
-
+// rankings.json carries description / description_ja / created_at on each
+// entry, so the home page renders without scanning data/repos/*.json
+// (which would be 60k+ file reads on every SSR request).
 try {
   const filePath = path.join(dataDir, 'rankings.json');
   const text = await fs.readFile(filePath, 'utf-8');
@@ -47,13 +26,7 @@ try {
   const periods: Period[] = ['1d', '7d', '30d'];
   const raw = parsed.rankings ?? {};
   for (const p of periods) {
-    const entries: RankingEntry[] = (raw[`${p}_trending`] ?? []).map(
-      (e: RankingEntry) => ({
-        ...e,
-        created_at: createdAtByFullName.get(e.full_name),
-      }),
-    );
-    rankings[p] = entries;
+    rankings[p] = (raw[`${p}_trending`] ?? []) as RankingEntry[];
   }
 } catch {
   // no data available yet

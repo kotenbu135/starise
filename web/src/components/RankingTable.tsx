@@ -123,7 +123,7 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
             <tr className="border-b border-border text-left text-xs text-text-muted">
               <th className="py-3 pr-2 w-14 whitespace-nowrap">#</th>
               <th className="py-3 px-2">リポジトリ</th>
-              <th className="py-3 px-2 w-24">言語</th>
+              <th className="py-3 px-2 w-24 hidden md:table-cell">言語</th>
               <SortHeader
                 label="スター"
                 sortKey="end_stars"
@@ -162,15 +162,20 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
                     <TrendIcon rate={entry.growth_pct} rank={entry.rank} />
                   </span>
                 </td>
-                <td className="py-3 px-2">
+                <td className="py-3 px-2 max-w-0">
                   <a
                     href={`${basePath}/repo/${entry.owner}/${entry.name}`}
-                    className="font-mono text-[13px] font-medium text-brand hover:text-brand-hover transition-colors duration-150"
+                    className="font-mono text-[13px] font-medium text-brand hover:text-brand-hover transition-colors duration-150 block truncate"
                   >
                     {entry.owner}/{entry.name}
                   </a>
+                  {(entry.description_ja || entry.description) && (
+                    <p className="text-xs text-text-secondary mt-1 line-clamp-2 leading-relaxed">
+                      {entry.description_ja || entry.description}
+                    </p>
+                  )}
                 </td>
-                <td className="py-3 px-2">
+                <td className="py-3 px-2 hidden md:table-cell">
                   {entry.language && (
                     <span className="text-xs font-medium text-text-secondary">
                       {entry.language}
@@ -214,6 +219,11 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
                     {entry.owner}/{entry.name}
                   </span>
                 </div>
+                {(entry.description_ja || entry.description) && (
+                  <p className="text-xs text-text-secondary mt-2 line-clamp-2 leading-relaxed">
+                    {entry.description_ja || entry.description}
+                  </p>
+                )}
               </div>
             </div>
             <div className="flex items-center gap-4 mt-3 text-xs">

@@ -4,12 +4,14 @@ export interface RankingEntry {
   owner: string;
   name: string;
   full_name: string;
+  description?: string;
+  description_ja?: string;
   language: string;
+  created_at?: string;
   start_stars: number;
   end_stars: number;
   star_delta: number;
   growth_pct: number;
-  created_at?: string; // enriched at SSR time from data/repos/*.json
 }
 
 export type Period = "1d" | "7d" | "30d";

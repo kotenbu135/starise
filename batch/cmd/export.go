@@ -9,8 +9,9 @@ import (
 )
 
 var (
-	exportOutDir string
-	exportTopN   int
+	exportOutDir              string
+	exportTopN                int
+	exportTranslationCacheDir string
 )
 
 var exportCmd = &cobra.Command{
@@ -32,6 +33,7 @@ var exportCmd = &cobra.Command{
 		written, err := export.Export(d, export.Options{
 			OutDir: exportOutDir, UpdatedAt: now, GeneratedAt: now,
 			ComputedDate: t, TopN: exportTopN,
+			TranslationCacheDir: exportTranslationCacheDir,
 		})
 		if err != nil {
 			return err
@@ -49,4 +51,6 @@ var exportCmd = &cobra.Command{
 func init() {
 	exportCmd.Flags().StringVar(&exportOutDir, "out-dir", "../data", "output directory")
 	exportCmd.Flags().IntVar(&exportTopN, "top-n", 2000, "max rank entries per slot")
+	exportCmd.Flags().StringVar(&exportTranslationCacheDir, "translation-cache-dir", "../data/translations",
+		"translation cache root; empty = skip description_ja injection")
 }
