@@ -1,0 +1,6 @@
+{
+  "src": "DPI bypass via fake TLS ClientHello injection with wrong TCP sequence number. Rust port of @patterniha's SNI-Spoofing. Linux, macOS, Windows. Works with v2ray/xray VLESS configs behind Cloudflare.",
+  "ja": "誤った TCP シーケンス番号を持つ偽の TLS ClientHello インジェクションによる DPI バイパス。@patterniha の SNI-Spoofing の Rust 移植版。Linux、macOS、Windows 対応。Cloudflare 経由の v2ray/xray VLESS 設定で動作。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T06:11:23Z"
+}
