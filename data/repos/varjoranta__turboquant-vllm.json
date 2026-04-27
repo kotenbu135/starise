@@ -4,7 +4,7 @@
   "name": "turboquant-vllm",
   "full_name": "varjoranta/turboquant-vllm",
   "description": "TurboQuant+ KV cache compression for vLLM. 3.8x smaller KV cache, same conversation quality. Fused CUDA kernels with automatic PyTorch fallback.",
-  "description_ja": "",
+  "description_ja": "TurboQuant+ vLLM向けKVキャッシュ圧縮。KVキャッシュを3.8倍縮小しつつ会話品質を維持。PyTorchへの自動フォールバック付きフューズドCUDAカーネル。",
   "url": "https://github.com/varjoranta/turboquant-vllm",
   "homepage_url": "",
   "language": "Python",

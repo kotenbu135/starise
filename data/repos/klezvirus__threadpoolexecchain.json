@@ -4,7 +4,7 @@
   "name": "threadpoolexecchain",
   "full_name": "klezvirus/threadpoolexecchain",
   "description": "A simple POC to show how to chain multiple callbacks via tail calls to artificially construct a call stack",
-  "description_ja": "",
+  "description_ja": "テール呼び出しで複数のコールバックを連鎖させ、人工的にコールスタックを構築する方法を示すシンプルなPOC",
   "url": "https://github.com/klezVirus/ThreadPoolExecChain",
   "homepage_url": "",
   "language": "C++",

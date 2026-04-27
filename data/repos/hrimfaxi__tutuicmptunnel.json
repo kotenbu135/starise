@@ -4,7 +4,7 @@
   "name": "tutuicmptunnel",
   "full_name": "hrimfaxi/tutuicmptunnel",
   "description": "A BPF-based, zero-MTU-overhead UDP-to-ICMP protocol morpher for hostile networks that discriminate against UDP.",
-  "description_ja": "",
+  "description_ja": "UDP を敵対的ネットワーク上で ICMP に変換する、BPF ベースの MTU オーバーヘッドゼロのプロトコル変換器。",
   "url": "https://github.com/hrimfaxi/tutuicmptunnel",
   "homepage_url": "",
   "language": "C",

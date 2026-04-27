@@ -4,7 +4,7 @@
   "name": "dank_mids",
   "full_name": "bobthebuidler/dank_mids",
   "description": "Async web3py middleware that collects eth calls and batches them into multicalls, then batches those multicalls into jsonrpc batches along with all your other calls in the background.",
-  "description_ja": "",
+  "description_ja": "eth 呼び出しを収集してマルチコールにまとめ、さらに他のすべての呼び出しとともにバックグラウンドで jsonrpc バッチにまとめる非同期 web3py ミドルウェア。",
   "url": "https://github.com/BobTheBuidler/dank_mids",
   "homepage_url": "https://bobthebuidler.github.io/dank_mids/",
   "language": "C",

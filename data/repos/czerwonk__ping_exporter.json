@@ -4,7 +4,7 @@
   "name": "ping_exporter",
   "full_name": "czerwonk/ping_exporter",
   "description": "Prometheus exporter for ICMP echo requests using https://github.com/digineo/go-ping",
-  "description_ja": "",
+  "description_ja": "go-pingを使用したICMPエコーリクエスト向けPrometheusエクスポーター。",
   "url": "https://github.com/czerwonk/ping_exporter",
   "homepage_url": "",
   "language": "Go",

@@ -4,7 +4,7 @@
   "name": "bypass-firewalls-by-dns-history",
   "full_name": "vincentcox/bypass-firewalls-by-dns-history",
   "description": "Firewall bypass script based on DNS history records. This script will search for DNS A history records and check if the server replies for that domain. Handy for bugbounty hunters.",
-  "description_ja": "",
+  "description_ja": "DNS履歴レコードに基づくファイアウォール回避スクリプト。DNS Aレコードの履歴を検索し、対象ドメインへのサーバー応答を確認します。バグバウンティハンターに便利。",
   "url": "https://github.com/vincentcox/bypass-firewalls-by-DNS-history",
   "homepage_url": "",
   "language": "Shell",

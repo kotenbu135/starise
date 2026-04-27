@@ -4,7 +4,7 @@
   "name": "django-tasks-scheduler",
   "full_name": "django-commons/django-tasks-scheduler",
   "description": "Schedule async tasks using redis protocol. Redis/ValKey/Dragonfly or any broker using the redis protocol can be used.",
-  "description_ja": "",
+  "description_ja": "Redis プロトコルを使って非同期タスクをスケジュールできます。Redis・ValKey・Dragonfly、またはRedis プロトコルに対応した任意のブローカーが利用可能です。",
   "url": "https://github.com/django-commons/django-tasks-scheduler",
   "homepage_url": "https://django-tasks-scheduler.readthedocs.io/",
   "language": "Python",

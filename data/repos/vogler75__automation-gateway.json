@@ -4,7 +4,7 @@
   "name": "automation-gateway",
   "full_name": "vogler75/automation-gateway",
   "description": "A OPC UA gateway which gives you access to your OPC UA values via MQTT or GraphQL (HTTP). If you have an OPC UA server in your PLC, or a SCADA system with an OPC UA server, you can query data from there via MQTT and GraphQL (HTTP). In addition, the gateway can also log value changes from OPC UA nodes in an InfluxDB, IoTDB, Kafka, and others.",
-  "description_ja": "",
+  "description_ja": "MQTTまたはGraphQL（HTTP）経由でOPC UAの値にアクセスできるOPC UAゲートウェイ。PLCやSCADAシステム上のOPC UAサーバーからMQTTおよびGraphQL（HTTP）でデータを取得可能。さらに、OPC UAノードの値変化をInfluxDB、IoTDB、Kafkaなどに記録することもできます。",
   "url": "https://github.com/vogler75/automation-gateway",
   "homepage_url": "",
   "language": "Kotlin",

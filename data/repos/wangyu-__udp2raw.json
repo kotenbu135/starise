@@ -4,7 +4,7 @@
   "name": "udp2raw",
   "full_name": "wangyu-/udp2raw",
   "description": "A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)",
-  "description_ja": "",
+  "description_ja": "Raw Socketを使ってUDPトラフィックを暗号化されたUDP/FakeTCP/ICMPに変換するトンネルツール。UDPファイアウォール回避（または不安定なUDP環境）に対応",
   "url": "https://github.com/wangyu-/udp2raw",
   "homepage_url": "",
   "language": "C++",

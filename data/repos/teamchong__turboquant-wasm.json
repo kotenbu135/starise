@@ -4,7 +4,7 @@
   "name": "turboquant-wasm",
   "full_name": "teamchong/turboquant-wasm",
   "description": "TurboQuant WASM SIMD vector compression — 3 bits/dim with fast dot product. Requires relaxed SIMD (Chrome 114+, Firefox 128+, Safari 18+, Node 20+)",
-  "description_ja": "",
+  "description_ja": "TurboQuant WASM SIMDベクトル圧縮 — 高速ドット積を備えた3ビット/次元。relaxed SIMDが必要（Chrome 114+、Firefox 128+、Safari 18+、Node 20+）",
   "url": "https://github.com/teamchong/turboquant-wasm",
   "homepage_url": "https://teamchong.github.io/turboquant-wasm/",
   "language": "Zig",

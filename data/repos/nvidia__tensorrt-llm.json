@@ -4,7 +4,7 @@
   "name": "tensorrt-llm",
   "full_name": "nvidia/tensorrt-llm",
   "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
-  "description_ja": "",
+  "description_ja": "TensorRT LLMは、大規模言語モデル（LLM）を定義するための使いやすいPython APIを提供し、NVIDIA GPU上での効率的な推論のための最先端の最適化をサポートします。また、高性能な推論実行を orchestrateするPythonおよびC++ランタイムの作成コンポーネントも含んでいます。",
   "url": "https://github.com/NVIDIA/TensorRT-LLM",
   "homepage_url": "https://nvidia.github.io/TensorRT-LLM",
   "language": "Python",

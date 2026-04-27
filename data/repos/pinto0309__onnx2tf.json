@@ -4,7 +4,7 @@
   "name": "onnx2tf",
   "full_name": "pinto0309/onnx2tf",
   "description": "A tool for converting ONNX files to LiteRT/TFLite/TensorFlow, PyTorch native code (nn.Module), TorchScript (.pt), state_dict (.pt), Exported Program (.pt2), and Dynamo ONNX. It also supports direct conversion from LiteRT to PyTorch.",
-  "description_ja": "",
+  "description_ja": "ONNXファイルをLiteRT/TFLite/TensorFlow、PyTorchネイティブコード（nn.Module）、TorchScript（.pt）、state_dict（.pt）、Exported Program（.pt2）、Dynamo ONNXに変換するツール。LiteRTからPyTorchへの直接変換もサポート",
   "url": "https://github.com/PINTO0309/onnx2tf",
   "homepage_url": "",
   "language": "Python",

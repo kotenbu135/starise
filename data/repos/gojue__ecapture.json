@@ -4,7 +4,7 @@
   "name": "ecapture",
   "full_name": "gojue/ecapture",
   "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
-  "description_ja": "",
+  "description_ja": "eBPF を使用して CA 証明書なしで SSL/TLS の平文を取得。amd64/arm64 の Linux/Android カーネルに対応。",
   "url": "https://github.com/gojue/ecapture",
   "homepage_url": "https://ecapture.cc",
   "language": "C",

@@ -4,7 +4,7 @@
   "name": "redisfullcheck",
   "full_name": "tair-opensource/redisfullcheck",
   "description": "redis-full-check is used to compare whether two redis have the same data. Support redis version from 2.x to 7.x (Don't support Redis Modules).",
-  "description_ja": "",
+  "description_ja": "redis-full-checkは2つのRedisが同一データを持つかどうかを比較するツールです。Redisバージョン2.x〜7.xに対応（Redis Modulesは非対応）。",
   "url": "https://github.com/tair-opensource/RedisFullCheck",
   "homepage_url": "",
   "language": "Go",

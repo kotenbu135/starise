@@ -4,7 +4,7 @@
   "name": "apollo-upload-client",
   "full_name": "jaydenseric/apollo-upload-client",
   "description": "A terminating Apollo Link for Apollo Client that fetches a GraphQL multipart request if the GraphQL variables contain files (by default FileList, File, or Blob instances), or else fetches a regular GraphQL POST or GET request (depending on the config and GraphQL operation).",
-  "description_ja": "",
+  "description_ja": "GraphQL変数にファイル（デフォルトでFileList、File、またはBlobインスタンス）が含まれる場合はGraphQLマルチパートリクエストを送信し、それ以外はconfigとGraphQL操作に応じて通常のGRaphQL POSTまたはGETリクエストを送信する、Apollo Client向けの終端Apollo Link。",
   "url": "https://github.com/jaydenseric/apollo-upload-client",
   "homepage_url": "https://npm.im/apollo-upload-client",
   "language": "JavaScript",

@@ -4,7 +4,7 @@
   "name": "kubectl-view-allocations",
   "full_name": "davidb/kubectl-view-allocations",
   "description": "kubectl plugin to list allocations (cpu, memory, gpu,... X utilization, requested, limit, allocatable,...)",
-  "description_ja": "",
+  "description_ja": "CPU・メモリ・GPU などのリソース割り当て（使用率・要求量・制限・割り当て可能量）を一覧表示する kubectl プラグイン。",
   "url": "https://github.com/davidB/kubectl-view-allocations",
   "homepage_url": "https://crates.io/crates/kubectl-view-allocations",
   "language": "Rust",

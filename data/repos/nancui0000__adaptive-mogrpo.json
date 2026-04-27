@@ -4,7 +4,7 @@
   "name": "adaptive-mogrpo",
   "full_name": "nancui0000/adaptive-mogrpo",
   "description": "Adaptive Weight Scheduling for Multi-Objective GRPO in Code Generation. Fixed multi-objective rewards cause reward hacking (short but broken code). Our curriculum approach—correctness first, then gradually adding efficiency/brevity—preserves 81.7% HumanEval while generating 11% shorter code.",
-  "description_ja": "",
+  "description_ja": "コード生成における多目的GRPOの適応的重みスケジューリング。固定された多目的報酬は報酬ハッキング（短いが壊れたコード）を引き起こす。正確性を優先し徐々に効率性・簡潔性を加える課程学習アプローチにより、HumanEvalの81.7%を維持しつつ11%短いコードを生成。",
   "url": "https://github.com/nancui0000/adaptive-mogrpo",
   "homepage_url": "",
   "language": "Python",

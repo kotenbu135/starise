@@ -4,7 +4,7 @@
   "name": "sagooiot",
   "full_name": "sagoo-cloud/sagooiot",
   "description": "SagooIOT是一个基于golang开发的开源的企业级物联网基础开发平台。负责设备管理和协议数据管理，支持跨平台的物联网接入及管理方案，平台实现了物联网开发相关的基础功能，基于该功能可以快速的搭建起一整套的IOT相关的业务系统。旨在通过可复用的组件，减少开发工作，简化和加速物联网开发交付。适配多种接入协议(TCP,MQTT,UDP,CoAP,HTTP,GRPC,RPC等)",
-  "description_ja": "",
+  "description_ja": "SagooIOTはGolangで開発されたオープンソースのエンタープライズ向けIoT基盤開発プラットフォームです。デバイス管理とプロトコルデータ管理を担い、クロスプラットフォームなIoT接続・管理ソリューションをサポートします。IoT開発に関連する基本機能を実装しており、これを基に完全なIOT関連業務システムを迅速に構築できます。再利用可能なコンポーネントにより開発作業を削減し、IoT開発・デリバリーを簡素化・加速することを目的としています。複数の接続プロトコル（TCP、MQTT、UDP、CoAP、HTTP、GRPC、RPCなど）に対応しています。",
   "url": "https://github.com/sagoo-cloud/sagooiot",
   "homepage_url": "https://iotdoc.sagoo.cn",
   "language": "Go",

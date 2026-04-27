@@ -4,7 +4,7 @@
   "name": "bpftop",
   "full_name": "jfernandez/bpftop",
   "description": "bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.",
-  "description_ja": "",
+  "description_ja": "bpftop は実行中の eBPF プログラムの動的なリアルタイムビューを提供。各プログラムの平均実行時間、毎秒イベント数、推定 CPU 使用率を表示。",
   "url": "https://github.com/jfernandez/bpftop",
   "homepage_url": "https://bpftop.sh",
   "language": "C",

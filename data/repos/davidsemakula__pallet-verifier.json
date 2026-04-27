@@ -4,7 +4,7 @@
   "name": "pallet-verifier",
   "full_name": "davidsemakula/pallet-verifier",
   "description": "A tool for detecting common security vulnerabilities and insecure patterns in FRAME pallets using static program analysis techniques like data-flow analysis, abstract interpretation and symbolic execution.",
-  "description_ja": "",
+  "description_ja": "データフロー解析・抽象解釈・シンボリック実行などの静的プログラム解析技術を用いて、FRAME パレットの一般的なセキュリティ脆弱性と安全でないパターンを検出するツール",
   "url": "https://github.com/davidsemakula/pallet-verifier",
   "homepage_url": "",
   "language": "Rust",

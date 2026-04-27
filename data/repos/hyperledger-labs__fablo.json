@@ -4,7 +4,7 @@
   "name": "fablo",
   "full_name": "hyperledger-labs/fablo",
   "description": "Fablo is a simple tool to generate the Hyperledger Fabric network and run it on Docker. It's best for local development, CI processes and experimenting with various network configurations. It supports BFT, RAFT and solo consensus protocols, multiple organizations and channels, network snapshots, chaincode installation and many other features.",
-  "description_ja": "",
+  "description_ja": "Fablo は Hyperledger Fabric ネットワークを生成し Docker 上で実行するシンプルなツールです。ローカル開発、CI プロセス、さまざまなネットワーク構成の実験に最適で、BFT・RAFT・solo コンセンサスプロトコル、複数組織とチャネル、ネットワークスナップショット、チェーンコードインストールなど多くの機能をサポートします。",
   "url": "https://github.com/hyperledger-labs/fablo",
   "homepage_url": "",
   "language": "Shell",

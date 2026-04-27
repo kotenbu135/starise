@@ -4,7 +4,7 @@
   "name": "jhiccup",
   "full_name": "giltene/jhiccup",
   "description": "jHiccup is a non-intrusive instrumentation tool that logs and records\nplatform \"hiccups\" - including the JVM stalls that often happen when\nJava applications are executed and/or any OS or hardware platform noise\nthat may cause the running application to not be continuously runnable.",
-  "description_ja": "",
+  "description_ja": "jHiccupは、プラットフォームの「ヒカップ（一時停止）」を記録するための非侵入型計測ツールです。Javaアプリケーション実行時に発生するJVMストールや、アプリケーションの継続実行を妨げるOSやハードウェアのノイズを含みます。",
   "url": "https://github.com/giltene/jHiccup",
   "homepage_url": "",
   "language": "Java",

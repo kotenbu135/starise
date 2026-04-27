@@ -4,7 +4,7 @@
   "name": "custom-virtualized-geometry-renderer",
   "full_name": "wbiu/custom-virtualized-geometry-renderer",
   "description": "A custom Virtualized Geometry LOD Rendering Engine : cluster-based real-time mesh simplification and LOD streaming system inspired by UE5's Nanite. This engine dynamically switches between multiple Levels of Detail using a virtualized geometry hierarchy, supporting view-dependent streaming and cluster-based simplification.",
-  "description_ja": "",
+  "description_ja": "カスタム仮想化ジオメトリ LOD レンダリングエンジン：UE5 の Nanite にインスパイアされた、クラスターベースのリアルタイムメッシュ簡略化および LOD ストリーミングシステム。仮想化ジオメトリ階層を使用して複数の LOD を動的に切り替え、視点依存ストリーミングとクラスターベースの簡略化をサポートします。",
   "url": "https://github.com/Wbiu/Custom-Virtualized-Geometry-Renderer",
   "homepage_url": "",
   "language": "C++",

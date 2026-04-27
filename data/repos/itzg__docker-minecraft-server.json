@@ -4,7 +4,7 @@
   "name": "docker-minecraft-server",
   "full_name": "itzg/docker-minecraft-server",
   "description": "Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup",
-  "description_ja": "",
+  "description_ja": "起動時に自動でバージョン・modローダー・modpackなどをインストール・アップグレードするJava Edition向けMinecraftサーバーDockerイメージ。",
   "url": "https://github.com/itzg/docker-minecraft-server",
   "homepage_url": "https://docker-minecraft-server.readthedocs.io/",
   "language": "Shell",

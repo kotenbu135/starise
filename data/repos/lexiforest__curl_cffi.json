@@ -4,7 +4,7 @@
   "name": "curl_cffi",
   "full_name": "lexiforest/curl_cffi",
   "description": "Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.",
-  "description_ja": "",
+  "description_ja": "cffi経由のcurl-impersonateフォーク向けPythonバインディング。ブラウザのTLS/JA3/HTTP2フィンガープリントを偽装できるHTTPクライアント",
   "url": "https://github.com/lexiforest/curl_cffi",
   "homepage_url": "https://curl-cffi.readthedocs.io/",
   "language": "Python",

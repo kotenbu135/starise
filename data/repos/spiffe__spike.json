@@ -4,7 +4,7 @@
   "name": "spike",
   "full_name": "spiffe/spike",
   "description": "SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead.",
-  "description_ja": "",
+  "description_ja": "SPIKE は SPIFFE をアイデンティティコントロールプレーンとして使用する軽量なシークレットストア。最小限のオーバーヘッドで機密情報を保護し、運用担当者・SRE・システム管理者が安全に機密データを管理できるよう支援する。",
   "url": "https://github.com/spiffe/spike",
   "homepage_url": "https://spike.ist/",
   "language": "Go",

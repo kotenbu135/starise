@@ -4,7 +4,7 @@
   "name": "security-ssid-abi",
   "full_name": "gisdev01/security-ssid-abi",
   "description": "Sniff wifi probes from nearby devices (passive monitoring only) and logs to a Django App/DB (with GUI) and optionally can log all probes into an InfluxDB time-series database (Using pcap or airmon-ng)",
-  "description_ja": "",
+  "description_ja": "近くのデバイスからWi-Fiプローブを傍受（パッシブモニタリングのみ）し、Django App/DB（GUI付き）に記録。オプションでpcapまたはairmon-ngを使用してすべてのプローブをInfluxDB時系列データベースにも記録できます。",
   "url": "https://github.com/GISDev01/security-ssid-abi",
   "homepage_url": "",
   "language": "Python",

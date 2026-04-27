@@ -4,7 +4,7 @@
   "name": "marfs",
   "full_name": "mar-file-system/marfs",
   "description": "MarFS provides a scalable near-POSIX file system by using one or more POSIX file systems as a scalable metadata component and one or more data stores (object, file, etc) as a scalable data component.",
-  "description_ja": "",
+  "description_ja": "MarFSはスケーラブルなメタデータコンポーネントとして1つ以上のPOSIXファイルシステムを、スケーラブルなデータコンポーネントとして1つ以上のデータストア（オブジェクト・ファイル等）を活用した、スケーラブルなほぼPOSIX互換のファイルシステム。",
   "url": "https://github.com/mar-file-system/marfs",
   "homepage_url": "",
   "language": "C",

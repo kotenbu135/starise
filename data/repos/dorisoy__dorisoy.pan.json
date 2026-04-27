@@ -4,7 +4,7 @@
   "name": "dorisoy.pan",
   "full_name": "dorisoy/dorisoy.pan",
   "description": "Dorisoy.Pan 是基于 .NET 10 的跨平台文档管理系统，使用 MS SQL 2012 / MySQL 8.0（或更高版本）后端数据库，您可以在 Windows、Linux 或 Mac 上运行它。项目中的所有方法都是异步的，支持 JWT 令牌身份验证，项目体系结构遵循 CQRS + MediatR 模式和最佳安全实践。源代码完全可定制，热插拔且清晰的体系结构，使开发定制功能和遵循任何业务需求变得容易。",
-  "description_ja": "",
+  "description_ja": "Dorisoy.Pan は .NET 10 ベースのクロスプラットフォーム文書管理システムです。バックエンドデータベースとして MS SQL 2012 / MySQL 8.0（以上）を使用し、Windows・Linux・Mac 上で動作します。すべてのメソッドは非同期で JWT トークン認証をサポートし、アーキテクチャは CQRS + MediatR パターンとセキュリティのベストプラクティスに従っています。ソースコードは完全カスタマイズ可能で、ホットスワップ対応のクリーンな構造により独自機能の開発やビジネス要件への対応が容易です。",
   "url": "https://github.com/dorisoy/Dorisoy.Pan",
   "homepage_url": "http://pan.unitos.cn",
   "language": "C#",

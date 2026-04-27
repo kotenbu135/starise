@@ -4,7 +4,7 @@
   "name": "express-jwt",
   "full_name": "auth0/express-jwt",
   "description": "connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes",
-  "description_ja": "",
+  "description_ja": "JWT（JsonWebToken）を検証し、属性を req.user に設定する connect/express ミドルウェア。",
   "url": "https://github.com/auth0/express-jwt",
   "homepage_url": "",
   "language": "TypeScript",

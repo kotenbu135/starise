@@ -4,7 +4,7 @@
   "name": "tensorlogic",
   "full_name": "cool-japan/tensorlogic",
   "description": "TensorLogic compiles logical rules (predicates, quantifiers, implications) into tensor equations (einsum graphs) with a minimal DSL + IR, enabling neural/symbolic/probabilistic models within a unified tensor computation framework.",
-  "description_ja": "",
+  "description_ja": "TensorLogic は、論理規則（述語、量化子、含意）をテンソル方程式（einsum グラフ）にコンパイルする最小限の DSL + IR を提供し、統合テンソル計算フレームワーク内でニューラル・シンボリック・確率的モデルを実現する",
   "url": "https://github.com/cool-japan/tensorlogic",
   "homepage_url": "https://github.com/cool-japan/tensorlogic",
   "language": "Rust",

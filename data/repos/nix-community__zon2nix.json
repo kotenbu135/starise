@@ -4,7 +4,7 @@
   "name": "zon2nix",
   "full_name": "nix-community/zon2nix",
   "description": "Convert the dependencies in `build.zig.zon` to a Nix expression [maintainer=@figsoda]",
-  "description_ja": "",
+  "description_ja": "`build.zig.zon` の依存関係を Nix 式に変換するツール",
   "url": "https://github.com/nix-community/zon2nix",
   "homepage_url": "https://discourse.nixos.org/t/31468",
   "language": "Zig",

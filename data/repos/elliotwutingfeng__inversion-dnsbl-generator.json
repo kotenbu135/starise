@@ -4,7 +4,7 @@
   "name": "inversion-dnsbl-generator",
   "full_name": "elliotwutingfeng/inversion-dnsbl-generator",
   "description": "Generate malicious URL blocklists for DNSBL applications like pfBlockerNG or Pi-hole by scanning various public URL sources using the Safe Browsing API from Google and/or Yandex.",
-  "description_ja": "",
+  "description_ja": "Google・YandexのSafe Browsing APIで各種公開URLソースをスキャンし、pfBlockerNGやPi-holeなどのDNSBLアプリ向けに悪意のあるURLブロックリストを生成する",
   "url": "https://github.com/elliotwutingfeng/Inversion-DNSBL-Generator",
   "homepage_url": "",
   "language": "Python",

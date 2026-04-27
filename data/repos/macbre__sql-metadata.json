@@ -4,7 +4,7 @@
   "name": "sql-metadata",
   "full_name": "macbre/sql-metadata",
   "description": "Uses tokenized query returned by python-sqlparse and generates query metadata",
-  "description_ja": "",
+  "description_ja": "python-sqlparse が返すトークン化クエリを利用してクエリメタデータを生成するツール",
   "url": "https://github.com/macbre/sql-metadata",
   "homepage_url": "https://pypi.python.org/pypi/sql-metadata",
   "language": "Python",

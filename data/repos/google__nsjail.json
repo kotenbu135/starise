@@ -4,7 +4,7 @@
   "name": "nsjail",
   "full_name": "google/nsjail",
   "description": "A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security.",
-  "description_ja": "",
+  "description_ja": "Linux の namespaces・cgroups・rlimits・seccomp-bpf システムコールフィルターを活用し、Kafel BPF 言語によるセキュリティ強化を実現する軽量プロセス分離ツール",
   "url": "https://github.com/google/nsjail",
   "homepage_url": "https://nsjail.dev",
   "language": "C++",

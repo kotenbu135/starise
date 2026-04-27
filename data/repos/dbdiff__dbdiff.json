@@ -4,7 +4,7 @@
   "name": "dbdiff",
   "full_name": "dbdiff/dbdiff",
   "description": "Compare MySQL, Postgres or SQLite databases \u0026 automatically create schema \u0026 data change scripts/migrations automatically for database version control. Supports Flyway, Liquibase and has a built-in migration tool.",
-  "description_ja": "",
+  "description_ja": "MySQL、PostgreSQL、SQLiteデータベースを比較し、スキーマとデータ変更スクリプト／マイグレーションを自動生成してデータベースバージョン管理を実現。Flyway・Liquibaseに対応し、組み込みマイグレーションツールも搭載。",
   "url": "https://github.com/DBDiff/DBDiff",
   "homepage_url": "https://dbdiff.dev",
   "language": "PHP",

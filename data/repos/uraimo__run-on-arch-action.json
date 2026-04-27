@@ -4,7 +4,7 @@
   "name": "run-on-arch-action",
   "full_name": "uraimo/run-on-arch-action",
   "description": "A Github Action that executes jobs/commands on non-x86 cpu architectures (ARMv6, ARMv7, aarch64, s390x, ppc64le, riscv64) via QEMU",
-  "description_ja": "",
+  "description_ja": "QEMU を介して非 x86 CPU アーキテクチャ（ARMv6、ARMv7、aarch64、s390x、ppc64le、riscv64）でジョブ・コマンドを実行する GitHub Action。",
   "url": "https://github.com/uraimo/run-on-arch-action",
   "homepage_url": "",
   "language": "Shell",

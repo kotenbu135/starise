@@ -4,7 +4,7 @@
   "name": "mzdownloadmanager",
   "full_name": "mzeeshanid/mzdownloadmanager",
   "description": "This download manager uses NSURLSession api to download files. It can download multiple files at a time. It can download large files if app is in background. It can resume downloads if app was quit.",
-  "description_ja": "",
+  "description_ja": "NSURLSession API を使ったダウンロードマネージャー。複数ファイルの同時ダウンロード、バックグラウンド時の大容量ファイルのダウンロード、アプリ終了後の再開に対応",
   "url": "https://github.com/mzeeshanid/MZDownloadManager",
   "homepage_url": "",
   "language": "Swift",

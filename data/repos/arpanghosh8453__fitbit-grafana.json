@@ -4,7 +4,7 @@
   "name": "fitbit-grafana",
   "full_name": "arpanghosh8453/fitbit-grafana",
   "description": "A script to fetch data from Fitbit servers using their API and store the data in a local influxdb database and visualize them with Grafana",
-  "description_ja": "",
+  "description_ja": "Fitbit APIでサーバーからデータを取得し、ローカルのInfluxDBに保存してGrafanaで可視化するスクリプト",
   "url": "https://github.com/arpanghosh8453/fitbit-grafana",
   "homepage_url": "",
   "language": "Python",

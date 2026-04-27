@@ -4,7 +4,7 @@
   "name": "drl-robot-dog-navigation",
   "full_name": "ubermenzch/drl-robot-dog-navigation",
   "description": "基于 reiniscimurs 的 DRL-Robot-Navigation-ROS2，在原有 SAC 导航框架上增加了多实例Gazebo环境用于数据收集、完全off-policy式的训练、更复杂的地图生成、自动化启动脚本与日志管理等功能，便于快速部署和高效训练。",
-  "description_ja": "",
+  "description_ja": "reiniscimurs の DRL-Robot-Navigation-ROS2 をベースに、SAC ナビゲーションフレームワークへデータ収集用マルチインスタンス Gazebo 環境、完全オフポリシー学習、より複雑なマップ生成、自動起動スクリプトとログ管理などを追加し、迅速なデプロイと効率的な学習を実現したもの",
   "url": "https://github.com/ubermenzch/DRL-Robot-Dog-Navigation",
   "homepage_url": "",
   "language": "Python",

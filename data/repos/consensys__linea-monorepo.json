@@ -4,7 +4,7 @@
   "name": "linea-monorepo",
   "full_name": "consensys/linea-monorepo",
   "description": "The principal Linea repository. This mainly includes the smart contracts covering Linea's core functions, the Prover in charge of generating ZK proofs, the Coordinator responsible for multiple orchestrations, and the Postman to execute bridge messages",
-  "description_ja": "",
+  "description_ja": "Lineaのメインリポジトリです。主にLineaのコア機能を網羅するスマートコントラクト、ZK証明を生成するProver、複数のオーケストレーションを担当するCoordinator、ブリッジメッセージを実行するPostmanが含まれます",
   "url": "https://github.com/Consensys/linea-monorepo",
   "homepage_url": "https://linea.build",
   "language": "Go",

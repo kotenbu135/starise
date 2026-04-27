@@ -4,7 +4,7 @@
   "name": "forge-film",
   "full_name": "f-r-l/forge-film",
   "description": "Multi-model DAG-driven parallel AI film generation — parallel speedup scales with scene independence; Generate film scenes simultaneously instead of one by one;  \"把影视生成的执行图从拓扑序变成关键路径最优调度\" ; 唯一把场景叙事依赖建模为 DAG、以 CPM    算法驱动并行调度的影视生成引擎",
-  "description_ja": "",
+  "description_ja": "マルチモデルDAG駆動型並列AI映像生成 — シーンの独立性に応じてスピードアップが拡張。映像シーンを逐次ではなく同時生成。「映像生成の実行グラフをトポロジカル順からクリティカルパス最適スケジューリングへ」。シーンの叙事的依存関係をDAGにモデル化しCPMアルゴリズムで並列スケジューリングを駆動する唯一の映像生成エンジン",
   "url": "https://github.com/F-R-L/forge-film",
   "homepage_url": "",
   "language": "Python",

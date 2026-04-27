@@ -4,7 +4,7 @@
   "name": "gocron",
   "full_name": "flohoss/gocron",
   "description": "A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times using cron expressions, and passes in environment variables for each job.",
-  "description_ja": "",
+  "description_ja": "Go と Vue.js で構築されたタスクスケジューラ。シンプルな YAML 設定ファイルで定期ジョブを定義でき、cron 式で指定した時刻にコマンドを実行し、各ジョブに環境変数を渡す",
   "url": "https://github.com/flohoss/gocron",
   "homepage_url": "",
   "language": "Go",

@@ -4,7 +4,7 @@
   "name": "highwayhash",
   "full_name": "minio/highwayhash",
   "description": "Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM. Able to process over 10 GB/sec on a single core on Intel CPUs - https://en.wikipedia.org/wiki/HighwayHash",
-  "description_ja": "",
+  "description_ja": "Intel および ARM 向けに最適化されたアセンブリ実装を持つ HighwayHash のネイティブ Go 版。Intel CPU のシングルコアで毎秒 10 GB 超の処理が可能",
   "url": "https://github.com/minio/highwayhash",
   "homepage_url": "",
   "language": "Go",

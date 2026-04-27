@@ -4,7 +4,7 @@
   "name": "knowledgerag-gzhu",
   "full_name": "zhongye1/knowledgerag-gzhu",
   "description": "​​KnowledgeRAG-GZHU​​ 是一个面向智能知识管理的检索增强生成（RAG）系统，集成文档解析、知识库管理、知识图谱生成、向量检索、Ollama模型服务及智能问答核心功能。前端基于 ​​Vue3 + TypeScript​​ 构建交互框架，实现知识组织与问答可视化；后端采用 ​​FastAPI​​ 架构提供高性能服务支持。该系统通过本地知识库与大语言模型协同推理，显著缓解大模型幻觉问题，提升领域知识问答的精确性与可靠性。",
-  "description_ja": "",
+  "description_ja": "KnowledgeRAG-GZHU は、インテリジェントな知識管理に特化した検索拡張生成（RAG）システムです。文書解析・知識ベース管理・知識グラフ生成・ベクトル検索・Ollama モデルサービス・インテリジェント Q\u0026A のコア機能を統合しています。フロントエンドは Vue3 + TypeScript で構築し、知識の整理と Q\u0026A の可視化を実現。バックエンドは FastAPI アーキテクチャで高性能サービスを提供。ローカル知識ベースと大規模言語モデルの協調推論により、ハルシネーション問題を大幅に軽減し、専門領域の Q\u0026A 精度と信頼性を向上させます。",
   "url": "https://github.com/Zhongye1/KnowledgeRAG-GZHU",
   "homepage_url": "https://zhongye1.github.io/KnowledgeRAG-GZHU/",
   "language": "Vue",

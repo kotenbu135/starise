@@ -4,7 +4,7 @@
   "name": "libsodium-cmake",
   "full_name": "robinlinden/libsodium-cmake",
   "description": "Wrapper around the libsodium repository providing good integration with CMake when using FetchContent or adding it as a submodule.",
-  "description_ja": "",
+  "description_ja": "FetchContent 使用時やサブモジュール追加時に CMake と良好に統合できる libsodium リポジトリのラッパー。",
   "url": "https://github.com/robinlinden/libsodium-cmake",
   "homepage_url": "",
   "language": "CMake",

@@ -4,7 +4,7 @@
   "name": "lychee-action",
   "full_name": "lycheeverse/lychee-action",
   "description": "Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.",
-  "description_ja": "",
+  "description_ja": "Rustで書かれた高速リンクチェッカーlycheeを使用して、Markdown、HTML、テキストファイル内のリンク切れを検出するGitHub Action",
   "url": "https://github.com/lycheeverse/lychee-action",
   "homepage_url": "https://lychee.cli.rs",
   "language": "Shell",

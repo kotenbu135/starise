@@ -4,7 +4,7 @@
   "name": "kube-bench",
   "full_name": "aquasecurity/kube-bench",
   "description": "Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark",
-  "description_ja": "",
+  "description_ja": "CIS Kubernetes Benchmark で定義されたセキュリティのベストプラクティスに従って Kubernetes がデプロイされているかを確認するツール",
   "url": "https://github.com/aquasecurity/kube-bench",
   "homepage_url": "",
   "language": "Go",

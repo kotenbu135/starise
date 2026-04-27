@@ -4,7 +4,7 @@
   "name": "python-ucto",
   "full_name": "proycon/python-ucto",
   "description": "This is a Python binding to the tokenizer Ucto. Tokenisation is one of the first step in almost any Natural Language Processing task, yet it is not always as trivial a task as it appears to be. This binding makes the power of the ucto tokeniser available to Python. Ucto itself is regular-expression based, extensible, and advanced tokeniser written in C++ (http://ilk.uvt.nl/ucto).",
-  "description_ja": "",
+  "description_ja": "トークナイザーUctoのPythonバインディング。トークン化はほぼあらゆる自然言語処理タスクの最初のステップだが見かけほど単純ではなく、このバインディングによりuctoトークナイザーの機能をPythonから利用できる。Ucto自体は正規表現ベースの拡張可能な高度なC++製トークナイザー",
   "url": "https://github.com/proycon/python-ucto",
   "homepage_url": "",
   "language": "Cython",

@@ -4,7 +4,7 @@
   "name": "hardware.info",
   "full_name": "jinjinov/hardware.info",
   "description": "Battery, BIOS, CPU - processor, storage drive, keyboard, RAM - memory, monitor, motherboard, mouse, NIC - network adapter, printer, sound card - audio card, graphics card - video card. Hardware.Info is a .NET Standard 2.0 library and uses WMI on Windows, /dev, /proc, /sys on Linux and sysctl, system_profiler on macOS.",
-  "description_ja": "",
+  "description_ja": "バッテリー・BIOS・CPU・ストレージ・キーボード・RAM・モニター・マザーボード・マウス・NIC・プリンター・サウンドカード・グラフィックカードなどのハードウェア情報を取得する .NET Standard 2.0 ライブラリ。Windows は WMI、Linux は /dev・/proc・/sys、macOS は sysctl・system_profiler を使用",
   "url": "https://github.com/Jinjinov/Hardware.Info",
   "homepage_url": "",
   "language": "C#",

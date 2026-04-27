@@ -4,7 +4,7 @@
   "name": "libxev",
   "full_name": "mitchellh/libxev",
   "description": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
-  "description_ja": "",
+  "description_ja": "libxev はクロスプラットフォームかつ高性能なイベントループで、ノンブロッキング IO・タイマー・イベントなどの抽象化を提供します。Linux（io_uring または epoll）、macOS（kqueue）、Wasm + WASI に対応。Zig および C API として利用可能。",
   "url": "https://github.com/mitchellh/libxev",
   "homepage_url": "",
   "language": "Zig",

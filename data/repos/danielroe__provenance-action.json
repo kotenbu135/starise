@@ -4,7 +4,7 @@
   "name": "provenance-action",
   "full_name": "danielroe/provenance-action",
   "description": "Fail CI when dependencies in your lockfile lose npm provenance or trusted publisher status",
-  "description_ja": "",
+  "description_ja": "ロックファイル内の依存関係がnpmの出所証明または信頼済みパブリッシャーのステータスを失った際にCIを失敗させる",
   "url": "https://github.com/danielroe/provenance-action",
   "homepage_url": "",
   "language": "TypeScript",

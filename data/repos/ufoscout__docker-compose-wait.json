@@ -4,7 +4,7 @@
   "name": "docker-compose-wait",
   "full_name": "ufoscout/docker-compose-wait",
   "description": "A simple script to wait for other docker images to be started while using docker-compose (or Kubernetes or docker stack or whatever)",
-  "description_ja": "",
+  "description_ja": "docker-compose（またはKubernetes、docker stack等）使用時に他のDockerイメージの起動を待つシンプルなスクリプト。",
   "url": "https://github.com/ufoscout/docker-compose-wait",
   "homepage_url": "",
   "language": "Rust",

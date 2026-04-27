@@ -4,7 +4,7 @@
   "name": "mock-resource",
   "full_name": "concourse/mock-resource",
   "description": "A resource for testing the resource interface. It reflects the version it's told, and is able to mirror its own container image",
-  "description_ja": "",
+  "description_ja": "リソースインターフェースのテスト用リソース。指定されたバージョンを反映し、自身のコンテナイメージをミラーリングできます",
   "url": "https://github.com/concourse/mock-resource",
   "homepage_url": "",
   "language": "Go",

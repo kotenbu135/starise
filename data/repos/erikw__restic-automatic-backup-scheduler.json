@@ -4,7 +4,7 @@
   "name": "restic-automatic-backup-scheduler",
   "full_name": "erikw/restic-automatic-backup-scheduler",
   "description": "Automatic restic backup using Backblaze B2 storage and either Linux systemd timers, macOS LaunchAgent, Windows ScheduledTask or simply cron.",
-  "description_ja": "",
+  "description_ja": "Backblaze B2ストレージを使用し、Linuxのsystemdタイマー・macOSのLaunchAgent・WindowsのScheduledTask・cronのいずれかによるresticの自動バックアップツール",
   "url": "https://github.com/erikw/restic-automatic-backup-scheduler",
   "homepage_url": "",
   "language": "Shell",

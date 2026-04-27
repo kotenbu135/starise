@@ -4,7 +4,7 @@
   "name": "objectron",
   "full_name": "google-research-datasets/objectron",
   "description": "Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box describes the object’s position, orientation, and dimensions. The dataset contains about 15K annotated video clips and 4M annotated images in the following categories: bikes, books, bottles, cameras, cereal boxes, chairs, cups, laptops, and shoes",
-  "description_ja": "",
+  "description_ja": "Objectronは短い物体中心の動画クリップのデータセットです。動画にはカメラポーズ、疎な点群、平面などのARセッションメタデータも含まれています。各動画ではカメラが物体の周囲や上方を移動し、さまざまな角度から撮影します。各物体には3Dバウンディングボックスがアノテーションされており、位置・向き・寸法を記述します。データセットには約15Kのアノテーション済み動画クリップと4Mのアノテーション済み画像が含まれ、カテゴリは自転車・書籍・ボトル・カメラ・シリアルボックス・椅子・カップ・ノートPC・靴です",
   "url": "https://github.com/google-research-datasets/Objectron",
   "homepage_url": "",
   "language": "Jupyter Notebook",

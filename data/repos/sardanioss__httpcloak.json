@@ -4,7 +4,7 @@
   "name": "httpcloak",
   "full_name": "sardanioss/httpcloak",
   "description": "Go HTTP client with browser-identical TLS/HTTP2 fingerprinting. Bypass bot detection by perfectly mimicking Chrome, Firefox, and Safari at the cryptographic level (JA3/JA4, Akamai fingerprint, header order). Supports HTTP/1.1, HTTP/2, HTTP/3, sessions, cookies, and proxies.",
-  "description_ja": "",
+  "description_ja": "ブラウザと同一のTLS/HTTP2フィンガープリントを持つGo HTTPクライアント。暗号レベル（JA3/JA4、Akamaiフィンガープリント、ヘッダー順序）でChrome、Firefox、Safariを完全に模倣してボット検出を回避。HTTP/1.1、HTTP/2、HTTP/3、セッション、Cookie、プロキシをサポート。",
   "url": "https://github.com/sardanioss/httpcloak",
   "homepage_url": "",
   "language": "Go",

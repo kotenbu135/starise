@@ -4,7 +4,7 @@
   "name": "ai-containers",
   "full_name": "intel/ai-containers",
   "description": "This repository contains Dockerfiles, scripts, yaml files, Helm charts, etc. used to scale out AI containers with versions of TensorFlow and PyTorch that have been optimized for Intel platforms. Scaling is done with python, Docker, kubernetes, kubeflow, cnvrg.io, Helm, and other container orchestration frameworks for use in the cloud and on-premise",
-  "description_ja": "",
+  "description_ja": "Intelプラットフォーム向けに最適化されたTensorFlowおよびPyTorchバージョンを含むAIコンテナをスケールアウトするために使用するDockerfile・スクリプト・YAMLファイル・Helmチャートなどを収録したリポジトリ。Python・Docker・Kubernetes・Kubeflow・cnvrg.io・Helmおよびその他のコンテナオーケストレーションフレームワークを使用し、クラウドおよびオンプレミスで利用可能",
   "url": "https://github.com/intel/ai-containers",
   "homepage_url": "https://intel.github.io/ai-containers/",
   "language": "Python",

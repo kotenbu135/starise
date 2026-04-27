@@ -4,7 +4,7 @@
   "name": "multigres-operator",
   "full_name": "multigres/multigres-operator",
   "description": "Kubernetes operator for Multigres — deploys, scales, and manages horizontally scalable PostgreSQL clusters with automated topology orchestration, drain-safe rolling updates, and admission webhooks",
-  "description_ja": "",
+  "description_ja": "Multigres 向け Kubernetes オペレーター。水平スケーラブルな PostgreSQL クラスターのデプロイ、スケーリング、管理を行い、自動トポロジーオーケストレーション、ドレインセーフなローリングアップデート、アドミッションウェブフックをサポート。",
   "url": "https://github.com/multigres/multigres-operator",
   "homepage_url": "https://multigres.com/",
   "language": "Go",

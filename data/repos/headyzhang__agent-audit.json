@@ -4,7 +4,7 @@
   "name": "agent-audit",
   "full_name": "headyzhang/agent-audit",
   "description": "Static security scanner for LLM agents — prompt injection, MCP config auditing, taint analysis. 49 rules mapped to OWASP Agentic Top 10 (2026). Works with LangChain, CrewAI, AutoGen.",
-  "description_ja": "",
+  "description_ja": "LLMエージェント向け静的セキュリティスキャナー — プロンプトインジェクション、MCP設定監査、汚染解析。OWASP Agentic Top 10（2026）に対応した49ルール。LangChain・CrewAI・AutoGenに対応。",
   "url": "https://github.com/HeadyZhang/agent-audit",
   "homepage_url": "https://headyzhang.github.io/agent-audit/",
   "language": "Python",

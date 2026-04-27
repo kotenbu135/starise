@@ -4,7 +4,7 @@
   "name": "turboquant",
   "full_name": "omarhory/turboquant",
   "description": "Open-source implementation of Google's TurboQuant (ICLR 2026) — KV cache compression to 2.5–4 bits with near-zero quality loss. 3.8–5.7x memory reduction on Mistral-7B, no training required.",
-  "description_ja": "",
+  "description_ja": "Google の TurboQuant（ICLR 2026）のオープンソース実装。KV キャッシュを 2.5〜4 ビットに圧縮し、品質劣化をほぼゼロに抑える。Mistral-7B でメモリ使用量を 3.8〜5.7 倍削減。追加学習不要。",
   "url": "https://github.com/OmarHory/turboquant",
   "homepage_url": "",
   "language": "Python",

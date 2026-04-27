@@ -4,7 +4,7 @@
   "name": "diesel-guard",
   "full_name": "ayarotsky/diesel-guard",
   "description": "Linter for dangerous Postgres migration patterns in Diesel and SQLx. Prevents   downtime caused by unsafe schema changes.",
-  "description_ja": "",
+  "description_ja": "DieselおよびSQLxにおける危険なPostgresマイグレーションパターンを検出するリンター。安全でないスキーマ変更によるダウンタイムを防止。",
   "url": "https://github.com/ayarotsky/diesel-guard",
   "homepage_url": "https://ayarotsky.github.io/diesel-guard/",
   "language": "Rust",

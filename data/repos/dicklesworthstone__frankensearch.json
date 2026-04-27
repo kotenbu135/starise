@@ -4,7 +4,7 @@
   "name": "frankensearch",
   "full_name": "dicklesworthstone/frankensearch",
   "description": "Two-tier hybrid search for Rust: sub-millisecond initial results via potion-128M, quality-refined rankings in 150ms via MiniLM-L6-v2. Combines lexical (Tantivy BM25) and semantic (vector cosine) search with Reciprocal Rank Fusion. Progressive iterator API, f16 SIMD vector index, feature-gated compilation.",
-  "description_ja": "",
+  "description_ja": "Rust向け2段階ハイブリッド検索：potion-128Mによるサブミリ秒の初期結果、MiniLM-L6-v2による150msでの品質精錬ランキング。字句検索（Tantivy BM25）と意味検索（ベクトルコサイン）をReciprocal Rank Fusionで統合。プログレッシブイテレータAPI、f16 SIMDベクトルインデックス、フィーチャーゲートコンパイル対応。",
   "url": "https://github.com/Dicklesworthstone/frankensearch",
   "homepage_url": "",
   "language": "Rust",

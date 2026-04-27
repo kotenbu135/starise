@@ -4,7 +4,7 @@
   "name": "pre-commit-golang",
   "full_name": "tekwizely/pre-commit-golang",
   "description": "Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools.",
-  "description_ja": "",
+  "description_ja": "モノレポ対応、フックへの引数・環境変数の渡し機能、カスタムGoツール呼び出し機能を備えたGolang向けpre-commitフック。",
   "url": "https://github.com/TekWizely/pre-commit-golang",
   "homepage_url": "",
   "language": "Shell",

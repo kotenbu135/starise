@@ -4,7 +4,7 @@
   "name": "zfs-inplace-rebalancing",
   "full_name": "markusressel/zfs-inplace-rebalancing",
   "description": "Simple bash script to rebalance pool data between all mirrors when adding vdevs to a pool.",
-  "description_ja": "",
+  "description_ja": "プールにvdevを追加する際に全ミラー間でプールデータを再バランスするシンプルなbashスクリプト。",
   "url": "https://github.com/markusressel/zfs-inplace-rebalancing",
   "homepage_url": "",
   "language": "Shell",

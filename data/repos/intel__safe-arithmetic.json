@@ -4,7 +4,7 @@
   "name": "safe-arithmetic",
   "full_name": "intel/safe-arithmetic",
   "description": "Safe arithmetic library for C++20 and above. Safe arithmetic ensures correctness of arithmetic operations at compile-time. It protects against overflow, underflow, divide by zero, and out-of-bounds index access. This provides both functional correctness as well as greater protection against related security threats.",
-  "description_ja": "",
+  "description_ja": "C++20以降向けの安全な算術演算ライブラリ。コンパイル時に算術演算の正確性を保証し、オーバーフロー・アンダーフロー・ゼロ除算・範囲外インデックスアクセスを防止することで、機能的正確性とセキュリティ上の脅威への保護を提供する",
   "url": "https://github.com/intel/safe-arithmetic",
   "homepage_url": "https://intel.github.io/safe-arithmetic/",
   "language": "C++",

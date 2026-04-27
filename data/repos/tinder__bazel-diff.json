@@ -4,7 +4,7 @@
   "name": "bazel-diff",
   "full_name": "tinder/bazel-diff",
   "description": "Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building",
-  "description_ja": "",
+  "description_ja": "Git上の2つのリビジョン間でBazelターゲットの差分を検出し、テストターゲットの選択や選択的ビルドを可能にする。",
   "url": "https://github.com/Tinder/bazel-diff",
   "homepage_url": "",
   "language": "Kotlin",

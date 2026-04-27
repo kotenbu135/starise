@@ -4,7 +4,7 @@
   "name": "pve",
   "full_name": "oneclickvirt/pve",
   "description": "用于 Proxmox VE 的多架构一键服务器部署，支持批量或单独开设虚拟机，内置内外网端口转发和NAT，兼容 ARM64 与 AMD64 架构 One-click server deployment for Proxmox VE, supporting bulk or individual VM provisioning with built-in internal/external port forwarding. Compatible with both ARM64 and AMD64 architectures.",
-  "description_ja": "",
+  "description_ja": "Proxmox VE 向けマルチアーキテクチャ対応のワンクリックサーバーデプロイ。VM の一括または個別作成をサポートし、内外ネットワークのポートフォワーディングと NAT を内蔵。ARM64 および AMD64 アーキテクチャに対応",
   "url": "https://github.com/oneclickvirt/pve",
   "homepage_url": "https://t.me/Dedicated_Server_Moniter",
   "language": "Shell",

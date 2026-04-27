@@ -4,7 +4,7 @@
   "name": "slipstream",
   "full_name": "samyk/slipstream",
   "description": "NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by anyone on the victim's network visiting a website",
-  "description_ja": "",
+  "description_ja": "NAT Slipstreaming を使うと、攻撃者は被害者のネットワーク上の誰かがウェブサイトを訪問するだけで、被害者の NAT/ファイアウォールを回避して、被害者マシンにバインドされた任意の TCP/UDP サービスにリモートアクセスできます。",
   "url": "https://github.com/samyk/slipstream",
   "homepage_url": "https://samy.pl/slipstream/",
   "language": "Perl",

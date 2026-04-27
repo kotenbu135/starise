@@ -4,7 +4,7 @@
   "name": "bounty-targets",
   "full_name": "arkadiyt/bounty-targets",
   "description": "This project crawls bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) hourly and dumps them into the bounty-targets-data repo",
-  "description_ja": "",
+  "description_ja": "このプロジェクトはHackerone・Bugcrowd・Intigriti等のバグバウンティプラットフォームのスコープを1時間ごとにクロールし、bounty-targets-dataリポジトリに書き出します",
   "url": "https://github.com/arkadiyt/bounty-targets",
   "homepage_url": "https://github.com/arkadiyt/bounty-targets-data",
   "language": "Ruby",

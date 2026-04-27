@@ -4,7 +4,7 @@
   "name": "procfs",
   "full_name": "prometheus/procfs",
   "description": "procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.",
-  "description_ja": "",
+  "description_ja": "procfsは疑似ファイルシステムprocからシステム・カーネル・プロセスのメトリクスを取得する関数を提供するライブラリ",
   "url": "https://github.com/prometheus/procfs",
   "homepage_url": "",
   "language": "Go",

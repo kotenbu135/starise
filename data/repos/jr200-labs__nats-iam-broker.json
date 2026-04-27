@@ -4,7 +4,7 @@
   "name": "nats-iam-broker",
   "full_name": "jr200-labs/nats-iam-broker",
   "description": "A NATS decentralised auth-callout service to swap thirdparty IdP JWTs for RBAC'd NATS User JWTs",
-  "description_ja": "",
+  "description_ja": "サードパーティIdPのJWTをRBAC付きNATSユーザーJWTに置き換えるNATS分散型auth-calloutサービス",
   "url": "https://github.com/jr200-labs/nats-iam-broker",
   "homepage_url": "https://jr200-labs.github.io/nats-iam-broker/",
   "language": "Go",

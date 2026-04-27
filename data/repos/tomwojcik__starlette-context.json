@@ -4,7 +4,7 @@
   "name": "starlette-context",
   "full_name": "tomwojcik/starlette-context",
   "description": "Middleware for Starlette that allows you to store and access the context data of a request. Can be used with logging so logs automatically use request headers such as x-request-id or x-correlation-id.",
-  "description_ja": "",
+  "description_ja": "リクエストのコンテキストデータを保存・参照できるStarletteミドルウェア。x-request-idやx-correlation-idなどのリクエストヘッダーをログで自動的に使用できます。",
   "url": "https://github.com/tomwojcik/starlette-context",
   "homepage_url": "https://starlette-context.readthedocs.io/en/latest/",
   "language": "Python",

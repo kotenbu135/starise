@@ -4,7 +4,7 @@
   "name": "vcluster",
   "full_name": "loft-sh/vcluster",
   "description": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
-  "description_ja": "",
+  "description_ja": "vCluster — 完全機能の仮想 Kubernetes クラスターを作成。各 vcluster は基盤となる k8s クラスターのネームスペース内で動作。独立したフルクラスターより低コストで、通常のネームスペースより優れたマルチテナンシーと分離を提供。",
   "url": "https://github.com/loft-sh/vcluster",
   "homepage_url": "https://www.vcluster.com",
   "language": "Go",

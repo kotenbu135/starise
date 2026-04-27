@@ -4,7 +4,7 @@
   "name": "rotorquant",
   "full_name": "scrya-com/rotorquant",
   "description": "KV cache compression via block-diagonal rotation. Beats TurboQuant: better PPL (6.91 vs 7.07), 28% faster decode, 5.3x faster prefill, 44x fewer params. Drop-in llama.cpp integration.",
-  "description_ja": "",
+  "description_ja": "ブロック対角回転による KV キャッシュ圧縮。TurboQuant を上回る: PPL 改善 (6.91 vs 7.07)、デコード 28% 高速化、プリフィル 5.3 倍高速化、パラメータ数 44 分の 1。llama.cpp にドロップイン統合可能。",
   "url": "https://github.com/scrya-com/rotorquant",
   "homepage_url": "https://www.scrya.com/rotorquant",
   "language": "Python",

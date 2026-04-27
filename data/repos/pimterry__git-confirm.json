@@ -4,7 +4,7 @@
   "name": "git-confirm",
   "full_name": "pimterry/git-confirm",
   "description": ":question: Git hook to catch placeholders and temporary changes (TODO / @ignore) before you commit or push them.",
-  "description_ja": "",
+  "description_ja": "コミットやプッシュ前にTODOや@ignoreなどの仮置き変更を検出するGitフック",
   "url": "https://github.com/pimterry/git-confirm",
   "homepage_url": "https://github.com/pimterry/git-confirm",
   "language": "Shell",

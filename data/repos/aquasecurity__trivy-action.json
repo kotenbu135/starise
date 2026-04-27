@@ -4,7 +4,7 @@
   "name": "trivy-action",
   "full_name": "aquasecurity/trivy-action",
   "description": "Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities",
-  "description_ja": "",
+  "description_ja": "GitHub Actions として Trivy を実行し Docker コンテナイメージの脆弱性をスキャン",
   "url": "https://github.com/aquasecurity/trivy-action",
   "homepage_url": "",
   "language": "Shell",

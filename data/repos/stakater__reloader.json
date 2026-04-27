@@ -4,7 +4,7 @@
   "name": "reloader",
   "full_name": "stakater/reloader",
   "description": "A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!",
-  "description_ja": "",
+  "description_ja": "ConfigMap と Secret の変更を監視し、関連する Deployment・StatefulSet・DaemonSet・DeploymentConfig の Pod にローリングアップグレードを行う Kubernetes コントローラー",
   "url": "https://github.com/stakater/Reloader",
   "homepage_url": "https://docs.stakater.com/reloader/",
   "language": "Go",

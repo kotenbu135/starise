@@ -4,7 +4,7 @@
   "name": "artifact-fs",
   "full_name": "cloudflare/artifact-fs",
   "description": "ArtifactFS is a filesystem driver designed to mount large git repos as quickly as possible, hydrating file contents on-the-fly instead of blocking on the initial clone. It's ideal for agents, sandboxes, containers and other use-cases where startup time is critical.",
-  "description_ja": "",
+  "description_ja": "ArtifactFS は、大規模な git リポジトリを可能な限り高速にマウントするために設計されたファイルシステムドライバです。初回クローンをブロックせず、ファイル内容をオンザフライで展開します。起動時間が重要なエージェント・サンドボックス・コンテナなどのユースケースに最適です。",
   "url": "https://github.com/cloudflare/artifact-fs",
   "homepage_url": "http://workers.cloudflare.com/product/artifacts",
   "language": "Go",

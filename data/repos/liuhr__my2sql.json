@@ -4,7 +4,7 @@
   "name": "my2sql",
   "full_name": "liuhr/my2sql",
   "description": "解析MySQL binlog ，可以生成原始SQL、回滚SQL、去除主键的INSERT SQL等，也可以生成DML统计信息以及大事务分析信息。",
-  "description_ja": "",
+  "description_ja": "MySQL binlogを解析し、元のSQL・ロールバックSQL・主キーなしのINSERT SQLの生成、DML統計情報や大規模トランザクション解析情報の出力が可能",
   "url": "https://github.com/liuhr/my2sql",
   "homepage_url": "",
   "language": "Go",

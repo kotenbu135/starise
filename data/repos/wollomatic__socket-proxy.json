@@ -4,7 +4,7 @@
   "name": "socket-proxy",
   "full_name": "wollomatic/socket-proxy",
   "description": "Secure-by-design and flexible Unix socket proxy. Built in memory-safe Go with zero dependencies, no shell or interpreter required in containers. A modern alternative to tecnativa/docker-socket-proxy and linuxserver/docker-socket-proxy, with powerful regex-based configuration.",
-  "description_ja": "",
+  "description_ja": "セキュア設計で柔軟なUnixソケットプロキシ。依存ゼロのメモリセーフなGoで構築され、コンテナ内にシェルやインタープリタ不要。強力な正規表現ベースの設定を持つ、tecnativa/docker-socket-proxy および linuxserver/docker-socket-proxyのモダンな代替。",
   "url": "https://github.com/wollomatic/socket-proxy",
   "homepage_url": "https://hub.docker.com/r/wollomatic/socket-proxy",
   "language": "Go",

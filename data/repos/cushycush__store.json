@@ -4,7 +4,7 @@
   "name": "store",
   "full_name": "cushycush/store",
   "description": "`store` manages symlinks for your dotfiles without requiring mirrored directory structures. Each \"store\" is a directory in your repository that gets symlinked to a t",
-  "description_ja": "",
+  "description_ja": "`store` はミラーリングされたディレクトリ構造を必要とせず dotfiles のシンボリックリンクを管理します。各「ストア」はリポジトリ内のディレクトリで、対象にシンボリックリンクされます",
   "url": "https://github.com/cushycush/store",
   "homepage_url": "",
   "language": "Go",

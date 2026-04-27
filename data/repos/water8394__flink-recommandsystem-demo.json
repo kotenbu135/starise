@@ -4,7 +4,7 @@
   "name": "flink-recommandsystem-demo",
   "full_name": "water8394/flink-recommandsystem-demo",
   "description": ":helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。",
-  "description_ja": "",
+  "description_ja": "Flink を用いたリアルタイム商品推薦システム。Flink で商品の人気度を集計して Redis キャッシュに格納し、ログを解析してユーザープロファイルタグと行動履歴を HBase に保存。推薦リクエスト時にユーザープロファイルで人気ランキングを再ソートし、協調フィルタリングとタグベースの推薦モジュールを組み合わせて各商品に関連商品を付加し、新しいユーザー向けリストを返す。",
   "url": "https://github.com/water8394/flink-recommandSystem-demo",
   "homepage_url": "",
   "language": "Java",

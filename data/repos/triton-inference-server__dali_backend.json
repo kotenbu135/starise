@@ -4,7 +4,7 @@
   "name": "dali_backend",
   "full_name": "triton-inference-server/dali_backend",
   "description": "The Triton backend that allows running GPU-accelerated data pre-processing pipelines implemented in DALI's python API.",
-  "description_ja": "",
+  "description_ja": "DALIのPython APIで実装されたGPUアクセラレーションによるデータ前処理パイプラインを実行できるTritonバックエンド",
   "url": "https://github.com/triton-inference-server/dali_backend",
   "homepage_url": "https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html",
   "language": "C++",

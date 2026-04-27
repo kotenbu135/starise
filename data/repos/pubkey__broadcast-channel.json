@@ -4,7 +4,7 @@
   "name": "broadcast-channel",
   "full_name": "pubkey/broadcast-channel",
   "description": ":satellite: BroadcastChannel to send data between different browser-tabs or nodejs-processes :satellite: + LeaderElection over the channels  https://pubkey.github.io/broadcast-channel/",
-  "description_ja": "",
+  "description_ja": "異なるブラウザタブや Node.js プロセス間でデータを送受信する BroadcastChannel + チャネルを介した LeaderElection 機能",
   "url": "https://github.com/pubkey/broadcast-channel",
   "homepage_url": "https://pubkey.github.io/broadcast-channel/",
   "language": "JavaScript",

@@ -4,7 +4,7 @@
   "name": "online_migrations",
   "full_name": "fatkodima/online_migrations",
   "description": "Catch unsafe PostgreSQL migrations in development and run them easier in production (code helpers for table/column renaming, changing column type, adding columns with default, background migrations, etc).",
-  "description_ja": "",
+  "description_ja": "開発環境で危険なPostgreSQLマイグレーションを検出し、本番環境での実行を容易にするツール（テーブル・カラムのリネーム、カラム型変更、デフォルト付きカラム追加、バックグラウンドマイグレーションなどのコードヘルパー）",
   "url": "https://github.com/fatkodima/online_migrations",
   "homepage_url": "https://rubydoc.info/github/fatkodima/online_migrations/",
   "language": "Ruby",

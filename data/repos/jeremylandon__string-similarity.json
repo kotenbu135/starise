@@ -4,7 +4,7 @@
   "name": "string-similarity",
   "full_name": "jeremylandon/string-similarity",
   "description": "Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.",
-  "description_ja": "",
+  "description_ja": "Dice係数に基づいて2つの文字列の類似度を算出するライブラリ。Levenshtein距離より精度が高いケースが多い。",
   "url": "https://github.com/jeremylandon/string-similarity",
   "homepage_url": "",
   "language": "Dart",

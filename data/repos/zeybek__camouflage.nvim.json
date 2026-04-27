@@ -4,7 +4,7 @@
   "name": "camouflage.nvim",
   "full_name": "zeybek/camouflage.nvim",
   "description": "Mask sensitive values in config files during screen sharing. Supports .env, JSON, YAML, TOML, XML, Terraform/HCL, Dockerfile, and more. Zero file modification - uses Neovim extmarks.",
-  "description_ja": "",
+  "description_ja": "画面共有中に設定ファイルの機密値をマスクする。.env、JSON、YAML、TOML、XML、Terraform/HCL、Dockerfileなどに対応。ファイル変更不要 — Neovim extmarksを使用",
   "url": "https://github.com/zeybek/camouflage.nvim",
   "homepage_url": "",
   "language": "Lua",

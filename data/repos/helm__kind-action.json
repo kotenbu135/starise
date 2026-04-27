@@ -4,7 +4,7 @@
   "name": "kind-action",
   "full_name": "helm/kind-action",
   "description": "A GitHub Action for Kubernetes IN Docker - local clusters for testing Kubernetes",
-  "description_ja": "",
+  "description_ja": "Kubernetes のローカルテスト用クラスターを Docker 内で起動する GitHub Action (KinD)",
   "url": "https://github.com/helm/kind-action",
   "homepage_url": "https://kind.sigs.k8s.io/",
   "language": "Shell",

@@ -4,7 +4,7 @@
   "name": "adaway-helper",
   "full_name": "demonnica/adaway-helper",
   "description": "Enables AdAway and similar hosts-based ad blockers to work on KernelSU, KernelSU Next, SukiSU, APatch, and their variants by managing /system/etc/hosts via bind mount and overlay.",
-  "description_ja": "",
+  "description_ja": "バインドマウントとオーバーレイで /system/etc/hosts を管理することで、AdAway などのホストベース広告ブロッカーを KernelSU・KernelSU Next・SukiSU・APatch およびそれらの派生版で動作させる",
   "url": "https://github.com/DEMONNICA/AdAway-Helper",
   "homepage_url": "https://ko-fi.com/illumi666/shop",
   "language": "Shell",

@@ -4,7 +4,7 @@
   "name": "automaxprocs",
   "full_name": "uber-go/automaxprocs",
   "description": "Automatically set GOMAXPROCS to match Linux container CPU quota.",
-  "description_ja": "",
+  "description_ja": "LinuxコンテナのCPUクォータに合わせてGOMAXPROCSを自動設定する",
   "url": "https://github.com/uber-go/automaxprocs",
   "homepage_url": "https://godoc.org/go.uber.org/automaxprocs",
   "language": "Go",

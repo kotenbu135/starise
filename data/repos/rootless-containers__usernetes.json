@@ -4,7 +4,7 @@
   "name": "usernetes",
   "full_name": "rootless-containers/usernetes",
   "description": "Kubernetes without the root privileges",
-  "description_ja": "",
+  "description_ja": "root 権限なしで動作する Kubernetes",
   "url": "https://github.com/rootless-containers/usernetes",
   "homepage_url": "https://github.com/kubernetes/enhancements/tree/master/keps/sig-node/2033-kubelet-in-userns-aka-rootless",
   "language": "Shell",

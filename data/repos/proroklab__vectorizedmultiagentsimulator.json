@@ -4,7 +4,7 @@
   "name": "vectorizedmultiagentsimulator",
   "full_name": "proroklab/vectorizedmultiagentsimulator",
   "description": "VMAS is a vectorized differentiable simulator designed for efficient Multi-Agent Reinforcement Learning benchmarking. It is comprised of a vectorized 2D physics engine written in PyTorch and a set of challenging multi-robot scenarios. Additional scenarios can be implemented through a simple and modular interface.",
-  "description_ja": "",
+  "description_ja": "VMAS は、効率的なマルチエージェント強化学習のベンチマーク向けに設計されたベクトル化可能な微分可能シミュレーターです。PyTorch で書かれたベクトル化 2D 物理エンジンと、挑戦的なマルチロボットシナリオ群で構成されています。追加シナリオはシンプルでモジュラーなインターフェースから実装可能です。",
   "url": "https://github.com/proroklab/VectorizedMultiAgentSimulator",
   "homepage_url": "https://vmas.readthedocs.io",
   "language": "Python",

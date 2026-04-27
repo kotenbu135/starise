@@ -4,7 +4,7 @@
   "name": "android-serialport",
   "full_name": "xmaihh/android-serialport",
   "description": "移植谷歌官方串口库，仅支持串口名称及波特率，该项目添加支持校验位、数据位、停止位、流控配置项",
-  "description_ja": "",
+  "description_ja": "Google 公式シリアルポートライブラリを移植。シリアルポート名とボード レートのみ対応していたところ、パリティビット・データビット・ストップビット・フロー制御の設定項目を追加",
   "url": "https://github.com/xmaihh/Android-Serialport",
   "homepage_url": "",
   "language": "Java",

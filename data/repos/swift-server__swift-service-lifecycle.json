@@ -4,7 +4,7 @@
   "name": "swift-service-lifecycle",
   "full_name": "swift-server/swift-service-lifecycle",
   "description": "Cleanly startup and shutdown server application, freeing resources in order before exiting.",
-  "description_ja": "",
+  "description_ja": "終了前にリソースを順番に解放しながら、サーバーアプリケーションをクリーンに起動・シャットダウンするライブラリ。",
   "url": "https://github.com/swift-server/swift-service-lifecycle",
   "homepage_url": "https://swiftpackageindex.com/swift-server/swift-service-lifecycle/documentation/servicelifecycle",
   "language": "Swift",

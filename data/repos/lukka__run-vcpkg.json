@@ -4,7 +4,7 @@
   "name": "run-vcpkg",
   "full_name": "lukka/run-vcpkg",
   "description": "The GitHub Action to setup vcpkg for your C++ based projects. Stores built ports using Binary Caching backed onto GH Cache.",
-  "description_ja": "",
+  "description_ja": "C++プロジェクト向けにvcpkgをセットアップするGitHub Action。GHキャッシュを利用したバイナリキャッシュでビルド済みポートを保存。",
   "url": "https://github.com/lukka/run-vcpkg",
   "homepage_url": "",
   "language": "TypeScript",

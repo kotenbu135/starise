@@ -4,7 +4,7 @@
   "name": "perpetual",
   "full_name": "perpetual-ml/perpetual",
   "description": "Perpetual is a high-performance gradient boosting machine. It delivers optimal accuracy in a single run without complex tuning through a simple budget parameter. It features out-of-the-box support for causal ML, continual learning, native calibration, and robust drift monitoring, along with Rust core and zero-copy bindings for Python and R",
-  "description_ja": "",
+  "description_ja": "Perpetualは高性能な勾配ブースティングマシンです。シンプルなbudgetパラメータにより、複雑なチューニングなしで1回の実行で最適な精度を達成します。因果ML、継続学習、ネイティブキャリブレーション、堅牢なドリフト監視をすぐに利用でき、RustコアとPython・R向けのゼロコピーバインディングを特徴とします。",
   "url": "https://github.com/perpetual-ml/perpetual",
   "homepage_url": "https://perpetual-ml.com",
   "language": "Rust",

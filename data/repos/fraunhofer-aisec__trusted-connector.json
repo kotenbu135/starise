@@ -4,7 +4,7 @@
   "name": "trusted-connector",
   "full_name": "fraunhofer-aisec/trusted-connector",
   "description": "IoT edge platform \"Trusted Connector\" of the International Data Spaces. Based on Spring Boot, includes Camel message routing, a Camel component for IDSCP2 (including remote attestation with other connectors) and a management web UI.",
-  "description_ja": "",
+  "description_ja": "International Data SpacesのIoTエッジプラットフォーム「Trusted Connector」。Spring Bootベースで、Camelメッセージルーティング、IDSCP2向けCamelコンポーネント（他コネクターとのリモートアテステーションを含む）、管理用Web UIを搭載。",
   "url": "https://github.com/Fraunhofer-AISEC/trusted-connector",
   "homepage_url": "https://industrial-data-space.github.io/trusted-connector-documentation",
   "language": "Kotlin",

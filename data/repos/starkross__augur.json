@@ -4,7 +4,7 @@
   "name": "augur",
   "full_name": "starkross/augur",
   "description": "🇺🇦🇵🇱 A static analysis tool for OpenTelemetry Collector configurations. Built on OPA/Rego, it validates your pipelines, receivers, processors, and exporters against customizable policy rules – catching misconfigurations before they reach production",
-  "description_ja": "",
+  "description_ja": "OpenTelemetry Collector設定向けの静的解析ツール。OPA/Regoをベースに構築され、パイプライン、レシーバー、プロセッサー、エクスポーターをカスタマイズ可能なポリシールールで検証し、本番環境に到達する前に設定ミスを検出します。",
   "url": "https://github.com/starkross/augur",
   "homepage_url": "",
   "language": "Open Policy Agent",

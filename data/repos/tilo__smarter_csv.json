@@ -4,7 +4,7 @@
   "name": "smarter_csv",
   "full_name": "tilo/smarter_csv",
   "description": "Fastest end-to-end CSV ingestion for Ruby (with C acceleration). SmarterCSV auto-detects formats, applies smart defaults, and returns Rails-ready hashes for seamless use with ActiveRecord, Sidekiq, parallel jobs, and S3 pipelines — even for messy user-uploaded real-world data.",
-  "description_ja": "",
+  "description_ja": "Rubyで最速のエンドツーエンドCSV取り込み（C高速化付き）。SmarterCSVは形式を自動検出してスマートなデフォルトを適用し、ActiveRecord・Sidekiq・並列ジョブ・S3パイプラインでそのまま使えるRails対応ハッシュを返す。ユーザーがアップロードした雑多な実データにも対応",
   "url": "https://github.com/tilo/smarter_csv",
   "homepage_url": "",
   "language": "Ruby",

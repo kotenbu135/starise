@@ -4,7 +4,7 @@
   "name": "cargo-public-api",
   "full_name": "cargo-public-api/cargo-public-api",
   "description": "List and diff the public API of Rust library crates between releases and commits. Detect breaking API changes and semver violations via CI or a CLI.",
-  "description_ja": "",
+  "description_ja": "RustライブラリクレートのパブリックAPIをリリースやコミット間で一覧表示・差分比較し、CIまたはCLIを通じて破壊的なAPI変更やsemver違反を検出します。",
   "url": "https://github.com/cargo-public-api/cargo-public-api",
   "homepage_url": "https://crates.io/crates/cargo-public-api",
   "language": "Rust",

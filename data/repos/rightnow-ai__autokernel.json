@@ -4,7 +4,7 @@
   "name": "autokernel",
   "full_name": "rightnow-ai/autokernel",
   "description": "Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.",
-  "description_ja": "",
+  "description_ja": "GPUカーネルの自動探索ツール。PyTorchモデルを渡して寝ると、最適化されたTritonカーネルが出来上がっている。",
   "url": "https://github.com/RightNow-AI/autokernel",
   "homepage_url": "https://www.rightnowai.co/forge",
   "language": "Python",

@@ -4,7 +4,7 @@
   "name": "django-action-triggers",
   "full_name": "salaah01/django-action-triggers",
   "description": "A Django library for asynchronously triggering actions in response to database changes. It supports integration with webhooks, message brokers (e.g., Kafka, RabbitMQ), and can trigger other processes, including AWS Lambda functions.",
-  "description_ja": "",
+  "description_ja": "データベース変更に応じて非同期でアクションをトリガーする Django ライブラリ。Webhook・メッセージブローカー（Kafka・RabbitMQ など）との統合や、AWS Lambda 関数を含む他プロセスのトリガーをサポート",
   "url": "https://github.com/Salaah01/django-action-triggers",
   "homepage_url": "https://django-action-triggers.readthedocs.io/",
   "language": "Python",

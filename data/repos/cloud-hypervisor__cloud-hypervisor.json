@@ -4,7 +4,7 @@
   "name": "cloud-hypervisor",
   "full_name": "cloud-hypervisor/cloud-hypervisor",
   "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
-  "description_ja": "",
+  "description_ja": "CPU・メモリ・デバイスのホットプラグ、Windows/Linuxゲストのサポート、vhost-userによるデバイスオフロードを備えた、セキュリティ重視のRust製クラウドワークロード向け仮想マシンモニター",
   "url": "https://github.com/cloud-hypervisor/cloud-hypervisor",
   "homepage_url": "https://www.cloudhypervisor.org",
   "language": "Rust",

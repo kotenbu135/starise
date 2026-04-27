@@ -4,7 +4,7 @@
   "name": "mcl_3dl",
   "full_name": "at-wat/mcl_3dl",
   "description": "A ROS node to perform a probabilistic 3-D/6-DOF localization system for mobile robots with 3-D LIDAR(s). It implements pointcloud based Monte Carlo localization that uses a reference pointcloud as a map.",
-  "description_ja": "",
+  "description_ja": "3D LIDAR を搭載したモバイルロボット向けの確率的 3D/6-DOF 自己位置推定を行う ROS ノード。参照点群をマップとして使用する点群ベースのモンテカルロ自己位置推定を実装。",
   "url": "https://github.com/at-wat/mcl_3dl",
   "homepage_url": "",
   "language": "C++",

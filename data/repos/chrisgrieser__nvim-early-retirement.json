@@ -4,7 +4,7 @@
   "name": "nvim-early-retirement",
   "full_name": "chrisgrieser/nvim-early-retirement",
   "description": "Send buffers into early retirement by automatically closing them after x minutes of inactivity.",
-  "description_ja": "",
+  "description_ja": "非アクティブ状態が x 分続いたバッファを自動でクローズし、早期に解放する",
   "url": "https://github.com/chrisgrieser/nvim-early-retirement",
   "homepage_url": "",
   "language": "Lua",

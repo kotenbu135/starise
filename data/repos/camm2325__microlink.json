@@ -4,7 +4,7 @@
   "name": "microlink",
   "full_name": "camm2325/microlink",
   "description": "Tailscale-compatible VPN client for ESP32. Full ts2021 protocol support with WireGuard encryption, DERP relay, DISCO path discovery, and STUN. Connect your ESP32 devices to your tailnet and communicate securely with any peer. Production-ready, memory-optimized (~100KB SRAM).",
-  "description_ja": "",
+  "description_ja": "Tailscale互換のESP32向けVPNクライアント。WireGuard暗号化、DERPリレー、DISCOパス探索、STUNを備えたts2021プロトコルの完全サポート。ESP32デバイスをtailnetに接続し、任意のピアと安全に通信可能。本番環境対応、メモリ最適化済み（約100KB SRAM）。",
   "url": "https://github.com/CamM2325/microlink",
   "homepage_url": "",
   "language": "C",

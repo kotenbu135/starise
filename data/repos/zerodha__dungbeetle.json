@@ -4,7 +4,7 @@
   "name": "dungbeetle",
   "full_name": "zerodha/dungbeetle",
   "description": "A distributed job server built specifically for queuing and executing heavy SQL read jobs asynchronously. Separate out reporting layer from apps. MySQL, Postgres, ClickHouse.",
-  "description_ja": "",
+  "description_ja": "重い SQL 読み取りジョブを非同期にキューイング・実行するために特化した分散ジョブサーバー。アプリからレポーティング層を分離。MySQL・Postgres・ClickHouse 対応。",
   "url": "https://github.com/zerodha/dungbeetle",
   "homepage_url": "",
   "language": "Go",

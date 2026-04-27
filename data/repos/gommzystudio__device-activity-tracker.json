@@ -4,7 +4,7 @@
   "name": "device-activity-tracker",
   "full_name": "gommzystudio/device-activity-tracker",
   "description": "A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)",
-  "description_ja": "",
+  "description_ja": "電話番号からデバイスがアクティブ・スタンバイ・オフラインのいずれかを（およびそれ以上の情報を）特定できる。この PoC は、開封確認と RTT タイミングが機密性の高いデバイスアクティビティパターンをリークする仕組みを示す。（WhatsApp / Signal）",
   "url": "https://github.com/gommzystudio/device-activity-tracker",
   "homepage_url": "",
   "language": "TypeScript",

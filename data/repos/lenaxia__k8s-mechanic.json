@@ -4,7 +4,7 @@
   "name": "k8s-mechanic",
   "full_name": "lenaxia/k8s-mechanic",
   "description": "A K8s controller that watches your cluster for failures and opens pull requests on your GitOps repository with fixes. Security is a first class citizen, and it runs in-cluster with read-only RBAC, redacts secrets before they reach LLM, and requires human-in-the-loop. Formerly known as k8s-mendabot",
-  "description_ja": "",
+  "description_ja": "クラスターの障害を監視してGitOpsリポジトリに修正のpull requestを自動作成するK8sコントローラー。読み取り専用RBACでクラスター内動作し、LLMに渡す前にシークレットを除去、human-in-the-loopが必要。旧称：k8s-mendabot",
   "url": "https://github.com/lenaxia/k8s-mechanic",
   "homepage_url": "",
   "language": "Go",

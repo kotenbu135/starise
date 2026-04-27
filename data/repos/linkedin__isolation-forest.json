@@ -4,7 +4,7 @@
   "name": "isolation-forest",
   "full_name": "linkedin/isolation-forest",
   "description": "A distributed Spark/Scala implementation of the isolation forest and extended isolation forest algorithms for unsupervised outlier detection, featuring support for scalable training and ONNX export for easy cross-platform inference.",
-  "description_ja": "",
+  "description_ja": "教師なし外れ値検出のための隔離フォレストおよび拡張隔離フォレストアルゴリズムをSpark/Scalaで分散実装したもの。スケーラブルなトレーニングとクロスプラットフォーム推論のためのONNXエクスポートをサポートします。",
   "url": "https://github.com/linkedin/isolation-forest",
   "homepage_url": "",
   "language": "Scala",

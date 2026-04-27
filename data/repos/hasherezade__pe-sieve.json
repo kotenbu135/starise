@@ -4,7 +4,7 @@
   "name": "pe-sieve",
   "full_name": "hasherezade/pe-sieve",
   "description": "Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).",
-  "description_ja": "",
+  "description_ja": "指定プロセスをスキャンし、悪意のある可能性のあるインプラント（置換・注入された PE、シェルコード、フック、メモリパッチ）を検出・ダンプする",
   "url": "https://github.com/hasherezade/pe-sieve",
   "homepage_url": "https://hshrzd.wordpress.com/pe-sieve/",
   "language": "C++",

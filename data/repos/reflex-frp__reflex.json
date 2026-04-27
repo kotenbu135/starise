@@ -4,7 +4,7 @@
   "name": "reflex",
   "full_name": "reflex-frp/reflex",
   "description": "Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse.",
-  "description_ja": "",
+  "description_ja": "コールバックや副作用のないインタラクティブなプログラム。関数型リアクティブプログラミング（FRP）は、合成可能なイベントと時間変化する値を使ってインタラクティブなシステムを純粋関数として記述します。他の純粋関数型コードと同様に、関数型リアクティブコードは初回から正しく書きやすく、保守や再利用も容易です。",
   "url": "https://github.com/reflex-frp/reflex",
   "homepage_url": "https://reflex-frp.org",
   "language": "Haskell",

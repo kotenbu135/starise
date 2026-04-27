@@ -4,7 +4,7 @@
   "name": "sharedcontext",
   "full_name": "eversmile12/sharedcontext",
   "description": "MCP server that gives AI coding assistants persistent cross-client memory. Facts and conversations stored in SQLite, encrypted with AES-256-GCM, synced to Arweave. No server, no account, recoverable with a 12-word phrase.",
-  "description_ja": "",
+  "description_ja": "AIコーディングアシスタントにクライアントをまたいだ永続メモリを提供するMCPサーバー。事実と会話をSQLiteに保存し、AES-256-GCMで暗号化してArweaveに同期。サーバー不要、アカウント不要、12単語のフレーズで復元可能。",
   "url": "https://github.com/Eversmile12/sharedcontext",
   "homepage_url": "",
   "language": "TypeScript",

@@ -4,7 +4,7 @@
   "name": "store_base_sti_class",
   "full_name": "appfolio/store_base_sti_class",
   "description": "Modifies ActiveRecord 4+ with the ability to store the actual class (instead of the base class) in polymorphic _type columns when using STI",
-  "description_ja": "",
+  "description_ja": "STI 使用時にポリモーフィックな _type カラムへ基底クラスではなく実際のクラスを格納できるよう ActiveRecord 4+ を拡張します。",
   "url": "https://github.com/appfolio/store_base_sti_class",
   "homepage_url": "",
   "language": "Ruby",

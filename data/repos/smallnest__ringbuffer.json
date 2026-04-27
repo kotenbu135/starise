@@ -4,7 +4,7 @@
   "name": "ringbuffer",
   "full_name": "smallnest/ringbuffer",
   "description": "a thread-safe circular buffer (ring buffer) in Go, implemented io.ReaderWriter interface",
-  "description_ja": "",
+  "description_ja": "io.ReaderWriterインターフェースを実装した、Goのスレッドセーフな循環バッファ（リングバッファ）",
   "url": "https://github.com/smallnest/ringbuffer",
   "homepage_url": "",
   "language": "Go",

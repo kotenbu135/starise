@@ -4,7 +4,7 @@
   "name": "amsi.fail",
   "full_name": "flangvik/amsi.fail",
   "description": "C# Azure Function with an HTTP trigger that generates obfuscated PowerShell snippets that break or disable AMSI for the current process.",
-  "description_ja": "",
+  "description_ja": "HTTPトリガーを持つC# Azure Function。現在のプロセスのAMSIを無効化・破壊する難読化されたPowerShellスニペットを生成します。",
   "url": "https://github.com/Flangvik/AMSI.fail",
   "homepage_url": "",
   "language": "C#",

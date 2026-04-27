@@ -4,7 +4,7 @@
   "name": "dns-txt-proxy",
   "full_name": "nary24/dns-txt-proxy",
   "description": "是一个 动态代理程序，可通过解析 DNS TXT 记录 获取目标服务器的 IP:端口 并自动更新，实现 TCP/UDP 端口转发。",
-  "description_ja": "",
+  "description_ja": "DNS TXT レコードを解析してターゲットサーバーの IP:ポートを取得・自動更新し、TCP/UDP ポート転送を実現する動的プロキシプログラム",
   "url": "https://github.com/nary24/dns-txt-proxy",
   "homepage_url": "",
   "language": "Python",

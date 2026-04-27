@@ -4,7 +4,7 @@
   "name": "braft",
   "full_name": "baidu/braft",
   "description": "An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.",
-  "description_ja": "",
+  "description_ja": "brpcをベースにしたRAFTコンセンサスアルゴリズムの産業グレードC++実装。高可用性分散システムの構築にBaidu社内で広く利用されている",
   "url": "https://github.com/baidu/braft",
   "homepage_url": "",
   "language": "C++",

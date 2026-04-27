@@ -4,7 +4,7 @@
   "name": "cloud-cli-proxy",
   "full_name": "zanel1u/cloud-cli-proxy",
   "description": "一条命令获取专属云主机，预装 Claude Code，所有流量走指定出口 IP。基于 Docker + WireGuard/sing-box 全隧道，零泄漏。",
-  "description_ja": "",
+  "description_ja": "コマンド1つで専用クラウドVMを取得。Claude Code事前インストール済み、すべてのトラフィックは指定出口IPを経由。Docker + WireGuard/sing-boxによるフルトンネリングで、ゼロリーク",
   "url": "https://github.com/ZaneL1u/cloud-cli-proxy",
   "homepage_url": "https://zanel1u.github.io/cloud-cli-proxy/",
   "language": "Go",

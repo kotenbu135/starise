@@ -4,7 +4,7 @@
   "name": "newapi-gateway",
   "full_name": "xxbbzy/newapi-gateway",
   "description": "一个面向 NewAPI 生态的隐形 AI 网关：单一ag-token接入多供应商，支持权重轮询、优先级故障切换与透明代理。A stealth AI gateway for NewAPI-compatible providers: one ag-token, weighted routing, priority failover, and zero-leak upstream proxying.",
-  "description_ja": "",
+  "description_ja": "NewAPI エコシステム向けステルス AI ゲートウェイ。単一の ag-token で複数プロバイダーに接続し、重み付きルーティング・優先度フェイルオーバー・透過的プロキシをサポート。",
   "url": "https://github.com/xxbbzy/NewAPI-Gateway",
   "homepage_url": "https://github.com/xxbbzy/NewAPI-Gateway#readme",
   "language": "Go",

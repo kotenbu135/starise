@@ -4,7 +4,7 @@
   "name": "zt-dt-industrial-cps",
   "full_name": "cysecprp/zt-dt-industrial-cps",
   "description": "This project implements a Zero Trust-Enabled Digital Twin for securing Industrial Cyber-Physical Systems. It uses AutoEncoders and Isolation Forests to detect real-time anomalies in water distribution datasets like BATADAL. The goal is a 94.5% F1-Score with a sub-2-second response time to ensure industrial resilience.",
-  "description_ja": "",
+  "description_ja": "このプロジェクトは、産業用サイバーフィジカルシステムのセキュリティ強化のためZero Trust対応デジタルツインを実装します。AutoEncoderとIsolation Forestを用いてBATADALなどの水道配管データセットにおけるリアルタイム異常を検出し、産業レジリエンス確保のためF1スコア94.5%・応答時間2秒未満を目標とします。",
   "url": "https://github.com/CYSECPRP/zt-dt-industrial-cps",
   "homepage_url": "",
   "language": "Python",

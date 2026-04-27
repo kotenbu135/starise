@@ -4,7 +4,7 @@
   "name": "casadi-on-gpu",
   "full_name": "edxmorgan/casadi-on-gpu",
   "description": "turn CasADi function into GPU ready kernels so large batches of function evaluations can run in parallel at high speed [𝐏𝐲𝐭𝐨𝐫𝐜𝐡 \u0026 𝐂𝐮𝐩𝐲 𝐜𝐨𝐦𝐩𝐚𝐭𝐢𝐛𝐥𝐞]",
-  "description_ja": "",
+  "description_ja": "CasADi 関数を GPU 対応カーネルに変換し、大量の関数評価を高速並列実行できるようにする [PyTorch \u0026 CuPy 対応]",
   "url": "https://github.com/edxmorgan/casadi-on-gpu",
   "homepage_url": "",
   "language": "Python",

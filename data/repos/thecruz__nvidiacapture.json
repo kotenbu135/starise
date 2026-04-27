@@ -4,7 +4,7 @@
   "name": "nvidiacapture",
   "full_name": "thecruz/nvidiacapture",
   "description": "Demonstrates that NvAPI_D3D11_WksReadScanout (undocumented, interface 0xBCB1C536) can read the GPU scanout buffer directly, bypassing any overlay or render-target protection that anti-cheat software applies at the application level.",
-  "description_ja": "",
+  "description_ja": "NvAPI_D3D11_WksReadScanout（非公開、インターフェース0xBCB1C536）がGPUスキャンアウトバッファーを直接読み取り、アンチチートソフトウェアがアプリケーションレベルで適用するオーバーレイやレンダーターゲット保護を回避できることを実証するデモ",
   "url": "https://github.com/TheCruZ/nvidiaCapture",
   "homepage_url": "",
   "language": "C++",

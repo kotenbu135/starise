@@ -4,7 +4,7 @@
   "name": "composerrequirechecker",
   "full_name": "maglnet/composerrequirechecker",
   "description": "A CLI tool to check whether a specific composer package uses imported symbols that aren't part of its direct composer dependencies",
-  "description_ja": "",
+  "description_ja": "特定のcomposerパッケージが直接のcomposer依存関係に含まれないシンボルをインポートしていないか確認するCLIツール",
   "url": "https://github.com/maglnet/ComposerRequireChecker",
   "homepage_url": "",
   "language": "PHP",

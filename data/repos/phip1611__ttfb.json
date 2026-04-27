@@ -4,7 +4,7 @@
   "name": "ttfb",
   "full_name": "phip1611/ttfb",
   "description": "Library + CLI-Tool to measure the TTFB (time to first byte) of HTTP requests. Additionally, this crate measures the times of DNS lookup, TCP connect and TLS handshake.",
-  "description_ja": "",
+  "description_ja": "HTTP リクエストの TTFB（最初のバイトまでの時間）を計測するライブラリ＆ CLI ツール。DNS ルックアップ、TCP 接続、TLS ハンドシェイクの所要時間も計測可能。",
   "url": "https://github.com/phip1611/ttfb",
   "homepage_url": "",
   "language": "Rust",

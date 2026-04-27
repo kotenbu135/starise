@@ -4,7 +4,7 @@
   "name": "zenoh-plugin-dds",
   "full_name": "eclipse-zenoh/zenoh-plugin-dds",
   "description": "A zenoh plug-in that allows to transparently route DDS data.  This plugin can be used by DDS applications to leverage zenoh for geographical routing or for better scaling discovery. For ROS2 robotic applications, use https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds",
-  "description_ja": "",
+  "description_ja": "DDSデータを透過的にルーティングするzenohプラグインです。このプラグインはDDSアプリケーションが地理的ルーティングやスケーラブルなディスカバリのためにzenohを活用するのに使用できます。ROS2ロボットアプリケーションにはhttps://github.com/eclipse-zenoh/zenoh-plugin-ros2ddsをご利用ください。",
   "url": "https://github.com/eclipse-zenoh/zenoh-plugin-dds",
   "homepage_url": "",
   "language": "Rust",

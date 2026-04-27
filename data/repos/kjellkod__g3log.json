@@ -4,7 +4,7 @@
   "name": "g3log",
   "full_name": "kjellkod/g3log",
   "description": "G3log is  an asynchronous, \"crash safe\", logger that is easy to use with default logging sinks or you can add your own.  G3log is made with plain C++14 (C++11 support up to release 1.3.2)  with no external libraries (except gtest used for unit tests). G3log is made to be cross-platform, currently running on OSX, Windows and several Linux distros.  See Readme below for details of usage.",
-  "description_ja": "",
+  "description_ja": "G3logは、デフォルトのログシンクを手軽に使えて独自シンクも追加可能な非同期「クラッシュセーフ」ロガーです。外部ライブラリなし（ユニットテスト用gtestを除く）の純粋なC++14（リリース1.3.2まではC++11サポート）で作られており、OSX・Windows・複数のLinuxディストリビューションで動作するクロスプラットフォーム対応です。",
   "url": "https://github.com/KjellKod/g3log",
   "homepage_url": "http://github.com/KjellKod/g3log",
   "language": "C++",

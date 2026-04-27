@@ -4,7 +4,7 @@
   "name": "risor",
   "full_name": "deepnoodle-ai/risor",
   "description": "Risor is a fast, embeddable scripting language for Go applications.  Add dynamic expressions, filters, and user-defined logic to your Go programs without embedding a heavy runtime like V8 or Python. Expressions compile to bytecode and run on a lightweight VM. Pure Go, minimal dependencies.",
-  "description_ja": "",
+  "description_ja": "RisorはGoアプリケーション向けの高速で組み込み可能なスクリプト言語。V8やPythonのような重いランタイムを組み込まずに、Goプログラムへ動的な式・フィルタ・ユーザー定義ロジックを追加できる。式はバイトコードにコンパイルされ軽量VMで実行。Pure Go、依存最小。",
   "url": "https://github.com/deepnoodle-ai/risor",
   "homepage_url": "https://risor.io",
   "language": "Go",

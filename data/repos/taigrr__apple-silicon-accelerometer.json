@@ -4,7 +4,7 @@
   "name": "apple-silicon-accelerometer",
   "full_name": "taigrr/apple-silicon-accelerometer",
   "description": "Go library for Apple Silicon accelerometer, gyroscope, ALS, and lid angle via IOKit HID (Bosch BMI286). Zero CGO.",
-  "description_ja": "",
+  "description_ja": "IOKit HID経由でApple Siliconの加速度センサー・ジャイロスコープ・ALS・液晶角度を取得するGoライブラリ（Bosch BMI286使用）。CGOゼロ",
   "url": "https://github.com/taigrr/apple-silicon-accelerometer",
   "homepage_url": "",
   "language": "Go",

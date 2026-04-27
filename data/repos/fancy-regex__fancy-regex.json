@@ -4,7 +4,7 @@
   "name": "fancy-regex",
   "full_name": "fancy-regex/fancy-regex",
   "description": "Rust library for regular expressions using \"fancy\" features like look-around and backreferences. Has a mode which aims to be compatible with Oniguruma syntax.",
-  "description_ja": "",
+  "description_ja": "先読み・後読みや後方参照などの「高度な」機能を持つ正規表現向け Rust ライブラリ。Oniguruma 構文との互換モードあり。",
   "url": "https://github.com/fancy-regex/fancy-regex",
   "homepage_url": "https://fancy-regex.github.io/fancy-regex/",
   "language": "Rust",

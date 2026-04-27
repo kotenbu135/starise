@@ -4,7 +4,7 @@
   "name": "kernel-anvil",
   "full_name": "apollosenvy/kernel-anvil",
   "description": "Profile-guided GPU kernel optimizer for AMD/RDNA3. Auto-tunes llama.cpp MMVQ kernels per model shape. 2x decode speedup on 7900 XTX.",
-  "description_ja": "",
+  "description_ja": "AMD/RDNA3 向けのプロファイルガイド付き GPU カーネルオプティマイザー。モデルの形状ごとに llama.cpp MMVQ カーネルを自動チューニング。7900 XTX でデコード速度が 2 倍に。",
   "url": "https://github.com/apollosenvy/kernel-anvil",
   "homepage_url": "",
   "language": "Python",

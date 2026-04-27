@@ -4,7 +4,7 @@
   "name": "iam-policy-json-to-terraform",
   "full_name": "flosell/iam-policy-json-to-terraform",
   "description": "Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document",
-  "description_ja": "",
+  "description_ja": "JSON 形式の IAM Policy を Terraform の aws_iam_policy_document に変換する小ツール",
   "url": "https://github.com/flosell/iam-policy-json-to-terraform",
   "homepage_url": "https://flosell.github.io/iam-policy-json-to-terraform/",
   "language": "JavaScript",

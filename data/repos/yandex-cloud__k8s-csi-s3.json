@@ -4,7 +4,7 @@
   "name": "k8s-csi-s3",
   "full_name": "yandex-cloud/k8s-csi-s3",
   "description": "GeeseFS-based CSI for mounting S3 buckets as PersistentVolumes",
-  "description_ja": "",
+  "description_ja": "S3 バケットを PersistentVolume としてマウントするための GeeseFS ベースの CSI",
   "url": "https://github.com/yandex-cloud/k8s-csi-s3",
   "homepage_url": "",
   "language": "Go",

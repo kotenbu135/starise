@@ -4,7 +4,7 @@
   "name": "methodtraceman",
   "full_name": "zhengcx/methodtraceman",
   "description": "用于快速找到高耗时方法，定位解决Android App卡顿问题。通过gradle plugin+ASM实现可配置范围的方法插桩来统计所有方法的耗时，并提供友好的界面展示，支持耗时筛选、线程筛选、方法名筛选等。(A Tool for Discovering High Time-consuming Methods for Android App)",
-  "description_ja": "",
+  "description_ja": "Android Appの処理時間が長いメソッドを素早く特定しフリーズ問題を解決するツール。Gradle Plugin + ASMによる設定可能な範囲のメソッドインストルメンテーションで全メソッドの実行時間を計測し、処理時間・スレッド・メソッド名によるフィルタリングに対応した見やすいUIを提供。",
   "url": "https://github.com/zhengcx/MethodTraceMan",
   "homepage_url": "",
   "language": "Kotlin",

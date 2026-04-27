@@ -4,7 +4,7 @@
   "name": "tardy",
   "full_name": "tardy-org/tardy",
   "description": "An asynchronous runtime for writing applications and services. Supports io_uring, epoll, kqueue, and poll for I/O. ",
-  "description_ja": "",
+  "description_ja": "io_uring・epoll・kqueue・pollによるI/Oをサポートする、アプリケーションとサービス構築のための非同期ランタイム",
   "url": "https://github.com/tardy-org/tardy",
   "homepage_url": "",
   "language": "Zig",

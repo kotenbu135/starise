@@ -4,7 +4,7 @@
   "name": "bup",
   "full_name": "bup/bup",
   "description": "Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problems or patches to the mailing list for discussion (see the end of the README below).",
-  "description_ja": "",
+  "description_ja": "gitパックファイル形式に基づく非常に効率的なバックアップシステム。高速な増分保存とグローバル重複排除（仮想マシンイメージを含むファイル間・ファイル内）を提供。問題やパッチはメーリングリストへ投稿してください（README末尾参照）。",
   "url": "https://github.com/bup/bup",
   "homepage_url": "https://bup.github.io/",
   "language": "Python",

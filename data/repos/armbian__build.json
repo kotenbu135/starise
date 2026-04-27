@@ -4,7 +4,7 @@
   "name": "build",
   "full_name": "armbian/build",
   "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
-  "description_ja": "",
+  "description_ja": "Armbian Linuxディストリビューションの公式ビルドフレームワーク。このリポジトリにはソースからカスタムOSイメージをコンパイルするための完全なツールチェーンとスクリプトが含まれており、各種ARMおよびARM64シングルボードコンピューター向けのカーネル設定、U-Boot処理、ボード固有の調整も含まれます。",
   "url": "https://github.com/armbian/build",
   "homepage_url": "https://www.armbian.com",
   "language": "Shell",

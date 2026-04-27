@@ -4,7 +4,7 @@
   "name": "sqlidetector",
   "full_name": "eslam3kl/sqlidetector",
   "description": "Simple python script supported with BurpBouty profile that helps you to detect SQL injection \"Error based\" by sending multiple requests with 14 payloads and checking for 152 regex patterns for different databases.",
-  "description_ja": "",
+  "description_ja": "BurpBountyプロファイルと組み合わせたPythonスクリプト。14種のペイロードで複数リクエストを送信し、異なるデータベース向け152個の正規表現パターンをチェックすることでエラーベースのSQLインジェクションを検出",
   "url": "https://github.com/eslam3kl/SQLiDetector",
   "homepage_url": "https://eslam3kl.medium.com",
   "language": "Clojure",

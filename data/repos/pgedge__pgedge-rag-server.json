@@ -4,7 +4,7 @@
   "name": "pgedge-rag-server",
   "full_name": "pgedge/pgedge-rag-server",
   "description": "A simple API server for performing Retrieval-Augmented Generation (RAG) of text based on content from a PostgreSQL database using pgvector.",
-  "description_ja": "",
+  "description_ja": "pgvector を使用した PostgreSQL データベースのコンテンツに基づきテキストの RAG（Retrieval-Augmented Generation）を実行するシンプルな API サーバー。",
   "url": "https://github.com/pgEdge/pgedge-rag-server",
   "homepage_url": "https://docs.pgedge.com/pgedge-rag-server/",
   "language": "Go",

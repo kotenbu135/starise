@@ -4,7 +4,7 @@
   "name": "libultrahdr",
   "full_name": "google/libultrahdr",
   "description": "Ultra HDR is a true HDR image format, and is backcompatible.  libultrahdr is the reference codec for the Ultra HDR format.  The codecs that support the format can render the HDR intent of the image on HDR displays;  other codecs can still decode and display the SDR intent of the image.",
-  "description_ja": "",
+  "description_ja": "Ultra HDR は後方互換性を持つ真の HDR 画像フォーマット。libultrahdr はそのリファレンスコーデックで、対応コーデックは HDR ディスプレイ上で HDR 表示を実現でき、非対応コーデックでも SDR として復号・表示が可能",
   "url": "https://github.com/google/libultrahdr",
   "homepage_url": "https://developer.android.com/guide/topics/media/platform/hdr-image-format",
   "language": "C++",

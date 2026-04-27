@@ -4,7 +4,7 @@
   "name": "kftray",
   "full_name": "hcavarsan/kftray",
   "description": "kubectl port-forward manager and reverse tunnel (ngrok-like) for exposing local  services publicly, with TLS termination, HTTP traffic inspection, UDP forwarding,  multi-hop proxy routing through k8s clusters, stateful config via filesystem or  git - GUI and TUI available",
-  "description_ja": "",
+  "description_ja": "ローカルサービスを公開するkubectl port-forwardマネージャ兼リバーストンネル（ngrok風）。TLS終端・HTTPトラフィック検査・UDP転送・k8sクラスタ経由のマルチホッププロキシ・ファイルシステムまたはgitによる状態管理に対応。GUI・TUIあり。",
   "url": "https://github.com/hcavarsan/kftray",
   "homepage_url": "https://kftray.app/",
   "language": "Rust",

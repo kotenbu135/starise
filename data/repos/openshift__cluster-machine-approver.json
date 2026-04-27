@@ -4,7 +4,7 @@
   "name": "cluster-machine-approver",
   "full_name": "openshift/cluster-machine-approver",
   "description": "The cluster-machine-approver validates and approves CSRs for nodes attempting to join the cluster.",
-  "description_ja": "",
+  "description_ja": "cluster-machine-approver は、クラスターへの参加を試みるノードの CSR を検証・承認します",
   "url": "https://github.com/openshift/cluster-machine-approver",
   "homepage_url": "",
   "language": "Go",

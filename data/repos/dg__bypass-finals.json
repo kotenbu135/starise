@@ -4,7 +4,7 @@
   "name": "bypass-finals",
   "full_name": "dg/bypass-finals",
   "description": "Removes `final` and `readonly` keywords from source code on-the-fly and allows mocking of final methods and classes. It can be used together with any test tool such as PHPUnit or Mockery.",
-  "description_ja": "",
+  "description_ja": "ソースコードから `final` および `readonly` キーワードをオンザフライで除去し、final なメソッドやクラスのモックを可能にする。PHPUnit や Mockery などあらゆるテストツールと組み合わせて使用可能",
   "url": "https://github.com/dg/bypass-finals",
   "homepage_url": "",
   "language": "PHP",

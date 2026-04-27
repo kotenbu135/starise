@@ -4,7 +4,7 @@
   "name": "django-bolt",
   "full_name": "dj-bolt/django-bolt",
   "description": "Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.",
-  "description_ja": "",
+  "description_ja": "DjangoでRPS 6万以上を実現するRust製APIフレームワーク。HTTPにActix Web、PythonブリッジにPyO3、シリアライズにmsgspecを使用。デコレーターベースのルーティング、認証・ミドルウェア組み込み済み。",
   "url": "https://github.com/dj-bolt/django-bolt",
   "homepage_url": "",
   "language": "Python",

@@ -4,7 +4,7 @@
   "name": "splunk-mcp-llm-siemulator",
   "full_name": "rsfl/splunk-mcp-llm-siemulator",
   "description": "A Docker lab integrating Splunk SIEM with Ollama LLM via MCP for AI security operations. Features Promptfoo OWASP evaluation, TA-ollama and TA-mcp-jsonrpc add-ons, dual bind-mount log ingestion, and real-time HEC streaming across six indexes for MITRE ATLAS TTP detection.",
-  "description_ja": "",
+  "description_ja": "Ollama LLM を MCP 経由で Splunk SIEM と統合した Docker ラボ。AI セキュリティオペレーション向け。Promptfoo による OWASP 評価、TA-ollama・TA-mcp-jsonrpc アドオン、デュアルバインドマウントログ取り込み、6 つのインデックスにわたるリアルタイム HEC ストリーミングによる MITRE ATLAS TTP 検出機能を搭載。",
   "url": "https://github.com/rsfl/splunk-mcp-llm-siemulator",
   "homepage_url": "",
   "language": "PowerShell",

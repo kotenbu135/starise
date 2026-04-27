@@ -4,7 +4,7 @@
   "name": "cuda-tile",
   "full_name": "nvidia/cuda-tile",
   "description": "CUDA Tile IR is an MLIR-based intermediate representation and compiler infrastructure for CUDA kernel optimization, focusing on tile-based computation patterns and optimizations targeting NVIDIA tensor core units.",
-  "description_ja": "",
+  "description_ja": "CUDA Tile IR は、NVIDIA テンソルコアユニットを対象としたタイルベースの計算パターンと最適化に焦点を当てた、CUDA カーネル最適化のための MLIR ベースの中間表現およびコンパイラインフラストラクチャです。",
   "url": "https://github.com/NVIDIA/cuda-tile",
   "homepage_url": "",
   "language": "C++",

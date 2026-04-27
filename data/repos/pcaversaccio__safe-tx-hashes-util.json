@@ -4,7 +4,7 @@
   "name": "safe-tx-hashes-util",
   "full_name": "pcaversaccio/safe-tx-hashes-util",
   "description": "This Bash script calculates the Safe transaction hashes by retrieving transaction details from the Safe transaction service API and computing both the domain and message hashes using the EIP-712 standard.",
-  "description_ja": "",
+  "description_ja": "このBashスクリプトは、Safe transaction service APIからトランザクション詳細を取得し、EIP-712標準を使ってドメインハッシュとメッセージハッシュの両方を計算することで、Safeトランザクションハッシュを算出します",
   "url": "https://github.com/pcaversaccio/safe-tx-hashes-util",
   "homepage_url": "https://github.com/safe-fndn/safe-smart-account",
   "language": "Shell",

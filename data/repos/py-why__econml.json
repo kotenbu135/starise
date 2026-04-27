@@ -4,7 +4,7 @@
   "name": "econml",
   "full_name": "py-why/econml",
   "description": "ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its  goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal inference problems. To date, the ALICE Python SDK (econml) implements orthogonal machine learning algorithms such as the double machine learning work of Chernozhukov et al. This toolkit is designed to measure the causal effect of some treatment variable(s) t on an outcome variable y, controlling for a set of features x.",
-  "description_ja": "",
+  "description_ja": "ALICE（Automated Learning and Intelligence for Causation and Economics）はMicrosoft Researchのプロジェクトで、AIを経済的意思決定に応用することを目的としています。最先端の機械学習技術と計量経済学を組み合わせたツールキットの構築を目指し、Python SDK（econml）ではChernozhukovらのダブル機械学習をはじめとする直交機械学習アルゴリズムを実装しています。特徴量xを制御しながら処置変数tが結果変数yに与える因果効果を測定するよう設計されています。",
   "url": "https://github.com/py-why/EconML",
   "homepage_url": "https://www.microsoft.com/en-us/research/project/alice/",
   "language": "Jupyter Notebook",

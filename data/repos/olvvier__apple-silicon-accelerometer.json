@@ -4,7 +4,7 @@
   "name": "apple-silicon-accelerometer",
   "full_name": "olvvier/apple-silicon-accelerometer",
   "description": "reading the undocumented mems accelerometer + gyroscope on apple silicon macbooks via iokit hid",
-  "description_ja": "",
+  "description_ja": "IOKit HID を経由して Apple Silicon MacBook の非公開 MEMS 加速度センサーおよびジャイロスコープを読み取る",
   "url": "https://github.com/olvvier/apple-silicon-accelerometer",
   "homepage_url": "https://medium.com/@oli.bourbonnais/your-macbook-has-an-accelerometer-and-you-can-read-it-in-real-time-in-python-28d9395fb180",
   "language": "Python",

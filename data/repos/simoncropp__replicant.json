@@ -4,7 +4,7 @@
   "name": "replicant",
   "full_name": "simoncropp/replicant",
   "description": "A wrapper for HttpClient that caches to disk. Cached files, over the max specified, are deleted based on the last access times.",
-  "description_ja": "",
+  "description_ja": "ディスクにキャッシュするHttpClientのラッパー。最大指定数を超えたキャッシュファイルは最終アクセス時刻に基づいて削除される",
   "url": "https://github.com/SimonCropp/Replicant",
   "homepage_url": "",
   "language": "C#",

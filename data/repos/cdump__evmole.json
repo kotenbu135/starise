@@ -4,7 +4,7 @@
   "name": "evmole",
   "full_name": "cdump/evmole",
   "description": "Extracts function selectors, arguments, state mutability and storage layout from EVM bytecode, even for unverified contracts",
-  "description_ja": "",
+  "description_ja": "未検証コントラクトを含む EVM バイトコードから、関数セレクター、引数、状態変更可能性、ストレージレイアウトを抽出する",
   "url": "https://github.com/cdump/evmole",
   "homepage_url": "https://evmole.xyz",
   "language": "Rust",

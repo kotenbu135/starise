@@ -4,7 +4,7 @@
   "name": "uccl",
   "full_name": "uccl-project/uccl",
   "description": "UCCL is an efficient communication library for GPUs, covering collectives, P2P (e.g., KV cache transfer, RL weight transfer), and EP (e.g., GPU-driven)",
-  "description_ja": "",
+  "description_ja": "UCCL は GPU 向けの効率的な通信ライブラリで、コレクティブ通信、P2P（KV キャッシュ転送、RL 重み転送など）、EP（GPU ドリブンなど）に対応",
   "url": "https://github.com/uccl-project/uccl",
   "homepage_url": "https://uccl-project.github.io/",
   "language": "C++",

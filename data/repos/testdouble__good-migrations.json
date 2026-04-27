@@ -4,7 +4,7 @@
   "name": "good-migrations",
   "full_name": "testdouble/good-migrations",
   "description": "Prevent Rails from auto-loading app/ code when running database migrations",
-  "description_ja": "",
+  "description_ja": "データベースマイグレーション実行時に Rails が app/ コードを自動ロードするのを防ぐ",
   "url": "https://github.com/testdouble/good-migrations",
   "homepage_url": "",
   "language": "Ruby",

@@ -4,7 +4,7 @@
   "name": "django-dbconn-retry",
   "full_name": "jdelic/django-dbconn-retry",
   "description": "Patches Django to reconnect on a failed database connection once before failing. Helping with running Django ORM through HAProxy, for example.",
-  "description_ja": "",
+  "description_ja": "Djangoにパッチを当て、データベース接続失敗時に一度だけ再接続を試みてから失敗するようにします。HAProxy経由でDjango ORMを実行する際などに役立ちます。",
   "url": "https://github.com/jdelic/django-dbconn-retry",
   "homepage_url": "",
   "language": "Python",

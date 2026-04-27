@@ -4,7 +4,7 @@
   "name": "dockerfile-pin",
   "full_name": "azu/dockerfile-pin",
   "description": "A CLI tool for digest pinning — adds @sha256:\u003cdigest\u003e to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks.",
-  "description_ja": "",
+  "description_ja": "ダイジェストピン止め用 CLI ツール — Dockerfile、docker-compose.yml、GitHub Actions に @sha256:\u003cdigest\u003e を追加してサプライチェーン攻撃を防ぎます",
   "url": "https://github.com/azu/dockerfile-pin",
   "homepage_url": "",
   "language": "Go",

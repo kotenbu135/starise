@@ -4,7 +4,7 @@
   "name": "varmor",
   "full_name": "bytedance/varmor",
   "description": "vArmor is a cloud-native container hardening system that leverages AppArmor/BPF/Seccomp and network proxy technologies to enforce access control from system calls to application protocols — protecting workloads including AI Agents.",
-  "description_ja": "",
+  "description_ja": "vArmorは、AppArmor/BPF/Seccompとネットワークプロキシ技術を活用し、システムコールからアプリケーションプロトコルまでのアクセス制御を強制するクラウドネイティブなコンテナ堅牢化システム。AIエージェントを含むワークロードを保護する。",
   "url": "https://github.com/bytedance/vArmor",
   "homepage_url": "https://varmor.org",
   "language": "Go",

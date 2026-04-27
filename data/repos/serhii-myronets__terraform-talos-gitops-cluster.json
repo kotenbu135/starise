@@ -4,7 +4,7 @@
   "name": "terraform-talos-gitops-cluster",
   "full_name": "serhii-myronets/terraform-talos-gitops-cluster",
   "description": "Kubernetes cluster with fully automated infrastructure using Terraform and Talos on Proxmox. GitOps with Argo CD, Cilium networking, and full observability powered by OpenTelemetry.",
-  "description_ja": "",
+  "description_ja": "Proxmox 上で Terraform と Talos を使用した完全自動化インフラの Kubernetes クラスター。Argo CD による GitOps、Cilium ネットワーキング、OpenTelemetry による完全オブザーバビリティを実現。",
   "url": "https://github.com/serhii-myronets/terraform-talos-gitops-cluster",
   "homepage_url": "",
   "language": "HCL",

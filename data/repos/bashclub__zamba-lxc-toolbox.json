@@ -4,7 +4,7 @@
   "name": "zamba-lxc-toolbox",
   "full_name": "bashclub/zamba-lxc-toolbox",
   "description": "Zamba LXC Toolbox a script collection to setup LXC containers on Proxmox + ZFS. Zamba is the fusion of ZFS and Samba (standalone, active directory dc or active directory member), preconfigured to access ZFS snapshots by \"Previous Versions\" to easily recover encrypted by ransomware files, accidently deleted files or just to revert changes.",
-  "description_ja": "",
+  "description_ja": "Proxmox + ZFS 上に LXC コンテナをセットアップするスクリプト集 Zamba LXC Toolbox。Zamba は ZFS と Samba（スタンドアロン、Active Directory DC、または Active Directory メンバー）の融合で、「以前のバージョン」による ZFS スナップショットへのアクセスを事前設定済み。ランサムウェアで暗号化されたファイル・誤削除ファイルの復元や変更の取り消しを簡単に実行可能。",
   "url": "https://github.com/bashclub/zamba-lxc-toolbox",
   "homepage_url": "https://aow.de/",
   "language": "Shell",

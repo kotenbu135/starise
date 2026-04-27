@@ -4,7 +4,7 @@
   "name": "robot_moveit",
   "full_name": "hatmore/robot_moveit",
   "description": "双臂机器人 ROS2 MoveIt 控制项目。内含ompl/pilz/servo控制；可对接上下游，做了模块心跳状态监控，支持上层下发各类操作任务：包括预设位姿任务、移动任务、末端控制任务，同时支持左右手独立任务调度，包含模块重启、仿真模式切换这类基础系统能力。",
-  "description_ja": "",
+  "description_ja": "双腕ロボットのROS2 MoveIt制御プロジェクト。OMPL/Pilz/Servoによる制御を内包し、モジュールのハートビート状態監視や上下流との連携をサポート。プリセット姿勢・移動・エンドエフェクタ制御など各種操作タスクの上位下達、左右アーム独立スケジューリング、モジュール再起動・シミュレーションモード切替といった基本システム機能も備える。",
   "url": "https://github.com/hatmore/Robot_Moveit",
   "homepage_url": "",
   "language": "C++",

@@ -4,7 +4,7 @@
   "name": "pg_background",
   "full_name": "vibhorkum/pg_background",
   "description": "Production-grade PostgreSQL extension to execute arbitrary SQL in background worker processes — with async execution, autonomous transactions, cookie-protected handles, cancellation, progress reporting, and observability.",
-  "description_ja": "",
+  "description_ja": "バックグラウンドワーカープロセスで任意のSQLを実行するプロダクショングレードのPostgreSQL拡張 — 非同期実行・自律トランザクション・クッキー保護ハンドル・キャンセル・進捗報告・オブザーバビリティに対応。",
   "url": "https://github.com/vibhorkum/pg_background",
   "homepage_url": "https://github.com/vibhorkum/pg_background",
   "language": "PLpgSQL",

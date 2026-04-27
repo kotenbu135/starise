@@ -4,7 +4,7 @@
   "name": "unrealclientprotocol",
   "full_name": "italink/unrealclientprotocol",
   "description": "Lightweight UE5 plugin that exposes Unreal Engine's reflection system over TCP+JSON — let AI agents call UFunctions, read/write UProperties, and inspect any UObject in a running editor, zero engine modification required.",
-  "description_ja": "",
+  "description_ja": "TCP+JSONでUnreal Engineのリフレクションシステムを公開する軽量UE5プラグイン。エンジン改変なしに、AIエージェントがUFunction呼び出し・UPropertyの読み書き・実行中エディター上の任意UObjectの検査を行えます。",
   "url": "https://github.com/Italink/UnrealClientProtocol",
   "homepage_url": "",
   "language": "C++",

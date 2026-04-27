@@ -4,7 +4,7 @@
   "name": "phpdotenv",
   "full_name": "vlucas/phpdotenv",
   "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
-  "description_ja": "",
+  "description_ja": "`.env` から `getenv()`・`$_ENV`・`$_SERVER` へ自動的に環境変数を読み込むライブラリ。",
   "url": "https://github.com/vlucas/phpdotenv",
   "homepage_url": "",
   "language": "PHP",

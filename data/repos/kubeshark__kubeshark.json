@@ -4,7 +4,7 @@
   "name": "kubeshark",
   "full_name": "kubeshark/kubeshark",
   "description": "eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.",
-  "description_ja": "",
+  "description_ja": "eBPFを活用したKubernetes向けネットワークオブザーバビリティ。完全なK8sコンテキストでL4/L7トラフィックをインデックス化し、鍵なしでTLSを復号。MCPを通じてAIエージェントから、ダッシュボードを通じて人間から照会可能。",
   "url": "https://github.com/kubeshark/kubeshark",
   "homepage_url": "https://kubeshark.com",
   "language": "Go",

@@ -4,7 +4,7 @@
   "name": "mentedb",
   "full_name": "nambok/mentedb",
   "description": "A cognition aware database engine for AI agent memory. Purpose built in Rust with WAL, HNSW, knowledge graphs, and speculative context pre assembly. Not a wrapper, a ground up storage engine that thinks.",
-  "description_ja": "",
+  "description_ja": "AIエージェントメモリ向けの認知対応データベースエンジン。WAL・HNSW・ナレッジグラフ・投機的コンテキスト事前組み立てをRustでゼロからスクラッチ実装。既存ラッパーではなく、思考するストレージエンジン。",
   "url": "https://github.com/nambok/mentedb",
   "homepage_url": "https://mentedb.com",
   "language": "Rust",

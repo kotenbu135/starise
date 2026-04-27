@@ -4,7 +4,7 @@
   "name": "ringmpsc",
   "full_name": "boonzy00/ringmpsc",
   "description": "Lock-free MPSC channel in Zig achieving 180+ billion messages/second via ring-decomposed architecture",
-  "description_ja": "",
+  "description_ja": "リング分解アーキテクチャにより毎秒1800億メッセージ以上を実現する Zig 製ロックフリー MPSC チャネル",
   "url": "https://github.com/boonzy00/ringmpsc",
   "homepage_url": "",
   "language": "Zig",

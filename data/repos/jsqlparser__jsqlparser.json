@@ -4,7 +4,7 @@
   "name": "jsqlparser",
   "full_name": "jsqlparser/jsqlparser",
   "description": "JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern",
-  "description_ja": "",
+  "description_ja": "JSqlParserはSQL文を解析してJavaクラスの階層構造に変換する。生成された階層はVisitorパターンで操作できる",
   "url": "https://github.com/JSQLParser/JSqlParser",
   "homepage_url": "https://github.com/JSQLParser/JSqlParser/wiki",
   "language": "Java",

@@ -4,7 +4,7 @@
   "name": "burpcollaborator-docker",
   "full_name": "devoteam-cybertrust/burpcollaborator-docker",
   "description": "This repository includes a set of scripts to install a Burp Collaborator Server in a docker environment, using a LetsEncrypt wildcard certificate. The objective is to simplify as much as possible the process of setting up and maintaining the server.",
-  "description_ja": "",
+  "description_ja": "LetsEncryptのワイルドカード証明書を使用し、Docker環境にBurp Collaborator Serverをインストールするスクリプト集。サーバーのセットアップと保守をできる限り簡略化することを目的としている。",
   "url": "https://github.com/devoteam-cybertrust/burpcollaborator-docker",
   "homepage_url": "",
   "language": "Shell",

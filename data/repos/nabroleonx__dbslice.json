@@ -4,7 +4,7 @@
   "name": "dbslice",
   "full_name": "nabroleonx/dbslice",
   "description": "Extract a slice of your production database to reproduce bugs locally. Point dbslice at a record, it follows foreign keys and gives you a complete, importable subset",
-  "description_ja": "",
+  "description_ja": "本番データベースの一部を抽出してバグをローカルで再現します。レコードを指定すると dbslice が外部キーを辿り、インポート可能な完全なサブセットを生成します。",
   "url": "https://github.com/nabroleonx/dbslice",
   "homepage_url": "https://nabroleonx.github.io/dbslice/",
   "language": "Python",

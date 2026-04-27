@@ -4,7 +4,7 @@
   "name": "pyadrecon-adws",
   "full_name": "l4rm4nd/pyadrecon-adws",
   "description": "An implementation of PyADRecon using ADWS instead of LDAP. Generates individual CSV files and a single XSLX + HTML report about your AD domain. Evades EDR detections through ADWS.",
-  "description_ja": "",
+  "description_ja": "LDAPの代わりにADWSを使用したPyADReconの実装。ADドメインに関する個別CSVファイルおよびXLSX＋HTMLレポートを生成し、ADWSによりEDR検知を回避",
   "url": "https://github.com/l4rm4nd/PyADRecon-ADWS",
   "homepage_url": "https://pypi.org/project/PyADRecon-ADWS",
   "language": "Python",

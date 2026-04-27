@@ -4,7 +4,7 @@
   "name": "schema-evolution-manager",
   "full_name": "mbryzek/schema-evolution-manager",
   "description": "Schema Evolution Manager makes it very simple for engineers to contribute schema changes to a postgresql database, managing the schema evolutions as proper source code. Schema changes are deployed as gzipped tarballs named with the corresponding git tag.",
-  "description_ja": "",
+  "description_ja": "Schema Evolution Managerは、エンジニアがPostgreSQLデータベースへのスキーマ変更をソースコードとして管理しながら簡単に反映できるツール。スキーマ変更は対応するgitタグで名付けられたgzip圧縮tarballとしてデプロイされる",
   "url": "https://github.com/mbryzek/schema-evolution-manager",
   "homepage_url": "",
   "language": "Ruby",

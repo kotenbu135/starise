@@ -4,7 +4,7 @@
   "name": "wifi-deauth",
   "full_name": "flashnuke/wifi-deauth",
   "description": "A deauth attack that disconnects all devices from the target wifi network (2.4Ghz \u0026 5Ghz), WPA3 also supported (PMF not tested)",
-  "description_ja": "",
+  "description_ja": "対象WiFiネットワーク（2.4GHz・5GHz）からすべてのデバイスを切断するdeauth攻撃ツール。WPA3にも対応（PMFは未検証）",
   "url": "https://github.com/flashnuke/wifi-deauth",
   "homepage_url": "",
   "language": "Python",

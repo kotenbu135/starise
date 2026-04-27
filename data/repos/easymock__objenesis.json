@@ -4,7 +4,7 @@
   "name": "objenesis",
   "full_name": "easymock/objenesis",
   "description": "Okay, it's pretty easy to instantiate objects in Java through standard reflection. However there are many cases where you need to go beyond what reflection provides.  For example, if there's no public constructor, you want to bypass the constructor code, or set final fields.  There are numerous clever (but fiddly) approaches to getting around this and this library provides a simple way to get at them.  You will find the official site here.",
-  "description_ja": "",
+  "description_ja": "Javaでは標準リフレクションによるオブジェクトのインスタンス化は比較的容易ですが、公開コンストラクターが存在しない・コンストラクター処理をバイパスしたい・finalフィールドに値を設定したいといったケースでは、リフレクションの範囲を超えた対応が必要です。このライブラリはそうした場面向けのシンプルな解決策を提供します",
   "url": "https://github.com/easymock/objenesis",
   "homepage_url": "objenesis.org",
   "language": "Java",

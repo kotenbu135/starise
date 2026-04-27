@@ -4,7 +4,7 @@
   "name": "mocapnet",
   "full_name": "forth-modelbasedtracker/mocapnet",
   "description": "A real-time method that estimates the 3D human pose directly in the popular Bio Vision Hierarchy (BVH) format, given estimations of the 2D body joints originating from monocular color images. Our contributions include: (a) A novel and compact 2D pose NSRM representation. (b) A human body orientation classifier and an ensemble of orientation-tuned ",
-  "description_ja": "",
+  "description_ja": "単眼カラー画像から推定された2D身体関節を基に、BVH形式で3D人体姿勢をリアルタイム推定する手法。新規かつコンパクトな2DポーズNSRM表現、人体向き分類器と向き別アンサンブルモデルを提案",
   "url": "https://github.com/FORTH-ModelBasedTracker/MocapNET",
   "homepage_url": "https://www.youtube.com/watch?v=Jgz1MRq-I-k",
   "language": "C++",

@@ -4,7 +4,7 @@
   "name": "tsffs",
   "full_name": "intel/tsffs",
   "description": "A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS",
-  "description_ja": "",
+  "description_ja": "SIMICSを基盤として構築された、ソフトウェア（UEFI・カーネル・ファームウェア・BIOS）向けのスナップショット機能付きカバレッジガイドファザー",
   "url": "https://github.com/intel/tsffs",
   "homepage_url": "https://intel.github.io/tsffs/",
   "language": "Rust",

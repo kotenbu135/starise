@@ -4,7 +4,7 @@
   "name": "talosctl-oidc",
   "full_name": "qjoly/talosctl-oidc",
   "description": "OIDC certificate exchange server and client for Talos Linux. Enables OIDC-based access control for talosctl by issuing ephemeral short-lived client certificates signed by the Talos CA.",
-  "description_ja": "",
+  "description_ja": "Talos Linux向けのOIDC証明書交換サーバーおよびクライアント。Talos CAが署名した短命の一時クライアント証明書を発行することで、talosctlのOIDCベースアクセス制御を可能にする。",
   "url": "https://github.com/qjoly/talosctl-oidc",
   "homepage_url": "",
   "language": "Go",

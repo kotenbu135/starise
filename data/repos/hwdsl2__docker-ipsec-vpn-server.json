@@ -4,7 +4,7 @@
   "name": "docker-ipsec-vpn-server",
   "full_name": "hwdsl2/docker-ipsec-vpn-server",
   "description": "Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2. Auto-generates server config and supports VPN client setup on Linux, Windows, macOS, iOS and Android.",
-  "description_ja": "",
+  "description_ja": "IPsec/L2TP、Cisco IPsec、IKEv2 対応の IPsec VPN サーバーを起動する Docker イメージ。サーバー設定を自動生成し、Linux・Windows・macOS・iOS・Android での VPN クライアントセットアップをサポート。",
   "url": "https://github.com/hwdsl2/docker-ipsec-vpn-server",
   "homepage_url": "https://hub.docker.com/r/hwdsl2/ipsec-vpn-server",
   "language": "Shell",

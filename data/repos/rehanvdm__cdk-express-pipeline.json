@@ -4,7 +4,7 @@
   "name": "cdk-express-pipeline",
   "full_name": "rehanvdm/cdk-express-pipeline",
   "description": "CDK Express Pipelines is a library built on the AWS CDK, allowing you to define pipelines in a CDK-native method. It leverages the CDK CLI to compute and deploy the correct dependency graph between Waves, Stages, and Stacks using the .addDependency method, making it build-system agnostic and an alternative to AWS CDK Pipelines.",
-  "description_ja": "",
+  "description_ja": "CDK Express Pipelines は AWS CDK 上に構築されたライブラリで、CDK ネイティブな方法でパイプラインを定義できます。CDK CLI を活用して Wave・Stage・Stack 間の正しい依存グラフを .addDependency メソッドで計算・デプロイし、ビルドシステムに依存しない AWS CDK Pipelines の代替手段です。",
   "url": "https://github.com/rehanvdm/cdk-express-pipeline",
   "homepage_url": "https://rehanvdm.github.io/cdk-express-pipeline/",
   "language": "TypeScript",

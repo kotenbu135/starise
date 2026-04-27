@@ -4,7 +4,7 @@
   "name": "shinode",
   "full_name": "vicnaum/shinode",
   "description": "Lightweight Ethereum history node — syncs headers, receipts \u0026 logs from P2P, serves eth_getLogs RPC. No EVM, no state trie. Full mainnet in ~6h.",
-  "description_ja": "",
+  "description_ja": "軽量Ethereumヒストリーノード — P2Pからヘッダーやレシートおよびログを同期し、eth_getLogs RPCを提供。EVM不要、状態トライ不要。メインネット全体を約6時間で同期",
   "url": "https://github.com/vicnaum/shinode",
   "homepage_url": "https://shinode.rs/",
   "language": "Rust",

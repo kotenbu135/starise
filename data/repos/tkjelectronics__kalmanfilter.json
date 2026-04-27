@@ -4,7 +4,7 @@
   "name": "kalmanfilter",
   "full_name": "tkjelectronics/kalmanfilter",
   "description": "This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer and a gyroscope.",
-  "description_ja": "",
+  "description_ja": "加速度計・磁気センサーおよびジャイロスコープの入力から角度・角速度・バイアスを算出するカルマンフィルター",
   "url": "https://github.com/TKJElectronics/KalmanFilter",
   "homepage_url": "http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it",
   "language": "C++",

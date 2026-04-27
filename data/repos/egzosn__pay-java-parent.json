@@ -4,7 +4,7 @@
   "name": "pay-java-parent",
   "full_name": "egzosn/pay-java-parent",
   "description": "第三方支付对接全能支付Java开发工具包.优雅的轻量级支付模块集成支付对接支付整合（微信,支付宝,银联,友店,富友,跨境支付paypal,payoneer(P卡派安盈)易极付）app,扫码,网页刷脸付刷卡付条码付转账服务商模式,微信分账,微信合单支付、支持多种支付类型多支付账户，支付与业务完全剥离，简单几行代码即可实现支付，简单快速完成支付模块的开发，可轻松嵌入到任何系统里 目前仅是一个开发工具包（即SDK），只提供简单Web实现，建议使用maven或gradle引用本项目即可使用本SDK提供的各种支付相关的功能",
-  "description_ja": "",
+  "description_ja": "サードパーティ決済連携オールインワン Java 開発キット。WeChat Pay、Alipay、銀聯、YouDian、FuYou、越境決済 PayPal・Payoneer(Pカード)・YiJiFu に対応。アプリ決済、QRコード、Web、顔認証、カード、バーコード、振込、サービスプロバイダーモード、WeChat 分割支払い、WeChat 合算支払いをサポート。複数の支払いタイプ・決済アカウントに対応し、決済とビジネスロジックを完全分離。数行のコードで決済機能を実装でき、任意のシステムへ容易に組み込み可能。現在は SDK（開発ツールキット）のみで、シンプルな Web 実装を提供。Maven または Gradle での依存追加を推奨。",
   "url": "https://github.com/egzosn/pay-java-parent",
   "homepage_url": "",
   "language": "Java",

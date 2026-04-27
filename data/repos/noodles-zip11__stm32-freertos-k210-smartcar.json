@@ -4,7 +4,7 @@
   "name": "stm32-freertos-k210-smartcar",
   "full_name": "noodles-zip11/stm32-freertos-k210-smartcar",
   "description": "一个基于 STM32 和 FreeRTOS 的智能小车项目。结合 K210 视觉模块实现色块追踪与自动循迹，具备 PID 闭环控制、异构多核串口通信及 OLED 多级菜单交互功能。",
-  "description_ja": "",
+  "description_ja": "STM32とFreeRTOSをベースにしたスマートカープロジェクト。K210ビジョンモジュールを組み合わせて色ブロック追跡と自動ライントレースを実現し、PIDフィードバック制御、異種マルチコアシリアル通信、OLEDマルチレベルメニューインタラクション機能を備える。",
   "url": "https://github.com/noodles-zip11/STM32-FreeRTOS-K210-SmartCar",
   "homepage_url": "",
   "language": "C",

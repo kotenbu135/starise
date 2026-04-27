@@ -4,7 +4,7 @@
   "name": "goxe",
   "full_name": "dumbnoxx/goxe",
   "description": "goxe is a log reduction tool written in go. it normalizes, filters, and aggregates repeated messages. the result is less noise, lower bandwidth, and cheaper storage without losing visibility into recurring issues.",
-  "description_ja": "",
+  "description_ja": "goxeはGoで書かれたログ削減ツールです。繰り返されるメッセージを正規化・フィルタリング・集約することで、ノイズを低減し、帯域幅とストレージコストを削減しながら、繰り返し発生する問題への視認性を維持します。",
   "url": "https://github.com/DumbNoxx/goxe",
   "homepage_url": "https://dumbnoxx.github.io/goxe-doc",
   "language": "Go",

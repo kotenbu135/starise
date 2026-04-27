@@ -4,7 +4,7 @@
   "name": "weave",
   "full_name": "ataraxy-labs/weave",
   "description": "Entity-level git merge driver. Resolves false conflicts git invents when independent agents edit the same file. ~95% reduction vs. line-based merge.",
-  "description_ja": "",
+  "description_ja": "エンティティレベルの git マージドライバー。独立したエージェントが同一ファイルを編集した際に git が生み出す偽の競合を解消。行ベースのマージと比べ競合を約 95% 削減。",
   "url": "https://github.com/Ataraxy-Labs/weave",
   "homepage_url": "https://ataraxy-labs.com/weave",
   "language": "Rust",

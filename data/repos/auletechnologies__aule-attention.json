@@ -4,7 +4,7 @@
   "name": "aule-attention",
   "full_name": "auletechnologies/aule-attention",
   "description": "High-performance FlashAttention-2 for AMD, Intel, and Apple GPUs. Drop-in replacement for PyTorch SDPA. Triton backend for ROCm (MI300X, RDNA3), Vulkan backend for consumer GPUs. No CUDA required.",
-  "description_ja": "",
+  "description_ja": "AMD・Intel・Apple GPU向けの高性能FlashAttention-2。PyTorch SDPAのドロップイン代替。ROCm（MI300X、RDNA3）向けTritonバックエンド、コンシューマーGPU向けVulkanバックエンド。CUDA不要。",
   "url": "https://github.com/AuleTechnologies/Aule-Attention",
   "homepage_url": "https://auletechnologies.com",
   "language": "Zig",

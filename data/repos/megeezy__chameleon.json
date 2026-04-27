@@ -4,7 +4,7 @@
   "name": "chameleon",
   "full_name": "megeezy/chameleon",
   "description": "Stateless LLM runtime that dynamically routes, loads, executes, and unloads models per request with bounded VRAM caching and intelligent model selection.",
-  "description_ja": "",
+  "description_ja": "リクエストごとにモデルを動的にルーティング・ロード・実行・アンロードし、VRAMキャッシュを制限してインテリジェントなモデル選択を行うステートレスLLMランタイム",
   "url": "https://github.com/megeezy/Chameleon",
   "homepage_url": "",
   "language": "Rust",

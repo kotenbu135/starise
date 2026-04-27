@@ -4,7 +4,7 @@
   "name": "upload_auto_fuzz",
   "full_name": "t3nk0/upload_auto_fuzz",
   "description": "一个用于测试文件上传功能安全性的 Burp Suite 插件。通过 Intruder 模块自动生成各类绕过 payload，覆盖常见的文件上传限制场景。共1000+条payload",
-  "description_ja": "",
+  "description_ja": "ファイルアップロード機能のセキュリティをテストするための Burp Suite プラグイン。Intruder モジュールで各種バイパス payload を自動生成し、一般的なファイルアップロード制限シナリオをカバー。1000 件以上の payload を収録。",
   "url": "https://github.com/T3nk0/Upload_Auto_Fuzz",
   "homepage_url": "",
   "language": "Python",

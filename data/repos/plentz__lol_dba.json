@@ -4,7 +4,7 @@
   "name": "lol_dba",
   "full_name": "plentz/lol_dba",
   "description": "lol_dba is a small package of rake tasks that scan your application models and displays a list of columns that probably should be indexed. Also, it can generate .sql migration scripts.",
-  "description_ja": "",
+  "description_ja": "lol_dba は、アプリケーションのモデルをスキャンしてインデックスが必要と思われるカラムを一覧表示する rake タスクの小パッケージです。また、.sql マイグレーションスクリプトの生成も可能です。",
   "url": "https://github.com/plentz/lol_dba",
   "homepage_url": "",
   "language": "Ruby",

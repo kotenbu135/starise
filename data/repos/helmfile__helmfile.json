@@ -4,7 +4,7 @@
   "name": "helmfile",
   "full_name": "helmfile/helmfile",
   "description": "Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.",
-  "description_ja": "",
+  "description_ja": "Kubernetes マニフェスト・Kustomize 設定・チャートを Helm リリースとして宣言的にデプロイ。ArgoCD 向けのオールインワンマニフェストも生成可能。",
   "url": "https://github.com/helmfile/helmfile",
   "homepage_url": "https://helmfile.readthedocs.io",
   "language": "Go",

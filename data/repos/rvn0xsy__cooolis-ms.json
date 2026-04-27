@@ -4,7 +4,7 @@
   "name": "cooolis-ms",
   "full_name": "rvn0xsy/cooolis-ms",
   "description": "Cooolis-ms是一个包含了Metasploit Payload Loader、Cobalt Strike External C2 Loader、Reflective DLL injection的代码执行工具，它的定位在于能够在静态查杀上规避一些我们将要执行且含有特征的代码，帮助红队人员更方便快捷的从Web容器环境切换到C2环境进一步进行工作。",
-  "description_ja": "",
+  "description_ja": "Cooolis-ms は、Metasploit Payload Loader・Cobalt Strike External C2 Loader・Reflective DLL インジェクションを含むコード実行ツールです。静的検知を回避しながら特徴的なコードを実行するための位置づけで、レッドチームメンバーが Web コンテナ環境から C2 環境へ迅速かつ容易に移行して作業を継続するのを支援します。",
   "url": "https://github.com/Rvn0xsy/Cooolis-ms",
   "homepage_url": "https://rvn0xsy.github.io/Cooolis-ms",
   "language": "C++",
