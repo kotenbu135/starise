@@ -1,0 +1,6 @@
+{
+  "src": "SwiftUI-Backports makes it easy to use the latest SwiftUI modifier, like those introduced in iOS 26, while still supporting older iOS versions. With a simple .backport modifier, you can write modern SwiftUI code without wrapping every new API in #available checks. It’s lightweight, drop-in ready, and keeps your UI code clean and future-proof.",
+  "ja": "SwiftUI-Backportsは、iOS 26で導入されたような最新のSwiftUIモディファイアを古いiOSバージョンのサポートを維持しながら簡単に使えるようにします。シンプルな.backportモディファイアで、すべての新しいAPIを#availableチェックで囲むことなくモダンなSwiftUIコードが書けます。軽量でドロップイン対応、UIコードをクリーンかつ将来性のある状態に保ちます。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T01:37:11Z"
+}
