@@ -1,0 +1,6 @@
+{
+  "src": "基于EF Core的Code First模式的DotNetCore快速开发框架，其中包括DBContext、IOC组件autofac和AspectCore.Injector、代码生成器（也支持DB First）、基于AspectCore的memcache和Redis缓存组件，以及基于ICanPay的支付库和一些日常用的方法和扩展，比如批量插入、更新、删除以及触发器支持，当然还有demo。欢迎提交各种建议、意见和pr~",
+  "ja": "EF CoreのCode Firstモードをベースにした、DotNetCoreによる高速開発フレームワーク。DBContext、IOCコンポーネント（autofacおよびAspectCore.Injector）、コードジェネレーター（DB Firstもサポート）、AspectCoreベースのmemcacheおよびRedisキャッシュコンポーネント、ICanPayベースの決済ライブラリ、バルク挿入・更新・削除やトリガーサポートなどの便利なメソッドと拡張機能、さらにデモを含む",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T06:21:55Z"
+}
