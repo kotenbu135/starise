@@ -1,0 +1,6 @@
+{
+  "src": "MCPCAN is a centralized management platform for MCP services. It deploys each MCP service using a container deployment method. The platform supports container monitoring and MCP service token verification, solving security risks and enabling rapid deployment of MCP services. It uses SSE, STDIO, and STREAMABLEHTTP access protocols to deploy MCP。",
+  "ja": "MCPCANはMCPサービスの集中管理プラットフォームです。各MCPサービスをコンテナ形式でデプロイし、コンテナ監視とMCPサービスのトークン検証をサポートすることで、セキュリティリスクの解消とMCPサービスの迅速なデプロイを実現します。SSE・STDIO・STREAMABLEHTTPアクセスプロトコルを使用してMCPをデプロイします",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T11:28:58Z"
+}

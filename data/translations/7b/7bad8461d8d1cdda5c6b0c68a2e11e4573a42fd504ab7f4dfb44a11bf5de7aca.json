@@ -1,0 +1,6 @@
+{
+  "src": "A K8s controller that watches your cluster for failures and opens pull requests on your GitOps repository with fixes. Security is a first class citizen, and it runs in-cluster with read-only RBAC, redacts secrets before they reach LLM, and requires human-in-the-loop. Formerly known as k8s-mendabot",
+  "ja": "クラスターの障害を監視してGitOpsリポジトリに修正のpull requestを自動作成するK8sコントローラー。読み取り専用RBACでクラスター内動作し、LLMに渡す前にシークレットを除去、human-in-the-loopが必要。旧称：k8s-mendabot",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T11:31:57Z"
+}

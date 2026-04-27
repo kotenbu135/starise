@@ -1,0 +1,6 @@
+{
+  "src": "Extract one time password (OTP) secrets from QR codes exported by two-factor authentication (2FA) apps such as \"Google Authenticator\". The exported QR codes from authentication apps can be captured by camera, read from images, or read from text files. The secrets can be exported to JSON or CSV, or printed as QR codes to console.",
+  "ja": "「Google Authenticator」などの二要素認証（2FA）アプリがエクスポートした QR コードからワンタイムパスワード（OTP）シークレットを抽出します。QR コードはカメラ撮影・画像ファイル・テキストファイルから読み取り可能。シークレットは JSON や CSV にエクスポートしたり、QR コードとしてコンソールに表示したりできます。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T01:21:56Z"
+}

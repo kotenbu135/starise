@@ -1,0 +1,6 @@
+{
+  "src": "Extract a slice of your production database to reproduce bugs locally. Point dbslice at a record, it follows foreign keys and gives you a complete, importable subset",
+  "ja": "本番データベースの一部を抽出してバグをローカルで再現します。レコードを指定すると dbslice が外部キーを辿り、インポート可能な完全なサブセットを生成します。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T11:54:50Z"
+}

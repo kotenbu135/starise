@@ -1,0 +1,6 @@
+{
+  "src": "RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 \"Goose\". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.",
+  "ja": "RWKV（「RwaKuv」と読む）は、優れたLLMパフォーマンスを持つRNNであり、GPTトランスフォーマーのように直接並列学習も可能です。現在RWKV-7「Goose」を公開中。RNNとトランスフォーマーの長所を兼ね備え、高性能・線形時間・一定メモリ（KVキャッシュ不要）・高速学習・無限コンテキスト長・文埋め込みを実現しています。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:33:21Z"
+}

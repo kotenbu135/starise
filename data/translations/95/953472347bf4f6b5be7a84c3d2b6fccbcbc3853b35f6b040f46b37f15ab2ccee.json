@@ -1,0 +1,6 @@
+{
+  "src": "Enables AdAway and similar hosts-based ad blockers to work on KernelSU, KernelSU Next, SukiSU, APatch, and their variants by managing /system/etc/hosts via bind mount and overlay.",
+  "ja": "バインドマウントとオーバーレイで /system/etc/hosts を管理することで、AdAway などのホストベース広告ブロッカーを KernelSU・KernelSU Next・SukiSU・APatch およびそれらの派生版で動作させる",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:55:17Z"
+}

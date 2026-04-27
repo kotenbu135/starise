@@ -1,0 +1,6 @@
+{
+  "src": "Demonstrates that NvAPI_D3D11_WksReadScanout (undocumented, interface 0xBCB1C536) can read the GPU scanout buffer directly, bypassing any overlay or render-target protection that anti-cheat software applies at the application level.",
+  "ja": "NvAPI_D3D11_WksReadScanout（非公開、インターフェース0xBCB1C536）がGPUスキャンアウトバッファーを直接読み取り、アンチチートソフトウェアがアプリケーションレベルで適用するオーバーレイやレンダーターゲット保護を回避できることを実証するデモ",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T06:10:53Z"
+}

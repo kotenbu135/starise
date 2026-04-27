@@ -1,0 +1,6 @@
+{
+  "src": "A Flutter mobile app that scans documents with the device camera, extracts text via on-device OCR (Google ML Kit), parses the combined text into structured fields, and writes the result to Google Sheets. Includes an in-app Sheets viewer to browse and manage saved scans.",
+  "ja": "デバイスカメラでドキュメントをスキャンし、オンデバイスOCR（Google ML Kit）でテキストを抽出、統合テキストを構造化フィールドに解析してGoogle Sheetsに書き込むFlutterモバイルアプリ。保存したスキャンを閲覧・管理するアプリ内Sheetsビューアを搭載。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:27:26Z"
+}

@@ -1,0 +1,6 @@
+{
+  "src": "To solve the decoder bottleneck in sparse 3D occupancy prediction, we propose SPOT-Occ. It uses a prototype-based sparse Transformer decoder, replacing costly dense attention with a \"guided selection + focused aggregation\" process. Queries focus on a small set of key \"prototypes\". The final model is significantly faster and more accurate.",
+  "ja": "スパース3D占有予測のデコーダボトルネック解消に向けたSPOT-Occ。プロトタイプベースのスパースTransformerデコーダを採用し、コストの高い密なアテンションを「ガイド付き選択＋集中的集約」プロセスで置換。クエリは少数のキー「プロトタイプ」に集中し、最終モデルは大幅な高速化と精度向上を実現",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:42:08Z"
+}

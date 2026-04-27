@@ -1,0 +1,6 @@
+{
+  "src": "Telescope Guzzle Watcher provide a custom watcher for intercepting http requests made via guzzlehttp/guzzle php library. The package uses the on_stats request option for extracting the request/response data. The watcher intercept and log the request into the Laravel Telescope HTTP Client Watcher.",
+  "ja": "Telescope Guzzle Watcher は、guzzlehttp/guzzle PHP ライブラリ経由の HTTP リクエストを傍受するカスタムウォッチャーです。on_stats リクエストオプションでリクエスト/レスポンスデータを抽出し、Laravel Telescope の HTTP Client Watcher にリクエストを記録します。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T06:27:32Z"
+}

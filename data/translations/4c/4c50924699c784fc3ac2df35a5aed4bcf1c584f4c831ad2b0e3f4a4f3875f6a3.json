@@ -1,0 +1,6 @@
+{
+  "src": "Store any user state in query parameters; imagine JSON in a browser URL, while keeping types and structure of data, e.g.numbers will be decoded as numbers not strings. With TS validation. Shared state and URL state sync without any hassle or boilerplate. Supports Next.js@14-16, react-router@6-7, and Remix@2.",
+  "ja": "クエリパラメータに任意のユーザー状態を保存。型と構造を維持したままブラウザURLにJSONを格納（例：数値は文字列でなく数値としてデコード）。TSバリデーション対応。手間やボイラープレートなしで共有状態とURL状態を同期。Next.js@14-16、react-router@6-7、Remix@2をサポート。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:24:23Z"
+}

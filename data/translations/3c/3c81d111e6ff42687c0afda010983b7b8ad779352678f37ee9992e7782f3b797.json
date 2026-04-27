@@ -1,0 +1,6 @@
+{
+  "src": "Fixes compatibility issues with older games running on Windows 10/11 by wrapping DirectX dlls.  Also allows loading custom libraries with the file extension .asi into game processes.",
+  "ja": "DirectX DLLをラップしてWindows 10/11上で動作する旧世代ゲームの互換性問題を修正。.asi拡張子のカスタムライブラリをゲームプロセスへロード可能。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T01:04:49Z"
+}

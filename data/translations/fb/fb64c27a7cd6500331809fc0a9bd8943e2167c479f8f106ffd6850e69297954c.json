@@ -1,0 +1,6 @@
+{
+  "src": "Local code search combining BM25, vector similarity, and cross-encoder reranking. Parses 60+ languages with tree-sitter, runs entirely offline, and returns structured results with file paths, line ranges, and symbol metadata. Built in Rust.",
+  "ja": "BM25・ベクター類似度・cross-encoderリランキングを組み合わせたローカルコード検索。tree-sitterで60以上の言語を解析し、完全オフラインで動作し、ファイルパス・行範囲・シンボルメタデータを含む構造化された結果を返す。Rust製。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T11:31:57Z"
+}

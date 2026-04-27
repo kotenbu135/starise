@@ -1,0 +1,6 @@
+{
+  "src": "A terminating Apollo Link for Apollo Client that fetches a GraphQL multipart request if the GraphQL variables contain files (by default FileList, File, or Blob instances), or else fetches a regular GraphQL POST or GET request (depending on the config and GraphQL operation).",
+  "ja": "GraphQL変数にファイル（デフォルトでFileList、File、またはBlobインスタンス）が含まれる場合はGraphQLマルチパートリクエストを送信し、それ以外はconfigとGraphQL操作に応じて通常のGRaphQL POSTまたはGETリクエストを送信する、Apollo Client向けの終端Apollo Link。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T06:37:23Z"
+}

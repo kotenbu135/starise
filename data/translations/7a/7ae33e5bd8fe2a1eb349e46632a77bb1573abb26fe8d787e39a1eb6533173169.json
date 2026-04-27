@@ -1,0 +1,6 @@
+{
+  "src": "Adaptive Weight Scheduling for Multi-Objective GRPO in Code Generation. Fixed multi-objective rewards cause reward hacking (short but broken code). Our curriculum approach—correctness first, then gradually adding efficiency/brevity—preserves 81.7% HumanEval while generating 11% shorter code.",
+  "ja": "コード生成における多目的GRPOの適応的重みスケジューリング。固定された多目的報酬は報酬ハッキング（短いが壊れたコード）を引き起こす。正確性を優先し徐々に効率性・簡潔性を加える課程学習アプローチにより、HumanEvalの81.7%を維持しつつ11%短いコードを生成。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T11:53:56Z"
+}

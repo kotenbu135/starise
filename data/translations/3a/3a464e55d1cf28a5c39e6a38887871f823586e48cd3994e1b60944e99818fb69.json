@@ -1,0 +1,6 @@
+{
+  "src": "Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\\NBT\\DNS\\MAC\\SMB\\WMI\\SSH\\HTTP\\HTTPS\\Exchange\\mssql\\FTP\\RDP)或方法快速获取目标网络存活主机IP、计算机名、工作组、共享资源、网卡地址、操作系统版本、网站、子域名、中间件、开放服务、路由器、交换机、数据库、打印机等，大量高危漏洞检测模块MS17010、Zimbra、Exchange",
+  "ja": "Ladon：PowerShell・Cobalt Strikeプラグイン対応の大規模内部ネットワーク侵入スキャナー。メモリロード、ファイルレススキャン、ポートスキャン、サービス識別、ネットワーク資産探索、パスワード監査、高危険度脆弱性検出、脆弱性悪用、パスワード読み取り、ワンクリックGetShellを搭載。A/B/Cセグメントおよびクロスセグメントスキャンに対応し、32種のプロトコル（ICMP/NBT/DNS/MAC/SMB/WMI/SSH/HTTP/HTTPS/Exchange/MSSQL/FTP/RDP）で生存ホストIP・コンピュータ名・ワークグループ・共有リソース・MACアドレス・OSバージョン・Webサイト・サブドメイン・ミドルウェア・開放サービス・ルーター・スイッチ・データベース・プリンターなどを取得。MS17010・Zimbra・Exchangeなどの脆弱性検出モジュールも搭載。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T11:22:03Z"
+}

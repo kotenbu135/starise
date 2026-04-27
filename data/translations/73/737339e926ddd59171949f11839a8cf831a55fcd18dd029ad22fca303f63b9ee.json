@@ -1,0 +1,6 @@
+{
+  "src": "MoonGen is a fully scriptable high-speed packet generator built on DPDK and LuaJIT. It can saturate a 10 Gbit/s connection with 64 byte packets on a single CPU core while executing user-provided Lua scripts for each packet. Multi-core support allows for even higher rates. It also features precise and accurate timestamping and rate control.",
+  "ja": "MoonGenはDPDKとLuaJIT上に構築された完全スクリプタブルな高速パケットジェネレータです。シングルCPUコアで64バイトパケットを使用した10 Gbit/s接続を飽和させながら、各パケットに対してユーザー提供のLuaスクリプトを実行できます。マルチコアサポートによりさらに高いレートが実現可能で、高精度なタイムスタンプとレート制御機能も備えています。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T01:05:54Z"
+}

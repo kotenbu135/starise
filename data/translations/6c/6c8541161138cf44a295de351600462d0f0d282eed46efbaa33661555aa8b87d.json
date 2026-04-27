@@ -1,0 +1,6 @@
+{
+  "src": "剧本分镜智能体（PenShot）：剧本/短剧/小说→分镜→片段→prompt | 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词。保持角色/剧情跨片段一致，支持 MCP/REST API/函数调用 | Python库 + A2A集成。（LLM-powered screenplay-to-video-prompt agent. Break scripts into Sora/Veo-ready shots with character consistency）",
+  "ja": "脚本絵コンテエージェント（PenShot）：脚本/短編ドラマ/小説→絵コンテ→シーン→プロンプト | LangGraph+LLM ベースで任意形式の脚本を自動解析し、Sora/Veo/Runway 等のモデルで使用可能な一貫した text-to-video プロンプトを生成。キャラクターとストーリーのシーン間一貫性を維持し、MCP/REST API/関数呼び出しをサポート | Python ライブラリ + A2A 統合。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T11:55:19Z"
+}

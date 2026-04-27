@@ -1,0 +1,6 @@
+{
+  "src": "A set of formatters for text and input fields. Not only it can format a phone number but also automatically detect a country dial code and the name of the country. It also can apply formatting for currencies e.g. you need to convert 100000 into a USD currency value representation. Add MoneyInputFormatter and you can get it e.g. like: $100,000.00 right on the fly or whatever you need. Just see the example of usage",
+  "ja": "テキストおよび入力フィールド向けのフォーマッター集。電話番号のフォーマットだけでなく、国際電話番号コードや国名の自動検出も可能。通貨フォーマットにも対応し、MoneyInputFormatterを追加するとリアルタイムで$100,000.00のような形式に変換できます",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:39:48Z"
+}

@@ -1,0 +1,6 @@
+{
+  "src": "JPF is an extensible software analysis framework for Java bytecode. jpf-core is the basis for all JPF projects; you always need to install it. It contains the basic VM and model checking infrastructure, and can be used to check for concurrency defects like deadlocks, and unhandled exceptions like NullPointerExceptions and AssertionErrors.",
+  "ja": "JPF は Java バイトコード向けの拡張可能なソフトウェア解析フレームワークです。jpf-core はすべての JPF プロジェクトの基盤であり、常にインストールが必要です。基本的な VM とモデル検査インフラを含み、デッドロックなどの並行処理の欠陥や、NullPointerException・AssertionError などの未処理例外の検出に使用できます。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T06:37:36Z"
+}

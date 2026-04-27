@@ -1,0 +1,6 @@
+{
+  "src": "FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio 网页，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。",
+  "ja": "FastAPI + Playwright + Camoufoxを用いた中間プロキシサーバー。OpenAI API互換でパラメーター転送をサポート。ブラウザ自動化によりAPIリクエストをGoogle AI Studioウェブページへ転送し、OpenAI標準フォーマットでレスポンスを返すツール。デバッグ用WebUIパネル内蔵。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T00:43:20Z"
+}

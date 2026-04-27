@@ -1,0 +1,6 @@
+{
+  "src": "Middleware for Starlette that allows you to store and access the context data of a request. Can be used with logging so logs automatically use request headers such as x-request-id or x-correlation-id.",
+  "ja": "リクエストのコンテキストデータを保存・参照できるStarletteミドルウェア。x-request-idやx-correlation-idなどのリクエストヘッダーをログで自動的に使用できます。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T06:14:18Z"
+}

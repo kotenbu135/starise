@@ -1,0 +1,6 @@
+{
+  "src": "A OPC UA gateway which gives you access to your OPC UA values via MQTT or GraphQL (HTTP). If you have an OPC UA server in your PLC, or a SCADA system with an OPC UA server, you can query data from there via MQTT and GraphQL (HTTP). In addition, the gateway can also log value changes from OPC UA nodes in an InfluxDB, IoTDB, Kafka, and others.",
+  "ja": "MQTTまたはGraphQL（HTTP）経由でOPC UAの値にアクセスできるOPC UAゲートウェイ。PLCやSCADAシステム上のOPC UAサーバーからMQTTおよびGraphQL（HTTP）でデータを取得可能。さらに、OPC UAノードの値変化をInfluxDB、IoTDB、Kafkaなどに記録することもできます。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T06:27:11Z"
+}

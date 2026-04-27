@@ -1,0 +1,6 @@
+{
+  "src": "K8s 集群证书过期处理，更新 kubeadm 生成的证书有效期为 10 年; 为新集群生成 100 年证书支持全部版本。A tool to update and extend Kubernetes certificate expiration dates to 10 years. Generate 100 years certificates for new Kubernetes cluster",
+  "ja": "Kubernetesクラスターのkubeadmが生成した証明書の有効期限を10年に更新し、新規クラスター向けに100年証明書を生成する全バージョン対応ツール",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T06:39:00Z"
+}

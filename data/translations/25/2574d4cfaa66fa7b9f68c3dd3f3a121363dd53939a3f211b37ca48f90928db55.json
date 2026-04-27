@@ -1,0 +1,6 @@
+{
+  "src": "解析MySQL binlog ，可以生成原始SQL、回滚SQL、去除主键的INSERT SQL等，也可以生成DML统计信息以及大事务分析信息。",
+  "ja": "MySQL binlogを解析し、元のSQL・ロールバックSQL・主キーなしのINSERT SQLの生成、DML統計情報や大規模トランザクション解析情報の出力が可能",
+  "provider": "claude-code",
+  "translated_at": "2026-04-26T11:34:35Z"
+}

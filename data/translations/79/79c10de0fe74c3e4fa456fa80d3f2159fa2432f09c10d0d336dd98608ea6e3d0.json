@@ -1,0 +1,6 @@
+{
+  "src": "This custom_node for ComfyUI adds one-click \"Virtual VRAM\" for any UNet and CLIP loader as well MultiGPU integration in WanVideoWrapper, managing the offload/Block Swap of layers to DRAM *or* VRAM to maximize the latent space of your card. Also includes nodes for directly loading entire components (UNet, CLIP, VAE) onto the device you choose",
+  "ja": "ComfyUI向けカスタムノード。あらゆるUNetとCLIPローダーにワンクリックで「仮想VRAM」を追加し、WanVideoWrapperでのマルチGPU統合も実現。DRAMまたはVRAMへのレイヤーオフロード/ブロックスワップを管理し、カードの潜在空間を最大化します。UNet・CLIP・VAEをお好みのデバイスに直接ロードするノードも含みます。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T01:03:22Z"
+}
