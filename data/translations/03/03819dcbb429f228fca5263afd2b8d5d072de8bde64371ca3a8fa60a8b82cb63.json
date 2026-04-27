@@ -1,0 +1,6 @@
+{
+  "src": "Visualisations of data are at the core of every publication of scientific research results. They have to be as clear as possible to facilitate the communication of research. As data can have different formats and shapes, the visualisations often have to be adapted to reflect the data as well as possible. We developed Pylustrator, an interface to directly edit python generated matplotlib graphs to finalize them for publication. Therefore, subplots can be resized and dragged around by the mouse, text and annotations can be added. The changes can be saved to the initial plot file as python code.",
+  "ja": "科学研究結果の出版においてデータの可視化は中心的役割を担います。Pylustrator は、Python で生成した matplotlib グラフをマウスで直接編集して出版用に仕上げるインターフェースです。サブプロットのリサイズ・ドラッグ、テキストや注釈の追加が可能で、変更内容は Python コードとして元のプロットファイルに保存されます。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T01:13:12Z"
+}
