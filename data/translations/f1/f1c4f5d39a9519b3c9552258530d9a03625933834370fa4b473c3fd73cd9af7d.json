@@ -1,0 +1,6 @@
+{
+  "src": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and writes. Using Neo4j Bolt/Cypher and qdrant's gRPC means you can switch with no changes. Then, adding intelligent features like schemas, managed embeddings, LLM reranking+inferrence, GPU accel, Auto-TLP, Memory Decay, and MCP server.",
+  "ja": "Nornicdbは、サブミリ秒のHNSW検索、グラフトラバーサル、書き込みをすべて備えた分散低遅延のGraph+Vector、Temporal MVCCデータベースです。Neo4j Bolt/CypherとqdrantのgRPCを使用するため変更なしで切り替え可能。さらに、スキーマ、マネージドエンベディング、LLMリランキング+推論、GPUアクセラレーション、Auto-TLP、Memory Decay、MCPサーバーなどのインテリジェント機能を備えています。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T00:54:44Z"
+}

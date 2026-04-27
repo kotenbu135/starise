@@ -1,0 +1,6 @@
+{
+  "src": "OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually exploitable, it’s a fair test for any kind of vulnerability detection tool.  For more details on this project, please see the OWASP Benchmark Project home page.",
+  "ja": "OWASP Benchmarkは、ソフトウェア脆弱性検出ツールの速度と精度を検証するために設計されたテストスイートです。Javaで書かれた完全実行可能なWebアプリで、JavaをサポートするStatic（SAST）、Dynamic（DAST）、Runtime（IAST）ツールによる解析に対応します。完全に実行可能で全脆弱性が実際に悪用可能なため、あらゆる脆弱性検出ツールへの公平なテストとなっています。詳細はOWASP Benchmarkプロジェクトのホームページをご覧ください。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T00:55:14Z"
+}
