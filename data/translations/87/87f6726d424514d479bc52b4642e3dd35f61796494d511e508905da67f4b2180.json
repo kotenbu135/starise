@@ -1,0 +1,6 @@
+{
+  "src": "A wrapper for HttpClient that caches to disk. Cached files, over the max specified, are deleted based on the last access times.",
+  "ja": "ディスクにキャッシュするHttpClientのラッパー。最大指定数を超えたキャッシュファイルは最終アクセス時刻に基づいて削除される",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T01:27:30Z"
+}
