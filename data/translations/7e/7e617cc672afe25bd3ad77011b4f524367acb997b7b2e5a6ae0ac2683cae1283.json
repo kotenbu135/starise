@@ -1,0 +1,6 @@
+{
+  "src": "💀 PHP unused code detection via PHPStan extension. Detects dead cycles, supports libs like Laravel, Symfony, Twig, Doctrine, PHPUnit etc. Can automatically remove dead PHP code. Able to detect dead code used only in tests. Finds unused methods, constants, properties and enum cases.",
+  "ja": "💀 PHPStan拡張によるPHP未使用コード検出。デッドサイクルを検出し、Laravel・Symfony・Twig・Doctrine・PHPUnitなどのライブラリをサポート。デッドなPHPコードの自動削除も可能。テストのみで使用されているデッドコードの検出にも対応。未使用のメソッド・定数・プロパティ・enumケースを発見。",
+  "provider": "claude-code",
+  "translated_at": "2026-04-27T01:24:47Z"
+}
