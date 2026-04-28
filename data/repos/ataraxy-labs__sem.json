@@ -6,7 +6,7 @@
   "description": "Semantic version control — entity-level diffs, blame, and impact analysis on top of git. 26 languages via tree-sitter. Built for coding agents.",
   "description_ja": "セマンティックバージョン管理 — git 上でエンティティレベルの差分・blame・影響分析を実現。tree-sitter で 26 言語対応。コーディングエージェント向けに構築。",
   "url": "https://github.com/Ataraxy-Labs/sem",
-  "homepage_url": "https://ataraxy-labs.com/sem",
+  "homepage_url": "https://ataraxy-labs.github.io/sem/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -21,13 +21,13 @@
     "typescript",
     "version-control"
   ],
-  "star_count": 1897,
-  "fork_count": 51,
+  "star_count": 1912,
+  "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T19:49:35Z",
-  "updated_at": "2026-04-26T10:01:50Z",
-  "pushed_at": "2026-04-26T00:42:53Z",
+  "updated_at": "2026-04-28T17:09:50Z",
+  "pushed_at": "2026-04-28T04:49:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     {
       "date": "2026-04-26",
       "stars": 1897
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 1912
     }
   ]
 }

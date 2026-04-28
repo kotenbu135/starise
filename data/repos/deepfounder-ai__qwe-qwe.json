@@ -3,8 +3,8 @@
   "owner": "deepfounder-ai",
   "name": "qwe-qwe",
   "full_name": "deepfounder-ai/qwe-qwe",
-  "description": "⚡ Lightweight offline AI agent for local models. No cloud, no API keys — just your GPU.",
-  "description_ja": "ローカルモデル向けの軽量オフラインAIエージェント。クラウド不要、APIキー不要 — GPUだけで動作。",
+  "description": "A self-hosted AI agent built to drop into business workflows: customer ops, internal automation, knowledge retrieval, scheduled reporting. Deploys on a laptop, a workstation, or your own server — never sends data to a third party unless you tell it to. ",
+  "description_ja": "",
   "url": "https://github.com/deepfounder-ai/qwe-qwe",
   "homepage_url": "https://qwe-qwe.deepfounder.ai/",
   "language": "Python",
@@ -14,13 +14,13 @@
     "ai",
     "ai-agent"
   ],
-  "star_count": 38,
+  "star_count": 41,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-12T12:59:55Z",
-  "updated_at": "2026-04-25T20:15:11Z",
-  "pushed_at": "2026-04-25T20:15:06Z",
+  "updated_at": "2026-04-28T00:08:43Z",
+  "pushed_at": "2026-04-26T20:55:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +38,10 @@
     {
       "date": "2026-04-26",
       "stars": 38
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 41
     }
   ]
 }

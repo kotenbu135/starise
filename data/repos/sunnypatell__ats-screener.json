@@ -7,7 +7,7 @@
   "description_ja": "6 つの実在する企業 ATS プラットフォーム（Workday、Taleo、iCIMS、Greenhouse、Lever、SuccessFactors）が履歴書をどのように解析・フィルタリング・スコアリングするかをシミュレートする無料のオープンソース履歴書スクリーナー。有料の履歴書チェッカーに嫌気がさした学生が開発。",
   "url": "https://github.com/sunnypatell/ats-screener",
   "homepage_url": "https://ats-screener.vercel.app",
-  "language": "Svelte",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [],
   "star_count": 48,
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-20T17:04:44Z",
-  "updated_at": "2026-04-25T04:48:31Z",
-  "pushed_at": "2026-04-25T15:28:06Z",
+  "updated_at": "2026-04-27T01:47:21Z",
+  "pushed_at": "2026-04-27T01:47:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +33,10 @@
     },
     {
       "date": "2026-04-26",
+      "stars": 48
+    },
+    {
+      "date": "2026-04-28",
       "stars": 48
     }
   ]

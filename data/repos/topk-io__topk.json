@@ -3,26 +3,26 @@
   "owner": "topk-io",
   "name": "topk",
   "full_name": "topk-io/topk",
-  "description": "TopK is a search engine for the AI era.",
-  "description_ja": "TopKはAI時代向けの検索エンジン",
+  "description": "Provide the right context to your agents.",
+  "description_ja": "",
   "url": "https://github.com/topk-io/topk",
   "homepage_url": "https://docs.topk.io",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "agent",
+    "context",
+    "documents",
     "search",
-    "search-engine",
-    "vector-database",
-    "vector-search",
-    "vectordb"
+    "unstructured"
   ],
   "star_count": 69,
-  "fork_count": 2,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-26T13:08:26Z",
-  "updated_at": "2026-04-24T12:25:40Z",
-  "pushed_at": "2026-04-24T14:15:01Z",
+  "updated_at": "2026-04-28T09:05:57Z",
+  "pushed_at": "2026-04-28T12:43:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +39,10 @@
     },
     {
       "date": "2026-04-26",
+      "stars": 69
+    },
+    {
+      "date": "2026-04-28",
       "stars": 69
     }
   ]

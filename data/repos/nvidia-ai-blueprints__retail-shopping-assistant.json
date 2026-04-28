@@ -7,7 +7,7 @@
   "description_ja": "Retail Shopping Assistant は、インテリジェントな小売ショッピングアドバイザー向けの包括的なインターフェースを提供する AI 駆動のブループリント。エージェントオーケストレーションに LangGraph を採用し、マルチエージェントアーキテクチャ、リアルタイムストリーミングレスポンス、画像ベースの検索、インテリジェントなショッピングカート管理を備える。",
   "url": "https://github.com/NVIDIA-AI-Blueprints/retail-shopping-assistant",
   "homepage_url": "",
-  "language": "Jupyter Notebook",
+  "language": "Python",
   "license": "NOASSERTION",
   "topics": [
     "agentic-ai",
@@ -17,13 +17,13 @@
     "llm",
     "rag"
   ],
-  "star_count": 48,
+  "star_count": 49,
   "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-02T19:31:07Z",
-  "updated_at": "2026-04-24T07:36:30Z",
-  "pushed_at": "2026-04-21T00:37:38Z",
+  "updated_at": "2026-04-28T18:10:38Z",
+  "pushed_at": "2026-04-27T20:51:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +41,10 @@
     {
       "date": "2026-04-26",
       "stars": 48
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 49
     }
   ]
 }

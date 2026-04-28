@@ -3,8 +3,8 @@
   "owner": "mcpjungle",
   "name": "mcpjungle",
   "full_name": "mcpjungle/mcpjungle",
-  "description": "Self-hosted MCP Gateway for Individuals \u0026 Teams",
-  "description_ja": "個人・チーム向けセルフホストMCPゲートウェイ",
+  "description": "Run all your MCP servers behind one endpoint",
+  "description_ja": "",
   "url": "https://github.com/mcpjungle/MCPJungle",
   "homepage_url": "https://docs.mcpjungle.com",
   "language": "Go",
@@ -19,13 +19,13 @@
     "model-context-protocol",
     "self-hosted"
   ],
-  "star_count": 980,
+  "star_count": 984,
   "fork_count": 129,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-15T12:31:06Z",
-  "updated_at": "2026-04-26T09:46:02Z",
-  "pushed_at": "2026-04-26T09:46:41Z",
+  "updated_at": "2026-04-28T14:22:23Z",
+  "pushed_at": "2026-04-28T14:17:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +43,10 @@
     {
       "date": "2026-04-26",
       "stars": 980
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 984
     }
   ]
 }

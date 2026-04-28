@@ -3,21 +3,24 @@
   "owner": "datachain-ai",
   "name": "datachain",
   "full_name": "datachain-ai/datachain",
-  "description": "Data context layer for unstructured data - images, video, sensor data, text and PDFs",
-  "description_ja": "画像・動画・センサーデータ・テキスト・PDF などの非構造化データ向けデータコンテキストレイヤー",
+  "description": "Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables",
+  "description_ja": "",
   "url": "https://github.com/datachain-ai/datachain",
   "homepage_url": "https://docs.datachain.ai",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "ai-agents",
     "claude-code",
     "codex",
     "data-context-layer",
+    "data-memory",
     "data-processing",
-    "harness",
     "harness-engineering",
-    "llm",
+    "knowledge-base",
     "mlops",
+    "multimodal",
+    "pydantic",
     "unstructured-data"
   ],
   "star_count": 2737,
@@ -25,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-25T22:29:35Z",
-  "updated_at": "2026-04-24T21:15:06Z",
-  "pushed_at": "2026-04-26T10:23:44Z",
+  "updated_at": "2026-04-28T18:24:08Z",
+  "pushed_at": "2026-04-28T18:24:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +46,10 @@
     },
     {
       "date": "2026-04-26",
+      "stars": 2737
+    },
+    {
+      "date": "2026-04-28",
       "stars": 2737
     }
   ]

@@ -6,7 +6,7 @@
   "description": "MCP local-first CLI tool that converts PRD text files into persistent execution graphs (SQLite) for structured agentic workflows",
   "description_ja": "PRDテキストファイルを構造化エージェントワークフロー向けの永続的な実行グラフ（SQLite）に変換するMCPローカルファーストCLIツール",
   "url": "https://github.com/DiegoNogueiraDev/mcp-graph-workflow",
-  "homepage_url": "https://mcp-graph-workflow.vercel.app",
+  "homepage_url": "https://mcp-graph-workflow-dashboard.vercel.app/",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
@@ -27,12 +27,12 @@
     "typescript"
   ],
   "star_count": 32,
-  "fork_count": 7,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-04T18:57:56Z",
-  "updated_at": "2026-04-26T13:33:28Z",
-  "pushed_at": "2026-04-26T15:53:45Z",
+  "updated_at": "2026-04-26T23:38:32Z",
+  "pushed_at": "2026-04-28T17:46:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +49,10 @@
     },
     {
       "date": "2026-04-26",
+      "stars": 32
+    },
+    {
+      "date": "2026-04-28",
       "stars": 32
     }
   ]

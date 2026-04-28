@@ -3,8 +3,8 @@
   "owner": "mathijs-bakker",
   "name": "godotdev.nvim",
   "full_name": "mathijs-bakker/godotdev.nvim",
-  "description": "Neovim plugin for Godot 4 with GDScript LSP, GDShader support, C#, DAP debugging, Godot console output, formatting, health checks, and in-editor Godot docs.",
-  "description_ja": "GDScript LSP・GDShader サポート・C#・DAP デバッグ・Godot コンソール出力・フォーマット・ヘルスチェック・エディタ内 Godot ドキュメントを備えた Godot 4 向け Neovim プラグイン。",
+  "description": "Neovim plugin for Godot 4 with GDScript LSP, GDShader support, C#, DAP debugging, Godot console output, formatting, health checks, static scene tree inspector, and in-editor Godot docs.",
+  "description_ja": "",
   "url": "https://github.com/Mathijs-Bakker/godotdev.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -24,16 +24,17 @@
     "neovim-plugin",
     "nvim",
     "nvim-plugin",
+    "scene-tree",
     "toolkit",
     "treesitter"
   ],
-  "star_count": 48,
+  "star_count": 50,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-18T10:14:53Z",
-  "updated_at": "2026-04-23T22:06:58Z",
-  "pushed_at": "2026-04-21T09:12:05Z",
+  "updated_at": "2026-04-28T18:47:09Z",
+  "pushed_at": "2026-04-28T18:44:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +44,10 @@
     {
       "date": "2026-04-26",
       "stars": 48
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 50
     }
   ]
 }

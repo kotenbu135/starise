@@ -6,14 +6,16 @@
   "description": "ROS 2 sensor fusion SDK: UKF, 3D native, proper GNSS, zero manual tuning. Apache 2.0.",
   "description_ja": "ROS 2 センサーフュージョン SDK：UKF、3D ネイティブ、適切な GNSS 対応、手動チューニング不要。Apache 2.0。",
   "url": "https://github.com/manankharwar/fusioncore",
-  "homepage_url": "",
+  "homepage_url": "https://manankharwar.github.io/fusioncore/",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [
+    "autonomous-robots",
     "autonomous-systems",
     "gazebo",
     "gazebo-ros",
     "gnss",
+    "gps",
     "imu",
     "kalman-filter",
     "localization",
@@ -25,15 +27,16 @@
     "sensor-fusion",
     "slam",
     "state-estimation",
-    "ukf"
+    "ukf",
+    "wheel-odometry"
   ],
-  "star_count": 146,
+  "star_count": 155,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-17T16:50:46Z",
-  "updated_at": "2026-04-26T06:09:06Z",
-  "pushed_at": "2026-04-24T22:29:00Z",
+  "updated_at": "2026-04-28T19:42:21Z",
+  "pushed_at": "2026-04-28T19:42:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +50,10 @@
     {
       "date": "2026-04-26",
       "stars": 146
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 155
     }
   ]
 }

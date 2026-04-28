@@ -3,8 +3,8 @@
   "owner": "saturneric",
   "name": "gpgfrontend",
   "full_name": "saturneric/gpgfrontend",
-  "description": "A modern \"Enigma\" built on GnuPG brings easy and trustworthy to your privacy life.",
-  "description_ja": "GnuPGをベースにした現代版「Enigma」で、プライバシーをより簡単かつ信頼性高く守ります。",
+  "description": "A modern \"Enigma\" for OpenPGP. It makes encryption, signing, and key management easier and more trustworthy in everyday privacy workflows.",
+  "description_ja": "",
   "url": "https://github.com/saturneric/GpgFrontend",
   "homepage_url": "https://gpgfrontend.bktus.com",
   "language": "C++",
@@ -20,13 +20,13 @@
     "security-tools",
     "signature-verification"
   ],
-  "star_count": 713,
+  "star_count": 714,
   "fork_count": 59,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-19T11:31:35Z",
-  "updated_at": "2026-04-26T17:40:37Z",
-  "pushed_at": "2026-04-26T17:40:32Z",
+  "updated_at": "2026-04-27T22:03:18Z",
+  "pushed_at": "2026-04-28T20:06:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +44,10 @@
     {
       "date": "2026-04-26",
       "stars": 713
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 714
     }
   ]
 }

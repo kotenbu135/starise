@@ -3,8 +3,8 @@
   "owner": "nellavio",
   "name": "nellavio",
   "full_name": "nellavio/nellavio",
-  "description": "🚀 Next.js dashboard starter with auth, i18n, 18 pages, 60+ charts and 90+ UI components",
-  "description_ja": "🚀 認証・i18n・18ページ・60以上のチャート・90以上の UI コンポーネントを備えた Next.js ダッシュボードスターター",
+  "description": "🚀 Next.js dashboard starter with auth, i18n, RBAC, 18 pages and 90+ UI components",
+  "description_ja": "",
   "url": "https://github.com/nellavio/nellavio",
   "homepage_url": "https://demo.nellavio.com",
   "language": "TypeScript",
@@ -26,12 +26,12 @@
     "tailwindcss",
     "typescript"
   ],
-  "star_count": 239,
-  "fork_count": 25,
+  "star_count": 301,
+  "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-23T19:30:33Z",
-  "updated_at": "2026-04-26T10:12:16Z",
+  "updated_at": "2026-04-28T13:18:39Z",
   "pushed_at": "2026-04-12T02:53:19Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +46,10 @@
     {
       "date": "2026-04-26",
       "stars": 239
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 301
     }
   ]
 }

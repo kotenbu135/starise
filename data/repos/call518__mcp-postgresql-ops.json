@@ -3,8 +3,8 @@
   "owner": "call518",
   "name": "mcp-postgresql-ops",
   "full_name": "call518/mcp-postgresql-ops",
-  "description": "🔍Professional MCP server for PostgreSQL operations \u0026 monitoring: 30+ extension-independent tools for performance analysis, table bloat detection, autovacuum monitoring, schema introspection, and database management. Supports PostgreSQL 12+.",
-  "description_ja": "PostgreSQLの操作と監視向けプロフェッショナルなMCPサーバー。拡張機能非依存の30以上のツールでパフォーマンス分析、テーブルブロート検出、autovacuum監視、スキーマ内省、DB管理に対応。PostgreSQL 12以上をサポート。",
+  "description": "🐘 Give AI assistants full PostgreSQL DBA superpowers — 30+ tools for performance analysis, bloat detection, lock/deadlock monitoring, autovacuum \u0026 schema inspection. No extensions required. PG 12-18.",
+  "description_ja": "",
   "url": "https://github.com/call518/MCP-PostgreSQL-Ops",
   "homepage_url": "https://deepwiki.com/call518/MCP-PostgreSQL-Ops",
   "language": "Python",
@@ -13,31 +13,31 @@
     "agent",
     "agentic-ai",
     "ai",
+    "claude",
     "database",
-    "database-management",
+    "database-tools",
+    "dba",
     "fastmcp",
     "llm",
     "management",
     "mcp",
     "mcp-server",
-    "mcpo",
     "monitoring",
     "openwebui",
-    "operation-analytics",
+    "performance-monitoring",
+    "postgres",
     "postgresql",
-    "postgresql-database",
     "postgresql-diagnostics",
     "python",
-    "query",
     "sql"
   ],
-  "star_count": 147,
+  "star_count": 148,
   "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-19T03:17:30Z",
-  "updated_at": "2026-04-25T14:20:30Z",
-  "pushed_at": "2026-04-25T14:20:26Z",
+  "updated_at": "2026-04-28T10:23:47Z",
+  "pushed_at": "2026-04-28T10:03:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -51,6 +51,10 @@
     {
       "date": "2026-04-26",
       "stars": 147
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 148
     }
   ]
 }

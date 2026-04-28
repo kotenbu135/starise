@@ -3,20 +3,30 @@
   "owner": "rderaison",
   "name": "bromure",
   "full_name": "rderaison/bromure",
-  "description": "Secure, ephemeral browsing in a disposable VM (macOS only)",
-  "description_ja": "使い捨てVM上でのセキュアな一時的ブラウジング（macOSのみ）。",
+  "description": "Proper sandboxing for agentic coding and web browsing",
+  "description_ja": "",
   "url": "https://github.com/rderaison/bromure",
-  "homepage_url": "",
+  "homepage_url": "https://bromure.io",
   "language": "Swift",
   "license": "MIT",
-  "topics": [],
-  "star_count": 218,
-  "fork_count": 12,
+  "topics": [
+    "agentic",
+    "browser",
+    "developer-tools",
+    "development",
+    "infosec",
+    "sandbox",
+    "security",
+    "security-tools",
+    "virtual-machine"
+  ],
+  "star_count": 227,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T14:47:29Z",
-  "updated_at": "2026-04-26T04:45:04Z",
-  "pushed_at": "2026-04-26T17:10:50Z",
+  "updated_at": "2026-04-28T19:02:14Z",
+  "pushed_at": "2026-04-28T06:07:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +44,10 @@
     {
       "date": "2026-04-26",
       "stars": 218
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 227
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "giancarloerra",
   "name": "socraticode",
   "full_name": "giancarloerra/socraticode",
-  "description": "Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Plugin/Skill or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, cross-project/repo \u0026 branch-aware search, and DB/API/infra knowledge. Benchmark: 61% less tokens, 84% fewer calls, 37x faster than AI grep. Cloud in private beta.",
-  "description_ja": "エンタープライズ規模（4000 万行以上）のコードベースインテリジェンスを、ゼロセットアップ・プライベート・ローカルな Plugin/Skill または MCP として提供。マネージドインデックス、ハイブリッドセマンティック検索、多言語コード依存グラフ、クロスプロジェクト/リポジトリ・ブランチ対応検索、DB/API/インフラ知識を搭載。ベンチマーク: AI grep 比でトークン 61% 削減・呼び出し 84% 削減・37 倍高速。クラウド版はプライベートベータ中。",
+  "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, private \u0026 local Plugin/Skill or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis \u0026 call-flow, interactive HTML viewer, cross-project \u0026 branch-aware search, DB/API/infra knowledge. 61% less tokens, 84% fewer calls, 37x faster. Cloud in private beta.",
+  "description_ja": "",
   "url": "https://github.com/giancarloerra/SocratiCode",
   "homepage_url": "https://socraticode.cloud",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "vector-embeddings",
     "vector-search"
   ],
-  "star_count": 945,
-  "fork_count": 122,
+  "star_count": 1416,
+  "fork_count": 200,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T16:12:26Z",
-  "updated_at": "2026-04-26T17:20:25Z",
-  "pushed_at": "2026-04-17T11:37:55Z",
+  "updated_at": "2026-04-28T19:35:08Z",
+  "pushed_at": "2026-04-28T13:02:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-04-26",
       "stars": 945
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 1416
     }
   ]
 }

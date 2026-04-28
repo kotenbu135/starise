@@ -3,40 +3,35 @@
   "owner": "statespace-tech",
   "name": "statespace",
   "full_name": "statespace-tech/statespace",
-  "description": "Shareable data apps for AI agents",
-  "description_ja": "AIエージェント向けの共有可能なデータアプリ。",
+  "description": "Search for the agentic web.",
+  "description_ja": "",
   "url": "https://github.com/statespace-tech/statespace",
   "homepage_url": "https://statespace.com/",
-  "language": "Rust",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "agent",
     "ai",
-    "analytics",
     "api",
-    "artificial-intelligence",
-    "context-engineering",
-    "data-engineering",
-    "data-science",
-    "database",
+    "cli",
+    "developer-tools",
+    "documentation",
     "information-retrieval",
-    "machine-learning",
+    "llms-txt",
     "markdown",
     "mcp",
     "rag",
-    "rust",
-    "self-documenting",
-    "sql",
-    "text-to-sql",
-    "web-api"
+    "sdk",
+    "search",
+    "search-engine"
   ],
-  "star_count": 870,
+  "star_count": 871,
   "fork_count": 67,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-11T05:50:09Z",
-  "updated_at": "2026-04-26T16:00:34Z",
-  "pushed_at": "2026-04-25T02:13:40Z",
+  "updated_at": "2026-04-28T04:03:05Z",
+  "pushed_at": "2026-04-28T04:03:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +49,10 @@
     {
       "date": "2026-04-26",
       "stars": 870
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 871
     }
   ]
 }

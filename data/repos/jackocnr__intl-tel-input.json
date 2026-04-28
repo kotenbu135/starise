@@ -3,11 +3,11 @@
   "owner": "jackocnr",
   "name": "intl-tel-input",
   "full_name": "jackocnr/intl-tel-input",
-  "description": "A JavaScript plugin for entering, formatting and validating international telephone numbers. Includes React, Vue, Angular and Svelte components, plus TypeScript definitions.",
-  "description_ja": "国際電話番号の入力・フォーマット・バリデーション用 JavaScript プラグイン。React、Vue、Angular、Svelte コンポーネントおよび TypeScript 定義を含む。",
+  "description": "For entering, formatting, and validating international telephone numbers. Available in vanilla JavaScript, or as React, Vue, Angular, and Svelte components.",
+  "description_ja": "",
   "url": "https://github.com/jackocnr/intl-tel-input",
   "homepage_url": "https://intl-tel-input.com",
-  "language": "TypeScript",
+  "language": "JavaScript",
   "license": "MIT",
   "topics": [
     "angular",
@@ -25,12 +25,12 @@
     "vuejs"
   ],
   "star_count": 8191,
-  "fork_count": 1998,
+  "fork_count": 1997,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-05-31T21:08:09Z",
-  "updated_at": "2026-04-26T15:16:51Z",
-  "pushed_at": "2026-04-26T13:07:13Z",
+  "updated_at": "2026-04-28T19:43:35Z",
+  "pushed_at": "2026-04-28T07:17:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     },
     {
       "date": "2026-04-26",
+      "stars": 8191
+    },
+    {
+      "date": "2026-04-28",
       "stars": 8191
     }
   ]

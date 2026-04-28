@@ -3,8 +3,8 @@
   "owner": "vixcpp",
   "name": "vix",
   "full_name": "vixcpp/vix",
-  "description": "A modern runtime for building and running C++ applications.",
-  "description_ja": "C++ アプリケーションのビルドと実行のための現代的なランタイム",
+  "description": "A modern C++ runtime for building fast and reliable applications.",
+  "description_ja": "",
   "url": "https://github.com/vixcpp/vix",
   "homepage_url": "https://vixcpp.com",
   "language": "CMake",
@@ -31,13 +31,13 @@
     "vixcpp",
     "websocket"
   ],
-  "star_count": 411,
+  "star_count": 412,
   "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-02T15:26:13Z",
-  "updated_at": "2026-04-24T01:04:36Z",
-  "pushed_at": "2026-04-25T06:54:07Z",
+  "updated_at": "2026-04-28T08:35:21Z",
+  "pushed_at": "2026-04-27T10:04:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -51,6 +51,10 @@
     {
       "date": "2026-04-26",
       "stars": 411
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 412
     }
   ]
 }

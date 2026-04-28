@@ -3,8 +3,8 @@
   "owner": "rudi-q",
   "name": "glucose_media_player",
   "full_name": "rudi-q/glucose_media_player",
-  "description": "Ultra-lightweight, video player for Windows with AI powered subtitle generation. Tauri + Svelte",
-  "description_ja": "AI字幕生成機能付き超軽量Windows向け動画プレイヤー。Tauri + Svelte",
+  "description": "A Full-Featured, Powerful \u0026 Ultra-lightweight, video player for Windows with on-device AI powered subtitle generation. Tauri + Svelte",
+  "description_ja": "",
   "url": "https://github.com/rudi-q/glucose_media_player",
   "homepage_url": "https://glucose.media",
   "language": "Svelte",
@@ -20,13 +20,13 @@
     "whisper-cpp",
     "windows-app"
   ],
-  "star_count": 77,
+  "star_count": 78,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-06T08:55:51Z",
-  "updated_at": "2026-04-25T09:57:25Z",
-  "pushed_at": "2026-04-26T15:57:04Z",
+  "updated_at": "2026-04-28T12:59:11Z",
+  "pushed_at": "2026-04-28T12:59:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +40,10 @@
     {
       "date": "2026-04-26",
       "stars": 77
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 78
     }
   ]
 }

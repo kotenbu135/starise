@@ -3,14 +3,15 @@
   "owner": "hugohe3",
   "name": "ppt-master",
   "full_name": "hugohe3/ppt-master",
-  "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed",
-  "description_ja": "AIが任意のドキュメントからネイティブ編集可能なPPTXを生成——画像ではなく本物のPowerPointシェイプ——デザインスキル不要。",
+  "description": "AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed · by Hugo He",
+  "description_ja": "",
   "url": "https://github.com/hugohe3/ppt-master",
   "homepage_url": "https://hugohe3.github.io/ppt-master/",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "ai-agent",
+    "aippt",
     "office",
     "powerpoint",
     "powerpoint-generation",
@@ -18,16 +19,15 @@
     "pptx",
     "presentation",
     "slide",
-    "slides",
-    "svg"
+    "slides"
   ],
-  "star_count": 8280,
-  "fork_count": 921,
+  "star_count": 9070,
+  "fork_count": 994,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-10T06:54:33Z",
-  "updated_at": "2026-04-26T17:15:27Z",
-  "pushed_at": "2026-04-26T16:02:41Z",
+  "updated_at": "2026-04-28T19:29:13Z",
+  "pushed_at": "2026-04-28T07:15:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     {
       "date": "2026-04-26",
       "stars": 8280
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 9070
     }
   ]
 }

@@ -3,32 +3,32 @@
   "owner": "skforecast",
   "name": "skforecast",
   "full_name": "skforecast/skforecast",
-  "description": "Time series forecasting with machine learning models",
-  "description_ja": "機械学習モデルによる時系列予測",
+  "description": "Python library for time series forecasting using scikit-learn compatible models, statistical methods, and foundation models",
+  "description_ja": "",
   "url": "https://github.com/skforecast/skforecast",
   "homepage_url": "https://skforecast.org",
   "language": "Python",
   "license": "BSD-3-Clause",
   "topics": [
     "arima",
-    "autoregressive-forecasting",
     "backtesting-forecasters",
+    "catboost",
     "data-science",
-    "direct-forecasting",
+    "deep-learning",
     "exogenous-predictors",
     "forecasting",
+    "foundation-models",
     "lightgbm",
-    "lstm-neural-networks",
     "machine-learning",
     "multi-series-forecasting",
     "multi-step-forecasting",
-    "multiple-time-series-forecasting",
+    "prediction-intervals",
     "probabilistic-forecasting",
     "python",
-    "quantile-forecasting",
     "sarimax",
     "scikit-learn",
     "time-series",
+    "time-series-forecasting",
     "xgboost"
   ],
   "star_count": 1480,
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-02-10T11:40:34Z",
-  "updated_at": "2026-04-23T22:48:28Z",
-  "pushed_at": "2026-04-24T19:54:08Z",
+  "updated_at": "2026-04-28T07:52:22Z",
+  "pushed_at": "2026-04-28T07:52:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +54,10 @@
     },
     {
       "date": "2026-04-26",
+      "stars": 1480
+    },
+    {
+      "date": "2026-04-28",
       "stars": 1480
     }
   ]

@@ -6,7 +6,7 @@
   "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
   "description_ja": "PDF の検査、分類、テキスト抽出のための高速 Rust ライブラリ。スキャン済み PDF とテキストベース PDF をインテリジェントに検出し、スマートなルーティング判断を実現します。",
   "url": "https://github.com/firecrawl/pdf-inspector",
-  "homepage_url": "",
+  "homepage_url": "https://www.npmjs.com/package/@firecrawl/pdf-inspector",
   "language": "Rust",
   "license": "",
   "topics": [
@@ -21,13 +21,13 @@
     "rust",
     "text-extraction"
   ],
-  "star_count": 943,
-  "fork_count": 82,
+  "star_count": 959,
+  "fork_count": 83,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T19:44:47Z",
-  "updated_at": "2026-04-26T16:58:38Z",
-  "pushed_at": "2026-04-26T07:55:39Z",
+  "updated_at": "2026-04-28T19:10:29Z",
+  "pushed_at": "2026-04-27T18:23:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     {
       "date": "2026-04-26",
       "stars": 943
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 959
     }
   ]
 }

@@ -7,7 +7,7 @@
   "description_ja": "WeChat（非 Web 版）でメッセージ・ファイルをスケジュール送信（cron 式で分単位指定）、一括グループ送信、チャット履歴の定期チェックができる小ツール🚀。シンプルで直感的な UI を提供し、メール通知などの機能もサポート。任意のプラットフォームにデプロイ可能。",
   "url": "https://github.com/xieyumc/YuYuWechat",
   "homepage_url": "",
-  "language": "JavaScript",
+  "language": "Python",
   "license": "GPL-3.0",
   "topics": [
     "chatbot",
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-03T08:46:35Z",
-  "updated_at": "2026-04-24T00:51:50Z",
-  "pushed_at": "2026-04-21T01:11:00Z",
+  "updated_at": "2026-04-28T09:46:28Z",
+  "pushed_at": "2026-04-28T09:51:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     },
     {
       "date": "2026-04-26",
+      "stars": 863
+    },
+    {
+      "date": "2026-04-28",
       "stars": 863
     }
   ]

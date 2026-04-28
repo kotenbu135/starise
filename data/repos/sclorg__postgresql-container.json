@@ -7,7 +7,7 @@
   "description_ja": "Red Hat Software Collections をベースとした OpenShift および汎用途向け PostgreSQL コンテナイメージ。Red Hat Enterprise Linux、Fedora、CentOS ベースのイメージから選択できます。",
   "url": "https://github.com/sclorg/postgresql-container",
   "homepage_url": "http://softwarecollections.org",
-  "language": "Shell",
+  "language": "PLpgSQL",
   "license": "Apache-2.0",
   "topics": [
     "centos",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-03-18T15:15:33Z",
-  "updated_at": "2026-04-21T09:55:40Z",
-  "pushed_at": "2026-04-21T14:32:42Z",
+  "updated_at": "2026-04-28T06:40:17Z",
+  "pushed_at": "2026-04-28T06:40:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +38,10 @@
     },
     {
       "date": "2026-04-26",
+      "stars": 175
+    },
+    {
+      "date": "2026-04-28",
       "stars": 175
     }
   ]

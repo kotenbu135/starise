@@ -3,34 +3,41 @@
   "owner": "nixopus",
   "name": "nixopus",
   "full_name": "nixopus/nixopus",
-  "description": "Run production apps without thinking about infrastructure On your server or ours. Fully agentic.",
-  "description_ja": "インフラを意識せずに本番アプリを実行。自分のサーバーでも当社のサーバーでも。完全自律エージェント型。",
+  "description": "Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.",
+  "description_ja": "",
   "url": "https://github.com/nixopus/nixopus",
   "homepage_url": "https://nixopus.com",
   "language": "Go",
   "license": "NOASSERTION",
   "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
     "ci-cd",
     "coolify",
+    "cursor",
     "deployment",
     "golang",
     "heroku",
+    "infrastructure",
+    "mcp",
     "netlify",
     "nextjs",
     "self-hosted",
+    "server",
     "terminal",
     "typescript",
     "vercel",
     "vps",
     "vps-server"
   ],
-  "star_count": 1425,
+  "star_count": 1427,
   "fork_count": 124,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-21T11:17:45Z",
-  "updated_at": "2026-04-26T06:42:57Z",
-  "pushed_at": "2026-04-26T06:43:04Z",
+  "updated_at": "2026-04-27T12:13:54Z",
+  "pushed_at": "2026-04-26T18:01:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +51,10 @@
     {
       "date": "2026-04-26",
       "stars": 1425
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 1427
     }
   ]
 }

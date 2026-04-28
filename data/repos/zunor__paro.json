@@ -3,8 +3,8 @@
   "owner": "zunor",
   "name": "paro",
   "full_name": "zunor/paro",
-  "description": "An AI-native multi-model analytical database for SQL, vector, full-text, and graph workloads in one engine.",
-  "description_ja": "SQL、ベクター、全文検索、グラフワークロードを単一エンジンで処理する AI ネイティブなマルチモデル分析データベース。",
+  "description": "An AI-native multi-model database unifying SQL, vector, full-text, graph, and sandboxed Python — for transactional, analytical, and agent workloads.",
+  "description_ja": "",
   "url": "https://github.com/zunor/paro",
   "homepage_url": "",
   "language": "Rust",
@@ -26,12 +26,12 @@
     "storage-engine",
     "vector-search"
   ],
-  "star_count": 73,
-  "fork_count": 5,
+  "star_count": 93,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-15T10:56:55Z",
-  "updated_at": "2026-04-26T13:14:40Z",
+  "updated_at": "2026-04-28T19:28:22Z",
   "pushed_at": "2026-04-25T19:02:39Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +46,10 @@
     {
       "date": "2026-04-26",
       "stars": 73
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 93
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "opendcai",
   "name": "one-eval",
   "full_name": "opendcai/one-eval",
-  "description": "Automated system for LLM evaluation via agents.",
-  "description_ja": "エージェント経由の LLM 評価を自動化するシステム。",
+  "description": "Automated system for LLM evaluation via agents.    Doc as below:",
+  "description_ja": "",
   "url": "https://github.com/OpenDCAI/One-Eval",
   "homepage_url": "https://wcny4qa9krto.feishu.cn/wiki/AJX6w5SbGiJxctkQQdfckVqKnYf",
   "language": "Python",
@@ -22,13 +22,13 @@
     "sglang",
     "vllm"
   ],
-  "star_count": 101,
-  "fork_count": 16,
+  "star_count": 111,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-10T07:55:21Z",
-  "updated_at": "2026-04-26T14:43:04Z",
-  "pushed_at": "2026-04-26T05:45:54Z",
+  "updated_at": "2026-04-28T18:25:38Z",
+  "pushed_at": "2026-04-28T15:19:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +42,10 @@
     {
       "date": "2026-04-26",
       "stars": 101
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 111
     }
   ]
 }

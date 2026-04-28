@@ -3,8 +3,8 @@
   "owner": "mnfst",
   "name": "manifest",
   "full_name": "mnfst/manifest",
-  "description": "Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚",
-  "description_ja": "個人用AIエージェント向けスマートモデルルーティング。コストを最大70%削減",
+  "description": "Smart Model Routing for Agents. Cut Costs up to 70% 🦚",
+  "description_ja": "",
   "url": "https://github.com/mnfst/manifest",
   "homepage_url": "https://manifest.build/docs",
   "language": "TypeScript",
@@ -12,6 +12,8 @@
   "topics": [
     "ai",
     "ai-",
+    "ai-sdk",
+    "antrhopic",
     "byok",
     "cheap",
     "cost-optimization",
@@ -21,17 +23,18 @@
     "llm-observability",
     "llm-router",
     "open-source",
+    "openai-api",
     "openclaw",
     "personal-ai",
     "token-tracking"
   ],
-  "star_count": 5691,
-  "fork_count": 329,
+  "star_count": 5772,
+  "fork_count": 332,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-09-27T16:33:35Z",
-  "updated_at": "2026-04-26T17:26:48Z",
-  "pushed_at": "2026-04-26T01:40:09Z",
+  "updated_at": "2026-04-28T19:36:17Z",
+  "pushed_at": "2026-04-28T17:28:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +52,10 @@
     {
       "date": "2026-04-26",
       "stars": 5691
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 5772
     }
   ]
 }

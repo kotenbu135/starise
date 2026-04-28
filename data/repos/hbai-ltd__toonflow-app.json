@@ -3,20 +3,39 @@
   "owner": "hbai-ltd",
   "name": "toonflow-app",
   "full_name": "hbai-ltd/toonflow-app",
-  "description": "Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。",
-  "description_ja": "Toonflowは、AIを活用して小説を自動的に脚本へ変換し、AI生成の画像・動画と組み合わせることで短編ドラマ制作を効率化するAIツール。テキストから映像まで一気通貫のワークフローで、制作をよりスマートかつ手軽にする。",
+  "description": "Toonflow 是开源一站式 AI 短剧创作工具，将小说、剧本快速转化为动画短剧。集成 AI 编剧、智能分镜、角色与视频生成，跨平台桌面端轻量部署，助力创作者低成本批量产出视觉内容。Toonflow is an open-source AI tool that turns stories and scripts into animated short dramas. Features AI scriptwriting, storyboarding, character and video generation. A cross-platform desktop app for efficient content creation.",
+  "description_ja": "",
   "url": "https://github.com/HBAI-Ltd/Toonflow-app",
   "homepage_url": "https://toonflow.net",
   "language": "HTML",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 7397,
-  "fork_count": 1247,
+  "topics": [
+    "ai",
+    "ai-content-creation",
+    "ai-tool",
+    "ai-video-generation",
+    "automation",
+    "content-generation",
+    "desktop-app",
+    "electron",
+    "generative-ai",
+    "image-generation",
+    "llm",
+    "nodejs",
+    "shorts",
+    "text-to-video",
+    "typescript",
+    "video-generation",
+    "vite",
+    "vue3"
+  ],
+  "star_count": 7465,
+  "fork_count": 1262,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-29T10:25:45Z",
-  "updated_at": "2026-04-26T17:23:29Z",
-  "pushed_at": "2026-04-26T02:55:05Z",
+  "updated_at": "2026-04-28T14:33:44Z",
+  "pushed_at": "2026-04-28T06:17:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +53,10 @@
     {
       "date": "2026-04-26",
       "stars": 7397
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 7465
     }
   ]
 }

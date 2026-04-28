@@ -3,8 +3,8 @@
   "owner": "loyalsoldier",
   "name": "geoip",
   "full_name": "loyalsoldier/geoip",
-  "description": "🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.",
-  "description_ja": "🌚 🌍 🌝 GeoIPルールファイル強化版。V2Ray datフォーマット（geoip.dat）、MaxMind mmdbフォーマット、sing-box SRSフォーマット、mihomo MRSフォーマット、Clash ruleset、Surge rulesetなどを自由にカスタマイズ可能。V2Ray、Xray-core、sing-box、Clash、mihomo、Shadowrocket、Quantumult X、Surge、hysteria、Trojan-Go、Leaf、Nginxなどに対応したGeoIPファイル強化版。",
+  "description": "🌚 🌍 🌝 GeoIP 增强版，支持自由定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.",
+  "description_ja": "",
   "url": "https://github.com/Loyalsoldier/geoip",
   "homepage_url": "",
   "language": "Go",
@@ -31,13 +31,13 @@
     "v2ray",
     "xray"
   ],
-  "star_count": 5937,
+  "star_count": 5949,
   "fork_count": 871,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-04-02T13:13:35Z",
-  "updated_at": "2026-04-26T04:15:30Z",
-  "pushed_at": "2026-04-23T23:44:08Z",
+  "updated_at": "2026-04-28T16:38:44Z",
+  "pushed_at": "2026-04-28T18:24:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-04-26",
       "stars": 5937
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 5949
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "supermodeltools",
   "name": "cli",
   "full_name": "supermodeltools/cli",
-  "description": "Save up to 40% on agent token costs with code graphs — call graphs, dependency graphs, dead code detection, and blast radius analysis.",
-  "description_ja": "コールグラフ・依存関係グラフ・デッドコード検出・影響範囲分析のコードグラフで、エージェントのトークンコストを最大 40% 削減。",
+  "description": "Save up to 40% on agent token costs with code graphs: call graphs, dependency graphs, dead code detection, and blast radius analysis.",
+  "description_ja": "",
   "url": "https://github.com/supermodeltools/cli",
-  "homepage_url": "",
+  "homepage_url": "https://supermodeltools.com/trial",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -21,13 +21,13 @@
     "developer-tools",
     "mcp"
   ],
-  "star_count": 73,
+  "star_count": 75,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T22:10:49Z",
-  "updated_at": "2026-04-26T16:15:52Z",
-  "pushed_at": "2026-04-24T18:03:01Z",
+  "updated_at": "2026-04-28T17:59:42Z",
+  "pushed_at": "2026-04-28T17:59:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     {
       "date": "2026-04-26",
       "stars": 73
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 75
     }
   ]
 }

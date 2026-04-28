@@ -3,23 +3,38 @@
   "owner": "magicblack",
   "name": "maccms10",
   "full_name": "magicblack/maccms10",
-  "description": "苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序",
-  "description_ja": "苹果CMS公式サイト・苹果CMSv10・MaccMSv10・オープンソースCMS・コンテンツ管理システム・動画共有・エピソード管理・URLナビゲーション・記事・漫画・画像プログラム",
+  "description": "苹果CMS v10 · MacCMS v10 — 开源内容管理系统：视频 / 分集剧情 / 文章 / 漫画 / 图片 / 网址导航. Open-source PHP CMS for video, articles, manga, images \u0026 site navigation.",
+  "description_ja": "",
   "url": "https://github.com/magicblack/maccms10",
   "homepage_url": "",
   "language": "PHP",
   "license": "NOASSERTION",
   "topics": [
+    "article-cms",
+    "cms",
+    "content-management-system",
+    "gallery",
     "maccms",
-    "maccms10"
+    "maccms10",
+    "maccmsv10",
+    "manga",
+    "mysql",
+    "open-source-cms",
+    "php",
+    "site-navigation",
+    "thinkphp",
+    "thinkphp5",
+    "tv-series",
+    "video-cms",
+    "video-sharing"
   ],
-  "star_count": 2776,
-  "fork_count": 963,
+  "star_count": 2778,
+  "fork_count": 964,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-07-08T15:05:47Z",
-  "updated_at": "2026-04-26T13:20:19Z",
-  "pushed_at": "2026-04-22T09:06:02Z",
+  "updated_at": "2026-04-28T12:01:42Z",
+  "pushed_at": "2026-04-28T12:01:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +52,10 @@
     {
       "date": "2026-04-26",
       "stars": 2776
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 2778
     }
   ]
 }

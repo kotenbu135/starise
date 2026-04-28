@@ -3,8 +3,8 @@
   "owner": "libresign",
   "name": "libresign",
   "full_name": "libresign/libresign",
-  "description": "✍️ Nextcloud app to sign PDF documents",
-  "description_ja": "✍️ PDF ドキュメントに署名するための Nextcloud アプリ",
+  "description": "Control how your documents get signed",
+  "description_ja": "",
   "url": "https://github.com/LibreSign/libresign",
   "homepage_url": "https://libresign.coop",
   "language": "PHP",
@@ -31,13 +31,13 @@
     "vue",
     "vuejs"
   ],
-  "star_count": 757,
+  "star_count": 759,
   "fork_count": 111,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-08-25T14:46:17Z",
-  "updated_at": "2026-04-26T14:56:42Z",
-  "pushed_at": "2026-04-26T02:29:46Z",
+  "updated_at": "2026-04-28T07:26:45Z",
+  "pushed_at": "2026-04-28T19:33:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-04-26",
       "stars": 757
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 759
     }
   ]
 }

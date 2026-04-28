@@ -3,8 +3,8 @@
   "owner": "screenpipe",
   "name": "screenpipe",
   "full_name": "screenpipe/screenpipe",
-  "description": "Run agents that work for you based on what you do. AI finally knows what you are doing",
-  "description_ja": "あなたの行動をもとに代わりに働くエージェントを実行する。AI がついにあなたの作業内容を把握できるようになった。",
+  "description": "Run agents that work based on what you do. 24/7 local screen \u0026 mic recording for the superintelligence era",
+  "description_ja": "",
   "url": "https://github.com/screenpipe/screenpipe",
   "homepage_url": "https://screenpi.pe",
   "language": "Rust",
@@ -20,13 +20,13 @@
     "multimodal",
     "vision"
   ],
-  "star_count": 18411,
-  "fork_count": 1654,
+  "star_count": 18439,
+  "fork_count": 1660,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-19T13:23:56Z",
-  "updated_at": "2026-04-26T17:26:52Z",
-  "pushed_at": "2026-04-26T17:26:48Z",
+  "updated_at": "2026-04-28T20:01:07Z",
+  "pushed_at": "2026-04-28T20:10:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +44,10 @@
     {
       "date": "2026-04-26",
       "stars": 18411
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 18439
     }
   ]
 }

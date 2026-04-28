@@ -3,39 +3,39 @@
   "owner": "openwong2kim",
   "name": "wmux",
   "full_name": "openwong2kim/wmux",
-  "description": "AI Agent Terminal for Windows — Run Claude Code, Codex, Gemini CLI side by side with split terminals, browser automation via CDP, MCP integration, session persistence, and smart notifications",
-  "description_ja": "Windows向けAIエージェントターミナル — Claude Code、Codex、Gemini CLIを分割ターミナルで並列実行。CDPによるブラウザ自動化、MCP統合、セッション永続化、スマート通知に対応。",
+  "description": "Windows tmux alternative for AI agents — split terminals for Claude Code, Codex, Gemini CLI with MCP browser automation. No WSL required.",
+  "description_ja": "",
   "url": "https://github.com/openwong2kim/wmux",
   "homepage_url": "https://github.com/openwong2kim/wmux#readme",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "agentic-ai",
     "ai-agent",
     "ai-agents",
     "ai-coding",
     "browser-automation",
-    "cdp",
+    "claude",
     "claude-code",
-    "conpty",
+    "coding-agent",
     "developer-tools",
     "electron",
+    "gemini",
     "mcp-server",
     "multi-agent",
     "powershell",
-    "session-persistence",
     "terminal-multiplexer",
     "tmux",
     "tmux-alternative",
-    "windows",
-    "xterm"
+    "windows"
   ],
   "star_count": 45,
-  "fork_count": 11,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-20T02:54:57Z",
-  "updated_at": "2026-04-26T11:52:10Z",
-  "pushed_at": "2026-04-26T11:52:23Z",
+  "updated_at": "2026-04-28T14:56:36Z",
+  "pushed_at": "2026-04-28T14:44:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -52,6 +52,10 @@
     },
     {
       "date": "2026-04-26",
+      "stars": 45
+    },
+    {
+      "date": "2026-04-28",
       "stars": 45
     }
   ]

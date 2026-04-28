@@ -3,8 +3,8 @@
   "owner": "kubb-labs",
   "name": "kubb",
   "full_name": "kubb-labs/kubb",
-  "description": "🧩 The Ultimate Toolkit for Generating Type-Safe API Clients, Hooks, and Validators.",
-  "description_ja": "型安全なAPIクライアント、フック、バリデーターを生成するための究極のツールキット",
+  "description": "🧡 The meta framework for code generation. Automate OpenAPI to type-safe TypeScript, Zod, and TanStack Query with a modular, plugin-based engine.",
+  "description_ja": "",
   "url": "https://github.com/kubb-labs/kubb",
   "homepage_url": "https://kubb.dev",
   "language": "TypeScript",
@@ -30,13 +30,13 @@
     "zod",
     "zodios"
   ],
-  "star_count": 1691,
-  "fork_count": 143,
+  "star_count": 1693,
+  "fork_count": 144,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-08T14:15:23Z",
-  "updated_at": "2026-04-26T17:16:28Z",
-  "pushed_at": "2026-04-26T17:19:00Z",
+  "updated_at": "2026-04-28T13:27:32Z",
+  "pushed_at": "2026-04-28T19:46:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +50,10 @@
     {
       "date": "2026-04-26",
       "stars": 1691
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 1693
     }
   ]
 }

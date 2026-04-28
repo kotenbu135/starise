@@ -3,8 +3,8 @@
   "owner": "router-for-me",
   "name": "cliproxyapi",
   "full_name": "router-for-me/cliproxyapi",
-  "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude model through API",
-  "description_ja": "Gemini CLI、Antigravity、ChatGPT Codex、Claude Code を OpenAI/Gemini/Claude/Codex 互換 API サービスとしてラップし、API 経由で無料の Gemini 2.5 Pro、GPT 5、Claude モデルを利用可能にする",
+  "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model through API",
+  "description_ja": "",
   "url": "https://github.com/router-for-me/CLIProxyAPI",
   "homepage_url": "",
   "language": "Go",
@@ -17,13 +17,13 @@
     "gemini",
     "openai"
   ],
-  "star_count": 28918,
-  "fork_count": 4812,
+  "star_count": 29486,
+  "fork_count": 4904,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-01T19:43:27Z",
-  "updated_at": "2026-04-26T17:24:11Z",
-  "pushed_at": "2026-04-26T15:30:13Z",
+  "updated_at": "2026-04-28T19:58:40Z",
+  "pushed_at": "2026-04-28T15:54:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +41,10 @@
     {
       "date": "2026-04-26",
       "stars": 28918
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 29486
     }
   ]
 }

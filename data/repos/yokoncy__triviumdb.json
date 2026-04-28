@@ -3,8 +3,8 @@
   "owner": "yokoncy",
   "name": "triviumdb",
   "full_name": "yokoncy/triviumdb",
-  "description": "轻量级嵌入式数据库引擎，将向量检索、图谱与关系型元数据原生融合在同一个存储内核中，随写随用",
-  "description_ja": "ベクトル検索・グラフ・リレーショナルメタデータをネイティブに同一ストレージカーネル内に統合した軽量組み込みデータベースエンジン。書き込みと同時に即座に利用可能",
+  "description": "轻量级嵌入式数据库引擎，将向量检索、图谱与文档型元数据原生融合在同一个存储内核中，随写随用",
+  "description_ja": "",
   "url": "https://github.com/YoKONCy/TriviumDB",
   "homepage_url": "",
   "language": "Rust",
@@ -21,13 +21,13 @@
     "rust",
     "serverless"
   ],
-  "star_count": 36,
-  "fork_count": 2,
+  "star_count": 38,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-26T07:15:22Z",
-  "updated_at": "2026-04-22T16:31:47Z",
-  "pushed_at": "2026-04-19T21:07:57Z",
+  "updated_at": "2026-04-28T09:43:53Z",
+  "pushed_at": "2026-04-28T09:43:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     {
       "date": "2026-04-26",
       "stars": 36
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 38
     }
   ]
 }

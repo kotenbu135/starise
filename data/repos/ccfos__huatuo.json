@@ -3,8 +3,8 @@
   "owner": "ccfos",
   "name": "huatuo",
   "full_name": "ccfos/huatuo",
-  "description": "A cloud-native operating system observability project based on eBPF, incubated under CCF.",
-  "description_ja": "eBPFをベースにCCFのインキュベーション下で開発されたクラウドネイティブなOSオブザーバビリティプロジェクト",
+  "description": "the cloud-native operating system observability project based on eBPF.",
+  "description_ja": "",
   "url": "https://github.com/ccfos/huatuo",
   "homepage_url": "https://huatuo.tech/",
   "language": "Go",
@@ -19,12 +19,12 @@
     "metrics",
     "profiling"
   ],
-  "star_count": 952,
+  "star_count": 954,
   "fork_count": 73,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-04T05:02:21Z",
-  "updated_at": "2026-04-24T08:40:15Z",
+  "updated_at": "2026-04-27T23:52:08Z",
   "pushed_at": "2026-04-24T08:40:10Z",
   "deleted_at": "",
   "star_history": [
@@ -39,6 +39,10 @@
     {
       "date": "2026-04-26",
       "stars": 952
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 954
     }
   ]
 }

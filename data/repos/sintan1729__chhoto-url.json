@@ -6,7 +6,7 @@
   "description": "A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.",
   "description_ja": "不要な機能を省いたシンプルで非常に高速なセルフホスト型URL短縮サービス（Rust製）",
   "url": "https://github.com/SinTan1729/chhoto-url",
-  "homepage_url": "https://hub.docker.com/r/sintan1729/chhoto-url",
+  "homepage_url": "https://codeberg.org/SinTan1729/chhoto-url",
   "language": "Rust",
   "license": "MIT",
   "topics": [
@@ -23,13 +23,13 @@
     "url-shortener",
     "webapp"
   ],
-  "star_count": 804,
+  "star_count": 806,
   "fork_count": 76,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-11-21T01:37:06Z",
-  "updated_at": "2026-04-26T05:43:42Z",
-  "pushed_at": "2026-04-25T19:14:53Z",
+  "updated_at": "2026-04-28T16:38:23Z",
+  "pushed_at": "2026-04-28T04:01:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-04-26",
       "stars": 804
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 806
     }
   ]
 }

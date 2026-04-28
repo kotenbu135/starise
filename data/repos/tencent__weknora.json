@@ -3,8 +3,8 @@
   "owner": "tencent",
   "name": "weknora",
   "full_name": "tencent/weknora",
-  "description": "LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.",
-  "description_ja": "RAGパラダイムを用いた深い文書理解、セマンティック検索、コンテキスト対応の回答を実現するLLM活用フレームワーク",
+  "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+  "description_ja": "",
   "url": "https://github.com/Tencent/WeKnora",
   "homepage_url": "https://weknora.weixin.qq.com",
   "language": "Go",
@@ -14,7 +14,6 @@
     "agentic",
     "ai",
     "chatbot",
-    "chatbots",
     "embeddings",
     "evaluation",
     "generative-ai",
@@ -29,15 +28,16 @@
     "rag",
     "reranking",
     "semantic-search",
-    "vector-search"
+    "vector-search",
+    "wiki"
   ],
-  "star_count": 14011,
-  "fork_count": 1683,
+  "star_count": 14061,
+  "fork_count": 1688,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-22T08:01:23Z",
-  "updated_at": "2026-04-26T17:46:27Z",
-  "pushed_at": "2026-04-24T14:42:18Z",
+  "updated_at": "2026-04-28T19:40:39Z",
+  "pushed_at": "2026-04-28T15:47:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-04-26",
       "stars": 14011
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 14061
     }
   ]
 }

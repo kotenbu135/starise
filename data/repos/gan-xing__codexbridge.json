@@ -3,25 +3,43 @@
   "owner": "gan-xing",
   "name": "codexbridge",
   "full_name": "gan-xing/codexbridge",
-  "description": "",
+  "description": "WeChat-to-Codex bridge for running Codex app-server from chat, with threads, slash commands, approvals, agents, automation, uploads, and assistant records.",
   "description_ja": "",
   "url": "https://github.com/Gan-Xing/CodexBridge",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/Gan-Xing/CodexBridge#readme",
   "language": "TypeScript",
   "license": "",
-  "topics": [],
-  "star_count": 48,
-  "fork_count": 3,
+  "topics": [
+    "ai-agent",
+    "assistant",
+    "automation",
+    "bridge",
+    "chatbot",
+    "codex",
+    "codex-app-server",
+    "developer-tools",
+    "openai",
+    "slash-commands",
+    "typescript",
+    "wechat",
+    "wechat-bot"
+  ],
+  "star_count": 52,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-15T12:39:22Z",
-  "updated_at": "2026-04-26T17:05:10Z",
-  "pushed_at": "2026-04-26T17:05:05Z",
+  "updated_at": "2026-04-28T15:44:06Z",
+  "pushed_at": "2026-04-28T00:45:28Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-26",
       "stars": 48
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 52
     }
   ]
 }

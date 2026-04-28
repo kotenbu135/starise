@@ -3,10 +3,10 @@
   "owner": "skardilabs",
   "name": "skardi",
   "full_name": "skardilabs/skardi",
-  "description": "Spark for Agents — a data platform that gives AI agents full data autonomy so every dataset in your stack becomes something an agent can actually use.",
-  "description_ja": "エージェント向け Spark — AI エージェントに完全なデータ自律性を与え、スタック内のあらゆるデータセットをエージェントが実際に活用できるようにするデータプラットフォーム",
+  "description": "Skardi is an agent data plane that gives AI agents data autonomy.",
+  "description_ja": "",
   "url": "https://github.com/SkardiLabs/skardi",
-  "homepage_url": "",
+  "homepage_url": "https://www.skardi.ai/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -26,13 +26,13 @@
     "sqlite",
     "vector-search"
   ],
-  "star_count": 46,
+  "star_count": 52,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T14:29:26Z",
-  "updated_at": "2026-04-24T13:07:42Z",
-  "pushed_at": "2026-04-26T15:03:14Z",
+  "updated_at": "2026-04-28T19:00:12Z",
+  "pushed_at": "2026-04-28T20:17:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +50,10 @@
     {
       "date": "2026-04-26",
       "stars": 46
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 52
     }
   ]
 }
