@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css'
+import { SearchBox } from '../components/SearchBox';
 
 interface Props {
   title: string;
@@ -7,6 +8,7 @@ interface Props {
 }
 
 const { title, description = "日本語で使える GitHub Star 発見サイト" } = Astro.props;
+const basePath = import.meta.env.BASE_URL;
 ---
 
 <!doctype html>
@@ -24,10 +26,13 @@ const { title, description = "日本語で使える GitHub Star 発見サイト"
   </head>
   <body class="min-h-screen bg-white">
     <header class="border-b border-border">
-      <div class="mx-auto max-w-[1200px] px-4 py-4 flex items-center justify-between">
-        <a href={`${import.meta.env.BASE_URL}/`} class="text-xl font-bold text-text-primary hover:text-brand transition-colors duration-150">
+      <div class="mx-auto max-w-[1200px] px-4 py-4 flex items-center gap-4 flex-wrap">
+        <a href={`${basePath}/`} class="text-xl font-bold text-text-primary hover:text-brand transition-colors duration-150 shrink-0">
           starise
         </a>
+        <div class="flex-1 min-w-[200px] flex justify-end">
+          <SearchBox basePath={basePath} client:idle />
+        </div>
         <slot name="header-right" />
       </div>
     </header>

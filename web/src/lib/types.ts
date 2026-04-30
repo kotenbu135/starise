@@ -58,3 +58,46 @@ export interface Meta {
 export type SortKey = "end_stars" | "star_delta" | "growth_pct";
 export type SortDirection = "asc" | "desc";
 export type AgeFilter = "30d" | "90d" | "1y" | "all";
+
+// SearchIndexEntry mirrors the slim JSON shape produced by
+// batch/internal/export/search.go. Keys are 1 char to keep gzipped
+// payload small (~1.5MB for 60k repos).
+export interface SearchIndexEntry {
+  o: string;          // owner
+  n: string;          // name
+  l?: string;         // language
+  s: number;          // star_count
+  d?: string;         // description (ja preferred, fallback en, ≤80 runes)
+}
+
+export interface SearchIndex {
+  generated_at: string;
+  repos: SearchIndexEntry[];
+}
+
+export interface SearchResult {
+  entry: SearchIndexEntry;
+  score: number;
+}
+
+// RankSlotKey is one of the six rankings.json keys.
+export type RankSlotKey =
+  | "1d_breakout"
+  | "1d_trending"
+  | "7d_breakout"
+  | "7d_trending"
+  | "30d_breakout"
+  | "30d_trending";
+
+export const RANK_SLOT_KEYS: RankSlotKey[] = [
+  "1d_breakout",
+  "1d_trending",
+  "7d_breakout",
+  "7d_trending",
+  "30d_breakout",
+  "30d_trending",
+];
+
+// RankLookup: full_name (lower) -> per-slot rank. Built once from
+// rankings.json so /search can label otherwise-out-of-rank repos as 圏外.
+export type RankLookup = Map<string, Partial<Record<RankSlotKey, number>>>;

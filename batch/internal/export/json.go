@@ -173,6 +173,18 @@ func Export(d *sql.DB, opts Options) (int, error) {
 		return written, err
 	}
 
+	// search-index.json — slim per-repo header search payload (active repos
+	// only). Written without indentation: the file is consumed only by the
+	// browser, never hand-edited, and dropping pretty-print roughly halves
+	// the on-disk and gzipped sizes (~12MB → 6MB raw, ~3MB → 1.5MB gzipped).
+	si, err := BuildSearchIndex(d, opts.GeneratedAt, opts.ComputedDate, trCache)
+	if err != nil {
+		return written, fmt.Errorf("build search index: %w", err)
+	}
+	if err := writeJSONCompact(filepath.Join(opts.OutDir, "search-index.json"), si); err != nil {
+		return written, err
+	}
+
 	return written, nil
 }
 
@@ -194,6 +206,20 @@ func sortedStrings(in []string) []string {
 
 func writeJSON(path string, v interface{}) error {
 	b, err := json.MarshalIndent(v, "", "  ")
+	if err != nil {
+		return err
+	}
+	tmp := path + ".tmp"
+	if err := os.WriteFile(tmp, append(b, '\n'), 0o644); err != nil {
+		return err
+	}
+	return os.Rename(tmp, path)
+}
+
+// writeJSONCompact emits minified JSON. Used for machine-only payloads
+// (e.g. search-index.json) where pretty-print is wasted bytes.
+func writeJSONCompact(path string, v interface{}) error {
+	b, err := json.Marshal(v)
 	if err != nil {
 		return err
 	}

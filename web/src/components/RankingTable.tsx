@@ -99,7 +99,12 @@ export function RankingTable({ rankings, updatedAt, basePath = "" }: Props) {
     <div className="space-y-6">
       {/* Controls */}
       <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-        <PeriodToggle period={period} onChange={handlePeriodChange} count={processed.length} />
+        <PeriodToggle
+          period={period}
+          onChange={handlePeriodChange}
+          count={processed.length}
+          showCount={langFilter !== "" || ageFilter !== "all"}
+        />
         <p className="text-xs text-text-muted">
           最終更新: {updatedDate}
         </p>
