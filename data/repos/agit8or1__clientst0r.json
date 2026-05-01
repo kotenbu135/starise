@@ -3,11 +3,11 @@
   "owner": "agit8or1",
   "name": "clientst0r",
   "full_name": "agit8or1/clientst0r",
-  "description": "Client St0r - IT Documentation Platform for MSPs and IT Teams | Managed by Chinook the Shepsky 🐾",
-  "description_ja": "Client St0r - MSPおよびITチーム向けITドキュメント管理プラットフォーム | Chinook the Shepsky 🐾 が運営",
+  "description": "Open-source self-hosted MSP platform — IT documentation + native PSA / service desk + workflow engine. Tickets, projects, contracts, quotes, invoices, vault, KB, distributors, AI assist, customer portal. Django 6 + MariaDB.",
+  "description_ja": "",
   "url": "https://github.com/agit8or1/clientst0r",
   "homepage_url": "https://clientst0r.mspreboot.com/",
-  "language": "HTML",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "asset-management",
@@ -19,17 +19,21 @@
     "msp",
     "open-source",
     "password-vault",
+    "psa",
     "python",
     "rmm",
-    "self-hosted"
+    "self-hosted",
+    "service-desk",
+    "ticketing",
+    "workflow-engine"
   ],
   "star_count": 58,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-10T04:08:22Z",
-  "updated_at": "2026-04-28T16:37:50Z",
-  "pushed_at": "2026-04-28T15:51:48Z",
+  "updated_at": "2026-05-01T00:50:50Z",
+  "pushed_at": "2026-05-01T00:50:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +50,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 58
+    },
+    {
+      "date": "2026-05-01",
       "stars": 58
     }
   ]

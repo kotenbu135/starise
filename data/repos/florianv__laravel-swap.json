@@ -3,29 +3,28 @@
   "owner": "florianv",
   "name": "laravel-swap",
   "full_name": "florianv/laravel-swap",
-  "description": ":dollar: Currency exchange rates for Laravel and Lumen",
-  "description_ja": "Laravel と Lumen 向けの通貨為替レートライブラリ :dollar:",
+  "description": "Drop-in Laravel currency conversion: auto-discovered service provider, facade, and config. Multi-provider exchange rates with fallback and caching.",
+  "description_ja": "",
   "url": "https://github.com/florianv/laravel-swap",
   "homepage_url": "https://florianv.github.io/laravel-swap/",
   "language": "PHP",
   "license": "MIT",
   "topics": [
-    "currency",
-    "currency-converter",
-    "currency-exchange-rates",
-    "currency-rates",
+    "currency-conversion",
+    "exchange-rate-api",
     "exchange-rates",
     "laravel",
     "lumen",
-    "php"
+    "php",
+    "swap"
   ],
   "star_count": 334,
   "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-06-10T13:56:51Z",
-  "updated_at": "2026-04-21T08:17:10Z",
-  "pushed_at": "2026-04-21T08:17:06Z",
+  "updated_at": "2026-04-29T20:41:48Z",
+  "pushed_at": "2026-04-29T20:38:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +41,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 334
+    },
+    {
+      "date": "2026-05-01",
       "stars": 334
     }
   ]

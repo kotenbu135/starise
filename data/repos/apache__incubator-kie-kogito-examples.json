@@ -3,11 +3,11 @@
   "owner": "apache",
   "name": "incubator-kie-kogito-examples",
   "full_name": "apache/incubator-kie-kogito-examples",
-  "description": "Apache KIE Examples repository with showcases on how to use Kogito, Drools, SonataFlow",
-  "description_ja": "Kogito・Drools・SonataFlowの使い方を紹介するショーケースを含むApache KIEサンプルリポジトリ",
+  "description": "Apache KIE Examples repository with showcases on how to use Kogito, Drools, and jBPM",
+  "description_ja": "",
   "url": "https://github.com/apache/incubator-kie-kogito-examples",
   "homepage_url": "https://kie.apache.org",
-  "language": "Python",
+  "language": "Java",
   "license": "",
   "topics": [
     "apache",
@@ -35,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-03-07T09:33:22Z",
-  "updated_at": "2026-04-27T09:50:57Z",
-  "pushed_at": "2026-04-27T09:50:52Z",
+  "updated_at": "2026-04-29T21:38:17Z",
+  "pushed_at": "2026-04-29T21:39:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +57,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 295
+    },
+    {
+      "date": "2026-05-01",
       "stars": 295
     }
   ]

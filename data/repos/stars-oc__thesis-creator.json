@@ -3,7 +3,7 @@
   "owner": "stars-oc",
   "name": "thesis-creator",
   "full_name": "stars-oc/thesis-creator",
-  "description": "毕业论文 AI 助手：适用于 Claude Code / Agent 的论文写作 Skill (论文.SKILL)。涵盖选题、开题报告、任务书、文献综述、致谢及代码说明文档生成。针对计算机本科进行优化，助力高质量毕业设计。",
+  "description": "适用于 Claude Code / Agent 的论文写作 Skill (论文.SKILL)。涵盖论文内容、数据库ER图、整体流程图生成。针对本科论文进行aigc率降低、降重的优化，助力毕业设计高质量生成。",
   "description_ja": "",
   "url": "https://github.com/Stars-OC/thesis-creator",
   "homepage_url": "",
@@ -18,13 +18,13 @@
     "skills",
     "thesis-writing"
   ],
-  "star_count": 59,
+  "star_count": 68,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T11:15:18Z",
-  "updated_at": "2026-04-28T17:01:46Z",
-  "pushed_at": "2026-04-28T17:01:29Z",
+  "updated_at": "2026-05-01T17:52:44Z",
+  "pushed_at": "2026-04-30T05:46:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-04-28",
       "stars": 59
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 68
     }
   ]
 }

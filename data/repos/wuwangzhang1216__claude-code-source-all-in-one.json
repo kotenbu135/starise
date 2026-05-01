@@ -3,8 +3,8 @@
   "owner": "wuwangzhang1216",
   "name": "claude-code-source-all-in-one",
   "full_name": "wuwangzhang1216/claude-code-source-all-in-one",
-  "description": "Always up-to-date open-source mirror of Claude Code with GPT-5.4 support. Run Claude Code from source with Claude or GPT models via ChatGPT subscription. 18 deep-dive architecture articles included. For educational and reference purposes only.",
-  "description_ja": "GPT-5.4サポートを追加した常に最新のClaude Codeオープンソースミラー。ChatGPTサブスクリプション経由でClaudeまたはGPTモデルを使用してソースからClaude Codeを実行可能。18本のアーキテクチャ詳解記事を収録。教育・参考目的のみ",
+  "description": "Always up-to-date open-source mirror of Claude Code (currently v2.1.123). Run from source with Claude subscription/API, ChatGPT subscription (GPT-5.5 / GPT-5.4), OpenAI-compatible providers, or local Ollama. 18 deep-dive architecture articles included. For educational and reference purposes only.",
+  "description_ja": "",
   "url": "https://github.com/wuwangzhang1216/claude-code-source-all-in-one",
   "homepage_url": "",
   "language": "TypeScript",
@@ -29,13 +29,13 @@
     "source-code",
     "typescript"
   ],
-  "star_count": 69,
-  "fork_count": 89,
+  "star_count": 73,
+  "fork_count": 90,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T19:24:45Z",
-  "updated_at": "2026-04-23T13:43:12Z",
-  "pushed_at": "2026-04-23T13:45:06Z",
+  "updated_at": "2026-05-01T10:45:49Z",
+  "pushed_at": "2026-04-30T18:33:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +57,10 @@
     {
       "date": "2026-04-28",
       "stars": 69
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 73
     }
   ]
 }

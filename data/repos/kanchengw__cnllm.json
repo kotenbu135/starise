@@ -3,7 +3,7 @@
   "owner": "kanchengw",
   "name": "cnllm",
   "full_name": "kanchengw/cnllm",
-  "description": "中文大模型适配库，将 API 响应封装为 OpenAI 标准格式，无缝协作 LangChain、LlamaIndex、LiteLLM 等机器学习框架",
+  "description": "为中文大模型定制的 OpenAI SDK 增强库，系统性优化接口适配、响应解析和批量处理等能力，无缝协作 OpenAI 生态内 LangChain、LlamaIndex、LiteLLM 等机器学习应用框架。支持作为 Skill 部署，让 Agent 通过 CNLLM 来调用中文大模型。",
   "description_ja": "",
   "url": "https://github.com/kanchengw/cnllm",
   "homepage_url": "",
@@ -26,18 +26,22 @@
     "package",
     "python"
   ],
-  "star_count": 49,
-  "fork_count": 5,
+  "star_count": 63,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-26T16:07:26Z",
-  "updated_at": "2026-04-28T08:30:04Z",
-  "pushed_at": "2026-04-26T14:00:03Z",
+  "updated_at": "2026-05-01T18:08:34Z",
+  "pushed_at": "2026-05-01T17:16:47Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-28",
       "stars": 49
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 63
     }
   ]
 }

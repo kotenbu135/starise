@@ -3,10 +3,10 @@
   "owner": "awizemann",
   "name": "scarf",
   "full_name": "awizemann/scarf",
-  "description": "Native macOS and iOS GUI for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
+  "description": "Native macOS and iOS App for the Hermes AI agent — multi-window, multi-server (local + remote over SSH). Chat, dashboard, sessions, memory, cron, MCP, and more.",
   "description_ja": "",
   "url": "https://github.com/awizemann/scarf",
-  "homepage_url": "",
+  "homepage_url": "https://awizemann.github.io/scarf/",
   "language": "Swift",
   "license": "MIT",
   "topics": [
@@ -19,13 +19,13 @@
     "swiftui",
     "terminal"
   ],
-  "star_count": 326,
-  "fork_count": 17,
+  "star_count": 357,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T06:30:27Z",
-  "updated_at": "2026-04-28T19:00:29Z",
-  "pushed_at": "2026-04-27T13:38:50Z",
+  "updated_at": "2026-05-01T16:11:14Z",
+  "pushed_at": "2026-05-01T14:20:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-04-28",
       "stars": 326
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 357
     }
   ]
 }

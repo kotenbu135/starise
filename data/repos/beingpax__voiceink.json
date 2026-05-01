@@ -3,8 +3,8 @@
   "owner": "beingpax",
   "name": "voiceink",
   "full_name": "beingpax/voiceink",
-  "description": "Voice-to-text app for macOS to transcribe what you say to text almost instantly",
-  "description_ja": "macOS 向け音声テキスト変換アプリ。話した内容をほぼ即座にテキストに書き起こします。",
+  "description": "The best open-source alternative to Superwhisper \u0026 Wispr Flow. Voice-to-text app for macOS with no subscription",
+  "description_ja": "",
   "url": "https://github.com/Beingpax/VoiceInk",
   "homepage_url": "https://tryvoiceink.com",
   "language": "Swift",
@@ -14,13 +14,13 @@
     "macos-app",
     "swift"
   ],
-  "star_count": 4751,
-  "fork_count": 645,
+  "star_count": 4788,
+  "fork_count": 652,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-20T15:11:17Z",
-  "updated_at": "2026-04-28T19:18:21Z",
-  "pushed_at": "2026-04-28T17:30:43Z",
+  "updated_at": "2026-05-01T15:23:55Z",
+  "pushed_at": "2026-04-30T11:13:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +42,10 @@
     {
       "date": "2026-04-28",
       "stars": 4751
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 4788
     }
   ]
 }

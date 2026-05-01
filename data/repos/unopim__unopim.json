@@ -3,8 +3,8 @@
   "owner": "unopim",
   "name": "unopim",
   "full_name": "unopim/unopim",
-  "description": "A free and open-source Laravel-based Product Information Management (PIM) system that helps businesses organize, manage, and enrich their product data from a single, central platform. Learn how UnoPIM scales to handle over 10 million products:  https://unopim.com/scaling-unopim-for-10-million-products/",
-  "description_ja": "Laravelベースの無料オープンソースPIM（製品情報管理）システム。単一の中央プラットフォームから製品データを整理・管理・拡充できます。1,000万件以上の商品スケールへの対応方法もご覧ください: https://unopim.com/scaling-unopim-for-10-million-products/",
+  "description": "Unopim is a free and open-source Laravel-based Product Information Management (PIM) system that helps businesses manage and enrich product data from a single platform. Built to scale beyond 10M+ products, now evolving with Agentic PIM capabilities.",
+  "description_ja": "",
   "url": "https://github.com/unopim/unopim",
   "homepage_url": "https://unopim.com",
   "language": "PHP",
@@ -19,13 +19,13 @@
     "product-information-management",
     "product-management"
   ],
-  "star_count": 9712,
-  "fork_count": 135,
+  "star_count": 9756,
+  "fork_count": 136,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-24T07:04:52Z",
-  "updated_at": "2026-04-28T17:37:14Z",
-  "pushed_at": "2026-04-25T07:21:15Z",
+  "updated_at": "2026-05-01T18:36:24Z",
+  "pushed_at": "2026-04-29T18:03:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-04-28",
       "stars": 9712
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 9756
     }
   ]
 }

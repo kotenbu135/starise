@@ -9,14 +9,23 @@
   "homepage_url": "",
   "language": "Haskell",
   "license": "BSD-3-Clause",
-  "topics": [],
+  "topics": [
+    "arm",
+    "binary-analysis",
+    "haskell-library",
+    "ppc",
+    "reverse-engineering",
+    "riscv",
+    "symbolic-execution",
+    "x86-64"
+  ],
   "star_count": 250,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-09-28T16:42:26Z",
-  "updated_at": "2026-04-24T14:37:14Z",
-  "pushed_at": "2026-04-28T19:14:21Z",
+  "updated_at": "2026-04-30T18:39:23Z",
+  "pushed_at": "2026-04-30T18:39:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +42,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 250
+    },
+    {
+      "date": "2026-05-01",
       "stars": 250
     }
   ]

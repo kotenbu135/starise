@@ -3,8 +3,8 @@
   "owner": "dehydrated-io",
   "name": "dehydrated",
   "full_name": "dehydrated-io/dehydrated",
-  "description": "letsencrypt/acme client implemented as a shell-script – just add water",
-  "description_ja": "シェルスクリプトとして実装された letsencrypt/acme クライアント — すぐに使えます",
+  "description": "ACME client implemented as a simple shell-script – just add water",
+  "description_ja": "",
   "url": "https://github.com/dehydrated-io/dehydrated",
   "homepage_url": "https://dehydrated.io",
   "language": "Shell",
@@ -16,15 +16,16 @@
     "letsencrypt",
     "shell",
     "signing",
+    "zerossl",
     "zsh"
   ],
-  "star_count": 6198,
-  "fork_count": 721,
+  "star_count": 6200,
+  "fork_count": 722,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-12-05T01:31:53Z",
-  "updated_at": "2026-04-26T13:26:49Z",
-  "pushed_at": "2026-02-03T23:39:49Z",
+  "updated_at": "2026-05-01T02:53:03Z",
+  "pushed_at": "2026-04-30T14:31:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +43,10 @@
     {
       "date": "2026-04-28",
       "stars": 6198
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 6200
     }
   ]
 }

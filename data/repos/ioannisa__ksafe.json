@@ -3,34 +3,36 @@
   "owner": "ioannisa",
   "name": "ksafe",
   "full_name": "ioannisa/ksafe",
-  "description": "Meet KSafe. Secure-by-default key/value persistence for Kotlin Multiplatform and Android. Encrypted by default, with optional unencrypted storage, property delegates, Flow/StateFlow, and hardware-backed encryption.",
-  "description_ja": "KSafeのご紹介。Kotlin MultiplatformおよびAndroid向けのデフォルトでセキュアなキー/バリュー永続化ライブラリ。デフォルト暗号化、オプションの非暗号化ストレージ、プロパティデリゲート、Flow/StateFlow、ハードウェアバックの暗号化をサポート。",
+  "description": "A library for saving key/value pair data for Kotlin Multiplatform and Android. Encryption enabled by default, with option for Plain (unencrypted) storage. Supports Property Delegates, Flow/StateFlow, with Jetpack Compose and biometrics integration using hardware-backed encryption.",
+  "description_ja": "",
   "url": "https://github.com/ioannisa/KSafe",
   "homepage_url": "",
   "language": "Kotlin",
   "license": "Apache-2.0",
   "topics": [
-    "android",
-    "encrypted-datastore",
-    "encrypted-sharedpreferences",
-    "encrypted-storage",
-    "ios",
-    "keychain",
-    "keystore",
-    "kmp",
+    "android-keystore",
+    "datastore-preferences",
+    "encrypted-store",
+    "encryption",
+    "ios-keychain",
+    "keyvaluestore",
     "kotlin",
-    "kotlin-multiplatform",
-    "persistent-storage",
-    "secure-key-storage",
-    "sharedpreferences",
-    "storage"
+    "kotlin-android",
+    "kotlin-ios",
+    "kotlin-js",
+    "kotlin-jvm",
+    "kotlin-library",
+    "kotlin-macos",
+    "kotlin-multiplatform-library",
+    "kotlin-wasm",
+    "kotlin-web"
   ],
   "star_count": 272,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-23T11:12:08Z",
-  "updated_at": "2026-04-28T19:05:31Z",
+  "updated_at": "2026-04-29T07:02:22Z",
   "pushed_at": "2026-04-28T19:07:25Z",
   "deleted_at": "",
   "star_history": [
@@ -52,6 +54,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 272
+    },
+    {
+      "date": "2026-05-01",
       "stars": 272
     }
   ]

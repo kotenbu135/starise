@@ -3,29 +3,38 @@
   "owner": "florianv",
   "name": "swap",
   "full_name": "florianv/swap",
-  "description": ":currency_exchange: Currency exchange rates library",
-  "description_ja": "通貨為替レートライブラリ :currency_exchange:",
+  "description": "PHP currency conversion library for retrieving exchange rates from 30 providers, with caching and fallback. Maintained since 2014.",
+  "description_ja": "",
   "url": "https://github.com/florianv/swap",
   "homepage_url": "https://florianv.github.io/swap/",
   "language": "PHP",
   "license": "MIT",
   "topics": [
     "currency",
+    "currency-conversion",
+    "currency-conversion-library",
     "currency-converter",
     "currency-exchange",
     "currency-exchange-rates",
     "currency-rates",
+    "exchange-rate-api",
     "exchange-rates",
+    "forex",
+    "forex-api",
+    "laravel",
     "money",
-    "php"
+    "php",
+    "php-currency-conversion",
+    "php-library",
+    "symfony"
   ],
   "star_count": 1331,
   "fork_count": 144,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-05-09T13:20:05Z",
-  "updated_at": "2026-04-21T13:45:43Z",
-  "pushed_at": "2026-04-21T08:36:27Z",
+  "updated_at": "2026-04-29T18:49:29Z",
+  "pushed_at": "2026-04-29T19:16:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +55,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 1331
+    },
+    {
+      "date": "2026-05-01",
       "stars": 1331
     }
   ]

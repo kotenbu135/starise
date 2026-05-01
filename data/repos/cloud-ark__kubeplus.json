@@ -3,8 +3,8 @@
   "owner": "cloud-ark",
   "name": "kubeplus",
   "full_name": "cloud-ark/kubeplus",
-  "description": "Framework for delivering SaaS-style, namespace-isolated application instances on Kubernetes without writing custom operators.",
-  "description_ja": "カスタムオペレーターなしでKubernetes上にSaaS方式の名前空間分離アプリケーションインスタンスを提供するフレームワーク",
+  "description": "Kubernetes Operator for delivering SaaS-style, namespace-isolated application instances on Kubernetes",
+  "description_ja": "",
   "url": "https://github.com/cloud-ark/kubeplus",
   "homepage_url": "https://cloudark.io/",
   "language": "Go",
@@ -25,7 +25,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-03-24T22:59:17Z",
-  "updated_at": "2026-04-27T20:11:19Z",
+  "updated_at": "2026-04-29T21:34:52Z",
   "pushed_at": "2026-04-27T14:21:40Z",
   "deleted_at": "",
   "star_history": [
@@ -47,6 +47,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 734
+    },
+    {
+      "date": "2026-05-01",
       "stars": 734
     }
   ]

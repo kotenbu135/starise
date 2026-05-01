@@ -3,8 +3,8 @@
   "owner": "cjackhwang",
   "name": "ds2api",
   "full_name": "cjackhwang/ds2api",
-  "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
-  "description_ja": "Deepseek to API：クライアントプロトコルを汎用APIに変換する軽量・高性能フルスタックミドルウェア。マルチアカウントローテーション、コンパイル済みバイナリ、Vercel Serverless、Dockerに対応。Google、Claude、OpenAI APIフォーマットと互換性あり。",
+  "description": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.",
+  "description_ja": "",
   "url": "https://github.com/CJackHwang/ds2api",
   "homepage_url": "https://linux.do/u/cjackhwang",
   "language": "Go",
@@ -25,13 +25,13 @@
     "vercel-deployment",
     "zeabur"
   ],
-  "star_count": 2262,
-  "fork_count": 642,
+  "star_count": 3055,
+  "fork_count": 801,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-21T15:14:40Z",
-  "updated_at": "2026-04-28T19:25:20Z",
-  "pushed_at": "2026-04-28T17:34:11Z",
+  "updated_at": "2026-05-01T17:39:33Z",
+  "pushed_at": "2026-05-01T16:56:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +49,10 @@
     {
       "date": "2026-04-28",
       "stars": 2262
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 3055
     }
   ]
 }

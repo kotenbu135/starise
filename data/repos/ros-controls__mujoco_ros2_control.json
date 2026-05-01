@@ -7,7 +7,7 @@
   "description_ja": "MuJoCo物理シミュレータ向けのROS 2コントロールハードウェアインターフェースを提供。各種センサー、RGB-Dカメラ、LiDARのプラグインを含む",
   "url": "https://github.com/ros-controls/mujoco_ros2_control",
   "homepage_url": "",
-  "language": "Python",
+  "language": "C++",
   "license": "Apache-2.0",
   "topics": [
     "mujoco",
@@ -16,13 +16,13 @@
     "ros2",
     "simulation"
   ],
-  "star_count": 183,
-  "fork_count": 36,
+  "star_count": 186,
+  "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-20T18:06:47Z",
-  "updated_at": "2026-04-28T20:00:12Z",
-  "pushed_at": "2026-04-24T07:20:15Z",
+  "updated_at": "2026-05-01T18:05:27Z",
+  "pushed_at": "2026-05-01T18:05:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +40,10 @@
     {
       "date": "2026-04-28",
       "stars": 183
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 186
     }
   ]
 }

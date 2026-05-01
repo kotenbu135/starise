@@ -1,0 +1,39 @@
+{
+  "repo_id": "R_kgDORPBX-Q",
+  "owner": "jxlarrea",
+  "name": "wyoming-voice-match",
+  "full_name": "jxlarrea/wyoming-voice-match",
+  "description": "A Wyoming protocol ASR proxy that verifies speaker identity and isolates voice commands from background noise before forwarding audio to a downstream speech-to-text service. Designed for Home Assistant voice pipelines to prevent false activations from TVs, radios, and other people - and to deliver clean transcripts even in noisy environments.",
+  "description_ja": "",
+  "url": "https://github.com/jxlarrea/wyoming-voice-match",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "asr",
+    "asr-services",
+    "docker",
+    "embeddings",
+    "home-assistant",
+    "proxy-server",
+    "speech-processing",
+    "speech-to-text",
+    "voice-activity-detection",
+    "voice-assistant",
+    "wyoming-protocol"
+  ],
+  "star_count": 49,
+  "fork_count": 3,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-02-12T20:49:24Z",
+  "updated_at": "2026-04-30T09:17:33Z",
+  "pushed_at": "2026-03-23T22:22:53Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-01",
+      "stars": 49
+    }
+  ]
+}

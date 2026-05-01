@@ -3,8 +3,8 @@
   "owner": "safishamsi",
   "name": "graphify",
   "full_name": "safishamsi/graphify",
-  "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph",
-  "description_ja": "AIコーディングアシスタントスキル（Claude Code、Codex、OpenCode、Cursor、Gemini CLI、GitHub Copilot CLI、OpenClaw、Factory Droid、Trae、Google Antigravity対応）。コード・ドキュメント・論文・画像・動画の任意のフォルダをクエリ可能なナレッジグラフに変換します",
+  "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+  "description_ja": "",
   "url": "https://github.com/safishamsi/graphify",
   "homepage_url": "https://graphifylabs.ai/",
   "language": "Python",
@@ -19,13 +19,13 @@
     "openclaw",
     "skills"
   ],
-  "star_count": 37240,
-  "fork_count": 4126,
+  "star_count": 39523,
+  "fork_count": 4365,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-03T15:49:07Z",
-  "updated_at": "2026-04-28T20:14:14Z",
-  "pushed_at": "2026-04-28T14:06:28Z",
+  "updated_at": "2026-05-01T18:33:50Z",
+  "pushed_at": "2026-05-01T17:53:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-04-28",
       "stars": 37240
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 39523
     }
   ]
 }

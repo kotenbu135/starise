@@ -3,8 +3,8 @@
   "owner": "healthchainai",
   "name": "healthchain",
   "full_name": "healthchainai/healthchain",
-  "description": "Open-source SDK for healthcare AI: FHIR endpoints, EHR integration, and deployment tooling in Python 💫 🏥",
-  "description_ja": "ヘルスケアAI向けオープンソースSDK: PythonでFHIRエンドポイント、EHR統合、デプロイツールを提供",
+  "description": "Python SDK for healthcare AI: connect models to live EHR systems, skip the integration tax 💫 🏥",
+  "description_ja": "",
   "url": "https://github.com/healthchainai/HealthChain",
   "homepage_url": "https://healthchainai.github.io/HealthChain/",
   "language": "Python",
@@ -18,19 +18,18 @@
     "healthcare",
     "healthcare-ai",
     "llm",
+    "machine-learning",
     "mlops",
     "nlp",
-    "pipeline",
-    "python",
-    "python-sdk"
+    "python"
   ],
-  "star_count": 191,
+  "star_count": 192,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-11T10:09:35Z",
-  "updated_at": "2026-04-27T01:42:59Z",
-  "pushed_at": "2026-04-24T16:33:28Z",
+  "updated_at": "2026-05-01T17:33:44Z",
+  "pushed_at": "2026-05-01T17:12:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -48,6 +47,10 @@
     {
       "date": "2026-04-28",
       "stars": 191
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 192
     }
   ]
 }

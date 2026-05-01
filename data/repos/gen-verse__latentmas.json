@@ -3,8 +3,8 @@
   "owner": "gen-verse",
   "name": "latentmas",
   "full_name": "gen-verse/latentmas",
-  "description": "Latent Collaboration in Multi-Agent Systems",
-  "description_ja": "マルチエージェントシステムにおける潜在的コラボレーション。",
+  "description": "[ICML 2026 Spotlight] Latent Collaboration in Multi-Agent Systems",
+  "description_ja": "",
   "url": "https://github.com/Gen-Verse/LatentMAS",
   "homepage_url": "https://arxiv.org/abs/2511.20639",
   "language": "Python",
@@ -17,13 +17,13 @@
     "model-collaboration",
     "multi-agent-systems"
   ],
-  "star_count": 895,
-  "fork_count": 132,
+  "star_count": 901,
+  "fork_count": 134,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-25T00:40:43Z",
-  "updated_at": "2026-04-28T08:49:36Z",
-  "pushed_at": "2026-03-27T02:19:01Z",
+  "updated_at": "2026-05-01T15:18:33Z",
+  "pushed_at": "2026-05-01T15:18:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     {
       "date": "2026-04-28",
       "stars": 895
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 901
     }
   ]
 }

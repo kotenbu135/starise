@@ -3,20 +3,26 @@
   "owner": "gitlawb",
   "name": "openclaude",
   "full_name": "gitlawb/openclaude",
-  "description": "Open Claude Is Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, Codex, GitHub Models, and 200+ models via OpenAI-compatible APIs.",
-  "description_ja": "Open ClaudeはOpenAI、Gemini、DeepSeek、Ollama、Codex、GitHub Modelsおよび200以上のモデルをOpenAI互換APIで利用できるオープンソースのコーディングエージェントCLI。",
+  "description": "runs anywhere. uses anything",
+  "description_ja": "",
   "url": "https://github.com/Gitlawb/openclaude",
-  "homepage_url": "",
+  "homepage_url": "https://openclaude.gitlawb.com",
   "language": "TypeScript",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 24840,
-  "fork_count": 8095,
+  "topics": [
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "cli",
+    "coding"
+  ],
+  "star_count": 25335,
+  "fork_count": 8187,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-01T03:15:49Z",
-  "updated_at": "2026-04-28T19:21:14Z",
-  "pushed_at": "2026-04-28T15:35:26Z",
+  "updated_at": "2026-05-01T18:08:15Z",
+  "pushed_at": "2026-05-01T14:45:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +44,10 @@
     {
       "date": "2026-04-28",
       "stars": 24840
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 25335
     }
   ]
 }

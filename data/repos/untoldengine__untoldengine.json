@@ -3,26 +3,28 @@
   "owner": "untoldengine",
   "name": "untoldengine",
   "full_name": "untoldengine/untoldengine",
-  "description": "A 3D renderer and engine for Apple platforms. We strive to build a Swift and Metal–first foundation for real-time rendering and XR, designed for developers who want full control.",
+  "description": "Open-source Swift + Metal engine for macOS, iOS, and Apple Vision Pro. Remote asset streaming, LOD, static batching, and a native asset format — built for large scenes and XR applications.",
   "description_ja": "",
   "url": "https://github.com/untoldengine/UntoldEngine",
   "homepage_url": "http://www.untoldengine.com",
   "language": "Swift",
   "license": "MPL-2.0",
   "topics": [
-    "3d-game-engine",
+    "3d-rendering",
+    "apple-vision-pro",
     "game-engine",
-    "gamedev",
     "metal",
-    "untold-engine"
+    "swift",
+    "visionos",
+    "xr"
   ],
-  "star_count": 86,
+  "star_count": 88,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-25T00:44:57Z",
-  "updated_at": "2026-04-28T17:45:12Z",
-  "pushed_at": "2026-04-28T13:37:39Z",
+  "updated_at": "2026-05-01T18:16:58Z",
+  "pushed_at": "2026-05-01T14:18:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +42,10 @@
     {
       "date": "2026-04-28",
       "stars": 86
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 88
     }
   ]
 }

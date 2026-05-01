@@ -3,8 +3,8 @@
   "owner": "iii-hq",
   "name": "iii",
   "full_name": "iii-hq/iii",
-  "description": "iii unifies your existing backend stack with a single engine and three primitives: Function, Trigger, and Worker.",
-  "description_ja": "iii は既存のバックエンドスタックを単一エンジンと 3 つのプリミティブ（Function、Trigger、Worker）で統合します。",
+  "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+  "description_ja": "",
   "url": "https://github.com/iii-hq/iii",
   "homepage_url": "https://iii.dev",
   "language": "Rust",
@@ -23,13 +23,13 @@
     "rust",
     "typescript"
   ],
-  "star_count": 15359,
-  "fork_count": 1027,
+  "star_count": 15480,
+  "fork_count": 1033,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-02T17:45:02Z",
-  "updated_at": "2026-04-28T19:05:19Z",
-  "pushed_at": "2026-04-28T19:38:26Z",
+  "updated_at": "2026-05-01T17:29:29Z",
+  "pushed_at": "2026-05-01T17:37:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -51,6 +51,10 @@
     {
       "date": "2026-04-28",
       "stars": 15359
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 15480
     }
   ]
 }

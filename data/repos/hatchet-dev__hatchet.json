@@ -3,8 +3,8 @@
   "owner": "hatchet-dev",
   "name": "hatchet",
   "full_name": "hatchet-dev/hatchet",
-  "description": "🪓 Run Background Tasks at Scale",
-  "description_ja": "バックグラウンドタスクを大規模に実行するフレームワーク",
+  "description": "🪓 An orchestration engine for background tasks, AI agents, and durable workflows",
+  "description_ja": "",
   "url": "https://github.com/hatchet-dev/hatchet",
   "homepage_url": "https://hatchet.run",
   "language": "Go",
@@ -24,13 +24,13 @@
     "typescript",
     "workflow-engine"
   ],
-  "star_count": 7018,
-  "fork_count": 359,
+  "star_count": 7044,
+  "fork_count": 364,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-15T17:50:29Z",
-  "updated_at": "2026-04-28T18:43:37Z",
-  "pushed_at": "2026-04-28T19:38:27Z",
+  "updated_at": "2026-05-01T17:57:44Z",
+  "pushed_at": "2026-05-01T17:57:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -52,6 +52,10 @@
     {
       "date": "2026-04-28",
       "stars": 7018
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 7044
     }
   ]
 }

@@ -1,0 +1,41 @@
+{
+  "repo_id": "R_kgDOSLtcgw",
+  "owner": "joeynyc",
+  "name": "spark-doctor",
+  "full_name": "joeynyc/spark-doctor",
+  "description": "Local diagnostic CLI for NVIDIA DGX Spark (GB10). Detects power caps, unified memory pressure, thermal risk, Docker/runtime issues, and validates vLLM/Ollama/llama.cpp/SGLang recipes.",
+  "description_ja": "",
+  "url": "https://github.com/joeynyc/spark-doctor",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "cli",
+    "dgx",
+    "dgx-spark",
+    "diagnostics",
+    "gb10",
+    "grace-blackwell",
+    "llama-cpp",
+    "local-llm",
+    "nvidia",
+    "nvidia-dgx-spark",
+    "ollama",
+    "sglang",
+    "vllm"
+  ],
+  "star_count": 29,
+  "fork_count": 1,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-24T17:36:26Z",
+  "updated_at": "2026-05-01T05:30:18Z",
+  "pushed_at": "2026-04-24T20:01:29Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-01",
+      "stars": 29
+    }
+  ]
+}

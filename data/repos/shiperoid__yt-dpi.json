@@ -3,31 +3,42 @@
   "owner": "shiperoid",
   "name": "yt-dpi",
   "full_name": "shiperoid/yt-dpi",
-  "description": "YT-DPI is a lightweight diagnostic utility designed to identify YouTube connection issues caused by DPI (Deep Packet Inspection) or IP-level blocking.",
+  "description": " YT-DPI — это легковесная диагностическая утилита, предназначенная для выявления проблем с подключением к YouTube, вызванных DPI (глубоким анализом пакетов) или блокировкой на уровне IP-адреса.",
   "description_ja": "",
   "url": "https://github.com/Shiperoid/YT-DPI",
-  "homepage_url": "",
+  "homepage_url": "https://t.me/YT_DPI",
   "language": "Batchfile",
   "license": "MIT",
   "topics": [
+    "analyzer",
+    "bash",
     "bat",
+    "cmd",
+    "csharp",
     "dpi",
+    "network",
     "powershell",
+    "scanner",
+    "shell",
     "windows",
     "youtube"
   ],
-  "star_count": 48,
+  "star_count": 49,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T04:00:18Z",
-  "updated_at": "2026-04-28T18:09:10Z",
-  "pushed_at": "2026-04-28T01:21:56Z",
+  "updated_at": "2026-05-01T10:55:06Z",
+  "pushed_at": "2026-05-01T00:48:44Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-04-28",
       "stars": 48
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 49
     }
   ]
 }

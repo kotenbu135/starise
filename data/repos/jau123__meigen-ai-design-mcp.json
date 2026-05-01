@@ -3,8 +3,8 @@
   "owner": "jau123",
   "name": "meigen-ai-design-mcp",
   "full_name": "jau123/meigen-ai-design-mcp",
-  "description": "MeiGen-AI-Design-MCP — Turn Claude Code / OpenClaw into your local Lovart. Local ComfyUI, 1,400+ prompt library, multi-direction parallel generation.",
-  "description_ja": "MeiGen-AI-Design-MCP — Claude Code / OpenClawをローカルのLovartに変える。ローカルComfyUI、1,400件以上のプロンプトライブラリ、多方向並列生成対応",
+  "description": "Supports GPT Image 2, Nanobanana \u0026 ComfyUI, with a 1,400+ prompt library, carefully crafted hooks and a multi-task orchestration system",
+  "description_ja": "",
   "url": "https://github.com/jau123/MeiGen-AI-Design-MCP",
   "homepage_url": "https://meigen.ai",
   "language": "TypeScript",
@@ -21,13 +21,13 @@
     "openclaw",
     "prompt-engineering"
   ],
-  "star_count": 720,
-  "fork_count": 96,
+  "star_count": 902,
+  "fork_count": 123,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-07T12:39:26Z",
-  "updated_at": "2026-04-28T19:08:55Z",
-  "pushed_at": "2026-04-23T16:30:09Z",
+  "updated_at": "2026-05-01T17:10:31Z",
+  "pushed_at": "2026-04-30T16:24:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     {
       "date": "2026-04-28",
       "stars": 720
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 902
     }
   ]
 }

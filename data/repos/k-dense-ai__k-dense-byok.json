@@ -3,20 +3,35 @@
   "owner": "k-dense-ai",
   "name": "k-dense-byok",
   "full_name": "k-dense-ai/k-dense-byok",
-  "description": "An AI co-scientist powered by Claude Scientific Skills running on your desktop.",
-  "description_ja": "デスクトップ上で動作する、Claude Scientific Skillsを活用したAI共同研究者",
+  "description": "An AI co-scientist powered by Scientific Agent Skills running on your desktop.",
+  "description_ja": "",
   "url": "https://github.com/K-Dense-AI/k-dense-byok",
-  "homepage_url": "",
+  "homepage_url": "https://k-dense.ai",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 606,
-  "fork_count": 64,
+  "topics": [
+    "agentic-ai",
+    "ai-agent",
+    "ai-assistant",
+    "bioinformatics",
+    "byok",
+    "drug-discovery",
+    "google-adk",
+    "litellm",
+    "local-first",
+    "mcp",
+    "ollama",
+    "openrouter",
+    "research-assistant",
+    "scientific-computing"
+  ],
+  "star_count": 613,
+  "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-19T22:43:52Z",
-  "updated_at": "2026-04-28T18:32:35Z",
-  "pushed_at": "2026-04-28T16:59:53Z",
+  "updated_at": "2026-05-01T17:16:40Z",
+  "pushed_at": "2026-05-01T17:16:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +49,10 @@
     {
       "date": "2026-04-28",
       "stars": 606
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 613
     }
   ]
 }

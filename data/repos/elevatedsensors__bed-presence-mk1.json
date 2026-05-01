@@ -3,11 +3,11 @@
   "owner": "elevatedsensors",
   "name": "bed-presence-mk1",
   "full_name": "elevatedsensors/bed-presence-mk1",
-  "description": "Documentation and configs for Elevated Sensors",
-  "description_ja": "Elevated Sensorsのドキュメントと設定ファイル。",
+  "description": "ESPHome configs for Bed Presence Mk1",
+  "description_ja": "",
   "url": "https://github.com/ElevatedSensors/bed-presence-mk1",
-  "homepage_url": "https://docs.elevatedsensors.com/",
-  "language": "HTML",
+  "homepage_url": "https://www.elevatedsensors.com/",
+  "language": "Groovy",
   "license": "MIT",
   "topics": [
     "esp32",
@@ -19,13 +19,13 @@
     "occupancy-detection",
     "yaml"
   ],
-  "star_count": 49,
+  "star_count": 50,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-11T23:41:39Z",
-  "updated_at": "2026-04-22T18:36:05Z",
-  "pushed_at": "2026-04-27T21:37:36Z",
+  "updated_at": "2026-05-01T04:36:54Z",
+  "pushed_at": "2026-05-01T09:00:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +43,10 @@
     {
       "date": "2026-04-28",
       "stars": 49
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 50
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "repo_id": "R_kgDOSFHtzw",
+  "owner": "sandermage",
+  "name": "genesis-vllm-patches",
+  "full_name": "sandermage/genesis-vllm-patches",
+  "description": "Runtime patches for vLLM — Qwen3.6 (27B int4 / 35B-A3B FP8) on consumer Ampere. 50+ patches: TurboQuant KV, MTP / DFlash / ngram spec-decode, FULL cudagraph, 256K-320K context. v7.64: P67 non-pow-2 GQA, Cliff 1 fix, 6 docs (FAQ/HARDWARE/CONFIGS/CLIFFS), Genesis Compat Layer.",
+  "description_ja": "",
+  "url": "https://github.com/Sandermage/genesis-vllm-patches",
+  "homepage_url": "https://github.com/Sandermage/genesis-vllm-patches",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "ampere",
+    "ampere-sm86",
+    "cuda",
+    "dflash",
+    "fp8",
+    "gdn",
+    "llm-inference",
+    "long-context",
+    "moe",
+    "nvidia",
+    "qwen",
+    "qwen3",
+    "rtx-3090",
+    "rtx-a5000",
+    "runtime-patches",
+    "speculative-decoding",
+    "structured-output",
+    "tool-calling",
+    "turboquant",
+    "vllm"
+  ],
+  "star_count": 47,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-17T09:10:15Z",
+  "updated_at": "2026-05-01T16:37:16Z",
+  "pushed_at": "2026-05-01T15:03:53Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-01",
+      "stars": 47
+    }
+  ]
+}

@@ -3,25 +3,25 @@
   "owner": "twigphp",
   "name": "twig-extra-bundle",
   "full_name": "twigphp/twig-extra-bundle",
-  "description": "The Twig bundle for official extra extensions",
-  "description_ja": "公式追加拡張機能向けのTwigバンドル",
+  "description": "A Symfony bundle for extra Twig extensions",
+  "description_ja": "",
   "url": "https://github.com/twigphp/twig-extra-bundle",
-  "homepage_url": "",
+  "homepage_url": "https://twig.symfony.com/",
   "language": "PHP",
   "license": "MIT",
   "topics": [
+    "bundle",
+    "extra",
     "php",
-    "symfony",
-    "symfony-bundle",
-    "twig",
-    "twig-extension"
+    "templating",
+    "twig"
   ],
   "star_count": 914,
   "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-08-10T09:36:49Z",
-  "updated_at": "2026-04-24T09:51:21Z",
+  "updated_at": "2026-05-01T08:41:59Z",
   "pushed_at": "2026-03-17T21:31:42Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +43,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 914
+    },
+    {
+      "date": "2026-05-01",
       "stars": 914
     }
   ]

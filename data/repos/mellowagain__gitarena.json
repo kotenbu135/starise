@@ -3,11 +3,11 @@
   "owner": "mellowagain",
   "name": "gitarena",
   "full_name": "mellowagain/gitarena",
-  "description": "Software development platform with built-in vcs, issue tracking and code review",
-  "description_ja": "VCS・課題追跡・コードレビューを内蔵したソフトウェア開発プラットフォーム。",
+  "description": "Rust-based Software development platform with built-in vcs, issue tracking and code review",
+  "description_ja": "",
   "url": "https://github.com/mellowagain/gitarena",
-  "homepage_url": "https://gitarena-sigma.vercel.app",
-  "language": "Rust",
+  "homepage_url": "https://git.mari.zip",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "code-review",
@@ -20,13 +20,13 @@
     "software-forge",
     "vcs"
   ],
-  "star_count": 99,
+  "star_count": 100,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-07-22T21:39:02Z",
-  "updated_at": "2026-04-27T00:01:12Z",
-  "pushed_at": "2026-04-27T23:49:37Z",
+  "updated_at": "2026-05-01T17:19:32Z",
+  "pushed_at": "2026-05-01T13:47:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +44,10 @@
     {
       "date": "2026-04-28",
       "stars": 99
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 100
     }
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "repo_id": "R_kgDOQx9YZA",
+  "owner": "prithivsakthiur",
+  "name": "qwen-image-edit-2511-loras-fast-lazy-load",
+  "full_name": "prithivsakthiur/qwen-image-edit-2511-loras-fast-lazy-load",
+  "description": "Demonstration for the Qwen-Image-Edit-2511 model with lazy-loaded LoRA adapters for advanced single- and multi-image editing. Supports 7+ specialized LoRAs including photo-to-anime, multi-angle camera control, pose transfer (Any-Pose), upscaling, style transfer, light migration, and manga tone. Features fast inference (4 steps default).",
+  "description_ja": "",
+  "url": "https://github.com/PRITHIVSAKTHIUR/Qwen-Image-Edit-2511-LoRAs-Fast-Lazy-Load",
+  "homepage_url": "https://huggingface.co/spaces/prithivMLmods/Qwen-Image-Edit-2511-LoRAs-Fast",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "diffusers",
+    "flash-attention-3",
+    "huggingface-transformers",
+    "image-editor",
+    "image-generation",
+    "image-to-image",
+    "lora",
+    "numpy",
+    "python",
+    "pytorch",
+    "qwen",
+    "qwen-image-edit-2511",
+    "torch",
+    "torchvision"
+  ],
+  "star_count": 49,
+  "fork_count": 11,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-01-01T07:10:19Z",
+  "updated_at": "2026-05-01T10:32:43Z",
+  "pushed_at": "2026-03-13T15:47:42Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-01",
+      "stars": 49
+    }
+  ]
+}

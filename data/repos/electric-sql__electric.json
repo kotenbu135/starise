@@ -3,31 +3,32 @@
   "owner": "electric-sql",
   "name": "electric",
   "full_name": "electric-sql/electric",
-  "description": "Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.",
-  "description_ja": "部分レプリケーション、データ配信、ファンアウトを処理するPostgres向けの読み取りパス同期エンジン。",
+  "description": "The agent platform built on sync.",
+  "description_ja": "",
   "url": "https://github.com/electric-sql/electric",
-  "homepage_url": "https://electric-sql.com",
+  "homepage_url": "https://electric.ax",
   "language": "Elixir",
   "license": "Apache-2.0",
   "topics": [
+    "agent",
+    "agents",
     "crdt",
     "crdts",
+    "data",
     "elixir",
-    "local-first",
-    "offline",
+    "platform",
     "postgres",
     "replication",
-    "sql",
-    "sqlite",
+    "runtime",
     "sync"
   ],
-  "star_count": 10103,
-  "fork_count": 323,
+  "star_count": 10128,
+  "fork_count": 325,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-01T14:18:11Z",
-  "updated_at": "2026-04-28T16:57:18Z",
-  "pushed_at": "2026-04-28T17:47:27Z",
+  "updated_at": "2026-05-01T14:13:23Z",
+  "pushed_at": "2026-05-01T10:09:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +50,10 @@
     {
       "date": "2026-04-28",
       "stars": 10103
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 10128
     }
   ]
 }

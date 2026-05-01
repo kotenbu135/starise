@@ -6,7 +6,7 @@
   "description": "  A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API).",
   "description_ja": "シンプルなヘッダーオンリー C++ 引数パーサーライブラリ。柔軟で強力な設計を目指し、Python 標準の argparse ライブラリの機能との互換性を意図（API は必ずしも同一ではない）。",
   "url": "https://github.com/Taywee/args",
-  "homepage_url": "",
+  "homepage_url": "http://taywee.github.io/args/",
   "language": "C++",
   "license": "MIT",
   "topics": [
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-04-28T00:10:18Z",
-  "updated_at": "2026-04-28T20:20:30Z",
-  "pushed_at": "2026-04-28T20:20:25Z",
+  "updated_at": "2026-04-28T21:25:08Z",
+  "pushed_at": "2026-04-28T21:21:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 1616
+    },
+    {
+      "date": "2026-05-01",
       "stars": 1616
     }
   ]

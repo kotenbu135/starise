@@ -3,25 +3,29 @@
   "owner": "symfony",
   "name": "translation-contracts",
   "full_name": "symfony/translation-contracts",
-  "description": "A set of translation abstractions extracted out of the Symfony components",
-  "description_ja": "Symfonyコンポーネントから抽出された翻訳抽象化のセット",
+  "description": "Generic abstractions related to translation",
+  "description_ja": "",
   "url": "https://github.com/symfony/translation-contracts",
   "homepage_url": "https://symfony.com",
   "language": "PHP",
   "license": "MIT",
   "topics": [
-    "contract",
+    "abstractions",
+    "contracts",
+    "decoupling",
+    "interfaces",
+    "interoperability",
     "php",
+    "standards",
     "symfony",
-    "symfony-contract",
-    "translation"
+    "symfony-contracts"
   ],
   "star_count": 2606,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-27T07:11:57Z",
-  "updated_at": "2026-04-24T09:51:19Z",
+  "updated_at": "2026-05-01T06:41:51Z",
   "pushed_at": "2026-04-13T13:24:05Z",
   "deleted_at": "",
   "star_history": [
@@ -43,6 +47,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 2606
+    },
+    {
+      "date": "2026-05-01",
       "stars": 2606
     }
   ]

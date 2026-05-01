@@ -10,6 +10,7 @@
   "language": "C++",
   "license": "MIT",
   "topics": [
+    "amd",
     "apple-silicon",
     "kernel",
     "llama-cpp",
@@ -19,15 +20,16 @@
     "megakernel",
     "nvidia-cuda",
     "qwen",
-    "rtx3090"
+    "rtx3090",
+    "ryzen395"
   ],
-  "star_count": 1206,
-  "fork_count": 96,
+  "star_count": 1382,
+  "fork_count": 121,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-03T17:46:29Z",
-  "updated_at": "2026-04-28T19:27:59Z",
-  "pushed_at": "2026-04-28T13:19:38Z",
+  "updated_at": "2026-05-01T18:17:15Z",
+  "pushed_at": "2026-05-01T09:04:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +47,10 @@
     {
       "date": "2026-04-28",
       "stars": 1206
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 1382
     }
   ]
 }

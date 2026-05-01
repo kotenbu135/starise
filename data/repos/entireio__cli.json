@@ -3,8 +3,8 @@
   "owner": "entireio",
   "name": "cli",
   "full_name": "entireio/cli",
-  "description": "Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.",
-  "description_ja": "Gitワークフローに完全に統合されたCLIで、作業中のAIエージェントセッションをキャプチャします。セッションはコミットと並んでインデックス化され、リポジトリでコードがどのように書かれたかを検索可能な記録として残します",
+  "description": "📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.",
+  "description_ja": "",
   "url": "https://github.com/entireio/cli",
   "homepage_url": "https://entire.io",
   "language": "Go",
@@ -17,13 +17,13 @@
     "developer-platform",
     "gemini"
   ],
-  "star_count": 4076,
-  "fork_count": 312,
+  "star_count": 4138,
+  "fork_count": 318,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-02T17:13:58Z",
-  "updated_at": "2026-04-28T18:50:49Z",
-  "pushed_at": "2026-04-28T19:27:46Z",
+  "updated_at": "2026-05-01T17:50:39Z",
+  "pushed_at": "2026-05-01T17:32:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +41,10 @@
     {
       "date": "2026-04-28",
       "stars": 4076
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 4138
     }
   ]
 }

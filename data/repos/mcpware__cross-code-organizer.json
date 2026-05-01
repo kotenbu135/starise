@@ -3,41 +3,41 @@
   "owner": "mcpware",
   "name": "cross-code-organizer",
   "full_name": "mcpware/cross-code-organizer",
-  "description": "Dashboard to manage Claude Code memories, configs, and MCP servers — security scanner for tool poisoning, context token budget tracker, duplicate cleanup, scope management. npx @mcpware/claude-code-organizer",
-  "description_ja": "Claude Codeのメモリ・設定・MCPサーバーを管理するダッシュボード — ツールポイズニングのセキュリティスキャナー・コンテキストトークン予算トラッカー・重複クリーンアップ・スコープ管理を搭載。npx @mcpware/claude-code-organizer",
+  "description": "Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, and backups.",
+  "description_ja": "",
   "url": "https://github.com/mcpware/cross-code-organizer",
-  "homepage_url": "https://www.npmjs.com/package/@mcpware/claude-code-organizer",
+  "homepage_url": "https://www.npmjs.com/package/@mcpware/cross-code-organizer",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
-    "ai-agent",
+    "ai-coding-tools",
+    "ai-config-dashboard",
     "ai-tools",
-    "anthropic",
     "claude",
     "claude-code",
+    "claude-code-organizer",
     "claude-code-plugin",
     "claude-memory",
     "claude-skills",
-    "config-manager",
+    "codex-cli",
     "context-budget",
+    "cross-code-organizer",
+    "cross-harness",
     "dashboard",
-    "developer-tools",
     "mcp",
     "mcp-security",
     "mcp-server",
     "model-context-protocol",
-    "prompt-injection",
-    "scope-management",
     "security-scanner",
     "tool-poisoning"
   ],
-  "star_count": 283,
+  "star_count": 296,
   "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T21:50:10Z",
-  "updated_at": "2026-04-28T19:45:16Z",
-  "pushed_at": "2026-04-28T19:45:09Z",
+  "updated_at": "2026-05-01T11:38:53Z",
+  "pushed_at": "2026-04-28T21:02:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-04-28",
       "stars": 283
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 296
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "symgraph",
   "name": "ghidrassistmcp",
   "full_name": "symgraph/ghidrassistmcp",
-  "description": "An MCP extension for Ghidra",
-  "description_ja": "GhidraのMCP拡張",
+  "description": "An native MCP server extension for Ghidra",
+  "description_ja": "",
   "url": "https://github.com/symgraph/GhidrAssistMCP",
   "homepage_url": "",
   "language": "Java",
@@ -18,12 +18,12 @@
     "mcp-server",
     "reverse-engineering"
   ],
-  "star_count": 590,
+  "star_count": 591,
   "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-09T00:59:13Z",
-  "updated_at": "2026-04-28T05:57:10Z",
+  "updated_at": "2026-04-30T00:24:41Z",
   "pushed_at": "2026-04-25T18:04:58Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +46,10 @@
     {
       "date": "2026-04-28",
       "stars": 590
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 591
     }
   ]
 }

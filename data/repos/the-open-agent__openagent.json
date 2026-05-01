@@ -3,10 +3,10 @@
   "owner": "the-open-agent",
   "name": "openagent",
   "full_name": "the-open-agent/openagent",
-  "description": "⚡️AI Cloud OS: Open-source enterprise-level AI knowledge base and MCP (model-context-protocol)/A2A (agent-to-agent) management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com",
-  "description_ja": "AIクラウドOS：管理UI・ユーザー管理・シングルサインオンを備えたオープンソースのエンタープライズ向けAIナレッジベースおよびMCP/A2A管理プラットフォーム。ChatGPT、Claude、Llama、Ollama、HuggingFaceなどに対応",
+  "description": "⚡️next-generation personal AI assistant powered by LLM, RAG and agent loops, supporting computer-use, browser-use and coding agent, demo: https://demo.openagentai.org",
+  "description_ja": "",
   "url": "https://github.com/the-open-agent/openagent",
-  "homepage_url": "https://casibase.org",
+  "homepage_url": "https://www.openagentai.org/",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
@@ -17,9 +17,8 @@
     "agi",
     "chatbot",
     "chatgpt",
-    "claude",
-    "gemini",
     "gpt",
+    "harness",
     "knowledge-base",
     "langchain",
     "llama",
@@ -27,17 +26,18 @@
     "mcp",
     "model-context-protocol",
     "multi-agent",
+    "openagent",
     "openai",
     "openclaw",
     "rag"
   ],
-  "star_count": 4513,
-  "fork_count": 532,
+  "star_count": 4517,
+  "fork_count": 533,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-29T02:45:58Z",
-  "updated_at": "2026-04-28T17:56:00Z",
-  "pushed_at": "2026-04-28T17:56:27Z",
+  "updated_at": "2026-05-01T16:49:12Z",
+  "pushed_at": "2026-05-01T16:55:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-04-28",
       "stars": 4513
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 4517
     }
   ]
 }

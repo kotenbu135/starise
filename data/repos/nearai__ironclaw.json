@@ -3,20 +3,26 @@
   "owner": "nearai",
   "name": "ironclaw",
   "full_name": "nearai/ironclaw",
-  "description": "IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security",
-  "description_ja": "IronClawはOpenClawにインスパイアされた、プライバシーとセキュリティに重点を置いたRust実装です。",
+  "description": "IronClaw is an Agent OS focused on privacy, security and extensibility",
+  "description_ja": "",
   "url": "https://github.com/nearai/ironclaw",
   "homepage_url": "https://www.ironclaw.com",
   "language": "Rust",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 12055,
-  "fork_count": 1390,
+  "topics": [
+    "codeact",
+    "openclaw",
+    "rlm",
+    "rust",
+    "wasm"
+  ],
+  "star_count": 12091,
+  "fork_count": 1398,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-03T06:57:10Z",
-  "updated_at": "2026-04-28T18:44:58Z",
-  "pushed_at": "2026-04-28T19:58:51Z",
+  "updated_at": "2026-05-01T17:36:12Z",
+  "pushed_at": "2026-05-01T17:49:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +44,10 @@
     {
       "date": "2026-04-28",
       "stars": 12055
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 12091
     }
   ]
 }

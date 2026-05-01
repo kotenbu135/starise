@@ -3,20 +3,20 @@
   "owner": "cropflre",
   "name": "nowen-note",
   "full_name": "cropflre/nowen-note",
-  "description": "自托管私有知识库，对标群晖 Note Station。React 18 + Hono + SQLite + Docker 一键部署。集成 AI 智能写作助手（支持通义千问/OpenAI/DeepSeek/Gemini/Ollama）、OnlyOffice 文档协作、思维导图、任务管理、FTS5 全文搜索、多级笔记本、中英双语。",
-  "description_ja": "セルフホスト型プライベート知識ベース。Synology Note Station の対抗製品。React 18 + Hono + SQLite + Docker でワンクリックデプロイ。通義千問/OpenAI/DeepSeek/Gemini/Ollama 対応 AI ライティングアシスタント、OnlyOffice ドキュメント共同編集、マインドマップ、タスク管理、FTS5 全文検索、多階層ノートブック、日英バイリンガル対応。",
+  "description": "自托管私有知识库，对标群晖 Note Station。React 18 + Hono + SQLite + Docker 一键部署。集成 AI 智能写作助手（支持通义千问/OpenAI/DeepSeek/Gemini/Ollama）、思维导图、任务管理、FTS5 全文搜索、多级笔记本、中英双语。",
+  "description_ja": "",
   "url": "https://github.com/cropflre/nowen-note",
   "homepage_url": "",
   "language": "TypeScript",
-  "license": "",
+  "license": "GPL-3.0",
   "topics": [],
-  "star_count": 85,
-  "fork_count": 15,
+  "star_count": 90,
+  "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-12T03:47:35Z",
-  "updated_at": "2026-04-28T15:12:19Z",
-  "pushed_at": "2026-04-28T01:09:43Z",
+  "updated_at": "2026-04-30T09:48:03Z",
+  "pushed_at": "2026-04-30T09:48:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +38,10 @@
     {
       "date": "2026-04-28",
       "stars": 85
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 90
     }
   ]
 }

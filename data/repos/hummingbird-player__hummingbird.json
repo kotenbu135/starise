@@ -3,10 +3,10 @@
   "owner": "hummingbird-player",
   "name": "hummingbird",
   "full_name": "hummingbird-player/hummingbird",
-  "description": "Modern music player written in Rust using GPUI with a focus on design and performance",
-  "description_ja": "デザインとパフォーマンスに重点を置いた、Rust と GPUI で書かれたモダンな音楽プレイヤー",
+  "description": "[MIGRATED TO CODEBERG] Modern music player written in Rust using GPUI with a focus on design and performance",
+  "description_ja": "",
   "url": "https://github.com/hummingbird-player/hummingbird",
-  "homepage_url": "https://hummingbird.mailliw.org",
+  "homepage_url": "https://codeberg.org/hummingbird/hummingbird",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -14,13 +14,13 @@
     "music-player",
     "rust"
   ],
-  "star_count": 531,
+  "star_count": 532,
   "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-10T12:36:41Z",
-  "updated_at": "2026-04-28T17:01:03Z",
-  "pushed_at": "2026-04-28T17:00:58Z",
+  "updated_at": "2026-04-30T10:51:14Z",
+  "pushed_at": "2026-04-29T22:27:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +42,10 @@
     {
       "date": "2026-04-28",
       "stars": 531
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 532
     }
   ]
 }

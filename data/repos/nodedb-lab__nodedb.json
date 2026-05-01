@@ -3,8 +3,8 @@
   "owner": "nodedb-lab",
   "name": "nodedb",
   "full_name": "nodedb-lab/nodedb",
-  "description": "A local-first, real-time, edge-to-cloud hybrid database for multi-modal workloads",
-  "description_ja": "マルチモーダルワークロード向けのローカルファースト・リアルタイム・エッジからクラウドまでのハイブリッドデータベース",
+  "description": "Document, columnar, KV, Graph, Vector, Array - The only all-in-one database that you need.",
+  "description_ja": "",
   "url": "https://github.com/NodeDB-Lab/nodedb",
   "homepage_url": "https://nodedb.dev",
   "language": "Rust",
@@ -22,13 +22,13 @@
     "timeseries",
     "vector"
   ],
-  "star_count": 63,
-  "fork_count": 7,
+  "star_count": 96,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T19:32:29Z",
-  "updated_at": "2026-04-28T19:34:21Z",
-  "pushed_at": "2026-04-28T13:20:44Z",
+  "updated_at": "2026-05-01T16:00:23Z",
+  "pushed_at": "2026-05-01T15:14:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +42,10 @@
     {
       "date": "2026-04-28",
       "stars": 63
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 96
     }
   ]
 }

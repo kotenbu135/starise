@@ -3,8 +3,8 @@
   "owner": "analysedecircuit",
   "name": "oxideterm",
   "full_name": "analysedecircuit/oxideterm",
-  "description": "All-in-one terminal workspace — local shells, SSH, SFTP, remote IDE, AI agent, and file manager in a single native binary. Built with Tauri 2 and pure Rust SSH (no OpenSSL). Smart reconnect, MCP, RAG, plugins, 30+ themes, 11 languages.",
-  "description_ja": "オールインワンのターミナルワークスペース。ローカルシェル、SSH、SFTP、リモート IDE、AI エージェント、ファイルマネージャを単一のネイティブバイナリに統合。Tauri 2 とピュア Rust 製 SSH（OpenSSL 不使用）で構築。スマート再接続、MCP、RAG、プラグイン、30 種以上のテーマ、11 言語に対応。",
+  "description": "Local-first SSH workspace for local shells and remote machines — SSH, SFTP, trzsz, port forwarding, lightweight remote editing, file management, and BYOK AI in one native binary. Built with Tauri 2 and pure Rust SSH. Zero Electron, zero OpenSSL, zero telemetry, and no app subscription for core SSH workflows.",
+  "description_ja": "",
   "url": "https://github.com/AnalyseDeCircuit/oxideterm",
   "homepage_url": "https://oxideterm.app",
   "language": "Rust",
@@ -31,13 +31,13 @@
     "wslg",
     "xterm-js"
   ],
-  "star_count": 629,
+  "star_count": 634,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-21T07:30:14Z",
-  "updated_at": "2026-04-28T18:33:19Z",
-  "pushed_at": "2026-04-28T14:17:51Z",
+  "updated_at": "2026-05-01T11:49:05Z",
+  "pushed_at": "2026-05-01T16:58:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-04-28",
       "stars": 629
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 634
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "thu-ml",
   "name": "causal-forcing",
   "full_name": "thu-ml/causal-forcing",
-  "description": "Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\"",
-  "description_ja": "「Causal Forcing: 高品質リアルタイムインタラクティブ動画生成のための自己回帰拡散蒸留の正しい実現」の公式コードベース",
+  "description": "[ICML 2026] Official codebase for \"Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation\"",
+  "description_ja": "",
   "url": "https://github.com/thu-ml/Causal-Forcing",
   "homepage_url": "https://thu-ml.github.io/CausalForcing.github.io/",
   "language": "Python",
@@ -28,13 +28,13 @@
     "world-model",
     "world-models"
   ],
-  "star_count": 584,
-  "fork_count": 37,
+  "star_count": 591,
+  "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-01T09:30:13Z",
-  "updated_at": "2026-04-28T13:29:14Z",
-  "pushed_at": "2026-04-25T06:15:19Z",
+  "updated_at": "2026-05-01T12:53:27Z",
+  "pushed_at": "2026-04-30T03:19:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -56,6 +56,10 @@
     {
       "date": "2026-04-28",
       "stars": 584
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 591
     }
   ]
 }

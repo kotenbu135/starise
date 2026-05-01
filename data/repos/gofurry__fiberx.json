@@ -3,28 +3,30 @@
   "owner": "gofurry",
   "name": "fiberx",
   "full_name": "gofurry/fiberx",
-  "description": "A practical Fiber v3 template collection for Go services, from full-featured to ultra-light.  Fiber框架工程脚手架，支持全量、轻量等版本",
-  "description_ja": "Go サービス向け実践的な Fiber v3 テンプレート集。フル機能版から超軽量版まで対応。Fiber フレームワークのエンジニアリングスキャフォールド。全量・軽量などのバージョンをサポート",
+  "description": "A composable CLI project generator and build helper for GoFiber applications.",
+  "description_ja": "",
   "url": "https://github.com/GoFurry/fiberx",
   "homepage_url": "",
   "language": "Go",
   "license": "MIT",
   "topics": [
     "backend",
-    "boilerplate",
+    "build-tool",
+    "cli",
+    "developer-tools",
     "fiber",
-    "go",
+    "gofiber",
     "golang",
-    "starter",
-    "template"
+    "project-generator",
+    "scaffolding"
   ],
   "star_count": 43,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-25T02:01:56Z",
-  "updated_at": "2026-04-26T17:56:12Z",
-  "pushed_at": "2026-04-28T11:13:51Z",
+  "updated_at": "2026-04-30T10:18:54Z",
+  "pushed_at": "2026-04-30T10:18:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +43,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 43
+    },
+    {
+      "date": "2026-05-01",
       "stars": 43
     }
   ]

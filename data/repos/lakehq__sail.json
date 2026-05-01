@@ -3,17 +3,18 @@
   "owner": "lakehq",
   "name": "sail",
   "full_name": "lakehq/sail",
-  "description": "A drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
-  "description_ja": "Rustで書かれたApache Sparkの代替。バッチ処理、ストリーム処理、計算集約型AIワークロードを統合。",
+  "description": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+  "description_ja": "",
   "url": "https://github.com/lakehq/sail",
   "homepage_url": "https://lakesail.com",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "apache-iceberg",
+    "apache-spark",
     "arrow",
     "artificial-intelligence",
     "big-data",
-    "data",
     "data-engineering",
     "datafusion",
     "delta-lake",
@@ -21,19 +22,22 @@
     "iceberg",
     "lakehouse",
     "machine-learning",
+    "parquet",
     "pyspark",
     "python",
     "rust",
     "spark",
+    "spark-connect",
+    "spark-sql",
     "sql"
   ],
-  "star_count": 2116,
-  "fork_count": 118,
+  "star_count": 2285,
+  "fork_count": 127,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-21T03:43:49Z",
-  "updated_at": "2026-04-28T18:48:38Z",
-  "pushed_at": "2026-04-28T15:40:30Z",
+  "updated_at": "2026-05-01T17:51:29Z",
+  "pushed_at": "2026-05-01T10:40:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +59,10 @@
     {
       "date": "2026-04-28",
       "stars": 2116
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 2285
     }
   ]
 }

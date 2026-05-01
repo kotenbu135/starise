@@ -3,8 +3,8 @@
   "owner": "enix",
   "name": "x509-certificate-exporter",
   "full_name": "enix/x509-certificate-exporter",
-  "description": "A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone",
-  "description_ja": "KubernetesクラスターまたはスタンドアロンでのX.509証明書の有効期限を監視するPrometheusエクスポーター",
+  "description": "A Prometheus exporter for X.509 certificates, built for Kubernetes first but equally happy as a standalone binary",
+  "description_ja": "",
   "url": "https://github.com/enix/x509-certificate-exporter",
   "homepage_url": "",
   "language": "Go",
@@ -12,7 +12,6 @@
   "topics": [
     "alert",
     "certificates",
-    "certificates-focusing",
     "dashboard",
     "expiration-monitoring",
     "grafana-dashboard",
@@ -20,13 +19,13 @@
     "monitoring-tool",
     "prometheus-exporter"
   ],
-  "star_count": 886,
-  "fork_count": 103,
+  "star_count": 892,
+  "fork_count": 104,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-07-04T16:36:29Z",
-  "updated_at": "2026-04-27T04:30:17Z",
-  "pushed_at": "2026-04-23T09:30:02Z",
+  "updated_at": "2026-05-01T17:55:06Z",
+  "pushed_at": "2026-05-01T17:58:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -48,6 +47,10 @@
     {
       "date": "2026-04-28",
       "stars": 886
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 892
     }
   ]
 }

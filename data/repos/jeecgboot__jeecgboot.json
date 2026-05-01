@@ -3,8 +3,8 @@
   "owner": "jeecgboot",
   "name": "jeecgboot",
   "full_name": "jeecgboot/jeecgboot",
-  "description": "一款 AI 驱动的低代码平台，提供\"零代码\"与\"代码生成\"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。",
-  "description_ja": "AI駆動のローコードプラットフォーム。「ノーコード」と「コード生成」の二モードを提供し、ノーコードモードではひとことでシステムを構築、コード生成モードではフロントエンド・バックエンドのコードとテーブル作成SQLを自動出力してすぐ実行可能。AIチャットアシスタント、大規模言語モデル、ナレッジベース、AIフローオーケストレーション、MCPとプラグイン体系を内蔵し、Javaプロジェクトの繰り返し作業を80%削減。",
+  "description": "AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。",
+  "description_ja": "",
   "url": "https://github.com/jeecgboot/JeecgBoot",
   "homepage_url": "https://jeecg.com",
   "language": "Java",
@@ -31,13 +31,13 @@
     "springcloud",
     "vue3"
   ],
-  "star_count": 46010,
-  "fork_count": 15953,
+  "star_count": 46058,
+  "fork_count": 15959,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-11-26T10:40:00Z",
-  "updated_at": "2026-04-28T16:42:53Z",
-  "pushed_at": "2026-04-28T13:49:44Z",
+  "updated_at": "2026-05-01T17:06:12Z",
+  "pushed_at": "2026-04-30T09:27:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -67,6 +67,10 @@
     {
       "date": "2026-04-28",
       "stars": 46010
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 46058
     }
   ]
 }

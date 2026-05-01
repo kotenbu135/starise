@@ -3,8 +3,8 @@
   "owner": "makepkg",
   "name": "securegen",
   "full_name": "makepkg/securegen",
-  "description": "🔐 Hardware TOTP Authenticator \u0026 Password Manager | 8-layer security | AES-256 | BLE Keyboard | Offline | ESP32 T-Display",
-  "description_ja": "🔐 ハードウェア TOTP 認証器 \u0026 パスワードマネージャー | 8 層セキュリティ | AES-256 | BLE キーボード | オフライン | ESP32 T-Display",
+  "description": "🔐 Hardware TOTP Authenticator \u0026 Password Manager | 8-layer security | AES-256 | BLE Keyboard | Offline | ESP32 T-Display | T-Display S3",
+  "description_ja": "",
   "url": "https://github.com/makepkg/SecureGen",
   "homepage_url": "https://github.com/makepkg/SecureGen",
   "language": "C",
@@ -31,13 +31,13 @@
     "totp",
     "two-factor-authentication"
   ],
-  "star_count": 55,
+  "star_count": 56,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-20T13:47:28Z",
-  "updated_at": "2026-04-28T09:45:51Z",
-  "pushed_at": "2026-03-21T16:57:24Z",
+  "updated_at": "2026-04-29T16:27:21Z",
+  "pushed_at": "2026-04-29T16:21:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-04-28",
       "stars": 55
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 56
     }
   ]
 }

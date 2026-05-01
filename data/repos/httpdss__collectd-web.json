@@ -3,25 +3,31 @@
   "owner": "httpdss",
   "name": "collectd-web",
   "full_name": "httpdss/collectd-web",
-  "description": "Collectd-web is a web-based front-end for RRD data collected by collectd",
-  "description_ja": "collectd が収集した RRD データ向けの Web ベースフロントエンド。",
+  "description": "Modern, customizable web frontend for Collectd. Visualize system metrics through a responsive dashboard, deploy in minutes with the standalone Python server, or plug into Apache/Nginx. A drop-in replacement for Collectd's bundled UI.",
+  "description_ja": "",
   "url": "https://github.com/httpdss/collectd-web",
-  "homepage_url": "https://collectd-web.lovable.app",
+  "homepage_url": "https://collectd-web.com",
   "language": "Perl",
   "license": "Apache-2.0",
   "topics": [
     "collectd",
+    "dashboard",
+    "devops",
     "frontend",
+    "metrics",
     "monitoring",
-    "monitoring-tool"
+    "monitoring-tool",
+    "observability",
+    "rrd",
+    "web-ui"
   ],
   "star_count": 256,
   "fork_count": 72,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2009-04-11T16:07:05Z",
-  "updated_at": "2026-04-28T13:44:30Z",
-  "pushed_at": "2026-04-28T13:40:27Z",
+  "updated_at": "2026-04-30T19:17:54Z",
+  "pushed_at": "2026-04-29T21:37:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +44,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 256
+    },
+    {
+      "date": "2026-05-01",
       "stars": 256
     }
   ]

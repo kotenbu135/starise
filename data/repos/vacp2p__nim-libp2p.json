@@ -6,7 +6,7 @@
   "description": "libp2p implementation in Nim",
   "description_ja": "NimによるlibP2P実装",
   "url": "https://github.com/vacp2p/nim-libp2p",
-  "homepage_url": "https://vacp2p.github.io/nim-libp2p/docs/",
+  "homepage_url": "https://vacp2p.github.io/nim-libp2p/",
   "language": "Nim",
   "license": "Apache-2.0",
   "topics": [
@@ -16,13 +16,13 @@
     "p2p-network",
     "peer-to-peer"
   ],
-  "star_count": 309,
+  "star_count": 311,
   "fork_count": 72,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-11-19T01:58:31Z",
-  "updated_at": "2026-04-28T16:04:25Z",
-  "pushed_at": "2026-04-28T19:29:39Z",
+  "updated_at": "2026-05-01T18:35:23Z",
+  "pushed_at": "2026-05-01T18:35:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +40,10 @@
     {
       "date": "2026-04-28",
       "stars": 309
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 311
     }
   ]
 }

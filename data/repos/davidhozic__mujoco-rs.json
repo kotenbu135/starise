@@ -6,7 +6,7 @@
   "description": "MuJoCo bindings and high-level wrappers for the Rust programming language. Includes the viewer.",
   "description_ja": "Rust 向け MuJoCo バインディングと高レベルラッパー。ビューアーを含む",
   "url": "https://github.com/davidhozic/mujoco-rs",
-  "homepage_url": "https://mujoco-rs.readthedocs.io",
+  "homepage_url": "https://mujoco-rs.readthedocs.io/",
   "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
@@ -19,13 +19,13 @@
     "robotics",
     "rust"
   ],
-  "star_count": 52,
+  "star_count": 54,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-27T23:49:10Z",
-  "updated_at": "2026-04-25T19:27:42Z",
-  "pushed_at": "2026-04-28T02:55:57Z",
+  "updated_at": "2026-04-30T20:30:21Z",
+  "pushed_at": "2026-05-01T12:39:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +43,10 @@
     {
       "date": "2026-04-28",
       "stars": 52
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 54
     }
   ]
 }

@@ -7,7 +7,7 @@
   "description_ja": "自己進化するエージェント OS。51 ワーカー、18 セキュリティレイヤー、自己改善機能を備え、iii-engine 上に構築。",
   "url": "https://github.com/iii-experimental/agentos",
   "homepage_url": "https://agentsos.sh",
-  "language": "TypeScript",
+  "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
     "agent-framework",
@@ -21,13 +21,13 @@
     "self-evolving",
     "typescript"
   ],
-  "star_count": 124,
-  "fork_count": 17,
+  "star_count": 128,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T18:23:39Z",
-  "updated_at": "2026-04-28T19:03:12Z",
-  "pushed_at": "2026-04-28T19:09:53Z",
+  "updated_at": "2026-04-30T02:48:48Z",
+  "pushed_at": "2026-04-30T00:26:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +49,10 @@
     {
       "date": "2026-04-28",
       "stars": 124
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 128
     }
   ]
 }

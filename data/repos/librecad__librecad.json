@@ -3,8 +3,8 @@
   "owner": "librecad",
   "name": "librecad",
   "full_name": "librecad/librecad",
-  "description": "LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The user interface is highly customizable, and has dozens of translations.",
-  "description_ja": "LibreCAD は C++17 で書かれたクロスプラットフォームの 2D CAD プログラム。DXF/DWG ファイルの読み込みと DXF/PDF/SVG ファイルの書き出しに対応。点・線・円・楕円・放物線・双曲線・スプラインのプリミティブをサポート。UI は高度にカスタマイズ可能で、数十言語に翻訳されている。",
+  "description": "LibreCAD is a cross-platform 2D CAD program. It can read DXF and write DXF/PDF/SVG files, with initial support for DWG reading. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customizable, and has dozens of translations.",
+  "description_ja": "",
   "url": "https://github.com/LibreCAD/LibreCAD",
   "homepage_url": "http://librecad.org/",
   "language": "C++",
@@ -17,13 +17,13 @@
     "geometry",
     "qt"
   ],
-  "star_count": 5789,
-  "fork_count": 1200,
+  "star_count": 5801,
+  "fork_count": 1204,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-04-10T22:41:47Z",
-  "updated_at": "2026-04-28T05:04:16Z",
-  "pushed_at": "2026-04-24T04:35:14Z",
+  "updated_at": "2026-05-01T18:06:01Z",
+  "pushed_at": "2026-05-01T13:17:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     {
       "date": "2026-04-28",
       "stars": 5789
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 5801
     }
   ]
 }

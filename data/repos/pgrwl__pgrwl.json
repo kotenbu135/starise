@@ -3,8 +3,8 @@
   "owner": "pgrwl",
   "name": "pgrwl",
   "full_name": "pgrwl/pgrwl",
-  "description": "Cloud-Native PostgreSQL WAL receiver. Stream, compress, encrypt, upload, retain and monitor your WAL archive.",
-  "description_ja": "クラウドネイティブな PostgreSQL WAL レシーバー。WAL アーカイブのストリーミング、圧縮、暗号化、アップロード、保持、監視が可能。",
+  "description": "Cloud-native continuous backup for PostgreSQL - WAL/base-backup streaming, compression, encryption, retention, and monitoring in a single binary.",
+  "description_ja": "",
   "url": "https://github.com/pgrwl/pgrwl",
   "homepage_url": "https://pgrwl.github.io",
   "language": "Go",
@@ -14,6 +14,7 @@
     "aws",
     "aws-s3",
     "backup",
+    "backup-tool",
     "cloud",
     "cloud-native",
     "contributions-welcome",
@@ -30,13 +31,13 @@
     "recovery",
     "s3"
   ],
-  "star_count": 102,
+  "star_count": 106,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-22T14:14:18Z",
-  "updated_at": "2026-04-27T15:23:49Z",
-  "pushed_at": "2026-04-27T15:25:33Z",
+  "updated_at": "2026-05-01T17:57:07Z",
+  "pushed_at": "2026-05-01T17:33:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +55,10 @@
     {
       "date": "2026-04-28",
       "stars": 102
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 106
     }
   ]
 }

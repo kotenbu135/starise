@@ -3,8 +3,8 @@
   "owner": "lge-ros2",
   "name": "cloisim",
   "full_name": "lge-ros2/cloisim",
-  "description": "Unity3D based multi-robot simulator can bring-up simulation environment by SDF(Simulation Description File) easily. And it supports to connect ROS2 through cloisim_ros.",
-  "description_ja": "Unity3DベースのマルチロボットシミュレータでSDF（Simulation Description File）を使って簡単にシミュレーション環境を構築でき、cloisim_rosを通じてROS2との接続もサポートします",
+  "description": "Unity3D based multi-robot simulator can bring-up simulation environment by SDFormat (Simulation Description Format) easily. And it supports to connect ROS2 through cloisim_ros.",
+  "description_ja": "",
   "url": "https://github.com/lge-ros2/cloisim",
   "homepage_url": "https://github.com/lge-ros2/cloisim/wiki",
   "language": "C#",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-06T03:57:04Z",
-  "updated_at": "2026-04-28T10:11:31Z",
-  "pushed_at": "2026-04-28T10:12:31Z",
+  "updated_at": "2026-04-30T14:01:35Z",
+  "pushed_at": "2026-04-30T14:00:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +54,10 @@
     },
     {
       "date": "2026-04-28",
+      "stars": 172
+    },
+    {
+      "date": "2026-05-01",
       "stars": 172
     }
   ]
