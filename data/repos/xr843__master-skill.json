@@ -3,8 +3,8 @@
   "owner": "xr843",
   "name": "master-skill",
   "full_name": "xr843/master-skill",
-  "description": "Chinese Buddhist Master-skill powered by FoJin — 基于佛教经典文献的汉传祖师大德教学角色生成器",
-  "description_ja": "FoJin を基盤とした中国仏教の祖師スキル — 仏教経典文献に基づく漢伝祖師・高僧の教示キャラクター生成器",
+  "description": "Buddhist Master-skill powered by FoJin — 三大传统（汉传/藏传/南传）祖师大德 AI 教学角色生成器，CBETA / BDRC / SuttaCentral 引证",
+  "description_ja": "",
   "url": "https://github.com/xr843/Master-skill",
   "homepage_url": "https://fojin.app/chat",
   "language": "Python",
@@ -12,21 +12,27 @@
   "topics": [
     "agent-skills",
     "ai-persona",
+    "bdrc",
     "buddhism",
     "chinese-buddhism",
     "claude-skills",
     "digital-humanities",
     "fojin",
     "llm",
-    "rag"
+    "mahamudra",
+    "rag",
+    "suttacentral",
+    "thai-forest-tradition",
+    "theravada",
+    "tibetan-buddhism"
   ],
-  "star_count": 248,
+  "star_count": 254,
   "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T09:51:06Z",
-  "updated_at": "2026-05-01T11:30:28Z",
-  "pushed_at": "2026-04-20T09:27:03Z",
+  "updated_at": "2026-05-02T14:08:12Z",
+  "pushed_at": "2026-05-02T12:44:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -52,6 +58,10 @@
     {
       "date": "2026-05-01",
       "stars": 248
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 254
     }
   ]
 }

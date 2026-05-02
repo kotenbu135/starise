@@ -6,7 +6,7 @@
   "description": "FastAPI Guard: A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats.",
   "description_ja": "FastAPI Guard：IPの制御・リクエストのロギング・侵入試行の検出を行うミドルウェアを提供するFastAPI向けセキュリティライブラリ。FastAPIとシームレスに統合し、さまざまなセキュリティ脅威に対する堅牢な保護を提供します。",
   "url": "https://github.com/rennf93/fastapi-guard",
-  "homepage_url": "https://fastapi-guard.com/",
+  "homepage_url": "https://guard-core.com/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -18,12 +18,12 @@
     "rest",
     "security"
   ],
-  "star_count": 750,
-  "fork_count": 35,
+  "star_count": 768,
+  "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-05T13:29:12Z",
-  "updated_at": "2026-05-01T17:48:22Z",
+  "updated_at": "2026-05-02T16:55:34Z",
   "pushed_at": "2026-04-30T15:32:30Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +46,10 @@
     {
       "date": "2026-05-01",
       "stars": 750
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 768
     }
   ]
 }

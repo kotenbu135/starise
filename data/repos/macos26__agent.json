@@ -3,7 +3,7 @@
   "owner": "macos26",
   "name": "agent",
   "full_name": "macos26/agent",
-  "description": "Any AI, replaces Claude Code, Cursor, OpenClaw. 17+ LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, manages git, automate Safari, AppleScript 50 apps, extend w/ MCP Servers, run tasks from your iPhone via Messages, drive any Accessible app.",
+  "description": "Any AI, replaces Claude Code, Cursor, OpenClaw. Over 18 LLM providers (Claude, OpenAI, Gemini, Ollama, Zai, HF, Qwen) wired into a native Mac app that writes code, builds Xcode projects, bumps versions, manages git, automate Safari, AppleScript 50 apps, extend w/ MCP Servers, run tasks from your iPhone via Messages, drive any Accessible app.",
   "description_ja": "",
   "url": "https://github.com/macOS26/Agent",
   "homepage_url": "https://macos26.app",
@@ -31,13 +31,13 @@
     "xcode",
     "xpc"
   ],
-  "star_count": 403,
-  "fork_count": 28,
+  "star_count": 404,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T20:15:09Z",
-  "updated_at": "2026-05-01T09:13:36Z",
-  "pushed_at": "2026-04-29T16:20:46Z",
+  "updated_at": "2026-05-02T01:13:03Z",
+  "pushed_at": "2026-05-01T22:17:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -63,6 +63,10 @@
     {
       "date": "2026-05-01",
       "stars": 403
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 404
     }
   ]
 }

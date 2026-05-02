@@ -3,8 +3,8 @@
   "owner": "fastxyz",
   "name": "skill-optimizer",
   "full_name": "fastxyz/skill-optimizer",
-  "description": "Benchmark and self-optimize SDK/CLI/MCP guidance so every agent model can use your tool reliably.",
-  "description_ja": "SDK/CLI/MCPガイダンスのベンチマークと自己最適化により、あらゆるエージェントモデルがツールを確実に利用できるようにするツール",
+  "description": "Benchmark, evaluate, and optimize skills to ensure reliable performance across all LLMs",
+  "description_ja": "",
   "url": "https://github.com/fastxyz/skill-optimizer",
   "homepage_url": "",
   "language": "TypeScript",
@@ -15,21 +15,27 @@
     "ai-skill",
     "benchmark",
     "cli",
+    "eval",
+    "evals",
     "evaluation",
+    "evaluation-framework",
     "llm",
+    "llm-eval",
+    "llm-evals",
+    "llm-evaluation-framework",
     "mcp",
     "openrouter",
     "optimizer",
     "sdk",
     "tool-calling"
   ],
-  "star_count": 45,
+  "star_count": 47,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T10:34:42Z",
-  "updated_at": "2026-04-28T23:18:49Z",
-  "pushed_at": "2026-04-29T02:06:54Z",
+  "updated_at": "2026-05-02T06:19:13Z",
+  "pushed_at": "2026-05-02T06:19:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +61,10 @@
     {
       "date": "2026-05-01",
       "stars": 45
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 47
     }
   ]
 }

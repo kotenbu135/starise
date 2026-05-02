@@ -3,20 +3,23 @@
   "owner": "tecnickcom",
   "name": "tcpdf",
   "full_name": "tecnickcom/tcpdf",
-  "description": "Official clone of PHP library to generate PDF documents and barcodes",
-  "description_ja": "PDF ドキュメントとバーコードを生成する PHP ライブラリの公式クローン",
+  "description": "Deprecated: PHP PDF library, superseded by tc-lib-pdf (https://github.com/tecnickcom/tc-lib-pdf)",
+  "description_ja": "",
   "url": "https://github.com/tecnickcom/TCPDF",
   "homepage_url": "https://tcpdf.org",
   "language": "PHP",
   "license": "NOASSERTION",
-  "topics": [],
+  "topics": [
+    "pdf",
+    "pdf-generation"
+  ],
   "star_count": 4545,
   "fork_count": 1591,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-08-08T08:49:17Z",
-  "updated_at": "2026-04-28T15:10:31Z",
-  "pushed_at": "2026-04-21T17:06:13Z",
+  "updated_at": "2026-05-02T09:20:42Z",
+  "pushed_at": "2026-05-02T16:27:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +44,10 @@
     },
     {
       "date": "2026-05-01",
+      "stars": 4545
+    },
+    {
+      "date": "2026-05-02",
       "stars": 4545
     }
   ]

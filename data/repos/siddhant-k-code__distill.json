@@ -3,14 +3,15 @@
   "owner": "siddhant-k-code",
   "name": "distill",
   "full_name": "siddhant-k-code/distill",
-  "description": "Reliable LLM outputs start with clean context. Deterministic deduplication, compression, and caching for RAG pipelines.",
-  "description_ja": "信頼性の高いLLM出力はクリーンなコンテキストから始まります。RAGパイプライン向けの決定論的な重複排除、圧縮、キャッシュ機能。",
+  "description": "Context preprocessing middleware for LLM apps - deduplication, compression, summarization, and prompt cache management in one pipeline.",
+  "description_ja": "",
   "url": "https://github.com/Siddhant-K-code/distill",
   "homepage_url": "https://distill.siddhantkhare.com/",
   "language": "Go",
-  "license": "AGPL-3.0",
+  "license": "MIT",
   "topics": [
     "ai-agents",
+    "anthropic",
     "compression",
     "context-optimization",
     "deduplication",
@@ -18,21 +19,21 @@
     "developer-tools",
     "go",
     "golang",
-    "llamaindex",
     "llm",
+    "openai",
     "pinecone",
+    "prompt-caching",
     "qdrant",
     "rag",
-    "retrieval-augmented-generation",
     "vector-database"
   ],
-  "star_count": 147,
-  "fork_count": 14,
+  "star_count": 148,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-31T17:16:14Z",
-  "updated_at": "2026-04-22T04:32:31Z",
-  "pushed_at": "2026-04-24T20:47:50Z",
+  "updated_at": "2026-05-02T16:59:30Z",
+  "pushed_at": "2026-05-02T16:47:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +59,10 @@
     {
       "date": "2026-05-01",
       "stars": 147
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 148
     }
   ]
 }

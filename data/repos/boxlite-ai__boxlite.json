@@ -7,7 +7,7 @@
   "description_ja": "あらゆるエージェント向けのサンドボックスです。埋め込み可能で、ステートフル、スナップショット、ハードウェア分離に対応しています。",
   "url": "https://github.com/boxlite-ai/boxlite",
   "homepage_url": "https://boxlite.ai/",
-  "language": "Rust",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "ai-agents",
@@ -17,13 +17,13 @@
     "serverless",
     "virtualization"
   ],
-  "star_count": 1880,
-  "fork_count": 107,
+  "star_count": 1883,
+  "fork_count": 108,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-07T22:49:32Z",
-  "updated_at": "2026-05-01T14:20:40Z",
-  "pushed_at": "2026-05-01T15:48:23Z",
+  "updated_at": "2026-05-02T13:56:18Z",
+  "pushed_at": "2026-05-02T14:30:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +49,10 @@
     {
       "date": "2026-05-01",
       "stars": 1880
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 1883
     }
   ]
 }

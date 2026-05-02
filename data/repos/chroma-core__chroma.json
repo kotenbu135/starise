@@ -3,8 +3,8 @@
   "owner": "chroma-core",
   "name": "chroma",
   "full_name": "chroma-core/chroma",
-  "description": "Data infrastructure for AI",
-  "description_ja": "AIのためのデータインフラ",
+  "description": "Search infrastructure for AI",
+  "description_ja": "",
   "url": "https://github.com/chroma-core/chroma",
   "homepage_url": "https://www.trychroma.com/",
   "language": "Rust",
@@ -17,13 +17,13 @@
     "rust",
     "rust-lang"
   ],
-  "star_count": 27738,
-  "fork_count": 2228,
+  "star_count": 27756,
+  "fork_count": 2231,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-10-05T17:58:44Z",
-  "updated_at": "2026-05-01T17:27:52Z",
-  "pushed_at": "2026-05-01T17:56:55Z",
+  "updated_at": "2026-05-02T17:03:06Z",
+  "pushed_at": "2026-05-01T23:18:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +49,10 @@
     {
       "date": "2026-05-01",
       "stars": 27738
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 27756
     }
   ]
 }

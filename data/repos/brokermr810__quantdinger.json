@@ -3,14 +3,15 @@
   "owner": "brokermr810",
   "name": "quantdinger",
   "full_name": "brokermr810/quantdinger",
-  "description": "Open-source AI-driven quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.",
-  "description_ja": "バックテスト、ライブトレード、市場データ、マルチエージェントリサーチを備えた、暗号通貨・株式・外国為替向けオープンソース AI 駆動クオンツトレーディングプラットフォーム",
+  "description": "Open-source AI-driven quantitative trading platform for crypto, stocks, and forex with backtesting, live trading, market data, and multi-agent research.vibe-trading and trading agents",
+  "description_ja": "",
   "url": "https://github.com/brokermr810/QuantDinger",
   "homepage_url": "https://www.quantdinger.com",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
-    "ai-trader",
+    "ai-trade",
+    "ai-trading-algorithm",
     "algorithmic-trading-portfolio",
     "algotrade",
     "backtesting-frameworks",
@@ -27,17 +28,16 @@
     "quant",
     "quantitative-finance",
     "quantitative-trading",
-    "saas-alternatives",
     "stock-trading",
     "trade"
   ],
-  "star_count": 2822,
-  "fork_count": 623,
+  "star_count": 2857,
+  "fork_count": 635,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-28T18:39:26Z",
-  "updated_at": "2026-05-01T17:54:08Z",
-  "pushed_at": "2026-04-30T14:53:26Z",
+  "updated_at": "2026-05-02T16:42:50Z",
+  "pushed_at": "2026-05-02T08:29:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -63,6 +63,10 @@
     {
       "date": "2026-05-01",
       "stars": 2822
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 2857
     }
   ]
 }

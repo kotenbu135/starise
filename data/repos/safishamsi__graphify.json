@@ -3,7 +3,7 @@
   "owner": "safishamsi",
   "name": "graphify",
   "full_name": "safishamsi/graphify",
-  "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+  "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
   "description_ja": "",
   "url": "https://github.com/safishamsi/graphify",
   "homepage_url": "https://graphifylabs.ai/",
@@ -16,16 +16,19 @@
     "gemini",
     "graphrag",
     "knowledge-graph",
+    "leiden",
     "openclaw",
-    "skills"
+    "rag",
+    "skills",
+    "tree-sitter"
   ],
-  "star_count": 39523,
-  "fork_count": 4365,
+  "star_count": 40559,
+  "fork_count": 4465,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-03T15:49:07Z",
-  "updated_at": "2026-05-01T18:33:50Z",
-  "pushed_at": "2026-05-01T17:53:22Z",
+  "updated_at": "2026-05-02T17:53:27Z",
+  "pushed_at": "2026-05-02T17:09:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -51,6 +54,10 @@
     {
       "date": "2026-05-01",
       "stars": 39523
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 40559
     }
   ]
 }

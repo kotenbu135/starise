@@ -7,8 +7,8 @@
   "description_ja": "雀魂・天鳳・麻雀一番街・天月麻將に対応し、カスタムAIモデルを使ってリアルタイムに対局を分析してアドバイスを提供できます。Mortal AIをビルトイン例として搭載。",
   "url": "https://github.com/shinkuan/Akagi",
   "homepage_url": "",
-  "language": "Python",
-  "license": "NOASSERTION",
+  "language": "Rust",
+  "license": "Apache-2.0",
   "topics": [
     "game-ai",
     "japanese-mahjong",
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-05T11:55:39Z",
-  "updated_at": "2026-04-30T18:50:16Z",
-  "pushed_at": "2026-05-01T07:01:12Z",
+  "updated_at": "2026-05-02T07:16:16Z",
+  "pushed_at": "2026-05-02T07:16:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -51,6 +51,10 @@
     },
     {
       "date": "2026-05-01",
+      "stars": 836
+    },
+    {
+      "date": "2026-05-02",
       "stars": 836
     }
   ]

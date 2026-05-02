@@ -3,8 +3,8 @@
   "owner": "shinpr",
   "name": "mcp-image",
   "full_name": "shinpr/mcp-image",
-  "description": "MCP server for AI image generation and editing with automatic prompt optimization and quality presets (fast/balanced/quality). Powered by Gemini (Nano Banana 2 \u0026 Pro).",
-  "description_ja": "自動プロンプト最適化と品質プリセット（fast/balanced/quality）を備えたAI画像生成・編集用MCPサーバー。Gemini（Nano Banana 2 \u0026 Pro）搭載。",
+  "description": "MCP server for AI image generation and editing with automatic prompt optimization and quality presets. Powered by Gemini (Nano Banana 2 \u0026 Pro), with optional OpenAI GPT Image support.",
+  "description_ja": "",
   "url": "https://github.com/shinpr/mcp-image",
   "homepage_url": "",
   "language": "TypeScript",
@@ -17,6 +17,7 @@
     "cursor",
     "gemini",
     "generative-ai",
+    "gpt-image-2",
     "image-editing",
     "image-generation",
     "mcp",
@@ -25,13 +26,13 @@
     "prompt-optimization",
     "skills"
   ],
-  "star_count": 106,
+  "star_count": 107,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-27T21:33:53Z",
-  "updated_at": "2026-05-01T13:32:06Z",
-  "pushed_at": "2026-05-01T16:08:43Z",
+  "updated_at": "2026-05-02T06:17:48Z",
+  "pushed_at": "2026-05-02T06:10:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +58,10 @@
     {
       "date": "2026-05-01",
       "stars": 106
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 107
     }
   ]
 }

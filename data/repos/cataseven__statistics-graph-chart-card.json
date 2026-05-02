@@ -3,8 +3,8 @@
   "owner": "cataseven",
   "name": "statistics-graph-chart-card",
   "full_name": "cataseven/statistics-graph-chart-card",
-  "description": "A highly customizable, smooth, and advanced graph card. Shows historical sensor data with dynamic trend colors, statistics (min, max, avg), and more. A great alternative to the default history graph and sensor cards.",
-  "description_ja": "高度にカスタマイズ可能なスムーズな高機能グラフカード。動的トレンドカラーによる過去センサーデータの表示、統計（最小・最大・平均）などに対応",
+  "description": "A highly customizable, smooth, and advanced graph chart card for Home Assistant dashboards. Shows historical sensor data with dynamic trend colors, statistics (min, max, avg), and more. A great alternative to the default history graph and sensor cards.",
+  "description_ja": "",
   "url": "https://github.com/cataseven/Statistics-Graph-Chart-Card",
   "homepage_url": "",
   "language": "",
@@ -12,6 +12,9 @@
   "topics": [
     "analysis",
     "analytics",
+    "apex",
+    "apex-charts",
+    "apexcharts",
     "bar-chart",
     "chart",
     "data",
@@ -27,12 +30,12 @@
     "statistical-analysis",
     "statistics"
   ],
-  "star_count": 85,
+  "star_count": 86,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-09T09:41:30Z",
-  "updated_at": "2026-05-01T15:24:10Z",
+  "updated_at": "2026-05-02T07:43:06Z",
   "pushed_at": "2026-05-01T15:32:12Z",
   "deleted_at": "",
   "star_history": [
@@ -55,6 +58,10 @@
     {
       "date": "2026-05-01",
       "stars": 85
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 86
     }
   ]
 }
