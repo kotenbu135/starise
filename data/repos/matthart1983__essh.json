@@ -6,16 +6,16 @@
   "description": "Enhanced SSH client with TUI — manage connections, keys, and sessions",
   "description_ja": "TUI を備えた拡張 SSH クライアント — 接続、鍵、セッションを管理する",
   "url": "https://github.com/matthart1983/essh",
-  "homepage_url": "",
+  "homepage_url": "https://netwatchlabs.com",
   "language": "Rust",
   "license": "MIT",
   "topics": [],
-  "star_count": 55,
+  "star_count": 56,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T19:57:54Z",
-  "updated_at": "2026-05-01T19:11:04Z",
+  "updated_at": "2026-05-03T03:02:04Z",
   "pushed_at": "2026-04-08T22:11:27Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +46,10 @@
     {
       "date": "2026-05-02",
       "stars": 55
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 56
     }
   ]
 }

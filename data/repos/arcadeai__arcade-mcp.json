@@ -3,35 +3,37 @@
   "owner": "arcadeai",
   "name": "arcade-mcp",
   "full_name": "arcadeai/arcade-mcp",
-  "description": "The best way to create, deploy, and share MCP Servers",
-  "description_ja": "MCPサーバーを作成・デプロイ・共有するための最善の方法",
+  "description": "MCP Server Framework and Tool Development library for building custom capabilities into agents. ",
+  "description_ja": "",
   "url": "https://github.com/ArcadeAI/arcade-mcp",
   "homepage_url": "https://docs.arcade.dev",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "ai",
-    "ai-gateway",
     "arcade",
     "arcade-ai",
-    "llm-tool-call",
-    "llm-tools",
+    "claude",
+    "claude-code",
+    "claude-mcp",
     "mcp",
-    "mcp-client",
+    "mcp-framework",
     "mcp-gateway",
     "mcp-runtime",
+    "mcp-server",
     "mcp-servers",
     "mcp-tools",
+    "mcpserver",
     "model-context-protocol",
     "model-context-protocol-sdk",
-    "toolcalling"
+    "python"
   ],
-  "star_count": 875,
-  "fork_count": 88,
+  "star_count": 877,
+  "fork_count": 89,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-26T22:25:48Z",
-  "updated_at": "2026-05-02T01:58:06Z",
+  "updated_at": "2026-05-03T12:55:56Z",
   "pushed_at": "2026-05-01T23:15:30Z",
   "deleted_at": "",
   "star_history": [
@@ -62,6 +64,10 @@
     {
       "date": "2026-05-02",
       "stars": 875
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 877
     }
   ]
 }

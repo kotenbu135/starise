@@ -3,8 +3,8 @@
   "owner": "markaren",
   "name": "threepp",
   "full_name": "markaren/threepp",
-  "description": "C++20 port of three.js (r129)",
-  "description_ja": "three.js（r129）のC++20移植版",
+  "description": "C++20 port of three.js (r129+)",
+  "description_ja": "",
   "url": "https://github.com/markaren/threepp",
   "homepage_url": "",
   "language": "C++",
@@ -15,15 +15,16 @@
     "emscripten",
     "opengl",
     "threejs",
-    "wasm"
+    "wasm",
+    "webgpu"
   ],
   "star_count": 781,
   "fork_count": 91,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-15T12:56:46Z",
-  "updated_at": "2026-04-29T13:45:49Z",
-  "pushed_at": "2026-04-30T23:21:45Z",
+  "updated_at": "2026-05-02T22:58:26Z",
+  "pushed_at": "2026-05-03T07:50:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -52,6 +53,10 @@
     },
     {
       "date": "2026-05-02",
+      "stars": 781
+    },
+    {
+      "date": "2026-05-03",
       "stars": 781
     }
   ]

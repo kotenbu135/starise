@@ -3,8 +3,8 @@
   "owner": "ikhyeon-cho",
   "name": "fastdem",
   "full_name": "ikhyeon-cho/fastdem",
-  "description": "Real-time 2.5D elevation mapping library for mobile robot navigation on embedded CPUs — C++17, ROS1/ROS2",
-  "description_ja": "組み込み CPU 上でのモバイルロボットナビゲーション向けリアルタイム 2.5D 標高マッピングライブラリ — C++17、ROS1/ROS2 対応。",
+  "description": "Real-time 2.5D elevation mapping engine for embedded mobile robots: C++17 core with optional ROS1/ROS2 support",
+  "description_ja": "",
   "url": "https://github.com/Ikhyeon-Cho/FastDEM",
   "homepage_url": "",
   "language": "C++",
@@ -28,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-09T06:55:52Z",
-  "updated_at": "2026-04-30T07:48:36Z",
-  "pushed_at": "2026-04-06T12:21:39Z",
+  "updated_at": "2026-05-03T16:11:28Z",
+  "pushed_at": "2026-05-03T16:09:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +54,10 @@
     },
     {
       "date": "2026-05-02",
+      "stars": 127
+    },
+    {
+      "date": "2026-05-03",
       "stars": 127
     }
   ]

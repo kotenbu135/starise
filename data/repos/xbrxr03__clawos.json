@@ -3,24 +3,31 @@
   "owner": "xbrxr03",
   "name": "clawos",
   "full_name": "xbrxr03/clawos",
-  "description": "Standardized runtime for local AI agents — OpenClaw + Ollama with memory, tools, and permission control, fully self-hosted.",
-  "description_ja": "ローカル AI エージェント向けの標準化されたランタイム。OpenClaw + Ollama にメモリ・ツール・権限制御を組み合わせ、完全セルフホスト対応。",
+  "description": "🤖 Local AI agent for your laptop. Voice activation, multi-step tool use, 7-layer memory, human-in-the-loop approvals. Zero cloud. Zero API keys. Zero telemetry.",
+  "description_ja": "",
   "url": "https://github.com/xbrxr03/clawos",
-  "homepage_url": "https://clawos-zeta.vercel.app",
+  "homepage_url": "https://github.com/xbrxr03/clawos",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
+    "agent",
     "ai",
-    "ai-agents",
-    "runtime"
+    "jarvis",
+    "linux",
+    "local-ai",
+    "ollama",
+    "privacy",
+    "python",
+    "self-hosted",
+    "voice-assistant"
   ],
   "star_count": 47,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T19:41:03Z",
-  "updated_at": "2026-05-02T04:01:06Z",
-  "pushed_at": "2026-05-02T04:01:02Z",
+  "updated_at": "2026-05-03T04:55:57Z",
+  "pushed_at": "2026-05-03T04:55:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +56,10 @@
     },
     {
       "date": "2026-05-02",
+      "stars": 47
+    },
+    {
+      "date": "2026-05-03",
       "stars": 47
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "sirrobot01",
   "name": "decypharr",
   "full_name": "sirrobot01/decypharr",
-  "description": "A Qbittorent Mock with Debrid Support",
-  "description_ja": "Debridサポート付きQbittorrentモック",
+  "description": "Media gateway for Debrid \u0026 Usenet.",
+  "description_ja": "",
   "url": "https://github.com/sirrobot01/decypharr",
   "homepage_url": "",
   "language": "Go",
@@ -16,12 +16,12 @@
     "qbittorrent",
     "torrent"
   ],
-  "star_count": 690,
+  "star_count": 691,
   "fork_count": 87,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-25T04:35:39Z",
-  "updated_at": "2026-05-01T12:10:43Z",
+  "updated_at": "2026-05-03T13:57:21Z",
   "pushed_at": "2026-05-01T11:00:02Z",
   "deleted_at": "",
   "star_history": [
@@ -52,6 +52,10 @@
     {
       "date": "2026-05-02",
       "stars": 690
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 691
     }
   ]
 }

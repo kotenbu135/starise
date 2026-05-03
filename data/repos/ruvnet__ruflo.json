@@ -3,8 +3,8 @@
   "owner": "ruvnet",
   "name": "ruflo",
   "full_name": "ruvnet/ruflo",
-  "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-  "description_ja": "🌊 Claude 向けの主要エージェントオーケストレーションプラットフォーム。インテリジェントなマルチエージェントスウォームのデプロイ、自律ワークフローの調整、会話型 AI システムの構築が可能。エンタープライズグレードのアーキテクチャ、分散スウォームインテリジェンス、RAG 統合、Claude Code / Codex ネイティブ統合を備える。",
+  "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+  "description_ja": "",
   "url": "https://github.com/ruvnet/ruflo",
   "homepage_url": "https://Cognitum.One",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "swarm",
     "swarm-intelligence"
   ],
-  "star_count": 36288,
-  "fork_count": 4160,
+  "star_count": 38356,
+  "fork_count": 4362,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-02T21:24:20Z",
-  "updated_at": "2026-05-02T17:53:21Z",
-  "pushed_at": "2026-05-02T17:20:52Z",
+  "updated_at": "2026-05-03T17:57:47Z",
+  "pushed_at": "2026-05-03T02:29:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -67,6 +67,10 @@
     {
       "date": "2026-05-02",
       "stars": 36288
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 38356
     }
   ]
 }

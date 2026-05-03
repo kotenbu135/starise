@@ -3,8 +3,8 @@
   "owner": "boxlite-ai",
   "name": "boxlite",
   "full_name": "boxlite-ai/boxlite",
-  "description": "Sandboxes for every agent. Embeddable, stateful, snapshots, and hardware isolation.",
-  "description_ja": "あらゆるエージェント向けのサンドボックスです。埋め込み可能で、ステートフル、スナップショット、ハードウェア分離に対応しています。",
+  "description": "Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.",
+  "description_ja": "",
   "url": "https://github.com/boxlite-ai/boxlite",
   "homepage_url": "https://boxlite.ai/",
   "language": "TypeScript",
@@ -17,13 +17,13 @@
     "serverless",
     "virtualization"
   ],
-  "star_count": 1883,
+  "star_count": 1890,
   "fork_count": 108,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-07T22:49:32Z",
-  "updated_at": "2026-05-02T13:56:18Z",
-  "pushed_at": "2026-05-02T14:30:23Z",
+  "updated_at": "2026-05-03T16:46:45Z",
+  "pushed_at": "2026-05-03T13:28:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -53,6 +53,10 @@
     {
       "date": "2026-05-02",
       "stars": 1883
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 1890
     }
   ]
 }

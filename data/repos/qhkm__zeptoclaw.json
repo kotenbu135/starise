@@ -3,8 +3,8 @@
   "owner": "qhkm",
   "name": "zeptoclaw",
   "full_name": "qhkm/zeptoclaw",
-  "description": "AI coding agent — 32 tools, 9 providers, 9 channels. The agent runtime that ZeptoRT supervises.",
-  "description_ja": "AIコーディングエージェント — 32ツール、9プロバイダー、9チャンネル。ZeptoRTが管理するエージェントランタイム。",
+  "description": "Fast, small, secure, local-first personal AI assistant infrastructure: one Rust binary for tools, memory, channels, providers, and sandboxed autonomy.",
+  "description_ja": "",
   "url": "https://github.com/qhkm/zeptoclaw",
   "homepage_url": "https://zeptoclaw.com/",
   "language": "Rust",
@@ -15,13 +15,13 @@
     "open-source",
     "rust"
   ],
-  "star_count": 614,
+  "star_count": 617,
   "fork_count": 93,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-12T10:11:01Z",
-  "updated_at": "2026-05-02T15:21:30Z",
-  "pushed_at": "2026-04-28T07:27:44Z",
+  "updated_at": "2026-05-03T07:33:24Z",
+  "pushed_at": "2026-05-03T09:35:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -51,6 +51,10 @@
     {
       "date": "2026-05-02",
       "stars": 614
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 617
     }
   ]
 }

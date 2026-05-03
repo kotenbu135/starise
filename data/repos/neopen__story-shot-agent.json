@@ -3,7 +3,7 @@
   "owner": "neopen",
   "name": "story-shot-agent",
   "full_name": "neopen/story-shot-agent",
-  "description": "剧本分镜智能体（PenShot）：电影/短剧/小说→分镜→片段→prompt | 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词。保持角色/剧情跨片段一致，支持 MCP/REST API/函数调用 | Python库 + A2A集成。（LLM-powered screenplay-to-video-prompt agent. Break scripts into Sora/Veo-ready shots with character consistency）",
+  "description": "剧本分镜智能体（PenShot）：电影/动漫/短剧/小说/剧本→分镜→片段→prompt | 基于 LangGraph+LLM，自动解析任意格式剧本，生成 Sora/Veo/Runway 等模型可用的连贯text-to-video提示词。保持角色/剧情跨片段一致，支持 MCP/REST API/函数调用 | Python库 + A2A集成。（LLM-powered screenplay-to-video-prompt agent. Break scripts into Sora/Veo-ready shots with character consistency）",
   "description_ja": "",
   "url": "https://github.com/neopen/story-shot-agent",
   "homepage_url": "https://shot.pengline.cn/",
@@ -30,13 +30,13 @@
     "video-consistency",
     "video-production"
   ],
-  "star_count": 57,
+  "star_count": 58,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-23T08:41:36Z",
-  "updated_at": "2026-05-02T14:15:14Z",
-  "pushed_at": "2026-05-02T14:46:42Z",
+  "updated_at": "2026-05-03T14:57:01Z",
+  "pushed_at": "2026-05-03T15:25:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +66,10 @@
     {
       "date": "2026-05-02",
       "stars": 57
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 58
     }
   ]
 }

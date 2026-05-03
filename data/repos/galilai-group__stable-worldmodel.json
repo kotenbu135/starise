@@ -3,8 +3,8 @@
   "owner": "galilai-group",
   "name": "stable-worldmodel",
   "full_name": "galilai-group/stable-worldmodel",
-  "description": "Reliable, minimal and scalable library for evaluating and conducting world model research",
-  "description_ja": "ワールドモデル研究の評価・実施向け、信頼性が高くミニマルでスケーラブルなライブラリ",
+  "description": "A platform for reproducible world model research and evaluation",
+  "description_ja": "",
   "url": "https://github.com/galilai-group/stable-worldmodel",
   "homepage_url": "https://galilai-group.github.io/stable-worldmodel/",
   "language": "Python",
@@ -12,16 +12,17 @@
   "topics": [
     "deep-learning",
     "jepa",
+    "model-predictive-control",
     "pytorch",
     "world-model"
   ],
-  "star_count": 518,
+  "star_count": 524,
   "fork_count": 75,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-27T02:37:38Z",
-  "updated_at": "2026-05-02T16:51:59Z",
-  "pushed_at": "2026-05-02T05:26:56Z",
+  "updated_at": "2026-05-03T07:08:38Z",
+  "pushed_at": "2026-05-02T21:59:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +48,10 @@
     {
       "date": "2026-05-02",
       "stars": 518
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 524
     }
   ]
 }

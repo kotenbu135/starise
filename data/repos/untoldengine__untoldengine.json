@@ -3,7 +3,7 @@
   "owner": "untoldengine",
   "name": "untoldengine",
   "full_name": "untoldengine/untoldengine",
-  "description": "Open-source Swift + Metal engine for macOS, iOS, and Apple Vision Pro. Remote asset streaming, LOD, static batching, and a native asset format — built for large scenes and XR applications.",
+  "description": "Swift + Metal 3D engine for macOS, iOS, and visionOS — with native Apple Vision Pro support and a growing focus on spatial computing. Built for developers who want full control over the rendering pipeline.",
   "description_ja": "",
   "url": "https://github.com/untoldengine/UntoldEngine",
   "homepage_url": "http://www.untoldengine.com",
@@ -18,13 +18,13 @@
     "visionos",
     "xr"
   ],
-  "star_count": 88,
+  "star_count": 89,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-25T00:44:57Z",
-  "updated_at": "2026-05-02T13:06:39Z",
-  "pushed_at": "2026-05-02T13:06:35Z",
+  "updated_at": "2026-05-03T14:24:53Z",
+  "pushed_at": "2026-05-03T14:23:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +50,10 @@
     {
       "date": "2026-05-02",
       "stars": 88
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 89
     }
   ]
 }

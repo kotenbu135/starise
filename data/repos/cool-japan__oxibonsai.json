@@ -1,0 +1,34 @@
+{
+  "repo_id": "R_kgDOR6SurA",
+  "owner": "cool-japan",
+  "name": "oxibonsai",
+  "full_name": "cool-japan/oxibonsai",
+  "description": "OxiBonsai is a zero-FFI, zero-C/C++ inference engine for PrismML's sub-2-bit Bonsai family — both the 1-bit line (Q1_0_g128) and the ternary line (TQ2_0_g128). It runs on CPU (SIMD), Apple Silicon (Metal), and NVIDIA (CUDA) without depending on llama.cpp, BLAS, or any C/Fortran runtime.",
+  "description_ja": "",
+  "url": "https://github.com/cool-japan/oxibonsai",
+  "homepage_url": "https://github.com/cool-japan/oxibonsai",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "bonsai",
+    "pure-rust",
+    "qwen3",
+    "rust",
+    "rust-crate",
+    "rust-lang"
+  ],
+  "star_count": 47,
+  "fork_count": 6,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-05T12:27:50Z",
+  "updated_at": "2026-05-03T11:40:46Z",
+  "pushed_at": "2026-05-03T17:20:29Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-03",
+      "stars": 47
+    }
+  ]
+}

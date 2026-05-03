@@ -3,8 +3,8 @@
   "owner": "bigbodycobain",
   "name": "shadowbroker",
   "full_name": "bigbodycobain/shadowbroker",
-  "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. The knowledge is available to all but rarely aggregated in the open, until now.",
-  "description_ja": "グローバルな動向を把握するオープンソースインテリジェンスツール。富裕層の社用・プライベートジェットやスパイ衛星から地震イベントまで、一つの統合インターフェースで追跡。これまで公開集約されることのなかった情報を誰もが利用できるように。",
+  "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it be your eyes and form previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+  "description_ja": "",
   "url": "https://github.com/BigBodyCobain/Shadowbroker",
   "homepage_url": "",
   "language": "Python",
@@ -25,13 +25,13 @@
     "sattelite-imagery",
     "sdr"
   ],
-  "star_count": 5599,
-  "fork_count": 864,
+  "star_count": 5635,
+  "fork_count": 869,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-05T03:59:55Z",
-  "updated_at": "2026-05-02T17:00:22Z",
-  "pushed_at": "2026-05-02T15:41:36Z",
+  "updated_at": "2026-05-03T16:26:20Z",
+  "pushed_at": "2026-05-03T14:45:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -61,6 +61,10 @@
     {
       "date": "2026-05-02",
       "stars": 5599
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 5635
     }
   ]
 }

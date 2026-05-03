@@ -3,20 +3,38 @@
   "owner": "project-sunshine-native",
   "name": "cinnamon",
   "full_name": "project-sunshine-native/cinnamon",
-  "description": "",
+  "description": "A working GML runner in C for the Nintendo 3DS and Wii U.",
   "description_ja": "",
   "url": "https://github.com/Project-Sunshine-Native/cinnamon",
   "homepage_url": "",
   "language": "C",
   "license": "GPL-3.0",
-  "topics": [],
+  "topics": [
+    "3ds",
+    "3ds-homebrew",
+    "3dshacks",
+    "c",
+    "deltarune",
+    "gamemaker-studio",
+    "gamemaker-studio-2",
+    "gamemakerstudio",
+    "gml",
+    "homebrew",
+    "opengl",
+    "reverse-engineering",
+    "runner",
+    "undertale",
+    "wiiu",
+    "wiiu-hacking",
+    "wiiu-homebrew"
+  ],
   "star_count": 44,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-20T02:32:28Z",
-  "updated_at": "2026-05-01T19:45:59Z",
-  "pushed_at": "2026-04-29T20:01:33Z",
+  "updated_at": "2026-05-03T17:07:17Z",
+  "pushed_at": "2026-05-03T16:37:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -29,6 +47,10 @@
     },
     {
       "date": "2026-05-02",
+      "stars": 44
+    },
+    {
+      "date": "2026-05-03",
       "stars": 44
     }
   ]

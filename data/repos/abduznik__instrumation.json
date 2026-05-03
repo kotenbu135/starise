@@ -8,15 +8,21 @@
   "url": "https://github.com/abduznik/instrumation",
   "homepage_url": "",
   "language": "Python",
-  "license": "",
+  "license": "MIT",
   "topics": [
+    "anritsu",
     "digital-twin",
     "hal",
     "instrumentation",
+    "keysight",
     "pyserial",
     "python",
     "pyvisa",
+    "rf-hal",
+    "rigol",
+    "rohde-schwarz",
     "scpi",
+    "siglent",
     "test-automation"
   ],
   "star_count": 72,
@@ -24,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-27T14:15:31Z",
-  "updated_at": "2026-05-02T03:55:49Z",
-  "pushed_at": "2026-05-01T19:59:48Z",
+  "updated_at": "2026-05-03T16:41:22Z",
+  "pushed_at": "2026-05-03T16:41:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +56,10 @@
     },
     {
       "date": "2026-05-02",
+      "stars": 72
+    },
+    {
+      "date": "2026-05-03",
       "stars": 72
     }
   ]
