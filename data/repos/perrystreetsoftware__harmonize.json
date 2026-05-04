@@ -3,8 +3,8 @@
   "owner": "perrystreetsoftware",
   "name": "harmonize",
   "full_name": "perrystreetsoftware/harmonize",
-  "description": "Harmonize is a modern linter for Swift that allows you to write architectural lint rules as unit tests, helping your team to keep your codebase clean, maintainable, and consistent as it grows, without relying on manual code reviews.",
-  "description_ja": "Harmonizeは、アーキテクチャのlintルールをユニットテストとして記述できるSwift向けモダンリンターです。手動コードレビューに頼らず、コードベースが成長してもクリーンで保守しやすく一貫した状態を維持するのに役立ちます。",
+  "description": "Harmonize is a modern linter for Swift that allows you to write architectural lint rules as unit tests. In the era of AI-generated code, it provides your team with deterministic guardrails to keep your codebase clean, maintainable, and consistent as it grows.",
+  "description_ja": "",
   "url": "https://github.com/perrystreetsoftware/Harmonize",
   "homepage_url": "",
   "language": "Swift",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-28T17:59:02Z",
-  "updated_at": "2026-04-28T13:58:33Z",
-  "pushed_at": "2026-04-13T09:57:40Z",
+  "updated_at": "2026-05-03T22:08:00Z",
+  "pushed_at": "2026-05-04T04:30:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +49,10 @@
     },
     {
       "date": "2026-05-03",
+      "stars": 314
+    },
+    {
+      "date": "2026-05-04",
       "stars": 314
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "emcie-co",
   "name": "parlant",
   "full_name": "emcie-co/parlant",
-  "description": "The interaction control harness for customer-facing AI agents - optimized for building controlled, consistent, and predictable customer interactions with LLMs.",
-  "description_ja": "顧客向け AI エージェントのインタラクション制御ハーネス — LLM による制御された、一貫性のある予測可能な顧客インタラクションの構築に最適化。",
+  "description": "Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.",
+  "description_ja": "",
   "url": "https://github.com/emcie-co/parlant",
   "homepage_url": "https://www.parlant.io",
   "language": "Python",
@@ -22,13 +22,13 @@
     "openai",
     "python"
   ],
-  "star_count": 18045,
-  "fork_count": 1529,
+  "star_count": 18050,
+  "fork_count": 1530,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-15T20:16:15Z",
-  "updated_at": "2026-05-03T14:28:58Z",
-  "pushed_at": "2026-05-03T14:28:53Z",
+  "updated_at": "2026-05-04T15:01:24Z",
+  "pushed_at": "2026-05-04T15:01:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +62,10 @@
     {
       "date": "2026-05-03",
       "stars": 18045
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 18050
     }
   ]
 }

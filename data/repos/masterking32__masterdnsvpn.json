@@ -13,6 +13,8 @@
     "dns-client",
     "dns-proxy",
     "dns-server",
+    "dns-tunnel",
+    "dns-tunneling",
     "dnstt",
     "masterdns",
     "masterdnsvpn",
@@ -20,13 +22,13 @@
     "tunnel",
     "vpn"
   ],
-  "star_count": 1216,
-  "fork_count": 113,
+  "star_count": 1356,
+  "fork_count": 126,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-18T17:34:54Z",
-  "updated_at": "2026-05-03T17:34:12Z",
-  "pushed_at": "2026-04-23T20:32:19Z",
+  "updated_at": "2026-05-04T19:25:47Z",
+  "pushed_at": "2026-05-04T12:37:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -60,6 +62,10 @@
     {
       "date": "2026-05-03",
       "stars": 1216
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 1356
     }
   ]
 }

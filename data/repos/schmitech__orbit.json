@@ -3,8 +3,8 @@
   "owner": "schmitech",
   "name": "orbit",
   "full_name": "schmitech/orbit",
-  "description": "One API for 20+ LLM providers, your databases, and your files — self-hosted, open-source AI gateway with RAG, voice, and guardrails.",
-  "description_ja": "20以上のLLMプロバイダー、データベース、ファイルに対応する統合API — RAG、音声、ガードレール機能を備えたセルフホスト型オープンソースAIゲートウェイ",
+  "description": "The self-hosted AI gateway for production RAG across LLMs, databases, APIs, and files.",
+  "description_ja": "",
   "url": "https://github.com/schmitech/orbit",
   "homepage_url": "https://schmitech.ai",
   "language": "Python",
@@ -35,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-10T02:30:21Z",
-  "updated_at": "2026-05-03T14:18:25Z",
-  "pushed_at": "2026-05-03T14:18:21Z",
+  "updated_at": "2026-05-04T17:07:04Z",
+  "pushed_at": "2026-05-04T17:06:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -69,6 +69,10 @@
     },
     {
       "date": "2026-05-03",
+      "stars": 253
+    },
+    {
+      "date": "2026-05-04",
       "stars": 253
     }
   ]

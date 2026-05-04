@@ -3,22 +3,22 @@
   "owner": "syrin-labs",
   "name": "syrin-python",
   "full_name": "syrin-labs/syrin-python",
-  "description": "Developer-first Python framework for AI agents with built-in budget control, context, memory and observability.",
-  "description_ja": "予算管理、コンテキスト、メモリ、オブザーバビリティを内蔵した、開発者ファーストの AI エージェント向け Python フレームワーク。",
+  "description": "The Python Harness for Production AI Multi-Agent Systems",
+  "description_ja": "",
   "url": "https://github.com/syrin-labs/syrin-python",
   "homepage_url": "https://docs.syrin.dev/agent-kit",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "agentic-rag",
-    "ai",
-    "ai-agent",
     "budgeting",
     "context-engineering",
+    "harness",
     "harness-engineering",
     "memory-management",
     "model-routing",
     "multi-agent",
+    "multi-agent-systems",
     "multimodal-agent",
     "observability",
     "rag"
@@ -28,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-23T11:02:05Z",
-  "updated_at": "2026-04-30T10:38:03Z",
-  "pushed_at": "2026-04-26T06:03:34Z",
+  "updated_at": "2026-05-04T16:51:41Z",
+  "pushed_at": "2026-05-04T16:51:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +62,10 @@
     },
     {
       "date": "2026-05-03",
+      "stars": 51
+    },
+    {
+      "date": "2026-05-04",
       "stars": 51
     }
   ]

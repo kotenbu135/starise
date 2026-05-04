@@ -3,24 +3,28 @@
   "owner": "nvidia-ai-blueprints",
   "name": "video-search-and-summarization",
   "full_name": "nvidia-ai-blueprints/video-search-and-summarization",
-  "description": "Blueprint for Ingesting massive volumes of live or archived videos and extract insights for summarization and interactive Q\u0026A",
-  "description_ja": "大量のライブまたはアーカイブ動画を取り込み、要約やインタラクティブなQ\u0026Aのためのインサイトを抽出するブループリント",
+  "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+  "description_ja": "",
   "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
   "homepage_url": "https://build.nvidia.com/nvidia/video-search-and-summarization",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
+    "agents",
     "llm",
     "rag",
+    "skills",
+    "video-analytics",
+    "video-search",
     "vlm"
   ],
-  "star_count": 626,
-  "fork_count": 227,
+  "star_count": 627,
+  "fork_count": 229,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-22T06:43:05Z",
-  "updated_at": "2026-05-03T09:06:57Z",
-  "pushed_at": "2026-05-02T21:42:08Z",
+  "updated_at": "2026-05-04T15:20:49Z",
+  "pushed_at": "2026-05-04T19:27:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +58,10 @@
     {
       "date": "2026-05-03",
       "stars": 626
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 627
     }
   ]
 }

@@ -3,43 +3,33 @@
   "owner": "agents365-ai",
   "name": "video-podcast-maker",
   "full_name": "agents365-ai/video-podcast-maker",
-  "description": "AI-powered video podcast creation skill for coding agents. Supports Bilibili \u0026 YouTube, multi-language (zh-CN/en-US), 6 TTS engines (Edge/Azure/ElevenLabs/OpenAI/Doubao/CosyVoice), 4K Remotion rendering.",
+  "description": "Automated 4K video podcast creation for coding agents",
   "description_ja": "",
   "url": "https://github.com/Agents365-ai/video-podcast-maker",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "agent-skills",
-    "ai-video",
-    "bilibili",
-    "claude-code",
-    "claude-code-skill",
-    "claude-skills",
-    "elevenlabs",
-    "openai-tts",
-    "openclaw",
-    "openclaw-skills",
-    "remotion",
-    "skill-md",
-    "skillsmp",
-    "tts",
-    "video-pipeline",
-    "video-podcast",
-    "youtube"
+    "agent-skill",
+    "idea-to-video",
+    "video-generation"
   ],
-  "star_count": 736,
-  "fork_count": 95,
+  "star_count": 783,
+  "fork_count": 101,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-16T14:15:27Z",
-  "updated_at": "2026-05-03T17:51:59Z",
+  "updated_at": "2026-05-04T17:14:53Z",
   "pushed_at": "2026-04-27T12:06:51Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-05-03",
       "stars": 736
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 783
     }
   ]
 }

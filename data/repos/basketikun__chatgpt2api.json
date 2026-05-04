@@ -3,20 +3,20 @@
   "owner": "basketikun",
   "name": "chatgpt2api",
   "full_name": "basketikun/chatgpt2api",
-  "description": "ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容多OpenAI接口协议，在线批量生成图像，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件",
+  "description": "ChatGPT官网接口纯协议的逆向实现，支持注册机维持号池额度，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件",
   "description_ja": "",
   "url": "https://github.com/basketikun/chatgpt2api",
   "homepage_url": "https://linux.do",
-  "language": "Python",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [],
-  "star_count": 1844,
-  "fork_count": 537,
+  "star_count": 1907,
+  "fork_count": 548,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-19T14:53:01Z",
-  "updated_at": "2026-05-03T16:45:31Z",
-  "pushed_at": "2026-05-03T09:01:55Z",
+  "updated_at": "2026-05-04T18:37:30Z",
+  "pushed_at": "2026-05-04T10:24:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +42,10 @@
     {
       "date": "2026-05-03",
       "stars": 1844
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 1907
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "rageagainstthepixel",
   "name": "unity-cli",
   "full_name": "rageagainstthepixel/unity-cli",
-  "description": "A command line utility for the Unity Game Engine",
-  "description_ja": "Unity Game Engine向けコマンドラインユーティリティ",
+  "description": "An all-in-one command line utility for the Unity Game Engine",
+  "description_ja": "",
   "url": "https://github.com/RageAgainstThePixel/unity-cli",
   "homepage_url": "https://www.npmjs.com/package/@rage-against-the-pixel/unity-cli",
   "language": "TypeScript",
@@ -21,15 +21,16 @@
     "unity-automation",
     "unity-cli",
     "unity-hub",
-    "unity3d"
+    "unity3d",
+    "upm-cli"
   ],
   "star_count": 56,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-15T00:49:57Z",
-  "updated_at": "2026-05-03T14:31:35Z",
-  "pushed_at": "2026-04-25T15:58:31Z",
+  "updated_at": "2026-05-03T20:58:30Z",
+  "pushed_at": "2026-05-03T23:25:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +59,10 @@
     },
     {
       "date": "2026-05-03",
+      "stars": 56
+    },
+    {
+      "date": "2026-05-04",
       "stars": 56
     }
   ]

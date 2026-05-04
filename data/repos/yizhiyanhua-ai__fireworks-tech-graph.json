@@ -3,20 +3,27 @@
   "owner": "yizhiyanhua-ai",
   "name": "fireworks-tech-graph",
   "full_name": "yizhiyanhua-ai/fireworks-tech-graph",
-  "description": "Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.",
-  "description_ja": "本番品質のSVG+PNG技術図を生成するClaude Codeスキル。8種類の図タイプ、5種類のビジュアルスタイル、AI/Agentドメインの深い知識をサポート",
+  "description": "Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.",
+  "description_ja": "",
   "url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
-  "homepage_url": "",
+  "homepage_url": "https://bradzhang.dev/en/case-studies/fireworks-tech-graph",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 5339,
-  "fork_count": 472,
+  "topics": [
+    "agent-workflows",
+    "ai",
+    "claude-code",
+    "developer-tools",
+    "diagrams",
+    "svg"
+  ],
+  "star_count": 5419,
+  "fork_count": 485,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-10T15:07:10Z",
-  "updated_at": "2026-05-03T18:08:53Z",
-  "pushed_at": "2026-04-28T15:19:03Z",
+  "updated_at": "2026-05-04T19:33:02Z",
+  "pushed_at": "2026-05-04T10:39:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +57,10 @@
     {
       "date": "2026-05-03",
       "stars": 5339
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 5419
     }
   ]
 }

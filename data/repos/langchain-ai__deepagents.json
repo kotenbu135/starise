@@ -3,8 +3,8 @@
   "owner": "langchain-ai",
   "name": "deepagents",
   "full_name": "langchain-ai/deepagents",
-  "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
-  "description_ja": "LangChain と LangGraph で構築されたエージェントハーネス。プランニングツール、ファイルシステムバックエンド、サブエージェント生成機能を備え、複雑なエージェントタスクに対応。",
+  "description": "Python \u0026 TypeScript agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+  "description_ja": "",
   "url": "https://github.com/langchain-ai/deepagents",
   "homepage_url": "https://docs.langchain.com/deepagents",
   "language": "Python",
@@ -13,15 +13,17 @@
     "ai",
     "deepagents",
     "langchain",
-    "langgraph"
+    "langgraph",
+    "python",
+    "typescript"
   ],
-  "star_count": 22174,
-  "fork_count": 3114,
+  "star_count": 22233,
+  "fork_count": 3128,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-27T23:07:53Z",
-  "updated_at": "2026-05-03T17:38:47Z",
-  "pushed_at": "2026-05-03T17:35:52Z",
+  "updated_at": "2026-05-04T19:09:30Z",
+  "pushed_at": "2026-05-04T19:19:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +57,10 @@
     {
       "date": "2026-05-03",
       "stars": 22174
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 22233
     }
   ]
 }
