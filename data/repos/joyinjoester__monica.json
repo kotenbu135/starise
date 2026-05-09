@@ -3,8 +3,8 @@
   "owner": "joyinjoester",
   "name": "monica",
   "full_name": "joyinjoester/monica",
-  "description": "Password Management, 2FA Generator",
-  "description_ja": "パスワード管理・2FAジェネレーター。",
+  "description": " Monica Pass，Password Management, 2FA Generator",
+  "description_ja": "",
   "url": "https://github.com/JoyinJoester/Monica",
   "homepage_url": "https://joyinjoester.github.io/Monica/",
   "language": "Kotlin",
@@ -14,19 +14,21 @@
     "authenticator",
     "kotlin",
     "local-first",
+    "monica",
+    "monicapass",
     "open-source",
     "password-manager",
     "password-manager-app",
     "privacy",
     "totp"
   ],
-  "star_count": 372,
-  "fork_count": 20,
+  "star_count": 620,
+  "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-05T16:19:24Z",
-  "updated_at": "2026-05-04T11:55:09Z",
-  "pushed_at": "2026-05-04T12:03:32Z",
+  "updated_at": "2026-05-09T17:10:46Z",
+  "pushed_at": "2026-05-09T16:10:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -64,6 +66,10 @@
     {
       "date": "2026-05-04",
       "stars": 372
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 620
     }
   ]
 }

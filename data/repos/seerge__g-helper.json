@@ -3,7 +3,7 @@
   "owner": "seerge",
   "name": "g-helper",
   "full_name": "seerge/g-helper",
-  "description": "Fast, native tool for tuning performance, fans, GPU, battery, and RGB on any Asus laptop or handheld - ROG Zephyrus, Flow, Strix, TUF, Vivobook, Zenbook, ProArt, Ally, and beyond.",
+  "description": "Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and many more.",
   "description_ja": "",
   "url": "https://github.com/seerge/g-helper",
   "homepage_url": "https://g-helper.com",
@@ -20,6 +20,7 @@
     "g-helper",
     "g14",
     "g16",
+    "ghelper",
     "gpu",
     "intel",
     "mux",
@@ -30,13 +31,13 @@
     "strix",
     "tuf"
   ],
-  "star_count": 13001,
-  "fork_count": 478,
+  "star_count": 13060,
+  "fork_count": 481,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-10T23:11:28Z",
-  "updated_at": "2026-05-04T19:26:40Z",
-  "pushed_at": "2026-05-04T15:28:19Z",
+  "updated_at": "2026-05-09T15:07:47Z",
+  "pushed_at": "2026-05-09T14:06:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +75,10 @@
     {
       "date": "2026-05-04",
       "stars": 13001
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 13060
     }
   ]
 }

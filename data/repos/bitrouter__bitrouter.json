@@ -3,8 +3,8 @@
   "owner": "bitrouter",
   "name": "bitrouter",
   "full_name": "bitrouter/bitrouter",
-  "description": "The agentic proxy for modern agent runtimes. Smart, safe, agent-controlled routing across LLMs, tools, and agents.",
-  "description_ja": "モダンなエージェントランタイム向けのエージェンティックプロキシ。LLM、ツール、エージェントをまたいだスマートで安全なエージェント制御ルーティング。",
+  "description": "Open intelligence router for LLM agents",
+  "description_ja": "",
   "url": "https://github.com/bitrouter/bitrouter",
   "homepage_url": "https://bitrouter.ai",
   "language": "Rust",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T20:04:01Z",
-  "updated_at": "2026-05-04T17:37:06Z",
-  "pushed_at": "2026-05-04T18:01:44Z",
+  "updated_at": "2026-05-08T16:07:18Z",
+  "pushed_at": "2026-05-09T06:47:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +74,10 @@
     },
     {
       "date": "2026-05-04",
+      "stars": 79
+    },
+    {
+      "date": "2026-05-09",
       "stars": 79
     }
   ]

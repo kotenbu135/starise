@@ -3,8 +3,8 @@
   "owner": "tuned-org-uk",
   "name": "arrowspace-rs",
   "full_name": "tuned-org-uk/arrowspace-rs",
-  "description": "VectorDB library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.",
-  "description_ja": "分散モデルを用いた VectorDB ライブラリ。グラフ解析、ベクトル検索、ベクトルのエネルギー分布統計を一つのパッケージで提供。",
+  "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.",
+  "description_ja": "",
   "url": "https://github.com/tuned-org-uk/arrowspace-rs",
   "homepage_url": "https://www.tuned.org.uk/posts/010_game_changer_unifying_vectors_and_features_graphs",
   "language": "Rust",
@@ -21,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-29T12:47:46Z",
-  "updated_at": "2026-04-26T14:33:43Z",
-  "pushed_at": "2026-04-28T00:26:35Z",
+  "updated_at": "2026-05-05T09:12:59Z",
+  "pushed_at": "2026-05-05T00:57:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     },
     {
       "date": "2026-05-04",
+      "stars": 35
+    },
+    {
+      "date": "2026-05-09",
       "stars": 35
     }
   ]

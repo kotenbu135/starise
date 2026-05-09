@@ -6,7 +6,7 @@
   "description": "Cross-platform PDF digital signing tool. JavaFX desktop UI with drag-to-place visible signatures, PKCS#11/PKCS#12 keystores, RFC 3161 timestamping, OCSP/CRL long-term validation, and a scriptable CLI.",
   "description_ja": "クロスプラットフォームPDFデジタル署名ツール。ドラッグ配置による可視署名対応JavaFXデスクトップUI、PKCS#11/PKCS#12キーストア、RFC 3161タイムスタンプ、OCSP/CRL長期検証、スクリプト可能なCLIを搭載。",
   "url": "https://github.com/intoolswetrust/jsignpdf",
-  "homepage_url": "https://intoolswetrust.github.io/jsignpdf/",
+  "homepage_url": "https://jsignpdf.eu/",
   "language": "Java",
   "license": "NOASSERTION",
   "topics": [
@@ -26,13 +26,13 @@
     "smartcard",
     "timestamping"
   ],
-  "star_count": 398,
-  "fork_count": 133,
+  "star_count": 403,
+  "fork_count": 134,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-05-01T15:15:26Z",
-  "updated_at": "2026-05-04T19:21:46Z",
-  "pushed_at": "2026-05-04T19:21:40Z",
+  "updated_at": "2026-05-08T17:57:45Z",
+  "pushed_at": "2026-05-08T17:57:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +66,10 @@
     {
       "date": "2026-05-04",
       "stars": 398
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 403
     }
   ]
 }

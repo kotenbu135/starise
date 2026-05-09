@@ -3,10 +3,10 @@
   "owner": "domechn",
   "name": "track3",
   "full_name": "domechn/track3",
-  "description": "Analyze all your crypto assets in cex and web3 wallet",
-  "description_ja": "CEX および Web3 ウォレット上のすべての暗号資産を一元分析するツール",
+  "description": "Track crypto and stock assets across exchanges, brokers and wallets",
+  "description_ja": "",
   "url": "https://github.com/domechn/track3",
-  "homepage_url": "",
+  "homepage_url": "https://track3.domc.me",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
@@ -15,6 +15,7 @@
     "blockchain",
     "crypto",
     "ethereum",
+    "stocks",
     "web3"
   ],
   "star_count": 87,
@@ -22,8 +23,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-19T21:58:50Z",
-  "updated_at": "2026-05-04T12:52:21Z",
-  "pushed_at": "2026-05-04T12:52:18Z",
+  "updated_at": "2026-05-08T09:28:58Z",
+  "pushed_at": "2026-05-08T09:37:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -56,6 +57,10 @@
     },
     {
       "date": "2026-05-04",
+      "stars": 87
+    },
+    {
+      "date": "2026-05-09",
       "stars": 87
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "supervertaler",
   "name": "supervertaler-workbench",
   "full_name": "supervertaler/supervertaler-workbench",
-  "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, Superbench translation quality benchmarking, ‘Superlookup’ concordance across TMs/glossaries/web resources, voice commands, and seamless integration with leading CAT tools. Experimental Okapi Framework sidecar for industrial-strength file extraction.",
-  "description_ja": "マルチLLM対応、翻訳メモリ、用語集管理、Superbench翻訳品質ベンチマーク、TM/用語集/Webリソースにまたがる「Superlookup」コンコーダンス、音声コマンド、主要CATツールとのシームレスな統合を備えたオープンソースAI強化CATツール。産業レベルのファイル抽出向け実験的Okapi Frameworkサイドカー付き。",
+  "description": "Open-source, AI-enhanced CAT tool with multi-LLM support, translation memory, glossary management, system-wide 'Sidekick' floating AI assistant, 'Superbench' translation-quality benchmarking, 'Superlookup' concordance across TMs/glossaries/web resources, voice commands, Okapi sidecar for file extraction, and integration with leading CAT tools.",
+  "description_ja": "",
   "url": "https://github.com/Supervertaler/Supervertaler-Workbench",
   "homepage_url": "https://supervertaler.com/",
   "language": "Python",
@@ -34,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-04T15:18:13Z",
-  "updated_at": "2026-05-04T17:43:25Z",
-  "pushed_at": "2026-05-04T17:58:43Z",
+  "updated_at": "2026-05-09T18:13:19Z",
+  "pushed_at": "2026-05-09T18:13:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +68,10 @@
     },
     {
       "date": "2026-05-04",
+      "stars": 32
+    },
+    {
+      "date": "2026-05-09",
       "stars": 32
     }
   ]

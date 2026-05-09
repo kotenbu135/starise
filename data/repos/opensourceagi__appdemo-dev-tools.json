@@ -3,29 +3,29 @@
   "owner": "opensourceagi",
   "name": "appdemo-dev-tools",
   "full_name": "opensourceagi/appdemo-dev-tools",
-  "description": "💻⚒️ Full Stack Starter DOCS   - 🚀DEMO  https://appdemo.site ",
+  "description": "💻⚒️ NPM dev tools and core parts for Full Stack Starter App \u0026 Docs   🚀DEMO  https://appdemo.site ",
   "description_ja": "",
   "url": "https://github.com/OpenSourceAGI/appdemo-dev-tools",
   "homepage_url": "http://starterdocs.js.org/",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
     "cloudflare",
+    "developer-tools",
     "drizzle",
     "hacktoberfest",
     "oauth",
     "saas-boilerplate",
-    "starter-template",
-    "svelte",
-    "sveltekit"
+    "shadcn-ui",
+    "starter-template"
   ],
   "star_count": 37,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-06-12T21:39:51Z",
-  "updated_at": "2026-05-04T13:53:32Z",
-  "pushed_at": "2026-05-04T13:18:26Z",
+  "updated_at": "2026-05-07T11:21:31Z",
+  "pushed_at": "2026-05-07T11:21:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +58,10 @@
     },
     {
       "date": "2026-05-04",
+      "stars": 37
+    },
+    {
+      "date": "2026-05-09",
       "stars": 37
     }
   ]

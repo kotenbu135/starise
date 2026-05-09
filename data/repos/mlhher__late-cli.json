@@ -3,7 +3,7 @@
   "owner": "mlhher",
   "name": "late-cli",
   "full_name": "mlhher/late-cli",
-  "description": "Orchestrate an entire AI dev team on as little as 5GB VRAM. An AI coding agent built like a systems engineer. Ephemeral context, zero token bloat, exact-match diffs. Stop wasting money on 10k token wrappers that actively degrade LLM reasoning.",
+  "description": "Orchestrate an entire AI dev team on 5GB VRAM. Ephemeral subagents, exact-match diffs, zero context bloat. Single static binary, zero dependencies, any model.",
   "description_ja": "",
   "url": "https://github.com/mlhher/late-cli",
   "homepage_url": "",
@@ -11,30 +11,26 @@
   "license": "NOASSERTION",
   "topics": [
     "agent",
-    "ai",
     "ai-agent",
-    "ai-agents",
-    "ai-coding",
     "ai-coding-assistant",
-    "ai-skills",
+    "cli",
+    "coding-agent",
     "developer-tools",
     "golang",
-    "harness",
+    "llm",
     "llm-orchestration",
-    "llms",
     "mcp",
     "skills",
-    "state-machine",
     "terminal",
-    "vibecoding"
+    "tui"
   ],
-  "star_count": 259,
-  "fork_count": 23,
+  "star_count": 276,
+  "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-22T05:00:28Z",
-  "updated_at": "2026-05-04T09:50:14Z",
-  "pushed_at": "2026-05-03T02:07:29Z",
+  "updated_at": "2026-05-09T16:03:05Z",
+  "pushed_at": "2026-05-06T18:25:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -48,6 +44,10 @@
     {
       "date": "2026-05-04",
       "stars": 259
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 276
     }
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "repo_id": "R_kgDORPyVhA",
+  "owner": "drewburchfield",
+  "name": "macos-mic-keepwarm",
+  "full_name": "drewburchfield/macos-mic-keepwarm",
+  "description": "Fix the 2-5 second push-to-talk activation delay on macOS. Keeps microphone hardware awake for instant voice transcription with AirPods, Bluetooth headsets, and built-in mic. Works with SuperWhisper, WhisperFlow, Wispr Flow, and any push-to-talk app on Apple Silicon (M1/M2/M3/M4).",
+  "description_ja": "",
+  "url": "https://github.com/drewburchfield/macos-mic-keepwarm",
+  "homepage_url": "",
+  "language": "Swift",
+  "license": "",
+  "topics": [
+    "airpods",
+    "apple-silicon",
+    "audio-latency",
+    "bluetooth",
+    "dictation",
+    "ffmpeg",
+    "macos",
+    "macos-tahoe",
+    "microphone",
+    "push-to-talk",
+    "speech-to-text",
+    "superwhisper",
+    "voice-transcription",
+    "whisper",
+    "wispr-flow"
+  ],
+  "star_count": 46,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-02-13T19:26:05Z",
+  "updated_at": "2026-05-09T16:35:57Z",
+  "pushed_at": "2026-02-16T21:42:29Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-09",
+      "stars": 46
+    }
+  ]
+}

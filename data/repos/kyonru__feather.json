@@ -6,17 +6,26 @@
   "description": "Plugin Based Debugger for Löve2D",
   "description_ja": "Löve2D向けプラグインベースのデバッガー",
   "url": "https://github.com/Kyonru/feather",
-  "homepage_url": "",
+  "homepage_url": "https://kyonru.github.io/feather/",
   "language": "TypeScript",
-  "license": "NOASSERTION",
-  "topics": [],
+  "license": "EPL-2.0",
+  "topics": [
+    "debugger",
+    "devtool",
+    "gamedev",
+    "logs",
+    "love2d",
+    "lua",
+    "monitoring",
+    "plugin-system"
+  ],
   "star_count": 29,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-05T01:26:13Z",
-  "updated_at": "2026-03-27T19:40:44Z",
-  "pushed_at": "2026-05-04T16:08:50Z",
+  "updated_at": "2026-05-08T21:38:38Z",
+  "pushed_at": "2026-05-09T05:08:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +58,10 @@
     },
     {
       "date": "2026-05-04",
+      "stars": 29
+    },
+    {
+      "date": "2026-05-09",
       "stars": 29
     }
   ]

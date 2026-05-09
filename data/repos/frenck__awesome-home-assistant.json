@@ -7,34 +7,32 @@
   "description_ja": "厳選されたHome Assistantリソースの素晴らしいキュレーションリスト",
   "url": "https://github.com/frenck/awesome-home-assistant",
   "homepage_url": "https://awesome-ha.com",
-  "language": "Shell",
+  "language": "Python",
   "license": "CC-BY-4.0",
   "topics": [
     "awesome",
     "awesome-list",
     "diy",
-    "hacktoberfest",
-    "hassio",
-    "hassio-addons",
     "hassio-repository",
     "home-assistant",
+    "home-assistant-card",
     "home-assistant-config",
+    "home-assistant-dashboard",
+    "home-assistant-integration",
     "home-automation",
     "homeassistant",
     "homeassistant-config",
     "homeautomation",
     "internet-of-things",
-    "iot",
-    "mqtt",
     "smarthome"
   ],
-  "star_count": 7575,
-  "fork_count": 408,
+  "star_count": 7598,
+  "fork_count": 409,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-07-30T17:48:40Z",
-  "updated_at": "2026-05-04T16:05:27Z",
-  "pushed_at": "2026-01-27T06:00:49Z",
+  "updated_at": "2026-05-09T18:00:28Z",
+  "pushed_at": "2026-05-09T17:32:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +66,10 @@
     {
       "date": "2026-05-04",
       "stars": 7575
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 7598
     }
   ]
 }

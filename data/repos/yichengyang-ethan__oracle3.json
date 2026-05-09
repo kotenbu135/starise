@@ -3,8 +3,8 @@
   "owner": "yichengyang-ethan",
   "name": "oracle3",
   "full_name": "yichengyang-ethan/oracle3",
-  "description": "Autonomous prediction market trading agent deploying Wang Transform pricing across Kalshi, Polymarket \u0026 Solana",
-  "description_ja": "Kalshi、Polymarket、Solana 全体に Wang Transform プライシングを展開する自律型予測市場トレーディングエージェント",
+  "description": "Autonomous prediction market trading agent | Wang Transform pricing engine calibrated on 291K+ contracts | Kalshi · Polymarket · Solana DFlow · Jito bundles · 633 tests",
+  "description_ja": "",
   "url": "https://github.com/YichengYang-Ethan/oracle3",
   "homepage_url": "https://yichengyang-ethan.github.io/oracle3",
   "language": "Python",
@@ -13,26 +13,31 @@
     "ai-agent",
     "algorithmic-trading",
     "arbitrage",
+    "autonomous-agent",
+    "defi-trading",
     "dflow",
+    "hierarchical-mle",
+    "jito-bundles",
     "kalshi",
     "kelly-criterion",
     "llm",
     "on-chain",
     "polymarket",
     "prediction-market",
+    "prediction-markets",
     "python",
     "quantitative-finance",
     "solana",
     "trading-bot",
     "wang-transform"
   ],
-  "star_count": 168,
-  "fork_count": 12,
+  "star_count": 191,
+  "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T20:20:18Z",
-  "updated_at": "2026-05-03T17:55:13Z",
-  "pushed_at": "2026-03-28T15:26:41Z",
+  "updated_at": "2026-05-08T16:22:57Z",
+  "pushed_at": "2026-05-08T07:48:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +75,10 @@
     {
       "date": "2026-05-04",
       "stars": 168
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 191
     }
   ]
 }

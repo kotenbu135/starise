@@ -3,15 +3,15 @@
   "owner": "dagucloud",
   "name": "dagu",
   "full_name": "dagucloud/dagu",
-  "description": "Self-hosted workflow engine for scripts, cron jobs, containers, and ops automation. YAML workflows, retries, logs, approvals, and optional distributed workers.",
-  "description_ja": "スクリプト、cronジョブ、コンテナ、運用自動化のためのセルフホスト型ワークフローエンジン。YAMLワークフロー、リトライ、ログ、承認フロー、オプションの分散ワーカーに対応。",
+  "description": "A local-first workflow engine built the way it should be: declarative, file-based, self-contained, air-gapped ready. One binary that scales from laptop to distributed cluster. Persistent Workflow Operator handles creating and debugging workflows.",
+  "description_ja": "",
   "url": "https://github.com/dagucloud/dagu",
-  "homepage_url": "https://dagu.sh",
+  "homepage_url": "https://dagu.sh/oss",
   "language": "Go",
   "license": "GPL-3.0",
   "topics": [
-    "agent-workflow",
-    "ai-workflow",
+    "agentic-workflow",
+    "ai-agents",
     "continuous-delivery",
     "cron",
     "dag",
@@ -20,6 +20,7 @@
     "directed-acyclic-graph",
     "durable-execution",
     "durable-workflows",
+    "human-in-the-loop",
     "job-scheduler",
     "task-automation",
     "task-scheduler",
@@ -28,13 +29,13 @@
     "workflow-orchestration",
     "workflow-scheduler"
   ],
-  "star_count": 3355,
-  "fork_count": 260,
+  "star_count": 3376,
+  "fork_count": 262,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-22T13:00:42Z",
-  "updated_at": "2026-05-04T18:27:43Z",
-  "pushed_at": "2026-05-04T18:48:55Z",
+  "updated_at": "2026-05-09T10:54:45Z",
+  "pushed_at": "2026-05-09T13:18:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +69,10 @@
     {
       "date": "2026-05-04",
       "stars": 3355
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 3376
     }
   ]
 }

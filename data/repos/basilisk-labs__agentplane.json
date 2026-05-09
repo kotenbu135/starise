@@ -3,16 +3,15 @@
   "owner": "basilisk-labs",
   "name": "agentplane",
   "full_name": "basilisk-labs/agentplane",
-  "description": "The audit layer for coding agents. Open-source CLI that turns Claude Code, Codex, Cursor, and Aider into reviewable Git work.",
+  "description": "🛩️ Git-native workflow control for coding agents: approved plans, verification, and reviewable evidence for Claude Code, Codex, Cursor, and Aider.",
   "description_ja": "",
   "url": "https://github.com/basilisk-labs/agentplane",
   "homepage_url": "https://agentplane.org",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "acr",
+    "agent-change-record",
     "agentplane",
-    "agents-md",
     "ai-agents",
     "aider",
     "audit-trail",
@@ -22,16 +21,17 @@
     "coding-agents",
     "cursor",
     "developer-tools",
-    "mcp",
-    "typescript"
+    "git-workflow",
+    "typescript",
+    "workflow-automation"
   ],
-  "star_count": 42,
-  "fork_count": 4,
+  "star_count": 43,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-27T08:03:43Z",
-  "updated_at": "2026-05-04T18:50:10Z",
-  "pushed_at": "2026-05-04T18:55:43Z",
+  "updated_at": "2026-05-09T17:44:36Z",
+  "pushed_at": "2026-05-09T17:44:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +65,10 @@
     {
       "date": "2026-05-04",
       "stars": 42
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 43
     }
   ]
 }

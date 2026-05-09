@@ -3,37 +3,41 @@
   "owner": "swarmauri",
   "name": "swarmauri-sdk",
   "full_name": "swarmauri/swarmauri-sdk",
-  "description": "a monorepo featuring modular microkernel frameworks and single purpose extensions",
-  "description_ja": "モジュラーマイクロカーネルフレームワークと単一目的エクステンションを含むモノリポ",
+  "description": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensible application workflows.",
+  "description_ja": "",
   "url": "https://github.com/swarmauri/swarmauri-sdk",
   "homepage_url": "https://swarmauri.com",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
-    "agents",
-    "ai",
-    "chunking",
-    "factories",
+    "agent-framework",
+    "ai-agents",
+    "artificial-intelligence",
+    "embeddings",
+    "llm",
     "llm-framework",
-    "measures",
-    "metrics",
-    "modular",
+    "microkernel",
+    "modular-framework",
     "monorepo",
     "nlp",
     "orchestration",
-    "orchestration-framework",
-    "parsing",
-    "tooling",
+    "parsers",
+    "plugin-architecture",
+    "python",
+    "python-sdk",
+    "rag",
+    "swarmauri",
+    "toolkits",
     "tools",
-    "vectors"
+    "vector-stores"
   ],
   "star_count": 104,
   "fork_count": 47,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-08T03:39:16Z",
-  "updated_at": "2026-05-03T19:57:18Z",
-  "pushed_at": "2026-05-03T19:57:13Z",
+  "updated_at": "2026-05-06T08:49:18Z",
+  "pushed_at": "2026-05-06T08:49:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +70,10 @@
     },
     {
       "date": "2026-05-04",
+      "stars": 104
+    },
+    {
+      "date": "2026-05-09",
       "stars": 104
     }
   ]

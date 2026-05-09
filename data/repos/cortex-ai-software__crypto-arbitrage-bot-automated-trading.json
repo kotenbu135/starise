@@ -3,36 +3,40 @@
   "owner": "cortex-ai-software",
   "name": "crypto-arbitrage-bot-automated-trading",
   "full_name": "cortex-ai-software/crypto-arbitrage-bot-automated-trading",
-  "description": "🤖 Cortex AI: Automated Crypto Arbitrage Bot \u0026 P2P Spread Scanner. High-Speed Trading Engine for TON, Solana, and Base. Multi-Chain Flash-Loan \u0026 DEX-Arbitrage System v2.0 (Stable). Built by Cortex.",
-  "description_ja": "Cortex AI：自動暗号資産アービトラージボット \u0026 P2P スプレッドスキャナー。TON、Solana、Base 向けの高速トレーディングエンジン。マルチチェーン対応のフラッシュローン \u0026 DEX アービトラージシステム v2.0（安定版）。Cortex 製。",
+  "description": "🤖 Cortex AI: #1 AI Trading Bot for Crypto, Forex \u0026 Stocks. Automated Arbitrage Engine v3.4. Works on Solana, TON, Binance \u0026 Bybit. Best Free Crypto Trading Bot 2026.",
+  "description_ja": "",
   "url": "https://github.com/Cortex-AI-Software/crypto-arbitrage-bot-automated-trading",
-  "homepage_url": "https://arbitrage-bot.pro/",
-  "language": "",
+  "homepage_url": "https://arbitrage-bot.pro",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "ai-agent",
-    "algorithmic-trading",
-    "arbitrage-bot",
+    "betting-strategy",
     "binance-auto-bot",
     "bitget-api-client",
     "bybit-bot",
     "cortex-ai",
     "crypto-arbitrage-bot",
+    "deepseek-ai",
+    "delta-neutral",
     "htx",
     "htx-bot",
     "kraken-exchange-api",
+    "market-maker-bot",
     "mev-bot",
     "mexc-auto-trade",
     "passive-income",
-    "trading-engine"
+    "risk-free",
+    "trade",
+    "trading-bot-bsc-solana"
   ],
-  "star_count": 46,
-  "fork_count": 3,
+  "star_count": 47,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-01T16:09:51Z",
-  "updated_at": "2026-05-04T14:52:36Z",
-  "pushed_at": "2026-04-27T13:28:33Z",
+  "updated_at": "2026-05-09T09:50:49Z",
+  "pushed_at": "2026-05-09T09:50:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +74,10 @@
     {
       "date": "2026-05-04",
       "stars": 46
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 47
     }
   ]
 }

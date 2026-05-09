@@ -3,8 +3,8 @@
   "owner": "floci-io",
   "name": "floci",
   "full_name": "floci-io/floci",
-  "description": "Light, fluffy, and always free - AWS Local Emulator ",
-  "description_ja": "軽量・快適・永久無料の AWS ローカルエミュレーター",
+  "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+  "description_ja": "",
   "url": "https://github.com/floci-io/floci",
   "homepage_url": "https://floci.io",
   "language": "Java",
@@ -21,13 +21,13 @@
     "sqs",
     "testcontainers"
   ],
-  "star_count": 4342,
-  "fork_count": 305,
+  "star_count": 4662,
+  "fork_count": 326,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-18T02:28:29Z",
-  "updated_at": "2026-05-04T19:16:17Z",
-  "pushed_at": "2026-05-04T06:38:24Z",
+  "updated_at": "2026-05-09T18:01:13Z",
+  "pushed_at": "2026-05-09T13:25:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +65,10 @@
     {
       "date": "2026-05-04",
       "stars": 4342
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 4662
     }
   ]
 }

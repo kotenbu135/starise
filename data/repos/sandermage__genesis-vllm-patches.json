@@ -3,7 +3,7 @@
   "owner": "sandermage",
   "name": "genesis-vllm-patches",
   "full_name": "sandermage/genesis-vllm-patches",
-  "description": "Runtime patches for vLLM — Qwen3.6 (27B int4 / 35B-A3B FP8) on consumer Ampere. 50+ patches: TurboQuant KV, MTP / DFlash / ngram spec-decode, FULL cudagraph, 256K-320K context. v7.64: P67 non-pow-2 GQA, Cliff 1 fix, 6 docs (FAQ/HARDWARE/CONFIGS/CLIFFS), Genesis Compat Layer.",
+  "description": "vLLM patcher for Qwen3.6 on consumer NVIDIA — Qwen3.6-35B-A3B-FP8 (192 tok/s, +68% over stock) + Qwen3.6-27B-int4-AutoRound + 256K context. 126 patches: TurboQuant k8v4 KV, MTP/DFlash spec-decode, FULL cudagraph, hybrid GDN streaming, structured boot summary, one-command installer, 1958 tests. v7.72.2.",
   "description_ja": "",
   "url": "https://github.com/Sandermage/genesis-vllm-patches",
   "homepage_url": "https://github.com/Sandermage/genesis-vllm-patches",
@@ -31,13 +31,13 @@
     "turboquant",
     "vllm"
   ],
-  "star_count": 60,
-  "fork_count": 4,
+  "star_count": 77,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T09:10:15Z",
-  "updated_at": "2026-05-04T14:34:28Z",
-  "pushed_at": "2026-05-04T12:29:39Z",
+  "updated_at": "2026-05-09T15:06:11Z",
+  "pushed_at": "2026-05-05T19:20:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-05-04",
       "stars": 60
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 77
     }
   ]
 }

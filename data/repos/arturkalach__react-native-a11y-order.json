@@ -3,20 +3,31 @@
   "owner": "arturkalach",
   "name": "react-native-a11y-order",
   "full_name": "arturkalach/react-native-a11y-order",
-  "description": "",
+  "description": "Native-first React Native library for screen reader focus order, focus trapping, cards with nested buttons, and accessibility announcements on iOS (VoiceOver) and Android (TalkBack).",
   "description_ja": "",
   "url": "https://github.com/ArturKalach/react-native-a11y-order",
-  "homepage_url": "",
-  "language": "Objective-C++",
+  "homepage_url": "https://www.linkedin.com/in/artur-kalach-99477b138/recent-activity/articles/",
+  "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 49,
+  "topics": [
+    "a11y",
+    "accessibility",
+    "accessibilitycontainertype",
+    "expo",
+    "focus-management",
+    "react-native",
+    "screen-reader",
+    "shouldgroupaccessibilitychildren",
+    "talkback",
+    "voiceover"
+  ],
+  "star_count": 50,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-14T16:14:29Z",
-  "updated_at": "2026-04-22T09:40:56Z",
-  "pushed_at": "2026-05-04T18:38:52Z",
+  "updated_at": "2026-05-09T14:19:56Z",
+  "pushed_at": "2026-05-09T17:28:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +61,10 @@
     {
       "date": "2026-05-04",
       "stars": 49
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 50
     }
   ]
 }

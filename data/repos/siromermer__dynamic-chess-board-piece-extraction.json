@@ -1,0 +1,39 @@
+{
+  "repo_id": "R_kgDOMI_cgw",
+  "owner": "siromermer",
+  "name": "dynamic-chess-board-piece-extraction",
+  "full_name": "siromermer/dynamic-chess-board-piece-extraction",
+  "description": "(Google Play Store App) Pipeline to convert real-life chess boards into 2D digital format (FEN) from images and live camera feeds. The system has two versions: a real-time pipeline using OAK-D Lite and a high-precision static-image pipeline. RF-DETR and YOLO is used to detect chess pieces, and traditional cv methods determine board positioning. ",
+  "description_ja": "",
+  "url": "https://github.com/siromermer/Dynamic-Chess-Board-Piece-Extraction",
+  "homepage_url": "",
+  "language": "Jupyter Notebook",
+  "license": "",
+  "topics": [
+    "classical-computer-vision",
+    "computer-vision",
+    "deep-learning",
+    "image-processing",
+    "model-training",
+    "object-detection",
+    "opencv",
+    "opencv-python",
+    "python",
+    "pytorch",
+    "yolo"
+  ],
+  "star_count": 58,
+  "fork_count": 10,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2024-06-13T15:38:33Z",
+  "updated_at": "2026-05-08T02:52:36Z",
+  "pushed_at": "2026-05-05T13:37:57Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-09",
+      "stars": 58
+    }
+  ]
+}

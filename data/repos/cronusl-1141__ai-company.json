@@ -3,41 +3,41 @@
   "owner": "cronusl-1141",
   "name": "ai-company",
   "full_name": "cronusl-1141/ai-company",
-  "description": "AI Team OS — Multi-Agent Team Operating System for Claude Code. 40+ MCP tools, 22 agent templates, task wall, meeting system, dashboard.",
-  "description_ja": "AI Team OS — Claude Code 向けのマルチエージェントチーム運用システム。40以上の MCP ツール、22のエージェントテンプレート、タスクウォール、ミーティングシステム、ダッシュボードを搭載。",
+  "description": "Multi-agent team operating system for Claude Code. 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows. Persistent teams, structured meetings, task wall, real-time React dashboard. No LangChain/AutoGen — pure CC native integration.",
+  "description_ja": "",
   "url": "https://github.com/CronusL-1141/AI-company",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "agent-framework",
+    "agent-orchestration",
     "ai-agents",
-    "ai-orchestration",
-    "anthropic",
-    "artificial-intelligence",
-    "automation",
+    "autonomous-agents",
     "claude",
     "claude-code",
+    "claude-code-plugin",
     "dashboard",
-    "developer-tools",
     "fastapi",
-    "llm",
     "mcp",
-    "multi-agent",
-    "open-source",
+    "mcp-server",
+    "meeting-system",
+    "multi-agent-system",
+    "pipeline-workflow",
     "python",
     "react",
+    "sqlite",
     "task-management",
     "team-collaboration",
     "typescript"
   ],
-  "star_count": 167,
-  "fork_count": 21,
+  "star_count": 169,
+  "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-12T03:58:24Z",
-  "updated_at": "2026-05-03T13:21:23Z",
-  "pushed_at": "2026-04-28T05:27:23Z",
+  "updated_at": "2026-05-08T07:59:55Z",
+  "pushed_at": "2026-05-08T07:22:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +71,10 @@
     {
       "date": "2026-05-04",
       "stars": 167
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 169
     }
   ]
 }

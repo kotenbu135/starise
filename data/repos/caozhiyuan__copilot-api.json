@@ -3,22 +3,23 @@
   "owner": "caozhiyuan",
   "name": "copilot-api",
   "full_name": "caozhiyuan/copilot-api",
-  "description": "Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code Or Codex Or Opencode! Please read README.md completely before use!",
+  "description": "OpenAI and Anthropic-compatible gateway for GitHub Copilot or third-party providers. Please read README.md completely before use!",
   "description_ja": "",
   "url": "https://github.com/caozhiyuan/copilot-api",
   "homepage_url": "https://caozhiyuan.github.io/copilot-api/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "ai-gateway",
     "github-copilot"
   ],
-  "star_count": 739,
-  "fork_count": 153,
+  "star_count": 764,
+  "fork_count": 156,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-20T06:18:02Z",
-  "updated_at": "2026-05-04T17:49:05Z",
-  "pushed_at": "2026-05-01T14:21:51Z",
+  "updated_at": "2026-05-09T11:05:45Z",
+  "pushed_at": "2026-05-08T14:45:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +37,10 @@
     {
       "date": "2026-05-04",
       "stars": 739
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 764
     }
   ]
 }

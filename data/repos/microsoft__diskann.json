@@ -3,20 +3,20 @@
   "owner": "microsoft",
   "name": "diskann",
   "full_name": "microsoft/diskann",
-  "description": "Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search",
-  "description_ja": "スケーラブル・高速・最新・フィルタリング対応の近似最近傍探索のためのグラフ構造インデックス",
+  "description": "A vector indexing library to bring fast, fresh and filtered search to your database",
+  "description_ja": "",
   "url": "https://github.com/microsoft/DiskANN",
   "homepage_url": "",
   "language": "Rust",
   "license": "MIT",
   "topics": [],
-  "star_count": 1783,
+  "star_count": 1788,
   "fork_count": 409,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-18T06:18:06Z",
-  "updated_at": "2026-05-04T18:19:45Z",
-  "pushed_at": "2026-05-04T19:25:31Z",
+  "updated_at": "2026-05-09T00:32:34Z",
+  "pushed_at": "2026-05-09T03:37:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +54,10 @@
     {
       "date": "2026-05-04",
       "stars": 1783
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1788
     }
   ]
 }

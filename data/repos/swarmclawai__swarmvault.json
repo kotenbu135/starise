@@ -3,19 +3,18 @@
   "owner": "swarmclawai",
   "name": "swarmvault",
   "full_name": "swarmclawai/swarmvault",
-  "description": "Inspired by Karpathy's LLM Wiki. Local-first RAG knowledge base compiler with MCP server (Claude Code, Codex, OpenCode, OpenClaw). Turn raw research into a persistent markdown wiki, knowledge graph, and hybrid search that compound over time.",
-  "description_ja": "Karpathy の LLM Wiki にインスパイアされた、ローカルファースト型 RAG ナレッジベースコンパイラー（MCP サーバー対応: Claude Code、Codex、OpenCode、OpenClaw）。生の調査結果を、時間とともに蓄積される永続的な Markdown Wiki・ナレッジグラフ・ハイブリッド検索に変換します。",
+  "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
+  "description_ja": "",
   "url": "https://github.com/swarmclawai/swarmvault",
   "homepage_url": "https://www.swarmvault.ai",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "agent-memory",
     "ai-agents",
     "claude-code",
-    "claude-skills",
+    "claude-code-memory",
     "codex",
-    "codex-skills",
-    "embeddings",
     "karpathy",
     "knowledge-graph",
     "llm",
@@ -24,20 +23,21 @@
     "mcp",
     "mcp-server",
     "obsidian",
+    "obsidian-alternative",
     "openclaw",
     "opencode",
-    "opencode-skills",
+    "personal-knowledge-management",
     "pkm",
     "rag",
     "wiki"
   ],
-  "star_count": 374,
-  "fork_count": 39,
+  "star_count": 432,
+  "fork_count": 45,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-06T20:52:30Z",
-  "updated_at": "2026-05-04T19:52:27Z",
-  "pushed_at": "2026-05-04T16:16:18Z",
+  "updated_at": "2026-05-09T18:28:44Z",
+  "pushed_at": "2026-05-08T11:58:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +75,10 @@
     {
       "date": "2026-05-04",
       "stars": 374
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 432
     }
   ]
 }

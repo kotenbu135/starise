@@ -3,34 +3,30 @@
   "owner": "olalie",
   "name": "tapmap",
   "full_name": "olalie/tapmap",
-  "description": "See where your computer connects and what stands out on a live world map.",
+  "description": "See where your computer connects on a live world map. Spot unusual connections.",
   "description_ja": "",
   "url": "https://github.com/olalie/tapmap",
   "homepage_url": "https://olalie.github.io/tapmap/",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "cybersecurity",
     "dash",
     "docker",
     "geolocation",
-    "ip-geolocation",
     "network-monitoring",
     "network-visualization",
     "plotly",
     "plotly-dash",
     "python",
-    "real-time",
-    "real-time-visualization",
-    "self-hosted"
+    "real-time"
   ],
-  "star_count": 743,
+  "star_count": 768,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T12:11:29Z",
-  "updated_at": "2026-05-04T19:12:28Z",
-  "pushed_at": "2026-05-04T10:20:46Z",
+  "updated_at": "2026-05-09T12:53:20Z",
+  "pushed_at": "2026-05-05T10:31:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -52,6 +48,10 @@
     {
       "date": "2026-05-04",
       "stars": 743
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 768
     }
   ]
 }

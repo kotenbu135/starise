@@ -3,8 +3,8 @@
   "owner": "web-infra-dev",
   "name": "rsbuild",
   "full_name": "web-infra-dev/rsbuild",
-  "description": "Simple, fast, extensible build tool. Powered by Rspack 🦀",
-  "description_ja": "シンプルで高速、拡張可能なビルドツール。Rspack で動作 🦀",
+  "description": "Fast, extensible build tool for modern web development",
+  "description_ja": "",
   "url": "https://github.com/web-infra-dev/rsbuild",
   "homepage_url": "https://rsbuild.rs",
   "language": "TypeScript",
@@ -20,13 +20,13 @@
     "typescript",
     "webpack"
   ],
-  "star_count": 3290,
+  "star_count": 3295,
   "fork_count": 257,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-07T12:59:03Z",
-  "updated_at": "2026-05-04T09:28:41Z",
-  "pushed_at": "2026-05-04T08:51:07Z",
+  "updated_at": "2026-05-09T02:22:49Z",
+  "pushed_at": "2026-05-08T13:33:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -60,6 +60,10 @@
     {
       "date": "2026-05-04",
       "stars": 3290
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 3295
     }
   ]
 }

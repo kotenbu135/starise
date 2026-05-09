@@ -3,10 +3,10 @@
   "owner": "frizzlem",
   "name": "breakfree",
   "full_name": "frizzlem/breakfree",
-  "description": "A free iOS shortcut that lets you sideload unlimited apps on your iOS and iPadOS device using an exploit (involves DNSs and public certificates).",
-  "description_ja": "DNSと公開証明書を利用したエクスプロイトにより、iOSおよびiPadOSデバイスに無制限にアプリをサイドロードできる無料のiOSショートカット",
+  "description": "A free iOS shortcut that lets you sideload unlimited apps on your iOS and iPadOS device using an Apple blocking DNSs and public certificates",
+  "description_ja": "",
   "url": "https://github.com/FrizzleM/BreakFree",
-  "homepage_url": "https://iosbreakfree.carrd.co",
+  "homepage_url": "https://frizzlem.github.io/BreakFree/",
   "language": "Shell",
   "license": "NOASSERTION",
   "topics": [
@@ -25,13 +25,13 @@
     "sideloading",
     "sideloading-ipas"
   ],
-  "star_count": 457,
+  "star_count": 458,
   "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-05T13:51:20Z",
-  "updated_at": "2026-05-04T06:11:13Z",
-  "pushed_at": "2026-05-04T06:11:06Z",
+  "updated_at": "2026-05-09T18:01:44Z",
+  "pushed_at": "2026-05-09T18:01:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +65,10 @@
     {
       "date": "2026-05-04",
       "stars": 457
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 458
     }
   ]
 }

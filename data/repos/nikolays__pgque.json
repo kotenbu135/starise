@@ -3,20 +3,29 @@
   "owner": "nikolays",
   "name": "pgque",
   "full_name": "nikolays/pgque",
-  "description": "PgQue – Zero-bloat Postgres queue. One SQL file to install, pg_cron to tick.",
-  "description_ja": "PgQue – ゼロオーバーヘッドの Postgres キュー。SQLファイル1つでインストール、pg_cron でティック。",
-  "url": "https://github.com/NikolayS/pgque",
+  "description": "PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick.",
+  "description_ja": "",
+  "url": "https://github.com/NikolayS/PgQue",
   "homepage_url": "",
   "language": "PLpgSQL",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 1286,
-  "fork_count": 27,
+  "topics": [
+    "job-queue",
+    "pg-tle",
+    "postgres",
+    "postgres-extension",
+    "postgresql",
+    "queue",
+    "tle",
+    "trusted-language-extensions"
+  ],
+  "star_count": 1341,
+  "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-13T00:06:44Z",
-  "updated_at": "2026-05-04T19:07:38Z",
-  "pushed_at": "2026-05-04T19:14:58Z",
+  "updated_at": "2026-05-09T15:44:26Z",
+  "pushed_at": "2026-05-08T22:58:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +63,10 @@
     {
       "date": "2026-05-04",
       "stars": 1286
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1341
     }
   ]
 }

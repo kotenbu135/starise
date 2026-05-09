@@ -3,19 +3,35 @@
   "owner": "decolua",
   "name": "9remote",
   "full_name": "decolua/9remote",
-  "description": "",
+  "description": "📱 Terminal in Your Pocket — Control Claude Code, Codex, Gemini CLI \u0026 your Mac/Linux/Windows from any phone or browser. Vibe coding from anywhere. Alternative to MobileCLI, Claude Remote, vibe-remote, MuxAgent.",
   "description_ja": "",
   "url": "https://github.com/decolua/9remote",
-  "homepage_url": "",
+  "homepage_url": "https://9remote.cc",
   "language": "",
   "license": "",
-  "topics": [],
-  "star_count": 67,
-  "fork_count": 4,
+  "topics": [
+    "agentic-workflow",
+    "ai-agent",
+    "claude-code",
+    "claude-remote",
+    "codex",
+    "coding-agent",
+    "file-manager",
+    "gemini-cli",
+    "mobile-terminal",
+    "remote-access",
+    "remote-desktop",
+    "ssh",
+    "tmux",
+    "vibe-coding",
+    "web-terminal"
+  ],
+  "star_count": 89,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-18T08:55:52Z",
-  "updated_at": "2026-05-04T09:02:22Z",
+  "updated_at": "2026-05-09T15:29:31Z",
   "pushed_at": "2026-04-20T05:47:37Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +62,10 @@
     {
       "date": "2026-05-04",
       "stars": 67
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 89
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "fim-ai",
   "name": "fim-one",
   "full_name": "fim-ai/fim-one",
-  "description": "LLM-powered Agent Runtime with Dynamic DAG Planning \u0026 Concurrent Execution",
-  "description_ja": "動的 DAG プランニングと並列実行を備えた LLM 駆動のエージェントランタイム",
+  "description": "Open-source agent platform for Global × China enterprises — wire every system through one agent core. Self-hosted, any LLM.",
+  "description_ja": "",
   "url": "https://github.com/fim-ai/fim-one",
   "homepage_url": "https://one.fim.ai",
   "language": "Python",
@@ -26,13 +26,13 @@
     "react-agent",
     "tool-use"
   ],
-  "star_count": 747,
-  "fork_count": 84,
+  "star_count": 812,
+  "fork_count": 89,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-22T15:26:03Z",
-  "updated_at": "2026-05-04T18:34:17Z",
-  "pushed_at": "2026-04-25T05:09:18Z",
+  "updated_at": "2026-05-09T14:44:06Z",
+  "pushed_at": "2026-05-09T10:36:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +70,10 @@
     {
       "date": "2026-05-04",
       "stars": 747
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 812
     }
   ]
 }

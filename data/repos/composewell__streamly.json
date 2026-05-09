@@ -3,8 +3,8 @@
   "owner": "composewell",
   "name": "streamly",
   "full_name": "composewell/streamly",
-  "description": "High performance, streaming and concurrent functional programming abstractions",
-  "description_ja": "高パフォーマンスなストリーミングおよび並行処理向け関数型プログラミング抽象化ライブラリ",
+  "description": "High performance, streaming and concurrent functional programming in Haskell",
+  "description_ja": "",
   "url": "https://github.com/composewell/streamly",
   "homepage_url": "https://streamly.composewell.com",
   "language": "Haskell",
@@ -31,13 +31,13 @@
     "unfolds",
     "unicode"
   ],
-  "star_count": 914,
-  "fork_count": 70,
+  "star_count": 915,
+  "fork_count": 71,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-07-13T13:31:39Z",
-  "updated_at": "2026-05-03T19:11:19Z",
-  "pushed_at": "2026-05-03T19:11:28Z",
+  "updated_at": "2026-05-09T05:56:46Z",
+  "pushed_at": "2026-05-08T03:45:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +71,10 @@
     {
       "date": "2026-05-04",
       "stars": 914
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 915
     }
   ]
 }

@@ -3,20 +3,29 @@
   "owner": "justrach",
   "name": "kuri",
   "full_name": "justrach/kuri",
-  "description": "Browser automation and web crawling for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, and a standalone fetcher.",
-  "description_ja": "AI エージェント向けのブラウザ自動化および Web クローリング。Zig ネイティブ、トークン効率の高い CDP スナップショット、HAR 記録、スタンドアロンフェッチャーを提供",
+  "description": "Browser automation, web crawling, and iOS + Android device control for AI agents. Zig-native, token-efficient CDP snapshots, HAR recording, native adb wire-protocol client, and a standalone fetcher.",
+  "description_ja": "",
   "url": "https://github.com/justrach/kuri",
   "homepage_url": "https://kuri.trilok.ai",
   "language": "Zig",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 298,
+  "topics": [
+    "ai-agents",
+    "android",
+    "browser-automation",
+    "chrome-cdp",
+    "ios",
+    "mobile-automation",
+    "web-scraping",
+    "zig"
+  ],
+  "star_count": 300,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-04T07:09:00Z",
-  "updated_at": "2026-05-03T20:47:06Z",
-  "pushed_at": "2026-04-27T04:28:14Z",
+  "updated_at": "2026-05-08T10:24:33Z",
+  "pushed_at": "2026-05-08T10:24:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +59,10 @@
     {
       "date": "2026-05-04",
       "stars": 298
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 300
     }
   ]
 }

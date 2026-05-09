@@ -10,6 +10,8 @@
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
+    "context",
+    "context-layer",
     "data-catalog",
     "data-collaboration",
     "data-contracts",
@@ -20,23 +22,21 @@
     "data-profiling",
     "data-quality",
     "data-quality-checks",
-    "data-validation",
     "datadiscovery",
     "dataengineering",
     "dataquality",
-    "hacktoberfest",
     "mcp",
     "mcp-server",
     "metadata",
     "metadata-management"
   ],
-  "star_count": 13792,
-  "fork_count": 2079,
+  "star_count": 13859,
+  "fork_count": 2087,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-01T21:17:17Z",
-  "updated_at": "2026-05-04T18:28:57Z",
-  "pushed_at": "2026-05-04T19:18:11Z",
+  "updated_at": "2026-05-09T18:02:44Z",
+  "pushed_at": "2026-05-09T18:07:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +74,10 @@
     {
       "date": "2026-05-04",
       "stars": 13792
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 13859
     }
   ]
 }

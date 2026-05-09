@@ -3,8 +3,8 @@
   "owner": "ohmyzsh",
   "name": "ohmyzsh",
   "full_name": "ohmyzsh/ohmyzsh",
-  "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-  "description_ja": "🙃 zsh設定を管理するための、コミュニティ主導（2,400人以上のコントリビューター）のフレームワーク。300以上のオプションプラグイン（rails、git、macOS、hub、docker、homebrew、node、php、pythonなど）、140以上のテーマ、そしてコミュニティの最新アップデートを簡単に追跡できる自動更新ツールを収録。",
+  "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+  "description_ja": "",
   "url": "https://github.com/ohmyzsh/ohmyzsh",
   "homepage_url": "https://ohmyz.sh",
   "language": "Shell",
@@ -26,13 +26,13 @@
     "zsh",
     "zsh-configuration"
   ],
-  "star_count": 186710,
-  "fork_count": 26350,
+  "star_count": 186847,
+  "fork_count": 26359,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2009-08-28T18:15:37Z",
-  "updated_at": "2026-05-04T18:16:29Z",
-  "pushed_at": "2026-05-04T07:20:12Z",
+  "updated_at": "2026-05-09T18:11:09Z",
+  "pushed_at": "2026-05-06T18:42:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +78,10 @@
     {
       "date": "2026-05-04",
       "stars": 186710
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 186847
     }
   ]
 }

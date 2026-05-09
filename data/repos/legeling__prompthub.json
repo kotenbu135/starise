@@ -3,27 +3,28 @@
   "owner": "legeling",
   "name": "prompthub",
   "full_name": "legeling/prompthub",
-  "description": "一款开源、纯本地 Prompt ，Skill 管理工具，帮助你高效管理、版本控制和复用 Prompt，并一键分发skill | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts",
-  "description_ja": "オープンソースのローカルファーストなAI Prompt・Skill管理ツール。Promptの効率的な管理、バージョン管理、再利用をサポートし、Skillをワンクリックで配布できます。",
+  "description": "一款包含了 Prompt管理，Skill管理，Agent管理的一站式AI工具箱，助你高效管理提示词，一键分发skills ，一站式管理Agent资产，并实现云同步，备份，版本管理 | An all-in-one AI toolbox for prompt, skill, and agent management. Reuse prompts, distribute skills with one click, manage agent assets, and support cloud sync, backup, and version control",
+  "description_ja": "",
   "url": "https://github.com/legeling/PromptHub",
   "homepage_url": "https://prompthub-app.vercel.app/en",
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
+    "agent",
     "ai",
-    "electron",
+    "cli-tool",
     "llm",
     "prompt",
     "prompt-toolkit",
-    "react"
+    "skills"
   ],
-  "star_count": 1036,
-  "fork_count": 124,
+  "star_count": 1085,
+  "fork_count": 128,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-29T07:06:01Z",
-  "updated_at": "2026-05-04T15:54:58Z",
-  "pushed_at": "2026-05-04T11:07:39Z",
+  "updated_at": "2026-05-09T11:59:46Z",
+  "pushed_at": "2026-05-09T09:23:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -61,6 +62,10 @@
     {
       "date": "2026-05-04",
       "stars": 1036
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1085
     }
   ]
 }

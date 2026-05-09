@@ -3,10 +3,10 @@
   "owner": "blackhatdevx",
   "name": "openspot-music-app",
   "full_name": "blackhatdevx/openspot-music-app",
-  "description": "OpenSpot is a free and open-source music streaming application designed for a seamless, high-fidelity listening experience. Built with a modern tech stack, it features a beautiful, responsive UI that looks great on any device.",
+  "description": "OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android, iOS, macOS, Windows, and Linux — so you can enjoy your favorite music anywhere, online or offline.",
   "description_ja": "",
   "url": "https://github.com/BlackHatDevX/openspot-music-app",
-  "homepage_url": "https://github.com/BlackHatDevX/openspot-music-app/releases",
+  "homepage_url": "https://blackhatdevx.github.io/openspot-music-app/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -19,6 +19,7 @@
     "expo",
     "flac",
     "free-music",
+    "ios",
     "linux",
     "macos",
     "mp3",
@@ -30,13 +31,13 @@
     "stream",
     "windows"
   ],
-  "star_count": 2109,
-  "fork_count": 139,
+  "star_count": 2145,
+  "fork_count": 143,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-21T16:51:20Z",
-  "updated_at": "2026-05-04T19:00:38Z",
-  "pushed_at": "2026-05-04T19:00:34Z",
+  "updated_at": "2026-05-09T17:17:20Z",
+  "pushed_at": "2026-05-09T15:13:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +59,10 @@
     {
       "date": "2026-05-04",
       "stars": 2109
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 2145
     }
   ]
 }

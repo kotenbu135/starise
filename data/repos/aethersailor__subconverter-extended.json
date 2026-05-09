@@ -1,0 +1,37 @@
+{
+  "repo_id": "R_kgDOQoF98A",
+  "owner": "aethersailor",
+  "name": "subconverter-extended",
+  "full_name": "aethersailor/subconverter-extended",
+  "description": "基于 subconverter 的订阅转换后端增强版：无需拉取远程订阅内容即可完成转换，规避订阅源访问屏蔽；接入 mihomo 原生解析能力并自动跟随上游协议/参数变化，实现完美解析节点链接，同时兼容原版模板。",
+  "description_ja": "",
+  "url": "https://github.com/Aethersailor/SubConverter-Extended",
+  "homepage_url": "",
+  "language": "C++",
+  "license": "GPL-3.0",
+  "topics": [
+    "clash",
+    "clash-meta",
+    "hysteria",
+    "hysteria2",
+    "mihomo",
+    "openclash",
+    "subconverter",
+    "vless",
+    "vless-reality"
+  ],
+  "star_count": 600,
+  "fork_count": 63,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-12-13T14:44:38Z",
+  "updated_at": "2026-05-09T18:22:15Z",
+  "pushed_at": "2026-05-08T14:14:57Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-09",
+      "stars": 600
+    }
+  ]
+}

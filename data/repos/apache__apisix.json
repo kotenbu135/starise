@@ -10,34 +10,30 @@
   "language": "Lua",
   "license": "Apache-2.0",
   "topics": [
+    "ai-gateway",
     "api",
     "api-gateway",
     "api-management",
-    "apigateway",
-    "apis",
     "apisix",
     "cloud-native",
     "devops",
-    "docker",
     "iot",
     "kubernetes",
     "kubernetes-ingress",
-    "kubernetes-ingress-controller",
     "loadbalancing",
     "luajit",
     "microservices",
     "nginx",
     "reverse-proxy",
-    "serverless",
-    "service-mesh"
+    "serverless"
   ],
-  "star_count": 16552,
-  "fork_count": 2849,
+  "star_count": 16574,
+  "fork_count": 2854,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-10T02:02:05Z",
-  "updated_at": "2026-05-04T15:17:15Z",
-  "pushed_at": "2026-04-30T10:57:33Z",
+  "updated_at": "2026-05-09T09:55:56Z",
+  "pushed_at": "2026-05-09T09:55:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +71,10 @@
     {
       "date": "2026-05-04",
       "stars": 16552
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 16574
     }
   ]
 }

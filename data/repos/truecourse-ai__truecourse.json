@@ -6,7 +6,7 @@
   "description": "AI-powered architecture analysis and code intelligence. Detects circular deps, layer violations, dead modules, and more. Web UI + CLI.",
   "description_ja": "",
   "url": "https://github.com/truecourse-ai/truecourse",
-  "homepage_url": "",
+  "homepage_url": "https://truecourse-landing.vercel.app",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -21,13 +21,13 @@
     "static-analysis",
     "typescript"
   ],
-  "star_count": 332,
-  "fork_count": 27,
+  "star_count": 357,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-13T03:52:40Z",
-  "updated_at": "2026-05-04T15:15:31Z",
-  "pushed_at": "2026-05-01T17:41:11Z",
+  "updated_at": "2026-05-09T18:22:00Z",
+  "pushed_at": "2026-05-09T18:21:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +49,10 @@
     {
       "date": "2026-05-04",
       "stars": 332
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 357
     }
   ]
 }

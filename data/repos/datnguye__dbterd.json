@@ -6,7 +6,7 @@
   "description": "Generate the ERD as a code from dbt artifacts",
   "description_ja": "dbtアーティファクトからコードとしてERDを生成する",
   "url": "https://github.com/datnguye/dbterd",
-  "homepage_url": "http://dbterd.datnguye.me/",
+  "homepage_url": "https://dbterd.datnguye.me/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -22,12 +22,12 @@
     "plantuml",
     "python-api"
   ],
-  "star_count": 320,
+  "star_count": 321,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-24T07:35:31Z",
-  "updated_at": "2026-05-04T10:32:23Z",
+  "updated_at": "2026-05-05T02:47:08Z",
   "pushed_at": "2026-05-04T10:12:40Z",
   "deleted_at": "",
   "star_history": [
@@ -62,6 +62,10 @@
     {
       "date": "2026-05-04",
       "stars": 320
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 321
     }
   ]
 }

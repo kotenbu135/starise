@@ -3,8 +3,8 @@
   "owner": "playcanvas",
   "name": "splat-transform",
   "full_name": "playcanvas/splat-transform",
-  "description": "CLI tool for 3D Gaussian splat format conversion and transformation",
-  "description_ja": "3D ガウシアンスプラット形式の変換・変形を行う CLI ツール",
+  "description": "CLI tool and library for 3D Gaussian splat processing and conversion",
+  "description_ja": "",
   "url": "https://github.com/playcanvas/splat-transform",
   "homepage_url": "https://playcanvas.com",
   "language": "TypeScript",
@@ -17,13 +17,13 @@
     "supersplat",
     "typescript"
   ],
-  "star_count": 692,
-  "fork_count": 82,
+  "star_count": 870,
+  "fork_count": 108,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-19T15:52:40Z",
-  "updated_at": "2026-05-04T15:27:09Z",
-  "pushed_at": "2026-05-03T23:38:10Z",
+  "updated_at": "2026-05-09T17:56:18Z",
+  "pushed_at": "2026-05-08T13:44:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +57,10 @@
     {
       "date": "2026-05-04",
       "stars": 692
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 870
     }
   ]
 }

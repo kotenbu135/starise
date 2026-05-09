@@ -3,8 +3,8 @@
   "owner": "cp0204",
   "name": "smartstrm",
   "full_name": "cp0204/smartstrm",
-  "description": "一个媒体库 STRM 文件生成工具。和 Emby 优雅配合，媒体资源丝滑入库，支持 302 直链播放，支持同步删除。 配合 Quark-Auto-Save, CloudSaver, Emby 力求即存即看。🥳",
-  "description_ja": "メディアライブラリ向け STRM ファイル生成ツール。Emby とスムーズに連携し、メディアリソースをシームレスにライブラリへ登録。302 直リンク再生・同期削除に対応。Quark-Auto-Save、CloudSaver、Emby と組み合わせて即保存・即視聴を実現。🥳",
+  "description": "媒体库 STRM 文件生成工具。和 Emby 优雅配合，媒体资源丝滑入库，支持 302 直链播放，支持同步删除。 配合 Quark-Auto-Save, CloudSaver, Emby 力求即存即看。🥳",
+  "description_ja": "",
   "url": "https://github.com/Cp0204/SmartStrm",
   "homepage_url": "https://smartstrm.github.io",
   "language": "Shell",
@@ -25,12 +25,12 @@
     "strm",
     "tianyi"
   ],
-  "star_count": 616,
+  "star_count": 623,
   "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-07T10:59:40Z",
-  "updated_at": "2026-05-03T12:23:49Z",
+  "updated_at": "2026-05-09T09:21:41Z",
   "pushed_at": "2026-04-29T18:52:23Z",
   "deleted_at": "",
   "star_history": [
@@ -65,6 +65,10 @@
     {
       "date": "2026-05-04",
       "stars": 616
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 623
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "Simple ClickHouse UI that relies on system tables to help monitor and provide overview of your cluster",
   "description_ja": "システムテーブルを活用してクラスターの監視と概要把握を支援する、シンプルな ClickHouse UI。",
   "url": "https://github.com/duyet/clickhouse-monitoring",
-  "homepage_url": "https://clickhouse.duyet.net",
+  "homepage_url": "https://chmonitor.dev",
   "language": "TypeScript",
   "license": "GPL-3.0",
   "topics": [
@@ -16,13 +16,13 @@
     "nextjs",
     "vercel"
   ],
-  "star_count": 219,
+  "star_count": 220,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-16T13:18:24Z",
-  "updated_at": "2026-05-04T18:31:41Z",
-  "pushed_at": "2026-05-04T18:31:37Z",
+  "updated_at": "2026-05-09T16:22:37Z",
+  "pushed_at": "2026-05-09T16:24:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -56,6 +56,10 @@
     {
       "date": "2026-05-04",
       "stars": 219
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 220
     }
   ]
 }

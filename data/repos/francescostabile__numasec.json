@@ -3,12 +3,12 @@
   "owner": "francescostabile",
   "name": "numasec",
   "full_name": "francescostabile/numasec",
-  "description": "AI agent for penetration testing. Like Claude Code, but for security. Open source, MCP-native, works with any LLM.",
-  "description_ja": "ペネトレーションテスト向け AI エージェント。Claude Code のようなツールだが、セキュリティ特化。オープンソース、MCP ネイティブ、任意の LLM に対応。",
+  "description": "The AI Agent for Cyber Security.",
+  "description_ja": "",
   "url": "https://github.com/FrancescoStabile/numasec",
   "homepage_url": "",
   "language": "TypeScript",
-  "license": "MIT",
+  "license": "AGPL-3.0",
   "topics": [
     "ai-agent",
     "ai-security",
@@ -31,13 +31,13 @@
     "vulnerability-scanner",
     "web-security"
   ],
-  "star_count": 119,
-  "fork_count": 18,
+  "star_count": 274,
+  "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-02T11:31:26Z",
-  "updated_at": "2026-05-02T12:35:10Z",
-  "pushed_at": "2026-05-02T10:03:12Z",
+  "updated_at": "2026-05-09T17:57:54Z",
+  "pushed_at": "2026-05-08T22:41:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +75,10 @@
     {
       "date": "2026-05-04",
       "stars": 119
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 274
     }
   ]
 }

@@ -3,28 +3,28 @@
   "owner": "smile-qwq",
   "name": "subtracker",
   "full_name": "smile-qwq/subtracker",
-  "description": "一个现代化的自托管订阅管理器，支持标签分类、预算洞察、续费提醒、Wallos 导入、AI 辅助录入和多币种管理。",
-  "description_ja": "タグ分類、予算インサイト、更新リマインダー、Wallosインポート、AI補助入力、複数通貨管理をサポートする、モダンなセルフホスト型サブスクリプション管理ツール。",
+  "description": "一个现代化的自托管订阅管理器，支持灵活提醒规则、预算统计、AI 辅助录入与总结、备份迁移和多币种管理",
+  "description_ja": "",
   "url": "https://github.com/Smile-QWQ/SubTracker",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "GPL-3.0",
   "topics": [
+    "ai",
+    "docker",
     "expense-tracker",
-    "expenses",
-    "expenses-manager",
+    "self-hosted",
     "subscription",
     "subscription-manager",
-    "subscription-tracker",
-    "subscriptions-and-payments"
+    "subscription-tracker"
   ],
-  "star_count": 74,
-  "fork_count": 5,
+  "star_count": 81,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-11T05:26:35Z",
-  "updated_at": "2026-05-04T09:36:05Z",
-  "pushed_at": "2026-05-04T08:25:23Z",
+  "updated_at": "2026-05-08T16:59:55Z",
+  "pushed_at": "2026-05-05T12:45:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +58,10 @@
     {
       "date": "2026-05-04",
       "stars": 74
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 81
     }
   ]
 }

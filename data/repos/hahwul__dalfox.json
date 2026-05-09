@@ -7,30 +7,25 @@
   "description_ja": "Dalfoxは自動化に特化した強力なオープンソースXSSスキャナー兼ユーティリティ",
   "url": "https://github.com/hahwul/dalfox",
   "homepage_url": "https://dalfox.hahwul.com",
-  "language": "Go",
+  "language": "Rust",
   "license": "MIT",
   "topics": [
     "bugbounty",
     "bugbounty-tool",
-    "cicd-pipeline",
     "devsecops",
-    "golang",
     "hacktoberfest",
+    "rust",
     "security",
-    "vulnerability",
     "xss",
-    "xss-bruteforce",
-    "xss-detection",
-    "xss-exploit",
     "xss-scanner"
   ],
-  "star_count": 4960,
-  "fork_count": 523,
+  "star_count": 4970,
+  "fork_count": 524,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-04-12T07:04:10Z",
-  "updated_at": "2026-05-04T18:18:09Z",
-  "pushed_at": "2026-05-04T16:03:47Z",
+  "updated_at": "2026-05-09T15:27:45Z",
+  "pushed_at": "2026-05-08T14:27:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +63,10 @@
     {
       "date": "2026-05-04",
       "stars": 4960
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 4970
     }
   ]
 }

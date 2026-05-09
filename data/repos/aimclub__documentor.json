@@ -3,19 +3,22 @@
   "owner": "aimclub",
   "name": "documentor",
   "full_name": "aimclub/documentor",
-  "description": "",
+  "description": "Document parsing library that extracts structured content",
   "description_ja": "",
   "url": "https://github.com/aimclub/documentor",
   "homepage_url": "",
   "language": "Python",
   "license": "BSD-3-Clause",
-  "topics": [],
-  "star_count": 29,
-  "fork_count": 0,
+  "topics": [
+    "ocr",
+    "parsing"
+  ],
+  "star_count": 42,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-27T07:33:35Z",
-  "updated_at": "2026-03-05T15:16:52Z",
+  "updated_at": "2026-05-08T19:51:00Z",
   "pushed_at": "2026-03-04T13:38:36Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +53,10 @@
     {
       "date": "2026-05-04",
       "stars": 29
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 42
     }
   ]
 }

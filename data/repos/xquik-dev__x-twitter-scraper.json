@@ -3,41 +3,41 @@
   "owner": "xquik-dev",
   "name": "x-twitter-scraper",
   "full_name": "xquik-dev/x-twitter-scraper",
-  "description": "X (formerly Twitter) data platform skill for AI coding agents. 113 REST API endpoints, 2 MCP tools, 23 extraction types, HMAC webhooks, SDKs, and automation workflows.",
+  "description": "Twitter scraper API skill for tweet search, advanced Twitter search, profile tweets, follower export, media download, monitors, webhooks, MCP, and posting automation: send tweets and replies.",
   "description_ja": "",
   "url": "https://github.com/Xquik-dev/x-twitter-scraper",
   "homepage_url": "https://xquik.com",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "advanced-search",
+    "agent-skill",
     "ai-agent",
-    "automation",
-    "cheap-api",
-    "claude-code",
-    "codex",
-    "cursor",
     "data-extraction",
-    "giveaway",
+    "follower-export",
     "mcp",
     "mcp-server",
-    "monitoring",
-    "pay-per-use",
-    "rest-api",
-    "scraper",
-    "skills",
-    "social-media",
+    "sdk",
+    "send-tweets",
+    "social-media-api",
+    "social-media-automation",
+    "tweet-search",
     "twitter",
     "twitter-api",
-    "webhooks",
-    "x-api"
+    "twitter-api-alternative",
+    "twitter-automation",
+    "twitter-scraper",
+    "web-scraping",
+    "x-api",
+    "x-api-alternative"
   ],
-  "star_count": 65,
-  "fork_count": 5,
+  "star_count": 68,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-27T03:10:09Z",
-  "updated_at": "2026-05-03T17:39:20Z",
-  "pushed_at": "2026-05-02T18:32:01Z",
+  "updated_at": "2026-05-09T13:17:01Z",
+  "pushed_at": "2026-05-08T20:21:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +75,10 @@
     {
       "date": "2026-05-04",
       "stars": 65
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 68
     }
   ]
 }

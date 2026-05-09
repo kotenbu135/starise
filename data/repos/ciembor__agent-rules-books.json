@@ -3,20 +3,29 @@
   "owner": "ciembor",
   "name": "agent-rules-books",
   "full_name": "ciembor/agent-rules-books",
-  "description": "Ready-to-use Codex, Cursor, and Claude Code rules inspired by classic software engineering books.",
+  "description": "AGENTS.md rules / skills for AI coding agents: Codex, Cursor \u0026 Claude Code. Inspired by Clean Code, Refactoring, DDD, Clean Architecture and DDIA programming books.",
   "description_ja": "",
   "url": "https://github.com/ciembor/agent-rules-books",
   "homepage_url": "",
   "language": "",
   "license": "MIT",
-  "topics": [],
-  "star_count": 927,
-  "fork_count": 144,
+  "topics": [
+    "agent-rules",
+    "agent-skills",
+    "agents-md",
+    "ai-agent",
+    "code-quality",
+    "domain-driven-design",
+    "programming-books",
+    "refactoring"
+  ],
+  "star_count": 1254,
+  "fork_count": 179,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-16T16:58:19Z",
-  "updated_at": "2026-05-04T19:06:06Z",
-  "pushed_at": "2026-05-04T16:15:03Z",
+  "updated_at": "2026-05-09T17:51:22Z",
+  "pushed_at": "2026-05-05T18:41:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +43,10 @@
     {
       "date": "2026-05-04",
       "stars": 927
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1254
     }
   ]
 }

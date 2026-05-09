@@ -3,7 +3,7 @@
   "owner": "erickochen",
   "name": "purple",
   "full_name": "erickochen/purple",
-  "description": "Open-source terminal SSH manager and SSH config editor in Rust. Live tunnel monitoring with throughput, channel events and per-client roster. Fuzzy search hundreds of hosts, sync from 16 clouds, transfer files, manage Docker and Podman over SSH, sign short-lived Vault SSH certs and expose an MCP server for AI agents.",
+  "description": "Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, live tunnel monitoring, scp, Docker over SSH, Vault SSH certs and an MCP server for AI agents. Rust TUI, MIT.",
   "description_ja": "",
   "url": "https://github.com/erickochen/purple",
   "homepage_url": "https://getpurple.sh",
@@ -17,27 +17,27 @@
     "hashicorp-vault",
     "homelab",
     "mcp",
-    "proxmox",
+    "podman",
     "ratatui",
     "rust",
-    "rust-cli",
     "ssh",
+    "ssh-bookmarks",
     "ssh-client",
     "ssh-config",
+    "ssh-config-editor",
     "ssh-manager",
     "ssh-tunnel",
-    "sysadmin",
     "terminal",
-    "tui",
-    "tunnel-monitoring"
+    "termius-alternative",
+    "tui"
   ],
-  "star_count": 251,
+  "star_count": 257,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-19T16:30:18Z",
-  "updated_at": "2026-05-04T16:30:09Z",
-  "pushed_at": "2026-05-04T16:33:36Z",
+  "updated_at": "2026-05-09T12:24:11Z",
+  "pushed_at": "2026-05-08T17:31:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +71,10 @@
     {
       "date": "2026-05-04",
       "stars": 251
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 257
     }
   ]
 }

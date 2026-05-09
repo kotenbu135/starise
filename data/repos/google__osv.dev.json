@@ -7,7 +7,7 @@
   "description_ja": "オープンソースの脆弱性データベースおよびトリアージサービスです。",
   "url": "https://github.com/google/osv.dev",
   "homepage_url": "https://osv.dev",
-  "language": "Python",
+  "language": "Go",
   "license": "Apache-2.0",
   "topics": [
     "security",
@@ -17,13 +17,13 @@
     "vulnerability-management",
     "vulnerability-scanners"
   ],
-  "star_count": 2646,
-  "fork_count": 312,
+  "star_count": 2665,
+  "fork_count": 315,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-01-08T02:14:10Z",
-  "updated_at": "2026-05-04T13:43:32Z",
-  "pushed_at": "2026-05-04T19:16:02Z",
+  "updated_at": "2026-05-09T13:26:52Z",
+  "pushed_at": "2026-05-08T19:14:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +57,10 @@
     {
       "date": "2026-05-04",
       "stars": 2646
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 2665
     }
   ]
 }

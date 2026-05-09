@@ -3,20 +3,24 @@
   "owner": "softinstigate",
   "name": "restheart",
   "full_name": "softinstigate/restheart",
-  "description": "The Backend Framework with MongoDB Data APIs.",
-  "description_ja": "MongoDB Data API を使ったバックエンドフレームワーク。",
+  "description": "The Agent-Ready Backend for MongoDB.",
+  "description_ja": "",
   "url": "https://github.com/SoftInstigate/restheart",
   "homepage_url": "https://restheart.org",
   "language": "Java",
   "license": "AGPL-3.0",
   "topics": [
+    "ai-agents",
     "data-persistence",
     "database",
     "docker",
     "framework",
     "graphql",
     "java",
+    "mcp",
+    "mcp-server",
     "microservice",
+    "model-context-protocol",
     "mongodb",
     "nosql",
     "rest",
@@ -30,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-11-16T18:01:01Z",
-  "updated_at": "2026-05-04T14:10:54Z",
-  "pushed_at": "2026-05-04T14:08:09Z",
+  "updated_at": "2026-05-09T14:17:40Z",
+  "pushed_at": "2026-05-09T14:17:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +72,10 @@
     },
     {
       "date": "2026-05-04",
+      "stars": 874
+    },
+    {
+      "date": "2026-05-09",
       "stars": 874
     }
   ]

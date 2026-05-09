@@ -3,8 +3,8 @@
   "owner": "framersai",
   "name": "agentos",
   "full_name": "framersai/agentos",
-  "description": "Build autonomous AI agents with adaptive intelligence and emergent behaviors to simulate any scenario. Multimodal RAG included.",
-  "description_ja": "適応的インテリジェンスと創発的動作を持つ自律型 AI エージェントを構築し、あらゆるシナリオをシミュレート。マルチモーダル RAG 搭載。",
+  "description": "Build autonomous AI agents with adaptive intelligence and emergent behaviors, included with multimodal RAG and optional HEXACO personalities.",
+  "description_ja": "",
   "url": "https://github.com/framersai/agentos",
   "homepage_url": "https://agentos.sh",
   "language": "TypeScript",
@@ -25,13 +25,13 @@
     "personality",
     "rag"
   ],
-  "star_count": 185,
-  "fork_count": 6,
+  "star_count": 322,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-28T04:35:14Z",
-  "updated_at": "2026-05-04T15:48:19Z",
-  "pushed_at": "2026-05-03T22:49:22Z",
+  "updated_at": "2026-05-09T14:03:49Z",
+  "pushed_at": "2026-05-09T07:03:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -69,6 +69,10 @@
     {
       "date": "2026-05-04",
       "stars": 185
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 322
     }
   ]
 }

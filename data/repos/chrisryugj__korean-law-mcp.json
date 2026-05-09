@@ -3,21 +3,21 @@
   "owner": "chrisryugj",
   "name": "korean-law-mcp",
   "full_name": "chrisryugj/korean-law-mcp",
-  "description": "국가법령정보MCP | 법제처 41개 API → 16개 MCP 도구. 법령·판례·조례·조약을 AI로 검색·조회·분석 + LLM 환각 방지 인용 검증 | 41 Korean legal APIs → 16 MCP tools with AI citation hallucination guard",
-  "description_ja": "国家法令情報MCP | 法制処41個のAPI → 16個のMCPツール。法令・判例・条例・条約をAIで検索・照会・分析 + LLMの幻覚防止引用検証 | 41の韓国法令API → AI引用幻覚ガード付き16個のMCPツール",
+  "description": "국가법령정보MCP v4.0 | 법제처 41개 API → 17개 MCP 도구. 법령·판례·조례 검색 + LLM 환각 방지 인용검증 + 조문 영향 그래프(impact_map) + 시점 비교 자동 diff(time_travel) + 시민 5단계 실행 가이드(action_plan) | 41 Korean legal APIs → 17 MCP tools",
+  "description_ja": "",
   "url": "https://github.com/chrisryugj/korean-law-mcp",
   "homepage_url": "https://www.npmjs.com/package/korean-law-mcp",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "api",
     "citation-verification",
+    "citizen-guide",
     "claude",
-    "cli",
     "hallucination-detection",
-    "korea",
+    "impact-graph",
     "korean-law",
     "law",
+    "law-diff",
     "legal",
     "legal-ai",
     "legal-rag",
@@ -25,17 +25,18 @@
     "llm-hallucination",
     "mcp",
     "mcp-server",
+    "mermaid",
     "model-context-protocol",
     "precedent",
     "typescript"
   ],
-  "star_count": 1649,
-  "fork_count": 319,
+  "star_count": 1686,
+  "fork_count": 323,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-19T11:03:22Z",
-  "updated_at": "2026-05-04T12:44:07Z",
-  "pushed_at": "2026-04-25T18:30:46Z",
+  "updated_at": "2026-05-09T05:01:36Z",
+  "pushed_at": "2026-05-08T00:59:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -69,6 +70,10 @@
     {
       "date": "2026-05-04",
       "stars": 1649
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1686
     }
   ]
 }

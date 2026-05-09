@@ -3,8 +3,8 @@
   "owner": "cljfx",
   "name": "cljfx",
   "full_name": "cljfx/cljfx",
-  "description": "Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame",
-  "description_ja": "reactとre-frameの優れた部分にインスパイアされた、宣言的・関数型・拡張可能なJavaFXラッパー",
+  "description": "Declarative, functional and extensible wrapper of JavaFX inspired by react and re-frame",
+  "description_ja": "",
   "url": "https://github.com/cljfx/cljfx",
   "homepage_url": "",
   "language": "Clojure",
@@ -19,13 +19,13 @@
     "react",
     "reagent"
   ],
-  "star_count": 1085,
+  "star_count": 1088,
   "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-12-22T22:02:32Z",
-  "updated_at": "2026-04-27T13:08:07Z",
-  "pushed_at": "2026-03-31T17:21:42Z",
+  "updated_at": "2026-05-08T19:01:33Z",
+  "pushed_at": "2026-05-08T08:18:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-05-04",
       "stars": 1085
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1088
     }
   ]
 }

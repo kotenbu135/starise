@@ -7,7 +7,7 @@
   "description_ja": "Markdownを変換・検証し、RAGパイプラインに最適なチャンク戦略を選択できます。",
   "url": "https://github.com/GiovanniPasq/chunky",
   "homepage_url": "",
-  "language": "Python",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "chonkie",
@@ -31,13 +31,13 @@
     "semantic-chunker",
     "text-splitter"
   ],
-  "star_count": 93,
+  "star_count": 99,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T21:54:16Z",
-  "updated_at": "2026-05-02T17:38:46Z",
-  "pushed_at": "2026-04-25T19:09:45Z",
+  "updated_at": "2026-05-09T10:24:27Z",
+  "pushed_at": "2026-05-09T10:32:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +75,10 @@
     {
       "date": "2026-05-04",
       "stars": 93
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 99
     }
   ]
 }

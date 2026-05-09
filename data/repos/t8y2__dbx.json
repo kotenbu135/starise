@@ -3,12 +3,12 @@
   "owner": "t8y2",
   "name": "dbx",
   "full_name": "t8y2/dbx",
-  "description": "15MB，lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
+  "description": "15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.",
   "description_ja": "",
   "url": "https://github.com/t8y2/dbx",
-  "homepage_url": "",
+  "homepage_url": "https://dbxio.com",
   "language": "Vue",
-  "license": "",
+  "license": "AGPL-3.0",
   "topics": [
     "clickhouse",
     "database",
@@ -26,13 +26,13 @@
     "tauri",
     "vue"
   ],
-  "star_count": 831,
-  "fork_count": 45,
+  "star_count": 1214,
+  "fork_count": 88,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-29T03:00:36Z",
-  "updated_at": "2026-05-04T19:55:03Z",
-  "pushed_at": "2026-05-04T19:22:35Z",
+  "updated_at": "2026-05-09T18:00:05Z",
+  "pushed_at": "2026-05-09T16:48:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +50,10 @@
     {
       "date": "2026-05-04",
       "stars": 831
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1214
     }
   ]
 }

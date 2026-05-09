@@ -3,8 +3,8 @@
   "owner": "greenmaskio",
   "name": "greenmask",
   "full_name": "greenmaskio/greenmask",
-  "description": "Database anonymization, synthetic data generation and logical dump",
-  "description_ja": "データベース匿名化・合成データ生成・論理ダンプ",
+  "description": "Database anonymization and test data management",
+  "description_ja": "",
   "url": "https://github.com/GreenmaskIO/greenmask",
   "homepage_url": "https://greenmask.io",
   "language": "Go",
@@ -31,13 +31,13 @@
     "synthetic-data",
     "testing-tools"
   ],
-  "star_count": 1670,
-  "fork_count": 58,
+  "star_count": 1676,
+  "fork_count": 59,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-01T22:19:27Z",
-  "updated_at": "2026-05-03T23:24:50Z",
-  "pushed_at": "2026-05-04T05:02:04Z",
+  "updated_at": "2026-05-09T13:28:07Z",
+  "pushed_at": "2026-05-09T13:28:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +71,10 @@
     {
       "date": "2026-05-04",
       "stars": 1670
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1676
     }
   ]
 }

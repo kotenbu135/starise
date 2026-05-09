@@ -3,8 +3,8 @@
   "owner": "evidentloop",
   "name": "sopify",
   "full_name": "evidentloop/sopify",
-  "description": "按任务复杂度推进 AI 编程流程，让关键决策可追踪、产出质量可验证，并把计划、审查和历史沉淀为项目资产",
-  "description_ja": "タスクの複雑さに応じてAIプログラミングフローを段階的に進め、重要な意思決定を追跡可能にし、成果物の品質を検証可能にし、計画・レビュー・履歴をプロジェクト資産として蓄積する",
+  "description": "可恢复、可重确认、可交叉审查，并能沉淀项目记忆的 AI 编程",
+  "description_ja": "",
   "url": "https://github.com/evidentloop/sopify",
   "homepage_url": "",
   "language": "Python",
@@ -18,13 +18,13 @@
     "config-driven",
     "skills"
   ],
-  "star_count": 87,
-  "fork_count": 5,
+  "star_count": 99,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-15T07:20:20Z",
-  "updated_at": "2026-05-04T14:45:57Z",
-  "pushed_at": "2026-05-04T14:45:38Z",
+  "updated_at": "2026-05-09T14:14:24Z",
+  "pushed_at": "2026-05-09T14:14:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +62,10 @@
     {
       "date": "2026-05-04",
       "stars": 87
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 99
     }
   ]
 }

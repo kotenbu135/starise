@@ -3,8 +3,8 @@
   "owner": "agenvoy",
   "name": "agenvoy",
   "full_name": "agenvoy/agenvoy",
-  "description": "Agentic framework | Self-improving memory | Pluggable tool extensions | Sandbox execution",
-  "description_ja": "エージェティックフレームワーク | 自己改善型メモリ | プラガブルなツール拡張 | サンドボックス実行。",
+  "description": "Agentic runtime | Multi-provider concurrent dispatch | Self-improving error memory | Pluggable tool extensions | Sandbox execution",
+  "description_ja": "",
   "url": "https://github.com/agenvoy/Agenvoy",
   "homepage_url": "https://agenvoy.com/",
   "language": "Go",
@@ -26,13 +26,13 @@
     "ollama",
     "openai"
   ],
-  "star_count": 76,
-  "fork_count": 11,
+  "star_count": 91,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T02:16:07Z",
-  "updated_at": "2026-05-04T14:28:12Z",
-  "pushed_at": "2026-05-04T09:53:22Z",
+  "updated_at": "2026-05-09T16:48:34Z",
+  "pushed_at": "2026-05-09T16:56:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +70,10 @@
     {
       "date": "2026-05-04",
       "stars": 76
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 91
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "aelassas",
   "name": "servy",
   "full_name": "aelassas/servy",
-  "description": "Run Any App as a Native Windows Service - Modern Alternative to NSSM, WinSW \u0026 FireDaemon Pro",
-  "description_ja": "[1] アプリをネイティブWindowsサービスとして実行 - NSSM、WinSW、FireDaemon Proのモダンな代替",
+  "description": "Professional-Grade Windows Service Wrapper with Deep Observability - Modern Alternative to NSSM, WinSW \u0026 FireDaemon Pro",
+  "description_ja": "",
   "url": "https://github.com/aelassas/servy",
   "homepage_url": "https://servy-win.github.io",
   "language": "C#",
@@ -18,13 +18,13 @@
     "windows-service",
     "winsw"
   ],
-  "star_count": 1683,
+  "star_count": 1696,
   "fork_count": 67,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-02T15:09:07Z",
-  "updated_at": "2026-05-04T18:02:12Z",
-  "pushed_at": "2026-05-04T18:02:25Z",
+  "updated_at": "2026-05-09T17:45:11Z",
+  "pushed_at": "2026-05-09T17:45:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +62,10 @@
     {
       "date": "2026-05-04",
       "stars": 1683
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1696
     }
   ]
 }

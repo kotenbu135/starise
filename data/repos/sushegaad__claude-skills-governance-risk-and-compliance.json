@@ -3,7 +3,7 @@
   "owner": "sushegaad",
   "name": "claude-skills-governance-risk-and-compliance",
   "full_name": "sushegaad/claude-skills-governance-risk-and-compliance",
-  "description": "Claude Skills for Governance, Risk, \u0026 Compliance (GRC): Expert-level compliance guidance for ISO 27001, SOC 2, FedRAMP, GDPR, HIPAA, NIST CSF, PCI DSS, TSA Cybersecurity, ISO 42001, ISO 27701, DORA, India's DPDPA, CMMC 2.0, NIST AI Risk, SWIFT, Australia's ISM, EU NIS2, and CCPA/CPRA. Benchmark 95% vs 80%.",
+  "description": "Claude Skills for Governance, Risk, \u0026 Compliance (GRC): Expert-level compliance guidance for ISO 27001, SOC 2, FedRAMP, GDPR, HIPAA, NIST CSF, PCI DSS, EU AI Act, ISO 42001, ISO 27701, DORA, CSRD, India's DPDPA, CMMC 2.0, NIST AI Risk, SWIFT, Australia's ISM, EU NIS2, and CCPA/CPRA. Benchmark 96% (with skills) vs 82% (without skills).",
   "description_ja": "",
   "url": "https://github.com/Sushegaad/Claude-Skills-Governance-Risk-and-Compliance",
   "homepage_url": "https://sushegaad.github.io/Claude-Skills-Governance-Risk-and-Compliance/",
@@ -13,8 +13,10 @@
     "claude-ai",
     "claude-skills",
     "compliance",
+    "csrd",
     "data-privacy",
     "dpdpa-2023",
+    "eu-ai-act",
     "fedramp",
     "gdpr",
     "governance",
@@ -27,16 +29,15 @@
     "pci-dss",
     "risk",
     "security",
-    "soc2",
-    "tsa"
+    "soc2"
   ],
-  "star_count": 370,
-  "fork_count": 83,
+  "star_count": 394,
+  "fork_count": 87,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T13:20:40Z",
-  "updated_at": "2026-05-04T15:14:49Z",
-  "pushed_at": "2026-05-03T14:54:40Z",
+  "updated_at": "2026-05-09T18:08:15Z",
+  "pushed_at": "2026-05-09T13:48:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +71,10 @@
     {
       "date": "2026-05-04",
       "stars": 370
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 394
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "spannm",
   "name": "ucanaccess",
   "full_name": "spannm/ucanaccess",
-  "description": "Open-source pure Java JDBC driver for Microsoft Access databases. Allows Java developers and client programs (e.g. OpenOffice, LibreOffice, SQuirreL) to read and write various versions of Access databases.",
-  "description_ja": "Microsoft Access データベース向けのオープンソース純粋 Java JDBC ドライバ。Java 開発者やクライアントプログラム（OpenOffice、LibreOffice、SQuirreL など）が各バージョンの Access データベースを読み書きできます。",
+  "description": "Open-source pure Java JDBC driver for Microsoft Access databases (*.accdb, *.mdb). Enables client programs (e.g. OpenOffice, LibreOffice, Matlab, SQuirreL) to read and write Access databases.",
+  "description_ja": "",
   "url": "https://github.com/spannm/ucanaccess",
   "homepage_url": "https://spannm.github.io/ucanaccess/",
   "language": "Java",
@@ -22,13 +22,13 @@
     "purejava",
     "sql"
   ],
-  "star_count": 82,
+  "star_count": 84,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-05T10:57:17Z",
-  "updated_at": "2026-04-13T18:23:40Z",
-  "pushed_at": "2026-04-13T10:17:52Z",
+  "updated_at": "2026-05-08T09:18:41Z",
+  "pushed_at": "2026-05-08T09:18:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +62,10 @@
     {
       "date": "2026-05-04",
       "stars": 82
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 84
     }
   ]
 }

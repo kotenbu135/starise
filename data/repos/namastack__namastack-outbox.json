@@ -6,26 +6,27 @@
   "description": "Outbox Implementation for Spring Boot",
   "description_ja": "Spring Boot向けOutbox実装",
   "url": "https://github.com/namastack/namastack-outbox",
-  "homepage_url": "https://www.namastack.io/outbox/",
+  "homepage_url": "https://www.namastack.io/outbox",
   "language": "Kotlin",
   "license": "Apache-2.0",
   "topics": [
+    "apache-kafka",
     "distributed-systems",
-    "java",
-    "java-library",
-    "kotlin",
-    "kotlin-library",
-    "messaging",
-    "outbox-pattern",
-    "transactional-outbox"
+    "event-driven-architecture",
+    "microservices",
+    "reliable-messaging-system",
+    "spring-boot",
+    "spring-kafka",
+    "transactional-outbox",
+    "transactional-outbox-pattern"
   ],
-  "star_count": 324,
+  "star_count": 330,
   "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-25T07:19:49Z",
-  "updated_at": "2026-05-04T14:07:21Z",
-  "pushed_at": "2026-05-04T14:03:50Z",
+  "updated_at": "2026-05-08T22:21:42Z",
+  "pushed_at": "2026-05-08T22:21:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -63,6 +64,10 @@
     {
       "date": "2026-05-04",
       "stars": 324
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 330
     }
   ]
 }

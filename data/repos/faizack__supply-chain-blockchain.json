@@ -3,8 +3,8 @@
   "owner": "faizack",
   "name": "supply-chain-blockchain",
   "full_name": "faizack/supply-chain-blockchain",
-  "description": "Supply Chain Management Using Blockchain",
-  "description_ja": "ブロックチェーンを活用したサプライチェーン管理",
+  "description": "Blockchain-based supply chain management dApp for product traceability, transparency, and anti-counterfeit tracking using Ethereum smart contracts and React.",
+  "description_ja": "",
   "url": "https://github.com/faizack/Supply-Chain-Blockchain",
   "homepage_url": "",
   "language": "TypeScript",
@@ -18,15 +18,15 @@
     "react",
     "smart-contract",
     "supply-chain-management",
-    "supplychain",
+    "traceability",
     "web3"
   ],
   "star_count": 113,
-  "fork_count": 42,
+  "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-07T21:56:31Z",
-  "updated_at": "2026-04-17T14:16:32Z",
+  "updated_at": "2026-05-06T20:07:01Z",
   "pushed_at": "2026-04-16T14:46:58Z",
   "deleted_at": "",
   "star_history": [
@@ -60,6 +60,10 @@
     },
     {
       "date": "2026-05-04",
+      "stars": 113
+    },
+    {
+      "date": "2026-05-09",
       "stars": 113
     }
   ]

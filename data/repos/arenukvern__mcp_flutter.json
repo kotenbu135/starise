@@ -3,10 +3,10 @@
   "owner": "arenukvern",
   "name": "mcp_flutter",
   "full_name": "arenukvern/mcp_flutter",
-  "description": "MCP server and MCP Toolkit  for Flutter and Dart VM - supports dynamic tooling",
-  "description_ja": "FlutterおよびDart VM向けMCPサーバーおよびMCP Toolkit — 動的ツーリングをサポート。",
+  "description": "MCP Server and Toolkit for Flutter AI Agent Driven Development - via closed feedback loop (visual \u0026 semantic snapshot) and high client side customization adaptable for any Flutter app.",
+  "description_ja": "",
   "url": "https://github.com/Arenukvern/mcp_flutter",
-  "homepage_url": "",
+  "homepage_url": "https://docs.page/arenukvern/mcp_flutter",
   "language": "Dart",
   "license": "MIT",
   "topics": [
@@ -15,15 +15,18 @@
     "dynamic-tools",
     "flutter",
     "mcp",
-    "mcp-server"
+    "mcp-client",
+    "mcp-server",
+    "mcp-toolkit",
+    "mcp-tools"
   ],
-  "star_count": 289,
+  "star_count": 291,
   "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-17T22:52:24Z",
-  "updated_at": "2026-05-03T16:14:26Z",
-  "pushed_at": "2026-05-01T03:14:16Z",
+  "updated_at": "2026-05-08T09:09:15Z",
+  "pushed_at": "2026-05-07T23:02:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -61,6 +64,10 @@
     {
       "date": "2026-05-04",
       "stars": 289
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 291
     }
   ]
 }

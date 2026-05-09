@@ -6,7 +6,7 @@
   "description": "Manage multi-tenant clusters with Flux",
   "description_ja": "Flux を使ったマルチテナントクラスターの管理。",
   "url": "https://github.com/fluxcd/flux2-multi-tenancy",
-  "homepage_url": "",
+  "homepage_url": "https://fluxcd.io/flux/installation/configuration/multitenancy/",
   "language": "",
   "license": "Apache-2.0",
   "topics": [
@@ -17,13 +17,13 @@
     "kubernetes",
     "multitenancy"
   ],
-  "star_count": 594,
+  "star_count": 595,
   "fork_count": 278,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-27T08:24:15Z",
-  "updated_at": "2026-05-03T05:00:56Z",
-  "pushed_at": "2026-04-30T00:22:13Z",
+  "updated_at": "2026-05-09T06:06:03Z",
+  "pushed_at": "2026-05-08T14:40:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +57,10 @@
     {
       "date": "2026-05-04",
       "stars": 594
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 595
     }
   ]
 }

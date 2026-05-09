@@ -3,8 +3,8 @@
   "owner": "shsuishang",
   "name": "modulithshop",
   "full_name": "shsuishang/modulithshop",
-  "description": "ModulithShop是Shopsuite Java商城系统，采用Java+Springboot+Vue+Uniapp商城框架的开源电商Java系统（除了java商城外，还开源了go shop商城及php mall商城），能满足B2C商城，新零售商城，社交电商Java商城，分销商城，微信小程序商城，B2B商城系统等多种模式Java商城项目， 支持多语言商城项目、知识付费商城、b2b mall电商平台，是功能较完善的java ecommerce电商系统。",
-  "description_ja": "ModulithShopはShopsuite Javaショッピングモールシステム。Java+Springboot+Vue+Uniappのショッピングモールフレームワークを採用したオープンソースEコマースJavaシステム（Javaショッピングモールに加え、Go shopおよびPHP mallもオープンソース公開）。B2C、新小売、ソーシャルEコマース、ディストリビューション、WeChat小程序、B2Bなど多様なモードに対応し、多言語・知識課金・B2B mallも含む機能充実のJava Eコマースプラットフォーム",
+  "description": "ModulithShop Java电商系统是基于uniapp+Java Springboot+Vue+Element UI框架Java商城系统，支持uniapp微商城系统、公众号微信商城、淘宝/抖音/头条小程序java商城系统、安卓及苹果APP商城。适用：B2C商城，新零售商城，社交电商java商城，分销Java商城等等。除了java mall商城项目，还有开源php及golang商城、b2b2c微服务电商系统。",
+  "description_ja": "",
   "url": "https://github.com/shsuishang/modulithshop",
   "homepage_url": "https://www.shopsuite.cn",
   "language": "Java",
@@ -21,12 +21,12 @@
     "uniapp",
     "vue"
   ],
-  "star_count": 83,
-  "fork_count": 24,
+  "star_count": 87,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-16T04:20:15Z",
-  "updated_at": "2026-04-25T04:49:52Z",
+  "updated_at": "2026-05-09T14:37:50Z",
   "pushed_at": "2026-04-25T04:49:45Z",
   "deleted_at": "",
   "star_history": [
@@ -61,6 +61,10 @@
     {
       "date": "2026-05-04",
       "stars": 83
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 87
     }
   ]
 }

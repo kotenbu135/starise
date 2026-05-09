@@ -3,25 +3,28 @@
   "owner": "maester365",
   "name": "maester",
   "full_name": "maester365/maester",
-  "description": "Maester is a PowerShell based test automation framework to help you stay in control of your Microsoft security configuration.",
-  "description_ja": "MaesterはPowerShellベースのテスト自動化フレームワーク。Microsoftのセキュリティ設定を継続的に管理・検証できます。",
+  "description": "Maester is a test automation framework to help you stay in control of your Microsoft security configuration.",
+  "description_ja": "",
   "url": "https://github.com/maester365/maester",
   "homepage_url": "https://maester.dev",
   "language": "HTML",
   "license": "MIT",
   "topics": [
+    "config-as-code",
+    "configuration-management",
+    "cybersecurity",
     "devops",
     "entra",
     "microsoft-365",
     "microsoft-graph"
   ],
-  "star_count": 869,
-  "fork_count": 236,
+  "star_count": 877,
+  "fork_count": 240,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-16T09:08:37Z",
-  "updated_at": "2026-05-04T19:18:54Z",
-  "pushed_at": "2026-05-04T17:54:09Z",
+  "updated_at": "2026-05-09T16:39:03Z",
+  "pushed_at": "2026-05-09T17:36:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +58,10 @@
     {
       "date": "2026-05-04",
       "stars": 869
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 877
     }
   ]
 }

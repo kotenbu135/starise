@@ -3,8 +3,8 @@
   "owner": "voidenhq",
   "name": "voiden",
   "full_name": "voidenhq/voiden",
-  "description": "Design, Test, Document APIs, in plain Markdown. Compose APIs with blocks. Reuse, Replace \u0026 Version everything just like code. Truly Git Native. No Lock-in.",
-  "description_ja": "プレーンなMarkdownでAPIの設計・テスト・ドキュメント作成が可能。ブロックでAPIを構成し、コードと同様に再利用・置換・バージョン管理。完全Git対応。ベンダーロックインなし。",
+  "description": "Design, Test and Document APIs in plain Markdown. Compose Requests with API blocks. Reuse, Replace \u0026 Version everything just like code. Offline, Truly Git Native, No Lock-in.",
+  "description_ja": "",
   "url": "https://github.com/VoidenHQ/voiden",
   "homepage_url": "https://voiden.md",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "testing",
     "websocket"
   ],
-  "star_count": 939,
-  "fork_count": 30,
+  "star_count": 1014,
+  "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-09T23:35:11Z",
-  "updated_at": "2026-05-04T19:53:35Z",
-  "pushed_at": "2026-05-04T19:29:38Z",
+  "updated_at": "2026-05-09T13:35:31Z",
+  "pushed_at": "2026-05-07T19:45:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +75,10 @@
     {
       "date": "2026-05-04",
       "stars": 939
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1014
     }
   ]
 }

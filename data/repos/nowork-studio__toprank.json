@@ -6,17 +6,26 @@
   "description": "Open-source Claude Code skills for SEO, GEO, Google Ads, Meta Ads",
   "description_ja": "",
   "url": "https://github.com/nowork-studio/toprank",
-  "homepage_url": "",
+  "homepage_url": "https://notfair.co/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 1654,
-  "fork_count": 232,
+  "topics": [
+    "claude-code-plugin",
+    "claude-skills",
+    "geo",
+    "googleads",
+    "googleadsmcp",
+    "mcp",
+    "metaads",
+    "seo"
+  ],
+  "star_count": 1874,
+  "fork_count": 257,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-27T06:39:58Z",
-  "updated_at": "2026-05-04T19:04:28Z",
-  "pushed_at": "2026-05-03T08:02:42Z",
+  "updated_at": "2026-05-09T18:13:12Z",
+  "pushed_at": "2026-05-09T08:21:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +55,10 @@
     {
       "date": "2026-05-04",
       "stars": 1654
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1874
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "canner",
   "name": "wren-engine",
   "full_name": "canner/wren-engine",
-  "description": "The open context engine for AI agents support 15+ data sources. Built on Rust and Apache DataFusion.",
-  "description_ja": "AIエージェント向けオープンソースコンテキストエンジン。15以上のデータソースをサポート。RustとApache DataFusionで構築。",
+  "description": "This repository has been merged into Canner/WrenAI under the core/ directory",
+  "description_ja": "",
   "url": "https://github.com/Canner/wren-engine",
-  "homepage_url": "https://docs.getwren.ai/oss/engine/get_started/installation",
+  "homepage_url": "https://github.com/Canner/WrenAI",
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [
@@ -28,12 +28,12 @@
     "sql"
   ],
   "star_count": 661,
-  "fork_count": 197,
-  "is_archived": false,
+  "fork_count": 198,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2022-05-09T07:07:45Z",
-  "updated_at": "2026-05-03T18:47:57Z",
-  "pushed_at": "2026-05-04T03:10:15Z",
+  "updated_at": "2026-05-08T07:31:24Z",
+  "pushed_at": "2026-05-06T17:28:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +70,10 @@
     },
     {
       "date": "2026-05-04",
+      "stars": 661
+    },
+    {
+      "date": "2026-05-09",
       "stars": 661
     }
   ]

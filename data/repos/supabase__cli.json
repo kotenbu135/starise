@@ -7,8 +7,8 @@
   "description_ja": "Supabase CLI。Postgres マイグレーションの管理、ローカルでの Supabase 実行、Edge Functions のデプロイ、Postgres バックアップ、データベーススキーマからの型生成が可能。",
   "url": "https://github.com/supabase/cli",
   "homepage_url": "https://supabase.com/docs/reference/cli/about",
-  "language": "Go",
-  "license": "MIT",
+  "language": "TypeScript",
+  "license": "",
   "topics": [
     "cli",
     "database",
@@ -20,13 +20,13 @@
     "postgresql",
     "supabase"
   ],
-  "star_count": 2184,
-  "fork_count": 451,
+  "star_count": 2196,
+  "fork_count": 456,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-19T06:46:55Z",
-  "updated_at": "2026-05-04T17:52:50Z",
-  "pushed_at": "2026-05-04T14:33:52Z",
+  "updated_at": "2026-05-09T16:47:00Z",
+  "pushed_at": "2026-05-09T08:16:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -60,6 +60,10 @@
     {
       "date": "2026-05-04",
       "stars": 2184
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 2196
     }
   ]
 }

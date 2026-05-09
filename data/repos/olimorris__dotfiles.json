@@ -3,8 +3,8 @@
   "owner": "olimorris",
   "name": "dotfiles",
   "full_name": "olimorris/dotfiles",
-  "description": "💻 My personal dotfiles - utilising a sick Ruby Rakefile",
-  "description_ja": "洗練された Ruby Rakefile を活用した個人用 dotfiles",
+  "description": "💻 My personal dotfiles, utilising a sick Ruby Rakefile. Hammerspoon, Fish...",
+  "description_ja": "",
   "url": "https://github.com/olimorris/dotfiles",
   "homepage_url": "https://blog.olimorris.com",
   "language": "Lua",
@@ -12,17 +12,18 @@
   "topics": [
     "dotfiles",
     "fish",
+    "hammerspoon",
     "macos",
     "neovim",
     "tmux"
   ],
-  "star_count": 218,
+  "star_count": 219,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-06T17:18:49Z",
-  "updated_at": "2026-04-28T21:43:13Z",
-  "pushed_at": "2026-04-28T21:43:09Z",
+  "updated_at": "2026-05-08T05:27:07Z",
+  "pushed_at": "2026-05-06T08:53:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -56,6 +57,10 @@
     {
       "date": "2026-05-04",
       "stars": 218
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 219
     }
   ]
 }

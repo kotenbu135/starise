@@ -7,20 +7,20 @@
   "description_ja": "Eclipse SUMOはオープンソースの高移植性マイクロスコピック連続交通シミュレーションパッケージで、大規模ネットワークの処理を目的として設計されています。歩行者を含むマルチモーダルシミュレーションに対応し、シナリオ作成のための豊富なツールセットを備えています。",
   "url": "https://github.com/eclipse-sumo/sumo",
   "homepage_url": "https://eclipse.dev/sumo",
-  "language": "C++",
+  "language": "Python",
   "license": "EPL-2.0",
   "topics": [
     "simulation",
     "traffic",
     "transport"
   ],
-  "star_count": 3986,
-  "fork_count": 1725,
+  "star_count": 3993,
+  "fork_count": 1730,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-10-27T20:23:17Z",
-  "updated_at": "2026-05-04T15:31:21Z",
-  "pushed_at": "2026-05-04T15:31:12Z",
+  "updated_at": "2026-05-09T14:14:46Z",
+  "pushed_at": "2026-05-09T14:14:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +58,10 @@
     {
       "date": "2026-05-04",
       "stars": 3986
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 3993
     }
   ]
 }

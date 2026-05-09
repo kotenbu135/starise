@@ -3,8 +3,8 @@
   "owner": "arounamounchili",
   "name": "linkforge",
   "full_name": "arounamounchili/linkforge",
-  "description": "The Modular Bridge \u0026 Linter for Robotics. Build, compose, and validate simulation-ready URDF, XACRO, and SRDF models with high-fidelity physics and MoveIt-ready automation.",
-  "description_ja": "ロボティクス向けのモジュール式ブリッジ＆リンター。高忠実度物理シミュレーション対応のURDF・XACRO・SRDFモデルを構築・合成・検証でき、MoveIt対応の自動化も備えます。",
+  "description": "The LLVM for Robotics. A universal Intermediate Representation (IR) and Blender-based Digital Twin platform. Build, compose, and validate high-fidelity URDF, XACRO, and SRDF models with scientific physics and production-ready automation.",
+  "description_ja": "",
   "url": "https://github.com/arounamounchili/linkforge",
   "homepage_url": "https://linkforge.readthedocs.io/",
   "language": "Python",
@@ -24,13 +24,13 @@
     "validation",
     "xacro"
   ],
-  "star_count": 173,
-  "fork_count": 17,
+  "star_count": 201,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-24T17:23:11Z",
-  "updated_at": "2026-05-04T04:28:26Z",
-  "pushed_at": "2026-05-04T17:21:45Z",
+  "updated_at": "2026-05-08T13:46:27Z",
+  "pushed_at": "2026-05-09T14:13:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -64,6 +64,10 @@
     {
       "date": "2026-05-04",
       "stars": 173
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 201
     }
   ]
 }

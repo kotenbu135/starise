@@ -6,7 +6,7 @@
   "description": "openwrt常用软件包",
   "description_ja": "OpenWrtよく使うパッケージ",
   "url": "https://github.com/kenzok8/openwrt-packages",
-  "homepage_url": "https://down.dllkids.xyz",
+  "homepage_url": "https://down.dllkids.xyz/openwrt-feed/",
   "language": "Shell",
   "license": "",
   "topics": [
@@ -31,13 +31,13 @@
     "mosdns",
     "passwall"
   ],
-  "star_count": 7086,
-  "fork_count": 2578,
+  "star_count": 7091,
+  "fork_count": 2576,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-10T11:03:47Z",
-  "updated_at": "2026-05-03T09:56:25Z",
-  "pushed_at": "2026-05-03T07:43:09Z",
+  "updated_at": "2026-05-09T15:55:49Z",
+  "pushed_at": "2026-05-09T12:45:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +71,10 @@
     {
       "date": "2026-05-04",
       "stars": 7086
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 7091
     }
   ]
 }

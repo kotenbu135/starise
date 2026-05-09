@@ -3,8 +3,8 @@
   "owner": "motionlayer",
   "name": "tinymovr",
   "full_name": "motionlayer/tinymovr",
-  "description": "Compact brushless motor controller with FOC, integrated absolute encoder and CAN Bus.",
-  "description_ja": "FOC・統合型アブソリュートエンコーダ・CAN Bus を備えたコンパクトなブラシレスモーターコントローラー",
+  "description": "Compact brushless motor controller with FOC, integrated absolute angle sensor and CAN Bus.",
+  "description_ja": "",
   "url": "https://github.com/motionlayer/Tinymovr",
   "homepage_url": "https://tinymovr.com",
   "language": "C",
@@ -18,13 +18,13 @@
     "robotics",
     "tinymovr-motor-controller"
   ],
-  "star_count": 309,
+  "star_count": 311,
   "fork_count": 55,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-07-20T08:12:53Z",
-  "updated_at": "2026-05-03T07:18:05Z",
-  "pushed_at": "2026-05-03T13:22:20Z",
+  "updated_at": "2026-05-08T15:08:39Z",
+  "pushed_at": "2026-05-07T21:43:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +58,10 @@
     {
       "date": "2026-05-04",
       "stars": 309
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 311
     }
   ]
 }

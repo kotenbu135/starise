@@ -3,7 +3,7 @@
   "owner": "anandprtp",
   "name": "antra",
   "full_name": "anandprtp/antra",
-  "description": "A desktop music library builder. Resolves Spotify / Apple Music / Amazon Music URLs → get lossless audio → auto-tags, transcodes, and organizes. No compromises.",
+  "description": "A desktop music library builder that turns Spotify, Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local downloads in FLAC, ALAC, AAC, or MP3.",
   "description_ja": "",
   "url": "https://github.com/anandprtp/Antra",
   "homepage_url": "",
@@ -12,21 +12,26 @@
   "topics": [
     "amazon-music",
     "apple-music",
+    "deezer",
     "flac",
     "hi-res",
+    "jellyfin",
     "lossless",
+    "music-library",
+    "navidrome",
     "qobuz",
     "soundcloud",
     "spotify",
+    "spotify-downloader",
     "tidal"
   ],
-  "star_count": 876,
-  "fork_count": 44,
+  "star_count": 909,
+  "fork_count": 45,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-03T21:33:10Z",
-  "updated_at": "2026-05-04T18:32:12Z",
-  "pushed_at": "2026-05-02T16:36:43Z",
+  "updated_at": "2026-05-09T17:26:15Z",
+  "pushed_at": "2026-05-08T21:39:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -60,6 +65,10 @@
     {
       "date": "2026-05-04",
       "stars": 876
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 909
     }
   ]
 }
