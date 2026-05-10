@@ -3,20 +3,31 @@
   "owner": "makccr",
   "name": "dot",
   "full_name": "makccr/dot",
-  "description": "Dotfiles \u0026 repo for any and all application configs.",
-  "description_ja": "あらゆるアプリケーション設定のための Dotfiles とリポジトリ",
+  "description": "A repository to contain any and all of my personal application configuration files.",
+  "description_ja": "",
   "url": "https://github.com/makccr/dot",
   "homepage_url": "https://makc.co",
-  "language": "Shell",
+  "language": "C",
   "license": "",
   "topics": [
     "alacritty",
     "arch",
     "awesome",
+    "bspwm",
+    "cachyos",
+    "dmenu",
+    "dwm",
+    "hyprland",
     "neovim",
     "polybar",
     "ranger",
+    "st",
     "tmux",
+    "vifm",
+    "vim",
+    "waybar",
+    "wayland",
+    "x11",
     "zsh"
   ],
   "star_count": 634,
@@ -24,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-08-23T00:11:07Z",
-  "updated_at": "2026-05-08T16:37:10Z",
-  "pushed_at": "2026-05-08T16:37:06Z",
+  "updated_at": "2026-05-10T15:53:48Z",
+  "pushed_at": "2026-05-10T06:48:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +73,10 @@
     },
     {
       "date": "2026-05-09",
+      "stars": 634
+    },
+    {
+      "date": "2026-05-10",
       "stars": 634
     }
   ]

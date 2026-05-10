@@ -3,28 +3,33 @@
   "owner": "galvarinodev",
   "name": "deckops",
   "full_name": "galvarinodev/deckops",
-  "description": "DeckOps automates the installation of  CoD4x, IW3SP-MOD, iw4x, T6SP-Mod, and Plutonium on Steam Deck. Pick your games, hit install, and launch them straight from Steam like any other game.",
-  "description_ja": "DeckOps は Steam Deck への CoD4x・IW3SP-MOD・iw4x・T6SP-Mod・Plutonium のインストールを自動化します。ゲームを選択してインストールし、他のゲームと同様に Steam から直接起動できます",
+  "description": "DeckOps automates the installation of CoD4x, IW3SP-MOD, iw4x, T6SP-Mod, Plutonium, T7X, CleanOps, and AlterWare on SteamOS/CachyOS/Bazzite. Pick your games, hit install, and launch them straight from Steam like any other game.",
+  "description_ja": "",
   "url": "https://github.com/GalvarinoDev/DeckOps",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "alterware",
+    "bazzite",
+    "cachyos",
     "call-of-duty",
+    "cleanops",
     "cod4x",
     "iw4x",
     "linux-gaming",
     "plutonium",
     "steam-deck",
-    "steamos"
+    "steamos",
+    "t7x"
   ],
-  "star_count": 54,
+  "star_count": 53,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-09T00:34:34Z",
-  "updated_at": "2026-05-06T21:22:10Z",
-  "pushed_at": "2026-04-18T19:13:50Z",
+  "updated_at": "2026-05-10T09:09:21Z",
+  "pushed_at": "2026-05-10T08:29:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +71,10 @@
     {
       "date": "2026-05-09",
       "stars": 54
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 53
     }
   ]
 }

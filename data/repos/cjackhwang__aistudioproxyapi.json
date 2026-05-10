@@ -3,8 +3,8 @@
   "owner": "cjackhwang",
   "name": "aistudioproxyapi",
   "full_name": "cjackhwang/aistudioproxyapi",
-  "description": "FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio 网页，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。",
-  "description_ja": "FastAPI + Playwright + Camoufoxを用いた中間プロキシサーバー。OpenAI API互換でパラメーター転送をサポート。ブラウザ自動化によりAPIリクエストをGoogle AI Studioウェブページへ転送し、OpenAI標準フォーマットでレスポンスを返すツール。デバッグ用WebUIパネル内蔵。",
+  "description": "FastAPI + Playwright + Camoufox 中间层代理服务器，兼容OpenAI API且支持参数转发。项目通过浏览器自动化将API请求转发到 Google AI Studio Chat，并同样按照OpenAI标准格式返回的工具。内置调试WebUI面板。",
+  "description_ja": "",
   "url": "https://github.com/CJackHwang/AIstudioProxyAPI",
   "homepage_url": "https://linux.do/u/cjackhwang",
   "language": "Python",
@@ -22,12 +22,12 @@
     "python",
     "reverse-proxy"
   ],
-  "star_count": 2378,
-  "fork_count": 406,
+  "star_count": 2382,
+  "fork_count": 408,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-26T17:16:37Z",
-  "updated_at": "2026-05-09T16:40:16Z",
+  "updated_at": "2026-05-10T15:48:42Z",
   "pushed_at": "2026-04-22T12:20:26Z",
   "deleted_at": "",
   "star_history": [
@@ -66,6 +66,10 @@
     {
       "date": "2026-05-09",
       "stars": 2378
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 2382
     }
   ]
 }

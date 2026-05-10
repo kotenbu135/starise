@@ -3,7 +3,7 @@
   "owner": "tobihagemann",
   "name": "turbo",
   "full_name": "tobihagemann/turbo",
-  "description": "A composable dev process for Claude Code, packaged as modular skills.",
+  "description": "A composable dev process for agentic coding harnesses, packaged as modular skills. Turbo has sibling editions for Claude Code and Codex.",
   "description_ja": "",
   "url": "https://github.com/tobihagemann/turbo",
   "homepage_url": "",
@@ -13,16 +13,18 @@
     "agent-skills",
     "claude-code",
     "claude-skills",
+    "codex",
+    "codex-skills",
     "developer-tools",
     "skills"
   ],
-  "star_count": 297,
+  "star_count": 298,
   "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T04:50:30Z",
-  "updated_at": "2026-05-09T17:18:51Z",
-  "pushed_at": "2026-05-09T17:18:39Z",
+  "updated_at": "2026-05-10T12:48:07Z",
+  "pushed_at": "2026-05-10T10:29:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +46,10 @@
     {
       "date": "2026-05-09",
       "stars": 297
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 298
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "luccahuguet",
   "name": "yazelix",
   "full_name": "luccahuguet/yazelix",
-  "description": "Zellij, Yazi with Nushell and Lua scripting add a File Tree to Helix (or your prefered editor). An IDE-like experience, in the terminal. With nix as the only dependency.",
-  "description_ja": "Zellij、Yazi、NushellとLuaスクリプティングを使ってHelix（または好みのエディタ）にファイルツリーを追加。nixのみを依存としたターミナル上のIDE風体験",
+  "description": "Yazi and Zellij with smart defaults \u0026 awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a zellij popup system (with lazygit as default), zoxide integrations, a config UI, zjstatus widgets, and more. Your terminal IDE.  Written in rust and blazingly fast. Available via flake/home-manager. One line install.",
+  "description_ja": "",
   "url": "https://github.com/luccahuguet/yazelix",
   "homepage_url": "",
   "language": "Rust",
@@ -20,6 +20,7 @@
     "nix",
     "nix-flake",
     "nushell",
+    "plugins",
     "shell",
     "terminal",
     "terminal-editor",
@@ -32,8 +33,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-20T21:15:45Z",
-  "updated_at": "2026-05-09T07:09:24Z",
-  "pushed_at": "2026-05-09T18:10:30Z",
+  "updated_at": "2026-05-10T17:56:44Z",
+  "pushed_at": "2026-05-10T17:56:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +67,10 @@
     },
     {
       "date": "2026-05-09",
+      "stars": 914
+    },
+    {
+      "date": "2026-05-10",
       "stars": 914
     }
   ]

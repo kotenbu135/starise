@@ -3,41 +3,41 @@
   "owner": "bibinprathap",
   "name": "veritasgraph",
   "full_name": "bibinprathap/veritasgraph",
-  "description": "VeritasGraph: Enterprise-Grade Graph RAG for Secure, On-Premise AI with Verifiable Attribution",
-  "description_ja": "VeritasGraph: 検証可能な帰属情報を備えた、セキュアなオンプレミスAI向けエンタープライズグレードのGraph RAG",
+  "description": "VeritasGraph — open-source Knowledge Graph \u0026 GraphRAG framework on GitHub. Build multi-hop reasoning, ontology-aware retrieval, and verifiable attribution over your own data. Nodes, edges, RDF, linked-data — runs locally or in the cloud.",
+  "description_ja": "",
   "url": "https://github.com/bibinprathap/VeritasGraph",
   "homepage_url": "https://bibinprathap.com/",
   "language": "Python",
   "license": "",
   "topics": [
-    "agent-memory",
     "ai-agents",
-    "context-management",
     "data-privacy",
-    "developer-tools",
     "enterprise-ai",
-    "fine-tuning",
     "generative-ai",
+    "graph-analytics",
+    "graph-database",
     "graph-rag",
     "information-retrieval",
     "knowledge-engineering",
     "knowledge-graphs",
+    "linked-data",
     "llm",
     "multi-hop-reasoning",
     "neo4j",
     "nlp",
-    "on-premise",
+    "ontology",
     "python-library",
     "rag",
+    "rdf",
     "semantic-web"
   ],
-  "star_count": 273,
+  "star_count": 274,
   "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-06T08:10:17Z",
-  "updated_at": "2026-05-09T16:12:04Z",
-  "pushed_at": "2026-05-09T16:12:00Z",
+  "updated_at": "2026-05-10T16:32:04Z",
+  "pushed_at": "2026-05-10T16:29:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     {
       "date": "2026-05-09",
       "stars": 273
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 274
     }
   ]
 }

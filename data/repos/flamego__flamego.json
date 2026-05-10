@@ -3,8 +3,8 @@
   "owner": "flamego",
   "name": "flamego",
   "full_name": "flamego/flamego",
-  "description": "A fantastic modular Go web framework with a slim core but limitless extensibility",
-  "description_ja": "スリムなコアながら無限の拡張性を持つ、モジュラーGoウェブフレームワーク",
+  "description": "The modular Go framework for composable systems",
+  "description_ja": "",
   "url": "https://github.com/flamego/flamego",
   "homepage_url": "https://flamego.dev",
   "language": "Go",
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-30T18:16:54Z",
-  "updated_at": "2026-05-09T14:47:52Z",
-  "pushed_at": "2026-05-09T15:01:32Z",
+  "updated_at": "2026-05-10T06:06:28Z",
+  "pushed_at": "2026-05-10T06:06:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +62,10 @@
     },
     {
       "date": "2026-05-09",
+      "stars": 621
+    },
+    {
+      "date": "2026-05-10",
       "stars": 621
     }
   ]

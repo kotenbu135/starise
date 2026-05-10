@@ -3,8 +3,8 @@
   "owner": "secluso",
   "name": "core",
   "full_name": "secluso/core",
-  "description": "A privacy-preserving home security camera that uses advanced end-to-end encryption.",
-  "description_ja": "高度なエンドツーエンド暗号化を使用したプライバシー保護対応のホームセキュリティカメラ。",
+  "description": "A privacy-preserving Raspberry Pi home security camera that uses advanced end-to-end encryption.",
+  "description_ja": "",
   "url": "https://github.com/secluso/core",
   "homepage_url": "https://secluso.com",
   "language": "Rust",
@@ -31,13 +31,13 @@
     "security-camera",
     "self-hosted"
   ],
-  "star_count": 1104,
+  "star_count": 1105,
   "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-26T04:02:05Z",
-  "updated_at": "2026-05-09T18:01:25Z",
-  "pushed_at": "2026-05-09T18:01:21Z",
+  "updated_at": "2026-05-10T15:07:08Z",
+  "pushed_at": "2026-05-10T01:42:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +75,10 @@
     {
       "date": "2026-05-09",
       "stars": 1104
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 1105
     }
   ]
 }

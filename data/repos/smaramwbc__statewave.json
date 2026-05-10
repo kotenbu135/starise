@@ -3,36 +3,46 @@
   "owner": "smaramwbc",
   "name": "statewave",
   "full_name": "smaramwbc/statewave",
-  "description": "Memory runtime for AI agents — durable episodes, compiled memories, ranked context retrieval. Self-hosted on Postgres + pgvector.",
+  "description": "Open-source memory runtime for AI agents. Durable, structured context with provenance — so your AI stops forgetting across sessions. Self-hosted on Postgres.",
   "description_ja": "",
   "url": "https://github.com/smaramwbc/statewave",
   "homepage_url": "https://statewave.ai",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
+    "agents",
     "ai-agents",
     "ai-memory",
     "context-engineering",
     "developer-tools",
+    "embedding",
     "fastapi",
+    "llm",
+    "mcp",
     "memory-runtime",
+    "open-source",
     "pgvector",
     "postgres",
     "python",
+    "rag",
     "semantic-search"
   ],
-  "star_count": 211,
+  "star_count": 213,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-24T11:08:12Z",
-  "updated_at": "2026-05-09T17:45:56Z",
-  "pushed_at": "2026-05-09T17:45:53Z",
+  "updated_at": "2026-05-10T17:15:46Z",
+  "pushed_at": "2026-05-10T13:31:45Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-05-09",
       "stars": 211
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 213
     }
   ]
 }

@@ -3,13 +3,14 @@
   "owner": "dtkmn",
   "name": "mcp-zap-server",
   "full_name": "dtkmn/mcp-zap-server",
-  "description": "A Spring Boot application exposing OWASP ZAP as an MCP (Model Context Protocol) server. It lets any MCP‑compatible AI agent (e.g., Claude Desktop, Cursor) orchestrate ZAP actions—spider, active scan, import OpenAPI specs, and generate reports.",
-  "description_ja": "OWASP ZAP を MCP（Model Context Protocol）サーバーとして公開する Spring Boot アプリケーション。MCP 対応の AI エージェント（Claude Desktop、Cursor など）から ZAP のスパイダー・アクティブスキャン・OpenAPI インポート・レポート生成などの操作をオーケストレーションできます。",
+  "description": "Give AI agents a safe, self-hosted OWASP ZAP operator for guided web security scans, findings, reports, and production guardrails.",
+  "description_ja": "",
   "url": "https://github.com/dtkmn/mcp-zap-server",
-  "homepage_url": "https://dtkmn.github.io/mcp-zap-server/",
+  "homepage_url": "https://danieltse.org/mcp-zap-server/",
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [
+    "ai",
     "java",
     "llm",
     "mcp",
@@ -24,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-20T15:20:48Z",
-  "updated_at": "2026-05-09T05:59:34Z",
-  "pushed_at": "2026-05-09T10:01:02Z",
+  "updated_at": "2026-05-10T13:24:39Z",
+  "pushed_at": "2026-05-10T13:24:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +63,10 @@
     },
     {
       "date": "2026-05-09",
+      "stars": 53
+    },
+    {
+      "date": "2026-05-10",
       "stars": 53
     }
   ]

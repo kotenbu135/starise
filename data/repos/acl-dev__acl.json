@@ -3,8 +3,8 @@
   "owner": "acl-dev",
   "name": "acl",
   "full_name": "acl-dev/acl",
-  "description": "C/C++ server and network library, including coroutine,redis client,http/https/websocket,mqtt, mysql/postgresql/sqlite client with C/C++ for Linux, Android, iOS, MacOS, Windows, etc..",
-  "description_ja": "[43] C/C++ 製のサーバー \u0026 ネットワークライブラリ。コルーチン、redis クライアント、http/https/websocket、mqtt、mysql/postgresql/sqlite クライアントを含み、C/C++ で Linux、Android、iOS、MacOS、Windows などに対応",
+  "description": "C/C++ server and network library, including coroutine,redis client,http/https/websocket,mqtt, mysql/postgresql/sqlite client with C/C++ for Linux, Android, iOS, MacOS, Windows, Harmony,etc..",
+  "description_ja": "",
   "url": "https://github.com/acl-dev/acl",
   "homepage_url": "https://acl-dev.cn",
   "language": "C",
@@ -27,12 +27,12 @@
     "smtp",
     "websocket"
   ],
-  "star_count": 3063,
+  "star_count": 3064,
   "fork_count": 949,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-10-07T10:29:13Z",
-  "updated_at": "2026-05-09T13:06:39Z",
+  "updated_at": "2026-05-10T13:43:05Z",
   "pushed_at": "2026-05-08T07:25:05Z",
   "deleted_at": "",
   "star_history": [
@@ -71,6 +71,10 @@
     {
       "date": "2026-05-09",
       "stars": 3063
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 3064
     }
   ]
 }

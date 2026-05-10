@@ -3,8 +3,8 @@
   "owner": "pyvista",
   "name": "tetgen",
   "full_name": "pyvista/tetgen",
-  "description": "A Python interface to the C++ TetGen library to generate tetrahedral meshes of any 3D polyhedral domains",
-  "description_ja": "任意の3次元多面体領域の四面体メッシュを生成するC++ TetGenライブラリへのPythonインターフェース",
+  "description": "Python interface to TetGen: generate tetrahedral meshes from 3D polyhedral domains",
+  "description_ja": "",
   "url": "https://github.com/pyvista/tetgen",
   "homepage_url": "http://tetgen.pyvista.org",
   "language": "C++",
@@ -20,7 +20,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-06-16T10:04:57Z",
-  "updated_at": "2026-05-07T11:27:53Z",
+  "updated_at": "2026-05-10T04:27:21Z",
   "pushed_at": "2026-05-04T17:25:14Z",
   "deleted_at": "",
   "star_history": [
@@ -62,6 +62,10 @@
     },
     {
       "date": "2026-05-09",
+      "stars": 299
+    },
+    {
+      "date": "2026-05-10",
       "stars": 299
     }
   ]

@@ -3,19 +3,24 @@
   "owner": "kanchengw",
   "name": "cnllm",
   "full_name": "kanchengw/cnllm",
-  "description": "为中文大模型定制的统一SDK，系统性优化接口适配、响应解析和批量处理等能力，深度适配 OpenAI 生态内 LangChain、LlamaIndex、LiteLLM 等机器学习应用框架。支持作为Agent Skill部署到各种AI编程工具。",
+  "description": "中文大模型通用SDK，系统性优化接口适配、增强响应解析和批量处理等能力，深度适配 OpenAI 生态内 LangChain、LlamaIndex、AutoGen 等大模型应用框架。支持作为Agent Skill部署到各种AI编程工具。",
   "description_ja": "",
   "url": "https://github.com/kanchengw/cnllm",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "adapter",
     "ai",
     "api",
     "api-wrapper",
+    "autogen",
     "chinese-llm",
+    "chinese-llms",
+    "deepeval",
     "doubao",
     "glm",
+    "haystack",
     "langchain",
     "litellm",
     "llamaindex",
@@ -26,13 +31,13 @@
     "package",
     "python"
   ],
-  "star_count": 96,
+  "star_count": 98,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-26T16:07:26Z",
-  "updated_at": "2026-05-09T16:07:12Z",
-  "pushed_at": "2026-05-09T16:09:05Z",
+  "updated_at": "2026-05-10T15:50:23Z",
+  "pushed_at": "2026-05-10T14:02:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +63,10 @@
     {
       "date": "2026-05-09",
       "stars": 96
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 98
     }
   ]
 }

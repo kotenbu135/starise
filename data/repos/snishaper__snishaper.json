@@ -3,7 +3,7 @@
   "owner": "snishaper",
   "name": "snishaper",
   "full_name": "snishaper/snishaper",
-  "description": "通过透传，域前置，ECH，TLS分片，QUIC直连和动态反代中转绕过阻断的桌面代理工具，直连的全功能平台。",
+  "description": "通过域前置，ECH，TLS分片，QUIC直连和动态反代中转绕过任意SNI阻断的桌面代理工具，直连的全功能平台。",
   "description_ja": "",
   "url": "https://github.com/SniShaper/SniShaper",
   "homepage_url": "https://dongle.dpdns.org",
@@ -17,22 +17,20 @@
     "dpi-bypass",
     "ech",
     "gfw",
-    "gfw-breaker",
     "golang",
     "mitm",
     "privacy",
     "proxy",
     "sni",
-    "tls",
-    "wails"
+    "tls"
   ],
-  "star_count": 68,
-  "fork_count": 12,
+  "star_count": 71,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-17T06:09:53Z",
-  "updated_at": "2026-05-07T09:20:13Z",
-  "pushed_at": "2026-05-05T03:24:43Z",
+  "updated_at": "2026-05-10T07:45:25Z",
+  "pushed_at": "2026-05-10T07:45:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +72,10 @@
     {
       "date": "2026-05-09",
       "stars": 68
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 71
     }
   ]
 }

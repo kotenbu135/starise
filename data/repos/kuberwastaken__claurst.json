@@ -3,20 +3,29 @@
   "owner": "kuberwastaken",
   "name": "claurst",
   "full_name": "kuberwastaken/claurst",
-  "description": "Your favorite Terminal Coding Agent, now in Rust",
-  "description_ja": "あなたのお気に入りのターミナルコーディングエージェント、Rust版。",
+  "description": "Agentic Coding for Builders who Ship",
+  "description_ja": "",
   "url": "https://github.com/Kuberwastaken/claurst",
-  "homepage_url": "http://claurst.kuber.studio/",
+  "homepage_url": "https://claurst.kuber.studio/",
   "language": "Rust",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 9542,
-  "fork_count": 7819,
+  "topics": [
+    "claude",
+    "claude-code",
+    "claurst",
+    "cli",
+    "codex",
+    "gemini",
+    "rust",
+    "tui"
+  ],
+  "star_count": 9562,
+  "fork_count": 7820,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T09:23:58Z",
-  "updated_at": "2026-05-09T17:49:30Z",
-  "pushed_at": "2026-05-07T17:45:16Z",
+  "updated_at": "2026-05-10T17:53:30Z",
+  "pushed_at": "2026-05-10T17:04:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +67,10 @@
     {
       "date": "2026-05-09",
       "stars": 9542
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 9562
     }
   ]
 }

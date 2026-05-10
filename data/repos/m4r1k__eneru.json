@@ -3,26 +3,27 @@
   "owner": "m4r1k",
   "name": "eneru",
   "full_name": "m4r1k/eneru",
-  "description": "⚡ Eneru—Intelligent UPS monitoring daemon for NUT (Network UPS Tools) with configurable multi-system shutdown orchestration, Discord notifications, and enterprise-grade power event handling.",
-  "description_ja": "⚡ Eneru — NUT（Network UPS Tools）向けインテリジェント UPS 監視デーモン。設定可能なマルチシステムシャットダウンオーケストレーション・Discord 通知・エンタープライズグレードの電源イベント処理を搭載",
+  "description": "⚡ UPS monitoring and shutdown orchestration for NUT: multi-UPS policy, VM/container/remote shutdown, TUI, API, Prometheus, MQTT, Grafana, and persistent notifications.",
+  "description_ja": "",
   "url": "https://github.com/m4r1k/Eneru",
   "homepage_url": "https://eneru.readthedocs.io",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "apprise",
     "automation",
-    "devops",
     "docker",
+    "grafana",
     "homelab",
     "infrastructure",
     "kvm",
     "libvirt",
     "linux",
     "monitoring",
-    "network-ups-tools",
+    "mqtt",
     "nut",
+    "observability",
     "power-management",
+    "prometheus",
     "proxmox",
     "self-hosted",
     "ups",
@@ -34,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-21T22:05:40Z",
-  "updated_at": "2026-05-08T14:11:03Z",
-  "pushed_at": "2026-05-09T14:22:47Z",
+  "updated_at": "2026-05-10T16:56:56Z",
+  "pushed_at": "2026-05-10T16:56:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -72,6 +73,10 @@
     },
     {
       "date": "2026-05-09",
+      "stars": 69
+    },
+    {
+      "date": "2026-05-10",
       "stars": 69
     }
   ]

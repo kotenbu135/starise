@@ -3,20 +3,31 @@
   "owner": "aifrontierlab",
   "name": "agentark",
   "full_name": "aifrontierlab/agentark",
-  "description": "",
+  "description": "Official Implementation for the Paper [AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent](https://arxiv.org/abs/2602.03955)",
   "description_ja": "",
   "url": "https://github.com/AIFrontierLab/AgentArk",
-  "homepage_url": "",
+  "homepage_url": "https://aifrontierlab.github.io/AgentArk/",
   "language": "Python",
-  "license": "",
-  "topics": [],
+  "license": "Apache-2.0",
+  "topics": [
+    "agent",
+    "ai",
+    "cmu",
+    "distillation",
+    "georgia-tech",
+    "llm",
+    "llm-agent",
+    "ml",
+    "multi-agent-systems",
+    "nlp"
+  ],
   "star_count": 50,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-02T16:47:21Z",
-  "updated_at": "2026-05-09T17:34:37Z",
-  "pushed_at": "2026-05-09T17:34:32Z",
+  "updated_at": "2026-05-09T18:48:01Z",
+  "pushed_at": "2026-05-09T18:45:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +68,10 @@
     },
     {
       "date": "2026-05-09",
+      "stars": 50
+    },
+    {
+      "date": "2026-05-10",
       "stars": 50
     }
   ]
