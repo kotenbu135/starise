@@ -6,7 +6,7 @@
   "description": "NequIP is a code for building E(3)-equivariant interatomic potentials",
   "description_ja": "NequIP は E(3) 等変原子間ポテンシャルを構築するためのコードです。",
   "url": "https://github.com/mir-group/nequip",
-  "homepage_url": "https://arxiv.org/abs/2504.16068",
+  "homepage_url": "https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00423c",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -21,13 +21,13 @@
     "molecular-dynamics",
     "pytorch"
   ],
-  "star_count": 905,
-  "fork_count": 208,
+  "star_count": 908,
+  "fork_count": 209,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-03-15T23:44:39Z",
-  "updated_at": "2026-05-09T09:53:43Z",
-  "pushed_at": "2026-05-10T00:03:43Z",
+  "updated_at": "2026-05-11T20:26:27Z",
+  "pushed_at": "2026-05-11T20:02:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -73,6 +73,10 @@
     {
       "date": "2026-05-10",
       "stars": 905
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 908
     }
   ]
 }

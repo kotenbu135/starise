@@ -3,8 +3,8 @@
   "owner": "coaidev",
   "name": "coai",
   "full_name": "coaidev/coai",
-  "description": "🚀 Next Generation Multi-tenant AI One-Stop Solution. Builtin Admin \u0026 Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Cost Management, Chat Share, Cloud Sync, Credit/Subscription Billing, All File Parsing, Web Search, Built-in Model Cache.",
-  "description_ja": "🚀 次世代マルチテナントAIオールインワンソリューション。管理・課金システム内蔵。200以上のモデルと35以上のプロバイダーに対応したエンタープライズグレードの統合LLMゲートウェイ。優先度ベースのルーティングによる負荷分散、コスト管理、チャット共有、クラウド同期、クレジット/サブスクリプション課金、全ファイル解析、Web検索、モデルキャッシュ内蔵。",
+  "description": "🚀 Next Gen Multi-tenant AI One-Stop Solution. Builtin Admin \u0026 Billing System. Enterprise-Grade Unified LLM Gateway Support for 200+ Models And 35+ Providers, Load Balacing w/ Priority-base Routing, Cost Management, Chat Share, Cloud Sync, Credit/Subscription Billing, All File Parsing, Web Search, Built-in Model Cache.",
+  "description_ja": "",
   "url": "https://github.com/coaidev/coai",
   "homepage_url": "https://coai.dev",
   "language": "TypeScript",
@@ -22,12 +22,12 @@
     "proxy",
     "react"
   ],
-  "star_count": 9148,
-  "fork_count": 1211,
+  "star_count": 9155,
+  "fork_count": 1212,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-17T18:09:57Z",
-  "updated_at": "2026-05-10T13:31:38Z",
+  "updated_at": "2026-05-11T17:13:59Z",
   "pushed_at": "2026-03-12T10:00:31Z",
   "deleted_at": "",
   "star_history": [
@@ -74,6 +74,10 @@
     {
       "date": "2026-05-10",
       "stars": 9148
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 9155
     }
   ]
 }

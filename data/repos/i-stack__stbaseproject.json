@@ -3,20 +3,36 @@
   "owner": "i-stack",
   "name": "stbaseproject",
   "full_name": "i-stack/stbaseproject",
-  "description": "Collect common classes in the development process",
-  "description_ja": "開発プロセスで使用する共通クラスの収集。",
+  "description": "Modular iOS 16+ toolkit: MVVM page layer, HTTP/WebSocket networking, SSL pinning, Keychain/crypto, UIKit, Markdown, localization; optional Contacts/Location/Media. SPM \u0026 CocoaPods.",
+  "description_ja": "",
   "url": "https://github.com/i-stack/STBaseProject",
   "homepage_url": "",
   "language": "Swift",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "cocoapods",
+    "ios",
+    "ios-development",
+    "ios-library",
+    "keychain",
+    "localization",
+    "markdown",
+    "mvvm",
+    "networking",
+    "privacy-manifest",
+    "ssl-pinning",
+    "swift",
+    "swift-package-manager",
+    "uikit",
+    "websocket"
+  ],
   "star_count": 240,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-16T03:38:19Z",
-  "updated_at": "2026-05-08T09:11:05Z",
-  "pushed_at": "2026-05-09T03:58:12Z",
+  "updated_at": "2026-05-11T03:33:50Z",
+  "pushed_at": "2026-05-11T08:22:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -61,6 +77,10 @@
     },
     {
       "date": "2026-05-10",
+      "stars": 240
+    },
+    {
+      "date": "2026-05-11",
       "stars": 240
     }
   ]

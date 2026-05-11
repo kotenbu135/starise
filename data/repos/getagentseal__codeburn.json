@@ -6,7 +6,7 @@
   "description": "See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
   "description_ja": "AIコーディングのトークン消費状況を可視化。Claude Code、Codex、Cursorのコスト観測用インタラクティブTUIダッシュボード",
   "url": "https://github.com/getagentseal/codeburn",
-  "homepage_url": "",
+  "homepage_url": "https://codeburn.app/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -21,13 +21,13 @@
     "terminal-ui",
     "token-usage"
   ],
-  "star_count": 6015,
-  "fork_count": 461,
+  "star_count": 6131,
+  "fork_count": 469,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-13T22:11:53Z",
-  "updated_at": "2026-05-10T17:46:41Z",
-  "pushed_at": "2026-05-10T17:32:56Z",
+  "updated_at": "2026-05-11T19:37:30Z",
+  "pushed_at": "2026-05-11T18:21:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -73,6 +73,10 @@
     {
       "date": "2026-05-10",
       "stars": 6015
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 6131
     }
   ]
 }

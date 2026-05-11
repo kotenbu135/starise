@@ -3,31 +3,37 @@
   "owner": "ishtms",
   "name": "nodebook",
   "full_name": "ishtms/nodebook",
-  "description": "Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments.",
-  "description_ja": "Node.jsランタイムの複雑な部分を学び、マスターする。V8のTurbofanオプティマイザから本番デプロイまで。",
+  "description": "Learn and Master Node.js. V8, libuv, event loop, buffers, streams, async internals, performance, security, deployment, and production architecture.",
+  "description_ja": "",
   "url": "https://github.com/ishtms/nodebook",
   "homepage_url": "https://thenodebook.com",
   "language": "MDX",
   "license": "",
   "topics": [
-    "asynchronous-programming",
+    "async",
     "backend",
+    "book",
+    "buffers",
+    "deployment",
+    "distributed-systems",
+    "event-loop",
+    "guide",
     "javascript",
     "libuv",
-    "napi",
-    "node",
+    "node-js",
     "nodejs",
-    "optimisation",
-    "servers",
+    "performance",
+    "security",
+    "streams",
     "v8"
   ],
-  "star_count": 482,
-  "fork_count": 21,
+  "star_count": 496,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-31T14:04:58Z",
-  "updated_at": "2026-05-06T09:34:26Z",
-  "pushed_at": "2026-03-04T22:28:16Z",
+  "updated_at": "2026-05-11T18:39:28Z",
+  "pushed_at": "2026-05-11T03:32:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -69,6 +75,10 @@
     {
       "date": "2026-05-10",
       "stars": 482
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 496
     }
   ]
 }

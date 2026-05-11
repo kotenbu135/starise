@@ -3,20 +3,20 @@
   "owner": "zhiyi-r",
   "name": "moon-bridge",
   "full_name": "zhiyi-r/moon-bridge",
-  "description": "moon-bridge是一个转发层，用于将Anthropic Messages格式的Provider转换成Codex可用的OpenAI Responses API",
+  "description": "Moon Bridge 是一个用 Go 编写的协议转换与模型路由代理。对外暴露 OpenAI Responses API（/v1/responses），对内支持 Anthropic Messages、Google Gemini（GenAI）、OpenAI Chat Completions 等多种上游协议。客户端指定不同模型别名时，自动将请求路由到对应上游 Provider 并在协议间自动转换。",
   "description_ja": "",
   "url": "https://github.com/ZhiYi-R/moon-bridge",
   "homepage_url": "",
   "language": "Go",
   "license": "GPL-3.0",
   "topics": [],
-  "star_count": 98,
-  "fork_count": 11,
+  "star_count": 115,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-25T06:49:32Z",
-  "updated_at": "2026-05-10T16:32:42Z",
-  "pushed_at": "2026-05-10T16:13:41Z",
+  "updated_at": "2026-05-11T17:45:35Z",
+  "pushed_at": "2026-05-11T08:55:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +38,10 @@
     {
       "date": "2026-05-10",
       "stars": 98
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 115
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "erickochen",
   "name": "purple",
   "full_name": "erickochen/purple",
-  "description": "Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up in your host list. Destroy it, it dims. Plus fuzzy search, live tunnel monitoring, scp, Docker over SSH, Vault SSH certs and an MCP server for AI agents. Rust TUI, MIT.",
+  "description": "Open-source terminal SSH manager that keeps ~/.ssh/config in sync with your cloud infra across 16 cloud providers. Spin up a VM, it shows up. Destroy it, it dims. Plus live tunnel monitoring, fleet-wide Docker and Podman, scp, Vault SSH certs and an MCP server for AI agents. Rust TUI, MIT.",
   "description_ja": "",
   "url": "https://github.com/erickochen/purple",
   "homepage_url": "https://getpurple.sh",
@@ -31,13 +31,13 @@
     "termius-alternative",
     "tui"
   ],
-  "star_count": 259,
+  "star_count": 261,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-19T16:30:18Z",
-  "updated_at": "2026-05-10T00:35:03Z",
-  "pushed_at": "2026-05-08T17:31:44Z",
+  "updated_at": "2026-05-11T19:41:08Z",
+  "pushed_at": "2026-05-11T19:55:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     {
       "date": "2026-05-10",
       "stars": 259
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 261
     }
   ]
 }

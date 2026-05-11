@@ -3,7 +3,7 @@
   "owner": "basekick-labs",
   "name": "arc",
   "full_name": "basekick-labs/arc",
-  "description": "High-performance analytical database. DuckDB SQL engine + Parquet storage + Arrow format. 19.9M records/sec ingestion. 6M+ rows/sec queries. Use for analytics, observability, AI, IoT, logs. Single Go binary. S3/Azure native. No vendor lock-in. AGPL-3.0",
+  "description": "High-performance analytical database. DuckDB SQL engine + Parquet storage + Arrow format. 19.9M records/sec ingestion. 8.4M+ rows/sec queries. Use for analytics, observability, AI, IoT, logs. Single Go binary. S3/Azure native. No vendor lock-in. AGPL-3.0",
   "description_ja": "",
   "url": "https://github.com/Basekick-Labs/arc",
   "homepage_url": "https://basekick.net",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-07T15:27:59Z",
-  "updated_at": "2026-05-08T23:52:25Z",
-  "pushed_at": "2026-05-08T23:52:21Z",
+  "updated_at": "2026-05-10T21:32:19Z",
+  "pushed_at": "2026-05-10T21:30:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -82,6 +82,10 @@
     },
     {
       "date": "2026-05-10",
+      "stars": 589
+    },
+    {
+      "date": "2026-05-11",
       "stars": 589
     }
   ]

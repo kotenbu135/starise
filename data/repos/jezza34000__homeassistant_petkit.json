@@ -3,8 +3,8 @@
   "owner": "jezza34000",
   "name": "homeassistant_petkit",
   "full_name": "jezza34000/homeassistant_petkit",
-  "description": "🐾 The most advanced Petkit integration for Home Assistant : full device support, live stream, media, bluetooth relay \u0026 more.",
-  "description_ja": "🐾 Home Assistant 向け最高度の Petkit インテグレーション：フルデバイスサポート、ライブストリーム、メディア、Bluetooth リレーなど",
+  "description": "A full-featured Petkit experience, natively in Home Assistant",
+  "description_ja": "",
   "url": "https://github.com/Jezza34000/homeassistant_petkit",
   "homepage_url": "https://community.home-assistant.io/t/petkit-integration/834431",
   "language": "Python",
@@ -31,11 +31,11 @@
     "yumshare"
   ],
   "star_count": 225,
-  "fork_count": 22,
+  "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-09T21:34:21Z",
-  "updated_at": "2026-05-10T11:53:42Z",
+  "updated_at": "2026-05-10T19:34:26Z",
   "pushed_at": "2026-05-09T16:33:16Z",
   "deleted_at": "",
   "star_history": [
@@ -77,6 +77,10 @@
     },
     {
       "date": "2026-05-10",
+      "stars": 225
+    },
+    {
+      "date": "2026-05-11",
       "stars": 225
     }
   ]

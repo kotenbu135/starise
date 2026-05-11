@@ -3,41 +3,41 @@
   "owner": "metalbear-co",
   "name": "mirrord",
   "full_name": "metalbear-co/mirrord",
-  "description": "Connect your local process and your cloud environment, and run local code in cloud conditions.",
-  "description_ja": "ローカルプロセスとクラウド環境を接続し、クラウド環境でローカルコードを実行",
+  "description": "Run local code as if it were a pod in a remote Kubernetes cluster: real env vars, DNS, network, traffic. Used by AI coding agents and developers.",
+  "description_ja": "",
   "url": "https://github.com/metalbear-co/mirrord",
   "homepage_url": "https://metalbear.com/mirrord",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-coding",
     "api",
     "backend",
-    "backend-development",
+    "claude-code",
     "cli",
     "cloud",
     "cloud-native",
     "debug",
-    "develop",
     "developer-tools",
     "development",
     "devops",
     "devtool",
     "ide",
+    "jetbrains",
     "kubernetes",
     "rust",
-    "shift-left",
-    "sniffer",
     "traffic",
-    "vscode",
-    "vscode-extension"
+    "vscode"
   ],
-  "star_count": 5059,
+  "star_count": 5061,
   "fork_count": 193,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-01T16:42:30Z",
-  "updated_at": "2026-05-09T20:21:02Z",
-  "pushed_at": "2026-05-09T21:04:40Z",
+  "updated_at": "2026-05-11T20:06:40Z",
+  "pushed_at": "2026-05-11T14:30:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -83,6 +83,10 @@
     {
       "date": "2026-05-10",
       "stars": 5059
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 5061
     }
   ]
 }

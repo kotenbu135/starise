@@ -3,20 +3,29 @@
   "owner": "ythx-101",
   "name": "x-tweet-fetcher",
   "full_name": "ythx-101/x-tweet-fetcher",
-  "description": "🦞 Fetch tweets and replies from X/Twitter without login or API keys. OpenClaw skill.",
-  "description_ja": "🦞 ログインやAPIキーなしでX/Twitterのツイートとリプライを取得する。OpenClawスキル。",
+  "description": "Fetch X/Twitter tweets, replies, timelines, and articles without login or API keys — field tool for AI agents.",
+  "description_ja": "",
   "url": "https://github.com/ythx-101/x-tweet-fetcher",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/ythx-101/openclaw-qa",
   "language": "Python",
   "license": "",
-  "topics": [],
-  "star_count": 812,
+  "topics": [
+    "agent-tools",
+    "ai-agent",
+    "automation",
+    "no-api",
+    "osint",
+    "scraper",
+    "twitter",
+    "x-twitter"
+  ],
+  "star_count": 815,
   "fork_count": 74,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-14T12:06:54Z",
-  "updated_at": "2026-05-10T09:58:57Z",
-  "pushed_at": "2026-04-04T03:40:43Z",
+  "updated_at": "2026-05-11T15:03:19Z",
+  "pushed_at": "2026-05-11T14:52:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +71,10 @@
     {
       "date": "2026-05-10",
       "stars": 812
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 815
     }
   ]
 }

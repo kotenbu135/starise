@@ -6,7 +6,7 @@
   "description": "Bitwarden-compatible server running on Cloudflare Workers",
   "description_ja": "",
   "url": "https://github.com/shuaiplus/nodewarden",
-  "homepage_url": "https://nodewarden-demo.pages.dev",
+  "homepage_url": "https://nodewarden.app",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
@@ -28,13 +28,13 @@
     "workers",
     "zero-knowledge"
   ],
-  "star_count": 1905,
-  "fork_count": 1816,
+  "star_count": 1928,
+  "fork_count": 1849,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-01T12:22:11Z",
-  "updated_at": "2026-05-10T18:15:08Z",
-  "pushed_at": "2026-05-10T15:33:47Z",
+  "updated_at": "2026-05-11T18:50:26Z",
+  "pushed_at": "2026-05-11T16:22:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -80,6 +80,10 @@
     {
       "date": "2026-05-10",
       "stars": 1905
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 1928
     }
   ]
 }

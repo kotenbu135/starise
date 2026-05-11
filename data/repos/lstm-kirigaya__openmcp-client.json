@@ -7,7 +7,7 @@
   "description_ja": "MCPデベロッパー向けオールインワンVSCodeプラグイン",
   "url": "https://github.com/LSTM-Kirigaya/openmcp-client",
   "homepage_url": "https://kirigaya.cn/openmcp",
-  "language": "Vue",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "ai-agent",
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-22T10:37:48Z",
-  "updated_at": "2026-05-09T11:33:58Z",
-  "pushed_at": "2026-05-09T15:02:16Z",
+  "updated_at": "2026-05-11T20:36:21Z",
+  "pushed_at": "2026-05-11T20:36:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +65,10 @@
     },
     {
       "date": "2026-05-10",
+      "stars": 745
+    },
+    {
+      "date": "2026-05-11",
       "stars": 745
     }
   ]

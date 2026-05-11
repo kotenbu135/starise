@@ -3,8 +3,8 @@
   "owner": "prompt-security",
   "name": "clawsec",
   "full_name": "prompt-security/clawsec",
-  "description": "A complete security skill suite for OpenClaw's and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite.",
-  "description_ja": "OpenClawおよびNanoclawエージェント（および派生版）向けの完全なセキュリティスキルスイート。ドリフト検出、リアルタイムセキュリティ推奨、自動監査、スキルの整合性検証でSOUL.mdなどを保護。すべてひとつのインストール可能なスイートで提供。",
+  "description": "A complete security skill suite for OpenClaw, Hermes, PicoClaw and NanoClaw agents (and variants). Protect your SOUL.md (etc') with drift detection, live security recommendations, automated audits, and skill integrity verification. All from one installable suite.",
+  "description_ja": "",
   "url": "https://github.com/prompt-security/clawsec",
   "homepage_url": "https://prompt.security/clawsec",
   "language": "JavaScript",
@@ -29,13 +29,13 @@
     "picoclaw",
     "picoclaw-install"
   ],
-  "star_count": 980,
+  "star_count": 981,
   "fork_count": 102,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T19:59:46Z",
-  "updated_at": "2026-05-10T13:07:36Z",
-  "pushed_at": "2026-05-10T13:15:40Z",
+  "updated_at": "2026-05-11T18:04:05Z",
+  "pushed_at": "2026-05-11T07:43:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -81,6 +81,10 @@
     {
       "date": "2026-05-10",
       "stars": 980
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 981
     }
   ]
 }

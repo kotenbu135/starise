@@ -11,8 +11,8 @@
   "license": "Apache-2.0",
   "topics": [
     "ai",
-    "copilot",
     "database",
+    "databricks",
     "db2",
     "dbeaver",
     "erd",
@@ -21,21 +21,21 @@
     "jdbc",
     "mysql",
     "nosql",
-    "openai",
     "oracle",
     "postgresql",
     "redshift",
+    "snowflake",
     "sql",
     "sqlite",
     "sqlserver"
   ],
-  "star_count": 49966,
+  "star_count": 49986,
   "fork_count": 4173,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-10-21T08:26:28Z",
-  "updated_at": "2026-05-10T11:24:50Z",
-  "pushed_at": "2026-05-09T15:02:40Z",
+  "updated_at": "2026-05-11T18:36:50Z",
+  "pushed_at": "2026-05-11T18:36:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -89,6 +89,10 @@
     {
       "date": "2026-05-10",
       "stars": 49966
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 49986
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "nfrastack",
   "name": "container-freescout",
   "full_name": "nfrastack/container-freescout",
-  "description": "Dockerized web based help desk and shared inbox",
-  "description_ja": "Dockerで動くWebベースのヘルプデスク・共有受信トレイ",
+  "description": "Containerized web based help desk and shared inbox",
+  "description_ja": "",
   "url": "https://github.com/nfrastack/container-freescout",
   "homepage_url": "",
   "language": "Dockerfile",
@@ -14,12 +14,12 @@
     "laravel",
     "php-fpm"
   ],
-  "star_count": 316,
+  "star_count": 315,
   "fork_count": 128,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-11-04T02:02:56Z",
-  "updated_at": "2026-05-10T00:51:01Z",
+  "updated_at": "2026-05-11T09:16:43Z",
   "pushed_at": "2026-05-10T00:32:07Z",
   "deleted_at": "",
   "star_history": [
@@ -62,6 +62,10 @@
     {
       "date": "2026-05-10",
       "stars": 316
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 315
     }
   ]
 }
