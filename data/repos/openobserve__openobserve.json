@@ -3,8 +3,8 @@
   "owner": "openobserve",
   "name": "openobserve",
   "full_name": "openobserve/openobserve",
-  "description": "OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
-  "description_ja": "OpenObserveはログ・メトリクス・トレース・フロントエンド監視向けのオープンソースオブザーバビリティプラットフォーム。ストレージコストを140分の1に削減しシングルバイナリでデプロイできる、Datadog・Splunk・Elasticsearchの費用対効果の高い代替。",
+  "description": "Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
+  "description_ja": "",
   "url": "https://github.com/openobserve/openobserve",
   "homepage_url": "https://openobserve.ai",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "splunk",
     "traces"
   ],
-  "star_count": 18817,
-  "fork_count": 812,
+  "star_count": 18830,
+  "fork_count": 813,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-02T03:29:51Z",
-  "updated_at": "2026-05-11T17:59:59Z",
-  "pushed_at": "2026-05-11T18:22:23Z",
+  "updated_at": "2026-05-12T19:00:43Z",
+  "pushed_at": "2026-05-12T20:23:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -87,6 +87,10 @@
     {
       "date": "2026-05-11",
       "stars": 18817
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 18830
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "go-to-k",
   "name": "cdkd",
   "full_name": "go-to-k/cdkd",
-  "description": "A from-scratch CDK CLI with its own deployment engine, provisioning via AWS SDK instead of CloudFormation.",
+  "description": "Drop-in CDK CLI for existing CDK apps — faster deploys via AWS SDK instead of CloudFormation, with local emulation for Lambda, API Gateway, and ECS.",
   "description_ja": "",
   "url": "https://github.com/go-to-k/cdkd",
   "homepage_url": "",
@@ -23,8 +23,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-25T02:36:28Z",
-  "updated_at": "2026-05-11T20:06:25Z",
-  "pushed_at": "2026-05-11T20:19:39Z",
+  "updated_at": "2026-05-12T13:46:03Z",
+  "pushed_at": "2026-05-12T13:31:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +33,10 @@
     },
     {
       "date": "2026-05-11",
+      "stars": 49
+    },
+    {
+      "date": "2026-05-12",
       "stars": 49
     }
   ]

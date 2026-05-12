@@ -3,8 +3,8 @@
   "owner": "music-assistant",
   "name": "mobile-app",
   "full_name": "music-assistant/mobile-app",
-  "description": "The (official) Music Assistant Mobile app is a cross-platform client application designed for Android, iOS, and Java runtime environments. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this project aims to provide a unified codebase for seamless music management across multiple platforms.",
-  "description_ja": "Music Assistantの公式モバイルアプリ。Android・iOS・Javaランタイムに対応したクロスプラットフォームクライアント。Kotlin Multiplatform (KMP) とCompose Multiplatformで開発され、複数プラットフォームにわたる統合された音楽管理を提供する。",
+  "description": "The (official) Music Assistant Mobile app is a cross-platform client application designed for Android and iOS. Developed using Kotlin Multiplatform (KMP) and Compose Multiplatform frameworks, this project aims to provide a unified codebase for seamless music management across multiple platforms.",
+  "description_ja": "",
   "url": "https://github.com/music-assistant/mobile-app",
   "homepage_url": "",
   "language": "Kotlin",
@@ -31,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-18T18:35:26Z",
-  "updated_at": "2026-05-11T15:42:19Z",
-  "pushed_at": "2026-05-11T19:37:46Z",
+  "updated_at": "2026-05-12T20:39:54Z",
+  "pushed_at": "2026-05-12T20:44:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -81,6 +81,10 @@
     },
     {
       "date": "2026-05-11",
+      "stars": 309
+    },
+    {
+      "date": "2026-05-12",
       "stars": 309
     }
   ]

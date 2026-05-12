@@ -3,7 +3,7 @@
   "owner": "olalie",
   "name": "tapmap",
   "full_name": "olalie/tapmap",
-  "description": "See where your computer connects on a live world map. Spot unusual activity.",
+  "description": "Watch your computer connect across the internet in real time. Discover the world behind your apps.",
   "description_ja": "",
   "url": "https://github.com/olalie/tapmap",
   "homepage_url": "https://olalie.github.io/tapmap/",
@@ -13,20 +13,20 @@
     "dash",
     "docker",
     "geolocation",
-    "network-monitoring",
+    "interactive-map",
+    "internet-observability",
     "network-visualization",
     "plotly",
-    "plotly-dash",
     "python",
     "real-time"
   ],
-  "star_count": 779,
+  "star_count": 780,
   "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T12:11:29Z",
-  "updated_at": "2026-05-11T20:39:51Z",
-  "pushed_at": "2026-05-05T10:31:37Z",
+  "updated_at": "2026-05-12T18:55:32Z",
+  "pushed_at": "2026-05-12T09:36:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -60,6 +60,10 @@
     {
       "date": "2026-05-11",
       "stars": 779
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 780
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "openpipe",
   "name": "art",
   "full_name": "openpipe/art",
-  "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.5, GPT-OSS, Llama, and more!",
-  "description_ja": "Agent Reinforcement Trainer: GRPOを使って実世界タスク向けのマルチステップエージェントを訓練。エージェントにOJTを。Qwen3.5、GPT-OSS、Llamaなどに対応した強化学習。",
+  "description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more!",
+  "description_ja": "",
   "url": "https://github.com/OpenPipe/ART",
   "homepage_url": "https://art.openpipe.ai",
   "language": "Python",
@@ -20,13 +20,13 @@
     "reinforcement-learning",
     "rl"
   ],
-  "star_count": 9446,
+  "star_count": 9453,
   "fork_count": 826,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-10T18:25:47Z",
-  "updated_at": "2026-05-11T15:34:00Z",
-  "pushed_at": "2026-05-11T18:43:53Z",
+  "updated_at": "2026-05-12T17:10:07Z",
+  "pushed_at": "2026-05-12T02:27:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -76,6 +76,10 @@
     {
       "date": "2026-05-11",
       "stars": 9446
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 9453
     }
   ]
 }

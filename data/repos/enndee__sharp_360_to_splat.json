@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDORpt4Qw",
+  "owner": "enndee",
+  "name": "sharp_360_to_splat",
+  "full_name": "enndee/sharp_360_to_splat",
+  "description": "This tool uses Apple's SHARP to slice an equirectangular 360° photo into multiple pieces, runs SHARP over them to replicate them to Gaussians and aligns the slices of Gaussians via DA360 to create a big 360° Gaussian scene from just one 360° phto",
+  "description_ja": "",
+  "url": "https://github.com/Enndee/SHARP_360_to_Splat",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "",
+  "topics": [],
+  "star_count": 48,
+  "fork_count": 7,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-17T18:32:41Z",
+  "updated_at": "2026-05-12T18:03:50Z",
+  "pushed_at": "2026-04-05T18:35:48Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-12",
+      "stars": 48
+    }
+  ]
+}

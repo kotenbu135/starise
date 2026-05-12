@@ -3,8 +3,8 @@
   "owner": "seemseam",
   "name": "claude_codex_bridge",
   "full_name": "seemseam/claude_codex_bridge",
-  "description": "Real-time multi-AI collaboration: Claude, Codex \u0026 Gemini with persistent context, minimal token overhead",
-  "description_ja": "リアルタイムマルチAI協調: 永続コンテキストと最小トークンオーバーヘッドを持つClaude、Codex、Geminiの連携",
+  "description": "Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision",
+  "description_ja": "",
   "url": "https://github.com/SeemSeam/claude_codex_bridge",
   "homepage_url": "",
   "language": "Python",
@@ -16,19 +16,22 @@
     "cli",
     "codex",
     "cross-platform",
+    "droid",
     "gemini",
     "llm",
+    "multi-agent-cli",
     "multi-agent-systems",
+    "opencode",
     "python",
     "terminal"
   ],
-  "star_count": 2533,
-  "fork_count": 247,
+  "star_count": 2551,
+  "fork_count": 252,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-25T13:23:08Z",
-  "updated_at": "2026-05-11T20:27:52Z",
-  "pushed_at": "2026-05-11T15:04:06Z",
+  "updated_at": "2026-05-12T17:39:35Z",
+  "pushed_at": "2026-05-12T09:04:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +81,10 @@
     {
       "date": "2026-05-11",
       "stars": 2533
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 2551
     }
   ]
 }

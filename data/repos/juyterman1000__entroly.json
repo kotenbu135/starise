@@ -3,40 +3,40 @@
   "owner": "juyterman1000",
   "name": "entroly",
   "full_name": "juyterman1000/entroly",
-  "description": "Entroly-Daemon: Self-Evolving Daemon. Compress 2M-token repos into a razor-sharp Principal Engineer's context. 85–99% fewer tokens, 100% accuracy retention (verified by live API benchmarks). Built for Cursor, Claude Code, Opus, Codex, GPT \u0026 Custom Providers.",
+  "description": "Open-source context engine that catches AI hallucinations and cuts your token bill 70–95%. The only AI helper that shows its work. Claude · Cursor · Copilot · Codex,GPT \u0026 Custom Providers",
   "description_ja": "",
   "url": "https://github.com/juyterman1000/entroly",
   "homepage_url": "https://juyterman1000.github.io/entroly/docs/dashboard.html",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
-    "agents-sdk",
     "ai",
     "ai-agents",
-    "ai-tools",
+    "ai-hallucination",
     "anthropic",
     "chatgpt",
     "claude",
     "claude-code",
-    "claude-opus-4-6",
+    "context-compression",
     "cursor",
-    "developer-tools",
+    "hallucination-detection",
     "llm",
+    "llm-grounding",
     "mcp",
     "mcp-server",
     "open-source",
-    "openclaw",
     "productivity",
     "rag",
+    "rust",
     "token-optimization"
   ],
-  "star_count": 354,
+  "star_count": 356,
   "fork_count": 62,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T23:03:02Z",
-  "updated_at": "2026-05-11T05:05:38Z",
-  "pushed_at": "2026-05-11T05:05:34Z",
+  "updated_at": "2026-05-12T15:52:36Z",
+  "pushed_at": "2026-05-12T14:34:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     {
       "date": "2026-05-11",
       "stars": 354
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 356
     }
   ]
 }

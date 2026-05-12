@@ -3,8 +3,8 @@
   "owner": "bcsabaengine",
   "name": "svelteesp32",
   "full_name": "bcsabaengine/svelteesp32",
-  "description": "Embed Any Web App in Your ESP32 — One Binary, Zero Filesystem Hassle Turn your Svelte, React, Angular, or Vue frontend into a single C++ header file. Serve beautiful web interfaces directly from ESP32/ESP8266 flash memory with automatic gzip compression, ETag caching, and seamless OTA updates.",
-  "description_ja": "ESP32 に任意の Web アプリを組み込めます — バイナリ1つ、ファイルシステム不要。Svelte、React、Angular、Vue のフロントエンドを単一の C++ ヘッダファイルに変換。自動 gzip 圧縮、ETag キャッシュ、シームレスな OTA アップデートで、ESP32/ESP8266 のフラッシュメモリから直接ウェブインターフェースを提供します。",
+  "description": "Pack any Svelte, React, Angular, or Vue app into a single C++ header. Serve it straight from ESP32/ESP8266 flash — gzip compressed, ETag cached, OTA-ready.",
+  "description_ja": "",
   "url": "https://github.com/BCsabaEngine/svelteesp32",
   "homepage_url": "",
   "language": "TypeScript",
@@ -12,14 +12,20 @@
   "topics": [
     "angular",
     "arduino",
+    "embedded",
     "esp-idf",
     "esp32",
     "esp8266",
     "espasyncwebserver",
+    "iot",
+    "microcontroller",
+    "ota",
     "platformio",
     "psychichttp",
     "react",
     "svelte",
+    "typescript",
+    "vite",
     "vue",
     "webserver"
   ],
@@ -28,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-11T21:44:25Z",
-  "updated_at": "2026-05-11T17:53:00Z",
-  "pushed_at": "2026-05-11T17:53:37Z",
+  "updated_at": "2026-05-12T15:10:51Z",
+  "pushed_at": "2026-05-12T14:35:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +80,10 @@
     },
     {
       "date": "2026-05-11",
+      "stars": 230
+    },
+    {
+      "date": "2026-05-12",
       "stars": 230
     }
   ]

@@ -3,32 +3,36 @@
   "owner": "mine-proxy",
   "name": "tcminersystem",
   "full_name": "mine-proxy/tcminersystem",
-  "description": "minerproxy矿池中转，原创minerproxy，唯一正版，性能强大, 功能齐全, 9000台无压力不崩溃，BTC ETC ETH LTC等全币种无损抽水，体验拉满的minerproxy, 软防CC, 动态难度调整抽水，不爆内存。支持绝大部分币种的转发、加密、自定义抽水、精确到单台设备的24小时数据统计、自定义隧道推送工具、修改矿池本地算力",
+  "description": "【唯一正版】专业矿池中转服务，提供中转矿池、矿池代理、服务器中转、挖矿中转软件部署，支持 BTC 矿池算力中转、矿场算力抽水，基于 minerproxy、tcminersystem 加密中转盒子系统。",
   "description_ja": "",
   "url": "https://github.com/mine-Proxy/TCMinerSystem",
   "homepage_url": "https://github.com/mine-Proxy/TCMinerSystem",
   "language": "Rust",
   "license": "",
   "topics": [
+    "bitcoin-mining",
+    "btc",
+    "btc-tool",
     "btcminer",
     "btcproxy",
     "ktminer",
     "ktminerproxy",
     "miner",
     "minerproxy",
+    "pool-relay",
     "proxy",
     "rustminer",
     "rustminerproxy",
     "rustminersystem",
     "rustpool"
   ],
-  "star_count": 567,
+  "star_count": 572,
   "fork_count": 69,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-13T06:11:07Z",
-  "updated_at": "2026-05-11T20:18:14Z",
-  "pushed_at": "2026-03-26T12:05:53Z",
+  "updated_at": "2026-05-12T18:57:14Z",
+  "pushed_at": "2026-05-12T18:49:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +62,10 @@
     {
       "date": "2026-05-11",
       "stars": 567
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 572
     }
   ]
 }

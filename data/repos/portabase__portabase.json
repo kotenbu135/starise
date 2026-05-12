@@ -3,8 +3,8 @@
   "owner": "portabase",
   "name": "portabase",
   "full_name": "portabase/portabase",
-  "description": "Portabase - Database backup \u0026 restore tool for PostgreSQL, MySQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)",
-  "description_ja": "Portabase — PostgreSQL・MySQL・MariaDB・Firebird SQL・SQLite・MongoDB・Redis・Valkeyに対応したデータベースバックアップ＆リストアツール（対応エンジン順次追加予定 🚀）",
+  "description": "Portabase - Database backup \u0026 restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey (more engines coming soon 🚀)",
+  "description_ja": "",
   "url": "https://github.com/Portabase/portabase",
   "homepage_url": "https://portabase.io",
   "language": "TypeScript",
@@ -20,6 +20,7 @@
     "firebirdsql",
     "mariadb",
     "mongodb",
+    "mssql-database",
     "mysql",
     "nextjs",
     "postgresql",
@@ -27,16 +28,15 @@
     "selfhosted",
     "sqlite-database",
     "sqlite3",
-    "valkey",
-    "web-ui"
+    "valkey"
   ],
-  "star_count": 815,
+  "star_count": 826,
   "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-19T08:04:10Z",
-  "updated_at": "2026-05-11T20:27:26Z",
-  "pushed_at": "2026-05-11T20:27:24Z",
+  "updated_at": "2026-05-12T20:14:25Z",
+  "pushed_at": "2026-05-12T18:03:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     {
       "date": "2026-05-11",
       "stars": 815
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 826
     }
   ]
 }

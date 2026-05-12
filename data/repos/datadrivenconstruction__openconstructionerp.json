@@ -3,8 +3,8 @@
   "owner": "datadrivenconstruction",
   "name": "openconstructionerp",
   "full_name": "datadrivenconstruction/openconstructionerp",
-  "description": "Open-source construction estimation platform — BOQ, 4D/5D, AI, CAD/BIM takeoff. 55,000+ cost items, 21 languages, 20 standards",
-  "description_ja": "オープンソースの建設見積プラットフォーム — BOQ、4D/5D、AI、CAD/BIMテイクオフ対応。55,000以上のコストアイテム、21言語、20標準対応",
+  "description": "Open-source construction ERP — BOQ, AI cost matching, CAD/BIM takeoff. 42 regional catalogues, 21 languages, 71 modules. AGPL-3.0. v3.0 — pip install openconstructionerp",
+  "description_ja": "",
   "url": "https://github.com/datadrivenconstruction/OpenConstructionERP",
   "homepage_url": "https://openconstructionerp.com",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "revit",
     "takeoff"
   ],
-  "star_count": 209,
-  "fork_count": 72,
+  "star_count": 214,
+  "fork_count": 75,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-02T14:59:02Z",
-  "updated_at": "2026-05-11T18:43:05Z",
-  "pushed_at": "2026-05-11T18:44:16Z",
+  "updated_at": "2026-05-12T17:29:45Z",
+  "pushed_at": "2026-05-12T15:25:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -83,6 +83,10 @@
     {
       "date": "2026-05-11",
       "stars": 209
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 214
     }
   ]
 }

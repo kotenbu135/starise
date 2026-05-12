@@ -3,8 +3,8 @@
   "owner": "zk-org",
   "name": "zk",
   "full_name": "zk-org/zk",
-  "description": "Plain text note-taking assistant",
-  "description_ja": "プレーンテキストのメモ取りアシスタント",
+  "description": "A plain text note-taking assistant for Zettelkasten or otherwise",
+  "description_ja": "",
   "url": "https://github.com/zk-org/zk",
   "homepage_url": "https://zk-org.github.io/zk/",
   "language": "Go",
@@ -16,12 +16,12 @@
     "wiki",
     "zettelkasten"
   ],
-  "star_count": 2567,
+  "star_count": 2570,
   "fork_count": 180,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-12-23T15:07:51Z",
-  "updated_at": "2026-05-11T19:20:29Z",
+  "updated_at": "2026-05-12T11:58:32Z",
   "pushed_at": "2026-05-06T20:05:33Z",
   "deleted_at": "",
   "star_history": [
@@ -68,6 +68,10 @@
     {
       "date": "2026-05-11",
       "stars": 2567
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 2570
     }
   ]
 }

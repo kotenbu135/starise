@@ -1,0 +1,38 @@
+{
+  "repo_id": "R_kgDOI3KRig",
+  "owner": "fralapo",
+  "name": "disable-bd-prochot-on-linux",
+  "full_name": "fralapo/disable-bd-prochot-on-linux",
+  "description": "If your Intel laptop is stuck near 800 MHz because BD PROCHOT is misfiring, this installs a fix that re-clears the MSR bit at boot and after every resume. Works on regular distros and on immutable ones (Bazzite, Silverblue, Kinoite).",
+  "description_ja": "",
+  "url": "https://github.com/fralapo/Disable-BD-PROCHOT-on-LINUX",
+  "homepage_url": "",
+  "language": "Shell",
+  "license": "MIT",
+  "topics": [
+    "bd-prochot",
+    "cpu",
+    "intel",
+    "laptop",
+    "linux",
+    "msr",
+    "power-management",
+    "script",
+    "systemd",
+    "throttling"
+  ],
+  "star_count": 49,
+  "fork_count": 7,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2023-01-29T12:09:49Z",
+  "updated_at": "2026-05-12T11:16:36Z",
+  "pushed_at": "2026-05-12T10:12:24Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-12",
+      "stars": 49
+    }
+  ]
+}

@@ -7,7 +7,7 @@
   "description_ja": "Empirical CoreはQuill.orgコードベースのモノレポです。Quill Connectなどのクイル学習ツールと、教師が課題を提供し結果を確認できるプラットフォームであるQuill学習管理システムの両方を含みます。（EmpiricalはQuill.orgを構築している非営利団体の名称です）",
   "url": "https://github.com/empirical-org/Empirical-Core",
   "homepage_url": "http://www.quill.org/",
-  "language": "Ruby",
+  "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
     "edtech",
@@ -23,8 +23,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-04-25T18:46:12Z",
-  "updated_at": "2026-05-07T21:22:54Z",
-  "pushed_at": "2026-05-11T20:16:03Z",
+  "updated_at": "2026-05-12T18:50:12Z",
+  "pushed_at": "2026-05-12T20:01:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -69,6 +69,10 @@
     },
     {
       "date": "2026-05-11",
+      "stars": 34
+    },
+    {
+      "date": "2026-05-12",
       "stars": 34
     }
   ]

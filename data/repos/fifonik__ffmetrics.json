@@ -3,19 +3,19 @@
   "owner": "fifonik",
   "name": "ffmetrics",
   "full_name": "fifonik/ffmetrics",
-  "description": "Visualizes Video Quality Metrics (PSNR, SSIM \u0026 VMAF) calculated by ffmpeg.exe",
-  "description_ja": "ffmpeg.exeで計算した映像品質指標（PSNR、SSIM、VMAF）を可視化するツール",
+  "description": "Visualizes Video Quality Metrics (PSNR, SSIM, XPSNR \u0026 VMAF) calculated by ffmpeg.exe",
+  "description_ja": "",
   "url": "https://github.com/fifonik/FFMetrics",
   "homepage_url": "",
   "language": "",
   "license": "",
   "topics": [],
-  "star_count": 976,
+  "star_count": 977,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-07-17T09:50:16Z",
-  "updated_at": "2026-05-11T00:22:12Z",
+  "updated_at": "2026-05-12T10:07:01Z",
   "pushed_at": "2026-05-11T00:22:08Z",
   "deleted_at": "",
   "star_history": [
@@ -66,6 +66,10 @@
     {
       "date": "2026-05-11",
       "stars": 976
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 977
     }
   ]
 }

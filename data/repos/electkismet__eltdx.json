@@ -3,7 +3,7 @@
   "owner": "electkismet",
   "name": "eltdx",
   "full_name": "electkismet/eltdx",
-  "description": "通达信A股行情协议 Python 库，支持快照、分时、逐笔、K 线、集合竞价等接口、量化数据接口",
+  "description": "通达信A股行情协议 Python 库，MCP，支持快照、分时、逐笔、K 线、集合竞价等接口、量化数据接口，支持MCP给Agent用",
   "description_ja": "",
   "url": "https://github.com/electkismet/eltdx",
   "homepage_url": "https://pypi.org/project/eltdx/",
@@ -18,13 +18,13 @@
     "tdx",
     "tongdaxin"
   ],
-  "star_count": 57,
+  "star_count": 59,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T20:06:05Z",
-  "updated_at": "2026-05-10T07:13:00Z",
-  "pushed_at": "2026-04-13T11:19:53Z",
+  "updated_at": "2026-05-12T15:23:09Z",
+  "pushed_at": "2026-05-12T13:35:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +54,10 @@
     {
       "date": "2026-05-11",
       "stars": 57
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 59
     }
   ]
 }

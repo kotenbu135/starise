@@ -3,8 +3,8 @@
   "owner": "eooce",
   "name": "sing-box",
   "full_name": "eooce/sing-box",
-  "description": "既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，默认解锁GPT和奈飞",
-  "description_ja": "Serv00・CT8・Hostuno・VPS・ゲームコンソール向け、sing-box（reality + hy2 + vmess-argo + tuic5）4in1の非対話型ワンクリックインストールスクリプト（Alpine対応）。純IPv6 VPS対応、デフォルトでGPTとNetflixのアンロック付き。",
+  "description": "既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，丰富的分流服务",
+  "description_ja": "",
   "url": "https://github.com/eooce/Sing-box",
   "homepage_url": "https://serv00.eooce.com",
   "language": "Shell",
@@ -20,13 +20,13 @@
     "tunnel",
     "vmess-ws-tls"
   ],
-  "star_count": 4578,
-  "fork_count": 1644,
+  "star_count": 4587,
+  "fork_count": 1647,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-30T12:41:00Z",
-  "updated_at": "2026-05-11T14:29:17Z",
-  "pushed_at": "2026-05-09T06:54:19Z",
+  "updated_at": "2026-05-12T13:29:21Z",
+  "pushed_at": "2026-05-12T06:42:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -72,6 +72,10 @@
     {
       "date": "2026-05-11",
       "stars": 4578
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 4587
     }
   ]
 }

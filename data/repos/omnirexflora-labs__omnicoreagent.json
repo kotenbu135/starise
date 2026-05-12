@@ -3,27 +3,29 @@
   "owner": "omnirexflora-labs",
   "name": "omnicoreagent",
   "full_name": "omnirexflora-labs/omnicoreagent",
-  "description": "OmniCoreAgent is a powerful Python framework for building autonomous AI agents that think, reason, and execute complex tasks. Production-ready agents that use tools, manage memory, coordinate workflows, and handle real-world business logic.",
-  "description_ja": "OmniCoreAgent は、思考・推論・複雑なタスク実行を行う自律型 AI エージェントを構築するための強力な Python フレームワーク。ツール利用、メモリ管理、ワークフロー調整、実際のビジネスロジック処理に対応したプロダクション品質のエージェントを提供",
+  "description": "Open Python agent harness for production AI agents: parallel tool execution, structured observations, loop detection, memory, workspace files, MCP tools, subagents, background tasks, and OmniServe APIs.",
+  "description_ja": "",
   "url": "https://github.com/omnirexflora-labs/omnicoreagent",
-  "homepage_url": "",
+  "homepage_url": "https://docs-omnicoreagent.omnirexfloralabs.com/",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "agent",
     "fastapi",
+    "harness",
+    "harness-engineering",
     "mcp",
-    "mcp-client",
     "multi-agent-systems",
-    "orchestration"
+    "orchestration",
+    "runtime"
   ],
   "star_count": 236,
   "fork_count": 57,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-19T11:20:50Z",
-  "updated_at": "2026-05-11T19:40:19Z",
-  "pushed_at": "2026-05-11T17:16:07Z",
+  "updated_at": "2026-05-12T17:53:23Z",
+  "pushed_at": "2026-05-12T19:13:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +70,10 @@
     },
     {
       "date": "2026-05-11",
+      "stars": 236
+    },
+    {
+      "date": "2026-05-12",
       "stars": 236
     }
   ]

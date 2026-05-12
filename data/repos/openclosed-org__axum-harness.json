@@ -3,7 +3,7 @@
   "owner": "openclosed-org",
   "name": "axum-harness",
   "full_name": "openclosed-org/axum-harness",
-  "description": "A production-minded Rust backend reference architecture: DDD, CAS, outbox, replayable projections, GitOps, and agent-first development.",
+  "description": "Agent-first Rust/Axum backend harness for SDD-driven Clean/Hexagonal/DDD services, ECS-style runtime composition, counter-service reference chain, progressive local→VPS→k3s topology, and entropy-resistant agent context/naming grammar.",
   "description_ja": "",
   "url": "https://github.com/openclosed-org/axum-harness",
   "homepage_url": "",
@@ -11,22 +11,29 @@
   "license": "Apache-2.0",
   "topics": [
     "ai-agents",
-    "axum",
+    "axum-framework",
+    "clean-architecture",
     "distributed-systems",
+    "ecs",
+    "harness-engineering",
+    "hexagonal-architecture",
+    "justfile",
+    "k3s",
     "microservices",
+    "morden-dev",
     "platform-engineering",
+    "podman",
+    "progressive",
     "rust",
-    "svelte",
-    "svetekit",
-    "tauri"
+    "sdd"
   ],
   "star_count": 42,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T05:37:37Z",
-  "updated_at": "2026-05-11T17:13:36Z",
-  "pushed_at": "2026-05-10T15:15:16Z",
+  "updated_at": "2026-05-12T02:45:59Z",
+  "pushed_at": "2026-05-12T01:11:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -63,6 +70,10 @@
     },
     {
       "date": "2026-05-11",
+      "stars": 42
+    },
+    {
+      "date": "2026-05-12",
       "stars": 42
     }
   ]

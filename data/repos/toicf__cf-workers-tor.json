@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOSQLZiw",
+  "owner": "toicf",
+  "name": "cf-workers-tor",
+  "full_name": "toicf/cf-workers-tor",
+  "description": "CF-Workers-TOR 是一个实验性项目，在 Cloudflare Workers 中内嵌轻量 TLS 客户端，直连 Tor relay，在 TLS 层之上实现 Tor circuit 构建、relay cell 加解密及 BEGIN/DATA 流转发，使 VLESS over WebSocket 流量可经 Tor exit 访问 clearnet 目标。",
+  "description_ja": "",
+  "url": "https://github.com/ToiCF/CF-Workers-TOR",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "GPL-3.0",
+  "topics": [],
+  "star_count": 46,
+  "fork_count": 19,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-29T19:11:01Z",
+  "updated_at": "2026-05-09T23:32:33Z",
+  "pushed_at": "2026-04-29T23:15:39Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-12",
+      "stars": 46
+    }
+  ]
+}

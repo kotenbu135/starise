@@ -3,8 +3,8 @@
   "owner": "judgmentlabs",
   "name": "judgeval",
   "full_name": "judgmentlabs/judgeval",
-  "description": "The open source post-building layer for agents. Our environment data and evals power agent post-training (RL, SFT) and monitoring.",
-  "description_ja": "エージェント向けオープンソースのポストビルディングレイヤー。環境データと評価がエージェントのポストトレーニング（RL、SFT）とモニタリングを支える",
+  "description": "The Continuous-Improvement Stack for Agents. Our environment data and evals power agent improvement and monitoring.",
+  "description_ja": "",
   "url": "https://github.com/JudgmentLabs/judgeval",
   "homepage_url": "https://judgmentlabs.ai/",
   "language": "Python",
@@ -26,13 +26,13 @@
     "reinforcement-learning",
     "rl"
   ],
-  "star_count": 1031,
-  "fork_count": 92,
+  "star_count": 1034,
+  "fork_count": 93,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-25T04:49:15Z",
-  "updated_at": "2026-05-11T20:09:05Z",
-  "pushed_at": "2026-05-11T20:09:23Z",
+  "updated_at": "2026-05-12T19:22:45Z",
+  "pushed_at": "2026-05-12T08:55:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -82,6 +82,10 @@
     {
       "date": "2026-05-11",
       "stars": 1031
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 1034
     }
   ]
 }
