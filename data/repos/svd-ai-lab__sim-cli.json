@@ -6,7 +6,7 @@
   "description": "CLI-first runtime for Codex, Claude Code, and AI agents to operate CAE solvers via plugins: COMSOL, Abaqus, Ansys, OpenFOAM.",
   "description_ja": "",
   "url": "https://github.com/svd-ai-lab/sim-cli",
-  "homepage_url": "https://sim.svdailab.com",
+  "homepage_url": "https://svdailab.com/sim/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -31,13 +31,13 @@
     "simulation",
     "simulation-automation"
   ],
-  "star_count": 63,
-  "fork_count": 6,
+  "star_count": 75,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-07T12:31:05Z",
-  "updated_at": "2026-05-12T14:38:37Z",
-  "pushed_at": "2026-05-12T14:00:55Z",
+  "updated_at": "2026-05-14T15:35:21Z",
+  "pushed_at": "2026-05-14T15:29:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     {
       "date": "2026-05-12",
       "stars": 63
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 75
     }
   ]
 }

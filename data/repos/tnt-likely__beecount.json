@@ -3,10 +3,10 @@
   "owner": "tnt-likely",
   "name": "beecount",
   "full_name": "tnt-likely/beecount",
-  "description": "🐝 开源记账App，支持iCloud/自建服务器同步(Supabase/WebDAV/S3)，AI智能记账 | Open-source finance tracker with iCloud \u0026 self-hosted sync (Supabase/WebDAV/S3), AI-powered bookkeeping, cross-platform, privacy-first",
-  "description_ja": "オープンソースの家計簿アプリ。iCloud / 自前サーバー同期（Supabase / WebDAV / S3）、AI によるスマート記帳に対応 | iCloud およびセルフホスト同期（Supabase / WebDAV / S3）、AI 記帳、クロスプラットフォーム、プライバシー重視のオープンソース財務管理アプリ",
+  "description": "🐝 跨端开源记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP | Open-source bookkeeping across iOS/Android/Web ·         Self-hosted + iCloud/WebDAV/S3 sync · AI capture · MCP-enabled ",
+  "description_ja": "",
   "url": "https://github.com/TNT-Likely/BeeCount",
-  "homepage_url": "",
+  "homepage_url": "https://count.beejz.com",
   "language": "Dart",
   "license": "NOASSERTION",
   "topics": [
@@ -25,13 +25,13 @@
     "supabase",
     "webdav"
   ],
-  "star_count": 1548,
-  "fork_count": 216,
+  "star_count": 1556,
+  "fork_count": 220,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-06T02:15:06Z",
-  "updated_at": "2026-05-12T08:50:33Z",
-  "pushed_at": "2026-05-12T14:52:10Z",
+  "updated_at": "2026-05-14T14:41:57Z",
+  "pushed_at": "2026-05-14T05:27:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -85,6 +85,10 @@
     {
       "date": "2026-05-12",
       "stars": 1548
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 1556
     }
   ]
 }

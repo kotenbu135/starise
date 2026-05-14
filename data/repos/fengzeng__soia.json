@@ -3,7 +3,7 @@
   "owner": "fengzeng",
   "name": "soia",
   "full_name": "fengzeng/soia",
-  "description": "A minimalist high-performance media player for streaming, with HDR/Dolby Vision and dual-subtitle support",
+  "description": "High-performance cross-platform media player, with HDR/Dolby Vision, WebDAV/DLNA/SMB streaming, dual subtitles, and modern native UI.",
   "description_ja": "",
   "url": "https://github.com/FengZeng/soia",
   "homepage_url": "",
@@ -16,17 +16,19 @@
     "hdr",
     "mpv",
     "picture-in-picture",
+    "samba",
+    "smb",
     "tauri",
     "tauri-app",
     "video-player",
     "webdav"
   ],
-  "star_count": 101,
+  "star_count": 102,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T13:11:47Z",
-  "updated_at": "2026-05-11T23:44:17Z",
+  "updated_at": "2026-05-14T13:30:15Z",
   "pushed_at": "2026-05-11T23:44:16Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +43,10 @@
     {
       "date": "2026-05-12",
       "stars": 101
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 102
     }
   ]
 }

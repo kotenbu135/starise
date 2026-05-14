@@ -3,8 +3,8 @@
   "owner": "chopratejas",
   "name": "headroom",
   "full_name": "chopratejas/headroom",
-  "description": "The Context Optimization Layer for LLM Applications",
-  "description_ja": "LLMアプリケーション向けコンテキスト最適化レイヤー",
+  "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+  "description_ja": "",
   "url": "https://github.com/chopratejas/headroom",
   "homepage_url": "https://headroom-docs.vercel.app/docs",
   "language": "Python",
@@ -13,26 +13,31 @@
     "agent",
     "ai",
     "anthropic",
+    "claude-code",
     "compression",
     "context-engineering",
     "context-window",
+    "cursor",
     "fastapi",
     "langchain",
     "llm",
     "mcp",
     "openai",
+    "prompt-engineering",
     "proxy",
     "python",
     "rag",
-    "token-optimization"
+    "token-optimization",
+    "tokens",
+    "typescript"
   ],
-  "star_count": 1732,
-  "fork_count": 156,
+  "star_count": 1747,
+  "fork_count": 159,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-07T19:58:51Z",
-  "updated_at": "2026-05-12T17:33:51Z",
-  "pushed_at": "2026-05-12T06:00:13Z",
+  "updated_at": "2026-05-14T19:02:26Z",
+  "pushed_at": "2026-05-14T18:19:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +91,10 @@
     {
       "date": "2026-05-12",
       "stars": 1732
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 1747
     }
   ]
 }

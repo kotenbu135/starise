@@ -3,8 +3,8 @@
   "owner": "toxicbishop",
   "name": "dsa-with-tsx",
   "full_name": "toxicbishop/dsa-with-tsx",
-  "description": "DSA Study Hub is an interactive educational web application designed to streamline the learning process for Data Structures and Algorithms (DSA). Built with a modern tech stack featuring React, TypeScript, and Tailwind CSS.",
-  "description_ja": "DSA Study Hubは、データ構造とアルゴリズム（DSA）の学習プロセスを効率化するために設計されたインタラクティブな教育用Webアプリケーションです。React、TypeScript、Tailwind CSSを使ったモダンな技術スタックで構築されています。",
+  "description": "DSA Study Hub is an interactive educational web application designed to streamline the learning process for Data Structures and Algorithms (DSA). Built with a modern tech stack featuring Next.js, TypeScript, and Tailwind CSS.",
+  "description_ja": "",
   "url": "https://github.com/toxicbishop/DSA-with-tsx",
   "homepage_url": "https://dsa-study-hub.vercel.app",
   "language": "TypeScript",
@@ -17,13 +17,13 @@
     "tailwindcss",
     "typescript"
   ],
-  "star_count": 113,
+  "star_count": 111,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-25T04:45:45Z",
-  "updated_at": "2026-05-12T10:21:56Z",
-  "pushed_at": "2026-05-09T17:53:23Z",
+  "updated_at": "2026-05-14T14:49:17Z",
+  "pushed_at": "2026-05-13T12:39:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -73,6 +73,10 @@
     {
       "date": "2026-05-12",
       "stars": 113
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 111
     }
   ]
 }

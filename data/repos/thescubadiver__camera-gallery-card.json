@@ -7,18 +7,18 @@
   "description_ja": "Camera Gallery Card は Home Assistant 向けの高速でインタラクティブなメディアギャラリーカードです。すっきりしたタイムラインビューでドアベルのスナップショットや録画を閲覧し、日付でフィルタリング、イベントをスクラブ、メディアを即時プレビュー、内蔵のダウンロード・削除コントロールでファイル管理 — すべてカードから直接操作できます。",
   "url": "https://github.com/TheScubaDiver/camera-gallery-card",
   "homepage_url": "",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "home-assistant-lovelace-hacs-plugin"
   ],
-  "star_count": 59,
+  "star_count": 61,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T17:21:29Z",
-  "updated_at": "2026-05-12T20:14:26Z",
-  "pushed_at": "2026-05-12T20:14:44Z",
+  "updated_at": "2026-05-13T18:28:21Z",
+  "pushed_at": "2026-05-13T14:33:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -72,6 +72,10 @@
     {
       "date": "2026-05-12",
       "stars": 59
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 61
     }
   ]
 }

@@ -3,19 +3,40 @@
   "owner": "angelobarzolavillamar",
   "name": "open-api-facturacion-sri",
   "full_name": "angelobarzolavillamar/open-api-facturacion-sri",
-  "description": "API RESTful Open Source en NestJS para la emisión, firma (XAdES-BES) y autorización de comprobantes electrónicos con el SRI Ecuador. Incluye Swagger, modo asíncrono y arquitectura Multitenant.",
+  "description": "API REST open source NestJS para facturacion electronica Ecuador SRI. Facturas, NC, ND, Retenciones, Guias de Remision. Firma XAdES-BES, Multi-tenant, BullMQ, Docker.",
   "description_ja": "",
   "url": "https://github.com/AngeloBarzolaVillamar/open-api-facturacion-sri",
-  "homepage_url": "",
+  "homepage_url": "https://deepwiki.com/AngeloBarzolaVillamar/open-api-facturacion-sri",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 62,
-  "fork_count": 31,
+  "topics": [
+    "bullmq",
+    "comprobantes-electronicos",
+    "docker",
+    "ecuador",
+    "einvoicing",
+    "electronic-invoice",
+    "facturacion",
+    "facturacion-electronica",
+    "multitenant",
+    "nestjs",
+    "open-source",
+    "postgresql",
+    "redis",
+    "rest-api",
+    "sri",
+    "sri-ecuador",
+    "swagger",
+    "typescript",
+    "xades-bes",
+    "xml-digital-signature"
+  ],
+  "star_count": 71,
+  "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-03T23:12:04Z",
-  "updated_at": "2026-05-12T19:41:59Z",
+  "updated_at": "2026-05-14T16:28:26Z",
   "pushed_at": "2026-05-05T14:14:52Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +55,10 @@
     {
       "date": "2026-05-12",
       "stars": 62
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 71
     }
   ]
 }

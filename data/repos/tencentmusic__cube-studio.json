@@ -7,7 +7,7 @@
   "description_ja": "cube studio オープンソースクラウドネイティブ統合型機械学習/深層学習/大規模モデル AI プラットフォーム。MLOps アルゴリズムパイプライン全体フロー、算力レンタル、Notebook オンライン開発、ドラッグ\u0026ドロップ Pipeline オーケストレーション、マルチノード・マルチ GPU 分散学習、ハイパーパラメータ探索、推論サービス VGPU 仮想化、エッジコンピューティング、自動アノテーション、DeepSeek 等の大規模モデル SFT ファインチューニング/報酬モデル/強化学習、vllm/ollama/MindIE によるマルチノード推論、プライベート知識ベース、AI モデルマーケットに対応。国産 CPU/GPU/NPU 昇腾エコシステム・RDMA・PyTorch/TF/MXNet/DeepSpeed/PaddlePaddle/ColossalAI/Horovod/Ray/Volcano 等の分散フレームワークをサポート。",
   "url": "https://github.com/tencentmusic/cube-studio",
   "homepage_url": "",
-  "language": "Python",
+  "language": "Jupyter Notebook",
   "license": "NOASSERTION",
   "topics": [
     "ai",
@@ -28,13 +28,13 @@
     "vgpu",
     "workflow"
   ],
-  "star_count": 5003,
+  "star_count": 5007,
   "fork_count": 878,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-17T08:54:14Z",
-  "updated_at": "2026-05-12T10:15:00Z",
-  "pushed_at": "2026-05-09T06:16:15Z",
+  "updated_at": "2026-05-14T11:23:42Z",
+  "pushed_at": "2026-05-13T14:42:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -88,6 +88,10 @@
     {
       "date": "2026-05-12",
       "stars": 5003
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 5007
     }
   ]
 }

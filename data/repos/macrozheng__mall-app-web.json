@@ -3,8 +3,8 @@
   "owner": "macrozheng",
   "name": "mall-app-web",
   "full_name": "macrozheng/mall-app-web",
-  "description": "mall-app-web是一个电商系统的移动端项目，基于uni-app实现。主要包括首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等功能。",
-  "description_ja": "mall-app-webは、uni-appをベースに実装したECシステムのモバイル端末プロジェクトです。ホームポータル・商品レコメンド・商品検索・商品表示・カート・注文フロー・会員センター・カスタマーサービス・ヘルプセンターなどの機能を含みます。",
+  "description": "mall-app-web是一个电商系统的移动端项目，基于uni-app+Vue3实现。主要包括首页门户、商品搜索、商品展示、品牌专区、购物车、订单流程、支付、会员中心等功能。",
+  "description_ja": "",
   "url": "https://github.com/macrozheng/mall-app-web",
   "homepage_url": "https://www.macrozheng.com/app/",
   "language": "Vue",
@@ -15,13 +15,13 @@
     "vuejs",
     "vuex"
   ],
-  "star_count": 1016,
-  "fork_count": 789,
+  "star_count": 1019,
+  "fork_count": 791,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-15T07:15:19Z",
-  "updated_at": "2026-05-10T14:37:38Z",
-  "pushed_at": "2026-05-12T08:02:20Z",
+  "updated_at": "2026-05-14T10:50:36Z",
+  "pushed_at": "2026-05-13T02:53:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +71,10 @@
     {
       "date": "2026-05-12",
       "stars": 1016
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 1019
     }
   ]
 }

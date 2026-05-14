@@ -3,8 +3,8 @@
   "owner": "brikev",
   "name": "twd",
   "full_name": "brikev/twd",
-  "description": "TWD is designed for runtime-first SPAs and SSR setups where routing and data are explicit and testable.",
-  "description_ja": "TWD は、ルーティングとデータが明示的かつテスト可能なランタイムファースト SPA および SSR 構成向けに設計されている",
+  "description": "Frontend tests that run in your real browser. For React, Vue, Angular, and Solid.",
+  "description_ja": "",
   "url": "https://github.com/BRIKEV/twd",
   "homepage_url": "https://twd.dev/",
   "language": "TypeScript",
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-04T07:51:50Z",
-  "updated_at": "2026-05-12T11:47:57Z",
-  "pushed_at": "2026-05-11T10:15:39Z",
+  "updated_at": "2026-05-14T10:23:12Z",
+  "pushed_at": "2026-05-13T19:45:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -69,6 +69,10 @@
     },
     {
       "date": "2026-05-12",
+      "stars": 42
+    },
+    {
+      "date": "2026-05-14",
       "stars": 42
     }
   ]

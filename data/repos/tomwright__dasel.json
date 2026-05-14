@@ -3,8 +3,8 @@
   "owner": "tomwright",
   "name": "dasel",
   "full_name": "tomwright/dasel",
-  "description": "Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.",
-  "description_ja": "JSON・TOML・YAML・XML・INI・HCL・CSVファイルのデータをひとつのツールで取得・更新・削除できます。goモジュールとしても利用可能。",
+  "description": "Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL, KDL and CSV files with a single tool. Also available as a go mod.",
+  "description_ja": "",
   "url": "https://github.com/TomWright/dasel",
   "homepage_url": "https://daseldocs.tomwright.me",
   "language": "Go",
@@ -31,13 +31,13 @@
     "yaml",
     "yaml-processor"
   ],
-  "star_count": 7932,
+  "star_count": 7940,
   "fork_count": 167,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-09-22T10:33:56Z",
-  "updated_at": "2026-05-12T17:58:49Z",
-  "pushed_at": "2026-05-04T08:25:14Z",
+  "updated_at": "2026-05-14T20:38:05Z",
+  "pushed_at": "2026-05-14T15:02:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +91,10 @@
     {
       "date": "2026-05-12",
       "stars": 7932
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 7940
     }
   ]
 }

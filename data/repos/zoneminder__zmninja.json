@@ -3,10 +3,10 @@
   "owner": "zoneminder",
   "name": "zmninja",
   "full_name": "zoneminder/zmninja",
-  "description": "High performance, cross platform ionic app for Home/Commerical Security Surveillance using ZoneMinder",
-  "description_ja": "ZoneMinder を使った家庭・商業用セキュリティ監視向けの高性能クロスプラットフォーム ionic アプリ",
+  "description": "zmNinja is no longer being maintained. Please use zmNinjaNg",
+  "description_ja": "",
   "url": "https://github.com/ZoneMinder/zmNinja",
-  "homepage_url": "http://zmninja.zoneminder.com",
+  "homepage_url": "https://pliablepixels.github.io/zmNinjaNg/",
   "language": "JavaScript",
   "license": "NOASSERTION",
   "topics": [
@@ -26,13 +26,13 @@
     "zmninja",
     "zoneminder"
   ],
-  "star_count": 1088,
+  "star_count": 1086,
   "fork_count": 273,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2015-04-25T13:14:53Z",
-  "updated_at": "2026-05-07T02:36:24Z",
-  "pushed_at": "2026-05-07T02:36:27Z",
+  "updated_at": "2026-05-14T03:24:12Z",
+  "pushed_at": "2026-05-13T13:05:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     {
       "date": "2026-05-12",
       "stars": 1088
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 1086
     }
   ]
 }

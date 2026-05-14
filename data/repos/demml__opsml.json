@@ -3,13 +3,14 @@
   "owner": "demml",
   "name": "opsml",
   "full_name": "demml/opsml",
-  "description": "Quality Control for AI Artifact Management",
-  "description_ja": "AI アーティファクト管理の品質管理",
+  "description": "AI lifecycle platform for classical ML and agentic systems. Versioned, encrypted registries for data, models, experiments, prompts, agents, MCPs, and skills.   Pre/deploy/post-deployment patterns. Real-time monitoring and evaluation via Scouter. Rust core, governed by design",
+  "description_ja": "",
   "url": "https://github.com/demml/opsml",
   "homepage_url": "https://docs.demml.io/opsml",
   "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
+    "agentic",
     "ai",
     "artificial-intelligence",
     "data-engineering",
@@ -29,13 +30,13 @@
     "python3",
     "rust"
   ],
-  "star_count": 36,
+  "star_count": 37,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-10T13:37:37Z",
-  "updated_at": "2026-05-10T15:50:03Z",
-  "pushed_at": "2026-05-11T23:31:33Z",
+  "updated_at": "2026-05-14T19:07:53Z",
+  "pushed_at": "2026-05-14T19:07:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -89,6 +90,10 @@
     {
       "date": "2026-05-12",
       "stars": 36
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 37
     }
   ]
 }

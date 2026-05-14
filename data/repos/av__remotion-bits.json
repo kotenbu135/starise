@@ -3,24 +3,29 @@
   "owner": "av",
   "name": "remotion-bits",
   "full_name": "av/remotion-bits",
-  "description": "Building blocks for your videos.",
-  "description_ja": "動画制作のためのビルディングブロック。",
+  "description": "Ready-made animated components for Remotion — charts, transitions, text reveals, and more",
+  "description_ja": "",
   "url": "https://github.com/av/remotion-bits",
   "homepage_url": "https://remotion-bits.dev",
   "language": "TypeScript",
   "license": "",
   "topics": [
+    "animation",
+    "components",
+    "motion-graphics",
     "react",
     "remotion",
     "remotion-video",
-    "video"
+    "typescript",
+    "video",
+    "video-editing"
   ],
-  "star_count": 330,
+  "star_count": 334,
   "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-23T21:58:35Z",
-  "updated_at": "2026-05-12T18:18:54Z",
+  "updated_at": "2026-05-14T17:20:53Z",
   "pushed_at": "2026-03-11T21:53:27Z",
   "deleted_at": "",
   "star_history": [
@@ -75,6 +80,10 @@
     {
       "date": "2026-05-12",
       "stars": 330
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 334
     }
   ]
 }

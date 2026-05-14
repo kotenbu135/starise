@@ -3,7 +3,7 @@
   "owner": "stormzhang",
   "name": "token-tracker",
   "full_name": "stormzhang/token-tracker",
-  "description": "Track token usage across local AI agents (Claude Code, Codex) — CLI dashboard with cost analysis, rate limit monitoring, and session tracking",
+  "description": "Track token usage across local AI agents (Claude Code, Codex) — Custom StatusLine, CLI Dashboard with cost analysis, rate limit monitoring, and session tracking",
   "description_ja": "",
   "url": "https://github.com/stormzhang/token-tracker",
   "homepage_url": "",
@@ -18,13 +18,13 @@
     "rich",
     "token-tracker"
   ],
-  "star_count": 80,
-  "fork_count": 9,
+  "star_count": 201,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-08T10:03:52Z",
-  "updated_at": "2026-05-12T20:08:59Z",
-  "pushed_at": "2026-05-12T20:08:55Z",
+  "updated_at": "2026-05-14T18:28:16Z",
+  "pushed_at": "2026-05-14T08:11:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +34,10 @@
     {
       "date": "2026-05-12",
       "stars": 80
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 201
     }
   ]
 }

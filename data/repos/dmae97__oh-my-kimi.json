@@ -3,10 +3,10 @@
   "owner": "dmae97",
   "name": "oh-my-kimi",
   "full_name": "dmae97/oh-my-kimi",
-  "description": "Production-ready multi-agent orchestration harness for Kimi Code CLI (K2.6): worktree team runtime, DAG/ensemble planning, MCP skill-hooks, quality gates, and local graph memory. | Kimi Code CLI(K2.6)向け本番対応マルチエージェント基盤: worktreeチーム実行、DAG/ensemble計画、MCP/スキルフック、品質ゲート、ローカルグラフ記憶を提供。",
+  "description": "Verified agent runtime for Kimi Code. Stable daily-use core with alpha orchestration surfaces; release-gated and evidence-gated workflows. | Kimi Code向け検証済みエージェント実行基盤。日常利用コアは安定、オーケストレーション面はalpha。",
   "description_ja": "",
   "url": "https://github.com/dmae97/oh-my-kimi",
-  "homepage_url": "",
+  "homepage_url": "https://oh-my-kimi.sbs/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "parallel-execution",
     "typescript"
   ],
-  "star_count": 66,
+  "star_count": 71,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-30T01:41:12Z",
-  "updated_at": "2026-05-12T17:35:09Z",
-  "pushed_at": "2026-05-12T14:32:19Z",
+  "updated_at": "2026-05-14T19:47:42Z",
+  "pushed_at": "2026-05-13T06:02:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -63,6 +63,10 @@
     {
       "date": "2026-05-12",
       "stars": 66
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 71
     }
   ]
 }

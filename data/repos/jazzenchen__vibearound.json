@@ -3,7 +3,7 @@
   "owner": "jazzenchen",
   "name": "vibearound",
   "full_name": "jazzenchen/vibearound",
-  "description": "Vibe coding companion: work with your local AI agents from anywhere. Chat on your phone or through a browser terminal, with instant previews for your work. Switch profiles freely, run multiple agents in parallel, and third-party APIs are supported.",
+  "description": "Keep your vibe coding agents around. From desktop to mobile, from browser to messaging, keeps your local coding agents connected, reachable, and ready to work. Run Claude Code, Codex CLI, Gemini CLI, and more side by side with different provider profiles, all routed through one universal proxy.",
   "description_ja": "",
   "url": "https://github.com/jazzenchen/VibeAround",
   "homepage_url": "",
@@ -12,15 +12,16 @@
   "topics": [
     "ai-agent",
     "ai-tools",
+    "remote-execution",
     "vibe-coding"
   ],
-  "star_count": 251,
-  "fork_count": 27,
+  "star_count": 266,
+  "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-23T10:23:58Z",
-  "updated_at": "2026-05-12T19:00:22Z",
-  "pushed_at": "2026-05-12T19:27:41Z",
+  "updated_at": "2026-05-14T18:08:40Z",
+  "pushed_at": "2026-05-14T18:08:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +71,10 @@
     {
       "date": "2026-05-12",
       "stars": 251
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 266
     }
   ]
 }

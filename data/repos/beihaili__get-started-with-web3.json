@@ -3,28 +3,38 @@
   "owner": "beihaili",
   "name": "get-started-with-web3",
   "full_name": "beihaili/get-started-with-web3",
-  "description": "自学入门Web3不是一件容易的事，作为一个刚刚入门Web3的新人，梳理一下最简单直观的Web3小白入门教程。整合开源社区优质资源，为大家从入门到精通web3指路。每周更新",
-  "description_ja": "Web3 入門は簡単ではありません。Web3 に入門したばかりの初心者として、最もシンプルでわかりやすい Web3 入門チュートリアルをまとめました。オープンソースコミュニティの優良リソースを統合し、入門から上級者まで Web3 の道を案内します。毎週更新。",
+  "description": "Open-source bilingual AI-native Web3 curriculum: wallets, Bitcoin, Ethereum, DeFi, L2, DAO, smart accounts, llms.txt and MCP",
+  "description_ja": "",
   "url": "https://github.com/beihaili/Get-Started-with-Web3",
-  "homepage_url": "",
+  "homepage_url": "https://beihaili.github.io/Get-Started-with-Web3/",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "ai-native",
     "bitcoin",
+    "bitcoin-education",
     "blockchain",
     "cryptocurrency",
+    "dao",
+    "defi",
     "education",
+    "ethereum",
+    "layer2",
     "learn-web3",
+    "learning-platform",
+    "llms-txt",
+    "mcp",
     "tutorial",
-    "web3"
+    "web3",
+    "web3-education"
   ],
-  "star_count": 611,
+  "star_count": 614,
   "fork_count": 55,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-02T01:44:15Z",
-  "updated_at": "2026-05-12T01:20:20Z",
-  "pushed_at": "2026-05-12T01:25:34Z",
+  "updated_at": "2026-05-14T16:07:50Z",
+  "pushed_at": "2026-05-14T16:13:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +84,10 @@
     {
       "date": "2026-05-12",
       "stars": 611
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 614
     }
   ]
 }

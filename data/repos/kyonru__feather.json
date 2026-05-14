@@ -3,13 +3,14 @@
   "owner": "kyonru",
   "name": "feather",
   "full_name": "kyonru/feather",
-  "description": "Plugin Based Debugger for Löve2D",
-  "description_ja": "Löve2D向けプラグインベースのデバッガー",
+  "description": "Debugging, runtime inspection, profiling, remote sessions, and developer workflows for Löve2D games.",
+  "description_ja": "",
   "url": "https://github.com/Kyonru/feather",
   "homepage_url": "https://kyonru.github.io/feather/",
   "language": "TypeScript",
   "license": "EPL-2.0",
   "topics": [
+    "cli",
     "debugger",
     "devtool",
     "gamedev",
@@ -17,6 +18,7 @@
     "love2d",
     "lua",
     "monitoring",
+    "package-manager",
     "plugin-system"
   ],
   "star_count": 29,
@@ -24,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-05T01:26:13Z",
-  "updated_at": "2026-05-12T03:53:29Z",
-  "pushed_at": "2026-05-12T03:53:32Z",
+  "updated_at": "2026-05-13T16:00:00Z",
+  "pushed_at": "2026-05-13T06:25:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +76,10 @@
     },
     {
       "date": "2026-05-12",
+      "stars": 29
+    },
+    {
+      "date": "2026-05-14",
       "stars": 29
     }
   ]

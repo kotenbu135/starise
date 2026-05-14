@@ -3,20 +3,27 @@
   "owner": "every-app",
   "name": "open-seo",
   "full_name": "every-app/open-seo",
-  "description": "Own your SEO. Research keywords and competitors on your terms. 100% open source.",
-  "description_ja": "SEOを自分でコントロール。自分のペースでキーワードと競合を調査。100%オープンソース。",
+  "description": "Open source alternative to Semrush and Ahrefs",
+  "description_ja": "",
   "url": "https://github.com/every-app/open-seo",
   "homepage_url": "https://openseo.so",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 1839,
-  "fork_count": 207,
+  "topics": [
+    "backlink-analysis",
+    "keyword-research",
+    "mcp",
+    "seo",
+    "seo-tools",
+    "site-audit"
+  ],
+  "star_count": 1934,
+  "fork_count": 216,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-27T18:57:41Z",
-  "updated_at": "2026-05-12T20:25:59Z",
-  "pushed_at": "2026-05-12T04:11:10Z",
+  "updated_at": "2026-05-14T19:53:03Z",
+  "pushed_at": "2026-05-13T00:34:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +77,10 @@
     {
       "date": "2026-05-12",
       "stars": 1839
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 1934
     }
   ]
 }

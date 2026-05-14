@@ -3,10 +3,10 @@
   "owner": "earthtojake",
   "name": "text-to-cad",
   "full_name": "earthtojake/text-to-cad",
-  "description": "Open source CAD skills and harnesses for generating 3D models with your favorite coding agent",
+  "description": "A collection of agent skills for CAD, robotics and hardware design",
   "description_ja": "",
   "url": "https://github.com/earthtojake/text-to-cad",
-  "homepage_url": "https://demo.cadskills.xyz",
+  "homepage_url": "https://www.cadskills.xyz",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "urdf",
     "wasm"
   ],
-  "star_count": 2474,
-  "fork_count": 285,
+  "star_count": 2718,
+  "fork_count": 313,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-22T01:09:45Z",
-  "updated_at": "2026-05-12T17:49:39Z",
-  "pushed_at": "2026-05-11T21:58:32Z",
+  "updated_at": "2026-05-14T19:51:11Z",
+  "pushed_at": "2026-05-14T18:55:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +75,10 @@
     {
       "date": "2026-05-12",
       "stars": 2474
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 2718
     }
   ]
 }

@@ -3,30 +3,34 @@
   "owner": "netresearch",
   "name": "claude-code-marketplace",
   "full_name": "netresearch/claude-code-marketplace",
-  "description": "Curated Agent Skills collection for AI-assisted development | Claude Code \u0026 other AI agents | By Netresearch",
-  "description_ja": "AI支援開発のためのAgent Skillsキュレーションコレクション | Claude Code＆その他AIエージェント | Netresearchによる",
+  "description": "Curated Agent Skills collection for AI-assisted development. Open standard — agentskills.io. Portable across Claude Code, Cursor, Copilot, Codex, Gemini CLI, and 30+ more agents. By Netresearch.",
+  "description_ja": "",
   "url": "https://github.com/netresearch/claude-code-marketplace",
-  "homepage_url": "",
-  "language": "Shell",
-  "license": "",
+  "homepage_url": "https://netresearch.github.io/claude-code-marketplace/",
+  "language": "JavaScript",
+  "license": "MIT",
   "topics": [
     "agent-skills",
     "ai-agent",
     "claude-code-marketplace",
     "claude-code-plugins-marketplace",
     "claude-code-skills",
+    "cursor",
+    "gemini-cli",
+    "github-copilot",
     "marketplace",
     "open-standard",
+    "openai-codex",
     "skill",
     "typo3"
   ],
-  "star_count": 35,
+  "star_count": 36,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-18T07:59:00Z",
-  "updated_at": "2026-05-12T20:41:11Z",
-  "pushed_at": "2026-05-12T20:41:09Z",
+  "updated_at": "2026-05-14T18:02:47Z",
+  "pushed_at": "2026-05-14T18:02:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -76,6 +80,10 @@
     {
       "date": "2026-05-12",
       "stars": 35
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 36
     }
   ]
 }

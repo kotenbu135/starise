@@ -3,8 +3,8 @@
   "owner": "prod-forge",
   "name": "backend",
   "full_name": "prod-forge/backend",
-  "description": "What it actually takes to run a backend in production - CI/CD, rollback, observability, Terraform on AWS. Not a boilerplate, a reference with real decisions.",
-  "description_ja": "バックエンドを本番運用するために実際に必要なもの — CI/CD、ロールバック、オブザーバビリティ、AWS上のTerraform。ボイラープレートではなく、実際の意思決定を示すリファレンス。",
+  "description": "Prod Forge is an open-source reference that shows how to build and operate a production-ready system: AI-assisted development, quality gates, CI/CD, infrastructure, observability, migrations, and rollback.",
+  "description_ja": "",
   "url": "https://github.com/prod-forge/backend",
   "homepage_url": "",
   "language": "TypeScript",
@@ -29,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-05T12:44:10Z",
-  "updated_at": "2026-05-12T13:50:56Z",
-  "pushed_at": "2026-05-09T09:11:56Z",
+  "updated_at": "2026-05-14T19:50:55Z",
+  "pushed_at": "2026-05-14T19:50:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     },
     {
       "date": "2026-05-12",
+      "stars": 220
+    },
+    {
+      "date": "2026-05-14",
       "stars": 220
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "repo_id": "R_kgDORalNFw",
+  "owner": "inebrio",
+  "name": "routerly",
+  "full_name": "inebrio/routerly",
+  "description": "Self-hosted LLM gateway that routes requests across AI providers (OpenAI, Anthropic, Gemini, Mistral, Ollama) using intelligent multi-policy scoring — including an LLM-native routing policy. Drop-in compatible: just swap the base URL. No database required, built-in cost tracking, budget enforcement and multi-tenant isolation.",
+  "description_ja": "",
+  "url": "https://github.com/Inebrio/Routerly",
+  "homepage_url": "https://www.routerly.ai/",
+  "language": "TypeScript",
+  "license": "AGPL-3.0",
+  "topics": [
+    "ai-gateway",
+    "ai-router",
+    "anthropic",
+    "budget-enforcement",
+    "cost-tracking",
+    "llm-gateway",
+    "llm-proxy",
+    "llm-routing",
+    "multi-tenant",
+    "openai-proxy",
+    "self-hosted"
+  ],
+  "star_count": 46,
+  "fork_count": 6,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-02-27T18:12:18Z",
+  "updated_at": "2026-05-14T06:43:28Z",
+  "pushed_at": "2026-04-08T10:30:19Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-14",
+      "stars": 46
+    }
+  ]
+}

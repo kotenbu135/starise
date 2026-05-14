@@ -3,8 +3,8 @@
   "owner": "redisson",
   "name": "redisson",
   "full_name": "redisson/redisson",
-  "description": "Redisson - Valkey \u0026 Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
-  "description_ja": "Redisson — Valkey \u0026 Redis向けJavaクライアント。リアルタイムデータプラットフォーム。Sync/Async/RxJava/Reactive APIに対応。Set、Multimap、SortedSet、Map、List、Queue、Deque、Semaphore、Lock、AtomicLong、Map Reduce、Bloomフィルター、Spring、Tomcat、Scheduler、JCache API、Hibernate、RPC、ローカルキャッシュなど50以上のValkey・RedisベースのJavaオブジェクトとサービスを提供。",
+  "description": "Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
+  "description_ja": "",
   "url": "https://github.com/redisson/redisson",
   "homepage_url": "https://redisson.pro",
   "language": "Java",
@@ -32,12 +32,12 @@
     "valkey-client"
   ],
   "star_count": 24324,
-  "fork_count": 5488,
+  "fork_count": 5487,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-01-11T14:06:25Z",
-  "updated_at": "2026-05-12T14:40:42Z",
-  "pushed_at": "2026-05-12T14:35:21Z",
+  "updated_at": "2026-05-14T10:06:30Z",
+  "pushed_at": "2026-05-14T10:05:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +90,10 @@
     },
     {
       "date": "2026-05-12",
+      "stars": 24324
+    },
+    {
+      "date": "2026-05-14",
       "stars": 24324
     }
   ]

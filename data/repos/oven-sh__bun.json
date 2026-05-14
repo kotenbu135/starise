@@ -7,7 +7,7 @@
   "description_ja": "JavaScript の高速オールインワンランタイム、バンドラー、テストランナー、パッケージマネージャー",
   "url": "https://github.com/oven-sh/bun",
   "homepage_url": "https://bun.com",
-  "language": "Zig",
+  "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
     "bun",
@@ -23,13 +23,13 @@
     "zig",
     "ziglang"
   ],
-  "star_count": 89939,
-  "fork_count": 4432,
+  "star_count": 90257,
+  "fork_count": 4475,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-14T00:48:17Z",
-  "updated_at": "2026-05-12T20:49:15Z",
-  "pushed_at": "2026-05-12T20:54:53Z",
+  "updated_at": "2026-05-14T20:29:40Z",
+  "pushed_at": "2026-05-14T20:28:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +91,10 @@
     {
       "date": "2026-05-12",
       "stars": 89939
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 90257
     }
   ]
 }

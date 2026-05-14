@@ -3,8 +3,8 @@
   "owner": "amber-lang",
   "name": "amber",
   "full_name": "amber-lang/amber",
-  "description": "💎 Amber the programming language compiled to Bash",
-  "description_ja": "Bashにコンパイルされるプログラミング言語Amber",
+  "description": "💎 Amber the programming language compiled to Bash/Ksh/Zsh",
+  "description_ja": "",
   "url": "https://github.com/amber-lang/amber",
   "homepage_url": "https://amber-lang.com",
   "language": "Rust",
@@ -13,15 +13,17 @@
     "bash",
     "bash-scripting",
     "compilers",
-    "hacktoberfest"
+    "hacktoberfest",
+    "ksh",
+    "zsh"
   ],
   "star_count": 4702,
   "fork_count": 120,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-07-20T19:15:54Z",
-  "updated_at": "2026-05-12T17:19:27Z",
-  "pushed_at": "2026-05-12T15:49:07Z",
+  "updated_at": "2026-05-13T21:01:50Z",
+  "pushed_at": "2026-05-13T23:31:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +76,10 @@
     },
     {
       "date": "2026-05-12",
+      "stars": 4702
+    },
+    {
+      "date": "2026-05-14",
       "stars": 4702
     }
   ]

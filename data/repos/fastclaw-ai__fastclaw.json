@@ -3,20 +3,26 @@
   "owner": "fastclaw-ai",
   "name": "fastclaw",
   "full_name": "fastclaw-ai/fastclaw",
-  "description": "Faster and better openclaw alternative",
+  "description": "Multi-Agent Framework",
   "description_ja": "",
   "url": "https://github.com/fastclaw-ai/fastclaw",
-  "homepage_url": "",
+  "homepage_url": "https://fastclaw.ai",
   "language": "Go",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 581,
-  "fork_count": 87,
+  "topics": [
+    "agent-factory",
+    "agent-runtime",
+    "fastclaw",
+    "multi-agent",
+    "openclaw-alternative"
+  ],
+  "star_count": 585,
+  "fork_count": 88,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-09T09:07:00Z",
-  "updated_at": "2026-05-12T14:31:16Z",
-  "pushed_at": "2026-05-11T17:52:33Z",
+  "updated_at": "2026-05-14T14:10:34Z",
+  "pushed_at": "2026-05-14T14:10:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +40,10 @@
     {
       "date": "2026-05-12",
       "stars": 581
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 585
     }
   ]
 }

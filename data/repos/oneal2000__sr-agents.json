@@ -3,20 +3,32 @@
   "owner": "oneal2000",
   "name": "sr-agents",
   "full_name": "oneal2000/sr-agents",
-  "description": "",
+  "description": "SRA-Bench and SR-Agents: a benchmark and toolkit for skill-retrieval-augmented LLM agents.",
   "description_ja": "",
   "url": "https://github.com/oneal2000/SR-Agents",
-  "homepage_url": "",
+  "homepage_url": "https://huggingface.co/datasets/WeihangSu/SRA-Bench",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 55,
+  "topics": [
+    "agent-memory",
+    "agent-skills",
+    "agentic-ai",
+    "benchmark",
+    "llm-based-agents",
+    "rag",
+    "retrieval-augmented-generation",
+    "skill-learning",
+    "skill-retrieval",
+    "skill-retrieval-augmentation",
+    "tool-use"
+  ],
+  "star_count": 58,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-16T11:09:04Z",
-  "updated_at": "2026-05-12T14:29:04Z",
-  "pushed_at": "2026-04-30T00:36:57Z",
+  "updated_at": "2026-05-14T09:52:19Z",
+  "pushed_at": "2026-05-13T08:12:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +46,10 @@
     {
       "date": "2026-05-12",
       "stars": 55
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 58
     }
   ]
 }

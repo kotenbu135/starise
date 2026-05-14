@@ -3,30 +3,36 @@
   "owner": "humanspeak",
   "name": "svelte-markdown",
   "full_name": "humanspeak/svelte-markdown",
-  "description": "📝 Fast, lightweight Markdown renderer component for Svelte applications with full CommonMark support",
-  "description_ja": "📝 完全な CommonMark サポートを備えた、Svelte アプリケーション向けの高速・軽量な Markdown レンダラーコンポーネント",
+  "description": "📝 Markdown and HTML renderer for Svelte 5 — built for streaming AI agent output from Claude Code, ChatGPT, and agentic workflows. XSS-safe defaults, token caching, TypeScript types.",
+  "description_ja": "",
   "url": "https://github.com/humanspeak/svelte-markdown",
   "homepage_url": "https://markdown.svelte.page",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "javascript",
+    "agent-output",
+    "ai-agent",
+    "claude-code",
+    "html",
+    "llm-streaming",
     "markdown",
     "markdown-parser",
+    "markdown-renderer",
     "markdown-to-html",
+    "streaming",
     "svelte",
+    "svelte5",
     "sveltekit",
     "typescript",
-    "ui-components",
-    "web-components"
+    "xss-sanitization"
   ],
   "star_count": 98,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-29T22:38:46Z",
-  "updated_at": "2026-05-12T16:56:26Z",
-  "pushed_at": "2026-05-12T00:09:36Z",
+  "updated_at": "2026-05-14T18:20:40Z",
+  "pushed_at": "2026-05-14T18:20:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +81,10 @@
     },
     {
       "date": "2026-05-12",
+      "stars": 98
+    },
+    {
+      "date": "2026-05-14",
       "stars": 98
     }
   ]

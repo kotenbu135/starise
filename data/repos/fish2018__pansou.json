@@ -3,19 +3,19 @@
   "owner": "fish2018",
   "name": "pansou",
   "full_name": "fish2018/pansou",
-  "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/",
-  "description_ja": "PanSouは高性能なクラウドストレージリソース検索APIサービスで、TGチャンネルおよびプラグイン検索に対応しています。パフォーマンスと拡張性を核とした設計で、マルチチャンネル・マルチプラグインの並列検索・インテリジェントなソート・クラウドストレージ種別の分類をサポート。DockerでフロントエンドとバックエンドをワンクリックでKick-startできます。 https://so.252035.xyz/",
+  "description": "PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。 ",
+  "description_ja": "",
   "url": "https://github.com/fish2018/pansou",
-  "homepage_url": "",
+  "homepage_url": "https://so.252035.xyz/",
   "language": "Go",
   "license": "MIT",
   "topics": [],
-  "star_count": 13047,
-  "fork_count": 3117,
+  "star_count": 13074,
+  "fork_count": 3122,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-10T07:17:46Z",
-  "updated_at": "2026-05-12T15:19:13Z",
+  "updated_at": "2026-05-14T19:25:01Z",
   "pushed_at": "2026-05-11T06:09:56Z",
   "deleted_at": "",
   "star_history": [
@@ -70,6 +70,10 @@
     {
       "date": "2026-05-12",
       "stars": 13047
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 13074
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "whiteguo233",
   "name": "openbiliclaw",
   "full_name": "whiteguo233/openbiliclaw",
-  "description": "通用个性化内容推荐 Agent —— 跑在你自己电脑上，用心理画像而不是点击记录跨平台理解你，主动帮你发现从没接触过的好内容。项目最初是想做一个开源、私有、思路完全不同的 B 站推荐算法平替（项目名由此而来：Open + Bili + Claw），现已演进为支持小红书、通用 Web 的通用跨平台 Agent",
+  "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从跨平台使用、项目反馈与对话中持续深化心理画像，带着对你的理解主动去 B 站、小红书、抖音等来源找内容 / Fully local, private, open-source, self-improving discovery agent that learns from usage, feedback, and dialogue to find content across Bilibili, Xiaohongshu, Douyin, and more.",
   "description_ja": "",
   "url": "https://github.com/whiteguo233/OpenBiliClaw",
-  "homepage_url": "https://github.com/whiteguo233/OpenBiliClaw#readme",
+  "homepage_url": "https://whiteguo233.github.io/OpenBiliClaw/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -22,13 +22,13 @@
     "recommendation-system",
     "xiaohongshu"
   ],
-  "star_count": 112,
-  "fork_count": 9,
+  "star_count": 142,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T13:46:10Z",
-  "updated_at": "2026-05-12T16:25:02Z",
-  "pushed_at": "2026-05-07T20:38:13Z",
+  "updated_at": "2026-05-14T19:00:43Z",
+  "pushed_at": "2026-05-14T17:48:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -82,6 +82,10 @@
     {
       "date": "2026-05-12",
       "stars": 112
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 142
     }
   ]
 }

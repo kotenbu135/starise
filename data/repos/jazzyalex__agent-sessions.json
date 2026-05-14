@@ -3,8 +3,8 @@
   "owner": "jazzyalex",
   "name": "agent-sessions",
   "full_name": "jazzyalex/agent-sessions",
-  "description": "Session browser + Agent Cockpit +  Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI \u0026 OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native macOS app.",
-  "description_ja": "Codex CLI、Claude Code、OpenCode、Gemini CLI、Factory Droid、GitHub Copilot CLI、OpenClaw 向けのセッションブラウザ + Agent Cockpit + Analytics + レート制限トラッカー。過去の全セッションの検索・フィルタリング、セッションのアーカイブ、即時再開、リアルタイムのレート制限確認が可能。macOS ネイティブアプリ。",
+  "description": "Session browser + Agent Cockpit +  Analytics + Limits tracker for Codex CLI/Desktop/VSC,  Claude Code CLI/Desktop,  OpenCode CLI, Gemini CLI, Pi CLI , GitHub Copilot CLI + OpenClaw \u0026 Hermes agents. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native macOS app.",
+  "description_ja": "",
   "url": "https://github.com/jazzyalex/agent-sessions",
   "homepage_url": "",
   "language": "Swift",
@@ -28,13 +28,13 @@
     "usage-tracking",
     "vibe-coding"
   ],
-  "star_count": 544,
-  "fork_count": 32,
+  "star_count": 547,
+  "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-19T22:15:22Z",
-  "updated_at": "2026-05-12T19:44:05Z",
-  "pushed_at": "2026-05-12T19:43:59Z",
+  "updated_at": "2026-05-14T10:47:09Z",
+  "pushed_at": "2026-05-13T04:05:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -88,6 +88,10 @@
     {
       "date": "2026-05-12",
       "stars": 544
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 547
     }
   ]
 }

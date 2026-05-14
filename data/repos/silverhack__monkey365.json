@@ -3,8 +3,8 @@
   "owner": "silverhack",
   "name": "monkey365",
   "full_name": "silverhack/monkey365",
-  "description": "Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Microsoft Entra ID security configuration reviews.",
-  "description_ja": "Monkey365 は、セキュリティコンサルタントが Microsoft 365 だけでなく Azure サブスクリプションや Microsoft Entra ID のセキュリティ設定レビューを容易に実施できるツールを提供します。",
+  "description": "Monkey365 is an open-source security assessment tool for Microsoft 365, Azure, and Microsoft Entra ID. It helps security professionals identify misconfigurations, review cloud security posture, and evaluate environments against industry security best practices and compliance standards.",
+  "description_ja": "",
   "url": "https://github.com/silverhack/monkey365",
   "homepage_url": "https://silverhack.github.io/monkey365/",
   "language": "PowerShell",
@@ -30,13 +30,13 @@
     "security-tools",
     "sharepoint-online"
   ],
-  "star_count": 1277,
+  "star_count": 1278,
   "fork_count": 138,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-22T14:45:29Z",
-  "updated_at": "2026-05-12T03:10:43Z",
-  "pushed_at": "2026-04-15T09:03:44Z",
+  "updated_at": "2026-05-14T19:40:20Z",
+  "pushed_at": "2026-05-14T18:16:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     {
       "date": "2026-05-12",
       "stars": 1277
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 1278
     }
   ]
 }

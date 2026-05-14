@@ -1,0 +1,46 @@
+{
+  "repo_id": "R_kgDORoAEOA",
+  "owner": "infinri",
+  "name": "writ",
+  "full_name": "infinri/writ",
+  "description": "Claude Code harness for AI coding agents. Hybrid-RAG librarian picks relevant rules in 0.59 ms p95 (BM25 + vector + graph traversal); process keeper blocks writes until plan + tests approved. 276 rules / 30 mandatory across 12 domains, 6 cross-language analyzers. Neo4j + Tantivy + hnswlib + ONNX.",
+  "description_ja": "",
+  "url": "https://github.com/infinri/Writ",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "agent-tools",
+    "ai-coding",
+    "bm25",
+    "claude-code",
+    "code-quality",
+    "developer-tools",
+    "fastapi",
+    "hnswlib",
+    "hybrid-search",
+    "knowledge-graph",
+    "llm-tools",
+    "neo4j",
+    "onnx",
+    "python",
+    "rag",
+    "rule-enforcement",
+    "tantivy",
+    "vector-search"
+  ],
+  "star_count": 41,
+  "fork_count": 5,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-16T00:51:19Z",
+  "updated_at": "2026-05-14T19:27:13Z",
+  "pushed_at": "2026-05-11T23:12:17Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-14",
+      "stars": 41
+    }
+  ]
+}
