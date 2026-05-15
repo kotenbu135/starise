@@ -13,14 +13,14 @@
     "agent",
     "agent-email",
     "agent-sms",
-    "agenticmail",
     "ai",
     "ai-agent",
+    "claude-code",
+    "claude-code-plugin",
+    "claudemcp",
     "email",
     "google-voice",
     "imap",
-    "llm",
-    "mail",
     "mcp",
     "mcp-server",
     "messaging",
@@ -31,13 +31,13 @@
     "smtp",
     "typescript"
   ],
-  "star_count": 119,
+  "star_count": 120,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-14T08:07:52Z",
-  "updated_at": "2026-05-14T14:39:32Z",
-  "pushed_at": "2026-05-14T14:39:28Z",
+  "updated_at": "2026-05-15T15:03:23Z",
+  "pushed_at": "2026-05-15T15:03:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -95,6 +95,10 @@
     {
       "date": "2026-05-14",
       "stars": 119
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 120
     }
   ]
 }

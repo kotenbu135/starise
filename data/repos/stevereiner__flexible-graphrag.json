@@ -10,33 +10,33 @@
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
-    "ai",
+    "ai-agents-memory",
     "ai-chat",
+    "ai-context-extraction",
+    "ai-context-management",
     "alfresco",
     "arcadedb",
-    "doc-processing",
     "docling",
+    "document-processing",
     "falkordb",
-    "generative-ai",
     "graphrag",
     "hybrid-search",
     "knowledge-graph",
+    "ladybugdb",
+    "langchain",
     "llamaindex",
     "llamaparse",
-    "llm",
-    "mcp",
     "mcp-server",
     "neo4j",
-    "python",
     "rag",
-    "search"
+    "semantic-search"
   ],
-  "star_count": 126,
+  "star_count": 127,
   "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-05T23:49:36Z",
-  "updated_at": "2026-05-14T15:56:09Z",
+  "updated_at": "2026-05-15T17:01:46Z",
   "pushed_at": "2026-05-14T06:49:25Z",
   "deleted_at": "",
   "star_history": [
@@ -95,6 +95,10 @@
     {
       "date": "2026-05-14",
       "stars": 126
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 127
     }
   ]
 }

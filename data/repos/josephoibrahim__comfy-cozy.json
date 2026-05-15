@@ -3,7 +3,7 @@
   "owner": "josephoibrahim",
   "name": "comfy-cozy",
   "full_name": "josephoibrahim/comfy-cozy",
-  "description": "AI co-pilot for ComfyUI — 113 tools, autonomous pipeline with auto-retry + vision evaluation + experience learning. Multi-provider (Claude, GPT-4o, Gemini, Ollama). 3902 tests. Ships as MCP server, CLI, or native ComfyUI sidebar.",
+  "description": "AI co-pilot for ComfyUI. Talk to your workflow — load, patch, run, learn. 113 MCP tools, four LLM providers (Claude, GPT-4o, Gemini, Ollama), full undo, native sidebar.",
   "description_ja": "",
   "url": "https://github.com/JosephOIbrahim/Comfy-Cozy",
   "homepage_url": "",
@@ -13,28 +13,31 @@
     "ai-agent",
     "anthropic",
     "claude",
+    "cognitive-architecture",
     "comfyui",
     "comfyui-extension",
-    "diffusion-models",
+    "copilot",
     "flux",
     "gemini",
     "generative-ai",
-    "llm-tools",
+    "llm",
+    "mcp",
     "mcp-server",
     "ollama",
     "openai",
     "python",
     "sdxl",
     "stable-diffusion",
-    "vfx"
+    "vfx",
+    "workflow-automation"
   ],
-  "star_count": 12,
+  "star_count": 13,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-10T15:56:52Z",
-  "updated_at": "2026-05-11T19:10:50Z",
-  "pushed_at": "2026-05-07T16:43:18Z",
+  "updated_at": "2026-05-15T19:39:47Z",
+  "pushed_at": "2026-05-15T19:39:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -72,6 +75,10 @@
     {
       "date": "2026-05-14",
       "stars": 12
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 13
     }
   ]
 }

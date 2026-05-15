@@ -3,10 +3,10 @@
   "owner": "facex-engine",
   "name": "facex",
   "full_name": "facex-engine/facex",
-  "description": "Face verification in the browser. 74 KB WebAssembly. No server, no cloud, no dependencies. Also runs native at 3ms on CPU.",
+  "description": "Full face stack that runs entirely in the browser. Detection, 576-point 3D mesh, recognition, anti-spoof, smile — all WebAssembly, zero server. Apache 2.0.",
   "description_ja": "",
   "url": "https://github.com/facex-engine/facex",
-  "homepage_url": "https://facex-engine.github.io/facex/",
+  "homepage_url": "https://facex-engine.github.io/facex/demo/",
   "language": "C",
   "license": "Apache-2.0",
   "topics": [
@@ -28,13 +28,13 @@
     "simd",
     "zero-dependencies"
   ],
-  "star_count": 143,
-  "fork_count": 19,
+  "star_count": 154,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-25T12:49:25Z",
-  "updated_at": "2026-05-14T19:56:30Z",
-  "pushed_at": "2026-05-14T04:46:08Z",
+  "updated_at": "2026-05-15T18:54:08Z",
+  "pushed_at": "2026-05-14T23:59:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -80,6 +80,10 @@
     {
       "date": "2026-05-14",
       "stars": 143
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 154
     }
   ]
 }

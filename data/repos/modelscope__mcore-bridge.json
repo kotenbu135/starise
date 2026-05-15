@@ -3,8 +3,8 @@
   "owner": "modelscope",
   "name": "mcore-bridge",
   "full_name": "modelscope/mcore-bridge",
-  "description": "MCore-Bridge: Providing Megatron-Core model definitions for state-of-the-art large models and making Megatron training as simple as Transformers.",
-  "description_ja": "MCore-Bridge：最先端大規模モデル向けのMegatron-Coreモデル定義を提供し、MegatronのトレーニングをTransformersと同程度にシンプルにします",
+  "description": "MCore-Bridge: Providing Megatron-Core model definitions for state-of-the-art large models and making Megatron training as simple as Transformers — with support for 300+ large language models and 200+ multimodal large models.",
+  "description_ja": "",
   "url": "https://github.com/modelscope/mcore-bridge",
   "homepage_url": "https://swift.readthedocs.io/en/latest/Megatron-SWIFT/Mcore-Bridge.html",
   "language": "Python",
@@ -30,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T02:19:38Z",
-  "updated_at": "2026-05-14T15:00:43Z",
-  "pushed_at": "2026-05-14T15:00:29Z",
+  "updated_at": "2026-05-15T14:29:29Z",
+  "pushed_at": "2026-05-15T14:29:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -88,6 +88,10 @@
     },
     {
       "date": "2026-05-14",
+      "stars": 62
+    },
+    {
+      "date": "2026-05-15",
       "stars": 62
     }
   ]

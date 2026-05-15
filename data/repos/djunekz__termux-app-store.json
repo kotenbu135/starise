@@ -3,7 +3,7 @@
   "owner": "djunekz",
   "name": "termux-app-store",
   "full_name": "djunekz/termux-app-store",
-  "description": "TUI \u0026 CLI package manager for Termux on Android. Browse, build, and install community tools from source — offline, SHA256-verified, no root. Like AUR but for Termux.",
+  "description": "TUI \u0026 CLI package manager for Termux on Android. Browse, build, and install community tools from source and binary source — offline, SHA256-verified, no root. Like AUR but for Termux.",
   "description_ja": "",
   "url": "https://github.com/djunekz/termux-app-store",
   "homepage_url": "https://termux-app-store.pages.dev",
@@ -31,13 +31,13 @@
     "termux-tool",
     "tui"
   ],
-  "star_count": 60,
+  "star_count": 61,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-02T03:10:28Z",
-  "updated_at": "2026-05-14T12:55:18Z",
-  "pushed_at": "2026-05-14T03:41:06Z",
+  "updated_at": "2026-05-15T17:58:34Z",
+  "pushed_at": "2026-05-15T17:54:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +75,10 @@
     {
       "date": "2026-05-14",
       "stars": 60
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 61
     }
   ]
 }

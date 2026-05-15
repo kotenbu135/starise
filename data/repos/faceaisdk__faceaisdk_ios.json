@@ -3,7 +3,7 @@
   "owner": "faceaisdk",
   "name": "faceaisdk_ios",
   "full_name": "faceaisdk/faceaisdk_ios",
-  "description": "iOS on_device Face Recognition 、 Liveness detection SDK ",
+  "description": "iOS on_device Face Recognition 、 Liveness detection SDK 。iOS 人脸识别SDK支持ObjectC和Swift混合使用，支持iOS[15,26]",
   "description_ja": "",
   "url": "https://github.com/FaceAISDK/FaceAISDK_iOS",
   "homepage_url": "https://github.com/FaceAISDK",
@@ -16,13 +16,13 @@
     "liveness",
     "liveness-detection"
   ],
-  "star_count": 357,
+  "star_count": 358,
   "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-30T03:25:30Z",
-  "updated_at": "2026-05-13T12:19:43Z",
-  "pushed_at": "2026-05-08T03:00:20Z",
+  "updated_at": "2026-05-15T07:39:17Z",
+  "pushed_at": "2026-05-15T07:26:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -80,6 +80,10 @@
     {
       "date": "2026-05-14",
       "stars": 357
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 358
     }
   ]
 }

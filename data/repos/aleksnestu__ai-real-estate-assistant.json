@@ -3,8 +3,8 @@
   "owner": "aleksnestu",
   "name": "ai-real-estate-assistant",
   "full_name": "aleksnestu/ai-real-estate-assistant",
-  "description": "Advanced AI Real Estate Assistant using RAG, LLMs, and Python. Features market analysis, property valuation, and intelligent search.",
-  "description_ja": "RAG、LLM、Pythonを活用した高度なAI不動産アシスタント。市場分析、物件評価、インテリジェント検索機能を搭載。",
+  "description": "AI-powered real estate platform with conversational property search, analytics, and market insights. Built with FastAPI + Next.js + ChromaDB.",
+  "description_ja": "",
   "url": "https://github.com/AleksNeStu/ai-real-estate-assistant",
   "homepage_url": "https://realestate-web-dz1y.onrender.com/",
   "language": "Python",
@@ -13,24 +13,31 @@
     "ai",
     "assistant",
     "chatbot",
+    "chromadb",
+    "conversational-ai",
     "docker",
     "fastapi",
     "llm",
+    "mapbox",
+    "mortgage-calculator",
+    "multi-llm",
     "nextjs",
+    "property-search",
     "proptech",
     "python",
     "python3",
     "rag",
     "real-estate",
+    "typescript",
     "vector-database"
   ],
-  "star_count": 185,
+  "star_count": 186,
   "fork_count": 93,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-27T11:01:17Z",
-  "updated_at": "2026-05-14T11:09:48Z",
-  "pushed_at": "2026-05-14T11:09:44Z",
+  "updated_at": "2026-05-15T14:56:56Z",
+  "pushed_at": "2026-05-15T09:24:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -88,6 +95,10 @@
     {
       "date": "2026-05-14",
       "stars": 185
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 186
     }
   ]
 }

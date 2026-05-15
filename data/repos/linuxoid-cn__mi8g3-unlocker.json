@@ -3,20 +3,20 @@
   "owner": "linuxoid-cn",
   "name": "mi8g3-unlocker",
   "full_name": "linuxoid-cn/mi8g3-unlocker",
-  "description": "本项目是专为搭载骁龙 8g3（Snapdragon 8 Gen3）平台的小米设备打造的一键 BL 解锁辅助工具。通过 8g3-unlock.bat 脚本，实现 HyperOS 系统下的自动化解锁流程。",
+  "description": "本项目是专为搭载骁龙 8g3（Snapdragon 8 Gen3）平台的小米设备打造的一键 BL 解锁辅助工具。通过 8g3-unlock.bat 脚本，实现 HyperOS 2026.02.01 之前补丁系统下的自动化解锁流程。",
   "description_ja": "",
   "url": "https://github.com/Linuxoid-cn/Mi8G3-Unlocker",
   "homepage_url": "",
   "language": "",
   "license": "GPL-3.0",
   "topics": [],
-  "star_count": 94,
-  "fork_count": 11,
+  "star_count": 111,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-11T13:04:50Z",
-  "updated_at": "2026-05-14T20:05:45Z",
-  "pushed_at": "2026-05-14T17:01:21Z",
+  "updated_at": "2026-05-15T19:05:53Z",
+  "pushed_at": "2026-05-15T11:25:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -26,6 +26,10 @@
     {
       "date": "2026-05-14",
       "stars": 94
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 111
     }
   ]
 }

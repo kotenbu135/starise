@@ -3,18 +3,26 @@
   "owner": "jlospinoso",
   "name": "gargoyle",
   "full_name": "jlospinoso/gargoyle",
-  "description": "A memory scanning evasion technique",
+  "description": "Historical Windows temporal memory-state research artifact for studying time-bound memory observations, validation limits, and defensive visibility.",
   "description_ja": "",
   "url": "https://github.com/JLospinoso/gargoyle",
-  "homepage_url": "https://jlospinoso.github.io/security/assembly/c/cpp/developing/software/2017/03/04/gargoyle-memory-analysis-evasion.html",
+  "homepage_url": "https://lospino.so/blog/gargoyle-a-decade-later/",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
+    "apc",
+    "arm64ec",
     "assembly",
+    "dfir",
     "memory-analysis",
+    "memory-forensics",
     "pic",
+    "reverse-engineering",
     "rop-gadgets",
     "security",
+    "security-research",
+    "temporal-memory-state",
+    "windows-internals",
     "x86"
   ],
   "star_count": 903,
@@ -22,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-03-04T02:16:52Z",
-  "updated_at": "2026-05-13T20:56:43Z",
-  "pushed_at": "2026-05-13T20:56:41Z",
+  "updated_at": "2026-05-15T01:58:24Z",
+  "pushed_at": "2026-05-15T01:58:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +52,10 @@
     },
     {
       "date": "2026-05-14",
+      "stars": 903
+    },
+    {
+      "date": "2026-05-15",
       "stars": 903
     }
   ]

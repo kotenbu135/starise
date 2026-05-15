@@ -3,8 +3,8 @@
   "owner": "rari-build",
   "name": "rari",
   "full_name": "rari-build/rari",
-  "description": "rari: High-performance React Server Components framework powered by a Rust runtime, delivering 9.8x faster response times (0.08ms vs 0.78ms) and 47.7x higher throughput (71,404 vs 1,497 req/sec) than Next.js with zero-config setup.",
-  "description_ja": "rari: Rust ランタイムで動作する高性能 React Server Components フレームワーク。ゼロコンフィグで Next.js と比較して 9.8 倍高速なレスポンスタイム（0.08ms 対 0.78ms）と 47.7 倍高いスループット（71,404 対 1,497 req/sec）を実現。",
+  "description": "rari: High-performance React Server Components framework powered by a Rust runtime, delivering 15.2x faster response times (0.13ms vs 1.98ms) and 72.3x higher throughput (105,698 vs 1,463 req/sec) than Next.js with zero-config setup.",
+  "description_ja": "",
   "url": "https://github.com/rari-build/rari",
   "homepage_url": "https://rari.build",
   "language": "Rust",
@@ -18,13 +18,13 @@
     "ssr",
     "web-framework"
   ],
-  "star_count": 1116,
+  "star_count": 1117,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-26T01:44:57Z",
-  "updated_at": "2026-05-14T19:30:45Z",
-  "pushed_at": "2026-05-14T19:30:40Z",
+  "updated_at": "2026-05-15T00:34:39Z",
+  "pushed_at": "2026-05-15T00:33:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +78,10 @@
     {
       "date": "2026-05-14",
       "stars": 1116
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 1117
     }
   ]
 }

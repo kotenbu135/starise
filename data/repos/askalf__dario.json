@@ -3,7 +3,7 @@
   "owner": "askalf",
   "name": "dario",
   "full_name": "askalf/dario",
-  "description": "Local LLM router. One endpoint for Claude Max/Pro, OpenAI, OpenRouter, Groq, Ollama, LiteLLM, any OpenAI-compat URL — your tools don't need to change. OAuth for Claude subscriptions, multi-account pool, MCP server. Zero runtime deps.",
+  "description": "Your Claude Pro/Max subscription only works in Claude Code. dario makes it work everywhere — Cursor, Cline, Aider, the Agent SDK, any tool — at subscription pricing, not per-token API bills. One local endpoint.",
   "description_ja": "",
   "url": "https://github.com/askalf/dario",
   "homepage_url": "https://www.npmjs.com/package/@askalf/dario",
@@ -30,13 +30,13 @@
     "openrouter",
     "proxy"
   ],
-  "star_count": 198,
+  "star_count": 201,
   "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-08T16:08:01Z",
-  "updated_at": "2026-05-14T15:16:40Z",
-  "pushed_at": "2026-05-14T15:17:01Z",
+  "updated_at": "2026-05-15T14:01:29Z",
+  "pushed_at": "2026-05-15T14:01:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +78,10 @@
     {
       "date": "2026-05-14",
       "stars": 198
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 201
     }
   ]
 }

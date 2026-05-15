@@ -3,8 +3,8 @@
   "owner": "hrnr27",
   "name": "deplos",
   "full_name": "hrnr27/deplos",
-  "description": "DeplOS_v1.3.2: 新一代数据中心裸金属自动化运维平台。集成了 PXE 自动化装机 (RHEL/Windows/信创)、CMDB 资产管理、Nexus 全栈硬件监控、IPMI 带外管理及 WebSSH/RDP 远程运维套件。",
-  "description_ja": "DeplOS_v1.3.2：次世代データセンター向けベアメタル自動化運用保守プラットフォーム。PXE 自動インストール（RHEL/Windows/国産 OS）・CMDB 資産管理・Nexus フルスタックハードウェア監視・IPMI アウトオブバンド管理・WebSSH/RDP リモート運用スイートを統合。",
+  "description": "DeplOS_v1.3.3: 新一代数据中心裸金属自动化运维平台。集成了 PXE 自动化装机 (RHEL/Windows/信创)、CMDB 资产管理、Nexus 全栈硬件监控、IPMI 带外管理及 WebSSH/RDP 远程运维套件。",
+  "description_ja": "",
   "url": "https://github.com/hrnr27/DeplOS",
   "homepage_url": "https://www.hrnrkit.cn/",
   "language": "",
@@ -25,7 +25,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-01T22:25:07Z",
-  "updated_at": "2026-05-10T03:45:24Z",
+  "updated_at": "2026-05-15T13:33:35Z",
   "pushed_at": "2026-05-06T07:55:03Z",
   "deleted_at": "",
   "star_history": [
@@ -79,6 +79,10 @@
     },
     {
       "date": "2026-05-14",
+      "stars": 163
+    },
+    {
+      "date": "2026-05-15",
       "stars": 163
     }
   ]

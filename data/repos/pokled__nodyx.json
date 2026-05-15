@@ -3,8 +3,8 @@
   "owner": "pokled",
   "name": "nodyx",
   "full_name": "pokled/nodyx",
-  "description": "Self-hosted community platform — Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.",
-  "description_ja": "セルフホスト型コミュニティプラットフォーム — フォーラム・チャット・音声・P2P・キャンバス・ホームページビルダー。1台のサーバーで1つのコミュニティを永続的に。AGPL-3.0。",
+  "description": "Self-hosted community platform Forum + Chat + Voice + P2P + Canvas + Homepage Builder. One server, one community, forever. AGPL-3.0.  Discord alternative | Private Chat.",
+  "description_ja": "",
   "url": "https://github.com/Pokled/nodyx",
   "homepage_url": "https://nodyx.org",
   "language": "Svelte",
@@ -31,13 +31,13 @@
     "voice-chat",
     "webrtc"
   ],
-  "star_count": 82,
+  "star_count": 84,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-22T11:25:15Z",
-  "updated_at": "2026-05-14T16:52:22Z",
-  "pushed_at": "2026-05-14T16:52:18Z",
+  "updated_at": "2026-05-15T14:28:33Z",
+  "pushed_at": "2026-05-15T14:28:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -87,6 +87,10 @@
     {
       "date": "2026-05-14",
       "stars": 82
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 84
     }
   ]
 }

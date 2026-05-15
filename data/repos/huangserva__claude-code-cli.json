@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOR1oijA",
+  "owner": "huangserva",
+  "name": "claude-code-cli",
+  "full_name": "huangserva/claude-code-cli",
+  "description": "这是 Claude Code 的 CLI 客户端主体（src/ 目录），即整个终端交互层的源码。具体包含： 1. CLI 入口与命令解析 — main.tsx（4684行）、entrypoints/（CLI 模式、SDK 模式、MCP 模式） 2. 终端 UI 渲染 — components/（144 个组件，用 React + Ink 渲染终端界面） 3. 工具系统 — tools/（43 个工具，Bash、文件读写编辑、Grep、Glob、Web 搜索等） 4. API 通信层 — services/api/（与 Anthropic 后端通信） 5. MCP 协议  6. 多 Agent/Team 协作 l 7. 认证与策略 8. 辅助服务 等",
+  "description_ja": "",
+  "url": "https://github.com/huangserva/claude-code-cli",
+  "homepage_url": "",
+  "language": "TypeScript",
+  "license": "",
+  "topics": [],
+  "star_count": 583,
+  "fork_count": 1305,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-31T10:12:33Z",
+  "updated_at": "2026-05-15T12:06:15Z",
+  "pushed_at": "2026-03-31T10:14:17Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-15",
+      "stars": 583
+    }
+  ]
+}
