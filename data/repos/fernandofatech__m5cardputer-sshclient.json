@@ -3,10 +3,10 @@
   "owner": "fernandofatech",
   "name": "m5cardputer-sshclient",
   "full_name": "fernandofatech/m5cardputer-sshclient",
-  "description": "SSH terminal client for the M5Stack Cardputer — manage servers from a pocket-sized device with a physical keyboard.",
-  "description_ja": "M5Stack Cardputer向けSSHターミナルクライアント — 物理キーボード付きポケットサイズのデバイスからサーバーを管理。",
+  "description": "M5Cardputer SSH client experiment for embedded, IoT and developer tooling portfolio work.",
+  "description_ja": "",
   "url": "https://github.com/fernandofatech/M5Cardputer-SSHClient",
-  "homepage_url": "",
+  "homepage_url": "https://fernando.moretes.com",
   "language": "C++",
   "license": "",
   "topics": [
@@ -17,6 +17,8 @@
     "esp32",
     "iot",
     "m5stack",
+    "moretes",
+    "portfolio",
     "ssh"
   ],
   "star_count": 61,
@@ -24,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-21T02:44:52Z",
-  "updated_at": "2026-05-13T18:57:52Z",
-  "pushed_at": "2026-04-20T18:48:38Z",
+  "updated_at": "2026-05-16T01:17:13Z",
+  "pushed_at": "2026-05-16T01:15:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -82,6 +84,10 @@
     },
     {
       "date": "2026-05-15",
+      "stars": 61
+    },
+    {
+      "date": "2026-05-16",
       "stars": 61
     }
   ]

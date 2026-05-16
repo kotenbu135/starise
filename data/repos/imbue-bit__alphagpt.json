@@ -3,8 +3,8 @@
   "owner": "imbue-bit",
   "name": "alphagpt",
   "full_name": "imbue-bit/alphagpt",
-  "description": "使用符号回归在中国股市与加密市场上进行高效因子挖掘。",
-  "description_ja": "シンボリック回帰を用いた中国株式市場と暗号資産市場における効率的なファクター発掘",
+  "description": "基于深度强化学习的开源自动因子工厂。",
+  "description_ja": "",
   "url": "https://github.com/imbue-bit/AlphaGPT",
   "homepage_url": "",
   "language": "Python",
@@ -21,11 +21,11 @@
   ],
   "star_count": 2005,
   "fork_count": 2645,
-  "is_archived": true,
+  "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-08T02:05:21Z",
-  "updated_at": "2026-05-15T15:41:01Z",
-  "pushed_at": "2026-05-08T16:53:00Z",
+  "updated_at": "2026-05-16T13:55:42Z",
+  "pushed_at": "2026-05-16T11:21:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     },
     {
       "date": "2026-05-15",
+      "stars": 2005
+    },
+    {
+      "date": "2026-05-16",
       "stars": 2005
     }
   ]

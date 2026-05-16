@@ -3,20 +3,31 @@
   "owner": "doomvoss",
   "name": "baspark",
   "full_name": "doomvoss/baspark",
-  "description": "基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具 || A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas",
-  "description_ja": "HTML5/Canvasを用いて『ブルーアーカイブ』のUIスタイルを再現したWindows向けマウスエフェクトツール。",
+  "description": "A Windows mouse effect tool reconstructing Blue Archive UI style using HTML5/Canvas || 基于 HTML5/Canvas 深度复刻《蔚蓝档案》UI 风格动效的 Windows 鼠标特效工具",
+  "description_ja": "",
   "url": "https://github.com/DoomVoss/BASpark",
   "homepage_url": "https://basp.catbotstudio.cn",
   "language": "C#",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "baspark",
+    "blue-archive",
+    "canvas",
+    "cursor-theme",
+    "cursors",
+    "desktop-animation",
+    "desktop-pet",
+    "mouse-effects",
+    "webview2",
+    "wpf"
+  ],
   "star_count": 594,
   "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-01T14:41:02Z",
-  "updated_at": "2026-05-15T19:24:10Z",
-  "pushed_at": "2026-05-05T04:22:15Z",
+  "updated_at": "2026-05-16T17:01:11Z",
+  "pushed_at": "2026-05-16T15:06:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -77,6 +88,10 @@
     },
     {
       "date": "2026-05-15",
+      "stars": 594
+    },
+    {
+      "date": "2026-05-16",
       "stars": 594
     }
   ]

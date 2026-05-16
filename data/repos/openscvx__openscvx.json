@@ -6,7 +6,7 @@
   "description": "A general python-based successive convexification implementation which uses a JAX backend.",
   "description_ja": "JAX バックエンドを使用した汎用 Python ベースの逐次凸化実装",
   "url": "https://github.com/OpenSCvx/OpenSCvx",
-  "homepage_url": "https://openscvx.github.io/OpenSCvx/",
+  "homepage_url": "https://openscvx.github.io/OpenSCvx/nightly",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -21,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-02T16:32:09Z",
-  "updated_at": "2026-05-15T07:43:33Z",
-  "pushed_at": "2026-05-15T07:45:38Z",
+  "updated_at": "2026-05-16T17:37:32Z",
+  "pushed_at": "2026-05-16T17:39:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     },
     {
       "date": "2026-05-15",
+      "stars": 43
+    },
+    {
+      "date": "2026-05-16",
       "stars": 43
     }
   ]

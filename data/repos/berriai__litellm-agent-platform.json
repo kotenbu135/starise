@@ -3,25 +3,38 @@
   "owner": "berriai",
   "name": "litellm-agent-platform",
   "full_name": "berriai/litellm-agent-platform",
-  "description": "A simple, self-hosted infrastructure platform for running multiple agents in production.",
+  "description": "Self-hosted platform for running coding agents (Claude Code, Codex) in isolated sandboxes with vault proxy. ",
   "description_ja": "",
   "url": "https://github.com/BerriAI/litellm-agent-platform",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 48,
-  "fork_count": 3,
+  "topics": [
+    "agent-platform",
+    "agent-vault",
+    "claude-code",
+    "codex",
+    "codex-cli",
+    "litellm",
+    "litellm-ai-gateway",
+    "sandbox"
+  ],
+  "star_count": 78,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-07T21:35:39Z",
-  "updated_at": "2026-05-15T20:20:33Z",
-  "pushed_at": "2026-05-15T20:20:34Z",
+  "updated_at": "2026-05-16T17:33:42Z",
+  "pushed_at": "2026-05-16T17:33:38Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-05-15",
       "stars": 48
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 78
     }
   ]
 }

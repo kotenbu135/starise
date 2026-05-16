@@ -7,7 +7,7 @@
   "description_ja": "ローカルのHTTP、TCP、WebSocket接続を公開インターネットに公開",
   "url": "https://github.com/amalshaji/portr",
   "homepage_url": "https://portr.dev",
-  "language": "TypeScript",
+  "language": "Go",
   "license": "AGPL-3.0",
   "topics": [
     "cli",
@@ -27,13 +27,13 @@
     "tcp",
     "tunneling"
   ],
-  "star_count": 3130,
+  "star_count": 3131,
   "fork_count": 110,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-21T11:14:01Z",
-  "updated_at": "2026-05-14T09:36:40Z",
-  "pushed_at": "2026-05-15T09:30:17Z",
+  "updated_at": "2026-05-16T11:00:02Z",
+  "pushed_at": "2026-05-16T11:11:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +91,10 @@
     {
       "date": "2026-05-15",
       "stars": 3130
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 3131
     }
   ]
 }

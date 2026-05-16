@@ -3,8 +3,8 @@
   "owner": "luce-org",
   "name": "lucebox-hub",
   "full_name": "luce-org/lucebox-hub",
-  "description": "Lucebox optimization hub: hand-tuned LLM inference, built for specific consumer hardware.",
-  "description_ja": "Lucebox最適化ハブ：特定のコンシューマーハードウェア向けに手動チューニングされたLLM推論",
+  "description": "Lucebox: LLM inference server built for speed for specific consumer hardware.",
+  "description_ja": "",
   "url": "https://github.com/Luce-Org/lucebox-hub",
   "homepage_url": "https://www.lucebox.com/blog",
   "language": "C++",
@@ -26,13 +26,13 @@
     "speculative-decoding",
     "speculative-prefill"
   ],
-  "star_count": 2072,
-  "fork_count": 195,
+  "star_count": 2110,
+  "fork_count": 197,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-03T17:46:29Z",
-  "updated_at": "2026-05-15T18:02:56Z",
-  "pushed_at": "2026-05-15T11:56:56Z",
+  "updated_at": "2026-05-16T17:21:17Z",
+  "pushed_at": "2026-05-16T17:21:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +90,10 @@
     {
       "date": "2026-05-15",
       "stars": 2072
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 2110
     }
   ]
 }

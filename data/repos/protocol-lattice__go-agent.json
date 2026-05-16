@@ -6,7 +6,7 @@
   "description": "An agent framework for Go with graph-aware memory, UTCP-native tools, and multi-agent orchestration. Built for production.",
   "description_ja": "グラフ対応メモリ、UTCP ネイティブツール、マルチエージェントオーケストレーションを備えた Go 向けエージェントフレームワーク。本番環境を想定して構築。",
   "url": "https://github.com/Protocol-Lattice/go-agent",
-  "homepage_url": "https://deepwiki.com/Protocol-Lattice/go-agent",
+  "homepage_url": "",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-13T08:28:36Z",
-  "updated_at": "2026-05-15T10:07:57Z",
-  "pushed_at": "2026-03-01T19:44:46Z",
+  "updated_at": "2026-05-16T10:42:26Z",
+  "pushed_at": "2026-05-16T10:41:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -88,6 +88,10 @@
     },
     {
       "date": "2026-05-15",
+      "stars": 214
+    },
+    {
+      "date": "2026-05-16",
       "stars": 214
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "cwinvestments",
   "name": "memstack",
   "full_name": "cwinvestments/memstack",
-  "description": "Structured skill framework for Claude Code — 112 skills, auto-trigger commands, session memory, and project handoffs via markdown-based skills",
-  "description_ja": "Claude Code 向けの構造化スキルフレームワーク — 112 のスキル・自動トリガーコマンド・セッションメモリ・マークダウンベースのスキルによるプロジェクト引き継ぎ",
+  "description": "Structured skill framework for Claude Code — 127 skills, auto-trigger commands, session memory management, and project handoffs via markdown-based skills",
+  "description_ja": "",
   "url": "https://github.com/cwinvestments/memstack",
   "homepage_url": "https://memstack.pro",
   "language": "Python",
@@ -19,13 +19,13 @@
     "skills-",
     "vibe-coding"
   ],
-  "star_count": 325,
+  "star_count": 329,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-19T03:45:26Z",
-  "updated_at": "2026-05-15T12:05:56Z",
-  "pushed_at": "2026-04-29T14:56:42Z",
+  "updated_at": "2026-05-16T16:18:59Z",
+  "pushed_at": "2026-05-16T15:42:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -83,6 +83,10 @@
     {
       "date": "2026-05-15",
       "stars": 325
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 329
     }
   ]
 }

@@ -3,37 +3,41 @@
   "owner": "cranot",
   "name": "roam-code",
   "full_name": "cranot/roam-code",
-  "description": "Architectural sight for AI coding agents. Free Apache-2.0 CLI plus paid PR bot (Roam Review), dashboard (Roam Cloud), and Self-Hosted. Local code graph, 28 languages, MCP server (137 tools).",
+  "description": "Local codebase intelligence CLI + MCP server for AI coding agents: SQLite code graph, 28 languages, 238 commands, 224 MCP tools, change-safety gates, audit evidence, zero API keys.",
   "description_ja": "",
   "url": "https://github.com/Cranot/roam-code",
   "homepage_url": "https://roam-code.com/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "ai-agents",
     "ai-coding",
-    "ai-tools",
-    "architecture",
     "cli",
     "code-analysis",
     "code-graph",
     "code-intelligence",
     "code-quality",
+    "code-review",
     "developer-tools",
     "graph-analysis",
+    "local-first",
     "mcp",
     "mcp-server",
     "model-context-protocol",
     "python",
+    "refactoring",
+    "software-architecture",
+    "sqlite",
     "static-analysis",
     "tree-sitter"
   ],
-  "star_count": 460,
+  "star_count": 461,
   "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-09T10:11:37Z",
-  "updated_at": "2026-05-15T17:38:45Z",
-  "pushed_at": "2026-05-15T17:49:35Z",
+  "updated_at": "2026-05-16T17:33:27Z",
+  "pushed_at": "2026-05-16T17:33:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +95,10 @@
     {
       "date": "2026-05-15",
       "stars": 460
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 461
     }
   ]
 }
