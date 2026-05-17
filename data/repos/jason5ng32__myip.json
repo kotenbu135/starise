@@ -3,8 +3,8 @@
   "owner": "jason5ng32",
   "name": "myip",
   "full_name": "jason5ng32/myip",
-  "description": "The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!",
-  "description_ja": "最高のIPツールボックス。IPアドレス確認・IPジオロケーション・DNSリーク検出・WebRTC接続確認・スピードテスト・pingテスト・MTRテスト・サイト死活監視・whois検索などが簡単にできる！",
+  "description": "The best IP Toolbox. Check your IP address \u0026 geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, global latency test, MTR test, Whois search, and more.",
+  "description_ja": "",
   "url": "https://github.com/jason5ng32/MyIP",
   "homepage_url": "https://ipcheck.ing",
   "language": "Vue",
@@ -12,8 +12,8 @@
   "topics": [
     "awesome",
     "censorship",
-    "chatgpt",
     "dns",
+    "dnsleak",
     "ip",
     "ipinfo",
     "leaks",
@@ -24,20 +24,19 @@
     "security",
     "security-tools",
     "speedtest",
-    "vercel",
     "webrtc",
     "whatismyip",
     "whatismyipaddress",
     "whois",
     "whois-lookup"
   ],
-  "star_count": 10491,
-  "fork_count": 1105,
+  "star_count": 10516,
+  "fork_count": 1110,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-22T14:46:07Z",
-  "updated_at": "2026-05-16T17:48:50Z",
-  "pushed_at": "2026-05-16T17:22:47Z",
+  "updated_at": "2026-05-17T15:57:08Z",
+  "pushed_at": "2026-05-17T02:26:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +98,10 @@
     {
       "date": "2026-05-16",
       "stars": 10491
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 10516
     }
   ]
 }

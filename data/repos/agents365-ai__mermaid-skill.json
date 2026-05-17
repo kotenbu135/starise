@@ -3,25 +3,36 @@
   "owner": "agents365-ai",
   "name": "mermaid-skill",
   "full_name": "agents365-ai/mermaid-skill",
-  "description": "Claude Code skill for generating Mermaid diagrams (.mmd) and exporting to PNG/SVG/PDF via mmdc CLI. Supports 10+ diagram types with automatic layout.",
+  "description": "Mermaid diagrams (.mmd) from natural language with validation loop. 11+ types, multi-backend (mmdc / Kroki), PNG/SVG/PDF, multi-agent.",
   "description_ja": "",
   "url": "https://github.com/Agents365-ai/mermaid-skill",
   "homepage_url": "https://agents365-ai.github.io/mermaid-skill/",
   "language": "Mermaid",
-  "license": "",
+  "license": "MIT",
   "topics": [
+    "agent-skill",
+    "agent-skills",
     "claude-code",
-    "claude-skill",
+    "claude-code-skill",
+    "claude-skills",
     "diagram",
-    "mermaid"
+    "erd",
+    "flowchart",
+    "kroki",
+    "mermaid",
+    "openclaw",
+    "openclaw-skills",
+    "sequence-diagram",
+    "skill-md",
+    "skillsmp"
   ],
   "star_count": 47,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T17:16:23Z",
-  "updated_at": "2026-05-15T15:16:42Z",
-  "pushed_at": "2026-05-12T02:15:47Z",
+  "updated_at": "2026-05-17T08:57:07Z",
+  "pushed_at": "2026-05-17T08:52:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +45,10 @@
     },
     {
       "date": "2026-05-16",
+      "stars": 47
+    },
+    {
+      "date": "2026-05-17",
       "stars": 47
     }
   ]

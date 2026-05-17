@@ -6,7 +6,7 @@
   "description": "Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it.",
   "description_ja": "要望を入力すれば PR が出力される。あなたにヒアリングし、作業を計画し、独立した worktree で並列エージェントを起動し、コードをレビューしてから提示する CLI エージェント",
   "url": "https://github.com/automagik-dev/genie",
-  "homepage_url": "https://www.npmjs.com/package/@automagik/genie",
+  "homepage_url": "https://docs.automagik.dev/genie",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "vibe-coding",
     "worktrees"
   ],
-  "star_count": 314,
-  "fork_count": 49,
+  "star_count": 315,
+  "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-01T02:00:02Z",
-  "updated_at": "2026-05-16T06:37:04Z",
-  "pushed_at": "2026-05-16T17:01:49Z",
+  "updated_at": "2026-05-16T20:51:51Z",
+  "pushed_at": "2026-05-17T17:32:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +103,10 @@
     {
       "date": "2026-05-16",
       "stars": 314
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 315
     }
   ]
 }

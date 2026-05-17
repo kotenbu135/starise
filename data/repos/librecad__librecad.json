@@ -3,7 +3,7 @@
   "owner": "librecad",
   "name": "librecad",
   "full_name": "librecad/librecad",
-  "description": "LibreCAD is a cross-platform 2D CAD program. It can read DXF and write DXF/PDF/SVG files, with basic support for DWG reading. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customizable, and has dozens of translations.",
+  "description": "LibreCAD is a cross-platform 2D CAD program. It can read DXF/DWG, and read/write DXF/DWG/PDF/SVG files. It supports point/line/circle/ellipse/parabola/hyperbola/spline primitives. The GUI is highly customizable, and has dozens of translations.",
   "description_ja": "",
   "url": "https://github.com/LibreCAD/LibreCAD",
   "homepage_url": "http://librecad.org/",
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-04-10T22:41:47Z",
-  "updated_at": "2026-05-16T17:16:46Z",
-  "pushed_at": "2026-05-14T21:38:50Z",
+  "updated_at": "2026-05-17T17:44:00Z",
+  "pushed_at": "2026-05-17T07:31:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -88,6 +88,10 @@
     },
     {
       "date": "2026-05-16",
+      "stars": 5861
+    },
+    {
+      "date": "2026-05-17",
       "stars": 5861
     }
   ]

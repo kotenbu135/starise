@@ -3,7 +3,7 @@
   "owner": "the-z-labs",
   "name": "bof-launcher",
   "full_name": "the-z-labs/bof-launcher",
-  "description": "[ bof-launcher ] - an API for loading, executing and in-memory masking BOFs on Windows and Linux for use in C/Zig/Go/Rust apps. [ z-beac0n ] -  a custom-written stage-1 (pre-C2) solution engineered with small footprint, stealth and modularity in mind.",
+  "description": "[ BOF-LAUNCHER ] -\u003e  an API for loading, executing and in-memory masking BOFs on Windows and Linux for use in C/Zig/Go/Rust agents/implants. [ Z-BEAC0N ] -\u003e   a custom-written stage-1 (pre-C2) solution engineered with small footprint, stealth and modularity in mind. [ DEVELOPED BOFS ] -\u003e cross-platform (12) \u0026 OS specific (12)",
   "description_ja": "",
   "url": "https://github.com/The-Z-Labs/bof-launcher",
   "homepage_url": "",
@@ -35,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-31T09:22:42Z",
-  "updated_at": "2026-05-16T18:13:43Z",
-  "pushed_at": "2026-05-16T18:05:00Z",
+  "updated_at": "2026-05-17T11:43:58Z",
+  "pushed_at": "2026-05-17T11:43:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -97,6 +97,10 @@
     },
     {
       "date": "2026-05-16",
+      "stars": 313
+    },
+    {
+      "date": "2026-05-17",
       "stars": 313
     }
   ]

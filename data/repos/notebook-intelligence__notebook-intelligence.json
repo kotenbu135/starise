@@ -3,20 +3,34 @@
   "owner": "notebook-intelligence",
   "name": "notebook-intelligence",
   "full_name": "notebook-intelligence/notebook-intelligence",
-  "description": "AI coding assistant for JupyterLab",
+  "description": "A JupyterLab extension supporting Claude Code, Copilot, Ollama, and OpenAI-compatible LLMs, with MCP, skills, plugins, and notebook agents.",
   "description_ja": "",
   "url": "https://github.com/notebook-intelligence/notebook-intelligence",
-  "homepage_url": "",
+  "homepage_url": "https://notebook-intelligence.github.io/notebook-intelligence/",
   "language": "Python",
   "license": "GPL-3.0",
-  "topics": [],
+  "topics": [
+    "agent-plugins",
+    "agent-skills",
+    "ai",
+    "ai-agents",
+    "ai-tools",
+    "claude-code",
+    "codex",
+    "copilot",
+    "genai",
+    "jupyterlab",
+    "mcp",
+    "notebook",
+    "ollama"
+  ],
   "star_count": 298,
-  "fork_count": 53,
+  "fork_count": 55,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-22T21:43:15Z",
-  "updated_at": "2026-05-16T17:35:10Z",
-  "pushed_at": "2026-05-16T17:32:17Z",
+  "updated_at": "2026-05-17T15:12:43Z",
+  "pushed_at": "2026-05-17T15:02:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +59,10 @@
     },
     {
       "date": "2026-05-16",
+      "stars": 298
+    },
+    {
+      "date": "2026-05-17",
       "stars": 298
     }
   ]

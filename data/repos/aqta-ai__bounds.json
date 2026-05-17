@@ -3,20 +3,29 @@
   "owner": "aqta-ai",
   "name": "bounds",
   "full_name": "aqta-ai/bounds",
-  "description": "Redact sensitive data from PDFs entirely in your browser, no uploads, no servers, no leaks.",
+  "description": "PDF redaction that runs entirely on your device. Five detection layers including Gemma 4 contextual PHI. No uploads, no servers, no leaks.",
   "description_ja": "",
   "url": "https://github.com/Aqta-ai/bounds",
   "homepage_url": "https://bounds.aqta.ai",
   "language": "TypeScript",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "topics": [
     "ai",
+    "browser-ai",
     "gdpr",
+    "gemma-4",
+    "healthcare-ai",
+    "hipaa-compliance",
+    "ollama",
     "on-device",
+    "on-device-ai",
     "open-source",
     "pdf",
+    "pdf-redaction",
+    "phi-redaction",
     "pii",
     "privacy",
+    "privacy-first",
     "react",
     "redaction",
     "typescript"
@@ -26,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-13T16:05:07Z",
-  "updated_at": "2026-05-12T13:34:40Z",
-  "pushed_at": "2026-04-10T16:48:11Z",
+  "updated_at": "2026-05-17T13:58:31Z",
+  "pushed_at": "2026-05-17T13:58:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +53,10 @@
     },
     {
       "date": "2026-05-16",
+      "stars": 9
+    },
+    {
+      "date": "2026-05-17",
       "stars": 9
     }
   ]

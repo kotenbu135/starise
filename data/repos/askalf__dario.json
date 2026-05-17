@@ -3,7 +3,7 @@
   "owner": "askalf",
   "name": "dario",
   "full_name": "askalf/dario",
-  "description": "Your Claude Pro/Max subscription only works in Claude Code. dario makes it work everywhere — Cursor, Cline, Aider, the Agent SDK, any tool — at subscription pricing, not per-token API bills. One local endpoint.",
+  "description": "Your Claude Pro/Max subscription in any tool — Cursor, Cline, Aider, Agent SDK — at subscription pricing, not per-token bills. Active overage protection (v4.1), interactive TUI (v4), hourly CC drift detection. One local endpoint.",
   "description_ja": "",
   "url": "https://github.com/askalf/dario",
   "homepage_url": "https://www.npmjs.com/package/@askalf/dario",
@@ -30,13 +30,13 @@
     "openrouter",
     "proxy"
   ],
-  "star_count": 206,
-  "fork_count": 39,
+  "star_count": 209,
+  "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-08T16:08:01Z",
-  "updated_at": "2026-05-16T16:18:35Z",
-  "pushed_at": "2026-05-16T16:18:32Z",
+  "updated_at": "2026-05-17T15:15:10Z",
+  "pushed_at": "2026-05-17T17:18:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     {
       "date": "2026-05-16",
       "stars": 206
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 209
     }
   ]
 }

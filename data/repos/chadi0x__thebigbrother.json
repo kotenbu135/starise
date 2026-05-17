@@ -3,13 +3,14 @@
   "owner": "chadi0x",
   "name": "thebigbrother",
   "full_name": "chadi0x/thebigbrother",
-  "description": "The Big Brother V4.0 is a weaponized OSINT platform featuring username enumeration (473+ platforms), quad-vector visual intelligence, Sky Radar tracking, crypto wallet analysis, SSL intelligence, digital footprint reconstruction, EXIF extraction, advanced dorking, and network reconnaissance.",
-  "description_ja": "Big Brother V4.0は、ユーザー名列挙（473以上のプラットフォーム対応）、4方向ビジュアルインテリジェンス、Sky Radarトラッキング、仮想通貨ウォレット分析、SSL調査、デジタルフットプリント再構築、EXIF抽出、高度なドーキング、ネットワーク偵察を備えた兵器化OSINTプラットフォーム。",
+  "description": "The Big Brother V5.0 is a weaponized OSINT platform featuring username enumeration (473+ platforms), quad-vector visual intelligence, Sky Radar tracking, crypto wallet analysis, SSL intelligence, digital footprint reconstruction, EXIF extraction, advanced dorking, and network reconnaissance.",
+  "description_ja": "",
   "url": "https://github.com/chadi0x/TheBigBrother",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "ai",
     "crypto",
     "cybersecurity",
     "dork",
@@ -17,6 +18,7 @@
     "dorks",
     "exif",
     "exiftool",
+    "hunter",
     "information-gathering",
     "osint",
     "osint-tool",
@@ -24,15 +26,16 @@
     "python3",
     "radar",
     "redteam",
-    "ssl"
+    "ssl",
+    "threat-intelligence"
   ],
-  "star_count": 598,
+  "star_count": 599,
   "fork_count": 87,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-08T13:34:35Z",
-  "updated_at": "2026-05-16T06:01:43Z",
-  "pushed_at": "2026-03-26T07:17:51Z",
+  "updated_at": "2026-05-17T15:16:48Z",
+  "pushed_at": "2026-05-16T19:48:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +97,10 @@
     {
       "date": "2026-05-16",
       "stars": 598
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 599
     }
   ]
 }

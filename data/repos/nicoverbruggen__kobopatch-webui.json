@@ -3,7 +3,7 @@
   "owner": "nicoverbruggen",
   "name": "kobopatch-webui",
   "full_name": "nicoverbruggen/kobopatch-webui",
-  "description": "Experimental Web UI for patching your Kobo. Easily Install NickelMenu (with or without preset) or patch your software w/ custom patches.",
+  "description": "Simple Web UI for patching your Kobo. Easily install NickelMenu (with or without preset) or patch your software w/ custom patches.",
   "description_ja": "",
   "url": "https://github.com/nicoverbruggen/kobopatch-webui",
   "homepage_url": "https://kp.nicoverbruggen.be",
@@ -14,13 +14,13 @@
     "kobopatch",
     "webui"
   ],
-  "star_count": 30,
-  "fork_count": 1,
+  "star_count": 35,
+  "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T22:27:04Z",
-  "updated_at": "2026-05-16T15:26:23Z",
-  "pushed_at": "2026-05-16T10:55:33Z",
+  "updated_at": "2026-05-17T17:40:30Z",
+  "pushed_at": "2026-05-17T15:32:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +34,10 @@
     {
       "date": "2026-05-16",
       "stars": 30
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 35
     }
   ]
 }

@@ -3,25 +3,39 @@
   "owner": "agents365-ai",
   "name": "asta-skill",
   "full_name": "agents365-ai/asta-skill",
-  "description": "Asta MCP skill — give Claude Code/Codex/Cursor/Windsurf/OpenClaw access to Semantic Scholar via Ai2 Asta MCP server",
-  "description_ja": "[48] Asta MCPスキル — Claude Code/Codex/Cursor/Windsurf/OpenClawにAi2 Asta MCPサーバー経由でSemantic Scholarへのアクセスを提供",
+  "description": "Pure instruction-pack skill wrapping Ai2's Asta MCP server (Semantic Scholar). Intent-to-tool routing, safe defaults, multi-agent.",
+  "description_ja": "",
   "url": "https://github.com/Agents365-ai/asta-skill",
   "homepage_url": "",
   "language": "",
-  "license": "",
+  "license": "MIT",
   "topics": [
+    "academic",
+    "agent-skill",
+    "agent-skills",
     "asta",
-    "claude",
+    "asta-skill",
+    "citations",
+    "claude-code",
+    "claude-code-skill",
+    "claude-skills",
+    "mcp",
+    "openclaw",
+    "openclaw-skills",
+    "paper-search",
+    "research",
+    "semantic-scholar",
     "semantic-search",
-    "skill"
+    "skill-md",
+    "skillsmp"
   ],
-  "star_count": 96,
+  "star_count": 100,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-08T05:41:32Z",
-  "updated_at": "2026-05-15T12:53:03Z",
-  "pushed_at": "2026-05-13T09:45:31Z",
+  "updated_at": "2026-05-17T17:30:03Z",
+  "pushed_at": "2026-05-17T09:00:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -83,6 +97,10 @@
     {
       "date": "2026-05-16",
       "stars": 96
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 100
     }
   ]
 }

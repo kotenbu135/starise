@@ -3,8 +3,8 @@
   "owner": "fdabench",
   "name": "fdabench",
   "full_name": "fdabench/fdabench",
-  "description": "FDABench, a benchmark for evaluating data agents' reasoning ability over heterogeneous data in analytical scenarios.",
-  "description_ja": "FDABench — 分析シナリオにおける異種データ上でのデータエージェントの推論能力を評価するベンチマーク",
+  "description": "🔥[KDD’26] Official repository for the paper “FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data”.",
+  "description_ja": "",
   "url": "https://github.com/fdabench/FDAbench",
   "homepage_url": "",
   "language": "Python",
@@ -26,7 +26,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-01T18:33:47Z",
-  "updated_at": "2026-05-06T15:44:36Z",
+  "updated_at": "2026-05-17T15:31:39Z",
   "pushed_at": "2026-02-18T09:25:40Z",
   "deleted_at": "",
   "star_history": [
@@ -88,6 +88,10 @@
     },
     {
       "date": "2026-05-16",
+      "stars": 63
+    },
+    {
+      "date": "2026-05-17",
       "stars": 63
     }
   ]

@@ -3,10 +3,10 @@
   "owner": "im-anishraj",
   "name": "arnio",
   "full_name": "im-anishraj/arnio",
-  "description": "C++-accelerated data quality toolkit for Python: clean CSVs, profile messy datasets, validate schemas, and work smoothly with pandas.",
+  "description": "C++ accelerated data quality toolkit for Python: CSV parsing, cleaning, schema validation, profiling, and pandas integration.",
   "description_ja": "",
   "url": "https://github.com/im-anishraj/arnio",
-  "homepage_url": "https://arnio.vercel.app/",
+  "homepage_url": "https://arnio.vercel.app",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -29,13 +29,13 @@
     "python-library",
     "schema-validation"
   ],
-  "star_count": 43,
-  "fork_count": 118,
+  "star_count": 46,
+  "fork_count": 149,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-03T10:34:06Z",
-  "updated_at": "2026-05-16T17:42:32Z",
-  "pushed_at": "2026-05-16T17:42:37Z",
+  "updated_at": "2026-05-17T17:10:36Z",
+  "pushed_at": "2026-05-17T17:10:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     {
       "date": "2026-05-16",
       "stars": 43
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 46
     }
   ]
 }

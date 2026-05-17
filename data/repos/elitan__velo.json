@@ -3,7 +3,7 @@
   "owner": "elitan",
   "name": "velo",
   "full_name": "elitan/velo",
-  "description": "Postgres with instant branching",
+  "description": "Postgres with instant branching and scale-to-zero",
   "description_ja": "",
   "url": "https://github.com/elitan/velo",
   "homepage_url": "",
@@ -14,13 +14,13 @@
     "postgres",
     "postgresql"
   ],
-  "star_count": 203,
+  "star_count": 204,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-05T18:56:48Z",
-  "updated_at": "2026-05-16T17:46:59Z",
-  "pushed_at": "2026-05-16T17:46:56Z",
+  "updated_at": "2026-05-17T05:46:18Z",
+  "pushed_at": "2026-05-17T05:46:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +70,10 @@
     {
       "date": "2026-05-16",
       "stars": 203
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 204
     }
   ]
 }
