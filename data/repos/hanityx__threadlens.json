@@ -3,7 +3,7 @@
   "owner": "hanityx",
   "name": "threadlens",
   "full_name": "hanityx/threadlens",
-  "description": "Find, review, back up, and safely clean up local AI sessions across Codex, Claude, Gemini, and Copilot.",
+  "description": "Search, review, back up, and safely clean up local sessions from Codex, Claude, Gemini, and Copilot.",
   "description_ja": "",
   "url": "https://github.com/hanityx/threadlens",
   "homepage_url": "",
@@ -11,21 +11,23 @@
   "license": "MIT",
   "topics": [
     "chat-history",
-    "claude",
+    "claude-code",
     "codex",
-    "developer-tools",
-    "gemini",
+    "codex-cli",
+    "coding-agents",
+    "file-search",
+    "gemini-cli",
     "local-first",
-    "local-search",
-    "session-management"
+    "privacy-first",
+    "session-manager"
   ],
   "star_count": 47,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T16:14:08Z",
-  "updated_at": "2026-05-13T12:32:26Z",
-  "pushed_at": "2026-04-29T20:44:56Z",
+  "updated_at": "2026-05-18T15:59:36Z",
+  "pushed_at": "2026-05-18T13:08:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +52,10 @@
     },
     {
       "date": "2026-05-17",
+      "stars": 47
+    },
+    {
+      "date": "2026-05-18",
       "stars": 47
     }
   ]

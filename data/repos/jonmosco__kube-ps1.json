@@ -3,8 +3,8 @@
   "owner": "jonmosco",
   "name": "kube-ps1",
   "full_name": "jonmosco/kube-ps1",
-  "description": "Kubernetes prompt info for bash and zsh",
-  "description_ja": "bashおよびzsh向けKubernetesプロンプト情報表示ツール",
+  "description": "Kubernetes prompt info for bash, fish, and zsh",
+  "description_ja": "",
   "url": "https://github.com/jonmosco/kube-ps1",
   "homepage_url": "",
   "language": "Shell",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-11-27T15:53:46Z",
-  "updated_at": "2026-05-17T11:30:55Z",
-  "pushed_at": "2026-05-17T11:30:52Z",
+  "updated_at": "2026-05-18T17:04:46Z",
+  "pushed_at": "2026-05-18T00:28:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +90,10 @@
     },
     {
       "date": "2026-05-17",
+      "stars": 3787
+    },
+    {
+      "date": "2026-05-18",
       "stars": 3787
     }
   ]

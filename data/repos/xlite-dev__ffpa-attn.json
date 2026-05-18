@@ -3,7 +3,7 @@
   "owner": "xlite-dev",
   "name": "ffpa-attn",
   "full_name": "xlite-dev/ffpa-attn",
-  "description": "🤖FFPA: Extends FlashAttention-2 via Split-D for large headdims, 1.5x~3×↑🎉 speedup vs SDPA, up to 420+🎉TFLOPS on H200!",
+  "description": "🤖FFPA: Extends FlashAttention-2 via Split-D for large headdims, 1.5x~3×↑🎉 vs SDPA, up to 430T🎉 on H200.",
   "description_ja": "",
   "url": "https://github.com/xlite-dev/ffpa-attn",
   "homepage_url": "https://ffpa-attn.readthedocs.io",
@@ -14,18 +14,22 @@
     "flash-attention",
     "tensor-cores"
   ],
-  "star_count": 294,
+  "star_count": 295,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-29T11:47:23Z",
-  "updated_at": "2026-05-17T16:37:24Z",
-  "pushed_at": "2026-05-17T13:41:06Z",
+  "updated_at": "2026-05-18T09:42:24Z",
+  "pushed_at": "2026-05-18T09:42:35Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-05-17",
       "stars": 294
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 295
     }
   ]
 }

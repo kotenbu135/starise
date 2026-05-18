@@ -3,20 +3,26 @@
   "owner": "rooootdev",
   "name": "lara",
   "full_name": "rooootdev/lara",
-  "description": "WIP darksword kexploit implement",
-  "description_ja": "WIP: darksword カーネルエクスプロイトの実装",
+  "description": "iOS Toolbox using the DarkSword kexploit. iOS 17.0 - iOS 18.7.1 \u0026 iOS 26.0.x, excluding M5 and A19.",
+  "description_ja": "",
   "url": "https://github.com/rooootdev/lara",
   "homepage_url": "",
   "language": "Swift",
   "license": "AGPL-3.0",
-  "topics": [],
-  "star_count": 1069,
+  "topics": [
+    "customization",
+    "darksword",
+    "ios",
+    "jailbreak",
+    "toolbox"
+  ],
+  "star_count": 1074,
   "fork_count": 130,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T22:33:02Z",
-  "updated_at": "2026-05-17T17:27:38Z",
-  "pushed_at": "2026-05-16T22:18:46Z",
+  "updated_at": "2026-05-18T20:23:52Z",
+  "pushed_at": "2026-05-18T17:45:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +92,10 @@
     {
       "date": "2026-05-17",
       "stars": 1069
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 1074
     }
   ]
 }

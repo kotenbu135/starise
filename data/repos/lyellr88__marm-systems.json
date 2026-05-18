@@ -3,8 +3,8 @@
   "owner": "lyellr88",
   "name": "marm-systems",
   "full_name": "lyellr88/marm-systems",
-  "description": "Turn AI into a persistent, memory-powered collaborator. Universal MCP Server (supports HTTP, STDIO, and WebSocket) enabling cross-platform AI memory, multi-agent coordination, and context sharing. Built with MARM protocol for structured reasoning that evolves with your work.",
-  "description_ja": "AIを永続的なメモリ搭載のコラボレーターに変えるツール。HTTP、STDIO、WebSocketに対応したユニバーサルMCPサーバーで、クロスプラットフォームのAIメモリ、マルチエージェント連携、コンテキスト共有を実現。MARMプロトコルによる構造化推論を採用。",
+  "description": "Stop re-explaining yourself to your AI. MARM gives every session persistent memory, cross-agent context sharing, and structured reasoning that builds as you work, not resets. Includes a live web dashboard for browsing memories, logs, and sessions without touching the CLI. Connects over HTTP,  HTTPS,  STDIO to fit any stack or deployment.",
+  "description_ja": "",
   "url": "https://github.com/Lyellr88/MARM-Systems",
   "homepage_url": "",
   "language": "Python",
@@ -30,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-10T06:36:49Z",
-  "updated_at": "2026-05-16T16:37:09Z",
-  "pushed_at": "2026-04-10T09:45:00Z",
+  "updated_at": "2026-05-18T10:40:43Z",
+  "pushed_at": "2026-05-18T10:40:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -96,6 +96,10 @@
     },
     {
       "date": "2026-05-17",
+      "stars": 289
+    },
+    {
+      "date": "2026-05-18",
       "stars": 289
     }
   ]

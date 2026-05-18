@@ -3,7 +3,7 @@
   "owner": "jaccen",
   "name": "awesome-gaussian-skills",
   "full_name": "jaccen/awesome-gaussian-skills",
-  "description": "OpenClaw/Claude Code 生态中最专业的 3D 视觉与计算机图形学技能包集合 ",
+  "description": "AI Agent Skills for 3D Gaussian Splatting, NeRF \u0026 Computer Graphics Research. 516+ methods, 23 categories, 10 skills. OpenClaw / Claude Code compatible.",
   "description_ja": "",
   "url": "https://github.com/jaccen/Awesome-Gaussian-Skills",
   "homepage_url": "https://jaccen.github.io/Awesome-Gaussian-Skills/",
@@ -12,21 +12,28 @@
   "topics": [
     "3d-gaussian-splatting",
     "3d-reconstruction",
+    "3dgs",
     "ai-agent",
+    "ai-skills",
     "claude-code",
     "computer-graphics",
+    "cvpr",
+    "gaussian-splatting",
+    "nerf",
     "neural-rendering",
+    "novel-view-synthesis",
     "openclaw",
-    "skill",
-    "skills"
+    "point-cloud",
+    "research-tools",
+    "siggraph"
   ],
-  "star_count": 45,
+  "star_count": 48,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-28T02:22:27Z",
-  "updated_at": "2026-05-17T14:04:30Z",
-  "pushed_at": "2026-05-17T14:04:27Z",
+  "updated_at": "2026-05-18T14:49:56Z",
+  "pushed_at": "2026-05-18T13:59:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -60,6 +67,10 @@
     {
       "date": "2026-05-17",
       "stars": 45
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 48
     }
   ]
 }

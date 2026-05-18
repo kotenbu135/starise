@@ -6,7 +6,7 @@
   "description": "Go library for accessing the GitHub v3 API",
   "description_ja": "GitHub v3 APIにアクセスするためのGoライブラリ",
   "url": "https://github.com/google/go-github",
-  "homepage_url": "https://pkg.go.dev/github.com/google/go-github/v86/github",
+  "homepage_url": "https://pkg.go.dev/github.com/google/go-github/v87/github",
   "language": "Go",
   "license": "BSD-3-Clause",
   "topics": [
@@ -16,13 +16,13 @@
     "golang",
     "hacktoberfest"
   ],
-  "star_count": 11210,
+  "star_count": 11209,
   "fork_count": 2229,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-05-24T16:42:58Z",
-  "updated_at": "2026-05-17T17:00:13Z",
-  "pushed_at": "2026-05-17T17:00:06Z",
+  "updated_at": "2026-05-18T01:54:54Z",
+  "pushed_at": "2026-05-18T01:54:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -92,6 +92,10 @@
     {
       "date": "2026-05-17",
       "stars": 11210
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 11209
     }
   ]
 }

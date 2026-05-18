@@ -3,13 +3,15 @@
   "owner": "map1en",
   "name": "vrcx-0",
   "full_name": "map1en/vrcx-0",
-  "description": "A modern VRCX fork built with Tauri, focused on performance and usability.",
+  "description": "A modern VRCX fork built with Tauri, with application logic driven by a Rust backend.",
   "description_ja": "",
   "url": "https://github.com/Map1en/VRCX-0",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "GPL-3.0",
   "topics": [
+    "react",
+    "rust",
     "tauri",
     "vrchat"
   ],
@@ -18,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-05T03:43:03Z",
-  "updated_at": "2026-05-17T15:48:36Z",
-  "pushed_at": "2026-05-17T15:48:29Z",
+  "updated_at": "2026-05-18T15:32:57Z",
+  "pushed_at": "2026-05-18T13:47:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +38,10 @@
     },
     {
       "date": "2026-05-17",
+      "stars": 49
+    },
+    {
+      "date": "2026-05-18",
       "stars": 49
     }
   ]

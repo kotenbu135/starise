@@ -3,10 +3,10 @@
   "owner": "kanevry",
   "name": "session-orchestrator",
   "full_name": "kanevry/session-orchestrator",
-  "description": "Claude Code plugin for structured AI development sessions — 5-wave execution, parallel agents, quality gates, VCS integration. Pure Markdown, no runtime code.",
-  "description_ja": "構造化された AI 開発セッションのための Claude Code プラグイン — 5 ウェーブ実行、並列エージェント、品質ゲート、VCS 統合。Pure Markdown、ランタイムコード不要。",
+  "description": "Turn ad-hoc Claude Code sessions into a repeatable loop — wave execution with parallel sub-agents, inter-wave quality gates, dual GitHub+GitLab integration. 36 skills · 16 commands · 11 agents. Works on Claude Code, Codex CLI, Cursor IDE.",
+  "description_ja": "",
   "url": "https://github.com/Kanevry/session-orchestrator",
-  "homepage_url": "https://github.com/Kanevry/session-orchestrator#readme",
+  "homepage_url": "",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
@@ -28,13 +28,13 @@
     "quality-gates",
     "session-management"
   ],
-  "star_count": 46,
+  "star_count": 48,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-02T18:34:17Z",
-  "updated_at": "2026-05-16T19:48:01Z",
-  "pushed_at": "2026-05-16T19:47:57Z",
+  "updated_at": "2026-05-18T19:57:07Z",
+  "pushed_at": "2026-05-18T19:57:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -100,6 +100,10 @@
     {
       "date": "2026-05-17",
       "stars": 46
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 48
     }
   ]
 }

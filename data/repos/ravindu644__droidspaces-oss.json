@@ -3,8 +3,8 @@
   "owner": "ravindu644",
   "name": "droidspaces-oss",
   "full_name": "ravindu644/droidspaces-oss",
-  "description": "A lightweight, LXC-inspired container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
-  "description_ja": "LXCにインスパイアされた軽量なAndroid・Linux向けコンテナランタイム。パフォーマンスのオーバーヘッドなしに完全なLinuxディストリビューションをネイティブ実行できます。",
+  "description": "A lightweight, LXC-like container runtime for Android and Linux. Run full Linux distributions natively with zero performance penalty",
+  "description_ja": "",
   "url": "https://github.com/ravindu644/Droidspaces-OSS",
   "homepage_url": "https://t.me/Droidspaces",
   "language": "Kotlin",
@@ -19,13 +19,13 @@
     "namespaces",
     "rooting"
   ],
-  "star_count": 884,
-  "fork_count": 87,
+  "star_count": 906,
+  "fork_count": 88,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-18T13:42:14Z",
-  "updated_at": "2026-05-17T17:22:47Z",
-  "pushed_at": "2026-05-17T13:09:58Z",
+  "updated_at": "2026-05-18T20:18:16Z",
+  "pushed_at": "2026-05-18T17:29:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -95,6 +95,10 @@
     {
       "date": "2026-05-17",
       "stars": 884
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 906
     }
   ]
 }

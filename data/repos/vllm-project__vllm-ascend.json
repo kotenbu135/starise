@@ -7,7 +7,7 @@
   "description_ja": "Ascend 上の vLLM 向けコミュニティメンテナンスハードウェアプラグイン。",
   "url": "https://github.com/vllm-project/vllm-ascend",
   "homepage_url": "https://docs.vllm.ai/projects/ascend",
-  "language": "Python",
+  "language": "C++",
   "license": "Apache-2.0",
   "topics": [
     "ascend",
@@ -20,13 +20,13 @@
     "transformer",
     "vllm"
   ],
-  "star_count": 2093,
-  "fork_count": 1221,
+  "star_count": 2100,
+  "fork_count": 1227,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-29T10:44:12Z",
-  "updated_at": "2026-05-17T14:57:33Z",
-  "pushed_at": "2026-05-17T14:57:28Z",
+  "updated_at": "2026-05-18T12:57:04Z",
+  "pushed_at": "2026-05-18T12:56:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -96,6 +96,10 @@
     {
       "date": "2026-05-17",
       "stars": 2093
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 2100
     }
   ]
 }

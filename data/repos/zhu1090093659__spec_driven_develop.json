@@ -3,24 +3,36 @@
   "owner": "zhu1090093659",
   "name": "spec_driven_develop",
   "full_name": "zhu1090093659/spec_driven_develop",
-  "description": "A cross-platform AI agent skill that turns \"rewrite this in Rust\" or \"migrate to microservices\" into a disciplined, document-driven workflow — analyze, decompose, track, execute. One SKILL.md, no framework, no runtime. Works with Claude Code, Codex, Cursor, or any agent that reads Markdown.",
-  "description_ja": "「このコードをRustで書き直して」や「マイクロサービスへ移行して」といった指示を、分析・分解・追跡・実行という体系的なドキュメント駆動ワークフローへと変換するクロスプラットフォームAIエージェントスキル。SKILL.md一つで動作し、フレームワークもランタイムも不要。Claude Code、Codex、Cursor、Markdownを読める任意のエージェントで利用できます。",
+  "description": "A structured development methodology for AI coding agents, inspired by Qian Xuesen's engineering cybernetics. Closed-loop feedback control keeps plans aligned with reality. Pure Markdown, any platform.",
+  "description_ja": "",
   "url": "https://github.com/zhu1090093659/spec_driven_develop",
-  "homepage_url": "https://github.com/zhu1090093659/spec_driven_develop",
+  "homepage_url": "",
   "language": "Shell",
   "license": "MIT",
   "topics": [
     "ai-agent",
+    "ai-coding-assistant",
     "claude-code",
+    "codex",
+    "cursor",
+    "dev-workflow",
+    "developer-tools",
+    "engineering-cybernetics",
+    "markdown",
+    "project-planning",
+    "shell",
     "skills",
-    "spec-driven-development"
+    "software-engineering",
+    "spec-driven-development",
+    "structured-thinking",
+    "task-decomposition"
   ],
-  "star_count": 748,
-  "fork_count": 88,
+  "star_count": 795,
+  "fork_count": 92,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-21T09:37:20Z",
-  "updated_at": "2026-05-17T18:04:43Z",
+  "updated_at": "2026-05-18T20:49:49Z",
   "pushed_at": "2026-05-17T11:02:54Z",
   "deleted_at": "",
   "star_history": [
@@ -91,6 +103,10 @@
     {
       "date": "2026-05-17",
       "stars": 748
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 795
     }
   ]
 }

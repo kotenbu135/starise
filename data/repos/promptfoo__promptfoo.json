@@ -3,8 +3,8 @@
   "owner": "promptfoo",
   "name": "promptfoo",
   "full_name": "promptfoo/promptfoo",
-  "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
-  "description_ja": "プロンプト、エージェント、RAG をテスト。AI 向けのレッドチーミング／ペネトレーションテスト／脆弱性スキャン。GPT、Claude、Gemini、Llama などのパフォーマンス比較。シンプルな宣言的設定とコマンドライン・CI/CD 連携。OpenAI と Anthropic が採用。",
+  "description": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic.",
+  "description_ja": "",
   "url": "https://github.com/promptfoo/promptfoo",
   "homepage_url": "https://promptfoo.dev",
   "language": "TypeScript",
@@ -29,13 +29,13 @@
     "testing",
     "vulnerability-scanners"
   ],
-  "star_count": 21328,
-  "fork_count": 1856,
+  "star_count": 21372,
+  "fork_count": 1864,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-28T15:48:49Z",
-  "updated_at": "2026-05-17T17:37:34Z",
-  "pushed_at": "2026-05-17T18:08:22Z",
+  "updated_at": "2026-05-18T20:37:18Z",
+  "pushed_at": "2026-05-18T20:42:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -105,6 +105,10 @@
     {
       "date": "2026-05-17",
       "stars": 21328
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 21372
     }
   ]
 }

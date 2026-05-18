@@ -3,20 +3,41 @@
   "owner": "gautamvhavle",
   "name": "catgpt-gateway",
   "full_name": "gautamvhavle/catgpt-gateway",
-  "description": "A production-grade gateway that exposes the ChatGPT web UI as an OpenAI-compatible API",
+  "description": "Turn your ChatGPT or Claude account into a fully working OpenAI-compatible API. No API keys needed. Supports tool calling, vision, file attachments, and image generation.",
   "description_ja": "",
   "url": "https://github.com/GautamVhavle/CatGPT-Gateway",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 62,
+  "topics": [
+    "ai",
+    "anthropic",
+    "api-gateway",
+    "browser-automation",
+    "chatbot",
+    "chatgpt",
+    "claude",
+    "dall-e",
+    "docker",
+    "fastapi",
+    "function-calling",
+    "langchain",
+    "llm",
+    "openai",
+    "openai-api",
+    "openai-compatible",
+    "playwright",
+    "python",
+    "self-hosted",
+    "tool-calling"
+  ],
+  "star_count": 65,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-17T11:13:42Z",
-  "updated_at": "2026-05-17T15:00:40Z",
-  "pushed_at": "2026-05-15T21:46:51Z",
+  "updated_at": "2026-05-18T13:31:14Z",
+  "pushed_at": "2026-05-18T00:24:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +87,10 @@
     {
       "date": "2026-05-17",
       "stars": 62
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 65
     }
   ]
 }

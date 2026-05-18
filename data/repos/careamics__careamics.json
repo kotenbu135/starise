@@ -3,8 +3,8 @@
   "owner": "careamics",
   "name": "careamics",
   "full_name": "careamics/careamics",
-  "description": "A deep-learning library for denoising images using Noise2Void and friends, with a focus on user-experience and documentation.)",
-  "description_ja": "Noise2Void などを用いた画像ノイズ除去のためのディープラーニングライブラリ。ユーザー体験とドキュメントに重点を置いた設計",
+  "description": "Deep-learning library for image restoration.",
+  "description_ja": "",
   "url": "https://github.com/CAREamics/careamics",
   "homepage_url": "https://careamics.github.io/",
   "language": "Python",
@@ -21,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-27T10:22:28Z",
-  "updated_at": "2026-05-14T13:02:38Z",
-  "pushed_at": "2026-05-17T10:01:23Z",
+  "updated_at": "2026-05-18T08:46:32Z",
+  "pushed_at": "2026-05-18T16:44:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -87,6 +87,10 @@
     },
     {
       "date": "2026-05-17",
+      "stars": 136
+    },
+    {
+      "date": "2026-05-18",
       "stars": 136
     }
   ]

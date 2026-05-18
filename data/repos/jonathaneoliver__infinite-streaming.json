@@ -1,0 +1,45 @@
+{
+  "repo_id": "R_kgDORFzPUA",
+  "owner": "jonathaneoliver",
+  "name": "infinite-streaming",
+  "full_name": "jonathaneoliver/infinite-streaming",
+  "description": "Docker-based HLS/DASH live-like media server for testing video players under deterministic failure conditions. Includes per-session failure injection, traffic shaping, and ABR characterization.",
+  "description_ja": "",
+  "url": "https://github.com/jonathaneoliver/infinite-streaming",
+  "homepage_url": "",
+  "language": "JavaScript",
+  "license": "NOASSERTION",
+  "topics": [
+    "adaptive-bitrate",
+    "avplayer",
+    "chaos-engineering",
+    "dash",
+    "exoplayer",
+    "failure-injection",
+    "ffmpeg",
+    "hls",
+    "live-streaming",
+    "ll-dash",
+    "ll-hls",
+    "low-latency-streaming",
+    "network-emulation",
+    "self-hosted",
+    "shaka-packager",
+    "video-streaming",
+    "video-testing"
+  ],
+  "star_count": 49,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-01-31T23:06:02Z",
+  "updated_at": "2026-05-10T07:54:15Z",
+  "pushed_at": "2026-05-18T20:53:29Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-18",
+      "stars": 49
+    }
+  ]
+}

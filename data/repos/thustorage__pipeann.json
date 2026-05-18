@@ -6,9 +6,9 @@
   "description": "A low-latency, billion-scale, and updatable graph-based vector store on SSD.",
   "description_ja": "SSD上の低レイテンシ・10億スケール・更新可能なグラフベースベクトルストア",
   "url": "https://github.com/thustorage/PipeANN",
-  "homepage_url": "",
-  "language": "Jupyter Notebook",
-  "license": "MIT",
+  "homepage_url": "https://thustorage.github.io/PipeANN/",
+  "language": "C++",
+  "license": "Apache-2.0",
   "topics": [
     "anns",
     "approximate-nearest-neighbor-search",
@@ -23,13 +23,13 @@
     "vector-store",
     "vector-update"
   ],
-  "star_count": 121,
+  "star_count": 122,
   "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-22T06:31:56Z",
-  "updated_at": "2026-05-17T02:12:59Z",
-  "pushed_at": "2026-04-24T08:31:25Z",
+  "updated_at": "2026-05-18T06:17:33Z",
+  "pushed_at": "2026-05-18T03:20:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +99,10 @@
     {
       "date": "2026-05-17",
       "stars": 121
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 122
     }
   ]
 }

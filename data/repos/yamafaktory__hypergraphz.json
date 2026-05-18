@@ -3,8 +3,8 @@
   "owner": "yamafaktory",
   "name": "hypergraphz",
   "full_name": "yamafaktory/hypergraphz",
-  "description": "HypergraphZ - A Hypergraph Implementation in Zig",
-  "description_ja": "HypergraphZ - Zig によるハイパーグラフの実装",
+  "description": "HypergraphZ – directed hypergraph library in Zig with Python bindings",
+  "description_ja": "",
   "url": "https://github.com/yamafaktory/hypergraphz",
   "homepage_url": "https://yamafaktory.github.io/hypergraphz/",
   "language": "Zig",
@@ -14,18 +14,21 @@
     "graph-algorithms",
     "graph-theory",
     "hypergraph",
+    "pipy",
+    "pipy-package",
+    "python",
     "zig",
     "zig-library",
     "zig-package",
     "ziglang"
   ],
-  "star_count": 122,
-  "fork_count": 2,
+  "star_count": 126,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-25T21:03:49Z",
-  "updated_at": "2026-05-17T18:20:39Z",
-  "pushed_at": "2026-05-17T18:20:35Z",
+  "updated_at": "2026-05-18T15:18:47Z",
+  "pushed_at": "2026-05-17T19:04:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +94,10 @@
     {
       "date": "2026-05-17",
       "stars": 122
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 126
     }
   ]
 }

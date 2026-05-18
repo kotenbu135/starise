@@ -3,20 +3,40 @@
   "owner": "dancolta",
   "name": "seo-drift-monitor",
   "full_name": "dancolta/seo-drift-monitor",
-  "description": "SEO Drift Monitor - A defensive SEO extension for claude-seo that detects when page changes break critical SEO elements. Baselines pages, detects regressions in schema, headings, meta tags, canonical, and Core Web Vitals. Generates visual before/after diff reports with fix recommendations. Built as a Claude Code skill.",
+  "description": "Detects when a deploy silently ships a noindex, drops a schema block, or rewrites your canonical. Baselines a page's SEO contract, diffs every change with Critical/Warning/Info severity, and points fixes to claude-seo sub-skills. A Claude Code skill. Open source.",
   "description_ja": "",
   "url": "https://github.com/dancolta/seo-drift-monitor",
   "homepage_url": "https://seo-drift-demo.vercel.app",
   "language": "Python",
   "license": "",
-  "topics": [],
+  "topics": [
+    "claude-code",
+    "claude-seo",
+    "claude-skill",
+    "contentking-alternative",
+    "deploy-monitoring",
+    "developer-tools",
+    "json-ld",
+    "little-warden-alternative",
+    "meta-tags",
+    "noindex-detection",
+    "open-source",
+    "regression-detection",
+    "schema-validation",
+    "seo",
+    "seo-automation",
+    "seo-monitoring",
+    "seo-regression",
+    "seo-tools",
+    "technical-seo"
+  ],
   "star_count": 10,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T12:33:21Z",
-  "updated_at": "2026-04-28T00:18:57Z",
-  "pushed_at": "2026-04-07T13:01:25Z",
+  "updated_at": "2026-05-18T18:01:18Z",
+  "pushed_at": "2026-05-18T18:00:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -73,6 +93,10 @@
     },
     {
       "date": "2026-05-17",
+      "stars": 10
+    },
+    {
+      "date": "2026-05-18",
       "stars": 10
     }
   ]

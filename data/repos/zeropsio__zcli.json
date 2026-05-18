@@ -3,25 +3,26 @@
   "owner": "zeropsio",
   "name": "zcli",
   "full_name": "zeropsio/zcli",
-  "description": "Zerops command line utility",
-  "description_ja": "Zerops コマンドラインユーティリティ",
+  "description": "Zerops CLI",
+  "description_ja": "",
   "url": "https://github.com/zeropsio/zcli",
-  "homepage_url": "",
+  "homepage_url": "https://zerops.io",
   "language": "Go",
   "license": "MIT",
   "topics": [
     "cli",
     "devops",
     "golang",
-    "hacktoberfest"
+    "hacktoberfest",
+    "zerops"
   ],
   "star_count": 35,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-05T06:33:59Z",
-  "updated_at": "2026-04-23T09:33:39Z",
-  "pushed_at": "2026-05-15T11:34:02Z",
+  "updated_at": "2026-05-18T13:59:59Z",
+  "pushed_at": "2026-05-18T13:57:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +87,10 @@
     },
     {
       "date": "2026-05-17",
+      "stars": 35
+    },
+    {
+      "date": "2026-05-18",
       "stars": 35
     }
   ]

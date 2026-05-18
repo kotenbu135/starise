@@ -3,7 +3,7 @@
   "owner": "vinhnx",
   "name": "vtcode",
   "full_name": "vinhnx/vtcode",
-  "description": "Open-source coding agent with code understanding and robust shell safety. A self-research and learn by doing built by engineers, and for everyone..",
+  "description": "VT Code is an open-source coding agent with LLM-native code understanding and robust shell safety. Supports multiple LLM providers with automatic failover and efficient context management.",
   "description_ja": "",
   "url": "https://github.com/vinhnx/VTCode",
   "homepage_url": "https://vinhnx.github.io",
@@ -20,12 +20,12 @@
     "terminal",
     "tui"
   ],
-  "star_count": 595,
+  "star_count": 597,
   "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-29T09:01:48Z",
-  "updated_at": "2026-05-17T16:50:49Z",
+  "updated_at": "2026-05-18T18:15:46Z",
   "pushed_at": "2026-05-16T03:11:22Z",
   "deleted_at": "",
   "star_history": [
@@ -92,6 +92,10 @@
     {
       "date": "2026-05-17",
       "stars": 595
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 597
     }
   ]
 }

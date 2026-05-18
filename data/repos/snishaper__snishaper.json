@@ -3,7 +3,7 @@
   "owner": "snishaper",
   "name": "snishaper",
   "full_name": "snishaper/snishaper",
-  "description": "通过域前置，ECH，TLS分片，QUIC直连和动态反代中转绕过任意SNI阻断的桌面代理工具，直连的全功能平台。",
+  "description": "通过域前置，ECH，TLS分片，QUIC直连和动态反代中转绕过任意SNI阻断的桌面代理工具，DNS层同样抗污染阻断，直连的全功能平台。",
   "description_ja": "",
   "url": "https://github.com/SniShaper/SniShaper",
   "homepage_url": "https://dongle.dpdns.org",
@@ -29,7 +29,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-17T06:09:53Z",
-  "updated_at": "2026-05-17T14:18:14Z",
+  "updated_at": "2026-05-18T12:47:12Z",
   "pushed_at": "2026-05-15T09:54:23Z",
   "deleted_at": "",
   "star_history": [
@@ -99,6 +99,10 @@
     },
     {
       "date": "2026-05-17",
+      "stars": 78
+    },
+    {
+      "date": "2026-05-18",
       "stars": 78
     }
   ]
