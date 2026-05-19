@@ -3,8 +3,8 @@
   "owner": "agenticmail",
   "name": "agenticmail",
   "full_name": "agenticmail/agenticmail",
-  "description": "Email \u0026 SMS infrastructure for AI agents — send and receive real email and text messages programmatically",
-  "description_ja": "[31] AIエージェント向けのメール・SMSインフラ — プログラムからリアルなメールとテキストメッセージを送受信",
+  "description": "Email, SMS \u0026 phone-call infrastructure for AI agents — send and receive real email and text messages, and place agent-driven outbound voice calls, all programmatically",
+  "description_ja": "",
   "url": "https://github.com/agenticmail/agenticmail",
   "homepage_url": "https://www.npmjs.com/package/agenticmail",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "smtp",
     "typescript"
   ],
-  "star_count": 125,
+  "star_count": 127,
   "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-14T08:07:52Z",
-  "updated_at": "2026-05-18T19:47:15Z",
-  "pushed_at": "2026-05-18T19:47:11Z",
+  "updated_at": "2026-05-19T19:17:41Z",
+  "pushed_at": "2026-05-19T19:17:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -111,6 +111,10 @@
     {
       "date": "2026-05-18",
       "stars": 125
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 127
     }
   ]
 }

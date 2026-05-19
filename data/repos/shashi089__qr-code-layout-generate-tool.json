@@ -3,13 +3,15 @@
   "owner": "shashi089",
   "name": "qr-code-layout-generate-tool",
   "full_name": "shashi089/qr-code-layout-generate-tool",
-  "description": "A powerful, framework-agnostic QR code label designer and printing engine for any web framework (React, Vue, Svelte) \u0026 Node.js. Create dynamic, pixel-perfect layouts and export to PDF, PNG, or ZPL for thermal printers.",
+  "description": "Framework-agnostic QR code label \u0026 badge designer for React, Angular, Vue, Svelte \u0026 Node.js.  Drag-and-drop layout designer with {{variable}} data binding.  Batch export to PDF, PNG, or ZPL for Zebra thermal printers.",
   "description_ja": "",
   "url": "https://github.com/shashi089/qr-code-layout-generate-tool",
   "homepage_url": "https://qr-layout-designer.netlify.app/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "angular-qr-code",
+    "angular-qr-code-label",
     "label-printer",
     "npm-package",
     "open-source",
@@ -20,12 +22,9 @@
     "qr-code-layout",
     "qr-label-printer",
     "qr-labels",
-    "qr-layout",
     "qrcode",
     "react-qr-code",
-    "svelte",
     "svelte-qrcode",
-    "sveltekit",
     "vue-qrcode",
     "warehouse-management",
     "zpl",
@@ -36,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-08T14:14:57Z",
-  "updated_at": "2026-05-17T05:38:32Z",
-  "pushed_at": "2026-05-17T05:38:28Z",
+  "updated_at": "2026-05-19T15:28:07Z",
+  "pushed_at": "2026-05-19T15:17:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +45,10 @@
     },
     {
       "date": "2026-05-18",
+      "stars": 29
+    },
+    {
+      "date": "2026-05-19",
       "stars": 29
     }
   ]

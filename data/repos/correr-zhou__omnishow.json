@@ -3,18 +3,20 @@
   "owner": "correr-zhou",
   "name": "omnishow",
   "full_name": "correr-zhou/omnishow",
-  "description": "ByteDance's All-in-One Video Generation Model for Human-Object Interaction Video Generation",
-  "description_ja": "人物と物体のインタラクション動画生成に向けた ByteDance のオールインワン動画生成モデル",
+  "description": "[ICML 2026] ByteDance's All-in-One Video Generation Model for Human-Object Interaction Video Generation",
+  "description_ja": "",
   "url": "https://github.com/Correr-Zhou/OmniShow",
   "homepage_url": "https://correr-zhou.github.io/OmniShow/",
-  "language": "",
-  "license": "",
+  "language": "Python",
+  "license": "Apache-2.0",
   "topics": [
     "aigc",
     "computer-vision",
     "deep-learning",
     "diffusion-models",
     "dit",
+    "icml",
+    "icml-2026",
     "large-models",
     "mmdit",
     "multimodal-ai",
@@ -22,13 +24,13 @@
     "video-generation",
     "visual-generation"
   ],
-  "star_count": 361,
+  "star_count": 363,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-04T05:10:38Z",
-  "updated_at": "2026-05-18T11:45:11Z",
-  "pushed_at": "2026-05-02T15:29:40Z",
+  "updated_at": "2026-05-19T14:00:05Z",
+  "pushed_at": "2026-05-19T13:55:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +100,10 @@
     {
       "date": "2026-05-18",
       "stars": 361
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 363
     }
   ]
 }

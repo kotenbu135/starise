@@ -3,25 +3,25 @@
   "owner": "qiantongtech",
   "name": "qknow",
   "full_name": "qiantongtech/qknow",
-  "description": "qKnow is an open-source knowledge platform built around Knowledge Graphs, offering capabilities for knowledge extraction, knowledge fusion, graph construction, and visualization. It helps enterprises and organizations build structured, queryable, and inferable knowledge systems.",
-  "description_ja": "qKnowはナレッジグラフを核としたオープンソースの知識プラットフォームで、知識抽出・知識融合・グラフ構築・可視化の機能を提供します。企業や組織が構造化された、クエリ・推論可能な知識システムを構築するのに役立ちます。",
+  "description": "qKnow is an open-source intelligent agent platform for enterprise knowledge and industry AI. It unifies documents and data via Knowledge Graphs and RAG, enabling businesses to rapidly build knowledge hubs, smart Q\u0026A, and custom AI bots.",
+  "description_ja": "",
   "url": "https://github.com/qiantongtech/qKnow",
-  "homepage_url": "https://qknow.qiantong.tech/",
+  "homepage_url": "https://community.qknow.ai/",
   "language": "Java",
   "license": "NOASSERTION",
   "topics": [
-    "graph-visualization",
-    "knowledge-extraction",
+    "ai-agent",
+    "enterprise-ai",
     "knowledge-graph",
-    "llm-applications",
+    "llmops",
     "rag"
   ],
-  "star_count": 225,
+  "star_count": 226,
   "fork_count": 55,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-17T02:24:25Z",
-  "updated_at": "2026-05-18T09:38:40Z",
+  "updated_at": "2026-05-19T14:26:41Z",
   "pushed_at": "2026-05-15T09:57:21Z",
   "deleted_at": "",
   "star_history": [
@@ -96,6 +96,10 @@
     {
       "date": "2026-05-18",
       "stars": 225
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 226
     }
   ]
 }

@@ -1,0 +1,35 @@
+{
+  "repo_id": "R_kgDOPQhRxg",
+  "owner": "yokumii",
+  "name": "cross-dc-simulator",
+  "full_name": "yokumii/cross-dc-simulator",
+  "description": "A high-fidelity NS-3 simulator for cross–data center RDMA networks, built on High-Precision-Congestion-Control and conweave-ns3. It extends single-DC RDMA load balancing with multi–data center topologies, message-aware FEC with hierarchical interleaving, and EdgeCNP for improved congestion control across wide-area links.",
+  "description_ja": "",
+  "url": "https://github.com/Yokumii/cross-dc-simulator",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "GPL-2.0",
+  "topics": [
+    "cross-datacenter",
+    "cross-dc",
+    "datacenter",
+    "fec",
+    "ns3",
+    "ns3-simulator",
+    "rdma"
+  ],
+  "star_count": 9,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-07-22T01:11:07Z",
+  "updated_at": "2026-05-19T07:42:47Z",
+  "pushed_at": "2026-04-11T05:19:08Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-19",
+      "stars": 9
+    }
+  ]
+}

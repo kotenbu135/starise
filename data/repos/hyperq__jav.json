@@ -3,27 +3,40 @@
   "owner": "hyperq",
   "name": "jav",
   "full_name": "hyperq/jav",
-  "description": "Crawl javbus Magnet",
+  "description": "🎬 A beautiful Rust TUI client for JavBus — search, browse, preview images in terminal (Kitty protocol), manage favorites \u0026 push magnets to 115 cloud. Catppuccin Frappé theme.",
   "description_ja": "",
   "url": "https://github.com/hyperq/jav",
   "homepage_url": "",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "115-cloud",
+    "async-rust",
+    "catppuccin",
+    "cli",
     "crawl",
+    "crossterm",
     "go",
+    "image-preview",
     "jav",
     "javbus",
+    "kitty-protocol",
     "magnet",
-    "spider"
+    "ratatui",
+    "rust",
+    "scraper",
+    "spider",
+    "sqlite",
+    "terminal",
+    "tui"
   ],
-  "star_count": 39,
+  "star_count": 40,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-02-27T13:31:30Z",
-  "updated_at": "2026-05-18T03:52:16Z",
-  "pushed_at": "2026-05-17T14:10:32Z",
+  "updated_at": "2026-05-19T07:04:17Z",
+  "pushed_at": "2026-05-19T07:05:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +46,10 @@
     {
       "date": "2026-05-18",
       "stars": 39
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 40
     }
   ]
 }

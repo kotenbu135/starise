@@ -3,8 +3,8 @@
   "owner": "alexxdal",
   "name": "esp32wifiphisher",
   "full_name": "alexxdal/esp32wifiphisher",
-  "description": "WifiPhisher implementation on ESP32",
-  "description_ja": "ESP32上で動作するWifiPhisher実装。",
+  "description": "Headless Wireless Penetration Testing on ESP32",
+  "description_ja": "",
   "url": "https://github.com/Alexxdal/ESP32WifiPhisher",
   "homepage_url": "https://espwifiphisher.alexxdal.com",
   "language": "C",
@@ -27,13 +27,13 @@
     "wifiphisher",
     "wpa2"
   ],
-  "star_count": 160,
+  "star_count": 159,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-15T15:49:56Z",
-  "updated_at": "2026-05-17T06:48:04Z",
-  "pushed_at": "2026-05-18T19:49:18Z",
+  "updated_at": "2026-05-18T20:58:36Z",
+  "pushed_at": "2026-05-19T20:04:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +103,10 @@
     {
       "date": "2026-05-18",
       "stars": 160
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 159
     }
   ]
 }

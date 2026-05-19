@@ -3,20 +3,20 @@
   "owner": "wangnengdejiamao",
   "name": "astro_agent",
   "full_name": "wangnengdejiamao/astro_agent",
-  "description": "面向白矮星、双星和多波段巡天研究的 Python 工具箱。它把光谱、测光、光变曲线、SED、HR 图、视向速度、冷却年龄和轨道回溯放在一套统一接口里，也内置了 KOA/Keck LRIS 的下载与一维谱提取流程。",
+  "description": "End-to-end astronomy research agent: a LangGraph state machine that resolves a target, fetches multi-survey data via    a 20+ archive toolbox, runs three mandatory modeling iterations with supervisor-issued repair actions, and drafts an    ApJ-style manuscript only after an evidence-gated QA pass",
   "description_ja": "",
   "url": "https://github.com/wangnengdejiamao/Astro_Agent",
   "homepage_url": "",
   "language": "Python",
   "license": "",
   "topics": [],
-  "star_count": 62,
-  "fork_count": 4,
+  "star_count": 85,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-27T08:34:42Z",
-  "updated_at": "2026-05-18T20:23:44Z",
-  "pushed_at": "2026-05-15T07:59:43Z",
+  "updated_at": "2026-05-19T15:51:05Z",
+  "pushed_at": "2026-05-19T03:18:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -26,6 +26,10 @@
     {
       "date": "2026-05-18",
       "stars": 62
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 85
     }
   ]
 }

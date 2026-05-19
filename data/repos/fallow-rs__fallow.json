@@ -3,8 +3,8 @@
   "owner": "fallow-rs",
   "name": "fallow",
   "full_name": "fallow-rs/fallow",
-  "description": "Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, 90 framework plugins.",
-  "description_ja": "TypeScript・JavaScript 向けコードベースインテリジェンス。無料の静的レイヤー（未使用コード、重複、循環依存、複雑性ホットスポット、アーキテクチャ境界）と、実際の本番トラフィックによるホットパスレビューおよびコールドパス削除エビデンスを提供するオプションの有料ランタイムレイヤー。Rust ネイティブ、サブ秒、90 フレームワークプラグイン対応。",
+  "description": "Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, 95 framework plugins.",
+  "description_ja": "",
   "url": "https://github.com/fallow-rs/fallow",
   "homepage_url": "https://docs.fallow.tools",
   "language": "Rust",
@@ -19,8 +19,6 @@
     "developer-tools",
     "duplicate-code",
     "javascript",
-    "jscpd",
-    "knip",
     "linter",
     "oxc",
     "runtime-intelligence",
@@ -31,13 +29,13 @@
     "unused-dependencies",
     "unused-exports"
   ],
-  "star_count": 2370,
+  "star_count": 2378,
   "fork_count": 58,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-17T08:40:57Z",
-  "updated_at": "2026-05-18T19:04:42Z",
-  "pushed_at": "2026-05-18T19:50:54Z",
+  "updated_at": "2026-05-19T20:09:28Z",
+  "pushed_at": "2026-05-19T16:05:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -107,6 +105,10 @@
     {
       "date": "2026-05-18",
       "stars": 2370
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 2378
     }
   ]
 }
