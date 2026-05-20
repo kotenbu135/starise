@@ -3,8 +3,8 @@
   "owner": "extv",
   "name": "podroid",
   "full_name": "extv/podroid",
-  "description": "Rootless Podman for Android — run Linux containers on your phone",
-  "description_ja": "Android向けルートレスPodman — スマートフォンでLinuxコンテナを実行。",
+  "description": "A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.",
+  "description_ja": "",
   "url": "https://github.com/ExTV/Podroid",
   "homepage_url": "https://extv.github.io/Podroid/",
   "language": "Java",
@@ -15,13 +15,13 @@
     "shell",
     "virtual-machine"
   ],
-  "star_count": 1370,
+  "star_count": 1377,
   "fork_count": 74,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T01:04:26Z",
-  "updated_at": "2026-05-19T19:30:18Z",
-  "pushed_at": "2026-05-19T09:50:00Z",
+  "updated_at": "2026-05-20T20:43:56Z",
+  "pushed_at": "2026-05-20T20:43:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +99,10 @@
     {
       "date": "2026-05-19",
       "stars": 1370
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 1377
     }
   ]
 }

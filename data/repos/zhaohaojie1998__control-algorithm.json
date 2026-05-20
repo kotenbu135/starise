@@ -1,0 +1,44 @@
+{
+  "repo_id": "R_kgDOH5Dx1Q",
+  "owner": "zhaohaojie1998",
+  "name": "control-algorithm",
+  "full_name": "zhaohaojie1998/control-algorithm",
+  "description": "控制算法，状态、输出反馈控制。ADRC自抗扰控制，抗积分饱和PID控制，增量式PID控制，模糊FuzzyPID控制，线性二次型调节器LQR控制，线性二次型积分器LQI控制，迭代iLQR控制，模型预测MPC控制，AI智能控制，启发算法控制，强化学习SAC、PPO控制，无人机、机器人、小车轨迹跟踪控制",
+  "description_ja": "",
+  "url": "https://github.com/zhaohaojie1998/Control-Algorithm",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "",
+  "topics": [
+    "adrc",
+    "feedback-control",
+    "fuzzy-pid",
+    "ilqr",
+    "lqi",
+    "lqr",
+    "lqr-control",
+    "mpc",
+    "mpc-control",
+    "path-tracking",
+    "pid",
+    "ppo",
+    "ppo-pytorch",
+    "sac",
+    "sac-pytorch",
+    "trajectory-tracking"
+  ],
+  "star_count": 294,
+  "fork_count": 44,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2022-08-27T13:25:39Z",
+  "updated_at": "2026-05-20T04:51:35Z",
+  "pushed_at": "2026-03-13T11:27:27Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-20",
+      "stars": 294
+    }
+  ]
+}

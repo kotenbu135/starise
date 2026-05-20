@@ -6,7 +6,7 @@
   "description": "Unofficial Linux packages for Claude Desktop AI assistant with automated updates.",
   "description_ja": "自動更新付きのClaude Desktop AIアシスタント向け非公式Linuxパッケージ。",
   "url": "https://github.com/patrickjaja/claude-desktop-bin",
-  "homepage_url": "https://www.reddit.com/r/ClaudeAI/comments/1r871b0/claude_desktop_on_linux_chat_cowork_code/",
+  "homepage_url": "https://patrickjaja.github.io/claude-desktop-bin/",
   "language": "Nim",
   "license": "MIT",
   "topics": [
@@ -22,13 +22,13 @@
     "rpm",
     "wayland"
   ],
-  "star_count": 342,
-  "fork_count": 17,
+  "star_count": 346,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-16T11:19:05Z",
-  "updated_at": "2026-05-19T18:38:59Z",
-  "pushed_at": "2026-05-19T19:52:56Z",
+  "updated_at": "2026-05-20T19:38:17Z",
+  "pushed_at": "2026-05-20T14:34:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -102,6 +102,10 @@
     {
       "date": "2026-05-19",
       "stars": 342
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 346
     }
   ]
 }

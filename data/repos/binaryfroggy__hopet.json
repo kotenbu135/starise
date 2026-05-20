@@ -3,7 +3,7 @@
   "owner": "binaryfroggy",
   "name": "hopet",
   "full_name": "binaryfroggy/hopet",
-  "description": "A macOS desktop AI pet that mirrors your Claude Code \u0026 Codex CLI session state in real time.把 Claude Code 与 Codex CLI 的会话状态实时映射到桌面的 macOS AI 宠物。",
+  "description": "A macOS desktop AI pet that mirrors your Claude Code \u0026 Codex CLI session state in real time. 支持Claude Code和Codex CLI 的像素风AI桌面宠物，会话状态实时映射，支持导入自定义宠物素材。",
   "description_ja": "",
   "url": "https://github.com/BinaryFroggy/Hopet",
   "homepage_url": "",
@@ -29,12 +29,12 @@
     "swift-package-manager",
     "swiftui"
   ],
-  "star_count": 44,
+  "star_count": 46,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T09:51:23Z",
-  "updated_at": "2026-05-19T16:55:40Z",
+  "updated_at": "2026-05-20T14:15:18Z",
   "pushed_at": "2026-05-12T08:38:11Z",
   "deleted_at": "",
   "star_history": [
@@ -45,6 +45,10 @@
     {
       "date": "2026-05-19",
       "stars": 44
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 46
     }
   ]
 }

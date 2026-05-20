@@ -3,7 +3,7 @@
   "owner": "akitaengineering",
   "name": "akita-meshtak",
   "full_name": "akitaengineering/akita-meshtak",
-  "description": "The Akita MeshTAK Plugin is an Android Tactical Assault Kit (ATAK) plugin designed to facilitate communication with Akita Mesh devices. This plugin enables ATAK users to send and receive data, including location information and potentially other sensor data, over both Bluetooth Low Energy (BLE) and serial (USB) connections.",
+  "description": "The Akita MeshTAK Plugin is a game-changing Android Tactical Assault Kit (ATAK) plugin meticulously crafted to bridge the gap between ATAK and Meshtastic, providing unparalleled communication capabilities in the most challenging and disconnected environments.",
   "description_ja": "",
   "url": "https://github.com/AkitaEngineering/Akita-MeshTAK",
   "homepage_url": "https://akitaengineering.com",
@@ -13,15 +13,21 @@
     "akita",
     "akita-engineering",
     "atak",
+    "emergency",
+    "emergency-response",
     "mesh",
-    "meshtastic"
+    "meshtak",
+    "meshtastic",
+    "offgrid",
+    "sar",
+    "tak"
   ],
   "star_count": 9,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-14T19:38:31Z",
-  "updated_at": "2026-05-14T08:46:34Z",
+  "updated_at": "2026-05-20T00:42:57Z",
   "pushed_at": "2026-04-19T01:01:31Z",
   "deleted_at": "",
   "star_history": [
@@ -47,6 +53,10 @@
     },
     {
       "date": "2026-05-19",
+      "stars": 9
+    },
+    {
+      "date": "2026-05-20",
       "stars": 9
     }
   ]

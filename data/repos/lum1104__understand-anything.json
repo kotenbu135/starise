@@ -3,8 +3,8 @@
   "owner": "lum1104",
   "name": "understand-anything",
   "full_name": "lum1104/understand-anything",
-  "description": "Graphs that teach \u003e graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-  "description_ja": "感動させるグラフより、教えるグラフを。あらゆるコードやナレッジベース（Karpathy LLM wiki）を、探索・検索・質問できるインタラクティブな知識グラフに変換します。Claude Code、Codex、Cursor、Copilot、Gemini CLIなどに対応。",
+  "description": "Graphs that teach \u003e graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+  "description_ja": "",
   "url": "https://github.com/Lum1104/Understand-Anything",
   "homepage_url": "https://understand-anything.com",
   "language": "TypeScript",
@@ -25,13 +25,13 @@
     "pi-agent",
     "understandcode"
   ],
-  "star_count": 15240,
-  "fork_count": 1448,
+  "star_count": 15582,
+  "fork_count": 1478,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T02:30:51Z",
-  "updated_at": "2026-05-19T20:56:47Z",
-  "pushed_at": "2026-05-19T07:13:35Z",
+  "updated_at": "2026-05-20T21:15:52Z",
+  "pushed_at": "2026-05-20T00:53:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -109,6 +109,10 @@
     {
       "date": "2026-05-19",
       "stars": 15240
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 15582
     }
   ]
 }

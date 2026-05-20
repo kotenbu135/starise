@@ -3,20 +3,20 @@
   "owner": "safo-lab",
   "name": "agentdyn",
   "full_name": "safo-lab/agentdyn",
-  "description": "The official implementation of the paper \"AgentDyn: A Dynamic Open-Ended Benchmark for Evaluating Prompt Injection Attacks of Real-World Agent Security System\".",
-  "description_ja": "論文「AgentDyn: 実世界エージェントセキュリティシステムのプロンプトインジェクション攻撃評価のための動的オープンエンドベンチマーク」の公式実装",
+  "description": "The official implementation of the paper \"AgentDyn: Are Your Agent Security Defenses Deployable in Real-World Dynamic Environments?\"",
+  "description_ja": "",
   "url": "https://github.com/SaFo-Lab/AgentDyn",
   "homepage_url": "https://arxiv.org/pdf/2602.03117",
   "language": "Python",
   "license": "MIT",
   "topics": [],
-  "star_count": 51,
+  "star_count": 53,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-29T04:13:45Z",
-  "updated_at": "2026-05-18T14:22:39Z",
-  "pushed_at": "2026-05-02T23:32:12Z",
+  "updated_at": "2026-05-20T07:22:33Z",
+  "pushed_at": "2026-05-19T21:56:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +90,10 @@
     {
       "date": "2026-05-19",
       "stars": 51
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 53
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "robertzaage",
   "name": "grobro",
   "full_name": "robertzaage/grobro",
-  "description": "GroBro is a bridge service that decodes encrypted MQTT packets from Growatt NEO/SPF inverters, NOAH/NEXA batteries and ShineWeLink dataloggers and republishes them in a format compatible with Home Assistant. Works local-only and with Growatt cloud.",
+  "description": "GroBro is a bridge service that decodes encrypted MQTT packets from Growatt NEO/SPF/TL-XH2 inverters, NOAH/NEXA batteries and ShineWeLink-X2 dataloggers and republishes them in a format compatible with Home Assistant. Works local-only and with Growatt cloud.",
   "description_ja": "",
   "url": "https://github.com/robertzaage/GroBro",
   "homepage_url": "",
@@ -20,15 +20,16 @@
     "noah",
     "shinewelink",
     "solar",
-    "spf"
+    "spf",
+    "tl-xh2"
   ],
   "star_count": 104,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-28T16:57:33Z",
-  "updated_at": "2026-05-19T21:08:12Z",
-  "pushed_at": "2026-05-19T21:08:08Z",
+  "updated_at": "2026-05-19T21:54:19Z",
+  "pushed_at": "2026-05-19T21:53:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -77,6 +78,10 @@
     },
     {
       "date": "2026-05-19",
+      "stars": 104
+    },
+    {
+      "date": "2026-05-20",
       "stars": 104
     }
   ]

@@ -7,7 +7,7 @@
   "description_ja": "OpikのためのModel Context Protocol (MCP)実装。シームレスなIDE統合と、プロンプト・プロジェクト・トレース・メトリクスへの統合アクセスを提供する。",
   "url": "https://github.com/comet-ml/opik-mcp",
   "homepage_url": "https://www.comet.com/opik/",
-  "language": "TypeScript",
+  "language": "Python",
   "license": "Apache-2.0",
   "topics": [
     "generative-ai",
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-11T16:31:03Z",
-  "updated_at": "2026-05-17T10:58:08Z",
-  "pushed_at": "2026-05-19T16:24:45Z",
+  "updated_at": "2026-05-20T14:09:44Z",
+  "pushed_at": "2026-05-20T14:06:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +98,10 @@
     },
     {
       "date": "2026-05-19",
+      "stars": 204
+    },
+    {
+      "date": "2026-05-20",
       "stars": 204
     }
   ]
