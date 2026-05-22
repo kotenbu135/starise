@@ -3,7 +3,7 @@
   "owner": "dagucloud",
   "name": "dagu",
   "full_name": "dagucloud/dagu",
-  "description": "Local-first control plane for data scripts, SQL, containers, SSH commands. One binary, file-backed state, no external database or broker. Use your favorite AI agents to create, update, and run your workflows via MCP.",
+  "description": "The control plane for teams looking to automate real work with AI agents within their own infrastructure. Packaged as a single binary, it runs on Linux, macOS, and Windows. Use your favorite AI agents to create, update, and run your workflows via secure MCP with full traceability and logging.",
   "description_ja": "",
   "url": "https://github.com/dagucloud/dagu",
   "homepage_url": "https://dagu.sh",
@@ -11,31 +11,30 @@
   "license": "GPL-3.0",
   "topics": [
     "agentic-workflow",
-    "ai-agents",
-    "continuous-delivery",
     "cron",
-    "dag",
     "data-pipeline",
     "devops",
-    "directed-acyclic-graph",
     "durable-execution",
     "durable-workflows",
     "human-in-the-loop",
     "job-scheduler",
+    "mcp-server",
+    "multiplayer-agent",
+    "self-service",
+    "selfservice-portal",
     "task-automation",
     "task-scheduler",
     "workflow-engine",
-    "workflow-management",
     "workflow-orchestration",
     "workflow-scheduler"
   ],
-  "star_count": 3413,
-  "fork_count": 265,
+  "star_count": 3417,
+  "fork_count": 268,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-22T13:00:42Z",
-  "updated_at": "2026-05-20T19:35:07Z",
-  "pushed_at": "2026-05-20T15:03:57Z",
+  "updated_at": "2026-05-22T15:28:56Z",
+  "pushed_at": "2026-05-22T15:02:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -113,6 +112,10 @@
     {
       "date": "2026-05-20",
       "stars": 3413
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 3417
     }
   ]
 }

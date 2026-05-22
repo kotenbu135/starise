@@ -7,9 +7,10 @@
   "description_ja": "",
   "url": "https://github.com/TickDB/tickdb-unified-realtime-marketdata-api",
   "homepage_url": "https://tickdb.ai",
-  "language": "",
+  "language": "Python",
   "license": "MIT",
   "topics": [
+    "cli",
     "commodities",
     "cryptocurrency",
     "financial-data",
@@ -17,20 +18,22 @@
     "indices",
     "kline",
     "market-data",
+    "mcp",
     "order-book",
     "real-time",
     "rest-api",
+    "skill",
     "stocks",
     "tick-data",
     "websocket"
   ],
-  "star_count": 317,
+  "star_count": 326,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-11T03:48:10Z",
-  "updated_at": "2026-05-20T11:51:08Z",
-  "pushed_at": "2026-05-11T16:26:34Z",
+  "updated_at": "2026-05-22T20:35:12Z",
+  "pushed_at": "2026-05-22T03:26:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -60,6 +63,10 @@
     {
       "date": "2026-05-20",
       "stars": 317
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 326
     }
   ]
 }

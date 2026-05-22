@@ -3,7 +3,7 @@
   "owner": "proxysoul",
   "name": "soulforge",
   "full_name": "proxysoul/soulforge",
-  "description": "Terminal AI that reads code as code. AST surgery, LSP operations, a live dependency graph — not grep-and-paste.",
+  "description": "AI coding agent that edits symbols, not strings. AST surgery, full LSP, and a live code graph wired to memory that resurfaces by file, co-change, and semantics.",
   "description_ja": "",
   "url": "https://github.com/proxysoul/soulforge",
   "homepage_url": "https://soulforge.proxysoul.com/",
@@ -19,13 +19,13 @@
     "nvim",
     "opencode"
   ],
-  "star_count": 698,
-  "fork_count": 49,
+  "star_count": 710,
+  "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T18:56:54Z",
-  "updated_at": "2026-05-20T19:05:16Z",
-  "pushed_at": "2026-05-20T19:05:11Z",
+  "updated_at": "2026-05-22T18:15:12Z",
+  "pushed_at": "2026-05-22T00:02:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +103,10 @@
     {
       "date": "2026-05-20",
       "stars": 698
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 710
     }
   ]
 }

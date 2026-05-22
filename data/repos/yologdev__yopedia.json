@@ -3,10 +3,10 @@
   "owner": "yologdev",
   "name": "yopedia",
   "full_name": "yologdev/yopedia",
-  "description": "The Self-Growing Karpathy LLM Wiki — grown by an AI agent yoyo from Karpathy's founding prompt",
-  "description_ja": "Karpathy の創設プロンプトから AI エージェント yoyo によって成長した自己拡張型 Karpathy LLM Wiki",
+  "description": "A wiki designed for both humans and agents to read and write.",
+  "description_ja": "",
   "url": "https://github.com/yologdev/yopedia",
-  "homepage_url": "https://yologdev.github.io/yoyo-evolve/",
+  "homepage_url": "https://yologdev.github.io/yopedia/",
   "language": "TypeScript",
   "license": "",
   "topics": [
@@ -14,15 +14,16 @@
     "karpathy",
     "knowledge-base",
     "llm",
-    "wiki"
+    "wiki",
+    "yopedia"
   ],
   "star_count": 57,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-06T00:20:23Z",
-  "updated_at": "2026-05-20T17:05:11Z",
-  "pushed_at": "2026-05-20T17:05:06Z",
+  "updated_at": "2026-05-22T16:23:01Z",
+  "pushed_at": "2026-05-22T16:22:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +104,10 @@
     },
     {
       "date": "2026-05-20",
+      "stars": 57
+    },
+    {
+      "date": "2026-05-22",
       "stars": 57
     }
   ]

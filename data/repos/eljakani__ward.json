@@ -6,7 +6,7 @@
   "description": "Security scanner built for Laravel, detects misconfigurations, vulnerabilities, and exposed secrets with a beautiful TUI.",
   "description_ja": "Laravel向けセキュリティスキャナー。設定ミス、脆弱性、露出したシークレットを美しいTUIで検出する",
   "url": "https://github.com/Eljakani/ward",
-  "homepage_url": "https://laravel-ward.surge.sh",
+  "homepage_url": "https://ward.eljakani.me",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T19:29:42Z",
-  "updated_at": "2026-05-19T08:55:46Z",
-  "pushed_at": "2026-03-07T21:53:45Z",
+  "updated_at": "2026-05-22T10:45:53Z",
+  "pushed_at": "2026-05-22T10:46:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -104,6 +104,10 @@
     },
     {
       "date": "2026-05-20",
+      "stars": 316
+    },
+    {
+      "date": "2026-05-22",
       "stars": 316
     }
   ]

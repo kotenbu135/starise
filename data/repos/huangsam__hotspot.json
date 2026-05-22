@@ -3,8 +3,8 @@
   "owner": "huangsam",
   "name": "hotspot",
   "full_name": "huangsam/hotspot",
-  "description": "Diagnose debt before it ships! 🔬",
-  "description_ja": "リリース前に技術的負債を診断しよう！🔬",
+  "description": "Agent layer for Git and tech debt 🧠",
+  "description_ja": "",
   "url": "https://github.com/huangsam/hotspot",
   "homepage_url": "",
   "language": "Go",
@@ -18,6 +18,7 @@
     "hacktoberfest",
     "insights",
     "maintenance",
+    "mcp",
     "statistics"
   ],
   "star_count": 32,
@@ -25,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-20T02:13:55Z",
-  "updated_at": "2026-05-20T03:03:42Z",
-  "pushed_at": "2026-05-20T03:03:38Z",
+  "updated_at": "2026-05-22T11:56:21Z",
+  "pushed_at": "2026-05-22T11:14:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +104,10 @@
     },
     {
       "date": "2026-05-20",
+      "stars": 32
+    },
+    {
+      "date": "2026-05-22",
       "stars": 32
     }
   ]

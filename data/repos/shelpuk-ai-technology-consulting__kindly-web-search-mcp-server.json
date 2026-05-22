@@ -3,7 +3,7 @@
   "owner": "shelpuk-ai-technology-consulting",
   "name": "kindly-web-search-mcp-server",
   "full_name": "shelpuk-ai-technology-consulting/kindly-web-search-mcp-server",
-  "description": "Kindly Web Search MCP Server: Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.) and AI agents (Claude Desktop, OpenClaw, etc.). Supports Serper, Tavily, and SearXNG.",
+  "description": "Kindly Web Search MCP Server: Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.) and AI agents (Claude Desktop, OpenClaw, Hermes, etc.). Supports Serper, Tavily, and SearXNG.",
   "description_ja": "",
   "url": "https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server",
   "homepage_url": "https://www.shelpuk.com",
@@ -17,6 +17,8 @@
     "codex",
     "gemini",
     "github-copilot",
+    "hermes",
+    "hermes-agent",
     "mcp-server",
     "openclaw",
     "openclaw-extension",
@@ -28,11 +30,11 @@
     "web-search"
   ],
   "star_count": 331,
-  "fork_count": 20,
+  "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-02T17:27:27Z",
-  "updated_at": "2026-05-20T12:23:01Z",
+  "updated_at": "2026-05-22T12:21:21Z",
   "pushed_at": "2026-04-30T15:08:50Z",
   "deleted_at": "",
   "star_history": [
@@ -102,6 +104,10 @@
     },
     {
       "date": "2026-05-20",
+      "stars": 331
+    },
+    {
+      "date": "2026-05-22",
       "stars": 331
     }
   ]

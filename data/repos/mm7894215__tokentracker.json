@@ -3,22 +3,21 @@
   "owner": "mm7894215",
   "name": "tokentracker",
   "full_name": "mm7894215/tokentracker",
-  "description": "Track token usage across 17 AI agent CLIs — Claude Code, Codex, Cursor, Gemini, Antigravity, Kiro, OpenCode, OpenClaw, Every Code, Hermes, GitHub Copilot, Kimi Code, CodeBuddy, Grok Build, oh-my-pi, Kilo CLI, Kilo Code. Local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.",
+  "description": "Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets.",
   "description_ja": "",
   "url": "https://github.com/mm7894215/TokenTracker",
   "homepage_url": "https://www.tokentracker.cc",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
-    "ai-tools",
     "antigravity",
     "claude-code",
     "cli",
     "codex-cli",
     "cost-tracker",
     "cursor",
-    "developer-tools",
     "gemini-cli",
+    "goose",
     "grok",
     "kimi",
     "llm",
@@ -27,17 +26,18 @@
     "menubar",
     "opencode",
     "privacy-first",
+    "roo-code",
     "token-tracker",
     "usage-tracker",
-    "widget"
+    "zed-editor"
   ],
-  "star_count": 507,
-  "fork_count": 48,
+  "star_count": 522,
+  "fork_count": 49,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-05T12:02:23Z",
-  "updated_at": "2026-05-20T14:57:00Z",
-  "pushed_at": "2026-05-20T11:36:56Z",
+  "updated_at": "2026-05-22T17:22:48Z",
+  "pushed_at": "2026-05-22T05:34:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -111,6 +111,10 @@
     {
       "date": "2026-05-20",
       "stars": 507
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 522
     }
   ]
 }

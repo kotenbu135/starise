@@ -3,39 +3,38 @@
   "owner": "openaccountants",
   "name": "openaccountants",
   "full_name": "openaccountants/openaccountants",
-  "description": "Open-source tax skills for AI — 371 skills across 134 countries. Upload to any LLM or connect via MCP. Quality-tiered Q1–Q5.",
+  "description": "Open-source tax computation skills for AI. 133 countries + 51 US states. Upload to Claude/ChatGPT or connect via MCP. Verified by accountants.",
   "description_ja": "",
   "url": "https://github.com/openaccountants/openaccountants",
   "homepage_url": "https://www.openaccountants.com/",
   "language": "Python",
-  "license": "NOASSERTION",
+  "license": "AGPL-3.0",
   "topics": [
+    "accountant",
     "accounting",
     "ai",
-    "bookkeeping",
+    "bookkeeper",
     "chatgpt",
     "claude",
-    "cursor",
-    "fintech",
-    "freelancer",
+    "compliance",
+    "cpa",
     "gst",
+    "income-tax",
     "llm",
     "mcp",
-    "mcp-server",
-    "model-context-protocol",
     "open-source",
-    "self-employed",
     "tax",
-    "taxes",
+    "tax-computation",
+    "tax-return",
     "vat"
   ],
-  "star_count": 68,
+  "star_count": 71,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-09T14:03:07Z",
-  "updated_at": "2026-05-20T21:27:01Z",
-  "pushed_at": "2026-05-20T11:09:11Z",
+  "updated_at": "2026-05-22T19:56:01Z",
+  "pushed_at": "2026-05-22T19:55:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -93,6 +92,10 @@
     {
       "date": "2026-05-20",
       "stars": 68
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 71
     }
   ]
 }

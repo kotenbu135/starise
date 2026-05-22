@@ -3,8 +3,8 @@
   "owner": "first-fluke",
   "name": "oh-my-agent",
   "full_name": "first-fluke/oh-my-agent",
-  "description": "Portable multi-agent harness for .agents-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, Cursor, OpenCode, and more.",
-  "description_ja": "Antigravity・Claude Code・Codex・Cursor・OpenCodeなど複数の環境にまたがる、.agentsベースのスキル・ワークフロー・標準準拠エージェントチームのためのポータブルマルチエージェントハーネス。",
+  "description": "Portable, vendor-agnostic agent harness for project-specific skills, workflows, and agent teams aligned with your codebase, conventions, and engineering standards.",
+  "description_ja": "",
   "url": "https://github.com/first-fluke/oh-my-agent",
   "homepage_url": "https://firstfluke.com/oh-my-agent/",
   "language": "TypeScript",
@@ -25,13 +25,13 @@
     "orchestrator",
     "serena"
   ],
-  "star_count": 992,
-  "fork_count": 115,
+  "star_count": 1005,
+  "fork_count": 116,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-30T11:29:46Z",
-  "updated_at": "2026-05-20T20:36:21Z",
-  "pushed_at": "2026-05-20T15:09:58Z",
+  "updated_at": "2026-05-22T10:27:16Z",
+  "pushed_at": "2026-05-22T06:56:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -113,6 +113,10 @@
     {
       "date": "2026-05-20",
       "stars": 992
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 1005
     }
   ]
 }

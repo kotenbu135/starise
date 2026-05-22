@@ -3,36 +3,40 @@
   "owner": "shamil-t",
   "name": "ehr-blockchain",
   "full_name": "shamil-t/ehr-blockchain",
-  "description": " Electronic Health Record (EHR) and Electronic Medical Record (EMR) systems. However, they still face some issues regarding the security of medical records, user ownership of data, data integrity etc. The solution to these issues could be the use of a novel technology, i.e., Blockchain. This technology offers to provide a secure, temper-proof platform for storing medical records and other healthcare related information.",
+  "description": "A decentralized Electronic Health Record (EHR) system using Ethereum blockchain, Solidity, IPFS, Angular, and MetaMask. Enables secure, tamper-proof medical record storage and sharing with decentralized access control, ensuring transparency, patient data ownership, and enhanced healthcare data security.",
   "description_ja": "",
   "url": "https://github.com/shamil-t/ehr-blockchain",
   "homepage_url": "https://www.youtube.com/playlist?list=PL54V-i7zW55d1VKxEkp9DCPt5k_zE6m3X",
-  "language": "HTML",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "angular",
+    "anvil",
     "blockchain",
     "bootstrap5",
     "ehr",
     "ethereum-blockchain",
     "ethereum-contract",
     "ethereum-dapp",
-    "ganache-cli",
+    "ethersjs",
+    "hardhat",
+    "ignition",
     "ipfs",
     "ipfs-api",
     "ipfs-blockchain",
+    "kubo-rpc-api",
     "medical-records",
     "metamask",
-    "reactjs",
-    "truffle-framework"
+    "ng-bootstrap",
+    "web3"
   ],
   "star_count": 139,
   "fork_count": 54,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-26T05:30:55Z",
-  "updated_at": "2026-05-20T16:31:28Z",
-  "pushed_at": "2026-05-20T16:31:22Z",
+  "updated_at": "2026-05-22T09:49:47Z",
+  "pushed_at": "2026-05-22T09:49:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -73,6 +77,10 @@
     },
     {
       "date": "2026-05-20",
+      "stars": 139
+    },
+    {
+      "date": "2026-05-22",
       "stars": 139
     }
   ]

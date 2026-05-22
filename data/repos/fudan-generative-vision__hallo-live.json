@@ -3,24 +3,25 @@
   "owner": "fudan-generative-vision",
   "name": "hallo-live",
   "full_name": "fudan-generative-vision/hallo-live",
-  "description": "Real-Time Streaming Joint Audio-Video Avatar Generation",
+  "description": "Hallo-Live: Real-Time Streaming Joint Audio-Video Avatar Generation",
   "description_ja": "",
   "url": "https://github.com/fudan-generative-vision/Hallo-Live",
   "homepage_url": "https://arxiv.org/abs/2604.23632",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "audio-video-gen",
-    "avatars",
-    "diffusion-models"
+    "audio-video-generation",
+    "diffusion-models",
+    "research-project",
+    "virtual-avatars"
   ],
-  "star_count": 96,
-  "fork_count": 12,
+  "star_count": 106,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-28T08:37:03Z",
-  "updated_at": "2026-05-20T12:05:59Z",
-  "pushed_at": "2026-05-18T07:22:25Z",
+  "updated_at": "2026-05-22T18:46:21Z",
+  "pushed_at": "2026-05-22T07:57:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +67,10 @@
     {
       "date": "2026-05-20",
       "stars": 96
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 106
     }
   ]
 }

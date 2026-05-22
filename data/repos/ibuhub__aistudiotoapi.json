@@ -3,8 +3,8 @@
   "owner": "ibuhub",
   "name": "aistudiotoapi",
   "full_name": "ibuhub/aistudiotoapi",
-  "description": "A wrapper that exposes Google AI Studio as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Google AI Studio 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
-  "description_ja": "Google AI Studio を OpenAI、Gemini、Anthropic 互換 API としてラップするツール",
+  "description": "A wrapper that exposes Google AI Studio Build as OpenAI, Gemini, and Anthropic compatible APIs.（一个将 Google AI Studio Build 封装为兼容 OpenAI / Gemini / Anthropic 风格 API 的工具）",
+  "description_ja": "",
   "url": "https://github.com/iBUHub/AIStudioToAPI",
   "homepage_url": "",
   "language": "JavaScript",
@@ -14,13 +14,13 @@
     "api",
     "gemini"
   ],
-  "star_count": 1241,
+  "star_count": 1246,
   "fork_count": 188,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-12T17:16:28Z",
-  "updated_at": "2026-05-20T18:31:43Z",
-  "pushed_at": "2026-05-19T19:00:57Z",
+  "updated_at": "2026-05-22T15:22:44Z",
+  "pushed_at": "2026-05-21T16:13:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -102,6 +102,10 @@
     {
       "date": "2026-05-20",
       "stars": 1241
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 1246
     }
   ]
 }

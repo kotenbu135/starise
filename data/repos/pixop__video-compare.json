@@ -3,8 +3,8 @@
   "owner": "pixop",
   "name": "video-compare",
   "full_name": "pixop/video-compare",
-  "description": "Split screen video comparison tool using FFmpeg and SDL2",
-  "description_ja": "FFmpeg と SDL2 を使用した分割画面動画比較ツール",
+  "description": "Split-screen video comparison tool using FFmpeg and SDL2",
+  "description_ja": "",
   "url": "https://github.com/pixop/video-compare",
   "homepage_url": "",
   "language": "C++",
@@ -18,12 +18,12 @@
     "ui",
     "video"
   ],
-  "star_count": 1626,
+  "star_count": 1628,
   "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-12-31T13:38:44Z",
-  "updated_at": "2026-05-19T17:14:43Z",
+  "updated_at": "2026-05-22T10:25:29Z",
   "pushed_at": "2026-05-15T07:28:12Z",
   "deleted_at": "",
   "star_history": [
@@ -102,6 +102,10 @@
     {
       "date": "2026-05-20",
       "stars": 1626
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 1628
     }
   ]
 }

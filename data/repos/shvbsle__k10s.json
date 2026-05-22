@@ -3,7 +3,7 @@
   "owner": "shvbsle",
   "name": "k10s",
   "full_name": "shvbsle/k10s",
-  "description": "Profiler for ML Training jobs in pure Rust. See which GPUs are working, which are idle, and why. Single binary.",
+  "description": "Profiler for ML Training jobs in pure Rust. See straggler ranks and idle GPUs. ",
   "description_ja": "",
   "url": "https://github.com/shvbsle/k10s",
   "homepage_url": "https://k10s.dev",
@@ -13,17 +13,15 @@
     "cluster",
     "gpu",
     "k8s",
-    "kqueue",
-    "kubernetes",
-    "tui"
+    "kubernetes"
   ],
-  "star_count": 104,
+  "star_count": 108,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-26T06:32:24Z",
-  "updated_at": "2026-05-20T18:35:15Z",
-  "pushed_at": "2026-05-19T04:25:04Z",
+  "updated_at": "2026-05-22T15:24:07Z",
+  "pushed_at": "2026-05-22T06:44:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +39,10 @@
     {
       "date": "2026-05-20",
       "stars": 104
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 108
     }
   ]
 }

@@ -3,35 +3,35 @@
   "owner": "boeing",
   "name": "config-file-validator",
   "full_name": "boeing/config-file-validator",
-  "description": "Cross-platform CLI tool to validate configuration files (JSON, YAML, TOML, XML, INI, HCL, ENV, Properties, CSV, and more). Catch errors in syntax and schema before deployment. Written in Go.",
-  "description_ja": "設定ファイル（JSON、YAML、TOML、XML、INI、HCL、ENV、Properties、CSV など）を検証するクロスプラットフォーム CLI ツール。デプロイ前に構文・スキーマのエラーを検出。Go 製。",
+  "description": "Cross-platform CLI tool to validate configuration files across 16 formats. Syntax and schema validation with JSON Schema, XSD, and SchemaStore integration. Written in Go.",
+  "description_ja": "",
   "url": "https://github.com/Boeing/config-file-validator",
   "homepage_url": "https://boeing.github.io/config-file-validator/",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
-    "ci-cd",
     "cli-tool",
+    "cli-tools",
     "config-validation",
-    "configuration",
     "csv-validator",
     "devops",
+    "golang",
     "hcl-validator",
     "ini-validator",
     "json-validator",
-    "linter",
+    "jsonschema",
+    "schema-validation",
     "toml-validator",
-    "validation",
     "xml-validator",
     "yaml-validator"
   ],
-  "star_count": 506,
-  "fork_count": 84,
+  "star_count": 505,
+  "fork_count": 87,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-06T01:23:11Z",
-  "updated_at": "2026-05-20T14:09:45Z",
-  "pushed_at": "2026-05-20T14:03:51Z",
+  "updated_at": "2026-05-22T19:31:11Z",
+  "pushed_at": "2026-05-22T19:34:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -109,6 +109,10 @@
     {
       "date": "2026-05-20",
       "stars": 506
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 505
     }
   ]
 }

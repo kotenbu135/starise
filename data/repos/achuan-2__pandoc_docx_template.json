@@ -3,7 +3,7 @@
   "owner": "achuan-2",
   "name": "pandoc_docx_template",
   "full_name": "achuan-2/pandoc_docx_template",
-  "description": "设置Markdown导出为docx时的模板，可控制导出docx的段落文字、标题编号等样式，适用于obsidian、typora、思源笔记等Markdown笔记软件，支持Codex、Claude Code调用skill丨Template for exporting Markdown to docx (Word) using pandoc",
+  "description": "设置Markdown导出为docx时的样式，可控制导出docx的段落文字、标题编号等样式，适用于obsidian、typora、思源笔记等Markdown笔记软件，支持Codex、Claude Code等调用skill丨Template for exporting Markdown to docx (Word) using pandoc",
   "description_ja": "",
   "url": "https://github.com/Achuan-2/pandoc_docx_template",
   "homepage_url": "",
@@ -17,12 +17,12 @@
     "skills",
     "typora"
   ],
-  "star_count": 767,
+  "star_count": 776,
   "fork_count": 93,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-14T16:06:01Z",
-  "updated_at": "2026-05-20T16:58:42Z",
+  "updated_at": "2026-05-22T17:12:18Z",
   "pushed_at": "2026-05-17T14:46:38Z",
   "deleted_at": "",
   "star_history": [
@@ -101,6 +101,10 @@
     {
       "date": "2026-05-20",
       "stars": 767
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 776
     }
   ]
 }

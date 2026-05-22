@@ -3,20 +3,20 @@
   "owner": "duxweb",
   "name": "codux",
   "full_name": "duxweb/codux",
-  "description": "⬛ Native macOS terminal workspace for AI coding tools — multi-project, built-in Git, real-time AI usage tracking. 原生 macOS 终端工作区，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。",
-  "description_ja": "⬛ AI コーディングツール向けネイティブ macOS ターミナルワークスペース — 複数プロジェクト管理、Git 内蔵、リアルタイム AI 使用量トラッキング。",
+  "description": "⬛ Cross-platform AI terminal work desktop software, specially designed for AI programming tools - multi-project management, built-in Git, real-time AI usage tracking. 跨平台AI 终端工作桌面软件，专为 AI 编程工具打造 — 多项目管理、内置 Git、实时 AI 用量追踪。",
+  "description_ja": "",
   "url": "https://github.com/duxweb/codux",
   "homepage_url": "https://codux.dux.cn",
-  "language": "Swift",
-  "license": "GPL-3.0",
+  "language": "Rust",
+  "license": "",
   "topics": [],
-  "star_count": 80,
+  "star_count": 81,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-15T10:07:08Z",
-  "updated_at": "2026-05-18T02:15:35Z",
-  "pushed_at": "2026-05-20T07:44:25Z",
+  "updated_at": "2026-05-22T16:20:10Z",
+  "pushed_at": "2026-05-22T16:20:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +90,10 @@
     {
       "date": "2026-05-20",
       "stars": 80
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 81
     }
   ]
 }

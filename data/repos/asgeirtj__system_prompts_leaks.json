@@ -3,7 +3,7 @@
   "owner": "asgeirtj",
   "name": "system_prompts_leaks",
   "full_name": "asgeirtj/system_prompts_leaks",
-  "description": "Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated regularly.",
+  "description": "Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. Github Copilot. Perplexity, and more. Updated regularly.",
   "description_ja": "",
   "url": "https://github.com/asgeirtj/system_prompts_leaks",
   "homepage_url": "",
@@ -11,33 +11,33 @@
   "license": "MIT",
   "topics": [
     "ai",
-    "ai-transparency",
     "anthropic",
+    "awesome",
+    "chatbot",
     "chatgpt",
     "claude",
     "claude-code",
-    "claude-code-cli",
-    "claude-opus-4-7",
     "codex",
+    "deep-learning",
+    "education",
     "gemini",
-    "gemini-3-1-pro",
-    "gpt-5",
-    "gpt-5-5",
-    "grok",
+    "generative-ai",
+    "google",
+    "llm",
+    "machine-learning",
+    "natural-language-processing",
+    "nlp",
+    "open-source",
     "openai",
-    "perplexity",
-    "prompt-engineering",
-    "system-prompt",
-    "system-prompts",
-    "xai"
+    "prompt-engineering"
   ],
-  "star_count": 40497,
-  "fork_count": 6730,
+  "star_count": 40607,
+  "fork_count": 6745,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-03T02:43:56Z",
-  "updated_at": "2026-05-20T20:07:36Z",
-  "pushed_at": "2026-05-20T14:31:33Z",
+  "updated_at": "2026-05-22T18:22:36Z",
+  "pushed_at": "2026-05-22T00:23:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -119,6 +119,10 @@
     {
       "date": "2026-05-20",
       "stars": 40497
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 40607
     }
   ]
 }

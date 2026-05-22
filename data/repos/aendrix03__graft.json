@@ -1,0 +1,47 @@
+{
+  "repo_id": "R_kgDOSVbyKg",
+  "owner": "aendrix03",
+  "name": "graft",
+  "full_name": "aendrix03/graft",
+  "description": "Local-first semantic cache for AI agents. A small C daemon + CLI that remembers what your agent learned across sessions. Plugs into Claude Code, Codex, Gemini CLI, and Claude Desktop / ChatGPT via MCP. No LLM calls, no SaaS, no API key.",
+  "description_ja": "",
+  "url": "https://github.com/AEndrix03/Graft",
+  "homepage_url": "",
+  "language": "C",
+  "license": "Apache-2.0",
+  "topics": [
+    "agent-memory",
+    "ai-agents",
+    "bge-m3",
+    "c",
+    "caching",
+    "claude-code",
+    "cli",
+    "command-line-tool",
+    "daemon",
+    "embeddings",
+    "knowledge-graph",
+    "llama-cpp",
+    "llm-agents",
+    "local-first",
+    "mcp",
+    "semantic-cache",
+    "semantic-search",
+    "sqlite",
+    "sqlite-vec"
+  ],
+  "star_count": 9,
+  "fork_count": 0,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-06T01:58:18Z",
+  "updated_at": "2026-05-22T07:38:35Z",
+  "pushed_at": "2026-05-20T23:30:00Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-22",
+      "stars": 9
+    }
+  ]
+}

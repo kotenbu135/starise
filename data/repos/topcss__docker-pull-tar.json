@@ -3,19 +3,25 @@
   "owner": "topcss",
   "name": "docker-pull-tar",
   "full_name": "topcss/docker-pull-tar",
-  "description": "",
+  "description": "无需 Docker 环境，就能直接搜索、下载多架构（如 arm、x86）的 Docker 镜像并保存为 tar 包。Search and download multi-architecture (e.g., arm, x86) Docker images directly as tar files without needing a Docker environment.",
   "description_ja": "",
   "url": "https://github.com/topcss/docker-pull-tar",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 985,
-  "fork_count": 89,
+  "topics": [
+    "docker",
+    "docker-image-tar",
+    "image-puller",
+    "multi-arch",
+    "tar"
+  ],
+  "star_count": 992,
+  "fork_count": 92,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-14T09:59:25Z",
-  "updated_at": "2026-05-20T06:25:06Z",
+  "updated_at": "2026-05-22T11:56:54Z",
   "pushed_at": "2026-05-19T02:39:34Z",
   "deleted_at": "",
   "star_history": [
@@ -98,6 +104,10 @@
     {
       "date": "2026-05-20",
       "stars": 985
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 992
     }
   ]
 }

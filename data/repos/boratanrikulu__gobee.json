@@ -1,0 +1,35 @@
+{
+  "repo_id": "R_kgDOSRmH4w",
+  "owner": "boratanrikulu",
+  "name": "gobee",
+  "full_name": "boratanrikulu/gobee",
+  "description": "Write your BPF programs in Go, not C. gobee transpiles a Go subset to BPF C and generates typed cilium/ebpf bindings.",
+  "description_ja": "",
+  "url": "https://github.com/boratanrikulu/gobee",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "bpf",
+    "cilium-ebpf",
+    "ebpf",
+    "golang",
+    "kernel",
+    "linux",
+    "transpiler"
+  ],
+  "star_count": 56,
+  "fork_count": 0,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-01T11:07:49Z",
+  "updated_at": "2026-05-22T20:36:32Z",
+  "pushed_at": "2026-05-04T15:36:19Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-22",
+      "stars": 56
+    }
+  ]
+}

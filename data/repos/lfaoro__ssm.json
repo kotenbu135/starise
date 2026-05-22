@@ -3,31 +3,30 @@
   "owner": "lfaoro",
   "name": "ssm",
   "full_name": "lfaoro/ssm",
-  "description": "SSM 🐚 | your SSH config on TUI-roids",
+  "description": "Terminal UI for managing SSH connections.",
   "description_ja": "",
   "url": "https://github.com/lfaoro/ssm",
   "homepage_url": "",
   "language": "Go",
   "license": "MIT",
   "topics": [
-    "bubbletea",
     "cli",
-    "devops",
     "go",
-    "golang",
     "mosh",
+    "scp",
+    "sftp",
     "ssh",
-    "sshpass",
-    "termius",
-    "tui"
+    "ssh-client",
+    "tui",
+    "tui-go"
   ],
-  "star_count": 104,
+  "star_count": 105,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-12T11:02:50Z",
-  "updated_at": "2026-05-20T20:43:47Z",
-  "pushed_at": "2026-05-20T20:25:44Z",
+  "updated_at": "2026-05-22T15:08:38Z",
+  "pushed_at": "2026-05-22T15:08:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -89,6 +88,10 @@
     {
       "date": "2026-05-20",
       "stars": 104
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 105
     }
   ]
 }

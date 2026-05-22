@@ -3,32 +3,41 @@
   "owner": "kakahuote1",
   "name": "tinypki",
   "full_name": "kakahuote1/tinypki",
-  "description": "A high-performance, lightweight C11 PKI core framework for IoT and edge computing. Features ECQV implicit certificates, Merkle-tree revocation proofs, and BFT state synchronization with SM2/SM3/SM4 cryptography.",
-  "description_ja": "IoT およびエッジコンピューティング向けの高性能・軽量な C11 PKI コアフレームワーク。ECQV 暗黙的証明書、Merkle ツリー失効証明、SM2/SM3/SM4 暗号による BFT 状態同期を備える",
+  "description": "TinyPKI is a lightweight C11/OpenSSL PKI core for constrained IoT and edge networks, combining ECQV implicit certificates, sparse Merkle revocation proofs, MMR issuance transparency, CA-signed checkpoints, t-of-n edge witnesses, and SM2/SM3/SM4 sessions.",
+  "description_ja": "",
   "url": "https://github.com/kakahuote1/TinyPKI",
   "homepage_url": "",
   "language": "C",
   "license": "Apache-2.0",
   "topics": [
     "c11",
+    "certificate-revocation",
+    "certificate-transparency",
     "cryptography",
     "ecqv",
-    "iot",
-    "lightweight",
+    "edge-computing",
+    "embedded-security",
+    "iot-security",
+    "lightweight-pki",
+    "merkle-mountain-range",
     "merkle-tree",
+    "offline-verification",
     "openssl",
     "pki",
+    "secure-session",
     "sm2",
     "sm3",
-    "sm4"
+    "sm4",
+    "sparse-merkle-tree",
+    "threshold-policy"
   ],
-  "star_count": 291,
+  "star_count": 299,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-16T05:43:29Z",
-  "updated_at": "2026-05-20T13:24:06Z",
-  "pushed_at": "2026-05-20T13:23:41Z",
+  "updated_at": "2026-05-22T13:19:46Z",
+  "pushed_at": "2026-05-21T17:48:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -106,6 +115,10 @@
     {
       "date": "2026-05-20",
       "stars": 291
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 299
     }
   ]
 }

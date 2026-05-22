@@ -3,7 +3,7 @@
   "owner": "always-further",
   "name": "nono",
   "full_name": "always-further/nono",
-  "description": "Capability-based sandboxes with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency",
+  "description": "Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency",
   "description_ja": "",
   "url": "https://github.com/always-further/nono",
   "homepage_url": "https://nono.sh",
@@ -29,13 +29,13 @@
     "supply-chain-security",
     "zero-trust"
   ],
-  "star_count": 2436,
-  "fork_count": 165,
+  "star_count": 2451,
+  "fork_count": 169,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-31T09:25:45Z",
-  "updated_at": "2026-05-20T19:02:46Z",
-  "pushed_at": "2026-05-20T19:04:35Z",
+  "updated_at": "2026-05-22T19:22:47Z",
+  "pushed_at": "2026-05-22T19:22:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -117,6 +117,10 @@
     {
       "date": "2026-05-20",
       "stars": 2436
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 2451
     }
   ]
 }

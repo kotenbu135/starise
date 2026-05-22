@@ -3,7 +3,7 @@
   "owner": "geniepod",
   "name": "genie-claw",
   "full_name": "geniepod/genie-claw",
-  "description": "🦞 GenieClaw is the privacy-first Claw for GeniePod Home: Jetson-first local AI with voice, memory, and Home Assistant integration.",
+  "description": "Limited-context AI harness for 🦞 agentic smart homes: portable across SBCs and native to GeniePod Home.",
   "description_ja": "",
   "url": "https://github.com/GeniePod/genie-claw",
   "homepage_url": "https://genieclaw.org",
@@ -11,20 +11,23 @@
   "license": "AGPL-3.0",
   "topics": [
     "ai-agent",
+    "edge-ai",
     "harness",
+    "home-automation",
+    "limited-context",
     "local-first",
-    "personal-ai-assistamt-at-home",
+    "personal-ai-assistant-at-home",
     "privacy-first",
     "security-first",
-    "voice-ai"
+    "smart-home"
   ],
   "star_count": 38,
-  "fork_count": 26,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-15T12:34:22Z",
-  "updated_at": "2026-05-20T02:46:29Z",
-  "pushed_at": "2026-05-19T19:58:31Z",
+  "updated_at": "2026-05-22T19:26:09Z",
+  "pushed_at": "2026-05-22T19:26:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +40,10 @@
     },
     {
       "date": "2026-05-20",
+      "stars": 38
+    },
+    {
+      "date": "2026-05-22",
       "stars": 38
     }
   ]

@@ -7,7 +7,7 @@
   "description_ja": "大規模データセットやストリーミングデータセットに特に適したデータビジュアライゼーション・分析コンポーネント。",
   "url": "https://github.com/perspective-dev/perspective",
   "homepage_url": "http://perspective-dev.github.io/",
-  "language": "C++",
+  "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
     "analytics",
@@ -19,13 +19,13 @@
     "real-time",
     "webassembly"
   ],
-  "star_count": 10485,
-  "fork_count": 1283,
+  "star_count": 10749,
+  "fork_count": 1312,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-11-02T16:27:54Z",
-  "updated_at": "2026-05-20T15:56:49Z",
-  "pushed_at": "2026-05-20T20:32:24Z",
+  "updated_at": "2026-05-22T19:57:11Z",
+  "pushed_at": "2026-05-21T15:54:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -107,6 +107,10 @@
     {
       "date": "2026-05-20",
       "stars": 10485
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 10749
     }
   ]
 }

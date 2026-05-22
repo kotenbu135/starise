@@ -3,19 +3,28 @@
   "owner": "pserban93",
   "name": "achievements",
   "full_name": "pserban93/achievements",
-  "description": "A desktop application built with Electron that monitors running games and displays beautiful animated notifications",
+  "description": "A desktop application built with Electron that monitors running games and displays achievements animated notifications",
   "description_ja": "",
   "url": "https://github.com/PSerban93/Achievements",
   "homepage_url": "https://pserban93.github.io/Achievements-Docs/",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "achievements",
+    "achievements-hunt",
+    "achievements-notification",
+    "eagames",
+    "emulators",
+    "epicgames",
+    "gog-galaxy",
+    "steam"
+  ],
   "star_count": 116,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-26T11:16:40Z",
-  "updated_at": "2026-05-20T08:19:11Z",
+  "updated_at": "2026-05-21T15:10:29Z",
   "pushed_at": "2026-05-19T09:47:58Z",
   "deleted_at": "",
   "star_history": [
@@ -73,6 +82,10 @@
     },
     {
       "date": "2026-05-20",
+      "stars": 116
+    },
+    {
+      "date": "2026-05-22",
       "stars": 116
     }
   ]

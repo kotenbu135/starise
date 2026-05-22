@@ -3,20 +3,20 @@
   "owner": "luciuschen",
   "name": "clutch",
   "full_name": "luciuschen/clutch",
-  "description": "Interactive database client for Emacs — MySQL, PostgreSQL, SQLite (pure Elisp) plus Oracle, SQL Server, DB2, Snowflake \u0026 Redshift via JDBC; paginated result browser, inline editing, schema browser, and REPL.",
-  "description_ja": "Emacs用インタラクティブデータベースクライアント — MySQL、PostgreSQL、SQLite（純粋Elisp）に加えJDBC経由でOracle、SQL Server、DB2、Snowflake、Redshiftに対応。ページネーション付き結果ブラウザ、インライン編集、スキーマブラウザ、REPLを搭載。",
+  "description": "Emacs database client for MySQL, PostgreSQL, SQLite, and JDBC backends, with paginated results, inline editing, schema browsing, and a REPL.",
+  "description_ja": "",
   "url": "https://github.com/LuciusChen/clutch",
   "homepage_url": "",
   "language": "Emacs Lisp",
   "license": "GPL-3.0",
   "topics": [],
-  "star_count": 68,
-  "fork_count": 4,
+  "star_count": 69,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T14:47:32Z",
-  "updated_at": "2026-05-20T03:51:27Z",
-  "pushed_at": "2026-05-20T03:51:22Z",
+  "updated_at": "2026-05-22T03:27:00Z",
+  "pushed_at": "2026-05-22T03:26:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +98,10 @@
     {
       "date": "2026-05-20",
       "stars": 68
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 69
     }
   ]
 }

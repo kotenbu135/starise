@@ -3,14 +3,13 @@
   "owner": "zinggai",
   "name": "zingg",
   "full_name": "zinggai/zingg",
-  "description": "Scalable identity resolution, entity resolution, data mastering and deduplication using ML",
-  "description_ja": "MLを用いたスケーラブルな同一人物特定、エンティティ解決、データマスタリング、および重複排除",
+  "description": "Scalable master data management, identity resolution, entity resolution, and deduplication using ML",
+  "description_ja": "",
   "url": "https://github.com/zinggAI/zingg",
   "homepage_url": "",
   "language": "Java",
   "license": "AGPL-3.0",
   "topics": [
-    "analytics",
     "cdp",
     "customer-data-platform",
     "data-science",
@@ -24,19 +23,19 @@
     "fuzzy-matching",
     "fuzzymatch",
     "identity-resolution",
+    "master-data",
     "master-data-management",
     "masterdata",
     "mdm",
-    "ml",
     "snowflake",
     "spark"
   ],
-  "star_count": 1201,
+  "star_count": 1202,
   "fork_count": 169,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-25T10:15:44Z",
-  "updated_at": "2026-05-19T10:03:09Z",
+  "updated_at": "2026-05-22T10:39:16Z",
   "pushed_at": "2026-05-20T02:06:23Z",
   "deleted_at": "",
   "star_history": [
@@ -115,6 +114,10 @@
     {
       "date": "2026-05-20",
       "stars": 1201
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 1202
     }
   ]
 }

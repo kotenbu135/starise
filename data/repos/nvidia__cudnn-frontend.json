@@ -3,10 +3,10 @@
   "owner": "nvidia",
   "name": "cudnn-frontend",
   "full_name": "nvidia/cudnn-frontend",
-  "description": "cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it",
+  "description": "cuDNN Frontend is NVIDIA's modern, open-source entry point to the cuDNN library and a growing collection of high-performance open-source kernels.",
   "description_ja": "",
   "url": "https://github.com/NVIDIA/cudnn-frontend",
-  "homepage_url": "",
+  "homepage_url": "https://docs.nvidia.com/deeplearning/cudnn/latest/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "sdpa",
     "transformer"
   ],
-  "star_count": 818,
-  "fork_count": 165,
+  "star_count": 822,
+  "fork_count": 169,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-01-22T16:16:29Z",
-  "updated_at": "2026-05-20T13:20:37Z",
-  "pushed_at": "2026-05-20T19:26:08Z",
+  "updated_at": "2026-05-21T10:56:16Z",
+  "pushed_at": "2026-05-22T03:11:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -83,6 +83,10 @@
     {
       "date": "2026-05-20",
       "stars": 818
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 822
     }
   ]
 }

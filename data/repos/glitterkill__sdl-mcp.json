@@ -3,7 +3,7 @@
   "owner": "glitterkill",
   "name": "sdl-mcp",
   "full_name": "glitterkill/sdl-mcp",
-  "description": "SDL-MCP gives coding agents the right code context, not your entire repo. It turns sprawling codebases into compact, high-signal context that saves tokens, speeds up workflows, and improves agent output.",
+  "description": "Symbol Delta Ledger (SDL-MCP) gives coding agents the right code context, not your entire repo. It turns sprawling codebases into compact, high-signal context that saves tokens, speeds up workflows, and improves agent output.",
   "description_ja": "",
   "url": "https://github.com/GlitterKill/sdl-mcp",
   "homepage_url": "",
@@ -13,27 +13,29 @@
     "agent-context",
     "agent-tools",
     "agentic-coding",
+    "agentic-engineering",
     "agentic-workflow",
-    "agents",
-    "ai-agents",
     "code-analysis",
     "code-context",
-    "codebase-indexing",
-    "codebase-intelligence",
+    "code-graph",
     "codegraph",
     "coding-agent",
+    "context-engine",
     "mcp",
     "semantic-analysis",
     "token-savings",
+    "tree-sitter",
+    "vector-database",
+    "vector-search",
     "vibe-coding"
   ],
-  "star_count": 303,
+  "star_count": 305,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-08T20:34:49Z",
-  "updated_at": "2026-05-20T16:55:22Z",
-  "pushed_at": "2026-05-20T16:55:18Z",
+  "updated_at": "2026-05-21T23:18:41Z",
+  "pushed_at": "2026-05-21T23:18:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +81,10 @@
     {
       "date": "2026-05-20",
       "stars": 303
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 305
     }
   ]
 }

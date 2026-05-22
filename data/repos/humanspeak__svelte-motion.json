@@ -3,30 +3,41 @@
   "owner": "humanspeak",
   "name": "svelte-motion",
   "full_name": "humanspeak/svelte-motion",
-  "description": "An API-compatible Svelte wrapper for Framer Motion’s React API — bring Motion components, variants, transitions, gestures, and layout animations to Svelte via a thin compatibility layer.",
-  "description_ja": "Framer Motion の React API と互換性のある Svelte ラッパー — 薄い互換レイヤーを介して Motion のコンポーネント、バリアント、トランジション、ジェスチャー、レイアウトアニメーションを Svelte で利用可能にします",
+  "description": "Framer Motion for Svelte 5. Declarative motion.\u003ctag\u003e components with AnimatePresence exit animations, gestures (hover, tap, drag, focus, in-view), variants, FLIP layout animations, shared-layout transitions, spring physics, and scroll-linked motion values. The drop-in Framer Motion alternative for Svelte and SvelteKit.",
+  "description_ja": "",
   "url": "https://github.com/humanspeak/svelte-motion",
   "homepage_url": "https://motion.svelte.page",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "animate-presence",
     "animation",
-    "api-wrapper",
+    "animation-library",
+    "drag",
     "framer-motion",
+    "framer-motion-alternative",
+    "framer-motion-svelte",
     "gestures",
     "layout-animations",
     "motion",
+    "scroll-animation",
+    "spring-animation",
+    "ssr",
     "svelte",
+    "svelte-5",
+    "svelte-animation",
+    "svelte-motion",
     "sveltekit",
-    "transitions"
+    "typescript",
+    "variants"
   ],
   "star_count": 64,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-21T02:38:20Z",
-  "updated_at": "2026-05-20T15:05:42Z",
-  "pushed_at": "2026-05-20T14:56:36Z",
+  "updated_at": "2026-05-21T22:43:41Z",
+  "pushed_at": "2026-05-22T19:38:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +114,10 @@
     },
     {
       "date": "2026-05-20",
+      "stars": 64
+    },
+    {
+      "date": "2026-05-22",
       "stars": 64
     }
   ]
