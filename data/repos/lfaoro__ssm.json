@@ -3,7 +3,7 @@
   "owner": "lfaoro",
   "name": "ssm",
   "full_name": "lfaoro/ssm",
-  "description": "Terminal UI for managing SSH connections.",
+  "description": "A terminal interface that makes your existing ~/.ssh/config fast, reliable, and actually pleasant to use at scale",
   "description_ja": "",
   "url": "https://github.com/lfaoro/ssm",
   "homepage_url": "",
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-12T11:02:50Z",
-  "updated_at": "2026-05-22T15:08:38Z",
-  "pushed_at": "2026-05-22T15:08:34Z",
+  "updated_at": "2026-05-22T23:23:35Z",
+  "pushed_at": "2026-05-22T23:23:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +91,10 @@
     },
     {
       "date": "2026-05-22",
+      "stars": 105
+    },
+    {
+      "date": "2026-05-23",
       "stars": 105
     }
   ]

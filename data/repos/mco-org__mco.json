@@ -3,10 +3,10 @@
   "owner": "mco-org",
   "name": "mco",
   "full_name": "mco-org/mco",
-  "description": "Orchestrate AI coding agents. Any prompt. Any agent. Any IDE. Neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code — works from Cursor, Trae, Copilot, Windsurf, or plain shell.",
+  "description": "[Successor: Hive — https://hivehq.dev] Original neutral orchestration layer for Claude Code, Codex CLI, Gemini CLI, OpenCode, Qwen Code. New work continues in Hive.",
   "description_ja": "",
   "url": "https://github.com/mco-org/mco",
-  "homepage_url": "",
+  "homepage_url": "https://hivehq.dev",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -26,13 +26,13 @@
     "trae",
     "windsurf"
   ],
-  "star_count": 361,
-  "fork_count": 32,
+  "star_count": 362,
+  "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T07:25:48Z",
-  "updated_at": "2026-05-21T17:38:25Z",
-  "pushed_at": "2026-05-10T00:50:03Z",
+  "updated_at": "2026-05-23T11:33:58Z",
+  "pushed_at": "2026-05-23T06:41:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +98,10 @@
     {
       "date": "2026-05-22",
       "stars": 361
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 362
     }
   ]
 }

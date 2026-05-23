@@ -6,7 +6,7 @@
   "description": "GitOps-driven Infrastructure as Code for my homelab",
   "description_ja": "ホームラボ向けGitOpsドリブンのInfrastructure as Code",
   "url": "https://github.com/Mafyuh/iac",
-  "homepage_url": "",
+  "homepage_url": "https://deepwiki.com/Mafyuh/iac",
   "language": "YAML",
   "license": "WTFPL",
   "topics": [
@@ -25,13 +25,13 @@
     "packer",
     "terraform"
   ],
-  "star_count": 477,
+  "star_count": 478,
   "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-02T02:56:22Z",
-  "updated_at": "2026-05-22T17:45:10Z",
-  "pushed_at": "2026-05-22T17:46:02Z",
+  "updated_at": "2026-05-23T13:25:32Z",
+  "pushed_at": "2026-05-23T16:51:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -113,6 +113,10 @@
     {
       "date": "2026-05-22",
       "stars": 477
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 478
     }
   ]
 }

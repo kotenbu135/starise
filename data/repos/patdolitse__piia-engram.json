@@ -3,7 +3,7 @@
   "owner": "patdolitse",
   "name": "piia-engram",
   "full_name": "patdolitse/piia-engram",
-  "description": "Your AI identity layer — one identity, every tool. Local-first, MCP-compatible, Apache 2.0.",
+  "description": "One memory. Every AI tool. Yours to keep. Local-first, MCP-compatible, Apache 2.0.",
   "description_ja": "",
   "url": "https://github.com/Patdolitse/piia-engram",
   "homepage_url": "https://pypi.org/project/piia-engram/",
@@ -13,36 +13,40 @@
     "ai-agent",
     "ai-identity",
     "ai-identity-layer",
-    "ai-tools",
+    "ai-memory",
     "anthropic",
     "claude-code",
     "claude-desktop",
     "codex",
     "context-management",
+    "context-sharing",
     "cross-tool-context",
     "cursor",
-    "developer-tools",
     "llm-tools",
     "local-first",
     "mcp",
     "mcp-server",
     "model-context-protocol",
-    "personal-ai",
     "python",
+    "vibe-coding",
     "windsurf"
   ],
-  "star_count": 64,
+  "star_count": 79,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-18T15:38:43Z",
-  "updated_at": "2026-05-22T20:23:03Z",
-  "pushed_at": "2026-05-22T20:23:07Z",
+  "updated_at": "2026-05-23T17:59:29Z",
+  "pushed_at": "2026-05-23T17:55:08Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-05-22",
       "stars": 64
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 79
     }
   ]
 }

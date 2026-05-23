@@ -1,0 +1,35 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnk2OTc5NDI0NA==",
+  "owner": "mnarulabuilds",
+  "name": "weatherai",
+  "full_name": "mnarulabuilds/weatherai",
+  "description": "Machine Learning Project for classifying Weather into ThunderStorm (0001) , Rainy(0010) , Foggy (0100) , Sunny(1000) and also predict weather features for next one year after training on 20 years data on a neural network This is my first Machine Learning Project.  Steps To run the project:  Extract the files into a single directory ( say \"MyWeatherProject\" )  Open Octave(GUI) and go to the above directory  Type the following in the COMMAND WINDOW : \"YearlyForecast();\" (without double quotes)  Open the files \"PredictionWeather1997.txt\" to \"PredictionWeather2016.txt\" and compare with actual results from \"Weather1997.txt\" to \"Weather2015.txt\".  Curves are plotted to compare predictions with actual weather conditions and they will be saved in the same directory...",
+  "description_ja": "",
+  "url": "https://github.com/mnarulabuilds/WeatherAI",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "",
+  "topics": [
+    "curves",
+    "extract",
+    "gui",
+    "machine-learning",
+    "neural-network",
+    "weather-conditions",
+    "weather-prediction"
+  ],
+  "star_count": 29,
+  "fork_count": 8,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2016-10-02T11:43:20Z",
+  "updated_at": "2026-05-23T14:46:21Z",
+  "pushed_at": "2026-03-08T13:57:57Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-23",
+      "stars": 29
+    }
+  ]
+}

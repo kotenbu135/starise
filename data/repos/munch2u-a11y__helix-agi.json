@@ -3,7 +3,7 @@
   "owner": "munch2u-a11y",
   "name": "helix-agi",
   "full_name": "munch2u-a11y/helix-agi",
-  "description": "Helix-AGI is an 'Agentic' LLM wrapper that uses a spatial-graph-based-memory retrieval system instead of a conventional RAG based system. The estimated 'relevence' of any given memory or belief is calculated based on its location relevant to the focus center.",
+  "description": "Helix-AGI is an 'Agentic' LLM wrapper that uses a spatial-graph-based-memory retrieval system instead of a conventional RAG based system. The agent's focus center is mapped within the spatial mind graph with each turn allowing the importance of each memory to be determined by numerous additional metrics beyond cosine similarity alone.",
   "description_ja": "",
   "url": "https://github.com/munch2u-a11y/Helix-AGI",
   "homepage_url": "",
@@ -20,16 +20,20 @@
     "ai-memory",
     "ai-memory-system",
     "artificial-general-intelligence",
+    "autonomous-agent",
     "autonomous-agents",
-    "general-artificial-intelligence"
+    "cognitive-ai",
+    "cognitive-ai-framework",
+    "general-artificial-intelligence",
+    "spatial-reasoning"
   ],
-  "star_count": 12,
-  "fork_count": 0,
+  "star_count": 13,
+  "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-22T07:20:58Z",
-  "updated_at": "2026-05-22T19:56:06Z",
-  "pushed_at": "2026-05-21T05:40:30Z",
+  "updated_at": "2026-05-23T16:00:20Z",
+  "pushed_at": "2026-05-23T16:00:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +43,10 @@
     {
       "date": "2026-05-22",
       "stars": 12
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 13
     }
   ]
 }

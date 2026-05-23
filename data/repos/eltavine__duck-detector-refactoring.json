@@ -3,20 +3,26 @@
   "owner": "eltavine",
   "name": "duck-detector-refactoring",
   "full_name": "eltavine/duck-detector-refactoring",
-  "description": "",
+  "description": "Android environment integrity inspection tool for root, hook, bootloader, SELinux, virtualization, and attestation signals",
   "description_ja": "",
   "url": "https://github.com/eltavine/Duck-Detector-Refactoring",
-  "homepage_url": "",
+  "homepage_url": "https://eltavine.com/#projects",
   "language": "Kotlin",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 480,
-  "fork_count": 91,
+  "topics": [
+    "android",
+    "bootloader",
+    "lsposeed",
+    "magisk-detection",
+    "root-detection"
+  ],
+  "star_count": 486,
+  "fork_count": 92,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-17T11:21:11Z",
-  "updated_at": "2026-05-22T16:42:23Z",
-  "pushed_at": "2026-05-22T16:19:15Z",
+  "updated_at": "2026-05-23T16:04:14Z",
+  "pushed_at": "2026-05-23T15:50:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -82,6 +88,10 @@
     {
       "date": "2026-05-22",
       "stars": 480
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 486
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "giovannipasq",
   "name": "chunky",
   "full_name": "giovannipasq/chunky",
-  "description": "Convert and validate your Markdown, then choose the best chunking strategy for your RAG pipeline.",
-  "description_ja": "Markdownを変換・検証し、RAGパイプラインに最適なチャンク戦略を選択できます。",
+  "description": "Open-source toolkit for RAG chunking: convert Markdown, validate documents, visualize and optimize chunking strategies, and enrich results for LLM applications.",
+  "description_ja": "",
   "url": "https://github.com/GiovanniPasq/chunky",
   "homepage_url": "",
   "language": "Python",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T21:54:16Z",
-  "updated_at": "2026-05-22T18:25:47Z",
-  "pushed_at": "2026-05-22T18:29:16Z",
+  "updated_at": "2026-05-23T07:47:02Z",
+  "pushed_at": "2026-05-23T07:46:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -122,6 +122,10 @@
     },
     {
       "date": "2026-05-22",
+      "stars": 103
+    },
+    {
+      "date": "2026-05-23",
       "stars": 103
     }
   ]

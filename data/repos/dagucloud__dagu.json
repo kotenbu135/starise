@@ -3,7 +3,7 @@
   "owner": "dagucloud",
   "name": "dagu",
   "full_name": "dagucloud/dagu",
-  "description": "The control plane for teams looking to automate real work with AI agents within their own infrastructure. Packaged as a single binary, it runs on Linux, macOS, and Windows. Use your favorite AI agents to create, update, and run your workflows via secure MCP with full traceability and logging.",
+  "description": "Lightweight workflow engine built in a single binary with Web UI. Define workflows in a declarative YAML format. Linux, macOS, and Windows. Use your favorite AI agents to manage your workflows.",
   "description_ja": "",
   "url": "https://github.com/dagucloud/dagu",
   "homepage_url": "https://dagu.sh",
@@ -28,13 +28,13 @@
     "workflow-orchestration",
     "workflow-scheduler"
   ],
-  "star_count": 3417,
+  "star_count": 3418,
   "fork_count": 268,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-22T13:00:42Z",
-  "updated_at": "2026-05-22T15:28:56Z",
-  "pushed_at": "2026-05-22T15:02:08Z",
+  "updated_at": "2026-05-23T16:49:17Z",
+  "pushed_at": "2026-05-23T17:22:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -116,6 +116,10 @@
     {
       "date": "2026-05-22",
       "stars": 3417
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 3418
     }
   ]
 }

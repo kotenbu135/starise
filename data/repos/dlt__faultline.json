@@ -3,8 +3,8 @@
   "owner": "dlt",
   "name": "faultline",
   "full_name": "dlt/faultline",
-  "description": "Self-hosted embedded error tracking Rails engine. Track errors, get notified via Telegram/Slack/webhooks, and resolve issues with a clean dashboard—all without external services or SaaS fees.",
-  "description_ja": "セルフホスト型の組み込みエラートラッキング Rails エンジン。外部サービスや SaaS 費用不要で、エラーの追跡・Telegram/Slack/webhook 通知・クリーンなダッシュボードでの問題解決が可能。",
+  "description": "MCP-powered, self-hosted embedded error tracking Rails engine. Track errors, get notified via Telegram/Slack/webhooks, and resolve issues with a clean dashboard—all without external services or SaaS fees.",
+  "description_ja": "",
   "url": "https://github.com/dlt/faultline",
   "homepage_url": "https://dlt.github.io/faultline/",
   "language": "Ruby",
@@ -13,12 +13,12 @@
     "error-monitoring",
     "rails"
   ],
-  "star_count": 79,
+  "star_count": 82,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-10T07:16:01Z",
-  "updated_at": "2026-05-14T14:49:35Z",
+  "updated_at": "2026-05-23T15:43:15Z",
   "pushed_at": "2026-05-14T14:49:27Z",
   "deleted_at": "",
   "star_history": [
@@ -101,6 +101,10 @@
     {
       "date": "2026-05-22",
       "stars": 79
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 82
     }
   ]
 }

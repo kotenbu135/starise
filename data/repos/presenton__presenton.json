@@ -7,7 +7,7 @@
   "description_ja": "オープンソースのAIプレゼンテーション生成ツールおよびAPI（Gamma、Beautiful AI、Decktopusの代替）。",
   "url": "https://github.com/presenton/presenton",
   "homepage_url": "https://presenton.ai",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "ai-agent",
@@ -19,13 +19,13 @@
     "powerpoint-generation",
     "presentation"
   ],
-  "star_count": 5908,
-  "fork_count": 1084,
+  "star_count": 6241,
+  "fork_count": 1110,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-10T14:12:46Z",
-  "updated_at": "2026-05-22T20:04:50Z",
-  "pushed_at": "2026-05-22T17:32:43Z",
+  "updated_at": "2026-05-23T18:32:09Z",
+  "pushed_at": "2026-05-23T15:35:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -111,6 +111,10 @@
     {
       "date": "2026-05-22",
       "stars": 5908
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 6241
     }
   ]
 }

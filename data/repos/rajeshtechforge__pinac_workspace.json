@@ -3,7 +3,7 @@
   "owner": "rajeshtechforge",
   "name": "pinac_workspace",
   "full_name": "rajeshtechforge/pinac_workspace",
-  "description": "A Privacy-first, Free Desktop AI Assistant for Everyone",
+  "description": "A local, minimal \u0026 secure desktop AI assistant for everyone",
   "description_ja": "",
   "url": "https://github.com/RajeshTechForge/pinac_workspace",
   "homepage_url": "",
@@ -11,9 +11,10 @@
   "license": "MIT",
   "topics": [
     "ai",
+    "backend",
     "cross-platform",
     "desktop-app",
-    "fastapi",
+    "frontend",
     "good-first-issue",
     "linux",
     "python",
@@ -28,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-20T03:05:13Z",
-  "updated_at": "2026-05-22T06:10:26Z",
-  "pushed_at": "2026-05-22T06:10:22Z",
+  "updated_at": "2026-05-23T16:35:01Z",
+  "pushed_at": "2026-05-23T16:34:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -114,6 +115,10 @@
     },
     {
       "date": "2026-05-22",
+      "stars": 34
+    },
+    {
+      "date": "2026-05-23",
       "stars": 34
     }
   ]

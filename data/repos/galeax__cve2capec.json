@@ -3,7 +3,7 @@
   "owner": "galeax",
   "name": "cve2capec",
   "full_name": "galeax/cve2capec",
-  "description": "Generate MITRE ATT\u0026CK and D3FEND from a list of CVEs. Database with CVE, CWE, CAPEC, MITRE ATT\u0026CK and D3FEND Techniques data is updated daily. Showcased at BlackHat Europe 2025 Arsenal.",
+  "description": "Generate MITRE ATT\u0026CK and D3FEND from a list of CVEs. Database with CVE, CWE, CAPEC, MITRE ATT\u0026CK D3FEND and ATLAS Techniques data is updated daily. Showcased at BlackHat Europe 2025 Arsenal.",
   "description_ja": "",
   "url": "https://github.com/Galeax/CVE2CAPEC",
   "homepage_url": "https://galeax.github.io/CVE2CAPEC/",
@@ -35,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-18T08:58:56Z",
-  "updated_at": "2026-05-22T05:07:33Z",
-  "pushed_at": "2026-05-22T05:07:22Z",
+  "updated_at": "2026-05-23T16:42:58Z",
+  "pushed_at": "2026-05-23T16:42:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     },
     {
       "date": "2026-05-22",
+      "stars": 295
+    },
+    {
+      "date": "2026-05-23",
       "stars": 295
     }
   ]

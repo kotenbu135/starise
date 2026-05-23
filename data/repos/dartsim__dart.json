@@ -3,8 +3,8 @@
   "owner": "dartsim",
   "name": "dart",
   "full_name": "dartsim/dart",
-  "description": "C++20 physics engine for robotics and animation with collision, constraints, and Python bindings",
-  "description_ja": "衝突・拘束条件・Pythonバインディングを備えたロボティクスおよびアニメーション向けC++20物理エンジン",
+  "description": "Research-focused C++20 physics engine for robotics, animation, and machine learning, with Python bindings",
+  "description_ja": "",
   "url": "https://github.com/dartsim/dart",
   "homepage_url": "https://dart.readthedocs.io",
   "language": "C++",
@@ -12,18 +12,18 @@
   "topics": [
     "collision-detection",
     "computer-animation",
-    "constraint-dynamics",
-    "dartpy",
+    "cpp20",
     "dynamics",
     "gazebo",
     "inverse-kinematics",
     "kinematics",
     "lie-group",
     "mjcf",
-    "multibody-dynamics",
+    "multibody",
+    "nanobind",
     "physics-engine",
     "python-bindings",
-    "rigid-body-dynamics",
+    "rigidbody",
     "robotics",
     "sdf",
     "simulation",
@@ -34,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-09-19T21:53:51Z",
-  "updated_at": "2026-05-22T17:12:33Z",
-  "pushed_at": "2026-05-22T17:57:20Z",
+  "updated_at": "2026-05-23T17:54:54Z",
+  "pushed_at": "2026-05-23T17:54:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -116,6 +116,10 @@
     },
     {
       "date": "2026-05-22",
+      "stars": 1085
+    },
+    {
+      "date": "2026-05-23",
       "stars": 1085
     }
   ]
