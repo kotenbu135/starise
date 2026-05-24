@@ -3,8 +3,8 @@
   "owner": "coplaydev",
   "name": "unity-mcp",
   "full_name": "coplaydev/unity-mcp",
-  "description": "Unity MCP acts as a bridge, allowing AI assistants (like Claude, Cursor) to interact directly with your Unity Editor via a local MCP (Model Context Protocol) Client. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-  "description_ja": "Unity MCP はブリッジとして機能し、AI アシスタント（Claude、Cursor など）がローカルの MCP (Model Context Protocol) クライアント経由で Unity Editor と直接やり取りできるようにします。LLM にアセット管理、シーン制御、スクリプト編集、タスク自動化のツールを提供します。",
+  "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+  "description_ja": "",
   "url": "https://github.com/CoplayDev/unity-mcp",
   "homepage_url": "https://www.coplay.dev",
   "language": "C#",
@@ -27,13 +27,13 @@
     "unity3d",
     "videogames"
   ],
-  "star_count": 9915,
-  "fork_count": 1115,
+  "star_count": 9944,
+  "fork_count": 1117,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-18T11:01:58Z",
-  "updated_at": "2026-05-23T16:58:16Z",
-  "pushed_at": "2026-05-22T15:54:18Z",
+  "updated_at": "2026-05-24T17:31:58Z",
+  "pushed_at": "2026-05-24T11:08:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -123,6 +123,10 @@
     {
       "date": "2026-05-23",
       "stars": 9915
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 9944
     }
   ]
 }

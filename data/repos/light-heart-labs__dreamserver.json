@@ -3,8 +3,8 @@
   "owner": "light-heart-labs",
   "name": "dreamserver",
   "full_name": "light-heart-labs/dreamserver",
-  "description": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.",
-  "description_ja": "どこでも誰でも使えるローカルAI — LLM推論、チャットUI、音声、エージェント、ワークフロー、RAG、画像生成。クラウド不要、サブスクリプション不要。",
+  "description": "Turn your PC, Mac, or Linux box into a private AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+  "description_ja": "",
   "url": "https://github.com/Light-Heart-Labs/DreamServer",
   "homepage_url": "https://discord.gg/qGVygYada3",
   "language": "Shell",
@@ -27,13 +27,13 @@
     "text-to-speech",
     "workflow-automation"
   ],
-  "star_count": 1649,
-  "fork_count": 256,
+  "star_count": 1663,
+  "fork_count": 257,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-09T13:14:58Z",
-  "updated_at": "2026-05-23T18:04:45Z",
-  "pushed_at": "2026-05-23T18:04:42Z",
+  "updated_at": "2026-05-24T18:19:01Z",
+  "pushed_at": "2026-05-24T17:58:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -123,6 +123,10 @@
     {
       "date": "2026-05-23",
       "stars": 1649
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 1663
     }
   ]
 }

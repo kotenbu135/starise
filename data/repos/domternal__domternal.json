@@ -3,8 +3,8 @@
   "owner": "domternal",
   "name": "domternal",
   "full_name": "domternal/domternal",
-  "description": "Lightweight, extensible rich text editor toolkit built on ProseMirror. Headless core for any framework or native Angular/React/Vue components. Built-in toolbar and theme, full table support, 57 extensions. MIT licensed.",
-  "description_ja": "ProseMirrorをベースに構築された軽量で拡張可能なリッチテキストエディタツールキット。任意のフレームワークまたはAngular/React/Vueコンポーネントに対応したヘッドレスコア。ツールバーとテーマ内蔵、完全なテーブルサポート、57の拡張機能。MITライセンス。",
+  "description": "Modern, extensible rich text editor toolkit built on ProseMirror. Classic and Notion-style editors out of the box. Or go headless and assemble from 65+ tree-shakeable extensions. First-class wrappers for Angular, React, Vue, and Vanilla.",
+  "description_ja": "",
   "url": "https://github.com/domternal/domternal",
   "homepage_url": "https://domternal.dev",
   "language": "TypeScript",
@@ -35,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-17T19:20:29Z",
-  "updated_at": "2026-05-23T00:29:02Z",
-  "pushed_at": "2026-05-23T00:39:07Z",
+  "updated_at": "2026-05-24T00:11:49Z",
+  "pushed_at": "2026-05-23T23:25:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -121,6 +121,10 @@
     },
     {
       "date": "2026-05-23",
+      "stars": 122
+    },
+    {
+      "date": "2026-05-24",
       "stars": 122
     }
   ]

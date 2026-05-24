@@ -3,7 +3,7 @@
   "owner": "eitsupi",
   "name": "dlin",
   "full_name": "eitsupi/dlin",
-  "description": "dbt lineage analysis CLI that parses SQL files directly, written in Rust. No dbt compile, no manifest.json. Designed for AI agents and CI pipelines.",
+  "description": "dbt lineage analysis CLI written in Rust, designed for AI agents and CI pipelines.",
   "description_ja": "",
   "url": "https://github.com/eitsupi/dlin",
   "homepage_url": "",
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-05T12:54:21Z",
-  "updated_at": "2026-05-23T05:32:40Z",
-  "pushed_at": "2026-05-23T05:33:42Z",
+  "updated_at": "2026-05-24T13:24:55Z",
+  "pushed_at": "2026-05-24T13:24:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +74,10 @@
     },
     {
       "date": "2026-05-23",
+      "stars": 11
+    },
+    {
+      "date": "2026-05-24",
       "stars": 11
     }
   ]

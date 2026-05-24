@@ -3,7 +3,7 @@
   "owner": "majiayu000",
   "name": "claude-arsenal",
   "full_name": "majiayu000/claude-arsenal",
-  "description": "52 production-ready Claude Code skills and 7 specialized agents for software development, DevOps, product workflows, and automation.",
+  "description": "74 production-ready Claude Code skills and 7 specialized agents for engineering, DevOps, product workflows, UI, deployment, and AI-agent automation.",
   "description_ja": "",
   "url": "https://github.com/majiayu000/claude-arsenal",
   "homepage_url": "https://github.com/majiayu000/claude-arsenal#quick-start",
@@ -11,11 +11,13 @@
   "license": "MIT",
   "topics": [
     "agent-skills",
+    "ai-agent-skills",
     "ai-agents",
     "ai-coding-assistant",
     "automation",
     "claude",
     "claude-code",
+    "claude-code-skills",
     "code-review",
     "developer-tools",
     "devops",
@@ -26,13 +28,13 @@
     "typescript",
     "workflows"
   ],
-  "star_count": 33,
-  "fork_count": 6,
+  "star_count": 51,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-09T08:17:18Z",
-  "updated_at": "2026-05-15T16:33:57Z",
-  "pushed_at": "2026-05-15T16:33:53Z",
+  "updated_at": "2026-05-24T18:12:24Z",
+  "pushed_at": "2026-05-24T16:53:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +96,10 @@
     {
       "date": "2026-05-23",
       "stars": 33
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 51
     }
   ]
 }

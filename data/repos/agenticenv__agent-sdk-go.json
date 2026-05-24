@@ -3,7 +3,7 @@
   "owner": "agenticenv",
   "name": "agent-sdk-go",
   "full_name": "agenticenv/agent-sdk-go",
-  "description": "Durable AI agents in Go — built on Temporal. Agent runs survive crashes, restarts \u0026 deploys automatically. OpenAI, Anthropic, Gemini, MCP, A2A, AG-UI, observability, streaming, sub-agents \u0026 human-in-the-loop.",
+  "description": "Durable AI agents in Go — built on Temporal. Agent runs survive crashes, restarts \u0026 deploys automatically. OpenAI, Anthropic, Gemini, tools, MCP, A2A, RAG, conversations, AG-UI, streaming, sub-agents \u0026 human-in-the-loop.",
   "description_ja": "",
   "url": "https://github.com/agenticenv/agent-sdk-go",
   "homepage_url": "",
@@ -36,7 +36,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-13T09:11:14Z",
-  "updated_at": "2026-05-21T15:57:09Z",
+  "updated_at": "2026-05-23T23:16:59Z",
   "pushed_at": "2026-05-18T02:18:20Z",
   "deleted_at": "",
   "star_history": [
@@ -62,6 +62,10 @@
     },
     {
       "date": "2026-05-23",
+      "stars": 15
+    },
+    {
+      "date": "2026-05-24",
       "stars": 15
     }
   ]

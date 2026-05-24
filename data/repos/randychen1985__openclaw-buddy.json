@@ -6,7 +6,7 @@
   "description": "让 OpenClaw 的运维从此优雅，让每一个 AI 代理都有不灭的灯塔。| Openclaw 可视化管理，Web 在线聊天，embed 嵌入小龙虾， 自愈恢复管理。 基于 openclaw 指令级管理，不依赖 gateway 网关是否启动。",
   "description_ja": "",
   "url": "https://github.com/RandyChen1985/openclaw-buddy",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/RandyChen1985/openclaw-buddy",
   "language": "TypeScript",
   "license": "",
   "topics": [
@@ -16,15 +16,16 @@
     "openclaw",
     "openclaw-agent",
     "openclaw-manager",
-    "openclaw-plugin"
+    "openclaw-plugin",
+    "webui"
   ],
   "star_count": 53,
-  "fork_count": 7,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-27T12:11:21Z",
-  "updated_at": "2026-05-23T17:19:48Z",
-  "pushed_at": "2026-05-23T10:52:49Z",
+  "updated_at": "2026-05-24T04:10:22Z",
+  "pushed_at": "2026-05-24T10:04:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -77,6 +78,10 @@
     },
     {
       "date": "2026-05-23",
+      "stars": 53
+    },
+    {
+      "date": "2026-05-24",
       "stars": 53
     }
   ]

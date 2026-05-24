@@ -3,27 +3,24 @@
   "owner": "sirdiabo",
   "name": "n64recomplauncher",
   "full_name": "sirdiabo/n64recomplauncher",
-  "description": "A Launcher that Downloads and Updates N64 Recompilations",
-  "description_ja": "N64リコンパイル版をダウンロード・更新するランチャー",
+  "description": "A Launcher that Downloads and Updates Applications from Github Releases",
+  "description_ja": "",
   "url": "https://github.com/SirDiabo/N64RecompLauncher",
-  "homepage_url": "https://discord.gg/DptggHetGZ",
+  "homepage_url": "",
   "language": "C#",
   "license": "MIT",
   "topics": [
+    "dotnet",
     "games",
     "launcher",
-    "launcher-application",
-    "n64",
-    "pc-port",
-    "recompilation",
-    "retro"
+    "launcher-application"
   ],
-  "star_count": 692,
+  "star_count": 694,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-20T23:19:38Z",
-  "updated_at": "2026-05-22T00:52:52Z",
+  "updated_at": "2026-05-24T18:16:24Z",
   "pushed_at": "2026-05-11T19:09:07Z",
   "deleted_at": "",
   "star_history": [
@@ -114,6 +111,10 @@
     {
       "date": "2026-05-23",
       "stars": 692
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 694
     }
   ]
 }

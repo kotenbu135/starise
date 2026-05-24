@@ -3,7 +3,7 @@
   "owner": "getnora-io",
   "name": "nora",
   "full_name": "getnora-io/nora",
-  "description": "Lightweight multi-format artifact registry. 13 formats: Docker, Maven, npm, PyPI, Cargo, Go, RubyGems, Terraform, NuGet, and more. Single binary, zero dependencies, \u003c100MB RAM.",
+  "description": "Lightweight multi-format artifact registry. 13 formats: Docker, Maven, npm, PyPI, Cargo, Go, NuGet, RubyGems, Terraform, Conan, Ansible Galaxy, Dart Pub, and Raw. Single binary, zero dependencies, \u003c100MB RAM.",
   "description_ja": "",
   "url": "https://github.com/getnora-io/nora",
   "homepage_url": "https://getnora.dev",
@@ -11,33 +11,33 @@
   "license": "MIT",
   "topics": [
     "air-gapped",
+    "ansible-galaxy",
+    "arm64",
     "artifact-registry",
     "artifactory-alternative",
     "cargo-registry",
     "conan",
-    "curation",
+    "dart-pub",
     "docker-registry",
+    "goproxy",
     "maven-repository",
     "nexus-alternative",
     "npm-registry",
     "nuget",
     "oci-registry",
     "pypi-registry",
-    "registry-proxy",
     "rubygems",
-    "rust",
     "self-hosted",
-    "single-binary",
     "supply-chain-security",
     "terraform-registry"
   ],
-  "star_count": 174,
+  "star_count": 175,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-25T16:13:37Z",
-  "updated_at": "2026-05-23T18:03:37Z",
-  "pushed_at": "2026-05-23T18:03:35Z",
+  "updated_at": "2026-05-24T17:18:50Z",
+  "pushed_at": "2026-05-24T17:18:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -123,6 +123,10 @@
     {
       "date": "2026-05-23",
       "stars": 174
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 175
     }
   ]
 }

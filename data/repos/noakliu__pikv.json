@@ -6,7 +6,7 @@
   "description": "PiKV: KV Cache Management System for Mixture of Experts [Efficient ML System]",
   "description_ja": "PiKV：Mixture of Experts向けKVキャッシュ管理システム [効率的MLシステム]",
   "url": "https://github.com/NoakLiu/PiKV",
-  "homepage_url": "https://arxiv.org/pdf/2508.06526",
+  "homepage_url": "https://arxiv.org/abs/2508.06526",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
@@ -20,12 +20,12 @@
     "moe",
     "parallel-computing"
   ],
-  "star_count": 52,
+  "star_count": 53,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-07T06:45:12Z",
-  "updated_at": "2026-05-19T18:25:56Z",
+  "updated_at": "2026-05-24T16:45:03Z",
   "pushed_at": "2026-05-19T18:25:52Z",
   "deleted_at": "",
   "star_history": [
@@ -112,6 +112,10 @@
     {
       "date": "2026-05-23",
       "stars": 52
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 53
     }
   ]
 }

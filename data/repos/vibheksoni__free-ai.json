@@ -3,7 +3,7 @@
   "owner": "vibheksoni",
   "name": "free-ai",
   "full_name": "vibheksoni/free-ai",
-  "description": "Free OpenAI-compatible AI API with 16,000+ models, image generation, tool calling, and Discord key signup.",
+  "description": "Free OpenAI-compatible AI API with 50+ active models, image generation, tool calling, Anthropic-style messages, and Discord key signup. No credit card.",
   "description_ja": "",
   "url": "https://github.com/vibheksoni/free-ai",
   "homepage_url": "https://freetheai.xyz",
@@ -26,13 +26,13 @@
     "streaming",
     "tool-calling"
   ],
-  "star_count": 483,
-  "fork_count": 91,
+  "star_count": 488,
+  "fork_count": 92,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-21T22:20:06Z",
-  "updated_at": "2026-05-23T17:12:48Z",
-  "pushed_at": "2026-05-23T04:32:22Z",
+  "updated_at": "2026-05-24T14:44:03Z",
+  "pushed_at": "2026-05-24T04:58:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +98,10 @@
     {
       "date": "2026-05-23",
       "stars": 483
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 488
     }
   ]
 }

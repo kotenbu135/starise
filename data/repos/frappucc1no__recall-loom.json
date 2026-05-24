@@ -3,25 +3,41 @@
   "owner": "frappucc1no",
   "name": "recall-loom",
   "full_name": "frappucc1no/recall-loom",
-  "description": "Portable continuity layer for long-running AI projects across models, agents, and sessions.",
+  "description": "Project memory for long-running AI work across agents, models, and sessions. Keep context, decisions, progress, and next steps in local project files.",
   "description_ja": "",
   "url": "https://github.com/Frappucc1no/recall-loom",
   "homepage_url": "https://github.com/Frappucc1no/recall-loom",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "agent-memory",
     "agent-skills",
     "ai-agents",
+    "ai-coding",
+    "ai-memory",
+    "claude",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills",
+    "codex",
+    "codex-skill",
+    "context-management",
+    "developer-tools",
+    "gemini-cli",
+    "llm",
+    "llm-agents",
+    "markdown",
     "project-continuity",
+    "project-memory",
     "session-memory"
   ],
-  "star_count": 71,
-  "fork_count": 3,
+  "star_count": 83,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-13T03:36:55Z",
-  "updated_at": "2026-05-23T16:56:52Z",
-  "pushed_at": "2026-05-23T16:56:48Z",
+  "updated_at": "2026-05-24T18:03:23Z",
+  "pushed_at": "2026-05-24T09:33:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +51,10 @@
     {
       "date": "2026-05-23",
       "stars": 71
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 83
     }
   ]
 }

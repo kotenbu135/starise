@@ -3,36 +3,41 @@
   "owner": "amrdab",
   "name": "clawdcursor",
   "full_name": "amrdab/clawdcursor",
-  "description": "OS-agnostic, model-agnostic desktop automation server. Gives any AI agent eyes, hands, and ground-truth verification on Windows, macOS, and Linux.",
-  "description_ja": "OS 非依存・モデル非依存のデスクトップ自動化サーバー。Windows、macOS、Linux 上で、あらゆる AI エージェントに目・手・グラウンドトゥルース検証を提供",
+  "description": "MCP-powered fallback layer that lets AI agents execute tasks through the GUI when APIs, tools, or direct integrations are unavailable. Cross-OS, accessibility-first, local-only.",
+  "description_ja": "",
   "url": "https://github.com/AmrDab/clawdcursor",
   "homepage_url": "https://clawdcursor.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "ai-agent",
+    "ai-tools",
+    "anthropic",
+    "automation",
     "claude",
     "computer-use",
     "cross-platform",
+    "cursor",
+    "desktop",
     "desktop-automation",
-    "gemini",
+    "gui-automation",
     "linux",
     "macos",
     "mcp",
     "mcp-server",
     "model-agnostic",
+    "model-context-protocol",
     "openai",
-    "openclaw-skill",
     "typescript",
     "windows"
   ],
-  "star_count": 335,
+  "star_count": 336,
   "fork_count": 54,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-19T12:50:57Z",
-  "updated_at": "2026-05-23T13:19:18Z",
-  "pushed_at": "2026-05-23T13:19:15Z",
+  "updated_at": "2026-05-24T12:21:10Z",
+  "pushed_at": "2026-05-24T11:15:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -122,6 +127,10 @@
     {
       "date": "2026-05-23",
       "stars": 335
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 336
     }
   ]
 }

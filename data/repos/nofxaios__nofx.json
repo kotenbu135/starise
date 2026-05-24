@@ -3,8 +3,8 @@
   "owner": "nofxaios",
   "name": "nofx",
   "full_name": "nofxaios/nofx",
-  "description": "Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.",
-  "description_ja": "個人用 AI トレーディングアシスタント。あらゆる市場・あらゆるモデルに対応。API キー不要、USDC で支払い",
+  "description": "Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.",
+  "description_ja": "",
   "url": "https://github.com/NoFxAiOS/nofx",
   "homepage_url": "https://vergex.trade",
   "language": "Go",
@@ -16,26 +16,25 @@
     "arbitrage",
     "binance",
     "bitcoin",
-    "bybit",
+    "commodities",
     "exchange",
     "forex",
     "hyperliquid",
-    "lighter",
     "metals",
-    "okx",
     "perp-dex",
     "stocks",
     "trading",
+    "us-stocks",
     "x402",
     "x402-agent"
   ],
-  "star_count": 12459,
-  "fork_count": 2985,
+  "star_count": 12465,
+  "fork_count": 2988,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-28T07:17:53Z",
-  "updated_at": "2026-05-23T14:58:14Z",
-  "pushed_at": "2026-05-11T16:16:29Z",
+  "updated_at": "2026-05-24T18:04:11Z",
+  "pushed_at": "2026-05-24T18:12:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -125,6 +124,10 @@
     {
       "date": "2026-05-23",
       "stars": 12459
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 12465
     }
   ]
 }

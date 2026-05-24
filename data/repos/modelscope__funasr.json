@@ -3,7 +3,7 @@
   "owner": "modelscope",
   "name": "funasr",
   "full_name": "modelscope/funasr",
-  "description": "Industrial-grade speech recognition toolkit. 170x realtime, 50+ languages, speaker diarization, emotion detection — all in 3 lines of Python. Production-ready.",
+  "description": "Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.",
   "description_ja": "",
   "url": "https://github.com/modelscope/FunASR",
   "homepage_url": "https://modelscope.github.io/FunASR",
@@ -13,31 +13,31 @@
     "asr",
     "audio",
     "chinese",
-    "conformer",
-    "deep-learning",
     "emotion-recognition",
+    "mcp-server",
     "multilingual-asr",
+    "openai-compatible-api",
     "paraformer",
-    "pretrained-model",
     "punctuation",
     "pytorch",
     "real-time",
     "speaker-diarization",
     "speech-recognition",
     "speech-to-text",
-    "speechllm",
+    "streaming-asr",
     "transcription",
     "vad",
+    "vllm",
     "voice-activity-detection",
     "whisper-alternative"
   ],
-  "star_count": 16209,
-  "fork_count": 1683,
+  "star_count": 16247,
+  "fork_count": 1685,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-11-24T02:28:11Z",
-  "updated_at": "2026-05-23T18:18:03Z",
-  "pushed_at": "2026-05-23T18:17:59Z",
+  "updated_at": "2026-05-24T18:16:56Z",
+  "pushed_at": "2026-05-24T18:11:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -127,6 +127,10 @@
     {
       "date": "2026-05-23",
       "stars": 16209
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 16247
     }
   ]
 }

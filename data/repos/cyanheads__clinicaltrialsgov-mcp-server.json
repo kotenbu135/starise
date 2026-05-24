@@ -11,23 +11,17 @@
   "license": "Apache-2.0",
   "topics": [
     "ai-agent",
-    "api-client",
     "bioinformatics",
     "clinical-trials",
-    "clinicaltrials",
     "clinicaltrials-gov",
+    "cyanheads",
     "eligibility-criteria",
     "health-tech",
-    "hono",
-    "http",
-    "llm",
-    "llm-agent",
     "mcp",
     "mcp-server",
     "model-context-protocol",
     "patient-matching",
     "research-tools",
-    "stdio",
     "trial-finder",
     "typescript"
   ],
@@ -36,7 +30,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-17T09:34:35Z",
-  "updated_at": "2026-05-23T15:06:51Z",
+  "updated_at": "2026-05-24T06:46:39Z",
   "pushed_at": "2026-05-23T15:06:48Z",
   "deleted_at": "",
   "star_history": [
@@ -126,6 +120,10 @@
     },
     {
       "date": "2026-05-23",
+      "stars": 75
+    },
+    {
+      "date": "2026-05-24",
       "stars": 75
     }
   ]

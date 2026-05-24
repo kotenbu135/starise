@@ -3,36 +3,40 @@
   "owner": "akshay2211",
   "name": "drawbox",
   "full_name": "akshay2211/drawbox",
-  "description": "DrawBox is a multi-purpose tool to draw anything on canvas, written completely on jetpack compose.",
+  "description": "Kotlin Multiplatform drawing library with SVG export, undo/redo \u0026 shapes for Android, iOS, Web \u0026 Desktop.",
   "description_ja": "",
   "url": "https://github.com/akshay2211/DrawBox",
   "homepage_url": "https://ak1.io/DrawBox/",
   "language": "Kotlin",
   "license": "Apache-2.0",
   "topics": [
-    "android",
     "android-canvas",
-    "android-library",
     "canvas",
     "composable",
     "compose",
+    "cross-platform",
     "drawing-app",
     "drawing-library",
     "drawing-on-canvas",
+    "drawingboard",
     "hacktoberfest",
-    "jepackcompose",
+    "jetpack-compose",
     "kotlin",
-    "kotlin-android",
     "kotlin-library",
-    "signature-pad"
+    "kotlin-multiplatform",
+    "png-export",
+    "shapes",
+    "signature-pad",
+    "svg-export",
+    "undo-redo"
   ],
   "star_count": 334,
   "fork_count": 47,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-09T18:24:24Z",
-  "updated_at": "2026-05-21T13:31:19Z",
-  "pushed_at": "2026-05-22T18:53:47Z",
+  "updated_at": "2026-05-24T11:30:20Z",
+  "pushed_at": "2026-05-24T11:33:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +45,10 @@
     },
     {
       "date": "2026-05-23",
+      "stars": 334
+    },
+    {
+      "date": "2026-05-24",
       "stars": 334
     }
   ]

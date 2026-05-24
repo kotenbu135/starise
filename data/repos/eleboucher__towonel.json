@@ -3,7 +3,7 @@
   "owner": "eleboucher",
   "name": "towonel",
   "full_name": "eleboucher/towonel",
-  "description": "Exposes HTTP(S) services behind NAT, CGNAT, or dynamic IPs without opening inbound ports.",
+  "description": "Exposes HTTP(S) services behind NAT, CGNAT, or dynamic IPs without opening inbound ports. Mirror from https://codeberg.org/towonel/towonel",
   "description_ja": "",
   "url": "https://github.com/eleboucher/towonel",
   "homepage_url": "",
@@ -18,12 +18,12 @@
     "self-hosted",
     "tunnel"
   ],
-  "star_count": 12,
+  "star_count": 13,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-18T12:33:55Z",
-  "updated_at": "2026-05-23T05:58:17Z",
+  "updated_at": "2026-05-23T21:57:51Z",
   "pushed_at": "2026-05-22T21:01:44Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +46,10 @@
     {
       "date": "2026-05-23",
       "stars": 12
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 13
     }
   ]
 }
