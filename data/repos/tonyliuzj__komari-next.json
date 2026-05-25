@@ -6,7 +6,7 @@
   "description": "Komari-Next is a modern frontend for the Komari monitoring project. It is built with Next.js, TypeScript, Tailwind CSS and Shadcn UI and packaged as a static site that can be used as a Komari theme.",
   "description_ja": "Komari-NextはKomariモニタリングプロジェクト向けのモダンなフロントエンド。Next.js・TypeScript・Tailwind CSS・Shadcn UIで構築され、Komariテーマとして使える静的サイトとしてパッケージ化されている。",
   "url": "https://github.com/tonyliuzj/komari-next",
-  "homepage_url": "https://probes.uk",
+  "homepage_url": "https://komari.probe.name",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -16,13 +16,13 @@
     "shadcn",
     "shadcn-ui"
   ],
-  "star_count": 388,
+  "star_count": 391,
   "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-20T20:10:38Z",
-  "updated_at": "2026-05-24T06:47:31Z",
-  "pushed_at": "2026-05-21T11:50:32Z",
+  "updated_at": "2026-05-25T14:35:53Z",
+  "pushed_at": "2026-05-25T14:05:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -112,6 +112,10 @@
     {
       "date": "2026-05-24",
       "stars": 388
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 391
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "backbay-labs",
   "name": "clawdstrike",
   "full_name": "backbay-labs/clawdstrike",
-  "description": "Runtime security enforcement and threat hunting engine for autonomous AI fleets. Build Swarm Detection \u0026 Response (SDR) platforms with Clawdstrike.",
-  "description_ja": "自律型AIフリート向けランタイムセキュリティ実施＆脅威ハンティングエンジン。ClawdstrikeでSwarm Detection \u0026 Response（SDR）プラットフォームを構築",
+  "description": "AI EDR for developer workstations and autonomous agent fleets. Build Swarm Detection \u0026 Response platforms with Clawdstrike.",
+  "description_ja": "",
   "url": "https://github.com/backbay-labs/clawdstrike",
   "homepage_url": "https://backbay.io",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "threat-hunting",
     "threat-intelligence"
   ],
-  "star_count": 279,
+  "star_count": 280,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-31T22:51:40Z",
-  "updated_at": "2026-05-24T14:22:21Z",
-  "pushed_at": "2026-05-24T14:22:23Z",
+  "updated_at": "2026-05-25T14:44:35Z",
+  "pushed_at": "2026-05-25T16:55:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -127,6 +127,10 @@
     {
       "date": "2026-05-24",
       "stars": 279
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 280
     }
   ]
 }

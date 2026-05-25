@@ -3,7 +3,7 @@
   "owner": "luccahuguet",
   "name": "yazelix",
   "full_name": "luccahuguet/yazelix",
-  "description": "Yazi and Zellij with smart defaults \u0026 awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a zellij popup system (with lazygit as default), zoxide integrations, a config UI, zjstatus widgets, and more. Your terminal IDE.  Written in rust and blazingly fast. Available via flake/home-manager. One line install.",
+  "description": "Yazi and Zellij with smart defaults \u0026 awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus widgets, and more. Your terminal IDE.  Written in rust and blazingly fast. Available via flake/home-manager. One line install.",
   "description_ja": "",
   "url": "https://github.com/luccahuguet/yazelix",
   "homepage_url": "",
@@ -21,6 +21,7 @@
     "nix-flake",
     "nushell",
     "plugins",
+    "rust",
     "shell",
     "terminal",
     "terminal-editor",
@@ -28,13 +29,13 @@
     "yazi",
     "zellij"
   ],
-  "star_count": 936,
-  "fork_count": 43,
+  "star_count": 938,
+  "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-20T21:15:45Z",
-  "updated_at": "2026-05-24T15:19:21Z",
-  "pushed_at": "2026-05-24T15:19:13Z",
+  "updated_at": "2026-05-25T19:14:31Z",
+  "pushed_at": "2026-05-25T18:48:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -120,6 +121,10 @@
     {
       "date": "2026-05-24",
       "stars": 936
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 938
     }
   ]
 }

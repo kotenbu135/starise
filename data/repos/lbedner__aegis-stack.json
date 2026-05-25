@@ -6,7 +6,7 @@
   "description": "A production-ready FastAPI platform with modular components and a built-in control plane.",
   "description_ja": "モジュール式コンポーネントと組み込みのコントロールプレーンを備えた本番環境対応のFastAPIプラットフォーム",
   "url": "https://github.com/lbedner/aegis-stack",
-  "homepage_url": "https://lbedner.github.io/aegis-stack/",
+  "homepage_url": "https://docs.aegis-stack.io",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -30,13 +30,13 @@
     "starter-kit",
     "uv"
   ],
-  "star_count": 116,
+  "star_count": 117,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-27T22:56:59Z",
-  "updated_at": "2026-05-23T15:42:19Z",
-  "pushed_at": "2026-05-24T17:32:46Z",
+  "updated_at": "2026-05-25T17:58:58Z",
+  "pushed_at": "2026-05-25T17:59:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +130,10 @@
     {
       "date": "2026-05-24",
       "stars": 116
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 117
     }
   ]
 }

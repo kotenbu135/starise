@@ -3,30 +3,36 @@
   "owner": "rsasaki0109",
   "name": "rust_robotics",
   "full_name": "rsasaki0109/rust_robotics",
-  "description": "Rust implementation of PythonRobotics, sample codes for robotics algorithms",
-  "description_ja": "ロボティクスアルゴリズムのサンプルコード集であるPythonRoboticsのRust実装",
+  "description": "100+ robotics algorithms in Rust: planning, localization, SLAM, control, ROS2/Gazebo demos, and benchmarks.",
+  "description_ja": "",
   "url": "https://github.com/rsasaki0109/rust_robotics",
-  "homepage_url": "",
+  "homepage_url": "https://rsasaki0109.github.io/rust_robotics/",
   "language": "Rust",
   "license": "MIT",
   "topics": [
     "algorithm",
     "control",
+    "gazebo",
     "localization",
+    "motion-planning",
     "navigation",
     "path-planning",
     "path-tracking",
+    "robot-localization",
+    "robot-navigation",
     "robotics",
+    "ros2",
     "rust",
+    "rust-lang",
     "slam"
   ],
-  "star_count": 222,
+  "star_count": 223,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-13T10:39:07Z",
-  "updated_at": "2026-05-23T23:35:07Z",
-  "pushed_at": "2026-05-19T07:07:34Z",
+  "updated_at": "2026-05-25T15:25:40Z",
+  "pushed_at": "2026-05-25T03:18:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -116,6 +122,10 @@
     {
       "date": "2026-05-24",
       "stars": 222
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 223
     }
   ]
 }

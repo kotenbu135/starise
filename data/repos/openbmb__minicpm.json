@@ -3,20 +3,20 @@
   "owner": "openbmb",
   "name": "minicpm",
   "full_name": "openbmb/minicpm",
-  "description": "MiniCPM4 \u0026 MiniCPM4.1: Ultra-Efficient LLMs on End Devices, achieving 3+ generation speedup on reasoning tasks",
-  "description_ja": "MiniCPM4 \u0026 MiniCPM4.1: エッジデバイス向け超高効率LLM、推論タスクで3世代以上の速度向上を実現",
+  "description": "MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.",
+  "description_ja": "",
   "url": "https://github.com/OpenBMB/MiniCPM",
   "homepage_url": "",
   "language": "Jupyter Notebook",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 8935,
+  "star_count": 8958,
   "fork_count": 582,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-29T08:21:15Z",
-  "updated_at": "2026-05-24T17:36:48Z",
-  "pushed_at": "2026-05-24T14:17:53Z",
+  "updated_at": "2026-05-25T19:39:24Z",
+  "pushed_at": "2026-05-25T11:00:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -110,6 +110,10 @@
     {
       "date": "2026-05-24",
       "stars": 8935
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 8958
     }
   ]
 }

@@ -3,20 +3,35 @@
   "owner": "rsasaki0109",
   "name": "gnss_gpu",
   "full_name": "rsasaki0109/gnss_gpu",
-  "description": "GPU-accelerated GNSS signal processing library (CUDA)",
+  "description": "Beat RTKLIB in the urban canyon: GPU particle-filter GNSS positioning with ray-traced NLOS rejection \u0026 FGO",
   "description_ja": "",
   "url": "https://github.com/rsasaki0109/gnss_gpu",
-  "homepage_url": "",
+  "homepage_url": "https://rsasaki0109.github.io/gnss_gpu/",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "autonomous-driving",
+    "cuda",
+    "factor-graph",
+    "gnss",
+    "gps",
+    "gpu",
+    "kaggle",
+    "localization",
+    "nlos",
+    "particle-filter",
+    "positioning",
+    "rtk",
+    "rtklib",
+    "urban-canyon"
+  ],
   "star_count": 56,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T21:58:44Z",
-  "updated_at": "2026-05-21T21:09:51Z",
-  "pushed_at": "2026-05-21T21:09:46Z",
+  "updated_at": "2026-05-25T08:28:59Z",
+  "pushed_at": "2026-05-25T08:28:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -109,6 +124,10 @@
     },
     {
       "date": "2026-05-24",
+      "stars": 56
+    },
+    {
+      "date": "2026-05-25",
       "stars": 56
     }
   ]

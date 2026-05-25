@@ -3,8 +3,8 @@
   "owner": "funaudiollm",
   "name": "sensevoice",
   "full_name": "funaudiollm/sensevoice",
-  "description": "Multilingual Voice Understanding Model",
-  "description_ja": "多言語対応音声理解モデル",
+  "description": "Multilingual speech understanding: ASR + emotion recognition + audio event detection. 50+ languages, 15x faster than Whisper, non-autoregressive.",
+  "description_ja": "",
   "url": "https://github.com/FunAudioLLM/SenseVoice",
   "homepage_url": "https://funaudiollm.github.io/",
   "language": "Python",
@@ -25,13 +25,13 @@
     "voice-ai",
     "whisper-alternative"
   ],
-  "star_count": 8213,
-  "fork_count": 749,
+  "star_count": 8218,
+  "fork_count": 751,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-03T02:56:46Z",
-  "updated_at": "2026-05-24T14:12:08Z",
-  "pushed_at": "2026-05-19T15:33:33Z",
+  "updated_at": "2026-05-25T16:55:52Z",
+  "pushed_at": "2026-05-25T16:55:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -125,6 +125,10 @@
     {
       "date": "2026-05-24",
       "stars": 8213
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 8218
     }
   ]
 }

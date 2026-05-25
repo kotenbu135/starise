@@ -3,8 +3,8 @@
   "owner": "nuwax-ai",
   "name": "nuwax",
   "full_name": "nuwax-ai/nuwax",
-  "description": "Nuwax Agent OS - The world's first universal agent operating system, building your private vertical general-purpose agent.  通用智能体操作系统，打造你私有的垂类通用智能体。新一代AI应用设计、开发、实践平台，无需代码，轻松创建，适合各类人群，支持多种端发布及API，提供完善的工作流、插件以及应用开发能力，RAG知识库与数据表存储能力，MCP接入以及开放能力。",
-  "description_ja": "Nuwax Agent OS - 世界初のユニバーサルエージェントOSで、プライベートな垂直統合型汎用エージェントを構築します。コード不要で簡単に作成できる次世代AIアプリ設計・開発・実践プラットフォーム。ワークフロー・プラグイン・アプリ開発、RAGナレッジベース・データテーブル、MCP連携などの機能を提供します",
+  "description": "Nuwax Agent OS - An enterprise-grade AI Agent Development and Operation Platform - Providing a complete solution for agent creation and distribution, knowledge base management, model proxy, memory system, and plugin ecosystem.",
+  "description_ja": "",
   "url": "https://github.com/nuwax-ai/nuwax",
   "homepage_url": "https://nuwax.com",
   "language": "TypeScript",
@@ -24,13 +24,13 @@
     "skills",
     "workflow"
   ],
-  "star_count": 771,
-  "fork_count": 150,
+  "star_count": 772,
+  "fork_count": 151,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-09T17:50:12Z",
-  "updated_at": "2026-05-22T16:41:35Z",
-  "pushed_at": "2026-05-22T17:42:50Z",
+  "updated_at": "2026-05-25T09:02:59Z",
+  "pushed_at": "2026-05-25T12:01:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -124,6 +124,10 @@
     {
       "date": "2026-05-24",
       "stars": 771
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 772
     }
   ]
 }

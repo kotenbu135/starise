@@ -3,10 +3,10 @@
   "owner": "emanuele-em",
   "name": "proxelar",
   "full_name": "emanuele-em/proxelar",
-  "description": "A programmable MITM proxy that intercepts HTTP/HTTPS traffic so you don't have to guess what your app is    doing. Forward \u0026 reverse modes, TLS interception, TUI, terminal, and web GUI.",
-  "description_ja": "HTTP/HTTPSトラフィックをインターセプトするプログラマブルなMITMプロキシ。アプリの動作を推測不要。フォワード＆リバースモード、TLSインターセプト、TUI、ターミナル、WebGUIを搭載。",
+  "description": "Scriptable local traffic workbench for inspecting, intercepting, replaying, and rewriting HTTP/HTTPS and WebSocket traffic.",
+  "description_ja": "",
   "url": "https://github.com/emanuele-em/proxelar",
-  "homepage_url": "",
+  "homepage_url": "https://proxelar.micheletti.io",
   "language": "Rust",
   "license": "MIT",
   "topics": [
@@ -26,13 +26,13 @@
     "tui",
     "websockets"
   ],
-  "star_count": 970,
+  "star_count": 972,
   "fork_count": 61,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-19T18:52:31Z",
-  "updated_at": "2026-05-24T16:16:42Z",
-  "pushed_at": "2026-05-24T16:20:40Z",
+  "updated_at": "2026-05-25T18:13:02Z",
+  "pushed_at": "2026-05-24T18:43:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -126,6 +126,10 @@
     {
       "date": "2026-05-24",
       "stars": 970
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 972
     }
   ]
 }

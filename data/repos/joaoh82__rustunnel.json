@@ -3,25 +3,31 @@
   "owner": "joaoh82",
   "name": "rustunnel",
   "full_name": "joaoh82/rustunnel",
-  "description": "**Rustunnel** is an open-source tunnel that scales with you. Don't pay for idle time. Secure, Rust-fast, and Pay-as-you-go.. It exposes local services running behind NAT/firewalls to the public internet through a relay server self-hosted or our managed service.",
-  "description_ja": "**Rustunnel**はあなたの規模に合わせてスケールするオープンソーストンネル。アイドル時間への課金なし。安全でRust並みの速度、従量課金制。NAT/ファイアウォール内のローカルサービスを、セルフホストまたはマネージドサービスのリレーサーバー経由でインターネットに公開します。",
+  "description": "Self-hosted, secure tunnel server in Rust. Expose local HTTP/HTTPS/TCP/UDP services to the public internet via TLS-encrypted WebSocket. Open-source, pay-as-you-go managed option, MCP server for AI agents.",
+  "description_ja": "",
   "url": "https://github.com/joaoh82/rustunnel",
-  "homepage_url": "https://www.rustunnel.com",
+  "homepage_url": "https://rustunnel.com",
   "language": "Rust",
   "license": "AGPL-3.0",
   "topics": [
     "api-gateway",
+    "mcp-server",
+    "ngrok-alternative",
     "reverse-proxy",
     "rust",
-    "rustunnel"
+    "rustunnel",
+    "self-hosted",
+    "tunnel",
+    "tunneling",
+    "webhook"
   ],
   "star_count": 630,
   "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-10T21:25:25Z",
-  "updated_at": "2026-05-23T12:18:21Z",
-  "pushed_at": "2026-05-06T16:20:00Z",
+  "updated_at": "2026-05-25T16:22:27Z",
+  "pushed_at": "2026-05-25T16:22:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -114,6 +120,10 @@
     },
     {
       "date": "2026-05-24",
+      "stars": 630
+    },
+    {
+      "date": "2026-05-25",
       "stars": 630
     }
   ]

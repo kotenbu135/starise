@@ -3,8 +3,8 @@
   "owner": "jegly",
   "name": "offlinellm",
   "full_name": "jegly/offlinellm",
-  "description": "      A privacy-first Android chat app that runs large language models entirely on-device. No internet, no cloud, no tracking. Built with Kotlin, Jetpack Compose, and llama.cpp with optimized ARM NEON/SVE inference.",
-  "description_ja": "大規模言語モデルを完全にデバイス上で実行するプライバシー優先の Android チャットアプリ。インターネット・クラウド・トラッキング不要。Kotlin、Jetpack Compose、llama.cpp（ARM NEON/SVE 最適化推論）で構築。",
+  "description": "Private on-device AI chat for Android — runs any GGUF model locally via llama.cpp with ARM-optimised SIMD. Zero network   permissions, encrypted settings, biometric lock, tamper detection.",
+  "description_ja": "",
   "url": "https://github.com/jegly/OfflineLLM",
   "homepage_url": "https://jegly.xyz",
   "language": "Kotlin",
@@ -30,13 +30,13 @@
     "private-local-ai",
     "qwen3-5"
   ],
-  "star_count": 146,
+  "star_count": 148,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T00:37:32Z",
-  "updated_at": "2026-05-24T11:17:57Z",
-  "pushed_at": "2026-05-24T05:30:34Z",
+  "updated_at": "2026-05-25T13:32:25Z",
+  "pushed_at": "2026-05-25T09:15:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +130,10 @@
     {
       "date": "2026-05-24",
       "stars": 146
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 148
     }
   ]
 }

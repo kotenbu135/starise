@@ -3,7 +3,7 @@
   "owner": "arenukvern",
   "name": "mcp_flutter",
   "full_name": "arenukvern/mcp_flutter",
-  "description": "MCP Server and Toolkit for Flutter AI Agent Driven Development - via closed feedback loop (visual \u0026 semantic snapshot) and high client side customization adaptable for any Flutter app.",
+  "description": "MCP Toolkit for Flutter AI Agent Driven Development (MCP/CLI + custom client side tools) - via closed feedback loop (visual \u0026 semantic snapshot) and high client side customization adaptable for any Flutter app. Nowadays it is often called as agentic harness.",
   "description_ja": "",
   "url": "https://github.com/Arenukvern/mcp_flutter",
   "homepage_url": "https://docs.page/arenukvern/mcp_flutter",
@@ -14,19 +14,22 @@
     "dart",
     "dynamic-tools",
     "flutter",
+    "harness-engineering",
+    "harness-execution-layer",
+    "harness-framework",
     "mcp",
     "mcp-client",
     "mcp-server",
     "mcp-toolkit",
     "mcp-tools"
   ],
-  "star_count": 298,
-  "fork_count": 32,
+  "star_count": 299,
+  "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-17T22:52:24Z",
-  "updated_at": "2026-05-22T19:09:49Z",
-  "pushed_at": "2026-05-22T21:06:17Z",
+  "updated_at": "2026-05-25T15:23:58Z",
+  "pushed_at": "2026-05-25T14:40:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -120,6 +123,10 @@
     {
       "date": "2026-05-24",
       "stars": 298
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 299
     }
   ]
 }

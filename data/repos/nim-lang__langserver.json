@@ -6,10 +6,13 @@
   "description": "The Nim language server implementation (based on nimsuggest)",
   "description_ja": "Nim 言語サーバーの実装（nimsuggest ベース）",
   "url": "https://github.com/nim-lang/langserver",
-  "homepage_url": "",
+  "homepage_url": "https://nim-lang.github.io/langserver/",
   "language": "Nim",
   "license": "MIT",
   "topics": [
+    "language-server",
+    "lsp",
+    "mcp",
     "nim"
   ],
   "star_count": 306,
@@ -17,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-06-06T09:41:21Z",
-  "updated_at": "2026-05-24T15:02:39Z",
-  "pushed_at": "2026-05-21T08:55:22Z",
+  "updated_at": "2026-05-25T15:17:08Z",
+  "pushed_at": "2026-05-25T15:26:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -107,6 +110,10 @@
     },
     {
       "date": "2026-05-24",
+      "stars": 306
+    },
+    {
+      "date": "2026-05-25",
       "stars": 306
     }
   ]

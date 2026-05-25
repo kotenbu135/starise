@@ -3,7 +3,7 @@
   "owner": "maxsteeel",
   "name": "nomount",
   "full_name": "maxsteeel/nomount",
-  "description": "A metamodule that replaces OverlayFS/MagicMount with VFS path inyection. Requires kernel integration.",
+  "description": "NoMount is a kernel-based file injection and path redirection framework for Android kernels.",
   "description_ja": "",
   "url": "https://github.com/maxsteeel/nomount",
   "homepage_url": "",
@@ -11,15 +11,16 @@
   "license": "GPL-3.0",
   "topics": [
     "beta",
+    "kernel",
     "testing"
   ],
   "star_count": 50,
-  "fork_count": 8,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-06T07:43:00Z",
-  "updated_at": "2026-05-24T09:54:29Z",
-  "pushed_at": "2026-05-24T09:54:26Z",
+  "updated_at": "2026-05-25T19:12:04Z",
+  "pushed_at": "2026-05-25T19:12:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +33,10 @@
     },
     {
       "date": "2026-05-24",
+      "stars": 50
+    },
+    {
+      "date": "2026-05-25",
       "stars": 50
     }
   ]

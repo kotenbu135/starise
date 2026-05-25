@@ -3,7 +3,7 @@
   "owner": "gameworkerkim",
   "name": "vibe-investing",
   "full_name": "gameworkerkim/vibe-investing",
-  "description": "투자를 위한 AI 투자(Vibe Investing) 큐레이션, 시장 분석 칼럼, AI 트레이딩 도구 2종 (Harness Quant v2 + Earnings Momentum Agent) 를 다루며 미국 나스닥, S\u0026P500, 가상화폐 투자를 다룹니다. ",
+  "description": "AI-powered Vibe Investing for NASDAQ, S\u0026P500 \u0026 crypto: LLM quant trading tools, multi-agent backtesting, and data-driven market columns (mNAV arbitrage, BTC-Nasdaq coupling, Alpha Arena). 미국 주식·가상화폐 AI 투자 큐레이션·칼럼·트레이딩 봇.",
   "description_ja": "",
   "url": "https://github.com/gameworkerkim/vibe-investing",
   "homepage_url": "",
@@ -11,22 +11,32 @@
   "license": "",
   "topics": [
     "agentic-ai",
-    "anthropic-claude",
+    "ai-search",
+    "algorithmic-trading-dotnet",
+    "backtesting",
+    "bitcoin",
+    "claude",
     "cryptocurrency",
+    "cryptocurrency-analyser",
+    "defi",
     "earnings-momentum",
     "earnings-surprise",
     "financial-llm",
+    "llm",
     "multi-agent",
+    "quantitative-trading",
     "sentiment-analysis",
-    "stock-screening"
+    "stock-market",
+    "stock-screening",
+    "trading-bot"
   ],
-  "star_count": 101,
+  "star_count": 102,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-18T04:28:55Z",
-  "updated_at": "2026-05-24T18:18:59Z",
-  "pushed_at": "2026-05-24T16:46:54Z",
+  "updated_at": "2026-05-25T16:15:00Z",
+  "pushed_at": "2026-05-25T14:50:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +78,10 @@
     {
       "date": "2026-05-24",
       "stars": 101
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 102
     }
   ]
 }

@@ -3,33 +3,30 @@
   "owner": "rentruewang",
   "name": "aioway",
   "full_name": "rentruewang/aioway",
-  "description": "AI on the way. An RDBMS approach to deep learning. Declarative, explainable, scalable, optimizable, easy to deploy, all that good stuff.",
-  "description_ja": "AIへの新しいアプローチ。深層学習へのRDBMSアプローチ。宣言的・説明可能・スケーラブル・最適化可能・デプロイ容易など優れた特性を備えます。",
+  "description": "AI on the way. An auto deep learning pipe dream. An RDBMS approach to deep learning. Declarative, explainable, scalable, optimizable, easy to deploy, all that good stuff.",
+  "description_ja": "",
   "url": "https://github.com/rentruewang/aioway",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "auto-deep-learning",
     "compiler",
-    "deep-learning",
-    "gradient-accumulation",
+    "explainable-ai",
     "lazy-evaluation",
-    "machine-learning",
-    "memory-management",
     "neural-architecture-search",
-    "neural-network",
-    "out-of-memory",
     "python",
     "pytorch",
-    "relational-algebra"
+    "relational-algebra",
+    "sql"
   ],
   "star_count": 1820,
   "fork_count": 64,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-11-17T08:37:36Z",
-  "updated_at": "2026-05-24T06:18:36Z",
-  "pushed_at": "2026-05-24T06:18:34Z",
+  "updated_at": "2026-05-25T06:20:28Z",
+  "pushed_at": "2026-05-25T07:16:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -122,6 +119,10 @@
     },
     {
       "date": "2026-05-24",
+      "stars": 1820
+    },
+    {
+      "date": "2026-05-25",
       "stars": 1820
     }
   ]
