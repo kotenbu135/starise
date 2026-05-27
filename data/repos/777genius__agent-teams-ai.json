@@ -3,7 +3,7 @@
   "owner": "777genius",
   "name": "agent-teams-ai",
   "full_name": "777genius/agent-teams-ai",
-  "description": "You're the CTO, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(200+ models, 75+ LLM providers, free models no auth). Build your AI company.",
+  "description": "You're the boss, agents are your team. They handle tasks on their own, message each other, and review each other's work. You just watch the kanban board and give high-level commands. Codex/Claude/OpenCode(200+ models, 75+ LLM providers, free models no auth). Build your AI company with multiple teams.",
   "description_ja": "",
   "url": "https://github.com/777genius/agent-teams-ai",
   "homepage_url": "https://777genius.github.io/agent-teams-ai/",
@@ -23,21 +23,21 @@
     "developer-tools",
     "electron",
     "llm",
-    "mcp",
+    "mcp-server",
     "multi-agent",
     "openai",
     "opencode",
-    "react",
+    "reactjs",
     "team-management",
     "typescript"
   ],
-  "star_count": 982,
-  "fork_count": 213,
+  "star_count": 992,
+  "fork_count": 215,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-21T08:14:44Z",
-  "updated_at": "2026-05-25T18:20:00Z",
-  "pushed_at": "2026-05-25T18:31:10Z",
+  "updated_at": "2026-05-27T20:56:03Z",
+  "pushed_at": "2026-05-27T21:40:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     {
       "date": "2026-05-25",
       "stars": 982
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 992
     }
   ]
 }

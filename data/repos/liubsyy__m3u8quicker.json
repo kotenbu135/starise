@@ -3,7 +3,7 @@
   "owner": "liubsyy",
   "name": "m3u8quicker",
   "full_name": "liubsyy/m3u8quicker",
-  "description": "跨平台M3U8下载器，支持多线程下载、断点续传、边下边播、AES解密、浏览器自动扫描地址",
+  "description": "跨平台HLS(M3U8格式)/DASH/MP4视频下载器和直播录制器，支持多线程下载、断点续传、边下边播、AES解密、浏览器自动扫描地址一键下载",
   "description_ja": "",
   "url": "https://github.com/Liubsyy/M3U8Quicker",
   "homepage_url": "",
@@ -14,19 +14,20 @@
     "downloader",
     "flv",
     "hls",
+    "living",
     "m3u8",
     "mp4",
     "rust",
     "tauri",
     "video"
   ],
-  "star_count": 123,
-  "fork_count": 13,
+  "star_count": 129,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-06T01:26:26Z",
-  "updated_at": "2026-05-25T09:18:19Z",
-  "pushed_at": "2026-05-25T01:52:28Z",
+  "updated_at": "2026-05-27T14:29:08Z",
+  "pushed_at": "2026-05-27T14:28:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -72,6 +73,10 @@
     {
       "date": "2026-05-25",
       "stars": 123
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 129
     }
   ]
 }

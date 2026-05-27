@@ -3,8 +3,8 @@
   "owner": "varghq",
   "name": "sdk",
   "full_name": "varghq/sdk",
-  "description": "AI video generation SDK — JSX for videos. One API for Kling, Flux, ElevenLabs, Sora. Built on Vercel AI SDK.",
-  "description_ja": "AI動画生成SDK — 動画向けJSX。Kling、Flux、ElevenLabs、Sora対応の統一API。Vercel AI SDK上に構築。",
+  "description": "AI video generation SDK — JSX for videos. One API for Kling, Flux, ElevenLabs, Veed. Built on Vercel AI SDK.",
+  "description_ja": "",
   "url": "https://github.com/vargHQ/sdk",
   "homepage_url": "https://varg.ai/sdk",
   "language": "TypeScript",
@@ -31,12 +31,12 @@
     "video-generation",
     "wan"
   ],
-  "star_count": 301,
+  "star_count": 306,
   "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-22T00:47:34Z",
-  "updated_at": "2026-05-24T13:03:52Z",
+  "updated_at": "2026-05-26T12:08:47Z",
   "pushed_at": "2026-05-24T05:53:58Z",
   "deleted_at": "",
   "star_history": [
@@ -135,6 +135,10 @@
     {
       "date": "2026-05-25",
       "stars": 301
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 306
     }
   ]
 }

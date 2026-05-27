@@ -3,7 +3,7 @@
   "owner": "porunc",
   "name": "codewiki",
   "full_name": "porunc/codewiki",
-  "description": "Code knowledge platform that analyzes repositories into AST graphs, builds GraphRAG indexes, and generates source-grounded developer wikis with FastAPI, React, and LiteLLM.",
+  "description": "CodeWiki is a knowledge platform that analyzes repositories into AST graphs, builds GraphRAG indexes, and generates source-grounded developer wikis with FastAPI, React, and LiteLLM.",
   "description_ja": "",
   "url": "https://github.com/PorunC/CodeWiki",
   "homepage_url": "",
@@ -23,13 +23,13 @@
     "typescript",
     "wiki-generator"
   ],
-  "star_count": 99,
+  "star_count": 117,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-11T07:52:42Z",
-  "updated_at": "2026-05-25T19:36:09Z",
-  "pushed_at": "2026-05-23T02:52:29Z",
+  "updated_at": "2026-05-27T18:53:27Z",
+  "pushed_at": "2026-05-27T14:20:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-05-25",
       "stars": 99
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 117
     }
   ]
 }

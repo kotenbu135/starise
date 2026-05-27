@@ -6,7 +6,7 @@
   "description": "Fully automatic censorship removal for language models",
   "description_ja": "言語モデルの検閲を完全自動で除去するツール",
   "url": "https://github.com/p-e-w/heretic",
-  "homepage_url": "",
+  "homepage_url": "https://heretic-project.org",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
@@ -14,12 +14,12 @@
     "llm",
     "transformer"
   ],
-  "star_count": 21416,
-  "fork_count": 2246,
+  "star_count": 21985,
+  "fork_count": 2346,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-21T05:46:16Z",
-  "updated_at": "2026-05-25T19:47:54Z",
+  "updated_at": "2026-05-27T22:33:25Z",
   "pushed_at": "2026-05-22T09:30:16Z",
   "deleted_at": "",
   "star_history": [
@@ -118,6 +118,10 @@
     {
       "date": "2026-05-25",
       "stars": 21416
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 21985
     }
   ]
 }

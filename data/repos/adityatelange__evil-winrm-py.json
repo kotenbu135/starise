@@ -6,7 +6,7 @@
   "description": "Execute commands interactively on remote Windows machines using the WinRM protocol (just faster)",
   "description_ja": "[42] WinRMプロトコルを使ってリモートWindowsマシンで対話的にコマンドを実行（より高速に）",
   "url": "https://github.com/adityatelange/evil-winrm-py",
-  "homepage_url": "https://pypi.org/project/evil-winrm-py/",
+  "homepage_url": "https://adityatelange.in/blog/evil-winrm-py/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -25,12 +25,12 @@
     "windows-remote-management",
     "winrm"
   ],
-  "star_count": 368,
+  "star_count": 369,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-13T10:08:02Z",
-  "updated_at": "2026-05-24T10:04:59Z",
+  "updated_at": "2026-05-27T06:09:25Z",
   "pushed_at": "2026-05-24T11:19:11Z",
   "deleted_at": "",
   "star_history": [
@@ -125,6 +125,10 @@
     {
       "date": "2026-05-25",
       "stars": 368
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 369
     }
   ]
 }

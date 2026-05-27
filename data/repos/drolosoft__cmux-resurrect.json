@@ -3,7 +3,7 @@
   "owner": "drolosoft",
   "name": "cmux-resurrect",
   "full_name": "drolosoft/cmux-resurrect",
-  "description": "🔄✨🖥️ Session persistence for cmux — save, restore, and manage your terminal workspaces. Never lose your layout again.",
+  "description": "🔄✨🖥️ Session persistence for cmux and Ghostty — save, restore, and manage your terminal workspaces. Never lose your layout again.",
   "description_ja": "",
   "url": "https://github.com/drolosoft/cmux-resurrect",
   "homepage_url": "https://drolosoft.com/cmux-resurrect.html?lang=en",
@@ -18,13 +18,13 @@
     "tmux-resurrect",
     "workspace-manager"
   ],
-  "star_count": 45,
+  "star_count": 47,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T15:33:15Z",
-  "updated_at": "2026-05-25T09:37:56Z",
-  "pushed_at": "2026-05-22T16:19:48Z",
+  "updated_at": "2026-05-27T21:30:21Z",
+  "pushed_at": "2026-05-27T21:30:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +94,10 @@
     {
       "date": "2026-05-25",
       "stars": 45
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 47
     }
   ]
 }

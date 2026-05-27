@@ -3,20 +3,24 @@
   "owner": "netspi",
   "name": "gcpwn",
   "full_name": "netspi/gcpwn",
-  "description": "Enumeration/exploit/analysis/download/etc pentesting framework for GCP; modeled like Pacu for AWS; a product of numerous hours via @WebbinRoot",
+  "description": "Pentesting framework for GCP that enumerates/downloads data that feeds into a BloodHound Opengraph model. Includes credential management, workspace management, exploit scripts, etc.",
   "description_ja": "",
   "url": "https://github.com/NetSPI/gcpwn",
   "homepage_url": "",
   "language": "Python",
   "license": "BSD-3-Clause",
-  "topics": [],
+  "topics": [
+    "gcp",
+    "gcpwn",
+    "pentesting"
+  ],
   "star_count": 299,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-11T15:26:41Z",
-  "updated_at": "2026-05-25T00:44:19Z",
-  "pushed_at": "2026-05-25T00:44:22Z",
+  "updated_at": "2026-05-27T21:08:25Z",
+  "pushed_at": "2026-05-27T21:08:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -77,6 +81,10 @@
     },
     {
       "date": "2026-05-25",
+      "stars": 299
+    },
+    {
+      "date": "2026-05-27",
       "stars": 299
     }
   ]

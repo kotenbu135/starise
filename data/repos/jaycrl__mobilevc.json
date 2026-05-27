@@ -7,7 +7,7 @@
   "description_ja": "スマートフォンを、コンピューター上で動作するAIコーディングアシスタントCLIセッション（ClaudeまたはCodex）のコントロールセンターに変換します。",
   "url": "https://github.com/JayCRL/MobileVC",
   "homepage_url": "https://www.mobilevc.top",
-  "language": "JavaScript",
+  "language": "Go",
   "license": "MIT",
   "topics": [
     "claude-code",
@@ -16,13 +16,13 @@
     "go",
     "vibecoding-remote"
   ],
-  "star_count": 113,
-  "fork_count": 15,
+  "star_count": 131,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-19T00:11:15Z",
-  "updated_at": "2026-05-25T15:29:06Z",
-  "pushed_at": "2026-05-23T08:10:17Z",
+  "updated_at": "2026-05-27T17:03:57Z",
+  "pushed_at": "2026-05-27T17:03:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -116,6 +116,10 @@
     {
       "date": "2026-05-25",
       "stars": 113
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 131
     }
   ]
 }

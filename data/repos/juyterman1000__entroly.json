@@ -3,7 +3,7 @@
   "owner": "juyterman1000",
   "name": "entroly",
   "full_name": "juyterman1000/entroly",
-  "description": "Context engine that helps reduce hallucinations and cuts token costs by 70–95% for Claude, Cursor, Codex, GPT \u0026 custom providers.",
+  "description": "Entroly compresses AI context, detects hallucinations, and saves up to 80% on OpenAI, Anthropic, and Gemini API bills. Works locally with Cursor, Claude Code, Codex, GPT \u0026 custom providers.",
   "description_ja": "",
   "url": "https://github.com/juyterman1000/entroly",
   "homepage_url": "https://juyterman1000.github.io/entroly/docs/dashboard.html",
@@ -30,13 +30,13 @@
     "rust",
     "token-optimization"
   ],
-  "star_count": 398,
+  "star_count": 402,
   "fork_count": 65,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T23:03:02Z",
-  "updated_at": "2026-05-25T13:45:29Z",
-  "pushed_at": "2026-05-25T13:45:23Z",
+  "updated_at": "2026-05-27T13:15:31Z",
+  "pushed_at": "2026-05-27T05:49:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +134,10 @@
     {
       "date": "2026-05-25",
       "stars": 398
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 402
     }
   ]
 }

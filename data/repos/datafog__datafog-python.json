@@ -3,8 +3,8 @@
   "owner": "datafog",
   "name": "datafog-python",
   "full_name": "datafog/datafog-python",
-  "description": "Python SDK for PII detection and redaction in text and images, combining regex + NLP pipelines for production privacy workflows.",
-  "description_ja": "テキストおよび画像におけるPII検出・編集のためのPython SDK。正規表現とNLPパイプラインを組み合わせた本番環境向けプライバシーワークフロー",
+  "description": "Lightweight Python SDK for PII detection, redaction, and LLM guardrails, with fast regex defaults and optional NLP/OCR/Spark extras.",
+  "description_ja": "",
   "url": "https://github.com/DataFog/datafog-python",
   "homepage_url": "https://datafog.ai",
   "language": "Python",
@@ -15,6 +15,9 @@
     "data-privacy",
     "data-protection",
     "de-identification",
+    "gliner",
+    "guardrails",
+    "llm",
     "ner",
     "nlp",
     "ocr",
@@ -23,16 +26,17 @@
     "pii-redaction",
     "privacy-engineering",
     "python",
+    "redaction",
     "sdk",
     "spacy"
   ],
-  "star_count": 60,
+  "star_count": 61,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-06-22T11:50:50Z",
-  "updated_at": "2026-05-25T03:22:07Z",
-  "pushed_at": "2026-05-25T03:22:04Z",
+  "updated_at": "2026-05-27T16:19:15Z",
+  "pushed_at": "2026-05-26T18:58:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -126,6 +130,10 @@
     {
       "date": "2026-05-25",
       "stars": 60
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 61
     }
   ]
 }

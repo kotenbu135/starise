@@ -3,11 +3,11 @@
   "owner": "ccxt",
   "name": "ccxt",
   "full_name": "ccxt/ccxt",
-  "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go ",
-  "description_ja": "JavaScript・TypeScript・Python・C#・PHP・Go対応、100以上の取引所をサポートする暗号通貨取引API",
+  "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java ",
+  "description_ja": "",
   "url": "https://github.com/ccxt/ccxt",
   "homepage_url": "https://docs.ccxt.com",
-  "language": "Python",
+  "language": "Java",
   "license": "MIT",
   "topics": [
     "altcoin",
@@ -31,13 +31,13 @@
     "trade",
     "trading"
   ],
-  "star_count": 42623,
-  "fork_count": 8700,
+  "star_count": 42664,
+  "fork_count": 8710,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-05-14T15:41:56Z",
-  "updated_at": "2026-05-25T18:39:42Z",
-  "pushed_at": "2026-05-25T17:22:25Z",
+  "updated_at": "2026-05-27T21:06:49Z",
+  "pushed_at": "2026-05-27T16:08:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     {
       "date": "2026-05-25",
       "stars": 42623
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 42664
     }
   ]
 }

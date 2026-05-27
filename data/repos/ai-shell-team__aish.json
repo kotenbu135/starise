@@ -7,7 +7,7 @@
   "description_ja": "シェルに思考を。運用を進化させる。",
   "url": "https://github.com/AI-Shell-Team/aish",
   "homepage_url": "https://www.aishell.ai",
-  "language": "Python",
+  "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
     "ai-agent",
@@ -16,13 +16,13 @@
     "shell",
     "zsh"
   ],
-  "star_count": 422,
-  "fork_count": 80,
+  "star_count": 428,
+  "fork_count": 83,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-04T17:24:25Z",
-  "updated_at": "2026-05-25T14:05:30Z",
-  "pushed_at": "2026-05-25T07:08:44Z",
+  "updated_at": "2026-05-27T08:48:47Z",
+  "pushed_at": "2026-05-27T09:02:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -120,6 +120,10 @@
     {
       "date": "2026-05-25",
       "stars": 422
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 428
     }
   ]
 }

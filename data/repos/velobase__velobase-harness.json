@@ -3,7 +3,7 @@
   "owner": "velobase",
   "name": "velobase-harness",
   "full_name": "velobase/velobase-harness",
-  "description": "An open-source framework that takes your AI app from code to cash.",
+  "description": "From code to cash — open-source SaaS boilerplate with Stripe, affiliate, attribution \u0026 usage-based billing for AI apps. T3 stack + Next.js 16.",
   "description_ja": "",
   "url": "https://github.com/velobase/velobase-harness",
   "homepage_url": "",
@@ -13,21 +13,31 @@
     "ai-agent",
     "ai-saas",
     "billing",
+    "boilerplate",
     "harness",
     "monetization",
     "nextjs",
+    "nextjs-starter",
+    "nextjs-template",
     "open-source",
-    "revenue",
+    "open-source-saas",
+    "open-source-saas-boilerplate",
+    "saas",
     "saas-boilerplate",
+    "shipfast-alternative",
+    "stripe",
+    "subscription",
+    "trpc",
+    "typescript",
     "vibe-coding"
   ],
-  "star_count": 298,
-  "fork_count": 33,
+  "star_count": 349,
+  "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-07T06:32:17Z",
-  "updated_at": "2026-05-25T20:11:37Z",
-  "pushed_at": "2026-05-25T06:45:27Z",
+  "updated_at": "2026-05-27T22:07:21Z",
+  "pushed_at": "2026-05-27T06:44:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +55,10 @@
     {
       "date": "2026-05-25",
       "stars": 298
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 349
     }
   ]
 }

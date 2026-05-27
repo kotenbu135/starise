@@ -3,8 +3,8 @@
   "owner": "mir-group",
   "name": "allegro",
   "full_name": "mir-group/allegro",
-  "description": "Allegro is an open-source code for building highly scalable and accurate equivariant deep learning interatomic potentials",
-  "description_ja": "Allegro は高スケーラブルで高精度な等変深層学習原子間ポテンシャルを構築するためのオープンソースコードです。",
+  "description": "Allegro is a code for building highly scalable E(3)-equivariant interatomic potentials",
+  "description_ja": "",
   "url": "https://github.com/mir-group/allegro",
   "homepage_url": "https://nequip.readthedocs.io/projects/allegro",
   "language": "Python",
@@ -26,7 +26,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-06T23:50:40Z",
-  "updated_at": "2026-05-17T14:48:12Z",
+  "updated_at": "2026-05-26T00:36:19Z",
   "pushed_at": "2026-03-04T02:38:46Z",
   "deleted_at": "",
   "star_history": [
@@ -124,6 +124,10 @@
     },
     {
       "date": "2026-05-25",
+      "stars": 482
+    },
+    {
+      "date": "2026-05-27",
       "stars": 482
     }
   ]

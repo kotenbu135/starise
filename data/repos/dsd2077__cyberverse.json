@@ -3,7 +3,7 @@
   "owner": "dsd2077",
   "name": "cyberverse",
   "full_name": "dsd2077/cyberverse",
-  "description": "Open-source real-time digital human agent platform. Build voice-first AI agents with WebRTC, persona memory, tools, RAG, and optional digital-human video.",
+  "description": "Self hosted, real-time digital human agent platform. Build voice-first AI agents with WebRTC, persona memory, tools, RAG, and optional digital-human video.",
   "description_ja": "",
   "url": "https://github.com/dsd2077/CyberVerse",
   "homepage_url": "https://www.cyberverse.cc",
@@ -14,21 +14,22 @@
     "ai-companion",
     "digital-human",
     "digital-life",
-    "grok-companion",
     "jarvis-assistant",
-    "sillytavern",
+    "lip-sync",
     "streaming",
+    "talking-avatar",
+    "talking-head",
     "voice-agent",
     "voice-assistant",
     "webrtc"
   ],
-  "star_count": 821,
-  "fork_count": 109,
+  "star_count": 891,
+  "fork_count": 118,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-18T15:00:11Z",
-  "updated_at": "2026-05-25T17:22:23Z",
-  "pushed_at": "2026-05-25T16:34:34Z",
+  "updated_at": "2026-05-27T21:42:40Z",
+  "pushed_at": "2026-05-27T16:47:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +47,10 @@
     {
       "date": "2026-05-25",
       "stars": 821
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 891
     }
   ]
 }

@@ -3,41 +3,38 @@
   "owner": "encoredev",
   "name": "encore",
   "full_name": "encoredev/encore",
-  "description": "Open source framework for building robust type-safe distributed systems with declarative infrastructure",
-  "description_ja": "宣言的インフラで堅牢な型安全分散システムを構築するオープンソースフレームワーク",
+  "description": "Automate infrastructure from local to your cloud",
+  "description_ja": "",
   "url": "https://github.com/encoredev/encore",
   "homepage_url": "https://encore.dev",
   "language": "Go",
   "license": "MPL-2.0",
   "topics": [
-    "api",
     "aws",
     "backend",
-    "backend-framework",
     "cloud",
     "cloud-native",
     "database",
     "devops",
+    "devops-automation",
     "distributed-systems",
     "encore",
     "gcp",
     "go",
     "golang",
-    "microservice-framework",
+    "infrastructure-as-code",
+    "infrastructure-automation",
     "microservices",
-    "nodejs-framework",
-    "postgresql",
     "serverless",
-    "typescript",
-    "typescript-framework"
+    "typescript"
   ],
-  "star_count": 11986,
-  "fork_count": 582,
+  "star_count": 11988,
+  "fork_count": 581,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-02-17T16:33:24Z",
-  "updated_at": "2026-05-25T12:17:27Z",
-  "pushed_at": "2026-05-25T18:34:09Z",
+  "updated_at": "2026-05-27T17:01:53Z",
+  "pushed_at": "2026-05-27T09:03:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +132,10 @@
     {
       "date": "2026-05-25",
       "stars": 11986
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 11988
     }
   ]
 }

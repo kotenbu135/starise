@@ -3,8 +3,8 @@
   "owner": "maxidonkey",
   "name": "delphianthropic",
   "full_name": "maxidonkey/delphianthropic",
-  "description": "The Anthropic API wrapper for Delphi leverages cutting-edge models, including Anthropic's advanced Claude series, to deliver powerful features for chat interactions, vision processing, caching, efficient batch processing, connector MCP and skills",
-  "description_ja": "Delphi 向け Anthropic API ラッパー。Anthropic の高度な Claude シリーズを含む最先端モデルを活用し、チャット・ビジョン処理・キャッシュ・効率的なバッチ処理・コネクター MCP・スキルなどの強力な機能を提供。",
+  "description": "The Anthropic API wrapper for Delphi leverages cutting-edge models, including Anthropic's advanced Claude series, to deliver powerful features for chat interactions, vision processing, caching, efficient batch processing, connector MCP, skills and managed agents.",
+  "description_ja": "",
   "url": "https://github.com/MaxiDonkey/DelphiAnthropic",
   "homepage_url": "",
   "language": "Pascal",
@@ -22,18 +22,19 @@
     "delphi",
     "gpt",
     "llm",
+    "managed-agents",
     "skills",
     "vision",
     "wrapper",
     "wrapper-api"
   ],
-  "star_count": 55,
+  "star_count": 57,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-14T11:21:52Z",
-  "updated_at": "2026-05-22T20:36:32Z",
-  "pushed_at": "2026-05-17T09:18:22Z",
+  "updated_at": "2026-05-27T06:16:43Z",
+  "pushed_at": "2026-05-27T01:32:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -123,6 +124,10 @@
     {
       "date": "2026-05-25",
       "stars": 55
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 57
     }
   ]
 }

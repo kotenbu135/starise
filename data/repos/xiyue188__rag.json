@@ -3,20 +3,26 @@
   "owner": "xiyue188",
   "name": "rag",
   "full_name": "xiyue188/rag",
-  "description": "生产级 RAG（检索增强生成）系统，集成 ChromaDB 向量数据库，支持多种大模型（OpenAI、Claude、智谱AI、通义千问），用于智能文档问答。",
-  "description_ja": "プロダクションレベルのRAG（検索拡張生成）システム。ChromaDBベクターデータベースを統合し、OpenAI・Claude・智谱AI・通义千問などの大規模言語モデルに対応したインテリジェントなドキュメントQ\u0026Aシステム。",
+  "description": "DeepBlue Brain：一个面向 RAG 全链路教学与理解的白盒化交互平台，支持各类文档上传、混合检索、实时检索日志流、提示词原文溯源与流式问答。",
+  "description_ja": "",
   "url": "https://github.com/xiyue188/RAG",
-  "homepage_url": "",
+  "homepage_url": "http://deepblue-brain.cn/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 51,
+  "topics": [
+    "docker",
+    "education",
+    "llm",
+    "rag",
+    "vue3"
+  ],
+  "star_count": 52,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-27T15:41:05Z",
-  "updated_at": "2026-05-25T15:05:17Z",
-  "pushed_at": "2026-05-25T15:05:12Z",
+  "updated_at": "2026-05-27T16:17:48Z",
+  "pushed_at": "2026-05-26T11:37:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -114,6 +120,10 @@
     {
       "date": "2026-05-25",
       "stars": 51
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 52
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "Autonomous AI agent orchestrator — run multi-model dev teams (Claude, Gemini, GPT) with YAML workflows, daemon scheduling, and MCP integration. 100% Rust.",
   "description_ja": "自律型 AI エージェントオーケストレータ — YAML ワークフロー、デーモンスケジューリング、MCP 統合を用いてマルチモデル開発チーム（Claude、Gemini、GPT）を実行。100% Rust 実装。",
   "url": "https://github.com/launchapp-dev/animus-cli",
-  "homepage_url": "https://launchapp-dev.github.io/animus-cli/",
+  "homepage_url": "https://animus-docs.vercel.app/",
   "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
@@ -34,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-24T17:14:48Z",
-  "updated_at": "2026-05-23T13:51:57Z",
-  "pushed_at": "2026-05-23T13:51:55Z",
+  "updated_at": "2026-05-27T19:51:00Z",
+  "pushed_at": "2026-05-27T19:50:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -132,6 +132,10 @@
     },
     {
       "date": "2026-05-25",
+      "stars": 37
+    },
+    {
+      "date": "2026-05-27",
       "stars": 37
     }
   ]

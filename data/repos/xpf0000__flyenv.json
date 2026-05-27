@@ -3,40 +3,40 @@
   "owner": "xpf0000",
   "name": "flyenv",
   "full_name": "xpf0000/flyenv",
-  "description": "Lightweight Native Local Dev Toolbox for Windows, macOS \u0026 Linux. Run  Hermes Agent/OpenClaw/n8n/Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...",
-  "description_ja": "Windows、macOS、Linux 向けの軽量なネイティブローカル開発ツールボックス。Docker なしで Hermes Agent/OpenClaw/n8n/Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch を実行可能。XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy の高速でモジュール式の代替ツール。",
+  "description": "All-in-One Native Local Development Environment for Windows, macOS \u0026 Linux. Docker alternative for PHP, Node.js, Python and more. Faster alternative to XAMPP, Laragon, MAMP and Laravel Herd with databases, Cron Jobs and runtime management.",
+  "description_ja": "",
   "url": "https://github.com/xpf0000/FlyEnv",
   "homepage_url": "https://www.flyenv.com",
   "language": "TypeScript",
   "license": "BSD-3-Clause",
   "topics": [
-    "database",
-    "developer-tools",
+    "ai-agent",
+    "cron-jobs",
     "development-environment",
-    "docker",
-    "hermes-agent",
+    "docker-alternative",
     "laragon",
-    "laravel",
     "laravel-herd",
+    "linux",
+    "local-ai",
+    "local-development",
+    "macos",
     "mamp",
     "mysql",
-    "n8n",
     "nodejs",
-    "openclaw",
     "php",
-    "php-environment",
-    "podman",
     "python",
+    "redis",
     "windows",
     "wordpress",
-    "xampp"
+    "xampp",
+    "xampp-alternative"
   ],
-  "star_count": 2878,
-  "fork_count": 295,
+  "star_count": 2882,
+  "fork_count": 297,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-04-11T13:56:40Z",
-  "updated_at": "2026-05-25T12:35:47Z",
+  "updated_at": "2026-05-27T14:22:23Z",
   "pushed_at": "2026-05-25T12:35:43Z",
   "deleted_at": "",
   "star_history": [
@@ -131,6 +131,10 @@
     {
       "date": "2026-05-25",
       "stars": 2878
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 2882
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "ryanfrigo",
   "name": "kalshi-ai-trading-bot",
   "full_name": "ryanfrigo/kalshi-ai-trading-bot",
-  "description": "🤖 Advanced AI-powered trading system for Kalshi prediction markets. Features Grok-4 integration, multi-agent decision making, portfolio optimization, and real-time market analysis. Educational/research purposes only.",
-  "description_ja": "Kalshi 予測市場向けの高度な AI 搭載トレーディングシステム。Grok-4 統合、マルチエージェント意思決定、ポートフォリオ最適化、リアルタイム市場分析を搭載。教育・研究目的専用。",
+  "description": "A toolkit for building AI-automated trading strategies on Kalshi prediction markets.",
+  "description_ja": "",
   "url": "https://github.com/ryanfrigo/kalshi-ai-trading-bot",
   "homepage_url": "",
   "language": "Python",
@@ -21,12 +21,12 @@
     "risk-management",
     "trading-bot"
   ],
-  "star_count": 417,
+  "star_count": 419,
   "fork_count": 161,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-26T18:41:32Z",
-  "updated_at": "2026-05-25T04:55:19Z",
+  "updated_at": "2026-05-26T17:48:08Z",
   "pushed_at": "2026-04-27T22:17:37Z",
   "deleted_at": "",
   "star_history": [
@@ -125,6 +125,10 @@
     {
       "date": "2026-05-25",
       "stars": 417
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 419
     }
   ]
 }

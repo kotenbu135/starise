@@ -3,26 +3,30 @@
   "owner": "adsryen",
   "name": "javdbviewed",
   "full_name": "adsryen/javdbviewed",
-  "description": "Jav 助手：面向 JavDB 用户的浏览器扩展，用于管理影片浏览、观看和想看记录，支持番号库与演员库管理、WebDAV 多端同   步、数据导入导出、115 云下载任务、隐私保护和可视化统计。",
+  "description": "Jav 助手：面向 JavDB 用户的浏览器扩展，用于管理影片浏览、观看和想看记录，支持番号库与演员库管理、WebDAV 多端同步、数据导入导出、115云下载任务、隐私保护和可视化统计。",
   "description_ja": "",
   "url": "https://github.com/Adsryen/JavdBviewed",
   "homepage_url": "https://jbd.we-together.club",
   "language": "TypeScript",
   "license": "GPL-3.0",
   "topics": [
+    "115",
     "browser-extension",
     "chrome-extension",
+    "emby",
     "jav",
     "javdb",
-    "video-manager"
+    "jellyfin",
+    "video-manager",
+    "webdav"
   ],
-  "star_count": 112,
+  "star_count": 121,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-20T18:38:13Z",
-  "updated_at": "2026-05-25T18:35:39Z",
-  "pushed_at": "2026-05-25T16:41:57Z",
+  "updated_at": "2026-05-27T20:21:35Z",
+  "pushed_at": "2026-05-27T16:12:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -80,6 +84,10 @@
     {
       "date": "2026-05-25",
       "stars": 112
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 121
     }
   ]
 }

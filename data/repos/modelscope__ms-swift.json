@@ -3,8 +3,8 @@
   "owner": "modelscope",
   "name": "ms-swift",
   "full_name": "modelscope/ms-swift",
-  "description": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-R1, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi4, ...) (AAAI 2025).",
-  "description_ja": "PEFTまたはフルパラメータを用いて600以上のLLM（Qwen3.6、DeepSeek-R1、GLM-5.1、InternLM3、Llama4など）および300以上のMLLM（Qwen3-VL、Qwen3-Omni、InternVL3.5、Ovis2.5、GLM4.5v、Gemma4、Llava、Phi4など）のCPT/SFT/DPO/GRPOを実行（AAAI 2025）",
+  "description": "Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-V4, GLM-5.1, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Gemma4, Llava, Phi4, ...) (AAAI 2025).",
+  "description_ja": "",
   "url": "https://github.com/modelscope/ms-swift",
   "homepage_url": "https://swift.readthedocs.io/zh-cn/latest/",
   "language": "Python",
@@ -31,13 +31,13 @@
     "reranker",
     "sft"
   ],
-  "star_count": 14255,
-  "fork_count": 1433,
+  "star_count": 14288,
+  "fork_count": 1436,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-01T15:06:39Z",
-  "updated_at": "2026-05-25T17:40:45Z",
-  "pushed_at": "2026-05-24T15:17:36Z",
+  "updated_at": "2026-05-27T18:33:09Z",
+  "pushed_at": "2026-05-27T10:40:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     {
       "date": "2026-05-25",
       "stars": 14255
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 14288
     }
   ]
 }

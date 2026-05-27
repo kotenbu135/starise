@@ -3,23 +3,25 @@
   "owner": "kicksecure",
   "name": "security-misc",
   "full_name": "kicksecure/security-misc",
-  "description": "Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.kicksecure.com/wiki/Security-misc",
-  "description_ja": "カーネルハードニング、ブルートフォース攻撃からの Linux ユーザーアカウント保護、エントロピー収集の改善、Linux ユーザーアカウントの強固な分離、その他セキュリティ設定の強化。",
+  "description": "Miscellaneous Linux security hardening settings for Kicksecure and derivatives",
+  "description_ja": "",
   "url": "https://github.com/Kicksecure/security-misc",
-  "homepage_url": "https://www.kicksecure.com/wiki/Impressum",
+  "homepage_url": "https://www.kicksecure.com/wiki/Security-misc",
   "language": "Shell",
   "license": "NOASSERTION",
   "topics": [
-    "kernel-hardening",
-    "kspp",
-    "security"
+    "hardening",
+    "kicksecure",
+    "linux",
+    "security",
+    "sysctl"
   ],
   "star_count": 583,
   "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-12-15T04:14:52Z",
-  "updated_at": "2026-05-20T22:20:24Z",
+  "updated_at": "2026-05-27T21:55:35Z",
   "pushed_at": "2026-05-20T22:20:19Z",
   "deleted_at": "",
   "star_history": [
@@ -113,6 +115,10 @@
     },
     {
       "date": "2026-05-25",
+      "stars": 583
+    },
+    {
+      "date": "2026-05-27",
       "stars": 583
     }
   ]

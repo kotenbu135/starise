@@ -3,22 +3,21 @@
   "owner": "xyproto",
   "name": "algernon",
   "full_name": "xyproto/algernon",
-  "description": "Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, SQLite and PostgreSQL support ++",
-  "description_ja": "Lua、Teal、Markdown、Ollama、HTTP/2、QUIC、Redis、SQLite、PostgreSQL などに対応した小型・自己完結型の純粋 Go 製 Web サーバー",
+  "description": "Small self-contained pure-Go web server with Lua, Teal, Markdown, Ollama, HTTP/2, QUIC, Redis, TypeScript, SQLite and PostgreSQL support ++",
+  "description_ja": "",
   "url": "https://github.com/xyproto/algernon",
   "homepage_url": "https://algernon.roboticoverlords.org",
   "language": "JavaScript",
   "license": "BSD-3-Clause",
   "topics": [
     "algernon",
-    "buildless",
+    "build-less",
     "cross-platform",
     "fasthttp",
     "go",
-    "http2",
     "http3",
     "live-reload",
-    "llm",
+    "local-llm",
     "lua",
     "mysql",
     "npm-less",
@@ -26,18 +25,19 @@
     "pongo2",
     "postgresql",
     "quic",
+    "react19",
     "redis",
     "server-sent-events",
     "sqlite",
     "tls13"
   ],
-  "star_count": 3011,
+  "star_count": 3012,
   "fork_count": 146,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-03-10T11:25:30Z",
-  "updated_at": "2026-05-24T00:15:29Z",
-  "pushed_at": "2026-05-24T00:11:49Z",
+  "updated_at": "2026-05-27T16:41:18Z",
+  "pushed_at": "2026-05-27T16:40:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     {
       "date": "2026-05-25",
       "stars": 3011
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 3012
     }
   ]
 }

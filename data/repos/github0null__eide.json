@@ -16,13 +16,13 @@
     "armcc",
     "armclang",
     "avr",
-    "c51",
     "clang",
     "cortex-m",
     "dev",
     "gcc",
     "ide",
     "llvm",
+    "mcp",
     "mcs51",
     "mcu",
     "riscv",
@@ -31,12 +31,12 @@
     "stm8",
     "vscode"
   ],
-  "star_count": 988,
+  "star_count": 989,
   "fork_count": 101,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-10-17T14:31:55Z",
-  "updated_at": "2026-05-25T17:48:59Z",
+  "updated_at": "2026-05-27T08:18:28Z",
   "pushed_at": "2026-05-25T17:54:14Z",
   "deleted_at": "",
   "star_history": [
@@ -135,6 +135,10 @@
     {
       "date": "2026-05-25",
       "stars": 988
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 989
     }
   ]
 }

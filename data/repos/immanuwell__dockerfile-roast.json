@@ -3,8 +3,8 @@
   "owner": "immanuwell",
   "name": "dockerfile-roast",
   "full_name": "immanuwell/dockerfile-roast",
-  "description": "a dockerfile linter that actually has opinions 🔥",
-  "description_ja": "意見のある Dockerfile リンター 🔥",
+  "description": "droast - a dockerfile linter that actually has opinions 🔥",
+  "description_ja": "",
   "url": "https://github.com/immanuwell/dockerfile-roast",
   "homepage_url": "https://ewry.net/droast-dockerfile-linter/",
   "language": "Rust",
@@ -17,13 +17,13 @@
     "linter",
     "rust"
   ],
-  "star_count": 315,
+  "star_count": 316,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-12T17:44:23Z",
-  "updated_at": "2026-05-18T19:33:58Z",
-  "pushed_at": "2026-04-25T05:47:19Z",
+  "updated_at": "2026-05-27T11:53:13Z",
+  "pushed_at": "2026-05-27T08:49:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -113,6 +113,10 @@
     {
       "date": "2026-05-25",
       "stars": 315
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 316
     }
   ]
 }

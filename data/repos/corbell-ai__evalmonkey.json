@@ -3,7 +3,7 @@
   "owner": "corbell-ai",
   "name": "evalmonkey",
   "full_name": "corbell-ai/evalmonkey",
-  "description": "CLI for coding agents to benchmark \u0026 chaos test your AI Agents",
+  "description": "CLI for agent builders to benchmark \u0026 chaos test your AI Agents. Text, Voice, Code supported.",
   "description_ja": "",
   "url": "https://github.com/Corbell-AI/evalmonkey",
   "homepage_url": "",
@@ -19,13 +19,13 @@
     "eval",
     "failure-injection"
   ],
-  "star_count": 33,
+  "star_count": 36,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T05:05:35Z",
-  "updated_at": "2026-05-23T19:58:08Z",
-  "pushed_at": "2026-05-23T19:58:48Z",
+  "updated_at": "2026-05-27T09:03:16Z",
+  "pushed_at": "2026-05-27T03:25:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-05-25",
       "stars": 33
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 36
     }
   ]
 }

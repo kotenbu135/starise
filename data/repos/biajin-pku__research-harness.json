@@ -3,20 +3,20 @@
   "owner": "biajin-pku",
   "name": "research-harness",
   "full_name": "biajin-pku/research-harness",
-  "description": "面向科研文献工作的 Agent Harness：持久化 SQLite 状态、69 个类型化原语、112 个 MCP 工具、6 个证据门禁阶段，每次经记录的调用都有溯源。可由 Claude Code / Codex / Python / rh CLI 驱动。",
+  "description": "做证据可信、过程可追、自主优化的长程自动化 AI 科研工具。",
   "description_ja": "",
   "url": "https://github.com/Biajin-PKU/research-harness",
   "homepage_url": "",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [],
-  "star_count": 59,
+  "star_count": 64,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-21T15:11:03Z",
-  "updated_at": "2026-05-25T13:44:26Z",
-  "pushed_at": "2026-05-25T07:29:55Z",
+  "updated_at": "2026-05-27T15:25:52Z",
+  "pushed_at": "2026-05-27T15:23:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +78,10 @@
     {
       "date": "2026-05-25",
       "stars": 59
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 64
     }
   ]
 }

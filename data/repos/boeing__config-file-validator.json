@@ -3,7 +3,7 @@
   "owner": "boeing",
   "name": "config-file-validator",
   "full_name": "boeing/config-file-validator",
-  "description": "Cross-platform CLI tool to validate configuration files across 16 formats. Syntax and schema validation with JSON Schema, XSD, and SchemaStore integration. Written in Go.",
+  "description": "Cross-platform CLI tool to validate configuration files across 17 formats. Syntax and schema validation with JSON Schema, XSD, and SchemaStore integration. Written in Go.",
   "description_ja": "",
   "url": "https://github.com/Boeing/config-file-validator",
   "homepage_url": "https://boeing.github.io/config-file-validator/",
@@ -25,13 +25,13 @@
     "xml-validator",
     "yaml-validator"
   ],
-  "star_count": 505,
-  "fork_count": 89,
+  "star_count": 506,
+  "fork_count": 91,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-06T01:23:11Z",
-  "updated_at": "2026-05-22T19:40:22Z",
-  "pushed_at": "2026-05-22T22:58:18Z",
+  "updated_at": "2026-05-27T13:20:24Z",
+  "pushed_at": "2026-05-27T13:10:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -125,6 +125,10 @@
     {
       "date": "2026-05-25",
       "stars": 505
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 506
     }
   ]
 }

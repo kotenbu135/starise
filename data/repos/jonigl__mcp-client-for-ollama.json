@@ -3,8 +3,8 @@
   "owner": "jonigl",
   "name": "mcp-client-for-ollama",
   "full_name": "jonigl/mcp-client-for-ollama",
-  "description": "A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-loop, thinking mode, model params config, MCP prompts, custom system prompt and saved preferences. Built for developers working with local LLMs.",
-  "description_ja": "Ollama を使用して MCP サーバーと対話するテキストベースの UI（TUI）クライアント。エージェントモード・マルチサーバー・モデル切り替え・ストリーミングレスポンス・ツール管理・Human-in-the-loop・思考モード・モデルパラメータ設定・MCP プロンプト・カスタムシステムプロンプト・設定保存機能を搭載。ローカル LLM を使う開発者向け",
+  "description": "Harness the power of local LLMs with this TUI client for MCP servers using Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-the-loop, thinking mode, model params config, custom system prompt and saved preferences.",
+  "description_ja": "",
   "url": "https://github.com/jonigl/mcp-client-for-ollama",
   "homepage_url": "",
   "language": "Python",
@@ -13,31 +13,31 @@
     "agentic-ai",
     "ai",
     "command-line-tool",
-    "generative-ai",
+    "harness",
     "linux",
-    "llm",
     "local-llm",
     "macos",
     "mcp",
     "mcp-client",
+    "mcp-prompts",
+    "mcp-resouces",
     "mcp-server",
+    "mcp-tools",
     "model-context-protocol",
     "ollama",
     "open-source",
-    "pypi-package",
     "sse",
     "stdio",
     "streamable-http",
-    "tool-management",
     "windows"
   ],
-  "star_count": 713,
-  "fork_count": 96,
+  "star_count": 716,
+  "fork_count": 97,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-23T21:05:02Z",
-  "updated_at": "2026-05-25T10:28:23Z",
-  "pushed_at": "2026-05-25T18:49:23Z",
+  "updated_at": "2026-05-27T19:21:09Z",
+  "pushed_at": "2026-05-27T19:21:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     {
       "date": "2026-05-25",
       "stars": 713
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 716
     }
   ]
 }

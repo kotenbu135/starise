@@ -3,8 +3,8 @@
   "owner": "lmcache",
   "name": "lmcache",
   "full_name": "lmcache/lmcache",
-  "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
-  "description_ja": "最速KVキャッシュレイヤーでLLMを強化する",
+  "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+  "description_ja": "",
   "url": "https://github.com/LMCache/LMCache",
   "homepage_url": "https://lmcache.ai/",
   "language": "Python",
@@ -21,13 +21,13 @@
     "speed",
     "vllm"
   ],
-  "star_count": 8344,
-  "fork_count": 1195,
+  "star_count": 8365,
+  "fork_count": 1204,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-28T21:06:04Z",
-  "updated_at": "2026-05-25T16:14:40Z",
-  "pushed_at": "2026-05-25T10:46:11Z",
+  "updated_at": "2026-05-27T21:22:26Z",
+  "pushed_at": "2026-05-27T21:22:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -125,6 +125,10 @@
     {
       "date": "2026-05-25",
       "stars": 8344
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 8365
     }
   ]
 }

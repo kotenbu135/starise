@@ -3,8 +3,8 @@
   "owner": "tiagozip",
   "name": "cap",
   "full_name": "tiagozip/cap",
-  "description": "The privacy-first, self-hosted CAPTCHA for the modern web.",
-  "description_ja": "モダン Web 向けのプライバシーファースト・セルフホスト型 CAPTCHA",
+  "description": "Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.",
+  "description_ja": "",
   "url": "https://github.com/tiagozip/cap",
   "homepage_url": "https://trycap.dev",
   "language": "JavaScript",
@@ -14,20 +14,18 @@
     "anti-bot",
     "anti-scraper",
     "antispam",
-    "bun",
     "captcha",
     "defense",
     "javascript",
-    "proof-of-work",
-    "web"
+    "proof-of-work"
   ],
-  "star_count": 6596,
-  "fork_count": 454,
+  "star_count": 6634,
+  "fork_count": 456,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-11T17:35:52Z",
-  "updated_at": "2026-05-25T19:44:07Z",
-  "pushed_at": "2026-05-25T12:31:46Z",
+  "updated_at": "2026-05-27T22:23:37Z",
+  "pushed_at": "2026-05-27T19:15:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -125,6 +123,10 @@
     {
       "date": "2026-05-25",
       "stars": 6596
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 6634
     }
   ]
 }

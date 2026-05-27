@@ -7,16 +7,16 @@
   "description_ja": "Claude Codeはターミナル内で動作するエージェント型コーディングツール。コードベースを理解し、定型作業の実行、複雑なコードの説明、gitワークフローの処理を自然言語コマンドで行い、開発を高速化する",
   "url": "https://github.com/anthropics/claude-code",
   "homepage_url": "https://code.claude.com/docs/en/overview",
-  "language": "Shell",
+  "language": "Python",
   "license": "",
   "topics": [],
-  "star_count": 126486,
-  "fork_count": 20738,
+  "star_count": 127004,
+  "fork_count": 20816,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-22T17:41:21Z",
-  "updated_at": "2026-05-25T19:08:44Z",
-  "pushed_at": "2026-05-23T04:03:51Z",
+  "updated_at": "2026-05-27T21:42:30Z",
+  "pushed_at": "2026-05-27T01:30:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -122,6 +122,10 @@
     {
       "date": "2026-05-25",
       "stars": 126486
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 127004
     }
   ]
 }
