@@ -3,8 +3,8 @@
   "owner": "vladsez",
   "name": "easy-invoice-pdf",
   "full_name": "vladsez/easy-invoice-pdf",
-  "description": "Free \u0026 Open-Source Invoice Generator – Live PDF Preview, No Sign-Up, 100% In-Browser. Includes a Stripe-style invoice template. Star if you like it 🌟 ",
-  "description_ja": "無料・オープンソースの請求書ジェネレータ — ライブ PDF プレビュー、サインアップ不要、100% ブラウザ内完結。Stripe スタイルの請求書テンプレート付き。気に入ったらスターを 🌟",
+  "description": "Free \u0026 Open-Source Invoice Generator – No Sign-Up, No Ads, Instant PDF export, 100% In-Browser,  Customizable Invoice Templates. Star if you like it 🌟",
+  "description_ja": "",
   "url": "https://github.com/VladSez/easy-invoice-pdf",
   "homepage_url": "https://easyinvoicepdf.com",
   "language": "TypeScript",
@@ -27,12 +27,12 @@
     "typescript"
   ],
   "star_count": 881,
-  "fork_count": 83,
+  "fork_count": 84,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-28T22:54:25Z",
-  "updated_at": "2026-05-27T20:53:14Z",
-  "pushed_at": "2026-05-27T08:51:35Z",
+  "updated_at": "2026-05-30T00:13:43Z",
+  "pushed_at": "2026-05-30T00:13:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -133,6 +133,10 @@
     },
     {
       "date": "2026-05-27",
+      "stars": 881
+    },
+    {
+      "date": "2026-05-30",
       "stars": 881
     }
   ]

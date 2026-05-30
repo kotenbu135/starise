@@ -3,20 +3,20 @@
   "owner": "nvidia",
   "name": "nemoclaw",
   "full_name": "nvidia/nemoclaw",
-  "description": "Run OpenClaw more securely inside NVIDIA OpenShell with managed inference",
-  "description_ja": "管理された推論を使ってNVIDIA OpenShell内でOpenClawをより安全に実行する",
+  "description": "Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference",
+  "description_ja": "",
   "url": "https://github.com/NVIDIA/NemoClaw",
   "homepage_url": "https://docs.nvidia.com/nemoclaw/latest/",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 20680,
-  "fork_count": 2751,
+  "star_count": 20726,
+  "fork_count": 2758,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T17:04:09Z",
-  "updated_at": "2026-05-27T22:21:29Z",
-  "pushed_at": "2026-05-27T22:30:47Z",
+  "updated_at": "2026-05-30T18:29:33Z",
+  "pushed_at": "2026-05-30T18:33:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -118,6 +118,10 @@
     {
       "date": "2026-05-27",
       "stars": 20680
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 20726
     }
   ]
 }

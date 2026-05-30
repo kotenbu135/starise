@@ -6,21 +6,23 @@
   "description": "The most autonomous agent framework. No approval loops. No babysitting. Configure once, forget forever.",
   "description_ja": "",
   "url": "https://github.com/aaronjmars/aeon",
-  "homepage_url": "https://x.com/aeonframework",
-  "language": "TypeScript",
+  "homepage_url": "https://www.aeon.fun/",
+  "language": "Shell",
   "license": "MIT",
   "topics": [
     "aeon",
+    "agent-framework",
     "ai-agents",
-    "claude-code"
+    "claude-code",
+    "github-actions"
   ],
-  "star_count": 456,
-  "fork_count": 131,
+  "star_count": 464,
+  "fork_count": 142,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-04T19:44:49Z",
-  "updated_at": "2026-05-27T21:11:10Z",
-  "pushed_at": "2026-05-27T21:11:09Z",
+  "updated_at": "2026-05-30T13:04:26Z",
+  "pushed_at": "2026-05-30T11:17:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +80,10 @@
     {
       "date": "2026-05-27",
       "stars": 456
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 464
     }
   ]
 }

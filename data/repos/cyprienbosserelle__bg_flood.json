@@ -1,0 +1,37 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkxMDc2MTc4OTA=",
+  "owner": "cyprienbosserelle",
+  "name": "bg_flood",
+  "full_name": "cyprienbosserelle/bg_flood",
+  "description": "Numerical model for simulating shallow water hydrodynamics on the GPU using an Adaptive Mesh Refinment type grid. The model was designed with the goal of simulating inundation (River, Storm surge or tsunami). The model uses a Block Uniform Quadtree approach that runs on the GPU but the adaptive/multi-resolution/AMR is being implemented and not yet operational.  The core SWE engine and adaptivity has been inspired and taken from St Venant solver from Basilisk and the CUDA GPU memory model has been inspired by the work from Vacondio _et al._2017)",
+  "description_ja": "",
+  "url": "https://github.com/CyprienBosserelle/BG_Flood",
+  "homepage_url": "",
+  "language": "HTML",
+  "license": "GPL-3.0",
+  "topics": [
+    "adaptive",
+    "flood",
+    "gpu",
+    "inundation",
+    "rain",
+    "river",
+    "storm",
+    "surge",
+    "tsunami"
+  ],
+  "star_count": 49,
+  "fork_count": 16,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2017-10-20T01:37:46Z",
+  "updated_at": "2026-05-28T23:24:57Z",
+  "pushed_at": "2026-05-29T06:31:05Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-30",
+      "stars": 49
+    }
+  ]
+}

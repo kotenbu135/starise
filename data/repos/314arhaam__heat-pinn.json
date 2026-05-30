@@ -7,7 +7,7 @@
   "description_ja": "",
   "url": "https://github.com/314arhaam/heat-pinn",
   "homepage_url": "",
-  "language": "Jupyter Notebook",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "chemical-engineering",
@@ -20,16 +20,18 @@
     "physics",
     "physics-informed-ml",
     "physics-informed-neural-networks",
+    "pinn",
+    "pinns",
     "process-engineering",
     "python3"
   ],
-  "star_count": 182,
+  "star_count": 181,
   "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-11-12T16:06:33Z",
-  "updated_at": "2026-05-27T17:39:57Z",
-  "pushed_at": "2026-05-27T19:25:11Z",
+  "updated_at": "2026-05-30T00:01:35Z",
+  "pushed_at": "2026-05-30T00:01:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -63,6 +65,10 @@
     {
       "date": "2026-05-27",
       "stars": 182
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 181
     }
   ]
 }

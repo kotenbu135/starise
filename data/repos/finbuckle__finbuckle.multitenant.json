@@ -3,8 +3,8 @@
   "owner": "finbuckle",
   "name": "finbuckle.multitenant",
   "full_name": "finbuckle/finbuckle.multitenant",
-  "description": "Finbuckle MultiTenant is an open source multi-tenancy library for modern .NET created and maintained by Finbuckle LLC.",
-  "description_ja": "",
+  "description": "MultiTenant is an open source multi-tenancy library for modern .NET created and maintained by Finbuckle LLC.",
+  "description_ja": "MultiTenant は Finbuckle LLC が開発・メンテナンスする、モダンな .NET 向けオープンソースのマルチテナンシーライブラリ",
   "url": "https://github.com/Finbuckle/Finbuckle.MultiTenant",
   "homepage_url": "https://www.finbuckle.com/MultiTenant",
   "language": "C#",
@@ -13,15 +13,15 @@
     "aspnetcore",
     "dotnet",
     "efcore",
-    "multitenant"
+    "multi-tenant"
   ],
-  "star_count": 1588,
-  "fork_count": 295,
+  "star_count": 1591,
+  "fork_count": 296,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-09-01T13:33:35Z",
-  "updated_at": "2026-05-27T13:28:50Z",
-  "pushed_at": "2026-05-27T00:24:51Z",
+  "updated_at": "2026-05-30T02:39:07Z",
+  "pushed_at": "2026-05-28T21:08:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -123,6 +123,10 @@
     {
       "date": "2026-05-27",
       "stars": 1588
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 1591
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "thclaws",
   "name": "thclaws",
   "full_name": "thclaws/thclaws",
-  "description": "Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.",
+  "description": "Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skills, plugins, agent teams.",
   "description_ja": "",
   "url": "https://github.com/thClaws/thClaws",
   "homepage_url": "https://thclaws.ai",
@@ -12,27 +12,32 @@
   "topics": [
     "agent-harness",
     "agent-teams",
-    "ai",
     "ai-agent",
-    "ai-agents",
-    "ai-assistant",
-    "ai-coding",
-    "ai-swarm",
+    "anthropic",
     "claude-code",
-    "claude-cowork",
+    "cli",
+    "desktop-app",
+    "developer-tools",
+    "gemini",
     "kms",
+    "llm",
     "llm-wiki",
+    "mcp",
+    "model-context-protocol",
     "multi-provider",
+    "ollama",
+    "openai",
     "rust",
-    "tauri"
+    "tauri",
+    "telegram-bot"
   ],
-  "star_count": 1047,
-  "fork_count": 143,
+  "star_count": 1058,
+  "fork_count": 145,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-20T01:27:39Z",
-  "updated_at": "2026-05-27T21:43:44Z",
-  "pushed_at": "2026-05-26T23:04:57Z",
+  "updated_at": "2026-05-30T17:25:52Z",
+  "pushed_at": "2026-05-30T17:25:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -122,6 +127,10 @@
     {
       "date": "2026-05-27",
       "stars": 1047
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 1058
     }
   ]
 }

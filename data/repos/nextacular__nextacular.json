@@ -7,7 +7,7 @@
   "description_ja": "フルスタックのマルチテナントSaaSプラットフォームを効率よく構築し、コアSaaS機能の開発に集中できるオープンソーススターターキット。Next JS・Tailwind・Prisma・Stripeなどのモダンな技術スタック上に構築。",
   "url": "https://github.com/nextacular/nextacular",
   "homepage_url": "https://nextacular.co",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "analytics",
@@ -30,13 +30,13 @@
     "tailwindcss",
     "vercel"
   ],
-  "star_count": 1377,
-  "fork_count": 238,
+  "star_count": 1376,
+  "fork_count": 239,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-07T01:12:41Z",
-  "updated_at": "2026-05-25T13:13:50Z",
-  "pushed_at": "2026-02-06T00:04:28Z",
+  "updated_at": "2026-05-30T11:47:26Z",
+  "pushed_at": "2026-05-30T12:31:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +134,10 @@
     {
       "date": "2026-05-27",
       "stars": 1377
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 1376
     }
   ]
 }

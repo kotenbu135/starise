@@ -3,41 +3,41 @@
   "owner": "agricidaniel",
   "name": "claude-obsidian",
   "full_name": "agricidaniel/claude-obsidian",
-  "description": "Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch",
-  "description_ja": "[20] Claude + Obsidian のナレッジコンパニオン。Karpathy の LLM Wiki パターンに基づく永続的・累積的な wiki ヴォールト。/wiki /save /autoresearch",
+  "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+  "description_ja": "",
   "url": "https://github.com/AgriciDaniel/claude-obsidian",
   "homepage_url": "https://agricidaniel.com/blog/claude-obsidian-ai-second-brain",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "agent-skills",
-    "ai",
+    "ai-note-taking",
     "ai-second-brain",
-    "autonomous-research",
     "claude-code",
     "claude-code-skill",
+    "claude-memory",
     "claude-plugin",
     "karpathy-llm-wiki",
     "knowledge-graph",
     "knowledge-management",
-    "llm",
-    "multi-agent",
+    "note-taking",
+    "notion-alternative",
     "obsidian",
     "obsidian-ai",
     "obsidian-plugin",
+    "obsidian-second-brain",
     "open-source",
+    "personal-knowledge-management",
     "pkm",
-    "rag",
-    "second-brain",
-    "wiki"
+    "second-brain"
   ],
-  "star_count": 5634,
-  "fork_count": 644,
+  "star_count": 5779,
+  "fork_count": 667,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-07T08:59:37Z",
-  "updated_at": "2026-05-27T21:33:41Z",
-  "pushed_at": "2026-04-24T10:21:48Z",
+  "updated_at": "2026-05-30T17:54:20Z",
+  "pushed_at": "2026-05-28T00:42:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -139,6 +139,10 @@
     {
       "date": "2026-05-27",
       "stars": 5634
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 5779
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "juyterman1000",
   "name": "entroly",
   "full_name": "juyterman1000/entroly",
-  "description": "Entroly compresses AI context, detects hallucinations, and saves up to 80% on OpenAI, Anthropic, and Gemini API bills. Works locally with Cursor, Claude Code, Codex, GPT \u0026 custom providers.",
+  "description": "Local proxy that cuts your Claude / OpenAI / Gemini bill 70%+. Drop-in for Cursor, Claude Code, Codex, Aider — 30 seconds, no code changes.",
   "description_ja": "",
   "url": "https://github.com/juyterman1000/entroly",
   "homepage_url": "https://juyterman1000.github.io/entroly/docs/dashboard.html",
@@ -35,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T23:03:02Z",
-  "updated_at": "2026-05-27T13:15:31Z",
-  "pushed_at": "2026-05-27T05:49:30Z",
+  "updated_at": "2026-05-30T15:23:47Z",
+  "pushed_at": "2026-05-30T17:23:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -137,6 +137,10 @@
     },
     {
       "date": "2026-05-27",
+      "stars": 402
+    },
+    {
+      "date": "2026-05-30",
       "stars": 402
     }
   ]

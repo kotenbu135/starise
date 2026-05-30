@@ -3,7 +3,7 @@
   "owner": "eooce",
   "name": "sing-box",
   "full_name": "eooce/sing-box",
-  "description": "既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，丰富的分流服务",
+  "description": "既然来了，就留下你的Star吧！Serv00 | CT8 | Hostuno | VPS | 游戏机 | sing-box(reality + hy2 + vmess-argo +tuic5)四合一无交互一键安装脚本(已适配Alpine)，支持纯V6 vps，丰富的分流服务, 可添加anytls,socks5,ss-2022等协议",
   "description_ja": "",
   "url": "https://github.com/eooce/Sing-box",
   "homepage_url": "https://serv00.eooce.com",
@@ -20,13 +20,13 @@
     "tunnel",
     "vmess-ws-tls"
   ],
-  "star_count": 4685,
-  "fork_count": 1674,
+  "star_count": 4703,
+  "fork_count": 1680,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-30T12:41:00Z",
-  "updated_at": "2026-05-27T15:12:07Z",
-  "pushed_at": "2026-05-16T15:52:14Z",
+  "updated_at": "2026-05-30T14:35:47Z",
+  "pushed_at": "2026-05-30T11:36:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -124,6 +124,10 @@
     {
       "date": "2026-05-27",
       "stars": 4685
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 4703
     }
   ]
 }

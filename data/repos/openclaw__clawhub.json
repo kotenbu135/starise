@@ -3,8 +3,8 @@
   "owner": "openclaw",
   "name": "clawhub",
   "full_name": "openclaw/clawhub",
-  "description": "Skill Directory for OpenClaw",
-  "description_ja": "OpenClaw向けスキルディレクトリ",
+  "description": "Skill + Plugin Registry for OpenClaw",
+  "description_ja": "",
   "url": "https://github.com/openclaw/clawhub",
   "homepage_url": "https://clawhub.ai",
   "language": "TypeScript",
@@ -13,13 +13,13 @@
     "directory",
     "skill"
   ],
-  "star_count": 8782,
-  "fork_count": 1370,
+  "star_count": 8814,
+  "fork_count": 1374,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-03T13:49:41Z",
-  "updated_at": "2026-05-27T22:20:33Z",
-  "pushed_at": "2026-05-27T21:34:13Z",
+  "updated_at": "2026-05-30T18:42:37Z",
+  "pushed_at": "2026-05-30T18:40:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -121,6 +121,10 @@
     {
       "date": "2026-05-27",
       "stars": 8782
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 8814
     }
   ]
 }

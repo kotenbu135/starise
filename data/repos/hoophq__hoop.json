@@ -3,36 +3,28 @@
   "owner": "hoophq",
   "name": "hoop",
   "full_name": "hoophq/hoop",
-  "description": "Automated Access and Data Protection",
-  "description_ja": "アクセスとデータ保護の自動化",
+  "description": "One gateway in front of every protocol. Same policy across MCP, LLMs, databases and containers. Wire-level enforcement at under 5ms.",
+  "description_ja": "",
   "url": "https://github.com/hoophq/hoop",
   "homepage_url": "https://hoop.dev",
   "language": "Go",
   "license": "MIT",
   "topics": [
-    "access-control",
-    "bastion-host",
+    "agent",
     "databases",
-    "go",
     "grpc",
-    "mongodb",
-    "mysql",
-    "pam",
-    "postgres",
+    "llm",
+    "mcp",
     "proxy",
-    "security",
-    "sqlserver",
-    "ssh",
-    "terminal",
-    "tty"
+    "security"
   ],
-  "star_count": 703,
+  "star_count": 706,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-29T18:26:02Z",
-  "updated_at": "2026-05-27T19:04:19Z",
-  "pushed_at": "2026-05-27T20:36:57Z",
+  "updated_at": "2026-05-29T19:12:20Z",
+  "pushed_at": "2026-05-29T20:51:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +126,10 @@
     {
       "date": "2026-05-27",
       "stars": 703
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 706
     }
   ]
 }

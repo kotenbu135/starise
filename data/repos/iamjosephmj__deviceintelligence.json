@@ -3,7 +3,7 @@
   "owner": "iamjosephmj",
   "name": "deviceintelligence",
   "full_name": "iamjosephmj/deviceintelligence",
-  "description": "Open-source Android device-intelligence telemetry SDK. Hardware-backed key attestation, bootloader integrity, root indicators, in-process tampering, emulator probe, app-cloner signals — emitted as a single deterministic JSON report. Telemetry, not RASP.",
+  "description": "Open-source Android SDK that detects rooted, emulated, or tampered devices. Outputs one JSON report — your backend decides the policy. No tracking, not a RASP.",
   "description_ja": "",
   "url": "https://github.com/iamjosephmj/DeviceIntelligence",
   "homepage_url": "",
@@ -27,13 +27,13 @@
     "strongbox",
     "telemetry"
   ],
-  "star_count": 29,
+  "star_count": 30,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-28T00:59:07Z",
-  "updated_at": "2026-05-22T09:37:42Z",
-  "pushed_at": "2026-05-19T18:00:54Z",
+  "updated_at": "2026-05-28T19:09:47Z",
+  "pushed_at": "2026-05-28T18:54:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-05-27",
       "stars": 29
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 30
     }
   ]
 }

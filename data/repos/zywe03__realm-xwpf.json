@@ -3,8 +3,8 @@
   "owner": "zywe03",
   "name": "realm-xwpf",
   "full_name": "zywe03/realm-xwpf",
-  "description": "Realm 全功能一键中转脚本，终端可视化界面构建网络转发服务.Realm: All-in-one one-click relay script, building network forwarding services with a terminal visual interface.",
-  "description_ja": "Realm オールインワンワンクリックリレースクリプト。ターミナルビジュアルインターフェースでネットワーク転送サービスを構築。",
+  "description": "Realm 全功能一键中转脚本，终端可视化界面构建网络转发服务.Realm: Full-featured one-click network relay — configure and manage forwarding rules from an interactive TUI.",
+  "description_ja": "",
   "url": "https://github.com/zywe03/realm-xwPF",
   "homepage_url": "https://zywe.de/",
   "language": "Shell",
@@ -21,12 +21,12 @@
     "traffic",
     "vps"
   ],
-  "star_count": 1003,
-  "fork_count": 132,
+  "star_count": 1006,
+  "fork_count": 133,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-26T11:10:31Z",
-  "updated_at": "2026-05-27T17:26:12Z",
+  "updated_at": "2026-05-30T08:47:24Z",
   "pushed_at": "2026-05-20T13:12:14Z",
   "deleted_at": "",
   "star_history": [
@@ -125,6 +125,10 @@
     {
       "date": "2026-05-27",
       "stars": 1003
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 1006
     }
   ]
 }

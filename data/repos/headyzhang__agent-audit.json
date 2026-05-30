@@ -3,8 +3,8 @@
   "owner": "headyzhang",
   "name": "agent-audit",
   "full_name": "headyzhang/agent-audit",
-  "description": "Static security scanner for LLM agents — prompt injection, MCP config auditing, taint analysis. 49 rules mapped to OWASP Agentic Top 10 (2026). Works with LangChain, CrewAI, AutoGen.",
-  "description_ja": "LLMエージェント向け静的セキュリティスキャナー — プロンプトインジェクション、MCP設定監査、汚染解析。OWASP Agentic Top 10（2026）に対応した49ルール。LangChain・CrewAI・AutoGenに対応。",
+  "description": "Static security scanner for LLM agents — prompt injection, MCP config auditing, taint analysis. 51 rules mapped to OWASP Agentic Top 10 (2026). Works with LangChain, CrewAI, AutoGen.",
+  "description_ja": "",
   "url": "https://github.com/HeadyZhang/agent-audit",
   "homepage_url": "https://headyzhang.github.io/agent-audit/",
   "language": "Python",
@@ -29,12 +29,12 @@
     "vulnerability-detection",
     "vulnerability-scanner"
   ],
-  "star_count": 173,
-  "fork_count": 19,
+  "star_count": 174,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-03T23:22:36Z",
-  "updated_at": "2026-05-27T16:14:55Z",
+  "updated_at": "2026-05-30T12:06:19Z",
   "pushed_at": "2026-04-18T09:15:33Z",
   "deleted_at": "",
   "star_history": [
@@ -137,6 +137,10 @@
     {
       "date": "2026-05-27",
       "stars": 173
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 174
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "othersideai",
   "name": "self-operating-computer",
   "full_name": "othersideai/self-operating-computer",
-  "description": "A framework to enable multimodal models to operate a computer.",
-  "description_ja": "マルチモーダルモデルがコンピュータを操作できるようにするフレームワーク。",
+  "description": "A framework to enable a multimodal model to operate a computer.",
+  "description_ja": "",
   "url": "https://github.com/OthersideAI/self-operating-computer",
   "homepage_url": "https://www.hyperwriteai.com/self-operating-computer",
   "language": "Python",
@@ -15,11 +15,11 @@
     "pyautogui"
   ],
   "star_count": 10249,
-  "fork_count": 1425,
+  "fork_count": 1423,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-04T03:13:45Z",
-  "updated_at": "2026-05-25T13:16:29Z",
+  "updated_at": "2026-05-30T18:18:18Z",
   "pushed_at": "2025-09-19T19:31:39Z",
   "deleted_at": "",
   "star_history": [
@@ -121,6 +121,10 @@
     },
     {
       "date": "2026-05-27",
+      "stars": 10249
+    },
+    {
+      "date": "2026-05-30",
       "stars": 10249
     }
   ]

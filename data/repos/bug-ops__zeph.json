@@ -3,7 +3,7 @@
   "owner": "bug-ops",
   "name": "zeph",
   "full_name": "bug-ops/zeph",
-  "description": "Memory-first Rust AI agent for long-running work. Temporal graph memory, self-learning skills, multi-model cascade routing. Hybrid inference: Ollama · Claude · Gemini · OpenAI · GGUF · TEE. MCP + ACP + A2A. Sub-agents. One binary.",
+  "description": "A memory-first AI agent that remembers why decisions were made — not just the last message. Runs local (Ollama), cloud (Claude · OpenAI · Gemini), or decentralized TEE. Graph memory, self-learning skills, multi-model routing, sandboxed tools. MCP · ACP · A2A. One Rust binary.",
   "description_ja": "",
   "url": "https://github.com/bug-ops/zeph",
   "homepage_url": "https://bug-ops.github.io/zeph/",
@@ -11,8 +11,8 @@
   "license": "MIT",
   "topics": [
     "a2a",
+    "acp",
     "ai-agent",
-    "candle",
     "claude",
     "cli",
     "gemini",
@@ -24,20 +24,20 @@
     "multi-model",
     "ollama",
     "openai",
-    "qdrant",
+    "rag",
     "rust",
     "self-learning",
+    "semantic-memory",
     "telegram-bot",
-    "tool-use",
     "tui"
   ],
-  "star_count": 35,
+  "star_count": 39,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T20:35:40Z",
-  "updated_at": "2026-05-26T16:15:00Z",
-  "pushed_at": "2026-05-26T16:14:55Z",
+  "updated_at": "2026-05-30T16:07:18Z",
+  "pushed_at": "2026-05-30T16:07:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -127,6 +127,10 @@
     {
       "date": "2026-05-27",
       "stars": 35
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 39
     }
   ]
 }

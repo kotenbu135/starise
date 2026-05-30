@@ -3,23 +3,25 @@
   "owner": "bitrouter",
   "name": "bitrouter",
   "full_name": "bitrouter/bitrouter",
-  "description": "Open intelligence router for LLM agents",
+  "description": "Agent-native LLM router that optimizes your agent with every run. Zero harness changes — every model call reliable, traceable, secure, and cost-effective. ",
   "description_ja": "",
   "url": "https://github.com/bitrouter/bitrouter",
   "homepage_url": "https://bitrouter.ai",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
-    "a2a",
+    "acp",
     "agent-guardrails",
     "agent-harness",
     "agent-observability",
-    "agent-runtime",
     "ai-agent",
     "ai-agents",
+    "anthropic-compatible",
     "api-gateway",
     "bittensor",
     "claude-code",
+    "hermes-agent",
+    "litellm",
     "llm-gateway",
     "llm-router",
     "mcp",
@@ -27,17 +29,15 @@
     "openclaw",
     "opencode",
     "rust",
-    "skills",
-    "solana",
-    "x402"
+    "skills"
   ],
   "star_count": 84,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T20:04:01Z",
-  "updated_at": "2026-05-26T19:48:24Z",
-  "pushed_at": "2026-05-27T14:05:19Z",
+  "updated_at": "2026-05-30T11:31:42Z",
+  "pushed_at": "2026-05-30T11:35:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -138,6 +138,10 @@
     },
     {
       "date": "2026-05-27",
+      "stars": 84
+    },
+    {
+      "date": "2026-05-30",
       "stars": 84
     }
   ]

@@ -3,12 +3,12 @@
   "owner": "questpilot",
   "name": "microsoft-rewards-bot",
   "full_name": "questpilot/microsoft-rewards-bot",
-  "description": "Automated Microsoft Rewards points collector. New Dashboard Microsoft",
+  "description": "Automated Microsoft Rewards points (New Dashboard Microsoft)",
   "description_ja": "",
   "url": "https://github.com/QuestPilot/Microsoft-Rewards-Bot",
   "homepage_url": "https://bot.lgtw.tf/",
-  "language": "",
-  "license": "",
+  "language": "TypeScript",
+  "license": "NOASSERTION",
   "topics": [
     "bing-rewards",
     "bot",
@@ -18,13 +18,13 @@
     "microsoft-rewards-farmer",
     "script"
   ],
-  "star_count": 98,
+  "star_count": 104,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-23T08:40:44Z",
-  "updated_at": "2026-05-27T20:39:39Z",
-  "pushed_at": "2026-05-25T13:47:38Z",
+  "updated_at": "2026-05-30T17:53:23Z",
+  "pushed_at": "2026-05-29T14:42:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +34,10 @@
     {
       "date": "2026-05-27",
       "stars": 98
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 104
     }
   ]
 }

@@ -3,19 +3,19 @@
   "owner": "teaguesterling",
   "name": "duckdb_webbed",
   "full_name": "teaguesterling/duckdb_webbed",
-  "description": "",
+  "description": "A comprehensive XML and HTML processing extension for DuckDB that enables SQL-native analysis of structured documents with intelligent schema inference and powerful XPath-based data extraction.",
   "description_ja": "",
   "url": "https://github.com/teaguesterling/duckdb_webbed",
-  "homepage_url": "",
+  "homepage_url": "https://duckdb-webbed.readthedocs.org",
   "language": "C++",
   "license": "MIT",
   "topics": [],
-  "star_count": 51,
+  "star_count": 53,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-12T16:27:28Z",
-  "updated_at": "2026-05-27T05:00:32Z",
+  "updated_at": "2026-05-30T02:13:02Z",
   "pushed_at": "2026-05-27T05:00:27Z",
   "deleted_at": "",
   "star_history": [
@@ -114,6 +114,10 @@
     {
       "date": "2026-05-27",
       "stars": 51
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 53
     }
   ]
 }

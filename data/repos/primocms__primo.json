@@ -3,10 +3,10 @@
   "owner": "primocms",
   "name": "primo",
   "full_name": "primocms/primo",
-  "description": "Component-based CMS with a built-in IDE, visual editing, and static site generation. One server, unlimited sites.",
-  "description_ja": "組み込みIDE・ビジュアル編集・静的サイト生成を備えたコンポーネントベースのCMS。1台のサーバーで無制限のサイトを運営可能。",
+  "description": "Agent-native visual CMS. Build sites with Claude/Codex/whatever, manage them visually. ",
+  "description_ja": "",
   "url": "https://github.com/primocms/primo",
-  "homepage_url": "https://palacms.com",
+  "homepage_url": "https://primo.build",
   "language": "Svelte",
   "license": "MIT",
   "topics": [
@@ -23,13 +23,13 @@
     "svelte",
     "wordpress"
   ],
-  "star_count": 2335,
+  "star_count": 2334,
   "fork_count": 575,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-08T11:48:56Z",
-  "updated_at": "2026-05-25T22:26:03Z",
-  "pushed_at": "2026-05-25T00:08:00Z",
+  "updated_at": "2026-05-30T18:14:58Z",
+  "pushed_at": "2026-05-29T05:24:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -127,6 +127,10 @@
     {
       "date": "2026-05-27",
       "stars": 2335
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 2334
     }
   ]
 }

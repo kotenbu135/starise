@@ -7,7 +7,7 @@
   "description_ja": "QVAC - プライベートなクロスプラットフォームのピアツーピア AI アプリケーションを構築するためのローカル AI SDK およびライブラリ。Linux、macOS、Windows、Android、iOS 上でローカルに LLM、音声認識、翻訳などを実行できます。",
   "url": "https://github.com/tetherto/qvac",
   "homepage_url": "https://qvac.tether.io",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "ai",
@@ -30,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-03T01:59:01Z",
-  "updated_at": "2026-05-27T20:50:55Z",
-  "pushed_at": "2026-05-27T21:50:24Z",
+  "updated_at": "2026-05-30T00:30:25Z",
+  "pushed_at": "2026-05-30T10:08:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -132,6 +132,10 @@
     },
     {
       "date": "2026-05-27",
+      "stars": 188
+    },
+    {
+      "date": "2026-05-30",
       "stars": 188
     }
   ]

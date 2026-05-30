@@ -3,7 +3,7 @@
   "owner": "lyellr88",
   "name": "marm-systems",
   "full_name": "lyellr88/marm-systems",
-  "description": "Stop re-explaining yourself to your AI. MARM gives every session persistent memory, cross-agent context sharing, and structured reasoning that builds as you work, not resets. Includes a live web dashboard for browsing memories, logs, and sessions without touching the CLI. Connects over HTTP,  HTTPS,  STDIO to fit any stack or deployment.",
+  "description": "Stop re-explaining yourself to your AI. MARM gives every session persistent memory, cross-agent context sharing, and structured reasoning that builds as you work. Includes a live web dashboard for browsing memories, logs, and sessions without touching the CLI. MCP connects over HTTP \u0026  STDIO to fit most stacks or deployments.",
   "description_ja": "",
   "url": "https://github.com/Lyellr88/MARM-Systems",
   "homepage_url": "",
@@ -25,13 +25,13 @@
     "opensource",
     "semantic-search"
   ],
-  "star_count": 291,
+  "star_count": 293,
   "fork_count": 51,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-10T06:36:49Z",
-  "updated_at": "2026-05-26T13:45:30Z",
-  "pushed_at": "2026-05-26T10:57:36Z",
+  "updated_at": "2026-05-29T10:23:29Z",
+  "pushed_at": "2026-05-29T09:56:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -129,6 +129,10 @@
     {
       "date": "2026-05-27",
       "stars": 291
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 293
     }
   ]
 }

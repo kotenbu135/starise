@@ -3,7 +3,7 @@
   "owner": "abhizaik",
   "name": "urlvet",
   "full_name": "abhizaik/urlvet",
-  "description": "phishing detection",
+  "description": "Open-source phishing detection engine. 18 concurrent analyzers, 33 signals, explainable verdicts, REST API, Chrome extension. Self-hostable alternative to VirusTotal, CheckPhish, URLScan.io",
   "description_ja": "",
   "url": "https://github.com/abhizaik/urlvet",
   "homepage_url": "https://url.vet",
@@ -16,19 +16,20 @@
     "phishing",
     "phishing-detection",
     "security-tools",
+    "self-hosted",
     "svelte",
     "threat-intelligence",
     "url-analyzer",
     "url-reputation",
     "urlvet"
   ],
-  "star_count": 103,
-  "fork_count": 13,
+  "star_count": 102,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-07-29T03:47:00Z",
-  "updated_at": "2026-05-22T19:50:22Z",
-  "pushed_at": "2026-05-22T19:51:05Z",
+  "updated_at": "2026-05-30T11:34:57Z",
+  "pushed_at": "2026-05-30T07:15:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +95,10 @@
     {
       "date": "2026-05-27",
       "stars": 103
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 102
     }
   ]
 }

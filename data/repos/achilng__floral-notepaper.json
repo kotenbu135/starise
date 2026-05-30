@@ -3,20 +3,29 @@
   "owner": "achilng",
   "name": "floral-notepaper",
   "full_name": "achilng/floral-notepaper",
-  "description": "",
+  "description": "花笺，轻量优雅的跨平台桌面便签工具，支持 Markdown 编辑与预览",
   "description_ja": "",
   "url": "https://github.com/Achilng/floral-notepaper",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 2693,
-  "fork_count": 129,
+  "topics": [
+    "macos",
+    "markdown",
+    "note-taking",
+    "react",
+    "rust",
+    "sticky-notes",
+    "tauri",
+    "windows"
+  ],
+  "star_count": 2900,
+  "fork_count": 147,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-26T13:07:10Z",
-  "updated_at": "2026-05-27T21:36:47Z",
-  "pushed_at": "2026-05-27T17:04:50Z",
+  "updated_at": "2026-05-30T18:03:43Z",
+  "pushed_at": "2026-05-30T18:02:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +59,10 @@
     {
       "date": "2026-05-27",
       "stars": 2693
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 2900
     }
   ]
 }

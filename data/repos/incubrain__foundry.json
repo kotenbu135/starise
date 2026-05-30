@@ -3,28 +3,27 @@
   "owner": "incubrain",
   "name": "foundry",
   "full_name": "incubrain/foundry",
-  "description": "IncuBrain Foundry is a MIT Nuxt 4 template optimised for creating AI-native businesses",
-  "description_ja": "IncuBrain FoundryはAIネイティブなビジネス構築に最適化されたMITライセンスのNuxt 4テンプレートです。",
+  "description": "IncuBrain Foundry is a Nuxt 4 template optimised for creating AI-native businesses",
+  "description_ja": "",
   "url": "https://github.com/incubrain/foundry",
   "homepage_url": "https://foundry.incubrain.org",
   "language": "TypeScript",
   "license": "",
   "topics": [
+    "agent-skills",
+    "ai",
     "building",
     "business",
     "claude-code",
-    "conversion",
     "documentation",
     "docus",
     "founder",
     "foundry",
-    "funnel",
-    "leads",
     "nuxt",
     "nuxt4",
     "nuxtjs",
     "product",
-    "product-validator",
+    "skills",
     "tailwindcss",
     "technical",
     "template",
@@ -36,7 +35,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-11-07T09:37:50Z",
-  "updated_at": "2026-05-22T02:24:09Z",
+  "updated_at": "2026-05-29T16:49:23Z",
   "pushed_at": "2026-05-22T02:24:06Z",
   "deleted_at": "",
   "star_history": [
@@ -134,6 +133,10 @@
     },
     {
       "date": "2026-05-27",
+      "stars": 76
+    },
+    {
+      "date": "2026-05-30",
       "stars": 76
     }
   ]

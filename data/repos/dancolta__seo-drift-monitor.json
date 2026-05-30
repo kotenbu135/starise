@@ -6,7 +6,7 @@
   "description": "Detects when a deploy silently ships a noindex, drops a schema block, or rewrites your canonical. Baselines a page's SEO contract, diffs every change with Critical/Warning/Info severity, and points fixes to claude-seo sub-skills. A Claude Code skill. Open source.",
   "description_ja": "",
   "url": "https://github.com/dancolta/seo-drift-monitor",
-  "homepage_url": "https://seo-drift-demo.vercel.app",
+  "homepage_url": "",
   "language": "Python",
   "license": "",
   "topics": [
@@ -35,7 +35,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T12:33:21Z",
-  "updated_at": "2026-05-21T00:43:48Z",
+  "updated_at": "2026-05-28T23:26:24Z",
   "pushed_at": "2026-05-18T18:00:53Z",
   "deleted_at": "",
   "star_history": [
@@ -125,6 +125,10 @@
     },
     {
       "date": "2026-05-27",
+      "stars": 11
+    },
+    {
+      "date": "2026-05-30",
       "stars": 11
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "shorya-1012",
   "name": "dotfiles",
   "full_name": "shorya-1012/dotfiles",
-  "description": "Dotfiles for my Arch Linux/Cachy Os system",
+  "description": "Dotfiles for my Artix Linux system",
   "description_ja": "",
   "url": "https://github.com/shorya-1012/dotfiles",
   "homepage_url": "",
@@ -14,18 +14,19 @@
     "archlinux-dotfiles",
     "dotfiles",
     "dotfiles-linux",
-    "kitty-config",
     "neovim-dotfiles",
+    "niri-dotfiles",
+    "niri-rice",
     "qtile-config",
     "tmux-conf"
   ],
-  "star_count": 30,
+  "star_count": 33,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-26T14:28:44Z",
-  "updated_at": "2026-05-27T15:36:15Z",
-  "pushed_at": "2026-05-24T20:37:33Z",
+  "updated_at": "2026-05-30T15:13:51Z",
+  "pushed_at": "2026-05-30T15:13:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +36,10 @@
     {
       "date": "2026-05-27",
       "stars": 30
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 33
     }
   ]
 }

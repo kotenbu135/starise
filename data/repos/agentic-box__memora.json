@@ -10,24 +10,30 @@
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "agent-memory",
     "ai-agent",
     "claude",
+    "claude-code",
+    "cloudflare-d1",
+    "codex",
     "knowledge-graph",
     "llms",
     "mcp",
     "mcp-server",
     "memory",
+    "model-context-protocol",
     "rag",
     "semantic-search",
-    "semantic-search-algorithm"
+    "semantic-search-algorithm",
+    "sqlite"
   ],
   "star_count": 406,
   "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-19T09:44:12Z",
-  "updated_at": "2026-05-27T07:20:40Z",
-  "pushed_at": "2026-05-27T07:20:36Z",
+  "updated_at": "2026-05-30T14:44:37Z",
+  "pushed_at": "2026-05-28T14:52:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -128,6 +134,10 @@
     },
     {
       "date": "2026-05-27",
+      "stars": 406
+    },
+    {
+      "date": "2026-05-30",
       "stars": 406
     }
   ]

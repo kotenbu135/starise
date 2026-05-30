@@ -3,8 +3,8 @@
   "owner": "montferret",
   "name": "ferret",
   "full_name": "montferret/ferret",
-  "description": "Declarative web scraping",
-  "description_ja": "宣言的なウェブスクレイピング",
+  "description": "Declarative data extraction engine",
+  "description_ja": "",
   "url": "https://github.com/MontFerret/ferret",
   "homepage_url": "https://www.montferret.dev/",
   "language": "Go",
@@ -13,26 +13,28 @@
     "cdp",
     "chrome",
     "cli",
-    "crawler",
     "crawling",
     "data-mining",
     "dsl",
+    "embedded",
+    "extract-data",
     "go",
     "golang",
     "library",
     "query-language",
-    "scraper",
     "scraping",
     "scraping-websites",
+    "scripting",
+    "scripting-language",
     "tool"
   ],
-  "star_count": 5988,
-  "fork_count": 321,
+  "star_count": 5990,
+  "fork_count": 320,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-08-23T02:42:46Z",
-  "updated_at": "2026-05-26T01:24:27Z",
-  "pushed_at": "2026-05-26T01:48:53Z",
+  "updated_at": "2026-05-29T19:11:36Z",
+  "pushed_at": "2026-05-28T14:38:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +136,10 @@
     {
       "date": "2026-05-27",
       "stars": 5988
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 5990
     }
   ]
 }

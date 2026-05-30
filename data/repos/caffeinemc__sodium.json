@@ -3,26 +3,24 @@
   "owner": "caffeinemc",
   "name": "sodium",
   "full_name": "caffeinemc/sodium",
-  "description": "A Minecraft mod designed to improve frame rates and reduce micro-stutter",
-  "description_ja": "フレームレート向上とマイクロスタッター低減を目的とした Minecraft Mod",
+  "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter",
+  "description_ja": "",
   "url": "https://github.com/CaffeineMC/sodium",
   "homepage_url": "",
   "language": "Java",
   "license": "NOASSERTION",
   "topics": [
-    "azdo",
     "fabric",
     "minecraft",
-    "neoforge",
-    "opengl"
+    "neoforge"
   ],
-  "star_count": 5580,
-  "fork_count": 928,
+  "star_count": 5583,
+  "fork_count": 929,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-02-01T03:04:09Z",
-  "updated_at": "2026-05-25T14:57:47Z",
-  "pushed_at": "2026-05-25T13:18:55Z",
+  "updated_at": "2026-05-30T13:03:02Z",
+  "pushed_at": "2026-05-30T15:22:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -124,6 +122,10 @@
     {
       "date": "2026-05-27",
       "stars": 5580
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 5583
     }
   ]
 }

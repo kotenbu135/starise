@@ -3,7 +3,7 @@
   "owner": "geniepod",
   "name": "genie-claw",
   "full_name": "geniepod/genie-claw",
-  "description": "Limited-context AI harness for 🦞 agentic smart homes: portable across SBCs and native to GeniePod Home.",
+  "description": "🦞 Low-latency, limited-context AI harness for private on-device homes.",
   "description_ja": "",
   "url": "https://github.com/GeniePod/genie-claw",
   "homepage_url": "https://genieclaw.org",
@@ -11,23 +11,24 @@
   "license": "AGPL-3.0",
   "topics": [
     "ai-agent",
-    "edge-ai",
+    "ai-agent-at-home",
     "harness",
     "home-automation",
+    "hosusehold-memory",
     "limited-context",
     "local-first",
-    "personal-ai-assistant-at-home",
+    "openclaw",
     "privacy-first",
     "security-first",
     "smart-home"
   ],
-  "star_count": 42,
-  "fork_count": 36,
+  "star_count": 44,
+  "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-15T12:34:22Z",
-  "updated_at": "2026-05-27T15:04:38Z",
-  "pushed_at": "2026-05-26T21:40:51Z",
+  "updated_at": "2026-05-30T03:56:18Z",
+  "pushed_at": "2026-05-30T03:56:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -61,6 +62,10 @@
     {
       "date": "2026-05-27",
       "stars": 42
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 44
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "A zero-copy, zero-allocation HTTP server written in pure Zig.",
   "description_ja": "",
   "url": "https://github.com/justinGrosvenor/swerver",
-  "homepage_url": "",
+  "homepage_url": "https://swerver.net",
   "language": "Zig",
   "license": "MIT",
   "topics": [
@@ -26,13 +26,13 @@
     "zig",
     "zig-package"
   ],
-  "star_count": 10,
+  "star_count": 11,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-22T19:22:25Z",
-  "updated_at": "2026-05-27T17:25:08Z",
-  "pushed_at": "2026-05-27T17:25:04Z",
+  "updated_at": "2026-05-29T04:06:22Z",
+  "pushed_at": "2026-05-29T01:46:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +62,10 @@
     {
       "date": "2026-05-27",
       "stars": 10
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 11
     }
   ]
 }

@@ -6,21 +6,21 @@
   "description": "一个现代化的 SaaS 全栈开发模板，基于 Next.js 15 构建，包含认证、支付、积分、邮件、存储、工单、API 限流、日志、错误监控等完整的 SaaS 功能模块。",
   "description_ja": "Next.js 15をベースに構築された、認証・決済・ポイント・メール・ストレージ・チケット・APIレート制限・ログ・エラー監視などの機能を備えたモダンなSaaSフルスタック開発テンプレート。",
   "url": "https://github.com/evepupil/NextDevTpl",
-  "homepage_url": "https://demo.chaosyn.com",
+  "homepage_url": "https://nextdevtpl.chaosyn.com",
   "language": "TypeScript",
-  "license": "",
+  "license": "MIT",
   "topics": [
     "nextjs15",
     "saas",
     "template-project"
   ],
-  "star_count": 52,
-  "fork_count": 6,
+  "star_count": 58,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-23T10:38:55Z",
-  "updated_at": "2026-05-25T16:22:58Z",
-  "pushed_at": "2026-05-25T16:22:53Z",
+  "updated_at": "2026-05-30T17:25:04Z",
+  "pushed_at": "2026-05-30T17:25:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -122,6 +122,10 @@
     {
       "date": "2026-05-27",
       "stars": 52
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 58
     }
   ]
 }

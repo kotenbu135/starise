@@ -3,7 +3,7 @@
   "owner": "tecnickcom",
   "name": "tc-lib-pdf",
   "full_name": "tecnickcom/tc-lib-pdf",
-  "description": "PHP PDF Library (official TCPDF successor)",
+  "description": "PHP PDF Library (TCPDF)",
   "description_ja": "",
   "url": "https://github.com/tecnickcom/tc-lib-pdf",
   "homepage_url": "https://tcpdf.org/",
@@ -12,15 +12,16 @@
   "topics": [
     "pdf",
     "pdf-generation",
-    "php"
+    "php",
+    "tcpdf"
   ],
-  "star_count": 1830,
-  "fork_count": 247,
+  "star_count": 1833,
+  "fork_count": 248,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-06-10T17:23:19Z",
-  "updated_at": "2026-05-27T20:10:46Z",
-  "pushed_at": "2026-05-27T20:16:07Z",
+  "updated_at": "2026-05-30T18:31:15Z",
+  "pushed_at": "2026-05-30T18:31:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -122,6 +123,10 @@
     {
       "date": "2026-05-27",
       "stars": 1830
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 1833
     }
   ]
 }

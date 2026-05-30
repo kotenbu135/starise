@@ -3,8 +3,8 @@
   "owner": "delta-comic",
   "name": "delta-comic",
   "full_name": "delta-comic/delta-comic",
-  "description": "--  无AI !!! -- ✨ Delta Comic — 一个以体验为先的多源漫画聚合客户端（Tauri/Android）。 📚 插件驱动 · 🔍 多站整合（Bika / PicaCG / JMComic / 18comic / e-hentai 等） · 🌓 现代化 UI · ⚡ 轻量、默认无广告体验 · 开源可扩展 🚀",
-  "description_ja": "-- AI なし !!! -- ✨ Delta Comic — 体験重視の多ソース漫画アグリゲータクライアント（Tauri/Android）。📚 プラグイン駆動 · 🔍 複数サイト統合（Bika / PicaCG / JMComic / 18comic / e-hentai など） · 🌓 モダン UI · ⚡ 軽量・デフォルト広告なし · オープンソースで拡張可能 🚀",
+  "description": "✨ Delta Comic — 一个以体验为先的多源漫画聚合客户端（Tauri/Android）。 📚 插件驱动 · 🔍 多站整合（Bika / PicaCG / JMComic / 18comic / e-hentai 等） · 🌓 现代化 UI · ⚡ 轻量、默认无广告体验 · 开源可扩展 🚀",
+  "description_ja": "",
   "url": "https://github.com/delta-comic/delta-comic",
   "homepage_url": "",
   "language": "Vue",
@@ -22,13 +22,13 @@
     "vite",
     "vue"
   ],
-  "star_count": 110,
-  "fork_count": 0,
+  "star_count": 113,
+  "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-03T13:58:13Z",
-  "updated_at": "2026-05-27T14:04:26Z",
-  "pushed_at": "2026-05-27T14:04:21Z",
+  "updated_at": "2026-05-29T18:25:51Z",
+  "pushed_at": "2026-05-29T14:39:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -126,6 +126,10 @@
     {
       "date": "2026-05-27",
       "stars": 110
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 113
     }
   ]
 }

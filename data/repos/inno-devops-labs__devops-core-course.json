@@ -3,34 +3,40 @@
   "owner": "inno-devops-labs",
   "name": "devops-core-course",
   "full_name": "inno-devops-labs/devops-core-course",
-  "description": "🚀Production-grade DevOps course: 18 hands-on labs covering Docker, Kubernetes, Helm, Terraform, Ansible, CI/CD, GitOps (ArgoCD), monitoring (Prometheus/Grafana), and more. Build real-world skills with progressive delivery, secrets management, and cloud-native deployments.",
-  "description_ja": "本番レベルのDevOpsコース: Docker、Kubernetes、Helm、Terraform、Ansible、CI/CD、GitOps（ArgoCD）、モニタリング（Prometheus/Grafana）などを扱う18のハンズオンラボ。プログレッシブデリバリー、シークレット管理、クラウドネイティブデプロイで実践スキルを習得。",
+  "description": "🚀 DevOps core course — 18 hands-on labs building a real service from Docker and CI/CD through Kubernetes, Helm, GitOps with ArgoCD, Argo Rollouts, observability (Prometheus/Grafana/Loki), Terraform, Ansible, secrets management, and Nix reproducible builds.",
+  "description_ja": "",
   "url": "https://github.com/inno-devops-labs/DevOps-Core-Course",
   "homepage_url": "",
-  "language": "",
+  "language": "Go",
   "license": "",
   "topics": [
     "ansible",
+    "argo-rollouts",
     "argocd",
     "ci-cd",
+    "course",
     "devops",
     "docker",
+    "education",
     "github-actions",
     "gitops",
     "grafana",
     "hands-on-labs",
     "helm",
     "kubernetes",
+    "loki",
+    "observability",
+    "progressive-delivery",
     "prometheus",
     "terraform"
   ],
-  "star_count": 94,
-  "fork_count": 290,
+  "star_count": 89,
+  "fork_count": 289,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-22T20:57:08Z",
-  "updated_at": "2026-05-27T20:10:07Z",
-  "pushed_at": "2026-05-27T07:55:11Z",
+  "updated_at": "2026-05-30T14:45:35Z",
+  "pushed_at": "2026-05-29T20:28:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -128,6 +134,10 @@
     {
       "date": "2026-05-27",
       "stars": 94
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 89
     }
   ]
 }

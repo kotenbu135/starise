@@ -3,7 +3,7 @@
   "owner": "jonigl",
   "name": "mcp-client-for-ollama",
   "full_name": "jonigl/mcp-client-for-ollama",
-  "description": "Harness the power of local LLMs with this TUI client for MCP servers using Ollama. Features include MCP tools, MCP prompts, MCP resources, agent mode, multi-server, model switching, streaming responses, human-in-the-loop, thinking mode, model params config, custom system prompt and saved preferences.",
+  "description": "Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, human-in-the-loop, thinking mode, model params config, system prompts, and saved preferences.",
   "description_ja": "",
   "url": "https://github.com/jonigl/mcp-client-for-ollama",
   "homepage_url": "",
@@ -31,13 +31,13 @@
     "streamable-http",
     "windows"
   ],
-  "star_count": 716,
-  "fork_count": 97,
+  "star_count": 717,
+  "fork_count": 98,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-23T21:05:02Z",
-  "updated_at": "2026-05-27T19:21:09Z",
-  "pushed_at": "2026-05-27T19:21:06Z",
+  "updated_at": "2026-05-29T23:52:23Z",
+  "pushed_at": "2026-05-29T20:20:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -139,6 +139,10 @@
     {
       "date": "2026-05-27",
       "stars": 716
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 717
     }
   ]
 }
