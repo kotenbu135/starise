@@ -1,0 +1,38 @@
+{
+  "repo_id": "R_kgDORgJuvw",
+  "owner": "agusrdz",
+  "name": "chop",
+  "full_name": "agusrdz/chop",
+  "description": "CLI output compressor for Claude Code. Reduces token consumption by 50–90% by compressing verbose    command output before it enters the context window. Supports 52+ commands — git, docker,   kubectl, npm, terraform, and more.",
+  "description_ja": "",
+  "url": "https://github.com/AgusRdz/chop",
+  "homepage_url": "https://getchop.run/",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "claude",
+    "claude-ai",
+    "claude-code",
+    "cli",
+    "context-window",
+    "developer-tools",
+    "golang",
+    "llm",
+    "productivity",
+    "token-optimization"
+  ],
+  "star_count": 29,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-06T15:32:57Z",
+  "updated_at": "2026-05-31T11:30:38Z",
+  "pushed_at": "2026-05-18T16:05:41Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-31",
+      "stars": 29
+    }
+  ]
+}

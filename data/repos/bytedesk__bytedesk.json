@@ -3,8 +3,8 @@
   "owner": "bytedesk",
   "name": "bytedesk",
   "full_name": "bytedesk/bytedesk",
-  "description": "Enterprise IM Solution with AI powered omni-channel customer service \u0026 team im，alternative to slack + zendesk/intercom",
-  "description_ja": "AIを活用したオムニチャネルカスタマーサービスとチームIMを備えたエンタープライズIMソリューション。slack + zendesk/intercomの代替。",
+  "description": "Enterprise IM Solution with AI powered omni-channel customer service \u0026 team im，alternative to slack + zendesk/intercom/hubspot",
+  "description_ja": "",
   "url": "https://github.com/Bytedesk/bytedesk",
   "homepage_url": "https://www.bytedesk.com/en/",
   "language": "Java",
@@ -12,22 +12,24 @@
   "topics": [
     "ai",
     "chatbot",
-    "chatpdf",
-    "flowable",
     "helpdesk",
+    "hubspot",
+    "intercom",
     "livechat",
     "omnichannel",
     "rag",
+    "slack",
     "support",
     "team",
-    "ticket-system"
+    "ticket-system",
+    "zendesk"
   ],
-  "star_count": 424,
+  "star_count": 425,
   "fork_count": 119,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-12T00:31:36Z",
-  "updated_at": "2026-05-30T04:42:04Z",
+  "updated_at": "2026-05-31T12:48:44Z",
   "pushed_at": "2026-05-30T04:45:37Z",
   "deleted_at": "",
   "star_history": [
@@ -134,6 +136,10 @@
     {
       "date": "2026-05-30",
       "stars": 424
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 425
     }
   ]
 }

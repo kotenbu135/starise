@@ -3,7 +3,7 @@
   "owner": "glade-tool",
   "name": "glade-mcp",
   "full_name": "glade-tool/glade-mcp",
-  "description": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to your Unity Editor. 235+ granular tools, a Unity-aware system prompt, game design document project context, script semantic search, and skill calibration.",
+  "description": "Connect any MCP-compatible AI client (Claude Code, Cursor, Windsurf) to Unity or Godot. 235+ granular tools, a Unity-aware system prompt, game design document project context, script semantic search, and skill calibration.",
   "description_ja": "",
   "url": "https://github.com/Glade-tool/glade-mcp",
   "homepage_url": "https://www.gladekit.com/",
@@ -26,13 +26,13 @@
     "vscode",
     "windsurf"
   ],
-  "star_count": 143,
+  "star_count": 145,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-08T00:49:55Z",
-  "updated_at": "2026-05-30T14:27:37Z",
-  "pushed_at": "2026-05-29T19:20:27Z",
+  "updated_at": "2026-05-31T15:43:02Z",
+  "pushed_at": "2026-05-31T10:22:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -138,6 +138,10 @@
     {
       "date": "2026-05-30",
       "stars": 143
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 145
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "hogeheer499-commits",
   "name": "strix-halo-guide",
   "full_name": "hogeheer499-commits/strix-halo-guide",
-  "description": "Strix Halo local LLM guide: 63-98.5 t/s direct Qwen MoE on Ryzen AI MAX+ 395 / 128GB unified memory. Setup, model choices, benchmarks, and raw evidence.",
+  "description": "Reproducible local LLM setup and benchmark evidence for AMD Strix Halo / Ryzen AI MAX+ 395: 63-98.5 t/s direct Qwen MoE, 101.1 t/s MTP.",
   "description_ja": "",
   "url": "https://github.com/hogeheer499-commits/strix-halo-guide",
   "homepage_url": "",
@@ -20,11 +20,11 @@
     "inference",
     "llama-cpp",
     "llm",
+    "local-ai",
     "local-llm",
     "mini-pc",
     "ollama",
     "optimization",
-    "rdna3",
     "rocm",
     "ryzen-ai-max",
     "strix-halo",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T22:33:43Z",
-  "updated_at": "2026-05-30T05:35:16Z",
-  "pushed_at": "2026-05-27T15:38:27Z",
+  "updated_at": "2026-05-31T17:26:05Z",
+  "pushed_at": "2026-05-31T17:26:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +70,10 @@
     },
     {
       "date": "2026-05-30",
+      "stars": 57
+    },
+    {
+      "date": "2026-05-31",
       "stars": 57
     }
   ]

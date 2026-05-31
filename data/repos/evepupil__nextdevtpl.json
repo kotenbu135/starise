@@ -3,8 +3,8 @@
   "owner": "evepupil",
   "name": "nextdevtpl",
   "full_name": "evepupil/nextdevtpl",
-  "description": "一个现代化的 SaaS 全栈开发模板，基于 Next.js 15 构建，包含认证、支付、积分、邮件、存储、工单、API 限流、日志、错误监控等完整的 SaaS 功能模块。",
-  "description_ja": "Next.js 15をベースに構築された、認証・決済・ポイント・メール・ストレージ・チケット・APIレート制限・ログ・エラー監視などの機能を備えたモダンなSaaSフルスタック開発テンプレート。",
+  "description": "一个现代化的 SaaS 全栈开发模板，基于 Next.js 16 构建，包含认证、支付、积分、邮件、存储、工单、API 限流、日志、错误监控等完整的 SaaS 功能模块。",
+  "description_ja": "",
   "url": "https://github.com/evepupil/NextDevTpl",
   "homepage_url": "https://nextdevtpl.chaosyn.com",
   "language": "TypeScript",
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-23T10:38:55Z",
-  "updated_at": "2026-05-30T17:25:04Z",
-  "pushed_at": "2026-05-30T17:25:01Z",
+  "updated_at": "2026-05-31T15:20:34Z",
+  "pushed_at": "2026-05-31T06:26:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -125,6 +125,10 @@
     },
     {
       "date": "2026-05-30",
+      "stars": 58
+    },
+    {
+      "date": "2026-05-31",
       "stars": 58
     }
   ]

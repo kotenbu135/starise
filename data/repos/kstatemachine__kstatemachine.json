@@ -3,8 +3,8 @@
   "owner": "kstatemachine",
   "name": "kstatemachine",
   "full_name": "kstatemachine/kstatemachine",
-  "description": "Powerful Kotlin Multiplatform library with clean DSL syntax for creating complex state machines and statecharts driven by Kotlin Coroutines.",
-  "description_ja": "Kotlin Coroutinesで駆動する複雑なステートマシンとステートチャートを作成するための、クリーンなDSL構文を持つ強力なKotlin Multiplatformライブラリ",
+  "description": "A powerful Kotlin Multiplatform state machine library with clean DSL syntax and first-class Kotlin Coroutines support",
+  "description_ja": "",
   "url": "https://github.com/KStateMachine/kstatemachine",
   "homepage_url": "https://kstatemachine.github.io/kstatemachine/",
   "language": "Kotlin",
@@ -34,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-09-16T20:38:57Z",
-  "updated_at": "2026-05-30T18:28:38Z",
-  "pushed_at": "2026-05-30T18:28:34Z",
+  "updated_at": "2026-05-31T09:06:45Z",
+  "pushed_at": "2026-05-31T09:06:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -140,6 +140,10 @@
     },
     {
       "date": "2026-05-30",
+      "stars": 497
+    },
+    {
+      "date": "2026-05-31",
       "stars": 497
     }
   ]
