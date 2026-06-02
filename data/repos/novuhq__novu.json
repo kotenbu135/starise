@@ -3,8 +3,8 @@
   "owner": "novuhq",
   "name": "novu",
   "full_name": "novuhq/novu",
-  "description": "The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.",
-  "description_ja": "オープンソースの通知インフラ。アプリ内Inboxコンポーネント、メール、SMS、プッシュ通知、Slack連携に対応。",
+  "description": "The open-source communication infrastructure for agents and products",
+  "description_ja": "",
   "url": "https://github.com/novuhq/novu",
   "homepage_url": "https://go.novu.co/github",
   "language": "TypeScript",
@@ -26,13 +26,13 @@
     "transactional",
     "typescript"
   ],
-  "star_count": 39054,
+  "star_count": 39058,
   "fork_count": 4301,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-26T15:22:44Z",
-  "updated_at": "2026-05-31T16:56:39Z",
-  "pushed_at": "2026-05-31T18:27:07Z",
+  "updated_at": "2026-06-01T19:56:40Z",
+  "pushed_at": "2026-06-01T18:53:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -142,6 +142,10 @@
     {
       "date": "2026-05-31",
       "stars": 39054
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 39058
     }
   ]
 }

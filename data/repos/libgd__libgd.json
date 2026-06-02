@@ -6,7 +6,7 @@
   "description": "GD Graphics Library",
   "description_ja": "GD グラフィックスライブラリ。",
   "url": "https://github.com/libgd/libgd",
-  "homepage_url": "https://libgd.org/",
+  "homepage_url": "https://libgd.github.io",
   "language": "C",
   "license": "NOASSERTION",
   "topics": [
@@ -16,6 +16,7 @@
     "c",
     "cross-platform",
     "graphics",
+    "hdr",
     "heic",
     "image",
     "image-processing",
@@ -24,6 +25,7 @@
     "macos",
     "png",
     "processing",
+    "qoi",
     "tiff",
     "vector",
     "webp",
@@ -34,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-01-22T08:50:57Z",
-  "updated_at": "2026-05-31T14:35:35Z",
-  "pushed_at": "2026-05-31T14:35:32Z",
+  "updated_at": "2026-06-01T14:57:24Z",
+  "pushed_at": "2026-06-01T14:31:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -144,6 +146,10 @@
     },
     {
       "date": "2026-05-31",
+      "stars": 972
+    },
+    {
+      "date": "2026-06-01",
       "stars": 972
     }
   ]

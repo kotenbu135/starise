@@ -1,0 +1,42 @@
+{
+  "repo_id": "R_kgDOJYpB6g",
+  "owner": "diohabara",
+  "name": "pychd",
+  "full_name": "diohabara/pychd",
+  "description": "Python .pyc decompiler (3.0–3.14) with a contamination-aware benchmark harness. Rule-only pass + one Codex call per module; evaluated on fuzz-synthetic (LLM-naïve) and *-obf (anonymised) corpora to put a number on the memorisation share. Three independent PyPI packages: pychd, pychd-pyfuzz, pychd-pyobf.",
+  "description_ja": "",
+  "url": "https://github.com/diohabara/pychd",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "ast",
+    "benchmark",
+    "bytecode",
+    "chatgpt-api",
+    "codex",
+    "cpython",
+    "data-contamination",
+    "decompiler",
+    "fuzzing",
+    "llm",
+    "obfuscation",
+    "pyc",
+    "python",
+    "reverse-engineering"
+  ],
+  "star_count": 49,
+  "fork_count": 7,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2023-04-19T04:59:30Z",
+  "updated_at": "2026-06-01T04:40:36Z",
+  "pushed_at": "2026-05-27T14:51:44Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-01",
+      "stars": 49
+    }
+  ]
+}

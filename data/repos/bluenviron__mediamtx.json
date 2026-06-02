@@ -3,8 +3,8 @@
   "owner": "bluenviron",
   "name": "mediamtx",
   "full_name": "bluenviron/mediamtx",
-  "description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
-  "description_ja": "映像・音声ストリームの読み取り、配信、プロキシ、録画、再生に対応した、すぐに使える SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP メディアサーバー兼メディアプロキシ",
+  "description": "Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+  "description_ja": "",
   "url": "https://github.com/bluenviron/mediamtx",
   "homepage_url": "https://mediamtx.org",
   "language": "Go",
@@ -13,6 +13,7 @@
     "go",
     "golang",
     "hls",
+    "media-over-quic",
     "media-server",
     "obs-studio",
     "rtcp",
@@ -29,13 +30,13 @@
     "webrtc",
     "webrtc-proxy"
   ],
-  "star_count": 18925,
-  "fork_count": 2235,
+  "star_count": 18933,
+  "fork_count": 2237,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-28T20:08:43Z",
-  "updated_at": "2026-05-31T14:36:58Z",
-  "pushed_at": "2026-05-31T17:40:35Z",
+  "updated_at": "2026-06-01T21:44:24Z",
+  "pushed_at": "2026-05-31T20:32:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -145,6 +146,10 @@
     {
       "date": "2026-05-31",
       "stars": 18925
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 18933
     }
   ]
 }

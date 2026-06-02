@@ -7,7 +7,7 @@
   "description_ja": "nodejs-argoはPaaSプラットフォームおよびゲームホスティング向けに設計された強力なArgoトンネルデプロイツール。VLESS・VMess・Trojanなど複数のプロキシプロトコルをサポートし、哪吒モニター機能を統合。npm install nodejs-argoでワンクリックインストール可能。",
   "url": "https://github.com/eooce/nodejs-argo",
   "homepage_url": "https://www.npmjs.com/package/nodejs-argo",
-  "language": "JavaScript",
+  "language": "HTML",
   "license": "",
   "topics": [
     "argo",
@@ -18,13 +18,13 @@
     "vmess-ws-tls",
     "xray"
   ],
-  "star_count": 7198,
-  "fork_count": 11239,
+  "star_count": 7380,
+  "fork_count": 11605,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-27T08:48:34Z",
-  "updated_at": "2026-05-31T16:33:35Z",
-  "pushed_at": "2026-05-31T08:00:00Z",
+  "updated_at": "2026-06-01T23:22:32Z",
+  "pushed_at": "2026-06-01T10:40:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +134,10 @@
     {
       "date": "2026-05-31",
       "stars": 7198
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 7380
     }
   ]
 }

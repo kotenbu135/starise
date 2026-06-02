@@ -7,7 +7,7 @@
   "description_ja": "GraphRAG-SDK と FalkorDB を使ったコードグラフデモ。",
   "url": "https://github.com/FalkorDB/code-graph",
   "homepage_url": "https://code-graph.falkordb.com",
-  "language": "TypeScript",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "code-graph",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-03T14:35:40Z",
-  "updated_at": "2026-05-28T21:50:09Z",
-  "pushed_at": "2026-05-30T06:24:07Z",
+  "updated_at": "2026-05-31T18:34:21Z",
+  "pushed_at": "2026-06-01T13:43:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +134,10 @@
     },
     {
       "date": "2026-05-31",
+      "stars": 309
+    },
+    {
+      "date": "2026-06-01",
       "stars": 309
     }
   ]

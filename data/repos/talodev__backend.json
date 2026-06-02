@@ -3,8 +3,8 @@
   "owner": "talodev",
   "name": "backend",
   "full_name": "talodev/backend",
-  "description": "A self-hostable game backend - the easiest way to integrate authentication, stats, leaderboards and (so much) more into your game",
-  "description_ja": "セルフホスト可能なゲームバックエンド。認証、統計、リーダーボードなど多数の機能をゲームに最も手軽に統合できる方法。",
+  "description": "A self-hostable game backend - the easiest way to add authentication, stats, leaderboards and (so much) more to your game",
+  "description_ja": "",
   "url": "https://github.com/TaloDev/backend",
   "homepage_url": "https://trytalo.com",
   "language": "TypeScript",
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-01-09T17:16:22Z",
-  "updated_at": "2026-05-30T01:45:36Z",
-  "pushed_at": "2026-05-31T07:34:18Z",
+  "updated_at": "2026-06-01T22:11:33Z",
+  "pushed_at": "2026-06-01T18:48:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -133,6 +133,10 @@
     },
     {
       "date": "2026-05-31",
+      "stars": 93
+    },
+    {
+      "date": "2026-06-01",
       "stars": 93
     }
   ]

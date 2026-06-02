@@ -3,23 +3,24 @@
   "owner": "panonim",
   "name": "dynacat",
   "full_name": "panonim/dynacat",
-  "description": "Dynacat is a dashboard focused on dynamic reloading and easy integrity with external applications. ",
+  "description": "Dynacat is a dashboard focused on dynamic reloading and easy integration with external applications. ",
   "description_ja": "",
   "url": "https://github.com/Panonim/dynacat",
-  "homepage_url": "http://dynacat.artur.zone/",
+  "homepage_url": "https://dynacat.artur.zone/",
   "language": "Go",
   "license": "AGPL-3.0",
   "topics": [
     "dashboard",
-    "docker"
+    "docker",
+    "go"
   ],
-  "star_count": 858,
-  "fork_count": 23,
+  "star_count": 877,
+  "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-04T15:27:54Z",
-  "updated_at": "2026-05-31T16:47:06Z",
-  "pushed_at": "2026-05-29T12:40:32Z",
+  "updated_at": "2026-06-01T23:31:43Z",
+  "pushed_at": "2026-06-01T21:16:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -109,6 +110,10 @@
     {
       "date": "2026-05-31",
       "stars": 858
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 877
     }
   ]
 }

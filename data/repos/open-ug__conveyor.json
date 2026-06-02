@@ -3,8 +3,8 @@
   "owner": "open-ug",
   "name": "conveyor",
   "full_name": "open-ug/conveyor",
-  "description": "Conveyor CI is a headless, cloud-native CI/CD orchestration engine.",
-  "description_ja": "Conveyor CIはヘッドレスかつクラウドネイティブなCI/CDオーケストレーションエンジンです。",
+  "description": "Conveyor CI is a headless Workflow orchestration engine.",
+  "description_ja": "",
   "url": "https://github.com/open-ug/conveyor",
   "homepage_url": "https://conveyor.open.ug",
   "language": "Go",
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-10T11:42:43Z",
-  "updated_at": "2026-05-31T13:21:03Z",
-  "pushed_at": "2026-05-31T13:20:58Z",
+  "updated_at": "2026-06-01T10:49:30Z",
+  "pushed_at": "2026-05-31T20:24:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -125,6 +125,10 @@
     },
     {
       "date": "2026-05-31",
+      "stars": 93
+    },
+    {
+      "date": "2026-06-01",
       "stars": 93
     }
   ]

@@ -1,0 +1,46 @@
+{
+  "repo_id": "R_kgDORRaSEw",
+  "owner": "violetcranberry",
+  "name": "coco-search",
+  "full_name": "violetcranberry/coco-search",
+  "description": "Local-first hybrid semantic code search tool. Indexes codebases into PostgreSQL with pgvector embeddings via Ollama, combines vector similarity + keyword   search with RRF fusion. Supports 30+ languages. Features CLI, MCP server, WEB dashboard and interactive REPL.",
+  "description_ja": "",
+  "url": "https://github.com/VioletCranberry/coco-search",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "cli",
+    "cocoindex",
+    "code-explorer",
+    "code-search",
+    "embeddings",
+    "hybrid-search",
+    "local-first",
+    "mcp",
+    "mcp-server",
+    "natural-language",
+    "ollama",
+    "pgvector",
+    "posgresql",
+    "python",
+    "rag",
+    "semantic-search",
+    "tree-sitter",
+    "vector-search"
+  ],
+  "star_count": 31,
+  "fork_count": 6,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-02-16T10:22:52Z",
+  "updated_at": "2026-06-01T21:47:19Z",
+  "pushed_at": "2026-06-01T21:47:19Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-01",
+      "stars": 31
+    }
+  ]
+}

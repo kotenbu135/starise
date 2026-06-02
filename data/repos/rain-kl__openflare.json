@@ -3,7 +3,7 @@
   "owner": "rain-kl",
   "name": "openflare",
   "full_name": "rain-kl/openflare",
-  "description": "轻量、自托管的 OpenResty 控制面，用于管理反向代理规则、配置发布、节点同步、TLS 证书与基础可观测能力。",
+  "description": "OpenFlare is an open-source CDN orchestration and edge security platform. It supports reverse proxies, centralized configuration synchronization, secure intranet penetration (Tunnels), dynamic WAF protection, and anti-CC challenges.",
   "description_ja": "",
   "url": "https://github.com/Rain-kl/OpenFlare",
   "homepage_url": "https://open-flare.pages.dev",
@@ -11,20 +11,24 @@
   "license": "Apache-2.0",
   "topics": [
     "cdn",
-    "distributed-systems",
+    "cloudflare",
+    "cloudflare-tunnel",
+    "frp",
     "golang",
+    "nat-traversal",
     "network",
-    "nextjs",
+    "openresty",
     "reverse-proxy",
+    "security",
     "waf"
   ],
-  "star_count": 130,
-  "fork_count": 30,
+  "star_count": 132,
+  "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-09T15:20:39Z",
-  "updated_at": "2026-05-31T14:16:56Z",
-  "pushed_at": "2026-05-31T14:16:52Z",
+  "updated_at": "2026-06-01T16:28:00Z",
+  "pushed_at": "2026-06-01T16:15:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +82,10 @@
     {
       "date": "2026-05-31",
       "stars": 130
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 132
     }
   ]
 }

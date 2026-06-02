@@ -3,18 +3,31 @@
   "owner": "a58361",
   "name": "ryze",
   "full_name": "a58361/ryze",
-  "description": "A reader-friendly blog starter with accessibility, SEO and responsiveness out of the box.",
+  "description": "Astro 6 starter for portfolio and blogs with static search, dynamic og images, mermaid support, rss, seo and much more",
   "description_ja": "",
   "url": "https://github.com/A58361/Ryze",
   "homepage_url": "https://ryze.pages.dev",
   "language": "Astro",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "topics": [
     "astro",
+    "astro-starter",
     "blog",
-    "markdown",
-    "responsive",
-    "static",
+    "developer-portfolio",
+    "gsap",
+    "jamstack",
+    "katex",
+    "mermaid",
+    "pagefind",
+    "personal-website",
+    "portfolio",
+    "react",
+    "rss",
+    "seo",
+    "shadcn",
+    "sitemap",
+    "starter-template",
+    "static-site",
     "tailwindcss",
     "typescript"
   ],
@@ -23,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-18T16:41:12Z",
-  "updated_at": "2026-04-30T18:38:50Z",
-  "pushed_at": "2026-05-30T13:11:31Z",
+  "updated_at": "2026-06-01T19:38:52Z",
+  "pushed_at": "2026-06-01T15:53:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -113,6 +126,10 @@
     },
     {
       "date": "2026-05-31",
+      "stars": 29
+    },
+    {
+      "date": "2026-06-01",
       "stars": 29
     }
   ]

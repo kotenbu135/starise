@@ -3,8 +3,8 @@
   "owner": "steamclienthomebrew",
   "name": "millennium",
   "full_name": "steamclienthomebrew/millennium",
-  "description": "An open-source low-code modding framework to create, manage and use themes/plugins for the desktop Steam Client without any low-level internal interaction or overhead.",
-  "description_ja": "デスクトップ Steam クライアント向けのテーマ・プラグインを作成・管理・利用するためのオープンソース低コード MOD フレームワーク。低レベルの内部操作やオーバーヘッドは一切不要。",
+  "description": "Open-source modding framework for creating and managing Steam Client themes and plugins.",
+  "description_ja": "",
   "url": "https://github.com/SteamClientHomebrew/Millennium",
   "homepage_url": "https://steambrew.app",
   "language": "C++",
@@ -19,13 +19,13 @@
     "themes",
     "valve"
   ],
-  "star_count": 3749,
+  "star_count": 3755,
   "fork_count": 142,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-30T18:06:18Z",
-  "updated_at": "2026-05-31T16:25:57Z",
-  "pushed_at": "2026-05-31T14:46:24Z",
+  "updated_at": "2026-06-01T23:36:29Z",
+  "pushed_at": "2026-06-01T16:06:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     {
       "date": "2026-05-31",
       "stars": 3749
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 3755
     }
   ]
 }

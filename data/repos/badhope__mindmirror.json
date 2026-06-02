@@ -3,30 +3,37 @@
   "owner": "badhope",
   "name": "mindmirror",
   "full_name": "badhope/mindmirror",
-  "description": "Open-source professional psychological assessment platform featuring MBTI, personality tests, cognitive evaluations and mental growth tracking",
+  "description": "MindMirror - Open-source professional psychological assessment platform. Big Five personality, stress (PSS-10), anxiety (GAD-7), mood tracking, and mental training programs.",
   "description_ja": "",
   "url": "https://github.com/badhope/MindMirror",
-  "homepage_url": "http://humanos.dpdns.org/",
+  "homepage_url": "https://mindmirror.app",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
+    "anxiety-assessment",
+    "big-five",
     "cognitive-assessment",
     "mbti",
     "mental-health",
-    "personality-test",
+    "mental-training",
+    "mood-tracker",
+    "open-source",
+    "personality-assessment",
+    "psychological-assessment",
     "psychology",
     "react",
+    "self-discovery",
     "self-improvement",
-    "typescript",
-    "web-app"
+    "stress-test",
+    "typescript"
   ],
-  "star_count": 65,
+  "star_count": 64,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T08:52:31Z",
-  "updated_at": "2026-05-28T18:05:32Z",
-  "pushed_at": "2026-05-31T13:15:09Z",
+  "updated_at": "2026-06-01T13:02:48Z",
+  "pushed_at": "2026-06-01T13:02:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -136,6 +143,10 @@
     {
       "date": "2026-05-31",
       "stars": 65
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 64
     }
   ]
 }

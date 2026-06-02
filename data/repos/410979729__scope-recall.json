@@ -3,7 +3,7 @@
   "owner": "410979729",
   "name": "scope-recall",
   "full_name": "410979729/scope-recall",
-  "description": "Hermes current-turn memory provider with SQLite truth storage, LanceDB semantic companion, and strong scope isolation.",
+  "description": "Hermes scoped memory provider with SQLite truth, LanceDB semantic recall, and nightly workflow digest.",
   "description_ja": "",
   "url": "https://github.com/410979729/scope-recall",
   "homepage_url": "",
@@ -24,13 +24,13 @@
     "sqlite",
     "vector-search"
   ],
-  "star_count": 45,
+  "star_count": 50,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-15T10:56:00Z",
-  "updated_at": "2026-05-31T16:34:47Z",
-  "pushed_at": "2026-05-31T13:22:01Z",
+  "updated_at": "2026-06-01T13:42:11Z",
+  "pushed_at": "2026-06-01T13:25:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -60,6 +60,10 @@
     {
       "date": "2026-05-31",
       "stars": 45
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 50
     }
   ]
 }

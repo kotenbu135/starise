@@ -3,20 +3,26 @@
   "owner": "serein431",
   "name": "codex-mate",
   "full_name": "serein431/codex-mate",
-  "description": "",
+  "description": "Local companion launcher and maintenance toolkit for the Codex desktop app.",
   "description_ja": "",
   "url": "https://github.com/serein431/Codex-Mate",
   "homepage_url": "",
   "language": "Python",
-  "license": "",
-  "topics": [],
-  "star_count": 119,
-  "fork_count": 7,
+  "license": "MIT",
+  "topics": [
+    "codex",
+    "desktop-app",
+    "developer-tools",
+    "launcher",
+    "openai"
+  ],
+  "star_count": 125,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-10T16:04:21Z",
-  "updated_at": "2026-05-31T14:26:05Z",
-  "pushed_at": "2026-05-30T15:30:28Z",
+  "updated_at": "2026-06-01T10:42:58Z",
+  "pushed_at": "2026-06-01T05:53:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +76,10 @@
     {
       "date": "2026-05-31",
       "stars": 119
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 125
     }
   ]
 }

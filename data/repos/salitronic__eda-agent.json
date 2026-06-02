@@ -3,20 +3,31 @@
   "owner": "salitronic",
   "name": "eda-agent",
   "full_name": "salitronic/eda-agent",
-  "description": "MCP server for Altium Designer,  150+ tools for schematic, PCB, and library automation via a persistent DelphiScript bridge. ",
+  "description": "Open-source MCP server for Altium Designer. 290+ tools for schematic, PCB, library \u0026 project automation over a persistent DelphiScript bridge: design review, audits, SVG render, connectivity-driven auto-placement, panelization, and an autonomous design-plan executor. Apache-2.0.",
   "description_ja": "",
   "url": "https://github.com/salitronic/eda-agent",
   "homepage_url": "https://salitronic.com/eda-agent",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 36,
-  "fork_count": 8,
+  "topics": [
+    "ai",
+    "altium",
+    "altium-designer",
+    "claude",
+    "delphiscript",
+    "eda",
+    "electronic-design-automation",
+    "mcp",
+    "model-context-protocol",
+    "pcb"
+  ],
+  "star_count": 38,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-16T19:09:52Z",
-  "updated_at": "2026-05-31T14:32:23Z",
-  "pushed_at": "2026-05-31T14:32:20Z",
+  "updated_at": "2026-06-01T13:50:58Z",
+  "pushed_at": "2026-06-01T10:04:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +45,10 @@
     {
       "date": "2026-05-31",
       "stars": 36
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 38
     }
   ]
 }

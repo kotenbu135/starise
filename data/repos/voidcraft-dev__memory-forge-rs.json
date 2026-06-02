@@ -3,7 +3,7 @@
   "owner": "voidcraft-dev",
   "name": "memory-forge-rs",
   "full_name": "voidcraft-dev/memory-forge-rs",
-  "description": "Stop resetting satisfying AI chats — edit the memory instead. Local session manager for Claude Code, Codex \u0026 OpenCode \u0026 Gemini CLI \u0026  Kiro CLI . Tauri + Rust, 100% offline - 记忆操控，可视化随意改写AI记忆",
+  "description": "Stop resetting satisfying AI chats — edit the memory instead. Local session manager for Claude Code, Codex \u0026 OpenCode \u0026 Gemini CLI \u0026  Kiro CLI \u0026 pi \u0026Cursor . Tauri + Rust, 100% offline - 记忆操控，可视化随意改写AI记忆",
   "description_ja": "",
   "url": "https://github.com/voidcraft-dev/memory-forge-rs",
   "homepage_url": "",
@@ -13,25 +13,27 @@
     "ai-tools",
     "claude-code",
     "codex",
+    "cursor",
     "desktop-app",
     "gemini-cli",
     "kiro-cli",
     "kiro-ide",
     "memory-editing",
     "opencode",
+    "pi",
     "react",
     "rust",
     "session-manager",
     "tauri",
     "typescript"
   ],
-  "star_count": 349,
+  "star_count": 353,
   "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-13T10:32:47Z",
-  "updated_at": "2026-05-31T08:40:34Z",
-  "pushed_at": "2026-05-27T23:12:39Z",
+  "updated_at": "2026-06-01T21:46:02Z",
+  "pushed_at": "2026-06-01T21:50:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +51,10 @@
     {
       "date": "2026-05-31",
       "stars": 349
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 353
     }
   ]
 }

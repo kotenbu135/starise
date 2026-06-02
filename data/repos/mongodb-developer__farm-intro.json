@@ -3,13 +3,16 @@
   "owner": "mongodb-developer",
   "name": "farm-intro",
   "full_name": "mongodb-developer/farm-intro",
-  "description": "Introducing FARM - FastAPI, React \u0026 MongoDB",
+  "description": "A full-stack FARM Stack to-do app built with FastAPI, React and MongoDB. Shows async CRUD, a React 18 frontend with Ant Design 5 and MongoDB-backed task persistence with local Docker and CI support.",
   "description_ja": "",
   "url": "https://github.com/mongodb-developer/FARM-Intro",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "asyncio-python",
+    "farm",
+    "farm-stack",
     "fastapi",
     "mongodb",
     "python",
@@ -20,8 +23,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-18T17:54:49Z",
-  "updated_at": "2026-05-26T16:11:12Z",
-  "pushed_at": "2026-05-27T06:47:39Z",
+  "updated_at": "2026-06-01T15:06:08Z",
+  "pushed_at": "2026-06-01T14:53:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +49,10 @@
     },
     {
       "date": "2026-05-31",
+      "stars": 217
+    },
+    {
+      "date": "2026-06-01",
       "stars": 217
     }
   ]

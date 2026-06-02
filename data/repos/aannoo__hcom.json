@@ -3,7 +3,7 @@
   "owner": "aannoo",
   "name": "hcom",
   "full_name": "aannoo/hcom",
-  "description": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode, Antigravity CLI",
+  "description": "Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo",
   "description_ja": "",
   "url": "https://github.com/aannoo/hcom",
   "homepage_url": "https://pypi.org/project/hcom/",
@@ -23,21 +23,21 @@
     "cli",
     "codex",
     "communication",
+    "cursor-ai",
     "developer-tools",
     "gemini-cli",
     "multi-agent",
     "opencode",
     "orchestration",
-    "subagents",
     "terminal"
   ],
-  "star_count": 315,
+  "star_count": 318,
   "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-21T02:32:38Z",
-  "updated_at": "2026-05-31T16:38:32Z",
-  "pushed_at": "2026-05-31T16:38:28Z",
+  "updated_at": "2026-06-01T18:54:14Z",
+  "pushed_at": "2026-06-01T18:54:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -63,6 +63,10 @@
     {
       "date": "2026-05-31",
       "stars": 315
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 318
     }
   ]
 }

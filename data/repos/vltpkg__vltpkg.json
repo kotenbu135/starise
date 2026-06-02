@@ -3,8 +3,8 @@
   "owner": "vltpkg",
   "name": "vltpkg",
   "full_name": "vltpkg/vltpkg",
-  "description": "the vlt monorepo",
-  "description_ja": "vlt モノレポ。",
+  "description": "the vlt package manager monorepo",
+  "description_ja": "",
   "url": "https://github.com/vltpkg/vltpkg",
   "homepage_url": "https://vlt.sh",
   "language": "TypeScript",
@@ -18,12 +18,12 @@
     "package-manager",
     "vlt"
   ],
-  "star_count": 517,
+  "star_count": 518,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-01T23:24:59Z",
-  "updated_at": "2026-05-29T10:24:05Z",
+  "updated_at": "2026-06-01T19:47:50Z",
   "pushed_at": "2026-05-22T04:15:35Z",
   "deleted_at": "",
   "star_history": [
@@ -130,6 +130,10 @@
     {
       "date": "2026-05-31",
       "stars": 517
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 518
     }
   ]
 }

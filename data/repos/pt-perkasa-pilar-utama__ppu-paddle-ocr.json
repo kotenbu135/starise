@@ -3,7 +3,7 @@
   "owner": "pt-perkasa-pilar-utama",
   "name": "ppu-paddle-ocr",
   "full_name": "pt-perkasa-pilar-utama/ppu-paddle-ocr",
-  "description": "Lightweight, probably the fastest PaddleOCR SDK in TypeScript. Runs anywhere JavaScript runs: Node.js, Bun, Deno, web browsers, and browser extensions. Docker \u0026 CLI supported. The official SDK is browser-only.",
+  "description": "Lightweight, probably the fastest PaddleOCR SDK in TypeScript. Multilingual Support. Runs anywhere JavaScript runs: Node.js, Bun, Deno, web browsers, and browser extensions. Docker \u0026 CLI supported. The official SDK is browser-only.",
   "description_ja": "",
   "url": "https://github.com/PT-Perkasa-Pilar-Utama/ppu-paddle-ocr",
   "homepage_url": "https://ppu-paddle-ocr.snowfluke.workers.dev/",
@@ -31,13 +31,13 @@
     "text-recognition",
     "typescript-ocr"
   ],
-  "star_count": 72,
+  "star_count": 73,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-08T09:26:34Z",
-  "updated_at": "2026-05-31T10:39:43Z",
-  "pushed_at": "2026-05-31T17:38:36Z",
+  "updated_at": "2026-06-01T15:56:56Z",
+  "pushed_at": "2026-06-01T15:41:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -143,6 +143,10 @@
     {
       "date": "2026-05-31",
       "stars": 72
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 73
     }
   ]
 }

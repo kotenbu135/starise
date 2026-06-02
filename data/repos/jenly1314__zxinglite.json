@@ -7,7 +7,7 @@
   "description_ja": "🔥 ZXingの軽量高速版。QRコード・バーコードのスキャンと生成を最適化し、フラッシュライト等の機能を内蔵。WeChat風ラインスタイルとAlipay風グリッドスタイルのスキャンスタイルに対応。数行のコードでスキャン機能を簡単に追加できます。",
   "url": "https://github.com/jenly1314/ZXingLite",
   "homepage_url": "https://jenly1314.github.io/ZXingLite/",
-  "language": "Java",
+  "language": "Kotlin",
   "license": "Apache-2.0",
   "topics": [
     "alipay-scan",
@@ -31,13 +31,13 @@
     "zxinglib",
     "zxinglibrary"
   ],
-  "star_count": 3354,
-  "fork_count": 510,
+  "star_count": 3355,
+  "fork_count": 511,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-08-09T09:27:04Z",
-  "updated_at": "2026-05-25T13:28:48Z",
-  "pushed_at": "2026-05-30T10:09:32Z",
+  "updated_at": "2026-06-01T08:07:18Z",
+  "pushed_at": "2026-06-01T06:44:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -147,6 +147,10 @@
     {
       "date": "2026-05-31",
       "stars": 3354
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 3355
     }
   ]
 }

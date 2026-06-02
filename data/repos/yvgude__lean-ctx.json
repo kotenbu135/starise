@@ -3,7 +3,7 @@
   "owner": "yvgude",
   "name": "lean-ctx",
   "full_name": "yvgude/lean-ctx",
-  "description": "LeanCTX — the cognitive context layer for agentic systems. 62 MCP tools, 10 read modes, 60+ shell patterns. Up to 99% token savings. Works with Cursor, Claude Code, Copilot, Windsurf, Codex, Gemini.",
+  "description": "LeanCTX — the Context OS for AI development. One local binary that compresses, remembers, routes, and verifies every token between your code and the model. 63 MCP tools, 10 read modes, up to 99% token savings. Works with Cursor, Claude Code, Copilot, Windsurf, Codex, Gemini.",
   "description_ja": "",
   "url": "https://github.com/yvgude/lean-ctx",
   "homepage_url": "https://leanctx.com",
@@ -27,13 +27,13 @@
     "rust",
     "token-optimization"
   ],
-  "star_count": 2291,
-  "fork_count": 241,
+  "star_count": 2334,
+  "fork_count": 242,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T19:48:59Z",
-  "updated_at": "2026-05-31T17:43:46Z",
-  "pushed_at": "2026-05-31T13:04:16Z",
+  "updated_at": "2026-06-01T23:17:46Z",
+  "pushed_at": "2026-06-01T22:30:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -143,6 +143,10 @@
     {
       "date": "2026-05-31",
       "stars": 2291
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 2334
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "superradcompany",
   "name": "microsandbox",
   "full_name": "superradcompany/microsandbox",
-  "description": "🧱 secure, local and programmable sandboxes for AI agents",
-  "description_ja": "🧱 AIエージェント向けの安全でローカルかつプログラマブルなサンドボックス",
+  "description": "🧱 local-first and microVM-backed programmable sandboxes for AI agents",
+  "description_ja": "",
   "url": "https://github.com/superradcompany/microsandbox",
   "homepage_url": "https://docs.microsandbox.dev",
   "language": "Rust",
@@ -29,13 +29,13 @@
     "vm",
     "windows"
   ],
-  "star_count": 6367,
-  "fork_count": 308,
+  "star_count": 6382,
+  "fork_count": 307,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-03T15:57:38Z",
-  "updated_at": "2026-05-31T17:31:15Z",
-  "pushed_at": "2026-05-31T18:48:59Z",
+  "updated_at": "2026-06-02T00:08:08Z",
+  "pushed_at": "2026-06-01T23:41:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -145,6 +145,10 @@
     {
       "date": "2026-05-31",
       "stars": 6367
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 6382
     }
   ]
 }

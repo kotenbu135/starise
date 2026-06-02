@@ -3,8 +3,8 @@
   "owner": "semianalysisai",
   "name": "inferencex",
   "full_name": "semianalysisai/inferencex",
-  "description": "Open Source Continuous Inference Benchmarking Qwen3.5, DeepSeek, GPTOSS - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 \u0026 soon™ TPUv6e/v7/Trainium2/3",
-  "description_ja": "オープンソースの継続的推論ベンチマーク。Qwen3.5、DeepSeek、GPTOSSを対象に、GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100、近日公開™ TPUv6e/v7/Trainium2/3",
+  "description": "Open Source Continuous Inference Benchmarking Kimi K2.6, DeepSeekv4, GLM5 - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 \u0026 soon™ TPUv6e/v7/Trainium2/3",
+  "description_ja": "",
   "url": "https://github.com/SemiAnalysisAI/InferenceX",
   "homepage_url": "https://inferencex.com/",
   "language": "Python",
@@ -22,13 +22,13 @@
     "sglang",
     "vllm"
   ],
-  "star_count": 1017,
-  "fork_count": 179,
+  "star_count": 1020,
+  "fork_count": 180,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-12T20:07:46Z",
-  "updated_at": "2026-05-31T13:41:14Z",
-  "pushed_at": "2026-05-31T18:48:48Z",
+  "updated_at": "2026-06-02T00:09:39Z",
+  "pushed_at": "2026-06-02T00:11:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -138,6 +138,10 @@
     {
       "date": "2026-05-31",
       "stars": 1017
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 1020
     }
   ]
 }

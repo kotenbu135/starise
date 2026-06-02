@@ -3,7 +3,7 @@
   "owner": "nvidia-ai-blueprints",
   "name": "video-search-and-summarization",
   "full_name": "nvidia-ai-blueprints/video-search-and-summarization",
-  "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
+  "description": "The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
   "description_ja": "",
   "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
   "homepage_url": "https://build.nvidia.com/nvidia/video-search-and-summarization",
@@ -18,13 +18,13 @@
     "video-search",
     "vlm"
   ],
-  "star_count": 1483,
-  "fork_count": 315,
+  "star_count": 1494,
+  "fork_count": 316,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-22T06:43:05Z",
-  "updated_at": "2026-05-31T16:43:59Z",
-  "pushed_at": "2026-05-31T17:57:31Z",
+  "updated_at": "2026-06-01T21:59:22Z",
+  "pushed_at": "2026-06-01T23:56:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +134,10 @@
     {
       "date": "2026-05-31",
       "stars": 1483
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 1494
     }
   ]
 }
