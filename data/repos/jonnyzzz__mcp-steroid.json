@@ -3,20 +3,27 @@
   "owner": "jonnyzzz",
   "name": "mcp-steroid",
   "full_name": "jonnyzzz/mcp-steroid",
-  "description": "MCP Steroid IntelliJ Plugin project page",
+  "description": "Give your AI Agent a whole IDE, not just the files",
   "description_ja": "",
   "url": "https://github.com/jonnyzzz/mcp-steroid",
-  "homepage_url": "",
+  "homepage_url": "https://mcp-steroid.jonnyzzz.com",
   "language": "Kotlin",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "agent-skill",
+    "agent-skills",
+    "agent-tools",
+    "agentic-ai",
+    "ide",
+    "mcp"
+  ],
   "star_count": 47,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-26T06:51:20Z",
-  "updated_at": "2026-06-02T08:53:07Z",
-  "pushed_at": "2026-06-02T08:53:03Z",
+  "updated_at": "2026-06-04T14:38:46Z",
+  "pushed_at": "2026-06-04T14:38:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -113,6 +120,10 @@
     },
     {
       "date": "2026-06-03",
+      "stars": 47
+    },
+    {
+      "date": "2026-06-04",
       "stars": 47
     }
   ]

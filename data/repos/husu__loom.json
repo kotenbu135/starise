@@ -6,16 +6,19 @@
   "description": "一个写接口文档的AI Agent。支持使用Vibe coding 的方式，编写接口文档，同时自带友好的文档查看工具与接口Mock工具",
   "description_ja": "",
   "url": "https://github.com/husu/loom",
-  "homepage_url": "",
+  "homepage_url": "https://loom.vegamo.cn",
   "language": "",
   "license": "",
-  "topics": [],
-  "star_count": 1017,
+  "topics": [
+    "ai-agent",
+    "sdd"
+  ],
+  "star_count": 1018,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-15T09:19:02Z",
-  "updated_at": "2026-06-03T15:36:08Z",
+  "updated_at": "2026-06-04T09:56:06Z",
   "pushed_at": "2026-05-28T02:20:35Z",
   "deleted_at": "",
   "star_history": [
@@ -26,6 +29,10 @@
     {
       "date": "2026-06-03",
       "stars": 1017
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 1018
     }
   ]
 }

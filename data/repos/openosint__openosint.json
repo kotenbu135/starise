@@ -3,7 +3,7 @@
   "owner": "openosint",
   "name": "openosint",
   "full_name": "openosint/openosint",
-  "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 9 tools. Works with Claude, GPT-4, or local models. For authorized security research only.",
+  "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or local models. For authorized security research only.",
   "description_ja": "",
   "url": "https://github.com/OpenOSINT/OpenOSINT",
   "homepage_url": "https://openosint.tech",
@@ -25,12 +25,12 @@
     "sherlock",
     "terminal"
   ],
-  "star_count": 479,
-  "fork_count": 88,
+  "star_count": 500,
+  "fork_count": 92,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-06T11:12:42Z",
-  "updated_at": "2026-06-03T20:53:54Z",
+  "updated_at": "2026-06-04T21:33:24Z",
   "pushed_at": "2026-06-03T14:36:32Z",
   "deleted_at": "",
   "star_history": [
@@ -89,6 +89,10 @@
     {
       "date": "2026-06-03",
       "stars": 479
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 500
     }
   ]
 }

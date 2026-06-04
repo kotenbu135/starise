@@ -3,7 +3,7 @@
   "owner": "bluenviron",
   "name": "mediamtx",
   "full_name": "bluenviron/mediamtx",
-  "description": "Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.",
+  "description": "Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio streams.",
   "description_ja": "",
   "url": "https://github.com/bluenviron/mediamtx",
   "homepage_url": "https://mediamtx.org",
@@ -30,13 +30,13 @@
     "webrtc",
     "webrtc-proxy"
   ],
-  "star_count": 18954,
-  "fork_count": 2238,
+  "star_count": 18959,
+  "fork_count": 2240,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-28T20:08:43Z",
-  "updated_at": "2026-06-03T21:40:28Z",
-  "pushed_at": "2026-06-03T21:40:22Z",
+  "updated_at": "2026-06-04T21:27:19Z",
+  "pushed_at": "2026-06-04T21:28:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -154,6 +154,10 @@
     {
       "date": "2026-06-03",
       "stars": 18954
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 18959
     }
   ]
 }

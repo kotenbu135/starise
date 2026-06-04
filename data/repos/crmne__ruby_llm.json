@@ -3,8 +3,8 @@
   "owner": "crmne",
   "name": "ruby_llm",
   "full_name": "crmne/ruby_llm",
-  "description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, Azure, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, xAI, GPUStack \u0026 OpenAI compatible APIs. Agents, Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming \u0026 Rails integration.",
-  "description_ja": "OpenAI、Anthropic、Gemini、Bedrock、Azure、OpenRouter、DeepSeek、Ollama、VertexAI、Perplexity、Mistral、xAI、GPUStack、およびOpenAI互換APIに対応した美しいRuby API。エージェント、チャット、Vision、Audio、PDF、画像、Embeddings、ツール、ストリーミング、Rails統合をサポート。",
+  "description": "One beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow in between.",
+  "description_ja": "",
   "url": "https://github.com/crmne/ruby_llm",
   "homepage_url": "https://rubyllm.com/",
   "language": "Ruby",
@@ -31,13 +31,13 @@
     "vertex-ai",
     "xai"
   ],
-  "star_count": 3979,
+  "star_count": 3981,
   "fork_count": 452,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-30T08:58:19Z",
-  "updated_at": "2026-06-03T14:58:57Z",
-  "pushed_at": "2026-06-02T23:16:57Z",
+  "updated_at": "2026-06-04T16:01:05Z",
+  "pushed_at": "2026-06-04T15:21:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -155,6 +155,10 @@
     {
       "date": "2026-06-03",
       "stars": 3979
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 3981
     }
   ]
 }

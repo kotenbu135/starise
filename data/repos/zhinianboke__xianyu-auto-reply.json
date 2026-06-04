@@ -3,20 +3,20 @@
   "owner": "zhinianboke",
   "name": "xianyu-auto-reply",
   "full_name": "zhinianboke/xianyu-auto-reply",
-  "description": "闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。",
+  "description": "闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。",
   "description_ja": "",
   "url": "https://github.com/zhinianboke/xianyu-auto-reply",
   "homepage_url": "https://xy.zhinianboke.com/",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [],
-  "star_count": 4868,
-  "fork_count": 1365,
+  "star_count": 4881,
+  "fork_count": 1367,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-24T04:04:11Z",
-  "updated_at": "2026-06-03T23:44:38Z",
-  "pushed_at": "2026-06-03T09:29:47Z",
+  "updated_at": "2026-06-04T19:30:50Z",
+  "pushed_at": "2026-06-04T15:16:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +98,10 @@
     {
       "date": "2026-06-03",
       "stars": 4868
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 4881
     }
   ]
 }

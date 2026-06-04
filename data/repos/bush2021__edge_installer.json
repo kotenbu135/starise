@@ -3,7 +3,7 @@
   "owner": "bush2021",
   "name": "edge_installer",
   "full_name": "bush2021/edge_installer",
-  "description": "Use GitHub Actions to automatically get Microsoft Edge offline installation package",
+  "description": "Auto-updated Microsoft Edge offline installers for Windows (Stable/Beta/Dev/Canary, x86/x64/ARM64) with direct links and SHA-256, via GitHub Actions",
   "description_ja": "",
   "url": "https://github.com/Bush2021/edge_installer",
   "homepage_url": "",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-14T00:25:07Z",
-  "updated_at": "2026-06-03T20:13:09Z",
-  "pushed_at": "2026-06-03T22:49:19Z",
+  "updated_at": "2026-06-04T21:27:09Z",
+  "pushed_at": "2026-06-04T21:27:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -117,6 +117,10 @@
     },
     {
       "date": "2026-06-03",
+      "stars": 311
+    },
+    {
+      "date": "2026-06-04",
       "stars": 311
     }
   ]

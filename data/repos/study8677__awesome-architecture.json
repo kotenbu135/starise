@@ -3,41 +3,41 @@
   "owner": "study8677",
   "name": "awesome-architecture",
   "full_name": "study8677/awesome-architecture",
-  "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
+  "description": "🧭 Architecture-first system design: 26 bilingual tutorials, 25 architecture templates, and 6 end-to-end cases covering distributed systems, AI-native systems, RAG, coding Agents, and production trade-offs.",
   "description_ja": "",
   "url": "https://github.com/study8677/awesome-architecture",
-  "homepage_url": "",
+  "homepage_url": "https://study8677.github.io/awesome-architecture/",
   "language": "Vue",
   "license": "MIT",
   "topics": [
     "ai-agents",
+    "ai-coding",
+    "ai-native",
     "architecture-decision-records",
     "architecture-patterns",
-    "awesome",
     "awesome-list",
     "backend",
     "c4-model",
-    "chinese",
     "design-patterns",
     "distributed-systems",
     "interview-preparation",
     "learning-resources",
+    "llm",
     "microservices",
+    "rag",
     "scalability",
     "software-architecture",
     "software-engineering",
     "system-design",
-    "system-design-interview",
-    "tech-interview",
-    "vue"
+    "system-design-interview"
   ],
-  "star_count": 1148,
-  "fork_count": 121,
+  "star_count": 1158,
+  "fork_count": 122,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-23T02:44:43Z",
-  "updated_at": "2026-06-03T20:03:01Z",
-  "pushed_at": "2026-05-30T14:10:48Z",
+  "updated_at": "2026-06-04T18:06:52Z",
+  "pushed_at": "2026-06-04T07:15:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -63,6 +63,10 @@
     {
       "date": "2026-06-03",
       "stars": 1148
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 1158
     }
   ]
 }

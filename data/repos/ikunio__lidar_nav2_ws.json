@@ -1,0 +1,44 @@
+{
+  "repo_id": "R_kgDOSZ9EJA",
+  "owner": "ikunio",
+  "name": "lidar_nav2_ws",
+  "full_name": "ikunio/lidar_nav2_ws",
+  "description": "基于 Livox MID-360 3D LiDAR 的 ROS 2 自主导航工作空间，集成 LIO 里程计、重定位、Nav2    导航，支持仿真与实机部署。",
+  "description_ja": "",
+  "url": "https://github.com/Ikunio/Lidar_nav2_ws",
+  "homepage_url": "",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "3d-lidar",
+    "fast-lio",
+    "gazebo-simulator",
+    "gicp",
+    "icp",
+    "lidar",
+    "livox-lidar",
+    "localization",
+    "mid360",
+    "nav2",
+    "point-cloud",
+    "relocalization",
+    "robotics",
+    "ros2",
+    "ros2-humble",
+    "slam"
+  ],
+  "star_count": 35,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-11T04:41:11Z",
+  "updated_at": "2026-06-04T13:02:56Z",
+  "pushed_at": "2026-06-01T14:45:39Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-04",
+      "stars": 35
+    }
+  ]
+}

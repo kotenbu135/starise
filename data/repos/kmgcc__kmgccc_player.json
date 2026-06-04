@@ -3,20 +3,20 @@
   "owner": "kmgcc",
   "name": "kmgccc_player",
   "full_name": "kmgcc/kmgccc_player",
-  "description": "一个开源 macOS 音乐播放器，采用 Liquid Glass 界面设计，支持 AMLL 歌词、实时音频可视化，并提供磁带艺术风格的播放界面。",
-  "description_ja": "Liquid Glassインターフェースデザインを採用し、AMLL歌詞・リアルタイム音声ビジュアライゼーション・カセットテープ風の再生UIを備えたオープンソースmacOS音楽プレーヤー。",
+  "description": "一个开源 macOS 本地音乐播放器，支持 AMLL 歌词、实时音频可视化，可选接入 Apple Music 等外部播放源，并提各种艺术风格的播放界面。",
+  "description_ja": "",
   "url": "https://github.com/kmgcc/kmgccc_player",
-  "homepage_url": "https://kmgcc.github.io/kmgccc_player/",
+  "homepage_url": "https://player.kmgccc.cn",
   "language": "Swift",
   "license": "AGPL-3.0",
   "topics": [],
-  "star_count": 190,
-  "fork_count": 7,
+  "star_count": 191,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-07T13:16:24Z",
-  "updated_at": "2026-06-02T14:36:35Z",
-  "pushed_at": "2026-04-14T12:31:17Z",
+  "updated_at": "2026-06-04T15:55:43Z",
+  "pushed_at": "2026-06-04T15:55:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +134,10 @@
     {
       "date": "2026-06-03",
       "stars": 190
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 191
     }
   ]
 }

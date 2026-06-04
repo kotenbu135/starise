@@ -6,7 +6,7 @@
   "description": "Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands.",
   "description_ja": "Ruroco は UDP パケットを送信することでサーバー上のコマンドを実行できるツールです。コマンドはサーバー側で設定されるため、クライアントは実行内容を定義するのではなく、既存のコマンドから選択するだけです。",
   "url": "https://github.com/beac0n/ruroco",
-  "homepage_url": "",
+  "homepage_url": "https://beac0n.github.io/ruroco/",
   "language": "Rust",
   "license": "MIT",
   "topics": [],
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-12T07:42:40Z",
-  "updated_at": "2026-05-30T20:16:17Z",
-  "pushed_at": "2026-05-30T20:16:13Z",
+  "updated_at": "2026-06-04T15:11:45Z",
+  "pushed_at": "2026-06-04T15:07:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -133,6 +133,10 @@
     },
     {
       "date": "2026-06-03",
+      "stars": 555
+    },
+    {
+      "date": "2026-06-04",
       "stars": 555
     }
   ]

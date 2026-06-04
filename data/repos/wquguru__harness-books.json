@@ -3,19 +3,29 @@
   "owner": "wquguru",
   "name": "harness-books",
   "full_name": "wquguru/harness-books",
-  "description": "",
+  "description": "📚 Two books on harness engineering — the design philosophies behind Claude Code \u0026 Codex: constraints, query loops, context governance, multi-agent verification. harness-books.agentway.dev",
   "description_ja": "",
   "url": "https://github.com/wquguru/harness-books",
   "homepage_url": "http://harness-books.agentway.dev/",
   "language": "Python",
   "license": "",
-  "topics": [],
-  "star_count": 2389,
-  "fork_count": 279,
+  "topics": [
+    "agentic-ai",
+    "ai-agents",
+    "ai-engineering",
+    "claude-code",
+    "codex",
+    "context-engineering",
+    "developer-tools",
+    "llm",
+    "prompt-engineering"
+  ],
+  "star_count": 2394,
+  "fork_count": 280,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-01T04:30:32Z",
-  "updated_at": "2026-06-03T22:17:22Z",
+  "updated_at": "2026-06-04T15:22:46Z",
   "pushed_at": "2026-04-19T03:01:21Z",
   "deleted_at": "",
   "star_history": [
@@ -134,6 +144,10 @@
     {
       "date": "2026-06-03",
       "stars": 2389
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 2394
     }
   ]
 }

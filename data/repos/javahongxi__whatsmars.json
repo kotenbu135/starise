@@ -10,22 +10,22 @@
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [
-    "distributed-rpc",
     "dubbo",
     "elastic-job",
     "elasticsearch",
+    "grpc",
     "java",
     "kafka",
-    "lambda",
-    "log4j2",
     "microservices",
+    "nacos",
+    "netty",
     "redis",
     "rocketmq",
     "rpc",
-    "rpc-framework",
     "sentinel",
     "sharding-jdbc",
     "spring",
+    "spring-ai",
     "spring-boot",
     "spring-mvc",
     "tomcat",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-04-01T10:33:04Z",
-  "updated_at": "2026-06-02T05:23:54Z",
-  "pushed_at": "2026-06-02T05:23:49Z",
+  "updated_at": "2026-06-04T21:49:00Z",
+  "pushed_at": "2026-06-04T01:43:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -154,6 +154,10 @@
     },
     {
       "date": "2026-06-03",
+      "stars": 1962
+    },
+    {
+      "date": "2026-06-04",
       "stars": 1962
     }
   ]

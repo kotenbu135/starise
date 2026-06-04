@@ -3,7 +3,7 @@
   "owner": "benseverndev-oss",
   "name": "goldenmatch",
   "full_name": "benseverndev-oss/goldenmatch",
-  "description": "Polyglot entity-resolution + data-quality suite. Python toolkit (fuzzy + exact + probabilistic dedupe, identity graph, PPRL, LLM boost) and a full TypeScript port on npm: goldenmatch, goldencheck, goldenflow, infermap, goldenpipe. SQL-native at parity in PostgreSQL and DuckDB. Zero-config auto-tuning, MCP/REST/A2A servers, dbt + Airflow recipes.",
+  "description": "Zero-config entity resolution that scales from a CSV to 100M+ rows on a Ray cluster (verified: 100M deduped in 213s, 0.30 GB driver). Fuzzy + exact + probabilistic dedupe, identity graph, PPRL, LLM boost. Python + full TypeScript port; SQL-native in PostgreSQL \u0026 DuckDB; MCP/REST servers, dbt + Airflow recipes.",
   "description_ja": "",
   "url": "https://github.com/benseverndev-oss/goldenmatch",
   "homepage_url": "https://bensevern.dev/",
@@ -31,13 +31,13 @@
     "typescript",
     "zero-config"
   ],
-  "star_count": 74,
+  "star_count": 77,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T20:13:08Z",
-  "updated_at": "2026-06-03T22:23:36Z",
-  "pushed_at": "2026-06-03T22:23:32Z",
+  "updated_at": "2026-06-04T19:10:49Z",
+  "pushed_at": "2026-06-04T21:13:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +71,10 @@
     {
       "date": "2026-06-03",
       "stars": 74
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 77
     }
   ]
 }
