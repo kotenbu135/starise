@@ -3,8 +3,8 @@
   "owner": "nicksp",
   "name": "dotfiles",
   "full_name": "nicksp/dotfiles",
-  "description": "My personal dotfiles: Zsh, Git, VSCode, Obsidian, Ghostty, etc.",
-  "description_ja": "個人のdotfiles: Zsh、Git、VSCode、Obsidian、Ghosttyなど",
+  "description": "My personal dotfiles: Zsh, Git, VSCode, Obsidian, Ghostty, cmux, etc.",
+  "description_ja": "",
   "url": "https://github.com/nicksp/dotfiles",
   "homepage_url": "https://github.com/nicksp/dotfiles",
   "language": "Shell",
@@ -13,6 +13,7 @@
     "agentic-ai-development",
     "ai-agents",
     "amp",
+    "cmux",
     "configuration",
     "dotfiles",
     "environment",
@@ -28,13 +29,13 @@
     "vscode",
     "zsh"
   ],
-  "star_count": 443,
+  "star_count": 445,
   "fork_count": 103,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-03-20T02:31:23Z",
-  "updated_at": "2026-06-01T23:19:54Z",
-  "pushed_at": "2026-06-01T23:19:50Z",
+  "updated_at": "2026-06-03T18:17:39Z",
+  "pushed_at": "2026-06-03T18:16:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -144,6 +145,10 @@
     {
       "date": "2026-06-01",
       "stars": 443
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 445
     }
   ]
 }

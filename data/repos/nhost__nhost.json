@@ -7,7 +7,7 @@
   "description_ja": "GraphQLを備えたFirebaseのオープンソース代替",
   "url": "https://github.com/nhost/nhost",
   "homepage_url": "https://nhost.io",
-  "language": "TypeScript",
+  "language": "Go",
   "license": "MIT",
   "topics": [
     "authentication",
@@ -30,13 +30,13 @@
     "typescript",
     "vue"
   ],
-  "star_count": 9171,
-  "fork_count": 585,
+  "star_count": 9178,
+  "fork_count": 587,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-02-09T13:33:34Z",
-  "updated_at": "2026-06-01T21:39:56Z",
-  "pushed_at": "2026-06-01T23:00:35Z",
+  "updated_at": "2026-06-03T21:20:11Z",
+  "pushed_at": "2026-06-03T23:07:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -150,6 +150,10 @@
     {
       "date": "2026-06-01",
       "stars": 9171
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 9178
     }
   ]
 }

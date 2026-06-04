@@ -3,7 +3,7 @@
   "owner": "agents365-ai",
   "name": "drawio-skill",
   "full_name": "agents365-ai/drawio-skill",
-  "description": "Generate draw.io diagrams from natural language with 6 presets and a 2-round self-check loop. Exports to PNG/SVG/PDF/JPG.",
+  "description": "Generate draw.io diagrams from natural language — 6 presets, vision self-check + up to 5-round refinement, codebase-to-diagram, 10,000+ official shapes \u0026 321 AI/LLM brand logos. Exports PNG/SVG/PDF/JPG.",
   "description_ja": "",
   "url": "https://github.com/Agents365-ai/drawio-skill",
   "homepage_url": "https://agents365-ai.github.io/drawio-skill/",
@@ -26,13 +26,13 @@
     "skillsmp",
     "uml"
   ],
-  "star_count": 2020,
-  "fork_count": 124,
+  "star_count": 2076,
+  "fork_count": 127,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T16:54:59Z",
-  "updated_at": "2026-06-01T18:04:31Z",
-  "pushed_at": "2026-05-19T06:33:35Z",
+  "updated_at": "2026-06-03T22:33:24Z",
+  "pushed_at": "2026-06-03T16:53:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +130,10 @@
     {
       "date": "2026-06-01",
       "stars": 2020
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 2076
     }
   ]
 }

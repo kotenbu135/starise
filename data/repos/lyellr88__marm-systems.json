@@ -3,7 +3,7 @@
   "owner": "lyellr88",
   "name": "marm-systems",
   "full_name": "lyellr88/marm-systems",
-  "description": "Stop re-explaining yourself to your AI. MARM gives every session persistent memory, cross-agent context sharing, and structured reasoning that builds as you work. Includes a live web dashboard for browsing memories, logs, and sessions without touching the CLI. MCP connects over HTTP \u0026  STDIO to fit most stacks or deployments.",
+  "description": "Stop re-explaining yourself to AI. MARM offers persistent memory, cross-agent context sharing, write queues, swarm-ready presets, and compaction for clean recall. Includes a live web dashboard for managing memories, logs, and sessions. MCP connects over HTTP \u0026 STDIO and works with major LLMs like Claude, Codex, Grok, Gemini, and other models. ",
   "description_ja": "",
   "url": "https://github.com/Lyellr88/MARM-Systems",
   "homepage_url": "",
@@ -19,19 +19,22 @@
     "gemini-cli",
     "knowledge-based-systems",
     "mcp",
+    "mcp-protocol",
     "mcp-server",
+    "mcp-service",
+    "mcp-tools",
     "memory-management",
     "openai",
     "opensource",
     "semantic-search"
   ],
-  "star_count": 295,
-  "fork_count": 52,
+  "star_count": 297,
+  "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-10T06:36:49Z",
-  "updated_at": "2026-06-01T23:28:43Z",
-  "pushed_at": "2026-06-01T10:57:53Z",
+  "updated_at": "2026-06-03T12:41:00Z",
+  "pushed_at": "2026-06-03T09:07:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -141,6 +144,10 @@
     {
       "date": "2026-06-01",
       "stars": 295
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 297
     }
   ]
 }

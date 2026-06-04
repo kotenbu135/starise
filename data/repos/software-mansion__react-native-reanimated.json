@@ -6,22 +6,26 @@
   "description": "React Native's Animated library reimplemented",
   "description_ja": "React Native の Animated ライブラリを再実装したもの。",
   "url": "https://github.com/software-mansion/react-native-reanimated",
-  "homepage_url": "https://docs.swmansion.com/react-native-reanimated/",
+  "homepage_url": "http://docs.swmansion.com/react-native-reanimated/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "animation",
     "gesture",
     "javascript",
-    "react-native"
+    "multithreading",
+    "react-native",
+    "react-native-reanimated",
+    "react-native-worklets",
+    "worklets"
   ],
-  "star_count": 10872,
-  "fork_count": 1479,
+  "star_count": 10877,
+  "fork_count": 1480,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-04-25T06:35:29Z",
-  "updated_at": "2026-06-01T14:42:55Z",
-  "pushed_at": "2026-06-01T23:16:14Z",
+  "updated_at": "2026-06-03T19:54:54Z",
+  "pushed_at": "2026-06-03T22:30:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +139,10 @@
     {
       "date": "2026-06-01",
       "stars": 10872
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 10877
     }
   ]
 }

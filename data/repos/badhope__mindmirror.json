@@ -3,37 +3,41 @@
   "owner": "badhope",
   "name": "mindmirror",
   "full_name": "badhope/mindmirror",
-  "description": "MindMirror - Open-source professional psychological assessment platform. Big Five personality, stress (PSS-10), anxiety (GAD-7), mood tracking, and mental training programs.",
+  "description": "Open-source, self-hostable, privacy-first psychological assessment platform. Big Five (IPIP/NEO-PI-R), PSS-10 stress, GAD-7 anxiety, mood tracker \u0026 mental training. EN / 中文. MIT.",
   "description_ja": "",
   "url": "https://github.com/badhope/MindMirror",
-  "homepage_url": "https://mindmirror.app",
+  "homepage_url": "https://badhope.github.io/MindMirror/",
   "language": "TypeScript",
-  "license": "NOASSERTION",
+  "license": "MIT",
   "topics": [
     "anxiety-assessment",
     "big-five",
-    "cognitive-assessment",
-    "mbti",
+    "cbt",
+    "gad-7",
+    "ipip",
     "mental-health",
     "mental-training",
     "mood-tracker",
-    "open-source",
+    "neo-pi-r",
+    "ocean",
     "personality-assessment",
-    "psychological-assessment",
+    "pss-10",
     "psychology",
     "react",
     "self-discovery",
-    "self-improvement",
+    "self-hosted",
     "stress-test",
-    "typescript"
+    "tailwindcss",
+    "typescript",
+    "vite"
   ],
   "star_count": 64,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T08:52:31Z",
-  "updated_at": "2026-06-01T13:02:48Z",
-  "pushed_at": "2026-06-01T13:02:02Z",
+  "updated_at": "2026-06-03T15:17:39Z",
+  "pushed_at": "2026-06-03T18:59:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -146,6 +150,10 @@
     },
     {
       "date": "2026-06-01",
+      "stars": 64
+    },
+    {
+      "date": "2026-06-03",
       "stars": 64
     }
   ]

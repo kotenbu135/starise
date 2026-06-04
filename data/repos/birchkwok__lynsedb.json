@@ -3,11 +3,11 @@
   "owner": "birchkwok",
   "name": "lynsedb",
   "full_name": "birchkwok/lynsedb",
-  "description": "A pure Python-implemented, lightweight, server-optional, multi-end compatible, vector database deployable locally or remotely.",
-  "description_ja": "純粋なPythonで実装された、軽量・サーバー任意・マルチエンド対応のベクターデータベース。ローカルまたはリモートにデプロイ可能。",
+  "description": "A high performance,lightweight vector database with a Python-first API and a Rust storage/search backend. ",
+  "description_ja": "",
   "url": "https://github.com/BirchKwok/lynsedb",
   "homepage_url": "https://birchkwok.github.io/lynsedb/",
-  "language": "Python",
+  "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
     "approximate-nearest-neighbor-search",
@@ -16,11 +16,9 @@
     "image-search",
     "knn-algorithm",
     "llm-chain",
-    "matching",
+    "llm-tools",
     "nearest-neighbor-search",
     "neural-search",
-    "nlp",
-    "pure-python",
     "rag",
     "recommender-system",
     "search",
@@ -35,8 +33,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-15T07:32:36Z",
-  "updated_at": "2026-04-22T22:59:57Z",
-  "pushed_at": "2026-06-01T02:33:21Z",
+  "updated_at": "2026-06-03T22:49:44Z",
+  "pushed_at": "2026-06-03T22:50:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -145,6 +143,10 @@
     },
     {
       "date": "2026-06-01",
+      "stars": 40
+    },
+    {
+      "date": "2026-06-03",
       "stars": 40
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "shanteacontrols",
   "name": "opendeck",
   "full_name": "shanteacontrols/opendeck",
-  "description": "Software and hardware platform for simpler building of MIDI and OSC controllers based on Zephyr RTOS.",
+  "description": "A platform for building interactive control and sensing devices using MIDI and OSC built with Zephyr RTOS.",
   "description_ja": "",
   "url": "https://github.com/shanteacontrols/OpenDeck",
   "homepage_url": "https://shanteacontrols.com",
@@ -18,13 +18,13 @@
     "zephyr",
     "zephyr-rtos"
   ],
-  "star_count": 912,
+  "star_count": 913,
   "fork_count": 63,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-05-03T16:32:32Z",
-  "updated_at": "2026-06-01T21:18:07Z",
-  "pushed_at": "2026-06-01T21:17:28Z",
+  "updated_at": "2026-06-03T21:39:07Z",
+  "pushed_at": "2026-06-03T21:39:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -138,6 +138,10 @@
     {
       "date": "2026-06-01",
       "stars": 912
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 913
     }
   ]
 }

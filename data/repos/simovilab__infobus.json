@@ -3,17 +3,16 @@
   "owner": "simovilab",
   "name": "infobus",
   "full_name": "simovilab/infobus",
-  "description": "Information distribution platform providing GraphQL and REST APIs for passenger transit information services",
-  "description_ja": "旅客交通情報サービス向けにGraphQLおよびREST APIを提供する情報配信プラットフォーム",
+  "description": "Information distribution platform for passenger transit information services using GTFS Schedule and GTFS Realtime",
+  "description_ja": "",
   "url": "https://github.com/simovilab/infobus",
-  "homepage_url": "http://infobus.bucr.digital/",
+  "homepage_url": "http://infobus.simovilab.com/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
     "api",
     "celery",
     "django",
-    "graphql",
     "gtfs"
   ],
   "star_count": 94,
@@ -21,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-14T16:07:38Z",
-  "updated_at": "2026-06-01T17:01:34Z",
-  "pushed_at": "2026-06-01T19:04:15Z",
+  "updated_at": "2026-06-03T19:56:38Z",
+  "pushed_at": "2026-06-03T18:29:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -131,6 +130,10 @@
     },
     {
       "date": "2026-06-01",
+      "stars": 94
+    },
+    {
+      "date": "2026-06-03",
       "stars": 94
     }
   ]

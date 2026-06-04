@@ -3,8 +3,8 @@
   "owner": "sickn33",
   "name": "antigravity-awesome-skills",
   "full_name": "sickn33/antigravity-awesome-skills",
-  "description": "Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill collections.",
-  "description_ja": "Claude Code、Cursor、Codex CLI、Gemini CLI、Antigravityなどに対応した1,400以上のエージェントスキルを収録したインストール可能なGitHubライブラリ。インストーラーCLI、バンドル、ワークフロー、公式・コミュニティスキルコレクションを含みます。",
+  "description": "Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.",
+  "description_ja": "",
   "url": "https://github.com/sickn33/antigravity-awesome-skills",
   "homepage_url": "https://sickn33.github.io/antigravity-awesome-skills/",
   "language": "Python",
@@ -31,13 +31,13 @@
     "mcp",
     "skill-library"
   ],
-  "star_count": 39404,
-  "fork_count": 6392,
+  "star_count": 39624,
+  "fork_count": 6423,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-14T17:48:09Z",
-  "updated_at": "2026-06-01T23:54:16Z",
-  "pushed_at": "2026-06-01T08:54:05Z",
+  "updated_at": "2026-06-04T00:08:23Z",
+  "pushed_at": "2026-06-03T14:50:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -151,6 +151,10 @@
     {
       "date": "2026-06-01",
       "stars": 39404
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 39624
     }
   ]
 }

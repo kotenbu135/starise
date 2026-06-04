@@ -3,8 +3,8 @@
   "owner": "playdate-go",
   "name": "pdgo",
   "full_name": "playdate-go/pdgo",
-  "description": "🟡 Golang for Playdate. Compiler, SDK Bindings, Tools and Examples ⚒️",
-  "description_ja": "Playdate 向け Golang。コンパイラ、SDK バインディング、ツール、サンプルを提供。",
+  "description": "🟡 Golang for Playdate. Compiler, SDK Bindings, Tools and Examples ⚒️ -- Win, macOS, Linux",
+  "description_ja": "",
   "url": "https://github.com/playdate-go/pdgo",
   "homepage_url": "https://devforum.play.date/t/golang-support-for-playdate-compiler-sdk-bindings-tools-and-examples/24919",
   "language": "Go",
@@ -32,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-24T16:35:05Z",
-  "updated_at": "2026-06-01T23:20:29Z",
-  "pushed_at": "2026-06-02T00:08:34Z",
+  "updated_at": "2026-06-02T01:10:52Z",
+  "pushed_at": "2026-06-02T00:51:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -142,6 +142,10 @@
     },
     {
       "date": "2026-06-01",
+      "stars": 63
+    },
+    {
+      "date": "2026-06-03",
       "stars": 63
     }
   ]

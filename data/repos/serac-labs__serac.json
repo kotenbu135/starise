@@ -3,7 +3,7 @@
   "owner": "serac-labs",
   "name": "serac",
   "full_name": "serac-labs/serac",
-  "description": "AI-powered ServiceNow development with 400+ MCP tools. Works with Claude, GPT, Gemini, Ollama \u0026 75+ providers. Deploy widgets, manage incidents, automate workflows - all through natural language. Open-source Build Agent alternative.",
+  "description": "Serac — open-source AI build agent for ServiceNow. 400+ MCP tools, bring-your-own LLM keys (Claude/GPT/Gemini/Ollama). Read a story, ship the update set.",
   "description_ja": "",
   "url": "https://github.com/serac-labs/serac",
   "homepage_url": "https://serac.build",
@@ -12,15 +12,25 @@
   "topics": [
     "ai",
     "ai-agent",
-    "servicenow"
+    "bring-your-own-key",
+    "cli",
+    "developer-tools",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "opencode",
+    "servicenow",
+    "servicenow-development",
+    "typescript",
+    "update-set"
   ],
-  "star_count": 72,
+  "star_count": 74,
   "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-16T06:50:17Z",
-  "updated_at": "2026-05-30T10:54:38Z",
-  "pushed_at": "2026-05-29T21:22:18Z",
+  "updated_at": "2026-06-03T19:02:41Z",
+  "pushed_at": "2026-06-03T19:02:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +144,10 @@
     {
       "date": "2026-06-01",
       "stars": 72
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 74
     }
   ]
 }

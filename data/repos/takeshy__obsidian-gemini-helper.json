@@ -3,8 +3,8 @@
   "owner": "takeshy",
   "name": "obsidian-gemini-helper",
   "full_name": "takeshy/obsidian-gemini-helper",
-  "description": "AI assistant with chat, workflow automation, and semantic search (RAG). Powered by Gemini API or CLI tools.",
-  "description_ja": "チャット・ワークフロー自動化・セマンティック検索（RAG）を備えたAIアシスタント。Gemini APIまたはCLIツールで動作します。",
+  "description": "AI assistant with chat, workflow automation, and semantic search (RAG). Powered by Gemini API.",
+  "description_ja": "",
   "url": "https://github.com/takeshy/obsidian-gemini-helper",
   "homepage_url": "",
   "language": "TypeScript",
@@ -16,13 +16,13 @@
     "visualization-workflow",
     "workflow-automation"
   ],
-  "star_count": 93,
-  "fork_count": 8,
+  "star_count": 94,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-10T10:04:23Z",
-  "updated_at": "2026-06-01T12:48:58Z",
-  "pushed_at": "2026-06-01T03:44:34Z",
+  "updated_at": "2026-06-03T14:09:33Z",
+  "pushed_at": "2026-06-03T14:00:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -136,6 +136,10 @@
     {
       "date": "2026-06-01",
       "stars": 93
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 94
     }
   ]
 }

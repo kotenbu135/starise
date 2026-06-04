@@ -3,7 +3,7 @@
   "owner": "barghest-ngo",
   "name": "mesh",
   "full_name": "barghest-ngo/mesh",
-  "description": "MESH enables internet-routable wireless ADB debugging for Android through an encrypted, censorship-resistant peer-to-peer mesh network, supporting mobile forensics and network monitoring beyond the limits of local Wi-Fi or LAN access.",
+  "description": "MESH enables internet-routable wireless ADB debugging for Android through an end-to-end encrypted, censorship-resistant mesh network, supporting mobile forensics and network monitoring beyond the limits of local Wi-Fi or LAN access.",
   "description_ja": "",
   "url": "https://github.com/BARGHEST-ngo/MESH",
   "homepage_url": "https://barghest.asia",
@@ -23,13 +23,13 @@
     "p2p",
     "spyware-detection"
   ],
-  "star_count": 100,
-  "fork_count": 11,
+  "star_count": 101,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-27T11:13:42Z",
-  "updated_at": "2026-06-01T05:14:20Z",
-  "pushed_at": "2026-06-01T12:01:44Z",
+  "updated_at": "2026-06-03T16:09:13Z",
+  "pushed_at": "2026-06-03T16:07:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +43,10 @@
     {
       "date": "2026-06-01",
       "stars": 100
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 101
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "vivekchand",
   "name": "clawmetry",
   "full_name": "vivekchand/clawmetry",
-  "description": "See your agent think. Real-time observability dashboard for OpenClaw AI agents.",
-  "description_ja": "エージェントの思考をリアルタイムで可視化。OpenClaw AI エージェント向けのリアルタイム監視ダッシュボード。",
+  "description": "See your agent think. Real-time observability for 12 AI agent runtimes — OpenClaw, NVIDIA NemoClaw, Claude Code, Codex \u0026 8 more.",
+  "description_ja": "",
   "url": "https://github.com/vivekchand/clawmetry",
   "homepage_url": "https://clawmetry.com",
   "language": "Python",
@@ -19,13 +19,13 @@
     "opentelemetry",
     "python"
   ],
-  "star_count": 360,
+  "star_count": 364,
   "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-13T06:49:19Z",
-  "updated_at": "2026-06-01T21:19:41Z",
-  "pushed_at": "2026-06-01T21:19:38Z",
+  "updated_at": "2026-06-04T00:25:32Z",
+  "pushed_at": "2026-06-04T00:25:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -139,6 +139,10 @@
     {
       "date": "2026-06-01",
       "stars": 360
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 364
     }
   ]
 }

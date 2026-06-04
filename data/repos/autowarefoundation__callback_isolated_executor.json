@@ -6,7 +6,7 @@
   "description": "The ComponentContainer and Executor that assign a dedicated thread for each callback group.",
   "description_ja": "各コールバックグループに専用スレッドを割り当てるComponentContainerとExecutor。",
   "url": "https://github.com/autowarefoundation/callback_isolated_executor",
-  "homepage_url": "",
+  "homepage_url": "https://autowarefoundation.github.io/callback_isolated_executor_doc/",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-20T06:05:04Z",
-  "updated_at": "2026-04-24T06:55:17Z",
-  "pushed_at": "2026-04-22T21:41:56Z",
+  "updated_at": "2026-06-03T10:22:30Z",
+  "pushed_at": "2026-06-03T10:22:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     },
     {
       "date": "2026-06-01",
+      "stars": 71
+    },
+    {
+      "date": "2026-06-03",
       "stars": 71
     }
   ]

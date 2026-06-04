@@ -3,8 +3,8 @@
   "owner": "litecanvas",
   "name": "game-engine",
   "full_name": "litecanvas/game-engine",
-  "description": "Lightweight (~4kb) HTML5 canvas 2D engine suitable for small games, prototypes, creative coding, etc.",
-  "description_ja": "小規模ゲーム、プロトタイプ、クリエイティブコーディングなどに適した軽量（約4KB）HTML5 canvas 2Dエンジン。",
+  "description": "Lightweight (~4kb) HTML5 canvas engine suitable for small games, animations and creative programming for people who enjoy coding. No dependencies.",
+  "description_ja": "",
   "url": "https://github.com/litecanvas/game-engine",
   "homepage_url": "https://litecanvas.js.org/",
   "language": "JavaScript",
@@ -33,7 +33,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-25T19:53:10Z",
-  "updated_at": "2026-06-01T15:46:20Z",
+  "updated_at": "2026-06-03T20:39:10Z",
   "pushed_at": "2026-06-01T15:14:36Z",
   "deleted_at": "",
   "star_history": [
@@ -143,6 +143,10 @@
     },
     {
       "date": "2026-06-01",
+      "stars": 67
+    },
+    {
+      "date": "2026-06-03",
       "stars": 67
     }
   ]

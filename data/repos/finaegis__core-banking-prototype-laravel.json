@@ -3,8 +3,8 @@
   "owner": "finaegis",
   "name": "core-banking-prototype-laravel",
   "full_name": "finaegis/core-banking-prototype-laravel",
-  "description": "Open-source core banking platform — 56 DDD modules, event sourcing, CQRS, GraphQL, x402 payments. Laravel 12 / PHP 8.4",
-  "description_ja": "オープンソースのコアバンキングプラットフォーム — 56 の DDD モジュール、イベントソーシング、CQRS、GraphQL、x402 決済対応。Laravel 12 / PHP 8.4",
+  "description": "Open-source core banking platform — 61 DDD domains with event sourcing, CQRS, and a schema-first GraphQL API. Multi-asset accounts, exchange, lending, compliance, x402/MPP machine payments, and a non-custodial wallet backend. Laravel 12 / PHP 8.4. Reference implementation: the GCU basket currency.",
+  "description_ja": "",
   "url": "https://github.com/FinAegis/core-banking-prototype-laravel",
   "homepage_url": "https://finaegis.org",
   "language": "PHP",
@@ -12,24 +12,31 @@
   "topics": [
     "banking",
     "core-banking",
+    "cqrs",
     "ddd",
-    "defi",
+    "domain-driven-design",
     "event-sourcing",
     "fintech",
     "graphql",
     "iso20022",
     "laravel",
+    "mcp",
+    "multi-tenancy",
     "open-banking",
     "payments",
-    "php"
+    "php",
+    "post-quantum-cryptography",
+    "stablecoin",
+    "web3",
+    "x402"
   ],
-  "star_count": 160,
-  "fork_count": 36,
+  "star_count": 161,
+  "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-14T16:54:26Z",
-  "updated_at": "2026-05-30T12:20:56Z",
-  "pushed_at": "2026-05-30T20:25:21Z",
+  "updated_at": "2026-06-03T08:14:20Z",
+  "pushed_at": "2026-06-03T10:45:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -139,6 +146,10 @@
     {
       "date": "2026-06-01",
       "stars": 160
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 161
     }
   ]
 }

@@ -1,0 +1,46 @@
+{
+  "repo_id": "R_kgDOP62W2g",
+  "owner": "sguan-zhouqing",
+  "name": "sguanfoc_library",
+  "full_name": "sguan-zhouqing/sguanfoc_library",
+  "description": "SguanFOC为有/无传感器的PMSM电机提供强大的磁场定向控制解决方案。库内集成了基于SVPWM的多种控制模式，支持位置环、速度环、电流环的单环/串级控制...同时针对嵌入式平台优化了数学运算，并提供高度可配置的PID和LADRC等控制器，满足从简单调速到高性能伺服的各类应用需求。",
+  "description_ja": "",
+  "url": "https://github.com/Sguan-ZhouQing/SguanFOC_Library",
+  "homepage_url": "",
+  "language": "C",
+  "license": "MIT",
+  "topics": [
+    "adrc",
+    "adrc-controller",
+    "bldc-motor-controller",
+    "bldc-motors",
+    "embedded-systems",
+    "encoder",
+    "foc",
+    "foc-algorithm",
+    "low-cost",
+    "mcu",
+    "motor",
+    "motor-control",
+    "pid-control",
+    "pmsm",
+    "sguanfoc",
+    "smc",
+    "svpwm",
+    "vector-control"
+  ],
+  "star_count": 295,
+  "fork_count": 55,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-10-02T08:31:26Z",
+  "updated_at": "2026-06-03T19:50:07Z",
+  "pushed_at": "2026-06-03T19:50:02Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-03",
+      "stars": 295
+    }
+  ]
+}

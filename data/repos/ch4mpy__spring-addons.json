@@ -3,8 +3,8 @@
   "owner": "ch4mpy",
   "name": "spring-addons",
   "full_name": "ch4mpy/spring-addons",
-  "description": "Ease OAuth2 / OpenID in Spring RESTful backends",
-  "description_ja": "Spring RESTfulバックエンドにおけるOAuth2 / OpenIDの統合を簡素化するライブラリ。",
+  "description": "Additional Spring Boot auto-configuration for OAuth2 / OpenID \u0026 REST",
+  "description_ja": "",
   "url": "https://github.com/ch4mpy/spring-addons",
   "homepage_url": "",
   "language": "Java",
@@ -25,7 +25,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-29T13:37:17Z",
-  "updated_at": "2026-05-31T17:44:11Z",
+  "updated_at": "2026-06-03T16:27:46Z",
   "pushed_at": "2026-04-29T03:10:10Z",
   "deleted_at": "",
   "star_history": [
@@ -139,6 +139,10 @@
     },
     {
       "date": "2026-06-01",
+      "stars": 665
+    },
+    {
+      "date": "2026-06-03",
       "stars": 665
     }
   ]

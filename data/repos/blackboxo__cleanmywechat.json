@@ -3,8 +3,8 @@
   "owner": "blackboxo",
   "name": "cleanmywechat",
   "full_name": "blackboxo/cleanmywechat",
-  "description": "自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
-  "description_ja": "PC 版 WeChat のキャッシュデータ（全チャットから自動ダウンロードされたファイル、動画、画像など）を自動削除してストレージを解放するツール。",
+  "description": "自动删除 Windows 和 Mac 电脑端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
+  "description_ja": "",
   "url": "https://github.com/blackboxo/CleanMyWechat",
   "homepage_url": "",
   "language": "Python",
@@ -14,22 +14,22 @@
     "cache-storage",
     "clean",
     "delete",
-    "delete-files",
     "disk",
     "disk-cache",
-    "disk-usage",
+    "mac-disk",
+    "mac-wechat",
     "pyqt",
     "pyqt5",
     "python",
     "wechat"
   ],
-  "star_count": 5338,
+  "star_count": 5337,
   "fork_count": 411,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-02-13T11:00:19Z",
-  "updated_at": "2026-06-01T17:14:25Z",
-  "pushed_at": "2026-05-29T02:02:01Z",
+  "updated_at": "2026-06-03T12:20:25Z",
+  "pushed_at": "2026-06-03T09:49:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -143,6 +143,10 @@
     {
       "date": "2026-06-01",
       "stars": 5338
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 5337
     }
   ]
 }

@@ -3,13 +3,16 @@
   "owner": "codeking-ai",
   "name": "cligate",
   "full_name": "codeking-ai/cligate",
-  "description": "Multi-protocol AI proxy server for Claude Code, Codex CLI, Gemini CLI \u0026 OpenClaw. Account pooling, API key management, free model routing, and visual dashboard.",
-  "description_ja": "Claude Code、Codex CLI、Gemini CLI、OpenClaw向けマルチプロトコルAIプロキシサーバー。アカウントプーリング、APIキー管理、無料モデルルーティング、ビジュアルダッシュボードを提供。",
+  "description": "Private AI assistant, AI agent, and unified model proxy for Claude Code, Codex CLI, Gemini CLI \u0026 OpenClaw. Skills, MCP, tools, channels, tasks,model routing, accounts, keys, logs, dashboard.",
+  "description_ja": "",
   "url": "https://github.com/codeking-ai/cligate",
   "homepage_url": "https://github.com/codeking-ai/cligate/releases",
   "language": "JavaScript",
   "license": "AGPL-3.0",
   "topics": [
+    "agent-framework",
+    "agent-skills",
+    "agentic-ai",
     "ai-proxy",
     "anthropic",
     "api-gateway",
@@ -20,24 +23,21 @@
     "codex-cli",
     "coding-assistant",
     "developer-tools",
-    "electron",
     "free-ai",
-    "gemini-cli",
     "model-routing",
     "multi-account",
-    "oauth2",
     "openai",
     "openclaw",
     "openclaw-extension",
     "proxy-server"
   ],
-  "star_count": 88,
+  "star_count": 89,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-24T09:48:25Z",
-  "updated_at": "2026-06-01T16:04:02Z",
-  "pushed_at": "2026-06-01T15:48:08Z",
+  "updated_at": "2026-06-03T13:14:16Z",
+  "pushed_at": "2026-06-03T07:11:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -147,6 +147,10 @@
     {
       "date": "2026-06-01",
       "stars": 88
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 89
     }
   ]
 }

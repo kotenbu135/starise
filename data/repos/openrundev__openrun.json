@@ -3,10 +3,10 @@
   "owner": "openrundev",
   "name": "openrun",
   "full_name": "openrundev/openrun",
-  "description": "Internal tools deployment made easy.  Deploy web apps declaratively, on a single-node or on Kubernetes.",
-  "description_ja": "内部ツールのデプロイを簡単に。Webアプリを宣言的に、シングルノードまたはKubernetes上にデプロイ。",
+  "description": "Deployment platform for code-first internal tools. Deploy web apps declaratively, on a single-node or on Kubernetes.",
+  "description_ja": "",
   "url": "https://github.com/openrundev/openrun",
-  "homepage_url": "https://openrun.dev",
+  "homepage_url": "https://openrun.dev/",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
@@ -29,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-13T18:29:51Z",
-  "updated_at": "2026-06-01T03:16:03Z",
-  "pushed_at": "2026-06-01T03:16:00Z",
+  "updated_at": "2026-06-03T22:02:46Z",
+  "pushed_at": "2026-06-03T22:02:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -143,6 +143,10 @@
     },
     {
       "date": "2026-06-01",
+      "stars": 839
+    },
+    {
+      "date": "2026-06-03",
       "stars": 839
     }
   ]

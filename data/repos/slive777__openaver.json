@@ -3,36 +3,41 @@
   "owner": "slive777",
   "name": "openaver",
   "full_name": "slive777/openaver",
-  "description": "Modern JAV metadata manager — multi-source scraping, Jellyfin integration, and AI-ready API. Built with FastAPI + DaisyUI.",
-  "description_ja": "モダンなJAVメタデータマネージャー。マルチソーススクレイピング、Jellyfin連携、AIフレンドリーなAPIを搭載。FastAPI + DaisyUI製",
+  "description": "Free open-source desktop app that scrapes JAV metadata and generates NFO + cover art for Jellyfin, Emby \u0026 Kodi. No Docker, no CLI — one-click install on Windows \u0026 macOS. 8 built-in sources + optional Metatube federation (30+ providers), actress collections, cross-language tag aliases, and a REST API for AI agents.",
+  "description_ja": "",
   "url": "https://github.com/slive777/OpenAver",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "ai-agent",
-    "daisyui",
-    "dark-mode",
+    "cross-platform",
+    "desktop-app",
+    "emby",
     "fastapi",
-    "gallery",
-    "gsap",
-    "i18n",
+    "gui",
     "jav",
+    "jav-scraper",
     "jellyfin",
+    "kodi",
+    "media-server",
     "metadata",
+    "metadata-scraper",
+    "metatube",
     "nfo",
+    "nfo-generator",
     "python",
     "pywebview",
-    "scraper",
-    "web-gui"
+    "rest-api",
+    "scraper"
   ],
-  "star_count": 80,
+  "star_count": 81,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-14T17:51:42Z",
-  "updated_at": "2026-06-01T17:11:20Z",
-  "pushed_at": "2026-06-01T17:11:15Z",
+  "updated_at": "2026-06-03T18:42:33Z",
+  "pushed_at": "2026-06-03T18:42:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -146,6 +151,10 @@
     {
       "date": "2026-06-01",
       "stars": 80
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 81
     }
   ]
 }

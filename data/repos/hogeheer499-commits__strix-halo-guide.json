@@ -3,7 +3,7 @@
   "owner": "hogeheer499-commits",
   "name": "strix-halo-guide",
   "full_name": "hogeheer499-commits/strix-halo-guide",
-  "description": "Reproducible local LLM setup and benchmark evidence for AMD Strix Halo / Ryzen AI MAX+ 395: 63-98.5 t/s direct Qwen MoE, 101.1 t/s MTP.",
+  "description": "AMD Strix Halo local LLM guide: direct 100.0 t/s 30B Qwen MoE on Ryzen AI MAX+ 395 / Radeon 8060S. Setup, benchmarks, raw evidence.",
   "description_ja": "",
   "url": "https://github.com/hogeheer499-commits/strix-halo-guide",
   "homepage_url": "",
@@ -14,7 +14,6 @@
     "amd",
     "beelink",
     "benchmark",
-    "dgx-spark",
     "gfx1151",
     "gguf",
     "inference",
@@ -25,19 +24,20 @@
     "mini-pc",
     "ollama",
     "optimization",
+    "qwen3",
     "rocm",
     "ryzen-ai-max",
     "strix-halo",
     "unified-memory",
     "vulkan"
   ],
-  "star_count": 63,
+  "star_count": 84,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T22:33:43Z",
-  "updated_at": "2026-06-01T23:29:24Z",
-  "pushed_at": "2026-06-01T18:23:01Z",
+  "updated_at": "2026-06-03T07:11:59Z",
+  "pushed_at": "2026-06-02T23:36:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     {
       "date": "2026-06-01",
       "stars": 63
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 84
     }
   ]
 }

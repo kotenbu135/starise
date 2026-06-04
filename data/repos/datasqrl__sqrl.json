@@ -3,27 +3,28 @@
   "owner": "datasqrl",
   "name": "sqrl",
   "full_name": "datasqrl/sqrl",
-  "description": "Data Pipeline Automation Framework to build MCP servers, data APIs, and data lakes with SQL.",
-  "description_ja": "SQL で MCP サーバー・データ API・データレイクを構築するデータパイプライン自動化フレームワーク。",
+  "description": "Agentic Data Engineering Harness for building data pipelines, data products, data APIs, and data lakes autonomously",
+  "description_ja": "",
   "url": "https://github.com/DataSQRL/sqrl",
   "homepage_url": "https://datasqrl.github.io/sqrl",
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [
     "api",
+    "data-engineering",
     "data-pipeline",
-    "database",
     "event-driven",
-    "event-driven-microservices",
+    "harness",
+    "harness-framework",
     "streaming"
   ],
-  "star_count": 212,
+  "star_count": 213,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-07-17T04:11:30Z",
-  "updated_at": "2026-05-28T17:23:09Z",
-  "pushed_at": "2026-06-01T15:37:34Z",
+  "updated_at": "2026-06-02T14:49:12Z",
+  "pushed_at": "2026-06-03T19:25:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -133,6 +134,10 @@
     {
       "date": "2026-06-01",
       "stars": 212
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 213
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "ksyasuda",
   "name": "subminer",
   "full_name": "ksyasuda/subminer",
-  "description": "A Yomitan-powered sentence mining overlay for MPV featuring one key Anki mining, realtime subtitle annotations, and immersion tracking. No browser or texthooker required.",
+  "description": "Integrates Yomitan with MPV - featuring one click Anki mining, realtime subtitle annotations, and immersion tracking. No browser or texthooker required",
   "description_ja": "",
   "url": "https://github.com/ksyasuda/SubMiner",
   "homepage_url": "https://docs.subminer.moe",
@@ -20,13 +20,13 @@
     "subtitles",
     "yomitan"
   ],
-  "star_count": 90,
+  "star_count": 91,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-09T04:24:22Z",
-  "updated_at": "2026-06-01T22:20:10Z",
-  "pushed_at": "2026-06-01T22:20:08Z",
+  "updated_at": "2026-06-03T06:45:18Z",
+  "pushed_at": "2026-06-03T06:45:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -104,6 +104,10 @@
     {
       "date": "2026-06-01",
       "stars": 90
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 91
     }
   ]
 }

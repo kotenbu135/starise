@@ -3,7 +3,7 @@
   "owner": "indaco",
   "name": "malt",
   "full_name": "indaco/malt",
-  "description": "A fast, drop-in Homebrew alternative for macOS. Warm installs in milliseconds. `post_install` scripts that actually run. ",
+  "description": "A fast, drop-in Homebrew alternative for macOS. `post_install` scripts that actually run. Full operational surface beyond install and uninstall.",
   "description_ja": "",
   "url": "https://github.com/indaco/malt",
   "homepage_url": "",
@@ -21,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-08T18:12:02Z",
-  "updated_at": "2026-06-01T21:48:52Z",
-  "pushed_at": "2026-06-01T21:48:49Z",
+  "updated_at": "2026-06-03T21:32:20Z",
+  "pushed_at": "2026-06-03T21:32:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -119,6 +119,10 @@
     },
     {
       "date": "2026-06-01",
+      "stars": 115
+    },
+    {
+      "date": "2026-06-03",
       "stars": 115
     }
   ]

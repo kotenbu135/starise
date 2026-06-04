@@ -3,20 +3,20 @@
   "owner": "daaain",
   "name": "claude-code-log",
   "full_name": "daaain/claude-code-log",
-  "description": "A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML format.",
-  "description_ja": "Claude Code のトランスクリプト JSONL ファイルを読みやすい HTML 形式に変換する Python CLI ツール",
+  "description": "A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML / Markdown format.",
+  "description_ja": "",
   "url": "https://github.com/daaain/claude-code-log",
-  "homepage_url": "https://pypi.org/project/claude-code-log/",
+  "homepage_url": "http://daaain.github.io/claude-code-log/",
   "language": "Python",
   "license": "MIT",
   "topics": [],
-  "star_count": 1065,
+  "star_count": 1073,
   "fork_count": 82,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-14T10:50:43Z",
-  "updated_at": "2026-06-01T22:18:27Z",
-  "pushed_at": "2026-06-01T23:09:20Z",
+  "updated_at": "2026-06-03T22:29:05Z",
+  "pushed_at": "2026-06-03T22:36:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +130,10 @@
     {
       "date": "2026-06-01",
       "stars": 1065
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 1073
     }
   ]
 }

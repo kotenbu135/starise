@@ -3,7 +3,7 @@
   "owner": "nikolays",
   "name": "pgque",
   "full_name": "nikolays/pgque",
-  "description": "PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick.",
+  "description": "PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick https://pgque.dev",
   "description_ja": "",
   "url": "https://github.com/NikolayS/PgQue",
   "homepage_url": "",
@@ -19,13 +19,13 @@
     "tle",
     "trusted-language-extensions"
   ],
-  "star_count": 1502,
+  "star_count": 1540,
   "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-13T00:06:44Z",
-  "updated_at": "2026-06-01T22:50:43Z",
-  "pushed_at": "2026-05-30T12:29:58Z",
+  "updated_at": "2026-06-03T23:42:59Z",
+  "pushed_at": "2026-06-03T02:13:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -139,6 +139,10 @@
     {
       "date": "2026-06-01",
       "stars": 1502
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 1540
     }
   ]
 }

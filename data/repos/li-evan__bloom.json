@@ -3,20 +3,31 @@
   "owner": "li-evan",
   "name": "bloom",
   "full_name": "li-evan/bloom",
-  "description": "",
+  "description": "中文苏格拉底式一对一 AI 家教 · 基于 Bloom「2 Sigma」研究的交互式学习系统 | Socratic AI tutor as a Claude Code skill — teaches one lesson at a time",
   "description_ja": "",
   "url": "https://github.com/Li-Evan/Bloom",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 138,
+  "topics": [
+    "agent-skills",
+    "ai-tutor",
+    "bloom-2-sigma",
+    "chinese",
+    "claude-code",
+    "claude-skill",
+    "education",
+    "learning",
+    "llm",
+    "socratic-method"
+  ],
+  "star_count": 149,
   "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-10T14:59:27Z",
-  "updated_at": "2026-06-01T14:53:12Z",
-  "pushed_at": "2026-06-01T14:38:42Z",
+  "updated_at": "2026-06-03T13:58:21Z",
+  "pushed_at": "2026-06-02T04:05:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -110,6 +121,10 @@
     {
       "date": "2026-06-01",
       "stars": 138
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 149
     }
   ]
 }

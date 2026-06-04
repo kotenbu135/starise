@@ -3,7 +3,7 @@
   "owner": "fallow-rs",
   "name": "fallow",
   "full_name": "fallow-rs/fallow",
-  "description": "Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, 95 framework plugins.",
+  "description": "Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, zero-config framework support.",
   "description_ja": "",
   "url": "https://github.com/fallow-rs/fallow",
   "homepage_url": "https://docs.fallow.tools",
@@ -29,13 +29,13 @@
     "unused-dependencies",
     "unused-exports"
   ],
-  "star_count": 2563,
-  "fork_count": 67,
+  "star_count": 2858,
+  "fork_count": 84,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-17T08:40:57Z",
-  "updated_at": "2026-06-01T23:10:42Z",
-  "pushed_at": "2026-06-01T22:01:28Z",
+  "updated_at": "2026-06-03T23:09:44Z",
+  "pushed_at": "2026-06-03T18:31:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -145,6 +145,10 @@
     {
       "date": "2026-06-01",
       "stars": 2563
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 2858
     }
   ]
 }

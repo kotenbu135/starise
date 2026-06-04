@@ -3,10 +3,10 @@
   "owner": "livrasand",
   "name": "gitgost",
   "full_name": "livrasand/gitgost",
-  "description": "Anonymous git contributions, zero accounts, zero metadata. Just add remote, push, and disappear. Hosted-in Switzerland. Be a gost!",
-  "description_ja": "匿名での git コントリビューション。アカウント不要、メタデータなし。リモートを追加してプッシュするだけ。スイスでホスティング。Be a gost!",
+  "description": "Anonymous git contributions, zero accounts, zero metadata. Just add remote, push, and disappear. Be a gost!",
+  "description_ja": "",
   "url": "https://github.com/livrasand/gitGost",
-  "homepage_url": "https://gitgost.leapcell.app",
+  "homepage_url": "https://gitgost.fly.dev",
   "language": "Go",
   "license": "GPL-3.0",
   "topics": [
@@ -30,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-29T21:22:00Z",
-  "updated_at": "2026-05-20T20:22:44Z",
-  "pushed_at": "2026-05-15T14:33:42Z",
+  "updated_at": "2026-06-03T23:30:59Z",
+  "pushed_at": "2026-06-03T23:20:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -140,6 +140,10 @@
     },
     {
       "date": "2026-06-01",
+      "stars": 40
+    },
+    {
+      "date": "2026-06-03",
       "stars": 40
     }
   ]

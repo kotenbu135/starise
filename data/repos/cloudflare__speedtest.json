@@ -7,7 +7,7 @@
   "description_ja": "Cloudflare のエッジネットワークに対してネットワーク速度テストを実行するコンポーネント",
   "url": "https://github.com/cloudflare/speedtest",
   "homepage_url": "https://speed.cloudflare.com",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "bandwidth",
@@ -17,13 +17,13 @@
     "packet-loss",
     "speedtest"
   ],
-  "star_count": 696,
+  "star_count": 697,
   "fork_count": 76,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-02T12:15:24Z",
-  "updated_at": "2026-06-01T15:18:25Z",
-  "pushed_at": "2026-06-01T16:48:46Z",
+  "updated_at": "2026-06-03T11:06:04Z",
+  "pushed_at": "2026-06-03T11:06:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -137,6 +137,10 @@
     {
       "date": "2026-06-01",
       "stars": 696
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 697
     }
   ]
 }

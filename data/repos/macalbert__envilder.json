@@ -3,7 +3,7 @@
   "owner": "macalbert",
   "name": "envilder",
   "full_name": "macalbert/envilder",
-  "description": "🚀 Envilder is an open-source developer toolkit for loading cloud secrets into your app runtime. Built as a monorepo with CLI, GitHub Action, and native SDKs. Supports AWS SSM and Azure Key Vault today, with Google Cloud and HashiCorp Vault next. No SaaS middleman, no vendor lock-in.",
+  "description": "One secret mapping for local dev, CI/CD, and runtime. Envilder resolves cloud secrets from your own vaults without SaaS middlemen, duplicated config, or .env drift.",
   "description_ja": "",
   "url": "https://github.com/macalbert/envilder",
   "homepage_url": "https://envilder.com",
@@ -11,33 +11,25 @@
   "license": "MIT",
   "topics": [
     "automation",
-    "aws-ssm-parameters",
+    "aws-ssm",
     "azure",
-    "azure-key-vault",
+    "azure-keyvault",
     "ci-cd",
-    "dev-experience",
-    "dev-tools",
+    "configuration",
+    "developer-tools",
     "devops",
-    "devsecops",
     "dotenv",
-    "dotenv-flow",
-    "env",
-    "envfile",
-    "environment-variables",
-    "parameter-store",
-    "secrets",
-    "secrets-in-keyvault",
-    "secrets-management",
-    "secrets-manager",
-    "secure"
+    "github-actions",
+    "secret-management",
+    "secrets"
   ],
   "star_count": 136,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-19T10:58:20Z",
-  "updated_at": "2026-05-31T12:24:15Z",
-  "pushed_at": "2026-05-31T12:24:13Z",
+  "updated_at": "2026-06-03T22:29:42Z",
+  "pushed_at": "2026-06-03T23:16:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -146,6 +138,10 @@
     },
     {
       "date": "2026-06-01",
+      "stars": 136
+    },
+    {
+      "date": "2026-06-03",
       "stars": 136
     }
   ]

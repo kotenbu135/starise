@@ -9,13 +9,28 @@
   "homepage_url": "",
   "language": "Rust",
   "license": "GPL-3.0",
-  "topics": [],
+  "topics": [
+    "arch-linux",
+    "arch-linux-installer",
+    "archlinux",
+    "aur",
+    "installer",
+    "libalpm",
+    "linux",
+    "openzfs",
+    "ratatui",
+    "rust",
+    "slint",
+    "tui",
+    "zfs",
+    "zfsbootmenu"
+  ],
   "star_count": 53,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-05T14:49:50Z",
-  "updated_at": "2026-05-30T19:46:01Z",
+  "updated_at": "2026-06-02T19:39:34Z",
   "pushed_at": "2026-04-28T19:51:03Z",
   "deleted_at": "",
   "star_history": [
@@ -125,6 +140,10 @@
     },
     {
       "date": "2026-06-01",
+      "stars": 53
+    },
+    {
+      "date": "2026-06-03",
       "stars": 53
     }
   ]

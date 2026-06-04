@@ -3,8 +3,8 @@
   "owner": "rustaudio",
   "name": "cpal",
   "full_name": "rustaudio/cpal",
-  "description": "Cross-platform audio I/O library in pure Rust",
-  "description_ja": "pure Rust で実装されたクロスプラットフォーム対応の音声 I/O ライブラリ",
+  "description": "Low-level cross-platform audio I/O library in Rust",
+  "description_ja": "",
   "url": "https://github.com/RustAudio/cpal",
   "homepage_url": "",
   "language": "Rust",
@@ -14,13 +14,13 @@
     "rust",
     "sound"
   ],
-  "star_count": 3763,
-  "fork_count": 506,
+  "star_count": 3769,
+  "fork_count": 509,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-12-11T13:23:58Z",
-  "updated_at": "2026-06-01T20:39:17Z",
-  "pushed_at": "2026-06-01T20:39:13Z",
+  "updated_at": "2026-06-03T21:16:43Z",
+  "pushed_at": "2026-06-03T21:17:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +134,10 @@
     {
       "date": "2026-06-01",
       "stars": 3763
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 3769
     }
   ]
 }

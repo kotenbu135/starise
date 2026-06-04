@@ -7,7 +7,7 @@
   "description_ja": ":computer: あらゆるLinuxデバイスへのシームレスなリモートアクセス。エッジおよびクラウドコンピューティング向けの集中SSH管理。",
   "url": "https://github.com/shellhub-io/shellhub",
   "homepage_url": "https://shellhub.io",
-  "language": "TypeScript",
+  "language": "Go",
   "license": "Apache-2.0",
   "topics": [
     "cloud-computing",
@@ -21,13 +21,13 @@
     "ssh",
     "ssh-tunnel"
   ],
-  "star_count": 2016,
+  "star_count": 2017,
   "fork_count": 183,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-16T18:10:35Z",
-  "updated_at": "2026-06-01T21:50:58Z",
-  "pushed_at": "2026-06-01T21:57:07Z",
+  "updated_at": "2026-06-03T23:23:15Z",
+  "pushed_at": "2026-06-03T23:34:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -141,6 +141,10 @@
     {
       "date": "2026-06-01",
       "stars": 2016
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 2017
     }
   ]
 }

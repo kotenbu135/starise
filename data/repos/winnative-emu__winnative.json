@@ -3,20 +3,28 @@
   "owner": "winnative-emu",
   "name": "winnative",
   "full_name": "winnative-emu/winnative",
-  "description": "In Development",
+  "description": "An Android app for playing Windows games from Steam, Epic Games, GOG, and more on your device.",
   "description_ja": "",
   "url": "https://github.com/WinNative-Emu/WinNative",
   "homepage_url": "",
   "language": "Kotlin",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 285,
-  "fork_count": 36,
+  "topics": [
+    "android",
+    "emulation",
+    "epicgames",
+    "gaming",
+    "gog",
+    "steam",
+    "windows"
+  ],
+  "star_count": 290,
+  "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T00:42:19Z",
-  "updated_at": "2026-06-02T00:24:12Z",
-  "pushed_at": "2026-06-02T00:24:07Z",
+  "updated_at": "2026-06-03T21:35:57Z",
+  "pushed_at": "2026-06-03T21:35:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +66,10 @@
     {
       "date": "2026-06-01",
       "stars": 285
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 290
     }
   ]
 }
