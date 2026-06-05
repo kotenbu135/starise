@@ -3,7 +3,7 @@
   "owner": "pteroctopus",
   "name": "faster.nvim",
   "full_name": "pteroctopus/faster.nvim",
-  "description": "Some Neovim plugins and features can make Neovim slow when editing big files and executing macros. Faster.nvim will selectively disable some features when big file is opened or macro is executed.",
+  "description": "Some Neovim plugins and features can make Neovim slow when editing big files, files with very long lines (minified JS/JSON/CSS), or while   executing macros. Faster.nvim will selectively disable some features when a big file is opened, a long-line file is opened, or a macro is executed.",
   "description_ja": "",
   "url": "https://github.com/pteroctopus/faster.nvim",
   "homepage_url": "",
@@ -13,13 +13,13 @@
     "neovim",
     "plugin"
   ],
-  "star_count": 121,
+  "star_count": 124,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-24T06:12:04Z",
-  "updated_at": "2026-06-04T13:59:09Z",
-  "pushed_at": "2026-06-03T15:04:30Z",
+  "updated_at": "2026-06-05T13:35:19Z",
+  "pushed_at": "2026-06-05T13:25:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -89,6 +89,10 @@
     {
       "date": "2026-06-04",
       "stars": 121
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 124
     }
   ]
 }

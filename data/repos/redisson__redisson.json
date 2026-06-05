@@ -3,7 +3,7 @@
   "owner": "redisson",
   "name": "redisson",
   "full_name": "redisson/redisson",
-  "description": "Redisson: the high-level Java client for Redis and Valkey. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
+  "description": "Redisson: Valkey \u0026 Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
   "description_ja": "",
   "url": "https://github.com/redisson/redisson",
   "homepage_url": "https://redisson.pro",
@@ -31,13 +31,13 @@
     "valkey",
     "valkey-client"
   ],
-  "star_count": 24349,
+  "star_count": 24350,
   "fork_count": 5487,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-01-11T14:06:25Z",
-  "updated_at": "2026-06-04T18:47:41Z",
-  "pushed_at": "2026-06-04T18:47:33Z",
+  "updated_at": "2026-06-05T11:03:56Z",
+  "pushed_at": "2026-06-05T11:03:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -159,6 +159,10 @@
     {
       "date": "2026-06-04",
       "stars": 24349
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 24350
     }
   ]
 }

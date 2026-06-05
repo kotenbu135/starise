@@ -3,7 +3,7 @@
   "owner": "t8y2",
   "name": "dbx",
   "full_name": "t8y2/dbx",
-  "description": "15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
+  "description": "15MB, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server and more.15MB，轻量级跨平台数据库客户端、数据库管理工具。支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、DuckDB、ClickHouse、SQL Server 等。",
   "description_ja": "",
   "url": "https://github.com/t8y2/dbx",
   "homepage_url": "https://dbxio.com",
@@ -14,7 +14,6 @@
     "database",
     "database-client",
     "database-management",
-    "duckdb",
     "gui",
     "mongodb",
     "mysql",
@@ -26,13 +25,13 @@
     "tauri",
     "vue"
   ],
-  "star_count": 3687,
-  "fork_count": 284,
+  "star_count": 3894,
+  "fork_count": 290,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-29T03:00:36Z",
-  "updated_at": "2026-06-04T21:37:55Z",
-  "pushed_at": "2026-06-04T18:06:25Z",
+  "updated_at": "2026-06-05T20:47:11Z",
+  "pushed_at": "2026-06-05T18:13:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +133,10 @@
     {
       "date": "2026-06-04",
       "stars": 3687
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 3894
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "AgML is a centralized framework for agricultural machine learning. AgML provides access to public agricultural datasets for common agricultural deep learning tasks, with standard benchmarks and pretrained models, as well the ability to generate synthetic data and annotations.",
   "description_ja": "AgMLは農業機械学習のための集中型フレームワーク。一般的な農業ディープラーニングタスク向けの公開農業データセットへのアクセス、標準ベンチマークと事前学習済みモデル、さらに合成データとアノテーションの生成機能を提供する。",
   "url": "https://github.com/Project-AgML/AgML",
-  "homepage_url": "https://project-agml.github.io/AgML/",
+  "homepage_url": "https://project-agml.github.io",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-29T13:44:40Z",
-  "updated_at": "2026-06-01T22:35:59Z",
-  "pushed_at": "2026-06-02T00:26:03Z",
+  "updated_at": "2026-06-05T00:24:03Z",
+  "pushed_at": "2026-06-05T00:23:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -143,6 +143,10 @@
     },
     {
       "date": "2026-06-04",
+      "stars": 281
+    },
+    {
+      "date": "2026-06-05",
       "stars": 281
     }
   ]

@@ -3,29 +3,25 @@
   "owner": "danielsaidi",
   "name": "deckkit",
   "full_name": "danielsaidi/deckkit",
-  "description": "Create deck-based apps in SwiftUI.",
-  "description_ja": "SwiftUIでデッキベースのアプリを作成する",
+  "description": "Card and deck-based SwiftUI views.",
+  "description_ja": "",
   "url": "https://github.com/danielsaidi/DeckKit",
   "homepage_url": "https://danielsaidi.com/opensource",
-  "language": "Shell",
+  "language": "Swift",
   "license": "MIT",
   "topics": [
-    "cards",
-    "ios",
-    "macos",
+    "card",
+    "deck",
     "swift",
-    "swiftui",
-    "tvos",
-    "visionos",
-    "watchos"
+    "swiftui"
   ],
-  "star_count": 879,
+  "star_count": 881,
   "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-08-31T05:51:52Z",
-  "updated_at": "2026-05-31T08:17:45Z",
-  "pushed_at": "2026-01-05T10:56:14Z",
+  "updated_at": "2026-06-05T17:19:50Z",
+  "pushed_at": "2026-06-05T10:38:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -143,6 +139,10 @@
     {
       "date": "2026-06-04",
       "stars": 879
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 881
     }
   ]
 }

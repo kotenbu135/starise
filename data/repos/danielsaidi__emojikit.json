@@ -3,8 +3,8 @@
   "owner": "danielsaidi",
   "name": "emojikit",
   "full_name": "danielsaidi/emojikit",
-  "description": "Create emoji-based features on all major Apple platforms, using Swift \u0026 SwiftUI.",
-  "description_ja": "Swift \u0026 SwiftUIを使い、主要なAppleプラットフォームすべてで絵文字ベースの機能を作成する",
+  "description": "Emoji-based features and utilities for Swift \u0026 SwiftUI.",
+  "description_ja": "",
   "url": "https://github.com/danielsaidi/EmojiKit",
   "homepage_url": "https://danielsaidi.com/opensource",
   "language": "Swift",
@@ -15,21 +15,16 @@
     "emoji-picker",
     "emoji-versions",
     "emojis",
-    "ios",
-    "macos",
     "swift",
-    "swiftui",
-    "tvos",
-    "visionos",
-    "watchos"
+    "swiftui"
   ],
   "star_count": 192,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-22T08:10:28Z",
-  "updated_at": "2026-05-25T19:45:49Z",
-  "pushed_at": "2026-05-25T19:47:20Z",
+  "updated_at": "2026-06-05T16:45:24Z",
+  "pushed_at": "2026-06-05T10:41:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -150,6 +145,10 @@
     },
     {
       "date": "2026-06-04",
+      "stars": 192
+    },
+    {
+      "date": "2026-06-05",
       "stars": 192
     }
   ]

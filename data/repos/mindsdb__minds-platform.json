@@ -3,7 +3,7 @@
   "owner": "mindsdb",
   "name": "minds-platform",
   "full_name": "mindsdb/minds-platform",
-  "description": "Platform dedicated to building an open foundation for applied Artificial Intelligence, designed for people seeking production-ready AI systems they can truly control, extend and deploy anywhere.",
+  "description": "General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility to extend and deploy anywhere (VPC, on-prem, or cloud).",
   "description_ja": "",
   "url": "https://github.com/mindsdb/minds-platform",
   "homepage_url": "https://mindsdb.com",
@@ -25,13 +25,13 @@
     "postgresql",
     "rag"
   ],
-  "star_count": 39248,
-  "fork_count": 6212,
+  "star_count": 39253,
+  "fork_count": 6210,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-08-02T17:56:45Z",
-  "updated_at": "2026-06-04T17:45:22Z",
-  "pushed_at": "2026-06-02T15:50:48Z",
+  "updated_at": "2026-06-05T17:59:00Z",
+  "pushed_at": "2026-06-05T15:32:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -153,6 +153,10 @@
     {
       "date": "2026-06-04",
       "stars": 39248
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 39253
     }
   ]
 }

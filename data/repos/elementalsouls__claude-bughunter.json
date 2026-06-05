@@ -3,10 +3,10 @@
   "owner": "elementalsouls",
   "name": "claude-bughunter",
   "full_name": "elementalsouls/claude-bughunter",
-  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 51 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work — 71 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
   "description_ja": "",
   "url": "https://github.com/elementalsouls/Claude-BugHunter",
-  "homepage_url": "",
+  "homepage_url": "https://elementalsouls.github.io/Claude-BugHunter",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
@@ -27,13 +27,13 @@
     "security-tools",
     "web-security"
   ],
-  "star_count": 1650,
-  "fork_count": 250,
+  "star_count": 1673,
+  "fork_count": 253,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-05T11:22:32Z",
-  "updated_at": "2026-06-04T21:26:09Z",
-  "pushed_at": "2026-05-26T19:43:29Z",
+  "updated_at": "2026-06-05T20:31:31Z",
+  "pushed_at": "2026-06-05T17:18:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +71,10 @@
     {
       "date": "2026-06-04",
       "stars": 1650
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 1673
     }
   ]
 }

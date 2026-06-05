@@ -3,7 +3,7 @@
   "owner": "itiligent",
   "name": "truenas-tricks",
   "full_name": "itiligent/truenas-tricks",
-  "description": "A place to share TrueNAS stuff",
+  "description": "Prevent constant waking of TrueNAS HDDs for smartctl tasks, and other TrueNAS stuff",
   "description_ja": "",
   "url": "https://github.com/itiligent/TrueNAS-Tricks",
   "homepage_url": "",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-12T16:26:34Z",
-  "updated_at": "2026-06-03T22:59:16Z",
-  "pushed_at": "2026-06-03T22:59:12Z",
+  "updated_at": "2026-06-05T07:20:55Z",
+  "pushed_at": "2026-06-05T07:20:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -69,6 +69,10 @@
     },
     {
       "date": "2026-06-04",
+      "stars": 9
+    },
+    {
+      "date": "2026-06-05",
       "stars": 9
     }
   ]

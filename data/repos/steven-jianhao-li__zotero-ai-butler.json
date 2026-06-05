@@ -7,7 +7,7 @@
   "description_ja": "【Zotero AI 管家】大規模言語モデルを呼び出し、Zotero 内の論文を自動精読して Zotero ノートとして要約する。主要な LLM プラットフォームに対応。これまで通り論文を Zotero に追加するだけで、管家が自動で精読・要約し「10分でその論文を完全把握」できるノートを作成する",
   "url": "https://github.com/steven-jianhao-li/zotero-AI-Butler",
   "homepage_url": "https://github.com/steven-jianhao-li/zotero-AI-Butler/releases",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
     "academic-tools",
@@ -27,13 +27,13 @@
     "zotero",
     "zotero-plugin"
   ],
-  "star_count": 1387,
+  "star_count": 1395,
   "fork_count": 71,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-29T06:48:26Z",
-  "updated_at": "2026-06-04T15:13:06Z",
-  "pushed_at": "2026-06-04T09:52:07Z",
+  "updated_at": "2026-06-05T18:18:35Z",
+  "pushed_at": "2026-06-05T06:04:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -155,6 +155,10 @@
     {
       "date": "2026-06-04",
       "stars": 1387
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 1395
     }
   ]
 }

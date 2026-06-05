@@ -3,13 +3,14 @@
   "owner": "eclipse-iceoryx",
   "name": "iceoryx2",
   "full_name": "eclipse-iceoryx/iceoryx2",
-  "description": "Eclipse iceoryx2™ - true zero-copy inter-process-communication with a Rust core",
-  "description_ja": "Eclipse iceoryx2™ - Rustコアによる真のゼロコピープロセス間通信",
+  "description": "Eclipse iceoryx2™ - the zero-copy data plane with a Rust core",
+  "description_ja": "",
   "url": "https://github.com/eclipse-iceoryx/iceoryx2",
-  "homepage_url": "https://ekxide.github.io/iceoryx2-book",
+  "homepage_url": "https://iceoryx.io",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "data-plane",
     "eclipse",
     "iceoryx",
     "inter-process-communication",
@@ -23,12 +24,12 @@
     "shared-memory",
     "zero-copy"
   ],
-  "star_count": 2294,
+  "star_count": 2296,
   "fork_count": 153,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-12T16:00:07Z",
-  "updated_at": "2026-06-04T13:53:48Z",
+  "updated_at": "2026-06-05T12:32:35Z",
   "pushed_at": "2026-06-03T09:28:47Z",
   "deleted_at": "",
   "star_history": [
@@ -151,6 +152,10 @@
     {
       "date": "2026-06-04",
       "stars": 2294
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 2296
     }
   ]
 }

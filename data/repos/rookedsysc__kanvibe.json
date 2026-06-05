@@ -3,8 +3,8 @@
   "owner": "rookedsysc",
   "name": "kanvibe",
   "full_name": "rookedsysc/kanvibe",
-  "description": "Self-hosted Kanban board with browser terminals for AI coding agents. Hook-driven auto-tracking — manage tmux/zellij sessions and git worktrees from one board.",
-  "description_ja": "AI コーディングエージェント向けのブラウザターミナル付きセルフホスト Kanban ボード。フック駆動の自動トラッキングで tmux/zellij セッションと git worktree を一枚のボードで管理",
+  "description": "Keyboard-first desktop Kanban workspace for AI coding agents with embedded terminals, git worktrees, and hook-driven task tracking.",
+  "description_ja": "",
   "url": "https://github.com/rookedsysc/kanvibe",
   "homepage_url": "",
   "language": "TypeScript",
@@ -30,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-10T11:39:12Z",
-  "updated_at": "2026-06-04T13:49:28Z",
-  "pushed_at": "2026-06-03T12:00:00Z",
+  "updated_at": "2026-06-05T08:39:18Z",
+  "pushed_at": "2026-06-05T14:26:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -152,6 +152,10 @@
     },
     {
       "date": "2026-06-04",
+      "stars": 136
+    },
+    {
+      "date": "2026-06-05",
       "stars": 136
     }
   ]

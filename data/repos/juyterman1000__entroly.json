@@ -3,7 +3,7 @@
   "owner": "juyterman1000",
   "name": "entroly",
   "full_name": "juyterman1000/entroly",
-  "description": "Local proxy that cuts your Claude / OpenAI / Gemini bill 70%+. Drop-in for Cursor, Claude Code, Codex, Aider — 30 seconds, no code changes.",
+  "description": "Cut your Claude / OpenAI / Gemini bill 70–95% on AI coding. Local proxy that compresses context, keeps provider caches hot, and verifies LLM output ($0 hallucination guard). Drop-in for Cursor, Claude Code, Codex, Aider + 34 more and custom providers — 30s, no code changes",
   "description_ja": "",
   "url": "https://github.com/juyterman1000/entroly",
   "homepage_url": "https://juyterman1000.github.io/entroly/docs/dashboard.html",
@@ -30,13 +30,13 @@
     "rust",
     "token-optimization"
   ],
-  "star_count": 405,
+  "star_count": 408,
   "fork_count": 64,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T23:03:02Z",
-  "updated_at": "2026-06-04T12:44:08Z",
-  "pushed_at": "2026-06-04T12:46:28Z",
+  "updated_at": "2026-06-05T19:52:37Z",
+  "pushed_at": "2026-06-05T09:36:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -158,6 +158,10 @@
     {
       "date": "2026-06-04",
       "stars": 405
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 408
     }
   ]
 }

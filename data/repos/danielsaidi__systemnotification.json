@@ -3,30 +3,26 @@
   "owner": "danielsaidi",
   "name": "systemnotification",
   "full_name": "danielsaidi/systemnotification",
-  "description": "Mimic the native iOS system notification in SwiftUI.",
-  "description_ja": "SwiftUIでiOSネイティブのシステム通知を再現する",
+  "description": "Mimic the native system notification in SwiftUI.",
+  "description_ja": "",
   "url": "https://github.com/danielsaidi/SystemNotification",
   "homepage_url": "https://danielsaidi.com/opensource",
-  "language": "Shell",
+  "language": "Swift",
   "license": "MIT",
   "topics": [
-    "ios",
-    "macos",
     "notification",
     "swift",
     "swiftui",
-    "toast",
-    "tvos",
-    "visionos",
-    "watchos"
+    "system-notification",
+    "toast"
   ],
   "star_count": 899,
   "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-01T08:43:28Z",
-  "updated_at": "2026-06-03T00:34:22Z",
-  "pushed_at": "2026-02-22T21:08:41Z",
+  "updated_at": "2026-06-05T16:35:05Z",
+  "pushed_at": "2026-06-05T16:10:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -143,6 +139,10 @@
     },
     {
       "date": "2026-06-04",
+      "stars": 899
+    },
+    {
+      "date": "2026-06-05",
       "stars": 899
     }
   ]
