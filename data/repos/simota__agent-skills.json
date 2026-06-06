@@ -3,7 +3,7 @@
   "owner": "simota",
   "name": "agent-skills",
   "full_name": "simota/agent-skills",
-  "description": "140+ specialized AI agent skills for Claude Code / Codex CLI / Antigravity CLI (agy) — prompt engineering assets covering development, security, design, FinOps, compliance, testing, and more",
+  "description": "124 specialist AI agents for Claude Code / Codex CLI / Antigravity CLI (agy). Anthropic Agent Skills spec-aligned, gerund-form descriptions, hub-spoke orchestration via Nexus. Covers development, security, design, testing, FinOps, compliance, observability, AI/ML, and more.",
   "description_ja": "",
   "url": "https://github.com/simota/agent-skills",
   "homepage_url": "https://simota.github.io/agent-skills/",
@@ -11,33 +11,33 @@
   "license": "MIT",
   "topics": [
     "agent-ecosystem",
+    "agent-skills",
     "agentic-ai",
     "agy",
     "ai-agents",
-    "antigravity",
+    "anthropic",
     "antigravity-cli",
     "claude",
     "claude-code",
     "codex",
     "codex-cli",
-    "developer-tools",
     "devops",
     "llm",
     "mcp",
     "multi-agent",
     "prompt-engineering",
-    "prompt-library",
     "security",
     "skill-md",
+    "subagent",
     "testing"
   ],
-  "star_count": 47,
+  "star_count": 48,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-07T04:26:40Z",
-  "updated_at": "2026-06-05T07:31:48Z",
-  "pushed_at": "2026-06-05T03:08:07Z",
+  "updated_at": "2026-06-06T15:06:29Z",
+  "pushed_at": "2026-06-06T15:06:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     {
       "date": "2026-06-05",
       "stars": 47
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 48
     }
   ]
 }

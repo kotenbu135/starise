@@ -6,24 +6,25 @@
   "description": "Cross-platform desktop app for cleaning development artifacts, managing local developer tools, and checking common environment issues.",
   "description_ja": "開発成果物のクリーンアップ、ローカル開発ツールの管理、よくある環境問題のチェックを行うクロスプラットフォームデスクトップアプリ。",
   "url": "https://github.com/cocojojo5213/Dev-Janitor",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/cocojojo5213/Dev-Janitor/releases",
   "language": "Rust",
   "license": "MIT",
   "topics": [
-    "assistants",
-    "assistants-ai",
+    "ai-tools",
+    "cleanup",
+    "desktop-app",
     "developer-tools",
-    "toolkit",
-    "toolkits",
-    "vibe-coding"
+    "react",
+    "rust",
+    "tauri"
   ],
   "star_count": 843,
   "fork_count": 57,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-16T06:44:31Z",
-  "updated_at": "2026-06-05T14:06:39Z",
-  "pushed_at": "2026-06-05T14:06:31Z",
+  "updated_at": "2026-06-06T12:30:51Z",
+  "pushed_at": "2026-06-06T12:30:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -148,6 +149,10 @@
     },
     {
       "date": "2026-06-05",
+      "stars": 843
+    },
+    {
+      "date": "2026-06-06",
       "stars": 843
     }
   ]

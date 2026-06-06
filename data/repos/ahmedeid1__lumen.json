@@ -3,7 +3,7 @@
   "owner": "ahmedeid1",
   "name": "lumen",
   "full_name": "ahmedeid1/lumen",
-  "description": "Lumen — open-source agentic AI tutor. Custom multi-agent orchestrator (no LangChain), course-scoped RAG over pgvector, golden evals in CI, observable traces, a 9-tool MCP server on the official registry. Live demo + public /eval.",
+  "description": "Lumen — learner-owned AI education platform. Tell the AI what you want to learn: it builds you a private course in ~a minute, tutors you with course-scoped RAG + citations, and lets you share, clone \u0026 remix via a moderated catalog. BYOK, custom no-LangChain multi-agent orchestrator, golden evals in CI, MCP server. Live demo + public /eval.",
   "description_ja": "",
   "url": "https://github.com/ahmedEid1/lumen",
   "homepage_url": "https://lumen.ahmedhobeishy.tech",
@@ -11,12 +11,13 @@
   "license": "GPL-3.0",
   "topics": [
     "agentic-ai",
+    "ai-tutor",
+    "byok",
     "celery",
     "docker",
     "e-learning",
     "evals",
     "fastapi",
-    "langgraph",
     "llm",
     "llm-as-judge",
     "mcp",
@@ -33,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-29T17:11:42Z",
-  "updated_at": "2026-06-03T10:59:18Z",
-  "pushed_at": "2026-05-29T18:52:55Z",
+  "updated_at": "2026-06-06T08:40:42Z",
+  "pushed_at": "2026-06-06T08:40:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +80,10 @@
     },
     {
       "date": "2026-06-05",
+      "stars": 67
+    },
+    {
+      "date": "2026-06-06",
       "stars": 67
     }
   ]

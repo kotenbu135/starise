@@ -3,12 +3,12 @@
   "owner": "mariusyvard",
   "name": "nulltohero",
   "full_name": "mariusyvard/nulltohero",
-  "description": "Claude Cowork plugin to build, optimize and ship websites. 4 skills (siteasy design, SEO, inspect, /audit whole-site orchestrator), 53 commands, 83 reference docs, 13 parallel audit sub-agents, GEO for AI search, in-browser live variant mode, stack-aware design-system generator, WCAG 2.2, report export.",
+  "description": "Claude Cowork plugin to build, optimize and ship websites. 4 skills (siteasy design, SEO, inspect, /audit whole-site orchestrator), 54 commands, 84 reference docs, 13 parallel audit sub-agents, mobile ergonomics, GEO for AI search, in-browser live variant mode, stack-aware design-system generator, WCAG 2.2, report export.",
   "description_ja": "",
   "url": "https://github.com/MariusYvard/NullToHero",
-  "homepage_url": "https://github.com/MariusYvard/NullToHero",
+  "homepage_url": "https://lecvdemarius.netlify.app/",
   "language": "JavaScript",
-  "license": "NOASSERTION",
+  "license": "Apache-2.0",
   "topics": [
     "accessibility",
     "ai-search",
@@ -28,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-03T18:14:43Z",
-  "updated_at": "2026-06-05T15:43:20Z",
-  "pushed_at": "2026-06-05T15:40:40Z",
+  "updated_at": "2026-06-06T17:44:31Z",
+  "pushed_at": "2026-06-06T17:44:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +50,10 @@
     },
     {
       "date": "2026-06-05",
+      "stars": 58
+    },
+    {
+      "date": "2026-06-06",
       "stars": 58
     }
   ]

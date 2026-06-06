@@ -3,7 +3,7 @@
   "owner": "hanyeol",
   "name": "model-compose",
   "full_name": "hanyeol/model-compose",
-  "description": "Docker Compose for AI workflows. Define AI agents, RAG pipelines, MCP servers, and multi-LLM apps in a single YAML file — a lightweight alternative to LangChain.",
+  "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file — combining cloud APIs and local models.",
   "description_ja": "",
   "url": "https://github.com/hanyeol/model-compose",
   "homepage_url": "",
@@ -36,7 +36,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-01T02:31:46Z",
-  "updated_at": "2026-06-02T22:51:40Z",
+  "updated_at": "2026-06-05T22:26:03Z",
   "pushed_at": "2026-06-02T22:51:41Z",
   "deleted_at": "",
   "star_history": [
@@ -66,6 +66,10 @@
     },
     {
       "date": "2026-06-05",
+      "stars": 73
+    },
+    {
+      "date": "2026-06-06",
       "stars": 73
     }
   ]

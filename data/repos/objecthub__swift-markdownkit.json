@@ -3,8 +3,8 @@
   "owner": "objecthub",
   "name": "swift-markdownkit",
   "full_name": "objecthub/swift-markdownkit",
-  "description": "A framework for parsing and transforming text in Markdown format written in Swift 5 for macOS, iOS, and Linux. The syntax is based on the CommonMark specification. The framework defines an abstract syntax for Markdown, provides a parser for parsing strings into abstract syntax trees, and comes with generators for HTML and attributed strings.",
-  "description_ja": "macOS、iOS、Linux向けにSwift 5で書かれた、Markdown形式テキストの解析・変換フレームワーク。構文はCommonMark仕様に基づく。Markdownの抽象構文を定義し、文字列を抽象構文木に解析するパーサーを提供し、HTMLおよびアトリビュート文字列のジェネレーターも付属。",
+  "description": "A framework for parsing and transforming text in Markdown format written in Swift 6 for macOS, iOS, and Linux. The syntax is based on the CommonMark specification. The framework defines an abstract syntax for Markdown, provides a parser for parsing strings into abstract syntax trees, and comes with generators for HTML and attributed strings.",
+  "description_ja": "",
   "url": "https://github.com/objecthub/swift-markdownkit",
   "homepage_url": "",
   "language": "Swift",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-08-17T08:53:22Z",
-  "updated_at": "2026-06-05T15:53:08Z",
-  "pushed_at": "2026-06-05T19:13:54Z",
+  "updated_at": "2026-06-06T08:58:08Z",
+  "pushed_at": "2026-06-06T08:53:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -150,6 +150,10 @@
     },
     {
       "date": "2026-06-05",
+      "stars": 209
+    },
+    {
+      "date": "2026-06-06",
       "stars": 209
     }
   ]

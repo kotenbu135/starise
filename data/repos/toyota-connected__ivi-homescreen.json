@@ -3,13 +3,16 @@
   "owner": "toyota-connected",
   "name": "ivi-homescreen",
   "full_name": "toyota-connected/ivi-homescreen",
-  "description": "Embedded Flutter runtime targeting Embedded Linux with Wayland",
-  "description_ja": "WaylandによるEmbedded Linuxをターゲットとした組み込みFlutterランタイム",
+  "description": "Embedded Flutter runtime",
+  "description_ja": "",
   "url": "https://github.com/toyota-connected/ivi-homescreen",
   "homepage_url": "",
   "language": "C++",
   "license": "NOASSERTION",
   "topics": [
+    "drm-kms",
+    "drm-kms-egl",
+    "drm-kms-vulkan",
     "embedded-flutter",
     "embedded-linux",
     "flutter",
@@ -19,13 +22,13 @@
     "toyota-flutter",
     "wayland"
   ],
-  "star_count": 365,
+  "star_count": 366,
   "fork_count": 54,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-31T22:16:24Z",
-  "updated_at": "2026-06-05T09:42:16Z",
-  "pushed_at": "2026-06-05T18:42:37Z",
+  "updated_at": "2026-06-06T13:01:38Z",
+  "pushed_at": "2026-06-06T13:01:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -147,6 +150,10 @@
     {
       "date": "2026-06-05",
       "stars": 365
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 366
     }
   ]
 }

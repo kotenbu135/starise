@@ -3,8 +3,8 @@
   "owner": "danny-avila",
   "name": "librechat",
   "full_name": "danny-avila/librechat",
-  "description": "Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active.",
-  "description_ja": "高機能 ChatGPT クローン: Agents、MCP、DeepSeek、Anthropic、AWS、OpenAI、Responses API、Azure、Groq、o1、GPT-5、Mistral、OpenRouter、Vertex AI、Gemini、Artifacts、AIモデル切り替え、メッセージ検索、Code Interpreter、langchain、DALL-E-3、OpenAPI Actions、Functions、セキュアなマルチユーザー認証、プリセットを搭載。セルフホスティング対応のオープンソース。活発に開発中。",
+  "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+  "description_ja": "",
   "url": "https://github.com/danny-avila/LibreChat",
   "homepage_url": "https://librechat.ai/",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "vision",
     "webui"
   ],
-  "star_count": 38208,
-  "fork_count": 7854,
+  "star_count": 38325,
+  "fork_count": 7868,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-12T01:06:52Z",
-  "updated_at": "2026-06-05T19:17:46Z",
-  "pushed_at": "2026-06-05T19:57:06Z",
+  "updated_at": "2026-06-06T18:40:52Z",
+  "pushed_at": "2026-06-06T18:41:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -163,6 +163,10 @@
     {
       "date": "2026-06-05",
       "stars": 38208
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 38325
     }
   ]
 }

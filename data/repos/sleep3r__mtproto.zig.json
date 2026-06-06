@@ -3,8 +3,8 @@
   "owner": "sleep3r",
   "name": "mtproto.zig",
   "full_name": "sleep3r/mtproto.zig",
-  "description": "High-performance Telegram proxy with DPI evasion",
-  "description_ja": "DPI 回避機能を備えた高性能 Telegram プロキシ。",
+  "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS.",
+  "description_ja": "",
   "url": "https://github.com/sleep3r/mtproto.zig",
   "homepage_url": "",
   "language": "Zig",
@@ -20,13 +20,13 @@
     "zapret",
     "zig"
   ],
-  "star_count": 675,
+  "star_count": 728,
   "fork_count": 62,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-29T10:01:35Z",
-  "updated_at": "2026-06-05T20:02:54Z",
-  "pushed_at": "2026-06-05T18:20:59Z",
+  "updated_at": "2026-06-06T16:05:06Z",
+  "pushed_at": "2026-06-06T16:04:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -148,6 +148,10 @@
     {
       "date": "2026-06-05",
       "stars": 675
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 728
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "nevamind-ai",
   "name": "memu",
   "full_name": "nevamind-ai/memu",
-  "description": "Memory for 24/7 proactive agents like OpenClaw.",
-  "description_ja": "OpenClawのような24時間365日稼働するプロアクティブエージェントのためのメモリ。",
+  "description": "The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction.",
+  "description_ja": "",
   "url": "https://github.com/NevaMind-AI/memU",
   "homepage_url": "https://memu.pro",
   "language": "Python",
@@ -23,13 +23,13 @@
     "sandbox",
     "skills"
   ],
-  "star_count": 13782,
-  "fork_count": 1032,
+  "star_count": 13786,
+  "fork_count": 1033,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-29T01:54:40Z",
-  "updated_at": "2026-06-05T16:49:46Z",
-  "pushed_at": "2026-06-05T09:59:42Z",
+  "updated_at": "2026-06-06T18:55:29Z",
+  "pushed_at": "2026-06-06T10:13:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -155,6 +155,10 @@
     {
       "date": "2026-06-05",
       "stars": 13782
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 13786
     }
   ]
 }

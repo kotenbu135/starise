@@ -3,33 +3,39 @@
   "owner": "ros-claw",
   "name": "rosclaw",
   "full_name": "ros-claw/rosclaw",
-  "description": "The \"AUTOSAR + Android\" for Embodied AI. An OS-level framework bridging LLMs with high-frequency ROS/VLA control, enabling \"Write Once, Embody Anywhere\" robotics and autonomous data flywheels. ",
-  "description_ja": "エンボディドAIのための「AUTOSAR + Android」。LLMと高頻度ROS/VLA制御をブリッジするOSレベルのフレームワーク。「一度書けばどこでも具現化」のロボティクスと自律データフライホイールを実現",
+  "description": "The open infrastructure for Physical Intelligence. ROSClaw grounds AI agents into the physical world through e-URDF, sandbox safety, capability providers, praxis capture, memory, runtime intervention, and self-evolving skills.",
+  "description_ja": "",
   "url": "https://github.com/ros-claw/rosclaw",
   "homepage_url": "https://rosclaw.io",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "agent",
+    "agent-runtime",
     "automation",
+    "autonomous-robotics",
+    "digital-twin",
     "embodied-ai",
     "llm",
     "openclaw",
     "physical-ai",
     "robot",
+    "robot-operating-system",
+    "robot-safety",
     "robotics",
     "ros",
     "ros2",
+    "skill-learning",
     "vla",
     "vln"
   ],
-  "star_count": 82,
-  "fork_count": 12,
+  "star_count": 83,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T08:07:43Z",
-  "updated_at": "2026-06-05T15:57:14Z",
-  "pushed_at": "2026-06-05T16:02:46Z",
+  "updated_at": "2026-06-06T17:48:54Z",
+  "pushed_at": "2026-06-06T17:48:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -151,6 +157,10 @@
     {
       "date": "2026-06-05",
       "stars": 82
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 83
     }
   ]
 }
