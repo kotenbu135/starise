@@ -3,7 +3,7 @@
   "owner": "ozgurcd",
   "name": "gograph",
   "full_name": "ozgurcd/gograph",
-  "description": "A fast, local-only CLI tool to generate repository structures and improve IDE context awareness for Go codebases.",
+  "description": "Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more.",
   "description_ja": "",
   "url": "https://github.com/ozgurcd/gograph",
   "homepage_url": "https://github.com/ozgurcd/gograph",
@@ -31,7 +31,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-08T23:15:18Z",
-  "updated_at": "2026-06-06T07:17:31Z",
+  "updated_at": "2026-06-06T20:08:28Z",
   "pushed_at": "2026-06-05T13:09:02Z",
   "deleted_at": "",
   "star_history": [
@@ -109,6 +109,10 @@
     },
     {
       "date": "2026-06-06",
+      "stars": 163
+    },
+    {
+      "date": "2026-06-07",
       "stars": 163
     }
   ]

@@ -6,17 +6,33 @@
   "description": "The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI",
   "description_ja": "",
   "url": "https://github.com/crafter-station/petdex",
-  "homepage_url": "https://petdex.crafter.run",
+  "homepage_url": "https://petdex.dev",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 2901,
-  "fork_count": 117,
+  "topics": [
+    "claude-code",
+    "clerk",
+    "cli",
+    "codex",
+    "developer-tools",
+    "drizzle-orm",
+    "mascot",
+    "neon",
+    "nextjs",
+    "pixel-art",
+    "postgres",
+    "react",
+    "sprites",
+    "tailwindcss",
+    "vercel"
+  ],
+  "star_count": 2916,
+  "fork_count": 119,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-02T07:51:35Z",
-  "updated_at": "2026-06-06T18:26:00Z",
-  "pushed_at": "2026-06-06T18:38:14Z",
+  "updated_at": "2026-06-07T15:53:08Z",
+  "pushed_at": "2026-06-07T04:09:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -110,6 +126,10 @@
     {
       "date": "2026-06-06",
       "stars": 2901
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 2916
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "zhu1090093659",
   "name": "spec_driven_develop",
   "full_name": "zhu1090093659/spec_driven_develop",
-  "description": "A structured development methodology for AI coding agents, inspired by Qian Xuesen's engineering cybernetics. Closed-loop feedback control keeps plans aligned with reality. Pure Markdown, any platform.",
+  "description": "Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents.",
   "description_ja": "",
   "url": "https://github.com/zhu1090093659/spec_driven_develop",
   "homepage_url": "",
@@ -11,6 +11,7 @@
   "license": "MIT",
   "topics": [
     "ai-agent",
+    "ai-assisted-development",
     "ai-coding-assistant",
     "claude-code",
     "codex",
@@ -18,22 +19,25 @@
     "dev-workflow",
     "developer-tools",
     "engineering-cybernetics",
+    "github-issues",
+    "llm",
     "markdown",
     "project-planning",
-    "shell",
+    "prompt-engineering",
     "skills",
+    "software-architecture",
     "software-engineering",
     "spec-driven-development",
     "structured-thinking",
     "task-decomposition"
   ],
-  "star_count": 893,
+  "star_count": 895,
   "fork_count": 93,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-21T09:37:20Z",
-  "updated_at": "2026-06-06T18:26:50Z",
-  "pushed_at": "2026-06-01T07:29:13Z",
+  "updated_at": "2026-06-07T12:56:22Z",
+  "pushed_at": "2026-06-07T12:56:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -163,6 +167,10 @@
     {
       "date": "2026-06-06",
       "stars": 893
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 895
     }
   ]
 }

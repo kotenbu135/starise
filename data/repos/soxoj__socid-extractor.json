@@ -3,8 +3,8 @@
   "owner": "soxoj",
   "name": "socid-extractor",
   "full_name": "soxoj/socid-extractor",
-  "description": "⛏️ Extract accounts info from personal pages on various sites for OSINT purpose",
-  "description_ja": "⛏️ OSINT目的で各種サイトの個人ページからアカウント情報を抽出する。",
+  "description": "⛏️ The extraction engine behind Maigret: turn any profile URL into a structured OSINT record  across 150+ sites",
+  "description_ja": "",
   "url": "https://github.com/soxoj/socid-extractor",
   "homepage_url": "",
   "language": "Python",
@@ -21,12 +21,12 @@
     "socid",
     "socmint"
   ],
-  "star_count": 999,
+  "star_count": 1000,
   "fork_count": 107,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-11-17T18:30:06Z",
-  "updated_at": "2026-06-06T07:35:14Z",
+  "updated_at": "2026-06-07T18:37:07Z",
   "pushed_at": "2026-06-03T11:22:18Z",
   "deleted_at": "",
   "star_history": [
@@ -157,6 +157,10 @@
     {
       "date": "2026-06-06",
       "stars": 999
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 1000
     }
   ]
 }
