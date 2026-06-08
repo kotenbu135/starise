@@ -10,8 +10,8 @@
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "agent-swarms",
     "claude",
-    "claude-code",
     "developer-tools",
     "docker-image",
     "embeddings",
@@ -19,22 +19,20 @@
     "gemini-cli",
     "knowledge-based-systems",
     "mcp",
-    "mcp-protocol",
     "mcp-server",
-    "mcp-service",
-    "mcp-tools",
     "memory-management",
     "openai",
     "opensource",
-    "semantic-search"
+    "semantic-search",
+    "swarm"
   ],
-  "star_count": 299,
-  "fork_count": 54,
+  "star_count": 303,
+  "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-10T06:36:49Z",
-  "updated_at": "2026-06-07T09:55:14Z",
-  "pushed_at": "2026-06-07T09:59:36Z",
+  "updated_at": "2026-06-08T21:01:32Z",
+  "pushed_at": "2026-06-08T10:47:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -164,6 +162,10 @@
     {
       "date": "2026-06-07",
       "stars": 299
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 303
     }
   ]
 }

@@ -6,13 +6,14 @@
   "description": "AI integration layer for Jido agents with LLM orchestration and reasoning strategies.",
   "description_ja": "[36] LLMオーケストレーションと推論戦略を備えたJidoエージェント向けAI統合レイヤー。",
   "url": "https://github.com/agentjido/jido_ai",
-  "homepage_url": "https://github.com/agentjido/jido_ai#readme",
+  "homepage_url": "https://jido.run/ecosystem/jido_ai",
   "language": "Elixir",
   "license": "Apache-2.0",
   "topics": [
-    "agent-framework",
+    "ai",
     "ai-agents",
     "elixir",
+    "elixir-package",
     "jido",
     "llm"
   ],
@@ -21,7 +22,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-17T16:47:45Z",
-  "updated_at": "2026-06-07T01:30:41Z",
+  "updated_at": "2026-06-08T13:01:36Z",
   "pushed_at": "2026-06-07T01:30:37Z",
   "deleted_at": "",
   "star_history": [
@@ -155,6 +156,10 @@
     },
     {
       "date": "2026-06-07",
+      "stars": 189
+    },
+    {
+      "date": "2026-06-08",
       "stars": 189
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "dronefreak",
   "name": "visdrone-dataset-python-toolkit",
   "full_name": "dronefreak/visdrone-dataset-python-toolkit",
-  "description": "Modern PyTorch toolkit for the VisDrone aerial object detection dataset with production-ready training pipelines, real-time inference, and format converters. Features state-of-the-art models (Faster R-CNN, FCOS, RetinaNet), mixed precision training, rich progress tracking, and optimizations for small object detection in drone imagery.",
-  "description_ja": "VisDrone空中物体検出データセット向けのモダンなPyTorchツールキット。本番対応の学習パイプライン・リアルタイム推論・フォーマット変換ツールを提供。最先端モデル（Faster R-CNN・FCOS・RetinaNet）・混合精度学習・詳細な進捗追跡・ドローン映像中の小物体検出最適化を搭載。",
+  "description": "VisDrone aerial object detection toolkit with 33 models (Torchvision + YOLO), training, evaluation, video inference, benchmarking, and annotation conversion.",
+  "description_ja": "",
   "url": "https://github.com/dronefreak/VisDrone-dataset-python-toolkit",
   "homepage_url": "",
   "language": "Python",
@@ -27,13 +27,13 @@
     "visdrone-dataset",
     "yolo"
   ],
-  "star_count": 69,
+  "star_count": 70,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-02-24T15:48:03Z",
-  "updated_at": "2026-06-05T18:47:54Z",
-  "pushed_at": "2026-05-31T19:10:59Z",
+  "updated_at": "2026-06-08T10:15:12Z",
+  "pushed_at": "2026-06-08T10:02:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -163,6 +163,10 @@
     {
       "date": "2026-06-07",
       "stars": 69
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 70
     }
   ]
 }

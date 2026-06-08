@@ -6,20 +6,20 @@
   "description": "FillablePDF is an extremely simple and lightweight utility that bridges iText and Ruby in order to fill out fillable PDF forms or extract field values from previously filled out PDF forms.",
   "description_ja": "FillablePDF は iText と Ruby を橋渡しし、記入可能な PDF フォームへの入力や、既入力 PDF フォームからのフィールド値抽出を行う、極めてシンプルで軽量なユーティリティ。",
   "url": "https://github.com/vkononov/fillable-pdf",
-  "homepage_url": "https://vadimkononov.ca",
+  "homepage_url": "https://vadimkononov.ca/gems",
   "language": "Ruby",
   "license": "NOASSERTION",
   "topics": [
-    "pdf",
-    "rails",
-    "ruby"
+    "fillable-pdf",
+    "itextpdf",
+    "ruby-on-rails"
   ],
   "star_count": 81,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-09-16T04:51:16Z",
-  "updated_at": "2026-05-21T14:41:00Z",
+  "updated_at": "2026-06-08T02:24:39Z",
   "pushed_at": "2026-01-27T06:09:13Z",
   "deleted_at": "",
   "star_history": [
@@ -149,6 +149,10 @@
     },
     {
       "date": "2026-06-07",
+      "stars": 81
+    },
+    {
+      "date": "2026-06-08",
       "stars": 81
     }
   ]

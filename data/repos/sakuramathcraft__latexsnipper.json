@@ -3,8 +3,8 @@
   "owner": "sakuramathcraft",
   "name": "latexsnipper",
   "full_name": "sakuramathcraft/latexsnipper",
-  "description": "A Windows math workspace for screenshot OCR, handwriting-to-LaTeX, editing, preview, and symbolic computation, powered by MathCraft OCR and MathLive.",
-  "description_ja": "MathCraft OCR と MathLive を活用した、スクリーンショット OCR・手書き→LaTeX 変換・編集・プレビュー・記号計算を備えた Windows 数学ワークスペース",
+  "description": "A math workspace for screenshot OCR, handwriting-to-LaTeX, editing, preview, and symbolic computation, powered by MathCraft OCR and MathLive.",
+  "description_ja": "",
   "url": "https://github.com/SakuraMathcraft/LaTeXSnipper",
   "homepage_url": "https://latexsnipper.interknot.dpdns.org/",
   "language": "Python",
@@ -23,12 +23,12 @@
     "pytorch",
     "transformer"
   ],
-  "star_count": 191,
-  "fork_count": 17,
+  "star_count": 205,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-01T06:54:46Z",
-  "updated_at": "2026-06-07T17:05:05Z",
+  "updated_at": "2026-06-08T16:18:16Z",
   "pushed_at": "2026-06-06T09:16:47Z",
   "deleted_at": "",
   "star_history": [
@@ -159,6 +159,10 @@
     {
       "date": "2026-06-07",
       "stars": 191
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 205
     }
   ]
 }

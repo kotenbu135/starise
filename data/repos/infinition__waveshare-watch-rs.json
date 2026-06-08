@@ -9,14 +9,27 @@
   "homepage_url": "https://infinition.github.io/waveshare-watch-rs/",
   "language": "Rust",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 327,
+  "topics": [
+    "amoled",
+    "asynchronous",
+    "drivers",
+    "embassy",
+    "embedded",
+    "embedded-systems",
+    "esp32-s3",
+    "firmware",
+    "graphics-library",
+    "rust",
+    "smartwatch",
+    "waveshare"
+  ],
+  "star_count": 330,
   "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-09T19:48:40Z",
-  "updated_at": "2026-06-06T14:08:40Z",
-  "pushed_at": "2026-06-02T10:04:51Z",
+  "updated_at": "2026-06-08T20:48:45Z",
+  "pushed_at": "2026-06-08T20:48:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -102,6 +115,10 @@
     {
       "date": "2026-06-07",
       "stars": 327
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 330
     }
   ]
 }

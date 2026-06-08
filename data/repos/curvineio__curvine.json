@@ -3,8 +3,8 @@
   "owner": "curvineio",
   "name": "curvine",
   "full_name": "curvineio/curvine",
-  "description": "High-performance distributed multi-tier cache system. Built in Rust.",
-  "description_ja": "Rust 製の高性能分散マルチティアキャッシュシステム",
+  "description": "AI-Native \u0026 Cloud-Native FS:  A high-performance file semantic layer for cloud object storage, integrated with high-speed cache",
+  "description_ja": "",
   "url": "https://github.com/CurvineIO/curvine",
   "homepage_url": "https://curvineio.github.io",
   "language": "Rust",
@@ -12,25 +12,26 @@
   "topics": [
     "ai",
     "ai-infra",
+    "ai-memory-bank",
+    "ai-native",
     "cloud-native",
-    "fluid",
-    "high-performance-computing",
-    "inference-acceleration",
     "lance",
     "lancedb",
     "model-deployment",
     "model-training",
     "opendal",
     "rust",
-    "s3"
+    "s3",
+    "s3-files",
+    "vllm-plugins"
   ],
-  "star_count": 800,
-  "fork_count": 92,
+  "star_count": 801,
+  "fork_count": 93,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-27T06:24:21Z",
-  "updated_at": "2026-06-07T07:10:52Z",
-  "pushed_at": "2026-06-05T10:33:18Z",
+  "updated_at": "2026-06-08T11:07:20Z",
+  "pushed_at": "2026-06-08T11:24:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -164,6 +165,10 @@
     {
       "date": "2026-06-07",
       "stars": 800
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 801
     }
   ]
 }

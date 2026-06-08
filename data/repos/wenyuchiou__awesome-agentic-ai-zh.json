@@ -3,7 +3,7 @@
   "owner": "wenyuchiou",
   "name": "awesome-agentic-ai-zh",
   "full_name": "wenyuchiou/awesome-agentic-ai-zh",
-  "description": "A structured, trilingual (繁中 / 简中 / English) learning roadmap for agentic AI — from LLM basics to multi-agent systems. 8 stages · 145+ curated projects · hands-on exercises. 中文 AI agent 學習地圖。",
+  "description": "A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。",
   "description_ja": "",
   "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
   "homepage_url": "https://wenyuchiou.github.io/awesome-agentic-ai-zh/",
@@ -11,25 +11,32 @@
   "license": "MIT",
   "topics": [
     "agentic-ai",
+    "agentic-workflows",
+    "ai-agent",
     "ai-agents",
     "awesome-list",
+    "chinese-llm",
     "claude-code",
     "claude-skills",
     "cli",
     "learning-roadmap",
+    "llm",
     "llm-agents",
     "mcp",
     "model-context-protocol",
+    "multi-agent-systems",
+    "prompt-engineering",
+    "rag",
     "trilingual",
     "tutorial"
   ],
-  "star_count": 1903,
-  "fork_count": 221,
+  "star_count": 2016,
+  "fork_count": 241,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-04T22:18:51Z",
-  "updated_at": "2026-06-07T18:37:01Z",
-  "pushed_at": "2026-06-07T15:03:32Z",
+  "updated_at": "2026-06-08T21:45:26Z",
+  "pushed_at": "2026-06-08T17:26:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -127,6 +134,10 @@
     {
       "date": "2026-06-07",
       "stars": 1903
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 2016
     }
   ]
 }

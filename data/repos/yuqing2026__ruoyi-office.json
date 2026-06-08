@@ -3,19 +3,39 @@
   "owner": "yuqing2026",
   "name": "ruoyi-office",
   "full_name": "yuqing2026/ruoyi-office",
-  "description": "🔥🔥🔥RuoYi Office 基于 SpringCloud+Vue3+Vben的中小企业办公一体化平台，涵盖 │🏢 OA协同办公 │💼 HRM人力资源 │🤝 CRM客户管理 │📋 BPM审批流 │📦 ERP进销存 │📑 合同管理 │ 📊 PMS项目管理 │🏭 EAM资产 │📦 WMS仓储 │ 🛒 MALL商城 │🤖 AI智能助手 │📈 数据报表 │等十余个子系统。",
-  "description_ja": "🔥🔥🔥RuoYi Office は SpringCloud+Vue3+Vben ベースの中小企業向けオールインワン業務プラットフォーム。OA 協調オフィス・HRM 人事管理・CRM 顧客管理・BPM 承認フロー・ERP 在庫管理・契約管理・PMS プロジェクト管理・EAM 資産管理・WMS 倉庫管理・MALL ショッピング・AI アシスタント・データレポートなど十数のサブシステムを搭載。",
+  "description": "🔥🔥🔥RuoYi Office 基于 SpringCloud+Vue3+Vben 的中小企业办公一体化平台，涵盖 │🏢 OA协同办公 │💼 HRM人力资源 │🤝 CRM客户管理 │📋 BPM审批流 │🛍️ ERP进销存 │📑 合同管理 │📊 PMS项目管理 │🏭 EAM资产 │📦 WMS仓储 │⚙️ MES制造执行 │💰 财务管理 │📡 IoT物联网 │🛠️ 工单管理 │🛒 MALL商城 │🤖 AI智能助手 │📈 数据报表 │等十余个子系统。",
+  "description_ja": "",
   "url": "https://github.com/yuqing2026/ruoyi-office",
-  "homepage_url": "",
+  "homepage_url": "http://ruoyioffice.com/web",
   "language": "Java",
   "license": "MIT",
-  "topics": [],
-  "star_count": 140,
-  "fork_count": 69,
+  "topics": [
+    "antdv",
+    "bpm",
+    "crm",
+    "eam",
+    "erp",
+    "flowable",
+    "hrm",
+    "iot",
+    "low-code",
+    "mes",
+    "mybatis-plus",
+    "oa",
+    "project-management",
+    "saas",
+    "springboot",
+    "springcloud",
+    "vben",
+    "vue3",
+    "wms"
+  ],
+  "star_count": 141,
+  "fork_count": 70,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-09T11:01:36Z",
-  "updated_at": "2026-06-07T06:56:54Z",
+  "updated_at": "2026-06-08T08:29:34Z",
   "pushed_at": "2026-04-06T14:09:45Z",
   "deleted_at": "",
   "star_history": [
@@ -150,6 +170,10 @@
     {
       "date": "2026-06-07",
       "stars": 140
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 141
     }
   ]
 }

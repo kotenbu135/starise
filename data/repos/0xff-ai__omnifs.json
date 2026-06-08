@@ -3,20 +3,25 @@
   "owner": "0xff-ai",
   "name": "omnifs",
   "full_name": "0xff-ai/omnifs",
-  "description": "open a /path, read the world  🪐 every service, platform, system, mounted on your filesystem. for agents, for humans.",
+  "description": "a projected filesystem that turns APIs, services, and data sources into local files and directories",
   "description_ja": "",
   "url": "https://github.com/0xff-ai/omnifs",
-  "homepage_url": "",
+  "homepage_url": "https://omnifs.dev",
   "language": "Rust",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "filesystem",
+    "fuse",
+    "kernel",
+    "linux"
+  ],
   "star_count": 37,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-12T18:12:47Z",
-  "updated_at": "2026-06-07T13:27:48Z",
-  "pushed_at": "2026-06-07T12:26:11Z",
+  "updated_at": "2026-06-08T20:35:35Z",
+  "pushed_at": "2026-06-08T20:35:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -145,6 +150,10 @@
     },
     {
       "date": "2026-06-07",
+      "stars": 37
+    },
+    {
+      "date": "2026-06-08",
       "stars": 37
     }
   ]

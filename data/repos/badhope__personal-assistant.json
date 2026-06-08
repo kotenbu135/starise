@@ -3,7 +3,7 @@
   "owner": "badhope",
   "name": "personal-assistant",
   "full_name": "badhope/personal-assistant",
-  "description": "Pipeline-driven personal AI agent: 10 LLM providers, 7 real tools, 6-stage pipeline, React Web UI + CLI. Zero mocks.",
+  "description": "A personal AI agent with a 6-stage pipeline, 10 LLM providers, 7 real tools, React Web UI, and CLI. No mock layer — every call hits the real endpoint.",
   "description_ja": "",
   "url": "https://github.com/badhope/Personal-Assistant",
   "homepage_url": "https://github.com/badhope/Personal-Assistant#readme",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-23T14:36:31Z",
-  "updated_at": "2026-06-06T11:24:10Z",
-  "pushed_at": "2026-06-06T06:46:15Z",
+  "updated_at": "2026-06-08T18:30:36Z",
+  "pushed_at": "2026-06-08T18:30:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -118,6 +118,10 @@
     },
     {
       "date": "2026-06-07",
+      "stars": 41
+    },
+    {
+      "date": "2026-06-08",
       "stars": 41
     }
   ]

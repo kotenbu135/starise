@@ -3,20 +3,27 @@
   "owner": "agentjido",
   "name": "req_llm",
   "full_name": "agentjido/req_llm",
-  "description": "Req plugin to query AI providers",
-  "description_ja": "[37] AIプロバイダーへのクエリを行うReqプラグイン",
+  "description": "Composable Elixir library for LLM interactions built on Req and Finch",
+  "description_ja": "",
   "url": "https://github.com/agentjido/req_llm",
-  "homepage_url": "",
+  "homepage_url": "https://jido.run/ecosystem/req_llm",
   "language": "Elixir",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "ai",
+    "ai-providers",
+    "elixir",
+    "elixir-package",
+    "llm",
+    "req"
+  ],
   "star_count": 532,
   "fork_count": 161,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-05T20:23:26Z",
-  "updated_at": "2026-06-07T01:29:00Z",
-  "pushed_at": "2026-06-07T01:28:56Z",
+  "updated_at": "2026-06-08T20:18:06Z",
+  "pushed_at": "2026-06-08T20:17:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -149,6 +156,10 @@
     },
     {
       "date": "2026-06-07",
+      "stars": 532
+    },
+    {
+      "date": "2026-06-08",
       "stars": 532
     }
   ]

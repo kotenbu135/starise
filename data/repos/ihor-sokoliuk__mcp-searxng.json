@@ -3,31 +3,33 @@
   "owner": "ihor-sokoliuk",
   "name": "mcp-searxng",
   "full_name": "ihor-sokoliuk/mcp-searxng",
-  "description": "MCP Server for SearXNG",
-  "description_ja": "SearXNG 向け MCP サーバー",
+  "description": "Private web search for AI assistants via SearXNG — supports Claude, Cursor, and any MCP client",
+  "description_ja": "",
   "url": "https://github.com/ihor-sokoliuk/mcp-searxng",
-  "homepage_url": "",
+  "homepage_url": "https://www.npmjs.com/package/mcp-searxng",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "ai",
+    "claude",
+    "cursor",
     "llm",
-    "llm-agent",
     "mcp",
     "mcp-server",
     "mcp-servers",
-    "mcp-tools",
+    "privacy",
     "search",
-    "search-engine",
-    "searxng"
+    "searxng",
+    "self-hosted",
+    "web-search"
   ],
-  "star_count": 869,
-  "fork_count": 133,
+  "star_count": 876,
+  "fork_count": 134,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-23T02:00:51Z",
-  "updated_at": "2026-06-07T17:25:24Z",
-  "pushed_at": "2026-06-05T18:36:20Z",
+  "updated_at": "2026-06-08T19:13:29Z",
+  "pushed_at": "2026-06-08T19:13:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -161,6 +163,10 @@
     {
       "date": "2026-06-07",
       "stars": 869
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 876
     }
   ]
 }

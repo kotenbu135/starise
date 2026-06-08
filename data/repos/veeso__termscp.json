@@ -3,8 +3,8 @@
   "owner": "veeso",
   "name": "termscp",
   "full_name": "veeso/termscp",
-  "description": "🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB",
-  "description_ja": "🖥 SCP/SFTP/FTP/S3/SMBに対応した高機能なターミナルUIファイル転送・エクスプローラー",
+  "description": "🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV",
+  "description_ja": "",
   "url": "https://github.com/veeso/termscp",
   "homepage_url": "https://termscp.rs",
   "language": "Rust",
@@ -31,13 +31,13 @@
     "winscp-for-linux",
     "winscp-for-mac"
   ],
-  "star_count": 2967,
+  "star_count": 2968,
   "fork_count": 77,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-07T16:03:06Z",
-  "updated_at": "2026-06-07T19:08:09Z",
-  "pushed_at": "2026-06-07T17:16:04Z",
+  "updated_at": "2026-06-08T19:21:15Z",
+  "pushed_at": "2026-06-08T19:21:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -171,6 +171,10 @@
     {
       "date": "2026-06-07",
       "stars": 2967
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 2968
     }
   ]
 }

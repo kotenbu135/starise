@@ -3,8 +3,8 @@
   "owner": "rsasaki0109",
   "name": "localization_zoo",
   "full_name": "rsasaki0109/localization_zoo",
-  "description": "C++ implementations, derived variants, and compact baselines for localization papers with ROS 2, tests, and benchmarks.",
-  "description_ja": "ROS 2を用いた自己位置推定論文のC++実装、派生バリアント、コンパクトなベースライン（テストおよびベンチマーク付き）。",
+  "description": "C++ from-paper reimplementations of LiDAR localization \u0026 odometry papers — honestly benchmarked on KITTI, with tests.",
+  "description_ja": "",
   "url": "https://github.com/rsasaki0109/localization_zoo",
   "homepage_url": "https://rsasaki0109.github.io/localization_zoo/",
   "language": "C++",
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T01:28:19Z",
-  "updated_at": "2026-06-05T14:32:01Z",
-  "pushed_at": "2026-06-07T13:33:23Z",
+  "updated_at": "2026-06-08T21:42:23Z",
+  "pushed_at": "2026-06-08T21:42:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -156,6 +156,10 @@
     },
     {
       "date": "2026-06-07",
+      "stars": 37
+    },
+    {
+      "date": "2026-06-08",
       "stars": 37
     }
   ]

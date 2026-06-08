@@ -7,7 +7,7 @@
   "description_ja": "Claude Code、Cursor、Copilotなど主要なコーディングエージェント全般にわたってスキルをインストール・管理・共有する",
   "url": "https://github.com/VintLin/skill-flow",
   "homepage_url": "",
-  "language": "TypeScript",
+  "language": "Swift",
   "license": "Apache-2.0",
   "topics": [
     "agent",
@@ -30,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-21T10:46:31Z",
-  "updated_at": "2026-06-07T18:35:28Z",
-  "pushed_at": "2026-06-07T18:42:01Z",
+  "updated_at": "2026-06-08T07:45:15Z",
+  "pushed_at": "2026-06-08T07:54:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -164,6 +164,10 @@
     },
     {
       "date": "2026-06-07",
+      "stars": 235
+    },
+    {
+      "date": "2026-06-08",
       "stars": 235
     }
   ]

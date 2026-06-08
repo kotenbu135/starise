@@ -3,8 +3,8 @@
   "owner": "didww",
   "name": "credit_card_validations",
   "full_name": "didww/credit_card_validations",
-  "description": ":credit_card: ruby gem for validating credit card numbers, generating valid numbers, luhn checks",
-  "description_ja": "クレジットカード番号の検証・生成・Luhnチェックを行うRuby gem",
+  "description": ":credit_card: ruby gem for validating credit cards, generating credit card numbers, Luhn checks",
+  "description_ja": "",
   "url": "https://github.com/didww/credit_card_validations",
   "homepage_url": "https://rubygems.org/gems/credit_card_validations",
   "language": "Ruby",
@@ -16,11 +16,11 @@
     "validation"
   ],
   "star_count": 264,
-  "fork_count": 71,
+  "fork_count": 70,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-03-19T08:54:17Z",
-  "updated_at": "2026-06-07T06:14:31Z",
+  "updated_at": "2026-06-07T21:04:26Z",
   "pushed_at": "2026-06-07T06:14:28Z",
   "deleted_at": "",
   "star_history": [
@@ -154,6 +154,10 @@
     },
     {
       "date": "2026-06-07",
+      "stars": 264
+    },
+    {
+      "date": "2026-06-08",
       "stars": 264
     }
   ]

@@ -6,17 +6,21 @@
   "description": "DockAnchor is a simple macOS utility that stops the Dock from moving between displays. Lock your Dock to a single screen for a more stable, distraction-free workspace. Ideal for multi-monitor setups. Lightweight, native, and runs quietly in the background.",
   "description_ja": "DockAnchor は、Dock が複数ディスプレイ間で移動しないようにするシンプルな macOS ユーティリティ。Dock を単一スクリーンにロックして、より安定した集中できるワークスペースを実現。マルチモニター環境に最適。軽量・ネイティブ・バックグラウンドで静かに動作。",
   "url": "https://github.com/bwya77/DockAnchor",
-  "homepage_url": "",
+  "homepage_url": "https://bwya77.github.io/DockAnchor/",
   "language": "Swift",
   "license": "MIT",
-  "topics": [],
-  "star_count": 486,
+  "topics": [
+    "apple",
+    "macos",
+    "macos-app"
+  ],
+  "star_count": 489,
   "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-01T16:29:52Z",
-  "updated_at": "2026-06-06T22:57:21Z",
-  "pushed_at": "2026-01-21T15:35:52Z",
+  "updated_at": "2026-06-08T19:28:33Z",
+  "pushed_at": "2026-06-08T19:28:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -150,6 +154,10 @@
     {
       "date": "2026-06-07",
       "stars": 486
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 489
     }
   ]
 }

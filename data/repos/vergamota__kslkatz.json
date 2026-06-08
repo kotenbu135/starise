@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDORwCK6g",
+  "owner": "vergamota",
+  "name": "kslkatz",
+  "full_name": "vergamota/kslkatz",
+  "description": "Combining KslDump and GhostKatz to dump LSASS using no-fix KslD.sys memory read to bypass PPL. Extracts MSV1_0 NT hashes and WDigest cleartext passwords (if enabled) from LSASS using a Microsoft-signed driver.",
+  "description_ja": "",
+  "url": "https://github.com/vergamota/KslKatz",
+  "homepage_url": "",
+  "language": "C++",
+  "license": "",
+  "topics": [],
+  "star_count": 46,
+  "fork_count": 49,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-25T03:02:01Z",
+  "updated_at": "2026-06-08T14:49:47Z",
+  "pushed_at": "2026-03-25T00:23:44Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-08",
+      "stars": 46
+    }
+  ]
+}

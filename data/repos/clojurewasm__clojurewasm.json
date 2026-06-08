@@ -3,7 +3,7 @@
   "owner": "clojurewasm",
   "name": "clojurewasm",
   "full_name": "clojurewasm/clojurewasm",
-  "description": "An independent Clojure runtime implemented in Zig, optimized for high-performance native execution and deep WebAssembly runtime integration.",
+  "description": "An independent Clojure runtime implemented in Zig, optimized for high-performance native execution and WebAssembly runtime integration.",
   "description_ja": "",
   "url": "https://github.com/clojurewasm/ClojureWasm",
   "homepage_url": "",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-01T04:59:18Z",
-  "updated_at": "2026-06-06T04:06:12Z",
-  "pushed_at": "2026-06-07T18:12:32Z",
+  "updated_at": "2026-06-08T14:14:25Z",
+  "pushed_at": "2026-06-08T19:34:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -110,6 +110,10 @@
     },
     {
       "date": "2026-06-07",
+      "stars": 105
+    },
+    {
+      "date": "2026-06-08",
       "stars": 105
     }
   ]

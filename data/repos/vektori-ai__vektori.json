@@ -3,8 +3,8 @@
   "owner": "vektori-ai",
   "name": "vektori",
   "full_name": "vektori-ai/vektori",
-  "description": "Memory that remembers the story not just the facts. Three layer  sentence graph for AI agents -\u003e Facts, Episodes, raw Sentences.   One DB. Zero config.",
-  "description_ja": "事実だけでなくストーリーを記憶するメモリ。AIエージェント向け3層文グラフ（Facts・Episodes・raw Sentences）。DB一つ、設定不要。",
+  "description": "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -\u003e Facts, Episodes, raw Sentences.   One DB. Zero config.",
+  "description_ja": "",
   "url": "https://github.com/vektori-ai/vektori",
   "homepage_url": "https://vektori.cloud",
   "language": "Python",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T17:46:54Z",
-  "updated_at": "2026-06-05T03:25:10Z",
-  "pushed_at": "2026-05-26T05:19:37Z",
+  "updated_at": "2026-06-08T16:06:46Z",
+  "pushed_at": "2026-06-08T16:43:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -170,6 +170,10 @@
     },
     {
       "date": "2026-06-07",
+      "stars": 122
+    },
+    {
+      "date": "2026-06-08",
       "stars": 122
     }
   ]

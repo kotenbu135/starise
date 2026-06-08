@@ -10,7 +10,6 @@
   "language": "C",
   "license": "GPL-3.0",
   "topics": [
-    "arduino-esp8266",
     "arduino-ide",
     "arduino-uno",
     "esp-gpio",
@@ -19,7 +18,7 @@
     "esp-ota",
     "esp32",
     "esp8266",
-    "http-server",
+    "https-server",
     "iot",
     "iot-framework",
     "iot-platform",
@@ -36,7 +35,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-31T12:18:57Z",
-  "updated_at": "2026-06-07T18:39:57Z",
+  "updated_at": "2026-06-08T04:53:38Z",
   "pushed_at": "2026-06-07T18:38:59Z",
   "deleted_at": "",
   "star_history": [
@@ -166,6 +165,10 @@
     },
     {
       "date": "2026-06-07",
+      "stars": 81
+    },
+    {
+      "date": "2026-06-08",
       "stars": 81
     }
   ]
