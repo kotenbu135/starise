@@ -3,28 +3,34 @@
   "owner": "leon-drq",
   "name": "openagentskill",
   "full_name": "leon-drq/openagentskill",
-  "description": "The open marketplace for AI agent skills. Discover, publish, and compose skills for AI agents.",
-  "description_ja": "AIエージェントスキルのオープンマーケットプレイス。AIエージェント向けのスキルを発見・公開・組み合わせる",
+  "description": "Open discovery, audit, and recommendation infrastructure for AI agent skills.",
+  "description_ja": "",
   "url": "https://github.com/Leon-Drq/openagentskill",
   "homepage_url": "https://www.openagentskill.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "agent",
+    "agent-skills",
+    "ai-agents",
+    "ai-tools",
+    "claude-code",
+    "codex",
     "nextjs",
     "open-source",
-    "openclaw",
-    "openclaw-skills",
+    "skill-marketplace",
     "skills",
-    "typescript"
+    "supabase",
+    "typescript",
+    "vercel"
   ],
   "star_count": 169,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-19T15:18:45Z",
-  "updated_at": "2026-06-08T18:07:59Z",
-  "pushed_at": "2026-06-08T18:07:52Z",
+  "updated_at": "2026-06-09T16:53:46Z",
+  "pushed_at": "2026-06-09T16:48:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -157,6 +163,10 @@
     },
     {
       "date": "2026-06-08",
+      "stars": 169
+    },
+    {
+      "date": "2026-06-09",
       "stars": 169
     }
   ]

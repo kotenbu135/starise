@@ -3,7 +3,7 @@
   "owner": "badhope",
   "name": "mindmirror",
   "full_name": "badhope/mindmirror",
-  "description": "Privacy-first psychological assessment platform. Big Five, PSS-10, GAD-7, SSRS, MBI-GS, SWLS, CD-RISC-10, mood tracker \u0026 mental training. Static build (localStorage) + self-hosted (FastAPI+Postgres). EN / 中文. PolyForm Noncommercial.",
+  "description": "Self-check scales (Big Five, PSS-10, GAD-7, SSRS, MBI-GS, SWLS, CD-RISC-10) plus a mood log and CBT-style training. Runs entirely in your browser, answers live in localStorage. EN / 中文. PolyForm Noncommercial.",
   "description_ja": "",
   "url": "https://github.com/badhope/MindMirror",
   "homepage_url": "https://badhope.github.io/MindMirror/",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T08:52:31Z",
-  "updated_at": "2026-06-08T18:00:53Z",
-  "pushed_at": "2026-06-08T18:00:48Z",
+  "updated_at": "2026-06-09T14:38:47Z",
+  "pushed_at": "2026-06-09T17:24:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -174,6 +174,10 @@
     },
     {
       "date": "2026-06-08",
+      "stars": 67
+    },
+    {
+      "date": "2026-06-09",
       "stars": 67
     }
   ]

@@ -3,26 +3,29 @@
   "owner": "apisyouwonthate",
   "name": "openapi.tools",
   "full_name": "apisyouwonthate/openapi.tools",
-  "description": "A collection of Editors, Linters, Parsers, Code Generators,  Documentation, Testing",
-  "description_ja": "エディター、リンター、パーサー、コードジェネレーター、ドキュメント、テストツールのコレクション",
+  "description": "The most comprehensive collection of quality OpenAPI tooling, curated by Phil Sturgeon and the team at APIs You Won't Hate.",
+  "description_ja": "",
   "url": "https://github.com/apisyouwonthate/openapi.tools",
   "homepage_url": "https://openapi.tools",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "api-rest",
     "openapi",
+    "openapi-documentation",
+    "openapi-generator",
+    "openapi-spec",
     "openapi-specification",
+    "openapi-validation",
     "openapi3",
-    "openapi31",
-    "swagger",
-    "swagger2"
+    "openapi31"
   ],
   "star_count": 834,
   "fork_count": 387,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-15T22:51:00Z",
-  "updated_at": "2026-06-08T14:01:55Z",
+  "updated_at": "2026-06-09T13:01:22Z",
   "pushed_at": "2026-06-06T14:35:18Z",
   "deleted_at": "",
   "star_history": [
@@ -160,6 +163,10 @@
     },
     {
       "date": "2026-06-08",
+      "stars": 834
+    },
+    {
+      "date": "2026-06-09",
       "stars": 834
     }
   ]

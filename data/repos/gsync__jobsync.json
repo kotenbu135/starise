@@ -3,8 +3,8 @@
   "owner": "gsync",
   "name": "jobsync",
   "full_name": "gsync/jobsync",
-  "description": "JobSync is a self-hosted, open-source job application tracker and AI-powered career assistant. Built with Next.js and Shadcn UI, it helps job seekers manage their search journey with AI resume review, job matching, task logging, and application analytics—all while keeping your data private.",
-  "description_ja": "JobSyncはセルフホスト型のオープンソース就職活動トラッカー兼AIキャリアアシスタントです。Next.jsとShadcn UIで構築され、AIによる履歴書レビュー・求人マッチング・タスク記録・応募分析を通じて就職活動をサポートしながら、データのプライバシーを守ります。",
+  "description": "Self-hosted, open-source job application tracker and AI-powered career assistant. Built with Next.js, helps job seekers manage their search journey with AI resume review, job matching, task logging, and application analytics—all while keeping your data private.",
+  "description_ja": "",
   "url": "https://github.com/Gsync/jobsync",
   "homepage_url": "https://jobsync.ca",
   "language": "TypeScript",
@@ -31,12 +31,12 @@
     "tiptap",
     "typescript"
   ],
-  "star_count": 606,
+  "star_count": 609,
   "fork_count": 108,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-21T22:30:01Z",
-  "updated_at": "2026-06-08T19:30:23Z",
+  "updated_at": "2026-06-09T15:48:05Z",
   "pushed_at": "2026-06-06T05:28:30Z",
   "deleted_at": "",
   "star_history": [
@@ -171,6 +171,10 @@
     {
       "date": "2026-06-08",
       "stars": 606
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 609
     }
   ]
 }

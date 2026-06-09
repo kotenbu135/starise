@@ -3,20 +3,20 @@
   "owner": "weicj",
   "name": "vllm-2080ti-definitive",
   "full_name": "weicj/vllm-2080ti-definitive",
-  "description": "The definitive vLLM runtime for dual RTX 2080 Ti 22GB + NVLink, delivering 27B/31B local inference with 100+ tok/s single-request decode and maximum 1M context.",
+  "description": "The definitive vLLM runtime for dual RTX 2080 Ti 22GB + NVLink, delivering 27B/31B local inference with 100+ tok/s single-request decode with support of FP8 weight ",
   "description_ja": "",
   "url": "https://github.com/weicj/vLLM-2080Ti-Definitive",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 84,
+  "star_count": 94,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-02T12:15:32Z",
-  "updated_at": "2026-06-08T12:14:33Z",
-  "pushed_at": "2026-06-08T06:46:04Z",
+  "updated_at": "2026-06-09T17:49:54Z",
+  "pushed_at": "2026-06-09T13:12:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +42,10 @@
     {
       "date": "2026-06-08",
       "stars": 84
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 94
     }
   ]
 }

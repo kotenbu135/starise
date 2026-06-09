@@ -3,7 +3,7 @@
   "owner": "ibm",
   "name": "assetopsbench",
   "full_name": "ibm/assetopsbench",
-  "description": "AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scenarios, 4 specialist agents (IoT, FMSR, TSFM, Work Order), and multi-agent orchestration blueprints (MetaAgent, AgentHive) over MCP.",
+  "description": "AssetOpsBench - Industry 4.0: A unified benchmark and framework for building, orchestrating, and evaluating domain-specific AI agents for Industry 4.0 asset operations and maintenance, with 460+ scenarios, 5 specialist agents (IoT, FMSR, TSFM, Work Order,...), and multi-agent orchestration blueprints (MetaAgent, AgentHive) over MCP.",
   "description_ja": "",
   "url": "https://github.com/IBM/AssetOpsBench",
   "homepage_url": "",
@@ -19,13 +19,13 @@
     "predictive-maintenance",
     "time-series-forecasting"
   ],
-  "star_count": 1732,
-  "fork_count": 258,
+  "star_count": 1740,
+  "fork_count": 260,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-01T20:48:50Z",
-  "updated_at": "2026-06-08T20:18:24Z",
-  "pushed_at": "2026-06-08T20:18:19Z",
+  "updated_at": "2026-06-09T17:33:40Z",
+  "pushed_at": "2026-06-09T18:59:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +75,10 @@
     {
       "date": "2026-06-08",
       "stars": 1732
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 1740
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "plutolang",
   "name": "pluto",
   "full_name": "plutolang/pluto",
-  "description": "A superset of Lua 5.4 with a focus on general-purpose programming.",
-  "description_ja": "汎用プログラミングに特化した Lua 5.4 のスーパーセット",
+  "description": "A superset of Lua 5.5 with a focus on general-purpose programming.",
+  "description_ja": "",
   "url": "https://github.com/PlutoLang/Pluto",
   "homepage_url": "https://pluto-lang.org",
   "language": "C++",
@@ -18,13 +18,13 @@
     "programming-language",
     "superset"
   ],
-  "star_count": 681,
+  "star_count": 680,
   "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-05T17:23:02Z",
-  "updated_at": "2026-06-04T09:43:36Z",
-  "pushed_at": "2026-06-08T21:14:09Z",
+  "updated_at": "2026-06-09T14:03:05Z",
+  "pushed_at": "2026-06-09T13:49:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -162,6 +162,10 @@
     {
       "date": "2026-06-08",
       "stars": 681
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 680
     }
   ]
 }

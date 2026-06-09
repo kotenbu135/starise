@@ -3,37 +3,41 @@
   "owner": "peterfei",
   "name": "ifai",
   "full_name": "peterfei/ifai",
-  "description": "若爱 (IfAI) - 基于 Tauri 2.0 构建的跨平台 AI 代码编辑器 | A Cross-Platform AI Code Editor Built with Tauri 2.0",
-  "description_ja": "若爱 (IfAI) — Tauri 2.0 で構築されたクロスプラットフォーム AI コードエディタ",
+  "description": "若爱 (IfAI) — AI Agent 编排助手 \u0026 代码编辑器 | An AI Agent Orchestrator \u0026 Code Editor built with Tauri 2.0",
+  "description_ja": "",
   "url": "https://github.com/peterfei/ifai",
   "homepage_url": "https://docs.ifai.today",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
+    "agent-orchestrator",
     "ai",
     "ai-agent",
-    "ai-agent-team",
-    "ai-agent-tools",
     "ai-assistant",
+    "ai-editor",
     "ai-native",
+    "ai-tool",
     "claude-code",
     "code-editor",
     "cursor",
-    "editor",
+    "dag-workflow",
     "harness",
-    "harness-framework",
     "ifai",
     "monaco-editor",
+    "multi-agent",
+    "react",
     "rust",
-    "trae"
+    "tauri",
+    "trae",
+    "workflow-engine"
   ],
-  "star_count": 99,
+  "star_count": 98,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-13T15:05:25Z",
-  "updated_at": "2026-05-31T11:25:27Z",
-  "pushed_at": "2026-05-31T11:26:25Z",
+  "updated_at": "2026-06-09T16:00:30Z",
+  "pushed_at": "2026-06-09T06:44:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -171,6 +175,10 @@
     {
       "date": "2026-06-08",
       "stars": 99
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 98
     }
   ]
 }

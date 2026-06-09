@@ -3,8 +3,8 @@
   "owner": "ultralytics",
   "name": "yolov3",
   "full_name": "ultralytics/yolov3",
-  "description": "YOLOv3 in PyTorch \u003e ONNX \u003e CoreML \u003e TFLite",
-  "description_ja": "PyTorch \u003e ONNX \u003e CoreML \u003e TFLite向けYOLOv3",
+  "description": "Ultralytics YOLOv3 in PyTorch \u003e ONNX \u003e CoreML \u003e TFLite",
+  "description_ja": "",
   "url": "https://github.com/ultralytics/yolov3",
   "homepage_url": "https://docs.ultralytics.com",
   "language": "Python",
@@ -18,13 +18,13 @@
     "yolov3",
     "yolov5"
   ],
-  "star_count": 10571,
+  "star_count": 10570,
   "fork_count": 3432,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-08-26T08:57:20Z",
-  "updated_at": "2026-06-08T21:17:50Z",
-  "pushed_at": "2026-06-08T21:17:47Z",
+  "updated_at": "2026-06-09T15:52:08Z",
+  "pushed_at": "2026-06-09T15:04:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -162,6 +162,10 @@
     {
       "date": "2026-06-08",
       "stars": 10571
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 10570
     }
   ]
 }

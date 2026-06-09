@@ -3,18 +3,21 @@
   "owner": "zhaoyang97",
   "name": "paper-notes",
   "full_name": "zhaoyang97/paper-notes",
-  "description": "📚 数千篇 AI · LLM · NLP · CV 顶会论文解读，每篇 5 分钟读懂核心思想。",
-  "description_ja": "📚 AI・LLM・NLP・CVの主要国際会議論文を数千本解説。1本あたり5分で核心的なアイデアを理解できる。",
+  "description": "📚 数千篇 AI、LLM、NLP、CV 顶会论文解读，每篇 5 分钟读懂核心思想。",
+  "description_ja": "",
   "url": "https://github.com/zhaoyang97/Paper-Notes",
   "homepage_url": "https://papernotes.org",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
     "acl",
+    "acl2026",
     "ai",
     "cv",
     "cvpr",
+    "cvpr2026",
     "iclr",
+    "icml-2026",
     "llm",
     "neurips",
     "nlp",
@@ -22,13 +25,13 @@
     "paper-notes",
     "paper-reading"
   ],
-  "star_count": 517,
-  "fork_count": 27,
+  "star_count": 533,
+  "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T11:32:08Z",
-  "updated_at": "2026-06-08T19:30:35Z",
-  "pushed_at": "2026-06-08T03:58:29Z",
+  "updated_at": "2026-06-09T16:40:33Z",
+  "pushed_at": "2026-06-09T15:16:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -162,6 +165,10 @@
     {
       "date": "2026-06-08",
       "stars": 517
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 533
     }
   ]
 }

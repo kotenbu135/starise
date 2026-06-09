@@ -3,7 +3,7 @@
   "owner": "zk-org",
   "name": "zk",
   "full_name": "zk-org/zk",
-  "description": "A plain text note-taking assistant for Zettelkasten or otherwise",
+  "description": "A plain text note-taking assistant",
   "description_ja": "",
   "url": "https://github.com/zk-org/zk",
   "homepage_url": "https://zk-org.github.io/zk/",
@@ -11,18 +11,19 @@
   "license": "GPL-3.0",
   "topics": [
     "cli",
+    "documentation-tool",
     "notes",
     "second-brain",
     "wiki",
     "zettelkasten"
   ],
-  "star_count": 2639,
+  "star_count": 2640,
   "fork_count": 180,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-12-23T15:07:51Z",
-  "updated_at": "2026-06-08T12:46:43Z",
-  "pushed_at": "2026-06-08T11:14:08Z",
+  "updated_at": "2026-06-09T11:58:12Z",
+  "pushed_at": "2026-06-09T11:58:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -156,6 +157,10 @@
     {
       "date": "2026-06-08",
       "stars": 2639
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 2640
     }
   ]
 }

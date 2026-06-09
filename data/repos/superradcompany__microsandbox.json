@@ -3,7 +3,7 @@
   "owner": "superradcompany",
   "name": "microsandbox",
   "full_name": "superradcompany/microsandbox",
-  "description": "🧱 local-first and microVM-backed programmable sandboxes for AI agents",
+  "description": "🧱 crazy fast and secure microvm. use as dev container, run ai agents, ci/cd, and more.",
   "description_ja": "",
   "url": "https://github.com/superradcompany/microsandbox",
   "homepage_url": "https://docs.microsandbox.dev",
@@ -29,13 +29,13 @@
     "vm",
     "windows"
   ],
-  "star_count": 6462,
+  "star_count": 6483,
   "fork_count": 318,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-03T15:57:38Z",
-  "updated_at": "2026-06-08T18:08:16Z",
-  "pushed_at": "2026-06-08T21:00:28Z",
+  "updated_at": "2026-06-09T20:30:12Z",
+  "pushed_at": "2026-06-09T21:04:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -173,6 +173,10 @@
     {
       "date": "2026-06-08",
       "stars": 6462
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 6483
     }
   ]
 }

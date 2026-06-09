@@ -1,0 +1,36 @@
+{
+  "repo_id": "R_kgDOSsgy1Q",
+  "owner": "aimardcr",
+  "name": "akane-injector",
+  "full_name": "aimardcr/akane-injector",
+  "description": "A kernel-assisted shared-library injector for Android. Loads any .so into a target process without ptrace, in-process dlopen, or visible traces in /proc/\u003cpid\u003e/maps. GKI 2.0 (Android 12-16).",
+  "description_ja": "",
+  "url": "https://github.com/aimardcr/akane-injector",
+  "homepage_url": "",
+  "language": "C",
+  "license": "",
+  "topics": [
+    "android",
+    "anti-detection",
+    "arm64",
+    "frida",
+    "gki",
+    "injection",
+    "kernel-module",
+    "ptrace-free"
+  ],
+  "star_count": 98,
+  "fork_count": 24,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-30T20:21:09Z",
+  "updated_at": "2026-06-09T07:58:28Z",
+  "pushed_at": "2026-06-03T21:29:07Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-09",
+      "stars": 98
+    }
+  ]
+}

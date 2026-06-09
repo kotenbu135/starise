@@ -7,7 +7,7 @@
   "description_ja": "実用的でプラグマティックなコードエディター",
   "url": "https://github.com/pragtical/pragtical",
   "homepage_url": "https://pragtical.dev",
-  "language": "Lua",
+  "language": "C",
   "license": "MIT",
   "topics": [
     "code",
@@ -17,13 +17,13 @@
     "luajit",
     "sdl"
   ],
-  "star_count": 613,
+  "star_count": 644,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-20T23:40:49Z",
-  "updated_at": "2026-06-08T21:02:40Z",
-  "pushed_at": "2026-06-08T21:02:48Z",
+  "updated_at": "2026-06-09T20:53:43Z",
+  "pushed_at": "2026-06-09T07:55:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -161,6 +161,10 @@
     {
       "date": "2026-06-08",
       "stars": 613
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 644
     }
   ]
 }

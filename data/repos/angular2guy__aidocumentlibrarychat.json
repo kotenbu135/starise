@@ -1,0 +1,48 @@
+{
+  "repo_id": "R_kgDOKlF1cw",
+  "owner": "angular2guy",
+  "name": "aidocumentlibrarychat",
+  "full_name": "angular2guy/aidocumentlibrarychat",
+  "description": "A project to show howto use SpringAI with OpenAI to chat with the documents in a library. Documents are stored in a normal/vector database. The AI is used to create embeddings from documents that are stored in the vector database. The vector database is used to query for the nearest document. That document is used by the AI to generate the answer.",
+  "description_ja": "",
+  "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat",
+  "homepage_url": "",
+  "language": "Java",
+  "license": "Apache-2.0",
+  "topics": [
+    "ai",
+    "angular",
+    "angular-material",
+    "chatgpt",
+    "deepseek-coder",
+    "embeddings",
+    "gradle",
+    "java",
+    "liquibase",
+    "llava",
+    "llm",
+    "ollama",
+    "pgvector",
+    "postgresql",
+    "spring-ai",
+    "spring-boot",
+    "spring-boot-4",
+    "sqlcoder",
+    "typescript",
+    "vector-database"
+  ],
+  "star_count": 31,
+  "fork_count": 13,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2023-10-25T19:05:07Z",
+  "updated_at": "2026-06-09T17:31:54Z",
+  "pushed_at": "2026-06-09T17:26:52Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-09",
+      "stars": 31
+    }
+  ]
+}

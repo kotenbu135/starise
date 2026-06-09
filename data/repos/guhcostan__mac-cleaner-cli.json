@@ -3,31 +3,41 @@
   "owner": "guhcostan",
   "name": "mac-cleaner-cli",
   "full_name": "guhcostan/mac-cleaner-cli",
-  "description": "macOS CLI to free disk space — clears caches, logs, Homebrew and Xcode junk",
-  "description_ja": "ディスク容量を解放する macOS CLI ツール — キャッシュ、ログ、Homebrew、Xcode の不要ファイルを削除します",
+  "description": "Free macOS CLI to clean disk space — caches, logs, Homebrew, Xcode. Open-source alternative to CleanMyMac",
+  "description_ja": "",
   "url": "https://github.com/guhcostan/mac-cleaner-cli",
   "homepage_url": "https://www.npmjs.com/package/mac-cleaner-cli",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "cache",
     "cache-cleaner",
     "cleanup",
     "cli",
+    "developer-tools",
+    "disk-cleaner",
     "disk-space",
+    "free-disk-space",
     "homebrew",
+    "junk-cleaner",
+    "log-cleaner",
+    "mac",
+    "mac-utilities",
     "macos",
+    "macos-cleaner",
     "nodejs",
     "open-source",
+    "system-cleanup",
     "typescript",
     "xcode"
   ],
-  "star_count": 1776,
+  "star_count": 1775,
   "fork_count": 166,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-04T12:49:07Z",
-  "updated_at": "2026-06-08T13:59:20Z",
-  "pushed_at": "2026-06-04T19:53:38Z",
+  "updated_at": "2026-06-09T17:46:58Z",
+  "pushed_at": "2026-06-09T17:46:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -161,6 +171,10 @@
     {
       "date": "2026-06-08",
       "stars": 1776
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 1775
     }
   ]
 }

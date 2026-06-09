@@ -6,7 +6,7 @@
   "description": " Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.",
   "description_ja": "並列コーディングエージェントのためのアジェンティックオーケストレーター — タスクの計画、エージェントの起動、CIの修正、マージコンフリクトの解消、コードレビューを自律的に処理します",
   "url": "https://github.com/AgentWrapper/agent-orchestrator",
-  "homepage_url": "https://composio.dev",
+  "homepage_url": "https://ao-agents.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -23,13 +23,13 @@
     "skills",
     "tmux"
   ],
-  "star_count": 7460,
-  "fork_count": 1015,
+  "star_count": 7472,
+  "fork_count": 1016,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-13T09:52:36Z",
-  "updated_at": "2026-06-08T20:21:14Z",
-  "pushed_at": "2026-06-08T19:02:48Z",
+  "updated_at": "2026-06-09T20:12:05Z",
+  "pushed_at": "2026-06-09T00:56:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -167,6 +167,10 @@
     {
       "date": "2026-06-08",
       "stars": 7460
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 7472
     }
   ]
 }

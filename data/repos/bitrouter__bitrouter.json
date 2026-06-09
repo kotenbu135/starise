@@ -3,7 +3,7 @@
   "owner": "bitrouter",
   "name": "bitrouter",
   "full_name": "bitrouter/bitrouter",
-  "description": "Agent-native LLM router that optimizes your agent with every run. Zero harness changes — every model call reliable, traceable, secure, and cost-effective. ",
+  "description": "An open-source LLM router that optimize your agent for cost and performance — with every run.",
   "description_ja": "",
   "url": "https://github.com/bitrouter/bitrouter",
   "homepage_url": "https://bitrouter.ai",
@@ -31,13 +31,13 @@
     "rust",
     "skills"
   ],
-  "star_count": 169,
+  "star_count": 175,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T20:04:01Z",
-  "updated_at": "2026-06-08T18:20:31Z",
-  "pushed_at": "2026-06-08T19:36:03Z",
+  "updated_at": "2026-06-09T18:30:47Z",
+  "pushed_at": "2026-06-09T18:35:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -175,6 +175,10 @@
     {
       "date": "2026-06-08",
       "stars": 169
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 175
     }
   ]
 }

@@ -3,40 +3,41 @@
   "owner": "buildingjoshbetter",
   "name": "truememory",
   "full_name": "buildingjoshbetter/truememory",
-  "description": "A living memory system that ingests long-horizon data to infer insights, enabling more decisive action, all while running on a single SQLite file locally.",
+  "description": "The memory your AI should have had from the start. Automatic capture, automatic recall, 100% local. One SQLite file, zero cloud. Works with Claude Code, Claude CLI, Cursor, Codex CLI, Gemini CLI.",
   "description_ja": "",
   "url": "https://github.com/buildingjoshbetter/TrueMemory",
-  "homepage_url": "",
+  "homepage_url": "https://truememory.net",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
     "agent-memory",
     "ai",
+    "ai-agent",
     "ai-agents",
     "ai-memory",
     "anthropic",
     "claude",
     "claude-code",
+    "developer-tools",
     "embeddings",
-    "local-first",
-    "long-term-memory",
+    "generative-ai",
+    "llm",
     "mcp",
-    "memory-engine",
+    "mcp-server",
     "model-context-protocol",
-    "neuroscience",
+    "python",
     "rag",
-    "retrieval-augmented-generation",
-    "sauron",
+    "semantic-search",
     "sqlite",
     "vector-search"
   ],
-  "star_count": 253,
-  "fork_count": 30,
+  "star_count": 270,
+  "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T21:44:12Z",
-  "updated_at": "2026-06-08T20:35:17Z",
-  "pushed_at": "2026-06-08T15:12:35Z",
+  "updated_at": "2026-06-09T18:25:40Z",
+  "pushed_at": "2026-06-09T17:35:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -146,6 +147,10 @@
     {
       "date": "2026-06-08",
       "stars": 253
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 270
     }
   ]
 }

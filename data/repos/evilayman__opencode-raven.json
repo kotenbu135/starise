@@ -3,7 +3,7 @@
   "owner": "evilayman",
   "name": "opencode-raven",
   "full_name": "evilayman/opencode-raven",
-  "description": "Ready-to-use search tools and optional on-demand MCPs for OpenCode, routed through Raven to save your main model's context and cost.",
+  "description": "Opencode-Raven keeps noisy tool work behind a focused Raven agent, so your main model gets compact answers instead of raw search results, docs pages, GitHub examples, MCP output, or large MCP schemas.",
   "description_ja": "",
   "url": "https://github.com/evilayman/opencode-raven",
   "homepage_url": "",
@@ -27,16 +27,20 @@
     "web-search"
   ],
   "star_count": 29,
-  "fork_count": 0,
+  "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-29T05:06:56Z",
-  "updated_at": "2026-06-07T19:27:56Z",
-  "pushed_at": "2026-06-07T19:03:36Z",
+  "updated_at": "2026-06-09T18:36:44Z",
+  "pushed_at": "2026-06-09T17:32:27Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-06-08",
+      "stars": 29
+    },
+    {
+      "date": "2026-06-09",
       "stars": 29
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "flameflag",
   "name": "nixcord",
   "full_name": "flameflag/nixcord",
-  "description": "Declarative Vencord plugins + options",
+  "description": "Declarative Vencord \u0026 Equciord Plugins + Options",
   "description_ja": "",
   "url": "https://github.com/FlameFlag/nixcord",
   "homepage_url": "https://flameflag.github.io/nixcord/",
@@ -11,8 +11,12 @@
   "license": "MIT",
   "topics": [
     "discord",
+    "dotfiles",
+    "equicord",
+    "home-manager",
     "home-manager-module",
     "nix",
+    "nix-darwin",
     "nix-flake",
     "nixos",
     "vencord"
@@ -22,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-22T07:37:28Z",
-  "updated_at": "2026-06-08T17:30:28Z",
-  "pushed_at": "2026-06-08T18:14:35Z",
+  "updated_at": "2026-06-09T17:07:00Z",
+  "pushed_at": "2026-06-09T17:06:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -52,6 +56,10 @@
     },
     {
       "date": "2026-06-08",
+      "stars": 300
+    },
+    {
+      "date": "2026-06-09",
       "stars": 300
     }
   ]

@@ -3,25 +3,35 @@
   "owner": "kane50613",
   "name": "takumi",
   "full_name": "kane50613/takumi",
-  "description": "A Rust rendering engine for turning templates into images, with next/og-compatible APIs.",
-  "description_ja": "テンプレートを画像に変換する Rust 製レンダリングエンジン。next/og 互換 API 対応。",
+  "description": "Render JSX, HTML, and CSS to images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement.",
+  "description_ja": "",
   "url": "https://github.com/kane50613/takumi",
   "homepage_url": "https://takumi.kane.tw",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "cloudflare-workers",
+    "css",
+    "gif",
+    "html-to-image",
+    "image-generation",
     "jsx",
+    "nodejs",
     "og-image",
+    "opengraph",
     "react",
-    "satori"
+    "rust",
+    "satori",
+    "tailwindcss",
+    "wasm"
   ],
-  "star_count": 1853,
-  "fork_count": 36,
+  "star_count": 1859,
+  "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-01T08:19:38Z",
-  "updated_at": "2026-06-08T15:07:44Z",
-  "pushed_at": "2026-06-08T18:02:43Z",
+  "updated_at": "2026-06-09T18:30:25Z",
+  "pushed_at": "2026-06-09T18:23:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -159,6 +169,10 @@
     {
       "date": "2026-06-08",
       "stars": 1853
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 1859
     }
   ]
 }

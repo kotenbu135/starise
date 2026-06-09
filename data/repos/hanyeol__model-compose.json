@@ -3,7 +3,7 @@
   "owner": "hanyeol",
   "name": "model-compose",
   "full_name": "hanyeol/model-compose",
-  "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file — combining cloud APIs and local models.",
+  "description": "Portable AI runtime inspired by docker-compose. Compose agents, RAG pipelines, and MCP servers in one YAML file and run them anywhere.",
   "description_ja": "",
   "url": "https://github.com/hanyeol/model-compose",
   "homepage_url": "",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-01T02:31:46Z",
-  "updated_at": "2026-06-05T22:26:03Z",
-  "pushed_at": "2026-06-02T22:51:41Z",
+  "updated_at": "2026-06-08T23:20:00Z",
+  "pushed_at": "2026-06-08T23:19:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +78,10 @@
     },
     {
       "date": "2026-06-08",
+      "stars": 73
+    },
+    {
+      "date": "2026-06-09",
       "stars": 73
     }
   ]

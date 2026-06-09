@@ -5,8 +5,8 @@
   "full_name": "couchbase/couchbase-lite-c",
   "description": "C language bindings for the Couchbase Lite embedded NoSQL database engine",
   "description_ja": "Couchbase Lite 組み込み NoSQL データベースエンジン向けの C 言語バインディング",
-  "url": "https://github.com/couchbase/couchbase-lite-C",
-  "homepage_url": "",
+  "url": "https://github.com/couchbase/couchbase-lite-c",
+  "homepage_url": "https://couchbase.github.io/couchbase-lite-c/",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [
@@ -23,8 +23,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-01-02T21:26:24Z",
-  "updated_at": "2026-05-04T15:17:05Z",
-  "pushed_at": "2026-06-06T03:24:15Z",
+  "updated_at": "2026-06-09T20:19:28Z",
+  "pushed_at": "2026-06-09T20:34:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -157,6 +157,10 @@
     },
     {
       "date": "2026-06-08",
+      "stars": 129
+    },
+    {
+      "date": "2026-06-09",
       "stars": 129
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "brycewang-stanford",
   "name": "statspai",
   "full_name": "brycewang-stanford/statspai",
-  "description": "StatsPAI is the first agent-native Python platform for causal inference and applied econometrics — unified API, broad cross-method coverage, structured result objects, machine-readable schemas, and R/Stata parity validation.",
+  "description": "StatsPAI is the first agent-native Python library for causal inference and applied econometrics — unified API, broad cross-method coverage, structured result objects, machine-readable schemas, an MCP server, and R/Stata parity validation.",
   "description_ja": "",
   "url": "https://github.com/brycewang-stanford/StatsPAI",
   "homepage_url": "",
@@ -31,13 +31,13 @@
     "synthetic-control",
     "treatment-effects"
   ],
-  "star_count": 223,
+  "star_count": 226,
   "fork_count": 42,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-26T09:53:30Z",
-  "updated_at": "2026-06-08T19:22:38Z",
-  "pushed_at": "2026-06-08T19:22:33Z",
+  "updated_at": "2026-06-09T20:20:40Z",
+  "pushed_at": "2026-06-09T20:20:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-06-08",
       "stars": 223
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 226
     }
   ]
 }

@@ -6,17 +6,23 @@
   "description": "AI Agent for Exploratory Browser Testing",
   "description_ja": "",
   "url": "https://github.com/testomatio/explorbot",
-  "homepage_url": "",
+  "homepage_url": "https://testomat.ai/explorbot/",
   "language": "TypeScript",
   "license": "NOASSERTION",
-  "topics": [],
+  "topics": [
+    "agent",
+    "ai",
+    "harness",
+    "playwright",
+    "qa-automation"
+  ],
   "star_count": 52,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-19T09:28:10Z",
-  "updated_at": "2026-06-08T10:53:58Z",
-  "pushed_at": "2026-06-08T10:54:56Z",
+  "updated_at": "2026-06-09T19:35:44Z",
+  "pushed_at": "2026-06-09T19:34:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -73,6 +79,10 @@
     },
     {
       "date": "2026-06-08",
+      "stars": 52
+    },
+    {
+      "date": "2026-06-09",
       "stars": 52
     }
   ]

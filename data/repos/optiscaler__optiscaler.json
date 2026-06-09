@@ -3,8 +3,8 @@
   "owner": "optiscaler",
   "name": "optiscaler",
   "full_name": "optiscaler/optiscaler",
-  "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR3 FG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
-  "description_ja": "OptiScalerはGPU間でのアップスケーリング/フレーム生成を橋渡しするツール。DLSS2+/XeSS/FSR2+入力をサポートし、ネイティブアップスケーラーを置換、非FG対応タイトルでFSR3 FGを有効化。DLSSG→FSR3 FG向けNukemモッドをサポート。",
+  "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+  "description_ja": "",
   "url": "https://github.com/optiscaler/OptiScaler",
   "homepage_url": "",
   "language": "C++",
@@ -28,13 +28,13 @@
     "xess-fg",
     "xess-sr"
   ],
-  "star_count": 8656,
+  "star_count": 8670,
   "fork_count": 305,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-07T10:47:17Z",
-  "updated_at": "2026-06-08T19:45:27Z",
-  "pushed_at": "2026-06-08T11:32:06Z",
+  "updated_at": "2026-06-09T19:34:06Z",
+  "pushed_at": "2026-06-09T15:35:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -172,6 +172,10 @@
     {
       "date": "2026-06-08",
       "stars": 8656
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 8670
     }
   ]
 }
