@@ -3,7 +3,7 @@
   "owner": "jazzyalex",
   "name": "agent-sessions",
   "full_name": "jazzyalex/agent-sessions",
-  "description": "Session browser + Agent Cockpit +  Analytics + Limits tracker for Codex CLI/Desktop/VSC,  Claude Code CLI/Desktop,  OpenCode CLI, Gemini CLI, Pi CLI , GitHub Copilot CLI + OpenClaw \u0026 Hermes agents. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native macOS app.",
+  "description": "Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.",
   "description_ja": "",
   "url": "https://github.com/jazzyalex/agent-sessions",
   "homepage_url": "https://jazzyalex.github.io/agent-sessions",
@@ -11,30 +11,33 @@
   "license": "MIT",
   "topics": [
     "agentic-workflow",
-    "agents",
     "ai",
-    "antrophic",
+    "ai-coding-agents",
+    "anthropic",
     "claude-code",
     "codex",
     "codex-cli",
+    "copilot-cli",
+    "cursor-agent",
     "developer-tools",
-    "gpt-5",
-    "indie-hacker",
+    "hermes-agent",
+    "local-first",
     "macos",
     "openai",
-    "orchestrator",
-    "productivity-tools",
+    "openclaw",
+    "opencode",
+    "session-history",
     "session-management",
-    "usage-tracking",
-    "vibe-coding"
+    "transcript-search",
+    "usage-tracking"
   ],
-  "star_count": 618,
+  "star_count": 621,
   "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-19T22:15:22Z",
-  "updated_at": "2026-06-09T19:10:23Z",
-  "pushed_at": "2026-06-09T19:07:22Z",
+  "updated_at": "2026-06-10T21:15:04Z",
+  "pushed_at": "2026-06-10T21:14:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -176,6 +179,10 @@
     {
       "date": "2026-06-09",
       "stars": 618
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 621
     }
   ]
 }

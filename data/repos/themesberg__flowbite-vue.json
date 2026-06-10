@@ -7,7 +7,7 @@
   "description_ja": "FlowbiteおよびTailwind CSS向けに構築された公式Vue 3コンポーネント",
   "url": "https://github.com/themesberg/flowbite-vue",
   "homepage_url": "https://flowbite-vue.com",
-  "language": "Vue",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "components",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-02T08:04:40Z",
-  "updated_at": "2026-06-08T12:35:04Z",
-  "pushed_at": "2026-02-04T13:12:06Z",
+  "updated_at": "2026-06-10T19:51:54Z",
+  "pushed_at": "2026-06-10T19:51:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -162,6 +162,10 @@
     },
     {
       "date": "2026-06-09",
+      "stars": 945
+    },
+    {
+      "date": "2026-06-10",
       "stars": 945
     }
   ]

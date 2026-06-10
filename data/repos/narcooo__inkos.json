@@ -3,8 +3,8 @@
   "owner": "narcooo",
   "name": "inkos",
   "full_name": "narcooo/inkos",
-  "description": "Autonomous novel writing AI Agent — agents write, audit, and revise novels with human review gates",
-  "description_ja": "自律型小説執筆AIエージェント。エージェントが小説の執筆・監査・改訂を行い、人間によるレビューゲートを設けています。",
+  "description": "Story Creation AI Agent for novel, scripts, interactive games, and IP content",
+  "description_ja": "",
   "url": "https://github.com/Narcooo/inkos",
   "homepage_url": "",
   "language": "TypeScript",
@@ -13,23 +13,22 @@
     "agent",
     "ai",
     "ai-agent",
-    "ai-novel",
     "ai-writing",
     "chinese-novel",
     "cli",
-    "cli-tool",
     "creative-writing-ai",
+    "fiction",
+    "game",
     "novel-ai",
-    "novel-generation",
-    "openclaw"
+    "novel-generation"
   ],
-  "star_count": 7057,
-  "fork_count": 1332,
+  "star_count": 7109,
+  "fork_count": 1344,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-12T02:12:54Z",
-  "updated_at": "2026-06-09T19:52:03Z",
-  "pushed_at": "2026-06-09T12:39:18Z",
+  "updated_at": "2026-06-10T21:22:50Z",
+  "pushed_at": "2026-06-10T04:21:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -171,6 +170,10 @@
     {
       "date": "2026-06-09",
       "stars": 7057
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 7109
     }
   ]
 }

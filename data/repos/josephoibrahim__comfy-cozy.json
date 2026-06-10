@@ -3,7 +3,7 @@
   "owner": "josephoibrahim",
   "name": "comfy-cozy",
   "full_name": "josephoibrahim/comfy-cozy",
-  "description": "AI co-pilot for ComfyUI. Talk to your workflow — load, patch, run, learn. 113 MCP tools, four LLM providers (Claude, GPT-4o, Gemini, Ollama), full undo, native sidebar.",
+  "description": "AI co-pilot for ComfyUI. Talk to your workflow — load, patch, validate, run, learn. 126 MCP tools, NVIDIA NIM lifecycle, four LLM providers (Claude, GPT-4o, Gemini, Ollama), confirm-gated installs, full undo, native sidebar.",
   "description_ja": "",
   "url": "https://github.com/JosephOIbrahim/Comfy-Cozy",
   "homepage_url": "",
@@ -16,13 +16,13 @@
     "cognitive-architecture",
     "comfyui",
     "comfyui-extension",
-    "copilot",
     "flux",
     "gemini",
     "generative-ai",
     "llm",
     "mcp",
     "mcp-server",
+    "nvidia-nim",
     "ollama",
     "openai",
     "python",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-10T15:56:52Z",
-  "updated_at": "2026-06-06T18:46:49Z",
-  "pushed_at": "2026-06-06T23:41:38Z",
+  "updated_at": "2026-06-10T02:45:36Z",
+  "pushed_at": "2026-06-10T02:45:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -158,6 +158,10 @@
     },
     {
       "date": "2026-06-09",
+      "stars": 18
+    },
+    {
+      "date": "2026-06-10",
       "stars": 18
     }
   ]

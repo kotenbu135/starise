@@ -6,17 +6,28 @@
   "description": "A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.",
   "description_ja": "LaTeX/Beamer + R を使う研究者向けのフォーク可能な Claude Code テンプレート。マルチエージェントレビュー、品質ゲート、敵対的 QA、再現プロトコル付き。",
   "url": "https://github.com/pedrohcgs/claude-code-my-workflow",
-  "homepage_url": "",
+  "homepage_url": "https://psantanna.com/claude-code-my-workflow/",
   "language": "HTML",
   "license": "MIT",
-  "topics": [],
-  "star_count": 1237,
-  "fork_count": 2517,
+  "topics": [
+    "academic-writing",
+    "causal-inference",
+    "claude-code",
+    "claude-code-skills",
+    "econometrics",
+    "economics",
+    "latex",
+    "quarto",
+    "reproducible-research",
+    "research-workflow"
+  ],
+  "star_count": 1246,
+  "fork_count": 2526,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T17:29:50Z",
-  "updated_at": "2026-06-09T12:26:35Z",
-  "pushed_at": "2026-06-09T20:50:47Z",
+  "updated_at": "2026-06-10T18:48:27Z",
+  "pushed_at": "2026-06-10T18:20:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -158,6 +169,10 @@
     {
       "date": "2026-06-09",
       "stars": 1237
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 1246
     }
   ]
 }

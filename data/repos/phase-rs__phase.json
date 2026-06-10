@@ -3,8 +3,8 @@
   "owner": "phase-rs",
   "name": "phase",
   "full_name": "phase-rs/phase",
-  "description": "A Magic: The Gathering rules engine and game client — Rust + WASM + React",
-  "description_ja": "Magic: The Gathering のルールエンジンとゲームクライアント — Rust + WASM + React",
+  "description": "A rules engine and game client — Rust + WASM + React",
+  "description_ja": "",
   "url": "https://github.com/phase-rs/phase",
   "homepage_url": "http://preview.phase-rs.dev/",
   "language": "Rust",
@@ -19,13 +19,13 @@
     "typescript",
     "wasm"
   ],
-  "star_count": 131,
-  "fork_count": 84,
+  "star_count": 132,
+  "fork_count": 85,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-10T21:31:17Z",
-  "updated_at": "2026-06-09T20:53:12Z",
-  "pushed_at": "2026-06-09T21:16:46Z",
+  "updated_at": "2026-06-10T21:08:00Z",
+  "pushed_at": "2026-06-10T21:37:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -163,6 +163,10 @@
     {
       "date": "2026-06-09",
       "stars": 131
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 132
     }
   ]
 }

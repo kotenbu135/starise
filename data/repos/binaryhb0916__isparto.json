@@ -3,18 +3,23 @@
   "owner": "binaryhb0916",
   "name": "isparto",
   "full_name": "binaryhb0916/isparto",
-  "description": "Open-source Agent Team framework for Claude Code, built for solopreneurs. One command spins up the whole agent team — all working in perfect sync.",
-  "description_ja": "ソロプレナー向けに構築された Claude Code 用のオープンソース Agent Team フレームワーク。コマンド一つでエージェントチーム全体を起動し、完全な連携で動作します。",
+  "description": "Open-source cross-provider AI dev team for solopreneurs, built on Claude Code + Codex CLI. Claude plans and reviews what GPT builds; a zero-context GPT pass blind-reviews the plan. One command, full army.",
+  "description_ja": "",
   "url": "https://github.com/BinaryHB0916/iSparto",
   "homepage_url": "https://iSparto.dev",
   "language": "Shell",
   "license": "MIT",
   "topics": [
+    "agent-team",
     "automation",
     "claude-code",
     "codex",
+    "codex-cli",
+    "cross-provider",
     "developer-tools",
     "mcp",
+    "multi-agent",
+    "openai",
     "solopreneur",
     "workflow"
   ],
@@ -23,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-17T12:21:44Z",
-  "updated_at": "2026-06-03T17:07:37Z",
-  "pushed_at": "2026-05-13T11:05:33Z",
+  "updated_at": "2026-06-10T09:09:01Z",
+  "pushed_at": "2026-06-10T09:08:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -165,6 +170,10 @@
     },
     {
       "date": "2026-06-09",
+      "stars": 54
+    },
+    {
+      "date": "2026-06-10",
       "stars": 54
     }
   ]

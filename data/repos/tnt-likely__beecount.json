@@ -3,21 +3,24 @@
   "owner": "tnt-likely",
   "name": "beecount",
   "full_name": "tnt-likely/beecount",
-  "description": "🐝 跨端开源记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP | Open-source bookkeeping across iOS/Android/Web ·         Self-hosted + iCloud/WebDAV/S3 sync · AI capture · MCP-enabled ",
+  "description": "Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebDAV/S3 sync · AI capture · MCP | 本地优先的跨端记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP",
   "description_ja": "",
   "url": "https://github.com/TNT-Likely/BeeCount",
   "homepage_url": "https://count.beejz.com",
   "language": "Dart",
   "license": "NOASSERTION",
   "topics": [
-    "account",
     "accounting",
-    "accounting-app",
+    "ai",
+    "android",
+    "bookkeeping",
     "chinese",
     "expense-tracker",
     "finance-app",
     "flutter",
-    "money-management",
+    "ios",
+    "local-first",
+    "mcp",
     "offline-first",
     "personal-finance",
     "privacy-first",
@@ -25,13 +28,13 @@
     "supabase",
     "webdav"
   ],
-  "star_count": 1732,
+  "star_count": 1739,
   "fork_count": 243,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-06T02:15:06Z",
-  "updated_at": "2026-06-09T17:09:59Z",
-  "pushed_at": "2026-06-05T14:20:26Z",
+  "updated_at": "2026-06-10T14:47:04Z",
+  "pushed_at": "2026-06-10T08:21:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -173,6 +176,10 @@
     {
       "date": "2026-06-09",
       "stars": 1732
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 1739
     }
   ]
 }

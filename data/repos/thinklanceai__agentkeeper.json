@@ -3,7 +3,7 @@
   "owner": "thinklanceai",
   "name": "agentkeeper",
   "full_name": "thinklanceai/agentkeeper",
-  "description": "Crash-resistant cognitive continuity for AI agents — checkpoint/restore, cross-model state reconstruction, semantic recall, and compression. Your agent survives crashes, restarts, and model switches.",
+  "description": "Own your AI memory — import ChatGPT, Claude and Gemini exports, see what each AI knows about you. Checkpoint/restore and cross-model continuity for agents.",
   "description_ja": "",
   "url": "https://github.com/Thinklanceai/agentkeeper",
   "homepage_url": "https://pypi.org/project/agentkeeper-ai/",
@@ -31,13 +31,13 @@
     "sqlite",
     "thinklanceai"
   ],
-  "star_count": 118,
+  "star_count": 119,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-24T21:13:57Z",
-  "updated_at": "2026-05-31T17:53:42Z",
-  "pushed_at": "2026-05-24T21:44:48Z",
+  "updated_at": "2026-06-09T22:57:53Z",
+  "pushed_at": "2026-06-09T22:24:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +103,10 @@
     {
       "date": "2026-06-09",
       "stars": 118
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 119
     }
   ]
 }

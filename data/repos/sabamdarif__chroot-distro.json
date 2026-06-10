@@ -3,7 +3,7 @@
   "owner": "sabamdarif",
   "name": "chroot-distro",
   "full_name": "sabamdarif/chroot-distro",
-  "description": "Install a full Linux distributions on Android ",
+  "description": "A lightweight utility for managing Linux containers, built around chroot",
   "description_ja": "",
   "url": "https://github.com/sabamdarif/chroot-distro",
   "homepage_url": "https://pypi.org/project/chroot-distro/",
@@ -17,15 +17,16 @@
     "docker-container",
     "dockerhub",
     "linux",
+    "linux-containers",
     "termux"
   ],
-  "star_count": 109,
+  "star_count": 110,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-06T15:32:57Z",
-  "updated_at": "2026-06-09T18:14:46Z",
-  "pushed_at": "2026-06-09T18:14:09Z",
+  "updated_at": "2026-06-10T18:22:30Z",
+  "pushed_at": "2026-06-10T18:21:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -83,6 +84,10 @@
     {
       "date": "2026-06-09",
       "stars": 109
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 110
     }
   ]
 }

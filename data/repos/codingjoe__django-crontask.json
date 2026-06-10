@@ -10,10 +10,13 @@
   "language": "Python",
   "license": "BSD-3-Clause",
   "topics": [
+    "celery",
+    "celerybeat",
     "cron",
     "cronjob",
     "crontab",
     "django",
+    "dramatiq",
     "tasks"
   ],
   "star_count": 118,
@@ -21,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-08T10:13:40Z",
-  "updated_at": "2026-06-08T18:34:28Z",
-  "pushed_at": "2026-06-08T18:34:26Z",
+  "updated_at": "2026-06-10T20:31:14Z",
+  "pushed_at": "2026-06-10T20:31:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -159,6 +162,10 @@
     },
     {
       "date": "2026-06-09",
+      "stars": 118
+    },
+    {
+      "date": "2026-06-10",
       "stars": 118
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "superlinked",
   "name": "sie",
   "full_name": "superlinked/sie",
-  "description": "Superlinked Inference Engine is an Open-source inference server and production cluster for embeddings, reranking, and extraction.",
-  "description_ja": "Superlinked Inference Engine は、埋め込み・再ランキング・抽出のためのオープンソース推論サーバーおよびプロダクションクラスターです。",
+  "description": "Open-source inference server and production cluster for all the models your agent needs.",
+  "description_ja": "",
   "url": "https://github.com/superlinked/sie",
   "homepage_url": "https://superlinked.com",
   "language": "Python",
@@ -31,13 +31,13 @@
     "splade",
     "vector-search"
   ],
-  "star_count": 2037,
-  "fork_count": 180,
+  "star_count": 2039,
+  "fork_count": 182,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-07T10:45:53Z",
-  "updated_at": "2026-06-09T18:57:21Z",
-  "pushed_at": "2026-06-09T10:13:19Z",
+  "updated_at": "2026-06-10T20:42:40Z",
+  "pushed_at": "2026-06-10T20:41:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -179,6 +179,10 @@
     {
       "date": "2026-06-09",
       "stars": 2037
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 2039
     }
   ]
 }

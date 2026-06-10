@@ -3,8 +3,8 @@
   "owner": "shifthackz",
   "name": "stable-diffusion-android",
   "full_name": "shifthackz/stable-diffusion-android",
-  "description": "Stable Diffusion AI client app for Android",
-  "description_ja": "Android向けStable Diffusion AIクライアントアプリ",
+  "description": "Stable Diffusion AI client app for Android and iOS",
+  "description_ja": "",
   "url": "https://github.com/ShiftHackZ/Stable-Diffusion-Android",
   "homepage_url": "https://sdai.moroz.cc",
   "language": "Kotlin",
@@ -16,28 +16,28 @@
     "clean-architecture",
     "compose",
     "compose-ui",
+    "coroutines",
     "foss",
-    "gson",
+    "ios",
     "koin",
     "kotlin",
+    "kotlin-multiplatform",
     "material3",
     "multimodule-android-app",
     "mvi",
-    "retrofit2",
     "room-database",
-    "rxjava3",
     "stable-diffusion",
     "stable-diffusion-mobile",
     "stable-diffusion-webui",
     "viewmodel"
   ],
-  "star_count": 1204,
+  "star_count": 1205,
   "fork_count": 131,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-04T15:35:58Z",
-  "updated_at": "2026-06-07T15:11:43Z",
-  "pushed_at": "2026-06-09T19:27:44Z",
+  "updated_at": "2026-06-10T19:59:38Z",
+  "pushed_at": "2026-06-10T19:58:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -179,6 +179,10 @@
     {
       "date": "2026-06-09",
       "stars": 1204
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 1205
     }
   ]
 }

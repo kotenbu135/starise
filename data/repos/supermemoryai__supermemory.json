@@ -3,8 +3,8 @@
   "owner": "supermemoryai",
   "name": "supermemory",
   "full_name": "supermemoryai/supermemory",
-  "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-  "description_ja": "非常に高速でスケーラブルなメモリエンジンおよびアプリ。AI 時代のメモリ API。",
+  "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+  "description_ja": "",
   "url": "https://github.com/supermemoryai/supermemory",
   "homepage_url": "https://supermemory.ai/docs",
   "language": "TypeScript",
@@ -23,13 +23,13 @@
     "typescript",
     "vite"
   ],
-  "star_count": 26332,
-  "fork_count": 2293,
+  "star_count": 26475,
+  "fork_count": 2300,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-27T20:10:04Z",
-  "updated_at": "2026-06-09T21:25:13Z",
-  "pushed_at": "2026-06-09T18:17:30Z",
+  "updated_at": "2026-06-10T21:40:05Z",
+  "pushed_at": "2026-06-10T18:57:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -171,6 +171,10 @@
     {
       "date": "2026-06-09",
       "stars": 26332
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 26475
     }
   ]
 }

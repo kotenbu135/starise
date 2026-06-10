@@ -3,7 +3,7 @@
   "owner": "brikev",
   "name": "twd",
   "full_name": "brikev/twd",
-  "description": "Frontend tests that run in your real browser. For React, Vue, Angular, and Solid.",
+  "description": "Frontend tests that run in your real browser, against your real backend. No jsdom, no separate E2E stack.",
   "description_ja": "",
   "url": "https://github.com/BRIKEV/twd",
   "homepage_url": "https://twd.dev/",
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-04T07:51:50Z",
-  "updated_at": "2026-06-09T17:30:45Z",
-  "pushed_at": "2026-06-09T17:27:35Z",
+  "updated_at": "2026-06-10T18:07:47Z",
+  "pushed_at": "2026-06-10T18:36:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -157,6 +157,10 @@
     },
     {
       "date": "2026-06-09",
+      "stars": 49
+    },
+    {
+      "date": "2026-06-10",
       "stars": 49
     }
   ]

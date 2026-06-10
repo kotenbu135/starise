@@ -3,8 +3,8 @@
   "owner": "codealive-ai",
   "name": "codealive-mcp",
   "full_name": "codealive-ai/codealive-mcp",
-  "description": "The most accurate and comprehensive Context Engine as a service, optimized for large codebases, powered by advanced GraphRAG and accessible via MCP. It enriches the context for AI agents like Codex, Claude Code, Cursor, etc., making them 35% more efficient and up to 84% faster.",
-  "description_ja": "最も正確で包括的なコンテキストエンジンのサービス。大規模コードベースに最適化され、高度なGraphRAGを搭載し、MCPを通じてアクセス可能。Codex、Claude Code、CursorなどのAIエージェントのコンテキストを強化し、効率を35%、速度を最大84%向上させます。",
+  "description": "Context engine for large codebases, exposed through MCP. Gives AI coding agents precise repository context; benchmarked at frontier-agent quality with ~25x lower model cost and 45% fewer tokens with semantic search.",
+  "description_ja": "",
   "url": "https://github.com/CodeAlive-AI/codealive-mcp",
   "homepage_url": "https://www.codealive.ai/",
   "language": "Python",
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-26T22:12:12Z",
-  "updated_at": "2026-06-09T18:05:44Z",
-  "pushed_at": "2026-06-09T18:04:59Z",
+  "updated_at": "2026-06-10T20:41:02Z",
+  "pushed_at": "2026-06-10T20:40:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -164,6 +164,10 @@
     },
     {
       "date": "2026-06-09",
+      "stars": 81
+    },
+    {
+      "date": "2026-06-10",
       "stars": 81
     }
   ]

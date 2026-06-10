@@ -3,12 +3,12 @@
   "owner": "vynect",
   "name": "venom",
   "full_name": "vynect/venom",
-  "description": "🚀 Venom by VYNECT™ — Now part of ERA CONNECT™  Venom is now part of the ERA CONNECT™ ecosystem by VYNECT™, offering a freemium solution for ethical WhatsApp automation.  Automate chats, simulate interactions, and send or receive media — with free usage limits and the option to upgrade to ERA CONNECT PRO for advanced features and stability.",
-  "description_ja": "🚀 Venom by VYNECT™ — ERA CONNECT™の一部に  VenomはVYNECT™のERA CONNECT™エコシステムに統合され、倫理的なWhatsApp自動化のフリーミアムソリューションを提供します。チャットの自動化、インタラクションのシミュレーション、メディアの送受信が無料枠内で可能で、高度な機能と安定性のためにERA CONNECT PROへのアップグレードも可能です。",
+  "description": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.",
+  "description_ja": "",
   "url": "https://github.com/vynect/venom",
-  "homepage_url": "https://vynect.com/era-connect",
-  "language": "",
-  "license": "NOASSERTION",
+  "homepage_url": "https://orkestral.io",
+  "language": "TypeScript",
+  "license": "Apache-2.0",
   "topics": [
     "ai",
     "ai-bot",
@@ -34,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-08T04:41:41Z",
-  "updated_at": "2026-06-08T01:35:02Z",
-  "pushed_at": "2025-07-06T15:00:13Z",
+  "updated_at": "2026-06-10T21:41:14Z",
+  "pushed_at": "2026-06-10T21:41:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -176,6 +176,10 @@
     },
     {
       "date": "2026-06-09",
+      "stars": 6556
+    },
+    {
+      "date": "2026-06-10",
       "stars": 6556
     }
   ]

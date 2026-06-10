@@ -7,7 +7,7 @@
   "description_ja": "Meshtasticデバイスファームウェア向け公式オンラインフラッシャー",
   "url": "https://github.com/meshtastic/web-flasher",
   "homepage_url": "https://flasher.meshtastic.org",
-  "language": "Vue",
+  "language": "TypeScript",
   "license": "GPL-3.0",
   "topics": [
     "espressif",
@@ -21,13 +21,13 @@
     "vercel",
     "vue"
   ],
-  "star_count": 327,
+  "star_count": 328,
   "fork_count": 112,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-28T00:44:55Z",
-  "updated_at": "2026-06-09T05:13:34Z",
-  "pushed_at": "2026-06-04T07:43:41Z",
+  "updated_at": "2026-06-10T12:45:12Z",
+  "pushed_at": "2026-06-10T13:16:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -165,6 +165,10 @@
     {
       "date": "2026-06-09",
       "stars": 327
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 328
     }
   ]
 }

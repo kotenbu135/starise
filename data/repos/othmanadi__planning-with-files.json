@@ -3,40 +3,40 @@
   "owner": "othmanadi",
   "name": "planning-with-files",
   "full_name": "othmanadi/planning-with-files",
-  "description": "Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.",
-  "description_ja": "Manusスタイルの永続的なMarkdownプランニングを実装したClaude Codeスキル — 20億ドルの買収劇を生んだワークフローパターン。",
+  "description": "Persistent file-based planning for long-running agentic tasks. Crash-proof markdown plans, deterministic completion gate, multi-agent shared state on disk. Works with Claude Code, Codex CLI, Cursor, Hermes agent, Pi, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+  "description_ja": "",
   "url": "https://github.com/OthmanAdi/planning-with-files",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "adal",
     "agent-skills",
-    "antigravity",
+    "agentic-workflows",
+    "ai-agents",
+    "autonomous-agents",
     "claude",
     "claude-code",
     "claude-skills",
+    "codex",
     "copilot",
     "copilot-skills",
+    "cursor",
     "hermes",
     "hermes-agent",
     "hermes-skill",
-    "kilocode",
     "manus",
-    "mastra",
-    "openclaw",
-    "openclaw-skills",
+    "multi-agent-systems",
     "pi",
     "pi-agent",
     "planning"
   ],
-  "star_count": 22953,
-  "fork_count": 2029,
+  "star_count": 23008,
+  "fork_count": 2032,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-03T07:37:28Z",
-  "updated_at": "2026-06-09T21:17:42Z",
-  "pushed_at": "2026-05-26T09:29:04Z",
+  "updated_at": "2026-06-10T21:27:41Z",
+  "pushed_at": "2026-06-10T05:51:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -178,6 +178,10 @@
     {
       "date": "2026-06-09",
       "stars": 22953
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 23008
     }
   ]
 }

@@ -10,7 +10,6 @@
   "language": "Rust",
   "license": "MIT",
   "topics": [
-    "0slot",
     "0xfnzero",
     "bonk",
     "copy-trading",
@@ -29,14 +28,15 @@
     "raydium-swap",
     "rust",
     "solana",
-    "solana-bot"
+    "solana-bot",
+    "solana-trade"
   ],
   "star_count": 311,
-  "fork_count": 151,
+  "fork_count": 150,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-28T06:14:09Z",
-  "updated_at": "2026-06-07T19:13:24Z",
+  "updated_at": "2026-06-10T16:58:22Z",
   "pushed_at": "2026-06-07T19:13:23Z",
   "deleted_at": "",
   "star_history": [
@@ -178,6 +178,10 @@
     },
     {
       "date": "2026-06-09",
+      "stars": 311
+    },
+    {
+      "date": "2026-06-10",
       "stars": 311
     }
   ]

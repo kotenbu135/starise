@@ -3,14 +3,15 @@
   "owner": "funnywolf",
   "name": "agentic-soc-platform",
   "full_name": "funnywolf/agentic-soc-platform",
-  "description": "Agentic SOC Platform: A powerful, flexible, open-source, and agent-centric automated security operations platform",
-  "description_ja": "エージェント型SOCプラットフォーム：強力で柔軟なオープンソースのエージェント中心型セキュリティ運用自動化プラットフォーム",
+  "description": "Agentic SOC Platform: A powerful, flexible, open-source, and agent-centric automated security operations platform (AI SOC)",
+  "description_ja": "",
   "url": "https://github.com/FunnyWolf/agentic-soc-platform",
   "homepage_url": "https://asp.viperrtp.com",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "agentic-soc",
+    "ai",
     "blueteam",
     "cybersecurity",
     "dify",
@@ -20,13 +21,13 @@
     "siem",
     "soar"
   ],
-  "star_count": 847,
+  "star_count": 848,
   "fork_count": 142,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-07T11:49:34Z",
-  "updated_at": "2026-06-09T10:19:22Z",
-  "pushed_at": "2026-06-08T08:46:51Z",
+  "updated_at": "2026-06-10T03:14:38Z",
+  "pushed_at": "2026-06-10T02:57:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -168,6 +169,10 @@
     {
       "date": "2026-06-09",
       "stars": 847
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 848
     }
   ]
 }

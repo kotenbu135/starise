@@ -3,7 +3,7 @@
   "owner": "wiltodelta",
   "name": "remove-ai-watermarks",
   "full_name": "wiltodelta/remove-ai-watermarks",
-  "description": "CLI and Python library to strip visible and invisible AI watermarks and provenance metadata (SynthID, C2PA, EXIF/XMP \"Made with AI\", Gemini sparkle) from AI-generated images",
+  "description": "AI watermark remover. CLI and Python library to strip visible and invisible AI watermarks (Gemini / Nano Banana sparkle, SynthID) and provenance metadata (C2PA, EXIF, IPTC) from images.",
   "description_ja": "",
   "url": "https://github.com/wiltodelta/remove-ai-watermarks",
   "homepage_url": "https://raiw.cc",
@@ -14,6 +14,7 @@
     "ai-watermark",
     "c2pa",
     "cli",
+    "comfyui",
     "computer-vision",
     "content-credentials",
     "diffusion-models",
@@ -27,15 +28,16 @@
     "python",
     "stable-diffusion",
     "synthid",
-    "watermark-removal"
+    "watermark-removal",
+    "watermark-remover"
   ],
-  "star_count": 3098,
-  "fork_count": 268,
+  "star_count": 3127,
+  "fork_count": 272,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-25T18:15:24Z",
-  "updated_at": "2026-06-09T20:45:01Z",
-  "pushed_at": "2026-06-09T20:24:40Z",
+  "updated_at": "2026-06-10T19:34:20Z",
+  "pushed_at": "2026-06-10T18:41:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -121,6 +123,10 @@
     {
       "date": "2026-06-09",
       "stars": 3098
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 3127
     }
   ]
 }

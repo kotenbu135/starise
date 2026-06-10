@@ -9,13 +9,22 @@
   "homepage_url": "https://verl-omni.readthedocs.io/en/latest/index.html",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 329,
+  "topics": [
+    "diffusion-models",
+    "flow-matching",
+    "grpo",
+    "multimodal",
+    "qwen",
+    "reinforcement-learning",
+    "rlhf",
+    "vllm"
+  ],
+  "star_count": 339,
   "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-21T11:48:12Z",
-  "updated_at": "2026-06-09T17:39:19Z",
+  "updated_at": "2026-06-10T20:58:37Z",
   "pushed_at": "2026-06-09T17:38:07Z",
   "deleted_at": "",
   "star_history": [
@@ -42,6 +51,10 @@
     {
       "date": "2026-06-09",
       "stars": 329
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 339
     }
   ]
 }
