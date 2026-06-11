@@ -6,7 +6,7 @@
   "description": "One-command install script for self-hosted AmneziaWG 2.0 VPN on Ubuntu and Debian: DPI bypass, traffic obfuscation, auto-hardening, client management",
   "description_ja": "",
   "url": "https://github.com/bivlked/amneziawg-installer",
-  "homepage_url": "https://github.com/bivlked/amneziawg-installer#readme",
+  "homepage_url": "https://bivlked.github.io/amneziawg-installer/",
   "language": "Shell",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "vpn-server",
     "wireguard"
   ],
-  "star_count": 554,
+  "star_count": 562,
   "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-13T15:52:37Z",
-  "updated_at": "2026-06-10T18:11:58Z",
-  "pushed_at": "2026-06-10T10:38:34Z",
+  "updated_at": "2026-06-11T20:02:58Z",
+  "pushed_at": "2026-06-11T17:23:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -179,6 +179,10 @@
     {
       "date": "2026-06-10",
       "stars": 554
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 562
     }
   ]
 }

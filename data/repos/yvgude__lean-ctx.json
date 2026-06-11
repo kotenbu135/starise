@@ -3,7 +3,7 @@
   "owner": "yvgude",
   "name": "lean-ctx",
   "full_name": "yvgude/lean-ctx",
-  "description": "LeanCTX (Lean Context) — context intelligence for AI agents. One local binary that decides what your agents read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 30+ tools, Rust, local-first.",
+  "description": "Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they touch, and proves what they save. 60–90% fewer tokens as the receipt. 76 MCP tools, 30+ agents, local-first.",
   "description_ja": "",
   "url": "https://github.com/yvgude/lean-ctx",
   "homepage_url": "https://leanctx.com",
@@ -30,13 +30,13 @@
     "rust",
     "token-optimization"
   ],
-  "star_count": 2597,
-  "fork_count": 265,
+  "star_count": 2631,
+  "fork_count": 266,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T19:48:59Z",
-  "updated_at": "2026-06-10T22:01:38Z",
-  "pushed_at": "2026-06-10T22:01:14Z",
+  "updated_at": "2026-06-11T21:56:41Z",
+  "pushed_at": "2026-06-11T21:56:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -182,6 +182,10 @@
     {
       "date": "2026-06-10",
       "stars": 2597
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 2631
     }
   ]
 }

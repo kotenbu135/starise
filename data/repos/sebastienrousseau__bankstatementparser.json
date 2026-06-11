@@ -3,7 +3,7 @@
   "owner": "sebastienrousseau",
   "name": "bankstatementparser",
   "full_name": "sebastienrousseau/bankstatementparser",
-  "description": "Parse bank statements across CAMT, PAIN.001, CSV, OFX/QFX, MT940, and PDFs (digital + scanned) into unified Transaction models. Deterministic ISO 20022 parsers, LLM fallback for PDFs, vision for scans, balance verification, categorization, and interactive review mode.",
+  "description": "Parse bank statements across CAMT, PAIN.001, CSV, OFX/QFX, MT940, and PDFs (digital + scanned) into unified Transaction models. Deterministic ISO 20022 parsers, LLM fallback for PDFs, vision for scans, Golden Rule + multi-currency balance verification, dedupe, categorization, interactive review, CLI and REST API. 100% test coverage.",
   "description_ja": "",
   "url": "https://github.com/sebastienrousseau/bankstatementparser",
   "homepage_url": "https://bankstatementparser.com/",
@@ -17,31 +17,35 @@
     "cli",
     "csv",
     "deduplication",
-    "enrichment",
     "finance",
+    "fintech",
     "iso20022",
     "litellm",
     "llm",
     "mt940",
-    "ocr",
     "ofx",
     "ollama",
     "pain001",
-    "pandas",
     "parser",
-    "pdf"
+    "pdf",
+    "python",
+    "rest-api"
   ],
   "star_count": 29,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-08T09:38:15Z",
-  "updated_at": "2026-06-10T15:27:07Z",
-  "pushed_at": "2026-06-10T21:41:19Z",
+  "updated_at": "2026-06-11T19:49:29Z",
+  "pushed_at": "2026-06-11T21:46:07Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-06-10",
+      "stars": 29
+    },
+    {
+      "date": "2026-06-11",
       "stars": 29
     }
   ]

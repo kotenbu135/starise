@@ -3,7 +3,7 @@
   "owner": "optave",
   "name": "ops-codegraph-tool",
   "full_name": "optave/ops-codegraph-tool",
-  "description": "Code intelligence CLI — function-level dependency graph across 11 languages, 30-tool MCP server for AI agents, complexity metrics, architecture boundary enforcement, CI quality gates, git diff impact with co-change analysis, hybrid semantic search. Fully local, zero API keys required.",
+  "description": "Code intelligence CLI — function-level dependency graph across 34 languages, 34-tool MCP server for AI agents, complexity metrics, architecture boundary enforcement, CI quality gates, git diff impact with co-change analysis, hybrid semantic search. Fully local, zero API keys required.",
   "description_ja": "",
   "url": "https://github.com/optave/ops-codegraph-tool",
   "homepage_url": "",
@@ -27,13 +27,13 @@
     "static-analysis",
     "tree-sitter"
   ],
-  "star_count": 67,
+  "star_count": 69,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-21T09:31:55Z",
-  "updated_at": "2026-06-10T07:35:49Z",
-  "pushed_at": "2026-06-10T21:34:41Z",
+  "updated_at": "2026-06-11T21:15:59Z",
+  "pushed_at": "2026-06-11T21:35:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -143,6 +143,10 @@
     {
       "date": "2026-06-10",
       "stars": 67
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 69
     }
   ]
 }

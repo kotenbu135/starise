@@ -3,19 +3,23 @@
   "owner": "anuraj-ind",
   "name": "modernization-engine",
   "full_name": "anuraj-ind/modernization-engine",
-  "description": "",
+  "description": "AI-powered legacy code modernization engine that upgrades Java applications to Java 21 or Python using static analysis, offline RAG, dependency-aware translation, and local LLMs.",
   "description_ja": "",
   "url": "https://github.com/Anuraj-IND/Modernization-Engine",
   "homepage_url": "",
   "language": "Python",
   "license": "",
-  "topics": [],
-  "star_count": 9,
+  "topics": [
+    "aiml",
+    "local-llm",
+    "ollama"
+  ],
+  "star_count": 10,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T16:28:31Z",
-  "updated_at": "2026-05-02T11:03:20Z",
+  "updated_at": "2026-06-11T11:00:09Z",
   "pushed_at": "2026-05-02T11:03:17Z",
   "deleted_at": "",
   "star_history": [
@@ -158,6 +162,10 @@
     {
       "date": "2026-06-10",
       "stars": 9
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 10
     }
   ]
 }

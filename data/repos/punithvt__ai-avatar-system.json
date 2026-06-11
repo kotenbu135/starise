@@ -3,39 +3,41 @@
   "owner": "punithvt",
   "name": "ai-avatar-system",
   "full_name": "punithvt/ai-avatar-system",
-  "description": "🎭 Open-source AI avatar platform — upload a photo, clone a voice, talk to any face in real time. Lip-sync video, voice cloning, WebSocket streaming. Powered by Claude, Whisper \u0026 MuseTalk.",
+  "description": "🎭 AI Avatar / digital human platform — upload a photo, clone a voice, talk to any face in real time with lip-sync video. Open-source, self-hosted. Claude · Whisper · Chatterbox · MuseTalk.",
   "description_ja": "",
   "url": "https://github.com/PunithVT/ai-avatar-system",
   "homepage_url": "",
   "language": "Python",
-  "license": "",
+  "license": "MIT",
   "topics": [
     "ai-avatar",
     "avatar-ai",
+    "chatterbox-tts",
     "claude-ai",
-    "digital-avatar",
+    "digital-human",
     "fastapi",
     "generative-ai",
     "lip-sync",
+    "llm",
+    "musetalk",
     "nextjs",
-    "real-time-voice",
-    "sadtalker",
+    "real-time",
     "speech-to-text",
     "talking-avatar",
+    "talking-head",
     "text-to-speech",
     "voice-agent",
     "voice-cloning",
     "websocket",
-    "whisper-ai",
-    "xtts-v2"
+    "whisper-ai"
   ],
-  "star_count": 235,
-  "fork_count": 41,
+  "star_count": 244,
+  "fork_count": 42,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-30T08:19:24Z",
-  "updated_at": "2026-06-10T05:21:52Z",
-  "pushed_at": "2026-06-04T11:09:44Z",
+  "updated_at": "2026-06-11T20:57:06Z",
+  "pushed_at": "2026-06-11T11:56:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -117,6 +119,10 @@
     {
       "date": "2026-06-10",
       "stars": 235
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 244
     }
   ]
 }

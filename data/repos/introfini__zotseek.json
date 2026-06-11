@@ -3,7 +3,7 @@
   "owner": "introfini",
   "name": "zotseek",
   "full_name": "introfini/zotseek",
-  "description": "AI semantic search for Zotero. Find papers by meaning, not just keywords. 100% local and private.",
+  "description": "AI semantic search for Zotero, with a built-in MCP server for AI agents (Claude Code, Codex). Find papers by meaning. 100% local and private.",
   "description_ja": "",
   "url": "https://github.com/introfini/ZotSeek",
   "homepage_url": "",
@@ -13,8 +13,14 @@
     "academic",
     "academic-research",
     "ai",
+    "ai-agents",
+    "claude-code",
     "embeddings",
+    "llm",
     "local-ai",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
     "offline-first",
     "papers",
     "privacy-focused",
@@ -25,13 +31,13 @@
     "zotero",
     "zotero-plugin"
   ],
-  "star_count": 117,
+  "star_count": 118,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-26T19:37:29Z",
-  "updated_at": "2026-06-10T20:05:24Z",
-  "pushed_at": "2026-06-10T19:01:08Z",
+  "updated_at": "2026-06-11T18:40:38Z",
+  "pushed_at": "2026-06-11T18:40:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -117,6 +123,10 @@
     {
       "date": "2026-06-10",
       "stars": 117
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 118
     }
   ]
 }

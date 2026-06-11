@@ -15,8 +15,11 @@
     "delphi-orm",
     "firebird",
     "firedac",
+    "interbase",
     "json",
+    "mariadb",
     "object-pascal",
+    "oracle",
     "orm",
     "postgresql",
     "rad-studio",
@@ -29,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-23T19:47:47Z",
-  "updated_at": "2026-06-09T07:11:23Z",
-  "pushed_at": "2026-06-09T07:11:19Z",
+  "updated_at": "2026-06-11T15:31:35Z",
+  "pushed_at": "2026-06-11T09:19:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -171,6 +174,10 @@
     },
     {
       "date": "2026-06-10",
+      "stars": 140
+    },
+    {
+      "date": "2026-06-11",
       "stars": 140
     }
   ]

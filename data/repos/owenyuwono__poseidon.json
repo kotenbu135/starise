@@ -3,25 +3,36 @@
   "owner": "owenyuwono",
   "name": "poseidon",
   "full_name": "owenyuwono/poseidon",
-  "description": "",
+  "description": "GPU-driven real-time FFT ocean (Three.js + WebGPU/TSL)",
   "description_ja": "",
   "url": "https://github.com/owenyuwono/poseidon",
-  "homepage_url": "",
+  "homepage_url": "https://x.com/owenyuwono/status/2064260229207142583",
   "language": "JavaScript",
   "license": "",
-  "topics": [],
-  "star_count": 31,
-  "fork_count": 7,
+  "topics": [
+    "compute-shader",
+    "fft",
+    "graphics",
+    "threejs",
+    "webgl",
+    "webgpu"
+  ],
+  "star_count": 47,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T06:43:47Z",
-  "updated_at": "2026-06-10T21:32:01Z",
+  "updated_at": "2026-06-11T12:22:10Z",
   "pushed_at": "2026-06-09T07:56:50Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-06-10",
       "stars": 31
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 47
     }
   ]
 }

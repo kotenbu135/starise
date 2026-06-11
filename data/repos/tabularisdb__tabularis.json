@@ -3,10 +3,10 @@
   "owner": "tabularisdb",
   "name": "tabularis",
   "full_name": "tabularisdb/tabularis",
-  "description": "A lightweight, cross-platform database client for developers. Supports MySQL, PostgreSQL and SQLite. Hackable with plugins. Built for speed, security, and aesthetics.",
-  "description_ja": "開発者向けの軽量クロスプラットフォームデータベースクライアント。MySQL、PostgreSQL、SQLite をサポート。プラグインでカスタマイズ可能。速度、セキュリティ、デザインを重視して設計。",
+  "description": "Open-source database client for PostgreSQL, MySQL/MariaDB and SQLite with SQL notebooks, visual EXPLAIN, AI and MCP built in. Hackable with plugins.",
+  "description_ja": "",
   "url": "https://github.com/TabularisDB/tabularis",
-  "homepage_url": "http://tabularis.dev",
+  "homepage_url": "https://tabularis.dev",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
@@ -15,29 +15,29 @@
     "cross-platform",
     "database-client",
     "database-gui",
-    "database-management",
     "database-tool",
-    "developer-tools",
     "er-diagram",
+    "mariadb",
     "mcp",
+    "mcp-server",
     "mysql",
     "postgresql",
-    "react",
     "rust",
     "sql",
     "sql-editor",
+    "sql-notebook",
     "sqlite",
     "tauri",
     "typescript",
     "visual-query-builder"
   ],
-  "star_count": 2389,
+  "star_count": 2405,
   "fork_count": 166,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-26T21:48:07Z",
-  "updated_at": "2026-06-10T20:43:40Z",
-  "pushed_at": "2026-06-10T14:57:00Z",
+  "updated_at": "2026-06-11T21:31:28Z",
+  "pushed_at": "2026-06-11T09:30:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -183,6 +183,10 @@
     {
       "date": "2026-06-10",
       "stars": 2389
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 2405
     }
   ]
 }

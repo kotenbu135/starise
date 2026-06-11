@@ -1,0 +1,38 @@
+{
+  "repo_id": "R_kgDORr7CRg",
+  "owner": "l5769389",
+  "name": "dicomvisionclient",
+  "full_name": "l5769389/dicomvisionclient",
+  "description": "DicomVision 是一套面向 DICOM 影像浏览、重建、测量、质量分析、元数据检查、对比阅片与脱敏导出的 C/S 阅片工具，支持 Stack 切片阅览、Stack 双序列对比、MPR/斜切 MPR、4D 时相播放、服务端 3D 体渲染、DICOM 标签检查与修改、DICOM 脱敏导出、ROI 测量、MTF/FWHM 分析、水模 QA、图像导出、深浅主题切换，并可分别部署为浏览器 Web 应用或包含内置后端的 Windows 桌面应用。",
+  "description_ja": "",
+  "url": "https://github.com/l5769389/DicomVisionClient",
+  "homepage_url": "https://dicom.zhaolin.online/",
+  "language": "TypeScript",
+  "license": "",
+  "topics": [
+    "dicom",
+    "dicom-viewer",
+    "dicom-web-viewer",
+    "electron",
+    "fastapi",
+    "medical-imaging",
+    "mpr",
+    "volume-rendering",
+    "vtk",
+    "vue"
+  ],
+  "star_count": 62,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-20T05:45:20Z",
+  "updated_at": "2026-06-11T13:20:11Z",
+  "pushed_at": "2026-06-11T09:08:24Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-11",
+      "stars": 62
+    }
+  ]
+}

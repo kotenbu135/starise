@@ -11,6 +11,7 @@
   "license": "NOASSERTION",
   "topics": [
     "agents",
+    "claude-agent",
     "deepseek",
     "gemini",
     "gemini-api",
@@ -22,7 +23,6 @@
     "knowledge-graph",
     "langchain",
     "langgraph",
-    "llama-index",
     "llm",
     "llms",
     "neo4j",
@@ -36,7 +36,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-27T16:31:03Z",
-  "updated_at": "2026-05-19T01:24:25Z",
+  "updated_at": "2026-06-11T15:01:09Z",
   "pushed_at": "2026-02-05T00:41:53Z",
   "deleted_at": "",
   "star_history": [
@@ -178,6 +178,10 @@
     },
     {
       "date": "2026-06-10",
+      "stars": 31
+    },
+    {
+      "date": "2026-06-11",
       "stars": 31
     }
   ]

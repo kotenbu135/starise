@@ -3,20 +3,31 @@
   "owner": "satelliteoflove",
   "name": "godot-mcp",
   "full_name": "satelliteoflove/godot-mcp",
-  "description": "MCP server for Godot Engine - AI assistant integration",
+  "description": "Give your AI assistant eyes and hands in the Godot editor: scene editing, input injection, deterministic playtesting, and live game state for agents",
   "description_ja": "",
   "url": "https://github.com/satelliteoflove/godot-mcp",
-  "homepage_url": "",
+  "homepage_url": "https://www.npmjs.com/package/@satelliteoflove/godot-mcp",
   "language": "GDScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 99,
+  "topics": [
+    "ai-agents",
+    "claude",
+    "game-development",
+    "gdscript",
+    "godot",
+    "godot-addon",
+    "godot-engine",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol"
+  ],
+  "star_count": 100,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-21T01:19:38Z",
-  "updated_at": "2026-06-10T20:18:13Z",
-  "pushed_at": "2026-06-10T20:17:49Z",
+  "updated_at": "2026-06-11T21:31:42Z",
+  "pushed_at": "2026-06-11T21:35:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -30,6 +41,10 @@
     {
       "date": "2026-06-10",
       "stars": 99
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 100
     }
   ]
 }

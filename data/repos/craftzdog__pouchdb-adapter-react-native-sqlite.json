@@ -6,8 +6,8 @@
   "description": "PouchDB adapter using ReactNative SQLite as its backing store",
   "description_ja": "ReactNative SQLiteをバックエンドストアとして使用するPouchDBアダプター。",
   "url": "https://github.com/craftzdog/pouchdb-adapter-react-native-sqlite",
-  "homepage_url": "https://github.com/craftzdog/pouchdb-react-native",
-  "language": "TypeScript",
+  "homepage_url": "",
+  "language": "JavaScript",
   "license": "MIT",
   "topics": [
     "database",
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-12-20T14:00:17Z",
-  "updated_at": "2026-06-10T09:16:30Z",
-  "pushed_at": "2026-06-10T01:01:19Z",
+  "updated_at": "2026-06-11T14:11:38Z",
+  "pushed_at": "2026-06-11T05:59:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -162,6 +162,10 @@
     },
     {
       "date": "2026-06-10",
+      "stars": 162
+    },
+    {
+      "date": "2026-06-11",
       "stars": 162
     }
   ]

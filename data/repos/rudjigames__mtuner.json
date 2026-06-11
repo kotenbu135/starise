@@ -3,8 +3,8 @@
   "owner": "rudjigames",
   "name": "mtuner",
   "full_name": "rudjigames/mtuner",
-  "description": "MTuner is a C/C++ memory profiler and memory leak finder for Windows, PlayStation 3/4/5, Nintendo Switch, Android and other platforms",
-  "description_ja": "MTunerはWindows、PlayStation 3/4/5、Nintendo Switch、Androidおよびその他プラットフォーム向けのC/C++メモリプロファイラおよびメモリリーク検出ツール",
+  "description": "MTuner is a C/C++ memory profiler and memory leak finder for Windows and other platforms",
+  "description_ja": "",
   "url": "https://github.com/RudjiGames/MTuner",
   "homepage_url": "",
   "language": "C++",
@@ -15,8 +15,6 @@
     "memory-profiler",
     "optimization",
     "performance-analysis",
-    "playstation3",
-    "playstation4",
     "profiling",
     "tool"
   ],
@@ -25,7 +23,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-08-24T02:11:28Z",
-  "updated_at": "2026-06-10T04:40:44Z",
+  "updated_at": "2026-06-11T12:49:50Z",
   "pushed_at": "2026-05-31T21:16:14Z",
   "deleted_at": "",
   "star_history": [
@@ -171,6 +169,10 @@
     },
     {
       "date": "2026-06-10",
+      "stars": 2787
+    },
+    {
+      "date": "2026-06-11",
       "stars": 2787
     }
   ]

@@ -3,20 +3,39 @@
   "owner": "tnt-likely",
   "name": "beecount-cloud",
   "full_name": "tnt-likely/beecount-cloud",
-  "description": "BeeCount 自托管云端 / Self-hosted backend for BeeCount — sync · shared ledgers · realtime ",
+  "description": "Self-hosted cloud for BeeCount — one Docker image runs the sync server + web app · multi-device realtime sync · shared ledgers | 蜜蜂记账自建云:一个 Docker 镜像跑齐同步服务与 Web 端 · 多端实时同步 · 共享账本",
   "description_ja": "",
   "url": "https://github.com/TNT-Likely/BeeCount-Cloud",
   "homepage_url": "https://count.beejz.com",
   "language": "TypeScript",
   "license": "",
-  "topics": [],
-  "star_count": 47,
+  "topics": [
+    "accounting",
+    "bookkeeping",
+    "docker",
+    "expense-tracker",
+    "fastapi",
+    "flutter",
+    "local-first",
+    "personal-finance",
+    "postgresql",
+    "python",
+    "react",
+    "realtime",
+    "self-hosted",
+    "selfhosted",
+    "sqlite",
+    "sync",
+    "typescript",
+    "vite"
+  ],
+  "star_count": 48,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-18T10:55:09Z",
-  "updated_at": "2026-06-10T14:24:42Z",
-  "pushed_at": "2026-06-10T08:22:22Z",
+  "updated_at": "2026-06-11T14:15:06Z",
+  "pushed_at": "2026-06-11T14:04:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -82,6 +101,10 @@
     {
       "date": "2026-06-10",
       "stars": 47
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 48
     }
   ]
 }
