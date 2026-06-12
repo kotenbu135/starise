@@ -10,26 +10,34 @@
   "language": "Python",
   "license": "GPL-3.0",
   "topics": [
+    "aslr",
     "asm",
+    "binary-exploitation",
     "exp-301",
     "exp-401",
+    "exploit",
     "exploit-development",
     "gadget",
+    "offsec",
+    "osee",
+    "pentesting",
+    "python",
     "return-oriented-programming",
     "rop",
     "rop-chain",
     "rop-gadgets",
     "ropchain-generator",
+    "windows",
     "x64",
     "x86"
   ],
-  "star_count": 31,
+  "star_count": 32,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-11T15:54:40Z",
-  "updated_at": "2026-06-06T22:28:30Z",
-  "pushed_at": "2026-05-21T10:12:49Z",
+  "updated_at": "2026-06-12T16:40:09Z",
+  "pushed_at": "2026-06-12T10:09:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +107,10 @@
     {
       "date": "2026-06-11",
       "stars": 31
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 32
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "canarybyte",
   "name": "veridrop",
   "full_name": "canarybyte/veridrop",
-  "description": "AI API 中转站真伪检测 · 中转站检测 · Claude/GPT/Gemini relay authenticity detector · thinking signature crypto verification + needle-in-haystack long-context probe · self-hostable · AGPL-3.0",
+  "description": "AI API 中转站检测工具：Claude 中转站检测、OpenAI 中转站检测、Gemini 中转站检测，中转站真伪检测、长上下文验证、思维签名验证、中转站红黑榜，自托管开源。",
   "description_ja": "",
   "url": "https://github.com/canarybyte/veridrop",
   "homepage_url": "https://veridrop.org",
@@ -30,13 +30,13 @@
     "self-hostable",
     "thinking-signature"
   ],
-  "star_count": 62,
+  "star_count": 65,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-05T08:56:18Z",
-  "updated_at": "2026-06-11T07:36:15Z",
-  "pushed_at": "2026-05-23T08:07:00Z",
+  "updated_at": "2026-06-12T10:05:45Z",
+  "pushed_at": "2026-06-12T08:28:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +94,10 @@
     {
       "date": "2026-06-11",
       "stars": 62
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 65
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "爱快分流规则维护：自动将通过指定的远程配置文件把区域ip，域名等，整理到到爱快，实现旁路由自动切换，域名分流、端口分流（IP分组分流）、自定义运营商、广告屏蔽等",
   "description_ja": "爱快（iKuai）向け分流ルール管理：リモート設定ファイルを自動取得し、地域IP・ドメインを整理して爱快に反映。サイドルーター自動切換・ドメイン分流・ポート分流（IPグループ分流）・カスタムISP・広告ブロック等を実現。",
   "url": "https://github.com/joyanhui/ikuai-bypass",
-  "homepage_url": "https://dev.leiyanhui.com/",
+  "homepage_url": "https://joyanhui.github.io/ikuai-bypass/",
   "language": "Rust",
   "license": "AGPL-3.0",
   "topics": [
@@ -18,8 +18,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-26T04:49:55Z",
-  "updated_at": "2026-06-11T12:45:36Z",
-  "pushed_at": "2026-06-10T13:05:37Z",
+  "updated_at": "2026-06-12T11:15:42Z",
+  "pushed_at": "2026-06-12T11:15:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -168,6 +168,10 @@
     },
     {
       "date": "2026-06-11",
+      "stars": 629
+    },
+    {
+      "date": "2026-06-12",
       "stars": 629
     }
   ]

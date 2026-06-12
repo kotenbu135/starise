@@ -3,8 +3,8 @@
   "owner": "mikkoim",
   "name": "dinotool",
   "full_name": "mikkoim/dinotool",
-  "description": "Command-line tool for extracting DINOv3, CLIP, SigLIP2, RADIO, features for images and videos",
-  "description_ja": "画像と動画から DINOv3、CLIP、SigLIP2、RADIO の特徴量を抽出するコマンドラインツール",
+  "description": "Command-line tool for extracting DINO, CLIP, SigLIP2, TIPSv2, RADIO, features for images and videos",
+  "description_ja": "",
   "url": "https://github.com/mikkoim/dinotool",
   "homepage_url": "",
   "language": "Python",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-02T08:30:48Z",
-  "updated_at": "2026-06-07T13:39:25Z",
-  "pushed_at": "2026-06-10T18:17:10Z",
+  "updated_at": "2026-06-12T19:54:48Z",
+  "pushed_at": "2026-06-12T19:56:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -170,6 +170,10 @@
     },
     {
       "date": "2026-06-11",
+      "stars": 69
+    },
+    {
+      "date": "2026-06-12",
       "stars": 69
     }
   ]

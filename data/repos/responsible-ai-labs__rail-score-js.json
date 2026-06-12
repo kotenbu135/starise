@@ -3,27 +3,37 @@
   "owner": "responsible-ai-labs",
   "name": "rail-score-js",
   "full_name": "responsible-ai-labs/rail-score-js",
-  "description": "JavaScript/TypeScript SDK for  RAIL Score",
+  "description": "Official JavaScript and TypeScript SDK for RAIL Score. Type-safe LLM evaluation across 8 dimensions, guardrails, policy engine, safe regeneration, and multi-framework compliance.",
   "description_ja": "",
   "url": "https://github.com/Responsible-AI-Labs/rail-score-js",
   "homepage_url": "https://www.npmjs.com/package/@responsible-ai-labs/rail-score",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "ai-compliance",
+    "ai-governance",
+    "ai-safety",
     "artificial-intelligence",
     "content-moderation",
     "ethical-ai",
+    "guardrails",
+    "javascript",
     "llm",
+    "llm-guardrails",
     "machine-learning",
-    "responsible-ai"
+    "nodejs",
+    "prompt-injection",
+    "responsible-ai",
+    "sdk",
+    "typescript"
   ],
   "star_count": 10,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-03T20:13:31Z",
-  "updated_at": "2026-06-07T14:48:34Z",
-  "pushed_at": "2026-06-07T14:50:51Z",
+  "updated_at": "2026-06-12T07:23:10Z",
+  "pushed_at": "2026-06-12T07:24:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -120,6 +130,10 @@
     },
     {
       "date": "2026-06-11",
+      "stars": 10
+    },
+    {
+      "date": "2026-06-12",
       "stars": 10
     }
   ]

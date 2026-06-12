@@ -6,7 +6,7 @@
   "description": "Open-source incident management tool with an AI SRE agent that watches your logs, learns normal patterns, and auto-creates incidents — plus webhook alerts, multi-channel notifications, and on-call escalation.",
   "description_ja": "",
   "url": "https://github.com/VersusControl/versus-incident",
-  "homepage_url": "https://versus-incident.devopsvn.tech",
+  "homepage_url": "https://docs.versusincident.com",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -32,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-04T15:20:06Z",
-  "updated_at": "2026-06-11T16:15:39Z",
-  "pushed_at": "2026-06-08T08:26:51Z",
+  "updated_at": "2026-06-12T08:57:32Z",
+  "pushed_at": "2026-06-12T08:57:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -162,6 +162,10 @@
     },
     {
       "date": "2026-06-11",
+      "stars": 490
+    },
+    {
+      "date": "2026-06-12",
       "stars": 490
     }
   ]

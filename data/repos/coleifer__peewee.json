@@ -3,26 +3,29 @@
   "owner": "coleifer",
   "name": "peewee",
   "full_name": "coleifer/peewee",
-  "description": "a small, expressive orm -- supports postgresql, mysql, sqlite",
-  "description_ja": "小さく表現力豊かな ORM — postgresql、mysql、sqlite をサポート。",
+  "description": "a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio",
+  "description_ja": "",
   "url": "https://github.com/coleifer/peewee",
   "homepage_url": "http://docs.peewee-orm.com/",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "asyncio",
     "dank",
+    "fastapi",
+    "flask",
     "gametight",
     "peewee",
     "python",
     "sqlite"
   ],
   "star_count": 11969,
-  "fork_count": 1384,
+  "fork_count": 1385,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2010-10-11T20:14:11Z",
-  "updated_at": "2026-06-11T20:49:38Z",
-  "pushed_at": "2026-06-11T13:25:05Z",
+  "updated_at": "2026-06-12T17:37:11Z",
+  "pushed_at": "2026-06-12T17:37:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -171,6 +174,10 @@
     },
     {
       "date": "2026-06-11",
+      "stars": 11969
+    },
+    {
+      "date": "2026-06-12",
       "stars": 11969
     }
   ]

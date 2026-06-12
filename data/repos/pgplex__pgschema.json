@@ -3,8 +3,8 @@
   "owner": "pgplex",
   "name": "pgschema",
   "full_name": "pgplex/pgschema",
-  "description": "Terraform-style, declarative schema migration CLI for Postgres. Agent friendly.",
-  "description_ja": "Terraform スタイルの宣言的スキーママイグレーション CLI（Postgres 向け）。エージェント対応。",
+  "description": "Terraform-style, declarative Postgres schema migration. Agent friendly.",
+  "description_ja": "",
   "url": "https://github.com/pgplex/pgschema",
   "homepage_url": "https://www.pgschema.com",
   "language": "Go",
@@ -25,12 +25,12 @@
     "schema-migrations",
     "terraform"
   ],
-  "star_count": 944,
-  "fork_count": 55,
+  "star_count": 945,
+  "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-08T15:50:01Z",
-  "updated_at": "2026-06-11T09:26:42Z",
+  "updated_at": "2026-06-12T11:57:12Z",
   "pushed_at": "2026-06-10T16:48:11Z",
   "deleted_at": "",
   "star_history": [
@@ -181,6 +181,10 @@
     {
       "date": "2026-06-11",
       "stars": 944
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 945
     }
   ]
 }

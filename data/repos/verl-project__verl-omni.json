@@ -3,7 +3,7 @@
   "owner": "verl-project",
   "name": "verl-omni",
   "full_name": "verl-project/verl-omni",
-  "description": "RL training framework for diffusion and omni-modality models",
+  "description": "Multimodal RL training framework for diffusion \u0026 omni models",
   "description_ja": "",
   "url": "https://github.com/verl-project/verl-omni",
   "homepage_url": "https://verl-omni.readthedocs.io/en/latest/index.html",
@@ -19,13 +19,13 @@
     "rlhf",
     "vllm"
   ],
-  "star_count": 345,
-  "fork_count": 50,
+  "star_count": 351,
+  "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-21T11:48:12Z",
-  "updated_at": "2026-06-11T20:06:30Z",
-  "pushed_at": "2026-06-09T17:38:07Z",
+  "updated_at": "2026-06-12T20:36:57Z",
+  "pushed_at": "2026-06-12T18:59:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-06-11",
       "stars": 345
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 351
     }
   ]
 }

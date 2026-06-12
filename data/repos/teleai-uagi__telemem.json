@@ -6,28 +6,34 @@
   "description": "TeleMem is a high-performance drop-in replacement for Mem0, featuring semantic deduplication, long-term dialogue memory, and multimodal video reasoning.",
   "description_ja": "TeleMemはMem0のハイパフォーマンスなドロップイン代替で、セマンティック重複排除、長期対話メモリ、マルチモーダル動画推論を特徴とする。",
   "url": "https://github.com/TeleAI-UAGI/telemem",
-  "homepage_url": "",
+  "homepage_url": "https://teleai-uagi.github.io/telemem/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
     "agent",
+    "agent-memory",
+    "ai-agents",
     "character-memory",
     "conversational-ai",
+    "faiss",
     "llm",
     "long-term-memory",
+    "mcp",
     "mem0",
     "memory",
+    "model-context-protocol",
     "multimodal",
     "rag",
-    "semantic-search"
+    "semantic-search",
+    "video-understanding"
   ],
   "star_count": 466,
-  "fork_count": 31,
+  "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-05T02:46:21Z",
-  "updated_at": "2026-06-11T20:50:12Z",
-  "pushed_at": "2026-06-11T20:50:07Z",
+  "updated_at": "2026-06-12T19:33:41Z",
+  "pushed_at": "2026-06-12T19:23:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -176,6 +182,10 @@
     },
     {
       "date": "2026-06-11",
+      "stars": 466
+    },
+    {
+      "date": "2026-06-12",
       "stars": 466
     }
   ]

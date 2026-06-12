@@ -3,8 +3,8 @@
   "owner": "eddmpython",
   "name": "dartlab",
   "full_name": "eddmpython/dartlab",
-  "description": "One stock code → full company story",
-  "description_ja": "1 つの銘柄コードで企業の全体像を把握。",
+  "description": "Korean DART + SEC EDGAR filings as structured Python data for company analysis",
+  "description_ja": "",
   "url": "https://github.com/eddmpython/dartlab",
   "homepage_url": "https://eddmpython.github.io/dartlab",
   "language": "Python",
@@ -13,17 +13,17 @@
     "10-k",
     "ai-analysis",
     "company-analysis",
+    "corporate-disclosure",
     "dart",
     "disclosure",
     "edgar",
     "finance",
     "financial-analysis",
     "financial-statements",
-    "financial-storytelling",
     "korea",
     "korean-stocks",
-    "llm-context",
     "mcp",
+    "opendart",
     "polars",
     "python",
     "quantitative-finance",
@@ -31,13 +31,13 @@
     "stock-analysis",
     "xbrl"
   ],
-  "star_count": 150,
-  "fork_count": 32,
+  "star_count": 155,
+  "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T14:58:20Z",
-  "updated_at": "2026-06-11T17:04:08Z",
-  "pushed_at": "2026-06-11T08:02:13Z",
+  "updated_at": "2026-06-12T18:44:03Z",
+  "pushed_at": "2026-06-12T18:43:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -187,6 +187,10 @@
     {
       "date": "2026-06-11",
       "stars": 150
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 155
     }
   ]
 }

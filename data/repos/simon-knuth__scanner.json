@@ -3,8 +3,8 @@
   "owner": "simon-knuth",
   "name": "scanner",
   "full_name": "simon-knuth/scanner",
-  "description": "An all-in-one scanner app built for the Universal Windows Platform",
-  "description_ja": "Universal Windows Platform 向けに構築されたオールインワンスキャナーアプリ",
+  "description": "An all-in-one scanner app for Windows",
+  "description_ja": "",
   "url": "https://github.com/simon-knuth/scanner",
   "homepage_url": "https://simon-knuth.github.io/scanner/index",
   "language": "C#",
@@ -14,18 +14,17 @@
     "dotnet",
     "fluent-design",
     "mvvm",
-    "uwp",
     "windows",
     "winui",
     "xaml"
   ],
   "star_count": 627,
-  "fork_count": 34,
+  "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-07-09T15:34:02Z",
-  "updated_at": "2026-06-04T20:20:05Z",
-  "pushed_at": "2026-06-11T08:11:17Z",
+  "updated_at": "2026-06-12T19:48:50Z",
+  "pushed_at": "2026-06-12T20:18:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -174,6 +173,10 @@
     },
     {
       "date": "2026-06-11",
+      "stars": 627
+    },
+    {
+      "date": "2026-06-12",
       "stars": 627
     }
   ]

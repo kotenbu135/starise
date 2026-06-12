@@ -3,7 +3,7 @@
   "owner": "wshobson",
   "name": "agents",
   "full_name": "wshobson/agents",
-  "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI",
+  "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
   "description_ja": "",
   "url": "https://github.com/wshobson/agents",
   "homepage_url": "https://sethhobson.com",
@@ -31,13 +31,13 @@
     "prompt-engineering",
     "workflows"
   ],
-  "star_count": 36637,
-  "fork_count": 3967,
+  "star_count": 36663,
+  "fork_count": 3970,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-24T23:28:14Z",
-  "updated_at": "2026-06-11T21:28:42Z",
-  "pushed_at": "2026-06-08T01:08:32Z",
+  "updated_at": "2026-06-12T20:29:21Z",
+  "pushed_at": "2026-06-12T01:55:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -187,6 +187,10 @@
     {
       "date": "2026-06-11",
       "stars": 36637
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 36663
     }
   ]
 }

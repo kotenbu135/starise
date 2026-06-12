@@ -3,7 +3,7 @@
   "owner": "liaohch3",
   "name": "claude-tap",
   "full_name": "liaohch3/claude-tap",
-  "description": "Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi, Pi, and Hermes in a local trace viewer.",
+  "description": "Intercept and inspect Coding Agent API traffic from Claude Code, Codex CLI, Gemini CLI, Cursor CLI, OpenCode, Kimi/Kimi Code, Pi, and Hermes in a local trace viewer.",
   "description_ja": "",
   "url": "https://github.com/liaohch3/claude-tap",
   "homepage_url": "",
@@ -31,13 +31,13 @@
     "trace",
     "trace-viewer"
   ],
-  "star_count": 1660,
-  "fork_count": 178,
+  "star_count": 1696,
+  "fork_count": 182,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T12:51:26Z",
-  "updated_at": "2026-06-11T21:06:47Z",
-  "pushed_at": "2026-06-11T17:01:28Z",
+  "updated_at": "2026-06-12T17:50:44Z",
+  "pushed_at": "2026-06-12T15:58:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -119,6 +119,10 @@
     {
       "date": "2026-06-11",
       "stars": 1660
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 1696
     }
   ]
 }

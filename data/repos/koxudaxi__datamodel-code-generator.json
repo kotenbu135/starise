@@ -3,10 +3,10 @@
   "owner": "koxudaxi",
   "name": "datamodel-code-generator",
   "full_name": "koxudaxi/datamodel-code-generator",
-  "description": "Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).",
-  "description_ja": "OpenAPI・JSONスキーマ・GraphQL・生データ（JSON/YAML/CSV）からPythonデータモデル（Pydantic・dataclasses・TypedDict・msgspec）を生成するツール",
+  "description": "Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.",
+  "description_ja": "",
   "url": "https://github.com/koxudaxi/datamodel-code-generator",
-  "homepage_url": "https://koxudaxi.github.io/datamodel-code-generator/",
+  "homepage_url": "https://datamodel-code-generator.koxudaxi.dev/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -29,12 +29,12 @@
     "yaml"
   ],
   "star_count": 3929,
-  "fork_count": 444,
+  "fork_count": 446,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-29T08:01:32Z",
-  "updated_at": "2026-06-11T19:26:50Z",
-  "pushed_at": "2026-06-11T21:21:45Z",
+  "updated_at": "2026-06-12T20:06:14Z",
+  "pushed_at": "2026-06-12T20:21:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -179,6 +179,10 @@
     },
     {
       "date": "2026-06-11",
+      "stars": 3929
+    },
+    {
+      "date": "2026-06-12",
       "stars": 3929
     }
   ]

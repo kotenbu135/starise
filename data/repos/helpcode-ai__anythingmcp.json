@@ -3,41 +3,41 @@
   "owner": "helpcode-ai",
   "name": "anythingmcp",
   "full_name": "helpcode-ai/anythingmcp",
-  "description": "MCP gateway for REST, SOAP/WSDL, GraphQL \u0026 SQL — the legacy-friendly API-to-MCP bridge for Claude, ChatGPT, Gemini, Copilot, Cursor. OpenAPI/Postman/WSDL import, OAuth2, RBAC, on-prem audit log. 160+ pre-built adapters (Sorare, WooCommerce, Whatsapp, WeClapp, HRWorks…)",
+  "description": "Build custom connectors for Claude \u0026 ChatGPT Apps from any API — no code. Self-hosted MCP gateway for REST, SOAP/WSDL, GraphQL \u0026 SQL. OAuth2, RBAC, on-prem audit log, 175+ pre-built adapters (DATEV, DHL, Personio, WooCommerce, Sorare…)",
   "description_ja": "",
   "url": "https://github.com/HelpCode-ai/anythingmcp",
   "homepage_url": "https://anythingmcp.com",
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
+    "agentic-ai",
+    "agents",
     "ai-agents",
-    "anthropic",
-    "api-gateway",
-    "api-to-mcp",
     "chatgpt",
+    "chatgpt-apps",
     "claude",
-    "database",
+    "claude-connectors",
+    "database-mcp-server",
     "gemini",
-    "graphql",
-    "llm-tools",
+    "graphql-to-mcp",
     "mcp",
-    "mcp-gateway",
-    "mcp-middleware",
-    "mcp-proxy",
-    "mcp-server",
+    "mcp-servers",
+    "mcps",
     "model-context-protocol",
-    "openapi",
-    "rest-api",
+    "no-code",
+    "rest-to-mcp",
     "self-hosted",
-    "soap"
+    "soap-to-mcp",
+    "sql-to-mcp",
+    "typescript"
   ],
-  "star_count": 118,
+  "star_count": 120,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T12:01:26Z",
-  "updated_at": "2026-06-11T19:51:28Z",
-  "pushed_at": "2026-06-11T19:54:36Z",
+  "updated_at": "2026-06-12T13:53:43Z",
+  "pushed_at": "2026-06-12T13:53:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +99,10 @@
     {
       "date": "2026-06-11",
       "stars": 118
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 120
     }
   ]
 }

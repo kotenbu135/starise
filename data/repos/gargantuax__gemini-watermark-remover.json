@@ -3,7 +3,7 @@
   "owner": "gargantuax",
   "name": "gemini-watermark-remover",
   "full_name": "gargantuax/gemini-watermark-remover",
-  "description": "A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting.  / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法",
+  "description": "A high-performance, 100% client-side tool for removing Gemini AI image \u0026 video watermarks. Built with pure JavaScript using mathematically precise Reverse Alpha Blending. / 基于 JavaScript 的纯浏览器端 Gemini AI 图像和视频无损去水印工具，使用数学精确的反向 Alpha 混合算法",
   "description_ja": "",
   "url": "https://github.com/GargantuaX/gemini-watermark-remover",
   "homepage_url": "https://pilio.ai/gemini-watermark-remover",
@@ -12,18 +12,19 @@
   "topics": [
     "chrome-extension",
     "gemini",
+    "gemini-video-watermark-remover",
     "gemini-watermark-remover",
     "skills",
     "userscript",
     "watermark-remover"
   ],
-  "star_count": 4394,
-  "fork_count": 517,
+  "star_count": 4403,
+  "fork_count": 518,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-19T12:06:10Z",
-  "updated_at": "2026-06-11T19:42:39Z",
-  "pushed_at": "2026-06-08T19:56:23Z",
+  "updated_at": "2026-06-12T18:48:08Z",
+  "pushed_at": "2026-06-12T18:48:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +66,10 @@
     {
       "date": "2026-06-11",
       "stars": 4394
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 4403
     }
   ]
 }

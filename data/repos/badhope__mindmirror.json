@@ -3,31 +3,26 @@
   "owner": "badhope",
   "name": "mindmirror",
   "full_name": "badhope/mindmirror",
-  "description": "Self-check scales (Big Five, PSS-10, GAD-7, SSRS, MBI-GS, SWLS, CD-RISC-10) plus a mood log and CBT-style training. Runs entirely in your browser, answers live in localStorage. EN / 中文. PolyForm Noncommercial.",
+  "description": "镜心 (Jingxin) — 一面问己之镜。以十二维特征空间将汝之答映射至千古人物。纯前端、纯本地、无后端、无账号。",
   "description_ja": "",
   "url": "https://github.com/badhope/MindMirror",
   "homepage_url": "https://badhope.github.io/MindMirror/",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
-    "anxiety-assessment",
-    "big-five",
-    "cbt",
-    "gad-7",
-    "ipip",
-    "mental-health",
-    "mental-training",
-    "mood-tracker",
-    "neo-pi-r",
-    "ocean",
-    "personality-assessment",
-    "pss-10",
-    "psychology",
+    "chinese-literature",
+    "github-pages",
+    "historical-figures",
+    "jingxin",
+    "literati",
+    "local-first",
+    "mindmirror",
+    "personality-test",
+    "privacy",
+    "pwa",
     "react",
-    "self-discovery",
-    "self-hosted",
-    "stress-test",
-    "tailwindcss",
+    "static-site",
+    "trait-space",
     "typescript",
     "vite"
   ],
@@ -36,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T08:52:31Z",
-  "updated_at": "2026-06-11T18:30:59Z",
-  "pushed_at": "2026-06-10T16:20:04Z",
+  "updated_at": "2026-06-12T16:52:40Z",
+  "pushed_at": "2026-06-12T16:52:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -186,6 +181,10 @@
     },
     {
       "date": "2026-06-11",
+      "stars": 66
+    },
+    {
+      "date": "2026-06-12",
       "stars": 66
     }
   ]

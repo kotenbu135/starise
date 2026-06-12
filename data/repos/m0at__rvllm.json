@@ -6,7 +6,7 @@
   "description": "rvLLM: High-performance LLM inference in Rust. Drop-in vLLM replacement.",
   "description_ja": "rvLLM: Rust による高性能 LLM 推論。vLLM のドロップイン代替",
   "url": "https://github.com/m0at/rvllm",
-  "homepage_url": "",
+  "homepage_url": "https://rvllm.com",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [],
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-27T19:01:39Z",
-  "updated_at": "2026-06-11T08:05:57Z",
-  "pushed_at": "2026-06-11T07:15:37Z",
+  "updated_at": "2026-06-12T18:41:49Z",
+  "pushed_at": "2026-06-12T18:41:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -161,6 +161,10 @@
     },
     {
       "date": "2026-06-11",
+      "stars": 738
+    },
+    {
+      "date": "2026-06-12",
       "stars": 738
     }
   ]

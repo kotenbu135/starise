@@ -6,7 +6,7 @@
   "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
   "description_ja": "個人または公開でコンピュートを共有し、エージェントやチャットを支える分散型AI/LLM",
   "url": "https://github.com/Mesh-LLM/mesh-llm",
-  "homepage_url": "http://docs.meshllm.cloud/",
+  "homepage_url": "http://meshllm.cloud/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -16,13 +16,13 @@
     "distributed",
     "llm"
   ],
-  "star_count": 1142,
+  "star_count": 1151,
   "fork_count": 140,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T03:18:27Z",
-  "updated_at": "2026-06-11T21:16:18Z",
-  "pushed_at": "2026-06-11T12:10:12Z",
+  "updated_at": "2026-06-12T17:52:04Z",
+  "pushed_at": "2026-06-12T17:48:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -172,6 +172,10 @@
     {
       "date": "2026-06-11",
       "stars": 1142
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 1151
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "markaren",
   "name": "threepp",
   "full_name": "markaren/threepp",
-  "description": "C++20 port of three.js (r129++)",
+  "description": "A cross-platform C++20 3D library with the high-level API of three.js",
   "description_ja": "",
   "url": "https://github.com/markaren/threepp",
   "homepage_url": "",
@@ -24,13 +24,13 @@
     "wasm",
     "webgpu"
   ],
-  "star_count": 791,
+  "star_count": 792,
   "fork_count": 92,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-15T12:56:46Z",
-  "updated_at": "2026-06-08T20:58:20Z",
-  "pushed_at": "2026-06-11T19:47:51Z",
+  "updated_at": "2026-06-12T19:40:02Z",
+  "pushed_at": "2026-06-12T19:29:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -180,6 +180,10 @@
     {
       "date": "2026-06-11",
       "stars": 791
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 792
     }
   ]
 }

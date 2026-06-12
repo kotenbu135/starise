@@ -3,8 +3,8 @@
   "owner": "chatbotkit",
   "name": "node-sdk",
   "full_name": "chatbotkit/node-sdk",
-  "description": "The ChatBotKit Node SDK offers a JavaScript-based platform for effortlessly building conversational AI bots and agents.",
-  "description_ja": "ChatBotKit Node SDK は、会話型 AI ボットやエージェントを手軽に構築できる JavaScript ベースのプラットフォームです",
+  "description": "Create conversational AI solutions with custom data and abilities using ChatBotKit for JavaScript, TypeScript, React, and Next.js.",
+  "description_ja": "",
   "url": "https://github.com/chatbotkit/node-sdk",
   "homepage_url": "https://chatbotkit.com",
   "language": "JavaScript",
@@ -12,25 +12,32 @@
   "topics": [
     "agents",
     "ai",
+    "ai-agent",
+    "ai-agents",
     "anthropic",
+    "chatbot",
     "chatbotkit",
+    "chatbots",
+    "conversational-ai",
     "generative-ai",
     "generative-ui",
+    "javascript",
     "mistral",
     "nextjs",
     "nodejs",
     "openai",
     "rag",
-    "reactjs",
-    "sdk"
+    "react",
+    "sdk",
+    "typescript"
   ],
   "star_count": 73,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-15T07:31:17Z",
-  "updated_at": "2026-05-18T06:01:36Z",
-  "pushed_at": "2026-05-18T06:04:01Z",
+  "updated_at": "2026-06-11T22:08:02Z",
+  "pushed_at": "2026-06-11T22:08:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -179,6 +186,10 @@
     },
     {
       "date": "2026-06-11",
+      "stars": 73
+    },
+    {
+      "date": "2026-06-12",
       "stars": 73
     }
   ]

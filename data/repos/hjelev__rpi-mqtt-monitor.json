@@ -6,7 +6,7 @@
   "description": " Raspberry Pi MQTT Monitor gathers system information and sends it to a MQTT server.",
   "description_ja": "Raspberry Pi MQTT Monitor はシステム情報を収集してMQTTサーバーに送信するツール",
   "url": "https://github.com/hjelev/rpi-mqtt-monitor",
-  "homepage_url": "",
+  "homepage_url": "http://masoko.net/rpi-mqtt-monitor/",
   "language": "Python",
   "license": "GPL-3.0",
   "topics": [
@@ -19,18 +19,21 @@
     "monitoring-scripts",
     "monitoring-tool",
     "mqtt",
+    "mqtt-client",
+    "mqtt-connector",
+    "mqtt-smarthome",
     "python",
     "rpi",
     "sensor",
     "service"
   ],
-  "star_count": 302,
+  "star_count": 303,
   "fork_count": 73,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-04-27T13:32:04Z",
-  "updated_at": "2026-06-11T21:08:14Z",
-  "pushed_at": "2026-06-11T21:08:08Z",
+  "updated_at": "2026-06-12T14:02:52Z",
+  "pushed_at": "2026-06-12T14:06:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -180,6 +183,10 @@
     {
       "date": "2026-06-11",
       "stars": 302
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 303
     }
   ]
 }

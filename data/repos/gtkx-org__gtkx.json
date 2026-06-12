@@ -3,7 +3,7 @@
   "owner": "gtkx-org",
   "name": "gtkx",
   "full_name": "gtkx-org/gtkx",
-  "description": "Linux application development for the modern age",
+  "description": "Native Linux application development for the modern age — React 19 + GTK4/Libadwaita on Node.js",
   "description_ja": "",
   "url": "https://github.com/gtkx-org/gtkx",
   "homepage_url": "https://gtkx.dev/",
@@ -11,23 +11,28 @@
   "license": "MPL-2.0",
   "topics": [
     "desktop",
+    "desktop-application",
+    "gnome",
     "gtk",
     "gtk4",
+    "jsx",
+    "libadwaita",
     "libffi",
     "linux",
     "native",
     "nodejs",
     "react",
+    "react-reconciler",
     "rust",
     "typescript"
   ],
-  "star_count": 307,
+  "star_count": 308,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-17T16:10:30Z",
-  "updated_at": "2026-06-09T16:44:54Z",
-  "pushed_at": "2026-06-11T21:08:34Z",
+  "updated_at": "2026-06-12T17:46:02Z",
+  "pushed_at": "2026-06-12T19:47:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -141,6 +146,10 @@
     {
       "date": "2026-06-11",
       "stars": 307
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 308
     }
   ]
 }

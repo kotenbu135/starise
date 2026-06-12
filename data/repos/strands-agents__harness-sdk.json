@@ -3,40 +3,41 @@
   "owner": "strands-agents",
   "name": "harness-sdk",
   "full_name": "strands-agents/harness-sdk",
-  "description": "A model-driven approach to building AI agents in just a few lines of code.",
-  "description_ja": "わずか数行のコードでAIエージェントを構築するモデル駆動アプローチ",
+  "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python \u0026 TypeScript - any model, any cloud.",
+  "description_ja": "",
   "url": "https://github.com/strands-agents/harness-sdk",
   "homepage_url": "http://strandsagents.com/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "agent-framework",
     "agentic",
     "agentic-ai",
     "agents",
     "ai",
+    "ai-agents",
     "anthropic",
     "autonomous-agents",
     "bedrock",
-    "genai",
-    "litellm",
-    "llama",
+    "generative-ai",
+    "harness",
     "llm",
-    "machine-learning",
+    "llm-agent",
     "mcp",
     "multi-agent-systems",
-    "ollama",
     "openai",
-    "opentelemetry",
     "python",
-    "strands-agents"
+    "sdk",
+    "strands-agents",
+    "typescript"
   ],
-  "star_count": 6107,
-  "fork_count": 878,
+  "star_count": 6119,
+  "fork_count": 879,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-14T19:59:51Z",
-  "updated_at": "2026-06-11T21:29:49Z",
-  "pushed_at": "2026-06-11T21:29:45Z",
+  "updated_at": "2026-06-12T20:41:27Z",
+  "pushed_at": "2026-06-12T20:41:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -186,6 +187,10 @@
     {
       "date": "2026-06-11",
       "stars": 6107
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 6119
     }
   ]
 }
