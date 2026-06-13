@@ -3,7 +3,7 @@
   "owner": "ozark-connect",
   "name": "networkoptimizer",
   "full_name": "ozark-connect/networkoptimizer",
-  "description": "Self-hosted performance optimization and security audit tool for UniFi Networks. Includes Wi-Fi Optimizer for wireless health scoring and channel optimization, advanced DNS/VLAN/firewall security checks, config optimization suggestions, centralized WAN and LAN speed test server w/ L2 tracing, ONT, SFP, UniFi 5G modem stats, and more.​​​​​​​​​​​​​​​",
+  "description": "Self-hosted optimization, monitoring, and security audit tool for UniFi Networks. Includes Wi-Fi Optimizer for wireless health scoring and channel optimization, advanced DNS/VLAN/firewall security checks, config optimization suggestions, centralized WAN and LAN speed test server w/ L2 tracing, ONT, SFP, UniFi 5G modem stats, and more.​​​​​​​​​​​​​​",
   "description_ja": "",
   "url": "https://github.com/Ozark-Connect/NetworkOptimizer",
   "homepage_url": "",
@@ -30,13 +30,13 @@
     "wifi-configuration",
     "wifi-signal"
   ],
-  "star_count": 708,
+  "star_count": 709,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-09T05:26:11Z",
-  "updated_at": "2026-06-12T05:38:24Z",
-  "pushed_at": "2026-06-12T19:21:24Z",
+  "updated_at": "2026-06-13T19:02:31Z",
+  "pushed_at": "2026-06-13T19:06:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -190,6 +190,10 @@
     {
       "date": "2026-06-12",
       "stars": 708
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 709
     }
   ]
 }

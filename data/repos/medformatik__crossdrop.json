@@ -3,28 +3,28 @@
   "owner": "medformatik",
   "name": "crossdrop",
   "full_name": "medformatik/crossdrop",
-  "description": "CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Nearby Share for macOS.",
+  "description": "CrossDrop is a partial implementation of Google's Quick Share in Flutter for macOS, iOS and Linux. CrossDrop is based on NearDrop, a Swift implementation of Quick Share for macOS.",
   "description_ja": "",
   "url": "https://github.com/Medformatik/CrossDrop",
   "homepage_url": "",
   "language": "Dart",
   "license": "MIT",
   "topics": [
-    "airdrop",
     "android",
     "flutter-apps",
     "ios-app",
     "linux-app",
     "macos-app",
-    "nearby-sharing"
+    "nearby-sharing",
+    "quick-share"
   ],
   "star_count": 523,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-16T15:50:10Z",
-  "updated_at": "2026-06-12T11:51:09Z",
-  "pushed_at": "2026-06-09T20:34:37Z",
+  "updated_at": "2026-06-13T14:50:39Z",
+  "pushed_at": "2026-06-13T14:49:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +37,10 @@
     },
     {
       "date": "2026-06-12",
+      "stars": 523
+    },
+    {
+      "date": "2026-06-13",
       "stars": 523
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "benseverndev-oss",
   "name": "goldenmatch",
   "full_name": "benseverndev-oss/goldenmatch",
-  "description": "Zero-config entity resolution that scales from a CSV to 100M+ rows on a Ray cluster (verified: 100M deduped in 213s, 0.30 GB driver). Fuzzy + exact + probabilistic dedupe, identity graph, PPRL, LLM boost. Python + full TypeScript port; SQL-native in PostgreSQL \u0026 DuckDB; MCP/REST servers, dbt + Airflow recipes.",
+  "description": "Zero-config entity resolution. The zero-tuning Fellegi-Sunter path beats hand-rolled Splink head-to-head; scales from a CSV to a verified 100M-row dedupe in 9.2 min on Ray. Fuzzy/exact/probabilistic + PPRL + LLM, identity graph. Python + edge-safe TypeScript (optional WASM), SQL-native in Postgres \u0026 DuckDB, MCP/REST + dbt/Airflow.",
   "description_ja": "",
   "url": "https://github.com/benseverndev-oss/goldenmatch",
   "homepage_url": "https://bensevern.dev/",
@@ -22,22 +22,22 @@
     "human-in-the-loop",
     "llm",
     "mcp-server",
-    "negative-evidence",
     "polars",
     "pprl",
     "privacy-preserving",
     "python",
     "record-linkage",
+    "splink",
     "typescript",
     "zero-config"
   ],
-  "star_count": 108,
+  "star_count": 109,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T20:13:08Z",
-  "updated_at": "2026-06-12T18:04:12Z",
-  "pushed_at": "2026-06-12T19:27:34Z",
+  "updated_at": "2026-06-13T16:55:28Z",
+  "pushed_at": "2026-06-13T16:55:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -107,6 +107,10 @@
     {
       "date": "2026-06-12",
       "stars": 108
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 109
     }
   ]
 }

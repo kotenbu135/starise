@@ -3,7 +3,7 @@
   "owner": "iteplenky",
   "name": "bedrock-pack-tools",
   "full_name": "iteplenky/bedrock-pack-tools",
-  "description": "Dump AES keys, download, and decrypt Minecraft Bedrock encrypted resource packs (.mcpack) - cross-platform Go CLI",
+  "description": "Dump AES keys, download, decrypt, and encrypt Minecraft Bedrock resource packs (.mcpack) - cross-platform Go CLI",
   "description_ja": "",
   "url": "https://github.com/iteplenky/bedrock-pack-tools",
   "homepage_url": "https://github.com/iteplenky/bedrock-pack-tools/releases/latest",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-12T13:56:09Z",
-  "updated_at": "2026-06-12T08:39:27Z",
-  "pushed_at": "2026-06-09T20:47:51Z",
+  "updated_at": "2026-06-12T22:12:54Z",
+  "pushed_at": "2026-06-12T22:09:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +78,10 @@
     },
     {
       "date": "2026-06-12",
+      "stars": 12
+    },
+    {
+      "date": "2026-06-13",
       "stars": 12
     }
   ]

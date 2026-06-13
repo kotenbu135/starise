@@ -3,26 +3,33 @@
   "owner": "dwgx",
   "name": "windsurfapi",
   "full_name": "dwgx/windsurfapi",
-  "description": "Windsurf-to-OpenAI compatible API proxy",
-  "description_ja": "WindsurfをOpenAI互換APIに変換するプロキシ",
+  "description": "Windsurf OpenAI-compatible and Anthropic-compatible LLM API proxy",
+  "description_ja": "",
   "url": "https://github.com/dwgx/WindsurfAPI",
   "homepage_url": "https://dwgx.github.io/WindsurfAPI/",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "anthropic-compatible",
     "api-proxy",
+    "claude-code",
+    "cline",
+    "cursor",
+    "docker",
     "llm-gateway",
+    "llm-proxy",
     "openai-compatible",
     "reverse-engineering",
+    "sse",
     "windsurf"
   ],
-  "star_count": 2805,
-  "fork_count": 590,
+  "star_count": 2808,
+  "fork_count": 591,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-09T09:42:05Z",
-  "updated_at": "2026-06-12T15:22:03Z",
-  "pushed_at": "2026-06-10T14:13:59Z",
+  "updated_at": "2026-06-13T14:16:42Z",
+  "pushed_at": "2026-06-13T14:16:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -172,6 +179,10 @@
     {
       "date": "2026-06-12",
       "stars": 2805
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 2808
     }
   ]
 }

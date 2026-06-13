@@ -3,7 +3,7 @@
   "owner": "secondsky",
   "name": "sap-skills",
   "full_name": "secondsky/sap-skills",
-  "description": "Production-ready Claude Code skills for SAP development - SAP skills covering BTP, CAP, Fiori, ABAP, HANA, Analytics Cloud, Datasphere",
+  "description": "Production-ready plugins for SAP development with AI coding assistants — BTP, CAP, Fiori, ABAP, HANA, Analytics Cloud, Datasphere, and more",
   "description_ja": "",
   "url": "https://github.com/secondsky/sap-skills",
   "homepage_url": "https://github.com/secondsky/sap-skills#readme",
@@ -13,31 +13,31 @@
     "abap",
     "ai-development",
     "ai-skills",
+    "cds",
     "claude",
     "claude-code",
-    "cloud-development",
     "developer-tools",
-    "enterprise",
-    "llm",
-    "marketplace",
+    "joule",
     "mcp",
-    "plugins",
     "sap",
+    "sap-ai-core",
     "sap-analytics-cloud",
     "sap-btp",
     "sap-cap",
+    "sap-cloud-sdk",
     "sap-datasphere",
     "sap-fiori",
     "sap-hana",
-    "sapui5"
+    "sapui5",
+    "skills"
   ],
   "star_count": 336,
   "fork_count": 88,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-21T21:24:49Z",
-  "updated_at": "2026-06-12T07:34:05Z",
-  "pushed_at": "2026-06-12T20:50:35Z",
+  "updated_at": "2026-06-12T21:22:01Z",
+  "pushed_at": "2026-06-12T21:19:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +98,10 @@
     },
     {
       "date": "2026-06-12",
+      "stars": 336
+    },
+    {
+      "date": "2026-06-13",
       "stars": 336
     }
   ]

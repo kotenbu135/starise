@@ -1,0 +1,36 @@
+{
+  "repo_id": "R_kgDOSWrhbA",
+  "owner": "7as0nch",
+  "name": "mimo2codex",
+  "full_name": "7as0nch/mimo2codex",
+  "description": "让最新版 OpenAI Codex CLI / Codex 桌面端接入主流大模型的本地代理(新增mac/win包支持，后台运行，开机自动重启)。内置 小米 MiMo V2.5/DeepSeek V4 Pro，并提供通用 provider 机制，**OpenAI Chat Completions 兼容**（Qwen / GLM / Kimi / 本地 vLLM / Ollama / LM Studio …）或**原生 Responses API**（OpenAI 自家）的上游接到新版 Codex。把 Codex 的 Responses API 实时翻译成上游的 Chat Completions API，按客户端发的 `model` 字段在 provider 之间自动路由. ",
+  "description_ja": "",
+  "url": "https://github.com/7as0nch/mimo2codex",
+  "homepage_url": "https://mimodoc.chengj.online",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "codex",
+    "deepseek",
+    "macos",
+    "mimo",
+    "mimo2codex",
+    "minimax",
+    "npm",
+    "windows"
+  ],
+  "star_count": 584,
+  "fork_count": 58,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-07T08:39:38Z",
+  "updated_at": "2026-06-13T18:09:06Z",
+  "pushed_at": "2026-06-12T04:50:07Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-13",
+      "stars": 584
+    }
+  ]
+}

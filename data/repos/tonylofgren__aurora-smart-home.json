@@ -3,15 +3,18 @@
   "owner": "tonylofgren",
   "name": "aurora-smart-home",
   "full_name": "tonylofgren/aurora-smart-home",
-  "description": "",
+  "description": "Independent Claude Skills for the whole smart home: Home Assistant, ESPHome, Node-RED, custom integrations, dashboards, and fab-ready hardware design.",
   "description_ja": "",
   "url": "https://github.com/tonylofgren/aurora-smart-home",
   "homepage_url": "https://instagram.com/roligaprojekt",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "anthropic",
     "claude-code",
     "claude-skill",
+    "claude-skills",
+    "esp32",
     "esphome",
     "hacs",
     "home-assistant",
@@ -20,13 +23,13 @@
     "node-red",
     "smart-home"
   ],
-  "star_count": 86,
+  "star_count": 88,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-29T22:44:41Z",
-  "updated_at": "2026-06-12T21:03:25Z",
-  "pushed_at": "2026-06-12T21:02:44Z",
+  "updated_at": "2026-06-13T15:17:37Z",
+  "pushed_at": "2026-06-13T13:19:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -124,6 +127,10 @@
     {
       "date": "2026-06-12",
       "stars": 86
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 88
     }
   ]
 }

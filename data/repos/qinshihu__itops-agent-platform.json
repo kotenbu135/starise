@@ -3,7 +3,7 @@
   "owner": "qinshihu",
   "name": "itops-agent-platform",
   "full_name": "qinshihu/itops-agent-platform",
-  "description": "国内首个企业级 IT 运维多 Agent 自动化平台 — 基于大语言模型的智能运维解决方案。ITOps Agent Platform 是一个企业级全栈运维自动化平台，通过可视化工作流编排，将多个AI Agent组合成智能运维自动化流水线，实现服务器管理、告警处理、故障诊断、日志分析、脚本管理、定时运维任务的自动化执行，支持火山引擎/OpenAI双LLM模型。",
+  "description": "国内首个企业级 IT 运维多 Agent 自动化平台 — 基于大语言模型的智能运维解决方案。通过可视化工作流编排，将多个AI Agent组合成智能运维自动化流水线，实现服务器管理、告警处理、故障诊断、日志分析、脚本管理、定时运维任务的自动化执行， 支持国内外主流大模型，Zabbix/Prometheus 告警自动修复闭环，Docker 一键部署",
   "description_ja": "",
   "url": "https://github.com/qinshihu/itops-agent-platform",
   "homepage_url": "",
@@ -21,18 +21,20 @@
     "network-monitoring",
     "nodejs",
     "openai",
+    "prometheus",
     "react",
     "root-cause-analysis",
     "self-hosted",
-    "sre"
+    "sre",
+    "zabbix"
   ],
-  "star_count": 190,
+  "star_count": 192,
   "fork_count": 47,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-20T18:29:31Z",
-  "updated_at": "2026-06-12T14:06:37Z",
-  "pushed_at": "2026-06-12T09:12:41Z",
+  "updated_at": "2026-06-13T19:01:56Z",
+  "pushed_at": "2026-06-13T19:01:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +92,10 @@
     {
       "date": "2026-06-12",
       "stars": 190
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 192
     }
   ]
 }

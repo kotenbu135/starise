@@ -3,21 +3,24 @@
   "owner": "gogpu",
   "name": "gogpu",
   "full_name": "gogpu/gogpu",
-  "description": "Pure Go Graphics Framework — GPU power, Go simplicity",
+  "description": "Pure Go GPU Application Framework — windowing, input, lifecycle, platform abstraction. Part of the GoGPU ecosystem.",
   "description_ja": "",
   "url": "https://github.com/gogpu/gogpu",
   "homepage_url": "",
   "language": "Go",
   "license": "MIT",
   "topics": [
-    "game-development",
+    "cross-platform",
     "go",
     "golang",
     "gpu",
     "graphics",
+    "opengl",
     "pure-go",
-    "rendering",
+    "vulkan",
+    "wayland",
     "webgpu",
+    "windowing",
     "zero-cgo"
   ],
   "star_count": 305,
@@ -25,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-05T15:24:57Z",
-  "updated_at": "2026-06-12T16:47:17Z",
-  "pushed_at": "2026-06-11T17:00:53Z",
+  "updated_at": "2026-06-13T08:57:37Z",
+  "pushed_at": "2026-06-13T08:57:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -67,6 +70,10 @@
     },
     {
       "date": "2026-06-12",
+      "stars": 305
+    },
+    {
+      "date": "2026-06-13",
       "stars": 305
     }
   ]

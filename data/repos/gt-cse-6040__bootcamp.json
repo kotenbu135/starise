@@ -3,20 +3,28 @@
   "owner": "gt-cse-6040",
   "name": "bootcamp",
   "full_name": "gt-cse-6040/bootcamp",
-  "description": "",
+  "description": "CSE-6040 Bootcamp",
   "description_ja": "",
   "url": "https://github.com/gt-cse-6040/bootcamp",
-  "homepage_url": "",
+  "homepage_url": "https://cse6040.gatech.edu/active/Bootcamp/what_is_the_bootcamp/",
   "language": "Jupyter Notebook",
   "license": "",
-  "topics": [],
+  "topics": [
+    "bootcamp",
+    "cse-6040",
+    "gatech",
+    "numpy",
+    "pandas",
+    "python",
+    "sql"
+  ],
   "star_count": 29,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-11T20:09:30Z",
-  "updated_at": "2026-06-12T19:58:01Z",
-  "pushed_at": "2026-06-12T19:06:57Z",
+  "updated_at": "2026-06-13T00:27:24Z",
+  "pushed_at": "2026-06-13T00:05:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -141,6 +149,10 @@
     },
     {
       "date": "2026-06-12",
+      "stars": 29
+    },
+    {
+      "date": "2026-06-13",
       "stars": 29
     }
   ]

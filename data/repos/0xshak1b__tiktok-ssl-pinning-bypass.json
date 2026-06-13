@@ -3,29 +3,28 @@
   "owner": "0xshak1b",
   "name": "tiktok-ssl-pinning-bypass",
   "full_name": "0xshak1b/tiktok-ssl-pinning-bypass",
-  "description": "TikTok SSL Pinning Bypass for Android – intercept TikTok traffic.",
+  "description": "Bypass TikTok SSL/TLS certificate pinning on Android to intercept \u0026 analyze HTTPS traffic — root \u0026 no-root, works with Burp Suite, mitmproxy \u0026 Reqable (2026).",
   "description_ja": "",
   "url": "https://github.com/0xSHAK1B/TIKTOK-SSL-Pinning-Bypass",
-  "homepage_url": "",
+  "homepage_url": "https://t.me/MUH4MM4DSH4KIB",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "android-security",
+    "bug-bounty",
+    "burp-suite",
+    "certificate-pinning",
     "frida",
-    "ssl",
-    "ssl-pinning-bypass-tiktok",
-    "ssl-unpin",
-    "ssl-unpinned",
+    "mitm",
+    "mobile-security",
+    "penetration-testing",
+    "reverse-engineering",
+    "ssl-pinning-bypass",
     "ssl-unpinning",
     "tiktok",
     "tiktok-api",
-    "tiktok-api-alternative",
-    "tiktok-automation-script",
-    "tiktok-scraping",
-    "tiktok-sign",
-    "tiktok-ssl",
-    "tiktok-ssl-pinning",
     "tiktok-ssl-pinning-bypass",
-    "tiktok-ssl-unpinnig",
+    "tiktok-ssl-unpinning",
     "traffic-interception"
   ],
   "star_count": 69,
@@ -33,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-14T04:34:31Z",
-  "updated_at": "2026-06-07T16:11:46Z",
-  "pushed_at": "2026-05-21T06:59:48Z",
+  "updated_at": "2026-06-13T09:51:24Z",
+  "pushed_at": "2026-06-13T03:03:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -151,6 +150,10 @@
     },
     {
       "date": "2026-06-12",
+      "stars": 69
+    },
+    {
+      "date": "2026-06-13",
       "stars": 69
     }
   ]
