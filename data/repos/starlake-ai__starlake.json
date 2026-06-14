@@ -6,7 +6,7 @@
   "description": "Declarative text based tool for data analysts and engineers to extract, load, transform and orchestrate their data pipelines.",
   "description_ja": "データアナリストやエンジニア向けの、データパイプラインの抽出・ロード・変換・オーケストレーションを行う宣言型テキストベースツール。",
   "url": "https://github.com/starlake-ai/starlake",
-  "homepage_url": "http://starlake.ai/",
+  "homepage_url": "https://starflow.starlake.ai/",
   "language": "Scala",
   "license": "Apache-2.0",
   "topics": [
@@ -22,12 +22,12 @@
     "synapse"
   ],
   "star_count": 204,
-  "fork_count": 30,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-18T05:20:26Z",
-  "updated_at": "2026-06-04T21:14:22Z",
-  "pushed_at": "2026-06-07T00:31:29Z",
+  "updated_at": "2026-06-14T10:39:26Z",
+  "pushed_at": "2026-06-14T00:34:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -184,6 +184,10 @@
     },
     {
       "date": "2026-06-13",
+      "stars": 204
+    },
+    {
+      "date": "2026-06-14",
       "stars": 204
     }
   ]

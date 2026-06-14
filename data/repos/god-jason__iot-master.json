@@ -7,7 +7,7 @@
   "description_ja": "物联大师はオープンソースの無料IoTプラットフォームで、標準ModbusやPLCなど多数のプロトコルを統合し、データ収集・数式計算・タイマー制御・自動制御・異常アラート・トラフィック監視・Web HMI・リモートデバッグなどの機能をサポート。大半のIoT・産業用インターネットアプリケーションシナリオに対応。",
   "url": "https://github.com/god-jason/iot-master",
   "homepage_url": "https://zgwit.com",
-  "language": "Go",
+  "language": "JavaScript",
   "license": "GPL-3.0",
   "topics": [
     "645",
@@ -35,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-08-25T02:57:42Z",
-  "updated_at": "2026-06-13T15:51:49Z",
-  "pushed_at": "2026-06-05T04:32:48Z",
+  "updated_at": "2026-06-14T09:53:49Z",
+  "pushed_at": "2026-06-14T09:53:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -193,6 +193,10 @@
     },
     {
       "date": "2026-06-13",
+      "stars": 840
+    },
+    {
+      "date": "2026-06-14",
       "stars": 840
     }
   ]

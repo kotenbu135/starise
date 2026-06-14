@@ -3,7 +3,7 @@
   "owner": "timescale",
   "name": "rsigma",
   "full_name": "timescale/rsigma",
-  "description": "A complete Sigma detection toolkit: parser, linter, evaluator, correlation engine, conversion framework, streaming daemon, and LSP server :crab:",
+  "description": "A complete Sigma detection toolkit: parser, linter, evaluator, correlation engine, conversion framework, streaming daemon, MCP and LSP servers :crab:",
   "description_ja": "",
   "url": "https://github.com/timescale/rsigma",
   "homepage_url": "https://timescale.github.io/rsigma/",
@@ -14,9 +14,11 @@
     "converter",
     "correlation",
     "detection",
+    "fibratus",
     "linter",
     "lsp",
     "lynxdb",
+    "mcp",
     "parser",
     "postgres",
     "runtime",
@@ -30,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-10T21:10:45Z",
-  "updated_at": "2026-06-13T19:19:07Z",
-  "pushed_at": "2026-06-13T19:19:04Z",
+  "updated_at": "2026-06-14T12:46:51Z",
+  "pushed_at": "2026-06-14T12:46:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -172,6 +174,10 @@
     },
     {
       "date": "2026-06-13",
+      "stars": 75
+    },
+    {
+      "date": "2026-06-14",
       "stars": 75
     }
   ]

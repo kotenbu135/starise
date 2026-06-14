@@ -1,0 +1,48 @@
+{
+  "repo_id": "R_kgDOSxmB1Q",
+  "owner": "hadihonarvar",
+  "name": "flock",
+  "full_name": "hadihonarvar/flock",
+  "description": "Self-hosted LLM gateway. One Go binary turns your Macs and Linux boxes into a private inference cluster — multi-machine routing, sharding via llama.cpp-RPC, per-user keys + quotas + audit, OpenAI- and Anthropic-compatible APIs behind one endpoint. Point Cursor / Claude Code / Aider / SDKs at it.",
+  "description_ja": "",
+  "url": "https://github.com/hadihonarvar/flock",
+  "homepage_url": "https://flockllm.com",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "ai-gateway",
+    "aider",
+    "anthropic",
+    "claude-code",
+    "cursor",
+    "gguf",
+    "golang",
+    "inference",
+    "llama-cpp",
+    "llm",
+    "local-llm",
+    "mlx",
+    "multi-tenant",
+    "ollama",
+    "openai-compatible",
+    "opentelemetry",
+    "prometheus",
+    "self-hosted",
+    "sharded-inference",
+    "vllm"
+  ],
+  "star_count": 46,
+  "fork_count": 0,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-05T03:06:23Z",
+  "updated_at": "2026-06-14T16:31:22Z",
+  "pushed_at": "2026-06-12T08:50:47Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-14",
+      "stars": 46
+    }
+  ]
+}

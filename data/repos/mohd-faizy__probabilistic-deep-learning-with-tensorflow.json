@@ -13,13 +13,17 @@
     "bernoulli-distribution",
     "binomial-distributions",
     "deep-probabilistic-models",
+    "gaussian-processes",
+    "hamiltonian-monte-carlo",
     "keras",
     "machine-learning",
+    "mcmc",
     "multivariate-distributions",
     "poisson-distribution",
     "probabilistic-deep-learning",
     "probabilistic-layers",
     "probabilistic-programming",
+    "probabilistic-time-series-forecasting",
     "tensorflow",
     "tensorflow-probability",
     "tensorflow2",
@@ -31,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-17T18:38:39Z",
-  "updated_at": "2026-06-12T11:13:34Z",
-  "pushed_at": "2026-03-07T08:25:20Z",
+  "updated_at": "2026-06-14T11:42:08Z",
+  "pushed_at": "2026-06-14T11:42:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -185,6 +189,10 @@
     },
     {
       "date": "2026-06-13",
+      "stars": 72
+    },
+    {
+      "date": "2026-06-14",
       "stars": 72
     }
   ]

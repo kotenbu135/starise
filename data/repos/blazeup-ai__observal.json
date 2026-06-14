@@ -3,10 +3,10 @@
   "owner": "blazeup-ai",
   "name": "observal",
   "full_name": "blazeup-ai/observal",
-  "description": "Observal is a unified agent registry and analytics platform. ",
+  "description": "Observal is registry and insight platform for portable AI coding agents. Define context once, install it across tools, and learn what works.",
   "description_ja": "",
   "url": "https://github.com/BlazeUp-AI/Observal",
-  "homepage_url": "http://observal.io/",
+  "homepage_url": "https://observal.io/",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
@@ -29,13 +29,13 @@
     "self-hosted",
     "skills"
   ],
-  "star_count": 2078,
-  "fork_count": 441,
+  "star_count": 2083,
+  "fork_count": 445,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T16:05:36Z",
-  "updated_at": "2026-06-13T17:08:24Z",
-  "pushed_at": "2026-06-13T17:10:28Z",
+  "updated_at": "2026-06-14T17:57:40Z",
+  "pushed_at": "2026-06-14T17:30:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -193,6 +193,10 @@
     {
       "date": "2026-06-13",
       "stars": 2078
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 2083
     }
   ]
 }

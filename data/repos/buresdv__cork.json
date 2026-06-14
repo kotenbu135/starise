@@ -3,29 +3,34 @@
   "owner": "buresdv",
   "name": "cork",
   "full_name": "buresdv/cork",
-  "description": "A fast GUI for Homebrew written in SwiftUI",
-  "description_ja": "SwiftUIで書かれたHomebrewの高速GUIアプリ",
+  "description": "A fast GUI for Homebrew written in SwiftUI, AI-free",
+  "description_ja": "",
   "url": "https://github.com/buresdv/Cork",
   "homepage_url": "https://corkmac.app",
   "language": "Swift",
   "license": "",
   "topics": [
+    "anti-ai",
+    "antiai",
     "homebrew",
     "homebrew-cask",
     "macos",
     "macos-app",
     "macos-application",
     "macos-swift",
+    "no-ai",
+    "no-ai-use",
+    "no-ai-used",
     "swift",
     "swiftui"
   ],
-  "star_count": 4485,
+  "star_count": 4486,
   "fork_count": 268,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-07-03T15:51:47Z",
-  "updated_at": "2026-06-13T10:53:58Z",
-  "pushed_at": "2026-06-12T20:20:16Z",
+  "updated_at": "2026-06-14T17:15:40Z",
+  "pushed_at": "2026-06-13T23:07:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -183,6 +188,10 @@
     {
       "date": "2026-06-13",
       "stars": 4485
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 4486
     }
   ]
 }

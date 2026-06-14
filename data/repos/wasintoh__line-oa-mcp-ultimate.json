@@ -3,7 +3,7 @@
   "owner": "wasintoh",
   "name": "line-oa-mcp-ultimate",
   "full_name": "wasintoh/line-oa-mcp-ultimate",
-  "description": "Talk to your LINE Official Account through AI. 27 tools for broadcasts, audiences, rich menus, Flex messages, coupons \u0026 insights — works with Claude Cowork, Claude Code, Cursor, and any MCP-compatible host. Zero infrastructure, free-tier ready.",
+  "description": "Talk to your LINE Official Account through AI. 48 tools (34 messaging + 14 LINE Shopping) — broadcasts, rich menus, Flex, coupons, insights, plus products, orders \u0026 checkout links. Works with Claude Cowork, Claude Code, Cursor \u0026 any MCP host. Zero infrastructure, free-tier ready.",
   "description_ja": "",
   "url": "https://github.com/wasintoh/line-oa-mcp-ultimate",
   "homepage_url": "https://www.npmjs.com/package/line-oa-mcp-ultimate",
@@ -14,25 +14,28 @@
     "claude",
     "claude-mcp",
     "cursor",
+    "ecommerce",
     "line",
     "line-bot",
     "line-messaging-api",
     "line-oa",
     "line-official-account",
+    "line-shopping",
     "marketing-automation",
     "mcp",
     "mcp-server",
     "model-context-protocol",
+    "myshop",
     "thai",
     "typescript"
   ],
-  "star_count": 61,
+  "star_count": 60,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-29T03:18:49Z",
-  "updated_at": "2026-06-13T14:45:30Z",
-  "pushed_at": "2026-06-03T10:20:49Z",
+  "updated_at": "2026-06-14T16:04:20Z",
+  "pushed_at": "2026-06-14T15:57:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +93,10 @@
     {
       "date": "2026-06-13",
       "stars": 61
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 60
     }
   ]
 }

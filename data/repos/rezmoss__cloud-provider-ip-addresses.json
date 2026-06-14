@@ -3,8 +3,8 @@
   "owner": "rezmoss",
   "name": "cloud-provider-ip-addresses",
   "full_name": "rezmoss/cloud-provider-ip-addresses",
-  "description": "Daily-updated IP ranges for 20+ providers (AWS, Azure, GCP, Cloudflare, GitHub, Fastly, Linode + GoogleBot, BingBot, GPTBot) in 12+    formats: TXT, JSON, CSV, SQL, Nginx, Apache, iptables, nftables, UFW, HAProxy, Caddy + merged CIDRs",
-  "description_ja": "20 以上のプロバイダー（AWS、Azure、GCP、Cloudflare、GitHub、Fastly、Linode + GoogleBot、BingBot、GPTBot）の IP レンジを毎日更新。TXT、JSON、CSV、SQL、Nginx、Apache、iptables、nftables、UFW、HAProxy、Caddy + マージ済み CIDR など 12 以上の形式に対応。",
+  "description": "Daily-updated IP ranges for 35+ providers (AWS, Azure, GCP, Cloudflare, GitHub, Fastly, Linode + GoogleBot, BingBot, GPTBot) in 12+    formats: TXT, JSON, CSV, SQL, Nginx, Apache, iptables, nftables, UFW, HAProxy, Caddy + merged CIDRs",
+  "description_ja": "",
   "url": "https://github.com/rezmoss/cloud-provider-ip-addresses",
   "homepage_url": "https://cloudipdb.io",
   "language": "Shell",
@@ -27,12 +27,12 @@
     "webserver"
   ],
   "star_count": 122,
-  "fork_count": 12,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-03T18:52:35Z",
-  "updated_at": "2026-06-13T03:22:07Z",
-  "pushed_at": "2026-06-13T07:19:16Z",
+  "updated_at": "2026-06-14T03:27:36Z",
+  "pushed_at": "2026-06-14T07:36:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -185,6 +185,10 @@
     },
     {
       "date": "2026-06-13",
+      "stars": 122
+    },
+    {
+      "date": "2026-06-14",
       "stars": 122
     }
   ]

@@ -3,20 +3,20 @@
   "owner": "fuyuxiang",
   "name": "echo-agent",
   "full_name": "fuyuxiang/echo-agent",
-  "description": "Echo Agent 是一个面向私有部署的 Agent 操作系统。一支由 planner、coder、researcher、operator 组成的 AI 团队，部署在你自己的服务器上，7×24 常驻运行。认知级记忆系统（四层架构 + 遗忘曲线 + 矛盾检测）让它越用越懂你；LLM 驱动的安全审批让高风险操作摆脱死板规则；原生 A2A 和 MCP 协议让它成为 Agent 互联网中的一等公民。从微信到 Telegram，从 CLI 到 Gateway API，一个入口统一所有。",
+  "description": "Echo Agent 是一个可自托管、长期运行、持续学习的 AI Agent，面向个人与团队的私有自动化场景。它可以部署在自有服务器上，统一连接模型、工具、记忆、权限与消息入口。内置四层认知记忆、遗忘曲线与矛盾检测机制，能够在跨会话任务中持续沉淀上下文，并保持长期记忆的质量。针对命令执行、文件操作等高风险行为，它提供基于 LLM 的审批与解释机制，为关键操作建立可审计、可追溯的安全边界。原生支持 MCP、A2A、多模型路由、任务调度、工具调用和多通道接入，覆盖 CLI、Gateway API、微信、Telegram 等入口。它让 Agent 带着长期记忆和可进化技能，持续、安全地为你工作。",
   "description_ja": "",
   "url": "https://github.com/fuyuxiang/echo-agent",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [],
-  "star_count": 425,
+  "star_count": 438,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T03:17:38Z",
-  "updated_at": "2026-06-13T18:19:48Z",
-  "pushed_at": "2026-06-13T15:40:53Z",
+  "updated_at": "2026-06-14T17:10:57Z",
+  "pushed_at": "2026-06-14T13:05:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +70,10 @@
     {
       "date": "2026-06-13",
       "stars": 425
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 438
     }
   ]
 }

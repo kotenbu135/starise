@@ -3,7 +3,7 @@
   "owner": "haoyiyin",
   "name": "basjoo",
   "full_name": "haoyiyin/basjoo",
-  "description": "Open-source AI customer support platform — RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAPI + Next.js + R2R + pgvector.",
+  "description": "Open-source AI customer support platform — RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAPI + Next.js + pgvector.",
   "description_ja": "",
   "url": "https://github.com/haoyiyin/basjoo",
   "homepage_url": "",
@@ -19,7 +19,6 @@
     "nextjs",
     "open-source",
     "pgvector",
-    "r2r",
     "rag",
     "sse-streaming"
   ],
@@ -28,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-28T14:31:03Z",
-  "updated_at": "2026-06-11T02:54:22Z",
-  "pushed_at": "2026-06-06T06:55:11Z",
+  "updated_at": "2026-06-14T07:17:50Z",
+  "pushed_at": "2026-06-14T07:19:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -150,6 +149,10 @@
     },
     {
       "date": "2026-06-13",
+      "stars": 134
+    },
+    {
+      "date": "2026-06-14",
       "stars": 134
     }
   ]

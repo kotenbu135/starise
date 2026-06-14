@@ -1,0 +1,35 @@
+{
+  "repo_id": "R_kgDOR96PEw",
+  "owner": "wesmar",
+  "name": "bootbypass",
+  "full_name": "wesmar/bootbypass",
+  "description": "Advanced native-mode utility for bypassing DSE and HVCI. Implements smart SeCiCallbacks patching and independent management of Memory Integrity settings. Operating as a subsystem:native app, it ensures early-phase control and environment preparation for security research and driver development.",
+  "description_ja": "",
+  "url": "https://github.com/wesmar/BootBypass",
+  "homepage_url": "https://kvc.pl",
+  "language": "C",
+  "license": "NOASSERTION",
+  "topics": [
+    "driver-signature-bypass",
+    "driver-signature-enforcement-bypass-hvci-windows",
+    "dse-bypass",
+    "hvci-bypass",
+    "secicallbacks",
+    "unsigned-driver-loader",
+    "windows-kernel-patching"
+  ],
+  "star_count": 49,
+  "fork_count": 13,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-09T09:01:28Z",
+  "updated_at": "2026-06-14T15:36:41Z",
+  "pushed_at": "2026-04-28T10:45:52Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-14",
+      "stars": 49
+    }
+  ]
+}

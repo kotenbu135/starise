@@ -3,19 +3,25 @@
   "owner": "francelico",
   "name": "persist",
   "full_name": "francelico/persist",
-  "description": "Codebase for \"Beyond Pixel Histories: World Models with Persistent 3D State\"",
+  "description": "Codebase for \"Beyond Pixel Histories: World Models with Persistent 3D State\" (ICML 26)",
   "description_ja": "",
   "url": "https://github.com/francelico/PERSIST",
-  "homepage_url": "",
+  "homepage_url": "https://francelico.github.io/persist.github.io/",
   "language": "",
   "license": "",
-  "topics": [],
-  "star_count": 49,
+  "topics": [
+    "artificial-intelligence",
+    "diffusion-models",
+    "minecraft",
+    "voxel-game",
+    "world-models"
+  ],
+  "star_count": 50,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-04T11:49:31Z",
-  "updated_at": "2026-06-12T06:35:09Z",
+  "updated_at": "2026-06-14T17:17:47Z",
   "pushed_at": "2026-03-04T11:51:28Z",
   "deleted_at": "",
   "star_history": [
@@ -138,6 +144,10 @@
     {
       "date": "2026-06-13",
       "stars": 49
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 50
     }
   ]
 }

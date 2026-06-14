@@ -3,7 +3,7 @@
   "owner": "vcmf",
   "name": "dim0",
   "full_name": "vcmf/dim0",
-  "description": "An open-source AI thinking canvas - notes, docs, code, widgets, and an agent that works directly on the board.",
+  "description": "Open-source, real-time collaborative AI canvas — notes, mini-apps, and agents on one infinite board.",
   "description_ja": "",
   "url": "https://github.com/vcmf/dim0",
   "homepage_url": "https://dim0.net",
@@ -12,31 +12,32 @@
   "topics": [
     "ai-agent",
     "canvas",
-    "code-execution",
-    "collaborative",
-    "fast-api",
+    "fastapi",
+    "generative-ui",
     "infinite-canvas",
     "knowledge-graph",
     "mindmap",
+    "mini-apps",
+    "multiplayer",
     "note-taking",
     "productivity",
     "qdrant",
     "rag",
     "react",
+    "real-time-collaboration",
     "research-tool",
-    "second-brain",
+    "self-hosted",
     "semantic-search",
     "thinking-canvas",
-    "whiteboard",
-    "widgets"
+    "whiteboard"
   ],
-  "star_count": 45,
+  "star_count": 46,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-20T19:42:54Z",
-  "updated_at": "2026-06-13T13:20:58Z",
-  "pushed_at": "2026-06-13T13:20:54Z",
+  "updated_at": "2026-06-14T18:24:06Z",
+  "pushed_at": "2026-06-14T18:24:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +87,10 @@
     {
       "date": "2026-06-13",
       "stars": 45
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 46
     }
   ]
 }
