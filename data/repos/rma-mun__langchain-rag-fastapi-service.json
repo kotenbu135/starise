@@ -3,7 +3,7 @@
   "owner": "rma-mun",
   "name": "langchain-rag-fastapi-service",
   "full_name": "rma-mun/langchain-rag-fastapi-service",
-  "description": "基于LangChain与FastAPI的RAG项目，主分支为基于RAG的智能笔记助手，base-rag分支为开箱即用的基础RAG项目",
+  "description": "基于LangChain、FastAPI和React的RAG项目，主分支为基于RAG的智能笔记助手，base-rag分支为开箱即用的基础RAG项目供学习使用",
   "description_ja": "",
   "url": "https://github.com/RMA-MUN/LangChain-RAG-FastAPI-Service",
   "homepage_url": "",
@@ -11,8 +11,6 @@
   "license": "MIT",
   "topics": [
     "chromadb",
-    "django",
-    "django-rest-framework",
     "fastapi",
     "langchain",
     "mysql",
@@ -20,13 +18,13 @@
     "transformers",
     "vue"
   ],
-  "star_count": 349,
-  "fork_count": 72,
+  "star_count": 356,
+  "fork_count": 74,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T08:43:18Z",
-  "updated_at": "2026-06-14T16:52:33Z",
-  "pushed_at": "2026-06-14T08:24:01Z",
+  "updated_at": "2026-06-15T13:59:59Z",
+  "pushed_at": "2026-06-15T07:13:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -184,6 +182,10 @@
     {
       "date": "2026-06-14",
       "stars": 349
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 356
     }
   ]
 }

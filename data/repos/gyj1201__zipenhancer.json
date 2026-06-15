@@ -3,7 +3,7 @@
   "owner": "gyj1201",
   "name": "zipenhancer",
   "full_name": "gyj1201/zipenhancer",
-  "description": "将 ZipEnhancer 模型从 ModelScope pipeline 中剥离，用纯 PyTorch 重新实现推理流程，并封装为高性能 FastAPI 批量语音降噪服务，为 CosyVoice 提供干净的人声输入",
+  "description": "将 ZipEnhancer 模型从 ModelScope pipeline 中剥离，用纯 PyTorch 实现推理流程，封装为 pip 可安装的降噪库和 FastAPI 批量语音降噪，为 CosyVoice 提供干净的人声输入。",
   "description_ja": "",
   "url": "https://github.com/gyj1201/zipEnhancer",
   "homepage_url": "https://gyj1201.github.io/zipEnhancer",
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-04T06:11:13Z",
-  "updated_at": "2026-06-14T17:24:31Z",
-  "pushed_at": "2026-06-11T10:07:31Z",
+  "updated_at": "2026-06-15T03:45:47Z",
+  "pushed_at": "2026-06-15T03:45:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -63,6 +63,10 @@
     },
     {
       "date": "2026-06-14",
+      "stars": 80
+    },
+    {
+      "date": "2026-06-15",
       "stars": 80
     }
   ]

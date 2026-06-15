@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOSkvPHw",
+  "owner": "flowing-water1",
+  "name": "missions",
+  "full_name": "flowing-water1/missions",
+  "description": "把一个需求扔给 agent，它会自己拆成 CSV、按四状态闭环跑、跑完再 sub-agent review，发现差距就追加 follow-up，最后整批闭环再交还给你。配合 codex 的 `/goal` 用，断联不停、可 resume。",
+  "description_ja": "",
+  "url": "https://github.com/flowing-water1/Missions",
+  "homepage_url": "",
+  "language": "",
+  "license": "",
+  "topics": [],
+  "star_count": 47,
+  "fork_count": 3,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-22T08:31:42Z",
+  "updated_at": "2026-06-15T07:11:37Z",
+  "pushed_at": "2026-05-25T08:48:37Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-15",
+      "stars": 47
+    }
+  ]
+}

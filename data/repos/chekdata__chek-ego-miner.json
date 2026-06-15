@@ -3,20 +3,22 @@
   "owner": "chekdata",
   "name": "chek-ego-miner",
   "full_name": "chekdata/chek-ego-miner",
-  "description": "Crowdsource EGO robot data capture, contribution, and public-safe edge-host bring-up.",
-  "description_ja": "EGO ロボットのデータキャプチャ・コントリビューション・公共安全対応エッジホストの立ち上げをクラウドソーシング。",
+  "description": "CHEK EGO Miner by Qingkong Technology: use CHEK mobile and Qingkong Miker desktop to collect first-person EGO data for embodied AI.",
+  "description_ja": "",
   "url": "https://github.com/chekdata/chek-ego-miner",
-  "homepage_url": "",
-  "language": "Rust",
+  "homepage_url": "https://www.chekkk.com/smart-download",
+  "language": "",
   "license": "Apache-2.0",
   "topics": [
-    "ai-agents",
-    "computer-vision",
     "crowdsourcing",
+    "data-collection",
     "dataset",
-    "edge-computing",
-    "humanoid",
-    "ios",
+    "desktop-app",
+    "ego-data",
+    "egocentric-data",
+    "embodied-ai",
+    "iphone",
+    "mobile-app",
     "robotics"
   ],
   "star_count": 201,
@@ -24,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-10T06:49:10Z",
-  "updated_at": "2026-06-03T15:36:06Z",
-  "pushed_at": "2026-05-29T21:30:38Z",
+  "updated_at": "2026-06-15T17:40:46Z",
+  "pushed_at": "2026-06-15T17:38:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -182,6 +184,10 @@
     },
     {
       "date": "2026-06-14",
+      "stars": 201
+    },
+    {
+      "date": "2026-06-15",
       "stars": 201
     }
   ]

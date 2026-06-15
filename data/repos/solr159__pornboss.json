@@ -3,32 +3,26 @@
   "owner": "solr159",
   "name": "pornboss",
   "full_name": "solr159/pornboss",
-  "description": "Local video \u0026 JAV movie manager | 开箱即用的本地JAV/视频管理工具：自动扫描目录视频并生成封面截图，根据文件名识别番号，通过Javbus/Avmoo等多站点刮削女优/片商/系列/标签等多种元数据，自动下载JAV封面图，支持多种复杂排序和查询，自带高性能mpv播放器流畅播放任意格式高码率视频。",
+  "description": "Local video \u0026 JAV movie manager | 开箱即用的本地 JAV/视频 管理工具：自动扫描目录视频并生成封面截图，根据文件名识别番号，通过Javbus/Avmoo等多站点刮削女优/片商/系列/标签等多种元数据，自动下载JAV封面图，支持多种复杂排序和查询，自带高性能mpv播放器流畅播放任意格式高码率视频。",
   "description_ja": "",
   "url": "https://github.com/Solr159/PornBoss",
   "homepage_url": "",
   "language": "Go",
   "license": "",
   "topics": [
-    "ffmpeg",
-    "golang",
     "jav",
-    "jav-manager",
     "javbus",
+    "javdb",
     "javlibrary",
-    "mpv",
     "porn",
-    "porn-manager",
-    "porn-video",
-    "pornhub",
-    "video"
+    "scraper"
   ],
   "star_count": 63,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-21T08:09:36Z",
-  "updated_at": "2026-06-13T14:51:53Z",
+  "updated_at": "2026-06-15T13:14:14Z",
   "pushed_at": "2026-06-13T14:51:49Z",
   "deleted_at": "",
   "star_history": [
@@ -90,6 +84,10 @@
     },
     {
       "date": "2026-06-14",
+      "stars": 63
+    },
+    {
+      "date": "2026-06-15",
       "stars": 63
     }
   ]

@@ -6,17 +6,21 @@
   "description": "A lightweight reactive state management library built on alien_signals, focused on simple and efficient state handling.",
   "description_ja": "alien_signals上に構築された、シンプルで効率的な状態管理に特化した軽量リアクティブ状態管理ライブラリ。",
   "url": "https://github.com/vowdemon/jolt",
-  "homepage_url": "https://jolt.vowdemon.com",
+  "homepage_url": "",
   "language": "Dart",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "dart",
+    "flutter",
+    "signals"
+  ],
   "star_count": 101,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-22T03:18:13Z",
-  "updated_at": "2026-06-11T11:54:03Z",
-  "pushed_at": "2026-05-29T03:27:24Z",
+  "updated_at": "2026-06-15T14:10:11Z",
+  "pushed_at": "2026-06-15T08:11:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -177,6 +181,10 @@
     },
     {
       "date": "2026-06-14",
+      "stars": 101
+    },
+    {
+      "date": "2026-06-15",
       "stars": 101
     }
   ]

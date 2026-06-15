@@ -6,7 +6,7 @@
   "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.",
   "description_ja": "知識コンパイラ。生のソースを入力すると相互リンクされた Wiki を出力。Karpathy の LLM Wiki パターンに着想を得ています。",
   "url": "https://github.com/atomicstrata/llm-wiki-compiler",
-  "homepage_url": "",
+  "homepage_url": "https://llmwiki.atomicstrata.ai",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -21,13 +21,13 @@
     "obsidian",
     "wiki"
   ],
-  "star_count": 1513,
+  "star_count": 1524,
   "fork_count": 156,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-05T19:53:06Z",
-  "updated_at": "2026-06-14T16:13:10Z",
-  "pushed_at": "2026-06-14T18:07:09Z",
+  "updated_at": "2026-06-15T21:45:36Z",
+  "pushed_at": "2026-06-15T04:54:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -189,6 +189,10 @@
     {
       "date": "2026-06-14",
       "stars": 1513
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 1524
     }
   ]
 }

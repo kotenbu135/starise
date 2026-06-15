@@ -7,7 +7,7 @@
   "description_ja": "",
   "url": "https://github.com/tonhowtf/omniget",
   "homepage_url": "https://discord.gg/jgdxyPy7Vn",
-  "language": "Svelte",
+  "language": "Rust",
   "license": "GPL-3.0",
   "topics": [
     "bilibili-downloader",
@@ -31,13 +31,13 @@
     "youtube-downloader",
     "yt-dlp"
   ],
-  "star_count": 5811,
+  "star_count": 5825,
   "fork_count": 467,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T22:44:56Z",
-  "updated_at": "2026-06-14T18:05:55Z",
-  "pushed_at": "2026-06-12T01:00:05Z",
+  "updated_at": "2026-06-15T22:57:12Z",
+  "pushed_at": "2026-06-14T23:50:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -199,6 +199,10 @@
     {
       "date": "2026-06-14",
       "stars": 5811
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 5825
     }
   ]
 }

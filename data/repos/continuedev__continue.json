@@ -3,8 +3,8 @@
   "owner": "continuedev",
   "name": "continue",
   "full_name": "continuedev/continue",
-  "description": "⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI",
-  "description_ja": "⏩ CIで強制可能なソース管理されたAIチェック。オープンソースのContinue CLIを採用",
+  "description": "⏩ Pioneering open-source coding agent",
+  "description_ja": "",
   "url": "https://github.com/continuedev/continue",
   "homepage_url": "https://docs.continue.dev",
   "language": "TypeScript",
@@ -14,18 +14,15 @@
     "ai",
     "cli",
     "developer-tools",
-    "jetbrains-plugin",
-    "llm",
-    "open-source",
-    "vs-code-extenstion"
+    "open-source"
   ],
-  "star_count": 33684,
-  "fork_count": 4657,
+  "star_count": 33698,
+  "fork_count": 4662,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-24T03:39:39Z",
-  "updated_at": "2026-06-14T18:33:31Z",
-  "pushed_at": "2026-06-14T18:28:11Z",
+  "updated_at": "2026-06-15T21:32:57Z",
+  "pushed_at": "2026-06-15T20:33:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -187,6 +184,10 @@
     {
       "date": "2026-06-14",
       "stars": 33684
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 33698
     }
   ]
 }

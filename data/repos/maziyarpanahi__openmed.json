@@ -3,37 +3,38 @@
   "owner": "maziyarpanahi",
   "name": "openmed",
   "full_name": "maziyarpanahi/openmed",
-  "description": "open-source healthcare ai",
-  "description_ja": "オープンソースの医療 AI",
+  "description": "Local-first healthcare AI: clinical NER \u0026 HIPAA PII de-identification that runs 100% on-device. 1,000+ medical models, 12 languages, Apple MLX + Python, no cloud, no patient data leaving your network. Apache-2.0",
+  "description_ja": "",
   "url": "https://github.com/maziyarpanahi/openmed",
   "homepage_url": "https://openmed.life/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
-    "bert",
-    "deepseek",
+    "clinical-nlp",
     "healthcare",
+    "hipaa",
     "ios",
     "llm",
+    "local-llm",
     "mlx",
     "ner",
+    "nlp",
     "on-device",
     "on-premise",
     "pii",
     "pii-detection",
-    "qwen",
+    "python",
     "sovereign-ai",
     "swift",
-    "swift-package",
     "swiftui"
   ],
-  "star_count": 3464,
-  "fork_count": 342,
+  "star_count": 3522,
+  "fork_count": 359,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-04T15:13:34Z",
-  "updated_at": "2026-06-14T18:48:29Z",
-  "pushed_at": "2026-06-14T18:40:10Z",
+  "updated_at": "2026-06-15T22:17:55Z",
+  "pushed_at": "2026-06-15T20:49:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -195,6 +196,10 @@
     {
       "date": "2026-06-14",
       "stars": 3464
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 3522
     }
   ]
 }

@@ -3,20 +3,25 @@
   "owner": "nerves-hub",
   "name": "nerves_hub_web",
   "full_name": "nerves-hub/nerves_hub_web",
-  "description": "Manage firmware updates for Nerves devices",
-  "description_ja": "Nervesデバイスのファームウェアアップデートを管理する",
+  "description": "Manage your Nerves device fleet, including firmware updates, health reports, and interactive device consoles.",
+  "description_ja": "",
   "url": "https://github.com/nerves-hub/nerves_hub_web",
   "homepage_url": "https://nerves-hub.org/",
   "language": "Elixir",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "buildroot",
+    "elixir",
+    "iot",
+    "nerves"
+  ],
   "star_count": 265,
   "fork_count": 87,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-01-31T21:42:05Z",
-  "updated_at": "2026-06-13T22:25:15Z",
-  "pushed_at": "2026-06-14T12:15:02Z",
+  "updated_at": "2026-06-15T21:14:17Z",
+  "pushed_at": "2026-06-15T21:14:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -177,6 +182,10 @@
     },
     {
       "date": "2026-06-14",
+      "stars": 265
+    },
+    {
+      "date": "2026-06-15",
       "stars": 265
     }
   ]

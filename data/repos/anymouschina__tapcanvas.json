@@ -3,7 +3,7 @@
   "owner": "anymouschina",
   "name": "tapcanvas",
   "full_name": "anymouschina/tapcanvas",
-  "description": "TapCanvas — 可视化 AI 创作画布：无限扩展第三方，提供专属 skills 供 ai 工具调用。线上版功能基本对齐TOP级别。agents-cli 智能体蒸馏自 Claude code + codex 。",
+  "description": "TapCanvas — 无限画布 ❌，沉浸式画布 ✅。线上版功能基本对齐TOP级别。agents-cli 智能体蒸馏自 Claude code + codex  + hermes-agent。 可使用 cli 工具直接调试 \u0026 调用画布全部功能。",
   "description_ja": "",
   "url": "https://github.com/anymouschina/TapCanvas",
   "homepage_url": "https://zezhou.neospark.cn",
@@ -17,12 +17,12 @@
     "seedance-2",
     "sora2"
   ],
-  "star_count": 360,
-  "fork_count": 87,
+  "star_count": 362,
+  "fork_count": 88,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-11T07:21:47Z",
-  "updated_at": "2026-06-14T02:38:17Z",
+  "updated_at": "2026-06-15T13:55:12Z",
   "pushed_at": "2026-06-10T12:04:27Z",
   "deleted_at": "",
   "star_history": [
@@ -129,6 +129,10 @@
     {
       "date": "2026-06-14",
       "stars": 360
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 362
     }
   ]
 }

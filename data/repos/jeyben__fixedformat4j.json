@@ -3,20 +3,35 @@
   "owner": "jeyben",
   "name": "fixedformat4j",
   "full_name": "jeyben/fixedformat4j",
-  "description": "Fixedformat4j is an easy to use Java framework for working with flat fixed formatted text files. By annotating your code you can setup the offsets and format as for your data when reading/writing to and from flat fixed format files .",
+  "description": "Lightweight Java library for reading and writing fixed-width / fixed-length flat files using annotations on POJOs — for banking, payroll, EDI, mainframe, and batch integrations.",
   "description_ja": "",
   "url": "https://github.com/jeyben/fixedformat4j",
-  "homepage_url": "http://jeyben.github.io/fixedformat4j",
+  "homepage_url": "https://jeyben.github.io/fixedformat4j",
   "language": "Java",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 49,
+  "topics": [
+    "annotations",
+    "banking",
+    "batch-processing",
+    "edi",
+    "fixed-format",
+    "fixed-length",
+    "fixed-width",
+    "flat-file",
+    "formatter",
+    "java",
+    "mainframe",
+    "parser",
+    "payroll",
+    "spring-boot"
+  ],
+  "star_count": 50,
   "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-05-05T14:25:20Z",
-  "updated_at": "2026-06-14T18:39:27Z",
-  "pushed_at": "2026-06-14T18:43:34Z",
+  "updated_at": "2026-06-15T13:45:44Z",
+  "pushed_at": "2026-06-14T20:25:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -142,6 +157,10 @@
     {
       "date": "2026-06-14",
       "stars": 49
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 50
     }
   ]
 }

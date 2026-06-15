@@ -3,20 +3,30 @@
   "owner": "mesutoezdil",
   "name": "systematic-cuda-learning",
   "full_name": "mesutoezdil/systematic-cuda-learning",
-  "description": "",
+  "description": "Personal CUDA learning repo, built step by step from scratch.",
   "description_ja": "",
   "url": "https://github.com/mesutoezdil/Systematic-CUDA-Learning",
   "homepage_url": "",
-  "language": "HCL",
+  "language": "Cuda",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "cpp",
+    "cuda",
+    "gpu",
+    "gpu-computing",
+    "gpu-optimization",
+    "gpu-programming",
+    "learning",
+    "nvidia",
+    "parallel-computing"
+  ],
   "star_count": 39,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T09:47:41Z",
-  "updated_at": "2026-06-14T02:09:04Z",
-  "pushed_at": "2026-06-09T22:08:34Z",
+  "updated_at": "2026-06-14T21:54:13Z",
+  "pushed_at": "2026-06-14T21:54:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -173,6 +183,10 @@
     },
     {
       "date": "2026-06-14",
+      "stars": 39
+    },
+    {
+      "date": "2026-06-15",
       "stars": 39
     }
   ]

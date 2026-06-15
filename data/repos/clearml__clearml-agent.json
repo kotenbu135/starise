@@ -3,8 +3,8 @@
   "owner": "clearml",
   "name": "clearml-agent",
   "full_name": "clearml/clearml-agent",
-  "description": "ClearML Agent - ML-Ops made easy. ML-Ops scheduler \u0026 orchestration solution",
-  "description_ja": "ClearML Agent — ML-Opsを簡単に。ML-Opsスケジューラ＆オーケストレーションソリューション",
+  "description": "ClearML Agent - MLOps/LLMOps made easy. MLOps/LLMOps scheduler \u0026 orchestration solution",
+  "description_ja": "",
   "url": "https://github.com/clearml/clearml-agent",
   "homepage_url": "https://clear.ml/docs/",
   "language": "Python",
@@ -19,18 +19,17 @@
     "gpu",
     "k8s",
     "kubernetes",
+    "llmops",
     "machine-learning",
     "mlops",
-    "orchestration",
-    "trains",
-    "trains-agent"
+    "orchestration"
   ],
-  "star_count": 301,
+  "star_count": 302,
   "fork_count": 118,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-10-25T19:17:48Z",
-  "updated_at": "2026-06-08T12:26:53Z",
+  "updated_at": "2026-06-15T13:56:06Z",
   "pushed_at": "2026-06-08T12:26:49Z",
   "deleted_at": "",
   "star_history": [
@@ -193,6 +192,10 @@
     {
       "date": "2026-06-14",
       "stars": 301
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 302
     }
   ]
 }

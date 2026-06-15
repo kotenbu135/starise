@@ -3,33 +3,38 @@
   "owner": "agentlas-ai",
   "name": "hephaestus",
   "full_name": "agentlas-ai/hephaestus",
-  "description": "No-code AI agent builder — turn one sentence into a single agent or a multi-agent team. The engine inside Agentlas. A no-code CrewAI / LangGraph / AutoGen alternative that runs on Claude Code, Codex, and Cursor.",
+  "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and security gates.",
   "description_ja": "",
   "url": "https://github.com/agentlas-ai/Hephaestus",
   "homepage_url": "https://agentlas.cloud/models/hephaestus",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "a2a",
     "agent-framework",
+    "agent-memory",
+    "agent-os",
+    "agent-routing",
     "agentic-ai",
     "ai-agent-builder",
     "ai-agents",
     "autogen",
     "claude-code",
-    "crewai-alternative",
     "langgraph",
     "llm",
+    "local-first",
     "meta-agent",
     "multi-agent",
-    "no-code"
+    "ontology",
+    "security-gates"
   ],
   "star_count": 56,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-04T04:33:26Z",
-  "updated_at": "2026-06-14T03:14:06Z",
-  "pushed_at": "2026-06-14T03:14:04Z",
+  "updated_at": "2026-06-15T06:54:29Z",
+  "pushed_at": "2026-06-15T21:42:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +55,10 @@
     },
     {
       "date": "2026-06-14",
+      "stars": 56
+    },
+    {
+      "date": "2026-06-15",
       "stars": 56
     }
   ]

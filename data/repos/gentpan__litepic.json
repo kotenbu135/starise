@@ -1,0 +1,40 @@
+{
+  "repo_id": "R_kgDOSMyUug",
+  "owner": "gentpan",
+  "name": "litepic",
+  "full_name": "gentpan/litepic",
+  "description": "A lightweight self-hosted image hosting system built with PHP and SQLite, featuring WebAuthn login, async image processing, image conversion/compression, request analytics, backups, and S3-compatible remote storage. 轻量美观的自托管图床系统，基于 PHP + SQLite 构建，支持图片管理、压缩转换、访问统计、Passkey 登录、异步处理队列、备份与 S3/R2 远程存储，兼顾部署简单与精致后台体验。",
+  "description_ja": "",
+  "url": "https://github.com/gentpan/LitePic",
+  "homepage_url": "https://litepic.io",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "avif",
+    "cloudflare-r2",
+    "image-hosting",
+    "image-uploader",
+    "passkey",
+    "php",
+    "s3",
+    "self-hosted",
+    "sqlite",
+    "tailwindcss",
+    "webauthn",
+    "webp"
+  ],
+  "star_count": 46,
+  "fork_count": 3,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-26T05:23:07Z",
+  "updated_at": "2026-06-15T07:44:40Z",
+  "pushed_at": "2026-06-08T18:32:00Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-15",
+      "stars": 46
+    }
+  ]
+}

@@ -3,8 +3,8 @@
   "owner": "jinqians",
   "name": "snell.sh",
   "full_name": "jinqians/snell.sh",
-  "description": "SNELL V4/V5 一键安装脚本，支持Debian/Ubuntu/Centos/Alpine",
-  "description_ja": "SNELL V4/V5 ワンクリックインストールスクリプト。Debian/Ubuntu/CentOS/Alpine 対応。",
+  "description": "SNELL V4/SNELL V5/SNELL V6 一键安装脚本，支持Debian/Ubuntu/Centos/Alpine",
+  "description_ja": "",
   "url": "https://github.com/jinqians/snell.sh",
   "homepage_url": "https://vps.jinqians.com",
   "language": "Shell",
@@ -15,13 +15,13 @@
     "snellscript",
     "surge"
   ],
-  "star_count": 669,
+  "star_count": 671,
   "fork_count": 91,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-10T15:30:01Z",
-  "updated_at": "2026-06-14T16:37:35Z",
-  "pushed_at": "2026-04-30T03:05:59Z",
+  "updated_at": "2026-06-15T20:24:43Z",
+  "pushed_at": "2026-06-15T06:39:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -179,6 +179,10 @@
     {
       "date": "2026-06-14",
       "stars": 669
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 671
     }
   ]
 }

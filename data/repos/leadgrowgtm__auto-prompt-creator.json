@@ -7,7 +7,7 @@
   "description_ja": "Claude Code 向けプロンプト最適化システム。定義されたタスクで安価なモデル（Haiku）が高価なモデル（Opus）の品質に近づくよう、プロンプトを反復改善します。",
   "url": "https://github.com/LeadGrowGTM/auto-prompt-creator",
   "homepage_url": "",
-  "language": "TypeScript",
+  "language": "JavaScript",
   "license": "MIT",
   "topics": [],
   "star_count": 15,
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-06T17:02:10Z",
-  "updated_at": "2026-06-13T14:02:04Z",
-  "pushed_at": "2026-05-29T20:24:23Z",
+  "updated_at": "2026-06-15T01:22:19Z",
+  "pushed_at": "2026-06-15T01:22:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -173,6 +173,10 @@
     },
     {
       "date": "2026-06-14",
+      "stars": 15
+    },
+    {
+      "date": "2026-06-15",
       "stars": 15
     }
   ]

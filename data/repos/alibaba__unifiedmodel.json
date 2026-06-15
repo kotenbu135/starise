@@ -6,7 +6,7 @@
   "description": "The semantic layer that makes enterprise data understandable to AI agents — model entities and relations once, query through SPL/MCP/REST, and connect telemetry, services, and business objects in one object graph.",
   "description_ja": "",
   "url": "https://github.com/alibaba/UnifiedModel",
-  "homepage_url": "https://github.com/alibaba/UnifiedModel/blob/main/docs/en/README.md",
+  "homepage_url": "https://alibaba.github.io/UnifiedModel/",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
@@ -21,13 +21,13 @@
     "opentelemetry",
     "semantic-layer"
   ],
-  "star_count": 153,
-  "fork_count": 28,
+  "star_count": 165,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-06T07:51:44Z",
-  "updated_at": "2026-06-14T12:23:52Z",
-  "pushed_at": "2026-06-12T08:27:13Z",
+  "updated_at": "2026-06-15T18:57:14Z",
+  "pushed_at": "2026-06-15T12:55:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +49,10 @@
     {
       "date": "2026-06-14",
       "stars": 153
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 165
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "internet-helper",
   "name": "mixomo-openwrt",
   "full_name": "internet-helper/mixomo-openwrt",
-  "description": "OpenWrt installer for Mihomo proxy with hev-socks5-tunnel, MagiTrickle and LuCI interface",
-  "description_ja": "hev-socks5-tunnel、MagiTrickle、LuCIインターフェースを備えたMihomoプロキシ向けOpenWrtインストーラー。",
+  "description": "Mixomo - OpenWrt installer for Mihomo proxy with hev-socks5-tunnel, MagiTrickle and LuCI interface.",
+  "description_ja": "",
   "url": "https://github.com/Internet-Helper/mixomo-openwrt",
   "homepage_url": "",
   "language": "Shell",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-01T18:22:44Z",
-  "updated_at": "2026-06-11T11:31:34Z",
-  "pushed_at": "2026-05-06T20:17:55Z",
+  "updated_at": "2026-06-15T19:15:19Z",
+  "pushed_at": "2026-06-15T19:15:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -177,6 +177,10 @@
     },
     {
       "date": "2026-06-14",
+      "stars": 70
+    },
+    {
+      "date": "2026-06-15",
       "stars": 70
     }
   ]

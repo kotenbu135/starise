@@ -3,7 +3,7 @@
   "owner": "octelium",
   "name": "cordium",
   "full_name": "octelium/cordium",
-  "description": "Open-source, identity-based, general-purpose sandbox platform on Kubernetes that eliminates credential sprawl for developers and AI agents",
+  "description": "Open-source, general-purpose sandbox platform for devs and AI agents that provides identity-based secure access to infrastructure without credentials.",
   "description_ja": "",
   "url": "https://github.com/octelium/cordium",
   "homepage_url": "https://octelium.com/docs/cordium",
@@ -30,13 +30,13 @@
     "wireguard",
     "zero-trust"
   ],
-  "star_count": 37,
-  "fork_count": 1,
+  "star_count": 38,
+  "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T22:30:59Z",
-  "updated_at": "2026-06-12T10:16:00Z",
-  "pushed_at": "2026-06-12T10:15:52Z",
+  "updated_at": "2026-06-14T23:13:27Z",
+  "pushed_at": "2026-06-14T22:17:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +66,10 @@
     {
       "date": "2026-06-14",
       "stars": 37
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 38
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "pubkey",
   "name": "rxdb",
   "full_name": "pubkey/rxdb",
-  "description": "A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/",
-  "description_ja": "JavaScript アプリケーション向けの高速でローカルファースト、リアクティブなデータベース",
+  "description": "The local-first database that runs on every JS runtime and replicates with your existing backend - no vendor, no lock-in - https://rxdb.info/",
+  "description_ja": "",
   "url": "https://github.com/pubkey/rxdb",
   "homepage_url": "https://rxdb.info/",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "rxdb",
     "sqlite"
   ],
-  "star_count": 23232,
+  "star_count": 23231,
   "fork_count": 1164,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-12-02T19:34:42Z",
-  "updated_at": "2026-06-14T15:45:18Z",
-  "pushed_at": "2026-06-13T06:08:21Z",
+  "updated_at": "2026-06-15T21:32:24Z",
+  "pushed_at": "2026-06-15T20:38:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -199,6 +199,10 @@
     {
       "date": "2026-06-14",
       "stars": 23232
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 23231
     }
   ]
 }

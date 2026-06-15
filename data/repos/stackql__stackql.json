@@ -3,13 +3,14 @@
   "owner": "stackql",
   "name": "stackql",
   "full_name": "stackql/stackql",
-  "description": "Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework",
-  "description_ja": "拡張可能な SQL ベースのフレームワークを使用してクラウドおよび SaaS リソースと API をクエリ・プロビジョニング・操作する",
+  "description": "Query, provision and operate Cloud, SaaS, API and Model Context Protocol (MCP) resources through a unified SQL-based framework for humans and AI agents.",
+  "description_ja": "",
   "url": "https://github.com/stackql/stackql",
   "homepage_url": "https://stackql.io/",
   "language": "Go",
   "license": "MIT",
   "topics": [
+    "ai-agents",
     "asset-management",
     "cloud",
     "cloud-automation",
@@ -17,24 +18,22 @@
     "cloud-operations",
     "cloud-security",
     "cspm",
-    "devops",
-    "devsecops",
-    "hacktoberfest",
     "identity-governance",
-    "iga",
     "infrastructure-as-code",
-    "mcp-server",
-    "openapi3",
+    "llm-tools",
+    "mcp",
+    "model-context-protocol",
     "sql",
-    "stackql"
+    "stackql",
+    "xops"
   ],
   "star_count": 862,
   "fork_count": 79,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-03T08:20:06Z",
-  "updated_at": "2026-06-11T13:57:37Z",
-  "pushed_at": "2026-05-31T01:59:35Z",
+  "updated_at": "2026-06-15T22:53:48Z",
+  "pushed_at": "2026-06-15T22:53:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -195,6 +194,10 @@
     },
     {
       "date": "2026-06-14",
+      "stars": 862
+    },
+    {
+      "date": "2026-06-15",
       "stars": 862
     }
   ]

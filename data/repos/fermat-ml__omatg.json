@@ -3,7 +3,7 @@
   "owner": "fermat-ml",
   "name": "omatg",
   "full_name": "fermat-ml/omatg",
-  "description": "State-of-the-art generative model for crystal structure prediction and de novo generation of inorganic crystals.",
+  "description": "Generative framework for crystal structure prediction and de novo generation of inorganic crystals.",
   "description_ja": "",
   "url": "https://github.com/FERMat-ML/OMatG",
   "homepage_url": "https://openreview.net/forum?id=gHGrzxFujU",
@@ -16,6 +16,7 @@
     "generative-ai",
     "machine-learning",
     "material-design",
+    "reinforcement-learning",
     "stochastic-interpolant"
   ],
   "star_count": 50,
@@ -23,7 +24,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-28T14:13:47Z",
-  "updated_at": "2026-06-12T21:09:37Z",
+  "updated_at": "2026-06-15T14:35:05Z",
   "pushed_at": "2026-06-12T21:11:02Z",
   "deleted_at": "",
   "star_history": [
@@ -33,6 +34,10 @@
     },
     {
       "date": "2026-06-14",
+      "stars": 50
+    },
+    {
+      "date": "2026-06-15",
       "stars": 50
     }
   ]

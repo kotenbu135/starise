@@ -7,7 +7,7 @@
   "description_ja": "消えゆく GraphQL フレームワーク",
   "url": "https://github.com/HoudiniGraphql/houdini",
   "homepage_url": "http://www.houdinigraphql.com",
-  "language": "TypeScript",
+  "language": "Go",
   "license": "MIT",
   "topics": [
     "graphql",
@@ -17,12 +17,12 @@
     "sveltekit"
   ],
   "star_count": 974,
-  "fork_count": 106,
+  "fork_count": 105,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-01-19T04:12:04Z",
-  "updated_at": "2026-06-12T16:24:28Z",
-  "pushed_at": "2026-06-14T17:22:12Z",
+  "updated_at": "2026-06-15T15:14:10Z",
+  "pushed_at": "2026-06-15T15:47:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -183,6 +183,10 @@
     },
     {
       "date": "2026-06-14",
+      "stars": 974
+    },
+    {
+      "date": "2026-06-15",
       "stars": 974
     }
   ]
