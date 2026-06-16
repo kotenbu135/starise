@@ -3,20 +3,29 @@
   "owner": "wowohut",
   "name": "smartisanmusic-revived",
   "full_name": "wowohut/smartisanmusic-revived",
-  "description": "逆向复活锤子音乐，使用现代安卓技术栈重写",
+  "description": "逆向复活锤子音乐，使用现代 Android 技术栈重写，并加入在线音乐等功能",
   "description_ja": "",
   "url": "https://github.com/wowohut/SmartisanMusic-Revived",
   "homepage_url": "",
   "language": "Kotlin",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 141,
+  "topics": [
+    "android-app",
+    "jetpack-compose",
+    "media3-exoplayer",
+    "music-player",
+    "netease-cloud-music",
+    "reverse-engineering",
+    "smartisan-music",
+    "smartisan-os"
+  ],
+  "star_count": 144,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-15T07:07:21Z",
-  "updated_at": "2026-06-15T18:45:01Z",
-  "pushed_at": "2026-06-15T18:44:55Z",
+  "updated_at": "2026-06-16T14:01:07Z",
+  "pushed_at": "2026-06-16T13:09:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -110,6 +119,10 @@
     {
       "date": "2026-06-15",
       "stars": 141
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 144
     }
   ]
 }

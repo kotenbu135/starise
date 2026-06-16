@@ -3,7 +3,7 @@
   "owner": "yapie0",
   "name": "carboncode",
   "full_name": "yapie0/carboncode",
-  "description": "Chinese-first DeepSeek-powered terminal coding agent",
+  "description": "Carbon Code 是一款类似 Claude Code 的代码开发工具，也是中国第一个基于 DeepSeek 的代码开发工具，Token 成本节省 90% 以上。它可以实现自动任务拆分、自动开发、MCP 测试，以及与 Claude、Codex 等多 Agent 协作，能力接近 Claude Sonnet 4.6",
   "description_ja": "",
   "url": "https://github.com/Yapie0/carboncode",
   "homepage_url": "https://yapie0.github.io/carboncode/",
@@ -23,13 +23,13 @@
     "tui",
     "typescript"
   ],
-  "star_count": 138,
+  "star_count": 140,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-18T08:05:26Z",
-  "updated_at": "2026-06-15T16:01:59Z",
-  "pushed_at": "2026-06-15T09:32:38Z",
+  "updated_at": "2026-06-16T13:17:33Z",
+  "pushed_at": "2026-06-16T09:30:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +99,10 @@
     {
       "date": "2026-06-15",
       "stars": 138
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 140
     }
   ]
 }

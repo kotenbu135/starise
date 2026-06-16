@@ -3,8 +3,8 @@
   "owner": "xhongc",
   "name": "music-tag-web",
   "full_name": "xhongc/music-tag-web",
-  "description": "音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）",
-  "description_ja": "音楽タグエディタ。ローカル音楽ファイルのメタデータを編集可能。",
+  "description": "音乐标签编辑器，可编辑本地音乐文件的元数据, 音乐刮削。（Editable local music file metadata.）",
+  "description_ja": "",
   "url": "https://github.com/xhongc/music-tag-web",
   "homepage_url": "https://xiers-organization.gitbook.io/music-tag-web-v2",
   "language": "Python",
@@ -13,19 +13,20 @@
     "docker",
     "mp3tag",
     "music",
+    "music-scaper",
     "music-tag",
     "musictag",
     "nas",
     "navidrome",
     "tag"
   ],
-  "star_count": 5785,
+  "star_count": 5789,
   "fork_count": 415,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-11T07:24:17Z",
-  "updated_at": "2026-06-15T21:35:17Z",
-  "pushed_at": "2026-06-01T02:01:40Z",
+  "updated_at": "2026-06-16T14:57:00Z",
+  "pushed_at": "2026-06-16T07:15:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -191,6 +192,10 @@
     {
       "date": "2026-06-15",
       "stars": 5785
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 5789
     }
   ]
 }

@@ -3,20 +3,27 @@
   "owner": "wjluoxiao",
   "name": "xb_toolbox",
   "full_name": "wjluoxiao/xb_toolbox",
-  "description": "",
+  "description": "🛠️ 小白工具箱 (XB_ToolBox)：是让新手简易使用、让工作流生成高效便捷的 ComfyUI 自定义节点集合。集成独创的流转逻辑，并前沿包含多项针对 AMD 显卡（A卡原生生态）的实验性内核优化节点。",
   "description_ja": "",
   "url": "https://github.com/wjluoxiao/XB_ToolBox",
-  "homepage_url": "",
+  "homepage_url": "https://space.bilibili.com/302329373",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 86,
+  "topics": [
+    "amd",
+    "comfyui",
+    "custom-nodes",
+    "rocm",
+    "tool-box",
+    "workflows"
+  ],
+  "star_count": 90,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-11T17:42:30Z",
-  "updated_at": "2026-06-15T13:40:45Z",
-  "pushed_at": "2026-06-15T13:40:32Z",
+  "updated_at": "2026-06-16T20:27:49Z",
+  "pushed_at": "2026-06-16T20:44:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +101,10 @@
     {
       "date": "2026-06-15",
       "stars": 86
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 90
     }
   ]
 }

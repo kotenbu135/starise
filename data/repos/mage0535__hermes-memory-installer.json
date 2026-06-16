@@ -3,41 +3,41 @@
   "owner": "mage0535",
   "name": "hermes-memory-installer",
   "full_name": "mage0535/hermes-memory-installer",
-  "description": "Agent-agnostic memory sidecar for AI coding agents. One install, multi-agent shared recall, production-grade. AI智能体持久记忆系统，多Agent共享记忆层，生产级部署。",
+  "description": "🧠 Production-grade memory sidecar for AI agents — gbrain + Hindsight + 3-tier recall. Agent-agnostic, battle-tested. | 生产级外挂记忆系统，兼容Hermes/Claude/Cursor等任意AI智能体",
   "description_ja": "",
   "url": "https://github.com/mage0535/hermes-memory-installer",
-  "homepage_url": "https://github.com/mage0535/hermes-memory-installer",
+  "homepage_url": "https://github.com/mage0535/Knowledge-and-Memory-Management",
   "language": "Python",
   "license": "",
   "topics": [
-    "agent-agnostic",
     "agent-memory",
     "ai-agent",
-    "ai-infrastructure",
-    "ai-memory",
-    "bilingual",
     "claude-code",
-    "coding-agent",
+    "cli",
+    "codex",
+    "cursor",
     "gbrain",
-    "hermes-agent",
+    "hermes",
     "hindsight",
     "knowledge-graph",
-    "llm-memory",
-    "memory-sidecar",
+    "llm",
+    "memory",
     "multi-agent",
-    "open-source",
-    "persistent-memory",
+    "production",
+    "python",
     "rag",
+    "retrieval",
     "semantic-search",
-    "sidecar"
+    "sidecar",
+    "vector-memory"
   ],
   "star_count": 132,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-25T06:19:46Z",
-  "updated_at": "2026-06-15T01:55:23Z",
-  "pushed_at": "2026-06-08T07:29:42Z",
+  "updated_at": "2026-06-16T09:50:50Z",
+  "pushed_at": "2026-06-16T09:48:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +98,10 @@
     },
     {
       "date": "2026-06-15",
+      "stars": 132
+    },
+    {
+      "date": "2026-06-16",
       "stars": 132
     }
   ]

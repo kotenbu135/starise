@@ -3,20 +3,38 @@
   "owner": "krishnakanthb13",
   "name": "antigravity_phone_chat",
   "full_name": "krishnakanthb13/antigravity_phone_chat",
-  "description": "A compact, real-time mobile interface that lets you monitor and interact with Antigravity chats on the go.",
+  "description": "📱 Real-time mobile monitor \u0026 remote control for Antigravity AI sessions. Mirrors your desktop chat to your phone via Chrome DevTools Protocol (CDP) with sub-100ms snapshots, secure global tunnel access (ngrok/Cloudflare/Pinggy), HTTPS, and full remote control.",
   "description_ja": "",
   "url": "https://github.com/krishnakanthb13/antigravity_phone_chat",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 663,
-  "fork_count": 99,
+  "topics": [
+    "ai",
+    "antigravity",
+    "cdp",
+    "chrome-devtools-protocol",
+    "cloudflare-tunnel",
+    "express",
+    "https",
+    "llm",
+    "mobile",
+    "monitoring",
+    "ngrok",
+    "nodejs",
+    "pinggy",
+    "qr-code",
+    "remote-control",
+    "self-hosted",
+    "websocket"
+  ],
+  "star_count": 667,
+  "fork_count": 100,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-16T15:26:22Z",
-  "updated_at": "2026-06-15T21:01:36Z",
-  "pushed_at": "2026-04-12T04:13:00Z",
+  "updated_at": "2026-06-16T21:58:50Z",
+  "pushed_at": "2026-06-16T17:07:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -102,6 +120,10 @@
     {
       "date": "2026-06-15",
       "stars": 663
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 667
     }
   ]
 }

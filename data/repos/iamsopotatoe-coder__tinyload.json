@@ -18,12 +18,11 @@
     "obfuscation",
     "opcode",
     "packer",
+    "packers",
     "pe-compress",
-    "pe-compression",
     "pe-loader",
     "pe-packer",
     "pe-protection",
-    "pe-xor",
     "pepacker",
     "peprotection",
     "protection",
@@ -36,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T09:46:54Z",
-  "updated_at": "2026-06-14T10:49:44Z",
-  "pushed_at": "2026-06-02T05:17:48Z",
+  "updated_at": "2026-06-16T14:39:23Z",
+  "pushed_at": "2026-06-16T14:35:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +133,10 @@
     },
     {
       "date": "2026-06-15",
+      "stars": 150
+    },
+    {
+      "date": "2026-06-16",
       "stars": 150
     }
   ]

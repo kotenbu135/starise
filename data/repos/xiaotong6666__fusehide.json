@@ -3,20 +3,20 @@
   "owner": "xiaotong6666",
   "name": "fusehide",
   "full_name": "xiaotong6666/fusehide",
-  "description": "  FuseHide 是一个面向 Android 12+ 的 Xposed 模块，用于对 MediaProvider/FUSE 的调试工具",
+  "description": "面向 Android 12+ 的 Xposed 模块，用于在 MediaProvider 中按运行时配置隐藏普通存储路径，并提供 Android/data 相关 Unicode 场景的调试与修复能力。",
   "description_ja": "",
   "url": "https://github.com/XiaoTong6666/FuseHide",
   "homepage_url": "https://github.com/Xposed-Modules-Repo/io.github.xiaotong6666.fusehide",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 87,
+  "star_count": 88,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-11T08:52:52Z",
-  "updated_at": "2026-06-15T19:45:40Z",
-  "pushed_at": "2026-06-15T19:51:36Z",
+  "updated_at": "2026-06-16T13:49:02Z",
+  "pushed_at": "2026-06-16T13:53:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +130,10 @@
     {
       "date": "2026-06-15",
       "stars": 87
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 88
     }
   ]
 }

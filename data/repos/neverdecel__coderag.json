@@ -3,32 +3,38 @@
   "owner": "neverdecel",
   "name": "coderag",
   "full_name": "neverdecel/coderag",
-  "description": "CodeRAG is an AI-powered tool for real-time codebase querying and augmentation using OpenAI and vector search.",
+  "description": "Local-first, zero-key semantic code search for large and custom codebases — hybrid vector + keyword retrieval with symbol-aware chunking. Usable as a CLI, Python library, REST API, or web UI.",
   "description_ja": "",
   "url": "https://github.com/Neverdecel/CodeRAG",
   "homepage_url": "",
   "language": "Python",
-  "license": "",
+  "license": "Apache-2.0",
   "topics": [
     "ai",
-    "ai-assistant",
-    "ai-code",
-    "ai-tools",
+    "bm25",
     "code-search",
+    "developer-tools",
+    "embeddings",
     "faiss",
-    "openai-gpt",
+    "hybrid-search",
+    "llm",
+    "local-first",
+    "python",
     "rag",
     "retrieval-augmented-generation",
-    "vector",
-    "vector-database"
+    "semantic-code-search",
+    "semantic-search",
+    "tree-sitter",
+    "vector-database",
+    "vector-search"
   ],
   "star_count": 211,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-08T09:29:33Z",
-  "updated_at": "2026-06-15T06:07:40Z",
-  "pushed_at": "2026-06-04T13:47:33Z",
+  "updated_at": "2026-06-16T19:52:18Z",
+  "pushed_at": "2026-06-16T19:52:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -85,6 +91,10 @@
     },
     {
       "date": "2026-06-15",
+      "stars": 211
+    },
+    {
+      "date": "2026-06-16",
       "stars": 211
     }
   ]

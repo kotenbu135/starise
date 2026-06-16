@@ -3,7 +3,7 @@
   "owner": "notyusheng",
   "name": "tracepcap",
   "full_name": "notyusheng/tracepcap",
-  "description": "Self-hosted LLM network packet analysis tool. Visualize network traffic patterns, analyze packet flows, generate intelligent filters, and gain insights through AI-powered analysis. Perfect for network troubleshooting, security analysis, protocol debugging, cyber threat intelligence triage, or educational purposes.",
+  "description": "Self-hosted PCAP analysis platform with LLM-powered incident triage, signature-based threat detection, and AI-generated incident narratives. Features network change monitoring across captures, deep packet inspection via nDPI, and automated Wireshark filter generation. Runs fully offline with local LLMs (Ollama, LM Studio).",
   "description_ja": "",
   "url": "https://github.com/NotYuSheng/TracePcap",
   "homepage_url": "https://notyusheng.github.io/TracePcap/",
@@ -14,29 +14,29 @@
     "blue-team",
     "cyber-defense",
     "cybersecurity",
-    "data-visualization",
+    "dfir",
+    "incident-response",
     "llm",
     "ndpi",
     "network-forensics",
     "network-monitoring",
-    "network-visualization",
     "ollama",
     "packet-analysis",
     "pcap",
     "pcap-analyzer",
-    "pcap4j",
     "protocol-analysis",
     "soc",
+    "threat-hunting",
     "triage",
     "tshark",
     "wireshark"
   ],
-  "star_count": 10,
+  "star_count": 20,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-31T11:53:19Z",
-  "updated_at": "2026-06-13T14:22:36Z",
+  "updated_at": "2026-06-16T17:50:30Z",
   "pushed_at": "2026-06-12T11:14:24Z",
   "deleted_at": "",
   "star_history": [
@@ -55,6 +55,10 @@
     {
       "date": "2026-06-15",
       "stars": 10
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 20
     }
   ]
 }

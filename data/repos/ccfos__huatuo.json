@@ -3,7 +3,7 @@
   "owner": "ccfos",
   "name": "huatuo",
   "full_name": "ccfos/huatuo",
-  "description": "The cloud-native operating system observability project based on eBPF.",
+  "description": "eBPF-based Linux kernel observability project 🚀🚀",
   "description_ja": "",
   "url": "https://github.com/ccfos/huatuo",
   "homepage_url": "https://huatuo.tech/",
@@ -20,12 +20,12 @@
     "profiling"
   ],
   "star_count": 1003,
-  "fork_count": 89,
+  "fork_count": 90,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-04T05:02:21Z",
-  "updated_at": "2026-06-15T15:16:22Z",
-  "pushed_at": "2026-06-15T15:16:17Z",
+  "updated_at": "2026-06-16T15:52:51Z",
+  "pushed_at": "2026-06-16T08:30:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -186,6 +186,10 @@
     },
     {
       "date": "2026-06-15",
+      "stars": 1003
+    },
+    {
+      "date": "2026-06-16",
       "stars": 1003
     }
   ]

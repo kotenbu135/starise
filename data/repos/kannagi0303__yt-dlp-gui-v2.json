@@ -3,8 +3,8 @@
   "owner": "kannagi0303",
   "name": "yt-dlp-gui-v2",
   "full_name": "kannagi0303/yt-dlp-gui-v2",
-  "description": "Windows GUI for yt-dlp",
-  "description_ja": "yt-dlp の Windows GUI",
+  "description": "Windows GUI for yt-dlp, A lightweight, portable YouTube video downloader and multi-platform media archiver GUI powered by yt-dlp and written in Rust. Fast, clean, and no installation required.",
+  "description_ja": "",
   "url": "https://github.com/kannagi0303/yt-dlp-gui-v2",
   "homepage_url": "",
   "language": "Rust",
@@ -17,12 +17,12 @@
     "yt-dlp",
     "yt-dlp-gui"
   ],
-  "star_count": 74,
+  "star_count": 76,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-13T09:18:12Z",
-  "updated_at": "2026-06-13T16:25:43Z",
+  "updated_at": "2026-06-16T15:48:16Z",
   "pushed_at": "2026-06-06T05:13:33Z",
   "deleted_at": "",
   "star_history": [
@@ -81,6 +81,10 @@
     {
       "date": "2026-06-15",
       "stars": 74
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 76
     }
   ]
 }

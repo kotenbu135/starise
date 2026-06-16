@@ -12,8 +12,7 @@
   "topics": [
     "ai",
     "audio",
-    "deep-learning",
-    "diarization",
+    "cuda",
     "docker",
     "docker-compose",
     "docker-image",
@@ -27,16 +26,17 @@
     "speaker-diarization",
     "speech-recognition",
     "speech-to-text",
+    "streaming",
     "transcription",
     "translation",
     "whisper"
   ],
-  "star_count": 54,
+  "star_count": 55,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-08T04:13:57Z",
-  "updated_at": "2026-06-15T17:31:36Z",
+  "updated_at": "2026-06-16T17:24:10Z",
   "pushed_at": "2026-06-15T04:12:13Z",
   "deleted_at": "",
   "star_history": [
@@ -75,6 +75,10 @@
     {
       "date": "2026-06-15",
       "stars": 54
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 55
     }
   ]
 }

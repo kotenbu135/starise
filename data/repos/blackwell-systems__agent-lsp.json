@@ -3,7 +3,7 @@
   "owner": "blackwell-systems",
   "name": "agent-lsp",
   "full_name": "blackwell-systems/agent-lsp",
-  "description": "Language server for AI agents. 66 code intelligence tools. Uses GCF as primary output format.",
+  "description": "MCP server that orchestrates language servers into agent-native workflows. 65 tools, 30 CI-verified languages.",
   "description_ja": "",
   "url": "https://github.com/blackwell-systems/agent-lsp",
   "homepage_url": "http://www.agent-lsp.com/",
@@ -35,7 +35,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-06T16:38:40Z",
-  "updated_at": "2026-06-15T21:44:37Z",
+  "updated_at": "2026-06-16T02:54:18Z",
   "pushed_at": "2026-06-14T20:26:13Z",
   "deleted_at": "",
   "star_history": [
@@ -89,6 +89,10 @@
     },
     {
       "date": "2026-06-15",
+      "stars": 58
+    },
+    {
+      "date": "2026-06-16",
       "stars": 58
     }
   ]

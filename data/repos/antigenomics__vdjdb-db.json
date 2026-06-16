@@ -3,17 +3,22 @@
   "owner": "antigenomics",
   "name": "vdjdb-db",
   "full_name": "antigenomics/vdjdb-db",
-  "description": "🗂️ Git-based TCR database storage \u0026 management. Submissions welcome!",
-  "description_ja": "🗂️ GitベースのTCRデータベース格納・管理。投稿歓迎！",
+  "description": "Git-based antigen specificity database storage \u0026 management.",
+  "description_ja": "",
   "url": "https://github.com/antigenomics/vdjdb-db",
   "homepage_url": "https://vdjdb.com",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
     "antigen",
+    "binding",
     "bioinformatics",
     "database",
+    "hla",
     "immunology",
+    "mhc",
+    "receptor",
+    "recognition",
     "t-cell"
   ],
   "star_count": 155,
@@ -21,7 +26,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-01-06T17:16:23Z",
-  "updated_at": "2026-06-11T09:59:22Z",
+  "updated_at": "2026-06-16T10:28:25Z",
   "pushed_at": "2026-06-11T10:01:20Z",
   "deleted_at": "",
   "star_history": [
@@ -183,6 +188,10 @@
     },
     {
       "date": "2026-06-15",
+      "stars": 155
+    },
+    {
+      "date": "2026-06-16",
       "stars": 155
     }
   ]

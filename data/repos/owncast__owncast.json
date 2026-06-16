@@ -7,7 +7,7 @@
   "description_ja": "ライブストリーム映像を自分でホストして管理。ストリーミングとチャットがすぐに使える。",
   "url": "https://github.com/owncast/owncast",
   "homepage_url": "https://owncast.online",
-  "language": "Go",
+  "language": "HTML",
   "license": "MIT",
   "topics": [
     "activitypub",
@@ -27,13 +27,13 @@
     "streaming-video",
     "video"
   ],
-  "star_count": 11354,
+  "star_count": 11358,
   "fork_count": 1198,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-24T00:58:13Z",
-  "updated_at": "2026-06-15T22:11:06Z",
-  "pushed_at": "2026-06-15T22:11:02Z",
+  "updated_at": "2026-06-16T21:42:42Z",
+  "pushed_at": "2026-06-16T21:45:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -199,6 +199,10 @@
     {
       "date": "2026-06-15",
       "stars": 11354
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 11358
     }
   ]
 }

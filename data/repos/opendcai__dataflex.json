@@ -3,8 +3,8 @@
   "owner": "opendcai",
   "name": "dataflex",
   "full_name": "opendcai/dataflex",
-  "description": "DataFlex is a data-centric training framework that enhances model performance by either selecting the most influential samples, optimizing their weights, or adjusting their mixing ratios.",
-  "description_ja": "DataFlex は、最も影響力のあるサンプルの選択、重みの最適化、または混合比率の調整によってモデル性能を向上させるデータ中心のトレーニングフレームワーク。",
+  "description": "Data-centric LLM training with dynamic sample selection, domain mixture optimization, and example reweighting inside the LLaMA-Factory training loop.",
+  "description_ja": "",
   "url": "https://github.com/OpenDCAI/DataFlex",
   "homepage_url": "https://opendcai.github.io/DataFlex-Doc/",
   "language": "Python",
@@ -18,12 +18,12 @@
     "data-selection",
     "model-training"
   ],
-  "star_count": 1012,
-  "fork_count": 127,
+  "star_count": 1019,
+  "fork_count": 129,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-09T09:56:55Z",
-  "updated_at": "2026-06-15T22:15:49Z",
+  "updated_at": "2026-06-16T19:16:27Z",
   "pushed_at": "2026-06-01T09:43:23Z",
   "deleted_at": "",
   "star_history": [
@@ -186,6 +186,10 @@
     {
       "date": "2026-06-15",
       "stars": 1012
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 1019
     }
   ]
 }

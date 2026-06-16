@@ -3,7 +3,7 @@
   "owner": "hczs",
   "name": "fuckssh",
   "full_name": "hczs/fuckssh",
-  "description": "Cross-platform CLI for VPS SSH config management. Interactive wizard: IP + password → passwordless ssh in 3 min. Reads standard ~/.ssh/config. | 跨平台 CLI：交互式向导管理 VPS SSH 配置，IP + 密码 → 3 分钟免密登录。读写标准 ~/.ssh/config。",
+  "description": "CLI to manage VPS hosts in ~/.ssh/config — interactive setup, list/search/edit/delete, encrypted backup. Standard OpenSSH files, zero lock-in. | 管理 ~/.ssh/config 的跨平台 CLI：交互添加、列表搜索、编辑删除、加密备份。标准 OpenSSH 文件，无厂商锁定。",
   "description_ja": "",
   "url": "https://github.com/hczs/fuckssh",
   "homepage_url": "https://github.com/hczs/fuckssh",
@@ -21,13 +21,13 @@
     "tools",
     "vps"
   ],
-  "star_count": 39,
+  "star_count": 38,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-26T03:30:32Z",
-  "updated_at": "2026-06-15T15:31:18Z",
-  "pushed_at": "2026-06-11T13:49:57Z",
+  "updated_at": "2026-06-16T03:04:39Z",
+  "pushed_at": "2026-06-16T03:07:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -61,6 +61,10 @@
     {
       "date": "2026-06-15",
       "stars": 39
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 38
     }
   ]
 }
