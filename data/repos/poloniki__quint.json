@@ -3,20 +3,26 @@
   "owner": "poloniki",
   "name": "quint",
   "full_name": "poloniki/quint",
-  "description": "Self-hostable podcast transcription, semantic chunking \u0026 summarization — Whisper + FastAPI, with a live demo.",
+  "description": "Turn speech into semantic paragraphs in real time, on a CPU (no GPU) — single-pass streaming chunker + Moonshine STT + a live mic demo. Plus a transcribe/chunk/summarize API.",
   "description_ja": "",
   "url": "https://github.com/poloniki/quint",
   "homepage_url": "https://huggingface.co/spaces/poloniki/quint-demo",
   "language": "Jupyter Notebook",
   "license": "MIT",
   "topics": [
+    "embeddings",
     "fastapi",
     "gradio",
+    "model2vec",
+    "moonshine",
     "nlp",
     "openai",
     "podcast",
     "python",
+    "real-time",
+    "semantic-chunking",
     "speech-to-text",
+    "streaming",
     "summarization",
     "transcription",
     "whisper"
@@ -26,12 +32,16 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-29T07:12:27Z",
-  "updated_at": "2026-06-16T15:11:18Z",
-  "pushed_at": "2026-06-16T15:09:05Z",
+  "updated_at": "2026-06-17T10:33:33Z",
+  "pushed_at": "2026-06-17T10:36:29Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-06-16",
+      "stars": 61
+    },
+    {
+      "date": "2026-06-17",
       "stars": 61
     }
   ]

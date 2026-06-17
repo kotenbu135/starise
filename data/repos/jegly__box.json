@@ -3,7 +3,7 @@
   "owner": "jegly",
   "name": "box",
   "full_name": "jegly/box",
-  "description": "Private on-device AI suite for Android. Fork of Google AI Edge Gallery with llama.cpp, whisper.cpp, stable-diffusion.cpp, GGUF import, voice chat, vision AI, on-device image generation, biometric lock, encrypted history, and CPU/NPU/GPU acceleration.",
+  "description": "The most advanced, fully offline client-side AI suite on Android today.",
   "description_ja": "",
   "url": "https://github.com/jegly/Box",
   "homepage_url": "https://jegly.xyz",
@@ -31,13 +31,13 @@
     "rag",
     "visionai"
   ],
-  "star_count": 583,
-  "fork_count": 33,
+  "star_count": 595,
+  "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T10:42:52Z",
-  "updated_at": "2026-06-16T20:09:42Z",
-  "pushed_at": "2026-06-16T06:58:56Z",
+  "updated_at": "2026-06-17T21:09:57Z",
+  "pushed_at": "2026-06-17T11:31:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -179,6 +179,10 @@
     {
       "date": "2026-06-16",
       "stars": 583
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 595
     }
   ]
 }

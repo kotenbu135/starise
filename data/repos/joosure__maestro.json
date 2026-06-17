@@ -3,31 +3,31 @@
   "owner": "joosure",
   "name": "maestro",
   "full_name": "joosure/maestro",
-  "description": "Maestro turns your issue tracker into an execution layer for AI agents — dispatching work, managing runtimes, coordinating providers, tracking evidence, and making agentic engineering operable at team scale.",
+  "description": "A platform evolution of OpenAI Symphony (openai/symphony) for running Codex, Claude Code, CodeBuddy Code, and OpenCode from real project tasks.",
   "description_ja": "",
   "url": "https://github.com/joosure/Maestro",
   "homepage_url": "",
   "language": "Elixir",
   "license": "AGPL-3.0",
   "topics": [
+    "agent-ops",
     "agent-orchestration",
     "ai-agents",
     "ai-coding",
-    "audit-trail",
-    "autonomous-agents",
     "claude-code",
+    "codebuddy",
     "codex",
+    "codex-orchestration",
     "coding-agents",
     "developer-tools",
-    "devops",
     "elixir",
-    "github",
     "issue-tracker",
     "linear",
-    "observability",
+    "openai",
+    "openai-symphony",
     "opencode",
     "project-management",
-    "software-engineering",
+    "symphony",
     "tapd",
     "workflow-automation"
   ],
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-13T10:27:42Z",
-  "updated_at": "2026-06-03T06:54:55Z",
-  "pushed_at": "2026-06-03T06:54:49Z",
+  "updated_at": "2026-06-17T10:22:10Z",
+  "pushed_at": "2026-06-17T10:22:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -126,6 +126,10 @@
     },
     {
       "date": "2026-06-16",
+      "stars": 35
+    },
+    {
+      "date": "2026-06-17",
       "stars": 35
     }
   ]

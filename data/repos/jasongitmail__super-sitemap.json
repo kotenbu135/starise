@@ -3,8 +3,8 @@
   "owner": "jasongitmail",
   "name": "super-sitemap",
   "full_name": "jasongitmail/super-sitemap",
-  "description": "SvelteKit sitemap focused on ease of use and making it impossible to forget to add your paths.",
-  "description_ja": "パスの追加漏れを防ぐことに特化した、使いやすさ重視のSvelteKitサイトマップライブラリ",
+  "description": "Sitemap focused on ease of use and making it impossible to forget to add your paths. For SvelteKit (and TanStack Start soon!)",
+  "description_ja": "",
   "url": "https://github.com/jasongitmail/super-sitemap",
   "homepage_url": "https://npmjs.com/package/super-sitemap",
   "language": "TypeScript",
@@ -19,6 +19,8 @@
     "svelte-library",
     "sveltejs",
     "sveltekit",
+    "tanstack",
+    "tanstack-start",
     "typescript"
   ],
   "star_count": 256,
@@ -26,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-14T14:35:19Z",
-  "updated_at": "2026-06-11T18:27:58Z",
-  "pushed_at": "2026-06-10T12:27:15Z",
+  "updated_at": "2026-06-17T09:40:06Z",
+  "pushed_at": "2026-06-17T11:23:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -192,6 +194,10 @@
     },
     {
       "date": "2026-06-16",
+      "stars": 256
+    },
+    {
+      "date": "2026-06-17",
       "stars": 256
     }
   ]

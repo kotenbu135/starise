@@ -3,7 +3,7 @@
   "owner": "kda2495",
   "name": "ipa_downloader",
   "full_name": "kda2495/ipa_downloader",
-  "description": "PowerShell script to download previously purchased apps from App Store and install them on Apple devices (powered by ipatool-cpp).",
+  "description": "A PowerShell script to download previously purchased apps from the App Store and install them on Apple devices (based on ipatool-cpp).",
   "description_ja": "",
   "url": "https://github.com/kda2495/IPA_Downloader",
   "homepage_url": "",
@@ -20,6 +20,7 @@
     "ipatool",
     "iphone",
     "iphone-app",
+    "macos",
     "powershell",
     "windows"
   ],
@@ -28,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-24T12:16:34Z",
-  "updated_at": "2026-06-16T17:17:31Z",
-  "pushed_at": "2026-06-16T17:17:27Z",
+  "updated_at": "2026-06-17T21:04:05Z",
+  "pushed_at": "2026-06-17T21:03:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +87,10 @@
     },
     {
       "date": "2026-06-16",
+      "stars": 39
+    },
+    {
+      "date": "2026-06-17",
       "stars": 39
     }
   ]

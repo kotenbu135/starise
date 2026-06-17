@@ -3,28 +3,37 @@
   "owner": "omnigent-ai",
   "name": "omnigent",
   "full_name": "omnigent-ai/omnigent",
-  "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+  "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
   "description_ja": "",
   "url": "https://github.com/omnigent-ai/omnigent",
   "homepage_url": "https://omnigent.ai",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "agent-framework",
+    "agent-governance",
+    "agent-orchestration",
     "agents",
     "ai",
+    "ai-agent",
     "ai-agents",
+    "claude-code",
+    "codex",
+    "coding-agents",
     "developer-tools",
     "llm",
     "ml",
-    "python"
+    "multi-agent",
+    "python",
+    "sandbox"
   ],
-  "star_count": 2723,
-  "fork_count": 315,
+  "star_count": 3460,
+  "fork_count": 383,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-11T12:18:13Z",
-  "updated_at": "2026-06-16T22:37:03Z",
-  "pushed_at": "2026-06-16T22:32:04Z",
+  "updated_at": "2026-06-17T21:34:40Z",
+  "pushed_at": "2026-06-17T21:32:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +47,10 @@
     {
       "date": "2026-06-16",
       "stars": 2723
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 3460
     }
   ]
 }

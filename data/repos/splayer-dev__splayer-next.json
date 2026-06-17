@@ -3,20 +3,29 @@
   "owner": "splayer-dev",
   "name": "splayer-next",
   "full_name": "splayer-dev/splayer-next",
-  "description": "【请勿使用，未完成】",
+  "description": "🎵 Cross-platform desktop music player with rich lyric support and wide audio format compatibility. 跨平台桌面音乐播放器，支持丰富歌词与多种音频格式",
   "description_ja": "",
   "url": "https://github.com/SPlayer-Dev/SPlayer-Next",
-  "homepage_url": "",
+  "homepage_url": "http://splayer-next.imsyy.top/",
   "language": "TypeScript",
   "license": "AGPL-3.0",
-  "topics": [],
-  "star_count": 277,
-  "fork_count": 9,
+  "topics": [
+    "cross-platform",
+    "ffmpeg",
+    "media-services",
+    "music",
+    "music-library",
+    "music-player",
+    "rust",
+    "vue"
+  ],
+  "star_count": 286,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T15:37:41Z",
-  "updated_at": "2026-06-16T13:31:00Z",
-  "pushed_at": "2026-06-16T08:52:00Z",
+  "updated_at": "2026-06-17T19:31:27Z",
+  "pushed_at": "2026-06-17T15:03:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +103,10 @@
     {
       "date": "2026-06-16",
       "stars": 277
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 286
     }
   ]
 }

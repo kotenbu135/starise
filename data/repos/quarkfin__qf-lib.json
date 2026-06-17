@@ -6,7 +6,7 @@
   "description": "Modular Python library that provides an advanced event driven backtester and a set of high quality tools for quantitative finance. Integrated with various data vendors and brokers, supports Crypto, Stocks and Futures.",
   "description_ja": "定量ファイナルス向けの高品質ツール群と高度なイベント駆動バックテスターを提供するモジュラーPythonライブラリ。各種データベンダー・ブローカーと統合し、Crypto・株式・先物をサポート。",
   "url": "https://github.com/quarkfin/qf-lib",
-  "homepage_url": "https://quarkfin.github.io/qf-lib-info/",
+  "homepage_url": "https://qf-lib.readthedocs.io/en/latest/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -22,13 +22,13 @@
     "trading-simulator",
     "trading-strategies"
   ],
-  "star_count": 943,
+  "star_count": 942,
   "fork_count": 136,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-08-16T09:10:20Z",
-  "updated_at": "2026-06-15T01:08:24Z",
-  "pushed_at": "2026-06-10T15:03:54Z",
+  "updated_at": "2026-06-17T13:46:59Z",
+  "pushed_at": "2026-06-17T13:31:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -198,6 +198,10 @@
     {
       "date": "2026-06-16",
       "stars": 943
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 942
     }
   ]
 }

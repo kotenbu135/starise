@@ -3,7 +3,7 @@
   "owner": "amd",
   "name": "xdna-driver",
   "full_name": "amd/xdna-driver",
-  "description": "",
+  "description": "AMD XDNA Driver (amdxdna.ko) for Linux and XRT SHIM library ",
   "description_ja": "",
   "url": "https://github.com/amd/xdna-driver",
   "homepage_url": "",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-25T00:14:59Z",
-  "updated_at": "2026-06-15T18:27:10Z",
-  "pushed_at": "2026-06-15T18:26:32Z",
+  "updated_at": "2026-06-17T17:16:19Z",
+  "pushed_at": "2026-06-17T09:41:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -149,6 +149,10 @@
     },
     {
       "date": "2026-06-16",
+      "stars": 591
+    },
+    {
+      "date": "2026-06-17",
       "stars": 591
     }
   ]

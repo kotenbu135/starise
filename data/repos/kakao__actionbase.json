@@ -3,8 +3,8 @@
   "owner": "kakao",
   "name": "actionbase",
   "full_name": "kakao/actionbase",
-  "description": "One database for likes, views, follows — pre-computed, served in real-time",
-  "description_ja": "いいね・閲覧数・フォローを一元管理するデータベース — 事前計算してリアルタイムに配信",
+  "description": "One database for user-user (follows), user-item (likes), and item-item (related items) interactions — precomputed, served in real-time",
+  "description_ja": "",
   "url": "https://github.com/kakao/actionbase",
   "homepage_url": "https://actionbase.io",
   "language": "Kotlin",
@@ -18,13 +18,13 @@
     "real-time",
     "scalability"
   ],
-  "star_count": 218,
+  "star_count": 220,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-11T01:36:04Z",
-  "updated_at": "2026-06-16T00:53:16Z",
-  "pushed_at": "2026-06-16T00:53:14Z",
+  "updated_at": "2026-06-17T14:19:35Z",
+  "pushed_at": "2026-06-17T14:16:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -190,6 +190,10 @@
     {
       "date": "2026-06-16",
       "stars": 218
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 220
     }
   ]
 }

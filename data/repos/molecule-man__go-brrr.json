@@ -3,10 +3,10 @@
   "owner": "molecule-man",
   "name": "go-brrr",
   "full_name": "molecule-man/go-brrr",
-  "description": "Highly optimized pure go brotli implementation",
+  "description": "Brotli compression library for Go (RFC 7932), pure Go, no cgo, encoder + decoder, highly optimized",
   "description_ja": "",
   "url": "https://github.com/molecule-man/go-brrr",
-  "homepage_url": "",
+  "homepage_url": "https://pkg.go.dev/github.com/molecule-man/go-brrr",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -18,13 +18,13 @@
     "no-cgo",
     "performance"
   ],
-  "star_count": 51,
+  "star_count": 53,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-24T10:53:52Z",
-  "updated_at": "2026-06-16T01:17:20Z",
-  "pushed_at": "2026-06-10T13:20:26Z",
+  "updated_at": "2026-06-17T10:55:36Z",
+  "pushed_at": "2026-06-17T06:43:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +94,10 @@
     {
       "date": "2026-06-16",
       "stars": 51
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 53
     }
   ]
 }

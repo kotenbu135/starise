@@ -7,7 +7,7 @@
   "description_ja": "USB経由でAndroidデバイスをミラーリング・操作するデスクトップアプリ。Tauri、React、Rustで構築",
   "url": "https://github.com/Zfinix/another",
   "homepage_url": "",
-  "language": "Rust",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [],
   "star_count": 584,
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-29T14:56:34Z",
-  "updated_at": "2026-06-15T17:58:55Z",
-  "pushed_at": "2026-05-12T09:19:10Z",
+  "updated_at": "2026-06-17T10:47:09Z",
+  "pushed_at": "2026-06-17T10:48:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -185,6 +185,10 @@
     },
     {
       "date": "2026-06-16",
+      "stars": 584
+    },
+    {
+      "date": "2026-06-17",
       "stars": 584
     }
   ]

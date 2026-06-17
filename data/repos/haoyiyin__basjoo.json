@@ -6,7 +6,7 @@
   "description": "Open-source AI customer support platform — RAG knowledge base, multi-provider LLM agents, embeddable chat widget. FastAPI + Next.js + pgvector.",
   "description_ja": "",
   "url": "https://github.com/haoyiyin/basjoo",
-  "homepage_url": "",
+  "homepage_url": "https://basjoo.de",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -22,13 +22,13 @@
     "rag",
     "sse-streaming"
   ],
-  "star_count": 139,
-  "fork_count": 85,
+  "star_count": 141,
+  "fork_count": 87,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-28T14:31:03Z",
-  "updated_at": "2026-06-16T15:10:33Z",
-  "pushed_at": "2026-06-16T15:07:54Z",
+  "updated_at": "2026-06-17T08:12:53Z",
+  "pushed_at": "2026-06-17T00:46:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -162,6 +162,10 @@
     {
       "date": "2026-06-16",
       "stars": 139
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 141
     }
   ]
 }

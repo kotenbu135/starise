@@ -14,9 +14,11 @@
     "ai-agents",
     "anthropic",
     "claude",
+    "crewai-alternative",
     "deepseek",
     "gemini",
     "grok",
+    "langgraph-alternative",
     "llm",
     "local-llm",
     "mcp",
@@ -26,18 +28,16 @@
     "ollama",
     "openai",
     "orchestration",
-    "structured-output",
     "task-scheduling",
-    "tool-use",
     "typescript"
   ],
-  "star_count": 6384,
-  "fork_count": 2390,
+  "star_count": 6389,
+  "fork_count": 2391,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T19:07:34Z",
-  "updated_at": "2026-06-16T13:43:14Z",
-  "pushed_at": "2026-06-15T03:09:01Z",
+  "updated_at": "2026-06-17T15:26:26Z",
+  "pushed_at": "2026-06-17T07:17:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -207,6 +207,10 @@
     {
       "date": "2026-06-16",
       "stars": 6384
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 6389
     }
   ]
 }

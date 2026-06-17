@@ -3,20 +3,28 @@
   "owner": "ximeiorg",
   "name": "xime",
   "full_name": "ximeiorg/xime",
-  "description": "我的自用安卓输入法，基于Rime 构建，支持五笔/拼音/自定义方案。相关功能由本人设计的本地AI模型驱动",
+  "description": "我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。",
   "description_ja": "",
   "url": "https://github.com/ximeiorg/Xime",
   "homepage_url": "https://ime.ximei.me",
   "language": "Kotlin",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 438,
-  "fork_count": 21,
+  "topics": [
+    "ai",
+    "android",
+    "android-application",
+    "ime",
+    "pinyin",
+    "rime",
+    "wubi"
+  ],
+  "star_count": 447,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-28T16:41:59Z",
-  "updated_at": "2026-06-16T18:51:16Z",
-  "pushed_at": "2026-06-16T16:15:14Z",
+  "updated_at": "2026-06-17T19:39:32Z",
+  "pushed_at": "2026-06-17T16:45:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -142,6 +150,10 @@
     {
       "date": "2026-06-16",
       "stars": 438
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 447
     }
   ]
 }

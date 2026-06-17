@@ -3,20 +3,19 @@
   "owner": "ryan-millard",
   "name": "img2num",
   "full_name": "ryan-millard/img2num",
-  "description": "Turn images into clean, scalable SVGs with speed and precision. Cross-platform raster-to-SVG conversion with expanding multi-language support.",
-  "description_ja": "画像をクリーンでスケーラブルな SVG に高速かつ精確に変換します。拡張中の多言語サポートを備えたクロスプラットフォームのラスター→SVG 変換ツール。",
+  "description": "Cross-platform library for converting raster images into clean SVGs - fast, precise and configurable.",
+  "description_ja": "",
   "url": "https://github.com/Ryan-Millard/Img2Num",
   "homepage_url": "https://ryan-millard.github.io/Img2Num/",
   "language": "C++",
   "license": "MIT",
   "topics": [
     "c",
-    "computer-vision",
     "cpp",
-    "image-processing",
     "image-to-svg",
     "javascript",
     "python",
+    "svg",
     "webgpu"
   ],
   "star_count": 33,
@@ -24,7 +23,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-04T13:01:35Z",
-  "updated_at": "2026-06-15T21:30:50Z",
+  "updated_at": "2026-06-17T18:58:51Z",
   "pushed_at": "2026-06-15T22:04:02Z",
   "deleted_at": "",
   "star_history": [
@@ -190,6 +189,10 @@
     },
     {
       "date": "2026-06-16",
+      "stars": 33
+    },
+    {
+      "date": "2026-06-17",
       "stars": 33
     }
   ]

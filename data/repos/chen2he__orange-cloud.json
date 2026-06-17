@@ -3,28 +3,40 @@
   "owner": "chen2he",
   "name": "orange-cloud",
   "full_name": "chen2he/orange-cloud",
-  "description": "A native iOS client for Cloudflare — sign in with OAuth",
+  "description": "Open-source native Cloudflare client for iPhone, iPad \u0026 Apple Watch — sign in with OAuth, no API tokens to paste. Native Android app (Kotlin/Compose) in development.",
   "description_ja": "",
   "url": "https://github.com/chen2he/orange-cloud",
   "homepage_url": "https://orange-cloud.chatiro.app",
   "language": "Swift",
   "license": "NOASSERTION",
   "topics": [
+    "android",
     "cloudflare",
+    "cloudflare-workers",
     "d1",
-    "devops",
     "dns",
+    "ios",
     "ios-app",
+    "jetpack-compose",
+    "kotlin",
+    "kv",
     "mobile-app",
-    "r2"
+    "oauth",
+    "open-source",
+    "pkce",
+    "r2",
+    "swift",
+    "swiftui",
+    "waf",
+    "watchos"
   ],
-  "star_count": 103,
-  "fork_count": 13,
+  "star_count": 124,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-12T02:29:10Z",
-  "updated_at": "2026-06-16T21:25:33Z",
-  "pushed_at": "2026-06-16T20:36:02Z",
+  "updated_at": "2026-06-17T17:54:42Z",
+  "pushed_at": "2026-06-17T16:57:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +46,10 @@
     {
       "date": "2026-06-16",
       "stars": 103
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 124
     }
   ]
 }

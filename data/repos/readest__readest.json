@@ -10,17 +10,16 @@
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
-    "android",
     "calibre",
     "cross-platform",
     "ebook",
     "ebook-reader",
     "epub",
     "foliate",
-    "ios",
+    "kindle",
     "koreader",
     "koreader-plugin",
-    "linux",
+    "mobi",
     "nextjs",
     "opds",
     "pdf",
@@ -28,16 +27,15 @@
     "sync",
     "tauri",
     "tts",
-    "webdav",
-    "windows"
+    "webdav"
   ],
-  "star_count": 21513,
-  "fork_count": 1267,
+  "star_count": 21543,
+  "fork_count": 1273,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-12T23:16:55Z",
-  "updated_at": "2026-06-16T22:39:12Z",
-  "pushed_at": "2026-06-16T19:21:27Z",
+  "updated_at": "2026-06-17T19:34:47Z",
+  "pushed_at": "2026-06-17T17:46:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -207,6 +205,10 @@
     {
       "date": "2026-06-16",
       "stars": 21513
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 21543
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "spartanb312",
   "name": "grunt",
   "full_name": "spartanb312/grunt",
-  "description": "Industrial-aimed JVM bytecode obfuscator framework",
+  "description": "Industrial-aimed JVM obfuscator with native-obf support",
   "description_ja": "",
   "url": "https://github.com/SpartanB312/Grunt",
   "homepage_url": "",
@@ -13,10 +13,12 @@
     "asm",
     "controlflow",
     "encryption",
+    "j2c",
     "java",
     "jvm",
     "jvm-bytecode",
     "kotlin",
+    "native",
     "obfuscator",
     "reverse-engineering"
   ],
@@ -25,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-11-18T07:47:09Z",
-  "updated_at": "2026-06-16T20:38:47Z",
-  "pushed_at": "2026-06-16T20:38:25Z",
+  "updated_at": "2026-06-17T10:52:40Z",
+  "pushed_at": "2026-06-17T10:52:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -195,6 +197,10 @@
     },
     {
       "date": "2026-06-16",
+      "stars": 271
+    },
+    {
+      "date": "2026-06-17",
       "stars": 271
     }
   ]

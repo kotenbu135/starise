@@ -3,7 +3,7 @@
   "owner": "yantrikos",
   "name": "yantrikdb-hermes-plugin",
   "full_name": "yantrikos/yantrikdb-hermes-plugin",
-  "description": "YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with canonicalization, contradiction tracking, recency ranking, and explainable recall.",
+  "description": "YantrikDB memory provider for NousResearch/hermes-agent — self-maintaining memory with benchmarked recall, self-tuning ranking, contradiction tracking, proactive hygiene, and explainable recall.",
   "description_ja": "",
   "url": "https://github.com/yantrikos/yantrikdb-hermes-plugin",
   "homepage_url": "https://yantrikdb.com",
@@ -26,7 +26,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-15T01:27:58Z",
-  "updated_at": "2026-06-15T12:35:28Z",
+  "updated_at": "2026-06-17T13:02:28Z",
   "pushed_at": "2026-06-05T02:10:35Z",
   "deleted_at": "",
   "star_history": [
@@ -80,6 +80,10 @@
     },
     {
       "date": "2026-06-16",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-17",
       "stars": 60
     }
   ]

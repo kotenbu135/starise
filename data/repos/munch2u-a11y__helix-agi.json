@@ -3,7 +3,7 @@
   "owner": "munch2u-a11y",
   "name": "helix-agi",
   "full_name": "munch2u-a11y/helix-agi",
-  "description": "Helix-AGI is an Agentic Workflow LLM wrapper that uses a spatial-graph-based-memory retrieval system. The agent's focus center is mapped within the spatial mind (8d .npy) with every turn allowing the importance of each memory/belief to be determined by numerous additional metrics beyond pure cosine similarity.",
+  "description": "Helix-AGI is an Agentic AI System that uses an 8d spatial-graph memory retrieval system. Agents receive a rolling adaptive system prompt of memories and skills that afford the agent a highly dynamic center of conceptual gravity. By avoiding long identity files and subagent-heavy workflows, Agents can develop continuously without spiraling costs.",
   "description_ja": "",
   "url": "https://github.com/munch2u-a11y/Helix-AGI",
   "homepage_url": "",
@@ -20,9 +20,9 @@
     "ai-companion",
     "ai-memory",
     "ai-memory-system",
-    "artificial-general-intelligence",
     "autonomous-agent",
     "autonomous-agents",
+    "autonomous-ai-memory",
     "claude-code",
     "cognitive-ai",
     "cognitive-ai-framework",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-22T07:20:58Z",
-  "updated_at": "2026-06-16T08:42:02Z",
-  "pushed_at": "2026-06-16T22:30:22Z",
+  "updated_at": "2026-06-17T02:06:40Z",
+  "pushed_at": "2026-06-17T03:00:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +130,10 @@
     },
     {
       "date": "2026-06-16",
+      "stars": 38
+    },
+    {
+      "date": "2026-06-17",
       "stars": 38
     }
   ]

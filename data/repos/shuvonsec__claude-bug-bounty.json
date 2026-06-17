@@ -6,7 +6,7 @@
   "description": "AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and report generation. All inside Claude Code.",
   "description_ja": "ターミナルから実行するAI搭載バグバウンティハンティング - 偵察、20種類の脆弱性クラス、自律的なハンティング、レポート生成。すべてClaude Code内で完結。",
   "url": "https://github.com/shuvonsec/claude-bug-bounty",
-  "homepage_url": "",
+  "homepage_url": "https://shuvonsec.me/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -21,12 +21,12 @@
     "recon",
     "vulnerability-scanner"
   ],
-  "star_count": 3319,
-  "fork_count": 579,
+  "star_count": 3362,
+  "fork_count": 582,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T05:34:18Z",
-  "updated_at": "2026-06-16T22:42:31Z",
+  "updated_at": "2026-06-17T21:23:56Z",
   "pushed_at": "2026-06-16T14:32:41Z",
   "deleted_at": "",
   "star_history": [
@@ -197,6 +197,10 @@
     {
       "date": "2026-06-16",
       "stars": 3319
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 3362
     }
   ]
 }

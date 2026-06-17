@@ -3,29 +3,29 @@
   "owner": "lakesoul-io",
   "name": "lakesoul",
   "full_name": "lakesoul-io/lakesoul",
-  "description": "LakeSoul is an end-to-end, realtime and cloud native Lakehouse framework with fast data ingestion, concurrent update and incremental data analytics on cloud storages for both BI and AI applications.",
-  "description_ja": "LakeSoulは、BIおよびAIアプリケーション向けに高速データ取り込み・同時更新・増分データ分析をクラウドストレージ上で実現するエンドツーエンドのリアルタイム・クラウドネイティブLakehouseフレームワーク。",
+  "description": "LakeSoul is an end-to-end, realtime cloud-native Lakehouse framework for fast data ingestion, concurrent updates, incremental analytics, multimodal data processing and vector search — powering next-generation BI and AI workloads.",
+  "description_ja": "",
   "url": "https://github.com/lakesoul-io/LakeSoul",
   "homepage_url": "https://lakesoul-io.github.io/",
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [
     "arrow",
-    "big-data",
+    "daft",
     "datafusion",
-    "datalake",
     "flink",
     "gluten",
     "huggingface",
     "lakehouse",
-    "lakesoul",
     "postgresql",
     "python",
     "pytorch",
+    "ray",
     "rust",
     "spark",
     "sql",
     "streaming",
+    "vector-search",
     "vectorized",
     "velox"
   ],
@@ -34,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-28T08:53:11Z",
-  "updated_at": "2026-06-15T13:36:35Z",
-  "pushed_at": "2026-06-12T08:47:53Z",
+  "updated_at": "2026-06-17T13:53:24Z",
+  "pushed_at": "2026-06-17T06:09:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -204,6 +204,10 @@
     },
     {
       "date": "2026-06-16",
+      "stars": 3239
+    },
+    {
+      "date": "2026-06-17",
       "stars": 3239
     }
   ]
