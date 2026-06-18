@@ -3,7 +3,7 @@
   "owner": "wangnov",
   "name": "codex-app-mirror",
   "full_name": "wangnov/codex-app-mirror",
-  "description": "原样镜像官方 Codex 桌面应用:每 15 分钟探测、SHA256 可校验、国内直连可达,附 macOS Sparkle 增量更新源 | Verbatim, verifiable mirror of the official Codex desktop app — probed every 15 min, China-reachable, with a Sparkle delta-update feed.",
+  "description": "原样镜像官方 Codex 桌面应用:每 15 分钟探测、SHA256 可校验、国内直连下载、 Mac 可增量更新 | Verbatim, verifiable mirror of the official Codex desktop app — probed every 15 min, with a Sparkle delta-update feed.",
   "description_ja": "",
   "url": "https://github.com/Wangnov/codex-app-mirror",
   "homepage_url": "https://codexapp.agentsmirror.com",
@@ -19,13 +19,13 @@
     "openai-codex",
     "windows"
   ],
-  "star_count": 793,
-  "fork_count": 44,
+  "star_count": 820,
+  "fork_count": 45,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-06T07:36:42Z",
-  "updated_at": "2026-06-17T19:33:03Z",
-  "pushed_at": "2026-06-17T15:42:57Z",
+  "updated_at": "2026-06-18T18:33:05Z",
+  "pushed_at": "2026-06-18T18:42:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -119,6 +119,10 @@
     {
       "date": "2026-06-17",
       "stars": 793
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 820
     }
   ]
 }

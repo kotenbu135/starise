@@ -3,31 +3,38 @@
   "owner": "roxy-wi",
   "name": "incidentrelay",
   "full_name": "roxy-wi/incidentrelay",
-  "description": "IncidentRelay is an on-call shifter and schedule, incident routing and escalation service for delivering alerts to the right teams through schedules, routes, channels, acknowledgements, and notifications.",
+  "description": "Open-source self-hosted on-call scheduling, alert routing, escalation, and incident response platform for SRE and DevOps teams.",
   "description_ja": "",
   "url": "https://github.com/roxy-wi/IncidentRelay",
   "homepage_url": "https://incidentrelay.io/",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "alert-routing",
     "alerting",
     "calendar",
+    "devops",
+    "incident-response",
     "monitoring",
     "on-call",
     "on-call-management",
+    "on-call-rotation",
+    "on-call-scheduling",
     "oncall",
     "oncall-engineers",
-    "oncall-schedule",
+    "pagerduty-alternative",
+    "self-hosted",
     "sheduling",
-    "shifter"
+    "shifter",
+    "sre"
   ],
   "star_count": 77,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-29T04:56:07Z",
-  "updated_at": "2026-06-17T17:26:24Z",
-  "pushed_at": "2026-06-17T17:38:42Z",
+  "updated_at": "2026-06-18T19:04:33Z",
+  "pushed_at": "2026-06-18T19:04:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -104,6 +111,10 @@
     },
     {
       "date": "2026-06-17",
+      "stars": 77
+    },
+    {
+      "date": "2026-06-18",
       "stars": 77
     }
   ]

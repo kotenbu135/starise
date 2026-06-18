@@ -6,7 +6,7 @@
   "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
   "description_ja": "コーディングアシスタント向けクロスエージェント永続メモリ。圧縮保存・高速取得・デフォルトはローカル。",
   "url": "https://github.com/JuliusBrussee/cavemem",
-  "homepage_url": "https://getcaveman.dev/",
+  "homepage_url": "https://caveman.so/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -19,12 +19,12 @@
     "rag",
     "rag-chatbot"
   ],
-  "star_count": 544,
+  "star_count": 548,
   "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-18T00:21:39Z",
-  "updated_at": "2026-06-17T17:22:56Z",
+  "updated_at": "2026-06-18T18:10:20Z",
   "pushed_at": "2026-05-17T22:44:25Z",
   "deleted_at": "",
   "star_history": [
@@ -199,6 +199,10 @@
     {
       "date": "2026-06-17",
       "stars": 544
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 548
     }
   ]
 }

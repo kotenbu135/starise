@@ -6,7 +6,7 @@
   "description": "OpenTelemetry Compile-Time Instrumentation for Golang",
   "description_ja": "[43] Go 向け OpenTelemetry コンパイル時インストルメンテーション",
   "url": "https://github.com/alibaba/loongsuite-go",
-  "homepage_url": "https://alibaba.github.io/loongsuite-go-agent/",
+  "homepage_url": "https://alibaba.github.io/loongsuite-go/",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
@@ -18,12 +18,12 @@
     "opentelemetry",
     "tracing"
   ],
-  "star_count": 870,
-  "fork_count": 115,
+  "star_count": 871,
+  "fork_count": 116,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-02T09:29:44Z",
-  "updated_at": "2026-06-17T16:00:12Z",
+  "updated_at": "2026-06-18T09:14:18Z",
   "pushed_at": "2026-06-16T06:00:23Z",
   "deleted_at": "",
   "star_history": [
@@ -198,6 +198,10 @@
     {
       "date": "2026-06-17",
       "stars": 870
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 871
     }
   ]
 }

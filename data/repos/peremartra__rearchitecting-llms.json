@@ -3,20 +3,32 @@
   "owner": "peremartra",
   "name": "rearchitecting-llms",
   "full_name": "peremartra/rearchitecting-llms",
-  "description": "Transform generic LLMs into specialized, fast and efficient models.",
+  "description": "Official code for the Manning book on structural LLM optimization: depth/width pruning, knowledge distillation, and attention optimization, runnable on free Colab GPUs.",
   "description_ja": "",
   "url": "https://github.com/peremartra/Rearchitecting-LLMs",
-  "homepage_url": "",
+  "homepage_url": "https://hubs.la/Q040tvsK0",
   "language": "Jupyter Notebook",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "ai-fairness",
+    "attention-optimization",
+    "fine-tuning",
+    "knowledge-distilation",
+    "large-language-models",
+    "llm",
+    "mode-compression",
+    "model-optimization",
+    "qlora",
+    "quantization",
+    "width-pruning"
+  ],
   "star_count": 57,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-19T11:11:42Z",
-  "updated_at": "2026-06-16T14:40:15Z",
-  "pushed_at": "2026-06-16T13:26:34Z",
+  "updated_at": "2026-06-18T13:31:08Z",
+  "pushed_at": "2026-06-18T13:31:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -173,6 +185,10 @@
     },
     {
       "date": "2026-06-17",
+      "stars": 57
+    },
+    {
+      "date": "2026-06-18",
       "stars": 57
     }
   ]

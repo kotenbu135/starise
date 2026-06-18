@@ -3,30 +3,32 @@
   "owner": "zju3dv",
   "name": "habitat-gs",
   "full_name": "zju3dv/habitat-gs",
-  "description": "Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting",
-  "description_ja": "Habitat-GS: Dynamic Gaussian Splattingを用いた高精度ナビゲーションシミュレーター",
+  "description": "[ECCV 2026] Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting",
+  "description_ja": "",
   "url": "https://github.com/zju3dv/habitat-gs",
   "homepage_url": "https://zju3dv.github.io/habitat-gs/",
   "language": "C++",
   "license": "MIT",
   "topics": [
     "computer-vision",
+    "eccv2026",
     "embodied-ai",
     "embodied-navigation",
     "gaussian-avatar",
     "gaussian-splatting",
+    "navigation",
     "robotics",
     "simulator",
     "vln",
     "vln-ce"
   ],
-  "star_count": 157,
+  "star_count": 158,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-14T11:26:38Z",
-  "updated_at": "2026-06-17T09:30:19Z",
-  "pushed_at": "2026-06-12T12:34:29Z",
+  "updated_at": "2026-06-18T12:51:41Z",
+  "pushed_at": "2026-06-18T12:41:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -196,6 +198,10 @@
     {
       "date": "2026-06-17",
       "stars": 157
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 158
     }
   ]
 }

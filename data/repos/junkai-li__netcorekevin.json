@@ -3,7 +3,7 @@
   "owner": "junkai-li",
   "name": "netcorekevin",
   "full_name": "junkai-li/netcorekevin",
-  "description": "🤖基于.NET搭建的企业级中台AI知识库智能体开源架构：Skills技能管理、AI-Qdrant知识库、知识库重排模型、AI联网搜索、多智能体协同、智能体权限管控、AgentFramework、RAG检索增强、本地Ollama AI模型调用、智能体技能可控加载、领域事件、一库多租户、Log4、Jwt、CAP、SignalR、Mcp、Ioc、Hangfire、RabbitMQ、Xunit、前端（Vue + Ant Design）",
+  "description": "🤖基于.NET搭建的企业级中台AI知识库智能体开源架构：Skills技能管理、AI-Qdrant知识库、知识库重排模型、AI联网搜索、多智能体协同、聊天记录压缩策略、智能体权限管控、AgentFramework、RAG检索增强、本地Ollama AI模型调用、智能体技能可控加载、领域事件、一库多租户、Log4、Jwt、CAP、SignalR、Mcp、Ioc、Hangfire、RabbitMQ、Xunit、前端（Vue + Ant Design）",
   "description_ja": "",
   "url": "https://github.com/junkai-li/NetCoreKevin",
   "homepage_url": "",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-14T03:10:58Z",
-  "updated_at": "2026-06-17T07:46:00Z",
-  "pushed_at": "2026-06-17T07:45:56Z",
+  "updated_at": "2026-06-18T08:32:05Z",
+  "pushed_at": "2026-06-18T08:32:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -189,6 +189,10 @@
     },
     {
       "date": "2026-06-17",
+      "stars": 486
+    },
+    {
+      "date": "2026-06-18",
       "stars": 486
     }
   ]

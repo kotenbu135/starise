@@ -3,41 +3,41 @@
   "owner": "kdnsna",
   "name": "ultimate-ppt-master-skill",
   "full_name": "kdnsna/ultimate-ppt-master-skill",
-  "description": "可视化网页工作台 + 本机连接器：把 PDF、Word、PPT、URL 一键整理成本地 AI 助手可接手的 PPT 项目包，输出可编辑 PPTX 或杂志风网页演示",
+  "description": "一句话需求也能做成像样 PPT：先问清受众、场景和风格，再整理本地资料，生成可编辑 PPTX/Web Deck，并用 GPT 生图、渲染审阅和审计留痕守住真实办公成稿。",
   "description_ja": "",
   "url": "https://github.com/kdnsna/ultimate-ppt-master-skill",
   "homepage_url": "https://kdnsna.github.io/ultimate-ppt-master-skill/",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "agent",
     "agent-skill",
-    "ai",
-    "ai-agent",
+    "ai-ppt",
     "ai-presentation",
-    "claude-code-skill",
     "codex",
     "document-conversion",
+    "editable-pptx",
+    "gpt-image-generation",
     "html-to-pptx",
     "local-first",
-    "markdown",
+    "office-productivity",
     "powerpoint",
-    "powerpoint-generation",
     "pptx",
     "pptx-generator",
     "presentation",
+    "presentation-design",
     "presentation-generator",
     "presentation-tool",
+    "quality-assurance",
     "slides",
     "web-deck"
   ],
-  "star_count": 54,
+  "star_count": 55,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-26T11:35:36Z",
-  "updated_at": "2026-06-17T13:23:08Z",
-  "pushed_at": "2026-06-17T08:41:16Z",
+  "updated_at": "2026-06-18T05:43:22Z",
+  "pushed_at": "2026-06-18T03:11:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -123,6 +123,10 @@
     {
       "date": "2026-06-17",
       "stars": 54
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 55
     }
   ]
 }

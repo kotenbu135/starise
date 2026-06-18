@@ -3,8 +3,8 @@
   "owner": "gustaveikaas",
   "name": "easy-dotnet.nvim",
   "full_name": "gustaveikaas/easy-dotnet.nvim",
-  "description": "A fully self-contained Neovim plugin for .NET development. Ships with integrated Roslyn LSP and netcoredbg debugging, offering fast, dependency-free setup and smooth build/test workflows for C# across .NET Core and .NET Framework.",
-  "description_ja": "完全自己完結型の.NET開発向けNeovimプラグイン。Roslyn LSPとnetcoredbgデバッグを統合し、高速で依存関係のないセットアップと、.NET Coreおよび.NET Framework全体にわたるC#のビルド・テストワークフローを提供。",
+  "description": "A plug-and-play Neovim plugin for .NET development. Roslyn LSP with Roslynator, bundled netcoredbg debugging, and a Rider-like test runner with neotest support. Smooth build, test, and run for C#, F#, Razor, and .NET Aspire. The last .NET plugin you'll ever need.",
+  "description_ja": "",
   "url": "https://github.com/GustavEikaas/easy-dotnet.nvim",
   "homepage_url": "",
   "language": "Lua",
@@ -15,13 +15,13 @@
     "neovim-plugin",
     "vim"
   ],
-  "star_count": 825,
+  "star_count": 827,
   "fork_count": 82,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-02T18:24:40Z",
-  "updated_at": "2026-06-17T20:32:30Z",
-  "pushed_at": "2026-06-17T16:52:00Z",
+  "updated_at": "2026-06-18T16:12:16Z",
+  "pushed_at": "2026-06-18T10:01:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -191,6 +191,10 @@
     {
       "date": "2026-06-17",
       "stars": 825
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 827
     }
   ]
 }

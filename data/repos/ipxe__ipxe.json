@@ -10,23 +10,30 @@
   "language": "C",
   "license": "NOASSERTION",
   "topics": [
+    "aarch32",
+    "aarch64",
     "boot",
     "firmware",
     "ipxe",
+    "loongarch64",
     "netboot",
     "network",
     "pxe",
+    "risc-v",
+    "s390x",
     "secureboot",
     "uefi",
-    "uefi-boot"
+    "uefi-boot",
+    "x86",
+    "x86-64"
   ],
   "star_count": 1991,
   "fork_count": 783,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-03-27T09:39:26Z",
-  "updated_at": "2026-06-17T15:48:51Z",
-  "pushed_at": "2026-06-17T15:47:17Z",
+  "updated_at": "2026-06-18T15:05:51Z",
+  "pushed_at": "2026-06-18T15:00:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -183,6 +190,10 @@
     },
     {
       "date": "2026-06-17",
+      "stars": 1991
+    },
+    {
+      "date": "2026-06-18",
       "stars": 1991
     }
   ]

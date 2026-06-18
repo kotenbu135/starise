@@ -7,7 +7,7 @@
   "description_ja": "変換によるハイパフォーマンスで使いやすいランタイムバリデーターとシリアライザー。",
   "url": "https://github.com/samchon/typia",
   "homepage_url": "https://typia.io/",
-  "language": "TypeScript",
+  "language": "Go",
   "license": "MIT",
   "topics": [
     "agentic-ai",
@@ -29,13 +29,13 @@
     "typescript",
     "validator"
   ],
-  "star_count": 5831,
+  "star_count": 5833,
   "fork_count": 225,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-18T18:13:59Z",
-  "updated_at": "2026-06-17T15:23:17Z",
-  "pushed_at": "2026-06-17T17:19:39Z",
+  "updated_at": "2026-06-18T21:25:08Z",
+  "pushed_at": "2026-06-18T21:26:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -209,6 +209,10 @@
     {
       "date": "2026-06-17",
       "stars": 5831
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 5833
     }
   ]
 }

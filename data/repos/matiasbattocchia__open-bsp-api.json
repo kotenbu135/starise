@@ -3,7 +3,7 @@
   "owner": "matiasbattocchia",
   "name": "open-bsp-api",
   "full_name": "matiasbattocchia/open-bsp-api",
-  "description": "Open-source WhatsApp Business platform",
+  "description": "Open-source WhatsApp + Instagram Business platform",
   "description_ja": "",
   "url": "https://github.com/matiasbattocchia/open-bsp-api",
   "homepage_url": "https://web.openbsp.dev",
@@ -14,18 +14,20 @@
     "ai",
     "ai-agents",
     "deno",
+    "instagram",
+    "instagram-api",
     "mcp",
     "supabase",
     "whatsapp",
     "whatsapp-api"
   ],
-  "star_count": 348,
-  "fork_count": 163,
+  "star_count": 350,
+  "fork_count": 164,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-21T03:15:04Z",
-  "updated_at": "2026-06-17T13:59:00Z",
-  "pushed_at": "2026-06-17T13:56:07Z",
+  "updated_at": "2026-06-18T20:27:58Z",
+  "pushed_at": "2026-06-18T20:27:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -127,6 +129,10 @@
     {
       "date": "2026-06-17",
       "stars": 348
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 350
     }
   ]
 }

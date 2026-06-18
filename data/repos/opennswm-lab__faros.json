@@ -3,19 +3,31 @@
   "owner": "opennswm-lab",
   "name": "faros",
   "full_name": "opennswm-lab/faros",
-  "description": "",
+  "description": "A blueprint-driven AutoResearch runtime for orchestrating AI research workflows from idea generation and experiments to paper writing and peer review.",
   "description_ja": "",
   "url": "https://github.com/OpenNSWM-Lab/FAROS",
   "homepage_url": "",
   "language": "Python",
   "license": "",
-  "topics": [],
-  "star_count": 1034,
+  "topics": [
+    "agentic-workflow",
+    "ai-scientist",
+    "automated-research",
+    "autoresearch",
+    "llm-agents",
+    "multi-agent",
+    "paper-generation",
+    "research-agent",
+    "research-automation",
+    "scientific-discovery",
+    "workflow-orchestration"
+  ],
+  "star_count": 1036,
   "fork_count": 172,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-13T09:56:01Z",
-  "updated_at": "2026-06-17T14:29:55Z",
+  "updated_at": "2026-06-18T09:12:54Z",
   "pushed_at": "2026-06-17T14:44:32Z",
   "deleted_at": "",
   "star_history": [
@@ -90,6 +102,10 @@
     {
       "date": "2026-06-17",
       "stars": 1034
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 1036
     }
   ]
 }

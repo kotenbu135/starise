@@ -3,7 +3,7 @@
   "owner": "genai-io",
   "name": "san",
   "full_name": "genai-io/san",
-  "description": "Open-source AI agent. Lives in your terminal.",
+  "description": "The lightweight, model-agnostic agent harness — one ~12MB Go binary, ~0.01s cold start, runs anywhere from your laptop to a CI step or edge device. Learns as you work; skills, subagents, plugins \u0026 MCP run unmodified.",
   "description_ja": "",
   "url": "https://github.com/genai-io/san",
   "homepage_url": "https://genai-io.github.io/san/",
@@ -11,25 +11,18 @@
   "license": "Apache-2.0",
   "topics": [
     "ai-agents",
-    "automation",
-    "claude-code",
-    "cli",
-    "coding",
-    "gemini-cli",
-    "golang",
+    "coding-agent",
+    "harness-agent",
     "llm",
-    "opencode",
-    "provider-agnostic",
-    "terminal",
-    "workflow"
+    "provider-agnostic"
   ],
-  "star_count": 62,
+  "star_count": 63,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-05T16:16:25Z",
-  "updated_at": "2026-06-17T13:56:24Z",
-  "pushed_at": "2026-06-17T13:53:59Z",
+  "updated_at": "2026-06-18T16:04:46Z",
+  "pushed_at": "2026-06-18T16:04:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +64,10 @@
     {
       "date": "2026-06-17",
       "stars": 62
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 63
     }
   ]
 }

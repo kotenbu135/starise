@@ -3,26 +3,32 @@
   "owner": "dmtrkovalenko",
   "name": "fff",
   "full_name": "dmtrkovalenko/fff",
-  "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-  "description_ja": "AI エージェント、Neovim、Rust、C、NodeJS 向けの最速かつ最高精度のファイル検索ツールキット。",
+  "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS",
+  "description_ja": "",
   "url": "https://github.com/dmtrKovalenko/fff",
   "homepage_url": "https://fff.dmtrkovalenko.dev/",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "bun",
+    "fff",
     "filesearch",
+    "fzf",
+    "grep",
     "lua",
     "neovim",
     "neovim-plugin",
+    "nodejs",
+    "python",
     "rust"
   ],
-  "star_count": 8940,
-  "fork_count": 341,
+  "star_count": 8995,
+  "fork_count": 343,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-31T22:01:49Z",
-  "updated_at": "2026-06-17T20:33:53Z",
-  "pushed_at": "2026-06-17T20:15:14Z",
+  "updated_at": "2026-06-18T20:57:10Z",
+  "pushed_at": "2026-06-18T18:34:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -196,6 +202,10 @@
     {
       "date": "2026-06-17",
       "stars": 8940
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 8995
     }
   ]
 }

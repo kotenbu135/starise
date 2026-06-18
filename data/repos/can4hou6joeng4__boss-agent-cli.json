@@ -3,8 +3,8 @@
   "owner": "can4hou6joeng4",
   "name": "boss-agent-cli",
   "full_name": "can4hou6joeng4/boss-agent-cli",
-  "description": "AI-agent-first CLI for BOSS 直聘 — 职位搜索、福利筛选、招聘者工作流、MCP 工具与 AI 简历优化",
-  "description_ja": "BOSS直聘向けAIエージェントファーストCLI — 求人検索、福利厚生フィルタリング、採用担当者ワークフロー、MCPツール、AIによる履歴書最適化",
+  "description": "🤖 Local-assist BOSS Zhipin CLI for AI agents — search, welfare filtering, shortlist, JSON-envelope output; low-risk \u0026 compliant by default.",
+  "description_ja": "",
   "url": "https://github.com/can4hou6joeng4/boss-agent-cli",
   "homepage_url": "https://can4hou6joeng4.github.io/boss-agent-cli/",
   "language": "Python",
@@ -13,27 +13,27 @@
     "agent-skill",
     "agent-tools",
     "ai-agent",
-    "automation",
     "boss-zhipin",
+    "claude",
     "cli",
+    "command-line",
     "job-hunting",
     "job-search",
     "mcp",
     "model-context-protocol",
-    "patchright",
     "python",
     "recruiter-workflow",
     "recruitment",
     "resume",
     "zhipin"
   ],
-  "star_count": 1241,
+  "star_count": 1252,
   "fork_count": 96,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-20T08:41:59Z",
-  "updated_at": "2026-06-17T17:09:40Z",
-  "pushed_at": "2026-06-17T15:25:18Z",
+  "updated_at": "2026-06-18T15:17:47Z",
+  "pushed_at": "2026-06-18T10:30:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -207,6 +207,10 @@
     {
       "date": "2026-06-17",
       "stars": 1241
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 1252
     }
   ]
 }

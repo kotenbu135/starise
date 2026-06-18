@@ -3,19 +3,24 @@
   "owner": "vonarmen-wq",
   "name": "forward-deployed-selling",
   "full_name": "vonarmen-wq/forward-deployed-selling",
-  "description": "Operating doctrine for AI-era enterprise sales, as a Claude Skill. Targeting Foundation + 3×3 architecture, executable by AI agents, governed by Ethics + Doctrine + Hallucination constraint layers.",
+  "description": "You ship with AI. Now sell with it. Enterprise sales methodology for the AI era — refined inside AWS. Free Claude skill, 60-second install.",
   "description_ja": "",
   "url": "https://github.com/vonarmen-wq/forward-deployed-selling",
   "homepage_url": "https://forwarddeployedselling.com",
   "language": "",
   "license": "Apache-2.0",
   "topics": [
+    "agent-skill",
     "agent-skills",
     "ai-sales",
+    "anthropic",
     "b2b-sales",
     "claude",
     "claude-skill",
     "enterprise-sales",
+    "forward-deployed",
+    "gtm",
+    "prompt-engineering",
     "sales-doctrine",
     "sales-methodology"
   ],
@@ -24,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-10T23:21:34Z",
-  "updated_at": "2026-06-17T20:42:07Z",
-  "pushed_at": "2026-06-03T02:27:42Z",
+  "updated_at": "2026-06-18T02:25:42Z",
+  "pushed_at": "2026-06-18T02:25:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +47,10 @@
     },
     {
       "date": "2026-06-17",
+      "stars": 65
+    },
+    {
+      "date": "2026-06-18",
       "stars": 65
     }
   ]

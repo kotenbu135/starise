@@ -3,20 +3,26 @@
   "owner": "li599198347-svg",
   "name": "aham-ppt",
   "full_name": "li599198347-svg/aham-ppt",
-  "description": "对标咨询公司标准的 AI PPT 制作技能（Claude Skill）/ A consulting-grade PPT production skill for Claude, with 8-phase methodology and native PPTX toolchain.",
+  "description": "咨询级 AI PPT 制作技能——丢一堆素材，幻灯片出来了。Aham：把灵光一现，做成能用的 AI 工具。",
   "description_ja": "",
   "url": "https://github.com/li599198347-svg/aham-ppt",
   "homepage_url": "",
   "language": "Python",
   "license": "NOASSERTION",
-  "topics": [],
+  "topics": [
+    "aham",
+    "claude-skill",
+    "local-first",
+    "personal-ai",
+    "pptx"
+  ],
   "star_count": 33,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-22T11:40:54Z",
-  "updated_at": "2026-06-08T17:37:34Z",
-  "pushed_at": "2026-04-30T01:07:00Z",
+  "updated_at": "2026-06-18T07:55:15Z",
+  "pushed_at": "2026-06-18T05:59:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -101,6 +107,10 @@
     },
     {
       "date": "2026-06-17",
+      "stars": 33
+    },
+    {
+      "date": "2026-06-18",
       "stars": 33
     }
   ]

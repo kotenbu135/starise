@@ -3,20 +3,39 @@
   "owner": "bagidea",
   "name": "bagidea-office",
   "full_name": "bagidea/bagidea-office",
-  "description": "",
+  "description": "A living AI-agent office on your desktop wallpaper — Claude Code agents that walk, work, delegate, learn \u0026 hold meetings. Per-agent swappable models (Claude/GLM/DeepSeek/Qwen/Kimi/OpenAI/Gemini/Groq/Ollama…), workflows, plugins, voice \u0026 Telegram/Discord/LINE. Open source.",
   "description_ja": "",
   "url": "https://github.com/bagidea/bagidea-office",
-  "homepage_url": "",
-  "language": "HTML",
-  "license": "",
-  "topics": [],
-  "star_count": 55,
-  "fork_count": 26,
+  "homepage_url": "https://bagidea.github.io/bagidea-office/",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "automation",
+    "autonomous-agents",
+    "claude",
+    "claude-code",
+    "desktop-wallpaper",
+    "gemini",
+    "godot",
+    "llm",
+    "llm-agents",
+    "local-llm",
+    "mcp",
+    "multi-agent",
+    "ollama",
+    "openai"
+  ],
+  "star_count": 57,
+  "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-03T21:21:42Z",
-  "updated_at": "2026-06-17T19:47:36Z",
-  "pushed_at": "2026-06-17T19:47:33Z",
+  "updated_at": "2026-06-18T19:31:07Z",
+  "pushed_at": "2026-06-18T19:31:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -30,6 +49,10 @@
     {
       "date": "2026-06-17",
       "stars": 55
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 57
     }
   ]
 }

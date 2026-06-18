@@ -3,20 +3,31 @@
   "owner": "haz-ard-9",
   "name": "windows-vsphere-vms-bulk-secure-boot-2023-certificate-remediation",
   "full_name": "haz-ard-9/windows-vsphere-vms-bulk-secure-boot-2023-certificate-remediation",
-  "description": "Bulk Secure Boot 2023 certificate remediation for VMware VMs on vSphere 8. Optionally takes a snapshot before making any changes. Includes rollback, snapshot cleanup, and NVRAM cleanup modes for post-validation housekeeping.",
+  "description": "Bulk assessment and remediation of the Windows Secure Boot 2023 certificate transition on VMware vSphere 8 VMs. Cert deployment and PK enrollment via the ESXi P09 silent path or a SetupMode fallback, with a supported-methods-only mode. BitLocker-aware, optionally snapshots before changes, and includes rollback, snapshot, and NVRAM cleanup modes.",
   "description_ja": "",
   "url": "https://github.com/haz-ard-9/Windows-vSphere-VMs-Bulk-Secure-Boot-2023-Certificate-Remediation",
   "homepage_url": "",
   "language": "PowerShell",
   "license": "MIT",
-  "topics": [],
-  "star_count": 50,
+  "topics": [
+    "bitlocker",
+    "certificate",
+    "esxi",
+    "powercli",
+    "powershell",
+    "secure-boot",
+    "secureboot",
+    "uefi",
+    "vmware",
+    "vsphere"
+  ],
+  "star_count": 49,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T19:22:52Z",
-  "updated_at": "2026-06-17T19:42:51Z",
-  "pushed_at": "2026-05-28T16:02:35Z",
+  "updated_at": "2026-06-18T21:08:56Z",
+  "pushed_at": "2026-06-18T20:56:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -118,6 +129,10 @@
     {
       "date": "2026-06-17",
       "stars": 50
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 49
     }
   ]
 }

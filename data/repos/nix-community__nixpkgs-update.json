@@ -3,8 +3,8 @@
   "owner": "nix-community",
   "name": "nixpkgs-update",
   "full_name": "nix-community/nixpkgs-update",
-  "description": "Updating nixpkgs packages since 2018 [maintainers=@rhendric, @zowoq]",
-  "description_ja": "",
+  "description": "Updating nixpkgs packages since 2018",
+  "description_ja": "2018 年から nixpkgs パッケージを更新し続けているツール",
   "url": "https://github.com/nix-community/nixpkgs-update",
   "homepage_url": "",
   "language": "Haskell",
@@ -15,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-11-03T02:25:28Z",
-  "updated_at": "2026-06-15T06:29:21Z",
+  "updated_at": "2026-06-18T02:46:19Z",
   "pushed_at": "2026-06-14T21:58:03Z",
   "deleted_at": "",
   "star_history": [
@@ -185,6 +185,10 @@
     },
     {
       "date": "2026-06-17",
+      "stars": 595
+    },
+    {
+      "date": "2026-06-18",
       "stars": 595
     }
   ]

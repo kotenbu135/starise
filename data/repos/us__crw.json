@@ -3,7 +3,7 @@
   "owner": "us",
   "name": "crw",
   "full_name": "us/crw",
-  "description": "Fast, lightweight Firecrawl alternative in Rust. Web scraper, crawler \u0026 search API with MCP server for AI agents. Drop-in Firecrawl-compatible API (/v1/scrape, /v1/crawl, /v1/search). 2.3x faster than Tavily, 1.5x faster than Firecrawl in 1K-URL benchmarks. 6 MB RAM, single binary. Self-host or use managed cloud.",
+  "description": "Fast, lightweight Firecrawl/Tavily alternative in Rust. Web scraper, crawler \u0026 search API with MCP server for AI agents. Drop-in Firecrawl-compatible API (/scrape, /crawl, /search). 2.3x faster than Tavily, 1.5x faster than Firecrawl in 1K-URL benchmarks. 6 MB RAM, single binary. Self-host or use managed cloud.",
   "description_ja": "",
   "url": "https://github.com/us/crw",
   "homepage_url": "https://fastcrw.com",
@@ -31,13 +31,13 @@
     "web-scraping",
     "web-search-api"
   ],
-  "star_count": 187,
-  "fork_count": 16,
+  "star_count": 191,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-02T19:51:43Z",
-  "updated_at": "2026-06-17T21:03:06Z",
-  "pushed_at": "2026-06-17T21:02:11Z",
+  "updated_at": "2026-06-18T17:45:37Z",
+  "pushed_at": "2026-06-18T17:06:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     {
       "date": "2026-06-17",
       "stars": 187
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 191
     }
   ]
 }

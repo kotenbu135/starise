@@ -6,17 +6,21 @@
   "description": "High-level TUI framework built on Notcurses",
   "description_ja": "",
   "url": "https://github.com/m-doughty/Selkie",
-  "homepage_url": "",
+  "homepage_url": "https://raku.land/zef:apogee/Selkie",
   "language": "Raku",
   "license": "Artistic-2.0",
-  "topics": [],
+  "topics": [
+    "framework",
+    "terminal",
+    "tui"
+  ],
   "star_count": 12,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-12T02:06:18Z",
-  "updated_at": "2026-05-30T09:37:59Z",
-  "pushed_at": "2026-05-20T17:55:32Z",
+  "updated_at": "2026-06-18T14:53:42Z",
+  "pushed_at": "2026-06-18T11:20:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -153,6 +157,10 @@
     },
     {
       "date": "2026-06-17",
+      "stars": 12
+    },
+    {
+      "date": "2026-06-18",
       "stars": 12
     }
   ]

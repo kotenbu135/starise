@@ -3,7 +3,7 @@
   "owner": "liyupi",
   "name": "ai-guide",
   "full_name": "liyupi/ai-guide",
-  "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档，已升级为鱼皮 AI 导航网站",
+  "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站",
   "description_ja": "",
   "url": "https://github.com/liyupi/ai-guide",
   "homepage_url": "https://ai.codefather.cn",
@@ -11,10 +11,10 @@
   "license": "",
   "topics": [
     "ai",
-    "algorithm",
     "artificial-intelligence",
     "chatgpt",
     "claude",
+    "codex",
     "cursor",
     "deep-learning",
     "deepseek",
@@ -31,12 +31,12 @@
     "vue",
     "vuepress"
   ],
-  "star_count": 15972,
-  "fork_count": 1793,
+  "star_count": 16020,
+  "fork_count": 1804,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-13T05:47:46Z",
-  "updated_at": "2026-06-17T19:18:25Z",
+  "updated_at": "2026-06-18T16:57:47Z",
   "pushed_at": "2026-06-04T12:40:40Z",
   "deleted_at": "",
   "star_history": [
@@ -211,6 +211,10 @@
     {
       "date": "2026-06-17",
       "stars": 15972
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 16020
     }
   ]
 }
