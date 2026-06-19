@@ -3,8 +3,8 @@
   "owner": "alexta69",
   "name": "metube",
   "full_name": "alexta69/metube",
-  "description": "Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)",
-  "description_ja": "YouTubeなどに対応したセルフホスト動画ダウンローダ (youtube-dl / yt-dlp用Web UI)。",
+  "description": "Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)",
+  "description_ja": "",
   "url": "https://github.com/alexta69/metube",
   "homepage_url": "",
   "language": "Python",
@@ -15,12 +15,12 @@
     "youtube-dl",
     "yt-dlp"
   ],
-  "star_count": 13898,
+  "star_count": 13906,
   "fork_count": 996,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-11-29T17:24:51Z",
-  "updated_at": "2026-06-18T20:14:16Z",
+  "updated_at": "2026-06-19T18:17:54Z",
   "pushed_at": "2026-06-18T03:55:54Z",
   "deleted_at": "",
   "star_history": [
@@ -199,6 +199,10 @@
     {
       "date": "2026-06-18",
       "stars": 13898
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 13906
     }
   ]
 }

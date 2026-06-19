@@ -3,19 +3,25 @@
   "owner": "jinchenggao-infty",
   "name": "fwma",
   "full_name": "jinchenggao-infty/fwma",
-  "description": "",
+  "description": "End-to-end AI literature review automation: crawl, screen, download, multi-agent review, and report generation",
   "description_ja": "",
   "url": "https://github.com/JinchengGao-Infty/FWMA",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "ai-agents",
+    "literature-review",
+    "mcp",
+    "python",
+    "research-automation"
+  ],
   "star_count": 56,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-22T05:53:18Z",
-  "updated_at": "2026-06-10T13:57:49Z",
+  "updated_at": "2026-06-19T05:08:47Z",
   "pushed_at": "2026-03-22T12:22:06Z",
   "deleted_at": "",
   "star_history": [
@@ -193,6 +199,10 @@
     },
     {
       "date": "2026-06-18",
+      "stars": 56
+    },
+    {
+      "date": "2026-06-19",
       "stars": 56
     }
   ]

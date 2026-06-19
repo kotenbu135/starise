@@ -6,7 +6,7 @@
   "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
   "description_ja": "Terragruntは、OpenTofu/TerraformによるInfrastructure as Codeをスケールさせるための柔軟なオーケストレーションツール",
   "url": "https://github.com/gruntwork-io/terragrunt",
-  "homepage_url": "https://terragrunt.gruntwork.io/",
+  "homepage_url": "https://terragrunt.com",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -17,13 +17,13 @@
     "opentofu",
     "terraform"
   ],
-  "star_count": 9669,
+  "star_count": 9670,
   "fork_count": 1199,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-05-23T22:17:48Z",
-  "updated_at": "2026-06-18T19:49:10Z",
-  "pushed_at": "2026-06-18T19:57:44Z",
+  "updated_at": "2026-06-19T13:33:25Z",
+  "pushed_at": "2026-06-19T17:24:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -201,6 +201,10 @@
     {
       "date": "2026-06-18",
       "stars": 9669
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 9670
     }
   ]
 }

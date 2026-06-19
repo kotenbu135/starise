@@ -3,30 +3,27 @@
   "owner": "freestyle-voice",
   "name": "freestyle",
   "full_name": "freestyle-voice/freestyle",
-  "description": "Voice-to-text dictation app. Local first, free, and open source. ",
+  "description": "Voice interface for Claude Code",
   "description_ja": "",
   "url": "https://github.com/freestyle-voice/freestyle",
   "homepage_url": "https://freestylevoice.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "dictation",
-    "elevenlabs",
-    "parakeet",
-    "speech-to-text",
-    "transcribe",
-    "transcription",
-    "voice-to-text",
-    "whisper",
-    "wispr-flow-alternative"
+    "claude",
+    "claude-code",
+    "coding",
+    "coding-agent",
+    "developer-tools",
+    "stt"
   ],
-  "star_count": 384,
+  "star_count": 385,
   "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-25T02:25:59Z",
-  "updated_at": "2026-06-18T17:17:49Z",
-  "pushed_at": "2026-06-18T17:17:34Z",
+  "updated_at": "2026-06-19T17:42:26Z",
+  "pushed_at": "2026-06-19T17:40:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -80,6 +77,10 @@
     {
       "date": "2026-06-18",
       "stars": 384
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 385
     }
   ]
 }

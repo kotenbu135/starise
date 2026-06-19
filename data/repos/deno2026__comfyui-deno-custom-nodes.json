@@ -13,14 +13,13 @@
     "bernini",
     "bernini-prompt-guide",
     "comfyui",
-    "comfyui-bernini",
     "comfyui-custom-nodes",
     "custom-nodes",
-    "image-compare",
-    "image-resize",
+    "ideogram",
+    "ideogram-director",
+    "local-llm",
     "ltx-23",
     "ltx-video",
-    "multi-image-loader",
     "nvidia-vfx",
     "prompt-guide",
     "rtx-video-super-resolution",
@@ -28,16 +27,17 @@
     "video-preview",
     "video-to-gif",
     "visual-fold",
+    "wan-2-2",
     "wan2-2",
     "workflow-tools"
   ],
-  "star_count": 66,
+  "star_count": 69,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-16T22:51:04Z",
-  "updated_at": "2026-06-18T20:35:30Z",
-  "pushed_at": "2026-06-18T20:35:25Z",
+  "updated_at": "2026-06-19T19:18:21Z",
+  "pushed_at": "2026-06-19T19:18:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +103,10 @@
     {
       "date": "2026-06-18",
       "stars": 66
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 69
     }
   ]
 }

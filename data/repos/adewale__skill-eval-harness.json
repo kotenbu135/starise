@@ -3,14 +3,16 @@
   "owner": "adewale",
   "name": "skill-eval-harness",
   "full_name": "adewale/skill-eval-harness",
-  "description": "",
+  "description": "Agent Skill evaluation harness for paired variants, trace artifacts, and runner adapters",
   "description_ja": "",
   "url": "https://github.com/adewale/skill-eval-harness",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "agent-skills",
     "evals",
+    "python",
     "skills"
   ],
   "star_count": 46,
@@ -18,12 +20,16 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T13:32:31Z",
-  "updated_at": "2026-06-18T09:21:36Z",
-  "pushed_at": "2026-06-18T07:46:02Z",
+  "updated_at": "2026-06-19T17:41:50Z",
+  "pushed_at": "2026-06-19T17:41:46Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-06-18",
+      "stars": 46
+    },
+    {
+      "date": "2026-06-19",
       "stars": 46
     }
   ]

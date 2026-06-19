@@ -3,24 +3,29 @@
   "owner": "haabe",
   "name": "mycelium",
   "full_name": "haabe/mycelium",
-  "description": "Product discovery to delivery for AI agents. 45+ skills, 12+ theory gates — the agent earns the right to code. Software, courses, AI tools, services.",
+  "description": "AI made building cheap. It didn't make deciding cheap. Mycelium is a Claude Code harness that makes your agent run discovery and weigh evidence before it writes code. It earns the right to start. Built for software, courses, AI tools, and services.",
   "description_ja": "",
   "url": "https://github.com/haabe/mycelium",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "agentic-ai",
     "ai-agent",
     "claude-code",
     "claude-code-plugin",
     "claude-code-skills",
+    "continuous-discovery",
     "delivery",
     "devops",
     "discovery",
     "dora-metrics",
+    "jobs-to-be-done",
+    "opportunity-solution-tree",
     "product-development",
     "product-discovery",
     "product-management",
+    "product-strategy",
     "spec-driven-development",
     "wardley-mapping"
   ],
@@ -29,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-07T10:48:02Z",
-  "updated_at": "2026-06-18T16:25:22Z",
-  "pushed_at": "2026-06-18T16:25:09Z",
+  "updated_at": "2026-06-19T09:22:39Z",
+  "pushed_at": "2026-06-19T09:22:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -67,6 +72,10 @@
     },
     {
       "date": "2026-06-18",
+      "stars": 35
+    },
+    {
+      "date": "2026-06-19",
       "stars": 35
     }
   ]

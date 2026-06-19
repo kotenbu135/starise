@@ -3,8 +3,8 @@
   "owner": "nuitka",
   "name": "nuitka",
   "full_name": "nuitka/nuitka",
-  "description": "Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.13. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. ",
-  "description_ja": "NuitkaはPythonで書かれたPythonコンパイラです。Python 2.6、2.7、3.4〜3.13と完全互換。Pythonアプリを渡すと、さまざまな最適化処理を行い、実行ファイルまたは拡張モジュールを出力します。",
+  "description": "Nuitka is a Python compiler written in Python.  It's fully compatible with Python 2.6, 2.7, 3.4-3.14. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module. ",
+  "description_ja": "",
   "url": "https://github.com/Nuitka/Nuitka",
   "homepage_url": "http://nuitka.net",
   "language": "Python",
@@ -18,13 +18,13 @@
     "python",
     "python-compiler"
   ],
-  "star_count": 14928,
-  "fork_count": 782,
+  "star_count": 14931,
+  "fork_count": 781,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-04-23T15:40:33Z",
-  "updated_at": "2026-06-18T16:15:42Z",
-  "pushed_at": "2026-06-17T09:07:15Z",
+  "updated_at": "2026-06-19T14:23:19Z",
+  "pushed_at": "2026-06-19T12:14:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -202,6 +202,10 @@
     {
       "date": "2026-06-18",
       "stars": 14928
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 14931
     }
   ]
 }

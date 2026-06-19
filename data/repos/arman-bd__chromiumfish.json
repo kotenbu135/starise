@@ -3,7 +3,7 @@
   "owner": "arman-bd",
   "name": "chromiumfish",
   "full_name": "arman-bd/chromiumfish",
-  "description": "A stealth Chromium build with a drop-in Playwright harness for Python and Node.",
+  "description": "A stealth Chromium build with a drop-in Playwright harness for Python and Node, featuring natively built agentic capabilities.",
   "description_ja": "",
   "url": "https://github.com/arman-bd/chromiumfish",
   "homepage_url": "https://chromiumfish.com",
@@ -30,12 +30,12 @@
     "webgl-fingerprinting"
   ],
   "star_count": 64,
-  "fork_count": 5,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-08T12:28:28Z",
-  "updated_at": "2026-06-18T20:43:51Z",
-  "pushed_at": "2026-06-18T20:12:54Z",
+  "updated_at": "2026-06-19T19:36:06Z",
+  "pushed_at": "2026-06-19T19:36:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +68,10 @@
     },
     {
       "date": "2026-06-18",
+      "stars": 64
+    },
+    {
+      "date": "2026-06-19",
       "stars": 64
     }
   ]

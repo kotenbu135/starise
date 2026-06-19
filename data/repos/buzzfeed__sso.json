@@ -7,8 +7,8 @@
   "description_ja": "sso（別名 S.S.Octopus、別名 octoboi）は、内部サービスを保護するためのシングルサインオンソリューション",
   "url": "https://github.com/buzzfeed/sso",
   "homepage_url": "",
-  "language": "Go",
-  "license": "MIT",
+  "language": "",
+  "license": "",
   "topics": [
     "aes",
     "authentication",
@@ -17,13 +17,13 @@
     "security",
     "sso"
   ],
-  "star_count": 3128,
+  "star_count": 3127,
   "fork_count": 193,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2018-08-16T16:06:36Z",
-  "updated_at": "2026-06-18T17:53:23Z",
-  "pushed_at": "2025-12-05T02:31:34Z",
+  "updated_at": "2026-06-19T17:48:08Z",
+  "pushed_at": "2026-06-19T15:22:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -197,6 +197,10 @@
     {
       "date": "2026-06-18",
       "stars": 3128
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 3127
     }
   ]
 }

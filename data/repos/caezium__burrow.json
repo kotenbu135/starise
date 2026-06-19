@@ -3,7 +3,7 @@
   "owner": "caezium",
   "name": "burrow",
   "full_name": "caezium/burrow",
-  "description": "🐹 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents.",
+  "description": "🐹 A free, open-source, native macOS GUI for the Mole CLI (mo): clean, uninstall, optimize, analyze disk, and watch live status. Plus long-range history + an MCP server for AI agents. Coming to Windows",
   "description_ja": "",
   "url": "https://github.com/caezium/Burrow",
   "homepage_url": "https://burrow.henryzh.dev",
@@ -19,15 +19,17 @@
     "open-source",
     "swift",
     "swiftui",
-    "system-monitor"
+    "system-monitor",
+    "windows",
+    "winui3"
   ],
-  "star_count": 712,
+  "star_count": 722,
   "fork_count": 139,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-31T08:37:49Z",
-  "updated_at": "2026-06-18T14:21:07Z",
-  "pushed_at": "2026-06-17T16:42:13Z",
+  "updated_at": "2026-06-19T13:59:42Z",
+  "pushed_at": "2026-06-19T12:13:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -73,6 +75,10 @@
     {
       "date": "2026-06-18",
       "stars": 712
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 722
     }
   ]
 }

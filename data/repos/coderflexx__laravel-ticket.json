@@ -3,24 +3,30 @@
   "owner": "coderflexx",
   "name": "laravel-ticket",
   "full_name": "coderflexx/laravel-ticket",
-  "description": "Laravel Ticket System, to help you manage your tickets easily.",
-  "description_ja": "チケットを簡単に管理できる Laravel チケットシステム。",
+  "description": "A full-featured support ticket system for Laravel with Eloquent models and a clean API",
+  "description_ja": "",
   "url": "https://github.com/coderflexx/laravel-ticket",
   "homepage_url": "https://coderflex.com/open-source/docs/laravel-ticket/introduction",
   "language": "PHP",
   "license": "MIT",
   "topics": [
+    "customer-support",
     "eloquent",
+    "helpdesk",
     "laravel",
-    "ticketing-system"
+    "laravel-package",
+    "php",
+    "support-ticket",
+    "ticketing-system",
+    "tickets"
   ],
   "star_count": 439,
   "fork_count": 82,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-09-23T21:15:20Z",
-  "updated_at": "2026-06-07T23:58:15Z",
-  "pushed_at": "2026-04-27T01:16:34Z",
+  "updated_at": "2026-06-19T11:38:43Z",
+  "pushed_at": "2026-06-19T11:40:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -197,6 +203,10 @@
     },
     {
       "date": "2026-06-18",
+      "stars": 439
+    },
+    {
+      "date": "2026-06-19",
       "stars": 439
     }
   ]
