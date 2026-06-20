@@ -1,0 +1,36 @@
+{
+  "repo_id": "R_kgDORirLIw",
+  "owner": "nelj14",
+  "name": "vmprotect-dumper",
+  "full_name": "nelj14/vmprotect-dumper",
+  "description": "VMProtect payload extractor with IAT reconstruction. Monitors section unpacking, dumps PE with fixed headers, reconstructs imports via module export enumeration, and scans heap for IOCs. Supports EXE and DLL targets (x86/x64).",
+  "description_ja": "",
+  "url": "https://github.com/nelj14/vmprotect-dumper",
+  "homepage_url": "",
+  "language": "C",
+  "license": "MIT",
+  "topics": [
+    "dumper",
+    "iat-reconstruction",
+    "malware-analysis",
+    "pe-dumper",
+    "reverse-engineering",
+    "security-tools",
+    "unpacker",
+    "vmprotect"
+  ],
+  "star_count": 9,
+  "fork_count": 4,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-09T20:02:23Z",
+  "updated_at": "2026-06-19T22:54:22Z",
+  "pushed_at": "2026-04-14T20:11:06Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-20",
+      "stars": 9
+    }
+  ]
+}

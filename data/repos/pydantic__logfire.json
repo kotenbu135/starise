@@ -6,7 +6,7 @@
   "description": "AI observability platform for production LLM and agent systems.",
   "description_ja": "本番LLM・エージェントシステム向けAIオブザーバビリティプラットフォーム。",
   "url": "https://github.com/pydantic/logfire",
-  "homepage_url": "https://logfire.pydantic.dev/docs/",
+  "homepage_url": "https://pydantic.dev/logfire/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -27,13 +27,13 @@
     "python",
     "trace"
   ],
-  "star_count": 4308,
+  "star_count": 4311,
   "fork_count": 249,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-23T11:50:23Z",
-  "updated_at": "2026-06-19T20:44:39Z",
-  "pushed_at": "2026-06-19T15:12:01Z",
+  "updated_at": "2026-06-20T18:20:29Z",
+  "pushed_at": "2026-06-20T19:20:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -211,6 +211,10 @@
     {
       "date": "2026-06-19",
       "stars": 4308
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 4311
     }
   ]
 }

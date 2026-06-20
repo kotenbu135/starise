@@ -3,7 +3,7 @@
   "owner": "iamsopotatoe-coder",
   "name": "tinyload",
   "full_name": "iamsopotatoe-coder/tinyload",
-  "description": "simple PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual machine into a self-extracting stub.",
+  "description": "PE packer/crypter for Windows. compresses and encrypts executables with a custom virtual machine into a self extracting stub.",
   "description_ja": "",
   "url": "https://github.com/iamsopotatoe-coder/TinyLoad",
   "homepage_url": "https://iamsopotatoe-coder.github.io/TinyLoad/",
@@ -30,12 +30,12 @@
     "virtual-machine",
     "virtualization"
   ],
-  "star_count": 155,
+  "star_count": 156,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T09:46:54Z",
-  "updated_at": "2026-06-19T09:41:42Z",
+  "updated_at": "2026-06-20T14:15:49Z",
   "pushed_at": "2026-06-18T11:49:45Z",
   "deleted_at": "",
   "star_history": [
@@ -150,6 +150,10 @@
     {
       "date": "2026-06-19",
       "stars": 155
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 156
     }
   ]
 }

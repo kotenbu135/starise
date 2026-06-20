@@ -3,25 +3,36 @@
   "owner": "ceilf6",
   "name": "auto_coursegrabber",
   "full_name": "ceilf6/auto_coursegrabber",
-  "description": "正方教务系统自动抢课脚本：并发抢课、时间/教师筛选、换课、定时执行，内置图形界面。 | Auto course grabber with concurrent enrollment, filtering \u0026 scheduling.",
-  "description_ja": "正方教務システム向け自動履修登録スクリプト：並行登録、時間割・教師フィルタリング、履修変更、定時実行、GUI 内蔵",
+  "description": "正方教务系统自动抢课脚本（多省市高校实测）：并发选课、课程名/课号检索、时间/教师筛选、换课、定时开抢与可视化控制台。JavaScript helper for Zhengfang course enrollment.",
+  "description_ja": "",
   "url": "https://github.com/ceilf6/Auto_courseGrabber",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "automation",
+    "course-enrollment",
+    "course-grabber",
+    "course-selection",
     "course-snatching",
+    "education",
+    "javascript",
     "scheduled",
     "teacher-filtering",
-    "time-filtering"
+    "time-filtering",
+    "university-tools",
+    "userscript",
+    "zhengfang",
+    "zhengfangjiaowu",
+    "zhengfangjiaowu-system"
   ],
-  "star_count": 758,
+  "star_count": 760,
   "fork_count": 42,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-02T08:20:20Z",
-  "updated_at": "2026-06-19T15:49:29Z",
-  "pushed_at": "2026-06-06T06:55:52Z",
+  "updated_at": "2026-06-20T16:39:51Z",
+  "pushed_at": "2026-06-20T16:39:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -203,6 +214,10 @@
     {
       "date": "2026-06-19",
       "stars": 758
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 760
     }
   ]
 }

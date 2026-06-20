@@ -3,20 +3,25 @@
   "owner": "bdffzi",
   "name": "alife",
   "full_name": "bdffzi/alife",
-  "description": "",
+  "description": "一款专注于桌宠方向的AIAgent。特点是一键安装、功能齐全，极低开销、信息透明、全功能可插拔、具有极高的扩展性。非常适合小白用户和自定义需求高的开发者",
   "description_ja": "",
   "url": "https://github.com/BDFFZI/Alife",
   "homepage_url": "",
   "language": "C#",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 54,
+  "topics": [
+    "agent",
+    "ai-agent",
+    "deskpet",
+    "dotnet"
+  ],
+  "star_count": 56,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T16:55:09Z",
-  "updated_at": "2026-06-19T16:13:54Z",
-  "pushed_at": "2026-06-18T19:04:03Z",
+  "updated_at": "2026-06-20T16:34:37Z",
+  "pushed_at": "2026-06-20T11:22:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +55,10 @@
     {
       "date": "2026-06-19",
       "stars": 54
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 56
     }
   ]
 }

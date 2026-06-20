@@ -14,6 +14,7 @@
     "audio",
     "chinese",
     "emotion-recognition",
+    "funasr",
     "mcp-server",
     "multilingual-asr",
     "openai-compatible-api",
@@ -26,18 +27,17 @@
     "speech-to-text",
     "streaming-asr",
     "transcription",
-    "vad",
     "vllm",
     "voice-activity-detection",
     "whisper-alternative"
   ],
-  "star_count": 18350,
-  "fork_count": 1866,
+  "star_count": 18376,
+  "fork_count": 1867,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-11-24T02:28:11Z",
-  "updated_at": "2026-06-19T19:29:23Z",
-  "pushed_at": "2026-06-19T15:05:20Z",
+  "updated_at": "2026-06-20T19:19:59Z",
+  "pushed_at": "2026-06-20T17:41:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -219,6 +219,10 @@
     {
       "date": "2026-06-19",
       "stars": 18350
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 18376
     }
   ]
 }

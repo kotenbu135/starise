@@ -3,10 +3,10 @@
   "owner": "jnmetacode",
   "name": "agency-agents-zh",
   "full_name": "jnmetacode/agency-agents-zh",
-  "description": "🎭 216 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 17 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 50 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
+  "description": "🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 50 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。",
   "description_ja": "",
   "url": "https://github.com/jnMetaCode/agency-agents-zh",
-  "homepage_url": "https://ao.aiolaola.com",
+  "homepage_url": "https://ao.aiolaola.com/experts",
   "language": "Shell",
   "license": "MIT",
   "topics": [
@@ -30,13 +30,13 @@
     "workbuddy",
     "workflow"
   ],
-  "star_count": 15243,
-  "fork_count": 2650,
+  "star_count": 15289,
+  "fork_count": 2656,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T11:11:51Z",
-  "updated_at": "2026-06-19T19:44:17Z",
-  "pushed_at": "2026-06-19T19:44:05Z",
+  "updated_at": "2026-06-20T19:21:27Z",
+  "pushed_at": "2026-06-20T01:50:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -218,6 +218,10 @@
     {
       "date": "2026-06-19",
       "stars": 15243
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 15289
     }
   ]
 }

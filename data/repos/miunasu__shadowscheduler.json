@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOSz-Bew",
+  "owner": "miunasu",
+  "name": "shadowscheduler",
+  "full_name": "miunasu/shadowscheduler",
+  "description": "PoC for covert persistence via Windows Push Task Scheduler (WPTaskScheduler) RPC interface — invisible to schtasks, Get-ScheduledTask, and all standard enumeration tools. 利用 Windows Push Task Scheduler (WPTaskScheduler) RPC 接口实现隐蔽持久化的 PoC — 对 schtasks、Get-ScheduledTask 及所有标准枚举工具完全不可见。",
+  "description_ja": "",
+  "url": "https://github.com/miunasu/ShadowScheduler",
+  "homepage_url": "",
+  "language": "C",
+  "license": "AGPL-3.0",
+  "topics": [],
+  "star_count": 47,
+  "fork_count": 6,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-08T02:14:41Z",
+  "updated_at": "2026-06-20T16:44:25Z",
+  "pushed_at": "2026-06-15T02:57:58Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-20",
+      "stars": 47
+    }
+  ]
+}

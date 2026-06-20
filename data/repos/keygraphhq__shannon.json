@@ -3,8 +3,8 @@
   "owner": "keygraphhq",
   "name": "shannon",
   "full_name": "keygraphhq/shannon",
-  "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-  "description_ja": "Shannon Lite はウェブアプリケーションと API 向けの自律型ホワイトボックス AI ペネトレーションテスターで、ソースコードを解析して攻撃ベクターを特定し、本番到達前に脆弱性を実際のエクスプロイトで証明する",
+  "description": "Shannon is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+  "description_ja": "",
   "url": "https://github.com/KeygraphHQ/shannon",
   "homepage_url": "https://keygraph.io/",
   "language": "TypeScript",
@@ -16,13 +16,13 @@
     "security-automation",
     "security-tools"
   ],
-  "star_count": 44816,
-  "fork_count": 5198,
+  "star_count": 44838,
+  "fork_count": 5200,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-27T01:51:47Z",
-  "updated_at": "2026-06-19T20:16:55Z",
-  "pushed_at": "2026-06-18T18:34:10Z",
+  "updated_at": "2026-06-20T19:17:21Z",
+  "pushed_at": "2026-06-20T00:29:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -204,6 +204,10 @@
     {
       "date": "2026-06-19",
       "stars": 44816
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 44838
     }
   ]
 }

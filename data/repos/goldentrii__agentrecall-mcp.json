@@ -3,29 +3,31 @@
   "owner": "goldentrii",
   "name": "agentrecall-mcp",
   "full_name": "goldentrii/agentrecall-mcp",
-  "description": "Persistent, correction-driven memory for AI agents. Cross-session, cross-platform (Claude Code, Codex, Gemini — any MCP client). Learns from mistakes, compresses context to save tokens, consolidates knowledge overnight. npm: agent-recall-mcp",
+  "description": "Correction-first persistent memory for AI agents. MCP server + SDK + CLI. Compounds across sessions.",
   "description_ja": "",
   "url": "https://github.com/Goldentrii/AgentRecall-MCP",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "agent-learning",
     "agent-memory",
-    "ai-agents",
+    "ai-memory-systems",
     "claude-code",
-    "intelligent-distance",
-    "mcp",
+    "claude-mcp",
+    "correction-tracking",
     "mcp-server",
-    "quality-loop",
-    "session-memory"
+    "memory-palace",
+    "persistent-memory",
+    "typescript"
   ],
-  "star_count": 303,
+  "star_count": 304,
   "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-24T14:08:00Z",
-  "updated_at": "2026-06-19T20:10:36Z",
-  "pushed_at": "2026-06-19T20:10:32Z",
+  "updated_at": "2026-06-20T17:55:05Z",
+  "pushed_at": "2026-06-20T18:31:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -87,6 +89,10 @@
     {
       "date": "2026-06-19",
       "stars": 303
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 304
     }
   ]
 }

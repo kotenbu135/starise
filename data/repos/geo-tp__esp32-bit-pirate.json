@@ -21,6 +21,7 @@
     "hardware-hacking",
     "i2c",
     "jtag",
+    "openocd",
     "protocols",
     "pwm",
     "radio",
@@ -30,12 +31,12 @@
     "uart",
     "wifi"
   ],
-  "star_count": 3920,
-  "fork_count": 313,
+  "star_count": 3953,
+  "fork_count": 317,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-05T21:59:46Z",
-  "updated_at": "2026-06-19T17:20:54Z",
+  "updated_at": "2026-06-20T19:28:21Z",
   "pushed_at": "2026-06-17T15:33:36Z",
   "deleted_at": "",
   "star_history": [
@@ -218,6 +219,10 @@
     {
       "date": "2026-06-19",
       "stars": 3920
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 3953
     }
   ]
 }

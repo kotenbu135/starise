@@ -3,8 +3,8 @@
   "owner": "phongnguyend",
   "name": "practical.cleanarchitecture",
   "full_name": "phongnguyend/practical.cleanarchitecture",
-  "description": "Full-stack .Net 10 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 21, React 19, Vue 3.5, BFF with YARP, NextJs 16, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, OpenID Connect, EF Core, OpenTelemetry, SignalR, Background Services, Health Checks, Rate Limiting, Clouds (Azure, AWS, GCP), ...",
-  "description_ja": "フルスタック.Net 10クリーンアーキテクチャ（マイクロサービス、モジュラーモノリス、モノリス）、Blazor、Angular 21、React 19、Vue 3.5、YARPを使ったBFF、NextJs 16、ドメイン駆動設計、CQRS、SOLID、Asp.Net Core Identityカスタムストレージ、OpenID Connect、EF Core、OpenTelemetry、SignalR、バックグラウンドサービス、ヘルスチェック、レート制限、クラウド（Azure、AWS、GCP）など。",
+  "description": "Full-stack .Net 10 Clean Architecture (Microservices, Modular Monolith, Monolith), Blazor, Angular 22, React 19, Vue 3.5, BFF with YARP, NextJs 16, Domain-Driven Design, CQRS, SOLID, Asp.Net Core Identity Custom Storage, OpenID Connect, EF Core, OpenTelemetry, SignalR, Background Services, Health Checks, Rate Limiting, Clouds (Azure, AWS, GCP), ...",
+  "description_ja": "",
   "url": "https://github.com/phongnguyend/Practical.CleanArchitecture",
   "homepage_url": "",
   "language": "C#",
@@ -31,12 +31,12 @@
     "vuejs"
   ],
   "star_count": 2442,
-  "fork_count": 607,
+  "fork_count": 606,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-12-03T03:11:04Z",
-  "updated_at": "2026-06-18T14:35:07Z",
-  "pushed_at": "2026-06-04T09:16:19Z",
+  "updated_at": "2026-06-20T08:56:48Z",
+  "pushed_at": "2026-06-20T08:54:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -217,6 +217,10 @@
     },
     {
       "date": "2026-06-19",
+      "stars": 2442
+    },
+    {
+      "date": "2026-06-20",
       "stars": 2442
     }
   ]

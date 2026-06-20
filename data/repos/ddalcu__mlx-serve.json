@@ -6,7 +6,7 @@
   "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
   "description_ja": "",
   "url": "https://github.com/ddalcu/mlx-serve",
-  "homepage_url": "https://ddalcu.github.io/mlx-serve/",
+  "homepage_url": "http://mlxserve.com/",
   "language": "Zig",
   "license": "MIT",
   "topics": [
@@ -14,8 +14,10 @@
     "anthropic-api",
     "apple-silicon",
     "claude-code",
+    "deepseek-v4",
+    "diffusion",
+    "image-generation",
     "inference",
-    "language-model",
     "llm",
     "local-llm",
     "macos",
@@ -23,15 +25,18 @@
     "mlx",
     "openai-api",
     "tool-calling",
+    "video-generation",
+    "voice-agent",
+    "voice-cloning",
     "zig"
   ],
-  "star_count": 162,
+  "star_count": 163,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-17T01:55:20Z",
-  "updated_at": "2026-06-19T19:44:31Z",
-  "pushed_at": "2026-06-19T20:01:56Z",
+  "updated_at": "2026-06-19T21:04:27Z",
+  "pushed_at": "2026-06-19T20:43:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -117,6 +122,10 @@
     {
       "date": "2026-06-19",
       "stars": 162
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 163
     }
   ]
 }

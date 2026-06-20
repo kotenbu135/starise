@@ -7,7 +7,7 @@
   "description_ja": "AndroidおよびiOSプラットフォームを対象とし、共通のGDScriptインターフェースを提供するGodotプラグイン向けテンプレート。",
   "url": "https://github.com/godot-mobile-plugins/godot-plugin-template",
   "homepage_url": "",
-  "language": "Shell",
+  "language": "GDScript",
   "license": "MIT",
   "topics": [
     "android",
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-05T22:10:02Z",
-  "updated_at": "2026-06-14T12:23:11Z",
-  "pushed_at": "2026-06-18T11:49:29Z",
+  "updated_at": "2026-06-19T21:24:29Z",
+  "pushed_at": "2026-06-19T21:26:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -200,6 +200,10 @@
     },
     {
       "date": "2026-06-19",
+      "stars": 9
+    },
+    {
+      "date": "2026-06-20",
       "stars": 9
     }
   ]

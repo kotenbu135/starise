@@ -3,7 +3,7 @@
   "owner": "othmanadi",
   "name": "openui-forge",
   "full_name": "othmanadi/openui-forge",
-  "description": "Build generative UI with OpenUI — any LLM provider, any backend language. Scaffold, integrate, validate. The first OpenUI skill for coding agents.",
+  "description": "Cross-IDE, multi-stack agent skill for OpenUI (the Open Standard for Generative UI). Adds OpenUI to existing projects across 12 backend stacks, any LLM provider, and 11 agent platforms. Scaffold, integrate, validate.",
   "description_ja": "",
   "url": "https://github.com/OthmanAdi/openui-forge",
   "homepage_url": "https://spruce-prism-8yya.here.now/",
@@ -13,27 +13,31 @@
     "agent-skills",
     "anthropic",
     "claude-code",
-    "claude-skills",
-    "codex",
-    "cursor",
+    "csharp",
+    "elixir",
     "generative-ui",
     "genui",
     "go",
+    "java",
     "langchain",
     "openai",
     "openui",
+    "php",
     "python",
     "react",
+    "ruby",
     "rust",
-    "streaming-ui"
+    "streaming-ui",
+    "svelte",
+    "vue"
   ],
   "star_count": 13,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T14:50:50Z",
-  "updated_at": "2026-06-08T11:59:30Z",
-  "pushed_at": "2026-05-22T18:44:41Z",
+  "updated_at": "2026-06-20T02:34:19Z",
+  "pushed_at": "2026-06-20T02:34:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -102,6 +106,10 @@
     },
     {
       "date": "2026-06-19",
+      "stars": 13
+    },
+    {
+      "date": "2026-06-20",
       "stars": 13
     }
   ]

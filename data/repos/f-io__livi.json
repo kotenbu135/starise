@@ -3,12 +3,12 @@
   "owner": "f-io",
   "name": "livi",
   "full_name": "f-io/livi",
-  "description": "CarPlay \u0026 Android Auto head unit for Linux (ARM/x64), macOS (ARM) and Windows (x64). Full AA protocol implementation (wired + wireless). Hardware-accelerated video (zero-copy) and low-latency audio.",
+  "description": "CarPlay \u0026 Android Auto head unit for Linux (ARM/x64), macOS (ARM/x64) and Windows (x64). Full AA protocol implementation (wired + wireless). Hardware-accelerated video (zero-copy) and low-latency audio.",
   "description_ja": "",
   "url": "https://github.com/f-io/LIVI",
   "homepage_url": "https://f-io.github.io/LIVI/",
   "language": "TypeScript",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "topics": [
     "android-auto",
     "automotive",
@@ -20,13 +20,13 @@
     "macos",
     "windows"
   ],
-  "star_count": 367,
+  "star_count": 371,
   "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-02T18:20:33Z",
-  "updated_at": "2026-06-19T13:39:54Z",
-  "pushed_at": "2026-06-19T13:40:15Z",
+  "updated_at": "2026-06-20T17:05:17Z",
+  "pushed_at": "2026-06-20T17:05:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -112,6 +112,10 @@
     {
       "date": "2026-06-19",
       "stars": 367
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 371
     }
   ]
 }

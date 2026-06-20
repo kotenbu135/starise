@@ -6,7 +6,7 @@
   "description": "Media player engine for iOS, tvOS and macOS. FFmpeg demux, VideoToolbox / dav1d / libavcodec decode (HEVC, H.264, AV1, VP9, MPEG-2, VC-1), live TV with DVR timeshift, Dolby Atmos passthrough, HDR10 / HDR10+ / Dolby Vision / HLG, inline text + bitmap subtitle decode, plus a lean audio-only path with system Now-Playing. You ship the UI.",
   "description_ja": "",
   "url": "https://github.com/superuser404notfound/AetherEngine",
-  "homepage_url": "",
+  "homepage_url": "https://aetherengine.superuser404.de",
   "language": "Swift",
   "license": "NOASSERTION",
   "topics": [
@@ -31,13 +31,13 @@
     "video-player",
     "videotoolbox"
   ],
-  "star_count": 66,
+  "star_count": 67,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-12T04:13:55Z",
-  "updated_at": "2026-06-19T18:23:13Z",
-  "pushed_at": "2026-06-19T18:23:09Z",
+  "updated_at": "2026-06-20T17:53:15Z",
+  "pushed_at": "2026-06-20T17:53:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +91,10 @@
     {
       "date": "2026-06-19",
       "stars": 66
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 67
     }
   ]
 }
