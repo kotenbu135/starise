@@ -3,32 +3,32 @@
   "owner": "nao1215",
   "name": "gup",
   "full_name": "nao1215/gup",
-  "description": "Fast parallel updater and manager for binaries installed with `go install`",
+  "description": "Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines",
   "description_ja": "",
   "url": "https://github.com/nao1215/gup",
   "homepage_url": "",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
-    "cli-app",
+    "cli",
     "command-line-tool",
     "cross-platform",
+    "developer-tools",
+    "dotfiles",
     "go",
+    "go-install",
+    "gobin",
     "golang",
     "golang-tools",
-    "hacktoberfest",
-    "update",
-    "updater",
-    "user-friendly",
-    "version-manager"
+    "updater"
   ],
   "star_count": 581,
-  "fork_count": 27,
+  "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-19T06:31:07Z",
-  "updated_at": "2026-06-20T15:45:04Z",
-  "pushed_at": "2026-06-20T15:46:03Z",
+  "updated_at": "2026-06-21T15:51:32Z",
+  "pushed_at": "2026-06-21T15:52:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -213,6 +213,10 @@
     },
     {
       "date": "2026-06-20",
+      "stars": 581
+    },
+    {
+      "date": "2026-06-21",
       "stars": 581
     }
   ]

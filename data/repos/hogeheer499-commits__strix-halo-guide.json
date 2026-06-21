@@ -3,7 +3,7 @@
   "owner": "hogeheer499-commits",
   "name": "strix-halo-guide",
   "full_name": "hogeheer499-commits/strix-halo-guide",
-  "description": "Complete guide to running large language models locally on AMD Strix Halo / Ryzen AI MAX+ 395 with Radeon 8060S (gfx1151) and 96GB/128GB unified memory. Covers BIOS config, Ubuntu/kernel setup, Ollama, llama.cpp Vulkan/RADV, ROCm/HIP, vLLM, and 70B/120B GGUF evidence.",
+  "description": "AMD Strix Halo local LLM guide: setup for Ryzen AI MAX+ 395 / Radeon 8060S, Ollama, llama.cpp Vulkan/RADV, ROCm, raw evidence, direct 100 t/s 30B Qwen, 140 t/s CHADROCK MTP, 120B GGUF.",
   "description_ja": "",
   "url": "https://github.com/hogeheer499-commits/strix-halo-guide",
   "homepage_url": "https://hogeheer499-commits.github.io/strix-halo-guide/",
@@ -31,13 +31,13 @@
     "unified-memory",
     "vulkan"
   ],
-  "star_count": 158,
+  "star_count": 162,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T22:33:43Z",
-  "updated_at": "2026-06-20T19:38:45Z",
-  "pushed_at": "2026-06-18T12:47:33Z",
+  "updated_at": "2026-06-21T15:24:09Z",
+  "pushed_at": "2026-06-21T14:36:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -151,6 +151,10 @@
     {
       "date": "2026-06-20",
       "stars": 158
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 162
     }
   ]
 }

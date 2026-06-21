@@ -7,25 +7,25 @@
   "description_ja": "オープンソースのゲーム速度改変ツール",
   "url": "https://github.com/game1024/OpenSpeedy",
   "homepage_url": "",
-  "language": "Makefile",
+  "language": "TypeScript",
   "license": "",
   "topics": [
-    "cplusplus",
     "gamedev",
     "gamemod",
     "pc",
-    "qt",
+    "rust",
     "speed-engine",
+    "tauri",
     "toolkit",
     "windows"
   ],
-  "star_count": 16236,
-  "fork_count": 1208,
+  "star_count": 16250,
+  "fork_count": 1209,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-16T16:25:43Z",
-  "updated_at": "2026-06-20T17:18:23Z",
-  "pushed_at": "2026-06-20T14:57:47Z",
+  "updated_at": "2026-06-21T16:43:23Z",
+  "pushed_at": "2026-06-21T16:25:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -211,6 +211,10 @@
     {
       "date": "2026-06-20",
       "stars": 16236
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 16250
     }
   ]
 }

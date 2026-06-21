@@ -3,7 +3,7 @@
   "owner": "canner",
   "name": "wrenai",
   "full_name": "canner/wrenai",
-  "description": "Open-source GenBI: let your AI agents generate, deploy, and govern dashboards from any database, grounded in a context layer they can trust.",
+  "description": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
   "description_ja": "",
   "url": "https://github.com/Canner/WrenAI",
   "homepage_url": "https://docs.getwren.ai/oss/introduction",
@@ -28,13 +28,13 @@
     "text2sql",
     "vertex"
   ],
-  "star_count": 15581,
+  "star_count": 15587,
   "fork_count": 1773,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-13T06:18:20Z",
-  "updated_at": "2026-06-20T16:13:51Z",
-  "pushed_at": "2026-06-20T16:19:21Z",
+  "updated_at": "2026-06-21T13:18:51Z",
+  "pushed_at": "2026-06-21T04:34:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -220,6 +220,10 @@
     {
       "date": "2026-06-20",
       "stars": 15581
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 15587
     }
   ]
 }

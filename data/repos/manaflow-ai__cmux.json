@@ -3,8 +3,8 @@
   "owner": "manaflow-ai",
   "name": "cmux",
   "full_name": "manaflow-ai/cmux",
-  "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-  "description_ja": "Ghostty ベースの macOS ターミナル。AI コーディングエージェント向けの垂直タブと通知機能を搭載。",
+  "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.",
+  "description_ja": "",
   "url": "https://github.com/manaflow-ai/cmux",
   "homepage_url": "https://cmux.com",
   "language": "Swift",
@@ -19,13 +19,13 @@
     "terminal",
     "tmux"
   ],
-  "star_count": 22524,
-  "fork_count": 1772,
+  "star_count": 22594,
+  "fork_count": 1779,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-28T10:03:24Z",
-  "updated_at": "2026-06-20T19:49:57Z",
-  "pushed_at": "2026-06-20T19:42:34Z",
+  "updated_at": "2026-06-21T19:36:12Z",
+  "pushed_at": "2026-06-21T19:54:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -211,6 +211,10 @@
     {
       "date": "2026-06-20",
       "stars": 22524
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 22594
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "djchanahcjd",
   "name": "otter-music",
   "full_name": "djchanahcjd/otter-music",
-  "description": "基于 React + Capacitor 的免费音乐App，支持多源聚合搜索、网易云歌单接入、智能自动换源与本地下载管理。基于 GD Studio's Online Music Platform API。",
+  "description": "基于 React + Capacitor 的免费音乐 App，支持多音源搜索、网易云登录、主流平台歌单导入，以及 B 站音源搜索播放。基于 GD Studio's Online Music Platform API。",
   "description_ja": "",
   "url": "https://github.com/DJChanahCJD/otter-music",
   "homepage_url": "https://otter-music.pages.dev/",
@@ -20,13 +20,13 @@
     "pwa-apps",
     "react"
   ],
-  "star_count": 120,
-  "fork_count": 24,
+  "star_count": 124,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-14T12:26:20Z",
-  "updated_at": "2026-06-20T17:16:57Z",
-  "pushed_at": "2026-06-20T07:54:33Z",
+  "updated_at": "2026-06-21T07:54:16Z",
+  "pushed_at": "2026-06-21T07:54:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +68,10 @@
     {
       "date": "2026-06-20",
       "stars": 120
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 124
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "semianalysisai",
   "name": "inferencex",
   "full_name": "semianalysisai/inferencex",
-  "description": "Open Source Continuous Inference Benchmark Research Platform  Kimi K2.7-Code, DeepSeekv4, GLM5 - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 \u0026 soon™ TPUv6e/v7/Trainium2/3",
+  "description": "Open Source Continuous Inference Benchmark Research Platform — Kimi K2.7-Code, MiniMax M3, DeepSeekv4, GLM5 - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 \u0026 soon™ TPUv6e/v7/Trainium2/3",
   "description_ja": "",
   "url": "https://github.com/SemiAnalysisAI/InferenceX",
   "homepage_url": "https://inferencex.com/",
@@ -14,21 +14,27 @@
     "amd",
     "benchmark",
     "cuda",
+    "deepseek",
     "gb200",
+    "gb300",
+    "glm",
+    "kimi",
     "llm",
+    "mi355x",
+    "minimax",
     "nvidia",
     "pytorch",
     "rocm",
     "sglang",
     "vllm"
   ],
-  "star_count": 1120,
-  "fork_count": 204,
+  "star_count": 1121,
+  "fork_count": 205,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-12T20:07:46Z",
-  "updated_at": "2026-06-20T18:01:07Z",
-  "pushed_at": "2026-06-20T20:06:39Z",
+  "updated_at": "2026-06-21T19:53:41Z",
+  "pushed_at": "2026-06-21T19:58:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -214,6 +220,10 @@
     {
       "date": "2026-06-20",
       "stars": 1120
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 1121
     }
   ]
 }

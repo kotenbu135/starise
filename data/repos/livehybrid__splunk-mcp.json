@@ -3,7 +3,7 @@
   "owner": "livehybrid",
   "name": "splunk-mcp",
   "full_name": "livehybrid/splunk-mcp",
-  "description": "A Model Context Protocol (MCP) implementation for Splunk Enterprise and Cloud integration with Cursor IDE or Claude",
+  "description": "[ARCHIVED] Community Splunk MCP server — use the official Splunk MCP Server on Splunkbase (app 7931)",
   "description_ja": "",
   "url": "https://github.com/livehybrid/splunk-mcp",
   "homepage_url": "",
@@ -12,11 +12,11 @@
   "topics": [],
   "star_count": 105,
   "fork_count": 47,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2025-03-09T14:00:11Z",
-  "updated_at": "2026-05-28T15:59:08Z",
-  "pushed_at": "2025-10-29T10:23:21Z",
+  "updated_at": "2026-06-20T21:32:16Z",
+  "pushed_at": "2026-06-20T21:31:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -185,6 +185,10 @@
     },
     {
       "date": "2026-06-20",
+      "stars": 105
+    },
+    {
+      "date": "2026-06-21",
       "stars": 105
     }
   ]

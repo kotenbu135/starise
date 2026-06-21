@@ -3,7 +3,7 @@
   "owner": "novacode37",
   "name": "prism-platform",
   "full_name": "novacode37/prism-platform",
-  "description": "All-in-one OSINT platform — 20+ modules, AI analysis, real-time dashboard, OPSEC scoring. Scan domains, IPs, emails, phones, usernames. ",
+  "description": "All-in-one OSINT platform — 22+ modules, AI analysis, real-time dashboard, OPSEC scoring. Scan domains, IPs, emails, phones, usernames. ",
   "description_ja": "",
   "url": "https://github.com/NovaCode37/Prism-platform",
   "homepage_url": "https://getprism.su",
@@ -12,15 +12,15 @@
   "topics": [
     "ai",
     "cybersecurity",
-    "dorking",
+    "docker",
     "fastapi",
     "geoint",
-    "hacking",
     "hacking-tools",
     "infosec",
     "nextjs",
     "open-source",
     "osint",
+    "osint-framework",
     "pentesting",
     "python",
     "reconnaissance",
@@ -31,13 +31,13 @@
     "socmint",
     "threat-intelligence"
   ],
-  "star_count": 65,
-  "fork_count": 25,
+  "star_count": 80,
+  "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T09:04:43Z",
-  "updated_at": "2026-06-20T19:24:05Z",
-  "pushed_at": "2026-06-20T19:24:01Z",
+  "updated_at": "2026-06-21T18:59:43Z",
+  "pushed_at": "2026-06-21T18:59:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -107,6 +107,10 @@
     {
       "date": "2026-06-20",
       "stars": 65
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 80
     }
   ]
 }

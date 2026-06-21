@@ -3,7 +3,7 @@
   "owner": "kanevry",
   "name": "session-orchestrator",
   "full_name": "kanevry/session-orchestrator",
-  "description": "Turn ad-hoc Claude Code / Codex / Cursor sessions into a repeatable loop — research → plan → wave-execute → close. Parallel sub-agents, inter-wave quality gates, dual GitHub+GitLab integration, F2 Memory + Persona-Panel + gsd-Pattern Adoption. 37 skills · 18 commands · 13 agents · 7360 tests.",
+  "description": "Loop engineering for AI coding agents — turn ad-hoc sessions into a repeatable research → plan → wave-execute → close loop with verification gates. Runs on Claude Code, Codex CLI, Cursor, and Pi. MIT community plugin.",
   "description_ja": "",
   "url": "https://github.com/Kanevry/session-orchestrator",
   "homepage_url": "https://agenticbuilders.at",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-02T18:34:17Z",
-  "updated_at": "2026-06-20T13:59:42Z",
-  "pushed_at": "2026-06-20T13:59:38Z",
+  "updated_at": "2026-06-21T13:26:24Z",
+  "pushed_at": "2026-06-21T13:26:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -218,6 +218,10 @@
     },
     {
       "date": "2026-06-20",
+      "stars": 34
+    },
+    {
+      "date": "2026-06-21",
       "stars": 34
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "liu-group-uf",
   "name": "propmolflow",
   "full_name": "liu-group-uf/propmolflow",
-  "description": "SE(3) Equivariant Flow Matching for Property-Guided Conditional Molecular Generation.",
-  "description_ja": "プロパティガイド付き条件分子生成のためのSE(3)同変フローマッチング",
+  "description": "SE(3) Equivariant Flow Matching for Property-Guided Molecule Generation.",
+  "description_ja": "",
   "url": "https://github.com/Liu-Group-UF/PropMolFlow",
   "homepage_url": "https://www.nature.com/articles/s43588-025-00946-y",
   "language": "Python",
@@ -18,7 +18,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-09T00:43:39Z",
-  "updated_at": "2026-06-02T19:05:46Z",
+  "updated_at": "2026-06-21T15:19:42Z",
   "pushed_at": "2026-06-02T19:05:42Z",
   "deleted_at": "",
   "star_history": [
@@ -204,6 +204,10 @@
     },
     {
       "date": "2026-06-20",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-21",
       "stars": 60
     }
   ]

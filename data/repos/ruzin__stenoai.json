@@ -3,7 +3,7 @@
   "owner": "ruzin",
   "name": "stenoai",
   "full_name": "ruzin/stenoai",
-  "description": "Steno is the sovereign AI powered intelligence layer for all your confidential workflows. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs.",
+  "description": "Steno is the AI powered intelligence layer for all your confidential workflows. Capture beautiful notes whilst keeping your data confidential. Perfect for government, defence, legal and CXOs.",
   "description_ja": "",
   "url": "https://github.com/ruzin/stenoai",
   "homepage_url": "https://stenoai.co/",
@@ -13,22 +13,24 @@
     "agentic-ai",
     "ai",
     "apple-silicon",
-    "deepseek",
-    "llama3",
+    "deepseek-r1",
+    "gemma4",
+    "government",
     "localllm",
     "meeting-minutes",
     "meeting-notes",
-    "qwen",
+    "privacy",
+    "qwen3-5",
     "sovereign-ai",
     "windows"
   ],
-  "star_count": 1099,
-  "fork_count": 151,
+  "star_count": 1100,
+  "fork_count": 152,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-19T19:26:28Z",
-  "updated_at": "2026-06-20T19:57:23Z",
-  "pushed_at": "2026-06-20T19:57:27Z",
+  "updated_at": "2026-06-21T17:44:12Z",
+  "pushed_at": "2026-06-21T20:05:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -178,6 +180,10 @@
     {
       "date": "2026-06-20",
       "stars": 1099
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 1100
     }
   ]
 }

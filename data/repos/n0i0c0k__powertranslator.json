@@ -3,14 +3,16 @@
   "owner": "n0i0c0k",
   "name": "powertranslator",
   "full_name": "n0i0c0k/powertranslator",
-  "description": "一个 PowerToys Run 的翻译插件/a translate plugin for PowerToys Run",
-  "description_ja": "PowerToys Run 用の翻訳プラグイン",
+  "description": "一个 PowerToys Run 和 Cmdpal 的翻译插件/a translate plugin for PowerToys Run and Cmdpal",
+  "description_ja": "",
   "url": "https://github.com/N0I0C0K/PowerTranslator",
   "homepage_url": "",
   "language": "C#",
   "license": "MIT",
   "topics": [
     "chinese-translation",
+    "cmdpal",
+    "cmdpal-extension",
     "english-translation",
     "plugin",
     "powertoys",
@@ -23,7 +25,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-14T10:55:09Z",
-  "updated_at": "2026-06-20T03:59:47Z",
+  "updated_at": "2026-06-21T16:48:22Z",
   "pushed_at": "2026-06-20T04:02:46Z",
   "deleted_at": "",
   "star_history": [
@@ -209,6 +211,10 @@
     },
     {
       "date": "2026-06-20",
+      "stars": 575
+    },
+    {
+      "date": "2026-06-21",
       "stars": 575
     }
   ]

@@ -13,6 +13,7 @@
     "ddd",
     "elasticsearch",
     "grpc",
+    "influxdb",
     "iot",
     "kafka",
     "modbus",
@@ -22,22 +23,21 @@
     "mybatis-plus",
     "nacos",
     "netty",
-    "postgresql",
     "redis",
     "spring-boot",
     "spring-cloud",
     "spring-cloud-alibaba",
     "spring-security",
-    "tcp",
-    "udp"
+    "tdengine",
+    "timescaledb"
   ],
-  "star_count": 662,
+  "star_count": 661,
   "fork_count": 153,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-12T06:53:54Z",
-  "updated_at": "2026-06-20T12:11:25Z",
-  "pushed_at": "2026-06-20T12:18:00Z",
+  "updated_at": "2026-06-21T08:23:08Z",
+  "pushed_at": "2026-06-21T12:44:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -223,6 +223,10 @@
     {
       "date": "2026-06-20",
       "stars": 662
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 661
     }
   ]
 }

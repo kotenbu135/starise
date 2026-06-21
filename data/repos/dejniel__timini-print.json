@@ -3,7 +3,7 @@
   "owner": "dejniel",
   "name": "timini-print",
   "full_name": "dejniel/timini-print",
-  "description": "TiMini Print is a desktop app for Chinese Bluetooth thermal mini printers (often sold as “cat printers”). It’s a replacement for apps like “Tiny Print”, “Fun Print”, “Phomemo”, “Luck Jingle” or “iBleem”, enabling easy printing of images, PDFs, and plain text.",
+  "description": "Desktop app for Chinese Bluetooth thermal mini printers; replacement for Tiny Print, Fun Print, iBleem, Luck Jingle, Phomemo, Print Master, InstaPrint, ToPrint, Eleph-label and NIIMBOT.",
   "description_ja": "",
   "url": "https://github.com/Dejniel/TiMini-Print",
   "homepage_url": "",
@@ -13,23 +13,30 @@
     "bluetooth-printer",
     "bluetooth-thermal-printer",
     "cat-printer",
+    "eleph-label",
+    "fun-print",
+    "ibleem",
+    "instaprint",
     "kitty-printer",
     "luck-jingle",
     "mini-printer",
     "mini-thermal-printer",
+    "niimbot",
     "phomemo",
+    "print-master",
     "printer",
     "thermal-printer",
     "thermal-printing",
-    "tiny-print"
+    "tiny-print",
+    "toprint"
   ],
   "star_count": 63,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-08T22:12:52Z",
-  "updated_at": "2026-06-19T14:26:51Z",
-  "pushed_at": "2026-06-18T21:08:22Z",
+  "updated_at": "2026-06-21T16:47:05Z",
+  "pushed_at": "2026-06-21T16:46:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -118,6 +125,10 @@
     },
     {
       "date": "2026-06-20",
+      "stars": 63
+    },
+    {
+      "date": "2026-06-21",
       "stars": 63
     }
   ]

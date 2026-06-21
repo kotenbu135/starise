@@ -3,7 +3,7 @@
   "owner": "manticore-projects",
   "name": "aurscan",
   "full_name": "manticore-projects/aurscan",
-  "description": "Automatically scan AUR packages for malware before installing using Claude LLM",
+  "description": "Automatically scan AUR packages for malware before installing (using LLM/AI)",
   "description_ja": "",
   "url": "https://github.com/manticore-projects/aurscan",
   "homepage_url": "https://manticore-projects.com",
@@ -14,17 +14,18 @@
     "aur-packages",
     "claude-ai",
     "malware-detection",
+    "openai-api",
     "scanner",
     "security",
     "yay"
   ],
-  "star_count": 87,
-  "fork_count": 7,
+  "star_count": 92,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-13T02:59:22Z",
-  "updated_at": "2026-06-20T15:43:04Z",
-  "pushed_at": "2026-06-20T02:20:43Z",
+  "updated_at": "2026-06-21T17:12:07Z",
+  "pushed_at": "2026-06-21T02:13:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +51,10 @@
     {
       "date": "2026-06-20",
       "stars": 87
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 92
     }
   ]
 }

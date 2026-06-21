@@ -3,7 +3,7 @@
   "owner": "avbiswas",
   "name": "fast-rlm",
   "full_name": "avbiswas/fast-rlm",
-  "description": "A feature rich implementation of Recursive Language Models, with advanced visualization and logging tools.",
+  "description": "A feature rich implementation of Recursive Language Models, with ACP integration, REPL tool support, structured IO, advanced visualization, logging tools.",
   "description_ja": "",
   "url": "https://github.com/avbiswas/fast-rlm",
   "homepage_url": "https://avbiswas.github.io/fast-rlm/",
@@ -13,12 +13,12 @@
     "rlm",
     "rlms"
   ],
-  "star_count": 428,
+  "star_count": 432,
   "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-22T13:35:49Z",
-  "updated_at": "2026-06-20T18:51:11Z",
+  "updated_at": "2026-06-21T17:53:25Z",
   "pushed_at": "2026-06-20T13:28:59Z",
   "deleted_at": "",
   "star_history": [
@@ -141,6 +141,10 @@
     {
       "date": "2026-06-20",
       "stars": 428
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 432
     }
   ]
 }

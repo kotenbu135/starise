@@ -3,10 +3,10 @@
   "owner": "adamant-im",
   "name": "adamant-api-jsclient",
   "full_name": "adamant-im/adamant-api-jsclient",
-  "description": "ADAMANT Javascript API library",
+  "description": "Modular TypeScript SDK for the ADAMANT blockchain and deterministic wallet helpers",
   "description_ja": "",
   "url": "https://github.com/Adamant-im/adamant-api-jsclient",
-  "homepage_url": "",
+  "homepage_url": "http://js.docs.adamant.im/",
   "language": "TypeScript",
   "license": "GPL-3.0",
   "topics": [
@@ -35,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-11-27T15:55:17Z",
-  "updated_at": "2026-06-20T15:21:46Z",
-  "pushed_at": "2026-06-20T18:42:31Z",
+  "updated_at": "2026-06-21T15:25:28Z",
+  "pushed_at": "2026-06-21T15:22:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -185,6 +185,10 @@
     },
     {
       "date": "2026-06-20",
+      "stars": 473
+    },
+    {
+      "date": "2026-06-21",
       "stars": 473
     }
   ]

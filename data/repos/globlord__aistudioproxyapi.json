@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOOh7f1w",
+  "owner": "globlord",
+  "name": "aistudioproxyapi",
+  "full_name": "globlord/aistudioproxyapi",
+  "description": "Node.js+Playwright服务器，通过模拟 OpenAI API 的方式来访问 Google AI Studio 网页版，服务器无缝交互转发gemini模型对话。这使得兼容 OpenAI API 的客户端（如 Open WebUI, NextChat 等）可以使用 AI Studio 的无限额度及能力。经测试因无法绕过自动化检测故暂不支持无头模式启动实例-自用项目随缘维护",
+  "description_ja": "",
+  "url": "https://github.com/globlord/AIstudioProxyAPI",
+  "homepage_url": "",
+  "language": "JavaScript",
+  "license": "MIT",
+  "topics": [],
+  "star_count": 49,
+  "fork_count": 16,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-04-29T19:33:45Z",
+  "updated_at": "2026-06-21T19:20:19Z",
+  "pushed_at": "2026-06-21T19:20:16Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-21",
+      "stars": 49
+    }
+  ]
+}

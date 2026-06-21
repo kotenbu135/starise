@@ -6,17 +6,27 @@
   "description": "This project emulates Smart Meter devices for Marstek storages such as the B2500, Marstek Jupiter and Marstek Venus energy storage system while allowing integration with almost any smart meters.",
   "description_ja": "",
   "url": "https://github.com/tomquist/AstraMeter",
-  "homepage_url": "",
+  "homepage_url": "https://astrameter.com/",
   "language": "Python",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 331,
+  "topics": [
+    "b2500",
+    "b2500d",
+    "ct002",
+    "ct003",
+    "juputer",
+    "marstek",
+    "shelly",
+    "shelly-3em",
+    "venus"
+  ],
+  "star_count": 332,
   "fork_count": 54,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-16T19:53:49Z",
-  "updated_at": "2026-06-20T11:08:14Z",
-  "pushed_at": "2026-06-20T13:54:02Z",
+  "updated_at": "2026-06-21T12:51:52Z",
+  "pushed_at": "2026-06-21T14:55:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -142,6 +152,10 @@
     {
       "date": "2026-06-20",
       "stars": 331
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 332
     }
   ]
 }

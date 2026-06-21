@@ -3,7 +3,7 @@
   "owner": "las7",
   "name": "takovm",
   "full_name": "las7/takovm",
-  "description": "Isolated AI workload execution with job execution built in",
+  "description": "A secure file system for your agents to execute code",
   "description_ja": "",
   "url": "https://github.com/las7/TakoVM",
   "homepage_url": "https://las7.github.io/TakoVM/",
@@ -17,10 +17,12 @@
     "ai-tools",
     "artificial-intelligence",
     "code-execution",
+    "file-system",
     "generative-ai",
     "llm",
     "llmops",
     "sandbox",
+    "secure-coding",
     "security"
   ],
   "star_count": 65,
@@ -28,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-25T00:44:53Z",
-  "updated_at": "2026-06-20T15:13:15Z",
-  "pushed_at": "2026-06-12T22:40:21Z",
+  "updated_at": "2026-06-20T21:42:11Z",
+  "pushed_at": "2026-06-20T21:42:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +72,10 @@
     },
     {
       "date": "2026-06-20",
+      "stars": 65
+    },
+    {
+      "date": "2026-06-21",
       "stars": 65
     }
   ]

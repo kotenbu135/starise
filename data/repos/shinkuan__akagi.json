@@ -6,7 +6,7 @@
   "description": "支持雀魂、天鳳、麻雀一番街、天月麻將，能夠使用自定義的AI模型實時分析對局並給出建議，內建Mortal AI作為示例。 Supports Majsoul, Tenhou, Riichi City, Amatsuki, with the ability to use custom AI models to analyze games in real time and provide suggestions. Comes with Mortal AI as a built-in example.",
   "description_ja": "雀魂・天鳳・麻雀一番街・天月麻將に対応し、カスタムAIモデルを使ってリアルタイムに対局を分析してアドバイスを提供できます。Mortal AIをビルトイン例として搭載。",
   "url": "https://github.com/shinkuan/Akagi",
-  "homepage_url": "",
+  "homepage_url": "https://akagi.shinkuan.me/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -20,13 +20,13 @@
     "majsoul-plus",
     "riichi-mahjong"
   ],
-  "star_count": 904,
+  "star_count": 906,
   "fork_count": 100,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-05T11:55:39Z",
-  "updated_at": "2026-06-20T11:49:48Z",
-  "pushed_at": "2026-06-20T11:49:44Z",
+  "updated_at": "2026-06-21T08:48:40Z",
+  "pushed_at": "2026-06-21T05:30:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -212,6 +212,10 @@
     {
       "date": "2026-06-20",
       "stars": 904
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 906
     }
   ]
 }

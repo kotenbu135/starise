@@ -3,29 +3,40 @@
   "owner": "sidequestjs",
   "name": "sidequest",
   "full_name": "sidequestjs/sidequest",
-  "description": "Sidequest is a modern, scalable background job processor for Node.js applications.",
-  "description_ja": "Sidequest は Node.js アプリケーション向けのモダンでスケーラブルなバックグラウンドジョブプロセッサーです。",
+  "description": "Redis-free background jobs for Node.js. Persist jobs in your existing Postgres, MySQL, SQLite, or MongoDB. A distributed, durable BullMQ alternative with a built-in dashboard.",
+  "description_ja": "",
   "url": "https://github.com/sidequestjs/sidequest",
   "homepage_url": "https://sidequestjs.com",
   "language": "TypeScript",
   "license": "LGPL-3.0",
   "topics": [
-    "background",
     "background-jobs",
+    "bullmq-alternative",
     "concurrency",
+    "cron",
+    "dashboard",
     "distributed",
-    "javascript",
+    "job-queue",
+    "mongodb",
+    "mysql",
+    "no-redis",
     "nodejs",
+    "pg-boss-alternative",
+    "postgresql",
     "queue",
-    "typescript"
+    "redis-free",
+    "scheduler",
+    "sqlite",
+    "typescript",
+    "worker-threads"
   ],
   "star_count": 995,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-23T22:51:48Z",
-  "updated_at": "2026-06-20T08:25:39Z",
-  "pushed_at": "2026-06-19T21:53:16Z",
+  "updated_at": "2026-06-21T18:43:08Z",
+  "pushed_at": "2026-06-21T19:35:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -210,6 +221,10 @@
     },
     {
       "date": "2026-06-20",
+      "stars": 995
+    },
+    {
+      "date": "2026-06-21",
       "stars": 995
     }
   ]
