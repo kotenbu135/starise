@@ -6,7 +6,7 @@
   "description": "An HTTP/1.1 client, written from scratch for Node.js",
   "description_ja": "Node.js 向けにゼロから書かれた HTTP/1.1 クライアント",
   "url": "https://github.com/nodejs/undici",
-  "homepage_url": "https://nodejs.github.io/undici",
+  "homepage_url": "https://undici.nodejs.org/",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
@@ -14,13 +14,13 @@
     "http",
     "nodejs"
   ],
-  "star_count": 7625,
-  "fork_count": 788,
+  "star_count": 7629,
+  "fork_count": 789,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-05-11T22:07:48Z",
-  "updated_at": "2026-06-21T18:08:40Z",
-  "pushed_at": "2026-06-21T09:11:52Z",
+  "updated_at": "2026-06-22T17:56:58Z",
+  "pushed_at": "2026-06-22T00:26:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -210,6 +210,10 @@
     {
       "date": "2026-06-21",
       "stars": 7625
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 7629
     }
   ]
 }

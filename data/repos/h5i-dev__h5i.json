@@ -3,7 +3,7 @@
   "owner": "h5i-dev",
   "name": "h5i",
   "full_name": "h5i-dev/h5i",
-  "description": "Auditable workspaces for AI agents: sandboxed worktrees, prompt-aware commits, 95% lower token waste, and real-time multi-agent collaboration.",
+  "description": "Auditable workspaces for AI agent teams: sandboxed worktrees, multi-agent peer-review, 95% lower token waste, and persistent memory.",
   "description_ja": "",
   "url": "https://github.com/h5i-dev/h5i",
   "homepage_url": "https://h5i.dev",
@@ -24,13 +24,13 @@
     "sandbox",
     "version-control"
   ],
-  "star_count": 412,
+  "star_count": 416,
   "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T04:30:52Z",
-  "updated_at": "2026-06-21T06:00:10Z",
-  "pushed_at": "2026-06-21T19:29:29Z",
+  "updated_at": "2026-06-22T21:40:44Z",
+  "pushed_at": "2026-06-22T19:46:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -96,6 +96,10 @@
     {
       "date": "2026-06-21",
       "stars": 412
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 416
     }
   ]
 }

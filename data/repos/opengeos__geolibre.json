@@ -3,7 +3,7 @@
   "owner": "opengeos",
   "name": "geolibre",
   "full_name": "opengeos/geolibre",
-  "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks, all while keeping your data local and private.",
+  "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
   "description_ja": "",
   "url": "https://github.com/opengeos/GeoLibre",
   "homepage_url": "https://geolibre.app",
@@ -17,13 +17,13 @@
     "maplibre-gl-js",
     "tauri-app"
   ],
-  "star_count": 1060,
-  "fork_count": 145,
+  "star_count": 1136,
+  "fork_count": 152,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-27T19:34:31Z",
-  "updated_at": "2026-06-21T19:48:33Z",
-  "pushed_at": "2026-06-21T19:48:41Z",
+  "updated_at": "2026-06-22T22:28:22Z",
+  "pushed_at": "2026-06-22T22:28:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -113,6 +113,10 @@
     {
       "date": "2026-06-21",
       "stars": 1060
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 1136
     }
   ]
 }

@@ -13,23 +13,26 @@
     "acid",
     "ai-agents",
     "ai-memory",
-    "bson",
     "database",
     "distributed-database",
     "document-database",
+    "embedding-similarity",
     "foundationdb",
     "json",
     "key-value-store",
+    "memory-cells",
     "multi-model-database",
     "transactional",
-    "transactional-database"
+    "transactional-database",
+    "vector-search",
+    "vector-similarity"
   ],
   "star_count": 295,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-03T07:52:04Z",
-  "updated_at": "2026-06-21T13:34:34Z",
+  "updated_at": "2026-06-22T08:57:49Z",
   "pushed_at": "2026-06-21T13:34:29Z",
   "deleted_at": "",
   "star_history": [
@@ -91,6 +94,10 @@
     },
     {
       "date": "2026-06-21",
+      "stars": 295
+    },
+    {
+      "date": "2026-06-22",
       "stars": 295
     }
   ]

@@ -3,20 +3,31 @@
   "owner": "nsm-barii",
   "name": "flock-down",
   "full_name": "nsm-barii/flock-down",
-  "description": "",
+  "description": "Android App that maps Flock Safety ALPR cameras and alerts you in real time when driving past one",
   "description_ja": "",
   "url": "https://github.com/NSM-Barii/flock-down",
-  "homepage_url": "",
+  "homepage_url": "https://www.instagram.com/p/DZvbp4dSuSg/",
   "language": "Kotlin",
   "license": "",
-  "topics": [],
-  "star_count": 15,
+  "topics": [
+    "alpr",
+    "android",
+    "dooku",
+    "flock-back",
+    "flock-cameras",
+    "flock-safety",
+    "license-plate-reader",
+    "privacy",
+    "surveillance",
+    "wardriving"
+  ],
+  "star_count": 18,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-30T20:27:06Z",
-  "updated_at": "2026-06-21T06:50:37Z",
-  "pushed_at": "2026-05-01T00:59:36Z",
+  "updated_at": "2026-06-22T15:31:45Z",
+  "pushed_at": "2026-06-22T08:32:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -26,6 +37,10 @@
     {
       "date": "2026-06-21",
       "stars": 15
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 18
     }
   ]
 }

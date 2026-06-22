@@ -3,8 +3,8 @@
   "owner": "aryan-raj3112",
   "name": "episteme",
   "full_name": "aryan-raj3112/episteme",
-  "description": "A native Android document reader application built with Kotlin and Jetpack Compose.",
-  "description_ja": "Kotlin と Jetpack Compose で構築されたネイティブ Android ドキュメントリーダーアプリ",
+  "description": "A multi-platform document and e-book reader.",
+  "description_ja": "",
   "url": "https://github.com/Aryan-Raj3112/episteme",
   "homepage_url": "",
   "language": "Kotlin",
@@ -16,16 +16,18 @@
     "foss",
     "jetpack-compose",
     "kotlin",
+    "linux",
     "opensource",
     "pdf",
-    "reader"
+    "reader",
+    "windows"
   ],
-  "star_count": 959,
-  "fork_count": 44,
+  "star_count": 961,
+  "fork_count": 45,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-24T12:21:11Z",
-  "updated_at": "2026-06-21T16:45:17Z",
+  "updated_at": "2026-06-22T17:51:08Z",
   "pushed_at": "2026-06-14T17:37:53Z",
   "deleted_at": "",
   "star_history": [
@@ -216,6 +218,10 @@
     {
       "date": "2026-06-21",
       "stars": 959
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 961
     }
   ]
 }

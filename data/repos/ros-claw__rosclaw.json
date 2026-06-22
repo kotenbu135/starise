@@ -3,7 +3,7 @@
   "owner": "ros-claw",
   "name": "rosclaw",
   "full_name": "ros-claw/rosclaw",
-  "description": "The open infrastructure for Physical Intelligence. ROSClaw grounds AI agents into the physical world through e-URDF, sandbox safety, capability providers, praxis capture, memory, runtime intervention, and self-evolving skills.",
+  "description": "Self-evolving runtime infrastructure for Physical AI and embodied agents. Ground AI agents into robot bodies with e-URDF, sandbox safety, capability routing, praxis capture, physical memory, runtime intervention, and skill evolution.",
   "description_ja": "",
   "url": "https://github.com/ros-claw/rosclaw",
   "homepage_url": "https://rosclaw.io",
@@ -12,6 +12,7 @@
   "topics": [
     "agent",
     "agent-runtime",
+    "agent-runtimes",
     "automation",
     "autonomous-robotics",
     "digital-twin",
@@ -25,17 +26,18 @@
     "robotics",
     "ros",
     "ros2",
+    "self-evolving-ai",
     "skill-learning",
     "vla",
     "vln"
   ],
-  "star_count": 139,
+  "star_count": 140,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T08:07:43Z",
-  "updated_at": "2026-06-21T19:58:21Z",
-  "pushed_at": "2026-06-21T19:58:17Z",
+  "updated_at": "2026-06-22T19:44:51Z",
+  "pushed_at": "2026-06-22T19:44:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -221,6 +223,10 @@
     {
       "date": "2026-06-21",
       "stars": 139
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 140
     }
   ]
 }

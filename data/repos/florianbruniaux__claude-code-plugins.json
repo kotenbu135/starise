@@ -3,19 +3,29 @@
   "owner": "florianbruniaux",
   "name": "claude-code-plugins",
   "full_name": "florianbruniaux/claude-code-plugins",
-  "description": "Production-ready Claude Code plugins from the Ultimate Guide",
+  "description": "Production-ready Claude Code plugins: skills, hooks, agents, slash commands, and MCP templates.",
   "description_ja": "",
   "url": "https://github.com/FlorianBruniaux/claude-code-plugins",
   "homepage_url": "",
   "language": "Shell",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "agents",
+    "ai-workflow",
+    "anthropic",
+    "claude-code",
+    "developer-tools",
+    "hooks",
+    "mcp",
+    "skills",
+    "slash-commands"
+  ],
   "star_count": 32,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-16T10:42:16Z",
-  "updated_at": "2026-06-11T12:58:54Z",
+  "updated_at": "2026-06-22T09:19:48Z",
   "pushed_at": "2026-06-04T12:06:51Z",
   "deleted_at": "",
   "star_history": [
@@ -109,6 +119,10 @@
     },
     {
       "date": "2026-06-21",
+      "stars": 32
+    },
+    {
+      "date": "2026-06-22",
       "stars": 32
     }
   ]

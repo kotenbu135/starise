@@ -3,7 +3,7 @@
   "owner": "open-multi-agent",
   "name": "open-multi-agent",
   "full_name": "open-multi-agent/open-multi-agent",
-  "description": "From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration.",
+  "description": "TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, GPT, Gemini, DeepSeek, or local models. Model-agnostic and MCP-ready.",
   "description_ja": "",
   "url": "https://github.com/open-multi-agent/open-multi-agent",
   "homepage_url": "https://open-multi-agent.com/?utm_source=github",
@@ -11,32 +11,32 @@
   "license": "MIT",
   "topics": [
     "agent-framework",
+    "agent-orchestration",
+    "agentic-ai",
     "ai-agents",
     "anthropic",
+    "autogen-alternative",
     "claude",
     "crewai-alternative",
     "deepseek",
     "gemini",
-    "grok",
     "langgraph-alternative",
     "llm",
     "local-llm",
     "mcp",
     "model-agnostic",
     "multi-agent",
-    "multi-agent-framework-typescript",
     "nodejs",
     "ollama",
     "openai",
-    "task-scheduling",
     "typescript"
   ],
-  "star_count": 6412,
-  "fork_count": 2397,
+  "star_count": 6420,
+  "fork_count": 2399,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T19:07:34Z",
-  "updated_at": "2026-06-21T16:14:08Z",
+  "updated_at": "2026-06-22T17:14:59Z",
   "pushed_at": "2026-06-21T16:14:36Z",
   "deleted_at": "",
   "star_history": [
@@ -227,6 +227,10 @@
     {
       "date": "2026-06-21",
       "stars": 6412
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 6420
     }
   ]
 }

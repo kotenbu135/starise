@@ -3,10 +3,10 @@
   "owner": "ryanalberts",
   "name": "best-of-agent-harnesses",
   "full_name": "ryanalberts/best-of-agent-harnesses",
-  "description": "🏆 Ranked list of 100+ agent harnesses. Scored and updated weekly.",
+  "description": "🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt \u0026 JSON so agents can recommend them too. Rescored weekly.",
   "description_ja": "",
   "url": "https://github.com/RyanAlberts/best-of-Agent-Harnesses",
-  "homepage_url": "",
+  "homepage_url": "https://ryanalberts.github.io/best-of-Agent-Harnesses/",
   "language": "Python",
   "license": "CC-BY-SA-4.0",
   "topics": [
@@ -28,15 +28,16 @@
     "llm-agents",
     "llm-framework",
     "llm-tools",
-    "mcp"
+    "mcp",
+    "model-context-protocol"
   ],
-  "star_count": 150,
-  "fork_count": 9,
+  "star_count": 157,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T22:55:23Z",
-  "updated_at": "2026-06-21T18:31:08Z",
-  "pushed_at": "2026-06-21T14:04:00Z",
+  "updated_at": "2026-06-22T20:03:47Z",
+  "pushed_at": "2026-06-22T20:03:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -142,6 +143,10 @@
     {
       "date": "2026-06-21",
       "stars": 150
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 157
     }
   ]
 }

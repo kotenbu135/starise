@@ -3,20 +3,26 @@
   "owner": "nubjs",
   "name": "nub",
   "full_name": "nubjs/nub",
-  "description": "The all-in-one Node.js toolkit",
+  "description": "The fast all-in-one Node.js toolkit",
   "description_ja": "",
   "url": "https://github.com/nubjs/nub",
   "homepage_url": "https://nubjs.com",
   "language": "Rust",
   "license": "MIT",
-  "topics": [],
-  "star_count": 1087,
+  "topics": [
+    "javascript-runtime",
+    "node-version-manager",
+    "nodejs",
+    "package-manager",
+    "script-runner"
+  ],
+  "star_count": 1336,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-03T18:36:21Z",
-  "updated_at": "2026-06-21T19:58:43Z",
-  "pushed_at": "2026-06-21T20:00:59Z",
+  "updated_at": "2026-06-22T22:29:04Z",
+  "pushed_at": "2026-06-22T22:30:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +40,10 @@
     {
       "date": "2026-06-21",
       "stars": 1087
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 1336
     }
   ]
 }

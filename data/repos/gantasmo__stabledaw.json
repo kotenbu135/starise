@@ -3,10 +3,10 @@
   "owner": "gantasmo",
   "name": "stabledaw",
   "full_name": "gantasmo/stabledaw",
-  "description": "Browser-based AI audio DAW for Stable Audio 3 with text-to-audio, inpainting, LoRA training, FFmpeg effects, waveform editing, sequencer, piano roll, and persistent library.",
+  "description": "ARCHIVED USE theDAW at https://github.com/gantasmo/theDAW - Browser-based AI audio DAW for Stable Audio 3 with text-to-audio, inpainting, LoRA training, FFmpeg effects, waveform editing, sequencer, piano roll, and persistent library.",
   "description_ja": "",
   "url": "https://github.com/gantasmo/StableDAW",
-  "homepage_url": "https://github.com/gantasmo/StableDAW",
+  "homepage_url": "https://github.com/gantasmo/theDAW",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -30,12 +30,12 @@
     "vite",
     "waveform-editor"
   ],
-  "star_count": 41,
+  "star_count": 43,
   "fork_count": 6,
   "is_archived": true,
   "is_fork": false,
   "created_at": "2026-05-18T17:51:12Z",
-  "updated_at": "2026-06-20T09:54:26Z",
+  "updated_at": "2026-06-22T03:40:31Z",
   "pushed_at": "2026-06-13T13:31:00Z",
   "deleted_at": "",
   "star_history": [
@@ -102,6 +102,10 @@
     {
       "date": "2026-06-21",
       "stars": 41
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 43
     }
   ]
 }

@@ -1,0 +1,44 @@
+{
+  "repo_id": "R_kgDOSxqIhg",
+  "owner": "zengxiao-he",
+  "name": "tessera",
+  "full_name": "zengxiao-he/tessera",
+  "description": "From teacher to tiles — a from-scratch LLM distillation \u0026 serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX oracle, and interpretability tooling.",
+  "description_ja": "",
+  "url": "https://github.com/zengxiao-he/tessera",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "NOASSERTION",
+  "topics": [
+    "cuda",
+    "flash-attention",
+    "fsdp",
+    "inference-engine",
+    "jax",
+    "knowledge-distillation",
+    "kv-cache",
+    "llm",
+    "mechanistic-interpretability",
+    "ml-systems",
+    "paged-attention",
+    "pytorch",
+    "quantization",
+    "rust",
+    "speculative-decoding",
+    "triton"
+  ],
+  "star_count": 300,
+  "fork_count": 4,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-05T05:02:09Z",
+  "updated_at": "2026-06-22T22:41:13Z",
+  "pushed_at": "2026-06-05T06:20:24Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-22",
+      "stars": 300
+    }
+  ]
+}

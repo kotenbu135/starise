@@ -3,7 +3,7 @@
   "owner": "cssbruno",
   "name": "gowdk",
   "full_name": "cssbruno/gowdk",
-  "description": "GOWDK is an experimental Go-first web framework for shipping full-stack web apps as a single deployable binary.  It brings together backend logic, routing, reactivity, forms, APIs, static assets, and server-side rendering with fewer moving parts, fewer dependencies, and a smaller supply-chain attack surface. ",
+  "description": "Build full-stack web apps in Go: .gwdk pages + components compile to a single binary — SSR, forms, APIs, reactivity, no JS app stack. Fewer dependencies, smaller attack surface. Experimental 0.x.",
   "description_ja": "",
   "url": "https://github.com/cssbruno/GoWDK",
   "homepage_url": "https://gowdk.com",
@@ -24,13 +24,13 @@
     "svelte",
     "web-framework"
   ],
-  "star_count": 40,
+  "star_count": 41,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-04T13:35:24Z",
-  "updated_at": "2026-06-21T17:23:10Z",
-  "pushed_at": "2026-06-21T17:23:09Z",
+  "updated_at": "2026-06-22T18:17:24Z",
+  "pushed_at": "2026-06-22T18:17:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -60,6 +60,10 @@
     {
       "date": "2026-06-21",
       "stars": 40
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 41
     }
   ]
 }
