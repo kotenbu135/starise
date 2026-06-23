@@ -3,20 +3,26 @@
   "owner": "molihuan",
   "name": "hlbmerge_flutter",
   "full_name": "molihuan/hlbmerge_flutter",
-  "description": "全平台将Bilibili缓存文件合并导出为MP4，支持B站手机客户端缓存，支持B站电脑客户端缓存 Merge and export Bilibili cache files into MP4, support caching on Bilibili mobile client and Bilibili computer client",
-  "description_ja": "全プラットフォームでBilibiliのキャッシュファイルをMP4に結合・エクスポート。Bilibiliモバイルクライアントおよびパソコンクライアントのキャッシュに対応。",
+  "description": "全平台将Bilibili缓存视频合并导出为mp4，支持android、windows(10以上)、linux、mac、harmony(仅2in1和PC)、ios，支持B站Android客户端缓存，支持B站Windows客户端缓存，支持B站Mac客户端缓存  Combine and export Bilibili cache files as MP4, support Android, Windows, Linux, Mac,Harmony,IOS, support Bilibili Android Windows Mac client cache",
+  "description_ja": "",
   "url": "https://github.com/molihuan/hlbmerge_flutter",
   "homepage_url": "",
   "language": "Dart",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 265,
+  "topics": [
+    "bilibili",
+    "bilibili-client",
+    "bilibili-danmaku",
+    "bilibili-download",
+    "bilibili-helper"
+  ],
+  "star_count": 268,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-14T11:31:15Z",
-  "updated_at": "2026-06-22T10:12:47Z",
-  "pushed_at": "2026-06-22T10:12:43Z",
+  "updated_at": "2026-06-23T15:24:38Z",
+  "pushed_at": "2026-06-23T11:34:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -210,6 +216,10 @@
     {
       "date": "2026-06-22",
       "stars": 265
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 268
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "A FHIR® Server with internal, fast CQL Evaluation Engine",
   "description_ja": "内部高速CQL評価エンジンを備えたFHIR®サーバー",
   "url": "https://github.com/samply/blaze",
-  "homepage_url": "https://samply.github.io/blaze",
+  "homepage_url": "https://blaze-server.org",
   "language": "Clojure",
   "license": "Apache-2.0",
   "topics": [
@@ -23,8 +23,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-03-29T09:35:01Z",
-  "updated_at": "2026-06-22T09:03:15Z",
-  "pushed_at": "2026-06-22T13:36:19Z",
+  "updated_at": "2026-06-23T13:59:59Z",
+  "pushed_at": "2026-06-23T20:13:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -213,6 +213,10 @@
     },
     {
       "date": "2026-06-22",
+      "stars": 223
+    },
+    {
+      "date": "2026-06-23",
       "stars": 223
     }
   ]

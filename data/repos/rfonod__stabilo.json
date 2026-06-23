@@ -3,7 +3,7 @@
   "owner": "rfonod",
   "name": "stabilo",
   "full_name": "rfonod/stabilo",
-  "description": "🌀 Stabilo is a Python package for stabilizing video frames or object trajectories using advanced transformation techniques. It supports user-defined masks to exclude specific areas, making it ideal for dynamic scenes with moving objects. Unlike traditional stabilization, it stabilizes content relative to a chosen reference frame.",
+  "description": "🌀 Python library for stabilizing video frames or object trajectories relative to a chosen reference frame, using feature matching with robust homography/affine estimation and user-defined exclusion masks, ideal for dynamic scenes with moving objects.",
   "description_ja": "",
   "url": "https://github.com/rfonod/stabilo",
   "homepage_url": "https://arxiv.org/abs/2411.02136",
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-18T19:52:12Z",
-  "updated_at": "2026-06-12T10:21:48Z",
-  "pushed_at": "2026-06-12T10:25:38Z",
+  "updated_at": "2026-06-23T18:00:29Z",
+  "pushed_at": "2026-06-23T17:53:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -121,6 +121,10 @@
     },
     {
       "date": "2026-06-22",
+      "stars": 30
+    },
+    {
+      "date": "2026-06-23",
       "stars": 30
     }
   ]

@@ -3,20 +3,31 @@
   "owner": "tnt-likely",
   "name": "xplayer",
   "full_name": "tnt-likely/xplayer",
-  "description": "全平台IPTV播放器. IPTV player for all platforms (Android, Iphone, Macos, Windows, TV, Linux)",
-  "description_ja": "全プラットフォーム対応 IPTV プレーヤー（Android、iPhone、macOS、Windows、TV、Linux）",
+  "description": "IPTV/M3U player — Android · Android TV · iOS · iPad · macOS · Windows. Grouping, search, EPG, built-in iptv-org sources · 跨平台 IPTV 播放器：分组/搜索/EPG/内置 iptv-org 直播源",
+  "description_ja": "",
   "url": "https://github.com/TNT-Likely/xplayer",
   "homepage_url": "",
   "language": "Dart",
-  "license": "",
-  "topics": [],
+  "license": "MIT",
+  "topics": [
+    "android-tv",
+    "epg",
+    "flutter",
+    "iptv",
+    "iptv-org",
+    "live-tv",
+    "m3u",
+    "m3u8",
+    "player",
+    "tvos"
+  ],
   "star_count": 102,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-05T07:30:51Z",
-  "updated_at": "2026-06-22T10:01:07Z",
-  "pushed_at": "2025-10-24T04:08:34Z",
+  "updated_at": "2026-06-23T12:19:12Z",
+  "pushed_at": "2026-06-23T12:19:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -205,6 +216,10 @@
     },
     {
       "date": "2026-06-22",
+      "stars": 102
+    },
+    {
+      "date": "2026-06-23",
       "stars": 102
     }
   ]

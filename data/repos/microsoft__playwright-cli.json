@@ -7,18 +7,18 @@
   "description_ja": "一般的なPlaywrightアクション向けCLI。Playwrightコードの記録・生成、セレクターの検査、スクリーンショット撮影が可能。",
   "url": "https://github.com/microsoft/playwright-cli",
   "homepage_url": "https://playwright.dev",
-  "language": "TypeScript",
+  "language": "JavaScript",
   "license": "Apache-2.0",
   "topics": [
     "playwright"
   ],
-  "star_count": 11494,
-  "fork_count": 599,
+  "star_count": 11528,
+  "fork_count": 600,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-19T18:34:03Z",
-  "updated_at": "2026-06-22T21:25:53Z",
-  "pushed_at": "2026-06-10T00:19:14Z",
+  "updated_at": "2026-06-23T19:35:59Z",
+  "pushed_at": "2026-06-23T18:13:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -212,6 +212,10 @@
     {
       "date": "2026-06-22",
       "stars": 11494
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 11528
     }
   ]
 }

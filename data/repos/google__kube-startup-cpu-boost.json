@@ -1,0 +1,31 @@
+{
+  "repo_id": "R_kgDOKK-hjA",
+  "owner": "google",
+  "name": "kube-startup-cpu-boost",
+  "full_name": "google/kube-startup-cpu-boost",
+  "description": "Kube Startup CPU Boost is a controller that increases CPU resource requests and limits during Kubernetes workload startup time",
+  "description_ja": "",
+  "url": "https://github.com/google/kube-startup-cpu-boost",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "cpu-boost",
+    "kubernetes",
+    "kubernetes-operator"
+  ],
+  "star_count": 589,
+  "fork_count": 33,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2023-08-24T14:11:43Z",
+  "updated_at": "2026-06-23T07:21:25Z",
+  "pushed_at": "2026-06-23T07:21:44Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-23",
+      "stars": 589
+    }
+  ]
+}

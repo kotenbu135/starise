@@ -3,7 +3,7 @@
   "owner": "konghayao",
   "name": "peri",
   "full_name": "konghayao/peri",
-  "description": "Rust terminal coding agent, Claude Code compatible — your .claude/ config just works. Multi-LLM, streaming Markdown TUI, 95%+ prompt cache, MCP \u0026 ACP support, background agents. Built entirely by AI via Nobody Coding.",
+  "description": "Lightweight (14MB) ACP-first Agent, Claude Code Plugin compatible, full feature support",
   "description_ja": "",
   "url": "https://github.com/KonghaYao/peri",
   "homepage_url": "",
@@ -20,13 +20,13 @@
     "streaming-markdown",
     "tui"
   ],
-  "star_count": 57,
+  "star_count": 59,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-20T01:57:08Z",
-  "updated_at": "2026-06-22T08:10:27Z",
-  "pushed_at": "2026-06-22T01:21:13Z",
+  "updated_at": "2026-06-23T17:30:36Z",
+  "pushed_at": "2026-06-23T13:19:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -56,6 +56,10 @@
     {
       "date": "2026-06-22",
       "stars": 57
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 59
     }
   ]
 }

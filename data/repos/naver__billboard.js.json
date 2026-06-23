@@ -3,26 +3,27 @@
   "owner": "naver",
   "name": "billboard.js",
   "full_name": "naver/billboard.js",
-  "description": " 📊 Re-usable, easy interface JavaScript chart library based on D3.js",
-  "description_ja": "D3.jsベースの再利用可能でシンプルなインターフェースのJavaScriptチャートライブラリ",
+  "description": " 📊 Re-usable, easy interface JavaScript chart library based on D3.js, with SVG and Canvas rendering support",
+  "description_ja": "",
   "url": "https://github.com/naver/billboard.js",
   "homepage_url": "https://naver.github.io/billboard.js/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "chart",
+    "canvas",
+    "charting-library",
     "d3",
     "data-visualizations",
     "graph",
     "svg"
   ],
-  "star_count": 5984,
+  "star_count": 5985,
   "fork_count": 356,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-06-08T02:54:44Z",
-  "updated_at": "2026-06-22T20:00:26Z",
-  "pushed_at": "2026-06-22T19:22:35Z",
+  "updated_at": "2026-06-23T09:01:43Z",
+  "pushed_at": "2026-06-23T07:17:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -216,6 +217,10 @@
     {
       "date": "2026-06-22",
       "stars": 5984
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 5985
     }
   ]
 }

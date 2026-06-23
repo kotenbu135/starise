@@ -3,7 +3,7 @@
   "owner": "leon-drq",
   "name": "openagentskill",
   "full_name": "leon-drq/openagentskill",
-  "description": "Open discovery, audit, and recommendation infrastructure for AI agent skills.",
+  "description": "The skill layer for AI agents: npm for AI Agent Skills.",
   "description_ja": "",
   "url": "https://github.com/Leon-Drq/openagentskill",
   "homepage_url": "https://www.openagentskill.com",
@@ -12,25 +12,32 @@
   "topics": [
     "agent",
     "agent-skills",
+    "agentic-workflows",
+    "ai-agent-skills",
     "ai-agents",
+    "ai-registry",
     "ai-tools",
     "claude-code",
     "codex",
+    "cursor",
+    "developer-tools",
     "nextjs",
     "open-source",
     "skill-marketplace",
+    "skill-registry",
     "skills",
     "supabase",
+    "trust-score",
     "typescript",
     "vercel"
   ],
-  "star_count": 181,
-  "fork_count": 16,
+  "star_count": 182,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-19T15:18:45Z",
-  "updated_at": "2026-06-22T07:30:09Z",
-  "pushed_at": "2026-06-22T07:29:56Z",
+  "updated_at": "2026-06-23T13:28:04Z",
+  "pushed_at": "2026-06-23T10:51:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -220,6 +227,10 @@
     {
       "date": "2026-06-22",
       "stars": 181
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 182
     }
   ]
 }

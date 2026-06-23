@@ -3,7 +3,7 @@
   "owner": "oceanbase",
   "name": "seekdb",
   "full_name": "oceanbase/seekdb",
-  "description": "The AI-native state store for agents. MySQL-compatible, embedded or server, hybrid vector + full-text search, COW sandboxes (FORK/MERGE).",
+  "description": "The AI-Native Search Database. Best for agent storage, it unifies vector, text, structured, and semi-structured data into a single engine. This all-in-one database makes agents smarter, easier to run, and more stable.",
   "description_ja": "",
   "url": "https://github.com/oceanbase/seekdb",
   "homepage_url": "https://seekdb.ai",
@@ -25,13 +25,13 @@
     "sql",
     "vector-databases"
   ],
-  "star_count": 2751,
+  "star_count": 2754,
   "fork_count": 253,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-21T11:31:11Z",
-  "updated_at": "2026-06-22T14:13:03Z",
-  "pushed_at": "2026-06-22T02:25:16Z",
+  "updated_at": "2026-06-23T17:37:20Z",
+  "pushed_at": "2026-06-23T07:22:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -225,6 +225,10 @@
     {
       "date": "2026-06-22",
       "stars": 2751
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 2754
     }
   ]
 }

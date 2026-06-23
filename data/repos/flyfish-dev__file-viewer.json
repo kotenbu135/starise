@@ -3,11 +3,11 @@
   "owner": "flyfish-dev",
   "name": "file-viewer",
   "full_name": "flyfish-dev/file-viewer",
-  "description": "Offline-first universal file viewer for 190+ formats: Office, PDF/OFD, CAD DWG/DXF/DWF, Draw.io, Excalidraw, archives, email, EPUB, 3D, media and code, powered by a pure TypeScript core with polished Vue, React, Svelte, jQuery and Web Components.",
+  "description": "Universal pure frontend file viewer for 190+ formats: Office, PDF/OFD, CAD DWG/DXF/DWF, Draw.io, Excalidraw, archives, email, EPUB, 3D, media and code, powered by a pure TypeScript core with polished Vue, React, Svelte, jQuery and Web Components.",
   "description_ja": "",
   "url": "https://github.com/flyfish-dev/file-viewer",
   "homepage_url": "https://file-viewer.app",
-  "language": "TypeScript",
+  "language": "HTML",
   "license": "Apache-2.0",
   "topics": [
     "cad",
@@ -31,13 +31,13 @@
     "wasm",
     "xlsx"
   ],
-  "star_count": 245,
-  "fork_count": 45,
+  "star_count": 257,
+  "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-18T08:59:25Z",
-  "updated_at": "2026-06-22T09:59:15Z",
-  "pushed_at": "2026-06-22T08:35:09Z",
+  "updated_at": "2026-06-23T16:21:17Z",
+  "pushed_at": "2026-06-23T16:21:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-06-22",
       "stars": 245
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 257
     }
   ]
 }

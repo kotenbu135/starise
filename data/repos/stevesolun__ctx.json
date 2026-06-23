@@ -3,7 +3,7 @@
   "owner": "stevesolun",
   "name": "ctx",
   "full_name": "stevesolun/ctx",
-  "description": "Skill, agent, MCP, and harness recommendations for Claude Code/custom LLMs: 102,928-node LLM-wiki graph, 91,464 skills, 467 agents, 10,790 MCPs, 207 harnesses, and capped execution recommendations.",
+  "description": "Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev window, cutting token bills and local compute waste: 79,958-node LLM-wiki graph, 68,494 skills, 467 agents, 10,790 MCPs, 207 harnesses.",
   "description_ja": "",
   "url": "https://github.com/stevesolun/ctx",
   "homepage_url": "https://stevesolun.github.io/ctx/",
@@ -31,13 +31,13 @@
     "skills",
     "wiki"
   ],
-  "star_count": 524,
+  "star_count": 526,
   "fork_count": 65,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-08T22:39:54Z",
-  "updated_at": "2026-06-22T22:41:33Z",
-  "pushed_at": "2026-06-22T22:41:34Z",
+  "updated_at": "2026-06-23T20:18:46Z",
+  "pushed_at": "2026-06-23T19:57:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -199,6 +199,10 @@
     {
       "date": "2026-06-22",
       "stars": 524
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 526
     }
   ]
 }

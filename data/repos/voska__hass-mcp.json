@@ -3,25 +3,33 @@
   "owner": "voska",
   "name": "hass-mcp",
   "full_name": "voska/hass-mcp",
-  "description": "Home Assistant MCP Server",
+  "description": "Control and query Home Assistant from Claude and other LLMs — a Model Context Protocol (MCP) server.",
   "description_ja": "",
   "url": "https://github.com/voska/hass-mcp",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "ai",
+    "anthropic",
+    "claude",
     "home-assistant",
     "home-automation",
+    "homeassistant",
+    "llm",
     "mcp",
-    "mcp-server"
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "smart-home"
   ],
   "star_count": 302,
   "fork_count": 49,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-16T18:27:30Z",
-  "updated_at": "2026-06-19T04:14:05Z",
-  "pushed_at": "2026-05-18T01:20:54Z",
+  "updated_at": "2026-06-23T14:01:15Z",
+  "pushed_at": "2026-06-23T16:45:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -150,6 +158,10 @@
     },
     {
       "date": "2026-06-22",
+      "stars": 302
+    },
+    {
+      "date": "2026-06-23",
       "stars": 302
     }
   ]

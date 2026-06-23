@@ -3,7 +3,7 @@
   "owner": "a-connoisseur",
   "name": "patch-claude-code",
   "full_name": "a-connoisseur/patch-claude-code",
-  "description": "Patches Claude Code to show files read and live streams thinking inline (optional) WITHOUT verbose mode.",
+  "description": "Patches Claude Code to show files read / commands run, and live streams thinking inline (optional) WITHOUT verbose mode.",
   "description_ja": "",
   "url": "https://github.com/a-connoisseur/patch-claude-code",
   "homepage_url": "",
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-18T02:41:15Z",
-  "updated_at": "2026-06-22T20:44:05Z",
-  "pushed_at": "2026-06-22T21:48:23Z",
+  "updated_at": "2026-06-23T13:10:19Z",
+  "pushed_at": "2026-06-23T03:25:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -48,6 +48,10 @@
     },
     {
       "date": "2026-06-22",
+      "stars": 30
+    },
+    {
+      "date": "2026-06-23",
       "stars": 30
     }
   ]

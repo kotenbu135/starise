@@ -6,17 +6,31 @@
   "description": "Rust inference package experiments",
   "description_ja": "Rust推論パッケージの実験",
   "url": "https://github.com/ultralytics/inference",
-  "homepage_url": "",
+  "homepage_url": "https://docs.ultralytics.com/inference",
   "language": "Rust",
   "license": "AGPL-3.0",
-  "topics": [],
-  "star_count": 98,
+  "topics": [
+    "computer-vision",
+    "deep-learning",
+    "instance-segmentation",
+    "machine-learning",
+    "object-detection",
+    "rotated-object-detection",
+    "rust",
+    "rust-library",
+    "ultralytics",
+    "yolo",
+    "yolo11",
+    "yolo26",
+    "yolov8"
+  ],
+  "star_count": 102,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-26T14:53:25Z",
-  "updated_at": "2026-06-22T13:39:48Z",
-  "pushed_at": "2026-06-22T10:36:59Z",
+  "updated_at": "2026-06-23T14:16:08Z",
+  "pushed_at": "2026-06-23T11:10:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -206,6 +220,10 @@
     {
       "date": "2026-06-22",
       "stars": 98
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 102
     }
   ]
 }
