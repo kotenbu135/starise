@@ -3,8 +3,8 @@
   "owner": "pdsuwwz",
   "name": "nextjs-nextra-starter",
   "full_name": "pdsuwwz/nextjs-nextra-starter",
-  "description": "🔥 面向独立开发者与小团队的 Next.js (v16) 快速启动模板: 集成 Tailwind CSS (v4)、React (v19)、Nextra (v4)、TypeScript、Shadcn UI、Radix UI、Aceternity UI、Sass、ESLint (v9)、Iconify 与 i18n 多语言。覆盖个人博客、技术文档、产品官网与 AI 落地页等核心场景，提供响应式设计、暗黑模式和鉴权示例代码，开箱即用、工程化完善, Deployed on Netlify and Vercel.",
-  "description_ja": "🔥 独立開発者と小規模チーム向けのNext.js (v16)クイックスタートテンプレート: Tailwind CSS (v4)、React (v19)、Nextra (v4)、TypeScript、Shadcn UI、Radix UI、Aceternity UI、Sass、ESLint (v9)、Iconify、i18n多言語対応を統合。個人ブログ・技術ドキュメント・プロダクトサイト・AIランディングページなどの主要シナリオをカバー。レスポンシブデザイン、ダークモード、認証サンプルコードを備えたすぐに使えるテンプレート。NetlifyおよびVercelへのデプロイ対応",
+  "description": "🔥 面向独立开发者与小团队的 Next.js (v16) 快速启动模板: 集成 Tailwind CSS (v4)、React (v19)、Nextra (v4)、TypeScript、Shadcn UI、Radix UI、Aceternity UI、Sass、ESLint (v9)、Iconify 与 i18n 多语言。覆盖个人博客、技术文档、产品官网与 AI SaaS 落地页等核心场景，提供响应式设计、暗黑模式、鉴权示例与项目蒸馏 Skill，开箱即用、工程化完善, Deployed on Netlify and Vercel.",
+  "description_ja": "",
   "url": "https://github.com/pdsuwwz/nextjs-nextra-starter",
   "homepage_url": "https://nextra.likemashang.com/zh",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "ui",
     "vercel"
   ],
-  "star_count": 298,
+  "star_count": 299,
   "fork_count": 51,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-01T09:24:25Z",
-  "updated_at": "2026-06-23T10:33:38Z",
-  "pushed_at": "2026-06-23T10:33:37Z",
+  "updated_at": "2026-06-24T02:26:50Z",
+  "pushed_at": "2026-06-24T02:26:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -235,6 +235,10 @@
     {
       "date": "2026-06-23",
       "stars": 298
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 299
     }
   ]
 }

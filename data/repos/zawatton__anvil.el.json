@@ -3,7 +3,7 @@
   "owner": "zawatton",
   "name": "anvil.el",
   "full_name": "zawatton/anvil.el",
-  "description": "",
+  "description": "An MCP server written in Elisp — a token-efficient workbench for AI agents. Drives files, org-mode, Elisp \u0026 SQLite from any MCP client   (Claude, GPT, local LLMs) through Emacs primitives instead of sed/grep round-trips.",
   "description_ja": "",
   "url": "https://github.com/zawatton/anvil.el",
   "homepage_url": "",
@@ -15,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-12T23:30:41Z",
-  "updated_at": "2026-06-21T16:44:20Z",
+  "updated_at": "2026-06-24T07:04:35Z",
   "pushed_at": "2026-06-22T14:22:13Z",
   "deleted_at": "",
   "star_history": [
@@ -213,6 +213,10 @@
     },
     {
       "date": "2026-06-23",
+      "stars": 73
+    },
+    {
+      "date": "2026-06-24",
       "stars": 73
     }
   ]

@@ -7,8 +7,8 @@
   "description_ja": "並列コーディングエージェントのためのアジェンティックオーケストレーター — タスクの計画、エージェントの起動、CIの修正、マージコンフリクトの解消、コードレビューを自律的に処理します",
   "url": "https://github.com/AgentWrapper/agent-orchestrator",
   "homepage_url": "https://ao-agents.com",
-  "language": "TypeScript",
-  "license": "MIT",
+  "language": "Go",
+  "license": "",
   "topics": [
     "agent-fleet",
     "agent-swarm",
@@ -23,13 +23,13 @@
     "skills",
     "tmux"
   ],
-  "star_count": 7638,
-  "fork_count": 1046,
+  "star_count": 7648,
+  "fork_count": 1052,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-13T09:52:36Z",
-  "updated_at": "2026-06-23T20:02:07Z",
-  "pushed_at": "2026-06-17T19:31:41Z",
+  "updated_at": "2026-06-24T19:46:24Z",
+  "pushed_at": "2026-06-24T18:19:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -227,6 +227,10 @@
     {
       "date": "2026-06-23",
       "stars": 7638
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 7648
     }
   ]
 }

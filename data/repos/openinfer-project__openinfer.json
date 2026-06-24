@@ -3,25 +3,41 @@
   "owner": "openinfer-project",
   "name": "openinfer",
   "full_name": "openinfer-project/openinfer",
-  "description": "Pure Rust + CUDA LLM inference engine",
-  "description_ja": "Pure Rust + CUDA LLM推論エンジン",
+  "description": "Pure Rust + CUDA LLM inference engine — no PyTorch, OpenAI-compatible, serves Qwen3 to Kimi-K2",
+  "description_ja": "",
   "url": "https://github.com/openinfer-project/openinfer",
   "homepage_url": "https://open-infer.org/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "cuda",
+    "cuda-kernels",
+    "deepseek",
+    "gpu",
     "inference",
+    "inference-engine",
     "kimi",
+    "kimi-k2",
+    "kv-cache",
+    "llm",
+    "llm-inference",
     "llm-serving",
-    "model-serving"
+    "model-serving",
+    "moe",
+    "openai-api",
+    "paged-attention",
+    "qwen",
+    "qwen3",
+    "rust",
+    "vllm"
   ],
-  "star_count": 465,
+  "star_count": 469,
   "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-17T12:01:22Z",
-  "updated_at": "2026-06-23T12:54:48Z",
-  "pushed_at": "2026-06-23T17:05:49Z",
+  "updated_at": "2026-06-24T16:19:34Z",
+  "pushed_at": "2026-06-24T15:04:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -215,6 +231,10 @@
     {
       "date": "2026-06-23",
       "stars": 465
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 469
     }
   ]
 }

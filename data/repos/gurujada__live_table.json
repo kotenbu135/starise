@@ -3,8 +3,8 @@
   "owner": "gurujada",
   "name": "live_table",
   "full_name": "gurujada/live_table",
-  "description": "Powerful Phoenix LiveView library that provides dynamic, interactive tables with built-in support for sorting, filtering, pagination, and data export capabilities.",
-  "description_ja": "ソート・フィルタリング・ページネーション・データエクスポートを組み込みでサポートする、動的でインタラクティブなテーブルを提供する強力なPhoenix LiveViewライブラリ。",
+  "description": "LiveTable helps you build realtime datatables for the web",
+  "description_ja": "",
   "url": "https://github.com/gurujada/live_table",
   "homepage_url": "https://livetable.gurujada.com",
   "language": "Elixir",
@@ -15,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-02T08:47:15Z",
-  "updated_at": "2026-06-14T19:13:07Z",
+  "updated_at": "2026-06-24T06:30:47Z",
   "pushed_at": "2026-05-27T15:31:54Z",
   "deleted_at": "",
   "star_history": [
@@ -213,6 +213,10 @@
     },
     {
       "date": "2026-06-23",
+      "stars": 207
+    },
+    {
+      "date": "2026-06-24",
       "stars": 207
     }
   ]

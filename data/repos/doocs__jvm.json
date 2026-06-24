@@ -7,7 +7,7 @@
   "description_ja": "JVMの内部原理に関する最も包括的な知識まとめ。",
   "url": "https://github.com/doocs/jvm",
   "homepage_url": "http://jvm.doocs.org",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "CC-BY-SA-4.0",
   "topics": [
     "class",
@@ -19,12 +19,12 @@
     "memory-allocation"
   ],
   "star_count": 11093,
-  "fork_count": 2301,
+  "fork_count": 2302,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-06-23T01:12:59Z",
-  "updated_at": "2026-06-23T00:46:24Z",
-  "pushed_at": "2026-06-04T11:51:00Z",
+  "updated_at": "2026-06-24T08:58:40Z",
+  "pushed_at": "2026-06-24T08:59:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -221,6 +221,10 @@
     },
     {
       "date": "2026-06-23",
+      "stars": 11093
+    },
+    {
+      "date": "2026-06-24",
       "stars": 11093
     }
   ]

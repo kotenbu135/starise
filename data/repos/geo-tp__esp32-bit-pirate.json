@@ -6,7 +6,7 @@
   "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol ",
   "description_ja": "あらゆるプロトコルに対応した Web ベース CLI を持つハードウェアハッキングツール",
   "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-  "homepage_url": "https://geo-tp.github.io/ESP32-Bit-Pirate/webflasher",
+  "homepage_url": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
   "language": "C++",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "uart",
     "wifi"
   ],
-  "star_count": 4052,
-  "fork_count": 323,
+  "star_count": 4064,
+  "fork_count": 324,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-05T21:59:46Z",
-  "updated_at": "2026-06-23T16:49:36Z",
-  "pushed_at": "2026-06-23T14:52:03Z",
+  "updated_at": "2026-06-24T18:19:27Z",
+  "pushed_at": "2026-06-24T20:12:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -235,6 +235,10 @@
     {
       "date": "2026-06-23",
       "stars": 4052
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 4064
     }
   ]
 }

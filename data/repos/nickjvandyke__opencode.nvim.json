@@ -3,7 +3,7 @@
   "owner": "nickjvandyke",
   "name": "opencode.nvim",
   "full_name": "nickjvandyke/opencode.nvim",
-  "description": "Bridge Neovim and OpenCode AI to stay in your flow.",
+  "description": "Integrate Neovim and OpenCode to stay in your familiar flow.",
   "description_ja": "",
   "url": "https://github.com/nickjvandyke/opencode.nvim",
   "homepage_url": "",
@@ -13,6 +13,7 @@
     "ai",
     "ai-agents",
     "ai-assistant",
+    "lua",
     "neovim",
     "neovim-plugin",
     "nvim",
@@ -20,13 +21,13 @@
     "plugin",
     "terminal"
   ],
-  "star_count": 3594,
+  "star_count": 3598,
   "fork_count": 139,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-12T13:52:17Z",
-  "updated_at": "2026-06-23T21:11:55Z",
-  "pushed_at": "2026-06-23T21:12:02Z",
+  "updated_at": "2026-06-24T18:49:41Z",
+  "pushed_at": "2026-06-24T18:49:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -220,6 +221,10 @@
     {
       "date": "2026-06-23",
       "stars": 3594
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 3598
     }
   ]
 }

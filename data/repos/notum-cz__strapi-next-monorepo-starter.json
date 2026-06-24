@@ -3,10 +3,10 @@
   "owner": "notum-cz",
   "name": "strapi-next-monorepo-starter",
   "full_name": "notum-cz/strapi-next-monorepo-starter",
-  "description": "This is a ready-to-go starter template for Strapi projects. It combines the power of Strapi, NextJS, Shadcn/ui libraries with Turborepo setup and kickstarts your project development.",
-  "description_ja": "Strapi プロジェクト向けのすぐに使えるスターターテンプレート。Strapi・NextJS・Shadcn/ui ライブラリを Turborepo 構成で組み合わせ、プロジェクト開発を即座にスタートできる。",
+  "description": "This is a ready-to-go starter for page builder projects built with Strapi and Next.js.",
+  "description_ja": "",
   "url": "https://github.com/notum-cz/strapi-next-monorepo-starter",
-  "homepage_url": "",
+  "homepage_url": "https://notum-cz.github.io/strapi-next-monorepo-starter/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -21,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-26T12:27:57Z",
-  "updated_at": "2026-06-17T17:55:10Z",
-  "pushed_at": "2026-06-23T17:30:09Z",
+  "updated_at": "2026-06-24T13:28:40Z",
+  "pushed_at": "2026-06-24T12:47:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -215,6 +215,10 @@
     },
     {
       "date": "2026-06-23",
+      "stars": 297
+    },
+    {
+      "date": "2026-06-24",
       "stars": 297
     }
   ]

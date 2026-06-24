@@ -3,7 +3,7 @@
   "owner": "geekjourneyx",
   "name": "md2wechat-skill",
   "full_name": "geekjourneyx/md2wechat-skill",
-  "description": "Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布",
+  "description": "Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理",
   "description_ja": "",
   "url": "https://github.com/geekjourneyx/md2wechat-skill",
   "homepage_url": "https://md2wechat.cn",
@@ -31,13 +31,13 @@
     "wechat-public-account",
     "weixin"
   ],
-  "star_count": 2933,
-  "fork_count": 339,
+  "star_count": 2939,
+  "fork_count": 343,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-11T06:36:13Z",
-  "updated_at": "2026-06-23T17:04:25Z",
-  "pushed_at": "2026-06-23T16:06:44Z",
+  "updated_at": "2026-06-24T16:10:48Z",
+  "pushed_at": "2026-06-24T16:05:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -231,6 +231,10 @@
     {
       "date": "2026-06-23",
       "stars": 2933
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 2939
     }
   ]
 }

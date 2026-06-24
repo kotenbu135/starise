@@ -3,8 +3,8 @@
   "owner": "tiger-ai-lab",
   "name": "vlm2vec",
   "full_name": "tiger-ai-lab/vlm2vec",
-  "description": "This repo contains the code for \"VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks\" [ICLR 2025]",
-  "description_ja": "「VLM2Vec: 大規模マルチモーダル埋め込みタスク向けVision-Languageモデルの学習」[ICLR 2025]のコードリポジトリ",
+  "description": "This repo contains the code for \"VLM2Vec\" [ICLR 2025], \"VLM2Vec-V2 [TMLR 2026]\", and \"MMEB-V3\"",
+  "description_ja": "",
   "url": "https://github.com/TIGER-AI-Lab/VLM2Vec",
   "homepage_url": "https://tiger-ai-lab.github.io/VLM2Vec/",
   "language": "Python",
@@ -22,13 +22,13 @@
     "visual-document-retrieval",
     "vlm"
   ],
-  "star_count": 659,
+  "star_count": 660,
   "fork_count": 60,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-07T15:14:52Z",
-  "updated_at": "2026-06-23T12:58:09Z",
-  "pushed_at": "2026-06-23T17:55:44Z",
+  "updated_at": "2026-06-24T09:36:53Z",
+  "pushed_at": "2026-06-24T06:17:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -226,6 +226,10 @@
     {
       "date": "2026-06-23",
       "stars": 659
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 660
     }
   ]
 }

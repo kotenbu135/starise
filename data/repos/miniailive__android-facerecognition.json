@@ -3,7 +3,7 @@
   "owner": "miniailive",
   "name": "android-facerecognition",
   "full_name": "miniailive/android-facerecognition",
-  "description": "Face Recognition App, Face Anti-Spoofing, Face Compare, Face Detection, Face Liveness Detection, Face Landmarks, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face sentiment, Face identification, Face reconstruction, Face tracking on android, FRVT, NIST",
+  "description": "Face Recognition App; Face Liveness Detection; Face Detection; Face Alignment; Face Identification \u0026\u0026 Face Verification \u0026\u0026 Face Compare; Face Matching; Face Tracking; Face Expression \u0026\u0026 Face Anti Spoofing; Face Attribute \u0026\u0026 Face Age; Face Transfer; Face Anti-Spoofing; Face Retrieval; FRVT, NIST",
   "description_ja": "",
   "url": "https://github.com/MiniAiLive/Android-FaceRecognition",
   "homepage_url": "https://miniai.live/face-recognition/",
@@ -31,12 +31,12 @@
     "onboarding",
     "passive-liveness"
   ],
-  "star_count": 517,
+  "star_count": 524,
   "fork_count": 255,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-11T13:29:32Z",
-  "updated_at": "2026-06-23T18:06:51Z",
+  "updated_at": "2026-06-24T20:18:32Z",
   "pushed_at": "2026-06-15T16:40:45Z",
   "deleted_at": "",
   "star_history": [
@@ -235,6 +235,10 @@
     {
       "date": "2026-06-23",
       "stars": 517
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 524
     }
   ]
 }

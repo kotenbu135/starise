@@ -3,7 +3,7 @@
   "owner": "omnitarium",
   "name": "scoptix",
   "full_name": "omnitarium/scoptix",
-  "description": "Open-source passive reconnaissance and attack surface exploration tool that leverages VirusTotal and the Wayback Machine to discover subdomains, URLs, archived web assets, and potential exposure findings.",
+  "description": "Open-source passive reconnaissance and exposure discovery tool that leverages VirusTotal and the Wayback Machine to uncover subdomains, URLs, archived web assets, and potential exposures, with optional technology fingerprinting and CVE correlation.",
   "description_ja": "",
   "url": "https://github.com/Omnitarium/scoptix",
   "homepage_url": "",
@@ -14,13 +14,13 @@
     "reconnaissance",
     "subdomain-enumeration"
   ],
-  "star_count": 135,
+  "star_count": 136,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-01T18:52:43Z",
-  "updated_at": "2026-06-23T14:44:40Z",
-  "pushed_at": "2026-06-21T17:10:37Z",
+  "updated_at": "2026-06-24T09:10:24Z",
+  "pushed_at": "2026-06-23T23:42:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +62,10 @@
     {
       "date": "2026-06-23",
       "stars": 135
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 136
     }
   ]
 }

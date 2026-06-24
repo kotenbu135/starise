@@ -1,0 +1,32 @@
+{
+  "repo_id": "R_kgDOS4p3lA",
+  "owner": "vector4wang",
+  "name": "edgeglow",
+  "full_name": "vector4wang/edgeglow",
+  "description": " EdgeGlow 是一个开源的 macOS 菜单栏小工具，让 AI 编程过程「可见」。当 Claude Code 或 Hermes Agent 工作时，屏幕边缘会亮起流光效果；完成后流光淡出消失。通过 HTTP hooks 与 AI Agent 联动，采用四层 CAShapeLayer   模拟霓虹灯光效，Timer 驱动动画确保流畅稳定。仅 892KB，~0% CPU 占用，支持多显示器和多终端。",
+  "description_ja": "",
+  "url": "https://github.com/vector4wang/EdgeGlow",
+  "homepage_url": "",
+  "language": "Swift",
+  "license": "MIT",
+  "topics": [
+    "claude-code",
+    "hermes-agent",
+    "macos",
+    "software"
+  ],
+  "star_count": 29,
+  "fork_count": 1,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-12T13:26:25Z",
+  "updated_at": "2026-06-24T06:17:33Z",
+  "pushed_at": "2026-06-23T15:49:05Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-24",
+      "stars": 29
+    }
+  ]
+}

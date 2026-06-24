@@ -7,7 +7,7 @@
   "description_ja": "記事管理・コメント機能・フレンドリンク・投稿・データ統計などの完全な機能を統合した、モダンなフルスタックブログシステム。",
   "url": "https://github.com/talen8/FlecBlog",
   "homepage_url": "https://hub.flec.top",
-  "language": "Vue",
+  "language": "Go",
   "license": "MIT",
   "topics": [
     "blog",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-10T06:49:56Z",
-  "updated_at": "2026-06-22T09:06:51Z",
-  "pushed_at": "2026-06-02T06:14:44Z",
+  "updated_at": "2026-06-24T07:23:31Z",
+  "pushed_at": "2026-06-24T07:23:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -214,6 +214,10 @@
     },
     {
       "date": "2026-06-23",
+      "stars": 84
+    },
+    {
+      "date": "2026-06-24",
       "stars": 84
     }
   ]

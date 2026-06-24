@@ -6,7 +6,7 @@
   "description": "Neo4j Connector for Apache Spark, which provides bi-directional read/write access to Neo4j from Spark, using the Spark DataSource APIs",
   "description_ja": "Apache Spark向けNeo4jコネクター。Spark DataSource APIを使用してSparkからNeo4jへの双方向読み書きアクセスを提供する。",
   "url": "https://github.com/neo4j/neo4j-spark-connector",
-  "homepage_url": "https://neo4j.com/developer/spark/",
+  "homepage_url": "https://neo4j.com/docs/spark/current/",
   "language": "Scala",
   "license": "Apache-2.0",
   "topics": [
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-03-03T16:01:08Z",
-  "updated_at": "2026-06-22T12:17:34Z",
-  "pushed_at": "2026-06-22T16:28:47Z",
+  "updated_at": "2026-06-24T15:56:40Z",
+  "pushed_at": "2026-06-24T17:44:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -220,6 +220,10 @@
     },
     {
       "date": "2026-06-23",
+      "stars": 320
+    },
+    {
+      "date": "2026-06-24",
       "stars": 320
     }
   ]

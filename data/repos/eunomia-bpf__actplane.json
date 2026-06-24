@@ -3,20 +3,25 @@
   "owner": "eunomia-bpf",
   "name": "actplane",
   "full_name": "eunomia-bpf/actplane",
-  "description": "eBPF-Based Information Flow Policy Engine for AI Agent Harnesses",
+  "description": "eBPF Information Flow Policy Engine for safe and effective AI Agent Harnesses",
   "description_ja": "",
   "url": "https://github.com/eunomia-bpf/ActPlane",
   "homepage_url": "",
   "language": "C",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "ebpf",
+    "harness",
+    "ifc",
+    "policy-engine"
+  ],
   "star_count": 50,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-22T23:19:43Z",
-  "updated_at": "2026-06-23T03:31:15Z",
-  "pushed_at": "2026-06-23T14:48:05Z",
+  "updated_at": "2026-06-24T00:20:32Z",
+  "pushed_at": "2026-06-24T10:53:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +42,10 @@
     },
     {
       "date": "2026-06-23",
+      "stars": 50
+    },
+    {
+      "date": "2026-06-24",
       "stars": 50
     }
   ]

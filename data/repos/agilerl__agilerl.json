@@ -10,21 +10,20 @@
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "agents",
     "agilerl",
     "automl",
     "deep-learning",
     "deep-reinforcement-learning",
     "distributed",
     "evolutionary-algorithms",
-    "gym",
     "hpo",
     "hyperparameter-optimization",
     "hyperparameter-tuning",
+    "llm",
     "machine-learning",
     "mlops",
     "multi-agent",
-    "multi-agent-reinforcement-learning",
-    "pettingzoo",
     "python",
     "pytorch",
     "reinforcement-learning",
@@ -36,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-01T15:27:51Z",
-  "updated_at": "2026-06-23T12:20:39Z",
-  "pushed_at": "2026-06-23T18:33:11Z",
+  "updated_at": "2026-06-24T13:54:16Z",
+  "pushed_at": "2026-06-24T19:35:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -234,6 +233,10 @@
     },
     {
       "date": "2026-06-23",
+      "stars": 925
+    },
+    {
+      "date": "2026-06-24",
       "stars": 925
     }
   ]

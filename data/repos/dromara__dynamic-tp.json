@@ -3,8 +3,8 @@
   "owner": "dromara",
   "name": "dynamic-tp",
   "full_name": "dromara/dynamic-tp",
-  "description": "🔥🔥🔥轻量级动态线程池，内置监控告警功能，集成三方中间件线程池管理，基于主流配置中心（已支持Nacos、Apollo，Zookeeper、Consul、Etcd，可通过SPI自定义实现）。Lightweight dynamic threadpool, with monitoring and alarming functions, base on popular config centers (already support Nacos、Apollo、Zookeeper、Consul, can be customized through SPI).",
-  "description_ja": "🔥🔥🔥軽量ダイナミックスレッドプール。監視・アラート機能内蔵、サードパーティミドルウェアのスレッドプール管理に対応。主要設定センター（Nacos・Apollo・Zookeeper・Consul・Etcd対応、SPIによるカスタム実装も可）をベースとした軽量ダイナミックスレッドプール。",
+  "description": "A lightweight dynamic thread pool framework with built-in monitoring and alerting, unified third-party thread pool management, and support for popular configuration centers (Nacos, Apollo, Zookeeper, Consul, and Etcd), extensible via SPI。",
+  "description_ja": "",
   "url": "https://github.com/dromara/dynamic-tp",
   "homepage_url": "https://dynamictp.cn",
   "language": "Java",
@@ -28,13 +28,13 @@
     "threadpoolexecutor",
     "zookeeper"
   ],
-  "star_count": 4785,
+  "star_count": 4786,
   "fork_count": 860,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-07T16:35:27Z",
-  "updated_at": "2026-06-23T09:39:40Z",
-  "pushed_at": "2026-06-18T04:14:09Z",
+  "updated_at": "2026-06-24T11:18:20Z",
+  "pushed_at": "2026-06-24T11:08:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -232,6 +232,10 @@
     {
       "date": "2026-06-23",
       "stars": 4785
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 4786
     }
   ]
 }

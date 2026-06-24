@@ -3,8 +3,8 @@
   "owner": "isno",
   "name": "thebytebook",
   "full_name": "isno/thebytebook",
-  "description": "⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。",
-  "description_ja": "⭐【出版書籍】JD.com購入リンク https://item.jd.com/14531549.html カーネルネットワーク、Kubernetes、ServiceMesh、コンテナなどクラウドネイティブ技術を詳解。実践で検証済みのDevOps・SREガイド。",
+  "description": "⭐ 【出版书籍】京东购买链接 https://item.jd.com/14531549.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的“大规模分布式系统”开发指南。",
+  "description_ja": "",
   "url": "https://github.com/isno/theByteBook",
   "homepage_url": "https://www.thebyte.com.cn",
   "language": "JavaScript",
@@ -21,12 +21,12 @@
     "service-mesh",
     "sre"
   ],
-  "star_count": 8543,
+  "star_count": 8544,
   "fork_count": 623,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-10-08T04:44:22Z",
-  "updated_at": "2026-06-23T18:27:17Z",
+  "updated_at": "2026-06-24T15:06:32Z",
   "pushed_at": "2026-05-17T11:12:05Z",
   "deleted_at": "",
   "star_history": [
@@ -225,6 +225,10 @@
     {
       "date": "2026-06-23",
       "stars": 8543
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 8544
     }
   ]
 }

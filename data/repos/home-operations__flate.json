@@ -3,7 +3,7 @@
   "owner": "home-operations",
   "name": "flate",
   "full_name": "home-operations/flate",
-  "description": "A Flux resource inflator ⇄",
+  "description": "A Flux resource validator and inflator ⇄",
   "description_ja": "",
   "url": "https://github.com/home-operations/flate",
   "homepage_url": "",
@@ -14,13 +14,13 @@
     "helmrelease",
     "kustomize"
   ],
-  "star_count": 47,
+  "star_count": 51,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-21T20:25:49Z",
-  "updated_at": "2026-06-23T12:55:02Z",
-  "pushed_at": "2026-06-23T16:52:04Z",
+  "updated_at": "2026-06-24T16:55:29Z",
+  "pushed_at": "2026-06-24T12:15:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +38,10 @@
     {
       "date": "2026-06-23",
       "stars": 47
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 51
     }
   ]
 }

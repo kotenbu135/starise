@@ -6,7 +6,7 @@
   "description": "A durable workflow execution engine for Elixir ",
   "description_ja": "Elixir 向けの耐久性のあるワークフロー実行エンジン",
   "url": "https://github.com/wavezync/durable",
-  "homepage_url": "https://wavezync.com",
+  "homepage_url": "https://durable.hexdocs.pm/readme.html",
   "language": "Elixir",
   "license": "MIT",
   "topics": [
@@ -19,13 +19,13 @@
     "queue",
     "workflow"
   ],
-  "star_count": 190,
+  "star_count": 193,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-29T21:12:37Z",
-  "updated_at": "2026-06-14T10:59:36Z",
-  "pushed_at": "2026-05-02T11:27:18Z",
+  "updated_at": "2026-06-24T20:14:06Z",
+  "pushed_at": "2026-06-24T18:19:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -223,6 +223,10 @@
     {
       "date": "2026-06-23",
       "stars": 190
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 193
     }
   ]
 }

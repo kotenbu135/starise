@@ -3,7 +3,7 @@
   "owner": "lyonzin",
   "name": "knowledge-rag",
   "full_name": "lyonzin/knowledge-rag",
-  "description": "[knowledge-rag] - Drop docs, search instantly from Claude Code — 13 MCP tools, 20 format parsers, hybrid search + reranking. Zero servers, zero API keys, 100% local.",
+  "description": "Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format parsers. Zero external servers, zero API keys.",
   "description_ja": "",
   "url": "https://github.com/lyonzin/knowledge-rag",
   "homepage_url": "https://pypi.org/project/knowledge-rag/",
@@ -31,13 +31,13 @@
     "semantic-search",
     "vector-database"
   ],
-  "star_count": 102,
-  "fork_count": 17,
+  "star_count": 104,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T14:23:33Z",
-  "updated_at": "2026-06-23T20:37:21Z",
-  "pushed_at": "2026-06-22T17:44:52Z",
+  "updated_at": "2026-06-24T15:38:58Z",
+  "pushed_at": "2026-06-24T15:38:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -235,6 +235,10 @@
     {
       "date": "2026-06-23",
       "stars": 102
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 104
     }
   ]
 }

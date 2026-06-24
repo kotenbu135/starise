@@ -3,7 +3,7 @@
   "owner": "makerdiary",
   "name": "nrf9151-connectkit",
   "full_name": "makerdiary/nrf9151-connectkit",
-  "description": "Versatile Prototyping Kit based on the nRF9151 SiP supporting LTE-M/NB-IoT Worldwide, DECT NR+ and GNSS",
+  "description": "Versatile Prototyping Kit based on the nRF9151 SiP supporting LTE-M/NB-IoT/NTN, DECT NR+ and GNSS",
   "description_ja": "",
   "url": "https://github.com/makerdiary/nrf9151-connectkit",
   "homepage_url": "https://wiki.makerdiary.com/nrf9151-connectkit",
@@ -22,12 +22,12 @@
     "ntn",
     "zephyros"
   ],
-  "star_count": 39,
+  "star_count": 40,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-03-08T10:31:44Z",
-  "updated_at": "2026-06-21T07:55:23Z",
+  "updated_at": "2026-06-24T11:50:38Z",
   "pushed_at": "2026-06-21T07:55:20Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +50,10 @@
     {
       "date": "2026-06-23",
       "stars": 39
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 40
     }
   ]
 }

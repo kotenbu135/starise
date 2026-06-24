@@ -7,7 +7,7 @@
   "description_ja": "Microsoft LearnのAzure Architecture Centerに関するオープンソースドキュメント",
   "url": "https://github.com/MicrosoftDocs/architecture-center",
   "homepage_url": "https://learn.microsoft.com/azure/architecture",
-  "language": "Shell",
+  "language": "PowerShell",
   "license": "CC-BY-4.0",
   "topics": [
     "architecture",
@@ -21,12 +21,12 @@
     "practices"
   ],
   "star_count": 2007,
-  "fork_count": 1827,
+  "fork_count": 1828,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-02-14T00:21:56Z",
-  "updated_at": "2026-06-23T17:33:49Z",
-  "pushed_at": "2026-06-23T17:33:29Z",
+  "updated_at": "2026-06-24T17:33:40Z",
+  "pushed_at": "2026-06-24T17:33:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -223,6 +223,10 @@
     },
     {
       "date": "2026-06-23",
+      "stars": 2007
+    },
+    {
+      "date": "2026-06-24",
       "stars": 2007
     }
   ]

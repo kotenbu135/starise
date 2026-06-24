@@ -3,7 +3,7 @@
   "owner": "kronotop",
   "name": "kronotop",
   "full_name": "kronotop/kronotop",
-  "description": "Distributed, transactional document database on FoundationDB.",
+  "description": "Distributed, transactional document database backed by FoundationDB.",
   "description_ja": "",
   "url": "https://github.com/kronotop/kronotop",
   "homepage_url": "https://kronotop.com",
@@ -31,7 +31,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-03T07:52:04Z",
-  "updated_at": "2026-06-23T20:44:21Z",
+  "updated_at": "2026-06-24T15:55:43Z",
   "pushed_at": "2026-06-23T20:42:36Z",
   "deleted_at": "",
   "star_history": [
@@ -101,6 +101,10 @@
     },
     {
       "date": "2026-06-23",
+      "stars": 295
+    },
+    {
+      "date": "2026-06-24",
       "stars": 295
     }
   ]

@@ -6,17 +6,25 @@
   "description": "Shared memory for AI agents",
   "description_ja": "AI エージェントのための共有メモリ",
   "url": "https://github.com/plur-ai/plur",
-  "homepage_url": "",
+  "homepage_url": "https://plur.ai",
   "language": "TypeScript",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 208,
+  "topics": [
+    "agent-memory",
+    "ai-agents",
+    "ai-memory",
+    "context-engine",
+    "llm",
+    "local-first",
+    "mcp"
+  ],
+  "star_count": 209,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-19T22:09:36Z",
-  "updated_at": "2026-06-23T18:39:21Z",
-  "pushed_at": "2026-06-23T18:39:06Z",
+  "updated_at": "2026-06-24T00:05:57Z",
+  "pushed_at": "2026-06-24T00:37:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -214,6 +222,10 @@
     {
       "date": "2026-06-23",
       "stars": 208
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 209
     }
   ]
 }
