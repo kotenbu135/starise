@@ -7,7 +7,7 @@
   "description_ja": "複数プラットフォームのクラウドログを監視し、AIモデルを活用して異常を検出し、根本原因分析を行い、GitHub Pull Requestを作成して修復を自動化する自律型SREエージェント。",
   "url": "https://github.com/avivl/cloud-sre-agent",
   "homepage_url": "",
-  "language": "Python",
+  "language": "Go",
   "license": "MIT",
   "topics": [
     "ai-agents",
@@ -34,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-31T18:55:54Z",
-  "updated_at": "2026-06-08T04:26:45Z",
-  "pushed_at": "2026-02-20T22:58:16Z",
+  "updated_at": "2026-06-25T18:46:18Z",
+  "pushed_at": "2026-06-25T18:46:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -232,6 +232,10 @@
     },
     {
       "date": "2026-06-24",
+      "stars": 44
+    },
+    {
+      "date": "2026-06-25",
       "stars": 44
     }
   ]

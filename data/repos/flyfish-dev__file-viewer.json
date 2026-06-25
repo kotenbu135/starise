@@ -3,41 +3,41 @@
   "owner": "flyfish-dev",
   "name": "file-viewer",
   "full_name": "flyfish-dev/file-viewer",
-  "description": "Universal pure frontend file viewer for 190+ formats: Office, PDF/OFD, CAD DWG/DXF/DWF, Draw.io, Excalidraw, archives, email, EPUB, 3D, media and code, powered by a pure TypeScript core with polished Vue, React, Svelte, jQuery and Web Components.",
+  "description": "Browser-native Office / PDF / CAD / archive viewer for internal web apps, with Vue, React, Svelte, jQuery, Web Components, and no server-side conversion.",
   "description_ja": "",
   "url": "https://github.com/flyfish-dev/file-viewer",
   "homepage_url": "https://file-viewer.app",
   "language": "HTML",
   "license": "Apache-2.0",
   "topics": [
-    "cad",
     "cad-viewer",
+    "document-preview",
     "document-viewer",
     "docx",
-    "drawio",
-    "excalidraw",
+    "dwg",
+    "dxf",
+    "file-preview",
     "file-viewer",
-    "jquery",
-    "ofd",
-    "office",
     "office-viewer",
     "offline-first",
     "pdf-viewer",
     "pptx",
+    "private-deployment",
     "react",
-    "svelte",
+    "self-hosted",
     "typescript",
     "vue",
     "wasm",
+    "web-components",
     "xlsx"
   ],
-  "star_count": 281,
-  "fork_count": 53,
+  "star_count": 298,
+  "fork_count": 57,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-18T08:59:25Z",
-  "updated_at": "2026-06-24T15:41:47Z",
-  "pushed_at": "2026-06-24T17:00:58Z",
+  "updated_at": "2026-06-25T18:34:31Z",
+  "pushed_at": "2026-06-25T16:24:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-06-24",
       "stars": 281
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 298
     }
   ]
 }

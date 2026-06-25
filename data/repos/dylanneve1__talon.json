@@ -3,20 +3,34 @@
   "owner": "dylanneve1",
   "name": "talon",
   "full_name": "dylanneve1/talon",
-  "description": "🦅 Talon",
+  "description": "🦅 Multi-platform agentic AI harness — runs on Telegram, Discord, Teams \u0026 Terminal with a pluggable backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents), full MCP tool access, and persistent background agents (Goals, Heartbeat, Dream).",
   "description_ja": "",
   "url": "https://github.com/dylanneve1/talon",
   "homepage_url": "https://talon-agent.github.io",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "agentic-ai",
+    "ai-agent",
+    "anthropic",
+    "autonomous-agents",
+    "chatbot",
+    "claude",
+    "discord-bot",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "self-hosted",
+    "telegram-bot",
+    "typescript"
+  ],
   "star_count": 56,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-14T19:58:33Z",
-  "updated_at": "2026-06-24T19:07:05Z",
-  "pushed_at": "2026-06-24T19:09:14Z",
+  "updated_at": "2026-06-25T19:07:27Z",
+  "pushed_at": "2026-06-25T19:07:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -157,6 +171,10 @@
     },
     {
       "date": "2026-06-24",
+      "stars": 56
+    },
+    {
+      "date": "2026-06-25",
       "stars": 56
     }
   ]

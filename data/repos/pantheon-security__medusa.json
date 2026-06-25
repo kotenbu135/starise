@@ -3,7 +3,7 @@
   "owner": "pantheon-security",
   "name": "medusa",
   "full_name": "pantheon-security/medusa",
-  "description": "AI-first security scanner with 79 analyzers, 40,000+ detection rules, and repo poisoning detection for AI/ML, LLM agents, and MCP servers. Scan any GitHub repo with: medusa scan --git user/repo",
+  "description": "AI-first security scanner. NEW in v2026.7: Claude Code compromise detection — vet .claude/ hooks, permissions \u0026 skills before you clone — plus an always-on AI attack-signature scanner and native Rust \u0026 PHP rules. Also: medusa scan --git to vet any repo, medusa secrets scan for leaked API keys. 40,000+ patterns, zero setup.",
   "description_ja": "",
   "url": "https://github.com/Pantheon-Security/medusa",
   "homepage_url": "https://pantheonsecurity.io",
@@ -33,7 +33,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-15T15:55:22Z",
-  "updated_at": "2026-06-24T09:10:05Z",
+  "updated_at": "2026-06-25T06:46:18Z",
   "pushed_at": "2026-06-24T07:51:51Z",
   "deleted_at": "",
   "star_history": [
@@ -231,6 +231,10 @@
     },
     {
       "date": "2026-06-24",
+      "stars": 600
+    },
+    {
+      "date": "2026-06-25",
       "stars": 600
     }
   ]

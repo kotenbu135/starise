@@ -3,20 +3,32 @@
   "owner": "regsorm",
   "name": "code-index-mcp",
   "full_name": "regsorm/code-index-mcp",
-  "description": "Rust-native code index MCP server with first-class 1C:Enterprise (BSL) support. Static binary, no runtime. 25 tools — 18 universal + 7 BSL-specific. Tree-sitter AST for 10 languages. Federation across multiple repos. Built for production-scale monorepos.",
+  "description": "Rust-native code index MCP server with first-class 1C:Enterprise (BSL) support. Static binary, no runtime. 31 tools — 20 universal + 11 BSL-specific. Tree-sitter AST for 10 languages. Federation across multiple repos. Built for production-scale monorepos.",
   "description_ja": "",
   "url": "https://github.com/Regsorm/code-index-mcp",
   "homepage_url": "",
   "language": "Rust",
   "license": "MIT",
-  "topics": [],
-  "star_count": 70,
+  "topics": [
+    "1c-enterprise",
+    "ast",
+    "bsl",
+    "code-index",
+    "code-search",
+    "developer-tools",
+    "mcp",
+    "model-context-protocol",
+    "onescript",
+    "rust",
+    "tree-sitter"
+  ],
+  "star_count": 71,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-28T19:25:56Z",
-  "updated_at": "2026-06-24T19:56:01Z",
-  "pushed_at": "2026-06-24T19:55:58Z",
+  "updated_at": "2026-06-25T11:04:05Z",
+  "pushed_at": "2026-06-25T06:29:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -118,6 +130,10 @@
     {
       "date": "2026-06-24",
       "stars": 70
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 71
     }
   ]
 }

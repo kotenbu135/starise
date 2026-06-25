@@ -7,7 +7,7 @@
   "description_ja": "ターミナル内で任意の Linux ディストリビューションを使用。ソフトウェアの後方および前方互換性を実現し、好みのディストリビューションを自由に使えるようにする。ミラー: https://gitlab.com/89luca89/distrobox",
   "url": "https://github.com/89luca89/distrobox",
   "homepage_url": "https://distrobox.it/",
-  "language": "Shell",
+  "language": "Go",
   "license": "GPL-3.0",
   "topics": [
     "almalinux",
@@ -31,13 +31,13 @@
     "tools",
     "ubuntu"
   ],
-  "star_count": 12640,
+  "star_count": 12650,
   "fork_count": 526,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-11-18T15:41:03Z",
-  "updated_at": "2026-06-24T18:23:26Z",
-  "pushed_at": "2026-06-24T18:55:31Z",
+  "updated_at": "2026-06-25T19:03:13Z",
+  "pushed_at": "2026-06-25T19:37:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -235,6 +235,10 @@
     {
       "date": "2026-06-24",
       "stars": 12640
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 12650
     }
   ]
 }

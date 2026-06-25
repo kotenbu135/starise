@@ -3,8 +3,8 @@
   "owner": "dromara",
   "name": "ruoyi-vue-plus",
   "full_name": "dromara/ruoyi-vue-plus",
-  "description": "基于RuoYi-Vue集成 Lombok+Mybatis-Plus+Undertow+knife4j+Hutool+Feign 重写所有原生业务 定期与RuoYi-Vue同步",
-  "description_ja": "RuoYi-VueベースにLombok・Mybatis-Plus・Undertow・knife4j・Hutool・Feignを統合し、全ネイティブ機能を再実装。定期的にRuoYi-Vueと同期。",
+  "description": "多租户后台管理系统 重写RuoYi-Vue所有功能 集成 Sa-Token、Mybatis-Plus、WarmFlow、SpringDoc、Hutool、OSS 定期同步",
+  "description_ja": "",
   "url": "https://github.com/dromara/RuoYi-Vue-Plus",
   "homepage_url": "https://plus-doc.dromara.org",
   "language": "Java",
@@ -16,13 +16,13 @@
     "springboot",
     "vue"
   ],
-  "star_count": 2337,
-  "fork_count": 684,
+  "star_count": 2342,
+  "fork_count": 685,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-23T06:32:20Z",
-  "updated_at": "2026-06-24T06:30:16Z",
-  "pushed_at": "2026-06-24T09:33:29Z",
+  "updated_at": "2026-06-25T10:57:08Z",
+  "pushed_at": "2026-06-25T09:24:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -220,6 +220,10 @@
     {
       "date": "2026-06-24",
       "stars": 2337
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 2342
     }
   ]
 }

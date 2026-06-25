@@ -3,20 +3,33 @@
   "owner": "hinatayoki",
   "name": "yokiframe",
   "full_name": "hinatayoki/yokiframe",
-  "description": "一个轻量级的 Unity 开发框架 提供架构设计、事件系统、动作序列、状态机、UI管理、音频管理、存档系统等常用功能模块。提供常用工具的编辑器监控面板。",
+  "description": "YokiFrame 是一个面向 Unity 与 Godot 的跨引擎游戏开发框架，提供架构分层、事件系统、状态机、对象池、资源管理、UI 工具和编辑器扩展，帮助开发者构建更清晰的游戏项目。",
   "description_ja": "",
   "url": "https://github.com/HinataYoki/YokiFrame",
   "homepage_url": "",
   "language": "C#",
   "license": "MIT",
-  "topics": [],
-  "star_count": 194,
+  "topics": [
+    "ai",
+    "ai-native",
+    "architecture",
+    "csharp",
+    "editor-tools",
+    "framework",
+    "game-framework",
+    "godot",
+    "godot-framework",
+    "unity",
+    "unity-framework",
+    "yokiframe"
+  ],
+  "star_count": 195,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-14T09:03:13Z",
-  "updated_at": "2026-06-24T05:44:31Z",
-  "pushed_at": "2026-06-24T13:10:01Z",
+  "updated_at": "2026-06-25T18:10:46Z",
+  "pushed_at": "2026-06-25T17:27:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +87,10 @@
     {
       "date": "2026-06-24",
       "stars": 194
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 195
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "nylxar",
   "name": "curium",
   "full_name": "nylxar/curium",
-  "description": "A modern, feature-rich offline QR customizer, generator, and scanner",
+  "description": "A modern, feature-rich, and ad-free QR customizer, generator, and scanner",
   "description_ja": "",
   "url": "https://github.com/nylxar/curium",
   "homepage_url": "",
@@ -19,14 +19,15 @@
     "qrcode-customization",
     "qrcode-generator",
     "qrcode-scanner",
-    "react-native"
+    "react-native",
+    "typescript"
   ],
-  "star_count": 67,
-  "fork_count": 6,
+  "star_count": 91,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T18:15:25Z",
-  "updated_at": "2026-06-24T19:11:40Z",
+  "updated_at": "2026-06-25T21:02:56Z",
   "pushed_at": "2026-06-24T10:05:46Z",
   "deleted_at": "",
   "star_history": [
@@ -57,6 +58,10 @@
     {
       "date": "2026-06-24",
       "stars": 67
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 91
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "symplify",
   "name": "coding-standard",
   "full_name": "symplify/coding-standard",
-  "description": "Coding Standard rules for PHP projects with focus on Clean Architecture",
-  "description_ja": "クリーンアーキテクチャに特化した PHP プロジェクト向けコーディング標準ルール",
+  "description": "[Deprecated] Use ECS that includes this set with more new rules ",
+  "description_ja": "",
   "url": "https://github.com/symplify/coding-standard",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/ecsphp/ecs",
   "language": "PHP",
   "license": "MIT",
   "topics": [
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-12-28T17:35:52Z",
-  "updated_at": "2026-06-23T17:19:15Z",
-  "pushed_at": "2026-06-10T12:45:21Z",
+  "updated_at": "2026-06-25T09:49:54Z",
+  "pushed_at": "2026-06-25T09:49:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -222,6 +222,10 @@
     },
     {
       "date": "2026-06-24",
+      "stars": 382
+    },
+    {
+      "date": "2026-06-25",
       "stars": 382
     }
   ]

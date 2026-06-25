@@ -7,7 +7,7 @@
   "description_ja": "OneBusAway の公式 Android アプリ",
   "url": "https://github.com/OneBusAway/onebusaway-android",
   "homepage_url": "http://www.onebusaway.org/",
-  "language": "Java",
+  "language": "Kotlin",
   "license": "NOASSERTION",
   "topics": [
     "android",
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-06-10T01:07:10Z",
-  "updated_at": "2026-06-23T00:01:57Z",
-  "pushed_at": "2026-06-23T00:01:53Z",
+  "updated_at": "2026-06-25T05:57:49Z",
+  "pushed_at": "2026-06-25T05:57:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -224,6 +224,10 @@
     },
     {
       "date": "2026-06-24",
+      "stars": 555
+    },
+    {
+      "date": "2026-06-25",
       "stars": 555
     }
   ]

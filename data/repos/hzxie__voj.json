@@ -3,8 +3,8 @@
   "owner": "hzxie",
   "name": "voj",
   "full_name": "hzxie/voj",
-  "description": "A cross-platform online judge system based on Spring MVC framework and ActiveMQ.",
-  "description_ja": "Spring MVCフレームワークとActiveMQを基盤としたクロスプラットフォームオンラインジャッジシステム。",
+  "description": "A cross-platform online judge system based on Spring framework and ActiveMQ.",
+  "description_ja": "",
   "url": "https://github.com/hzxie/voj",
   "homepage_url": "https://verwandlung.org",
   "language": "Java",
@@ -13,17 +13,17 @@
     "activemq",
     "docker",
     "java",
-    "mybatis",
+    "jni",
     "online-judge",
-    "spring-mvc"
+    "spring-boot"
   ],
-  "star_count": 611,
+  "star_count": 612,
   "fork_count": 121,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-10-14T15:34:46Z",
-  "updated_at": "2026-06-24T16:43:30Z",
-  "pushed_at": "2026-06-24T16:43:25Z",
+  "updated_at": "2026-06-25T16:01:18Z",
+  "pushed_at": "2026-06-25T12:49:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -225,6 +225,10 @@
     {
       "date": "2026-06-24",
       "stars": 611
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 612
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "kaelio",
   "name": "ktx",
   "full_name": "kaelio/ktx",
-  "description": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or other AI agents to query data accurately and with full context of your company",
+  "description": "ktx is an executable context layer for data and analytics agents 🐙 Allow Claude Code, Codex, or other AI agents to query analytical databases accurately and with full context of your company",
   "description_ja": "",
   "url": "https://github.com/Kaelio/ktx",
   "homepage_url": "https://docs.kaelio.com/ktx",
@@ -31,13 +31,13 @@
     "semantic-layer",
     "skills"
   ],
-  "star_count": 1378,
-  "fork_count": 77,
+  "star_count": 1401,
+  "fork_count": 79,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-10T19:42:32Z",
-  "updated_at": "2026-06-24T19:58:52Z",
-  "pushed_at": "2026-06-24T18:40:32Z",
+  "updated_at": "2026-06-25T20:42:02Z",
+  "pushed_at": "2026-06-25T18:50:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -139,6 +139,10 @@
     {
       "date": "2026-06-24",
       "stars": 1378
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 1401
     }
   ]
 }
