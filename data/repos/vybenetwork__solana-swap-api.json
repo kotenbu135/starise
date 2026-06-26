@@ -3,7 +3,7 @@
   "owner": "vybenetwork",
   "name": "solana-swap-api",
   "full_name": "vybenetwork/solana-swap-api",
-  "description": "Solana Swap API: This repository demonstrates how to use the Vybe Solana swap API to fetch DEX quotes, compare Vybe/Jupiter/Titan routes, and build unsigned swap transactions for any SPL or Token-2022 token. Use this project as a reference implementation or starter kit for building Solana swap UIs, wallet integrations and on-chain trading apps.",
+  "description": "Solana Swap API \u0026 Router",
   "description_ja": "",
   "url": "https://github.com/vybenetwork/solana-swap-api",
   "homepage_url": "https://docs.vybenetwork.com",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-03T18:37:37Z",
-  "updated_at": "2026-06-25T19:12:01Z",
-  "pushed_at": "2026-06-25T19:11:57Z",
+  "updated_at": "2026-06-26T19:50:22Z",
+  "pushed_at": "2026-06-26T18:58:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +74,10 @@
     },
     {
       "date": "2026-06-25",
+      "stars": 230
+    },
+    {
+      "date": "2026-06-26",
       "stars": 230
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "snishaper",
   "name": "snishaper",
   "full_name": "snishaper/snishaper",
-  "description": "通过域前置，ECH，TLS分片，QUIC直连和动态反代中转绕过任意SNI阻断的桌面代理工具，DNS层同样抗污染阻断，直连的全功能平台。",
+  "description": "A desktop application supporting multiple methods to bypass SNI blocking, designed for complex network environments.",
   "description_ja": "",
   "url": "https://github.com/SniShaper/SniShaper",
   "homepage_url": "https://jetcpp.dpdns.org/snishaper",
@@ -29,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-17T06:09:53Z",
-  "updated_at": "2026-06-25T14:53:42Z",
-  "pushed_at": "2026-06-14T09:06:14Z",
+  "updated_at": "2026-06-26T13:37:49Z",
+  "pushed_at": "2026-06-26T14:14:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -235,6 +235,10 @@
     },
     {
       "date": "2026-06-25",
+      "stars": 112
+    },
+    {
+      "date": "2026-06-26",
       "stars": 112
     }
   ]

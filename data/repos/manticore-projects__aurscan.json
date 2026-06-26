@@ -6,7 +6,7 @@
   "description": "Automatically scan AUR packages for malware before installing (using LLM/AI)",
   "description_ja": "",
   "url": "https://github.com/manticore-projects/aurscan",
-  "homepage_url": "https://manticore-projects.com",
+  "homepage_url": "https://manticore-projects.com/aurscan/README.html",
   "language": "Go",
   "license": "NOASSERTION",
   "topics": [
@@ -24,7 +24,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-13T02:59:22Z",
-  "updated_at": "2026-06-25T11:43:21Z",
+  "updated_at": "2026-06-26T14:09:31Z",
   "pushed_at": "2026-06-25T03:06:44Z",
   "deleted_at": "",
   "star_history": [
@@ -70,6 +70,10 @@
     },
     {
       "date": "2026-06-25",
+      "stars": 104
+    },
+    {
+      "date": "2026-06-26",
       "stars": 104
     }
   ]

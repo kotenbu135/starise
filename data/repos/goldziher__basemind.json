@@ -3,7 +3,7 @@
   "owner": "goldziher",
   "name": "basemind",
   "full_name": "goldziher/basemind",
-  "description": "Full AI context layer for coding agents over one MCP server — tree-sitter code-map, document RAG, shared memory, multi-agent comms, web crawl, git history + blame. 300+ languages, 10+ agent harnesses, pure Rust.",
+  "description": "Full AI context and content layer for coding agents over one MCP server — tree-sitter code-map, document RAG, shared memory, multi-agent comms, web crawl, git history + blame. 300+ languages, 10+ agent harnesses, pure Rust.",
   "description_ja": "",
   "url": "https://github.com/Goldziher/basemind",
   "homepage_url": "https://docs.rs/basemind",
@@ -31,13 +31,13 @@
     "vector-search",
     "web-crawler"
   ],
-  "star_count": 34,
+  "star_count": 36,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-01T11:56:53Z",
-  "updated_at": "2026-06-25T18:43:56Z",
-  "pushed_at": "2026-06-25T18:43:52Z",
+  "updated_at": "2026-06-26T17:13:59Z",
+  "pushed_at": "2026-06-26T12:27:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-06-25",
       "stars": 34
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 36
     }
   ]
 }

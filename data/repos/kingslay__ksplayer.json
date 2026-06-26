@@ -3,8 +3,8 @@
   "owner": "kingslay",
   "name": "ksplayer",
   "full_name": "kingslay/ksplayer",
-  "description": "A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, SwiftUI, support subtitles.",
-  "description_ja": "AVPlayerとFFmpegをベースにしたiOS・macOS・tvOS・visionOS向け動画プレイヤー。横/縦画面対応、スライドによる音量・輝度・シーク調整、SwiftUI、字幕表示をサポート。",
+  "description": "A video player for iOS、macOS、tvOS、visionOS , based on AVPlayer and FFmpeg, support HLG、HDR10、 HDR10+、Dolby Vision、Dolby Atmos、Text/Image subtitle.",
+  "description_ja": "",
   "url": "https://github.com/kingslay/KSPlayer",
   "homepage_url": "https://apps.apple.com/app/tracyplayer/id6450770064",
   "language": "Swift",
@@ -12,6 +12,9 @@
   "topics": [
     "audio-player",
     "avplayer",
+    "dolby",
+    "dolby-atmos",
+    "dolby-vision",
     "ffmpeg",
     "ios",
     "macos",
@@ -26,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-05-23T08:21:06Z",
-  "updated_at": "2026-06-24T09:18:28Z",
-  "pushed_at": "2026-06-10T11:38:26Z",
+  "updated_at": "2026-06-26T09:52:45Z",
+  "pushed_at": "2026-06-26T09:52:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -232,6 +235,10 @@
     },
     {
       "date": "2026-06-25",
+      "stars": 1586
+    },
+    {
+      "date": "2026-06-26",
       "stars": 1586
     }
   ]

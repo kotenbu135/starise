@@ -3,10 +3,10 @@
   "owner": "nampara-ai",
   "name": "librarian",
   "full_name": "nampara-ai/librarian",
-  "description": "Text corpus cleaner and organizer",
+  "description": "Text corpus cleaner and organizer. Local-first document parsing/copyediting/indexing pipeline. Feed it transcripts, PDFs, DOCX, images, or scans. Librarian extracts the text, cleans it with an LLM to CMOS style and punctuation standards, files each document under a Dewey-style classification, and makes the whole collection full-text searchable.",
   "description_ja": "",
   "url": "https://github.com/nampara-ai/librarian",
-  "homepage_url": "",
+  "homepage_url": "https://nampara-ai.github.io/librarian/",
   "language": "Python",
   "license": "MIT",
   "topics": [],
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-05T18:23:31Z",
-  "updated_at": "2026-06-23T07:53:00Z",
-  "pushed_at": "2026-06-24T15:33:50Z",
+  "updated_at": "2026-06-26T20:09:33Z",
+  "pushed_at": "2026-06-26T19:20:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +37,10 @@
     },
     {
       "date": "2026-06-25",
+      "stars": 47
+    },
+    {
+      "date": "2026-06-26",
       "stars": 47
     }
   ]

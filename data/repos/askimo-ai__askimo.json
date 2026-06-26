@@ -3,7 +3,7 @@
   "owner": "askimo-ai",
   "name": "askimo",
   "full_name": "askimo-ai/askimo",
-  "description": "Chat, RAG search, multi-step Plans workflows, MCP tools, and Agents integration. Supports OpenAI, Claude, Gemini, Grok, Ollama, LM Studio and more",
+  "description": "All-in-one AI workspace for chat, RAG, plans, MCP tools, and agents with multi-provider model support. ⭐ Star this repo if you find it useful!",
   "description_ja": "",
   "url": "https://github.com/askimo-ai/askimo",
   "homepage_url": "https://askimo.chat",
@@ -31,13 +31,13 @@
     "rag",
     "retrieval-augmented-generation"
   ],
-  "star_count": 165,
+  "star_count": 166,
   "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-05T06:25:32Z",
-  "updated_at": "2026-06-25T19:02:31Z",
-  "pushed_at": "2026-06-25T19:13:37Z",
+  "updated_at": "2026-06-26T17:16:12Z",
+  "pushed_at": "2026-06-26T04:54:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -243,6 +243,10 @@
     {
       "date": "2026-06-25",
       "stars": 165
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 166
     }
   ]
 }

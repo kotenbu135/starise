@@ -3,8 +3,8 @@
   "owner": "adamant-im",
   "name": "adamant-tradebot",
   "full_name": "adamant-im/adamant-tradebot",
-  "description": "Free self-hosted market-making bot for crypto projects \u0026 token issuers. Volume, spread, liquidity, price ranges, and dynamic order books — all in one.",
-  "description_ja": "暗号通貨プロジェクトおよびトークン発行者向けの無料セルフホスト型マーケットメイキングボット。出来高、スプレッド、流動性、価格レンジ、動的な板情報をオールインワンで提供。",
+  "description": "Free self-hosted liquidity bot for token issuers who want to improve CEX market quality without sending tokens, funds, or API keys to a third-party market maker.",
+  "description_ja": "",
   "url": "https://github.com/Adamant-im/adamant-tradebot",
   "homepage_url": "https://marketmaking.app",
   "language": "JavaScript",
@@ -13,6 +13,7 @@
     "algorithmic-trading",
     "bitcoin",
     "blockchain",
+    "cex",
     "crypto",
     "crypto-bot",
     "crypto-exchanges",
@@ -24,18 +25,19 @@
     "orderbook",
     "self-hosted",
     "spread",
+    "token-issuers",
     "trading",
     "trading-bot",
     "trading-volume",
     "volume"
   ],
-  "star_count": 801,
+  "star_count": 802,
   "fork_count": 125,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-12T07:20:00Z",
-  "updated_at": "2026-06-25T14:52:10Z",
-  "pushed_at": "2026-06-25T14:51:49Z",
+  "updated_at": "2026-06-26T12:26:59Z",
+  "pushed_at": "2026-06-26T10:47:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -241,6 +243,10 @@
     {
       "date": "2026-06-25",
       "stars": 801
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 802
     }
   ]
 }

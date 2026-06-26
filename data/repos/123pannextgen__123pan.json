@@ -6,7 +6,7 @@
   "description": "第三方123云盘客户端，解决了123云盘官方客户端的若干问题，并使用模拟移动端的方式解除每日流量1G限制，使用Python和PyQt制作",
   "description_ja": "",
   "url": "https://github.com/123panNextGen/123pan",
-  "homepage_url": "https://download.123panng.top/123pan/",
+  "homepage_url": "https://123pannextgen.github.io/123pan/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -24,12 +24,12 @@
     "requests",
     "uv"
   ],
-  "star_count": 132,
+  "star_count": 133,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-19T14:08:41Z",
-  "updated_at": "2026-06-25T11:35:56Z",
+  "updated_at": "2026-06-26T10:30:41Z",
   "pushed_at": "2026-06-23T03:48:11Z",
   "deleted_at": "",
   "star_history": [
@@ -172,6 +172,10 @@
     {
       "date": "2026-06-25",
       "stars": 132
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 133
     }
   ]
 }

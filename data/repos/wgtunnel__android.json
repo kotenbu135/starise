@@ -3,8 +3,8 @@
   "owner": "wgtunnel",
   "name": "android",
   "full_name": "wgtunnel/android",
-  "description": "A FOSS WireGuard \u0026 AmneziaWG Android client with auto-tunneling, lockdown \u0026 proxying.",
-  "description_ja": "自動トンネリング・ロックダウン・プロキシ機能を備えたFOSSのWireGuard \u0026 AmneziaWG対応Androidクライアント",
+  "description": "A FOSS WireGuard \u0026 AmneziaWG Android client with auto-tunneling, lockdown \u0026 local proxying.",
+  "description_ja": "",
   "url": "https://github.com/wgtunnel/android",
   "homepage_url": "https://wgtunnel.com",
   "language": "Kotlin",
@@ -25,13 +25,13 @@
     "wireguard-ui",
     "wireguard-vpn"
   ],
-  "star_count": 2851,
+  "star_count": 2855,
   "fork_count": 164,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-24T05:14:12Z",
-  "updated_at": "2026-06-25T19:44:32Z",
-  "pushed_at": "2026-06-25T17:20:20Z",
+  "updated_at": "2026-06-26T16:48:02Z",
+  "pushed_at": "2026-06-26T16:57:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -237,6 +237,10 @@
     {
       "date": "2026-06-25",
       "stars": 2851
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 2855
     }
   ]
 }

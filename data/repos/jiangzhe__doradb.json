@@ -3,7 +3,7 @@
   "owner": "jiangzhe",
   "name": "doradb",
   "full_name": "jiangzhe/doradb",
-  "description": "DoraDB - Write a storage engine in Rust from scratch",
+  "description": "DoraDB - Storage engine written in Rust from scratch",
   "description_ja": "",
   "url": "https://github.com/jiangzhe/doradb",
   "homepage_url": "",
@@ -18,13 +18,13 @@
     "storage-engine",
     "transaction-processing"
   ],
-  "star_count": 122,
+  "star_count": 121,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-13T06:30:57Z",
-  "updated_at": "2026-06-25T13:26:08Z",
-  "pushed_at": "2026-06-25T13:26:03Z",
+  "updated_at": "2026-06-26T14:50:52Z",
+  "pushed_at": "2026-06-26T14:33:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -226,6 +226,10 @@
     {
       "date": "2026-06-25",
       "stars": 122
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 121
     }
   ]
 }

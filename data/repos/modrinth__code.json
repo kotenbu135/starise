@@ -7,7 +7,7 @@
   "description_ja": "Modrinthを動かすすべてのコードを含むModrinthモノレポ",
   "url": "https://github.com/modrinth/code",
   "homepage_url": "https://modrinth.com",
-  "language": "Vue",
+  "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
     "hacktoberfest",
@@ -16,13 +16,13 @@
     "modrinth",
     "modrinth-api"
   ],
-  "star_count": 2188,
-  "fork_count": 526,
+  "star_count": 2190,
+  "fork_count": 525,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-20T21:38:30Z",
-  "updated_at": "2026-06-25T20:37:15Z",
-  "pushed_at": "2026-06-25T21:05:09Z",
+  "updated_at": "2026-06-26T16:43:13Z",
+  "pushed_at": "2026-06-26T19:15:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -228,6 +228,10 @@
     {
       "date": "2026-06-25",
       "stars": 2188
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 2190
     }
   ]
 }

@@ -7,7 +7,7 @@
   "description_ja": "AI コーディングエージェント マルチプレクサー",
   "url": "https://github.com/leapmux/leapmux",
   "homepage_url": "https://leapmux.dev",
-  "language": "Go",
+  "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
     "acp",
@@ -31,13 +31,13 @@
     "opencode-ai",
     "pi-coding-agent"
   ],
-  "star_count": 58,
+  "star_count": 59,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T06:07:09Z",
-  "updated_at": "2026-06-23T12:34:51Z",
-  "pushed_at": "2026-06-25T19:11:43Z",
+  "updated_at": "2026-06-26T16:51:47Z",
+  "pushed_at": "2026-06-26T16:51:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -243,6 +243,10 @@
     {
       "date": "2026-06-25",
       "stars": 58
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 59
     }
   ]
 }

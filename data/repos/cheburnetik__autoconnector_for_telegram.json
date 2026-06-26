@@ -3,7 +3,7 @@
   "owner": "cheburnetik",
   "name": "autoconnector_for_telegram",
   "full_name": "cheburnetik/autoconnector_for_telegram",
-  "description": "Авто-коннектор: сам находит, проверяет и поднимает MTProto-прокси для Telegram. Юзер прокси руками не переключает. 100% автоматика.",
+  "description": "It automatically finds, verifies, and sets up MTProto proxies for Telegram. The user doesn't have to switch proxies manually. It is 100% automated. //RU: Сам находит, проверяет и поднимает MTProto-прокси для Telegram. Юзер прокси руками не переключает. 100% автоматика.",
   "description_ja": "",
   "url": "https://github.com/cheburnetik/AutoConnector_for_Telegram",
   "homepage_url": "",
@@ -19,13 +19,13 @@
     "socks5",
     "telegram"
   ],
-  "star_count": 54,
+  "star_count": 55,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-01T00:47:13Z",
-  "updated_at": "2026-06-24T17:42:31Z",
-  "pushed_at": "2026-06-21T16:05:02Z",
+  "updated_at": "2026-06-26T12:02:41Z",
+  "pushed_at": "2026-06-26T09:39:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-06-25",
       "stars": 54
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 55
     }
   ]
 }

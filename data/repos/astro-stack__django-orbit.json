@@ -3,25 +3,27 @@
   "owner": "astro-stack",
   "name": "django-orbit",
   "full_name": "astro-stack/django-orbit",
-  "description": "A modern debugging and observability tool that orbits your Django application without touching it.",
-  "description_ja": "Djangoアプリケーションに触れることなく周回する、モダンなデバッグ・オブザーバビリティツール",
+  "description": "AI agent-native observability and debugging for Django.",
+  "description_ja": "",
   "url": "https://github.com/astro-stack/django-orbit",
   "homepage_url": "https://labs.wearehik.com/django-orbit",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "ai",
+    "ai-agents",
     "debugging",
     "debugging-tool",
     "django",
     "observability"
   ],
-  "star_count": 173,
+  "star_count": 174,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-15T22:18:26Z",
-  "updated_at": "2026-06-25T19:50:08Z",
-  "pushed_at": "2026-06-25T20:04:51Z",
+  "updated_at": "2026-06-26T16:07:47Z",
+  "pushed_at": "2026-06-26T04:09:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -223,6 +225,10 @@
     {
       "date": "2026-06-25",
       "stars": 173
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 174
     }
   ]
 }
