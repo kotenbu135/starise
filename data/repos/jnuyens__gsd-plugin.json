@@ -3,7 +3,7 @@
   "owner": "jnuyens",
   "name": "gsd-plugin",
   "full_name": "jnuyens/gsd-plugin",
-  "description": "Performance-optimized plugin packaging of GSD (Get Shit Done) for Claude Code. Based on open-gsd/get-shit-done-redux",
+  "description": "A structured plan/execute/verify coding workflow for Claude Code: atomic commits, MCP-backed project state, ~92% lower per-turn token overhead, cross-session memory, and native convention + drift-detection safeguards. A Claude Code-native evolution of GSD (Get Shit Done), VibeDrift, and so much more, to generate production-ready projects.",
   "description_ja": "",
   "url": "https://github.com/jnuyens/gsd-plugin",
   "homepage_url": "https://github.com/open-gsd/get-shit-done-redux",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-06T17:56:29Z",
-  "updated_at": "2026-06-25T22:46:07Z",
-  "pushed_at": "2026-06-25T08:14:55Z",
+  "updated_at": "2026-06-27T14:09:02Z",
+  "pushed_at": "2026-06-27T14:08:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -129,6 +129,10 @@
     },
     {
       "date": "2026-06-26",
+      "stars": 71
+    },
+    {
+      "date": "2026-06-27",
       "stars": 71
     }
   ]

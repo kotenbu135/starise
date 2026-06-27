@@ -3,8 +3,8 @@
   "owner": "rodrigo-arenas",
   "name": "sklearn-genetic-opt",
   "full_name": "rodrigo-arenas/sklearn-genetic-opt",
-  "description": "ML hyperparameters tuning and features selection, using evolutionary algorithms.",
-  "description_ja": "進化的アルゴリズムを用いた機械学習のハイパーパラメータチューニングと特徴量選択",
+  "description": "Hyperparameter optimization and feature selection for scikit-learn using evolutionary algorithms. A modern alternative to GridSearchCV and RandomizedSearchCV.",
+  "description_ja": "",
   "url": "https://github.com/rodrigo-arenas/Sklearn-genetic-opt",
   "homepage_url": "https://sklearngeneticopt.rodrigo-arenas.com",
   "language": "Python",
@@ -12,32 +12,27 @@
   "topics": [
     "artificial-intelligence",
     "automl",
-    "begginer-friendly",
-    "contributions-welcome",
-    "deap",
+    "cross-validation",
     "evolutionary-algorithms",
+    "feature-engineering",
     "feature-selection",
-    "featureselection",
-    "good-first-issue",
-    "goodfirstissue",
-    "help-wanted",
+    "grid-search",
     "hyperparameter-optimization",
-    "hyperparameters",
-    "looking-for-contributors",
     "machine-learning",
+    "mlops",
+    "model-optimization",
     "model-selection",
     "python",
     "scikit-learn",
-    "sklearn",
-    "up-for-grabs"
+    "sklearn"
   ],
   "star_count": 362,
-  "fork_count": 92,
+  "fork_count": 95,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-01-18T19:16:48Z",
-  "updated_at": "2026-06-26T20:31:35Z",
-  "pushed_at": "2026-06-26T20:31:31Z",
+  "updated_at": "2026-06-27T19:07:28Z",
+  "pushed_at": "2026-06-27T19:07:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -246,6 +241,10 @@
     },
     {
       "date": "2026-06-26",
+      "stars": 362
+    },
+    {
+      "date": "2026-06-27",
       "stars": 362
     }
   ]

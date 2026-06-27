@@ -3,8 +3,8 @@
   "owner": "sandstorm-io",
   "name": "sandstorm",
   "full_name": "sandstorm-io/sandstorm",
-  "description": "Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI",
-  "description_ja": "Sandstorm はセルフホスト可能なウェブ生産性スイートです。セキュリティ強化されたウェブアプリパッケージマネージャーとして実装されています。| TestMu AI のサポートを受けています。",
+  "description": "Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.",
+  "description_ja": "",
   "url": "https://github.com/sandstorm-io/sandstorm",
   "homepage_url": "https://sandstorm.org",
   "language": "JavaScript",
@@ -23,7 +23,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-01-08T07:10:33Z",
-  "updated_at": "2026-06-26T10:43:21Z",
+  "updated_at": "2026-06-27T02:27:13Z",
   "pushed_at": "2026-06-17T02:34:18Z",
   "deleted_at": "",
   "star_history": [
@@ -233,6 +233,10 @@
     },
     {
       "date": "2026-06-26",
+      "stars": 7038
+    },
+    {
+      "date": "2026-06-27",
       "stars": 7038
     }
   ]

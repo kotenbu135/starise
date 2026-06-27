@@ -3,20 +3,41 @@
   "owner": "atlassian",
   "name": "atlassian-mcp-server",
   "full_name": "atlassian/atlassian-mcp-server",
-  "description": "Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.",
+  "description": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.",
   "description_ja": "",
   "url": "https://github.com/atlassian/atlassian-mcp-server",
   "homepage_url": "https://www.atlassian.com/platform/remote-mcp-server",
   "language": "JavaScript",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 803,
+  "topics": [
+    "ai",
+    "ai-agents",
+    "atlassian",
+    "bitbucket",
+    "chatgpt",
+    "claude",
+    "compass",
+    "confluence",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "jira",
+    "jira-service-management",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "oauth",
+    "rovo",
+    "vscode"
+  ],
+  "star_count": 804,
   "fork_count": 101,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-01T22:31:35Z",
-  "updated_at": "2026-06-26T18:43:59Z",
-  "pushed_at": "2026-06-26T18:42:46Z",
+  "updated_at": "2026-06-27T00:28:13Z",
+  "pushed_at": "2026-06-27T00:39:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -214,6 +235,10 @@
     {
       "date": "2026-06-26",
       "stars": 803
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 804
     }
   ]
 }

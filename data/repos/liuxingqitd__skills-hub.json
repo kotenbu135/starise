@@ -3,23 +3,32 @@
   "owner": "liuxingqitd",
   "name": "skills-hub",
   "full_name": "liuxingqitd/skills-hub",
-  "description": "本地 AI coding agent 技能（skills）管理仪表盘，一站式查看、同步与安装多个 agent 的技能文件。",
+  "description": "A local dashboard to manage AI coding agent skills — sync, install, and organize skills across OpenClaw, Cursor, Claude Code, and more.",
   "description_ja": "",
   "url": "https://github.com/liuxingqitd/skills-hub",
-  "homepage_url": "",
+  "homepage_url": "https://skills-hub.dev",
   "language": "TypeScript",
-  "license": "",
+  "license": "MIT",
   "topics": [
-    "codingagent",
-    "skills"
+    "ai-agent",
+    "ai-tools",
+    "claude-code",
+    "coding-agent",
+    "cursor",
+    "developer-tools",
+    "devtools",
+    "nextjs",
+    "openclaw",
+    "skills",
+    "tauri"
   ],
   "star_count": 63,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-10T13:46:07Z",
-  "updated_at": "2026-06-25T10:38:23Z",
-  "pushed_at": "2026-06-26T04:01:16Z",
+  "updated_at": "2026-06-27T05:40:14Z",
+  "pushed_at": "2026-06-27T05:40:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +77,10 @@
     },
     {
       "date": "2026-06-26",
+      "stars": 63
+    },
+    {
+      "date": "2026-06-27",
       "stars": 63
     }
   ]

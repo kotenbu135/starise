@@ -3,7 +3,7 @@
   "owner": "samuraigpt",
   "name": "seedance-2-generator",
   "full_name": "samuraigpt/seedance-2-generator",
-  "description": "Open-source Next.js SaaS for Seedance 2.0 and Seedance 2 Mini video generation — Stripe billing, credits, NextAuth, and Prisma out of the box.",
+  "description": "Open-source Next.js SaaS for Seedance 2.0 , Seedance 2.5 and Seedance 2 Mini video generation — Stripe billing, credits, NextAuth, and Prisma out of the box.",
   "description_ja": "",
   "url": "https://github.com/SamurAIGPT/seedance-2-generator",
   "homepage_url": "https://muapi.ai/playground/seedance-2.0-mini-image-to-video",
@@ -20,9 +20,9 @@
     "nextauth",
     "nextjs",
     "nextjs-boilerplate",
-    "prisma",
     "seedance",
     "seedance-2",
+    "seedance-2-5",
     "seedance-2-mini",
     "seedance2",
     "stripe",
@@ -31,12 +31,12 @@
     "video-ai",
     "video-generator"
   ],
-  "star_count": 34,
+  "star_count": 35,
   "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-15T12:36:33Z",
-  "updated_at": "2026-06-26T07:47:11Z",
+  "updated_at": "2026-06-26T21:07:31Z",
   "pushed_at": "2026-06-25T20:36:25Z",
   "deleted_at": "",
   "star_history": [
@@ -75,6 +75,10 @@
     {
       "date": "2026-06-26",
       "stars": 34
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 35
     }
   ]
 }

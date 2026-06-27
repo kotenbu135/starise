@@ -3,12 +3,12 @@
   "owner": "solr159",
   "name": "javboss",
   "full_name": "solr159/javboss",
-  "description": "Local JAV/video movie manager | 开箱即用的本地 JAV/视频 刮削、管理、播放工具，只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，从此告别Jellyfin/Emby，带给你顶级的浏览体验，懒人必备。",
+  "description": "Local JAV/video movie manager | 开箱即用的本地 JAV/视频 刮削、管理、播放工具，支持命令行一键安装。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，从此告别 Jellyfin 和 Emby，带给你顶级的浏览体验，懒人必备。",
   "description_ja": "",
   "url": "https://github.com/Solr159/JavBoss",
   "homepage_url": "",
   "language": "Go",
-  "license": "",
+  "license": "GPL-3.0",
   "topics": [
     "jav",
     "javbus",
@@ -17,13 +17,13 @@
     "porn",
     "scraper"
   ],
-  "star_count": 76,
+  "star_count": 77,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-21T08:09:36Z",
-  "updated_at": "2026-06-26T10:00:07Z",
-  "pushed_at": "2026-06-25T14:24:01Z",
+  "updated_at": "2026-06-27T09:01:07Z",
+  "pushed_at": "2026-06-27T14:53:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -133,6 +133,10 @@
     {
       "date": "2026-06-26",
       "stars": 76
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 77
     }
   ]
 }

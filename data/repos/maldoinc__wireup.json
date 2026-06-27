@@ -3,8 +3,8 @@
   "owner": "maldoinc",
   "name": "wireup",
   "full_name": "maldoinc/wireup",
-  "description": "Type-driven dependency injection for Python. Fail-fast validation, explicit lifetimes, native integrations for FastAPI, Flask, Django, and more.",
-  "description_ja": "Python向けの型駆動依存性注入ライブラリ。フェイルファスト検証、明示的なライフタイム、FastAPI・Flask・Djangoなどとのネイティブ統合に対応",
+  "description": "Type-driven dependency injection for Python. Fail-fast validation, lifetimes, native integrations for FastAPI, Flask, Django, and more.",
+  "description_ja": "",
   "url": "https://github.com/maldoinc/wireup",
   "homepage_url": "https://maldoinc.github.io/wireup/",
   "language": "Python",
@@ -28,12 +28,12 @@
     "service-locator",
     "starlette"
   ],
-  "star_count": 424,
+  "star_count": 425,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-19T22:09:32Z",
-  "updated_at": "2026-06-26T18:34:21Z",
+  "updated_at": "2026-06-27T17:01:46Z",
   "pushed_at": "2026-06-16T20:01:50Z",
   "deleted_at": "",
   "star_history": [
@@ -240,6 +240,10 @@
     {
       "date": "2026-06-26",
       "stars": 424
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 425
     }
   ]
 }

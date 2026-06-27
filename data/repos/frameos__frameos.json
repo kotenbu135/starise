@@ -7,7 +7,7 @@
   "description_ja": "単機能スマートフレーム向けオペレーティングシステム。",
   "url": "https://github.com/FrameOS/frameos",
   "homepage_url": "https://frameos.net/",
-  "language": "Nim",
+  "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
     "framebuffer",
@@ -19,13 +19,13 @@
     "waveshare",
     "waveshare-epaper"
   ],
-  "star_count": 439,
+  "star_count": 440,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-21T22:58:16Z",
-  "updated_at": "2026-06-26T18:40:08Z",
-  "pushed_at": "2026-06-26T18:59:57Z",
+  "updated_at": "2026-06-27T17:48:44Z",
+  "pushed_at": "2026-06-27T17:48:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -231,6 +231,10 @@
     {
       "date": "2026-06-26",
       "stars": 439
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 440
     }
   ]
 }

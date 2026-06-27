@@ -3,8 +3,8 @@
   "owner": "roshancodespace",
   "name": "shonenx",
   "full_name": "roshancodespace/shonenx",
-  "description": "📱 A modern anime streaming app built with Flutter, designed for speed, beauty, and real anime fans. Enjoy smooth HD playback, intuitive genre discovery, and offline viewing, all wrapped in a sleek, thoughtfully crafted UI. 🎬 The app already delivers a fully functional anime streaming experience, with ongoing development of AniList and MyAnimeList",
-  "description_ja": "Flutterで構築されたモダンなアニメストリーミングアプリ。速度・美しさ・アニメファーストを追求。スムーズなHD再生、直感的なジャンル検索、オフライン視聴を洗練されたUIで提供。AniListおよびMyAnimeList連携も開発中",
+  "description": "A modern Flutter application for media discovery, tracking, and streaming. Featuring seamless AniList and MyAnimeList integration, customizable content providers, offline capabilities, smooth playback, and a refined user experience, the app is built with a strong focus on performance, scalability, and modern design principles.",
+  "description_ja": "",
   "url": "https://github.com/roshancodespace/ShonenX",
   "homepage_url": "https://shonenx.vercel.app",
   "language": "Dart",
@@ -28,13 +28,13 @@
     "video-player",
     "video-streaming"
   ],
-  "star_count": 285,
-  "fork_count": 30,
+  "star_count": 288,
+  "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-26T08:44:23Z",
-  "updated_at": "2026-06-26T14:45:49Z",
-  "pushed_at": "2026-06-26T14:45:45Z",
+  "updated_at": "2026-06-27T17:32:41Z",
+  "pushed_at": "2026-06-27T17:32:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -244,6 +244,10 @@
     {
       "date": "2026-06-26",
       "stars": 285
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 288
     }
   ]
 }

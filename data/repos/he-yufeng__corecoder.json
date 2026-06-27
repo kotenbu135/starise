@@ -3,8 +3,8 @@
   "owner": "he-yufeng",
   "name": "corecoder",
   "full_name": "he-yufeng/corecoder",
-  "description": "Minimal AI coding agent (~1,400 LoC Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.",
-  "description_ja": "Claude Codeにインスパイアされた最小限のAIコーディングエージェント（Python約1,400行）。あらゆるLLMに対応。コーディングエージェント版NanoGPT。旧称NanoCoder。",
+  "description": "Minimal AI coding agent (~1,000 lines of Python) inspired by Claude Code. Works with any LLM. Think NanoGPT for coding agents. Formerly NanoCoder.",
+  "description_ja": "",
   "url": "https://github.com/he-yufeng/CoreCoder",
   "homepage_url": "https://pypi.org/project/corecoder/",
   "language": "Python",
@@ -21,13 +21,13 @@
     "openai",
     "python"
   ],
-  "star_count": 1313,
-  "fork_count": 300,
+  "star_count": 1379,
+  "fork_count": 306,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-01T19:54:54Z",
-  "updated_at": "2026-06-26T19:51:31Z",
-  "pushed_at": "2026-06-23T10:40:56Z",
+  "updated_at": "2026-06-27T18:20:41Z",
+  "pushed_at": "2026-06-27T09:42:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -237,6 +237,10 @@
     {
       "date": "2026-06-26",
       "stars": 1313
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 1379
     }
   ]
 }

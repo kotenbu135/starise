@@ -3,13 +3,14 @@
   "owner": "routatic",
   "name": "proxy",
   "full_name": "routatic/proxy",
-  "description": "Use your OpenCode Go subscription with Claude Code.",
+  "description": "route Claude Code requests through multiple upstream providers (OpenCode Go, OpenCode Zen, and AWS Bedrock) with automatic model selection and format transformation.",
   "description_ja": "",
   "url": "https://github.com/routatic/proxy",
   "homepage_url": "",
   "language": "Go",
   "license": "AGPL-3.0",
   "topics": [
+    "aws-bedrock",
     "claude",
     "claude-code",
     "claude-code-cli",
@@ -18,12 +19,12 @@
     "opencode-go",
     "opencode-zen"
   ],
-  "star_count": 797,
-  "fork_count": 111,
+  "star_count": 804,
+  "fork_count": 112,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T00:55:43Z",
-  "updated_at": "2026-06-26T19:29:35Z",
+  "updated_at": "2026-06-27T14:23:28Z",
   "pushed_at": "2026-06-26T16:28:15Z",
   "deleted_at": "",
   "star_history": [
@@ -134,6 +135,10 @@
     {
       "date": "2026-06-26",
       "stars": 797
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 804
     }
   ]
 }
