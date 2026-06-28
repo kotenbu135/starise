@@ -3,18 +3,23 @@
   "owner": "intent-driven-dev",
   "name": "intent-driven-template",
   "full_name": "intent-driven-dev/intent-driven-template",
-  "description": "OpenSpec and OpenCode template for intent-driven development with specs, ADRs, C4 diagrams, Gherkin, TDD, and reusable engineering workflows.",
+  "description": "OpenSpec and OpenCode template for intent-driven development with specs, ADRs, C4 diagrams, Gherkin, TDD, Multi-Model Adversarial Spec Authoring, Glossary for Domain Terms, and reusable engineering workflows.",
   "description_ja": "",
   "url": "https://github.com/intent-driven-dev/intent-driven-template",
   "homepage_url": "https://intent-driven.dev",
   "language": "",
   "license": "",
   "topics": [
+    "adversarial-ai",
     "aicoding",
     "architectural-decision-records",
     "c4model",
     "context-engineering",
+    "ddd",
+    "ddd-patterns",
+    "domain-driven-design",
     "git-worktrees",
+    "multi-model",
     "opencode",
     "openspec",
     "sdd",
@@ -24,13 +29,13 @@
     "superpowers",
     "vibe-coding"
   ],
-  "star_count": 50,
+  "star_count": 53,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-10T11:13:51Z",
-  "updated_at": "2026-06-27T11:22:11Z",
-  "pushed_at": "2026-06-27T11:22:07Z",
+  "updated_at": "2026-06-28T10:02:27Z",
+  "pushed_at": "2026-06-28T02:44:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +49,10 @@
     {
       "date": "2026-06-27",
       "stars": 50
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 53
     }
   ]
 }

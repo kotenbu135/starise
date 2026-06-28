@@ -3,11 +3,11 @@
   "owner": "astoriel",
   "name": "trackboard",
   "full_name": "astoriel/trackboard",
-  "description": "Open-source workspace for analytics tracking plans. Import schemas, branch changes, publish versions, validate payloads.",
-  "description_ja": "アナリティクストラッキングプランのオープンソースワークスペース。スキーマのインポート、変更のブランチ管理、バージョンの公開、ペイロードの検証が可能。",
+  "description": "An open-source alternative to Avo. Trackboard keeps your analytics deterministic and safe, while integrating AI to design, implement, test, and triage events seamlessly.",
+  "description_ja": "",
   "url": "https://github.com/Astoriel/trackboard",
-  "homepage_url": "http://github.astoriel.tech/trackboard/",
-  "language": "TypeScript",
+  "homepage_url": "",
+  "language": "Python",
   "license": "",
   "topics": [
     "analytics",
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-05-08T10:40:04Z",
-  "updated_at": "2026-06-25T05:17:12Z",
-  "pushed_at": "2026-05-02T14:18:09Z",
+  "updated_at": "2026-06-28T11:56:43Z",
+  "pushed_at": "2026-06-28T11:56:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -236,6 +236,10 @@
     },
     {
       "date": "2026-06-27",
+      "stars": 92
+    },
+    {
+      "date": "2026-06-28",
       "stars": 92
     }
   ]

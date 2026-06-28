@@ -7,7 +7,7 @@
   "description_ja": "PR オートメーションを通じて Terraform/OpenTofu のプランと適用を行い、安全でスケーラブルな IaC ワークフローのベストプラクティスを活用します。",
   "url": "https://github.com/OP5dev/TF-via-PR",
   "homepage_url": "https://OP5.dev/s/tf-via-pr",
-  "language": "HCL",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "automation",
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-07T00:30:15Z",
-  "updated_at": "2026-06-25T10:50:47Z",
-  "pushed_at": "2026-06-25T10:50:41Z",
+  "updated_at": "2026-06-28T02:39:48Z",
+  "pushed_at": "2026-06-28T02:55:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -235,6 +235,10 @@
     },
     {
       "date": "2026-06-27",
+      "stars": 330
+    },
+    {
+      "date": "2026-06-28",
       "stars": 330
     }
   ]

@@ -18,6 +18,7 @@
     "document-database",
     "embedding-similarity",
     "foundationdb",
+    "horizontal-scaling",
     "json",
     "key-value-store",
     "kronotop",
@@ -27,13 +28,13 @@
     "vector-search",
     "vector-similarity"
   ],
-  "star_count": 296,
+  "star_count": 298,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-03T07:52:04Z",
-  "updated_at": "2026-06-25T22:40:50Z",
-  "pushed_at": "2026-06-25T22:40:46Z",
+  "updated_at": "2026-06-28T18:59:17Z",
+  "pushed_at": "2026-06-28T18:59:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -119,6 +120,10 @@
     {
       "date": "2026-06-27",
       "stars": 296
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 298
     }
   ]
 }

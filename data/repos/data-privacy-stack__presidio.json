@@ -1,0 +1,260 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkxMzIxMjk3NTI=",
+  "owner": "data-privacy-stack",
+  "name": "presidio",
+  "full_name": "data-privacy-stack/presidio",
+  "description": "An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines.",
+  "description_ja": "テキスト・画像・構造化データ全体にわたる機密情報（PII）の検出・削除・マスキング・匿名化のためのオープンソースフレームワーク。NLP、パターンマッチング、カスタマイズ可能なパイプラインをサポートします。",
+  "url": "https://github.com/data-privacy-stack/presidio",
+  "homepage_url": "https://presidio.dataprivacystack.org",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "anonymization",
+    "data-anonymization",
+    "data-masking",
+    "data-obfuscation",
+    "data-privacy",
+    "data-redaction",
+    "de-identification",
+    "guardrails",
+    "image-redactor",
+    "named-entity-recognition",
+    "nlp",
+    "personally-identifiable-information",
+    "phi",
+    "pii",
+    "pii-detection",
+    "privacy",
+    "python",
+    "sensitive-data",
+    "spacy",
+    "transformers"
+  ],
+  "star_count": 9737,
+  "fork_count": 1173,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2018-05-04T11:08:58Z",
+  "updated_at": "2026-06-28T17:56:11Z",
+  "pushed_at": "2026-06-28T19:31:12Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 7684
+    },
+    {
+      "date": "2026-04-23",
+      "stars": 7732
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 7790
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 7819
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 7866
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 7911
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 7916
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 7925
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 7935
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 7998
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 8004
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 8020
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 8037
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 8063
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 8074
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 8087
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 8100
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 8117
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 8138
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 8175
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 8236
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 8250
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 8282
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 8300
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 8339
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 8372
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 8383
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 8407
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 8437
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 8447
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 8462
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 8472
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 8485
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 8503
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 8527
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 8550
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 8568
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 8583
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 8594
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 8611
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 8627
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 8644
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 8660
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 8685
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 9111
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 9345
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 9398
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 9462
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 9507
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 9575
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 9670
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 9704
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 9727
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 9737
+    }
+  ]
+}

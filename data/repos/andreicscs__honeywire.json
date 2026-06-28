@@ -10,15 +10,16 @@
   "language": "Go",
   "license": "AGPL-3.0",
   "topics": [
-    "blueteam",
+    "blue-team",
     "canary",
+    "cyber-deception",
     "cybersecurity",
     "deception-technology",
     "devsecops",
     "distroless",
     "docker-compose",
+    "docker-security",
     "endpoint-security",
-    "golang",
     "homelab",
     "honeypot",
     "security",
@@ -26,15 +27,14 @@
     "siem",
     "threat-detection",
     "threat-intelligence",
-    "tripwire",
-    "vue3"
+    "tripwire"
   ],
   "star_count": 71,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-26T21:48:50Z",
-  "updated_at": "2026-06-27T13:09:30Z",
+  "updated_at": "2026-06-28T09:57:04Z",
   "pushed_at": "2026-06-26T12:49:07Z",
   "deleted_at": "",
   "star_history": [
@@ -164,6 +164,10 @@
     },
     {
       "date": "2026-06-27",
+      "stars": 71
+    },
+    {
+      "date": "2026-06-28",
       "stars": 71
     }
   ]

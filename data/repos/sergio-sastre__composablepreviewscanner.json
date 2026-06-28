@@ -3,8 +3,8 @@
   "owner": "sergio-sastre",
   "name": "composablepreviewscanner",
   "full_name": "sergio-sastre/composablepreviewscanner",
-  "description": "A library to help auto-generate screenshot tests from Composable Previews (e.g. Android, Glance \u0026 Compose Multiplatform) with any screenshot testing library: JVM-based (i.e. Paparazzi, Roborazzi) as well as Instrumentation-based (i.e. Shot, Dropshots, Android-Testify, etc.)",
-  "description_ja": "Composable Preview（Android、Glance、Compose Multiplatform など）からスクリーンショットテストを自動生成するライブラリ。JVM ベース（Paparazzi、Roborazzi など）およびインストルメンテーションベース（Shot、Dropshots、Android-Testify など）の各スクリーンショットテストライブラリに対応。",
+  "description": "A Compose Multiplatform friendly library to help auto-generate screenshot tests from Composable Previews (e.g. Android, Glance) with any screenshot testing library: JVM-based (i.e. Paparazzi, Roborazzi) as well as Instrumentation-based (i.e. Shot, Dropshots, Android-Testify, etc.).",
+  "description_ja": "",
   "url": "https://github.com/sergio-sastre/ComposablePreviewScanner",
   "homepage_url": "",
   "language": "Kotlin",
@@ -19,7 +19,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-09T18:12:17Z",
-  "updated_at": "2026-06-25T09:00:30Z",
+  "updated_at": "2026-06-28T10:26:31Z",
   "pushed_at": "2026-06-18T08:00:18Z",
   "deleted_at": "",
   "star_history": [
@@ -233,6 +233,10 @@
     },
     {
       "date": "2026-06-27",
+      "stars": 341
+    },
+    {
+      "date": "2026-06-28",
       "stars": 341
     }
   ]

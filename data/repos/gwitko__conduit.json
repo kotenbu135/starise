@@ -3,7 +3,7 @@
   "owner": "gwitko",
   "name": "conduit",
   "full_name": "gwitko/conduit",
-  "description": "A modern SSH, Mosh, and SFTP client for Android and iOS with password, private key, and hardware key (NFC/USB) authentication",
+  "description": "A mobile terminal workspace for Android and iOS with SSH, Mosh, SFTP, hardware-key auth, tmux helpers, and an optional local shell.",
   "description_ja": "",
   "url": "https://github.com/gwitko/Conduit",
   "homepage_url": "https://ko-fi.com/gwitko",
@@ -19,6 +19,7 @@
     "foss",
     "hardware-key",
     "ios",
+    "local-shell",
     "mosh",
     "openssh",
     "password",
@@ -30,13 +31,13 @@
     "terminal-emulator",
     "yubikey"
   ],
-  "star_count": 201,
+  "star_count": 212,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-02T11:22:03Z",
-  "updated_at": "2026-06-27T16:46:56Z",
-  "pushed_at": "2026-06-27T16:43:46Z",
+  "updated_at": "2026-06-28T17:50:29Z",
+  "pushed_at": "2026-06-28T17:50:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +67,10 @@
     {
       "date": "2026-06-27",
       "stars": 201
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 212
     }
   ]
 }

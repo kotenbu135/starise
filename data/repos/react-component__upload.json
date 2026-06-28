@@ -3,20 +3,26 @@
   "owner": "react-component",
   "name": "upload",
   "full_name": "react-component/upload",
-  "description": "📤 Upload UI component for React",
+  "description": "📤 Low-level React upload primitive for Ajax, drag, paste, directory, and custom requests.",
   "description_ja": "",
   "url": "https://github.com/react-component/upload",
-  "homepage_url": "https://upload.react-component.vercel.app/",
+  "homepage_url": "https://react-component.github.io/upload",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "ant-design",
+    "antd",
+    "javascript",
+    "react",
+    "react-component"
+  ],
   "star_count": 804,
   "fork_count": 324,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-05-23T13:18:51Z",
-  "updated_at": "2026-06-26T09:31:51Z",
-  "pushed_at": "2026-06-27T18:03:46Z",
+  "updated_at": "2026-06-28T12:23:54Z",
+  "pushed_at": "2026-06-28T17:47:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -229,6 +235,10 @@
     },
     {
       "date": "2026-06-27",
+      "stars": 804
+    },
+    {
+      "date": "2026-06-28",
       "stars": 804
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "databrickslabs",
   "name": "ontobricks",
   "full_name": "databrickslabs/ontobricks",
-  "description": "OntoBricks turns Databricks tables into a materialized knowledge graph with ontology design, R2RML mapping, reasoning, and auto-generated GraphQL APIs.",
+  "description": "Transforms Databricks Unity Catalog tables into a materialized knowledge graph, with ontology design and reasoning exposed as tools via MCP.",
   "description_ja": "",
   "url": "https://github.com/databrickslabs/ontobricks",
   "homepage_url": "",
@@ -18,13 +18,13 @@
     "swrl",
     "triple-store"
   ],
-  "star_count": 159,
+  "star_count": 161,
   "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-07T08:01:36Z",
-  "updated_at": "2026-06-27T17:55:35Z",
-  "pushed_at": "2026-06-27T17:55:38Z",
+  "updated_at": "2026-06-28T17:21:41Z",
+  "pushed_at": "2026-06-28T14:53:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -222,6 +222,10 @@
     {
       "date": "2026-06-27",
       "stars": 159
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 161
     }
   ]
 }

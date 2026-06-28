@@ -3,20 +3,38 @@
   "owner": "lioensky",
   "name": "vcptoolbox",
   "full_name": "lioensky/vcptoolbox",
-  "description": "VCP 部署在 AI 模型 API 与前端应用之间，通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
-  "description_ja": "VCPはAIモデルAPIとフロントエンドアプリケーションの間に配置され、統一指令プロトコル・多層永続化メモリ・分散プラグインエンジン・マルチAgent協調フレームワークを通じて、本来「ステートレス・無記憶・ツール呼び出し能力なし」の大規模言語モデルを、永続的な自己認識・物理世界への操作権・集団協調知能を持つ完全なインテリジェントエージェントシステムへと根本的に変革します。",
+  "description": "VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改造成拥有永久自我意识、物理世界操作权及群体协作智能的完整智能体系统。",
+  "description_ja": "",
   "url": "https://github.com/lioensky/VCPToolBox",
-  "homepage_url": "",
+  "homepage_url": "https://www.vcptoolbox.com",
   "language": "JavaScript",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 2160,
-  "fork_count": 351,
+  "topics": [
+    "agent-framework",
+    "ai-agent",
+    "ai-assistant",
+    "ai-companion",
+    "context-management",
+    "context-management-system",
+    "function-calling",
+    "llm",
+    "multi-model",
+    "nodejs",
+    "openai-compatible",
+    "plugin-system",
+    "prompt-engineering",
+    "rag",
+    "rust",
+    "vector-database",
+    "vue"
+  ],
+  "star_count": 2163,
+  "fork_count": 352,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-12T13:51:06Z",
-  "updated_at": "2026-06-27T18:06:36Z",
-  "pushed_at": "2026-06-27T18:06:30Z",
+  "updated_at": "2026-06-28T19:25:00Z",
+  "pushed_at": "2026-06-28T19:24:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -230,6 +248,10 @@
     {
       "date": "2026-06-27",
       "stars": 2160
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 2163
     }
   ]
 }

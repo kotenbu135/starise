@@ -3,10 +3,10 @@
   "owner": "pnoker",
   "name": "iot-dc3",
   "full_name": "pnoker/iot-dc3",
-  "description": "IoT DC3 is a fully open-source distributed Internet of Things (IoT) platform built on Spring Cloud. It accelerates IoT project development and simplifies IoT device management, providing comprehensive solutions for building robust IoT systems.",
-  "description_ja": "IoT DC3はSpring Cloud上に構築された完全オープンソースの分散IoTプラットフォームです。IoTプロジェクトの開発を加速し、IoTデバイス管理を簡素化して、堅牢なIoTシステム構築のための包括的なソリューションを提供します。",
+  "description": "IoT DC3 — open-source, cloud-native industrial IoT platform. Multi-protocol device access, data collection \u0026 management with 28 drivers, Spring Cloud, gRPC, and native LLM integration.",
+  "description_ja": "",
   "url": "https://github.com/pnoker/iot-dc3",
-  "homepage_url": "",
+  "homepage_url": "https://docs.dc3.site",
   "language": "Java",
   "license": "NOASSERTION",
   "topics": [
@@ -14,20 +14,18 @@
     "data-collection",
     "device-management",
     "distributed-systems",
+    "docker",
     "edge-computing",
+    "grpc",
     "iiot",
-    "industrial-iot",
-    "internet-of-things",
     "iot",
-    "iot-framework",
-    "iot-platform",
     "java",
     "modbus",
     "mqtt",
     "plc",
-    "robot-data",
     "robotics",
     "siemens",
+    "spring-ai",
     "spring-cloud"
   ],
   "star_count": 641,
@@ -35,8 +33,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-08-28T13:01:37Z",
-  "updated_at": "2026-06-26T12:55:07Z",
-  "pushed_at": "2026-06-26T12:55:03Z",
+  "updated_at": "2026-06-28T16:16:21Z",
+  "pushed_at": "2026-06-28T19:22:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -249,6 +247,10 @@
     },
     {
       "date": "2026-06-27",
+      "stars": 641
+    },
+    {
+      "date": "2026-06-28",
       "stars": 641
     }
   ]
