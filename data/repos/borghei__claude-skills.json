@@ -3,7 +3,7 @@
   "owner": "borghei",
   "name": "claude-skills",
   "full_name": "borghei/claude-skills",
-  "description": "338 AI skills across 16 domains. PM is the deepest (66 skills - discovery, execution, strategy frameworks, GTM, Jira/Linear/Notion). Plus engineering, marketing, C-level (CAIO/CDO/CCO/GC/VPE), compliance + audit-prep, new research/ domain, vertical advisors. 74 expert agents, 784+ stdlib Python tools. 11 AI assistants.",
+  "description": "343 AI skills, 76 expert agents, and 835 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, and more. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.",
   "description_ja": "",
   "url": "https://github.com/borghei/Claude-Skills",
   "homepage_url": "https://borghei.github.io/Claude-Skills",
@@ -22,22 +22,18 @@
     "gemini-cli",
     "github-copilot",
     "jira",
-    "linear",
-    "llm",
     "mcp-server",
     "notion",
-    "openai-codex",
     "product-management",
-    "project-management",
-    "role-based-agents"
+    "project-management"
   ],
-  "star_count": 316,
-  "fork_count": 59,
+  "star_count": 317,
+  "fork_count": 60,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-13T16:15:31Z",
-  "updated_at": "2026-06-28T10:31:59Z",
-  "pushed_at": "2026-06-22T15:51:33Z",
+  "updated_at": "2026-06-29T19:24:17Z",
+  "pushed_at": "2026-06-29T19:12:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -67,6 +63,10 @@
     {
       "date": "2026-06-28",
       "stars": 316
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 317
     }
   ]
 }

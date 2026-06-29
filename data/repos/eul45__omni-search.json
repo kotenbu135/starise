@@ -3,7 +3,7 @@
   "owner": "eul45",
   "name": "omni-search",
   "full_name": "eul45/omni-search",
-  "description": "Fast Windows file search + duplicate finder using NTFS USN/MFT, with Android LAN sync. Built with Tauri, Rust, C++, and Kotlin.",
+  "description": "High-performance Windows file search + duplicate finder using NTFS USN/MFT, with Android LAN sync. Built with Tauri, Rust, C++, and Kotlin.",
   "description_ja": "",
   "url": "https://github.com/Eul45/omni-search",
   "homepage_url": "https://apps.microsoft.com/store/detail/9N7FQ8KPLRJ2?cid=DevShareMCLPCB",
@@ -26,18 +26,22 @@
     "usn-journal",
     "windows"
   ],
-  "star_count": 525,
+  "star_count": 533,
   "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T04:19:55Z",
-  "updated_at": "2026-06-28T19:01:25Z",
-  "pushed_at": "2026-06-28T17:58:48Z",
+  "updated_at": "2026-06-29T19:58:43Z",
+  "pushed_at": "2026-06-29T15:53:03Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-06-28",
       "stars": 525
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 533
     }
   ]
 }

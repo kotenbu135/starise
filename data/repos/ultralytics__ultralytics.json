@@ -3,26 +3,26 @@
   "owner": "ultralytics",
   "name": "ultralytics",
   "full_name": "ultralytics/ultralytics",
-  "description": "Ultralytics YOLO 🚀",
-  "description_ja": "Ultralytics YOLO 🚀",
+  "description": "Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
+  "description_ja": "",
   "url": "https://github.com/ultralytics/ultralytics",
   "homepage_url": "https://platform.ultralytics.com",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
-    "cli",
     "computer-vision",
     "deep-learning",
-    "hub",
     "image-classification",
     "instance-segmentation",
     "machine-learning",
     "object-detection",
+    "object-tracking",
     "pose-estimation",
     "python",
     "pytorch",
     "rotated-object-detection",
     "segment-anything",
+    "semantic-segmentation",
     "tracking",
     "ultralytics",
     "yolo",
@@ -31,13 +31,13 @@
     "yolo26",
     "yolov8"
   ],
-  "star_count": 58904,
-  "fork_count": 11281,
+  "star_count": 58938,
+  "fork_count": 11287,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-09-11T16:39:45Z",
-  "updated_at": "2026-06-28T19:15:39Z",
-  "pushed_at": "2026-06-28T19:19:27Z",
+  "updated_at": "2026-06-29T21:13:17Z",
+  "pushed_at": "2026-06-29T21:46:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -263,6 +263,10 @@
     {
       "date": "2026-06-28",
       "stars": 58904
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 58938
     }
   ]
 }

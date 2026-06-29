@@ -3,7 +3,7 @@
   "owner": "reikanysora",
   "name": "helios",
   "full_name": "reikanysora/helios",
-  "description": "☀️ 3D solar card for Home Assistant: live sun, clouds, PV production + forecast, battery, and LiDAR-cast shadows on your home.",
+  "description": "Helios - Make your energy visible, in 2.5D in a Lovelace card for Home Assistant",
   "description_ja": "",
   "url": "https://github.com/ReikanYsora/Helios",
   "homepage_url": "https://github.com/ReikanYsora/Helios#readme",
@@ -17,20 +17,18 @@
     "homeassistant",
     "lovelace",
     "lovelace-card",
-    "maplibre",
-    "maptiler",
     "photovoltaic",
     "solar",
     "solar-energy",
     "weather"
   ],
-  "star_count": 365,
-  "fork_count": 8,
+  "star_count": 423,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-08T21:27:43Z",
-  "updated_at": "2026-06-27T13:25:56Z",
-  "pushed_at": "2026-06-28T19:23:40Z",
+  "updated_at": "2026-06-29T21:09:01Z",
+  "pushed_at": "2026-06-29T00:52:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -164,6 +162,10 @@
     {
       "date": "2026-06-28",
       "stars": 365
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 423
     }
   ]
 }

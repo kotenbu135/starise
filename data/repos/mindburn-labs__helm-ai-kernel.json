@@ -6,7 +6,7 @@
   "description": "Fail-closed execution firewall for AI agents: quarantine MCP tools, proxy OpenAI-compatible requests, emit signed receipts, and verify EvidencePacks offline.",
   "description_ja": "",
   "url": "https://github.com/Mindburn-Labs/helm-ai-kernel",
-  "homepage_url": "https://helm.docs.mindburn.org/helm-ai-kernel",
+  "homepage_url": "https://helm.docs.mindburn.org/",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
@@ -31,13 +31,13 @@
     "signed-receipts",
     "zero-trust"
   ],
-  "star_count": 76,
+  "star_count": 77,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T12:51:47Z",
-  "updated_at": "2026-06-28T15:29:18Z",
-  "pushed_at": "2026-06-28T06:07:50Z",
+  "updated_at": "2026-06-29T16:44:52Z",
+  "pushed_at": "2026-06-29T16:44:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -67,6 +67,10 @@
     {
       "date": "2026-06-28",
       "stars": 76
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 77
     }
   ]
 }

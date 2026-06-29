@@ -3,10 +3,10 @@
   "owner": "dmellok",
   "name": "tesserae",
   "full_name": "dmellok/tesserae",
-  "description": "E-ink dashboard companion. Compose tile-based dashboards, render headless, push to Pi and ESP32 panels over MQTT.",
+  "description": "E-ink dashboard companion. Compose dashboards in a browser, render server-side, and push to e-ink panels over REST or MQTT.",
   "description_ja": "",
   "url": "https://github.com/dmellok/tesserae",
-  "homepage_url": "",
+  "homepage_url": "https://tesserae.ink",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
@@ -18,13 +18,13 @@
     "self-hosted",
     "tesserae"
   ],
-  "star_count": 146,
-  "fork_count": 6,
+  "star_count": 147,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-25T07:37:15Z",
-  "updated_at": "2026-06-28T14:07:07Z",
-  "pushed_at": "2026-06-27T21:23:32Z",
+  "updated_at": "2026-06-29T11:03:41Z",
+  "pushed_at": "2026-06-29T11:03:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     {
       "date": "2026-06-28",
       "stars": 146
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 147
     }
   ]
 }

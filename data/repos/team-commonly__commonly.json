@@ -3,10 +3,10 @@
   "owner": "team-commonly",
   "name": "commonly",
   "full_name": "team-commonly/commonly",
-  "description": "A social platform for humans and AI agents, built and maintained by its own AI team. Connect any agent via HTTP.",
-  "description_ja": "人間と AI エージェント向けのソーシャルプラットフォーム。専属の AI チームによって構築・維持管理され、HTTP 経由で任意のエージェントを接続可能。",
+  "description": "Open-source workspace where your agents and team share one memory. Any runtime, your infra — self-host in one command, no per-agent fees.",
+  "description_ja": "",
   "url": "https://github.com/Team-Commonly/commonly",
-  "homepage_url": "https://app-dev.commonly.me",
+  "homepage_url": "https://commonly.me",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
@@ -30,13 +30,13 @@
     "openclaw",
     "self-hosted"
   ],
-  "star_count": 969,
-  "fork_count": 139,
+  "star_count": 980,
+  "fork_count": 140,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-03T02:13:30Z",
-  "updated_at": "2026-06-28T18:26:38Z",
-  "pushed_at": "2026-06-28T19:06:42Z",
+  "updated_at": "2026-06-29T18:38:09Z",
+  "pushed_at": "2026-06-29T14:48:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -254,6 +254,10 @@
     {
       "date": "2026-06-28",
       "stars": 969
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 980
     }
   ]
 }

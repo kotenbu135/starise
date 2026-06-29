@@ -3,8 +3,8 @@
   "owner": "xuwei95",
   "name": "ezdata",
   "full_name": "xuwei95/ezdata",
-  "description": "基于python和llm大模型开发的数据处理和任务调度系统。 支持数据源管理，数据模型管理，数据集成，数据查询API接口，低代码自定义数据处理任务模版，单任务及dag任务工作流调度等功能。集成了llm模块实现rag知识库问答，链接各数据源数据进行数据对话问答，交互式数据分析功能。",
-  "description_ja": "Python と LLM 大規模モデルで開発したデータ処理・タスクスケジューリングシステム。データソース管理、データモデル管理、データ統合、データクエリ API、ローコードカスタムデータ処理テンプレート、単一タスク・DAG タスクのワークフロースケジューリングなどをサポート。LLM モジュールを統合し、RAG 知識ベース Q\u0026A・各データソースとのデータ対話・インタラクティブデータ分析を実現。",
+  "description": "ezdata 是一个 AI 原生的数据平台:统一接入异构数据源,做 ETL 集成与任务编排,沉淀数据源专属知识库(RAG),并把知识喂给 AI 取数/分析",
+  "description_ja": "",
   "url": "https://github.com/xuwei95/ezdata",
   "homepage_url": "http://www.ezdata.cloud",
   "language": "Python",
@@ -23,8 +23,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-15T03:22:59Z",
-  "updated_at": "2026-06-26T17:28:59Z",
-  "pushed_at": "2026-06-26T17:28:52Z",
+  "updated_at": "2026-06-29T16:30:00Z",
+  "pushed_at": "2026-06-29T16:29:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -241,6 +241,10 @@
     },
     {
       "date": "2026-06-28",
+      "stars": 285
+    },
+    {
+      "date": "2026-06-29",
       "stars": 285
     }
   ]

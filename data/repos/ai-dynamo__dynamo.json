@@ -9,14 +9,25 @@
   "homepage_url": "https://docs.nvidia.com/dynamo/latest",
   "language": "Rust",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 7368,
-  "fork_count": 1284,
+  "topics": [
+    "diffusion",
+    "disaggregated-serving",
+    "kubernetes",
+    "llm-inference",
+    "omni",
+    "routing-engine",
+    "rust",
+    "sglang",
+    "tensorrt-llm",
+    "vllm"
+  ],
+  "star_count": 7379,
+  "fork_count": 1287,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-03T18:40:07Z",
-  "updated_at": "2026-06-28T18:28:15Z",
-  "pushed_at": "2026-06-28T18:32:29Z",
+  "updated_at": "2026-06-29T20:25:37Z",
+  "pushed_at": "2026-06-29T20:29:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -234,6 +245,10 @@
     {
       "date": "2026-06-28",
       "stars": 7368
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 7379
     }
   ]
 }

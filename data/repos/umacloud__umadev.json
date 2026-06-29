@@ -3,7 +3,7 @@
   "owner": "umacloud",
   "name": "umadev",
   "full_name": "umacloud/umadev",
-  "description": "A project-director agent that drives your Claude Code / Codex / OpenCode to plan, build, review, govern \u0026 ship software like a real dev team — runnable code + a delivery proof. Brings no model of its own.项目总监 Agent:驱动你已登录的 Claude Code / Codex / OpenCode,像真实开发团队那样规划、编码、评审、治理、交付,交还可运行代码。",
+  "description": "UmaDev : A coding agent that works like a real dev team. ",
   "description_ja": "",
   "url": "https://github.com/umacloud/umadev",
   "homepage_url": "https://umadev.goder.ai",
@@ -17,6 +17,7 @@
     "claude-code",
     "codex-cli",
     "coding",
+    "coding-agent",
     "coding-agents",
     "open-code",
     "rag",
@@ -26,13 +27,13 @@
     "tui",
     "vibe-coding"
   ],
-  "star_count": 162,
-  "fork_count": 50,
+  "star_count": 183,
+  "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-19T16:43:11Z",
-  "updated_at": "2026-06-28T15:31:44Z",
-  "pushed_at": "2026-06-28T12:15:24Z",
+  "updated_at": "2026-06-29T21:10:43Z",
+  "pushed_at": "2026-06-29T17:44:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +67,10 @@
     {
       "date": "2026-06-28",
       "stars": 162
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 183
     }
   ]
 }

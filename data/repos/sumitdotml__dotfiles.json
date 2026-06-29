@@ -3,7 +3,7 @@
   "owner": "sumitdotml",
   "name": "dotfiles",
   "full_name": "sumitdotml/dotfiles",
-  "description": "configs for my neovim, tmux, ghostty",
+  "description": "configs for my neovim, tmux, ghostty, tiling",
   "description_ja": "",
   "url": "https://github.com/sumitdotml/dotfiles",
   "homepage_url": "",
@@ -15,6 +15,7 @@
     "ghostty",
     "neovim",
     "nvim",
+    "tiling",
     "tmux",
     "vim",
     "waybar"
@@ -24,7 +25,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-06T08:17:09Z",
-  "updated_at": "2026-06-28T16:34:27Z",
+  "updated_at": "2026-06-29T01:15:35Z",
   "pushed_at": "2026-06-28T16:34:24Z",
   "deleted_at": "",
   "star_history": [
@@ -170,6 +171,10 @@
     },
     {
       "date": "2026-06-28",
+      "stars": 99
+    },
+    {
+      "date": "2026-06-29",
       "stars": 99
     }
   ]

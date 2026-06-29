@@ -9,13 +9,17 @@
   "homepage_url": "",
   "language": "C",
   "license": "",
-  "topics": [],
-  "star_count": 45,
+  "topics": [
+    "aarch64",
+    "hypervisor",
+    "qemu"
+  ],
+  "star_count": 46,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-05T01:45:51Z",
-  "updated_at": "2026-06-28T13:40:02Z",
+  "updated_at": "2026-06-29T18:16:31Z",
   "pushed_at": "2026-06-05T01:46:35Z",
   "deleted_at": "",
   "star_history": [
@@ -26,6 +30,10 @@
     {
       "date": "2026-06-28",
       "stars": 45
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 46
     }
   ]
 }

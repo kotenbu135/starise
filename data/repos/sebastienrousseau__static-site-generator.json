@@ -6,7 +6,7 @@
   "description": "A secure-by-default static site generator built in Rust. WCAG 2.2 AA validation, CSP/SRI hardening, native JS/CSS minification, automated CycloneDX SBOM, local LLM content pipeline, WebAssembly target, interactive islands, streaming compilation for 100K+ pages, 28-locale i18n, and one-command deployment.",
   "description_ja": "",
   "url": "https://github.com/sebastienrousseau/static-site-generator",
-  "homepage_url": "http://sebastienrousseau.com/static-site-generator/",
+  "homepage_url": "https://docs.static-site-generator.com/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-14T08:46:48Z",
-  "updated_at": "2026-06-27T14:56:26Z",
-  "pushed_at": "2026-06-28T07:07:48Z",
+  "updated_at": "2026-06-28T23:49:20Z",
+  "pushed_at": "2026-06-29T09:22:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -234,6 +234,10 @@
     },
     {
       "date": "2026-06-28",
+      "stars": 52
+    },
+    {
+      "date": "2026-06-29",
       "stars": 52
     }
   ]

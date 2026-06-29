@@ -3,7 +3,7 @@
   "owner": "ejianzq",
   "name": "igolibrary",
   "full_name": "ejianzq/igolibrary",
-  "description": "通过“我去图书馆”的API来绑定图书馆、监控座位并自动抢座和利用退座机制进行占座",
+  "description": "通过“我去图书馆”的API来绑定图书馆、监控座位并抢座、全馆捡漏、明日预约和利用退座机制进行占座",
   "description_ja": "",
   "url": "https://github.com/EJianZQ/IGoLibrary",
   "homepage_url": "",
@@ -15,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-05T11:55:47Z",
-  "updated_at": "2026-06-27T04:27:00Z",
+  "updated_at": "2026-06-29T00:04:13Z",
   "pushed_at": "2026-06-27T04:26:57Z",
   "deleted_at": "",
   "star_history": [
@@ -61,6 +61,10 @@
     },
     {
       "date": "2026-06-28",
+      "stars": 102
+    },
+    {
+      "date": "2026-06-29",
       "stars": 102
     }
   ]

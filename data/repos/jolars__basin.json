@@ -3,7 +3,7 @@
   "owner": "jolars",
   "name": "basin",
   "full_name": "jolars/basin",
-  "description": "Numerical optimization in pure Rust, with pluggable linear-algebra backends and WASM support.",
+  "description": "Numerical optimization in Rust, with pluggable linear-algebra backends and WASM support.",
   "description_ja": "",
   "url": "https://github.com/jolars/basin",
   "homepage_url": "https://basin.rs",
@@ -21,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-30T13:04:29Z",
-  "updated_at": "2026-06-26T13:06:05Z",
-  "pushed_at": "2026-06-26T12:40:44Z",
+  "updated_at": "2026-06-29T20:55:47Z",
+  "pushed_at": "2026-06-29T20:57:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     },
     {
       "date": "2026-06-28",
+      "stars": 105
+    },
+    {
+      "date": "2026-06-29",
       "stars": 105
     }
   ]

@@ -6,7 +6,7 @@
   "description": "An API to scrape Japanese adult video data from various sites",
   "description_ja": "",
   "url": "https://github.com/javinfo/legacy",
-  "homepage_url": "https://javinfo.eu.org",
+  "homepage_url": "https://javinfo.dev",
   "language": "",
   "license": "",
   "topics": [
@@ -20,6 +20,9 @@
     "javdatabase",
     "javdb",
     "javlibrary",
+    "missav",
+    "missav-api",
+    "missav-downloader",
     "r18",
     "railway"
   ],
@@ -28,7 +31,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-13T05:18:44Z",
-  "updated_at": "2026-06-27T18:26:06Z",
+  "updated_at": "2026-06-29T00:32:29Z",
   "pushed_at": "2026-06-27T18:26:03Z",
   "deleted_at": "",
   "star_history": [
@@ -62,6 +65,10 @@
     },
     {
       "date": "2026-06-28",
+      "stars": 73
+    },
+    {
+      "date": "2026-06-29",
       "stars": 73
     }
   ]

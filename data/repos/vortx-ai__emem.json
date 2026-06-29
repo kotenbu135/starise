@@ -3,7 +3,7 @@
   "owner": "vortx-ai",
   "name": "emem",
   "full_name": "vortx-ai/emem",
-  "description": "Cite-able, signed memory of Earth",
+  "description": "Satellite Intelligence for AI agents",
   "description_ja": "",
   "url": "https://github.com/Vortx-AI/emem",
   "homepage_url": "https://emem.dev/",
@@ -11,7 +11,14 @@
   "license": "Apache-2.0",
   "topics": [
     "ai-agents",
+    "earth-observation",
+    "ed25519",
+    "geospatial",
+    "geospatial-ai",
+    "mcp",
     "memory",
+    "remote-sensing",
+    "rust",
     "space"
   ],
   "star_count": 38,
@@ -19,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-24T20:31:22Z",
-  "updated_at": "2026-06-25T07:21:29Z",
-  "pushed_at": "2026-06-25T07:21:25Z",
+  "updated_at": "2026-06-29T02:32:30Z",
+  "pushed_at": "2026-06-29T02:32:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -141,6 +148,10 @@
     },
     {
       "date": "2026-06-28",
+      "stars": 38
+    },
+    {
+      "date": "2026-06-29",
       "stars": 38
     }
   ]

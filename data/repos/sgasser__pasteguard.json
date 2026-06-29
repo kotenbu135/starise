@@ -3,8 +3,8 @@
   "owner": "sgasser",
   "name": "pasteguard",
   "full_name": "sgasser/pasteguard",
-  "description": "AI gets the context. Not your secrets. Open-source privacy proxy for LLMs.",
-  "description_ja": "AI にはコンテキストを。秘密は渡さない。LLM 向けオープンソースプライバシープロキシ。",
+  "description": "AI gets the context. Not your private data. Local-first privacy proxy for browser chat, AI APIs, and coding agents.",
+  "description_ja": "",
   "url": "https://github.com/sgasser/pasteguard",
   "homepage_url": "https://pasteguard.com",
   "language": "TypeScript",
@@ -14,23 +14,28 @@
     "browser-extension",
     "chatgpt",
     "claude",
+    "codex",
     "data-protection",
-    "gliner",
     "llm",
-    "open-webui",
+    "llm-privacy",
+    "local-first",
     "openai",
     "pii",
+    "pii-detection",
     "privacy",
+    "privacy-proxy",
+    "secret-scanning",
     "secrets",
-    "security"
+    "security",
+    "self-hosted"
   ],
   "star_count": 662,
   "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-08T10:13:56Z",
-  "updated_at": "2026-06-28T18:59:58Z",
-  "pushed_at": "2026-06-28T19:00:03Z",
+  "updated_at": "2026-06-29T09:42:26Z",
+  "pushed_at": "2026-06-29T09:42:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -247,6 +252,10 @@
     },
     {
       "date": "2026-06-28",
+      "stars": 662
+    },
+    {
+      "date": "2026-06-29",
       "stars": 662
     }
   ]

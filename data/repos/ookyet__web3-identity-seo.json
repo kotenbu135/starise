@@ -3,7 +3,7 @@
   "owner": "ookyet",
   "name": "web3-identity-seo",
   "full_name": "ookyet/web3-identity-seo",
-  "description": "Making ENS domains Google-visible - Open-source architecture for Web3 identity SEO and Knowledge   Panel optimization",
+  "description": "Open-source architecture for making ENS identities into Google-recognized entities: Schema.org structured data, verification, and indexing for Web3 identity pages.",
   "description_ja": "",
   "url": "https://github.com/ookyet/web3-identity-seo",
   "homepage_url": "https://ookyet.com/proof/",
@@ -13,23 +13,30 @@
     "blockchain",
     "dentity",
     "ens",
+    "ens-domains",
+    "entity-seo",
     "ethereum",
-    "google",
     "identity",
     "indexing-api",
+    "indexnow",
+    "json-ld",
     "knowledge-graph",
+    "knowledge-panel",
+    "rich-results",
     "schema-org",
     "seo",
     "structured-data",
-    "web3"
+    "technical-seo",
+    "web3",
+    "web3-identity"
   ],
-  "star_count": 196,
+  "star_count": 200,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-09T09:10:45Z",
-  "updated_at": "2026-06-28T17:28:05Z",
-  "pushed_at": "2026-06-28T15:49:04Z",
+  "updated_at": "2026-06-29T15:36:33Z",
+  "pushed_at": "2026-06-29T15:36:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -211,6 +218,10 @@
     {
       "date": "2026-06-28",
       "stars": 196
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 200
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "leblancfg",
   "name": "autocrop",
   "full_name": "leblancfg/autocrop",
-  "description": ":relieved: Automatically detects and crops faces from batches of pictures.",
+  "description": "📸 Automatically detects and crops faces from batches of pictures.",
   "description_ja": "",
   "url": "https://github.com/leblancfg/autocrop",
-  "homepage_url": "https://leblancfg.com/autocrop/",
+  "homepage_url": "http://leblancfg.com/autocrop/",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
@@ -18,15 +18,17 @@
     "facedetect",
     "opencv",
     "pictures",
-    "python"
+    "profile-picture",
+    "python",
+    "yunet"
   ],
   "star_count": 661,
   "fork_count": 121,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-11-05T15:48:44Z",
-  "updated_at": "2026-06-28T12:57:40Z",
-  "pushed_at": "2026-06-28T12:57:37Z",
+  "updated_at": "2026-06-29T20:34:28Z",
+  "pushed_at": "2026-06-29T20:44:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +37,10 @@
     },
     {
       "date": "2026-06-28",
+      "stars": 661
+    },
+    {
+      "date": "2026-06-29",
       "stars": 661
     }
   ]

@@ -3,20 +3,32 @@
   "owner": "seakee",
   "name": "cpa-manager-plus",
   "full_name": "seakee/cpa-manager-plus",
-  "description": "Management panel for CLI Proxy API with a Docker-ready Manager Server, SQLite usage analytics, request monitoring, model pricing, quota views, and Codex inspection.",
+  "description": "Self-hosted AI gateway monitoring — track requests, cost, failures, quota, and account health for CPA / CLIProxyAPI and OpenAI-compatible gateways.",
   "description_ja": "",
   "url": "https://github.com/seakee/CPA-Manager-Plus",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 945,
-  "fork_count": 114,
+  "topics": [
+    "ai-gateway",
+    "claude-code",
+    "codex",
+    "cost-analysis",
+    "gateway-monitoring",
+    "observability",
+    "openai",
+    "openai-compatible",
+    "quota-management",
+    "request-monitoring",
+    "usage-tracking"
+  ],
+  "star_count": 953,
+  "fork_count": 115,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-17T09:41:43Z",
-  "updated_at": "2026-06-28T17:10:05Z",
-  "pushed_at": "2026-06-26T05:56:02Z",
+  "updated_at": "2026-06-29T21:07:42Z",
+  "pushed_at": "2026-06-29T03:56:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +106,10 @@
     {
       "date": "2026-06-28",
       "stars": 945
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 953
     }
   ]
 }

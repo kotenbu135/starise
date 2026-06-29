@@ -3,7 +3,7 @@
   "owner": "prismorsec",
   "name": "immunity-agent",
   "full_name": "prismorsec/immunity-agent",
-  "description": "Self improving security layer for AI coding agents : Safe package recommendations, Secret protection, MCP/tools guardrails, Skill governance, runtime policy enforcement and full audit visibility with a self-serve dashboard.",
+  "description": "Runtime security for Claude Code, Cursor, Windsurf \u0026 other AI coding agents. PreToolUse hooks that block dangerous commands, prevent secret leaks, stop prompt injection, and gate risky package installs.",
   "description_ja": "",
   "url": "https://github.com/PrismorSec/immunity-agent",
   "homepage_url": "https://prismor.dev",
@@ -13,21 +13,31 @@
     "agent-security",
     "agentic-ai",
     "agents",
+    "ai-agents",
     "ai-security",
+    "claude-code",
+    "cursor",
     "cybersecurity",
+    "devsecops",
+    "guardrails",
+    "llm-security",
+    "mcp",
     "prompt-injection",
     "prompt-security",
+    "secrets-management",
     "security",
     "security-tools",
-    "skill-scanner"
+    "skill-scanner",
+    "supply-chain-security",
+    "windsurf"
   ],
-  "star_count": 213,
+  "star_count": 214,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-20T16:43:19Z",
-  "updated_at": "2026-06-28T00:39:39Z",
-  "pushed_at": "2026-06-26T21:46:50Z",
+  "updated_at": "2026-06-29T21:24:12Z",
+  "pushed_at": "2026-06-29T21:24:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -225,6 +235,10 @@
     {
       "date": "2026-06-28",
       "stars": 213
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 214
     }
   ]
 }

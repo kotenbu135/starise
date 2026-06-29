@@ -1,0 +1,38 @@
+{
+  "repo_id": "R_kgDOSMNzxw",
+  "owner": "zz0r0",
+  "name": "proteus",
+  "full_name": "zz0r0/proteus",
+  "description": "Rust C2 agent for Mythic that produces polymorphic shellcode: per-build function shuffle + ChaCha20-encrypted data sections; no_std/no_main agent, PEB-walked APIs, WinHTTP comms.",
+  "description_ja": "",
+  "url": "https://github.com/ZZ0R0/Proteus",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "c2",
+    "chacha20",
+    "mythic",
+    "no-std",
+    "offensive-security",
+    "polymorphic",
+    "red-team",
+    "rust",
+    "shellcode",
+    "windows"
+  ],
+  "star_count": 49,
+  "fork_count": 7,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-25T10:00:20Z",
+  "updated_at": "2026-06-29T20:04:52Z",
+  "pushed_at": "2026-05-13T23:34:01Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-29",
+      "stars": 49
+    }
+  ]
+}

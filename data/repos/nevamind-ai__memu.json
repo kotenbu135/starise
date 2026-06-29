@@ -3,7 +3,7 @@
   "owner": "nevamind-ai",
   "name": "memu",
   "full_name": "nevamind-ai/memu",
-  "description": "Workspace memory: Turn colab file system into agent memory and cut your token cost up to 95%",
+  "description": "Personal memory for agents - fast memory retrieval, self-evolving skills, and lower cost.",
   "description_ja": "",
   "url": "https://github.com/NevaMind-AI/memU",
   "homepage_url": "https://memu.pro",
@@ -11,25 +11,23 @@
   "license": "NOASSERTION",
   "topics": [
     "agent-memory",
-    "agentic-workflow",
-    "claude",
     "claude-skills",
+    "harness",
+    "loop-engineering",
     "mcp",
     "memory",
     "openclaw",
     "openclaw-skills",
-    "proactive",
-    "proactive-ai",
     "sandbox",
     "skills"
   ],
-  "star_count": 13944,
-  "fork_count": 1037,
+  "star_count": 13948,
+  "fork_count": 1038,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-29T01:54:40Z",
-  "updated_at": "2026-06-28T16:38:18Z",
-  "pushed_at": "2026-06-27T15:28:44Z",
+  "updated_at": "2026-06-29T21:14:40Z",
+  "pushed_at": "2026-06-29T16:55:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -247,6 +245,10 @@
     {
       "date": "2026-06-28",
       "stars": 13944
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 13948
     }
   ]
 }

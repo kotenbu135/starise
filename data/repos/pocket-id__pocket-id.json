@@ -3,7 +3,7 @@
   "owner": "pocket-id",
   "name": "pocket-id",
   "full_name": "pocket-id/pocket-id",
-  "description": "An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.",
+  "description": "An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.",
   "description_ja": "",
   "url": "https://github.com/pocket-id/pocket-id",
   "homepage_url": "https://pocket-id.org",
@@ -15,13 +15,13 @@
     "passkeys",
     "self-hosted"
   ],
-  "star_count": 8211,
-  "fork_count": 259,
+  "star_count": 8215,
+  "fork_count": 261,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-11T18:57:32Z",
-  "updated_at": "2026-06-28T18:28:22Z",
-  "pushed_at": "2026-06-28T18:22:04Z",
+  "updated_at": "2026-06-29T15:13:52Z",
+  "pushed_at": "2026-06-29T12:05:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -239,6 +239,10 @@
     {
       "date": "2026-06-28",
       "stars": 8211
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 8215
     }
   ]
 }
