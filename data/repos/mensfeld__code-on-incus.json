@@ -3,8 +3,8 @@
   "owner": "mensfeld",
   "name": "code-on-incus",
   "full_name": "mensfeld/code-on-incus",
-  "description": "Give each AI agent its own isolated machine with root, Docker, and systemd. Active defense detects and stops threats automatically..",
-  "description_ja": "各AIエージェントに、root・Docker・systemd付きの独立したマシンを提供。アクティブディフェンスが脅威を自動検知・阻止します。",
+  "description": "Give each AI agent its own isolated machine with root, Docker, and systemd. Active defense detects and stops threats automatically.",
+  "description_ja": "",
   "url": "https://github.com/mensfeld/code-on-incus",
   "homepage_url": "",
   "language": "Python",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-07T09:47:42Z",
-  "updated_at": "2026-06-29T19:32:19Z",
-  "pushed_at": "2026-06-29T17:48:55Z",
+  "updated_at": "2026-06-30T20:31:40Z",
+  "pushed_at": "2026-06-30T14:15:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -254,6 +254,10 @@
     },
     {
       "date": "2026-06-29",
+      "stars": 571
+    },
+    {
+      "date": "2026-06-30",
       "stars": 571
     }
   ]

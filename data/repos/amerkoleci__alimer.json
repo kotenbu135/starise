@@ -3,11 +3,11 @@
   "owner": "amerkoleci",
   "name": "alimer",
   "full_name": "amerkoleci/alimer",
-  "description": "Cross-platform .NET 10 C# game engine.",
-  "description_ja": "クロスプラットフォーム対応の.NET 10 C#ゲームエンジン",
+  "description": "Cross-platform C++20 game engine with C# support.",
+  "description_ja": "",
   "url": "https://github.com/amerkoleci/alimer",
   "homepage_url": "https://amerkoleci.github.io/alimer-docs/",
-  "language": "C#",
+  "language": "C++",
   "license": "MIT",
   "topics": [
     "alimer",
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-01-09T07:18:05Z",
-  "updated_at": "2026-06-10T11:42:23Z",
-  "pushed_at": "2026-05-28T15:53:50Z",
+  "updated_at": "2026-06-30T09:34:35Z",
+  "pushed_at": "2026-06-30T09:33:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -248,6 +248,10 @@
     },
     {
       "date": "2026-06-29",
+      "stars": 488
+    },
+    {
+      "date": "2026-06-30",
       "stars": 488
     }
   ]

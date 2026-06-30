@@ -3,7 +3,7 @@
   "owner": "samvallad33",
   "name": "vestige",
   "full_name": "samvallad33/vestige",
-  "description": "Cognitive memory for AI agents: FSRS-6 spaced repetition, Brain modules, 3D dashboard, single small Rust binary. MCP server for Claude, Cursor, VS Code, Xcode, JetBrains.",
+  "description": "Vestige gives AI agents causal memory: a local-first Rust MCP server that reaches backward through time to find the quiet change, decision, or service that caused today’s failure, not the lookalike.",
   "description_ja": "",
   "url": "https://github.com/samvallad33/vestige",
   "homepage_url": "https://github.com/samvallad33/vestige",
@@ -31,13 +31,13 @@
     "vscode",
     "webgpu"
   ],
-  "star_count": 565,
+  "star_count": 572,
   "fork_count": 57,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-25T07:31:09Z",
-  "updated_at": "2026-06-29T21:37:08Z",
-  "pushed_at": "2026-06-29T21:37:03Z",
+  "updated_at": "2026-06-30T19:52:02Z",
+  "pushed_at": "2026-06-30T07:14:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -243,6 +243,10 @@
     {
       "date": "2026-06-29",
       "stars": 565
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 572
     }
   ]
 }

@@ -3,11 +3,11 @@
   "owner": "bigbugcc",
   "name": "openwrts",
   "full_name": "bigbugcc/openwrts",
-  "description": "OpenWRT 固件下载 应用商店 (Raspberry Pi5 | 4B | 3B+，NanoPi R2S | R4S | R5C | R5S，FastRhino R68S，Orange Pi R1Plus，x86/64) 源码更新自动编译(周更)",
-  "description_ja": "OpenWRTファームウェアダウンロード・アプリストア（Raspberry Pi5 | 4B | 3B+、NanoPi R2S | R4S | R5C | R5S、FastRhino R68S、Orange Pi R1Plus、x86/64）ソースコード更新時に自動ビルド（週次更新）",
+  "description": "OpenWRT 固件下载 | OpenWRT Firmware",
+  "description_ja": "",
   "url": "https://github.com/bigbugcc/OpenWrts",
   "homepage_url": "",
-  "language": "Shell",
+  "language": "JavaScript",
   "license": "MIT",
   "topics": [
     "actions",
@@ -30,13 +30,13 @@
     "vmdk",
     "x86-64"
   ],
-  "star_count": 765,
+  "star_count": 766,
   "fork_count": 296,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-18T15:18:36Z",
-  "updated_at": "2026-06-29T15:53:59Z",
-  "pushed_at": "2026-06-29T15:55:23Z",
+  "updated_at": "2026-06-30T15:45:38Z",
+  "pushed_at": "2026-06-30T15:45:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -254,6 +254,10 @@
     {
       "date": "2026-06-29",
       "stars": 765
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 766
     }
   ]
 }

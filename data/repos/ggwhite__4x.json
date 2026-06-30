@@ -3,31 +3,34 @@
   "owner": "ggwhite",
   "name": "4x",
   "full_name": "ggwhite/4x",
-  "description": "Multi-role AI development loop — Design, Code, Review, Test",
+  "description": "Agentic AI development loop that splits Design, Code, Review, and Test into isolated roles with deterministic guardrails",
   "description_ja": "",
   "url": "https://github.com/ggwhite/4x",
   "homepage_url": "https://ggwhite.github.io/4x/",
   "language": "Go",
   "license": "MIT",
   "topics": [
+    "agentic-coding",
     "ai",
     "ai-agents",
+    "ai-code-review",
     "automation",
     "claude",
     "cli",
     "code-review",
     "developer-tools",
-    "devops",
+    "golang",
+    "llm",
     "multi-agent",
     "software-engineering"
   ],
-  "star_count": 32,
+  "star_count": 33,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-10T15:59:03Z",
-  "updated_at": "2026-06-29T16:31:18Z",
-  "pushed_at": "2026-06-29T16:31:11Z",
+  "updated_at": "2026-06-30T14:36:28Z",
+  "pushed_at": "2026-06-30T14:35:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +40,10 @@
     {
       "date": "2026-06-29",
       "stars": 32
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 33
     }
   ]
 }

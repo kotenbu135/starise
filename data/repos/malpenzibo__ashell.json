@@ -3,8 +3,8 @@
   "owner": "malpenzibo",
   "name": "ashell",
   "full_name": "malpenzibo/ashell",
-  "description": "A ready to go Wayland status bar for Hyprland and Niri",
-  "description_ja": "HyprlandとNiri向けの即使用可能なWaylandステータスバー",
+  "description": "A ready to go status bar for Wayland compositors",
+  "description_ja": "",
   "url": "https://github.com/MalpenZibo/ashell",
   "homepage_url": "https://malpenzibo.github.io/ashell/",
   "language": "Rust",
@@ -13,7 +13,9 @@
     "bar",
     "hyprland",
     "iced-rs",
+    "mangowc",
     "niri",
+    "rice",
     "statusbar",
     "wayland",
     "wlroots"
@@ -23,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-05T17:10:23Z",
-  "updated_at": "2026-06-29T21:03:40Z",
-  "pushed_at": "2026-06-29T14:59:51Z",
+  "updated_at": "2026-06-30T16:26:03Z",
+  "pushed_at": "2026-06-30T16:29:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -245,6 +247,10 @@
     },
     {
       "date": "2026-06-29",
+      "stars": 1006
+    },
+    {
+      "date": "2026-06-30",
       "stars": 1006
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "artokun",
   "name": "comfyui-mcp",
   "full_name": "artokun/comfyui-mcp",
-  "description": "Claude Code plugin + MCP server for ComfyUI — 88 tools, 14 AI skills (Flux, WAN, LTX video, Qwen), live graph editing from your Claude session. Generate images \u0026 video, manage models and custom nodes.",
+  "description": "The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux · WAN · LTX video · Qwen · Z-Image). Author \u0026 run workflows, edit your live graph in natural language, manage models \u0026 custom nodes. Local, LAN, VPS, or Comfy Cloud.",
   "description_ja": "",
   "url": "https://github.com/artokun/comfyui-mcp",
   "homepage_url": "https://comfyui-mcp.artokun.io/docs",
@@ -17,22 +17,27 @@
     "claude-skills",
     "comfyui",
     "comfyui-extension",
+    "comfyui-mcp",
+    "comfyui-mcp-server",
     "flux",
     "image-generation",
+    "local-first",
     "mcp",
     "mcp-server",
     "model-context-protocol",
+    "qwen",
     "stable-diffusion",
     "text-to-image",
-    "video-generation"
+    "video-generation",
+    "wan"
   ],
-  "star_count": 207,
-  "fork_count": 35,
+  "star_count": 225,
+  "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T17:08:48Z",
-  "updated_at": "2026-06-29T20:07:38Z",
-  "pushed_at": "2026-06-29T20:16:14Z",
+  "updated_at": "2026-06-30T18:20:17Z",
+  "pushed_at": "2026-06-30T18:09:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -250,6 +255,10 @@
     {
       "date": "2026-06-29",
       "stars": 207
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 225
     }
   ]
 }

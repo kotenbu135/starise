@@ -7,7 +7,7 @@
   "description_ja": "GrapheneOS向けプライバシー・セキュリティ強化版Chromiumリリース。VanadiumはGrapheneOS上でWebViewと標準ユーザー向けブラウザを提供。GrapheneOSの他リポジトリの強化機能に依存し、GrapheneOSのビルドターゲットに無関係なパッチは含まない。",
   "url": "https://github.com/GrapheneOS/Vanadium",
   "homepage_url": "https://vanadium.app/",
-  "language": "Shell",
+  "language": "Python",
   "license": "NOASSERTION",
   "topics": [
     "android",
@@ -18,13 +18,13 @@
     "security",
     "webview"
   ],
-  "star_count": 1908,
+  "star_count": 1909,
   "fork_count": 115,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-11-22T21:01:40Z",
-  "updated_at": "2026-06-29T20:03:10Z",
-  "pushed_at": "2026-06-24T16:27:49Z",
+  "updated_at": "2026-06-30T19:42:01Z",
+  "pushed_at": "2026-06-30T19:41:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -242,6 +242,10 @@
     {
       "date": "2026-06-29",
       "stars": 1908
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 1909
     }
   ]
 }

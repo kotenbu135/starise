@@ -3,8 +3,8 @@
   "owner": "manticoresoftware",
   "name": "manticoresearch",
   "full_name": "manticoresoftware/manticoresearch",
-  "description": "Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack",
-  "description_ja": "使いやすいオープンソースの高速検索データベース | Elasticsearchの優れた代替 | ELKスタックのEをそのまま置き換え可能。",
+  "description": "Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.",
+  "description_ja": "",
   "url": "https://github.com/manticoresoftware/manticoresearch",
   "homepage_url": "https://manticoresearch.com",
   "language": "C++",
@@ -26,13 +26,13 @@
     "sql",
     "stream-filtering"
   ],
-  "star_count": 11854,
+  "star_count": 11858,
   "fork_count": 628,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-06-28T01:15:30Z",
-  "updated_at": "2026-06-29T18:55:48Z",
-  "pushed_at": "2026-06-29T19:25:02Z",
+  "updated_at": "2026-06-30T20:57:44Z",
+  "pushed_at": "2026-06-30T18:06:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -254,6 +254,10 @@
     {
       "date": "2026-06-29",
       "stars": 11854
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 11858
     }
   ]
 }

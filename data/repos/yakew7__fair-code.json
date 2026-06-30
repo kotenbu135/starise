@@ -3,16 +3,17 @@
   "owner": "yakew7",
   "name": "fair-code",
   "full_name": "yakew7/fair-code",
-  "description": "AI systems are making decisions about your freedom, your job, and your healthcare. This project shows the bias is real and how to fix it.",
+  "description": "Auditing algorithmic bias in criminal justice, hiring, lending, healthcare, and welfare: 6 open-source audits, measurable fairness gaps, and concrete fixes.",
   "description_ja": "",
   "url": "https://github.com/yakew7/Fair-Code",
-  "homepage_url": "https://fair-code-five.vercel.app",
+  "homepage_url": "https://thefaircode.xyz",
   "language": "HTML",
   "license": "MIT",
   "topics": [
     "ai-fairness",
     "algorithmic-bias",
     "bias-detection",
+    "bias-mitigation",
     "criminal-justice",
     "fairness",
     "healthcare",
@@ -31,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-13T10:31:16Z",
-  "updated_at": "2026-06-29T20:14:31Z",
-  "pushed_at": "2026-06-27T19:58:26Z",
+  "updated_at": "2026-06-30T17:51:18Z",
+  "pushed_at": "2026-06-30T17:51:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -181,6 +182,10 @@
     },
     {
       "date": "2026-06-29",
+      "stars": 31
+    },
+    {
+      "date": "2026-06-30",
       "stars": 31
     }
   ]

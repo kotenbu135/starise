@@ -3,32 +3,37 @@
   "owner": "r14dd",
   "name": "patent",
   "full_name": "r14dd/patent",
-  "description": "A prior-art search for your code ideas. Stop building what already exists.",
+  "description": "A prior-art search for your code ideas — has this dev tool already been shipped?",
   "description_ja": "",
   "url": "https://github.com/r14dd/patent",
   "homepage_url": "https://crates.io/crates/patent",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "ai",
     "cli",
     "command-line-tool",
     "developer-tools",
+    "embeddings",
+    "llm",
+    "npm",
     "ollama",
     "package-search",
     "prior-art",
+    "pypi",
     "ratatui",
     "rust",
     "search",
     "semantic-search",
     "tui"
   ],
-  "star_count": 464,
-  "fork_count": 18,
+  "star_count": 484,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-30T11:12:04Z",
-  "updated_at": "2026-06-29T20:56:42Z",
-  "pushed_at": "2026-06-29T07:55:03Z",
+  "updated_at": "2026-06-30T20:23:42Z",
+  "pushed_at": "2026-06-30T16:08:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -114,6 +119,10 @@
     {
       "date": "2026-06-29",
       "stars": 464
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 484
     }
   ]
 }

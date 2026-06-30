@@ -3,26 +3,32 @@
   "owner": "spacecell",
   "name": "minarrow",
   "full_name": "spacecell/minarrow",
-  "description": "Apache Arrow and Polars compatible, Rust-first columnar data library for real-time and systems workloads",
-  "description_ja": "Apache ArrowおよびPolars互換のRust製カラム型データライブラリ。リアルタイムおよびシステムワークロード向け。",
+  "description": "Fast, minimal, ergonomic and Apache Arrow implementation in Rust, with PyO3 and Python bindings.",
+  "description_ja": "",
   "url": "https://github.com/SpaceCell/minarrow",
-  "homepage_url": "",
+  "homepage_url": "https://minarrow.com",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "apache",
     "arrow",
+    "columnar-format",
+    "data",
+    "data-engineering",
     "data-science",
-    "dataengineering",
+    "engineering",
+    "low-latency",
     "polars",
-    "rust"
+    "rust",
+    "simd"
   ],
-  "star_count": 83,
+  "star_count": 84,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-11T01:18:01Z",
-  "updated_at": "2026-06-29T16:34:51Z",
-  "pushed_at": "2026-06-29T16:34:47Z",
+  "updated_at": "2026-06-30T21:14:33Z",
+  "pushed_at": "2026-06-30T14:08:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -240,6 +246,10 @@
     {
       "date": "2026-06-29",
       "stars": 83
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 84
     }
   ]
 }

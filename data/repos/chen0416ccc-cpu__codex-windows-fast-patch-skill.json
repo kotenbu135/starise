@@ -3,20 +3,20 @@
   "owner": "chen0416ccc-cpu",
   "name": "codex-windows-fast-patch-skill",
   "full_name": "chen0416ccc-cpu/codex-windows-fast-patch-skill",
-  "description": "此skills用于指导智能体在 Windows 上恢复 Codex Desktop 升级后失效的本地补丁和能力开关。（Computer Use，插件，fast mode等问题）支持每次使用前自动将skills更新到最新版。/These skills are designed to guide the agent in restoring local patches and feature toggles that have been disabled or invalidated following a Codex Desktop upgrade on Windows. Supports auto-updating translations.",
+  "description": "此skills用于指导智能体在 Windows 上恢复 Codex Desktop 升级后失效的本地补丁和能力开关。（Computer Use，插件，破限，codex强制汉化，fast mode，手机远控，会话消失等问题）支持每次使用前自动将skills更新到最新版。/These skills are designed to guide the agent in restoring local patches and feature toggles that have been disabled or invalidated following a Codex Desktop upgrade on Windows. Supports auto-updating translations.",
   "description_ja": "",
   "url": "https://github.com/chen0416ccc-cpu/codex-windows-fast-patch-skill",
   "homepage_url": "",
   "language": "PowerShell",
   "license": "",
   "topics": [],
-  "star_count": 826,
-  "fork_count": 85,
+  "star_count": 831,
+  "fork_count": 86,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-20T02:45:32Z",
-  "updated_at": "2026-06-29T16:28:44Z",
-  "pushed_at": "2026-06-26T04:54:21Z",
+  "updated_at": "2026-06-30T17:33:21Z",
+  "pushed_at": "2026-06-30T13:05:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +78,10 @@
     {
       "date": "2026-06-29",
       "stars": 826
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 831
     }
   ]
 }

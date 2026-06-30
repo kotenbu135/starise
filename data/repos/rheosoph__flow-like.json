@@ -7,7 +7,7 @@
   "description_ja": "Flow-Like: 強力な型付けを持つエンタープライズ規模のワークフロー。スケーラビリティ、速度、シームレスな AI 統合、豊富なカスタマイズを目的に設計。",
   "url": "https://github.com/Rheosoph/flow-like",
   "homepage_url": "https://flow-like.com",
-  "language": "Rust",
+  "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
     "agents",
@@ -35,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-16T19:50:25Z",
-  "updated_at": "2026-06-29T17:21:14Z",
-  "pushed_at": "2026-06-29T17:21:10Z",
+  "updated_at": "2026-06-30T18:46:08Z",
+  "pushed_at": "2026-06-30T20:39:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -257,6 +257,10 @@
     },
     {
       "date": "2026-06-29",
+      "stars": 906
+    },
+    {
+      "date": "2026-06-30",
       "stars": 906
     }
   ]

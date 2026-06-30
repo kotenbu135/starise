@@ -3,28 +3,39 @@
   "owner": "kellyvv",
   "name": "phoneclaw",
   "full_name": "kellyvv/phoneclaw",
-  "description": "PhoneClaw: On-device AI Agent for Phone powered by Gemma 4",
-  "description_ja": "PhoneClaw: Gemma 4を搭載したスマートフォン向けオンデバイスAIエージェント",
+  "description": "Mobile-native local AI Agent framework for iPhone with a fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference",
+  "description_ja": "",
   "url": "https://github.com/kellyvv/PhoneClaw",
-  "homepage_url": "",
+  "homepage_url": "https://kellyvv.github.io/PhoneClaw/",
   "language": "Swift",
   "license": "NOASSERTION",
   "topics": [
+    "agent-framework",
+    "ai-agent",
     "gemma",
+    "healthkit",
     "ios",
+    "ios-agent",
+    "iphone",
+    "iphone-ai-agent",
     "litert",
+    "litert-lm",
     "local-agent",
+    "local-ai",
+    "local-llm",
     "mobile-agent",
+    "mobile-ai",
+    "ollama",
     "on-device-ai",
     "swift"
   ],
-  "star_count": 1113,
+  "star_count": 1115,
   "fork_count": 150,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T18:53:07Z",
-  "updated_at": "2026-06-29T21:12:18Z",
-  "pushed_at": "2026-06-29T21:12:15Z",
+  "updated_at": "2026-06-30T12:55:11Z",
+  "pushed_at": "2026-06-30T09:45:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -246,6 +257,10 @@
     {
       "date": "2026-06-29",
       "stars": 1113
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 1115
     }
   ]
 }

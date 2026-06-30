@@ -6,10 +6,11 @@
   "description": "Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.",
   "description_ja": "",
   "url": "https://github.com/browser-act/skills",
-  "homepage_url": "https://www.browseract.com/",
+  "homepage_url": "https://www.browseract.com",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "agent-infrastructure",
     "ai-agents",
     "automation",
     "claude-cli",
@@ -30,12 +31,12 @@
     "web-scraping",
     "web-scraping-api"
   ],
-  "star_count": 3145,
-  "fork_count": 153,
+  "star_count": 3292,
+  "fork_count": 157,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T10:35:35Z",
-  "updated_at": "2026-06-29T19:50:15Z",
+  "updated_at": "2026-06-30T20:13:59Z",
   "pushed_at": "2026-06-26T12:34:30Z",
   "deleted_at": "",
   "star_history": [
@@ -250,6 +251,10 @@
     {
       "date": "2026-06-29",
       "stars": 3145
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 3292
     }
   ]
 }

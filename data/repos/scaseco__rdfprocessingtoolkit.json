@@ -1,0 +1,37 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkxMTc3MDE1MjM=",
+  "owner": "scaseco",
+  "name": "rdfprocessingtoolkit",
+  "full_name": "scaseco/rdfprocessingtoolkit",
+  "description": "Command line interface based RDF processing toolkit to run sequences of SPARQL statements ad-hoc on RDF datasets, streams of bindings and streams of named graphs with support for processing JSON, CSV and XML using function extensions. Ships with an integrated SPARQL and GraphQL server.",
+  "description_ja": "",
+  "url": "https://github.com/Scaseco/RdfProcessingToolkit",
+  "homepage_url": "https://scaseco.github.io/RdfProcessingToolkit/",
+  "language": "Java",
+  "license": "NOASSERTION",
+  "topics": [
+    "debian-package",
+    "docker-image",
+    "jena",
+    "named-graphs",
+    "rdf",
+    "rpm-package",
+    "sparql",
+    "sparql-extensions",
+    "sparql-functions"
+  ],
+  "star_count": 49,
+  "fork_count": 3,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2018-01-16T15:26:55Z",
+  "updated_at": "2026-06-30T12:07:24Z",
+  "pushed_at": "2026-06-18T11:37:48Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-06-30",
+      "stars": 49
+    }
+  ]
+}

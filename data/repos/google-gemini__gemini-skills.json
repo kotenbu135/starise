@@ -7,20 +7,20 @@
   "description_ja": "Gemini API・SDK およびモデル/エージェントとのインタラクション向けスキル集。",
   "url": "https://github.com/google-gemini/gemini-skills",
   "homepage_url": "https://ai.google.dev/gemini-api/docs",
-  "language": "",
+  "language": "Python",
   "license": "Apache-2.0",
   "topics": [
     "gemini",
     "gemini-api",
     "skills"
   ],
-  "star_count": 3718,
-  "fork_count": 366,
+  "star_count": 3728,
+  "fork_count": 368,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T04:17:28Z",
-  "updated_at": "2026-06-29T19:26:46Z",
-  "pushed_at": "2026-06-23T06:00:02Z",
+  "updated_at": "2026-06-30T20:42:59Z",
+  "pushed_at": "2026-06-30T16:18:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -242,6 +242,10 @@
     {
       "date": "2026-06-29",
       "stars": 3718
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 3728
     }
   ]
 }

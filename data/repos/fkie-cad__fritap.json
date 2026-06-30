@@ -3,8 +3,8 @@
   "owner": "fkie-cad",
   "name": "fritap",
   "full_name": "fkie-cad/fritap",
-  "description": "Simplifying SSL/TLS traffic analysis for researchers by making SSL decryption effortless.",
-  "description_ja": "SSLの復号を手軽に行えるようにすることで、研究者向けのSSL/TLSトラフィック解析を簡易化します。",
+  "description": "Simplifying encrypted traffic analysis for researchers by making protocol decryption effortless.",
+  "description_ja": "",
   "url": "https://github.com/fkie-cad/friTap",
   "homepage_url": "https://fkie-cad.github.io/friTap/",
   "language": "Python",
@@ -27,13 +27,13 @@
     "tcpdump",
     "tls"
   ],
-  "star_count": 518,
+  "star_count": 519,
   "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-30T05:55:40Z",
-  "updated_at": "2026-06-27T18:08:19Z",
-  "pushed_at": "2026-06-26T11:19:50Z",
+  "updated_at": "2026-06-30T17:55:25Z",
+  "pushed_at": "2026-06-30T16:10:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -251,6 +251,10 @@
     {
       "date": "2026-06-29",
       "stars": 518
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 519
     }
   ]
 }

@@ -3,35 +3,49 @@
   "owner": "sihyeonjeon",
   "name": "why-was-fable-banned",
   "full_name": "sihyeonjeon/why-was-fable-banned",
-  "description": "Spec-first, evidence-gated engineering-procedure enforcement for AI coding agents (Claude Code + Codex). The agent can't edit until it writes a passing spec.",
+  "description": "Fable-style spec + evidence gate for Claude Code + Codex. Makes Opus/Codex work under Fable-like discipline: blocks every edit until a deterministic spec passes, and there is no \"done\" without live acceptance evidence. Spec-first, verification-gated, forbidden-paths enforced.",
   "description_ja": "",
   "url": "https://github.com/SihyeonJeon/why-was-fable-banned",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "agentic-ai",
-    "ai-agents",
+    "agent-harness",
+    "ai-agent-guardrails",
     "ai-coding",
     "claude-code",
+    "claude-fable",
+    "claude-fable-5",
     "codex",
-    "developer-tools",
+    "evidence-gate",
+    "fable",
+    "fable-5",
     "guardrails",
     "hooks",
     "llm",
-    "spec-driven-development"
+    "llm-harness",
+    "opus",
+    "opus-4-8",
+    "spec-driven-development",
+    "spec-first",
+    "swe-bench",
+    "verification-gate"
   ],
   "star_count": 46,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-13T15:54:14Z",
-  "updated_at": "2026-06-29T04:48:07Z",
-  "pushed_at": "2026-06-15T05:14:25Z",
+  "updated_at": "2026-06-30T03:07:28Z",
+  "pushed_at": "2026-06-30T03:07:24Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-06-29",
+      "stars": 46
+    },
+    {
+      "date": "2026-06-30",
       "stars": 46
     }
   ]
