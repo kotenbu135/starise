@@ -6,8 +6,8 @@
   "description": "NGLess: NGS with less work",
   "description_ja": "NGLess：より少ない手間でNGS解析",
   "url": "https://github.com/ngless-toolkit/ngless",
-  "homepage_url": "https://ngless.embl.de",
-  "language": "Haskell",
+  "homepage_url": "https://ngless.readthedocs.io/",
+  "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
     "bioinformatics",
@@ -17,10 +17,10 @@
     "fastq-format",
     "genomics",
     "haskell",
-    "haskell-language",
     "metagenomics",
     "next-generation-sequencing",
     "ngs",
+    "rust",
     "samtools",
     "science"
   ],
@@ -29,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-01-08T15:56:55Z",
-  "updated_at": "2026-06-10T04:10:01Z",
-  "pushed_at": "2026-06-30T11:09:13Z",
+  "updated_at": "2026-07-01T05:19:00Z",
+  "pushed_at": "2026-07-01T03:35:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -251,6 +251,10 @@
     },
     {
       "date": "2026-06-30",
+      "stars": 150
+    },
+    {
+      "date": "2026-07-01",
       "stars": 150
     }
   ]

@@ -1,0 +1,40 @@
+{
+  "repo_id": "R_kgDOQC1UVQ",
+  "owner": "evil0ctal",
+  "name": "wechat-channels-video-file-decryption",
+  "full_name": "evil0ctal/wechat-channels-video-file-decryption",
+  "description": "一个可在线运行的微信视频号加密视频解密工具和 API 服务，基于逆向工程分析实现。本项目使用微信官方的 WebAssembly (WASM) 模块来生成 Isaac64 PRNG 密钥流，并通过 XOR 运算完成视频解密。",
+  "description_ja": "",
+  "url": "https://github.com/Evil0ctal/WeChat-Channels-Video-File-Decryption",
+  "homepage_url": "https://evil0ctal.github.io/WeChat-Channels-Video-File-Decryption/",
+  "language": "WebAssembly",
+  "license": "MIT",
+  "topics": [
+    "crawler",
+    "reverse-engineering",
+    "shipinhao",
+    "wechat",
+    "wechat-api",
+    "wechat-channel",
+    "wechat-crawler",
+    "wechat-hack",
+    "wechat-hook",
+    "wechat-video",
+    "wechat-video-download",
+    "weixin"
+  ],
+  "star_count": 294,
+  "fork_count": 91,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-10-15T08:40:08Z",
+  "updated_at": "2026-07-01T11:29:14Z",
+  "pushed_at": "2026-06-10T05:34:45Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-01",
+      "stars": 294
+    }
+  ]
+}

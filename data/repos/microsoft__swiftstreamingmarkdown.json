@@ -3,7 +3,7 @@
   "owner": "microsoft",
   "name": "swiftstreamingmarkdown",
   "full_name": "microsoft/swiftstreamingmarkdown",
-  "description": "A performant markdown library for iOS that supports streaming",
+  "description": "A performant markdown library for iOS \u0026 macOS that supports streaming",
   "description_ja": "",
   "url": "https://github.com/microsoft/SwiftStreamingMarkdown",
   "homepage_url": "",
@@ -14,19 +14,20 @@
     "ai-agent",
     "ios",
     "llm",
+    "macos",
     "markdown",
     "streaming",
     "swift",
     "swift-package-manager",
     "swiftui"
   ],
-  "star_count": 239,
-  "fork_count": 14,
+  "star_count": 241,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-22T22:37:08Z",
-  "updated_at": "2026-06-30T20:46:42Z",
-  "pushed_at": "2026-06-30T20:46:32Z",
+  "updated_at": "2026-07-01T16:06:54Z",
+  "pushed_at": "2026-07-01T01:02:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -100,6 +101,10 @@
     {
       "date": "2026-06-30",
       "stars": 239
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 241
     }
   ]
 }

@@ -3,20 +3,24 @@
   "owner": "iusztinpaul",
   "name": "squid",
   "full_name": "iusztinpaul/squid",
-  "description": "The Coding Machine",
+  "description": "The Software Factory",
   "description_ja": "",
   "url": "https://github.com/iusztinpaul/squid",
   "homepage_url": "",
   "language": "Shell",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 121,
+  "topics": [
+    "ai-agent",
+    "ai-skills",
+    "ai-workflow"
+  ],
+  "star_count": 122,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-21T10:32:31Z",
-  "updated_at": "2026-06-30T18:08:31Z",
-  "pushed_at": "2026-06-27T10:25:01Z",
+  "updated_at": "2026-07-01T12:54:46Z",
+  "pushed_at": "2026-07-01T12:54:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -126,6 +130,10 @@
     {
       "date": "2026-06-30",
       "stars": 121
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 122
     }
   ]
 }

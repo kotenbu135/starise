@@ -3,8 +3,8 @@
   "owner": "polarsource",
   "name": "polar",
   "full_name": "polarsource/polar",
-  "description": "Turn your software into a business.",
-  "description_ja": "あなたのソフトウェアをビジネスへ。",
+  "description": "Polar — A billing platform for the intelligence era",
+  "description_ja": "",
   "url": "https://github.com/polarsource/polar",
   "homepage_url": "https://polar.sh",
   "language": "Python",
@@ -15,21 +15,23 @@
     "merchant-of-record",
     "nextjs",
     "payments",
+    "payments-platform",
     "polar",
     "python",
     "react",
     "saas",
     "subscriptions",
     "turborepo",
-    "typescript"
+    "typescript",
+    "usage-billing"
   ],
-  "star_count": 10000,
-  "fork_count": 733,
+  "star_count": 10003,
+  "fork_count": 735,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-26T10:04:27Z",
-  "updated_at": "2026-06-30T19:04:50Z",
-  "pushed_at": "2026-06-30T19:07:20Z",
+  "updated_at": "2026-07-01T17:53:46Z",
+  "pushed_at": "2026-07-01T19:59:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -255,6 +257,10 @@
     {
       "date": "2026-06-30",
       "stars": 10000
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 10003
     }
   ]
 }

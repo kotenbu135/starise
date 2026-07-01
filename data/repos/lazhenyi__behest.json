@@ -3,22 +3,20 @@
   "owner": "lazhenyi",
   "name": "behest",
   "full_name": "lazhenyi/behest",
-  "description": "Rust-native building blocks for production AI agent runtimes — typed tools, pluggable providers, streaming, and observability",
+  "description": "Build production AI agent runtimes in Rust with typed tools, provider-neutral LLM adapters, streaming, storage, and observability.",
   "description_ja": "",
   "url": "https://github.com/lazhenyi/behest",
   "homepage_url": "https://www.behest.cc",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
-    "agent",
     "agent-runtime",
-    "ai",
+    "ai-agent",
     "anthropic",
     "llm",
     "observability",
     "openai",
     "provider-neutral",
-    "runtime",
     "rust",
     "streaming",
     "tool-calling"
@@ -28,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-25T10:25:13Z",
-  "updated_at": "2026-06-30T20:44:14Z",
-  "pushed_at": "2026-06-30T08:24:12Z",
+  "updated_at": "2026-07-01T12:22:21Z",
+  "pushed_at": "2026-07-01T12:22:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +48,10 @@
     },
     {
       "date": "2026-06-30",
+      "stars": 11
+    },
+    {
+      "date": "2026-07-01",
       "stars": 11
     }
   ]

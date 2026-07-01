@@ -3,7 +3,7 @@
   "owner": "kellyvv",
   "name": "phoneclaw",
   "full_name": "kellyvv/phoneclaw",
-  "description": "Mobile-native local AI Agent framework for iPhone with a fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference",
+  "description": "Mobile-native local AI Agent framework for phones and edge devices, with an iOS runtime, fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference",
   "description_ja": "",
   "url": "https://github.com/kellyvv/PhoneClaw",
   "homepage_url": "https://kellyvv.github.io/PhoneClaw/",
@@ -29,13 +29,13 @@
     "on-device-ai",
     "swift"
   ],
-  "star_count": 1115,
-  "fork_count": 150,
+  "star_count": 1121,
+  "fork_count": 151,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T18:53:07Z",
-  "updated_at": "2026-06-30T12:55:11Z",
-  "pushed_at": "2026-06-30T09:45:40Z",
+  "updated_at": "2026-07-01T12:36:29Z",
+  "pushed_at": "2026-07-01T03:24:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -261,6 +261,10 @@
     {
       "date": "2026-06-30",
       "stars": 1115
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 1121
     }
   ]
 }

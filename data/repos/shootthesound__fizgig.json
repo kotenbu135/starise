@@ -3,7 +3,7 @@
   "owner": "shootthesound",
   "name": "fizgig",
   "full_name": "shootthesound/fizgig",
-  "description": "Klein 9B LoRA Studio — train, profile, repair, and extract Flux 2 Klein 9B LoRAs",
+  "description": "Krea 2 \u0026 Klein 9B LoRA Studio — train, profile, repair, and extract Krea 2 \u0026 Flux 2 Klein 9B LoRAs",
   "description_ja": "",
   "url": "https://github.com/shootthesound/Fizgig",
   "homepage_url": "",
@@ -16,19 +16,21 @@
     "flux2",
     "generative-ai",
     "klein",
+    "krea",
+    "krea2",
     "lora",
     "lora-extraction",
     "lora-profiling",
     "lora-training",
     "stable-diffusion"
   ],
-  "star_count": 47,
+  "star_count": 50,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-20T23:49:59Z",
-  "updated_at": "2026-06-29T08:20:05Z",
-  "pushed_at": "2026-06-07T12:15:16Z",
+  "updated_at": "2026-07-01T20:20:18Z",
+  "pushed_at": "2026-07-01T11:48:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -142,6 +144,10 @@
     {
       "date": "2026-06-30",
       "stars": 47
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 50
     }
   ]
 }

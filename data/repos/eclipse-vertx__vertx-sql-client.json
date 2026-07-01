@@ -3,10 +3,10 @@
   "owner": "eclipse-vertx",
   "name": "vertx-sql-client",
   "full_name": "eclipse-vertx/vertx-sql-client",
-  "description": "High performance reactive SQL Client written in Java",
-  "description_ja": "Javaで書かれた高性能リアクティブSQLクライアント",
+  "description": "High performance reactive SQL client written in Java",
+  "description_ja": "",
   "url": "https://github.com/eclipse-vertx/vertx-sql-client",
-  "homepage_url": "",
+  "homepage_url": "https://vertx.io/docs/vertx-pg-client/java/",
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [
@@ -27,7 +27,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-04-30T21:50:57Z",
-  "updated_at": "2026-06-29T18:29:18Z",
+  "updated_at": "2026-07-01T16:00:10Z",
   "pushed_at": "2026-06-22T21:02:55Z",
   "deleted_at": "",
   "star_history": [
@@ -253,6 +253,10 @@
     },
     {
       "date": "2026-06-30",
+      "stars": 910
+    },
+    {
+      "date": "2026-07-01",
       "stars": 910
     }
   ]

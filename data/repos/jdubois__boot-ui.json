@@ -3,7 +3,7 @@
   "owner": "jdubois",
   "name": "boot-ui",
   "full_name": "jdubois/boot-ui",
-  "description": "The missing developer UI for Spring Boot!",
+  "description": "The missing developer UI for Spring Boot and Quarkus!",
   "description_ja": "",
   "url": "https://github.com/jdubois/boot-ui",
   "homepage_url": "https://www.julien-dubois.com/boot-ui/",
@@ -12,18 +12,19 @@
   "topics": [
     "developer-tools",
     "java",
+    "quarkus",
+    "quarkus-extension",
     "spring-boot",
     "spring-boot-4",
-    "spring-boot-starter",
-    "vue"
+    "spring-boot-starter"
   ],
-  "star_count": 170,
-  "fork_count": 18,
+  "star_count": 172,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-25T14:52:52Z",
-  "updated_at": "2026-06-30T09:41:05Z",
-  "pushed_at": "2026-06-30T19:27:52Z",
+  "updated_at": "2026-07-01T16:37:21Z",
+  "pushed_at": "2026-07-01T17:14:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -133,6 +134,10 @@
     {
       "date": "2026-06-30",
       "stars": 170
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 172
     }
   ]
 }

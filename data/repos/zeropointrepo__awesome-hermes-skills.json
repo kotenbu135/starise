@@ -3,7 +3,7 @@
   "owner": "zeropointrepo",
   "name": "awesome-hermes-skills",
   "full_name": "zeropointrepo/awesome-hermes-skills",
-  "description": "Curated, install-ready skills for Hermes Agent. 85 built-in + 78 community skills, plugins, and tools for the self-improving AI agent from Nous Research. Cross-compatible with Claude Code, OpenClaw, Cursor, and Windsurf.",
+  "description": "Curated, install-ready skills for Hermes Agent (v0.17.0). 72 built-in + 101 optional bundled skills + 85 community skills, plugins \u0026 tools for the self-improving AI agent from Nous Research. Cross-compatible with Claude Code, OpenClaw, Cursor, and Windsurf.",
   "description_ja": "",
   "url": "https://github.com/ZeroPointRepo/awesome-hermes-skills",
   "homepage_url": "https://transcriptapi.com",
@@ -20,13 +20,13 @@
     "openclaw",
     "skills"
   ],
-  "star_count": 70,
-  "fork_count": 13,
+  "star_count": 72,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-28T13:26:14Z",
-  "updated_at": "2026-06-30T17:00:21Z",
-  "pushed_at": "2026-04-29T05:54:00Z",
+  "updated_at": "2026-07-01T16:36:05Z",
+  "pushed_at": "2026-07-01T04:59:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -104,6 +104,10 @@
     {
       "date": "2026-06-30",
       "stars": 70
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 72
     }
   ]
 }

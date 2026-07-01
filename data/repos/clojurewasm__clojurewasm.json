@@ -3,7 +3,7 @@
   "owner": "clojurewasm",
   "name": "clojurewasm",
   "full_name": "clojurewasm/clojurewasm",
-  "description": "A lightweight Clojure runtime in Zig — call WebAssembly from Clojure to tap libraries written in any language.",
+  "description": "A JVM-free Clojure runtime in Zig — call WebAssembly from Clojure to use libraries written in any language.",
   "description_ja": "",
   "url": "https://github.com/clojurewasm/ClojureWasm",
   "homepage_url": "",
@@ -12,20 +12,22 @@
   "topics": [
     "clojure",
     "compiler",
+    "ffi",
     "interpreter",
     "nrepl",
     "programming-language",
+    "wasi",
     "wasm",
     "webassembly",
     "zig"
   ],
-  "star_count": 155,
+  "star_count": 156,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-01T04:59:18Z",
-  "updated_at": "2026-06-30T18:44:09Z",
-  "pushed_at": "2026-06-25T04:12:28Z",
+  "updated_at": "2026-07-01T15:40:01Z",
+  "pushed_at": "2026-07-01T15:56:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -203,6 +205,10 @@
     {
       "date": "2026-06-30",
       "stars": 155
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 156
     }
   ]
 }

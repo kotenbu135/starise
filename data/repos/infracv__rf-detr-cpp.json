@@ -1,0 +1,41 @@
+{
+  "repo_id": "R_kgDOS-9MLQ",
+  "owner": "infracv",
+  "name": "rf-detr-cpp",
+  "full_name": "infracv/rf-detr-cpp",
+  "description": "Production-ready C++/TensorRT inference engine for RF-DETR. Object detection and instance segmentation with FP32/FP16/INT8 support. Optimized for NVIDIA GPUs, Jetson (Orin, AGX Thor).",
+  "description_ja": "",
+  "url": "https://github.com/infracv/rf-detr-cpp",
+  "homepage_url": "https://infracv.com",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [
+    "computer-vision",
+    "cpp",
+    "cuda",
+    "deep-learning",
+    "deployment",
+    "docker",
+    "instance-segmentation",
+    "nvidia-gpu",
+    "nvidia-jetson",
+    "object-detection",
+    "onnx",
+    "rf-detr",
+    "tensorrt"
+  ],
+  "star_count": 90,
+  "fork_count": 12,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-19T04:10:19Z",
+  "updated_at": "2026-07-01T16:21:48Z",
+  "pushed_at": "2026-06-30T12:40:20Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-01",
+      "stars": 90
+    }
+  ]
+}

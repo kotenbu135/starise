@@ -6,7 +6,7 @@
   "description": "Local AI photo scoring, culling, and gallery — score, organise, and explore your library with face recognition and semantic search. No cloud, no subscriptions.",
   "description_ja": "ローカル AI による写真スコアリング・選別・ギャラリー機能 — 顔認識とセマンティック検索でライブラリをスコア付け・整理・探索。クラウド不要、サブスクリプション不要。",
   "url": "https://github.com/ncoevoet/facet",
-  "homepage_url": "",
+  "homepage_url": "https://ncoevoet.github.io/facet/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -14,10 +14,13 @@
     "angular",
     "clip",
     "computer-vision",
+    "deep-learning",
     "face-recognition",
     "fastapi",
     "image-analysis",
+    "image-processing",
     "image-quality",
+    "machine-learning",
     "photo",
     "photo-culling",
     "photo-management",
@@ -25,7 +28,6 @@
     "photography",
     "pytorch",
     "self-hosted",
-    "selfhosted",
     "sqlite",
     "topiq"
   ],
@@ -34,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-16T16:44:55Z",
-  "updated_at": "2026-06-29T22:00:52Z",
-  "pushed_at": "2026-06-30T17:29:44Z",
+  "updated_at": "2026-07-01T20:19:00Z",
+  "pushed_at": "2026-07-01T20:18:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -256,6 +258,10 @@
     },
     {
       "date": "2026-06-30",
+      "stars": 124
+    },
+    {
+      "date": "2026-07-01",
       "stars": 124
     }
   ]

@@ -1,0 +1,43 @@
+{
+  "repo_id": "R_kgDOSG9Ppw",
+  "owner": "last9",
+  "name": "gpu-telemetry",
+  "full_name": "last9/gpu-telemetry",
+  "description": "GPU Observability with workload attribution. One OTLP agent per node ties hardware metrics (NVIDIA, AMD, Intel Gaudi) to the K8s pod or Slurm job burning the GPU.",
+  "description_ja": "",
+  "url": "https://github.com/last9/gpu-telemetry",
+  "homepage_url": "https://last9.io/gpu-observability/",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "amd",
+    "dcgm",
+    "gpu",
+    "gpu-monitoring",
+    "gpu-observability",
+    "helm",
+    "intel-gaudi-base-operator",
+    "kubernetes",
+    "llm-observability",
+    "mlops",
+    "nvidia",
+    "nvml-monitoring",
+    "opentelemetry",
+    "slurm",
+    "workload-attribution"
+  ],
+  "star_count": 46,
+  "fork_count": 4,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-19T17:21:55Z",
+  "updated_at": "2026-07-01T06:39:13Z",
+  "pushed_at": "2026-06-30T20:29:38Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-01",
+      "stars": 46
+    }
+  ]
+}

@@ -10,19 +10,27 @@
   "language": "Rust",
   "license": "GPL-3.0",
   "topics": [
+    "apple-container",
+    "apple-container-gui",
+    "developer-productivity",
+    "linux-apps-on-macos",
     "macos",
     "macos-application",
     "macos-tools",
+    "remote-development",
+    "remote-development-container",
     "rust",
+    "ssh-tool",
     "wayland",
-    "wayland-compositor"
+    "wayland-compositor",
+    "xquartz-alternative"
   ],
-  "star_count": 962,
+  "star_count": 960,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-13T15:27:08Z",
-  "updated_at": "2026-06-28T12:47:25Z",
+  "updated_at": "2026-07-01T14:50:46Z",
   "pushed_at": "2026-06-24T11:56:34Z",
   "deleted_at": "",
   "star_history": [
@@ -249,6 +257,10 @@
     {
       "date": "2026-06-30",
       "stars": 962
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 960
     }
   ]
 }

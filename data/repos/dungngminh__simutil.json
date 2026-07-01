@@ -3,8 +3,8 @@
   "owner": "dungngminh",
   "name": "simutil",
   "full_name": "dungngminh/simutil",
-  "description": "Cross platform utility TUI app for launching iOS simulators / Android emulators, discover physical devices, ADB tools and more",
-  "description_ja": "iOS シミュレーター / Android エミュレーターの起動、物理デバイスの検出、ADB ツールなどを備えたクロスプラットフォームのユーティリティ TUI アプリ",
+  "description": "It's not just a cross-platform TUI app that quickly opens Android \u0026 iOS emulators/simulators ",
+  "description_ja": "",
   "url": "https://github.com/dungngminh/simutil",
   "homepage_url": "",
   "language": "Dart",
@@ -16,12 +16,12 @@
     "terminal",
     "tui"
   ],
-  "star_count": 500,
+  "star_count": 508,
   "fork_count": 55,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-19T06:18:15Z",
-  "updated_at": "2026-06-30T20:32:59Z",
+  "updated_at": "2026-07-01T15:47:55Z",
   "pushed_at": "2026-06-25T18:41:08Z",
   "deleted_at": "",
   "star_history": [
@@ -248,6 +248,10 @@
     {
       "date": "2026-06-30",
       "stars": 500
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 508
     }
   ]
 }

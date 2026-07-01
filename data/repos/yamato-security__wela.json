@@ -3,7 +3,7 @@
   "owner": "yamato-security",
   "name": "wela",
   "full_name": "yamato-security/wela",
-  "description": "WELA (Windows Event Log Analyzer, ゑ羅) is a tool for auditing Windows event log settings. Windows event logs are a vital source of information for Digital Forensics and Incident Response (DFIR), providing visibility into system activity and security events.",
+  "description": "WELA (Windows Event Log Analyzer, ゑ羅) is a tool for auditing and configuring Windows event log settings. Windows event logs are a vital source of information for Digital Forensics and Incident Response (DFIR), providing visibility into system activity and security events.",
   "description_ja": "",
   "url": "https://github.com/Yamato-Security/WELA",
   "homepage_url": "",
@@ -15,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-08T12:47:54Z",
-  "updated_at": "2026-06-29T01:21:48Z",
+  "updated_at": "2026-07-01T18:05:16Z",
   "pushed_at": "2026-06-29T01:21:44Z",
   "deleted_at": "",
   "star_history": [
@@ -125,6 +125,10 @@
     },
     {
       "date": "2026-06-30",
+      "stars": 103
+    },
+    {
+      "date": "2026-07-01",
       "stars": 103
     }
   ]

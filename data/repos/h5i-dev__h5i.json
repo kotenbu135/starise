@@ -13,7 +13,9 @@
     "agent",
     "agentic-ai",
     "agentic-workflow",
-    "ai",
+    "ai-coding",
+    "ai-safety",
+    "ai-security",
     "claude",
     "claude-code",
     "codex",
@@ -21,19 +23,21 @@
     "git-worktree",
     "llms",
     "mcp-server",
-    "rust",
+    "prompt-injection",
     "sandbox",
     "version-control",
+    "vibe-coding",
     "worktree",
-    "worktree-manager"
+    "worktree-manager",
+    "worktrees"
   ],
-  "star_count": 438,
-  "fork_count": 27,
+  "star_count": 442,
+  "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T04:30:52Z",
-  "updated_at": "2026-06-30T14:20:34Z",
-  "pushed_at": "2026-06-30T19:28:51Z",
+  "updated_at": "2026-07-01T18:54:55Z",
+  "pushed_at": "2026-07-01T18:44:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +139,10 @@
     {
       "date": "2026-06-30",
       "stars": 438
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 442
     }
   ]
 }
