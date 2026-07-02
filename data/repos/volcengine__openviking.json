@@ -3,34 +3,26 @@
   "owner": "volcengine",
   "name": "openviking",
   "full_name": "volcengine/openviking",
-  "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-  "description_ja": "OpenVikingは、AIエージェント（openclaw等）専用に設計されたオープンソースのコンテキストデータベースです。ファイルシステムのパラダイムを通じてエージェントに必要なコンテキスト（メモリ・リソース・スキル）を一元管理し、階層的なコンテキスト配信と自己進化を実現します。",
+  "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+  "description_ja": "",
   "url": "https://github.com/volcengine/OpenViking",
-  "homepage_url": "https://openviking.ai",
+  "homepage_url": "https://openviking.ai/",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
-    "agent",
+    "agent-memory",
+    "agent-plugins",
     "agentic-rag",
-    "ai-agents",
-    "clawbot",
     "context-database",
-    "context-engineering",
-    "filesystem",
-    "llm",
-    "memory",
-    "openclaw",
-    "opencode",
-    "rag",
-    "skill"
+    "self-evolving"
   ],
-  "star_count": 26226,
-  "fork_count": 2036,
+  "star_count": 26256,
+  "fork_count": 2043,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-05T07:11:17Z",
-  "updated_at": "2026-07-01T20:38:18Z",
-  "pushed_at": "2026-07-01T14:13:47Z",
+  "updated_at": "2026-07-02T18:42:38Z",
+  "pushed_at": "2026-07-02T20:04:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -260,6 +252,10 @@
     {
       "date": "2026-07-01",
       "stars": 26226
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 26256
     }
   ]
 }

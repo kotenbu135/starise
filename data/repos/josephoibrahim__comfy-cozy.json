@@ -3,7 +3,7 @@
   "owner": "josephoibrahim",
   "name": "comfy-cozy",
   "full_name": "josephoibrahim/comfy-cozy",
-  "description": "AI co-pilot for ComfyUI. Talk to your workflow — load, patch, validate, run, learn. 131 MCP tools, sub-second re-validate, EXR-aware vision, workflow.lock provenance, Origin-gated canvas bridge, resumable downloads, five swappable LLM providers (Claude, GPT-4o, Gemini, Ollama, NVIDIA Nemotron), full undo, native sidebar.",
+  "description": "AI co-pilot for ComfyUI. Talk to your workflow — load, patch, validate, run, learn. 133 MCP tools, zero-LLM artist recipes (dreamier/sharper/faster as instant undoable macros), sub-second re-validate, EXR-aware vision, workflow.lock provenance, five swappable LLM brains (Claude, GPT-4o, Gemini, Ollama, NVIDIA Nemotron), full undo, native sidebar.",
   "description_ja": "",
   "url": "https://github.com/JosephOIbrahim/Comfy-Cozy",
   "homepage_url": "",
@@ -31,13 +31,13 @@
     "vfx",
     "workflow-automation"
   ],
-  "star_count": 20,
+  "star_count": 21,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-10T15:56:52Z",
-  "updated_at": "2026-06-25T00:22:21Z",
-  "pushed_at": "2026-06-27T21:24:30Z",
+  "updated_at": "2026-07-02T16:45:42Z",
+  "pushed_at": "2026-07-02T16:46:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -247,6 +247,10 @@
     {
       "date": "2026-07-01",
       "stars": 20
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 21
     }
   ]
 }

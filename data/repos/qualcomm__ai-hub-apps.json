@@ -7,7 +7,7 @@
   "description_ja": "Qualcomm® AI Hubアプリは、パフォーマンス（レイテンシ、メモリ等）を最適化し、Qualcomm®デバイスへの即時デプロイに対応した最先端機械学習モデルのコレクションです。",
   "url": "https://github.com/qualcomm/ai-hub-apps",
   "homepage_url": "",
-  "language": "Python",
+  "language": "Java",
   "license": "BSD-3-Clause",
   "topics": [
     "deeplearning",
@@ -23,12 +23,12 @@
     "tensorflow-lite"
   ],
   "star_count": 430,
-  "fork_count": 109,
+  "fork_count": 110,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-21T01:40:33Z",
-  "updated_at": "2026-06-30T10:55:04Z",
-  "pushed_at": "2026-07-01T18:59:06Z",
+  "updated_at": "2026-07-02T01:56:40Z",
+  "pushed_at": "2026-07-02T09:20:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -257,6 +257,10 @@
     },
     {
       "date": "2026-07-01",
+      "stars": 430
+    },
+    {
+      "date": "2026-07-02",
       "stars": 430
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "withoutbg",
   "name": "withoutbg",
   "full_name": "withoutbg/withoutbg",
-  "description": "Image Background Removal Toolkit - Open Source and API Models",
-  "description_ja": "画像背景除去ツールキット — オープンソース版およびAPIモデル",
+  "description": "Python SDK for local and cloud background removal (pip install withoutbg)",
+  "description_ja": "",
   "url": "https://github.com/withoutbg/withoutbg",
   "homepage_url": "https://withoutbg.com/",
   "language": "Python",
@@ -18,7 +18,6 @@
     "background-remover-onnx-model",
     "computer-vision",
     "computer-vision-ai",
-    "docker-background-removal-open-source",
     "image-background-removal",
     "image-matting",
     "image-processing",
@@ -26,13 +25,13 @@
     "open-source-background-remover",
     "python-background-removal"
   ],
-  "star_count": 1162,
+  "star_count": 1164,
   "fork_count": 58,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-18T19:35:32Z",
-  "updated_at": "2026-07-01T04:26:05Z",
-  "pushed_at": "2026-05-23T17:33:10Z",
+  "updated_at": "2026-07-02T18:53:55Z",
+  "pushed_at": "2026-07-02T18:32:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +257,10 @@
     {
       "date": "2026-07-01",
       "stars": 1162
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 1164
     }
   ]
 }

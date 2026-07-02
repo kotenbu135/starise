@@ -3,8 +3,8 @@
   "owner": "julien040",
   "name": "anyquery",
   "full_name": "julien040/anyquery",
-  "description": "Query anything (GitHub, Notion, +40 more) with SQL and let LLMs (ChatGPT, Claude) connect to using MCP",
-  "description_ja": "SQLでGitHub・Notion他40以上のサービスを横断クエリし、LLM（ChatGPT、Claude）からMCP経由で接続可能にするツール",
+  "description": "One SQL interface for 60+ tools (e.g., GitHub, Notion, Airtable). Plug into any LLM through MCP.",
+  "description_ja": "",
   "url": "https://github.com/julien040/anyquery",
   "homepage_url": "https://anyquery.dev",
   "language": "Go",
@@ -20,7 +20,6 @@
     "database",
     "github",
     "go",
-    "hacktoberfest",
     "json",
     "llm",
     "mcp",
@@ -36,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-06T17:17:25Z",
-  "updated_at": "2026-06-30T16:01:31Z",
-  "pushed_at": "2026-06-27T19:27:39Z",
+  "updated_at": "2026-07-02T19:47:35Z",
+  "pushed_at": "2026-07-02T19:42:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -266,6 +265,10 @@
     },
     {
       "date": "2026-07-01",
+      "stars": 1727
+    },
+    {
+      "date": "2026-07-02",
       "stars": 1727
     }
   ]

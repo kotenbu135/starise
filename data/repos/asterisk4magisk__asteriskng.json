@@ -3,20 +3,20 @@
   "owner": "asterisk4magisk",
   "name": "asteriskng",
   "full_name": "asterisk4magisk/asteriskng",
-  "description": "An Xray GUI client for Android, support VPN Service, TPROXY(ROOT) and TUN2SOCKS(ROOT)",
+  "description": "An Xray GUI client for Android, support VPN Service, TPROXY(ROOT), TUN2SOCKS(ROOT) and BPF2SOCKS(ROOT)",
   "description_ja": "",
   "url": "https://github.com/Asterisk4Magisk/AsteriskNG",
   "homepage_url": "",
   "language": "Kotlin",
   "license": "GPL-3.0",
   "topics": [],
-  "star_count": 91,
+  "star_count": 94,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-17T01:15:44Z",
-  "updated_at": "2026-07-01T15:45:41Z",
-  "pushed_at": "2026-07-01T01:03:35Z",
+  "updated_at": "2026-07-02T18:30:54Z",
+  "pushed_at": "2026-07-02T17:11:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +74,10 @@
     {
       "date": "2026-07-01",
       "stars": 91
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 94
     }
   ]
 }

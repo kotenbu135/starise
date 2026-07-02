@@ -3,8 +3,8 @@
   "owner": "go-pay",
   "name": "gopay",
   "full_name": "go-pay/gopay",
-  "description": "微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】",
-  "description_ja": "WeChat・Alipay・通联支付・拉卡拉・PayPal・AppleのGo版SDK。【シンプルで使いやすい統合決済SDK】",
+  "description": "微信、支付宝、抖音、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】",
+  "description_ja": "",
   "url": "https://github.com/go-pay/gopay",
   "homepage_url": "https://github.com/go-pay/gopay",
   "language": "Go",
@@ -13,22 +13,21 @@
     "alipay",
     "allinpay",
     "apple",
+    "douyin",
     "golang",
     "gopay",
     "lakala",
     "pay",
     "paypal",
-    "saobei",
-    "wechat",
-    "weixin"
+    "wechat"
   ],
-  "star_count": 5642,
+  "star_count": 5644,
   "fork_count": 932,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-01-08T10:14:40Z",
-  "updated_at": "2026-07-01T05:57:17Z",
-  "pushed_at": "2026-07-01T16:39:41Z",
+  "updated_at": "2026-07-02T14:43:19Z",
+  "pushed_at": "2026-07-02T14:40:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +257,10 @@
     {
       "date": "2026-07-01",
       "stars": 5642
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 5644
     }
   ]
 }

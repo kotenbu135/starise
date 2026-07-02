@@ -3,32 +3,28 @@
   "owner": "buoy-gg",
   "name": "buoy-desktop",
   "full_name": "buoy-gg/buoy-desktop",
-  "description": "Buoy Desktop — the desktop companion for BUOY Devtools. Mirror your React Native app's network, storage, and query state to your desk in real time.",
+  "description": "Buoy Desktop — the desktop dashboard for React Buoy devtools. Mirror your React Native app's network, storage, state, and performance data to your desk in real time.",
   "description_ja": "",
   "url": "https://github.com/Buoy-gg/Buoy-Desktop",
   "homepage_url": "https://buoy.gg/",
   "language": "",
   "license": "",
   "topics": [
-    "debuggin",
-    "dev",
-    "dev-tools",
-    "react",
-    "react-native-better-dev-tools",
-    "react-native-dev-tools",
-    "react-query",
-    "react-query-devtools",
-    "react-query-external-dev-tools",
-    "reactnative",
-    "reactquery",
-    "tools"
+    "debugging-tool",
+    "devtools",
+    "electron",
+    "expo",
+    "network-inspector",
+    "react-native",
+    "react-native-devtools",
+    "react-query"
   ],
   "star_count": 874,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-29T15:13:38Z",
-  "updated_at": "2026-06-29T19:07:21Z",
+  "updated_at": "2026-07-02T18:42:56Z",
   "pushed_at": "2026-07-01T17:56:46Z",
   "deleted_at": "",
   "star_history": [
@@ -258,6 +254,10 @@
     },
     {
       "date": "2026-07-01",
+      "stars": 874
+    },
+    {
+      "date": "2026-07-02",
       "stars": 874
     }
   ]

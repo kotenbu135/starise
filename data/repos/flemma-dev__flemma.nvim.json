@@ -3,8 +3,8 @@
   "owner": "flemma-dev",
   "name": "flemma.nvim",
   "full_name": "flemma-dev/flemma.nvim",
-  "description": "An AI workspace inside Neovim where every conversation is a document you own.",
-  "description_ja": "NeovimのAIワークスペース。すべての会話があなた自身が所有するドキュメントになります。",
+  "description": "AI knowledge workbench for Neovim.",
+  "description_ja": "",
   "url": "https://github.com/Flemma-Dev/flemma.nvim",
   "homepage_url": "https://flemma.dev/flemma.nvim",
   "language": "Lua",
@@ -12,11 +12,13 @@
   "topics": [
     "ai",
     "anthropic",
+    "chat",
     "chatgpt",
     "claude",
     "dev-tools",
     "gemini",
     "generative-ai",
+    "knowledge-management",
     "llm",
     "lua",
     "neovim",
@@ -31,8 +33,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-19T17:11:50Z",
-  "updated_at": "2026-06-30T20:15:29Z",
-  "pushed_at": "2026-06-30T20:15:26Z",
+  "updated_at": "2026-07-02T10:01:40Z",
+  "pushed_at": "2026-07-02T09:52:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -261,6 +263,10 @@
     },
     {
       "date": "2026-07-01",
+      "stars": 55
+    },
+    {
+      "date": "2026-07-02",
       "stars": 55
     }
   ]

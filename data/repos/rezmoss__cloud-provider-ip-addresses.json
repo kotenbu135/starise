@@ -13,6 +13,9 @@
     "apache",
     "aws",
     "azure",
+    "cidr",
+    "cidr-ranges",
+    "cloud-ip-ranges",
     "cloud-security",
     "cloudflare",
     "devops",
@@ -22,17 +25,18 @@
     "infrastructure",
     "ip",
     "ip-addresses",
+    "ip-ranges",
     "nginx",
     "security",
     "webserver"
   ],
-  "star_count": 138,
+  "star_count": 140,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-03T18:52:35Z",
-  "updated_at": "2026-07-01T09:13:04Z",
-  "pushed_at": "2026-07-01T07:30:06Z",
+  "updated_at": "2026-07-02T04:39:46Z",
+  "pushed_at": "2026-07-02T07:08:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +262,10 @@
     {
       "date": "2026-07-01",
       "stars": 138
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 140
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "danielealbano",
   "name": "android-remote-control-mcp",
   "full_name": "danielealbano/android-remote-control-mcp",
-  "description": "An MCP Server for Android running on the phone, optmized for token usage, supports also files downloads and cloudflare (free) and ngrok automated tunnelling.",
-  "description_ja": "スマートフォン上で動作する Android 向け MCP サーバー。トークン使用量最適化済み。ファイルダウンロード、Cloudflare（無料）と ngrok による自動トンネリングもサポート",
+  "description": "An MCP Server for Android running on the phone, optmized for token usage, supports also files downloads and cloudflare and ngrok automated tunnelling.",
+  "description_ja": "",
   "url": "https://github.com/danielealbano/android-remote-control-mcp",
   "homepage_url": "",
   "language": "Kotlin",
@@ -15,12 +15,12 @@
     "mcp-server",
     "remote-control"
   ],
-  "star_count": 95,
+  "star_count": 97,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T15:17:23Z",
-  "updated_at": "2026-07-01T09:47:45Z",
+  "updated_at": "2026-07-02T18:03:33Z",
   "pushed_at": "2026-06-29T19:25:20Z",
   "deleted_at": "",
   "star_history": [
@@ -243,6 +243,10 @@
     {
       "date": "2026-07-01",
       "stars": 95
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 97
     }
   ]
 }

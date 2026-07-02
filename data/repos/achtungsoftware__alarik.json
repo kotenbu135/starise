@@ -10,6 +10,10 @@
   "language": "Swift",
   "license": "Apache-2.0",
   "topics": [
+    "ai-storage",
+    "amazon-s3",
+    "bigdata",
+    "filesystem",
     "minio",
     "object",
     "object-storage",
@@ -22,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-06T03:48:26Z",
-  "updated_at": "2026-07-01T18:59:49Z",
-  "pushed_at": "2026-07-01T19:00:07Z",
+  "updated_at": "2026-07-02T19:35:48Z",
+  "pushed_at": "2026-07-02T19:36:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -252,6 +256,10 @@
     },
     {
       "date": "2026-07-01",
+      "stars": 275
+    },
+    {
+      "date": "2026-07-02",
       "stars": 275
     }
   ]

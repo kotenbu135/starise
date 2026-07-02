@@ -3,7 +3,7 @@
   "owner": "vostride",
   "name": "agent-qa",
   "full_name": "vostride/agent-qa",
-  "description": "The self-improving Agentic QA harness with Memory. Write tests in natural language.\u2028 Catch regressions before releases ship.",
+  "description": "The self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
   "description_ja": "",
   "url": "https://github.com/vostride/agent-qa",
   "homepage_url": "https://vostride.com/agent-qa",
@@ -36,7 +36,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-07T20:17:57Z",
-  "updated_at": "2026-07-01T12:44:07Z",
+  "updated_at": "2026-07-02T20:52:44Z",
   "pushed_at": "2026-06-14T19:19:55Z",
   "deleted_at": "",
   "star_history": [
@@ -186,6 +186,10 @@
     },
     {
       "date": "2026-07-01",
+      "stars": 152
+    },
+    {
+      "date": "2026-07-02",
       "stars": 152
     }
   ]

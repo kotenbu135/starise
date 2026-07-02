@@ -3,20 +3,32 @@
   "owner": "naibabiji",
   "name": "wp-panel",
   "full_name": "naibabiji/wp-panel",
-  "description": "WordPress 专用服务器管理面板。一行命令，纯净 Debian 13 变身 WordPress 托管平台。",
+  "description": "WordPress 专用服务器管理面板 / WordPress server management panel for Debian 13 VPS. Site isolation, SSL, backups, security, and daily hosting operations.",
   "description_ja": "",
   "url": "https://github.com/naibabiji/wp-panel",
   "homepage_url": "https://wp-panel.org",
   "language": "Go",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 48,
+  "topics": [
+    "backup",
+    "debian",
+    "gin",
+    "go",
+    "mariadb",
+    "nginx",
+    "php-fpm",
+    "security",
+    "server-panel",
+    "ssl",
+    "wordpress"
+  ],
+  "star_count": 50,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-20T12:57:32Z",
-  "updated_at": "2026-07-01T04:47:42Z",
-  "pushed_at": "2026-07-01T04:47:39Z",
+  "updated_at": "2026-07-02T09:19:46Z",
+  "pushed_at": "2026-07-02T01:43:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -26,6 +38,10 @@
     {
       "date": "2026-07-01",
       "stars": 48
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 50
     }
   ]
 }

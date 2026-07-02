@@ -3,7 +3,7 @@
   "owner": "smallmain",
   "name": "vscode-unify-chat-provider",
   "full_name": "smallmain/vscode-unify-chat-provider",
-  "description": "Integrate multiple LLM API providers into VS Code's GitHub Copilot Chat using the Language Model API. Aggregates the latest free mainstream models, configurable in just a few steps! One-click use of your Claude Code, Gemini CLI, Antigravity, Github Copilot, Qwen Code, OpenAI CodeX (ChatGPT Plus/Pro) account quotas.",
+  "description": "Integrate multiple LLM API providers into VS Code's GitHub Copilot Chat using the Language Model API. One-click use of your Claude Code, Gemini CLI, Antigravity, Github Copilot, OpenAI Codex (ChatGPT Plus/Pro), xAI Grok (SuperGrok / X Premium+) account quotas.",
   "description_ja": "",
   "url": "https://github.com/smallmain/vscode-unify-chat-provider",
   "homepage_url": "",
@@ -21,12 +21,12 @@
     "llm",
     "ucp"
   ],
-  "star_count": 630,
+  "star_count": 635,
   "fork_count": 61,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-01T16:30:27Z",
-  "updated_at": "2026-07-01T15:45:38Z",
+  "updated_at": "2026-07-02T16:23:57Z",
   "pushed_at": "2026-07-01T10:25:24Z",
   "deleted_at": "",
   "star_history": [
@@ -109,6 +109,10 @@
     {
       "date": "2026-07-01",
       "stars": 630
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 635
     }
   ]
 }

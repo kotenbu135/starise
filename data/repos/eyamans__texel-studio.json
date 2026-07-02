@@ -6,17 +6,36 @@
   "description": "AI pixel art agent that paints like a real artist. Not diffusion — actual tool-based painting with shapes, noise, and per-pixel control.",
   "description_ja": "",
   "url": "https://github.com/EYamanS/texel-studio",
-  "homepage_url": "",
+  "homepage_url": "https://texel.studio",
   "language": "Python",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 115,
+  "topics": [
+    "ai-agent",
+    "ai-art",
+    "ai-pixel-art",
+    "art-tool",
+    "creative-tools",
+    "game-assets",
+    "game-development",
+    "gamedev",
+    "generative-art",
+    "image-generation",
+    "pixel-art",
+    "pixel-art-generator",
+    "pixel-art-tool",
+    "pixelart",
+    "sprite",
+    "sprite-generator",
+    "spritesheet",
+    "text-to-image"
+  ],
+  "star_count": 116,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-01T11:02:41Z",
-  "updated_at": "2026-06-30T12:20:14Z",
-  "pushed_at": "2026-04-30T07:11:36Z",
+  "updated_at": "2026-07-02T11:59:51Z",
+  "pushed_at": "2026-07-02T11:57:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -178,6 +197,10 @@
     {
       "date": "2026-07-01",
       "stars": 115
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 116
     }
   ]
 }

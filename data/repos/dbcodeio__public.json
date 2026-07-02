@@ -3,20 +3,41 @@
   "owner": "dbcodeio",
   "name": "public",
   "full_name": "dbcodeio/public",
-  "description": "Your database. Inside VS Code.",
+  "description": "The database IDE for VS Code, Cursor, and Windsurf. 80+ databases: Postgres, MySQL, SQL Server, MongoDB, Snowflake, and more. AI queries, ER diagrams, SQL notebooks.",
   "description_ja": "",
   "url": "https://github.com/dbcodeio/public",
   "homepage_url": "https://dbcode.io",
   "language": "",
   "license": "NOASSERTION",
-  "topics": [],
+  "topics": [
+    "cursor",
+    "database",
+    "database-client",
+    "database-management",
+    "duckdb",
+    "github-copilot",
+    "mariadb",
+    "mcp",
+    "mongodb",
+    "mysql",
+    "postgresql",
+    "redis",
+    "snowflake",
+    "sql",
+    "sql-client",
+    "sql-editor",
+    "sql-server",
+    "sqlite",
+    "vscode",
+    "vscode-extension"
+  ],
   "star_count": 312,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-13T00:45:15Z",
-  "updated_at": "2026-07-01T11:59:04Z",
-  "pushed_at": "2026-07-01T11:59:03Z",
+  "updated_at": "2026-07-02T11:12:15Z",
+  "pushed_at": "2026-07-02T10:34:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -153,6 +174,10 @@
     },
     {
       "date": "2026-07-01",
+      "stars": 312
+    },
+    {
+      "date": "2026-07-02",
       "stars": 312
     }
   ]

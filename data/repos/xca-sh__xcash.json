@@ -3,7 +3,7 @@
   "owner": "xca-sh",
   "name": "xcash",
   "full_name": "xca-sh/xcash",
-  "description": "Open-source self-hosted cryptocurrency payment gateway. Accept USDT, BTC, ETH — zero platform fees, 100+ blockchains, 3-min Docker deploy, full self-custody of private keys. Built-in MistTrack risk control.",
+  "description": "开源、自部署、非托管的加密货币支付网关，支持多链账单收款与充值收款，资金经智能合约直达商户钱包。",
   "description_ja": "",
   "url": "https://github.com/xca-sh/xcash",
   "homepage_url": "https://xca.sh",
@@ -23,13 +23,13 @@
     "usdt",
     "web3"
   ],
-  "star_count": 152,
+  "star_count": 153,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-05T02:44:46Z",
-  "updated_at": "2026-07-01T16:07:00Z",
-  "pushed_at": "2026-07-01T16:06:46Z",
+  "updated_at": "2026-07-02T13:24:44Z",
+  "pushed_at": "2026-07-02T13:24:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -203,6 +203,10 @@
     {
       "date": "2026-07-01",
       "stars": 152
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 153
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "comarkdown",
   "name": "comark",
   "full_name": "comarkdown/comark",
-  "description": "A high-performance Markdown parser and renderer for Vue, React, Svelte, HTML and ANSI.",
-  "description_ja": "Vue・React・Svelte・HTML・ANSI向けの高性能Markdownパーサー＆レンダラー",
+  "description": "A high-performance Markdown parser and renderer for Angular, React, Svelte, Vue, HTML and ANSI.",
+  "description_ja": "",
   "url": "https://github.com/comarkdown/comark",
   "homepage_url": "https://comark.dev",
   "language": "TypeScript",
@@ -18,13 +18,13 @@
     "svelte",
     "vue"
   ],
-  "star_count": 798,
+  "star_count": 803,
   "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-22T15:50:54Z",
-  "updated_at": "2026-07-01T14:31:31Z",
-  "pushed_at": "2026-07-01T14:31:23Z",
+  "updated_at": "2026-07-02T16:39:45Z",
+  "pushed_at": "2026-07-02T16:25:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -254,6 +254,10 @@
     {
       "date": "2026-07-01",
       "stars": 798
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 803
     }
   ]
 }

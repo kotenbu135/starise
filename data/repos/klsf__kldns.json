@@ -3,11 +3,11 @@
   "owner": "klsf",
   "name": "kldns",
   "full_name": "klsf/kldns",
-  "description": "KLDNS 是一个面向二级域名分发场景的 DNS 管理系统，适用于主域开放、用户自助申请前缀、解析记录维护、积分控制、审核流和统一运维管理。",
-  "description_ja": "KLDNSは、セカンドレベルドメイン配布シナリオ向けのDNS管理システムです。メインドメインの公開、ユーザーによるプレフィックスの自己申請、DNSレコードの管理、ポイント制御、審査フロー、統合運用管理に対応しています。",
+  "description": "KLDNS 是一个二级域名分发和 DNS 解析管理系统，支持用户注册二级域名、积分扣费、域名审核、解析记录管理和后台运维管理。",
+  "description_ja": "",
   "url": "https://github.com/klsf/kldns",
   "homepage_url": "",
-  "language": "PHP",
+  "language": "Go",
   "license": "",
   "topics": [
     "dns",
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-12-16T09:50:42Z",
-  "updated_at": "2026-07-01T02:10:19Z",
-  "pushed_at": "2026-06-23T10:06:30Z",
+  "updated_at": "2026-07-02T01:58:37Z",
+  "pushed_at": "2026-07-02T01:58:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -250,6 +250,10 @@
     },
     {
       "date": "2026-07-01",
+      "stars": 491
+    },
+    {
+      "date": "2026-07-02",
       "stars": 491
     }
   ]

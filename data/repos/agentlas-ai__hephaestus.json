@@ -3,38 +3,40 @@
   "owner": "agentlas-ai",
   "name": "hephaestus",
   "full_name": "agentlas-ai/hephaestus",
-  "description": "Open Agent OS for Claude Code, Codex, and Cursor: meta-agent builder, A2A Hub routing, local ontology, memory and security gates.",
+  "description": "Agent OS: keep specialist agents in a hub, spin up a temporary orchestrator per task. Local-first, works with any model.",
   "description_ja": "",
   "url": "https://github.com/agentlas-ai/Hephaestus",
-  "homepage_url": "https://agentlas.cloud/models/hephaestus",
+  "homepage_url": "https://agentlas.cloud",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
     "a2a",
+    "agent",
     "agent-framework",
-    "agent-memory",
-    "agent-os",
-    "agent-routing",
+    "agent-os-desktop",
+    "agent-skills",
     "agentic-ai",
-    "ai-agent-builder",
+    "agentic-workflow",
+    "agentos",
+    "agents",
+    "agents-team",
+    "agentshub",
     "ai-agents",
-    "autogen",
-    "claude-code",
-    "langgraph",
+    "autonomous-agents",
     "llm",
-    "local-first",
-    "meta-agent",
-    "multi-agent",
-    "ontology",
-    "security-gates"
+    "llm-agents",
+    "llm-tools",
+    "mcp",
+    "multi-agent-systems",
+    "ochestration"
   ],
   "star_count": 99,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-04T04:33:26Z",
-  "updated_at": "2026-07-01T05:33:40Z",
-  "pushed_at": "2026-07-01T03:54:33Z",
+  "updated_at": "2026-07-02T08:40:33Z",
+  "pushed_at": "2026-07-02T08:40:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -123,6 +125,10 @@
     },
     {
       "date": "2026-07-01",
+      "stars": 99
+    },
+    {
+      "date": "2026-07-02",
       "stars": 99
     }
   ]

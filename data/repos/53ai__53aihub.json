@@ -3,8 +3,8 @@
   "owner": "53ai",
   "name": "53aihub",
   "full_name": "53ai/53aihub",
-  "description": "53AI Hub is an open-source AI portal, which enables you to quickly build a operational-level AI portal to launch and operate AI agents, prompts, and AI tools. It supports seamless integration with development platforms like Coze, Dify, FastGPT, RAGFlow.",
-  "description_ja": "53AI Hubはオープンソースのai portal。運用レベルのAIポータルを素早く構築し、AI agent、プロンプト、AIツールを公開・運用可能。Coze、Dify、FastGPT、RAGFlowなどの開発プラットフォームとシームレスに連携",
+  "description": "53AI Hub is an open-source AI portal and knowledge base for managing enterprise knowledge, AI agents, prompts, and AI tools, seamlessly integrating with Coze, Dify, FastGPT, RAGFlow. 一个AI知识库与Agent门户",
+  "description_ja": "",
   "url": "https://github.com/53AI/53AIHub",
   "homepage_url": "https://hub.53ai.com",
   "language": "Go",
@@ -14,18 +14,20 @@
     "dify",
     "fastgpt",
     "go",
+    "knowledge",
     "maxkb",
     "mcp",
     "openai",
     "prompt",
+    "rag",
     "ragflow"
   ],
-  "star_count": 4927,
-  "fork_count": 526,
+  "star_count": 4930,
+  "fork_count": 525,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-24T11:24:11Z",
-  "updated_at": "2026-07-01T12:21:59Z",
+  "updated_at": "2026-07-02T12:59:55Z",
   "pushed_at": "2026-06-24T11:41:56Z",
   "deleted_at": "",
   "star_history": [
@@ -256,6 +258,10 @@
     {
       "date": "2026-07-01",
       "stars": 4927
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 4930
     }
   ]
 }

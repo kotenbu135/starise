@@ -3,22 +3,23 @@
   "owner": "sane-apps",
   "name": "sanebar",
   "full_name": "sane-apps/sanebar",
-  "description": "The privacy-first menu bar manager for macOS. Native, lightweight, and scriptable.",
-  "description_ja": "macOS 向けプライバシーファースト設計のメニューバーマネージャー。ネイティブ、軽量、スクリプト対応。",
+  "description": "The privacy-first menu bar manager for macOS. Now 100% free and open source (MIT) — every feature unlocked. Native, lightweight, and scriptable.",
+  "description_ja": "",
   "url": "https://github.com/sane-apps/SaneBar",
   "homepage_url": "https://sanebar.com",
   "language": "Swift",
   "license": "MIT",
   "topics": [
     "bartender-alternative",
+    "free",
     "mac-app",
     "macos",
     "macos-app",
     "menu-bar",
     "menu-bar-manager",
     "menubar",
+    "open-source",
     "privacy",
-    "source-available",
     "status-bar",
     "swift",
     "swiftui",
@@ -29,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-02T00:47:55Z",
-  "updated_at": "2026-07-01T18:56:50Z",
-  "pushed_at": "2026-07-01T18:56:45Z",
+  "updated_at": "2026-07-02T17:14:34Z",
+  "pushed_at": "2026-07-02T17:14:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -259,6 +260,10 @@
     },
     {
       "date": "2026-07-01",
+      "stars": 234
+    },
+    {
+      "date": "2026-07-02",
       "stars": 234
     }
   ]

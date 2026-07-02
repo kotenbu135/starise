@@ -7,19 +7,27 @@
   "description_ja": "DevOps Happiness: ワンクリックまたはワンプロンプトのMCP。自分のクラウド上でアプリ・インフラ・CI/CDをデプロイ。人もエージェントも幸せに。🚀",
   "url": "https://github.com/devopness/devopness",
   "homepage_url": "https://www.devopness.com",
-  "language": "TypeScript",
+  "language": "Python",
   "license": "MIT",
   "topics": [
+    "aws",
     "ci-cd",
     "cloud-infrastructure",
-    "continuous-integration",
+    "deployment",
+    "deployment-automation",
     "devops",
     "devops-tools",
-    "hacktoberfest",
-    "infrastructure-as-code",
+    "digitalocean",
+    "google-cloud",
+    "heroku-alternative",
+    "hetzner",
+    "mcp",
+    "model-context-protocol",
     "multi-cloud-environments",
-    "platform-engineering",
-    "site-reliability-engineering",
+    "self-hosting",
+    "server-management",
+    "terraform-alternative",
+    "vercel-alternative",
     "zero-downtime-deploy"
   ],
   "star_count": 434,
@@ -27,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-04T23:55:55Z",
-  "updated_at": "2026-07-01T07:38:10Z",
-  "pushed_at": "2026-07-01T07:40:18Z",
+  "updated_at": "2026-07-02T17:52:37Z",
+  "pushed_at": "2026-07-02T17:02:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -253,6 +261,10 @@
     },
     {
       "date": "2026-07-01",
+      "stars": 434
+    },
+    {
+      "date": "2026-07-02",
       "stars": 434
     }
   ]
