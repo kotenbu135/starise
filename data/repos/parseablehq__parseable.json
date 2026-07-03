@@ -3,29 +3,40 @@
   "owner": "parseablehq",
   "name": "parseable",
   "full_name": "parseablehq/parseable",
-  "description": "Parseable is an observability datalake built from first principles.",
-  "description_ja": "Parseableは、ファーストプリンシプルから構築されたオブザーバビリティ向けデータレイクです。",
+  "description": "Parseable is an open source, unified infrastructure observability platform built in Rust on a data lake architecture. It tracks logs, metrics, traces, and events across apps, agents, and systems, reducing storage costs by up to 90% through columnar telemetry compression.",
+  "description_ja": "",
   "url": "https://github.com/parseablehq/parseable",
   "homepage_url": "https://parseable.com",
   "language": "Rust",
   "license": "AGPL-3.0",
   "topics": [
-    "analytics",
+    "agent-observability",
+    "alerting",
+    "apm",
     "cloud-native",
-    "docker",
-    "elasticsearch",
-    "elasticsearch-alternative",
-    "kubernetes",
-    "linux",
+    "dashboards",
+    "events",
+    "grafana-alternative",
     "log-storage",
-    "rust"
+    "metrics",
+    "object-storage",
+    "observability",
+    "opensource",
+    "opentelemetry",
+    "parquet",
+    "prometheus",
+    "promql",
+    "rust",
+    "s3",
+    "self-hosted",
+    "telemetry"
   ],
   "star_count": 2398,
   "fork_count": 166,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-03T07:44:02Z",
-  "updated_at": "2026-07-02T17:48:28Z",
+  "updated_at": "2026-07-03T07:09:03Z",
   "pushed_at": "2026-07-02T15:16:58Z",
   "deleted_at": "",
   "star_history": [
@@ -259,6 +270,10 @@
     },
     {
       "date": "2026-07-02",
+      "stars": 2398
+    },
+    {
+      "date": "2026-07-03",
       "stars": 2398
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "alterlab-ieu",
   "name": "alterlab-academic-skills",
   "full_name": "alterlab-ieu/alterlab-academic-skills",
-  "description": "210 evaluated academic Claude/agent skills across 16 research domains — bioinformatics, cheminformatics, data science, databases, clinical, Turkish academia \u0026 more. Every skill ships an executable eval (agentskills.io schema). Citation verifier + research→write→review→publish pipeline. Claude Code, Cursor, Codex, Gemini CLI \u0026 Copilot.",
+  "description": "239 evaluated academic Claude/agent skills across 17 research domains (bioinformatics, data science, clinical, social-science methods, Turkish academia \u0026 more). Executable eval per skill, deterministic citation verifier, research→write→review→publish pipeline, and a skill-finder front door. Claude Code, Cursor, Codex, Gemini CLI \u0026 Copilot.",
   "description_ja": "",
   "url": "https://github.com/AlterLab-IEU/AlterLab-Academic-Skills",
   "homepage_url": "https://alterlab-ieu.github.io/AlterLab-Academic-Skills/",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T15:24:02Z",
-  "updated_at": "2026-07-02T17:53:49Z",
-  "pushed_at": "2026-07-02T17:55:58Z",
+  "updated_at": "2026-07-03T06:59:55Z",
+  "pushed_at": "2026-07-03T07:06:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     },
     {
       "date": "2026-07-02",
+      "stars": 37
+    },
+    {
+      "date": "2026-07-03",
       "stars": 37
     }
   ]

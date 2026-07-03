@@ -3,31 +3,38 @@
   "owner": "vsdudakov",
   "name": "fastadmin",
   "full_name": "vsdudakov/fastadmin",
-  "description": "FastAdmin is an easy-to-use Admin Dashboard App for FastAPI/Flask/Django inspired by Django Admin.",
-  "description_ja": "FastAdminは、Django Adminに着想を得たFastAPI／Flask／Django向けの使いやすい管理ダッシュボードアプリです。",
+  "description": "Easy-to-use admin dashboard (admin panel) for FastAPI, Flask and Django, inspired by Django Admin. Works with Tortoise ORM, Django ORM, SQLAlchemy, Pony ORM and Yara ORM.",
+  "description_ja": "",
   "url": "https://github.com/vsdudakov/fastadmin",
   "homepage_url": "https://vsdudakov.github.io/fastadmin/",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "admin",
+    "admin-dashboard",
+    "admin-panel",
+    "crud",
     "dashboard",
     "django",
+    "django-admin",
     "fastadmin",
     "fastapi",
     "fastapi-admin",
     "flask",
+    "flask-admin",
     "ponyorm",
-    "sqlalchemy-orm",
-    "tortoise-orm"
+    "python",
+    "sqlalchemy",
+    "tortoise-orm",
+    "yara-orm"
   ],
   "star_count": 311,
   "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-22T05:26:33Z",
-  "updated_at": "2026-06-23T04:16:25Z",
-  "pushed_at": "2026-04-15T19:02:59Z",
+  "updated_at": "2026-07-03T11:52:02Z",
+  "pushed_at": "2026-07-03T11:53:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -256,6 +263,10 @@
     },
     {
       "date": "2026-07-02",
+      "stars": 311
+    },
+    {
+      "date": "2026-07-03",
       "stars": 311
     }
   ]

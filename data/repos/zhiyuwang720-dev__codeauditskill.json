@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOTJREXQ",
+  "owner": "zhiyuwang720-dev",
+  "name": "codeauditskill",
+  "full_name": "zhiyuwang720-dev/codeauditskill",
+  "description": "CodeAuditSkill 是一个运行在 Claude Code 中的 Web 项目安全代码审计/漏洞挖掘 Skill， 已经获得了40余个CNVD漏洞编号。 给定一个 Web 项目目录，自动识别语言与框架，按语言专属漏洞清单进行系统化源码审计，对每条高中危漏洞并行启动子 Agent 进行可利用性验证，最终输出可交付的审计报告。",
+  "description_ja": "",
+  "url": "https://github.com/zhiyuwang720-dev/CodeAuditSkill",
+  "homepage_url": "",
+  "language": "",
+  "license": "MIT",
+  "topics": [],
+  "star_count": 48,
+  "fork_count": 0,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-30T07:36:53Z",
+  "updated_at": "2026-07-03T14:24:56Z",
+  "pushed_at": "2026-07-01T13:04:39Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-03",
+      "stars": 48
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "owner": "aws",
   "name": "agentcore-cli",
   "full_name": "aws/agentcore-cli",
-  "description": "The new terminal experience for AgentCore!",
-  "description_ja": "AgentCore の新しいターミナルエクスペリエンス",
+  "description": "The terminal experience for AgentCore!",
+  "description_ja": "",
   "url": "https://github.com/aws/agentcore-cli",
-  "homepage_url": "",
+  "homepage_url": "https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agentcore-get-started-cli.html",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [],
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-26T19:39:55Z",
-  "updated_at": "2026-07-02T18:11:56Z",
-  "pushed_at": "2026-07-02T19:36:10Z",
+  "updated_at": "2026-07-03T15:34:23Z",
+  "pushed_at": "2026-07-02T21:35:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -241,6 +241,10 @@
     },
     {
       "date": "2026-07-02",
+      "stars": 199
+    },
+    {
+      "date": "2026-07-03",
       "stars": 199
     }
   ]

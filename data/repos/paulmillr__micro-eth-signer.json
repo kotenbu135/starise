@@ -3,8 +3,8 @@
   "owner": "paulmillr",
   "name": "micro-eth-signer",
   "full_name": "paulmillr/micro-eth-signer",
-  "description": "Minimal library for Ethereum transactions, addresses and smart contracts.",
-  "description_ja": "Ethereumのトランザクション・アドレス・スマートコントラクト向けの最小限ライブラリ",
+  "description": "Minimal privacy-focused Ethereum library",
+  "description_ja": "",
   "url": "https://github.com/paulmillr/micro-eth-signer",
   "homepage_url": "",
   "language": "TypeScript",
@@ -29,13 +29,13 @@
     "viem",
     "web3"
   ],
-  "star_count": 230,
+  "star_count": 231,
   "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-03-26T17:16:24Z",
-  "updated_at": "2026-06-29T21:15:23Z",
-  "pushed_at": "2026-06-26T23:14:46Z",
+  "updated_at": "2026-07-03T01:53:47Z",
+  "pushed_at": "2026-07-03T01:54:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -265,6 +265,10 @@
     {
       "date": "2026-07-02",
       "stars": 230
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 231
     }
   ]
 }

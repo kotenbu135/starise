@@ -3,8 +3,8 @@
   "owner": "scopewu",
   "name": "qrcode.vue",
   "full_name": "scopewu/qrcode.vue",
-  "description": "A Vue component to generate qrcode. Supports both Vue 2 and Vue 3. 一款同时支援 Vue 2 和 Vue 3 的二维码组件。",
-  "description_ja": "QR コードを生成する Vue コンポーネント。Vue 2 と Vue 3 の両方をサポート。",
+  "description": "A Vue component to generate QRCode. QRCode vue supports both Vue 2 and Vue 3. It offers two QR code formats: canvas and svg. Customize QR code size, margins, error correction level, foreground and background colors, logo images, and gradient effects.",
+  "description_ja": "",
   "url": "https://github.com/scopewu/qrcode.vue",
   "homepage_url": "https://qr-vue.tie.pub",
   "language": "TypeScript",
@@ -16,12 +16,12 @@
     "vue",
     "vue-component"
   ],
-  "star_count": 819,
+  "star_count": 820,
   "fork_count": 89,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-04-16T01:09:12Z",
-  "updated_at": "2026-07-02T10:49:00Z",
+  "updated_at": "2026-07-03T05:48:41Z",
   "pushed_at": "2026-07-02T07:45:52Z",
   "deleted_at": "",
   "star_history": [
@@ -256,6 +256,10 @@
     {
       "date": "2026-07-02",
       "stars": 819
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 820
     }
   ]
 }

@@ -10,18 +10,20 @@
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [
+    "iot",
     "java",
     "mqtt",
     "mqtt-broker",
-    "mqtt-client"
+    "mqtt-client",
+    "mqtt5"
   ],
-  "star_count": 484,
-  "fork_count": 87,
+  "star_count": 486,
+  "fork_count": 88,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-09-13T06:30:06Z",
-  "updated_at": "2026-07-01T08:40:12Z",
-  "pushed_at": "2026-07-02T03:06:37Z",
+  "updated_at": "2026-07-03T09:18:44Z",
+  "pushed_at": "2026-07-03T10:31:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -255,6 +257,10 @@
     {
       "date": "2026-07-02",
       "stars": 484
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 486
     }
   ]
 }

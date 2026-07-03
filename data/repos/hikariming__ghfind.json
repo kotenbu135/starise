@@ -3,29 +3,33 @@
   "owner": "hikariming",
   "name": "ghfind",
   "full_name": "hikariming/ghfind",
-  "description": "Savage GitHub Roast · Drop a handle, get a 0–100 value \u0026 trust score in 30s plus one brutally honest roast. Exposes PR farmers, AI bots \u0026 fork-hoarders. Deterministic scoring, self-hostable.",
+  "description": "Discover the best developers — and become one. Drop a GitHub handle for a 0–100 value \u0026 trust score in 30s: see your gaps, discover top devs, get found. Exposes PR farmers, AI bots \u0026 fork-hoarders. Deterministic scoring, self-hostable.",
   "description_ja": "",
   "url": "https://github.com/hikariming/ghfind",
-  "homepage_url": "https://githubroast.dev",
+  "homepage_url": "https://ghfind.com",
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
     "ai",
     "code-quality",
+    "developer-discovery",
+    "developer-score",
     "developer-tools",
     "github",
+    "github-profile",
     "leaderboard",
     "nextjs",
     "openai",
-    "roast"
+    "roast",
+    "trust-score"
   ],
-  "star_count": 93,
-  "fork_count": 14,
+  "star_count": 97,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-26T09:02:14Z",
-  "updated_at": "2026-07-02T17:51:03Z",
-  "pushed_at": "2026-07-02T15:58:53Z",
+  "updated_at": "2026-07-03T17:52:38Z",
+  "pushed_at": "2026-07-03T17:52:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +47,10 @@
     {
       "date": "2026-07-02",
       "stars": 93
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 97
     }
   ]
 }

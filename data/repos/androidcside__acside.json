@@ -7,7 +7,7 @@
   "description_ja": "AndroidCS IDEは、あらゆる種類のAndroidプロジェクトをデバイス上または軽量システム上で直接作成・管理できるフル機能の開発環境。従来のIDEのような重い要件なしに、完全なAndroid開発体験を求める開発者向けに、強力かつ効率的なワークフローを提供する。",
   "url": "https://github.com/AndroidCSIDE/ACSIDE",
   "homepage_url": "https://github.com/AndroidCSIDE",
-  "language": "",
+  "language": "Kotlin",
   "license": "",
   "topics": [
     "android",
@@ -20,13 +20,13 @@
     "flutter-apps",
     "ide"
   ],
-  "star_count": 222,
+  "star_count": 224,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T22:57:51Z",
-  "updated_at": "2026-06-30T04:02:58Z",
-  "pushed_at": "2026-05-13T12:40:07Z",
+  "updated_at": "2026-07-03T18:13:54Z",
+  "pushed_at": "2026-07-03T15:48:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -256,6 +256,10 @@
     {
       "date": "2026-07-02",
       "stars": 222
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 224
     }
   ]
 }

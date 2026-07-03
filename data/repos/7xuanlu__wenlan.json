@@ -6,7 +6,7 @@
   "description": "Wenlan (文瀾) is a personal knowledge base for the AI-native age. Your AI agents capture what they learn, Wenlan keeps it current and distills it into source-cited wiki pages you can trust",
   "description_ja": "",
   "url": "https://github.com/7xuanlu/wenlan",
-  "homepage_url": "https://useorigin.app",
+  "homepage_url": "https://wenlan.app",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -15,24 +15,20 @@
     "claude-code",
     "claude-code-plugin",
     "codex",
-    "git",
     "knowledge-base",
     "knowledge-graph",
     "llm-wiki",
     "local-first",
-    "mcp",
     "mcp-server",
-    "rust",
-    "second-brain",
-    "self-evolving"
+    "second-brain"
   ],
   "star_count": 47,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-19T22:07:06Z",
-  "updated_at": "2026-07-02T07:15:51Z",
-  "pushed_at": "2026-07-02T19:39:06Z",
+  "updated_at": "2026-07-03T18:52:22Z",
+  "pushed_at": "2026-07-03T18:50:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +53,10 @@
     },
     {
       "date": "2026-07-02",
+      "stars": 47
+    },
+    {
+      "date": "2026-07-03",
       "stars": 47
     }
   ]

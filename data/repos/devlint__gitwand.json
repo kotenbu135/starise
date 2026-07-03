@@ -3,35 +3,41 @@
   "owner": "devlint",
   "name": "gitwand",
   "full_name": "devlint/gitwand",
-  "description": "GitWand - The Git client that actually resolves conflicts. No guessing. No hallucinations. Merge conflicts wreck your flow — and most tools just guess. GitWand classifies every hunk with 10 deterministic patterns, auto-resolves the trivial 95%, and hands you the rest with a full trace. Free.",
+  "description": "The Git client that actually resolves conflicts — 10 deterministic patterns auto-resolve the trivial 95%, full trace on the rest. Native (Tauri 2 + Rust), free, MIT.",
   "description_ja": "",
   "url": "https://github.com/devlint/GitWand",
   "homepage_url": "https://gitwand.devlint.fr",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "ai",
     "app",
     "claude",
     "cli",
     "codex",
+    "conflict-resolution",
+    "developer-tools",
     "diff",
     "gemini",
     "git",
-    "ia",
+    "git-client",
+    "git-gui",
     "mcp",
     "merge",
+    "merge-conflicts",
     "opencode",
+    "rust",
     "tauri",
     "vue",
     "webapp"
   ],
-  "star_count": 105,
+  "star_count": 107,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-03T08:11:05Z",
-  "updated_at": "2026-07-02T14:46:07Z",
-  "pushed_at": "2026-07-02T20:05:15Z",
+  "updated_at": "2026-07-03T19:23:22Z",
+  "pushed_at": "2026-07-03T13:31:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -229,6 +235,10 @@
     {
       "date": "2026-07-02",
       "stars": 105
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 107
     }
   ]
 }

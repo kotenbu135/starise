@@ -3,7 +3,7 @@
   "owner": "ibuilder",
   "name": "massing",
   "full_name": "ibuilder/massing",
-  "description": "Massing — open, self-hosted, IFC-native AEC platform: web BIM viewer + modeling, an ~80-module GC portal (RFIs, pay apps, CPM, a construction-analytics suite + project-health rollup, e-sign), a development proforma, and operate/dispose (rent roll, cap table + equity waterfall, appraisal + MLS syndication).",
+  "description": "Open, self-hosted, IFC-native AEC platform: web BIM viewer + modeling, an ~85-module GC portal (RFIs, pay apps, CPM, procurement 3-way match, analytics, e-sign), AI assist, IDS authoring, conceptual + assembly estimating, embodied carbon, a development proforma, land screening, and operate/dispose (rent roll, equity waterfall, appraisal).",
   "description_ja": "",
   "url": "https://github.com/ibuilder/massing",
   "homepage_url": "https://massing.build",
@@ -31,18 +31,22 @@
     "self-hosted",
     "tauri"
   ],
-  "star_count": 39,
-  "fork_count": 30,
+  "star_count": 101,
+  "fork_count": 54,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-14T18:18:29Z",
-  "updated_at": "2026-07-02T19:38:09Z",
-  "pushed_at": "2026-07-02T15:04:40Z",
+  "updated_at": "2026-07-03T16:54:24Z",
+  "pushed_at": "2026-07-03T16:54:22Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-07-02",
       "stars": 39
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 101
     }
   ]
 }

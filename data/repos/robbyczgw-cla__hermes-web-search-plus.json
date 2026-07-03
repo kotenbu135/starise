@@ -3,7 +3,7 @@
   "owner": "robbyczgw-cla",
   "name": "hermes-web-search-plus",
   "full_name": "robbyczgw-cla/hermes-web-search-plus",
-  "description": "Hermes Agent flagship plugin for multi-provider web search and extraction with intelligent routing, quality reports, and research mode.",
+  "description": "Multi-provider web search + URL extraction for Hermes Agent. v2.9: search_type/news, Serper extraction, configurable locale (country/language/auto)",
   "description_ja": "",
   "url": "https://github.com/robbyczgw-cla/hermes-web-search-plus",
   "homepage_url": "https://websearchplus.xyz",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-17T13:25:07Z",
-  "updated_at": "2026-07-02T13:43:00Z",
-  "pushed_at": "2026-07-02T13:42:46Z",
+  "updated_at": "2026-07-03T19:38:51Z",
+  "pushed_at": "2026-07-03T20:03:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +65,10 @@
     },
     {
       "date": "2026-07-02",
+      "stars": 323
+    },
+    {
+      "date": "2026-07-03",
       "stars": 323
     }
   ]

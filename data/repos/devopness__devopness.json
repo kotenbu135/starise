@@ -3,14 +3,15 @@
   "owner": "devopness",
   "name": "devopness",
   "full_name": "devopness/devopness",
-  "description": "DevOps Happiness: 1-click or 1-prompt MCP. Deploy apps + infra + CI/CD on your cloud. Happy humans + reliable agents. 🚀",
-  "description_ja": "DevOps Happiness: ワンクリックまたはワンプロンプトのMCP。自分のクラウド上でアプリ・インフラ・CI/CDをデプロイ。人もエージェントも幸せに。🚀",
+  "description": "Devopness: AI DevOps on your cloud. Deploy apps, infra and CI/CD. Any cloud and any stack, one MCP. Deterministic API, opinionated and fully configurable. No cloud credentials in AI chats. Free plan.",
+  "description_ja": "",
   "url": "https://github.com/devopness/devopness",
   "homepage_url": "https://www.devopness.com",
   "language": "Python",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "topics": [
     "aws",
+    "azure",
     "ci-cd",
     "cloud-infrastructure",
     "deployment",
@@ -30,13 +31,13 @@
     "vercel-alternative",
     "zero-downtime-deploy"
   ],
-  "star_count": 434,
+  "star_count": 433,
   "fork_count": 155,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-04T23:55:55Z",
-  "updated_at": "2026-07-02T17:52:37Z",
-  "pushed_at": "2026-07-02T17:02:17Z",
+  "updated_at": "2026-07-03T16:34:53Z",
+  "pushed_at": "2026-07-03T14:01:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -266,6 +267,10 @@
     {
       "date": "2026-07-02",
       "stars": 434
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 433
     }
   ]
 }

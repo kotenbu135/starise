@@ -3,19 +3,21 @@
   "owner": "alirezaparsi",
   "name": "copg",
   "full_name": "alirezaparsi/copg",
-  "description": "An advanced and powerful Zygisk module for comprehensive device and CPU spoofing with granular per-app control via JSON configuration.",
+  "description": "Advanced per-app device / CPU / GPU spoofer for rooted Android — device profiles, per-app CPU models, prop \u0026 Android-ID spoofing, all driven by a full on-device WebUI. Zygisk module for KernelSU / Magisk / APatch.",
   "description_ja": "",
   "url": "https://github.com/AlirezaParsi/COPG",
-  "homepage_url": "",
+  "homepage_url": "https://t.me/COPG_module",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [
-    "advance",
     "android",
+    "apatch",
     "copg",
+    "cpu-spoofing",
     "device-spoofing",
     "free",
     "gaming",
+    "gpu-spoofing",
     "kernelsu-module",
     "magisk",
     "opensource",
@@ -25,16 +27,17 @@
     "systemless",
     "unlocker-fps",
     "unlocker-graphic",
+    "webui",
     "zygisk",
     "zygisk-next"
   ],
-  "star_count": 322,
+  "star_count": 321,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-17T16:23:07Z",
-  "updated_at": "2026-07-02T14:05:44Z",
-  "pushed_at": "2026-07-02T14:01:42Z",
+  "updated_at": "2026-07-03T18:04:23Z",
+  "pushed_at": "2026-07-03T14:12:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -104,6 +107,10 @@
     {
       "date": "2026-07-02",
       "stars": 322
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 321
     }
   ]
 }

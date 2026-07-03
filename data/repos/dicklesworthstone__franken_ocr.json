@@ -1,0 +1,40 @@
+{
+  "repo_id": "R_kgDOTEdutA",
+  "owner": "dicklesworthstone",
+  "name": "franken_ocr",
+  "full_name": "dicklesworthstone/franken_ocr",
+  "description": "Pure-Rust, CPU-only OCR engine for Baidu Unlimited-OCR (a DeepSeek-OCR-derived 3B MoE VLM). One fixed model, custom int4/int8 kernels, no ML framework, no GPU. Pre-Phase-0 scaffold.",
+  "description_ja": "",
+  "url": "https://github.com/Dicklesworthstone/franken_ocr",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "avx512",
+    "cpu-inference",
+    "deepseek-ocr",
+    "int4",
+    "int8",
+    "moe",
+    "neon",
+    "ocr",
+    "quantization",
+    "rust",
+    "simd",
+    "vision-language-model"
+  ],
+  "star_count": 46,
+  "fork_count": 1,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-25T01:38:58Z",
+  "updated_at": "2026-07-03T14:30:59Z",
+  "pushed_at": "2026-07-03T06:49:25Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-03",
+      "stars": 46
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "owner": "olucasandrade",
   "name": "kaptanto",
   "full_name": "olucasandrade/kaptanto",
-  "description": "kaptanto captures every insert, update, and delete from Postgres and MongoDB the moment it happens — and delivers it via stdout, SSE, or gRPC. One static binary. Self-contained. Deploys anywhere.",
+  "description": "kaptanto captures every insert, update, and delete from Postgres and MongoDB the moment it happens... and delivers it via stdout, SSE, gRPC or 5 different queue sinks. One static binary. Self-contained. Deploys anywhere.",
   "description_ja": "",
   "url": "https://github.com/olucasandrade/kaptanto",
   "homepage_url": "https://kaptan.to",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-20T20:51:57Z",
-  "updated_at": "2026-07-02T16:15:41Z",
-  "pushed_at": "2026-07-02T16:15:34Z",
+  "updated_at": "2026-07-03T02:05:44Z",
+  "pushed_at": "2026-07-03T19:32:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -193,6 +193,10 @@
     },
     {
       "date": "2026-07-02",
+      "stars": 52
+    },
+    {
+      "date": "2026-07-03",
       "stars": 52
     }
   ]

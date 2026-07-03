@@ -3,8 +3,8 @@
   "owner": "farama-foundation",
   "name": "gymnasium",
   "full_name": "farama-foundation/gymnasium",
-  "description": "An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)",
-  "description_ja": "シングルエージェント強化学習環境のための API 標準。人気のリファレンス環境と関連ユーティリティを含みます（旧 Gym）。",
+  "description": "A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)",
+  "description_ja": "",
   "url": "https://github.com/Farama-Foundation/Gymnasium",
   "homepage_url": "https://gymnasium.farama.org",
   "language": "Python",
@@ -14,12 +14,12 @@
     "gym",
     "reinforcement-learning"
   ],
-  "star_count": 12108,
+  "star_count": 12111,
   "fork_count": 1373,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-09-08T01:58:05Z",
-  "updated_at": "2026-07-02T17:31:42Z",
+  "updated_at": "2026-07-03T18:45:07Z",
   "pushed_at": "2026-07-02T17:33:28Z",
   "deleted_at": "",
   "star_history": [
@@ -254,6 +254,10 @@
     {
       "date": "2026-07-02",
       "stars": 12108
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 12111
     }
   ]
 }

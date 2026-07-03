@@ -3,19 +3,23 @@
   "owner": "zycaskevin",
   "name": "vault-for-llm",
   "full_name": "zycaskevin/vault-for-llm",
-  "description": "🧠 Local-first knowledge system for LLM agents — sqlite-vec + ONNX embeddings, no cloud/Docker/PyTorch dependency",
+  "description": "Local-first memory governance for AI agents: shared, reviewable, auditable memory via SQLite and MCP.",
   "description_ja": "",
   "url": "https://github.com/zycaskevin/Vault-for-LLM",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
-    "embeddings",
+    "agent-memory",
+    "ai-agents",
     "knowledge-base",
     "llm",
     "local-first",
+    "mcp",
     "mcp-server",
-    "onnx",
+    "memory-governance",
+    "multi-agent",
+    "obsidian",
     "rag",
     "sqlite",
     "sqlite-vec",
@@ -26,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-16T13:39:32Z",
-  "updated_at": "2026-07-02T14:24:15Z",
-  "pushed_at": "2026-07-02T14:24:25Z",
+  "updated_at": "2026-07-03T13:16:46Z",
+  "pushed_at": "2026-07-03T17:11:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -248,6 +252,10 @@
     },
     {
       "date": "2026-07-02",
+      "stars": 40
+    },
+    {
+      "date": "2026-07-03",
       "stars": 40
     }
   ]

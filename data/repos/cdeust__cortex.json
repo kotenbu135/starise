@@ -3,7 +3,7 @@
   "owner": "cdeust",
   "name": "cortex",
   "full_name": "cdeust/cortex",
-  "description": "Persistent memory for Claude Code — 41 neuroscience papers, 26 biological mechanisms with paper-bearing per-mechanism ablation evidence (E1 v3). LongMemEval R@10 98.4% / MRR 0.9124 (n=500). LoCoMo R@10 94.2% / MRR 0.8278 (n=1986). BEAM-10M +33.4% over flat retrieval. PostgreSQL + pgvector. Verified via 31-row two-benchmark ablation campaign.",
+  "description": "Persistent memory for Claude Code — 36 neuroscience mechanisms, 97 papers. LongMemEval R@10 98.4% / MRR 0.9124 (n=500). LoCoMo R@10 94.2% / MRR 0.8278 (n=1986). BEAM-10M +33.4% over flat retrieval. PostgreSQL + pgvector.",
   "description_ja": "",
   "url": "https://github.com/cdeust/Cortex",
   "homepage_url": "https://ai-architect.tools",
@@ -31,13 +31,13 @@
     "retrieval-augmented-generation",
     "vector-search"
   ],
-  "star_count": 63,
+  "star_count": 64,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T11:24:37Z",
-  "updated_at": "2026-07-02T13:24:31Z",
-  "pushed_at": "2026-07-01T06:41:40Z",
+  "updated_at": "2026-07-03T16:52:01Z",
+  "pushed_at": "2026-07-03T16:52:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -147,6 +147,10 @@
     {
       "date": "2026-07-02",
       "stars": 63
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 64
     }
   ]
 }

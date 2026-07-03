@@ -3,20 +3,41 @@
   "owner": "lgy1027",
   "name": "matrix-live-diarizer",
   "full_name": "lgy1027/matrix-live-diarizer",
-  "description": "3-10 人小会议 / 个人实时字幕。转写 + 说话人识别 + 摘要纪要，跑在你自己的机器上。 音频和转写永远不上云，LLM 可选本机 Ollama 或局域网 vLLM。",
+  "description": "Local-first real-time meeting transcription with speaker diarization, switchable ASR engines, and optional OpenAI-compatible LLM summaries.",
   "description_ja": "",
   "url": "https://github.com/lgy1027/matrix-live-diarizer",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "asr",
+    "docker",
+    "fastapi",
+    "funasr",
+    "llm",
+    "local-first",
+    "meeting-transcription",
+    "modelscope",
+    "ollama",
+    "openai-compatible",
+    "privacy",
+    "pytorch",
+    "qwen",
+    "realtime-transcription",
+    "speaker-diarization",
+    "speaker-identification",
+    "speech-to-text",
+    "vite",
+    "vue",
+    "websocket"
+  ],
   "star_count": 32,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T16:59:46Z",
-  "updated_at": "2026-06-23T15:26:31Z",
-  "pushed_at": "2026-06-22T12:32:33Z",
+  "updated_at": "2026-07-03T06:54:18Z",
+  "pushed_at": "2026-07-03T06:53:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -109,6 +130,10 @@
     },
     {
       "date": "2026-07-02",
+      "stars": 32
+    },
+    {
+      "date": "2026-07-03",
       "stars": 32
     }
   ]

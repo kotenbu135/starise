@@ -1,0 +1,38 @@
+{
+  "repo_id": "R_kgDOSQ08Zg",
+  "owner": "vaportang",
+  "name": "yolo-vision-pipeline-rknn",
+  "full_name": "vaportang/yolo-vision-pipeline-rknn",
+  "description": "统一的 YOLOv8 视觉部署流水线。将模型训练、ONNX 导出与 RKNN 量化转换整合入单一代码库。支持 Win/WSL 跨平台一键部署，并提供专业的数据集管理与去重工具，轻松适配 RK3588/RK3568 等硬件",
+  "description_ja": "",
+  "url": "https://github.com/VaporTang/yolo-vision-pipeline-rknn",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "computer-vision",
+    "deep-learning",
+    "model-deployment",
+    "npu",
+    "onnx",
+    "pipeline",
+    "rk3588",
+    "rknn",
+    "rockchip",
+    "yolov8"
+  ],
+  "star_count": 29,
+  "fork_count": 8,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-30T12:58:35Z",
+  "updated_at": "2026-07-03T09:06:00Z",
+  "pushed_at": "2026-05-16T10:46:15Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-03",
+      "stars": 29
+    }
+  ]
+}

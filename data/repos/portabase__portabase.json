@@ -3,7 +3,7 @@
   "owner": "portabase",
   "name": "portabase",
   "full_name": "portabase/portabase",
-  "description": "Portabase - Database backup \u0026 restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Valkey ",
+  "description": "Portabase - Database backup \u0026 restore tool for PostgreSQL, MySQL, MsSQL, MariaDB, Firebird SQL, SQLite, MongoDB, Redis and Docker Volume ",
   "description_ja": "",
   "url": "https://github.com/Portabase/portabase",
   "homepage_url": "https://portabase.io",
@@ -12,11 +12,11 @@
   "topics": [
     "backup",
     "backup-tool",
-    "better-auth",
     "database",
     "devops",
     "docker",
-    "drizzle-orm",
+    "docker-backup",
+    "docker-volumes",
     "firebirdsql",
     "mariadb",
     "mongodb",
@@ -27,7 +27,6 @@
     "redis",
     "selfhosted",
     "sqlite-database",
-    "sqlite3",
     "valkey"
   ],
   "star_count": 1077,
@@ -35,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-19T08:04:10Z",
-  "updated_at": "2026-07-01T18:27:52Z",
-  "pushed_at": "2026-07-02T19:55:24Z",
+  "updated_at": "2026-07-03T14:06:43Z",
+  "pushed_at": "2026-07-03T09:42:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -269,6 +268,10 @@
     },
     {
       "date": "2026-07-02",
+      "stars": 1077
+    },
+    {
+      "date": "2026-07-03",
       "stars": 1077
     }
   ]

@@ -3,35 +3,41 @@
   "owner": "arthurpanhku",
   "name": "dvalincode",
   "full_name": "arthurpanhku/dvalincode",
-  "description": "The AI coding agent your security team can approve — org policy enforcement, controlled network egress, tamper-evident audit. Local-first, zero runtime deps, any OpenAI-compatible model.",
+  "description": "Approvable, local-first AI coding agent for regulated teams: policy controls, governed MCP, evidence packs, audit trails, secure remediation, and any OpenAI-compatible model.",
   "description_ja": "",
   "url": "https://github.com/arthurpanhku/dvalincode",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "ai",
     "ai-agent",
-    "claude",
+    "ai-governance",
+    "audit-trail",
     "cli",
+    "codeql",
     "coding-agent",
     "coding-assistant",
-    "deepseek",
+    "compliance",
     "developer-tools",
+    "devsecops",
     "llm",
     "local-first",
-    "ollama",
-    "terminal",
-    "tui",
-    "typescript"
+    "mcp",
+    "model-agnostic",
+    "openssf",
+    "policy-as-code",
+    "secure-coding",
+    "security",
+    "typescript",
+    "web-gui"
   ],
-  "star_count": 62,
+  "star_count": 65,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-20T14:48:17Z",
-  "updated_at": "2026-07-02T17:45:31Z",
-  "pushed_at": "2026-07-02T07:51:29Z",
+  "updated_at": "2026-07-03T17:05:08Z",
+  "pushed_at": "2026-07-03T14:53:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +63,10 @@
     {
       "date": "2026-07-02",
       "stars": 62
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 65
     }
   ]
 }

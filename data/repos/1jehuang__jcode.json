@@ -6,11 +6,13 @@
   "description": "Coding Agent Harness",
   "description_ja": "コーディングエージェントハーネス",
   "url": "https://github.com/1jehuang/jcode",
-  "homepage_url": "",
+  "homepage_url": "https://solosystems.dev/jcode",
   "language": "Rust",
   "license": "MIT",
   "topics": [
     "ai",
+    "ai-agent",
+    "ai-coding-agent",
     "claude",
     "cli",
     "coding-agent",
@@ -21,13 +23,13 @@
     "terminal",
     "tui"
   ],
-  "star_count": 8095,
-  "fork_count": 906,
+  "star_count": 8113,
+  "fork_count": 910,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-05T09:43:36Z",
-  "updated_at": "2026-07-02T19:29:03Z",
-  "pushed_at": "2026-07-02T10:51:03Z",
+  "updated_at": "2026-07-03T19:02:29Z",
+  "pushed_at": "2026-07-03T15:28:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -261,6 +263,10 @@
     {
       "date": "2026-07-02",
       "stars": 8095
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 8113
     }
   ]
 }

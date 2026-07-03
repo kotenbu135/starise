@@ -6,17 +6,22 @@
   "description": "Velocity through clarity",
   "description_ja": "明確さによるスピード",
   "url": "https://github.com/juxt/allium",
-  "homepage_url": "https://juxt.github.io/allium/",
+  "homepage_url": "https://allium-lang.org",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 421,
+  "topics": [
+    "ai-agent-tools",
+    "behaviour-driven-development",
+    "formal-methods",
+    "spec-driven-development"
+  ],
+  "star_count": 424,
   "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-25T19:49:03Z",
-  "updated_at": "2026-07-02T01:25:56Z",
-  "pushed_at": "2026-07-01T17:46:33Z",
+  "updated_at": "2026-07-03T18:50:54Z",
+  "pushed_at": "2026-07-03T12:38:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -246,6 +251,10 @@
     {
       "date": "2026-07-02",
       "stars": 421
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 424
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "repo_id": "R_kgDORiHIHw",
+  "owner": "agent-threat-rule",
+  "name": "agent-threat-rules",
+  "full_name": "agent-threat-rule/agent-threat-rules",
+  "description": "Open detection standard -- like Sigma, but for AI agents. 425 rules, shipped in Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H. 97.1% recall on NVIDIA garak. NIST OSCAL Path 1.",
+  "description_ja": "",
+  "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
+  "homepage_url": "https://agentthreatrule.org",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "agent-security",
+    "agent-threat-rules",
+    "ai-security",
+    "garak",
+    "llm-security",
+    "mcp-security",
+    "owasp",
+    "owasp-agentic",
+    "prompt-injection",
+    "sigma-rules",
+    "threat-detection"
+  ],
+  "star_count": 295,
+  "fork_count": 39,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-09T07:48:38Z",
+  "updated_at": "2026-07-03T12:24:08Z",
+  "pushed_at": "2026-07-02T09:33:18Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-03",
+      "stars": 295
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "owner": "mediamolder",
   "name": "mediamolder",
   "full_name": "mediamolder/mediamolder",
-  "description": "A media processing framework written in Go.",
+  "description": "A redesign of FFmpeg for the AI era. React GUI. Custom AI integrations including YOLOv8 object and face detection, Whisper, Vidi2.5.",
   "description_ja": "",
   "url": "https://github.com/MediaMolder/mediamolder",
   "homepage_url": "",
@@ -19,8 +19,8 @@
     "go",
     "gui",
     "image-processing",
+    "libraw",
     "mp4",
-    "multiplexer",
     "streaming",
     "transcoding",
     "video",
@@ -29,13 +29,13 @@
     "yolo",
     "yolov8"
   ],
-  "star_count": 98,
+  "star_count": 99,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-14T04:22:45Z",
-  "updated_at": "2026-07-02T07:42:12Z",
-  "pushed_at": "2026-06-26T00:40:43Z",
+  "updated_at": "2026-07-03T18:29:45Z",
+  "pushed_at": "2026-07-03T00:01:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -193,6 +193,10 @@
     {
       "date": "2026-07-02",
       "stars": 98
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 99
     }
   ]
 }

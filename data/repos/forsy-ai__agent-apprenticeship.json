@@ -3,11 +3,11 @@
   "owner": "forsy-ai",
   "name": "agent-apprenticeship",
   "full_name": "forsy-ai/agent-apprenticeship",
-  "description": "The living ecosystem where AI agents run automated workflow loops on any task, improve through execution, and turn each run into reusable work experience + data to improve future agents.",
+  "description": "The living ecosystem where AI agents complete tasks through workflow loops, improve through iterative execution, are evaluated by mentor agents or humans in the loop, and turn completed work into reusable work experience and data to improve future agents.",
   "description_ja": "",
   "url": "https://github.com/Forsy-AI/agent-apprenticeship",
   "homepage_url": "https://agentapprenticeship.org/",
-  "language": "",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "agent-apprenticeship",
@@ -31,13 +31,13 @@
     "reinforcement-learning",
     "training-signals"
   ],
-  "star_count": 1166,
+  "star_count": 1189,
   "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-19T16:19:37Z",
-  "updated_at": "2026-07-02T19:33:07Z",
-  "pushed_at": "2026-06-24T15:29:11Z",
+  "updated_at": "2026-07-03T19:04:54Z",
+  "pushed_at": "2026-07-03T12:22:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -87,6 +87,10 @@
     {
       "date": "2026-07-02",
       "stars": 1166
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 1189
     }
   ]
 }
