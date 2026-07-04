@@ -3,39 +3,41 @@
   "owner": "kstevica",
   "name": "captain-claw",
   "full_name": "kstevica/captain-claw",
-  "description": "AI agent with multi-agent orchestration, autonomous cognitive systems, and a full management dashboard",
-  "description_ja": "マルチエージェントオーケストレーション、自律的認知システム、フル管理ダッシュボードを備えたAIエージェント",
+  "description": "Self-hosted framework for orchestrating fleets of specialist AI agents — ensemble reasoning and a full agentic coding pipeline, model-agnostic and local-friendly.",
+  "description_ja": "",
   "url": "https://github.com/kstevica/captain-claw",
   "homepage_url": "https://captain-claw.com",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "agent",
-    "agent-hub",
+    "agent-orchestration",
+    "agentic-coding",
     "agentic-workflow",
     "ai-agent",
+    "ai-agents",
     "anthropic",
-    "automation",
-    "browser-automation",
+    "autonomous-agents",
     "claw",
     "cli",
+    "code-review",
     "langchain-alternative",
     "llm",
     "llm-inference",
     "local-llm",
-    "local-llms",
+    "multi-agent",
     "multiagent",
     "ollama",
     "openai",
-    "python"
+    "python",
+    "self-hosted"
   ],
   "star_count": 158,
-  "fork_count": 12,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-17T12:33:42Z",
-  "updated_at": "2026-07-02T17:09:09Z",
-  "pushed_at": "2026-07-03T18:44:02Z",
+  "updated_at": "2026-07-04T18:11:49Z",
+  "pushed_at": "2026-07-04T18:11:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -272,6 +274,10 @@
     },
     {
       "date": "2026-07-03",
+      "stars": 158
+    },
+    {
+      "date": "2026-07-04",
       "stars": 158
     }
   ]

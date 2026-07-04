@@ -3,7 +3,7 @@
   "owner": "juspay",
   "name": "neurolink",
   "full_name": "juspay/neurolink",
-  "description": "Streams are the future of AI powered by unlimited free tokens.",
+  "description": "One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (58+ servers), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.",
   "description_ja": "",
   "url": "https://github.com/juspay/neurolink",
   "homepage_url": "https://neurolink.ink",
@@ -14,29 +14,30 @@
     "ai",
     "ai-development",
     "ai-platform",
+    "ai-sdk",
+    "anthropic",
     "automation",
     "developer-tools",
     "enterprise",
-    "future",
-    "hermes",
     "llm",
     "local-first",
     "mcp",
     "model-context-protocol",
     "neurolink",
-    "open-claw",
-    "personal-ai",
-    "skills",
-    "stream",
-    "universal-ai"
+    "openai",
+    "rag",
+    "stt",
+    "tts",
+    "typescript",
+    "voice-ai"
   ],
   "star_count": 107,
   "fork_count": 116,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-31T15:05:42Z",
-  "updated_at": "2026-07-03T09:10:36Z",
-  "pushed_at": "2026-07-03T09:10:34Z",
+  "updated_at": "2026-07-04T08:32:09Z",
+  "pushed_at": "2026-07-04T09:56:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -157,6 +158,10 @@
     },
     {
       "date": "2026-07-03",
+      "stars": 107
+    },
+    {
+      "date": "2026-07-04",
       "stars": 107
     }
   ]

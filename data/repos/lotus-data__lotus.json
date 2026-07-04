@@ -3,13 +3,14 @@
   "owner": "lotus-data",
   "name": "lotus",
   "full_name": "lotus-data/lotus",
-  "description": "Optimized LLM and Agentic Data Processing",
+  "description": "Optimized Agentic and LLM Bulk Processing Over Your Data",
   "description_ja": "",
   "url": "https://github.com/lotus-data/lotus",
   "homepage_url": "https://lotus-data.github.io",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "agentic-data-processing",
     "ai-data-processing",
     "data",
     "llm",
@@ -21,13 +22,13 @@
     "semantic-search",
     "unstructured-data"
   ],
-  "star_count": 1640,
-  "fork_count": 146,
+  "star_count": 1643,
+  "fork_count": 147,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-16T16:39:06Z",
-  "updated_at": "2026-07-03T19:06:30Z",
-  "pushed_at": "2026-07-03T05:24:40Z",
+  "updated_at": "2026-07-04T06:51:03Z",
+  "pushed_at": "2026-07-03T22:55:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -265,6 +266,10 @@
     {
       "date": "2026-07-03",
       "stars": 1640
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 1643
     }
   ]
 }

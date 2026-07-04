@@ -3,36 +3,30 @@
   "owner": "proxifly",
   "name": "free-proxy-list",
   "full_name": "proxifly/free-proxy-list",
-  "description": "🚀 Free HTTP, SOCKS4, \u0026 SOCKS5 Proxy List * Updated every 5 minutes *",
-  "description_ja": "🚀 無料HTTP、SOCKS4、SOCKS5プロキシリスト ※5分ごとに更新",
+  "description": "a free rotating proxy API with tested HTTPS and SOCKS5 proxies from 100+ countries",
+  "description_ja": "",
   "url": "https://github.com/proxifly/free-proxy-list",
   "homepage_url": "https://proxifly.dev",
   "language": "",
   "license": "GPL-3.0",
   "topics": [
     "free-proxy",
-    "free-proxy-list",
-    "fresh-proxies",
-    "http",
-    "http-proxy",
+    "https-proxy",
+    "javascript",
+    "nodejs",
     "proxies",
-    "proxies-list",
-    "proxy",
+    "proxy-api",
     "proxy-list",
-    "proxy-scraper",
-    "socks",
-    "socks4",
-    "socks4-proxy",
-    "socks5",
-    "socks5-proxy"
+    "scraping",
+    "socks5"
   ],
-  "star_count": 6030,
+  "star_count": 6038,
   "fork_count": 697,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-13T06:26:22Z",
-  "updated_at": "2026-07-03T20:00:06Z",
-  "pushed_at": "2026-07-03T19:41:27Z",
+  "updated_at": "2026-07-04T18:42:01Z",
+  "pushed_at": "2026-07-04T18:41:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -262,6 +256,10 @@
     {
       "date": "2026-07-03",
       "stars": 6030
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 6038
     }
   ]
 }

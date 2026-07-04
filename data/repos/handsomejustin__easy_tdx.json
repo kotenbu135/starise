@@ -3,7 +3,7 @@
   "owner": "handsomejustin",
   "name": "easy_tdx",
   "full_name": "handsomejustin/easy_tdx",
-  "description": "通达信python SDK，支持在线获取数据及离线本地数据读取。全面优化接口。",
+  "description": "免费Python量化SDK:通达信协议直连 A股/港股/美股数据,内置技术指标、缠论分析、回测引擎与 Web 可视化,JSON 输出适配 AI Agent",
   "description_ja": "",
   "url": "https://github.com/handsomejustin/easy_tdx",
   "homepage_url": "",
@@ -21,13 +21,13 @@
     "tdx",
     "technical-analysis"
   ],
-  "star_count": 344,
-  "fork_count": 101,
+  "star_count": 366,
+  "fork_count": 107,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-21T04:20:17Z",
-  "updated_at": "2026-07-03T19:32:02Z",
-  "pushed_at": "2026-07-03T19:19:23Z",
+  "updated_at": "2026-07-04T18:17:57Z",
+  "pushed_at": "2026-07-04T18:17:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +49,10 @@
     {
       "date": "2026-07-03",
       "stars": 344
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 366
     }
   ]
 }

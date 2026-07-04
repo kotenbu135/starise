@@ -3,20 +3,35 @@
   "owner": "narylr350",
   "name": "book-source-creator-skill",
   "full_name": "narylr350/book-source-creator-skill",
-  "description": "面向 Legado / 阅读 书源编写场景的 AI Skill。",
+  "description": "Legado / 阅读 AI 书源生成 Skill：生成并验证阅读书源 JSON，支持Claude Code / Codex等",
   "description_ja": "",
   "url": "https://github.com/Narylr350/book-source-creator-skill",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "",
-  "topics": [],
-  "star_count": 61,
+  "topics": [
+    "ai-skill",
+    "android-webview",
+    "book-source",
+    "booksource",
+    "claude-code",
+    "codex",
+    "codex-validator",
+    "javascript",
+    "kotlin",
+    "legado",
+    "novel",
+    "novel-reader",
+    "reader",
+    "yuedu"
+  ],
+  "star_count": 62,
   "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-19T14:48:56Z",
-  "updated_at": "2026-07-02T15:57:02Z",
-  "pushed_at": "2026-06-26T15:32:25Z",
+  "updated_at": "2026-07-04T16:51:13Z",
+  "pushed_at": "2026-07-04T16:51:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -138,6 +153,10 @@
     {
       "date": "2026-07-03",
       "stars": 61
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 62
     }
   ]
 }

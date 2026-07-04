@@ -3,7 +3,7 @@
   "owner": "mertproj",
   "name": "xshell",
   "full_name": "mertproj/xshell",
-  "description": "A native home for your Claude Code sessions.",
+  "description": "A tiny IDE for your AI CLI agents. Use them as browser style tabs. One click session resume.",
   "description_ja": "",
   "url": "https://github.com/MertPROJ/xshell",
   "homepage_url": "https://xshell.sh",
@@ -11,8 +11,12 @@
   "license": "MIT",
   "topics": [
     "anthropic",
+    "antigravity",
     "claude-code",
+    "codex",
+    "cursor",
     "desktop-app",
+    "opencode",
     "react",
     "rust",
     "tauri",
@@ -23,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-27T13:58:31Z",
-  "updated_at": "2026-07-02T22:03:43Z",
-  "pushed_at": "2026-07-02T22:03:42Z",
+  "updated_at": "2026-07-03T22:57:47Z",
+  "pushed_at": "2026-07-03T22:57:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -185,6 +189,10 @@
     },
     {
       "date": "2026-07-03",
+      "stars": 38
+    },
+    {
+      "date": "2026-07-04",
       "stars": 38
     }
   ]

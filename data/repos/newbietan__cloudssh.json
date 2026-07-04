@@ -3,26 +3,29 @@
   "owner": "newbietan",
   "name": "cloudssh",
   "full_name": "newbietan/cloudssh",
-  "description": "一个基于纯 Cloudflare 平台的 Web SSH 终端工具，用户通过浏览器即可远程连接目标 Linux 服务器，执行命令并实时查看输出，无需部署任何传统服务器。",
+  "description": "一个基于纯 Cloudflare 平台的 Web SSH 终端工具，用户通过浏览器即可远程管理目标 Linux 服务器，执行命令并实时查看输出，无需部署任何传统服务器，绝对的安全与可靠。",
   "description_ja": "",
   "url": "https://github.com/newbietan/CloudSSH",
   "homepage_url": "https://ssh.newbietan.cn",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
+    "cloudfalre",
     "cloudflare-workers",
     "serverless",
     "ssh",
     "typescript",
-    "web-terminal"
+    "web-terminal",
+    "webssh",
+    "webssh2"
   ],
-  "star_count": 143,
-  "fork_count": 107,
+  "star_count": 144,
+  "fork_count": 109,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-12T07:08:05Z",
-  "updated_at": "2026-07-03T00:31:02Z",
-  "pushed_at": "2026-07-03T06:14:58Z",
+  "updated_at": "2026-07-04T13:15:12Z",
+  "pushed_at": "2026-07-04T02:31:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -88,6 +91,10 @@
     {
       "date": "2026-07-03",
       "stars": 143
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 144
     }
   ]
 }

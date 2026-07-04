@@ -3,7 +3,7 @@
   "owner": "6v17",
   "name": "videoseek",
   "full_name": "6v17/videoseek",
-  "description": "一款文本、图片查询本地视频的桌面软件Local-first desktop app for semantic video search with CLIP + FAISS (text/image query, clip preview, remote-link indexing).",
+  "description": "A local-first desktop application for semantic video retrieval, enabling multimodal querying via natural-language text or reference images. ",
   "description_ja": "",
   "url": "https://github.com/6v17/VideoSeek",
   "homepage_url": "https://www.lv17.top/",
@@ -12,13 +12,13 @@
   "topics": [
     "python"
   ],
-  "star_count": 42,
+  "star_count": 44,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-14T12:02:24Z",
-  "updated_at": "2026-07-03T11:49:50Z",
-  "pushed_at": "2026-07-03T11:49:46Z",
+  "updated_at": "2026-07-04T13:30:45Z",
+  "pushed_at": "2026-07-04T13:30:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -156,6 +156,10 @@
     {
       "date": "2026-07-03",
       "stars": 42
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 44
     }
   ]
 }

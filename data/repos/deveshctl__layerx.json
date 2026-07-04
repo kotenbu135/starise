@@ -3,31 +3,41 @@
   "owner": "deveshctl",
   "name": "layerx",
   "full_name": "deveshctl/layerx",
-  "description": "Terminal-based Docker image layer inspector",
+  "description": "LayerX Image Inspector - open-source terminal explorer for container images. Browse layers, spot wasted bytes, and gate CI on image efficiency. Works with Docker, Podman, and OCI archives from a single static binary.",
   "description_ja": "",
   "url": "https://github.com/deveshctl/layerx",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/deveshctl/layerx",
   "language": "Go",
   "license": "MIT",
   "topics": [
+    "bubbletea",
+    "ci-cd",
     "cli",
     "container",
-    "devops",
+    "container-image",
+    "dive-alternative",
     "docker",
     "docker-image",
+    "dockerfile",
     "go",
     "golang",
-    "sre",
-    "terminal",
+    "hacktoberfest",
+    "image-inspector",
+    "image-layers",
+    "image-optimization",
+    "image-size",
+    "oci",
+    "oci-image",
+    "podman",
     "tui"
   ],
-  "star_count": 97,
+  "star_count": 98,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-12T11:38:40Z",
-  "updated_at": "2026-07-03T12:12:14Z",
-  "pushed_at": "2026-06-25T10:03:43Z",
+  "updated_at": "2026-07-04T14:34:27Z",
+  "pushed_at": "2026-07-04T17:21:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -121,6 +131,10 @@
     {
       "date": "2026-07-03",
       "stars": 97
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 98
     }
   ]
 }

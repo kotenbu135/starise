@@ -3,20 +3,35 @@
   "owner": "zxyasfas",
   "name": "paper_format_agent",
   "full_name": "zxyasfas/paper_format_agent",
-  "description": "",
+  "description": "DOCX formatter for academic papers with a content-fingerprint guard: proves your text is never altered, only the formatting. Also installable as an agent skill.",
   "description_ja": "",
   "url": "https://github.com/zxyasfas/paper_format_agent",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "academic-writing",
+    "agent-skill",
+    "automation",
+    "claude-code",
+    "cli-tool",
+    "codex",
+    "content-integrity",
+    "document-formatting",
+    "docx",
+    "open-source",
+    "python",
+    "python-docx",
+    "thesis",
+    "word"
+  ],
   "star_count": 88,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-05T07:55:41Z",
-  "updated_at": "2026-06-30T20:13:33Z",
-  "pushed_at": "2026-05-12T10:20:47Z",
+  "updated_at": "2026-07-04T16:28:20Z",
+  "pushed_at": "2026-07-04T16:28:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -181,6 +196,10 @@
     },
     {
       "date": "2026-07-03",
+      "stars": 88
+    },
+    {
+      "date": "2026-07-04",
       "stars": 88
     }
   ]

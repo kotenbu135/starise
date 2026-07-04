@@ -3,27 +3,33 @@
   "owner": "narumiruna",
   "name": "pi-extensions",
   "full_name": "narumiruna/pi-extensions",
-  "description": "Native Pi coding agent extensions for Chrome DevTools, Firecrawl web scraping, goal mode, retries,  statusline, and caffeinate automation.",
+  "description": "Independently installable Pi Coding Agent extensions for AI coding workflows: LSP diagnostics/code actions for TypeScript, JavaScript, Python and more,  Chrome DevTools automation, Firecrawl web scraping, Google GenAI/Gemini grounding, Codex tools, statuslines, subagents, and S3/R2 sync.",
   "description_ja": "",
   "url": "https://github.com/narumiruna/pi-extensions",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "ai-agents",
+    "codex",
+    "codex-cli",
+    "coding-agent",
+    "google-genai",
     "nodejs",
     "npm-package",
     "pi",
     "pi-coding-agent",
     "pi-extensions",
+    "statusline",
     "typescript"
   ],
-  "star_count": 105,
-  "fork_count": 14,
+  "star_count": 107,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-07T13:59:45Z",
-  "updated_at": "2026-07-02T17:30:34Z",
-  "pushed_at": "2026-07-02T06:44:49Z",
+  "updated_at": "2026-07-04T14:45:25Z",
+  "pushed_at": "2026-07-04T14:45:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -141,6 +147,10 @@
     {
       "date": "2026-07-03",
       "stars": 105
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 107
     }
   ]
 }

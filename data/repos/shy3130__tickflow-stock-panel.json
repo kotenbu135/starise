@@ -3,7 +3,7 @@
   "owner": "shy3130",
   "name": "tickflow-stock-panel",
   "full_name": "shy3130/tickflow-stock-panel",
-  "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方个性化扩展数据 | 个人开源 ,不属于tickflow官方项目",
+  "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
   "description_ja": "",
   "url": "https://github.com/shy3130/tickflow-stock-panel",
   "homepage_url": "",
@@ -30,13 +30,13 @@
     "tdx",
     "tickflow"
   ],
-  "star_count": 1367,
-  "fork_count": 255,
+  "star_count": 1415,
+  "fork_count": 269,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-18T06:18:29Z",
-  "updated_at": "2026-07-03T19:54:44Z",
-  "pushed_at": "2026-07-03T15:15:32Z",
+  "updated_at": "2026-07-04T19:27:28Z",
+  "pushed_at": "2026-07-04T13:55:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -82,6 +82,10 @@
     {
       "date": "2026-07-03",
       "stars": 1367
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 1415
     }
   ]
 }

@@ -6,14 +6,27 @@
   "description": "Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)",
   "description_ja": "Wolfram Language / Mathematica の Rust による再実装 (Wolfram oxidized)",
   "url": "https://github.com/ad-si/Woxi",
-  "homepage_url": "https://woxi.ad-si.com",
+  "homepage_url": "https://woxi.ad-si.com/",
   "language": "Rust",
   "license": "AGPL-3.0",
   "topics": [
+    "algebra",
+    "arithmetic",
+    "astronomy",
+    "calculus",
     "cas",
+    "chemistry",
+    "engineering",
+    "geometry",
     "math",
     "mathematica",
+    "mathematics",
+    "notebook",
+    "physics",
+    "science",
     "symbolic",
+    "symbolic-computation",
+    "visualization",
     "wolfram",
     "wolfram-alpha",
     "wolfram-language"
@@ -23,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-04T01:32:33Z",
-  "updated_at": "2026-07-03T18:37:16Z",
-  "pushed_at": "2026-07-03T18:37:12Z",
+  "updated_at": "2026-07-04T17:46:34Z",
+  "pushed_at": "2026-07-04T17:46:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -261,6 +274,10 @@
     },
     {
       "date": "2026-07-03",
+      "stars": 640
+    },
+    {
+      "date": "2026-07-04",
       "stars": 640
     }
   ]

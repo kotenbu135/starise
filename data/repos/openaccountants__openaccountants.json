@@ -3,7 +3,7 @@
   "owner": "openaccountants",
   "name": "openaccountants",
   "full_name": "openaccountants/openaccountants",
-  "description": "Open-source tax \u0026 accounting skills for AI agents. 1,000+ research-verified skills across 192 jurisdictions — 130+ countries plus every US state. Accountant-verified versions via the MCP connector. Upload to Claude/ChatGPT or connect via MCP.",
+  "description": "Open-source Tax Guides for AI agents, reviewed by named CPAs/CAs/EAs. 1,000+ Guides across 190+ jurisdictions. MCP server included. Works with Claude, ChatGPT, Cursor.",
   "description_ja": "",
   "url": "https://github.com/openaccountants/openaccountants",
   "homepage_url": "https://www.openaccountants.com/",
@@ -12,8 +12,8 @@
   "topics": [
     "accountant",
     "accounting",
+    "agentic-tax",
     "ai",
-    "bookkeeper",
     "chatgpt",
     "claude",
     "compliance",
@@ -24,17 +24,17 @@
     "mcp",
     "open-source",
     "tax",
-    "tax-computation",
     "tax-return",
-    "vat"
+    "vat",
+    "verified-tax"
   ],
-  "star_count": 229,
+  "star_count": 230,
   "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-09T14:03:07Z",
-  "updated_at": "2026-07-03T13:47:23Z",
-  "pushed_at": "2026-06-22T15:24:11Z",
+  "updated_at": "2026-07-04T18:58:01Z",
+  "pushed_at": "2026-07-04T18:57:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -248,6 +248,10 @@
     {
       "date": "2026-07-03",
       "stars": 229
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 230
     }
   ]
 }

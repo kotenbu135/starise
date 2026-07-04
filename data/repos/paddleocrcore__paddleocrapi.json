@@ -3,10 +3,10 @@
   "owner": "paddleocrcore",
   "name": "paddleocrapi",
   "full_name": "paddleocrcore/paddleocrapi",
-  "description": "PaddleOCR inference in .NET/C#，免费离线开源文字识别套件，支持OCR-VL模型，支持GPU、CPU，部署WebAPI 接口快速上手，支持 C#/C++/Java/Python/Go等多种开发语言快速集成。加群475159576技术交流",
+  "description": "开源、免费、离线PaddleOCR，.NET完整开发套件，一键部署WebAPI 接口，支持 C#/C++/Java/Python/Go等多种开发语言快速集成",
   "description_ja": "",
   "url": "https://github.com/PaddleOCRCore/PaddleOCRApi",
-  "homepage_url": "",
+  "homepage_url": "http://ocr.axinw.com",
   "language": "C#",
   "license": "Apache-2.0",
   "topics": [],
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-22T01:19:29Z",
-  "updated_at": "2026-07-03T14:21:39Z",
-  "pushed_at": "2026-07-03T14:21:35Z",
+  "updated_at": "2026-07-04T10:25:11Z",
+  "pushed_at": "2026-07-04T06:09:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -157,6 +157,10 @@
     },
     {
       "date": "2026-07-03",
+      "stars": 104
+    },
+    {
+      "date": "2026-07-04",
       "stars": 104
     }
   ]

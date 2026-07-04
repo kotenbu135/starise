@@ -3,7 +3,7 @@
   "owner": "whiteguo233",
   "name": "openbiliclaw",
   "full_name": "whiteguo233/openbiliclaw",
-  "description": "OpenBiliClaw 是纯本地、私有、开源的自进化跨平台内容发现 Agent：从你的使用、反馈与对话中深化心理画像，主动去 B站、小红书、抖音、YouTube、X、知乎与 Web 找内容 / Local-first private AI discovery agent for Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, and the web.",
+  "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
   "description_ja": "",
   "url": "https://github.com/whiteguo233/OpenBiliClaw",
   "homepage_url": "https://whiteguo233.github.io/OpenBiliClaw/",
@@ -31,13 +31,13 @@
     "youtube",
     "zhihu"
   ],
-  "star_count": 887,
-  "fork_count": 60,
+  "star_count": 1027,
+  "fork_count": 65,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T13:46:10Z",
-  "updated_at": "2026-07-03T17:58:47Z",
-  "pushed_at": "2026-07-03T16:40:37Z",
+  "updated_at": "2026-07-04T19:31:14Z",
+  "pushed_at": "2026-07-04T18:16:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -275,6 +275,10 @@
     {
       "date": "2026-07-03",
       "stars": 887
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 1027
     }
   ]
 }

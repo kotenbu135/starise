@@ -3,7 +3,7 @@
   "owner": "colorado-mesh",
   "name": "mesh-client",
   "full_name": "colorado-mesh/mesh-client",
-  "description": "Cross-platform Electron desktop client for Meshtastic and MeshCore on macOS, Linux, and Windows with multi-language support, BLE, USB serial, Wi‑Fi/TCP, MQTT, local SQLite history, and routing diagnostics.",
+  "description": "Cross-platform Electron desktop client for Meshtastic, MeshCore, and Reticulum on macOS, Linux, and Windows with multi-language support, BLE, USB serial, Wi‑Fi/TCP, MQTT, local SQLite history, and routing diagnostics.",
   "description_ja": "",
   "url": "https://github.com/Colorado-Mesh/mesh-client",
   "homepage_url": "https://colorado-mesh.github.io/mesh-client/",
@@ -15,15 +15,16 @@
     "meshcore-gui",
     "meshtastic",
     "meshtastic-client",
-    "meshtastic-gui"
+    "meshtastic-gui",
+    "reticulum"
   ],
   "star_count": 60,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T17:07:35Z",
-  "updated_at": "2026-07-03T18:49:23Z",
-  "pushed_at": "2026-07-03T18:49:39Z",
+  "updated_at": "2026-07-04T16:09:20Z",
+  "pushed_at": "2026-07-04T16:09:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -192,6 +193,10 @@
     },
     {
       "date": "2026-07-03",
+      "stars": 60
+    },
+    {
+      "date": "2026-07-04",
       "stars": 60
     }
   ]

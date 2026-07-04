@@ -3,20 +3,27 @@
   "owner": "openocta",
   "name": "openocta",
   "full_name": "openocta/openocta",
-  "description": "开源企业级智能体，专为中国团队打造",
-  "description_ja": "中国チーム向けに構築されたオープンソースのエンタープライズグレードAIエージェント。",
+  "description": "你的 IT 工作助手，自主进化、伴你成长，专为中国团队打造的开源Agent",
+  "description_ja": "",
   "url": "https://github.com/openocta/openocta",
   "homepage_url": "https://www.openocta.com/",
   "language": "TypeScript",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 2952,
-  "fork_count": 327,
+  "topics": [
+    "ai",
+    "ai-agent",
+    "hermes",
+    "llm",
+    "openclaw",
+    "openhuman"
+  ],
+  "star_count": 2960,
+  "fork_count": 326,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T09:12:26Z",
-  "updated_at": "2026-07-03T08:08:29Z",
-  "pushed_at": "2026-07-03T01:44:00Z",
+  "updated_at": "2026-07-04T17:36:31Z",
+  "pushed_at": "2026-07-04T01:40:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -254,6 +261,10 @@
     {
       "date": "2026-07-03",
       "stars": 2952
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 2960
     }
   ]
 }

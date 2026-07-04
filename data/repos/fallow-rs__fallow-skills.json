@@ -3,7 +3,7 @@
   "owner": "fallow-rs",
   "name": "fallow-skills",
   "full_name": "fallow-rs/fallow-skills",
-  "description": "Agent skills for fallow, codebase intelligence for JavaScript and TypeScript. Teaches AI agents how to find unused code, duplication, circular deps, complexity hotspots, architecture drift, and (with Fallow Runtime) hot-path and cold-path evidence. Works with Claude Code, Cursor, Codex, Gemini CLI, and 30+ agents.",
+  "description": "Agent skills for fallow, codebase intelligence for TypeScript and JavaScript. Teaches AI agents how to find unused code, duplication, circular deps, complexity hotspots, architecture drift, design-system drift, and (with Fallow Runtime) hot-path and cold-path evidence. Works with Claude Code, Cursor, Codex, Gemini CLI, and 30+ agents.",
   "description_ja": "",
   "url": "https://github.com/fallow-rs/fallow-skills",
   "homepage_url": "https://docs.fallow.tools/integrations/agent-skills",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-20T11:08:51Z",
-  "updated_at": "2026-07-02T02:22:08Z",
-  "pushed_at": "2026-07-03T11:47:00Z",
+  "updated_at": "2026-07-04T16:36:33Z",
+  "pushed_at": "2026-07-04T15:02:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -210,6 +210,10 @@
     },
     {
       "date": "2026-07-03",
+      "stars": 101
+    },
+    {
+      "date": "2026-07-04",
       "stars": 101
     }
   ]

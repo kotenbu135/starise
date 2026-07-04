@@ -3,7 +3,7 @@
   "owner": "mmonterroca",
   "name": "docxgo",
   "full_name": "mmonterroca/docxgo",
-  "description": "Complete rewrite of go-docx: Production-grade Word document creation with domain-driven architecture, full OOXML compliance, and comprehensive error handling.",
+  "description": "Create and edit Microsoft Word (.docx) documents in pure Go — fluent builder, templates \u0026 mail merge, themes, tables, and images.",
   "description_ja": "",
   "url": "https://github.com/mmonterroca/docxgo",
   "homepage_url": "",
@@ -12,9 +12,12 @@
   "topics": [
     "document-generation",
     "docx",
+    "go-library",
     "golang",
+    "mail-merge",
     "microsoft-word",
     "ooxml",
+    "report-generation",
     "word"
   ],
   "star_count": 105,
@@ -22,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-25T18:07:13Z",
-  "updated_at": "2026-06-29T09:20:08Z",
-  "pushed_at": "2026-05-01T05:08:03Z",
+  "updated_at": "2026-07-04T16:57:51Z",
+  "pushed_at": "2026-07-04T17:10:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -180,6 +183,10 @@
     },
     {
       "date": "2026-07-03",
+      "stars": 105
+    },
+    {
+      "date": "2026-07-04",
       "stars": 105
     }
   ]

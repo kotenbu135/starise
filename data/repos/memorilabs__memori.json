@@ -3,8 +3,8 @@
   "owner": "memorilabs",
   "name": "memori",
   "full_name": "memorilabs/memori",
-  "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems.",
-  "description_ja": "MemoriはAgent ネイティブなメモリインフラです。エージェントの実行や会話を構造化された永続的な状態に変換するLLM非依存のレイヤーで、本番システム向けに設計されています。",
+  "description": "Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises.",
+  "description_ja": "",
   "url": "https://github.com/MemoriLabs/Memori",
   "homepage_url": "https://memorilabs.ai",
   "language": "Python",
@@ -12,30 +12,29 @@
   "topics": [
     "agent",
     "agent-memory",
+    "agenticai",
     "ai",
     "ai-memory",
-    "aiagent",
-    "awesome",
-    "chatgpt",
+    "claude-code",
+    "enterprise",
+    "hermes",
     "llm",
     "long-short-term-memory",
-    "memori-ai",
     "memory",
     "memory-management",
-    "memory-mcp",
-    "openclaw-memory",
+    "openclaw",
     "python",
     "rag",
     "state-management",
     "stateful",
     "typescript"
   ],
-  "star_count": 15527,
-  "fork_count": 2769,
+  "star_count": 15533,
+  "fork_count": 2768,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-24T07:07:51Z",
-  "updated_at": "2026-07-03T16:22:11Z",
+  "updated_at": "2026-07-04T12:46:15Z",
   "pushed_at": "2026-06-15T23:18:56Z",
   "deleted_at": "",
   "star_history": [
@@ -274,6 +273,10 @@
     {
       "date": "2026-07-03",
       "stars": 15527
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 15533
     }
   ]
 }

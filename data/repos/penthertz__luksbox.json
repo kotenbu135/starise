@@ -3,7 +3,7 @@
   "owner": "penthertz",
   "name": "luksbox",
   "full_name": "penthertz/luksbox",
-  "description": "Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows.",
+  "description": "Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0/SEP, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows.",
   "description_ja": "",
   "url": "https://github.com/PentHertz/LUKSbox",
   "homepage_url": "https://luksbox.penthertz.com",
@@ -16,13 +16,13 @@
     "sensitive-data",
     "vault"
   ],
-  "star_count": 617,
+  "star_count": 620,
   "fork_count": 49,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-06T21:47:11Z",
-  "updated_at": "2026-07-03T13:13:09Z",
-  "pushed_at": "2026-07-03T18:41:51Z",
+  "updated_at": "2026-07-04T15:58:41Z",
+  "pushed_at": "2026-07-04T17:49:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -192,6 +192,10 @@
     {
       "date": "2026-07-03",
       "stars": 617
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 620
     }
   ]
 }

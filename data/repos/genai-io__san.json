@@ -3,26 +3,32 @@
   "owner": "genai-io",
   "name": "san",
   "full_name": "genai-io/san",
-  "description": "The lightweight, model-agnostic agent harness — one ~12MB Go binary, ~0.01s cold start, runs anywhere from your laptop to a CI step or edge device. Learns as you work; skills, subagents, plugins \u0026 MCP run unmodified.",
+  "description": "Fast, open agent harness for the terminal. One ~12 MB Go binary — bring any model and extensions into a single inspectable loop that learns as you work.",
   "description_ja": "",
   "url": "https://github.com/genai-io/san",
   "homepage_url": "https://genai-io.github.io/san/",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
+    "agent-harness",
     "ai-agents",
+    "claude-code",
+    "cli",
     "coding-agent",
-    "harness-agent",
+    "golang",
     "llm",
-    "provider-agnostic"
+    "mcp",
+    "provider-agnostic",
+    "terminal",
+    "tui"
   ],
   "star_count": 66,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-05T16:16:25Z",
-  "updated_at": "2026-07-03T10:32:54Z",
-  "pushed_at": "2026-07-03T10:33:14Z",
+  "updated_at": "2026-07-04T16:59:38Z",
+  "pushed_at": "2026-07-04T16:59:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -127,6 +133,10 @@
     },
     {
       "date": "2026-07-03",
+      "stars": 66
+    },
+    {
+      "date": "2026-07-04",
       "stars": 66
     }
   ]

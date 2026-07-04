@@ -3,7 +3,7 @@
   "owner": "cdeust",
   "name": "cortex",
   "full_name": "cdeust/cortex",
-  "description": "Persistent memory for Claude Code — 36 neuroscience mechanisms, 97 papers. LongMemEval R@10 98.4% / MRR 0.9124 (n=500). LoCoMo R@10 94.2% / MRR 0.8278 (n=1986). BEAM-10M +33.4% over flat retrieval. PostgreSQL + pgvector.",
+  "description": "Persistent memory for Claude Code — 36 neuroscience mechanisms, 97 papers. Reproducible via `make reproduce`: LongMemEval-S R@10 98.2% / MRR 0.915 (n=500), LoCoMo R@10 91.5% / MRR 0.805 (n=1982), BEAM-100K retrieval-proxy MRR 0.55. Clean-DB, single-process, production recall path. PostgreSQL + pgvector.",
   "description_ja": "",
   "url": "https://github.com/cdeust/Cortex",
   "homepage_url": "https://ai-architect.tools",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T11:24:37Z",
-  "updated_at": "2026-07-03T16:52:01Z",
-  "pushed_at": "2026-07-03T16:52:01Z",
+  "updated_at": "2026-07-04T15:04:55Z",
+  "pushed_at": "2026-07-04T15:04:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -150,6 +150,10 @@
     },
     {
       "date": "2026-07-03",
+      "stars": 64
+    },
+    {
+      "date": "2026-07-04",
       "stars": 64
     }
   ]
