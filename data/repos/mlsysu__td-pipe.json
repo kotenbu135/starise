@@ -3,8 +3,8 @@
   "owner": "mlsysu",
   "name": "td-pipe",
   "full_name": "mlsysu/td-pipe",
-  "description": "A Throughput-Optimized Pipeline Parallel Inference System for Large Language Models",
-  "description_ja": "大規模言語モデル向けスループット最適化パイプライン並列推論システム",
+  "description": "[ICPP'25] TD-Pipe: Temporally-Disaggregated Pipeline Parallelism Architecture for High-Throughput LLM Inference",
+  "description_ja": "",
   "url": "https://github.com/MLSysU/TD-Pipe",
   "homepage_url": "",
   "language": "Python",
@@ -20,7 +20,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-13T06:30:44Z",
-  "updated_at": "2026-07-01T19:21:25Z",
+  "updated_at": "2026-07-05T13:51:32Z",
   "pushed_at": "2025-12-24T07:53:58Z",
   "deleted_at": "",
   "star_history": [
@@ -258,6 +258,10 @@
     },
     {
       "date": "2026-07-04",
+      "stars": 52
+    },
+    {
+      "date": "2026-07-05",
       "stars": 52
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "vette1123",
   "name": "movies-streaming-platform",
   "full_name": "vette1123/movies-streaming-platform",
-  "description": "Free platform to watch movies/series in highest quality",
-  "description_ja": "映画・シリーズを最高画質で視聴できる無料プラットフォーム",
+  "description": "Reely — a fast, modern movie \u0026 TV discovery platform. Browse, search, and explore films and series powered by TMDB, built with Next.js App Router + React 19, and deployed globally on Cloudflare Workers via OpenNext.",
+  "description_ja": "",
   "url": "https://github.com/Vette1123/movies-streaming-platform",
   "homepage_url": "https://reely.space",
   "language": "TypeScript",
@@ -12,16 +12,23 @@
   "topics": [
     "app-router",
     "cloudflare",
+    "cloudflare-workers",
     "framer-motion",
+    "movie-app",
     "movies",
     "nextjs",
+    "opennext",
+    "posthog",
     "radix-ui",
     "react",
+    "react-19",
     "react-query",
     "shadcn-ui",
     "streaming",
     "tailwindcss",
     "tmdb",
+    "tmdb-api",
+    "tv-shows",
     "typescript"
   ],
   "star_count": 155,
@@ -29,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-01T17:46:15Z",
-  "updated_at": "2026-06-28T11:53:57Z",
-  "pushed_at": "2026-06-28T11:53:53Z",
+  "updated_at": "2026-07-05T09:46:58Z",
+  "pushed_at": "2026-07-05T09:46:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -267,6 +274,10 @@
     },
     {
       "date": "2026-07-04",
+      "stars": 155
+    },
+    {
+      "date": "2026-07-05",
       "stars": 155
     }
   ]

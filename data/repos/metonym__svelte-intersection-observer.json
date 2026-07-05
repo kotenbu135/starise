@@ -7,7 +7,7 @@
   "description_ja": "Intersection Observer APIを使って要素がビューポート内にあるかを検出する",
   "url": "https://github.com/metonym/svelte-intersection-observer",
   "homepage_url": "https://metonym.github.io/svelte-intersection-observer/",
-  "language": "Svelte",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "conditional",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-04-06T00:46:00Z",
-  "updated_at": "2026-07-04T19:09:37Z",
-  "pushed_at": "2026-07-04T19:09:35Z",
+  "updated_at": "2026-07-05T19:37:30Z",
+  "pushed_at": "2026-07-05T19:37:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -262,6 +262,10 @@
     },
     {
       "date": "2026-07-04",
+      "stars": 338
+    },
+    {
+      "date": "2026-07-05",
       "stars": 338
     }
   ]

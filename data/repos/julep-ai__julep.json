@@ -3,12 +3,12 @@
   "owner": "julep-ai",
   "name": "julep",
   "full_name": "julep-ai/julep",
-  "description": "Firebase for AI agents",
+  "description": "Julep — durable, composable AI agents. Flows that crash and resume, retry safely, and explain every step.",
   "description_ja": "",
   "url": "https://github.com/julep-ai/julep",
-  "homepage_url": "https://docs.julep.ai/",
-  "language": "Jupyter Notebook",
-  "license": "",
+  "homepage_url": "https://docs.julep.ai",
+  "language": "Python",
+  "license": "Apache-2.0",
   "topics": [
     "agents",
     "ai",
@@ -26,13 +26,13 @@
     "nodejs",
     "python"
   ],
-  "star_count": 6602,
+  "star_count": 6601,
   "fork_count": 973,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-04T09:33:02Z",
-  "updated_at": "2026-07-04T08:22:47Z",
-  "pushed_at": "2026-03-13T09:31:50Z",
+  "updated_at": "2026-07-05T07:51:05Z",
+  "pushed_at": "2026-07-05T00:51:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -274,6 +274,10 @@
     {
       "date": "2026-07-04",
       "stars": 6602
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 6601
     }
   ]
 }

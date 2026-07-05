@@ -3,19 +3,27 @@
   "owner": "rfsbraz",
   "name": "huntarr-security-review",
   "full_name": "rfsbraz/huntarr-security-review",
-  "description": "",
+  "description": "Reproducible lab proving an unauthenticated authentication-bypass in Huntarr (v9.4.2): any endpoint is callable with zero credentials, leaking Huntarr's own passwords and the API keys of every *arr app it manages.",
   "description_ja": "",
   "url": "https://github.com/rfsbraz/huntarr-security-review",
   "homepage_url": "",
   "language": "Python",
   "license": "",
-  "topics": [],
+  "topics": [
+    "huntarr",
+    "infosec",
+    "proof-of-concept",
+    "security",
+    "security-research",
+    "servarr",
+    "vulnerability"
+  ],
   "star_count": 50,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-23T15:16:25Z",
-  "updated_at": "2026-07-02T16:54:05Z",
+  "updated_at": "2026-07-05T09:56:27Z",
   "pushed_at": "2026-02-23T15:38:49Z",
   "deleted_at": "",
   "star_history": [
@@ -257,6 +265,10 @@
     },
     {
       "date": "2026-07-04",
+      "stars": 50
+    },
+    {
+      "date": "2026-07-05",
       "stars": 50
     }
   ]

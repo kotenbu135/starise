@@ -9,13 +9,24 @@
   "homepage_url": "https://nimroboai.com",
   "language": "TypeScript",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 73,
+  "topics": [
+    "agent-memory",
+    "agent-tooling",
+    "ai-agents",
+    "cli",
+    "coding-agents",
+    "developer-tools",
+    "llm-agents",
+    "llmops",
+    "reward-modeling",
+    "typescript"
+  ],
+  "star_count": 74,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-20T10:08:44Z",
-  "updated_at": "2026-07-03T03:14:46Z",
+  "updated_at": "2026-07-05T11:33:27Z",
   "pushed_at": "2026-07-04T04:03:27Z",
   "deleted_at": "",
   "star_history": [
@@ -74,6 +85,10 @@
     {
       "date": "2026-07-04",
       "stars": 73
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 74
     }
   ]
 }

@@ -12,7 +12,11 @@
   "topics": [
     "android",
     "android-app",
-    "android-application",
+    "cli",
+    "desktop",
+    "ios",
+    "linux",
+    "macos",
     "privacy",
     "privacy-first",
     "productivity",
@@ -20,16 +24,20 @@
     "qrcode-customization",
     "qrcode-generator",
     "qrcode-scanner",
+    "react",
     "react-native",
-    "typescript"
+    "rust",
+    "tauri",
+    "typescript",
+    "windows"
   ],
-  "star_count": 151,
+  "star_count": 153,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T18:15:25Z",
-  "updated_at": "2026-07-04T12:29:39Z",
-  "pushed_at": "2026-07-04T12:44:05Z",
+  "updated_at": "2026-07-05T20:10:40Z",
+  "pushed_at": "2026-07-05T20:10:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +107,10 @@
     {
       "date": "2026-07-04",
       "stars": 151
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 153
     }
   ]
 }

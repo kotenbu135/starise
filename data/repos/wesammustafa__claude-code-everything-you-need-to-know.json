@@ -3,20 +3,41 @@
   "owner": "wesammustafa",
   "name": "claude-code-everything-you-need-to-know",
   "full_name": "wesammustafa/claude-code-everything-you-need-to-know",
-  "description": "The ultimate all-in-one guide to mastering Claude Code. From setup, prompt engineering, commands, hooks, workflows, automation, and integrations, to MCP servers, tools, and the BMAD method—packed with step-by-step tutorials, real-world examples, and expert strategies to make this the global go-to repo for Claude mastery.",
+  "description": "A practical Claude Code guide with clear mental models and copy-paste examples — setup, prompt engineering, slash commands, skills, hooks, subagents, agent teams, and MCP servers. Beginner path to power-user depth. Featured in Awesome Claude Code.",
   "description_ja": "",
   "url": "https://github.com/wesammustafa/Claude-Code-Everything-You-Need-to-Know",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 2241,
-  "fork_count": 254,
+  "topics": [
+    "agent-skills",
+    "agentic-coding",
+    "ai-agents",
+    "anthropic",
+    "anthropic-claude",
+    "best-practices",
+    "claude",
+    "claude-ai",
+    "claude-code",
+    "claude-code-guide",
+    "claude-code-hooks",
+    "claude-code-skills",
+    "claude-code-tutorial",
+    "claude-skills",
+    "guide",
+    "mcp",
+    "mcp-servers",
+    "prompt-engineering",
+    "subagents",
+    "tutorial"
+  ],
+  "star_count": 2252,
+  "fork_count": 258,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-17T14:45:39Z",
-  "updated_at": "2026-07-04T18:16:37Z",
-  "pushed_at": "2026-05-06T11:26:28Z",
+  "updated_at": "2026-07-05T20:37:29Z",
+  "pushed_at": "2026-07-05T12:39:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -158,6 +179,10 @@
     {
       "date": "2026-07-04",
       "stars": 2241
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 2252
     }
   ]
 }

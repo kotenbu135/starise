@@ -3,7 +3,7 @@
   "owner": "jgg0sbp66",
   "name": "ohmyblog",
   "full_name": "jgg0sbp66/ohmyblog",
-  "description": "ohmyblog 是一个网页端管理的博客系统，配备了类似飞书的 Markdown 编辑器、SMTP 邮件发送功能以及链接审核机制。",
+  "description": "ohmyblog 是一款轻量高效的全栈博客系统。兼具高颜值与低内存占用的特点，在提供类似飞书的写作体验和便捷文章管理的同时，还集成了 SMTP 邮件服务，支持将系统通知即时推送至管理员邮箱。",
   "description_ja": "",
   "url": "https://github.com/JGG0sbp66/ohmyblog",
   "homepage_url": "https://demo.blog.awa.monster",
@@ -16,13 +16,13 @@
     "ts",
     "vue"
   ],
-  "star_count": 15,
-  "fork_count": 5,
+  "star_count": 16,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-14T03:55:51Z",
-  "updated_at": "2026-07-02T12:29:48Z",
-  "pushed_at": "2026-07-02T00:13:04Z",
+  "updated_at": "2026-07-05T07:02:22Z",
+  "pushed_at": "2026-07-05T05:36:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -156,6 +156,10 @@
     {
       "date": "2026-07-04",
       "stars": 15
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 16
     }
   ]
 }

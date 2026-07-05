@@ -3,20 +3,39 @@
   "owner": "stevethekiller",
   "name": "killer-tools-site",
   "full_name": "stevethekiller/killer-tools-site",
-  "description": "Source for killertools.net",
+  "description": "Source for KillerTools.net : Privacy-friendly MSP and sysadmin web tools. A themeable fork of IT-Tools built with Vue 3 and Vite. Event ID, GPO, M365 SKU, CVE, and NDR lookups plus network utilities.",
   "description_ja": "",
   "url": "https://github.com/SteveTheKiller/killer-tools-site",
-  "homepage_url": "",
+  "homepage_url": "https://KillerTools.net",
   "language": "TypeScript",
   "license": "GPL-3.0",
-  "topics": [],
+  "topics": [
+    "cybersecurity-tools",
+    "developer-tools",
+    "github-pages",
+    "gplv3",
+    "it",
+    "it-tools",
+    "microsoft-365",
+    "msp",
+    "networking",
+    "opensource",
+    "privacy",
+    "pwa",
+    "self-hosted",
+    "sysadmin",
+    "typescript",
+    "vite",
+    "vue",
+    "webtools"
+  ],
   "star_count": 56,
   "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-29T20:11:28Z",
-  "updated_at": "2026-07-04T06:42:27Z",
-  "pushed_at": "2026-07-04T06:42:23Z",
+  "updated_at": "2026-07-05T20:10:53Z",
+  "pushed_at": "2026-07-05T20:10:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -205,6 +224,10 @@
     },
     {
       "date": "2026-07-04",
+      "stars": 56
+    },
+    {
+      "date": "2026-07-05",
       "stars": 56
     }
   ]

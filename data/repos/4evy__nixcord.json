@@ -3,31 +3,41 @@
   "owner": "4evy",
   "name": "nixcord",
   "full_name": "4evy/nixcord",
-  "description": "Declarative Vencord \u0026 Equciord Plugins + Options",
+  "description": "One Nix config for Discord mods, themes, and clients.",
   "description_ja": "",
   "url": "https://github.com/4evy/nixcord",
   "homepage_url": "https://4evy.github.io/nixcord/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "declarative-configuration",
     "discord",
-    "dotfiles",
+    "discord-client",
+    "discord-mod",
+    "discord-plugins",
+    "discord-themes",
+    "dorion",
+    "equibop",
     "equicord",
     "home-manager",
     "home-manager-module",
+    "legcord",
     "nix",
     "nix-darwin",
     "nix-flake",
+    "nix-module",
     "nixos",
-    "vencord"
+    "nixos-module",
+    "vencord",
+    "vesktop"
   ],
-  "star_count": 313,
+  "star_count": 314,
   "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-22T07:37:28Z",
-  "updated_at": "2026-07-04T18:34:07Z",
-  "pushed_at": "2026-07-04T18:34:03Z",
+  "updated_at": "2026-07-05T09:36:11Z",
+  "pushed_at": "2026-07-05T09:36:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -161,6 +171,10 @@
     {
       "date": "2026-07-04",
       "stars": 313
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 314
     }
   ]
 }

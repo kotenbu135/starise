@@ -11,7 +11,6 @@
   "license": "GPL-3.0",
   "topics": [
     "audio-processing",
-    "cabinet-simulator",
     "chorus",
     "dsp",
     "echo",
@@ -22,6 +21,7 @@
     "guitar-processor",
     "guitar-tuner",
     "multi-effects-processor",
+    "neural-amp-modeler",
     "overdrive",
     "phaser",
     "reverb",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-30T15:56:33Z",
-  "updated_at": "2026-07-01T13:07:08Z",
-  "pushed_at": "2026-07-03T19:52:37Z",
+  "updated_at": "2026-07-05T18:31:55Z",
+  "pushed_at": "2026-07-05T18:27:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -222,6 +222,10 @@
     },
     {
       "date": "2026-07-04",
+      "stars": 53
+    },
+    {
+      "date": "2026-07-05",
       "stars": 53
     }
   ]

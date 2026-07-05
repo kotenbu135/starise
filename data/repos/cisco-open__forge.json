@@ -3,8 +3,8 @@
   "owner": "cisco-open",
   "name": "forge",
   "full_name": "cisco-open/forge",
-  "description": "ForgeMT is a secure, scalable GitHub Actions runner platform for ephemeral workloads. Designed for multi-tenant environments, it automates isolated runner provisioning on Kubernetes or EC2, with built-in OIDC, IAM, cost optimization, and deep observability.",
-  "description_ja": "ForgeMTは、エフェメラルワークロード向けのセキュアでスケーラブルなGitHub Actionsランナープラットフォームです。マルチテナント環境向けに設計され、KubernetesまたはEC2上での隔離されたランナープロビジョニングを自動化し、OIDC・IAM・コスト最適化・高度な可観測性を備えています。",
+  "description": "ForgeMT runs multi-tenant GitHub Actions runners on AWS using ephemeral EC2 and ARC/Kubernetes capacity, with IaC-driven onboarding and IAM/OIDC isolation.",
+  "description_ja": "",
   "url": "https://github.com/cisco-open/forge",
   "homepage_url": "https://cisco-open.github.io/forge/",
   "language": "HCL",
@@ -14,28 +14,30 @@
     "automation",
     "aws",
     "aws-eks",
-    "ci",
     "ci-cd",
     "devops",
     "devsecops",
     "ec2",
     "ephemeral",
     "github-actions",
+    "iam",
     "infrastructure-as-code",
     "kubernetes",
     "multi-tenancy",
-    "opensource",
-    "runners",
+    "oidc",
+    "open-source",
+    "platform-engineering",
     "self-hosted-runners",
-    "terraform"
+    "terraform",
+    "terragrunt"
   ],
   "star_count": 208,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-12T14:54:17Z",
-  "updated_at": "2026-07-04T01:10:24Z",
-  "pushed_at": "2026-07-04T14:15:06Z",
+  "updated_at": "2026-07-05T19:18:23Z",
+  "pushed_at": "2026-07-05T19:18:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -272,6 +274,10 @@
     },
     {
       "date": "2026-07-04",
+      "stars": 208
+    },
+    {
+      "date": "2026-07-05",
       "stars": 208
     }
   ]

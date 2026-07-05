@@ -3,8 +3,8 @@
   "owner": "makeding",
   "name": "luci-app-fleth",
   "full_name": "makeding/luci-app-fleth",
-  "description": "luci-app-fleth は、IPv4 over IPv6トンネル（DS-Lite/MAP-E/IPIP6）の自動設定ヘルパです。",
-  "description_ja": "luci-app-fleth は、IPv4 over IPv6 トンネル（DS-Lite/MAP-E/IPIP6）の自動設定ヘルパーです。",
+  "description": "luci-proto-fleth は、IPv4 over IPv6トンネル（DS-Lite/MAP-E/IPIP6）の自動設定ヘルパです。",
+  "description_ja": "",
   "url": "https://github.com/makeding/luci-app-fleth",
   "homepage_url": "https://fleth.link",
   "language": "Shell",
@@ -15,18 +15,20 @@
     "fleth",
     "flets",
     "ipip6",
+    "luci-proto-fleth",
     "luci-proto-ipip6h",
+    "luci-proto-ipip6hp",
     "map-e",
     "mape",
     "openwrt"
   ],
-  "star_count": 59,
+  "star_count": 58,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-14T14:04:53Z",
-  "updated_at": "2026-07-04T16:46:28Z",
-  "pushed_at": "2026-07-04T16:04:31Z",
+  "updated_at": "2026-07-05T15:17:17Z",
+  "pushed_at": "2026-07-05T10:30:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -264,6 +266,10 @@
     {
       "date": "2026-07-04",
       "stars": 59
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 58
     }
   ]
 }

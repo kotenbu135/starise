@@ -3,8 +3,8 @@
   "owner": "blickoneblickytwo",
   "name": "immich-go-desktop",
   "full_name": "blickoneblickytwo/immich-go-desktop",
-  "description": "An easy, step-by-step gui generator for immich-go",
-  "description_ja": "immich-go向けのステップバイステップGUIジェネレーター（簡単操作）",
+  "description": "A friendly, no-terminal GUI that builds your immich-go import command — folder, Google Takeout, iCloud, or server-to-server.",
+  "description_ja": "",
   "url": "https://github.com/blickoneblickytwo/immich-go-desktop",
   "homepage_url": "https://blickoneblickytwo.github.io/immich-go-desktop/",
   "language": "TypeScript",
@@ -12,19 +12,21 @@
   "topics": [
     "google-photos",
     "google-takeout",
+    "icloud",
     "immich",
     "immich-go",
     "photo-backup",
     "photo-migration",
+    "self-hosted",
     "web-ui"
   ],
-  "star_count": 53,
+  "star_count": 79,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-20T06:02:54Z",
-  "updated_at": "2026-06-15T11:58:03Z",
-  "pushed_at": "2026-03-24T02:43:24Z",
+  "updated_at": "2026-07-05T19:34:43Z",
+  "pushed_at": "2026-07-05T19:34:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -266,6 +268,10 @@
     {
       "date": "2026-07-04",
       "stars": 53
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 79
     }
   ]
 }

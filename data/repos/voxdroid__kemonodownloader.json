@@ -3,7 +3,7 @@
   "owner": "voxdroid",
   "name": "kemonodownloader",
   "full_name": "voxdroid/kemonodownloader",
-  "description": "Kemono Downloader - A cross-platform Python app built with PyQt6 to download posts and creator content from Kemono.su \u0026 Coomer.st. Supports concurrent downloads, file deduplication, and customizable settings.",
+  "description": "Kemono Downloader - A cross-platform Python app built with PyQt6 to download posts and creator content from Kemono.cr, Coomer.st, and Pawchive.pw. Supports concurrent downloads, file deduplication, and customizable settings.",
   "description_ja": "",
   "url": "https://github.com/VoxDroid/KemonoDownloader",
   "homepage_url": "https://kemonodownloader.codes",
@@ -31,13 +31,13 @@
     "python",
     "voxdroid"
   ],
-  "star_count": 304,
-  "fork_count": 39,
+  "star_count": 312,
+  "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-10T11:57:02Z",
-  "updated_at": "2026-07-04T07:57:45Z",
-  "pushed_at": "2026-06-17T00:56:31Z",
+  "updated_at": "2026-07-05T18:58:59Z",
+  "pushed_at": "2026-07-05T11:24:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -107,6 +107,10 @@
     {
       "date": "2026-07-04",
       "stars": 304
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 312
     }
   ]
 }

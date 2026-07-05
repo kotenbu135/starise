@@ -3,8 +3,8 @@
   "owner": "thenetsky",
   "name": "microsoft-rewards-script",
   "full_name": "thenetsky/microsoft-rewards-script",
-  "description": "Automated Microsoft Rewards script, using TypeScript, Cheerio and Playwright.",
-  "description_ja": "TypeScript、Cheerio、Playwrightを使用したMicrosoft Rewards自動化スクリプト",
+  "description": "Automated Microsoft Rewards script, using TypeScript and Playwright.",
+  "description_ja": "",
   "url": "https://github.com/TheNetsky/Microsoft-Rewards-Script",
   "homepage_url": "",
   "language": "TypeScript",
@@ -14,17 +14,18 @@
     "microsoft-rewards",
     "microsoft-rewards-bot",
     "microsoft-rewards-farmer",
+    "microsoft-rewards-script",
     "playwright",
     "script",
     "typescript"
   ],
   "star_count": 846,
-  "fork_count": 199,
+  "fork_count": 200,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-25T10:09:35Z",
-  "updated_at": "2026-07-04T15:05:31Z",
-  "pushed_at": "2026-06-29T14:09:09Z",
+  "updated_at": "2026-07-05T10:51:26Z",
+  "pushed_at": "2026-07-05T10:51:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -265,6 +266,10 @@
     },
     {
       "date": "2026-07-04",
+      "stars": 846
+    },
+    {
+      "date": "2026-07-05",
       "stars": 846
     }
   ]

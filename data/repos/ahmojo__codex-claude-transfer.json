@@ -3,19 +3,27 @@
   "owner": "ahmojo",
   "name": "codex-claude-transfer",
   "full_name": "ahmojo/codex-claude-transfer",
-  "description": "",
+  "description": "Local-first CLI (cct) that moves Codex \u0026 Claude Code sessions between machines: export to a .codexbundle, copy, import. No cloud, no account, optional LAN sync.",
   "description_ja": "",
   "url": "https://github.com/ahmojo/codex-claude-transfer",
   "homepage_url": "",
   "language": "Go",
   "license": "MIT",
-  "topics": [],
-  "star_count": 15,
+  "topics": [
+    "claude-code",
+    "cli",
+    "cobra",
+    "codex",
+    "developer-tools",
+    "go",
+    "local-first"
+  ],
+  "star_count": 17,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-13T19:53:54Z",
-  "updated_at": "2026-07-03T02:11:41Z",
+  "updated_at": "2026-07-05T14:07:35Z",
   "pushed_at": "2026-06-24T19:56:16Z",
   "deleted_at": "",
   "star_history": [
@@ -86,6 +94,10 @@
     {
       "date": "2026-07-04",
       "stars": 15
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 17
     }
   ]
 }

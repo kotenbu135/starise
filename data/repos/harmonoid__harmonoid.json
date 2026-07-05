@@ -3,8 +3,8 @@
   "owner": "harmonoid",
   "name": "harmonoid",
   "full_name": "harmonoid/harmonoid",
-  "description": "🎵 Plays \u0026 manages your music library. Looks beautiful \u0026 juicy. Available for Windows, GNU/Linux, macOS \u0026 Android.",
-  "description_ja": "🎵 音楽ライブラリを再生・管理するアプリ。美しくジューシーな UI。Windows、GNU/Linux、macOS、Android に対応。",
+  "description": "🎵 Plays \u0026 manages your music library. Looks beautiful \u0026 juicy. Available for Windows, GNU/Linux, macOS, Android \u0026 iOS.",
+  "description_ja": "",
   "url": "https://github.com/harmonoid/harmonoid",
   "homepage_url": "https://harmonoid.com",
   "language": "Dart",
@@ -28,13 +28,13 @@
     "tags",
     "windows"
   ],
-  "star_count": 4620,
+  "star_count": 4624,
   "fork_count": 254,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-08-04T10:28:45Z",
-  "updated_at": "2026-07-04T15:38:37Z",
-  "pushed_at": "2026-07-04T18:02:10Z",
+  "updated_at": "2026-07-05T15:06:30Z",
+  "pushed_at": "2026-07-05T18:16:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -276,6 +276,10 @@
     {
       "date": "2026-07-04",
       "stars": 4620
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 4624
     }
   ]
 }

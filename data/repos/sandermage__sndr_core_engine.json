@@ -10,25 +10,25 @@
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
-    "ampere",
-    "ampere-sm86",
+    "awq",
+    "consumer-gpu",
     "cuda",
-    "dflash",
-    "fp8",
-    "gdn",
+    "gemma",
+    "kv-cache-quantization",
     "llm-inference",
-    "long-context",
-    "moe",
-    "nvidia",
+    "llm-serving",
+    "local-llm",
+    "memory",
+    "pgvector",
+    "quantization",
     "qwen",
-    "qwen3",
+    "rag",
     "rtx-3090",
-    "rtx-a5000",
-    "runtime-patches",
+    "rtx-4090",
+    "self-hosted",
+    "spec-decode",
     "speculative-decoding",
-    "structured-output",
     "tool-calling",
-    "turboquant",
     "vllm"
   ],
   "star_count": 119,
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T09:10:15Z",
-  "updated_at": "2026-07-04T14:24:01Z",
-  "pushed_at": "2026-07-04T14:23:59Z",
+  "updated_at": "2026-07-05T20:06:08Z",
+  "pushed_at": "2026-07-05T20:22:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +258,10 @@
     },
     {
       "date": "2026-07-04",
+      "stars": 119
+    },
+    {
+      "date": "2026-07-05",
       "stars": 119
     }
   ]

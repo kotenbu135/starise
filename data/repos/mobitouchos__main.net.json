@@ -6,19 +6,21 @@
   "description": "NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NET",
   "description_ja": "LLM・RAG・Agentsを.NETのファーストクラス市民として扱うために設計されたNuGetパッケージです。",
   "url": "https://github.com/mobitouchOS/MaIN.NET",
-  "homepage_url": "https://maindoc.link/",
+  "homepage_url": "https://usemain.net",
   "language": "C#",
   "license": "MIT",
   "topics": [
     "agents",
     "ai",
     "chat",
+    "claude",
     "csharp",
     "dotnet",
-    "kernel-memory",
+    "grok",
     "llm",
     "net",
     "nuget",
+    "ollama",
     "openai",
     "rag"
   ],
@@ -27,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-14T20:22:58Z",
-  "updated_at": "2026-06-30T12:42:05Z",
-  "pushed_at": "2026-06-30T12:42:15Z",
+  "updated_at": "2026-07-05T09:13:07Z",
+  "pushed_at": "2026-07-05T09:16:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -269,6 +271,10 @@
     },
     {
       "date": "2026-07-04",
+      "stars": 178
+    },
+    {
+      "date": "2026-07-05",
       "stars": 178
     }
   ]

@@ -3,25 +3,40 @@
   "owner": "marlonjd",
   "name": "flutter_desktop_updater",
   "full_name": "marlonjd/flutter_desktop_updater",
-  "description": "Flutter desktop updater plugin, supports Windows, MacOS and Linux. It can download and install updates for your desktop application. Github, Gitlab and local file systems, s3 are supported",
-  "description_ja": "Windows、macOS、Linuxをサポートするデスクトップアプリの更新をダウンロード・インストールできるFlutterデスクトップアップデータープラグイン。GitHub、GitLab、ローカルファイルシステム、S3に対応。",
+  "description": "Sparkle-style auto-updates for Flutter desktop apps: verified releases, release CLI, built-in UI, and Windows/macOS/Linux support.",
+  "description_ja": "",
   "url": "https://github.com/MarlonJD/flutter_desktop_updater",
   "homepage_url": "https://pub.dev/packages/desktop_updater",
   "language": "Dart",
   "license": "MIT",
   "topics": [
+    "app-updater",
+    "auto-updater",
+    "dart",
+    "desktop-apps",
+    "desktop-updater",
     "flutter",
     "flutter-desktop",
+    "flutter-plugin",
+    "gitlab",
+    "linux",
+    "macos",
     "ota",
-    "updater"
+    "release-automation",
+    "s3",
+    "self-updater",
+    "software-updates",
+    "sparkle-alternative",
+    "updater",
+    "windows"
   ],
   "star_count": 47,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-06T04:11:42Z",
-  "updated_at": "2026-07-03T10:23:57Z",
-  "pushed_at": "2026-07-03T10:23:53Z",
+  "updated_at": "2026-07-05T10:54:50Z",
+  "pushed_at": "2026-07-05T10:54:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +273,10 @@
     },
     {
       "date": "2026-07-04",
+      "stars": 47
+    },
+    {
+      "date": "2026-07-05",
       "stars": 47
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "duckboss",
   "name": "jjmumblebot",
   "full_name": "duckboss/jjmumblebot",
-  "description": "A plugin-based All-In-One mumble bot solution in python 3.9+ with extensive features and support for custom plugins.",
-  "description_ja": "Python 3.9以上で動作するプラグインベースのオールインワンMumbleボットソリューション。豊富な機能とカスタムプラグインサポートを備える。",
+  "description": "A plugin-based All-In-One mumble bot solution in python 3.9+ with extensive features and support for custom plugins. [Deprecated, use Mumimo Project]",
+  "description_ja": "",
   "url": "https://github.com/DuckBoss/JJMumbleBot",
   "homepage_url": "https://duckboss.github.io/JJMumbleBot/wiki/new/whats_new.html",
   "language": "Python",
@@ -36,7 +36,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-02-11T03:32:29Z",
-  "updated_at": "2026-07-01T19:20:12Z",
+  "updated_at": "2026-07-05T15:19:35Z",
   "pushed_at": "2026-07-01T02:45:31Z",
   "deleted_at": "",
   "star_history": [
@@ -274,6 +274,10 @@
     },
     {
       "date": "2026-07-04",
+      "stars": 51
+    },
+    {
+      "date": "2026-07-05",
       "stars": 51
     }
   ]
