@@ -3,7 +3,7 @@
   "owner": "123pannextgen",
   "name": "123pan",
   "full_name": "123pannextgen/123pan",
-  "description": "第三方123云盘客户端，解决了123云盘官方客户端的若干问题，并使用模拟移动端的方式解除每日流量1G限制，使用Python和PyQt制作",
+  "description": "第三方123云盘客户端，解决了123云盘官方客户端的若干问题，并使用模拟移动端的方式解除流量限制，使用Python和PyQt制作",
   "description_ja": "",
   "url": "https://github.com/123panNextGen/123pan",
   "homepage_url": "https://123pannextgen.github.io/123pan/",
@@ -29,7 +29,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-19T14:08:41Z",
-  "updated_at": "2026-07-05T12:39:18Z",
+  "updated_at": "2026-07-06T10:55:08Z",
   "pushed_at": "2026-07-05T15:18:43Z",
   "deleted_at": "",
   "star_history": [
@@ -211,6 +211,10 @@
     },
     {
       "date": "2026-07-05",
+      "stars": 140
+    },
+    {
+      "date": "2026-07-06",
       "stars": 140
     }
   ]

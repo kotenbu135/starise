@@ -3,20 +3,27 @@
   "owner": "misaka-mikoto-tech",
   "name": "agent-skills",
   "full_name": "misaka-mikoto-tech/agent-skills",
-  "description": "A personal collection of reusable AI agent skills, mostly for Codex, with optional MCP utilities.",
+  "description": "Reusable AI agent skills for Codex, including a PowerShell skill for safe Windows command invocation and optional MCP utilities.",
   "description_ja": "",
   "url": "https://github.com/Misaka-Mikoto-Tech/agent-skills",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 66,
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "codex",
+    "powershell",
+    "powershell-7",
+    "windows"
+  ],
+  "star_count": 74,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-29T02:47:03Z",
-  "updated_at": "2026-07-05T19:08:56Z",
-  "pushed_at": "2026-07-05T19:08:52Z",
+  "updated_at": "2026-07-06T17:44:46Z",
+  "pushed_at": "2026-07-06T03:08:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +41,10 @@
     {
       "date": "2026-07-05",
       "stars": 66
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 74
     }
   ]
 }

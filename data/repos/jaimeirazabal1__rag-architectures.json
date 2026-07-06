@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOS3cehg",
+  "owner": "jaimeirazabal1",
+  "name": "rag-architectures",
+  "full_name": "jaimeirazabal1/rag-architectures",
+  "description": "Sistema RAG con 6 arquitecturas implementadas como microservicios independientes en FastAPI + Docker: Naïve RAG, Advanced RAG, Modular RAG, GraphRAG, Agentic RAG y Hybrid RAG. Cada una incluye embeddings locales con sentence-transformers y se conecta a cualquier LLM vía API compatible OpenAI. Ideal para aprender, comparar y prototipar patrones RAG.",
+  "description_ja": "",
+  "url": "https://github.com/jaimeirazabal1/rag-architectures",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "",
+  "topics": [],
+  "star_count": 46,
+  "fork_count": 21,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-11T10:13:14Z",
+  "updated_at": "2026-07-06T01:19:15Z",
+  "pushed_at": "2026-06-11T10:30:01Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-06",
+      "stars": 46
+    }
+  ]
+}

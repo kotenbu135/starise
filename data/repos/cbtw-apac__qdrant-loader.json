@@ -1,0 +1,290 @@
+{
+  "repo_id": "R_kgDOOUsfag",
+  "owner": "cbtw-apac",
+  "name": "qdrant-loader",
+  "full_name": "cbtw-apac/qdrant-loader",
+  "description": "Enterprise-ready vector database toolkit for building searchable knowledge bases from multiple data sources. Supports multi-project management, automatic ingestion from Confluence/JIRA/Git, intelligent file conversion (PDF/Office/images), and semantic search. Includes MCP server for seamless AI assistant integration.",
+  "description_ja": "複数のデータソースから検索可能なナレッジベースを構築するエンタープライズ対応ベクターデータベースツールキット。マルチプロジェクト管理、Confluence/JIRA/Git からの自動インジェスト、インテリジェントなファイル変換（PDF/Office/画像）、セマンティック検索をサポート。AI アシスタントとのシームレスな統合のための MCP サーバーも付属。",
+  "url": "https://github.com/cbtw-apac/qdrant-loader",
+  "homepage_url": "https://qdrant-loader.net",
+  "language": "Python",
+  "license": "GPL-3.0",
+  "topics": [
+    "cli-tool",
+    "confluence-integration",
+    "cursor-ide",
+    "developer-tools",
+    "document-processing",
+    "embbedings",
+    "enterprise-ready",
+    "file-conversion",
+    "git-integration",
+    "jira-integration",
+    "knowledge-base",
+    "llm-integration",
+    "mcp-server",
+    "multi-project",
+    "openai",
+    "python",
+    "rag",
+    "semantic-search"
+  ],
+  "star_count": 44,
+  "fork_count": 27,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-04-06T03:13:17Z",
+  "updated_at": "2026-07-06T02:42:28Z",
+  "pushed_at": "2026-07-06T04:47:47Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 37
+    },
+    {
+      "date": "2026-04-23",
+      "stars": 37
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 37
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 38
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 38
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 39
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 39
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 39
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 39
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 40
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 40
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 40
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 40
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 40
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 40
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 40
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 40
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 41
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 41
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 41
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 42
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 42
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 42
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 42
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 43
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 43
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 43
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 43
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 44
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 45
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 44
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 44
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 44
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 44
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 44
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 44
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 44
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 44
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 44
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 44
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 44
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 44
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 44
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 44
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 44
+    }
+  ]
+}

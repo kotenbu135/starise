@@ -12,19 +12,19 @@
   "topics": [
     "agent-governance",
     "agent-release-readiness",
+    "ai-agent-security",
     "ai-agents",
-    "anthropic",
     "ci-cd",
     "crewai",
     "github-actions",
     "google-adk",
     "langchain",
-    "llm",
-    "llmops",
     "mcp",
+    "mcp-security",
     "model-context-protocol",
     "openai-agents-sdk",
     "openapi",
+    "policy-as-code",
     "release-gate",
     "release-readiness",
     "sarif",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-25T04:42:24Z",
-  "updated_at": "2026-07-04T22:05:02Z",
-  "pushed_at": "2026-07-04T22:04:58Z",
+  "updated_at": "2026-07-06T20:39:13Z",
+  "pushed_at": "2026-07-06T21:52:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -106,6 +106,10 @@
     },
     {
       "date": "2026-07-05",
+      "stars": 104
+    },
+    {
+      "date": "2026-07-06",
       "stars": 104
     }
   ]

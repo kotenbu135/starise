@@ -10,6 +10,7 @@
   "language": "Rust",
   "license": "GPL-3.0",
   "topics": [
+    "cross-platform",
     "launcher",
     "linux",
     "macos",
@@ -19,15 +20,16 @@
     "rust",
     "spotlight",
     "swift",
+    "tauri",
     "windows"
   ],
-  "star_count": 394,
+  "star_count": 401,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T07:54:34Z",
-  "updated_at": "2026-07-05T19:34:12Z",
-  "pushed_at": "2026-07-05T17:16:09Z",
+  "updated_at": "2026-07-06T19:40:48Z",
+  "pushed_at": "2026-07-06T15:50:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -165,6 +167,10 @@
     {
       "date": "2026-07-05",
       "stars": 394
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 401
     }
   ]
 }

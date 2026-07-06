@@ -3,7 +3,7 @@
   "owner": "paddor",
   "name": "zrip",
   "full_name": "paddor/zrip",
-  "description": "Fast, memory-safe Rust implementation of Zstandard compression (levels -8..4) with built-in dictionary training",
+  "description": "Fast, memory-safe Rust zstd codec with all-level decode, -8..4 encode, and dictionary training.",
   "description_ja": "",
   "url": "https://github.com/paddor/zrip",
   "homepage_url": "https://crates.io/crates/zrip",
@@ -15,13 +15,13 @@
     "simd",
     "zstd"
   ],
-  "star_count": 54,
+  "star_count": 55,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-13T01:32:17Z",
-  "updated_at": "2026-07-04T20:25:59Z",
-  "pushed_at": "2026-07-05T01:14:07Z",
+  "updated_at": "2026-07-06T13:37:55Z",
+  "pushed_at": "2026-07-06T13:38:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-07-05",
       "stars": 54
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 55
     }
   ]
 }

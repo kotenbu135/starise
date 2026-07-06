@@ -6,7 +6,7 @@
   "description": "Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.",
   "description_ja": "AIコーディングエージェント向けの永続的なプロジェクトメモリ。構造化スキャフォールドとドリフト検出CLIを提供。",
   "url": "https://github.com/mex-memory/mex",
-  "homepage_url": "https://www.launchx.page/mex",
+  "homepage_url": "https://mexmemory.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -19,16 +19,17 @@
     "developer-tools",
     "documentation",
     "llm",
+    "mcp-server",
     "memory-management",
     "typescript"
   ],
-  "star_count": 1148,
+  "star_count": 1151,
   "fork_count": 65,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-21T10:34:18Z",
-  "updated_at": "2026-07-05T09:09:24Z",
-  "pushed_at": "2026-06-22T14:00:52Z",
+  "updated_at": "2026-07-06T12:54:52Z",
+  "pushed_at": "2026-07-06T12:54:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -274,6 +275,10 @@
     {
       "date": "2026-07-05",
       "stars": 1148
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 1151
     }
   ]
 }

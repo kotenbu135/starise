@@ -3,12 +3,12 @@
   "owner": "alexvilelabah",
   "name": "bah-browser",
   "full_name": "alexvilelabah/bah-browser",
-  "description": "Bah - an AI browser (Perplexity Comet-style) by VilelaLab. Type plain-language commands and the agent clicks and types for you. Works free out of the box, or use your own key (DeepSeek/Mistral/NVIDIA) or a local model (Ollama). Electron + React + TypeScript.",
+  "description": "Open-source AI browser agent — type plain-language commands and Bah operates the web for you. Works with free AI, cloud providers, or local Ollama models.",
   "description_ja": "",
   "url": "https://github.com/alexvilelabah/bah-browser",
   "homepage_url": "",
   "language": "TypeScript",
-  "license": "NOASSERTION",
+  "license": "MIT",
   "topics": [
     "ai-agent",
     "browser-automation",
@@ -21,13 +21,13 @@
     "typescript",
     "web-agent"
   ],
-  "star_count": 54,
-  "fork_count": 8,
+  "star_count": 68,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-19T00:36:53Z",
-  "updated_at": "2026-07-05T15:36:27Z",
-  "pushed_at": "2026-07-05T15:07:17Z",
+  "updated_at": "2026-07-06T20:47:30Z",
+  "pushed_at": "2026-07-06T09:27:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +65,10 @@
     {
       "date": "2026-07-05",
       "stars": 54
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 68
     }
   ]
 }

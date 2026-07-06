@@ -10,22 +10,22 @@
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
+    "agent-ai",
     "ai",
     "autotracing",
-    "containers",
     "ebpf",
     "k8s",
     "linux-kernel",
     "metrics",
     "profiling"
   ],
-  "star_count": 1018,
-  "fork_count": 104,
+  "star_count": 1019,
+  "fork_count": 105,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-04T05:02:21Z",
-  "updated_at": "2026-07-05T11:53:26Z",
-  "pushed_at": "2026-07-03T15:08:04Z",
+  "updated_at": "2026-07-06T15:08:57Z",
+  "pushed_at": "2026-07-06T15:04:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -267,6 +267,10 @@
     {
       "date": "2026-07-05",
       "stars": 1018
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 1019
     }
   ]
 }

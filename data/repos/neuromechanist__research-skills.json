@@ -3,20 +3,28 @@
   "owner": "neuromechanist",
   "name": "research-skills",
   "full_name": "neuromechanist/research-skills",
-  "description": "Claude Code plugin with skills for academic research: literature search, grant writing, scientific figures, and grant review",
+  "description": "A skill marketplace for academic research: from project management to literature review, making figures and writing reports and grants.",
   "description_ja": "",
   "url": "https://github.com/neuromechanist/research-skills",
-  "homepage_url": "",
+  "homepage_url": "https://neuromechanist.github.io/research-skills/",
   "language": "Python",
   "license": "BSD-3-Clause",
-  "topics": [],
+  "topics": [
+    "agenitc-ai",
+    "ai-marketplace-tools",
+    "ai-skills",
+    "claude-code",
+    "codex",
+    "copilot",
+    "open-science"
+  ],
   "star_count": 34,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T06:13:31Z",
-  "updated_at": "2026-07-04T18:59:57Z",
-  "pushed_at": "2026-07-04T18:59:54Z",
+  "updated_at": "2026-07-06T17:17:55Z",
+  "pushed_at": "2026-07-06T17:09:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -149,6 +157,10 @@
     },
     {
       "date": "2026-07-05",
+      "stars": 34
+    },
+    {
+      "date": "2026-07-06",
       "stars": 34
     }
   ]

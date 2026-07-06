@@ -6,17 +6,34 @@
   "description": "Entropic Editor for Artists 😈",
   "description_ja": "",
   "url": "https://github.com/darkly-art/darkly",
-  "homepage_url": "",
+  "homepage_url": "https://darkly.art",
   "language": "Rust",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 63,
+  "topics": [
+    "art",
+    "art-code",
+    "design",
+    "entropy",
+    "gpu",
+    "graphic-design",
+    "graphics",
+    "image-processing",
+    "node-graph",
+    "painting",
+    "photo-editor",
+    "rust",
+    "shaders",
+    "svelte",
+    "webassembly",
+    "webgpu"
+  ],
+  "star_count": 65,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-21T03:51:29Z",
-  "updated_at": "2026-07-05T05:03:35Z",
-  "pushed_at": "2026-07-05T05:03:30Z",
+  "updated_at": "2026-07-06T07:43:28Z",
+  "pushed_at": "2026-07-06T05:26:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -126,6 +143,10 @@
     {
       "date": "2026-07-05",
       "stars": 63
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 65
     }
   ]
 }

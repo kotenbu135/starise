@@ -3,7 +3,7 @@
   "owner": "fractera",
   "name": "agent-engineering-infrastructure",
   "full_name": "fractera/agent-engineering-infrastructure",
-  "description": "One-Click Agent Engineering Infrastructure on VPS. Deploy private multi-agent environments with a 50k-line Next.js Aircraft Carrier architecture. Replaces heavy code-generation loops with atomic MCP commands, eliminating file system parsing to drive AI token spend to absolute zero.",
+  "description": "Start agent engineering. Fractera’s installer robot provisions your private VPS with a self-hosted AI development environment: app, domain, SSL, local DB, auth, and LLM memory. Instantly deploy a 2-in-1 platform: an open-source AI app generator + autonomous AI agents to automate your marketing, sales, and business workflows. Free \u0026 Open-Source.",
   "description_ja": "",
   "url": "https://github.com/Fractera/Agent-Engineering-Infrastructure",
   "homepage_url": "https://www.fractera.ai",
@@ -26,13 +26,13 @@
     "self-hosted",
     "token-efficiency"
   ],
-  "star_count": 29,
+  "star_count": 30,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-26T18:36:22Z",
-  "updated_at": "2026-07-05T16:49:31Z",
-  "pushed_at": "2026-07-05T16:49:27Z",
+  "updated_at": "2026-07-06T17:06:07Z",
+  "pushed_at": "2026-07-06T17:05:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-07-05",
       "stars": 29
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 30
     }
   ]
 }

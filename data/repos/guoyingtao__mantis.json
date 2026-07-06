@@ -3,8 +3,8 @@
   "owner": "guoyingtao",
   "name": "mantis",
   "full_name": "guoyingtao/mantis",
-  "description": "An iOS Image cropping library, which mimics the Photo App written in Swift.",
-  "description_ja": "Swiftで書かれたPhoto風のiOS画像クロップライブラリ。",
+  "description": "An iOS image cropping library for UIKit and SwiftUI, mimicking the Photos app — crop shapes, rotation, flip, perspective correction, undo/redo. iOS \u0026 Mac Catalyst.",
+  "description_ja": "",
   "url": "https://github.com/guoyingtao/Mantis",
   "homepage_url": "",
   "language": "Swift",
@@ -32,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-10-21T20:57:49Z",
-  "updated_at": "2026-07-05T18:59:52Z",
-  "pushed_at": "2026-07-05T19:35:38Z",
+  "updated_at": "2026-07-06T07:32:16Z",
+  "pushed_at": "2026-07-06T07:33:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -278,6 +278,10 @@
     },
     {
       "date": "2026-07-05",
+      "stars": 1184
+    },
+    {
+      "date": "2026-07-06",
       "stars": 1184
     }
   ]

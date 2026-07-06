@@ -7,8 +7,8 @@
   "description_ja": "",
   "url": "https://github.com/deonmenezes/mantishack",
   "homepage_url": "https://mantishack.com",
-  "language": "Python",
-  "license": "NOASSERTION",
+  "language": "Rust",
+  "license": "Apache-2.0",
   "topics": [
     "agent-harness",
     "ai-agents",
@@ -20,13 +20,13 @@
     "offensive-security",
     "security"
   ],
-  "star_count": 363,
-  "fork_count": 0,
+  "star_count": 364,
+  "fork_count": 62,
   "is_archived": false,
-  "is_fork": true,
+  "is_fork": false,
   "created_at": "2026-04-05T04:51:49Z",
-  "updated_at": "2026-07-05T19:00:09Z",
-  "pushed_at": "2026-07-03T02:02:32Z",
+  "updated_at": "2026-07-06T19:46:23Z",
+  "pushed_at": "2026-07-06T19:46:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -264,6 +264,10 @@
     {
       "date": "2026-07-05",
       "stars": 363
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 364
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "awaseem",
   "name": "foqos",
   "full_name": "awaseem/foqos",
-  "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, Unpluq, Blok and more!",
-  "description_ja": "FoqosはNFCタグのタップまたはQRコードのスキャンでアプリをロックできます。Brick、Opal、Unpluq、Blokなどの無料オープンソース代替品。",
+  "description": "Foqos allows you to lock apps behind the tap of a NFC tag or scan of a QR code. Free and open source alternative to Brick, Opal, ScreenZen, Unpluq, Blok and more!",
+  "description_ja": "",
   "url": "https://github.com/awaseem/foqos",
   "homepage_url": "https://www.foqos.app",
   "language": "Swift",
@@ -15,12 +15,12 @@
     "swiftui"
   ],
   "star_count": 578,
-  "fork_count": 104,
+  "fork_count": 105,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-08T02:15:15Z",
-  "updated_at": "2026-07-05T15:45:26Z",
-  "pushed_at": "2026-07-05T19:08:37Z",
+  "updated_at": "2026-07-06T07:19:33Z",
+  "pushed_at": "2026-07-05T23:04:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -265,6 +265,10 @@
     },
     {
       "date": "2026-07-05",
+      "stars": 578
+    },
+    {
+      "date": "2026-07-06",
       "stars": 578
     }
   ]

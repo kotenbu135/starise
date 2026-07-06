@@ -3,20 +3,40 @@
   "owner": "rath-team",
   "name": "openrath",
   "full_name": "rath-team/openrath",
-  "description": "A opensource, torch-like api framework for dynamic multi-agent workflow.",
+  "description": "An open-source, PyTorch-like runtime for dynamic multi-agent and multi-session workflows.",
   "description_ja": "",
   "url": "https://github.com/Rath-Team/OpenRath",
-  "homepage_url": "",
+  "homepage_url": "https://www.openrath.com/",
   "language": "Python",
   "license": "BSD-3-Clause",
-  "topics": [],
-  "star_count": 1056,
-  "fork_count": 42,
+  "topics": [
+    "agent-framework",
+    "agentic-ai",
+    "ai-agents",
+    "anthropic",
+    "lllm-agent",
+    "llm",
+    "memory",
+    "model-context-protocol",
+    "multi-agent",
+    "multi-agent-systems",
+    "open-source",
+    "openai",
+    "provenance",
+    "python",
+    "runtime-state",
+    "sandbox",
+    "session-graph",
+    "session-state",
+    "workflow-orchestration"
+  ],
+  "star_count": 1070,
+  "fork_count": 47,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-04T13:27:24Z",
-  "updated_at": "2026-07-05T19:08:20Z",
-  "pushed_at": "2026-07-05T05:55:20Z",
+  "updated_at": "2026-07-06T16:39:57Z",
+  "pushed_at": "2026-07-06T14:41:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +110,10 @@
     {
       "date": "2026-07-05",
       "stars": 1056
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 1070
     }
   ]
 }

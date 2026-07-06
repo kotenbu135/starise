@@ -3,7 +3,7 @@
   "owner": "oxgeneral",
   "name": "orch",
   "full_name": "oxgeneral/orch",
-  "description": "One CLI to orchestrate them all. Manage a team of AI agents executing tasks in parallel from your terminal.",
+  "description": "One CLI to orchestrate them all. Manage a team of AI agents executing tasks in parallel from your terminal using a command line interface to manage them all. Manage a team of artificial intelligence agents who perform tasks in parallel from your terminal or offline on a local or server",
   "description_ja": "",
   "url": "https://github.com/oxgeneral/ORCH",
   "homepage_url": "https://www.orch.one/",
@@ -16,14 +16,14 @@
     "cli-tool",
     "multi-agent",
     "orchestrator",
-    "typescript"
+    "server-agents"
   ],
   "star_count": 90,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-10T20:37:40Z",
-  "updated_at": "2026-07-05T14:40:47Z",
+  "updated_at": "2026-07-06T09:23:13Z",
   "pushed_at": "2026-07-04T10:50:52Z",
   "deleted_at": "",
   "star_history": [
@@ -237,6 +237,10 @@
     },
     {
       "date": "2026-07-05",
+      "stars": 90
+    },
+    {
+      "date": "2026-07-06",
       "stars": 90
     }
   ]

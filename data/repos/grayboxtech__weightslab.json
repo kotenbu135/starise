@@ -3,7 +3,7 @@
   "owner": "grayboxtech",
   "name": "weightslab",
   "full_name": "grayboxtech/weightslab",
-  "description": "PyTorch dataset debugger for computer vision — pause training, mine live loss signals to surface mislabels, class imbalance \u0026 outliers, then curate your image, video \u0026 LiDAR data without restarting",
+  "description": "Open-source PyTorch tool that traces live training signals back to the data samples causing them. Pause the training to find mislabels, outliers, and class imbalance in image, video, and LiDAR datasets. And train again.",
   "description_ja": "",
   "url": "https://github.com/GrayboxTech/weightslab",
   "homepage_url": "https://www.graybx.com/",
@@ -31,13 +31,13 @@
     "tensorboard",
     "wandb"
   ],
-  "star_count": 126,
+  "star_count": 128,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-26T12:40:34Z",
-  "updated_at": "2026-07-05T16:34:36Z",
-  "pushed_at": "2026-07-05T16:34:32Z",
+  "updated_at": "2026-07-06T19:22:14Z",
+  "pushed_at": "2026-07-06T17:36:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +91,10 @@
     {
       "date": "2026-07-05",
       "stars": 126
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 128
     }
   ]
 }

@@ -3,30 +3,38 @@
   "owner": "largemodgames",
   "name": "spotatui",
   "full_name": "largemodgames/spotatui",
-  "description": "A fully standalone Spotify client for the terminal. Native streaming included, no daemon required.",
-  "description_ja": "ターミナル向けの完全スタンドアロンのSpotifyクライアント。ネイティブストリーミング内蔵、デーモン不要。",
+  "description": "A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, and YouTube sources.",
+  "description_ja": "",
   "url": "https://github.com/LargeModGames/spotatui",
   "homepage_url": "https://spotatui.com",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "audio-visualization",
     "cli",
     "multimedia",
     "music",
+    "music-player",
+    "navidrome",
+    "radio",
+    "ratatui",
     "rust",
     "spotify",
     "spotify-api",
     "spotify-tui",
+    "subsonic",
     "terminal",
-    "terminal-based"
+    "terminal-based",
+    "tui",
+    "youtube"
   ],
-  "star_count": 876,
-  "fork_count": 48,
+  "star_count": 883,
+  "fork_count": 49,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-10T16:10:29Z",
-  "updated_at": "2026-07-05T18:51:09Z",
-  "pushed_at": "2026-07-05T15:26:07Z",
+  "updated_at": "2026-07-06T15:56:41Z",
+  "pushed_at": "2026-07-06T15:45:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -272,6 +280,10 @@
     {
       "date": "2026-07-05",
       "stars": 876
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 883
     }
   ]
 }

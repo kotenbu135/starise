@@ -3,15 +3,17 @@
   "owner": "santifer",
   "name": "career-ops",
   "full_name": "santifer/career-ops",
-  "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-  "description_ja": "Claude Code 上に構築された AI 駆動の求人検索システム。14 のスキルモード、Go ダッシュボード、PDF 生成、バッチ処理を搭載。",
+  "description": "Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)",
+  "description_ja": "",
   "url": "https://github.com/santifer/career-ops",
   "homepage_url": "https://career-ops.org",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "ai",
     "ai-agent",
     "anthropic",
+    "ats",
     "automation",
     "beginner-friendly",
     "career",
@@ -23,17 +25,19 @@
     "golang",
     "good-first-issue",
     "interview-prep",
+    "job-application",
+    "job-hunting",
     "job-search",
     "open-source",
     "resume"
   ],
-  "star_count": 58663,
-  "fork_count": 11507,
+  "star_count": 58841,
+  "fork_count": 11554,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T18:21:18Z",
-  "updated_at": "2026-07-05T20:18:25Z",
-  "pushed_at": "2026-07-05T09:21:38Z",
+  "updated_at": "2026-07-06T21:39:59Z",
+  "pushed_at": "2026-07-06T18:34:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -279,6 +283,10 @@
     {
       "date": "2026-07-05",
       "stars": 58663
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 58841
     }
   ]
 }

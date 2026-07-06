@@ -3,8 +3,8 @@
   "owner": "vaisr",
   "name": "ovggt",
   "full_name": "vaisr/ovggt",
-  "description": "OVGGT is a training-free framework enabling streaming 3D reconstruction from arbitrarily long video with constant memory and compute.",
-  "description_ja": "OVGGTは、一定のメモリと計算リソースで任意の長さの動画からストリーミング3D再構成を可能にするトレーニング不要のフレームワーク。",
+  "description": "[ECCV 2026] OVGGT is a training-free framework enabling streaming 3D reconstruction from arbitrarily long video with constant memory.",
+  "description_ja": "",
   "url": "https://github.com/VAISR/OVGGT",
   "homepage_url": "https://vaisr.github.io/OVGGT",
   "language": "Python",
@@ -12,15 +12,16 @@
   "topics": [
     "3d-reconstruction",
     "computer-vision",
+    "eccv2026",
     "visual-geometry"
   ],
-  "star_count": 43,
+  "star_count": 44,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-04T07:48:08Z",
-  "updated_at": "2026-07-04T08:13:48Z",
-  "pushed_at": "2026-06-15T13:44:08Z",
+  "updated_at": "2026-07-06T12:15:12Z",
+  "pushed_at": "2026-07-06T12:14:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -262,6 +263,10 @@
     {
       "date": "2026-07-05",
       "stars": 43
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 44
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "justlovemaki",
   "name": "aiclient2api",
   "full_name": "justlovemaki/aiclient2api",
-  "description": "Simulates Gemini CLI, Antigravity, Codex, Grok, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!",
-  "description_ja": "Gemini CLI、Antigravity、Codex、Grok、Kiro のクライアントリクエストをシミュレートし、OpenAI API と互換性あり。1日数千件の Gemini モデルリクエストをサポートし、Kiro 内蔵の Claude モデルを無料で利用可能。API 経由で任意のクライアントに簡単接続でき、AI 開発を効率化！",
+  "description": "Self-hosted multi-protocol AI API proxy for Antigravity, Codex, Grok, Kiro, OpenAI, Claude, and custom providers. Supports OpenAI-compatible API, Claude API, Gemini protocol conversion, GPT, Grok Build, Claude Opus, Gemini Pro, Kimi, MiniMax, provider pools, smart routing, and automatic failover.",
+  "description_ja": "",
   "url": "https://github.com/justlovemaki/AIClient2API",
   "homepage_url": "https://aiproxy.justlikemaki.vip",
   "language": "JavaScript",
@@ -13,13 +13,13 @@
     "aicoding",
     "free"
   ],
-  "star_count": 8374,
-  "fork_count": 1329,
+  "star_count": 8387,
+  "fork_count": 1330,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-20T07:05:56Z",
-  "updated_at": "2026-07-05T14:11:09Z",
-  "pushed_at": "2026-07-03T04:35:28Z",
+  "updated_at": "2026-07-06T19:03:56Z",
+  "pushed_at": "2026-07-06T08:51:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -265,6 +265,10 @@
     {
       "date": "2026-07-05",
       "stars": 8374
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 8387
     }
   ]
 }

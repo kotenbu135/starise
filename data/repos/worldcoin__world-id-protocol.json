@@ -3,8 +3,8 @@
   "owner": "worldcoin",
   "name": "world-id-protocol",
   "full_name": "worldcoin/world-id-protocol",
-  "description": "Main components and documentation for the World ID Protocol.",
-  "description_ja": "World ID Protocol の主要コンポーネントとドキュメント",
+  "description": "Core protocol infrastructure and developer documentation for World ID.",
+  "description_ja": "",
   "url": "https://github.com/worldcoin/world-id-protocol",
   "homepage_url": "https://docs.rs/world-id-core",
   "language": "Rust",
@@ -18,8 +18,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-21T16:29:43Z",
-  "updated_at": "2026-07-03T15:54:45Z",
-  "pushed_at": "2026-07-03T16:06:01Z",
+  "updated_at": "2026-07-06T19:42:50Z",
+  "pushed_at": "2026-07-06T20:17:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -260,6 +260,10 @@
     },
     {
       "date": "2026-07-05",
+      "stars": 36
+    },
+    {
+      "date": "2026-07-06",
       "stars": 36
     }
   ]

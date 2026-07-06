@@ -3,7 +3,7 @@
   "owner": "nizos",
   "name": "probity",
   "full_name": "nizos/probity",
-  "description": "Process discipline for AI coding agents",
+  "description": "TDD enforcement and guardrails for Claude Code, Codex, and GitHub Copilot CLI",
   "description_ja": "",
   "url": "https://github.com/nizos/probity",
   "homepage_url": "",
@@ -20,13 +20,13 @@
     "policy",
     "tdd"
   ],
-  "star_count": 79,
-  "fork_count": 8,
+  "star_count": 80,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-18T06:47:34Z",
-  "updated_at": "2026-06-28T12:14:05Z",
-  "pushed_at": "2026-06-28T12:14:02Z",
+  "updated_at": "2026-07-06T14:29:51Z",
+  "pushed_at": "2026-07-06T11:31:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -196,6 +196,10 @@
     {
       "date": "2026-07-05",
       "stars": 79
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 80
     }
   ]
 }

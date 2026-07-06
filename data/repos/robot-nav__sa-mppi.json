@@ -3,25 +3,25 @@
   "owner": "robot-nav",
   "name": "sa-mppi",
   "full_name": "robot-nav/sa-mppi",
-  "description": "用于移动机器人的MPPI 局部控制器。三个分支：main（结合RC-ESDF的SA-MPPI），MPPI_C++（标准）、 OptiIO-MPPI（魔改避障处理）、VI-MPPI（Variational Inference MPPI，变分梯度下降推断+MPPI）",
+  "description": "用于轮/足式机器人的改进MPPI 局部控制器。main（结合RC-ESDF的SA-MPPI：提升动态绕障能力）、MPPI_C++（标准）、 OptiIO-MPPI（魔改避障）、DC-MPPI （Disturbance-Compensated MPPI，扰动补偿型 MPPI：提高湿滑地面以及扰动甲板下的跟踪能力）等",
   "description_ja": "",
   "url": "https://github.com/Robot-Nav/SA-MPPI",
   "homepage_url": "https://blog.csdn.net/qq_56908984/article/details/160439414",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [
+    "dc-mppi",
     "mppi",
     "rc-esdf",
-    "sa-mppi",
-    "vi-mppi"
+    "sa-mppi"
   ],
-  "star_count": 32,
+  "star_count": 33,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T07:48:43Z",
-  "updated_at": "2026-07-05T02:17:52Z",
-  "pushed_at": "2026-07-05T03:09:14Z",
+  "updated_at": "2026-07-06T13:25:54Z",
+  "pushed_at": "2026-07-06T13:25:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +103,10 @@
     {
       "date": "2026-07-05",
       "stars": 32
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 33
     }
   ]
 }

@@ -3,32 +3,40 @@
   "owner": "nodedb-lab",
   "name": "nodedb",
   "full_name": "nodedb-lab/nodedb",
-  "description": "Document, columnar, KV, Graph, Vector, Array - The only all-in-one database that you need.",
+  "description": "The memory \u0026 storage engine for AI agents. Multi-model, edge-to-cloud, PostgreSQL-compatible.",
   "description_ja": "",
   "url": "https://github.com/NodeDB-Lab/nodedb",
   "homepage_url": "https://nodedb.dev",
   "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
+    "agent-memory",
+    "ai-agents",
     "columnar",
+    "crdt",
     "database",
     "distributed",
+    "edge",
+    "embedded",
     "graph",
     "kv-store",
     "local",
+    "local-first",
+    "multi-model",
     "nosql",
+    "offline-first",
     "rag",
     "sql",
     "timeseries",
     "vector"
   ],
-  "star_count": 168,
+  "star_count": 169,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T19:32:29Z",
-  "updated_at": "2026-07-05T19:46:13Z",
-  "pushed_at": "2026-07-05T19:46:10Z",
+  "updated_at": "2026-07-06T21:15:19Z",
+  "pushed_at": "2026-07-06T21:15:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -266,6 +274,10 @@
     {
       "date": "2026-07-05",
       "stars": 168
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 169
     }
   ]
 }

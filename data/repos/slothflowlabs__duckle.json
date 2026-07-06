@@ -3,41 +3,41 @@
   "owner": "slothflowlabs",
   "name": "duckle",
   "full_name": "slothflowlabs/duckle",
-  "description": "Local-first ETL/ELT studio: a drag-and-drop visual pipeline designer that compiles to SQL and runs on DuckDB. Tiny desktop app, no servers, git-friendly workspaces.",
+  "description": "Open-source local-first ETL/ELT studio: visual data pipelines, 290+ connectors, dbt and on-device AI, run on DuckDB.",
   "description_ja": "",
   "url": "https://github.com/slothflowlabs/duckle",
   "homepage_url": "https://duckle.org/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "ai",
+    "cdc",
+    "connectors",
     "data-engineering",
     "data-integration",
     "data-pipeline",
     "data-quality",
+    "dbt",
     "desktop-app",
     "developer-tools",
     "drag-and-drop",
     "duckdb",
     "elt",
-    "embedded",
     "etl",
     "local-first",
-    "nocode",
+    "no-code",
     "open-source",
-    "react",
     "rust",
-    "sql",
-    "tauri",
-    "typescript",
-    "vector-database"
+    "self-hosted",
+    "sql"
   ],
-  "star_count": 719,
-  "fork_count": 47,
+  "star_count": 725,
+  "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-21T06:32:39Z",
-  "updated_at": "2026-07-05T13:43:05Z",
-  "pushed_at": "2026-07-05T06:48:19Z",
+  "updated_at": "2026-07-06T20:15:28Z",
+  "pushed_at": "2026-07-06T12:53:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -187,6 +187,10 @@
     {
       "date": "2026-07-05",
       "stars": 719
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 725
     }
   ]
 }

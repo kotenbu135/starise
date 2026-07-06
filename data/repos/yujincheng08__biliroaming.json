@@ -6,20 +6,20 @@
   "description": "哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.",
   "description_ja": "哔哩漫游：BILIBILIクライアントの番組地域制限を解除するXposedモジュール。その他の小機能も提供。",
   "url": "https://github.com/yujincheng08/BiliRoaming",
-  "homepage_url": "https://modules.lsposed.org/module/me.iacn.biliroaming",
+  "homepage_url": "",
   "language": "Kotlin",
-  "license": "GPL-3.0",
+  "license": "",
   "topics": [
     "bilibili",
     "xposed"
   ],
-  "star_count": 11379,
-  "fork_count": 628,
-  "is_archived": false,
+  "star_count": 11491,
+  "fork_count": 724,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2019-12-15T09:54:31Z",
-  "updated_at": "2026-07-05T16:50:47Z",
-  "pushed_at": "2026-06-18T14:27:16Z",
+  "updated_at": "2026-07-06T21:32:53Z",
+  "pushed_at": "2026-07-06T03:51:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -265,6 +265,10 @@
     {
       "date": "2026-07-05",
       "stars": 11379
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 11491
     }
   ]
 }
