@@ -3,11 +3,11 @@
   "owner": "erdwin90",
   "name": "crypto-bar-mac",
   "full_name": "erdwin90/crypto-bar-mac",
-  "description": "CryptoBar brings real-time cryptocurrency prices to your macOS menu bar using the CoinGecko API. With built-in 24-hour charts, it lets you instantly track market trends without opening a separate app.",
+  "description": "macOS menu bar app that bring real time cryptocurrency prices using the CoinGecko API. Supports Bitcoin, Ethereum, and many other coins",
   "description_ja": "",
   "url": "https://github.com/erdwin90/crypto-bar-mac",
   "homepage_url": "",
-  "language": "Objective-C++",
+  "language": "Objective-C",
   "license": "MIT",
   "topics": [
     "bitcoin",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-22T20:30:03Z",
-  "updated_at": "2026-07-05T16:21:04Z",
-  "pushed_at": "2026-07-04T13:40:25Z",
+  "updated_at": "2026-07-07T18:24:33Z",
+  "pushed_at": "2026-07-07T18:24:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +94,10 @@
     },
     {
       "date": "2026-07-06",
+      "stars": 367
+    },
+    {
+      "date": "2026-07-07",
       "stars": 367
     }
   ]

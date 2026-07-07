@@ -3,8 +3,8 @@
   "owner": "hexagontk",
   "name": "hexagon",
   "full_name": "hexagontk/hexagon",
-  "description": "Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.",
-  "description_ja": "Hexagon は Kotlin で書かれたマイクロサービスツールキットです。クラウドプラットフォーム上で動作するサービス（Web アプリケーションまたは API）の構築を容易にすることを目的としています。",
+  "description": "ARCHIVED REPOSITORY. Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.",
+  "description_ja": "",
   "url": "https://github.com/hexagontk/hexagon",
   "homepage_url": "https://hexagontk.com",
   "language": "Kotlin",
@@ -27,11 +27,11 @@
   ],
   "star_count": 615,
   "fork_count": 101,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2016-04-13T09:35:34Z",
-  "updated_at": "2026-07-06T08:20:57Z",
-  "pushed_at": "2026-05-07T20:43:06Z",
+  "updated_at": "2026-07-07T15:00:58Z",
+  "pushed_at": "2026-07-07T14:59:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -280,6 +280,10 @@
     },
     {
       "date": "2026-07-06",
+      "stars": 615
+    },
+    {
+      "date": "2026-07-07",
       "stars": 615
     }
   ]

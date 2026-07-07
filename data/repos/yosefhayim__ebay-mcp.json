@@ -3,28 +3,28 @@
   "owner": "yosefhayim",
   "name": "ebay-mcp",
   "full_name": "yosefhayim/ebay-mcp",
-  "description": "Open source local MCP server providing AI assistants with comprehensive access to eBay's Sell APIs. Includes 325 tools for inventory management, order fulfillment, marketing campaigns, analytics, developer tools, and more.",
-  "description_ja": "AIアシスタントにeBayの販売APIへの包括的なアクセスを提供するオープンソースのローカルMCPサーバー。在庫管理・注文処理・マーケティングキャンペーン・分析・開発者ツールなど325のツールを収録。",
+  "description": "Local MCP server that exposes eBay Sell APIs to AI assistants with OAuth, tool gating, and stdio/HTTP transports.",
+  "description_ja": "",
   "url": "https://github.com/YosefHayim/ebay-mcp",
   "homepage_url": "https://www.npmjs.com/package/ebay-mcp",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "ai",
+    "ai-agents",
     "api-wrapper",
     "chatgpt",
     "claude",
+    "cursor",
     "ebay",
     "ebay-api",
-    "llm",
-    "local-mcp",
-    "localhost",
+    "local-first",
     "mcp",
     "mcp-server",
     "model-context-protocol",
+    "nodejs",
     "npm",
     "oauth2",
-    "open-source",
+    "tool-gating",
     "typescript"
   ],
   "star_count": 96,
@@ -32,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-09T06:05:17Z",
-  "updated_at": "2026-07-05T18:08:08Z",
-  "pushed_at": "2026-07-04T21:07:38Z",
+  "updated_at": "2026-07-07T12:25:07Z",
+  "pushed_at": "2026-07-07T05:46:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -278,6 +278,10 @@
     },
     {
       "date": "2026-07-06",
+      "stars": 96
+    },
+    {
+      "date": "2026-07-07",
       "stars": 96
     }
   ]

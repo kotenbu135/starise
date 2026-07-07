@@ -11,19 +11,19 @@
   "license": "MIT",
   "topics": [
     "agent-security",
+    "ai-agent-security",
     "ai-security",
-    "auto-fix",
     "claude-code",
-    "cline",
     "codex",
     "cursor",
     "hallucination-detection",
     "llm-security",
     "mcp",
+    "mcp-security",
     "mcp-server",
-    "openai-codex",
     "openclaw",
     "owasp",
+    "package-hallucination",
     "prompt-injection",
     "sast",
     "security",
@@ -31,13 +31,13 @@
     "vulnerability-scanner",
     "windsurf"
   ],
-  "star_count": 113,
+  "star_count": 112,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-04T16:25:16Z",
-  "updated_at": "2026-07-06T12:44:13Z",
-  "pushed_at": "2026-07-06T12:44:08Z",
+  "updated_at": "2026-07-07T12:58:24Z",
+  "pushed_at": "2026-07-07T12:58:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -247,6 +247,10 @@
     {
       "date": "2026-07-06",
       "stars": 113
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 112
     }
   ]
 }

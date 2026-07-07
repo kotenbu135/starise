@@ -6,17 +6,17 @@
   "description": "Multi-backend CLI for executable markdown prompts. Run .md files against Claude, Codex, Gemini, or Copilot.",
   "description_ja": "実行可能なmarkdownプロンプト向けのマルチバックエンドCLI。.mdファイルをClaude、Codex、Gemini、またはCopilotに対して実行できます。",
   "url": "https://github.com/johnlindquist/mdflow",
-  "homepage_url": "",
+  "homepage_url": "https://mdflowdev.vercel.app",
   "language": "TypeScript",
   "license": "",
   "topics": [],
-  "star_count": 593,
-  "fork_count": 41,
+  "star_count": 594,
+  "fork_count": 42,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-06T19:22:12Z",
-  "updated_at": "2026-07-06T01:30:05Z",
-  "pushed_at": "2026-07-06T01:30:08Z",
+  "updated_at": "2026-07-07T21:02:42Z",
+  "pushed_at": "2026-07-07T21:02:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -262,6 +262,10 @@
     {
       "date": "2026-07-06",
       "stars": 593
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 594
     }
   ]
 }

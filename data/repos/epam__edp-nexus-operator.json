@@ -1,0 +1,41 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkzMjQwMzE4Nzg=",
+  "owner": "epam",
+  "name": "edp-nexus-operator",
+  "full_name": "epam/edp-nexus-operator",
+  "description": "It installs the Nexus EDP Component on a cluster to store/manage artifacts of codebases. It also exposes configuration that allows Nexus to perform with other EDP components",
+  "description_ja": "",
+  "url": "https://github.com/epam/edp-nexus-operator",
+  "homepage_url": "https://docs.kuberocketci.io",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "cd",
+    "ci",
+    "cicd",
+    "edp",
+    "k8s",
+    "kubernetes",
+    "kuberocketai",
+    "nexus",
+    "nexus-groovy",
+    "nexus-operator",
+    "nexus-repository",
+    "nexus3",
+    "operator"
+  ],
+  "star_count": 9,
+  "fork_count": 4,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2020-12-24T00:48:24Z",
+  "updated_at": "2026-07-06T08:59:17Z",
+  "pushed_at": "2026-07-04T13:43:23Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-07",
+      "stars": 9
+    }
+  ]
+}

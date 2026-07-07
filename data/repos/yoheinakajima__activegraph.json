@@ -3,19 +3,25 @@
   "owner": "yoheinakajima",
   "name": "activegraph",
   "full_name": "yoheinakajima/activegraph",
-  "description": "",
+  "description": "Event-sourced graph runtime for durable and stateful agents",
   "description_ja": "",
   "url": "https://github.com/yoheinakajima/activegraph",
-  "homepage_url": "",
+  "homepage_url": "https://activegraph.ai",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 376,
+  "topics": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "ai-agents",
+    "event-sourcing"
+  ],
+  "star_count": 377,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-16T05:39:44Z",
-  "updated_at": "2026-07-06T21:03:06Z",
+  "updated_at": "2026-07-07T19:51:00Z",
   "pushed_at": "2026-07-04T21:42:52Z",
   "deleted_at": "",
   "star_history": [
@@ -138,6 +144,10 @@
     {
       "date": "2026-07-06",
       "stars": 376
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 377
     }
   ]
 }

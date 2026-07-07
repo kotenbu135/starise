@@ -3,15 +3,16 @@
   "owner": "linux4life1",
   "name": "front-porch-ai",
   "full_name": "linux4life1/front-porch-ai",
-  "description": "GPL 3 replacement of defunct Backyard AI character creation/chat platform",
+  "description": "Local-first AI character chat \u0026 roleplay for Windows/macOS/Linux — a living Realism Engine, built-in TTS \u0026 image generation, and The Stoop community character hub. Fully offline by default, open-source (AGPL-3.0). A home for Backyard AI refugees.",
   "description_ja": "",
   "url": "https://github.com/linux4life1/front-porch-AI",
-  "homepage_url": "",
+  "homepage_url": "https://frontporchai.app",
   "language": "Dart",
   "license": "AGPL-3.0",
   "topics": [
     "ai",
     "ai-companion",
+    "backyard-ai",
     "character-ai",
     "chatbot",
     "desktop-app",
@@ -26,16 +27,17 @@
     "open-source",
     "privacy",
     "roleplay",
+    "sillytavern",
     "text-generation",
     "windows"
   ],
-  "star_count": 45,
+  "star_count": 46,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T02:01:28Z",
-  "updated_at": "2026-07-05T05:26:18Z",
-  "pushed_at": "2026-07-06T20:38:47Z",
+  "updated_at": "2026-07-07T04:53:40Z",
+  "pushed_at": "2026-07-07T17:50:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -249,6 +251,10 @@
     {
       "date": "2026-07-06",
       "stars": 45
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 46
     }
   ]
 }

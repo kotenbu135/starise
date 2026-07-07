@@ -3,8 +3,8 @@
   "owner": "peteromallet",
   "name": "dataclaw",
   "full_name": "peteromallet/dataclaw",
-  "description": "Agent harness to publish your history from Claude Code et al. as Huggingface datasets. ",
-  "description_ja": "Claude Code などのセッション履歴を Huggingface データセットとして公開するエージェントハーネス。",
+  "description": "Agent harness to publish your agent chat history as Huggingface datasets. ",
+  "description_ja": "",
   "url": "https://github.com/peteromallet/dataclaw",
   "homepage_url": "",
   "language": "Python",
@@ -15,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-24T20:33:55Z",
-  "updated_at": "2026-07-06T18:58:11Z",
+  "updated_at": "2026-07-07T20:13:44Z",
   "pushed_at": "2026-06-05T13:40:36Z",
   "deleted_at": "",
   "star_history": [
@@ -265,6 +265,10 @@
     },
     {
       "date": "2026-07-06",
+      "stars": 2106
+    },
+    {
+      "date": "2026-07-07",
       "stars": 2106
     }
   ]

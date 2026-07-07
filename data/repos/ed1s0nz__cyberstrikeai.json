@@ -3,8 +3,8 @@
   "owner": "ed1s0nz",
   "name": "cyberstrikeai",
   "full_name": "ed1s0nz/cyberstrikeai",
-  "description": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
-  "description_ja": "CyberStrikeAIはGoで構築されたAIネイティブセキュリティテストプラットフォームです。100以上のセキュリティツール、インテリジェントオーケストレーションエンジン、事前定義されたセキュリティロールによるロールベーステスト、専門テストスキルのスキルシステム、包括的なライフサイクル管理機能を統合しています。",
+  "description": "Agentic execution layer for modern cyber security, turning security intent into precise, governed, auditable action through AI agents, MCP-native tools, knowledge, approvals, and attack-chain context.",
+  "description_ja": "",
   "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
   "homepage_url": "",
   "language": "Go",
@@ -20,13 +20,13 @@
     "mcp",
     "pentesting-tools"
   ],
-  "star_count": 4994,
-  "fork_count": 808,
+  "star_count": 5011,
+  "fork_count": 812,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-08T10:41:23Z",
-  "updated_at": "2026-07-06T18:39:36Z",
-  "pushed_at": "2026-07-06T10:03:32Z",
+  "updated_at": "2026-07-07T16:27:35Z",
+  "pushed_at": "2026-07-07T10:24:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -272,6 +272,10 @@
     {
       "date": "2026-07-06",
       "stars": 4994
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 5011
     }
   ]
 }

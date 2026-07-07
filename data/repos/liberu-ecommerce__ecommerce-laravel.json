@@ -3,8 +3,8 @@
   "owner": "liberu-ecommerce",
   "name": "ecommerce-laravel",
   "full_name": "liberu-ecommerce/ecommerce-laravel",
-  "description": "Ecommerce system written in Laravel 12 / PHP 8.5 using Filament 5 and Livewire 4. Online shop system alternative to Magento or WooCommerce or Shopify or CubeCart etc",
-  "description_ja": "Laravel 12 / PHP 8.5 + Filament 5 および Livewire 4 で構築されたEコマースシステム。Magento、WooCommerce、Shopify、CubeCart などの代替オンラインショップシステム。",
+  "description": "Ecommerce system written in Laravel 13 / PHP 8.5 using Filament 5 and Livewire 4. Online shop system alternative to Magento or WooCommerce or Shopify or CubeCart etc",
+  "description_ja": "",
   "url": "https://github.com/liberu-ecommerce/ecommerce-laravel",
   "homepage_url": "https://www.facebook.com/liberusoftware",
   "language": "PHP",
@@ -20,20 +20,19 @@
     "ecommerce-store",
     "ecommerce-website",
     "laravel",
-    "laravel11",
-    "laravel12",
+    "laravel13x",
     "livewire",
     "livewire3",
     "php",
     "php8",
-    "php83"
+    "php85"
   ],
-  "star_count": 173,
+  "star_count": 174,
   "fork_count": 65,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-04T14:39:44Z",
-  "updated_at": "2026-07-05T11:02:54Z",
+  "updated_at": "2026-07-07T19:55:58Z",
   "pushed_at": "2026-06-09T17:17:58Z",
   "deleted_at": "",
   "star_history": [
@@ -280,6 +279,10 @@
     {
       "date": "2026-07-06",
       "stars": 173
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 174
     }
   ]
 }

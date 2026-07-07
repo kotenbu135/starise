@@ -6,7 +6,7 @@
   "description": "The Git client that actually resolves conflicts — 10 deterministic patterns auto-resolve the trivial 95%, full trace on the rest. Native (Tauri 2 + Rust), free, MIT.",
   "description_ja": "",
   "url": "https://github.com/devlint/GitWand",
-  "homepage_url": "https://gitwand.devlint.fr",
+  "homepage_url": "https://gitwand.app",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "vue",
     "webapp"
   ],
-  "star_count": 111,
+  "star_count": 112,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-03T08:11:05Z",
-  "updated_at": "2026-07-06T15:05:30Z",
-  "pushed_at": "2026-07-06T13:21:46Z",
+  "updated_at": "2026-07-07T15:27:08Z",
+  "pushed_at": "2026-07-07T17:29:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -251,6 +251,10 @@
     {
       "date": "2026-07-06",
       "stars": 111
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 112
     }
   ]
 }

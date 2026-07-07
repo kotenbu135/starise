@@ -3,8 +3,8 @@
   "owner": "apache",
   "name": "doris",
   "full_name": "apache/doris",
-  "description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
-  "description_ja": "Apache Dorisは使いやすく高性能な統合型分析データベース。",
+  "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+  "description_ja": "",
   "url": "https://github.com/apache/doris",
   "homepage_url": "https://doris.apache.org",
   "language": "Java",
@@ -14,7 +14,6 @@
     "ai",
     "bigquery",
     "database",
-    "dbt",
     "delta-lake",
     "hudi",
     "iceberg",
@@ -25,17 +24,18 @@
     "query-engine",
     "real-time",
     "redshift",
+    "search",
     "snowflake",
-    "spark",
-    "sql"
+    "sql",
+    "vector"
   ],
-  "star_count": 15582,
-  "fork_count": 3857,
+  "star_count": 15587,
+  "fork_count": 3858,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-08-10T12:13:30Z",
-  "updated_at": "2026-07-06T18:57:01Z",
-  "pushed_at": "2026-07-06T18:13:08Z",
+  "updated_at": "2026-07-07T14:45:34Z",
+  "pushed_at": "2026-07-07T14:42:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -285,6 +285,10 @@
     {
       "date": "2026-07-06",
       "stars": 15582
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 15587
     }
   ]
 }

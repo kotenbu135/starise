@@ -3,7 +3,7 @@
   "owner": "kellyvv",
   "name": "phoneclaw",
   "full_name": "kellyvv/phoneclaw",
-  "description": "Mobile-native local AI Agent framework for phones and edge devices, with an iOS runtime, fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference",
+  "description": "PhoneClaw turns phones into local AI agent runtimes with on-device models, native mobile Skills, LiveLand, and optional Mac Gateway inference.",
   "description_ja": "",
   "url": "https://github.com/kellyvv/PhoneClaw",
   "homepage_url": "https://kellyvv.github.io/PhoneClaw/",
@@ -13,29 +13,31 @@
     "agent-framework",
     "ai-agent",
     "gemma",
-    "healthkit",
     "ios",
-    "ios-agent",
-    "iphone",
-    "iphone-ai-agent",
     "litert",
-    "litert-lm",
     "local-agent",
     "local-ai",
-    "local-llm",
     "mobile-agent",
+    "mobile-agent-framework",
     "mobile-ai",
+    "mobile-ai-agent-framework",
     "ollama",
+    "on-device-agent",
     "on-device-ai",
+    "phone-agent-harness",
+    "phone-agent-loop",
+    "phone-ai-agent",
+    "phone-harness",
+    "phone-loop",
     "swift"
   ],
-  "star_count": 1134,
+  "star_count": 1135,
   "fork_count": 153,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T18:53:07Z",
-  "updated_at": "2026-07-06T20:05:56Z",
-  "pushed_at": "2026-07-02T10:35:49Z",
+  "updated_at": "2026-07-07T17:06:36Z",
+  "pushed_at": "2026-07-07T12:39:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -285,6 +287,10 @@
     {
       "date": "2026-07-06",
       "stars": 1134
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 1135
     }
   ]
 }

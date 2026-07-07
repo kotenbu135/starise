@@ -3,8 +3,8 @@
   "owner": "ronynn",
   "name": "karui",
   "full_name": "ronynn/karui",
-  "description": "A privacy friendly, aesthetically pleasing google tasks alternative to do list app, inspired by system-24 theme and windows mobile design system.",
-  "description_ja": "system-24 テーマと Windows Mobile デザインシステムに着想を得た、プライバシーに配慮した美しい Google Tasks 代替 ToDo アプリ",
+  "description": "A privacy friendly, aesthetically pleasing google tasks alternative to do list app, inspired by system-24 theme and windows mobile design system. It's just a 64kb apk.",
+  "description_ja": "",
   "url": "https://github.com/ronynn/karui",
   "homepage_url": "https://f-droid.org/en/packages/io.github.ronynn.karui/",
   "language": "HTML",
@@ -14,8 +14,10 @@
     "android",
     "android-app",
     "local",
+    "notetaking",
     "privacy",
     "privacy-focused",
+    "productivity",
     "svelte",
     "todo",
     "todolist"
@@ -25,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-09T17:43:49Z",
-  "updated_at": "2026-06-18T09:14:51Z",
-  "pushed_at": "2026-06-10T13:33:43Z",
+  "updated_at": "2026-07-07T10:47:35Z",
+  "pushed_at": "2026-07-07T10:47:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -271,6 +273,10 @@
     },
     {
       "date": "2026-07-06",
+      "stars": 105
+    },
+    {
+      "date": "2026-07-07",
       "stars": 105
     }
   ]

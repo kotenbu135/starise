@@ -1,0 +1,48 @@
+{
+  "repo_id": "R_kgDOSCGBFw",
+  "owner": "baidu-maps",
+  "name": "stability-analysis-agent",
+  "full_name": "baidu-maps/stability-analysis-agent",
+  "description": "  AI Agent for app stability analysis — crash logs, ANR, OOM, freezes \u0026 more. Parses,   symbolizes (addr2line/atos), extracts code context, and generates root-cause fix   suggestions via LangGraph + RAG. iOS/Android/macOS/Linux/Windows. App 稳定性智能分析   Agent",
+  "description_ja": "",
+  "url": "https://github.com/baidu-maps/stability-analysis-agent",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "addr2line",
+    "ai-agent",
+    "ai-tools",
+    "anr",
+    "app-stability",
+    "chromadb",
+    "cplusplus",
+    "crash",
+    "crash-analysis",
+    "crash-log",
+    "debug",
+    "freeze",
+    "langchain",
+    "langgraph",
+    "memory-leak",
+    "oom",
+    "rag",
+    "stability",
+    "stability-ai",
+    "stability-analysis"
+  ],
+  "star_count": 31,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-14T06:21:45Z",
+  "updated_at": "2026-07-07T07:52:07Z",
+  "pushed_at": "2026-06-10T03:38:01Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-07",
+      "stars": 31
+    }
+  ]
+}

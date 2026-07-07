@@ -3,8 +3,8 @@
   "owner": "autowarefoundation",
   "name": "vision_pilot",
   "full_name": "autowarefoundation/vision_pilot",
-  "description": "Free self-driving car stack - fully open-source ADAS and autonomous driving system",
-  "description_ja": "無料の自動運転カースタック — 完全オープンソースのADASおよび自動運転システム。",
+  "description": "Free and fully open-source L2 ADAS stack powered by End-to-End AI technology",
+  "description_ja": "",
   "url": "https://github.com/autowarefoundation/vision_pilot",
   "homepage_url": "https://autoware.org/",
   "language": "C++",
@@ -25,12 +25,12 @@
     "robotics",
     "self-driving-car"
   ],
-  "star_count": 616,
-  "fork_count": 130,
+  "star_count": 622,
+  "fork_count": 132,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-24T17:49:00Z",
-  "updated_at": "2026-07-06T16:35:08Z",
+  "updated_at": "2026-07-07T18:57:41Z",
   "pushed_at": "2026-07-06T17:02:46Z",
   "deleted_at": "",
   "star_history": [
@@ -277,6 +277,10 @@
     {
       "date": "2026-07-06",
       "stars": 616
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 622
     }
   ]
 }

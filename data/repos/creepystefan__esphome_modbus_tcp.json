@@ -9,13 +9,16 @@
   "homepage_url": "",
   "language": "C++",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "esphome",
+    "modbus-tcp"
+  ],
   "star_count": 11,
-  "fork_count": 6,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-14T11:47:57Z",
-  "updated_at": "2026-06-24T08:20:52Z",
+  "updated_at": "2026-07-07T20:51:54Z",
   "pushed_at": "2026-06-19T08:27:55Z",
   "deleted_at": "",
   "star_history": [
@@ -261,6 +264,10 @@
     },
     {
       "date": "2026-07-06",
+      "stars": 11
+    },
+    {
+      "date": "2026-07-07",
       "stars": 11
     }
   ]

@@ -3,20 +3,33 @@
   "owner": "superdesigndev",
   "name": "superdesign-skill",
   "full_name": "superdesigndev/superdesign-skill",
-  "description": "",
+  "description": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
   "description_ja": "",
   "url": "https://github.com/superdesigndev/superdesign-skill",
-  "homepage_url": "",
+  "homepage_url": "https://superdesign.dev",
   "language": "",
-  "license": "",
-  "topics": [],
+  "license": "MIT",
+  "topics": [
+    "agent-skills",
+    "ai-design",
+    "claude-code",
+    "claude-skill",
+    "claude-skills",
+    "coding-agent",
+    "cursor",
+    "design-agent",
+    "frontend",
+    "superdesign",
+    "ui-design",
+    "ux-design"
+  ],
   "star_count": 315,
-  "fork_count": 16,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-21T20:26:04Z",
-  "updated_at": "2026-07-06T16:54:20Z",
-  "pushed_at": "2026-06-30T06:02:43Z",
+  "updated_at": "2026-07-07T05:52:30Z",
+  "pushed_at": "2026-07-07T05:52:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -229,6 +242,10 @@
     },
     {
       "date": "2026-07-06",
+      "stars": 315
+    },
+    {
+      "date": "2026-07-07",
       "stars": 315
     }
   ]

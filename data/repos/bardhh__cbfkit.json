@@ -3,20 +3,32 @@
   "owner": "bardhh",
   "name": "cbfkit",
   "full_name": "bardhh/cbfkit",
-  "description": "Toolbox for Robotics Control",
+  "description": "JAX toolbox for safe robotics control: Control Barrier Function (CBF) safety filters, MPPI planning, and a drop-in safe-RL layer.",
   "description_ja": "",
   "url": "https://github.com/bardhh/cbfkit",
   "homepage_url": "",
   "language": "Python",
   "license": "BSD-3-Clause",
-  "topics": [],
+  "topics": [
+    "autonomous-systems",
+    "control-barrier-functions",
+    "control-systems",
+    "jax",
+    "model-predictive-control",
+    "optimal-control",
+    "reinforcement-learning",
+    "robotics",
+    "safe-control",
+    "safe-reinforcement-learning",
+    "safety"
+  ],
   "star_count": 99,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-01T00:04:49Z",
-  "updated_at": "2026-06-30T10:36:25Z",
-  "pushed_at": "2026-06-25T13:23:33Z",
+  "updated_at": "2026-07-07T14:45:54Z",
+  "pushed_at": "2026-07-07T18:02:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +57,10 @@
     },
     {
       "date": "2026-07-06",
+      "stars": 99
+    },
+    {
+      "date": "2026-07-07",
       "stars": 99
     }
   ]

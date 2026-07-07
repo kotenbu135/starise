@@ -3,23 +3,26 @@
   "owner": "nicoverbruggen",
   "name": "kobopatch-webui",
   "full_name": "nicoverbruggen/kobopatch-webui",
-  "description": "Simple Web UI for patching your Kobo. Easily install NickelMenu (with or without preset) or patch your software w/ custom patches.",
+  "description": "Customise your Kobo from the browser. Easily install NickelMenu, NickelClock, KOReader, fonts and tweaks, or apply custom kobopatch patches.",
   "description_ja": "",
   "url": "https://github.com/nicoverbruggen/kobopatch-webui",
   "homepage_url": "https://kp.nicoverbruggen.be",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "cadmus",
     "kobo",
     "kobopatch",
+    "koreader",
+    "nickelclock",
     "webui"
   ],
-  "star_count": 79,
+  "star_count": 80,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T22:27:04Z",
-  "updated_at": "2026-07-06T14:55:50Z",
+  "updated_at": "2026-07-07T10:37:05Z",
   "pushed_at": "2026-07-05T16:12:13Z",
   "deleted_at": "",
   "star_history": [
@@ -218,6 +221,10 @@
     {
       "date": "2026-07-06",
       "stars": 79
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 80
     }
   ]
 }

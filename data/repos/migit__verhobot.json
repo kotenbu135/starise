@@ -3,7 +3,7 @@
   "owner": "migit",
   "name": "verhobot",
   "full_name": "migit/verhobot",
-  "description": "VerhoBot is a compact curtain-moving robot designed to automatically close your curtains when you need darkness and open them again when it is time to wake up. The goal is simple: improve sleep quality while letting natural sunlight become part of your morning routine.  Built around the ESP32 platform.",
+  "description": "VerhoBot is a compact curtain-moving robot designed to automatically close your curtains when you need darkness and open them again when it is time to wake up, no rope,no pulley,deploy and let the bot move your curtain. The goal is simple: improve sleep quality while letting natural sunlight become part of your morning routine.",
   "description_ja": "",
   "url": "https://github.com/migit/verhoBot",
   "homepage_url": "https://myworks.gt.tc/verhobot",
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-01T08:53:34Z",
-  "updated_at": "2026-07-06T19:44:18Z",
-  "pushed_at": "2026-07-06T13:53:12Z",
+  "updated_at": "2026-07-07T17:39:10Z",
+  "pushed_at": "2026-07-07T17:39:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -80,6 +80,10 @@
     },
     {
       "date": "2026-07-06",
+      "stars": 50
+    },
+    {
+      "date": "2026-07-07",
       "stars": 50
     }
   ]

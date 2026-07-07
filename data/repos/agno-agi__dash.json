@@ -6,17 +6,21 @@
   "description": "A self-learning data agent built with systems engineering principles. It grounds answers in 6 layers of context and improves with every query.",
   "description_ja": "システムエンジニアリング原則で構築された自己学習型データエージェント。6層のコンテキストで回答を裏付け、クエリのたびに改善",
   "url": "https://github.com/agno-agi/dash",
-  "homepage_url": "",
+  "homepage_url": "https://agno.com",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "agno",
+    "ai-agents",
+    "text-to-sql"
+  ],
   "star_count": 2101,
   "fork_count": 239,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-30T13:54:17Z",
-  "updated_at": "2026-07-04T08:04:42Z",
-  "pushed_at": "2026-04-08T11:50:51Z",
+  "updated_at": "2026-07-07T12:32:59Z",
+  "pushed_at": "2026-07-07T12:21:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -265,6 +269,10 @@
     },
     {
       "date": "2026-07-06",
+      "stars": 2101
+    },
+    {
+      "date": "2026-07-07",
       "stars": 2101
     }
   ]

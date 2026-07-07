@@ -3,19 +3,19 @@
   "owner": "nova452",
   "name": "comfyui-conditioning-rebalance",
   "full_name": "nova452/comfyui-conditioning-rebalance",
-  "description": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+  "description": "Conditioning optimizer nodes offering IP-Adapter-like features for Krea 2 and Ideogram 4 image reference editing along with other conditioning nodes enhancing the generation experience.",
   "description_ja": "",
   "url": "https://github.com/nova452/ComfyUI-Conditioning-Rebalance",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 401,
-  "fork_count": 46,
+  "star_count": 408,
+  "fork_count": 49,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-23T12:17:48Z",
-  "updated_at": "2026-07-06T15:26:26Z",
+  "updated_at": "2026-07-07T21:16:20Z",
   "pushed_at": "2026-06-30T12:33:23Z",
   "deleted_at": "",
   "star_history": [
@@ -54,6 +54,10 @@
     {
       "date": "2026-07-06",
       "stars": 401
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 408
     }
   ]
 }
