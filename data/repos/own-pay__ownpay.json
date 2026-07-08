@@ -3,33 +3,33 @@
   "owner": "own-pay",
   "name": "ownpay",
   "full_name": "own-pay/ownpay",
-  "description": "Self-hosted, open-source payment gateway automation platform. Manage brands, gateways, and transactions on your own infrastructure.",
+  "description": "Self-hosted, open-source payment gateway. Manage brands, gateways, and transactions on your own infrastructure.",
   "description_ja": "",
   "url": "https://github.com/own-pay/OwnPay",
   "homepage_url": "https://ownpay.org",
   "language": "PHP",
   "license": "AGPL-3.0",
   "topics": [
-    "automation",
     "docker",
-    "express",
     "fintech",
-    "kubernetes",
+    "kubernets",
     "open-source",
+    "open-source-project",
     "own-pay",
     "ownpay",
     "payment-automation",
     "payment-gateway",
     "php",
-    "security-first",
-    "self-hosted"
+    "self-hosted",
+    "self-hosted-payment-gateway",
+    "self-hosting"
   ],
   "star_count": 97,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-24T16:45:48Z",
-  "updated_at": "2026-07-07T08:49:02Z",
+  "updated_at": "2026-07-08T15:26:04Z",
   "pushed_at": "2026-07-07T08:52:28Z",
   "deleted_at": "",
   "star_history": [
@@ -171,6 +171,10 @@
     },
     {
       "date": "2026-07-07",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-08",
       "stars": 97
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "indravoyager",
   "name": "cypy",
   "full_name": "indravoyager/cypy",
-  "description": "cypy ✦ Automated manga translation CLI.",
+  "description": "cypy ✦ Automated manga translation GUI \u0026 CLI.",
   "description_ja": "",
   "url": "https://github.com/indravoyager/cypy",
   "homepage_url": "",
@@ -12,18 +12,19 @@
   "topics": [
     "cli-app",
     "gemini-api",
+    "gui-application",
     "manga",
     "python",
     "translation",
     "yolov8"
   ],
-  "star_count": 79,
-  "fork_count": 20,
+  "star_count": 81,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-23T14:54:55Z",
-  "updated_at": "2026-07-07T19:50:15Z",
-  "pushed_at": "2026-07-07T15:11:32Z",
+  "updated_at": "2026-07-08T19:16:35Z",
+  "pushed_at": "2026-07-08T19:31:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +46,10 @@
     {
       "date": "2026-07-07",
       "stars": 79
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 81
     }
   ]
 }

@@ -7,7 +7,7 @@
   "description_ja": "Jetpack Compose Agent Skill — 実際のandroidx/androidxソースコードのレシートを伴う、AI駆動のコーディングガイダンス。Claude Code、Codex CLI、Gemini CLI、Cursor、Copilot、Windsurfなどで利用可能。",
   "url": "https://github.com/aldefy/compose-skill",
   "homepage_url": "",
-  "language": "Shell",
+  "language": "Kotlin",
   "license": "NOASSERTION",
   "topics": [
     "agent-skill",
@@ -28,13 +28,13 @@
     "llm",
     "material3"
   ],
-  "star_count": 526,
+  "star_count": 528,
   "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T06:00:36Z",
-  "updated_at": "2026-07-05T15:39:42Z",
-  "pushed_at": "2026-05-03T10:14:16Z",
+  "updated_at": "2026-07-08T13:16:39Z",
+  "pushed_at": "2026-07-08T13:15:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -288,6 +288,10 @@
     {
       "date": "2026-07-07",
       "stars": 526
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 528
     }
   ]
 }

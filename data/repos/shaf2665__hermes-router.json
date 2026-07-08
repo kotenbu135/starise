@@ -3,7 +3,7 @@
   "owner": "shaf2665",
   "name": "hermes-router",
   "full_name": "shaf2665/hermes-router",
-  "description": "Free-tier AI load balancer — auto-rotates 28+ keys across 9 providers (Gemini, Groq, Mistral \u0026 more). OpenAI-compatible drop-in. Works with any agent framework.",
+  "description": "OpenAI/Anthropic-compatible AI router that keeps apps online with provider failover, key rotation, caching, analytics, and local-model fallback.",
   "description_ja": "",
   "url": "https://github.com/Shaf2665/Hermes-router",
   "homepage_url": "https://hermes-router.vercel.app",
@@ -20,13 +20,13 @@
     "openai",
     "python"
   ],
-  "star_count": 49,
+  "star_count": 50,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-05T02:46:34Z",
-  "updated_at": "2026-07-07T15:12:45Z",
-  "pushed_at": "2026-07-06T03:37:16Z",
+  "updated_at": "2026-07-08T15:30:22Z",
+  "pushed_at": "2026-07-08T15:29:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +36,10 @@
     {
       "date": "2026-07-07",
       "stars": 49
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 50
     }
   ]
 }

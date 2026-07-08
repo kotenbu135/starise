@@ -3,8 +3,8 @@
   "owner": "facebook",
   "name": "quicklayout",
   "full_name": "facebook/quicklayout",
-  "description": "QuickLayout is a custom-built, declarative layout library for iOS designed to work seamlessly with UIKit. ",
-  "description_ja": "QuickLayoutはiOS向けのカスタムビルドされた宣言的レイアウトライブラリで、UIKitとシームレスに連携するよう設計されています。",
+  "description": "QuickLayout is a production-ready declarative layout library for UIKit. Built for large-scale applications, it combines expressive Swift APIs with a lightweight layout engine to deliver high performance reliability, and long-term maintainability.",
+  "description_ja": "",
   "url": "https://github.com/facebook/QuickLayout",
   "homepage_url": "https://facebook.github.io/QuickLayout",
   "language": "Swift",
@@ -26,7 +26,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-14T21:51:57Z",
-  "updated_at": "2026-07-07T20:38:10Z",
+  "updated_at": "2026-07-08T14:46:01Z",
   "pushed_at": "2026-06-30T16:33:27Z",
   "deleted_at": "",
   "star_history": [
@@ -280,6 +280,10 @@
     },
     {
       "date": "2026-07-07",
+      "stars": 347
+    },
+    {
+      "date": "2026-07-08",
       "stars": 347
     }
   ]

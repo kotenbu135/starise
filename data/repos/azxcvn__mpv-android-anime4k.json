@@ -3,8 +3,8 @@
   "owner": "azxcvn",
   "name": "mpv-android-anime4k",
   "full_name": "azxcvn/mpv-android-anime4k",
-  "description": "这是一个基于MPV播放器，支持Anime4K超分功能等多功能的安卓本地播放器，更多信息请看readme文件。This is a multifunctional Android local player based on MPV player, supporting Anime4K upscaling and more. For more information, please see the readme file.",
-  "description_ja": "MPV プレーヤーをベースに Anime4K アップスケーリングなど多機能を備えた Android ローカルプレーヤー。詳細は README をご覧ください。",
+  "description": "一个基于MPV内核的安卓视频播放器，支持Anime4K超分以及其他多项功能，更多信息请查看README文件。An Android video player based on the MPV core, supporting Anime4K upscaling and various other features. For more information, please refer to the README file.",
+  "description_ja": "",
   "url": "https://github.com/azxcvn/mpv-android-anime4k",
   "homepage_url": "",
   "language": "Kotlin",
@@ -15,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-25T14:17:12Z",
-  "updated_at": "2026-07-07T12:13:15Z",
+  "updated_at": "2026-07-08T17:12:30Z",
   "pushed_at": "2026-06-27T03:51:58Z",
   "deleted_at": "",
   "star_history": [
@@ -269,6 +269,10 @@
     },
     {
       "date": "2026-07-07",
+      "stars": 557
+    },
+    {
+      "date": "2026-07-08",
       "stars": 557
     }
   ]

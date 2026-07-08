@@ -3,7 +3,7 @@
   "owner": "aneeshtigga",
   "name": "immich-webos",
   "full_name": "aneeshtigga/immich-webos",
-  "description": "Unofficial webOS TV client for your self-hosted Immich photo and video server",
+  "description": "WebOS TV client for your self-hosted Immich photo and video server",
   "description_ja": "",
   "url": "https://github.com/aneeshtigga/immich-webos",
   "homepage_url": "",
@@ -13,7 +13,7 @@
     "immich",
     "lg-tv",
     "photos",
-    "preact",
+    "preactjs",
     "self-hosted",
     "smart-tv",
     "tv-app",
@@ -21,13 +21,13 @@
     "vite",
     "webos"
   ],
-  "star_count": 11,
+  "star_count": 17,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-23T06:39:16Z",
-  "updated_at": "2026-07-04T11:25:08Z",
-  "pushed_at": "2026-07-04T14:45:19Z",
+  "updated_at": "2026-07-08T16:33:04Z",
+  "pushed_at": "2026-07-08T11:09:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +57,10 @@
     {
       "date": "2026-07-07",
       "stars": 11
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 17
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild",
   "description_ja": "あらゆるモデル。あらゆるハードウェア。妥協ゼロ。@ziglang / @openxla / MLIR / @bazelbuildで構築。",
   "url": "https://github.com/zml/zml",
-  "homepage_url": "https://docs.zml.ai",
+  "homepage_url": "https://zml.ai",
   "language": "Zig",
   "license": "Apache-2.0",
   "topics": [
@@ -17,13 +17,13 @@
     "xla",
     "zig"
   ],
-  "star_count": 3728,
-  "fork_count": 161,
+  "star_count": 3777,
+  "fork_count": 165,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-17T09:13:32Z",
-  "updated_at": "2026-07-07T17:25:27Z",
-  "pushed_at": "2026-07-07T18:39:30Z",
+  "updated_at": "2026-07-08T21:12:26Z",
+  "pushed_at": "2026-07-08T17:26:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -273,6 +273,10 @@
     {
       "date": "2026-07-07",
       "stars": 3728
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 3777
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "Abstraction layer over YouTube's internal API",
   "description_ja": "YouTubeの内部APIを抽象化するレイヤー",
   "url": "https://github.com/Tyrrrz/YoutubeExplode",
-  "homepage_url": "",
+  "homepage_url": "https://nuget.org/packages/YoutubeExplode",
   "language": "C#",
   "license": "MIT",
   "topics": [
@@ -19,12 +19,12 @@
     "reverse-engineering",
     "youtube"
   ],
-  "star_count": 3685,
-  "fork_count": 586,
+  "star_count": 3687,
+  "fork_count": 587,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-08-09T09:59:54Z",
-  "updated_at": "2026-07-06T15:24:36Z",
+  "updated_at": "2026-07-08T17:21:07Z",
   "pushed_at": "2026-07-04T16:08:35Z",
   "deleted_at": "",
   "star_history": [
@@ -279,6 +279,10 @@
     {
       "date": "2026-07-07",
       "stars": 3685
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 3687
     }
   ]
 }

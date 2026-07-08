@@ -3,7 +3,7 @@
   "owner": "mattral",
   "name": "rag-multimodal-financial-doc-analysis-and-recall",
   "full_name": "mattral/rag-multimodal-financial-doc-analysis-and-recall",
-  "description": "World-class multimodal RAG system for financial document analysis. Built to production standards: async, observable, secure, multi-tenant, CI-gated.",
+  "description": "Production-grade multimodal RAG for financial document intelligence. Chart understanding · hybrid retrieval · numeric guardrails · multi-tenancy · full observability.",
   "description_ja": "",
   "url": "https://github.com/Mattral/RAG-Multimodal-Financial-Doc-Analysis-and-Recall",
   "homepage_url": "",
@@ -29,7 +29,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-01T04:46:37Z",
-  "updated_at": "2026-07-07T12:07:35Z",
+  "updated_at": "2026-07-08T12:15:29Z",
   "pushed_at": "2026-07-07T12:07:16Z",
   "deleted_at": "",
   "star_history": [
@@ -143,6 +143,10 @@
     },
     {
       "date": "2026-07-07",
+      "stars": 68
+    },
+    {
+      "date": "2026-07-08",
       "stars": 68
     }
   ]

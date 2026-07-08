@@ -3,25 +3,40 @@
   "owner": "chengzuopeng",
   "name": "stock-sdk",
   "full_name": "chengzuopeng/stock-sdk",
-  "description": "为前端设计的无需 Python、无需后端服务的获取股票数据 JavaScript SDK。",
+  "description": "为前端设计的无需 Python、无需后端服务、零依赖的获取股票数据 JavaScript SDK。",
   "description_ja": "",
   "url": "https://github.com/chengzuopeng/stock-sdk",
   "homepage_url": "https://chengzuopeng.github.io/stock-sdk/",
   "language": "TypeScript",
   "license": "ISC",
   "topics": [
+    "a-share",
+    "ai-agent",
+    "akshare",
+    "finance",
+    "financial-data",
+    "fintech",
     "free-stock-market-api",
-    "sharesansar",
+    "mcp",
+    "nodejs",
+    "quantitative-finance",
+    "sdk",
+    "stock",
+    "stock-data",
+    "stock-market",
     "stock-prices",
     "stocks",
-    "stocks-api"
+    "stocks-api",
+    "technical-analysis",
+    "trading",
+    "typescript"
   ],
-  "star_count": 1628,
-  "fork_count": 144,
+  "star_count": 1632,
+  "fork_count": 145,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-12T10:30:17Z",
-  "updated_at": "2026-07-07T16:41:23Z",
+  "updated_at": "2026-07-08T16:58:54Z",
   "pushed_at": "2026-07-07T03:19:48Z",
   "deleted_at": "",
   "star_history": [
@@ -204,6 +219,10 @@
     {
       "date": "2026-07-07",
       "stars": 1628
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 1632
     }
   ]
 }

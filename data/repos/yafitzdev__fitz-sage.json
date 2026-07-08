@@ -3,8 +3,8 @@
   "owner": "yafitzdev",
   "name": "fitz-sage",
   "full_name": "yafitzdev/fitz-sage",
-  "description": "The RAG library that says \"I don't know\" instead of hallucinating.",
-  "description_ja": "ハルシネーションの代わりに「わかりません」と答える RAG ライブラリ",
+  "description": "Fully local governed RAG for code, documents, and tables. No LLM API key. No GPU. No infrastructure.",
+  "description_ja": "",
   "url": "https://github.com/yafitzdev/fitz-sage",
   "homepage_url": "",
   "language": "Python",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-08T21:46:59Z",
-  "updated_at": "2026-06-01T18:51:49Z",
-  "pushed_at": "2026-06-01T20:00:06Z",
+  "updated_at": "2026-07-08T14:45:37Z",
+  "pushed_at": "2026-07-08T14:43:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -278,6 +278,10 @@
     },
     {
       "date": "2026-07-07",
+      "stars": 40
+    },
+    {
+      "date": "2026-07-08",
       "stars": 40
     }
   ]

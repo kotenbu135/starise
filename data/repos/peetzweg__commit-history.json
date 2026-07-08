@@ -3,20 +3,33 @@
   "owner": "peetzweg",
   "name": "commit-history",
   "full_name": "peetzweg/commit-history",
-  "description": "",
+  "description": "Watch any GitHub user's commits stack up across their whole coding career as one rising chart — like star-history, but for commits. Compare users, embed a live SVG in your README.",
   "description_ja": "",
   "url": "https://github.com/peetzweg/commit-history",
   "homepage_url": "https://commit-history.com/",
   "language": "TypeScript",
   "license": "",
-  "topics": [],
-  "star_count": 77,
+  "topics": [
+    "commit-history",
+    "contributions",
+    "data-visualization",
+    "developer-tools",
+    "github",
+    "github-api",
+    "github-profile",
+    "github-stats",
+    "react",
+    "readme",
+    "svg",
+    "tanstack-start"
+  ],
+  "star_count": 81,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-26T15:28:24Z",
-  "updated_at": "2026-07-07T17:27:52Z",
-  "pushed_at": "2026-07-07T17:27:47Z",
+  "updated_at": "2026-07-08T20:06:11Z",
+  "pushed_at": "2026-07-08T20:41:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +51,10 @@
     {
       "date": "2026-07-07",
       "stars": 77
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 81
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "traceopt-ai",
   "name": "traceml",
   "full_name": "traceopt-ai/traceml",
-  "description": "A lightweight runtime health check for PyTorch training runs.",
+  "description": "Open-source observability for PyTorch training runs.",
   "description_ja": "",
   "url": "https://github.com/traceopt-ai/traceml",
   "homepage_url": "https://traceopt.ai/",
@@ -30,13 +30,13 @@
     "slurm",
     "training-performance"
   ],
-  "star_count": 174,
+  "star_count": 175,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-17T12:46:51Z",
-  "updated_at": "2026-07-07T15:46:45Z",
-  "pushed_at": "2026-07-07T22:11:45Z",
+  "updated_at": "2026-07-08T17:51:20Z",
+  "pushed_at": "2026-07-08T20:13:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -286,6 +286,10 @@
     {
       "date": "2026-07-07",
       "stars": 174
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 175
     }
   ]
 }

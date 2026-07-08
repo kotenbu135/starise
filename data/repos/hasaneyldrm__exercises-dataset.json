@@ -3,24 +3,31 @@
   "owner": "hasaneyldrm",
   "name": "exercises-dataset",
   "full_name": "hasaneyldrm/exercises-dataset",
-  "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+  "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group \u0026 equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
   "description_ja": "",
   "url": "https://github.com/hasaneyldrm/exercises-dataset",
   "homepage_url": "",
   "language": "HTML",
-  "license": "",
+  "license": "NOASSERTION",
   "topics": [
-    "excercises",
+    "dataset",
+    "exercise-database",
+    "exercises",
     "fitness",
-    "fitness-app"
+    "fitness-app",
+    "gym",
+    "json",
+    "logpress",
+    "react-native",
+    "workout"
   ],
-  "star_count": 10679,
-  "fork_count": 1199,
+  "star_count": 11027,
+  "fork_count": 1247,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T03:07:18Z",
-  "updated_at": "2026-07-07T21:14:49Z",
-  "pushed_at": "2026-06-30T10:19:40Z",
+  "updated_at": "2026-07-08T20:17:26Z",
+  "pushed_at": "2026-07-08T15:40:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +65,10 @@
     {
       "date": "2026-07-07",
       "stars": 10679
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 11027
     }
   ]
 }

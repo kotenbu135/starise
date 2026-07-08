@@ -3,20 +3,20 @@
   "owner": "bluechips-zhao",
   "name": "av-evasion-skills",
   "full_name": "bluechips-zhao/av-evasion-skills",
-  "description": "AI AV Evasion Skill v4.0 是一套完整的 Shellcode 免杀方案，采用模块践踏（Module Stomping）、IPv4 混淆、XOR 加密、HeapAlloc 缓冲以及纤程（Fiber）执行等技术，从静态和行为两个层面绕过主流杀软和 EDR",
+  "description": "AI AV Evasion Skill v4.1 是一套完整的 Shellcode 免杀方案，采用模块践踏（Module Stomping）、IPv4 混淆、XOR 加密、HeapAlloc 缓冲以及纤程（Fiber）执行等技术，从静态和行为两个层面绕过主流杀软和 EDR",
   "description_ja": "",
   "url": "https://github.com/bluechips-zhao/av-evasion-skills",
   "homepage_url": "",
   "language": "C",
   "license": "",
   "topics": [],
-  "star_count": 76,
-  "fork_count": 12,
+  "star_count": 82,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-24T07:49:56Z",
-  "updated_at": "2026-07-07T07:31:39Z",
-  "pushed_at": "2026-07-07T07:33:30Z",
+  "updated_at": "2026-07-08T19:55:36Z",
+  "pushed_at": "2026-07-08T01:53:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-07-07",
       "stars": 76
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 82
     }
   ]
 }
