@@ -3,20 +3,33 @@
   "owner": "yoroin",
   "name": "globalrefresh-pip",
   "full_name": "yoroin/globalrefresh-pip",
-  "description": "全局高刷悬浮窗：基于 CaiWanFeng/PiP 继续开发，增加后台强保活、悬浮窗高度调节（可完全隐藏）、iOS 26 液态玻璃适配、低版本 iOS 兼容处理和调试日志功能",
+  "description": "全局高刷悬浮窗：基于 iOS 画中画的悬浮窗工具，可辅助解锁 ProMotion 120Hz 表现，支持自定义悬浮窗大小（可完全隐藏）和后台保活。/ iOS PiP-based floating window that helps unlock ProMotion 120Hz behavior, with custom-sized overlays and background keep-alive.",
   "description_ja": "",
   "url": "https://github.com/Yoroin/GlobalRefresh-PiP",
   "homepage_url": "",
   "language": "Swift",
   "license": "",
-  "topics": [],
-  "star_count": 102,
+  "topics": [
+    "120hz",
+    "avkit",
+    "avpictureinpicturecontroller",
+    "background-keepalive",
+    "cadisplaylink",
+    "custom-overlay",
+    "ios",
+    "ios-pip",
+    "picture-in-picture",
+    "pip",
+    "promotion",
+    "swift"
+  ],
+  "star_count": 107,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-05T19:51:35Z",
-  "updated_at": "2026-07-08T17:15:08Z",
-  "pushed_at": "2026-07-08T07:47:12Z",
+  "updated_at": "2026-07-09T15:15:32Z",
+  "pushed_at": "2026-07-09T08:29:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +103,10 @@
     {
       "date": "2026-07-08",
       "stars": 102
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 107
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, INSPYRENET, BEN, BEN2, BiRefNet, SDMatte, SAM, SAM2, SAM3 and GroundingDINO.",
   "description_ja": "",
   "url": "https://github.com/1038lab/ComfyUI-RMBG",
-  "homepage_url": "https://github.com/1038lab/ComfyUI-RMBG",
+  "homepage_url": "https://1038lab.github.io/ComfyUI-RMBG/",
   "language": "Python",
   "license": "GPL-3.0",
   "topics": [
@@ -18,13 +18,13 @@
     "segmentation",
     "stable-diffusion"
   ],
-  "star_count": 2012,
+  "star_count": 2014,
   "fork_count": 126,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-14T17:48:27Z",
-  "updated_at": "2026-07-08T09:40:17Z",
-  "pushed_at": "2026-02-03T17:58:21Z",
+  "updated_at": "2026-07-09T16:12:44Z",
+  "pushed_at": "2026-07-09T09:39:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -238,6 +238,10 @@
     {
       "date": "2026-07-08",
       "stars": 2012
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 2014
     }
   ]
 }

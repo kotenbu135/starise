@@ -3,7 +3,7 @@
   "owner": "paradedb",
   "name": "paradedb",
   "full_name": "paradedb/paradedb",
-  "description": "Search without a second system. One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.",
+  "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.",
   "description_ja": "",
   "url": "https://github.com/paradedb/paradedb",
   "homepage_url": "https://paradedb.com",
@@ -25,13 +25,13 @@
     "sparse-vector",
     "sql"
   ],
-  "star_count": 9009,
-  "fork_count": 414,
+  "star_count": 9016,
+  "fork_count": 416,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-06-30T20:21:47Z",
-  "updated_at": "2026-07-08T19:23:36Z",
-  "pushed_at": "2026-07-08T20:50:18Z",
+  "updated_at": "2026-07-09T21:39:20Z",
+  "pushed_at": "2026-07-09T21:41:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -289,6 +289,10 @@
     {
       "date": "2026-07-08",
       "stars": 9009
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 9016
     }
   ]
 }

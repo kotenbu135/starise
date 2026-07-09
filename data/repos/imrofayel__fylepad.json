@@ -3,11 +3,11 @@
   "owner": "imrofayel",
   "name": "fylepad",
   "full_name": "imrofayel/fylepad",
-  "description": "A cross platform notepad for effortless note-taking — featuring rich text editing, multiple tabs, cloud sync, and built-in support for Mermaid/PlantUML diagrams, tables, code blocks, and more.",
-  "description_ja": "リッチテキスト編集、複数タブ、クラウド同期、Mermaid/PlantUML ダイアグラム・テーブル・コードブロックのビルトインサポートなどを備えた、クロスプラットフォームのノート作成ツール。",
+  "description": "Thoughtful, secure, and intelligent writing",
+  "description_ja": "",
   "url": "https://github.com/imrofayel/fylepad",
-  "homepage_url": "https://fylepad.vercel.app",
-  "language": "Vue",
+  "homepage_url": "https://fylepad.app",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "markdown",
@@ -21,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-12T12:55:17Z",
-  "updated_at": "2026-07-06T08:27:00Z",
-  "pushed_at": "2026-04-28T18:37:31Z",
+  "updated_at": "2026-07-09T07:07:32Z",
+  "pushed_at": "2026-07-09T07:21:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -279,6 +279,10 @@
     },
     {
       "date": "2026-07-08",
+      "stars": 298
+    },
+    {
+      "date": "2026-07-09",
       "stars": 298
     }
   ]

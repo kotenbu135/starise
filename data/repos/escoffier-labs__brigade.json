@@ -3,7 +3,7 @@
   "owner": "escoffier-labs",
   "name": "brigade",
   "full_name": "escoffier-labs/brigade",
-  "description": "One local source for the MCP servers, tools, and memory your AI coding agents share, synced into each tool's native config with a review gate and a receipt for every change. No daemon, no lock-in.",
+  "description": "Your agents run loops. Brigade keeps the receipts. Local control plane: share MCP, tools, and memory across harnesses; prove with file receipts; improve only from real exit codes. No daemon, no lock-in.",
   "description_ja": "",
   "url": "https://github.com/escoffier-labs/brigade",
   "homepage_url": "https://brigade.tools",
@@ -12,32 +12,32 @@
   "topics": [
     "agent-handoffs",
     "agent-memory",
-    "agent-workflows",
+    "agentpantry",
     "agents-md",
     "ai-agents",
-    "ai-memory",
     "brigade-cli",
     "claude-code",
     "codex",
     "developer-tools",
-    "guardrails",
+    "graphtrail",
+    "grok",
     "hermes",
     "local-first",
     "mcp",
-    "mcp-config",
     "mcp-sync",
+    "miseledger",
     "model-context-protocol",
     "multi-agent",
     "openclaw",
     "opencode"
   ],
-  "star_count": 50,
-  "fork_count": 2,
+  "star_count": 56,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-13T21:55:58Z",
-  "updated_at": "2026-07-08T19:48:39Z",
-  "pushed_at": "2026-07-08T20:13:43Z",
+  "updated_at": "2026-07-09T20:39:26Z",
+  "pushed_at": "2026-07-09T18:58:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-07-08",
       "stars": 50
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 56
     }
   ]
 }

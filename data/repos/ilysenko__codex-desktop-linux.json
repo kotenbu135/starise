@@ -3,20 +3,41 @@
   "owner": "ilysenko",
   "name": "codex-desktop-linux",
   "full_name": "ilysenko/codex-desktop-linux",
-  "description": "Run OpenAI Codex Desktop on Linux - automated installer",
+  "description": "Unofficial OpenAI Codex Desktop for Linux, built locally from the official macOS DMG. Supports Debian, Ubuntu, Pop!_OS, Mint and Elementary (.deb); Fedora and openSUSE (.rpm); Arch, Manjaro and EndeavourOS (pacman); Nix/NixOS; AppImage for atomic and other distros; Wayland and X11.",
   "description_ja": "",
   "url": "https://github.com/ilysenko/codex-desktop-linux",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 2179,
-  "fork_count": 277,
+  "topics": [
+    "ai-coding",
+    "appimage",
+    "archlinux",
+    "codex",
+    "codex-desktop",
+    "deb",
+    "debian",
+    "desktop-app",
+    "electron",
+    "fedora",
+    "linux",
+    "nix",
+    "nixos",
+    "openai",
+    "opensuse",
+    "pacman",
+    "rpm",
+    "ubuntu",
+    "wayland",
+    "x11"
+  ],
+  "star_count": 2222,
+  "fork_count": 283,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T07:57:25Z",
-  "updated_at": "2026-07-08T19:47:54Z",
-  "pushed_at": "2026-07-08T11:25:53Z",
+  "updated_at": "2026-07-09T21:15:13Z",
+  "pushed_at": "2026-07-09T20:17:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -250,6 +271,10 @@
     {
       "date": "2026-07-08",
       "stars": 2179
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 2222
     }
   ]
 }

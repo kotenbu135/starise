@@ -3,8 +3,8 @@
   "owner": "eracle",
   "name": "openoutreach",
   "full_name": "eracle/openoutreach",
-  "description": "Linkedin Automation Tool: Describe your product. Define your target market. The AI finds the leads for you.",
-  "description_ja": "LinkedIn 自動化ツール：製品を説明し、ターゲット市場を定義するだけで、AI がリードを見つけます。",
+  "description": "Agentic Email Automation Tool: Describe your product. Define your target market. The AI finds the leads for you.",
+  "description_ja": "",
   "url": "https://github.com/eracle/OpenOutreach",
   "homepage_url": "https://openoutreach.app",
   "language": "Python",
@@ -12,31 +12,31 @@
   "topics": [
     "agent",
     "agentic",
+    "agentic-marketing",
+    "agentic-workflow",
     "automated-outreach",
     "automation",
     "bot",
-    "chromium-browser",
-    "linkedin",
-    "linkedin-automation",
-    "linkedin-bot",
-    "linkedinbot",
+    "cold-email",
+    "cold-email-agent",
+    "cold-email-ma",
+    "email-automation",
+    "email-marketing",
     "llm",
     "marketing",
     "marketing-automation",
     "marketing-outreach",
     "outreach",
-    "playwright",
-    "playwright-stealth",
-    "scraper",
-    "scraping"
+    "scraping",
+    "smtp"
   ],
-  "star_count": 2361,
-  "fork_count": 452,
+  "star_count": 2369,
+  "fork_count": 456,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-10-07T18:10:30Z",
-  "updated_at": "2026-07-08T19:04:56Z",
-  "pushed_at": "2026-07-08T03:14:32Z",
+  "updated_at": "2026-07-09T18:33:30Z",
+  "pushed_at": "2026-07-09T12:40:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -294,6 +294,10 @@
     {
       "date": "2026-07-08",
       "stars": 2361
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 2369
     }
   ]
 }

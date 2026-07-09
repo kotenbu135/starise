@@ -3,25 +3,37 @@
   "owner": "agents365-ai",
   "name": "dsclaude",
   "full_name": "agents365-ai/dsclaude",
-  "description": "One script to run claude code/desktop with deepseek V4",
+  "description": "Claude Code \u0026 Desktop launchers for 11+ third-party LLM backends (DeepSeek, Qwen, Kimi, GLM, MiniMax, Doubao, LongCat, TokenHub, SiliconFlow, MiMo) via Anthropic-compatible API — plus Codex setup, vision tools, and MCP server.",
   "description_ja": "",
   "url": "https://github.com/Agents365-ai/dsclaude",
   "homepage_url": "https://agents365-ai.github.io/dsclaude/",
   "language": "PowerShell",
-  "license": "",
+  "license": "NOASSERTION",
   "topics": [
-    "1m-context-window",
+    "anthropic-api",
     "claude-code",
     "claude-desktop",
-    "deepseek-v4"
+    "codex",
+    "deepseek",
+    "doubao",
+    "glm",
+    "kimi",
+    "launcher",
+    "longcat",
+    "mcp-server",
+    "minimax",
+    "powershell",
+    "qwen",
+    "third-party-backend",
+    "vision"
   ],
-  "star_count": 54,
+  "star_count": 55,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-23T17:44:10Z",
-  "updated_at": "2026-07-08T17:47:22Z",
-  "pushed_at": "2026-07-08T17:46:56Z",
+  "updated_at": "2026-07-09T16:37:33Z",
+  "pushed_at": "2026-07-09T16:37:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -183,6 +195,10 @@
     {
       "date": "2026-07-08",
       "stars": 54
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 55
     }
   ]
 }

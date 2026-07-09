@@ -3,7 +3,7 @@
   "owner": "savvyagents",
   "name": "larasend",
   "full_name": "savvyagents/larasend",
-  "description": "Self-hosted transactional email platform for Laravel — send through your own AWS SES account, keep the dashboard, API keys, delivery logs, and webhooks on your own infrastructure.",
+  "description": "Self-hosted transactional email platform — send through your own AWS SES account, keep the dashboard, API keys, delivery logs, and webhooks on your own infrastructure.",
   "description_ja": "",
   "url": "https://github.com/savvyagents/larasend",
   "homepage_url": "https://larasend.com",
@@ -21,18 +21,22 @@
     "transactional-email",
     "vue"
   ],
-  "star_count": 302,
-  "fork_count": 26,
+  "star_count": 382,
+  "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-11T03:11:09Z",
-  "updated_at": "2026-07-08T21:16:41Z",
-  "pushed_at": "2026-07-08T19:08:06Z",
+  "updated_at": "2026-07-09T20:16:43Z",
+  "pushed_at": "2026-07-09T05:46:19Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-07-08",
       "stars": 302
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 382
     }
   ]
 }

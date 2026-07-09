@@ -3,19 +3,26 @@
   "owner": "solider-shuwen",
   "name": "shuttleslide",
   "full_name": "solider-shuwen/shuttleslide",
-  "description": "",
+  "description": "Python toolkit for PowerPoint ↔ HTML, built for AI. Round-trip fidelity preserves formatting across every edit loop — ideal for RAG ingestion, LLM agents, and AI-assisted slide editing.",
   "description_ja": "",
   "url": "https://github.com/solider-shuwen/shuttleslide",
   "homepage_url": "",
   "language": "HTML",
   "license": "MIT",
-  "topics": [],
-  "star_count": 62,
-  "fork_count": 4,
+  "topics": [
+    "ai-tools",
+    "cli",
+    "html",
+    "llm-agents",
+    "powerpoint-converter",
+    "pptx"
+  ],
+  "star_count": 73,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-30T03:14:51Z",
-  "updated_at": "2026-07-08T19:45:38Z",
+  "updated_at": "2026-07-09T18:06:38Z",
   "pushed_at": "2026-07-08T15:36:12Z",
   "deleted_at": "",
   "star_history": [
@@ -26,6 +33,10 @@
     {
       "date": "2026-07-08",
       "stars": 62
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 73
     }
   ]
 }

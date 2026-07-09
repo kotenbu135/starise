@@ -3,20 +3,40 @@
   "owner": "yutani140x",
   "name": "saturnix-camera",
   "full_name": "yutani140x/saturnix-camera",
-  "description": "Retro-futuristic open-source camera with custom hardware and film-like rendering",
-  "description_ja": "カスタムハードウェアとフィルム風レンダリングを備えたレトロフューチャリストなオープンソースカメラ",
+  "description": "Open-source camera with custom hardware and film-like rendering",
+  "description_ja": "",
   "url": "https://github.com/Yutani140x/saturnix-camera",
   "homepage_url": "",
-  "language": "",
+  "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 321,
+  "topics": [
+    "3d-printing",
+    "camera",
+    "cassette-futurism",
+    "cyberpunks",
+    "digital-camera",
+    "diy-camera",
+    "dng",
+    "hardware",
+    "image-processing",
+    "jpeg",
+    "libcamera",
+    "open-source-camera",
+    "open-source-hardware",
+    "photography",
+    "picamera2",
+    "python",
+    "raspberry-pi",
+    "raspberry-pi-zero-2-w",
+    "resin-printing"
+  ],
+  "star_count": 322,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-24T07:52:11Z",
-  "updated_at": "2026-07-08T20:33:22Z",
-  "pushed_at": "2026-07-08T01:53:47Z",
+  "updated_at": "2026-07-09T17:10:24Z",
+  "pushed_at": "2026-07-09T14:27:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -274,6 +294,10 @@
     {
       "date": "2026-07-08",
       "stars": 321
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 322
     }
   ]
 }

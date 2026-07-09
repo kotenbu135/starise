@@ -3,16 +3,16 @@
   "owner": "carina-studio",
   "name": "ulogviewer",
   "full_name": "carina-studio/ulogviewer",
-  "description": "Cross-Platform Universal Log Viewer.",
-  "description_ja": "クロスプラットフォーム対応の汎用ログビューア",
+  "description": "Cross-Platform, Agent-Native Universal Log Viewer.",
+  "description_ja": "",
   "url": "https://github.com/carina-studio/ULogViewer",
   "homepage_url": "https://carina-studio.github.io/ULogViewer/",
   "language": "C#",
   "license": "MIT",
   "topics": [
+    "agent-native",
     "android-development",
     "cross-platform",
-    "csharp",
     "customizable",
     "dotnet",
     "filter",
@@ -22,8 +22,7 @@
     "logs",
     "logs-analysis",
     "macos",
-    "osx",
-    "ubuntu",
+    "mcp",
     "viewer-analysis",
     "viewer-parser",
     "windows",
@@ -35,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-07T05:53:29Z",
-  "updated_at": "2026-07-08T10:41:00Z",
-  "pushed_at": "2026-07-08T10:40:54Z",
+  "updated_at": "2026-07-09T12:21:29Z",
+  "pushed_at": "2026-07-09T12:15:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -293,6 +292,10 @@
     },
     {
       "date": "2026-07-08",
+      "stars": 583
+    },
+    {
+      "date": "2026-07-09",
       "stars": 583
     }
   ]

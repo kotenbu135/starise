@@ -3,8 +3,8 @@
   "owner": "spiceai",
   "name": "spiceai",
   "full_name": "spiceai/spiceai",
-  "description": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
-  "description_ja": "データ駆動型 AI アプリとエージェント向けの、Rust 製ポータブル高速 SQL クエリ・検索・LLM 推論エンジン",
+  "description": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+  "description_ja": "",
   "url": "https://github.com/spiceai/spiceai",
   "homepage_url": "https://docs.spiceai.org",
   "language": "Rust",
@@ -20,13 +20,13 @@
     "machine-learning",
     "sql"
   ],
-  "star_count": 3014,
-  "fork_count": 208,
+  "star_count": 3017,
+  "fork_count": 209,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-08T23:26:13Z",
-  "updated_at": "2026-07-08T21:01:32Z",
-  "pushed_at": "2026-07-08T21:02:24Z",
+  "updated_at": "2026-07-09T21:35:05Z",
+  "pushed_at": "2026-07-09T21:54:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -284,6 +284,10 @@
     {
       "date": "2026-07-08",
       "stars": 3014
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 3017
     }
   ]
 }

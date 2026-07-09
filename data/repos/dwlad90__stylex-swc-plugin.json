@@ -3,17 +3,27 @@
   "owner": "dwlad90",
   "name": "stylex-swc-plugin",
   "full_name": "dwlad90/stylex-swc-plugin",
-  "description": "Community NAPI-RS/SWC plugin for StyleX.",
-  "description_ja": "StyleX向けのコミュニティ製NAPI-RS/SWCプラグイン",
+  "description": "Rust/NAPI-RS/SWC compiler for StyleX CSS-in-JS — a faster, Babel-free replacement for @stylexjs/babel-plugin with plugins for Next.js, Vite, webpack, Rspack, Rollup, Turbopack, PostCSS, and Jest.",
+  "description_ja": "",
   "url": "https://github.com/Dwlad90/stylex-swc-plugin",
   "homepage_url": "",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "atomic-css",
+    "compiler",
+    "css-in-js",
+    "napi-rs",
     "nextjs",
+    "postcss",
+    "rollup",
+    "rspack",
     "rust",
     "stylex",
+    "swc",
     "swc-plugin",
+    "turbopack",
+    "vite",
     "webpack"
   ],
   "star_count": 106,
@@ -21,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-26T19:28:02Z",
-  "updated_at": "2026-07-08T16:44:59Z",
-  "pushed_at": "2026-07-08T16:44:52Z",
+  "updated_at": "2026-07-09T12:34:09Z",
+  "pushed_at": "2026-07-09T12:34:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -275,6 +285,10 @@
     },
     {
       "date": "2026-07-08",
+      "stars": 106
+    },
+    {
+      "date": "2026-07-09",
       "stars": 106
     }
   ]

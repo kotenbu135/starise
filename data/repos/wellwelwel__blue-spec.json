@@ -3,7 +3,7 @@
   "owner": "wellwelwel",
   "name": "blue-spec",
   "full_name": "wellwelwel/blue-spec",
-  "description": "🌊 Security-Driven Hardening: Blue Spec is a defensive workflow to help AI agents detect what your system actually does and harden the defenses that matter, whether you're a developer or not.",
+  "description": "🌊 Your security copilot as you build, your Blue Team when you audit, whether you're a developer or not.",
   "description_ja": "",
   "url": "https://github.com/wellwelwel/blue-spec",
   "homepage_url": "https://bluespec.weslley.io",
@@ -23,6 +23,7 @@
     "prd",
     "prompt-engineering",
     "prompt-toolkit",
+    "sdd",
     "sdh",
     "security",
     "security-driven-hardening",
@@ -35,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-17T21:19:02Z",
-  "updated_at": "2026-07-08T19:54:40Z",
-  "pushed_at": "2026-07-08T19:54:41Z",
+  "updated_at": "2026-07-09T16:10:47Z",
+  "pushed_at": "2026-07-09T16:59:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -121,6 +122,10 @@
     },
     {
       "date": "2026-07-08",
+      "stars": 69
+    },
+    {
+      "date": "2026-07-09",
       "stars": 69
     }
   ]

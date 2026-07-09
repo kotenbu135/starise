@@ -3,7 +3,7 @@
   "owner": "xflops",
   "name": "flame",
   "full_name": "xflops/flame",
-  "description": "A Distributed Engine for AI",
+  "description": "A distributed engine for elastic workload, e.g. AI Agent, RL, Quant",
   "description_ja": "",
   "url": "https://github.com/xflops/flame",
   "homepage_url": "https://xflops.io",
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-30T02:04:47Z",
-  "updated_at": "2026-07-08T02:30:49Z",
-  "pushed_at": "2026-07-08T02:30:44Z",
+  "updated_at": "2026-07-09T03:17:14Z",
+  "pushed_at": "2026-07-09T03:17:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -119,6 +119,10 @@
     },
     {
       "date": "2026-07-08",
+      "stars": 49
+    },
+    {
+      "date": "2026-07-09",
       "stars": 49
     }
   ]

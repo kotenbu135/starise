@@ -3,7 +3,7 @@
   "owner": "arthur-ficial",
   "name": "apfel-mcp",
   "full_name": "arthur-ficial/apfel-mcp",
-  "description": "Token-budget-optimized MCP servers for apfel: url-fetch (Readability-based) + ddg-search (experimental) + search-and-fetch (compound). Built for apfel's 4096-token context window.",
+  "description": "Four small MCP tools that let apfel (Apple's on-device LLM) reach the web and read local files: url-fetch (read a page), ddg-search (web search), search-and-fetch (search+read in one call), fs (read-only local files). Results trimmed to fit apfel's 4096-token window.",
   "description_ja": "",
   "url": "https://github.com/Arthur-Ficial/apfel-mcp",
   "homepage_url": "",
@@ -11,12 +11,12 @@
   "license": "MIT",
   "topics": [],
   "star_count": 21,
-  "fork_count": 4,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-11T14:27:08Z",
-  "updated_at": "2026-07-04T15:39:22Z",
-  "pushed_at": "2026-05-26T10:17:52Z",
+  "updated_at": "2026-07-09T15:21:00Z",
+  "pushed_at": "2026-07-09T15:17:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -229,6 +229,10 @@
     },
     {
       "date": "2026-07-08",
+      "stars": 21
+    },
+    {
+      "date": "2026-07-09",
       "stars": 21
     }
   ]

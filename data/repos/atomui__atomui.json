@@ -3,10 +3,10 @@
   "owner": "atomui",
   "name": "atomui",
   "full_name": "atomui/atomui",
-  "description": "AtomUI leverages Avalonia's robust cross-platform capabilities to implement the Ant Design system for .NET, dedicated to delivering its refined design language and efficient user experience to cross-platform desktop application development.",
-  "description_ja": "AtomUI は Avalonia の堅牢なクロスプラットフォーム機能を活用して .NET 向けに Ant Design システムを実装し、洗練されたデザイン言語と効率的なユーザー体験をクロスプラットフォームデスクトップアプリ開発に提供することを目指しています。",
+  "description": "An enhancement and extension library for Avalonia, bringing the Ant Design design language, modern controls, theming, native integrations, and cross-platform UI capabilities to .NET desktop apps.",
+  "description_ja": "",
   "url": "https://github.com/AtomUI/AtomUI",
-  "homepage_url": "",
+  "homepage_url": "https://atomui.net",
   "language": "C#",
   "license": "LGPL-3.0",
   "topics": [
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-15T00:40:42Z",
-  "updated_at": "2026-07-08T15:22:56Z",
-  "pushed_at": "2026-07-08T15:22:09Z",
+  "updated_at": "2026-07-09T13:20:45Z",
+  "pushed_at": "2026-07-09T13:20:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -282,6 +282,10 @@
     },
     {
       "date": "2026-07-08",
+      "stars": 807
+    },
+    {
+      "date": "2026-07-09",
       "stars": 807
     }
   ]

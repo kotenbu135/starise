@@ -3,23 +3,31 @@
   "owner": "reed-soul",
   "name": "awesome-cesium",
   "full_name": "reed-soul/awesome-cesium",
-  "description": "A curated list of awesome CesiumJS resources, libraries, and tools.",
+  "description": "A curated list of awesome CesiumJS resources, libraries, tools, and integrations for 3D geospatial app",
   "description_ja": "",
   "url": "https://github.com/reed-soul/awesome-cesium",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/reed-soul/awesome-cesium#readme",
   "language": "JavaScript",
   "license": "CC0-1.0",
   "topics": [
+    "3d-tiles",
     "awesome",
-    "awesome-list"
+    "awesome-list",
+    "cesium",
+    "cesiumjs",
+    "geospatial",
+    "gis",
+    "webgis",
+    "webgl",
+    "webgpu"
   ],
   "star_count": 13,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-09T12:15:37Z",
-  "updated_at": "2026-07-01T22:19:18Z",
-  "pushed_at": "2026-07-08T18:45:44Z",
+  "updated_at": "2026-07-09T02:04:07Z",
+  "pushed_at": "2026-07-09T02:04:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -248,6 +256,10 @@
     },
     {
       "date": "2026-07-08",
+      "stars": 13
+    },
+    {
+      "date": "2026-07-09",
       "stars": 13
     }
   ]

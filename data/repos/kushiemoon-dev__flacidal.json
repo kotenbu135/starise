@@ -3,7 +3,7 @@
   "owner": "kushiemoon-dev",
   "name": "flacidal",
   "full_name": "kushiemoon-dev/flacidal",
-  "description": "Desktop app for downloading lossless FLAC music from Tidal. Built with Go + Svelte using Wails framework. Features Spotify matching, metadata tagging, and concurrent download queue.",
+  "description": "Desktop app for downloading lossless FLAC music — multi-source with Soulseek P2P backbone. Built with Go + Svelte using Wails framework. Features metadata tagging and concurrent download queue.",
   "description_ja": "",
   "url": "https://github.com/kushiemoon-dev/FLACidal",
   "homepage_url": "https://kushiemoon-dev.github.io/FLACidal/",
@@ -17,7 +17,6 @@
     "lossless-audio",
     "music-downloader",
     "svelte",
-    "tidal",
     "typescript",
     "wails"
   ],
@@ -26,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-06T11:20:47Z",
-  "updated_at": "2026-07-08T19:40:02Z",
-  "pushed_at": "2026-07-08T19:39:57Z",
+  "updated_at": "2026-07-09T19:15:58Z",
+  "pushed_at": "2026-07-09T19:15:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -184,6 +183,10 @@
     },
     {
       "date": "2026-07-08",
+      "stars": 49
+    },
+    {
+      "date": "2026-07-09",
       "stars": 49
     }
   ]

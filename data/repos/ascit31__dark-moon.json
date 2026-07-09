@@ -3,7 +3,7 @@
   "owner": "ascit31",
   "name": "dark-moon",
   "full_name": "ascit31/dark-moon",
-  "description": "Autonomous AI pentesting engine performing continuous offensive security across web, cloud, AD and Kubernetes. Uses agentic reasoning, real exploit execution and attack path analysis to deliver proof-based vulnerabilities.",
+  "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, AD \u0026 Kubernetes. Agentic reasoning + real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts, creds or paths (deterministic placeholders rehydrated locally), nothing leaves your perimeter.",
   "description_ja": "",
   "url": "https://github.com/ASCIT31/Dark-Moon",
   "homepage_url": "https://dark-moon.org/",
@@ -21,13 +21,13 @@
     "pentesting",
     "security-automation"
   ],
-  "star_count": 686,
-  "fork_count": 123,
+  "star_count": 700,
+  "fork_count": 124,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-26T10:54:02Z",
-  "updated_at": "2026-07-08T17:22:17Z",
-  "pushed_at": "2026-07-08T17:21:53Z",
+  "updated_at": "2026-07-09T19:42:30Z",
+  "pushed_at": "2026-07-08T21:16:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +65,10 @@
     {
       "date": "2026-07-08",
       "stars": 686
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 700
     }
   ]
 }

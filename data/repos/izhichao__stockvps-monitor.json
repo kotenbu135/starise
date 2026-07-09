@@ -3,14 +3,15 @@
   "owner": "izhichao",
   "name": "stockvps-monitor",
   "full_name": "izhichao/stockvps-monitor",
-  "description": "WHMCS 助手 | VPS 补货监控 | 极速下单助手",
+  "description": "StockVPS Monitor | VPS 补货监控 | 适配 WHMCS",
   "description_ja": "",
   "url": "https://github.com/izhichao/stockvps-monitor",
-  "homepage_url": "https://zhichao.org/posts/monitor",
+  "homepage_url": "https://stockvps.org",
   "language": "JavaScript",
   "license": "",
   "topics": [
     "monitor",
+    "stockvps",
     "vps",
     "whmcs"
   ],
@@ -19,7 +20,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-15T14:48:37Z",
-  "updated_at": "2026-06-27T13:06:44Z",
+  "updated_at": "2026-07-09T06:05:48Z",
   "pushed_at": "2026-06-27T13:06:39Z",
   "deleted_at": "",
   "star_history": [
@@ -157,6 +158,10 @@
     },
     {
       "date": "2026-07-08",
+      "stars": 31
+    },
+    {
+      "date": "2026-07-09",
       "stars": 31
     }
   ]
