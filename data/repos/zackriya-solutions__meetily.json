@@ -3,8 +3,8 @@
   "owner": "zackriya-solutions",
   "name": "meetily",
   "full_name": "zackriya-solutions/meetily",
-  "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS \u0026 Windows.  ",
-  "description_ja": "プライバシー優先のAI会議アシスタント。Rustで構築され、4倍高速なParakeet/Whisperによるリアルタイム文字起こし・話者分離・Ollamaによる要約を搭載。100%ローカル処理でクラウド不要。MeetilyはmacOSおよびWindows向け第1位のセルフホスト型オープンソースAI議事録ツール",
+  "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS \u0026 Windows.  The #1 Ai Meeting Minutes generator.",
+  "description_ja": "",
   "url": "https://github.com/Zackriya-Solutions/meetily",
   "homepage_url": "https://meetily.ai",
   "language": "Rust",
@@ -31,12 +31,12 @@
     "whisper-cpp",
     "windows"
   ],
-  "star_count": 22176,
-  "fork_count": 2224,
+  "star_count": 22626,
+  "fork_count": 2379,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-26T12:52:14Z",
-  "updated_at": "2026-07-09T22:07:16Z",
+  "updated_at": "2026-07-10T21:30:17Z",
   "pushed_at": "2026-06-05T13:53:17Z",
   "deleted_at": "",
   "star_history": [
@@ -299,6 +299,10 @@
     {
       "date": "2026-07-09",
       "stars": 22176
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 22626
     }
   ]
 }

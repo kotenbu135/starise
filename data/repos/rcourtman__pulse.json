@@ -3,8 +3,8 @@
   "owner": "rcourtman",
   "name": "pulse",
   "full_name": "rcourtman/pulse",
-  "description": "Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard",
-  "description_ja": "Proxmox、Docker、Kubernetes向けのリアルタイム監視。AIインサイト、スマートアラート、統合ダッシュボードを搭載。",
+  "description": "Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes",
+  "description_ja": "",
   "url": "https://github.com/rcourtman/Pulse",
   "homepage_url": "https://pulserelay.pro",
   "language": "Go",
@@ -17,7 +17,6 @@
     "docker-monitoring",
     "go",
     "homelab",
-    "host-monitoring",
     "infrastructure-monitoring",
     "kubernetes",
     "monitoring",
@@ -25,18 +24,20 @@
     "proxmox-backup-server",
     "proxmox-mail-gateway",
     "proxmox-ve",
-    "react",
     "self-hosted",
+    "solidjs",
+    "truenas",
     "typescript",
+    "vsphere",
     "webhooks"
   ],
-  "star_count": 6123,
-  "fork_count": 248,
+  "star_count": 6131,
+  "fork_count": 247,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-14T15:36:13Z",
-  "updated_at": "2026-07-09T21:35:37Z",
-  "pushed_at": "2026-07-09T21:35:34Z",
+  "updated_at": "2026-07-10T20:44:35Z",
+  "pushed_at": "2026-07-10T20:44:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -298,6 +299,10 @@
     {
       "date": "2026-07-09",
       "stars": 6123
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 6131
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "vllm-project",
   "name": "semantic-router",
   "full_name": "vllm-project/semantic-router",
-  "description": "System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge",
-  "description_ja": "クラウド・データセンター・エッジにおける Mixture-of-Models 向けシステムレベルインテリジェントルータ。",
+  "description": "System level intelligent runtime for Mixture-of-Models across edge, data center and cloud",
+  "description_ja": "",
   "url": "https://github.com/vllm-project/semantic-router",
   "homepage_url": "https://vllm-semantic-router.com",
   "language": "Go",
@@ -29,13 +29,13 @@
     "semantic-router",
     "vllm"
   ],
-  "star_count": 4881,
-  "fork_count": 741,
+  "star_count": 4904,
+  "fork_count": 744,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-26T21:49:50Z",
-  "updated_at": "2026-07-09T18:16:22Z",
-  "pushed_at": "2026-07-09T11:33:26Z",
+  "updated_at": "2026-07-10T20:15:18Z",
+  "pushed_at": "2026-07-10T21:23:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -297,6 +297,10 @@
     {
       "date": "2026-07-09",
       "stars": 4881
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 4904
     }
   ]
 }

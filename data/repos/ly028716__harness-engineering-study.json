@@ -3,20 +3,31 @@
   "owner": "ly028716",
   "name": "harness-engineering-study",
   "full_name": "ly028716/harness-engineering-study",
-  "description": "一个系统学习和实践 Harness Engineering 的项目，从理论到实践，从简单到复杂。",
-  "description_ja": "Harness Engineeringを体系的に学び実践するプロジェクト。理論から実践へ、シンプルから複雑へ。",
+  "description": "Research-backed Harness Engineering study repo with a runnable Python MVP built around Plan -\u003e Work -\u003e Review.",
+  "description_ja": "",
   "url": "https://github.com/ly028716/harness-engineering-study",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/ly028716/harness-engineering-study/tree/main/docs",
   "language": "Python",
   "license": "",
-  "topics": [],
+  "topics": [
+    "agent-workflows",
+    "ai-agents",
+    "code-review",
+    "developer-tools",
+    "engineering-productivity",
+    "harness-engineering",
+    "llm",
+    "python",
+    "research",
+    "workflow-automation"
+  ],
   "star_count": 35,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-11T07:37:07Z",
-  "updated_at": "2026-07-02T15:01:14Z",
-  "pushed_at": "2026-07-02T15:00:12Z",
+  "updated_at": "2026-07-10T12:45:27Z",
+  "pushed_at": "2026-07-10T12:44:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -269,6 +280,10 @@
     },
     {
       "date": "2026-07-09",
+      "stars": 35
+    },
+    {
+      "date": "2026-07-10",
       "stars": 35
     }
   ]

@@ -3,28 +3,28 @@
   "owner": "mats2208",
   "name": "mcp-packet-tracer",
   "full_name": "mats2208/mcp-packet-tracer",
-  "description": "AI-powered Cisco Packet Tracer automation using MCP. Generate, validate and deploy full network topologies (OSPF, DHCP, EIGRP, RIP) from natural language prompts.",
+  "description": "AI-powered Cisco Packet Tracer automation over MCP. Describe a network in natural language and it generates, validates and deploys full topologies (OSPF, EIGRP, RIP, DHCP).",
   "description_ja": "",
   "url": "https://github.com/Mats2208/MCP-Packet-Tracer",
   "homepage_url": "https://www.mcpnetwork.top/",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "ai",
-    "cisco",
+    "ai-agents",
+    "automation",
+    "cisco-packet-tracer",
     "llm",
     "mcp",
-    "model-context-protocol",
-    "network-automation",
-    "network-simu",
-    "packet-tracer"
+    "networking",
+    "ospf",
+    "python"
   ],
   "star_count": 95,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T00:28:57Z",
-  "updated_at": "2026-07-09T15:26:33Z",
+  "updated_at": "2026-07-10T20:28:22Z",
   "pushed_at": "2026-06-28T02:22:07Z",
   "deleted_at": "",
   "star_history": [
@@ -198,6 +198,10 @@
     },
     {
       "date": "2026-07-09",
+      "stars": 95
+    },
+    {
+      "date": "2026-07-10",
       "stars": 95
     }
   ]

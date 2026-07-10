@@ -3,26 +3,30 @@
   "owner": "agentscope-ai",
   "name": "agentscope-java",
   "full_name": "agentscope-ai/agentscope-java",
-  "description": "AgentScope Java: Agent-Oriented Programming for Building LLM Applications",
-  "description_ja": "AgentScope Java: LLMアプリケーション構築のためのエージェント指向プログラミング",
+  "description": "Build distributed, production-grade, long-running agents.",
+  "description_ja": "",
   "url": "https://github.com/agentscope-ai/agentscope-java",
   "homepage_url": "https://java.agentscope.io/",
   "language": "Java",
   "license": "",
   "topics": [
+    "adk",
     "agent",
+    "agent-framework",
     "agentic",
     "agentic-ai",
+    "agentscope",
     "ai",
+    "harness",
     "llm"
   ],
-  "star_count": 4357,
-  "fork_count": 949,
+  "star_count": 4384,
+  "fork_count": 958,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-23T04:37:43Z",
-  "updated_at": "2026-07-09T16:36:25Z",
-  "pushed_at": "2026-07-09T16:20:47Z",
+  "updated_at": "2026-07-10T19:59:49Z",
+  "pushed_at": "2026-07-10T09:43:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -284,6 +288,10 @@
     {
       "date": "2026-07-09",
       "stars": 4357
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 4384
     }
   ]
 }

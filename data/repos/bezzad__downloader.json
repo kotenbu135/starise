@@ -3,8 +3,8 @@
   "owner": "bezzad",
   "name": "downloader",
   "full_name": "bezzad/downloader",
-  "description": "Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications. If you want Downloader Desktop application see this: https://github.com/bezzad/downloader.desktop",
-  "description_ja": "",
+  "description": "Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.",
+  "description_ja": ".NETアプリケーション向けの高速・クロスプラットフォーム・信頼性の高い、非同期進捗イベント付きマルチパートダウンローダー",
   "url": "https://github.com/bezzad/Downloader",
   "homepage_url": "",
   "language": "C#",
@@ -34,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-24T19:09:48Z",
-  "updated_at": "2026-07-08T03:19:23Z",
-  "pushed_at": "2026-07-09T20:23:19Z",
+  "updated_at": "2026-07-10T15:10:12Z",
+  "pushed_at": "2026-07-10T20:07:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -296,6 +296,10 @@
     },
     {
       "date": "2026-07-09",
+      "stars": 1682
+    },
+    {
+      "date": "2026-07-10",
       "stars": 1682
     }
   ]

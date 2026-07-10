@@ -3,7 +3,7 @@
   "owner": "pnoker",
   "name": "iot-dc3",
   "full_name": "pnoker/iot-dc3",
-  "description": "IoT DC3 — open-source, cloud-native industrial IoT platform. Multi-protocol device access, data collection \u0026 management with 28 drivers, Spring Cloud, gRPC, and native LLM integration.",
+  "description": "IoT DC3 is a fully open-source, distributed industrial IoT platform built on Spring Cloud and evolving for AI scenarios. It enables rapid IoT project development and connected-device management as a complete IoT system solution.",
   "description_ja": "",
   "url": "https://github.com/pnoker/iot-dc3",
   "homepage_url": "https://docs.dc3.site",
@@ -28,13 +28,13 @@
     "spring-ai",
     "spring-cloud"
   ],
-  "star_count": 647,
+  "star_count": 650,
   "fork_count": 220,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-08-28T13:01:37Z",
-  "updated_at": "2026-07-09T08:48:26Z",
-  "pushed_at": "2026-07-05T19:19:30Z",
+  "updated_at": "2026-07-10T14:29:10Z",
+  "pushed_at": "2026-07-10T14:27:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -296,6 +296,10 @@
     {
       "date": "2026-07-09",
       "stars": 647
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 650
     }
   ]
 }

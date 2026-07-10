@@ -3,7 +3,7 @@
   "owner": "tugcantopaloglu",
   "name": "godot-mcp",
   "full_name": "tugcantopaloglu/godot-mcp",
-  "description": "MCP server for full Godot 4.x engine control — 149 tools for AI-driven game development",
+  "description": "MCP server for full Godot 4.x engine control: 157 tools for AI-driven game development (GDScript and C#/.NET). Tested with Godot 4.7.",
   "description_ja": "",
   "url": "https://github.com/tugcantopaloglu/godot-mcp",
   "homepage_url": "",
@@ -12,6 +12,8 @@
   "topics": [
     "ai",
     "automation",
+    "csharp",
+    "dotnet",
     "game-development",
     "gdscript",
     "godot",
@@ -21,13 +23,13 @@
     "model-context-protocol",
     "typescript"
   ],
-  "star_count": 319,
+  "star_count": 321,
   "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-08T12:00:02Z",
-  "updated_at": "2026-07-09T16:42:36Z",
-  "pushed_at": "2026-03-07T11:39:56Z",
+  "updated_at": "2026-07-10T13:58:33Z",
+  "pushed_at": "2026-07-10T13:56:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -93,6 +95,10 @@
     {
       "date": "2026-07-09",
       "stars": 319
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 321
     }
   ]
 }

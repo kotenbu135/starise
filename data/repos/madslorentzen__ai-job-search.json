@@ -3,20 +3,33 @@
   "owner": "madslorentzen",
   "name": "ai-job-search",
   "full_name": "madslorentzen/ai-job-search",
-  "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+  "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
   "description_ja": "",
   "url": "https://github.com/MadsLorentzen/ai-job-search",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 18648,
-  "fork_count": 5404,
+  "topics": [
+    "ai",
+    "ai-agents",
+    "career",
+    "claude-code",
+    "cover-letter",
+    "cv",
+    "interview-preparation",
+    "job-application",
+    "job-hunting",
+    "job-search",
+    "latex",
+    "resume"
+  ],
+  "star_count": 20527,
+  "fork_count": 5913,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T14:33:04Z",
-  "updated_at": "2026-07-09T21:30:04Z",
-  "pushed_at": "2026-07-09T19:32:43Z",
+  "updated_at": "2026-07-10T20:50:19Z",
+  "pushed_at": "2026-07-10T13:24:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -202,6 +215,10 @@
     {
       "date": "2026-07-09",
       "stars": 18648
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 20527
     }
   ]
 }

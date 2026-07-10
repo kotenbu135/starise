@@ -3,13 +3,14 @@
   "owner": "prest",
   "name": "prest",
   "full_name": "prest/prest",
-  "description": "PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new",
-  "description_ja": "PostgreSQL ➕ REST、ローコードで開発を簡素化・加速。既存・新規を問わずあらゆるPostgresアプリケーションで⚡即時・リアルタイム・高パフォーマンスを実現。",
+  "description": "PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new, MCP server",
+  "description_ja": "",
   "url": "https://github.com/prest/prest",
   "homepage_url": "https://www.prestd.com",
   "language": "Go",
   "license": "MIT",
   "topics": [
+    "ai",
     "automatic-api",
     "database",
     "databases",
@@ -17,19 +18,21 @@
     "golang",
     "hacktoberfest",
     "low-code",
+    "mcp-server",
+    "multi-db",
     "postgres",
     "postgresql",
     "prest",
     "rest",
     "rest-api"
   ],
-  "star_count": 4557,
+  "star_count": 4561,
   "fork_count": 311,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-11-22T05:17:05Z",
-  "updated_at": "2026-07-09T17:35:59Z",
-  "pushed_at": "2026-07-09T17:37:28Z",
+  "updated_at": "2026-07-10T20:52:25Z",
+  "pushed_at": "2026-07-10T00:47:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -287,6 +290,10 @@
     {
       "date": "2026-07-09",
       "stars": 4557
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 4561
     }
   ]
 }

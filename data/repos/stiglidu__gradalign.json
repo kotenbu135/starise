@@ -3,19 +3,23 @@
   "owner": "stiglidu",
   "name": "gradalign",
   "full_name": "stiglidu/gradalign",
-  "description": "",
+  "description": "[COLM 2026] Official implementation for \"GradAlign: Gradient-Aligned Data Selection for LLM Reinforcement Learning\"",
   "description_ja": "",
   "url": "https://github.com/StigLidu/GradAlign",
-  "homepage_url": "",
+  "homepage_url": "https://arxiv.org/abs/2602.21492",
   "language": "Python",
   "license": "",
-  "topics": [],
+  "topics": [
+    "data-selection",
+    "llm",
+    "reinforcement-learning"
+  ],
   "star_count": 11,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-24T16:36:32Z",
-  "updated_at": "2026-06-22T06:19:36Z",
+  "updated_at": "2026-07-10T18:09:06Z",
   "pushed_at": "2026-03-04T15:19:48Z",
   "deleted_at": "",
   "star_history": [
@@ -269,6 +273,10 @@
     },
     {
       "date": "2026-07-09",
+      "stars": 11
+    },
+    {
+      "date": "2026-07-10",
       "stars": 11
     }
   ]

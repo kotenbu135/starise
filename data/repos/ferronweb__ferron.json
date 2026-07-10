@@ -3,8 +3,8 @@
   "owner": "ferronweb",
   "name": "ferron",
   "full_name": "ferronweb/ferron",
-  "description": "A fast, memory-safe web server written in Rust.",
-  "description_ja": "Rustで書かれた高速でメモリ安全なウェブサーバー。",
+  "description": "A fast, modern, and easily configurable web server with automatic TLS.",
+  "description_ja": "",
   "url": "https://github.com/ferronweb/ferron",
   "homepage_url": "https://ferron.sh",
   "language": "Rust",
@@ -18,13 +18,13 @@
     "web-server",
     "webserver"
   ],
-  "star_count": 2075,
+  "star_count": 2078,
   "fork_count": 90,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-09T13:20:22Z",
-  "updated_at": "2026-07-09T20:46:45Z",
-  "pushed_at": "2026-07-09T19:22:15Z",
+  "updated_at": "2026-07-10T11:30:39Z",
+  "pushed_at": "2026-07-10T16:51:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -286,6 +286,10 @@
     {
       "date": "2026-07-09",
       "stars": 2075
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 2078
     }
   ]
 }

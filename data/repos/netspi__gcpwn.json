@@ -3,7 +3,7 @@
   "owner": "netspi",
   "name": "gcpwn",
   "full_name": "netspi/gcpwn",
-  "description": "Pentesting framework for GCP that enumerates/downloads data that feeds into a BloodHound Opengraph model. Includes credential management, workspace management, exploit scripts, etc.",
+  "description": "Pentesting framework for GCP \u0026 Google Workspace that enumerates/downloads data that feeds into a BloodHound Opengraph model. Includes credential management, workspace management, exploit scripts, etc.",
   "description_ja": "",
   "url": "https://github.com/NetSPI/gcpwn",
   "homepage_url": "",
@@ -12,15 +12,16 @@
   "topics": [
     "gcp",
     "gcpwn",
+    "googleworkspace",
     "pentesting"
   ],
   "star_count": 304,
-  "fork_count": 29,
+  "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-11T15:26:41Z",
-  "updated_at": "2026-07-08T21:51:24Z",
-  "pushed_at": "2026-06-26T01:00:53Z",
+  "updated_at": "2026-07-10T20:02:28Z",
+  "pushed_at": "2026-07-10T20:01:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -245,6 +246,10 @@
     },
     {
       "date": "2026-07-09",
+      "stars": 304
+    },
+    {
+      "date": "2026-07-10",
       "stars": 304
     }
   ]

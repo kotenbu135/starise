@@ -3,12 +3,12 @@
   "owner": "openocta",
   "name": "openocta",
   "full_name": "openocta/openocta",
-  "description": "Open-source personal desktop AI agent. Double-click install, instant boot, data stays local. Go runtime for office/ITops/marketing workflows, with WeChat/DingTalk/Feishu \u0026 MCP.",
+  "description": "Open-source work buddy. Open-source personal desktop AI agent.Go runtime for office/ITops/marketing workflows.",
   "description_ja": "",
   "url": "https://github.com/openocta/openocta",
   "homepage_url": "http://www.openocta.com",
   "language": "TypeScript",
-  "license": "GPL-3.0",
+  "license": "Apache-2.0",
   "topics": [
     "ai",
     "ai-agent",
@@ -16,18 +16,20 @@
     "golang",
     "hermes",
     "llm",
+    "office",
     "office-automation",
     "openclaw",
     "openhuman",
+    "work",
     "workbuddy"
   ],
-  "star_count": 2976,
+  "star_count": 2975,
   "fork_count": 329,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T09:12:26Z",
-  "updated_at": "2026-07-09T14:16:17Z",
-  "pushed_at": "2026-07-09T09:00:57Z",
+  "updated_at": "2026-07-10T14:47:46Z",
+  "pushed_at": "2026-07-10T06:29:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -289,6 +291,10 @@
     {
       "date": "2026-07-09",
       "stars": 2976
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 2975
     }
   ]
 }

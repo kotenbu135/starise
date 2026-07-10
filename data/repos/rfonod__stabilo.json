@@ -3,7 +3,7 @@
   "owner": "rfonod",
   "name": "stabilo",
   "full_name": "rfonod/stabilo",
-  "description": "🌀 Python library for stabilizing video frames or object trajectories relative to a chosen reference frame, using feature matching with robust homography/affine estimation and user-defined exclusion masks, ideal for dynamic scenes with moving objects.",
+  "description": "🌀 Python library for stabilizing video frames or object trajectories relative to a chosen reference frame, using classical or deep-learning feature matching with robust homography/affine estimation, optional CUDA acceleration, and user-defined exclusion masks — built for dynamic scenes with moving objects.",
   "description_ja": "",
   "url": "https://github.com/rfonod/stabilo",
   "homepage_url": "https://arxiv.org/abs/2411.02136",
@@ -12,15 +12,18 @@
   "topics": [
     "computer-vision",
     "cuda",
+    "deep-learning",
     "feature-extraction",
     "feature-matching",
+    "gpu-acceleration",
     "homography-estimation",
     "image-processing",
     "image-registration",
+    "kornia",
     "opencv",
     "python",
+    "pytorch",
     "ransac",
-    "stabilization",
     "video-processing",
     "video-stabilization"
   ],
@@ -29,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-18T19:52:12Z",
-  "updated_at": "2026-07-08T18:40:58Z",
-  "pushed_at": "2026-07-08T18:23:21Z",
+  "updated_at": "2026-07-10T18:42:33Z",
+  "pushed_at": "2026-07-10T17:17:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -191,6 +194,10 @@
     },
     {
       "date": "2026-07-09",
+      "stars": 32
+    },
+    {
+      "date": "2026-07-10",
       "stars": 32
     }
   ]

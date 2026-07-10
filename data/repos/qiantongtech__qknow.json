@@ -3,7 +3,7 @@
   "owner": "qiantongtech",
   "name": "qknow",
   "full_name": "qiantongtech/qknow",
-  "description": "qKnow is an open-source intelligent agent platform for enterprise knowledge and industry AI. It unifies documents and data via Knowledge Graphs and RAG, enabling businesses to rapidly build knowledge hubs, smart Q\u0026A, and custom AI bots.",
+  "description": "qKnow is an open-source agent platform for enterprise knowledge intelligence and industry AI. It provides knowledge graphs, RAG, and bot building, encapsulating industry AI into standardized modules for rapid deployment. Supporting unified integration of documents and data, it helps enterprises quickly build knowledge hubs and AI solutions.",
   "description_ja": "",
   "url": "https://github.com/qiantongtech/qKnow",
   "homepage_url": "https://community.qknow.ai/",
@@ -16,12 +16,12 @@
     "llmops",
     "rag"
   ],
-  "star_count": 247,
+  "star_count": 248,
   "fork_count": 58,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-17T02:24:25Z",
-  "updated_at": "2026-07-09T03:19:14Z",
+  "updated_at": "2026-07-10T08:14:33Z",
   "pushed_at": "2026-06-09T03:13:45Z",
   "deleted_at": "",
   "star_history": [
@@ -284,6 +284,10 @@
     {
       "date": "2026-07-09",
       "stars": 247
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 248
     }
   ]
 }

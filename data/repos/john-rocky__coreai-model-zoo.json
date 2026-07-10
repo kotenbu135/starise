@@ -3,7 +3,7 @@
   "owner": "john-rocky",
   "name": "coreai-model-zoo",
   "full_name": "john-rocky/coreai-model-zoo",
-  "description": "Community model zoo + knowledge base for Apple Core AI (iOS/macOS 27): Qwen3.5 \u0026 Gemma 4 converted end-to-end, verified on-device (iPhone 17 Pro GPU/ANE), conversion gotchas, custom Metal kernels, Swift runner",
+  "description": "Community model zoo for Apple Core AI (iOS/macOS 27): 49 models — LLM, VLM, OCR, ASR, TTS, image/video/music gen, forecasting — converted, verified on real devices, downloadable from Hugging Face, and runnable in one line of Swift via CoreAIKit. Plus conversion recipes, on-device benchmarks, custom Metal kernels, and a knowledge base.",
   "description_ja": "",
   "url": "https://github.com/john-rocky/coreai-model-zoo",
   "homepage_url": "",
@@ -25,13 +25,13 @@
     "minicpm",
     "qwen"
   ],
-  "star_count": 330,
-  "fork_count": 19,
+  "star_count": 331,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-10T05:21:10Z",
-  "updated_at": "2026-07-09T15:35:52Z",
-  "pushed_at": "2026-07-08T18:38:04Z",
+  "updated_at": "2026-07-10T11:50:50Z",
+  "pushed_at": "2026-07-10T11:50:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -97,6 +97,10 @@
     {
       "date": "2026-07-09",
       "stars": 330
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 331
     }
   ]
 }
