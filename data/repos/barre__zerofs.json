@@ -12,20 +12,31 @@
   "topics": [
     "9p",
     "9p2000",
+    "block-storage",
+    "cloud-storage",
     "csi-driver",
+    "distributed-file-system",
+    "filesystem",
+    "fuse",
+    "kubernetes",
+    "log-structured-filesystem",
+    "lsm-tree",
     "nbd",
     "nfs",
     "nfs-server",
+    "object-storage",
     "plan9",
-    "s3fs"
+    "posix",
+    "s3",
+    "software-defined-storage"
   ],
-  "star_count": 2770,
+  "star_count": 2774,
   "fork_count": 100,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-14T22:22:46Z",
-  "updated_at": "2026-07-10T20:00:09Z",
-  "pushed_at": "2026-07-10T19:26:15Z",
+  "updated_at": "2026-07-11T11:58:51Z",
+  "pushed_at": "2026-07-11T10:09:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -291,6 +302,10 @@
     {
       "date": "2026-07-10",
       "stars": 2770
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 2774
     }
   ]
 }

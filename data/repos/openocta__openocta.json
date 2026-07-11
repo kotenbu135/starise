@@ -3,7 +3,7 @@
   "owner": "openocta",
   "name": "openocta",
   "full_name": "openocta/openocta",
-  "description": "Open-source work buddy. Open-source personal desktop AI agent.Go runtime for office/ITops/marketing workflows.",
+  "description": "Open-source work mate. Open-source personal desktop AI agent.Go runtime for office/ITops/marketing workflows.",
   "description_ja": "",
   "url": "https://github.com/openocta/openocta",
   "homepage_url": "http://www.openocta.com",
@@ -13,23 +13,26 @@
     "ai",
     "ai-agent",
     "ai-assistants",
+    "clawhub",
     "golang",
     "hermes",
+    "itops",
     "llm",
+    "multi-agent",
     "office",
     "office-automation",
     "openclaw",
     "openhuman",
     "work",
-    "workbuddy"
+    "workmate"
   ],
-  "star_count": 2975,
-  "fork_count": 329,
+  "star_count": 2979,
+  "fork_count": 330,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T09:12:26Z",
-  "updated_at": "2026-07-10T14:47:46Z",
-  "pushed_at": "2026-07-10T06:29:25Z",
+  "updated_at": "2026-07-11T13:40:57Z",
+  "pushed_at": "2026-07-11T13:40:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -295,6 +298,10 @@
     {
       "date": "2026-07-10",
       "stars": 2975
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 2979
     }
   ]
 }

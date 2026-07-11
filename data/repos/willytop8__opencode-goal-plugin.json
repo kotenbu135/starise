@@ -3,24 +3,28 @@
   "owner": "willytop8",
   "name": "opencode-goal-plugin",
   "full_name": "willytop8/opencode-goal-plugin",
-  "description": "adds /goal functionality similar to that used in Codex and Claude Code to OpenCode. Please report them if you have any issues!",
+  "description": "Durable, guarded goal workflows for OpenCode with persistence, safety limits, agent tools, and evidence-gated completion.",
   "description_ja": "",
   "url": "https://github.com/willytop8/OpenCode-goal-plugin",
-  "homepage_url": "",
+  "homepage_url": "https://www.npmjs.com/package/opencode-goal-plugin",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "ai-agent",
+    "automation",
     "goals",
+    "javascript",
+    "npm",
     "opencode",
     "opencode-plugin"
   ],
-  "star_count": 175,
-  "fork_count": 13,
+  "star_count": 176,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-15T05:34:59Z",
-  "updated_at": "2026-07-10T18:02:14Z",
-  "pushed_at": "2026-07-08T01:57:00Z",
+  "updated_at": "2026-07-11T11:50:00Z",
+  "pushed_at": "2026-07-11T07:45:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -162,6 +166,10 @@
     {
       "date": "2026-07-10",
       "stars": 175
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 176
     }
   ]
 }

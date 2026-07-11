@@ -3,33 +3,35 @@
   "owner": "tastyeffectco",
   "name": "sandboxd",
   "full_name": "tastyeffectco/sandboxd",
-  "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+  "description": "Open-source engine behind AI app-builders — isolated dev sandboxes, a built-in coding agent, and live preview URLs. Self-host in one command.",
   "description_ja": "",
   "url": "https://github.com/tastyeffectco/sandboxd",
   "homepage_url": "https://www.sandboxd.io/",
   "language": "Go",
   "license": "MIT",
   "topics": [
+    "agent-infrastructure",
     "ai",
-    "ai-agent",
-    "dev-environment",
+    "ai-agents",
+    "app-builder",
+    "coding-agent",
     "developer-tools",
+    "devtools",
     "docker",
-    "isolation",
-    "pinokio",
-    "preview",
-    "preview-environment",
+    "llm",
+    "open-source",
+    "paas",
+    "preview-environments",
     "sandbox",
-    "sandboxing",
     "self-hosted"
   ],
-  "star_count": 715,
-  "fork_count": 35,
+  "star_count": 718,
+  "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-03T18:55:02Z",
-  "updated_at": "2026-07-10T21:19:45Z",
-  "pushed_at": "2026-07-10T21:19:34Z",
+  "updated_at": "2026-07-11T18:20:04Z",
+  "pushed_at": "2026-07-11T18:19:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -171,6 +173,10 @@
     {
       "date": "2026-07-10",
       "stars": 715
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 718
     }
   ]
 }

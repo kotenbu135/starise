@@ -3,7 +3,7 @@
   "owner": "eramitgupta",
   "name": "laravel-disposable-email",
   "full_name": "eramitgupta/laravel-disposable-email",
-  "description": "A Laravel package to detect and block disposable email addresses with 110.88K+ known domains.",
+  "description": "Feature-rich Laravel package for detecting and blocking disposable email addresses with runtime checks and smart validation.",
   "description_ja": "",
   "url": "https://github.com/eramitgupta/laravel-disposable-email",
   "homepage_url": "https://erag.in/laravel-disposable-email/",
@@ -24,7 +24,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-18T16:57:56Z",
-  "updated_at": "2026-07-10T17:24:17Z",
+  "updated_at": "2026-07-10T23:50:35Z",
   "pushed_at": "2026-06-29T06:43:25Z",
   "deleted_at": "",
   "star_history": [
@@ -286,6 +286,10 @@
     },
     {
       "date": "2026-07-10",
+      "stars": 255
+    },
+    {
+      "date": "2026-07-11",
       "stars": 255
     }
   ]

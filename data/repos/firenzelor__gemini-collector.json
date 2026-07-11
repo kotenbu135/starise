@@ -3,34 +3,41 @@
   "owner": "firenzelor",
   "name": "gemini-collector",
   "full_name": "firenzelor/gemini-collector",
-  "description": "Back up all your Google Gemini conversations \u0026 AI-generated media locally as json. Native macOS \u0026 Windows ",
-  "description_ja": "Google Gemini のすべての会話と AI 生成メディアを JSON としてローカルにバックアップ。macOS \u0026 Windows ネイティブ対応",
+  "description": "Native macOS \u0026 Windows Google Gemini desktop client, chat backup and conversation exporter. Sync and archive all chat history, attachments, Deep Research, Canvas and AI-generated media locally as JSON.",
+  "description_ja": "",
   "url": "https://github.com/FirenzeLor/gemini-collector",
   "homepage_url": "",
   "language": "Rust",
   "license": "AGPL-3.0",
   "topics": [
     "chat-backup",
+    "chat-export",
+    "chat-history",
     "conversation-backup",
+    "conversation-export",
+    "desktop-app",
     "gemini",
     "gemini-backup",
+    "gemini-chat-backup",
     "gemini-client",
     "gemini-export",
     "google",
     "google-gemini",
     "json",
+    "macos",
     "react",
     "rust",
     "tauri",
-    "tauri-app"
+    "tauri-app",
+    "windows"
   ],
   "star_count": 41,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T22:11:39Z",
-  "updated_at": "2026-07-06T05:44:21Z",
-  "pushed_at": "2026-06-05T07:55:18Z",
+  "updated_at": "2026-07-11T18:16:47Z",
+  "pushed_at": "2026-07-11T18:02:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -287,6 +294,10 @@
     },
     {
       "date": "2026-07-10",
+      "stars": 41
+    },
+    {
+      "date": "2026-07-11",
       "stars": 41
     }
   ]

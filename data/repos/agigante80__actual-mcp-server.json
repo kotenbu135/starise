@@ -3,7 +3,7 @@
   "owner": "agigante80",
   "name": "actual-mcp-server",
   "full_name": "agigante80/actual-mcp-server",
-  "description": "Docker MCP server connecting Claude Desktop/LibreChat/LobeChat to Actual Budget for natural-language budgeting, transaction management, and financial insights.",
+  "description": "Talk to your self-hosted Actual Budget from any MCP client: a remote HTTP server for LibreChat/LobeChat or a local stdio process for Claude Desktop, with 71 tools for transactions, budgets, rules, and bank sync. No Docker needed for local use.",
   "description_ja": "",
   "url": "https://github.com/agigante80/actual-mcp-server",
   "homepage_url": "",
@@ -26,13 +26,13 @@
     "personal-finance",
     "typescript"
   ],
-  "star_count": 31,
-  "fork_count": 11,
+  "star_count": 32,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-02T16:48:55Z",
-  "updated_at": "2026-07-10T19:18:41Z",
-  "pushed_at": "2026-07-10T19:39:06Z",
+  "updated_at": "2026-07-11T08:34:16Z",
+  "pushed_at": "2026-07-11T06:31:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +54,10 @@
     {
       "date": "2026-07-10",
       "stars": 31
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 32
     }
   ]
 }

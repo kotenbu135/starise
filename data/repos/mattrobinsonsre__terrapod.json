@@ -11,33 +11,33 @@
   "license": "MPL-2.0",
   "topics": [
     "ai",
-    "bedrock",
     "devops",
+    "gitops",
     "helm-chart",
     "infrastructure-as-code",
     "kubernetes",
-    "llm",
     "oidc",
     "opa",
     "open-source",
     "opentofu",
     "policy-as-code",
-    "postgresql",
-    "python",
     "rbac",
-    "saml",
     "self-hosted",
     "state-management",
+    "tacos",
     "terraform",
-    "terraform-cloud"
+    "terraform-cloud",
+    "terraform-cloud-alternative",
+    "terraform-enterprise-alternative",
+    "terragrunt"
   ],
-  "star_count": 243,
+  "star_count": 244,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-27T15:25:47Z",
-  "updated_at": "2026-07-10T20:32:41Z",
-  "pushed_at": "2026-07-10T20:32:31Z",
+  "updated_at": "2026-07-11T19:41:48Z",
+  "pushed_at": "2026-07-11T19:41:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -299,6 +299,10 @@
     {
       "date": "2026-07-10",
       "stars": 243
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 244
     }
   ]
 }

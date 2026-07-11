@@ -3,7 +3,7 @@
   "owner": "zackriya-solutions",
   "name": "meetily",
   "full_name": "zackriya-solutions/meetily",
-  "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS \u0026 Windows.  The #1 Ai Meeting Minutes generator.",
+  "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS \u0026 Windows. Understand How to write meeting minutes",
   "description_ja": "",
   "url": "https://github.com/Zackriya-Solutions/meetily",
   "homepage_url": "https://meetily.ai",
@@ -31,12 +31,12 @@
     "whisper-cpp",
     "windows"
   ],
-  "star_count": 22626,
-  "fork_count": 2379,
+  "star_count": 23123,
+  "fork_count": 2434,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-26T12:52:14Z",
-  "updated_at": "2026-07-10T21:30:17Z",
+  "updated_at": "2026-07-11T20:19:13Z",
   "pushed_at": "2026-06-05T13:53:17Z",
   "deleted_at": "",
   "star_history": [
@@ -303,6 +303,10 @@
     {
       "date": "2026-07-10",
       "stars": 22626
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 23123
     }
   ]
 }

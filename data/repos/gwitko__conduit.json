@@ -6,7 +6,7 @@
   "description": "A mobile terminal workspace for Android and iOS with SSH, Mosh, SFTP, hardware-key auth, tmux helpers, and an optional local shell.",
   "description_ja": "",
   "url": "https://github.com/gwitko/Conduit",
-  "homepage_url": "https://conduit.gwitko.dev/",
+  "homepage_url": "https://conduit.gwitko.dev",
   "language": "Dart",
   "license": "Apache-2.0",
   "topics": [
@@ -31,13 +31,13 @@
     "terminal-emulator",
     "yubikey"
   ],
-  "star_count": 283,
-  "fork_count": 17,
+  "star_count": 286,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-02T11:22:03Z",
-  "updated_at": "2026-07-10T19:16:09Z",
-  "pushed_at": "2026-07-10T19:43:04Z",
+  "updated_at": "2026-07-11T13:31:33Z",
+  "pushed_at": "2026-07-11T16:13:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -119,6 +119,10 @@
     {
       "date": "2026-07-10",
       "stars": 283
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 286
     }
   ]
 }

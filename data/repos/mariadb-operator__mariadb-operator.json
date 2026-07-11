@@ -10,6 +10,9 @@
   "language": "Go",
   "license": "MIT",
   "topics": [
+    "agent-skills",
+    "agentic-ai",
+    "ai",
     "backup",
     "cert-manager",
     "database",
@@ -18,10 +21,7 @@
     "kubernetes",
     "kubernetes-operator",
     "mariadb",
-    "mariadb-galera",
     "mariadb-replication",
-    "mariadb-server",
-    "maxscale",
     "mysql",
     "openshift",
     "operator",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-16T17:50:20Z",
-  "updated_at": "2026-07-08T17:53:32Z",
-  "pushed_at": "2026-07-10T19:49:26Z",
+  "updated_at": "2026-07-11T17:03:46Z",
+  "pushed_at": "2026-07-11T17:00:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -302,6 +302,10 @@
     },
     {
       "date": "2026-07-10",
+      "stars": 986
+    },
+    {
+      "date": "2026-07-11",
       "stars": 986
     }
   ]

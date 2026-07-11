@@ -3,7 +3,7 @@
   "owner": "vortx-ai",
   "name": "emem",
   "full_name": "vortx-ai/emem",
-  "description": "Cite-able Earth Memory for AI agents",
+  "description": "Shared Memory Token of the Real World for talkaholic multi-agent systems.",
   "description_ja": "",
   "url": "https://github.com/Vortx-AI/emem",
   "homepage_url": "https://emem.dev/",
@@ -15,19 +15,23 @@
     "ed25519",
     "geospatial",
     "hallucination-control",
+    "long-context",
+    "long-running-agents",
+    "long-running-tasks",
+    "long-term-memory",
     "machine-learning",
-    "mcp",
     "memory",
     "remote-sensing",
-    "space"
+    "world-db",
+    "world-models"
   ],
-  "star_count": 44,
+  "star_count": 45,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-24T20:31:22Z",
-  "updated_at": "2026-07-10T20:53:06Z",
-  "pushed_at": "2026-07-10T13:59:51Z",
+  "updated_at": "2026-07-11T18:24:30Z",
+  "pushed_at": "2026-07-11T08:26:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -197,6 +201,10 @@
     {
       "date": "2026-07-10",
       "stars": 44
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 45
     }
   ]
 }
