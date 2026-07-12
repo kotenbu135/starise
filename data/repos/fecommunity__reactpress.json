@@ -3,7 +3,7 @@
   "owner": "fecommunity",
   "name": "reactpress",
   "full_name": "fecommunity/reactpress",
-  "description": "🔥 ReactPress - From zero to blog/CMS — fast, smooth, and effortless.（一个让开发者轻松构建CMS与博客系统的解决方案。）Demo：https://blog.gaoredu.com",
+  "description": "🔥 ReactPress -The publishing system for React developers.（面向 React 开发者的发布系统。）Demo：https://blog.gaoredu.com",
   "description_ja": "",
   "url": "https://github.com/fecommunity/reactpress",
   "homepage_url": "https://docs.gaoredu.com",
@@ -19,20 +19,22 @@
     "mysql",
     "nestjs",
     "nextjs",
+    "plugin",
     "react",
     "reactpress",
     "seo",
     "theme",
     "typescript",
-    "vercel"
+    "vercel",
+    "wordpress"
   ],
-  "star_count": 723,
+  "star_count": 721,
   "fork_count": 54,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-08T16:24:21Z",
-  "updated_at": "2026-07-11T19:04:43Z",
-  "pushed_at": "2026-07-11T19:04:39Z",
+  "updated_at": "2026-07-12T15:31:54Z",
+  "pushed_at": "2026-07-12T15:31:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -298,6 +300,10 @@
     {
       "date": "2026-07-11",
       "stars": 723
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 721
     }
   ]
 }

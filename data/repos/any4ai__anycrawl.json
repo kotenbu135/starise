@@ -7,7 +7,7 @@
   "description_ja": "AnyCrawl: Web サイトを LLM 対応データに変換し、Google/Bing/Baidu などから構造化 SERP 結果を抽出する Node.js/TypeScript クローラー。バルク処理のためのネイティブマルチスレッドに対応。",
   "url": "https://github.com/any4ai/AnyCrawl",
   "homepage_url": "https://anycrawl.dev",
-  "language": "MDX",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "ai-scraping",
@@ -21,13 +21,13 @@
     "serp",
     "webscraper"
   ],
-  "star_count": 3341,
-  "fork_count": 357,
+  "star_count": 3366,
+  "fork_count": 358,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-31T04:28:11Z",
-  "updated_at": "2026-07-11T18:55:45Z",
-  "pushed_at": "2026-06-29T20:29:10Z",
+  "updated_at": "2026-07-12T16:45:47Z",
+  "pushed_at": "2026-07-12T12:45:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -297,6 +297,10 @@
     {
       "date": "2026-07-11",
       "stars": 3341
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 3366
     }
   ]
 }

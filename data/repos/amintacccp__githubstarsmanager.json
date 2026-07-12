@@ -3,20 +3,38 @@
   "owner": "amintacccp",
   "name": "githubstarsmanager",
   "full_name": "amintacccp/githubstarsmanager",
-  "description": "An app for managing github starred repositories. ",
+  "description": "AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking",
   "description_ja": "",
   "url": "https://github.com/AmintaCCCP/GithubStarsManager",
-  "homepage_url": "https://gsm.aminta.top/",
+  "homepage_url": "https://gsm.aminta.top",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 3192,
-  "fork_count": 150,
+  "topics": [
+    "ai-powered",
+    "bookmark-manager",
+    "cloudflare-workers",
+    "desktop-app",
+    "electron",
+    "fork-manager",
+    "gist-client",
+    "github-api",
+    "github-client",
+    "github-helper",
+    "github-stars",
+    "productivity",
+    "release-tracker",
+    "repo-manager",
+    "semantic-search",
+    "star-manager",
+    "trending-repositories"
+  ],
+  "star_count": 3197,
+  "fork_count": 151,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-29T10:39:59Z",
-  "updated_at": "2026-07-11T16:50:54Z",
-  "pushed_at": "2026-07-11T14:06:02Z",
+  "updated_at": "2026-07-12T16:44:09Z",
+  "pushed_at": "2026-07-12T16:44:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -274,6 +292,10 @@
     {
       "date": "2026-07-11",
       "stars": 3192
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 3197
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "cdeust",
   "name": "cortex",
   "full_name": "cdeust/cortex",
-  "description": "Accountable memory for AI agents — it forgets on purpose, says \"I don't know\" when unsure, and flags its own contradictions. Local-first · MCP · MIT.",
+  "description": "Persistent memory for Claude Code that holds itself accountable — forgets on purpose, says \"I don't know\" when unsure, flags its own contradictions. Local-first · MCP · MIT.",
   "description_ja": "",
   "url": "https://github.com/cdeust/Cortex",
   "homepage_url": "https://ai-architect.tools",
@@ -12,7 +12,6 @@
   "topics": [
     "agent-memory-system",
     "anthropic",
-    "artificial-intelligence",
     "causal-inference",
     "claude",
     "claude-code",
@@ -24,6 +23,7 @@
     "llm-memory",
     "long-term-memory",
     "mcp-server",
+    "memory",
     "model-context-protocol",
     "neuroscience",
     "persistent-memory",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T11:24:37Z",
-  "updated_at": "2026-07-11T19:10:27Z",
-  "pushed_at": "2026-07-11T19:10:19Z",
+  "updated_at": "2026-07-12T17:17:44Z",
+  "pushed_at": "2026-07-12T17:17:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -182,6 +182,10 @@
     },
     {
       "date": "2026-07-11",
+      "stars": 66
+    },
+    {
+      "date": "2026-07-12",
       "stars": 66
     }
   ]

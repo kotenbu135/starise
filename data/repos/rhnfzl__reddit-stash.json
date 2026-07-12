@@ -3,7 +3,7 @@
   "owner": "rhnfzl",
   "name": "reddit-stash",
   "full_name": "rhnfzl/reddit-stash",
-  "description": "Take the control of your reddit saved post and the comments with context locally or on dropbox",
+  "description": "Take the control of your reddit saved post and the comments with context locally, dropbox or S3",
   "description_ja": "",
   "url": "https://github.com/rhnfzl/reddit-stash",
   "homepage_url": "",
@@ -12,20 +12,22 @@
   "topics": [
     "docker",
     "dropbox-api",
+    "localstorage",
     "nas-storage",
     "python",
     "python-reddit",
     "reddit",
     "reddit-saved-posts",
-    "reddit-scraper"
+    "reddit-scraper",
+    "s3-bucket"
   ],
   "star_count": 111,
   "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-25T12:35:34Z",
-  "updated_at": "2026-07-09T17:30:20Z",
-  "pushed_at": "2026-07-11T17:18:38Z",
+  "updated_at": "2026-07-12T13:52:08Z",
+  "pushed_at": "2026-07-12T07:05:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -246,6 +248,10 @@
     },
     {
       "date": "2026-07-11",
+      "stars": 111
+    },
+    {
+      "date": "2026-07-12",
       "stars": 111
     }
   ]

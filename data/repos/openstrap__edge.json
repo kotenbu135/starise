@@ -3,7 +3,7 @@
   "owner": "openstrap",
   "name": "edge",
   "full_name": "openstrap/edge",
-  "description": "OpenStrap's Flutter app: drains a WHOOP 4.0 band over Bluetooth, syncs raw data to your own backend, and shows what your strap actually measures.",
+  "description": "An app that makes a WHOOP 4.0 useful without a WHOOP subscription — pairs over Bluetooth, computes everything on your phone, no cloud required.",
   "description_ja": "",
   "url": "https://github.com/OpenStrap/edge",
   "homepage_url": "",
@@ -11,21 +11,26 @@
   "license": "MIT",
   "topics": [
     "ble",
+    "bluetooth-low-energy",
     "dart",
     "flutter",
+    "health-tracking",
+    "on-device",
+    "open-source",
     "quantified-self",
     "reverse-engineering",
     "right-to-repair",
     "wearable",
+    "wearables",
     "whoop"
   ],
-  "star_count": 173,
-  "fork_count": 42,
+  "star_count": 177,
+  "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T19:02:48Z",
-  "updated_at": "2026-07-11T18:25:17Z",
-  "pushed_at": "2026-07-11T18:25:15Z",
+  "updated_at": "2026-07-12T12:40:34Z",
+  "pushed_at": "2026-07-12T10:09:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -143,6 +148,10 @@
     {
       "date": "2026-07-11",
       "stars": 173
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 177
     }
   ]
 }

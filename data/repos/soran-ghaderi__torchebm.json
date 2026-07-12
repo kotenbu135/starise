@@ -12,29 +12,32 @@
   "topics": [
     "contrastive-divergence",
     "cuda",
+    "cuda-optimization",
     "diffusion-models",
-    "energy-based-model",
+    "energy-based-models",
     "equilibrium",
     "equilibrium-matching",
-    "equilibrium-modeling",
-    "generative-ai",
+    "flow-matching",
+    "generative-models",
     "hamiltonian",
     "hamiltonian-monte-carlo",
     "langevin-dynamics",
+    "mcmc-sampling",
     "noise-contrastive-estimation",
+    "open-source",
     "probabilistic-machine-learning",
-    "reasoning",
+    "pytorch",
     "sampling-methods",
     "score-matching",
     "variational-inference"
   ],
-  "star_count": 97,
-  "fork_count": 10,
+  "star_count": 98,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-05T12:41:38Z",
-  "updated_at": "2026-07-09T23:07:16Z",
-  "pushed_at": "2026-07-09T23:10:16Z",
+  "updated_at": "2026-07-12T18:00:42Z",
+  "pushed_at": "2026-07-12T01:06:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -304,6 +307,10 @@
     {
       "date": "2026-07-11",
       "stars": 97
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 98
     }
   ]
 }

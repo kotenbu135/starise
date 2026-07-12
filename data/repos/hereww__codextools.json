@@ -3,23 +3,31 @@
   "owner": "hereww",
   "name": "codextools",
   "full_name": "hereww/codextools",
-  "description": "",
+  "description": "Desktop control center for ChatGPT Codex: launch, provider switching, enhancements, repairs, and diagnostics.",
   "description_ja": "",
   "url": "https://github.com/hereww/codextools",
-  "homepage_url": "",
+  "homepage_url": "https://hereww.github.io/codextools/",
   "language": "Go",
   "license": "",
   "topics": [
+    "chatgpt-codex",
+    "chatgpt-desktop",
     "codex",
-    "codex-desktop"
+    "codex-desktop",
+    "codex-manager",
+    "codex-tools",
+    "desktop-app",
+    "mcp",
+    "plugins",
+    "skills"
   ],
   "star_count": 87,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-24T08:04:11Z",
-  "updated_at": "2026-07-11T17:22:10Z",
-  "pushed_at": "2026-07-11T17:21:59Z",
+  "updated_at": "2026-07-12T17:04:14Z",
+  "pushed_at": "2026-07-12T16:26:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -184,6 +192,10 @@
     },
     {
       "date": "2026-07-11",
+      "stars": 87
+    },
+    {
+      "date": "2026-07-12",
       "stars": 87
     }
   ]

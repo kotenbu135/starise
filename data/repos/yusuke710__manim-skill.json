@@ -3,8 +3,8 @@
   "owner": "yusuke710",
   "name": "manim-skill",
   "full_name": "yusuke710/manim-skill",
-  "description": "Claude Code Skill for creating animations with Manim. Claude Code autonomously plans scenes, writes Manim code, renders videos, and refines based on feedback. ",
-  "description_ja": "Manim でアニメーションを作成するための Claude Code スキル。Claude Code がシーンを自律的に計画し、Manim コードを書き、動画をレンダリングし、フィードバックを基に改善します。",
+  "description": "SKILL.md for creating animations with Manim. Coding Agent autonomously plans scenes, writes Manim code, renders videos, and refines based on feedback. ",
+  "description_ja": "",
   "url": "https://github.com/Yusuke710/manim-skill",
   "homepage_url": "https://www.manimate.ai/",
   "language": "HTML",
@@ -17,15 +17,17 @@
     "claude-code",
     "claude-plugin",
     "claude-skills",
+    "codex",
+    "codex-skills",
     "manim",
     "maths"
   ],
-  "star_count": 109,
+  "star_count": 110,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-14T21:04:31Z",
-  "updated_at": "2026-07-10T12:25:22Z",
+  "updated_at": "2026-07-12T15:28:11Z",
   "pushed_at": "2026-01-26T04:13:19Z",
   "deleted_at": "",
   "star_history": [
@@ -296,6 +298,10 @@
     {
       "date": "2026-07-11",
       "stars": 109
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 110
     }
   ]
 }

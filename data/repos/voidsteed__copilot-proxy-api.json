@@ -3,19 +3,26 @@
   "owner": "voidsteed",
   "name": "copilot-proxy-api",
   "full_name": "voidsteed/copilot-proxy-api",
-  "description": "use github copilot in Claude code and Codex",
+  "description": "Local GitHub Copilot proxy with OpenAI Responses and Anthropic Messages API support for Claude Code, Codex CLI, and compatible clients.",
   "description_ja": "",
   "url": "https://github.com/voidsteed/copilot-proxy-api",
-  "homepage_url": "",
+  "homepage_url": "https://voidsteed.github.io/copilot-proxy-api/",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "anthropic-api",
+    "claude-code",
+    "codex-cli",
+    "github-copilot",
+    "llm-proxy",
+    "openai-responses-api"
+  ],
   "star_count": 29,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-20T22:41:24Z",
-  "updated_at": "2026-07-09T07:28:00Z",
+  "updated_at": "2026-07-12T05:07:34Z",
   "pushed_at": "2026-07-03T17:45:04Z",
   "deleted_at": "",
   "star_history": [
@@ -29,6 +36,10 @@
     },
     {
       "date": "2026-07-11",
+      "stars": 29
+    },
+    {
+      "date": "2026-07-12",
       "stars": 29
     }
   ]

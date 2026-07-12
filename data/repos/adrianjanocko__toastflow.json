@@ -7,7 +7,7 @@
   "description_ja": "フレームワーク非依存のトーストエンジン。Vue 3レンダラーとNuxtモジュール対応。型付きコア、滑らかなスタックアニメーション、CSSファーストのテーマ、レイアウト・挙動の完全制御。",
   "url": "https://github.com/adrianjanocko/toastflow",
   "homepage_url": "https://toastflow.top",
-  "language": "Vue",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "notification",
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-22T11:44:54Z",
-  "updated_at": "2026-07-08T16:37:50Z",
-  "pushed_at": "2026-07-04T06:29:17Z",
+  "updated_at": "2026-07-12T15:58:29Z",
+  "pushed_at": "2026-07-12T15:58:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -293,6 +293,10 @@
     },
     {
       "date": "2026-07-11",
+      "stars": 191
+    },
+    {
+      "date": "2026-07-12",
       "stars": 191
     }
   ]

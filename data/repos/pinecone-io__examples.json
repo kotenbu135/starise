@@ -6,24 +6,27 @@
   "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
   "description_ja": "Pineconeベクターデータベースをハンズオンで学ぶためのJupyter Notebook集",
   "url": "https://github.com/pinecone-io/examples",
-  "homepage_url": "",
+  "homepage_url": "https://docs.pinecone.io",
   "language": "Jupyter Notebook",
   "license": "MIT",
   "topics": [
     "ai",
     "jupyter-notebook",
     "llm",
+    "pinecone",
     "python",
+    "rag",
     "semantic-search",
-    "vector-database"
+    "vector-database",
+    "vector-search"
   ],
-  "star_count": 3026,
+  "star_count": 3027,
   "fork_count": 1072,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-03-09T19:42:10Z",
-  "updated_at": "2026-07-09T14:06:58Z",
-  "pushed_at": "2026-07-09T01:18:46Z",
+  "updated_at": "2026-07-12T08:37:06Z",
+  "pushed_at": "2026-07-11T20:48:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -293,6 +296,10 @@
     {
       "date": "2026-07-11",
       "stars": 3026
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 3027
     }
   ]
 }

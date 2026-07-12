@@ -3,7 +3,7 @@
   "owner": "7df-lab",
   "name": "devo",
   "full_name": "7df-lab/devo",
-  "description": "Open-source, model-neutral agent desktop/runtime for private, enterprise, and OpenAI-compatible model environments. Supports DeepSeek, Qwen, Kimi, Anthropic-compatible APIs, MCP, and local code search.",
+  "description": "Model-neutral agent desktop/runtime for private, enterprise, and OpenAI-compatible / Anthropic-compatible model API. Tested on DeepSeek, Qwen, Kimi, GLM models. Supports MCP,  Skills,and local code search.",
   "description_ja": "",
   "url": "https://github.com/7df-lab/devo",
   "homepage_url": "https://devo.7df.ai/",
@@ -26,13 +26,13 @@
     "qwen",
     "rust"
   ],
-  "star_count": 308,
+  "star_count": 309,
   "fork_count": 131,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T15:59:18Z",
-  "updated_at": "2026-07-11T18:16:56Z",
-  "pushed_at": "2026-07-11T04:00:04Z",
+  "updated_at": "2026-07-12T16:54:20Z",
+  "pushed_at": "2026-07-12T11:36:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -178,6 +178,10 @@
     {
       "date": "2026-07-11",
       "stars": 308
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 309
     }
   ]
 }

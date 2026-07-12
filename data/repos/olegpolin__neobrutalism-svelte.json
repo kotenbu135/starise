@@ -3,20 +3,29 @@
   "owner": "olegpolin",
   "name": "neobrutalism-svelte",
   "full_name": "olegpolin/neobrutalism-svelte",
-  "description": "",
+  "description": "Neobrutalism UI components for Svelte, built on shadcn-svelte",
   "description_ja": "",
   "url": "https://github.com/olegpolin/neobrutalism-svelte",
   "homepage_url": "https://neobrutalism-svelte.flenze.com",
   "language": "Svelte",
-  "license": "",
-  "topics": [],
-  "star_count": 65,
+  "license": "MIT",
+  "topics": [
+    "component-library",
+    "design-system",
+    "neobrutalism",
+    "shadcn-svelte",
+    "svelte",
+    "sveltekit",
+    "tailwindcss",
+    "ui-components"
+  ],
+  "star_count": 66,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-08T21:11:39Z",
-  "updated_at": "2026-07-11T19:23:18Z",
-  "pushed_at": "2026-07-11T19:23:12Z",
+  "updated_at": "2026-07-12T15:21:50Z",
+  "pushed_at": "2026-07-12T00:42:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +143,10 @@
     {
       "date": "2026-07-11",
       "stars": 65
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 66
     }
   ]
 }

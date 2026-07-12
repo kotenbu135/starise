@@ -3,19 +3,32 @@
   "owner": "albert-lsk",
   "name": "wechat-notebank",
   "full_name": "albert-lsk/wechat-notebank",
-  "description": "",
+  "description": "Archive WeChat Official Account articles as local Markdown for Obsidian, Logseq, and personal knowledge bases.",
   "description_ja": "",
   "url": "https://github.com/Albert-Lsk/wechat-notebank",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "article-archiver",
+    "cli",
+    "knowledge-base",
+    "local-first",
+    "logseq",
+    "markdown",
+    "obsidian",
+    "personal-knowledge-management",
+    "typescript",
+    "wechat",
+    "wechat-article",
+    "wechat-official-account"
+  ],
   "star_count": 35,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-13T09:55:29Z",
-  "updated_at": "2026-07-05T16:29:11Z",
+  "updated_at": "2026-07-12T15:36:21Z",
   "pushed_at": "2026-06-16T01:47:10Z",
   "deleted_at": "",
   "star_history": [
@@ -185,6 +198,10 @@
     },
     {
       "date": "2026-07-11",
+      "stars": 35
+    },
+    {
+      "date": "2026-07-12",
       "stars": 35
     }
   ]

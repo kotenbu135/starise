@@ -3,8 +3,8 @@
   "owner": "refactorfirst",
   "name": "refactorfirst",
   "full_name": "refactorfirst/refactorfirst",
-  "description": "Identifies and prioritizes God Classes Highly Coupled classes, and Class Cycles in Java codebases you should refactor first.",
-  "description_ja": "Javaコードベースにおいて優先的にリファクタリングすべきGod Class、高結合クラス、クラスサイクルを特定して優先順位付けします",
+  "description": "Identifies and prioritizes God Classes, Highly Coupled classes, and Class Cycles in Java codebases you should refactor first.",
+  "description_ja": "",
   "url": "https://github.com/refactorfirst/RefactorFirst",
   "homepage_url": "",
   "language": "Java",
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-01T13:48:21Z",
-  "updated_at": "2026-07-10T12:47:02Z",
-  "pushed_at": "2026-07-08T22:02:44Z",
+  "updated_at": "2026-07-12T20:03:52Z",
+  "pushed_at": "2026-07-12T20:03:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -295,6 +295,10 @@
     },
     {
       "date": "2026-07-11",
+      "stars": 538
+    },
+    {
+      "date": "2026-07-12",
       "stars": 538
     }
   ]

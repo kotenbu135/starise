@@ -3,25 +3,32 @@
   "owner": "btraceio",
   "name": "btrace",
   "full_name": "btraceio/btrace",
-  "description": "BTrace - a safe, dynamic tracing tool for the Java platform",
-  "description_ja": "BTrace - Javaプラットフォーム向けの安全な動的トレースツール",
+  "description": "Production-safe dynamic tracing and diagnostics for Java applications—attach to live JVMs with no restart or recompilation.",
+  "description_ja": "",
   "url": "https://github.com/btraceio/btrace",
   "homepage_url": "",
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [
     "btrace",
+    "bytecode-instrumentation",
+    "diagnostics",
+    "dtrace",
     "java",
-    "java-application",
-    "java-platform"
+    "java-agent",
+    "jvm",
+    "observability",
+    "profiling",
+    "runtime-instrumentation",
+    "tracing"
   ],
   "star_count": 5990,
-  "fork_count": 955,
+  "fork_count": 956,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-08-28T18:58:24Z",
-  "updated_at": "2026-07-11T16:00:24Z",
-  "pushed_at": "2026-07-11T16:00:09Z",
+  "updated_at": "2026-07-12T18:02:46Z",
+  "pushed_at": "2026-07-12T19:24:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -290,6 +297,10 @@
     },
     {
       "date": "2026-07-11",
+      "stars": 5990
+    },
+    {
+      "date": "2026-07-12",
       "stars": 5990
     }
   ]

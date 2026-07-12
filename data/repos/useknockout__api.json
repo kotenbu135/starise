@@ -3,20 +3,40 @@
   "owner": "useknockout",
   "name": "api",
   "full_name": "useknockout/api",
-  "description": "",
+  "description": "State-of-the-art background removal API for images and video. BiRefNet on Modal GPUs, ~200ms per image. 26 endpoints: cutouts, masks, PSD export, upscale, face restore, inpaint, collage, studio shots, video with ProRes 4444 alpha. MIT, self-hostable, 10x cheaper than remove.bg.",
   "description_ja": "",
   "url": "https://github.com/useknockout/api",
-  "homepage_url": "",
+  "homepage_url": "https://useknockout.com/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 56,
+  "topics": [
+    "alpha-matting",
+    "api",
+    "background-removal",
+    "birefnet",
+    "claude",
+    "computer-vision",
+    "deep-learning",
+    "developer-tools",
+    "ecommerce",
+    "fastapi",
+    "image-editing",
+    "image-processing",
+    "image-segmentation",
+    "modal",
+    "python",
+    "remove-background",
+    "sdk",
+    "transparent-background",
+    "video-processing"
+  ],
+  "star_count": 57,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-22T22:49:55Z",
-  "updated_at": "2026-07-11T01:16:45Z",
-  "pushed_at": "2026-07-11T01:16:41Z",
+  "updated_at": "2026-07-12T19:26:53Z",
+  "pushed_at": "2026-07-11T22:35:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -270,6 +290,10 @@
     {
       "date": "2026-07-11",
       "stars": 56
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 57
     }
   ]
 }

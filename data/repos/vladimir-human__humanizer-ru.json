@@ -3,7 +3,7 @@
   "owner": "vladimir-human",
   "name": "humanizer-ru",
   "full_name": "vladimir-human/humanizer-ru",
-  "description": "Убирает признаки машинной генерации в русском тексте",
+  "description": "Скилл для ИИ-агентов: убирает следы машинной генерации из русского текста — 38 паттернов и 35 regex-маркеров | Russian AI-writing humanizer skill",
   "description_ja": "",
   "url": "https://github.com/Vladimir-Human/humanizer-ru",
   "homepage_url": "https://skills.sh/vladimir-human/humanizer-ru/humanizer-ru",
@@ -13,23 +13,31 @@
     "agent-skills",
     "ai",
     "ai-detection",
+    "ai-humanizer",
     "ai-text",
+    "ai-writing",
     "claude",
+    "claude-code",
     "claude-skills",
+    "codex",
+    "cursor",
+    "gemini-cli",
     "humanizer",
     "llm",
     "nlp",
+    "opencode",
     "prompt-engineering",
     "russian",
+    "russian-nlp",
     "text-humanization"
   ],
-  "star_count": 61,
-  "fork_count": 3,
+  "star_count": 65,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-21T15:02:29Z",
-  "updated_at": "2026-07-09T13:53:54Z",
-  "pushed_at": "2026-07-11T15:56:24Z",
+  "updated_at": "2026-07-12T19:43:34Z",
+  "pushed_at": "2026-07-12T02:24:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -215,6 +223,10 @@
     {
       "date": "2026-07-11",
       "stars": 61
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 65
     }
   ]
 }

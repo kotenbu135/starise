@@ -3,21 +3,23 @@
   "owner": "halfrost",
   "name": "leetcode-go",
   "full_name": "halfrost/leetcode-go",
-  "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
-  "description_ja": "GoによるLeetCode解答集。テストカバレッジ100%、実行時間でランタイム上位100%達成 / LeetCode題解",
+  "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解",
+  "description_ja": "",
   "url": "https://github.com/halfrost/LeetCode-Go",
   "homepage_url": "https://books.halfrost.com/leetcode",
   "language": "Go",
   "license": "MIT",
   "topics": [
     "acm-icpc",
-    "algo",
     "algorithm",
     "algorithm-competitions",
     "algorithms",
     "algorithms-and-data-structures",
+    "coding-interviews",
+    "competitive-programming",
+    "data-structures",
     "dynamic-programming",
-    "facebook",
+    "ebook",
     "go",
     "golang",
     "interview-questions",
@@ -25,15 +27,14 @@
     "leetcode-go",
     "leetcode-golang",
     "leetcode-solutions",
-    "math",
-    "pattern"
+    "math"
   ],
   "star_count": 33784,
   "fork_count": 5728,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-07-18T00:06:14Z",
-  "updated_at": "2026-07-11T13:36:06Z",
+  "updated_at": "2026-07-12T12:07:23Z",
   "pushed_at": "2026-07-08T01:05:41Z",
   "deleted_at": "",
   "star_history": [
@@ -303,6 +304,10 @@
     },
     {
       "date": "2026-07-11",
+      "stars": 33784
+    },
+    {
+      "date": "2026-07-12",
       "stars": 33784
     }
   ]
