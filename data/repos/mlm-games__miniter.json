@@ -3,11 +3,11 @@
   "owner": "mlm-games",
   "name": "miniter",
   "full_name": "mlm-games/miniter",
-  "description": "Basic non-linear video editor for basic clip concatination and trimming (currently only works well for h264, web freezes and will be slower, but exports)",
+  "description": "Basic non-linear video editor for basic clip concatination and trimming (web will be slower, but exports)",
   "description_ja": "",
   "url": "https://github.com/mlm-games/Miniter",
   "homepage_url": "https://mlm-games.github.io/Miniter/",
-  "language": "Kotlin",
+  "language": "Rust",
   "license": "GPL-3.0",
   "topics": [
     "video-editing",
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-25T13:52:53Z",
-  "updated_at": "2026-07-12T12:01:01Z",
-  "pushed_at": "2026-07-12T12:29:38Z",
+  "updated_at": "2026-07-13T14:47:14Z",
+  "pushed_at": "2026-07-13T13:35:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -269,6 +269,10 @@
     },
     {
       "date": "2026-07-12",
+      "stars": 75
+    },
+    {
+      "date": "2026-07-13",
       "stars": 75
     }
   ]

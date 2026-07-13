@@ -3,20 +3,20 @@
   "owner": "chillzhuang",
   "name": "springblade",
   "full_name": "chillzhuang/springblade",
-  "description": "SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java17 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 3.5 、Spring Cloud 2025 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。",
-  "description_ja": "SpringBladeは商用プロジェクトからアップグレード最適化されたSpringCloud分散マイクロサービスアーキテクチャとSpringBootモノリシックマイクロサービスアーキテクチャを併存させた総合プロジェクトです。Java 17 APIでビジネスコードを再設計し、アリババコーディング規約に完全準拠。Spring Boot 3.5、Spring Cloud 2025、MyBatisなどのコア技術を採用し、ReactとVueの2つのフロントエンドフレームワークを用いたエンタープライズ級SaaSマルチテナントマイクロサービスプラットフォームの迅速な構築を支援します。",
+  "description": "SpringBlade 是一个由商业级项目升级优化而来的微服务架构，采用Spring Boot 4 、Spring Cloud 2025、Java 21  等核心技术构建，完全遵循阿里巴巴编码规范。提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。",
+  "description_ja": "",
   "url": "https://github.com/chillzhuang/SpringBlade",
   "homepage_url": "https://bladex.cn",
-  "language": "PLpgSQL",
+  "language": "Java",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 6909,
+  "star_count": 6910,
   "fork_count": 1385,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-01-30T09:02:04Z",
-  "updated_at": "2026-07-09T18:36:53Z",
-  "pushed_at": "2026-05-10T15:39:22Z",
+  "updated_at": "2026-07-13T20:16:10Z",
+  "pushed_at": "2026-07-13T07:45:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -290,6 +290,10 @@
     {
       "date": "2026-07-12",
       "stars": 6909
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 6910
     }
   ]
 }

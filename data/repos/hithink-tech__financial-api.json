@@ -3,20 +3,31 @@
   "owner": "hithink-tech",
   "name": "financial-api",
   "full_name": "hithink-tech/financial-api",
-  "description": "同花顺金融数据API，提供A股行情、财务报表、复权、交易日历等数据接口，支持REST/MCP、AI Agent与量化研究，助力快速取数和自动化分析。（Tonghuashun Financial Data API provides data interfaces for A-share market data, financial statements, adjustment factors, trading calendars, and more. It supports REST/MCP, AI Agents, and quantitative research, enabling fast data access and automated analysis.）",
+  "description": "同花顺官方 A股金融数据服务，提供股票实时行情、历史行情、财务报表、指数、板块、涨停等数据，适用于 AI Agent、量化研究和应用开发，支持 API、MCP、CLI 和 Python。Official Tonghuashun (HiThink) A-share financial data service providing real-time and historical stock market data, financial statements, indices, sectors and limit-up data for AI agents, quantitative research and application development.",
   "description_ja": "",
   "url": "https://github.com/HiThink-Tech/Financial-API",
-  "homepage_url": "",
+  "homepage_url": "https://fuyao.aicubes.cn/",
   "language": "TypeScript",
-  "license": "",
-  "topics": [],
-  "star_count": 171,
+  "license": "MIT",
+  "topics": [
+    "a-share",
+    "ai-agent",
+    "china-stock-market",
+    "cli",
+    "duckdb",
+    "financial-data",
+    "mcp",
+    "npm-package",
+    "quantitative-finance",
+    "rest-api"
+  ],
+  "star_count": 180,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T02:28:17Z",
-  "updated_at": "2026-07-12T15:37:13Z",
-  "pushed_at": "2026-07-10T08:36:40Z",
+  "updated_at": "2026-07-13T17:04:49Z",
+  "pushed_at": "2026-07-13T12:13:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -114,6 +125,10 @@
     {
       "date": "2026-07-12",
       "stars": 171
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 180
     }
   ]
 }

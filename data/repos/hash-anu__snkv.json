@@ -3,7 +3,7 @@
   "owner": "hash-anu",
   "name": "snkv",
   "full_name": "hash-anu/snkv",
-  "description": "SNKV — a lightweight key-value store focused on simplicity, security and performance file based database , written using b-tree directly. Now supports vector HNSW , Join the discussion: https://discord.gg/EUb4Y5qE",
+  "description": "SNKV — a lightweight key-value store focused on simplicity, security and performance file based database , written using sqlite's b-tree directly. Now supports vector HNSW , Join the discussion: https://discord.gg/EUb4Y5qE",
   "description_ja": "",
   "url": "https://github.com/hash-anu/snkv",
   "homepage_url": "https://hash-anu.github.io/snkv/",
@@ -30,7 +30,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-10T10:10:06Z",
-  "updated_at": "2026-06-24T08:33:03Z",
+  "updated_at": "2026-07-13T08:08:59Z",
   "pushed_at": "2026-06-29T10:28:59Z",
   "deleted_at": "",
   "star_history": [
@@ -304,6 +304,10 @@
     },
     {
       "date": "2026-07-12",
+      "stars": 77
+    },
+    {
+      "date": "2026-07-13",
       "stars": 77
     }
   ]

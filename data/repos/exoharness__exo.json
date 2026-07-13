@@ -3,20 +3,24 @@
   "owner": "exoharness",
   "name": "exo",
   "full_name": "exoharness/exo",
-  "description": "",
+  "description": "Exo is an agent + harness architecture that is fully recursive, able to safely edit all aspects of itself at runtime to get better at your tasks.",
   "description_ja": "",
   "url": "https://github.com/exoharness/exo",
-  "homepage_url": "",
+  "homepage_url": "https://exoharness.ai/",
   "language": "Rust",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "agent",
+    "harness",
+    "self-evolution"
+  ],
   "star_count": 47,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-20T06:21:50Z",
-  "updated_at": "2026-07-12T18:33:51Z",
-  "pushed_at": "2026-07-12T18:33:47Z",
+  "updated_at": "2026-07-13T17:12:07Z",
+  "pushed_at": "2026-07-13T17:51:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +69,10 @@
     },
     {
       "date": "2026-07-12",
+      "stars": 47
+    },
+    {
+      "date": "2026-07-13",
       "stars": 47
     }
   ]

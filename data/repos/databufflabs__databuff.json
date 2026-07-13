@@ -3,7 +3,7 @@
   "owner": "databufflabs",
   "name": "databuff",
   "full_name": "databufflabs/databuff",
-  "description": "AI-native OpenTelemetry APM with multi-agent troubleshooting. 5-minute Docker self-host.",
+  "description": "AI-native OpenTelemetry APM with multi-agent root-cause analysis across traces, metrics, and service topology",
   "description_ja": "",
   "url": "https://github.com/databufflabs/databuff",
   "homepage_url": "https://databuff.ai",
@@ -29,13 +29,13 @@
     "sreagent",
     "tracing"
   ],
-  "star_count": 230,
-  "fork_count": 42,
+  "star_count": 270,
+  "fork_count": 51,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-18T02:06:27Z",
-  "updated_at": "2026-07-12T11:48:38Z",
-  "pushed_at": "2026-07-12T11:48:28Z",
+  "updated_at": "2026-07-13T15:30:06Z",
+  "pushed_at": "2026-07-13T13:10:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -133,6 +133,10 @@
     {
       "date": "2026-07-12",
       "stars": 230
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 270
     }
   ]
 }

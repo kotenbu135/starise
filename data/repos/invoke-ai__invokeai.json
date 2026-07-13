@@ -7,7 +7,7 @@
   "description_ja": "InvokeはStable Diffusionモデル向けの主要なクリエイティブエンジンであり、プロフェッショナル、アーティスト、愛好家が最新のAI技術を活用してビジュアルメディアを生成・制作できるよう支援します。業界をリードするWebUIを提供し、複数の商用製品の基盤となっています。",
   "url": "https://github.com/invoke-ai/InvokeAI",
   "homepage_url": "https://invoke-ai.github.io/InvokeAI/",
-  "language": "TypeScript",
+  "language": "Python",
   "license": "Apache-2.0",
   "topics": [
     "ai-art",
@@ -24,13 +24,13 @@
     "txt2img",
     "windows"
   ],
-  "star_count": 27604,
-  "fork_count": 2890,
+  "star_count": 27613,
+  "fork_count": 2886,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-17T01:04:27Z",
-  "updated_at": "2026-07-12T18:16:50Z",
-  "pushed_at": "2026-07-12T15:45:50Z",
+  "updated_at": "2026-07-13T17:51:21Z",
+  "pushed_at": "2026-07-13T18:50:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -304,6 +304,10 @@
     {
       "date": "2026-07-12",
       "stars": 27604
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 27613
     }
   ]
 }

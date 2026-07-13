@@ -3,20 +3,20 @@
   "owner": "lablup",
   "name": "mlxcel",
   "full_name": "lablup/mlxcel",
-  "description": "MLX-based experimental inference engine",
+  "description": "High-performance LLM/VLM inference runtime and server for Apple Silicon / CUDA devices",
   "description_ja": "",
   "url": "https://github.com/lablup/mlxcel",
   "homepage_url": "",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 113,
-  "fork_count": 26,
+  "star_count": 114,
+  "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-30T15:07:23Z",
-  "updated_at": "2026-07-12T19:28:15Z",
-  "pushed_at": "2026-07-12T19:49:44Z",
+  "updated_at": "2026-07-13T14:01:21Z",
+  "pushed_at": "2026-07-13T13:58:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +90,10 @@
     {
       "date": "2026-07-12",
       "stars": 113
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 114
     }
   ]
 }

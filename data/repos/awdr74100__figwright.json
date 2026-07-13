@@ -3,7 +3,7 @@
   "owner": "awdr74100",
   "name": "figwright",
   "full_name": "awdr74100/figwright",
-  "description": "Free, bidirectional Figma MCP server — turn designs into framework-aware code and write back to the canvas, for Claude Code, Cursor, and any MCP client.",
+  "description": "Free, two-way Figma MCP server. Turn designs into framework-aware code, and push code back to the canvas. Works with Claude Code, Cursor, Codex, and any MCP client.",
   "description_ja": "",
   "url": "https://github.com/awdr74100/figwright",
   "homepage_url": "",
@@ -13,20 +13,23 @@
     "ai",
     "claude-code",
     "codegen",
+    "codex",
+    "cursor",
     "design-to-code",
     "figma",
+    "figma-mcp",
     "figma-plugin",
     "figma-to-code",
     "mcp",
-    "model-control-protocol"
+    "model-context-protocol"
   ],
-  "star_count": 100,
+  "star_count": 105,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-18T16:34:43Z",
-  "updated_at": "2026-07-12T16:33:10Z",
-  "pushed_at": "2026-07-12T16:33:01Z",
+  "updated_at": "2026-07-13T16:50:06Z",
+  "pushed_at": "2026-07-13T16:49:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +43,10 @@
     {
       "date": "2026-07-12",
       "stars": 100
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 105
     }
   ]
 }

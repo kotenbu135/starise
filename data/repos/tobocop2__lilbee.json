@@ -3,29 +3,29 @@
   "owner": "tobocop2",
   "name": "lilbee",
   "full_name": "tobocop2/lilbee",
-  "description": "A local AI search engine: it runs and manages local AI models, searches your files and code, and crawls the web, all in one program. Cited answers, local-first, with an MCP server for your coding agent. TUI, CLI, REST API, and Python library. Works or without Ollama and LM Studio.",
+  "description": "The whole local AI stack in one executable: it runs and manages local AI models across every GPU, and it's a search engine you can talk to, with cited answers from your files, code, and the web. MCP server for coding agents, web crawler, TUI, CLI, REST API, Python library. No Ollama or LM Studio needed, works with both.",
   "description_ja": "",
   "url": "https://github.com/tobocop2/lilbee",
   "homepage_url": "https://lilbee.sh",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "ai-agents",
     "ai-search-engine",
-    "embeddings",
+    "chat-with-documents",
     "gguf",
-    "huggingface",
     "llama-cpp",
     "lm-studio",
     "local-ai",
     "local-llm",
     "local-rag",
     "local-search-engine",
-    "mcp",
-    "obsidian",
+    "mcp-server",
+    "model-manager",
+    "multi-gpu",
+    "notebooklm",
+    "notebooklm-alternative",
     "ollama",
-    "privacy",
-    "python",
+    "private-ai",
     "rag",
     "self-hosted",
     "semantic-search",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-05T06:13:52Z",
-  "updated_at": "2026-07-12T17:40:23Z",
-  "pushed_at": "2026-07-12T17:40:10Z",
+  "updated_at": "2026-07-13T20:10:23Z",
+  "pushed_at": "2026-07-13T21:22:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -106,6 +106,10 @@
     },
     {
       "date": "2026-07-12",
+      "stars": 38
+    },
+    {
+      "date": "2026-07-13",
       "stars": 38
     }
   ]

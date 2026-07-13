@@ -3,30 +3,36 @@
   "owner": "kuzia15",
   "name": "samp-mobile",
   "full_name": "kuzia15/samp-mobile",
-  "description": "A SA:MP mobile client with supporting arm64-v8a",
-  "description_ja": "arm64-v8aをサポートするSA:MPモバイルクライアント。",
+  "description": "An open-source SA:MP mobile client supporting ARM64, ARMv7, and 16 KB page sizes.",
+  "description_ja": "",
   "url": "https://github.com/kuzia15/SAMP-Mobile",
   "homepage_url": "",
   "language": "",
   "license": "",
   "topics": [
+    "16kb-page-sizes",
     "android",
+    "arm-eabi",
+    "arm64-v8a",
     "cpp",
     "crmp",
-    "crmpmobile",
     "gamedev",
+    "gta-multiplayer",
+    "gta-san-andreas",
     "gtasa",
-    "gtasandreas",
+    "gtasanandreas",
     "reverse-engineering",
-    "samp"
+    "samp",
+    "x32",
+    "x64"
   ],
   "star_count": 93,
   "fork_count": 61,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-21T13:44:27Z",
-  "updated_at": "2026-07-12T18:24:08Z",
-  "pushed_at": "2026-07-12T19:37:51Z",
+  "updated_at": "2026-07-12T23:43:07Z",
+  "pushed_at": "2026-07-12T23:20:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -295,6 +301,10 @@
     },
     {
       "date": "2026-07-12",
+      "stars": 93
+    },
+    {
+      "date": "2026-07-13",
       "stars": 93
     }
   ]

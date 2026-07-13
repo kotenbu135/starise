@@ -3,7 +3,7 @@
   "owner": "mtheli",
   "name": "toothbrush-card",
   "full_name": "mtheli/toothbrush-card",
-  "description": "Custom Lovelace card for electric toothbrushes — supports Oral-B (oralb_ble) and Philips Sonicare (philips_sonicare_ble)",
+  "description": "Custom Lovelace card for electric toothbrushes — supports Oral-B (oralb), Philips Sonicare (philips_sonicare_ble) and Xiaomi T700 (xiaomi_ble)",
   "description_ja": "",
   "url": "https://github.com/mtheli/toothbrush-card",
   "homepage_url": "",
@@ -17,15 +17,17 @@
     "oralb",
     "philips",
     "sonicare",
-    "toothbrush"
+    "toothbrush",
+    "xiaomi",
+    "xiaomi-ble"
   ],
   "star_count": 45,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-02T07:47:13Z",
-  "updated_at": "2026-07-12T19:56:27Z",
-  "pushed_at": "2026-07-12T19:56:35Z",
+  "updated_at": "2026-07-13T19:27:36Z",
+  "pushed_at": "2026-07-13T19:26:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -162,6 +164,10 @@
     },
     {
       "date": "2026-07-12",
+      "stars": 45
+    },
+    {
+      "date": "2026-07-13",
       "stars": 45
     }
   ]

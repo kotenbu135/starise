@@ -7,7 +7,7 @@
   "description_ja": "コンテナプラットフォームを使ってChrome、Firefox、EdgeでSelenium Gridを簡単に実行でき、大規模なブラウザ自動化を容易にします",
   "url": "https://github.com/SeleniumHQ/docker-selenium",
   "homepage_url": "http://www.selenium.dev/docker-selenium/",
-  "language": "Shell",
+  "language": "Go",
   "license": "NOASSERTION",
   "topics": [
     "containerization",
@@ -32,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-11-17T17:39:22Z",
-  "updated_at": "2026-07-12T06:06:44Z",
-  "pushed_at": "2026-07-12T19:58:09Z",
+  "updated_at": "2026-07-13T20:38:17Z",
+  "pushed_at": "2026-07-13T20:38:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -306,6 +306,10 @@
     },
     {
       "date": "2026-07-12",
+      "stars": 8639
+    },
+    {
+      "date": "2026-07-13",
       "stars": 8639
     }
   ]

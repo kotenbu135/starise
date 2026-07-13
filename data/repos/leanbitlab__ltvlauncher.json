@@ -6,7 +6,7 @@
   "description": "A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. A customized fork of FLauncher.",
   "description_ja": "WiFi データ使用量ウィジェット・OLED フレンドリーなスクリーンセーバー内蔵・UX 改善を特徴とする最小限のオープンソース Android TV ランチャー。FLauncher のカスタマイズフォーク。",
   "url": "https://github.com/LeanBitLab/LtvLauncher",
-  "homepage_url": "",
+  "homepage_url": "https://leanbitlab.github.io/LeanBitLab/",
   "language": "Dart",
   "license": "GPL-3.0",
   "topics": [
@@ -17,17 +17,18 @@
     "flutter",
     "launcher",
     "leanback",
+    "leanbitlab",
     "minimal",
     "no-ads",
     "open-source"
   ],
-  "star_count": 253,
-  "fork_count": 20,
+  "star_count": 256,
+  "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-16T09:17:29Z",
-  "updated_at": "2026-07-12T16:45:54Z",
-  "pushed_at": "2026-07-12T13:14:09Z",
+  "updated_at": "2026-07-13T18:12:52Z",
+  "pushed_at": "2026-07-13T02:37:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -301,6 +302,10 @@
     {
       "date": "2026-07-12",
       "stars": 253
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 256
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "crisnahine",
   "name": "rails-ai-context",
   "full_name": "crisnahine/rails-ai-context",
-  "description": "38 MCP tools that give AI agents live access to your Rails schema, models, routes \u0026 conventions. Works with Claude Code, Cursor, Copilot, OpenCode, Codex CLI. Zero config.",
-  "description_ja": "AIエージェントにRailsのスキーマ、モデル、ルート、規約へのリアルタイムアクセスを提供する38個のMCPツール。Claude Code、Cursor、Copilot、OpenCode、Codex CLIに対応。設定不要。",
+  "description": "39 MCP tools that give AI agents live access to your Rails schema, models, routes, conventions \u0026 all Rails Nervous Sytems. Works with Claude Code, Cursor, Copilot, OpenCode, Codex CLI. Zero config.",
+  "description_ja": "",
   "url": "https://github.com/crisnahine/rails-ai-context",
   "homepage_url": "https://crisnahine.github.io/rails-ai-context",
   "language": "Ruby",
@@ -31,12 +31,12 @@
     "ruby",
     "ruby-gem"
   ],
-  "star_count": 146,
+  "star_count": 147,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T05:54:18Z",
-  "updated_at": "2026-07-11T23:45:13Z",
+  "updated_at": "2026-07-13T12:29:33Z",
   "pushed_at": "2026-07-11T23:45:18Z",
   "deleted_at": "",
   "star_history": [
@@ -307,6 +307,10 @@
     {
       "date": "2026-07-12",
       "stars": 146
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 147
     }
   ]
 }

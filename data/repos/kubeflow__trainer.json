@@ -6,7 +6,7 @@
   "description": "Distributed AI Model Training and LLM Fine-Tuning on Kubernetes",
   "description_ja": "Kubernetes上での分散AIモデルトレーニングおよびLLMファインチューニング",
   "url": "https://github.com/kubeflow/trainer",
-  "homepage_url": "https://www.kubeflow.org/docs/components/training",
+  "homepage_url": "https://trainer.kubeflow.org/en/latest/",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
@@ -26,13 +26,13 @@
     "tensorflow",
     "xgboost"
   ],
-  "star_count": 2137,
-  "fork_count": 983,
+  "star_count": 2138,
+  "fork_count": 985,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-06-28T18:38:14Z",
-  "updated_at": "2026-07-12T15:41:17Z",
-  "pushed_at": "2026-07-10T10:02:33Z",
+  "updated_at": "2026-07-13T20:26:14Z",
+  "pushed_at": "2026-07-13T20:26:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -306,6 +306,10 @@
     {
       "date": "2026-07-12",
       "stars": 2137
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 2138
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "kalepail",
   "name": "passkey-kit",
   "full_name": "kalepail/passkey-kit",
-  "description": "TS SDK for creating and managing Stellar smart wallets",
+  "description": "TypeScript SDK for Stellar passkey smart wallets — WebAuthn/secp256r1, Ed25519 \u0026 policy signers, keyless relayer submission",
   "description_ja": "",
   "url": "https://github.com/kalepail/passkey-kit",
-  "homepage_url": "https://passkey-kit-demo.pages.dev/",
+  "homepage_url": "https://passkey-kit-demo.pages.dev",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -15,16 +15,19 @@
     "passkey",
     "secp256r1",
     "smart",
+    "smart-wallet",
+    "soroban",
     "stellar",
-    "wallet"
+    "wallet",
+    "webauthn"
   ],
-  "star_count": 466,
+  "star_count": 467,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-31T05:01:41Z",
-  "updated_at": "2026-07-10T08:13:05Z",
-  "pushed_at": "2026-07-12T12:13:22Z",
+  "updated_at": "2026-07-13T21:13:33Z",
+  "pushed_at": "2026-07-13T20:59:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -174,6 +177,10 @@
     {
       "date": "2026-07-12",
       "stars": 466
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 467
     }
   ]
 }

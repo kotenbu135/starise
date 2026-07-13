@@ -7,7 +7,7 @@
   "description_ja": "AIコーディングエージェントが正しいUdonSharpコードを生成できるよう教えるスキル、ルール、およびバリデーションフック",
   "url": "https://github.com/niaka3dayo/agent-skills-vrc-udon",
   "homepage_url": "",
-  "language": "C#",
+  "language": "Shell",
   "license": "MIT",
   "topics": [
     "ai-agent",
@@ -18,13 +18,13 @@
     "vrc-sdk",
     "vrchat"
   ],
-  "star_count": 236,
+  "star_count": 237,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T09:15:03Z",
-  "updated_at": "2026-07-12T19:43:09Z",
-  "pushed_at": "2026-07-12T19:59:45Z",
+  "updated_at": "2026-07-13T20:19:51Z",
+  "pushed_at": "2026-07-13T15:35:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -298,6 +298,10 @@
     {
       "date": "2026-07-12",
       "stars": 236
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 237
     }
   ]
 }

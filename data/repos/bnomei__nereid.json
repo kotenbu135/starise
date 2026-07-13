@@ -13,10 +13,12 @@
     "agent",
     "ai",
     "ascii",
-    "chart",
+    "class-diagram",
+    "er-diagram",
     "exlore",
     "export",
-    "flow",
+    "flow-diagram",
+    "gantt-diagram",
     "import",
     "mcp",
     "mermaid",
@@ -31,7 +33,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T21:01:22Z",
-  "updated_at": "2026-07-11T14:16:24Z",
+  "updated_at": "2026-07-12T20:41:42Z",
   "pushed_at": "2026-07-11T14:40:34Z",
   "deleted_at": "",
   "star_history": [
@@ -305,6 +307,10 @@
     },
     {
       "date": "2026-07-12",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-13",
       "stars": 59
     }
   ]
