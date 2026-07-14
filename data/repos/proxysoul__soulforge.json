@@ -3,7 +3,7 @@
   "owner": "proxysoul",
   "name": "soulforge",
   "full_name": "proxysoul/soulforge",
-  "description": "AI coding agent that edits symbols, not strings. AST surgery, full LSP, and a live code graph wired to memory that resurfaces by file, co-change, and semantics. https://soulforge.proxysoul.com/",
+  "description": "(Now Empryo) AI coding agent that edits symbols, not strings. AST surgery, full LSP, and a live code graph wired to memory that resurfaces by file, co-change, and semantics. https://soulforge.proxysoul.com/",
   "description_ja": "",
   "url": "https://github.com/proxysoul/soulforge",
   "homepage_url": "https://empryo.com/",
@@ -22,12 +22,12 @@
     "opencode",
     "tui"
   ],
-  "star_count": 836,
-  "fork_count": 64,
+  "star_count": 835,
+  "fork_count": 63,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T18:56:54Z",
-  "updated_at": "2026-07-13T20:16:06Z",
+  "updated_at": "2026-07-14T12:40:40Z",
   "pushed_at": "2026-07-12T15:16:07Z",
   "deleted_at": "",
   "star_history": [
@@ -302,6 +302,10 @@
     {
       "date": "2026-07-13",
       "stars": 836
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 835
     }
   ]
 }

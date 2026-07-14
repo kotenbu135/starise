@@ -6,34 +6,37 @@
   "description": "Opinionated Domain Driven Design Template for Go",
   "description_ja": "",
   "url": "https://github.com/sklinkert/go-ddd",
-  "homepage_url": "",
+  "homepage_url": "https://pkg.go.dev/github.com/sklinkert/go-ddd",
   "language": "Go",
   "license": "MIT",
   "topics": [
     "architecture",
+    "clean-architecture",
     "command-query",
     "cqrs",
     "cqrs-pattern",
     "ddd",
     "ddd-architecture",
-    "domain",
     "domain-driven-design",
+    "domain-events",
     "go",
     "golang",
-    "gorm-orm",
+    "hexagonal-architecture",
     "idempotency",
-    "reference",
+    "outbox-pattern",
+    "pgx",
+    "postgres",
     "rest-api",
-    "template",
-    "web"
+    "sqlc",
+    "template"
   ],
-  "star_count": 575,
+  "star_count": 576,
   "fork_count": 55,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-11T19:04:31Z",
-  "updated_at": "2026-07-10T15:42:45Z",
-  "pushed_at": "2026-07-10T12:21:02Z",
+  "updated_at": "2026-07-14T18:41:56Z",
+  "pushed_at": "2026-07-14T12:53:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -167,6 +170,10 @@
     {
       "date": "2026-07-13",
       "stars": 575
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 576
     }
   ]
 }

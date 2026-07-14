@@ -1,0 +1,45 @@
+{
+  "repo_id": "R_kgDOSB0guQ",
+  "owner": "markhuangai",
+  "name": "dense-mem",
+  "full_name": "markhuangai/dense-mem",
+  "description": "Self-hosted AI agent memory server with MCP, evidence provenance, typed claims, conflict detection, embeddings, recall, PostgreSQL, and Neo4j.",
+  "description_ja": "",
+  "url": "https://github.com/markhuangai/dense-mem",
+  "homepage_url": "https://markhuang.ai/blog/ai-memory-beyond-rag",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "agent-memory",
+    "ai-memory",
+    "conflict-detection",
+    "docker",
+    "embeddings",
+    "golang",
+    "knowledge-graph",
+    "llm-memory",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "neo4j",
+    "postgresql",
+    "provenance",
+    "rag",
+    "self-hosted",
+    "vector-search"
+  ],
+  "star_count": 31,
+  "fork_count": 5,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-13T21:31:57Z",
+  "updated_at": "2026-07-14T02:00:47Z",
+  "pushed_at": "2026-07-14T02:20:20Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-14",
+      "stars": 31
+    }
+  ]
+}

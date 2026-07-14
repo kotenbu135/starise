@@ -10,34 +10,31 @@
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
-    "agent",
     "agentic-ai",
     "agentic-workflow",
     "ai-coding",
+    "ai-coding-agent",
+    "ai-orchestration",
     "ai-safety",
     "ai-security",
-    "claude",
+    "audit-trail",
     "claude-code",
     "codex",
     "git",
-    "git-worktree",
-    "llms",
     "mcp-server",
+    "multi-agent",
     "prompt-injection",
     "sandbox",
-    "version-control",
     "vibe-coding",
-    "worktree",
-    "worktree-manager",
-    "worktrees"
+    "worktree-manager"
   ],
-  "star_count": 468,
-  "fork_count": 38,
+  "star_count": 469,
+  "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T04:30:52Z",
-  "updated_at": "2026-07-13T13:49:03Z",
-  "pushed_at": "2026-07-13T04:58:44Z",
+  "updated_at": "2026-07-14T08:21:27Z",
+  "pushed_at": "2026-07-14T19:44:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -191,6 +188,10 @@
     {
       "date": "2026-07-13",
       "stars": 468
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 469
     }
   ]
 }

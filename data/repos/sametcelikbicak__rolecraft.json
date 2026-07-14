@@ -3,7 +3,7 @@
   "owner": "sametcelikbicak",
   "name": "rolecraft",
   "full_name": "sametcelikbicak/rolecraft",
-  "description": "Zero-dependency CLI to install AI agent skills directly from any source. No marketplace, no registry, no signup — just point it at a local folder or a GitHub repo and it works.  Works with opencode, claude-code, cursor, and all spec-compliant agents.",
+  "description": "Zero-dependency CLI to install AI agent skills directly from any source. Skills + MCP servers. No marketplace, no registry, no signup. Works with opencode, claude-code, cursor, and all spec-compliant agents.",
   "description_ja": "",
   "url": "https://github.com/sametcelikbicak/rolecraft",
   "homepage_url": "https://www.npmjs.com/package/rolecraft",
@@ -31,13 +31,13 @@
     "skills",
     "windsurf"
   ],
-  "star_count": 64,
+  "star_count": 69,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-12T15:31:13Z",
-  "updated_at": "2026-07-13T21:28:35Z",
-  "pushed_at": "2026-07-13T15:59:10Z",
+  "updated_at": "2026-07-14T17:11:22Z",
+  "pushed_at": "2026-07-14T16:29:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-07-13",
       "stars": 64
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 69
     }
   ]
 }

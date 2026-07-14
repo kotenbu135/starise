@@ -3,14 +3,13 @@
   "owner": "agents365-ai",
   "name": "drawio-skill",
   "full_name": "agents365-ai/drawio-skill",
-  "description": "Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…), 31 tools: codebase/CI-pipeline/infra-to-diagram, bilingual relabel, dark-mode restyle, heatmaps. Vision self-check, 10,000+ shapes. Exports PNG/SVG/PDF/JPG.",
+  "description": "Generate draw.io diagrams from natural language — 11 presets (UML, SysML/MBSE, BPMN, network, C4…), 36 tools: codebase/CI/infra-to-diagram, image→editable diagram, mind maps, build-up animation, exec-view compression, click-through runbooks, PR diff bot. Vision self-check, 10,000+ shapes. Exports PNG/SVG/PDF/JPG.",
   "description_ja": "",
   "url": "https://github.com/Agents365-ai/drawio-skill",
   "homepage_url": "https://agents365-ai.github.io/drawio-skill/",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "agent-skill",
     "agent-skills",
     "architecture-diagram",
     "bpmn",
@@ -22,22 +21,23 @@
     "erd",
     "flowchart",
     "github-actions",
+    "image-to-diagram",
     "mbse",
+    "mindmap",
     "network-topology",
     "openclaw",
     "openclaw-skills",
-    "skill-md",
     "skillsmp",
     "sysml",
     "uml"
   ],
-  "star_count": 5717,
-  "fork_count": 461,
+  "star_count": 5771,
+  "fork_count": 463,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T16:54:59Z",
-  "updated_at": "2026-07-13T19:58:08Z",
-  "pushed_at": "2026-07-13T16:38:03Z",
+  "updated_at": "2026-07-14T17:39:00Z",
+  "pushed_at": "2026-07-14T11:41:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -299,6 +299,10 @@
     {
       "date": "2026-07-13",
       "stars": 5717
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 5771
     }
   ]
 }

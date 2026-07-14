@@ -3,10 +3,10 @@
   "owner": "karanb192",
   "name": "claude-code-hooks",
   "full_name": "karanb192/claude-code-hooks",
-  "description": "🪝 A growing collection of useful Claude Code hooks. Copy, paste, customize.",
-  "description_ja": "便利なClaude Codeフックの増え続けるコレクション。コピーして貼り付け、カスタマイズするだけ",
+  "description": "🪝 Claude Code hooks + an installable plugin marketplace: safety, cost, observability, productivity.",
+  "description_ja": "",
   "url": "https://github.com/karanb192/claude-code-hooks",
-  "homepage_url": "",
+  "homepage_url": "https://karanb192.github.io/claude-code-hooks/",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
@@ -16,19 +16,22 @@
     "claude",
     "claude-code",
     "claude-code-hooks",
+    "claude-code-plugin",
     "cli",
     "developer-tools",
     "hooks",
+    "marketplace",
     "notifications",
+    "plugin",
     "security"
   ],
-  "star_count": 446,
+  "star_count": 447,
   "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-24T18:58:55Z",
-  "updated_at": "2026-07-13T15:28:32Z",
-  "pushed_at": "2026-07-13T15:34:31Z",
+  "updated_at": "2026-07-14T19:19:11Z",
+  "pushed_at": "2026-07-14T05:45:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -302,6 +305,10 @@
     {
       "date": "2026-07-13",
       "stars": 446
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 447
     }
   ]
 }

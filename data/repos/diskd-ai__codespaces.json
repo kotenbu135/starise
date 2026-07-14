@@ -1,0 +1,42 @@
+{
+  "repo_id": "R_kgDOTARZWQ",
+  "owner": "diskd-ai",
+  "name": "codespaces",
+  "full_name": "diskd-ai/codespaces",
+  "description": "Agent skill that builds a queryable belief map of a codebase (modules, boundaries, dependencies, entities) via tree-sitter, so AI coding agents scope changes precisely: architecture discovery, blast-radius and impact analysis, boundary and layer-violation checks, and call/data-flow tracing across Python and TypeScript.",
+  "description_ja": "",
+  "url": "https://github.com/diskd-ai/codespaces",
+  "homepage_url": "https://skills.sh",
+  "language": "Python",
+  "license": "",
+  "topics": [
+    "agent-skill",
+    "ai-agents",
+    "belief-map",
+    "claude-code",
+    "code-analysis",
+    "code-navigation",
+    "dependency-graph",
+    "developer-tools",
+    "impact-analysis",
+    "python",
+    "software-architecture",
+    "static-analysis",
+    "tree-sitter",
+    "typescript"
+  ],
+  "star_count": 47,
+  "fork_count": 3,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-20T15:24:32Z",
+  "updated_at": "2026-07-14T16:09:24Z",
+  "pushed_at": "2026-07-14T14:19:11Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-14",
+      "stars": 47
+    }
+  ]
+}

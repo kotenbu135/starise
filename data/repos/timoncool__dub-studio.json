@@ -3,32 +3,41 @@
   "owner": "timoncool",
   "name": "dub-studio",
   "full_name": "timoncool/dub-studio",
-  "description": "The open-source CapCut for AI dubbing — dub any short video into 6 languages, 100% local, with a live editor.",
+  "description": "Free offline AI video dubbing studio for Windows — voice cloning, translation, subtitles \u0026 on-screen-text localization. 100% local, one native .exe, zero Python.",
   "description_ja": "",
   "url": "https://github.com/timoncool/dub-studio",
-  "homepage_url": "",
+  "homepage_url": "https://timoncool.github.io/dub-studio/",
   "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
+    "ai",
     "ai-dubbing",
+    "ai-video",
     "asr",
     "dubbing",
-    "fastapi",
-    "local-first",
+    "llama-cpp",
+    "local-ai",
+    "offline",
     "portable",
-    "react",
+    "rust",
+    "speaker-diarization",
+    "speech-recognition",
     "subtitles",
-    "translation",
+    "tauri",
+    "text-to-speech",
     "tts",
-    "video"
+    "video-dubbing",
+    "video-translation",
+    "voice-cloning",
+    "windows"
   ],
-  "star_count": 40,
+  "star_count": 41,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-21T19:50:59Z",
-  "updated_at": "2026-07-13T17:51:12Z",
-  "pushed_at": "2026-07-13T17:51:00Z",
+  "updated_at": "2026-07-14T19:49:18Z",
+  "pushed_at": "2026-07-14T19:49:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +87,10 @@
     {
       "date": "2026-07-13",
       "stars": 40
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 41
     }
   ]
 }

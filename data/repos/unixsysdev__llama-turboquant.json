@@ -3,19 +3,25 @@
   "owner": "unixsysdev",
   "name": "llama-turboquant",
   "full_name": "unixsysdev/llama-turboquant",
-  "description": "",
+  "description": "TurboQuant 3-bit KV-cache quantization for llama.cpp",
   "description_ja": "",
   "url": "https://github.com/unixsysdev/llama-turboquant",
   "homepage_url": "",
   "language": "C++",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "kv-cache",
+    "llama-cpp",
+    "llm-inference",
+    "quantization",
+    "turboquant"
+  ],
   "star_count": 53,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-25T12:14:03Z",
-  "updated_at": "2026-05-08T20:52:51Z",
+  "updated_at": "2026-07-14T15:05:29Z",
   "pushed_at": "2026-03-26T05:47:22Z",
   "deleted_at": "",
   "star_history": [
@@ -293,6 +299,10 @@
     },
     {
       "date": "2026-07-13",
+      "stars": 53
+    },
+    {
+      "date": "2026-07-14",
       "stars": 53
     }
   ]

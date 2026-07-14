@@ -3,7 +3,7 @@
   "owner": "headroomlabs-ai",
   "name": "headroom",
   "full_name": "headroomlabs-ai/headroom",
-  "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+  "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
   "description_ja": "",
   "url": "https://github.com/headroomlabs-ai/headroom",
   "homepage_url": "https://headroom-docs.vercel.app/docs",
@@ -31,13 +31,13 @@
     "tokens",
     "typescript"
   ],
-  "star_count": 58950,
-  "fork_count": 4365,
+  "star_count": 59148,
+  "fork_count": 4387,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-07T19:58:51Z",
-  "updated_at": "2026-07-13T20:52:48Z",
-  "pushed_at": "2026-07-13T21:08:15Z",
+  "updated_at": "2026-07-14T19:54:27Z",
+  "pushed_at": "2026-07-14T19:03:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -315,6 +315,10 @@
     {
       "date": "2026-07-13",
       "stars": 58950
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 59148
     }
   ]
 }

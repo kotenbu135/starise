@@ -3,20 +3,28 @@
   "owner": "colinmario",
   "name": "protondrive-for-linux",
   "full_name": "colinmario/protondrive-for-linux",
-  "description": " Protondrive CLI delivers a rclone-based command-line tool for configuring, syncing, and mounting Proton Drive remotes, complete with an encrypted credential vault, watch-enabled sync workflows, and handy JSON templates for common upload/download scenarios.",
+  "description": "Unofficial Go CLI for safe Proton Drive browsing, transfers, guarded mirrors, and Linux/macOS mounts via Proton Drive CLI and rclone.",
   "description_ja": "",
   "url": "https://github.com/ColinMario/Protondrive-for-Linux",
   "homepage_url": "",
   "language": "Go",
-  "license": "NOASSERTION",
-  "topics": [],
+  "license": "GPL-3.0",
+  "topics": [
+    "cli",
+    "flatpak",
+    "golang",
+    "linux",
+    "macos",
+    "proton-drive",
+    "rclone"
+  ],
   "star_count": 67,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-15T01:36:33Z",
-  "updated_at": "2026-07-13T12:32:59Z",
-  "pushed_at": "2026-06-29T11:23:58Z",
+  "updated_at": "2026-07-14T15:40:02Z",
+  "pushed_at": "2026-07-14T15:39:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -233,6 +241,10 @@
     },
     {
       "date": "2026-07-13",
+      "stars": 67
+    },
+    {
+      "date": "2026-07-14",
       "stars": 67
     }
   ]

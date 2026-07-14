@@ -3,30 +3,41 @@
   "owner": "smixs",
   "name": "humanizer-ru",
   "full_name": "smixs/humanizer-ru",
-  "description": "Claude Code skill to remove AI-generated text markers in Russian / Skill для удаления признаков AI-текста на русском",
-  "description_ja": "ロシア語のAI生成テキストマーカーを除去するClaude Codeスキル / ロシア語のAIテキストの痕跡を除去するSkill",
+  "description": "Skill для AI-агентов (Claude Code, Codex, OpenClaw, Hermes): убирает 32 признака AI-генерации из русского текста - канцелярит, штампы ChatGPT, слоп | Russian AI-text humanizer skill for coding agents",
+  "description_ja": "",
   "url": "https://github.com/smixs/humanizer-ru",
   "homepage_url": "",
   "language": "",
   "license": "MIT",
   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-text-detection",
     "ai-writing",
     "claude",
+    "claude-code",
+    "claude-skills",
+    "codex",
     "content-creation",
+    "copywriting",
     "editing",
     "humanizer",
+    "llm",
     "nlp",
     "russian",
+    "russian-language",
     "skill",
-    "text-processing"
+    "text-humanization",
+    "text-processing",
+    "writing-tools"
   ],
-  "star_count": 68,
-  "fork_count": 18,
+  "star_count": 73,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-27T11:05:51Z",
-  "updated_at": "2026-07-07T21:43:49Z",
-  "pushed_at": "2026-01-28T23:38:30Z",
+  "updated_at": "2026-07-14T19:51:43Z",
+  "pushed_at": "2026-07-14T02:47:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -300,6 +311,10 @@
     {
       "date": "2026-07-13",
       "stars": 68
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 73
     }
   ]
 }

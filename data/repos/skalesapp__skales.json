@@ -3,7 +3,7 @@
   "owner": "skalesapp",
   "name": "skales",
   "full_name": "skalesapp/skales",
-  "description": "Your personal AI desktop agent for Windows, macOS, Linux \u0026 Android. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
+  "description": "Personal AI desktop agent for Windows, macOS, Linux, Android \u0026 iOS. Set a goal, it works on its own. Teams (pair two desktops, agents + humans), Agent2Agent, Workflows, Codework, multi-agent orgs, desktop + browser automation. 15+ AI providers, BYOK. No Docker, no terminal. Agent Skills (SKILL.md). Migration importer. Recurring autonomous tasks.",
   "description_ja": "",
   "url": "https://github.com/skalesapp/skales",
   "homepage_url": "https://skales.app",
@@ -13,12 +13,12 @@
     "agentic-ai",
     "ai-agent",
     "ai-assistant",
-    "ai-companions",
     "android",
     "automation",
     "autonomous-agent",
     "desktop-app",
     "electron",
+    "ios",
     "linux",
     "llm",
     "local-ai",
@@ -31,13 +31,13 @@
     "typescript",
     "windows"
   ],
-  "star_count": 1176,
+  "star_count": 1178,
   "fork_count": 184,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T09:17:47Z",
-  "updated_at": "2026-07-13T16:23:29Z",
-  "pushed_at": "2026-07-12T19:34:01Z",
+  "updated_at": "2026-07-14T20:40:58Z",
+  "pushed_at": "2026-07-14T06:15:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -315,6 +315,10 @@
     {
       "date": "2026-07-13",
       "stars": 1176
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 1178
     }
   ]
 }

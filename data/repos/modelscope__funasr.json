@@ -3,7 +3,7 @@
   "owner": "modelscope",
   "name": "funasr",
   "full_name": "modelscope/funasr",
-  "description": "Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.",
+  "description": "Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.",
   "description_ja": "",
   "url": "https://github.com/modelscope/FunASR",
   "homepage_url": "https://modelscope.github.io/FunASR/",
@@ -31,13 +31,13 @@
     "voice-activity-detection",
     "whisper-alternative"
   ],
-  "star_count": 19204,
-  "fork_count": 1927,
+  "star_count": 19236,
+  "fork_count": 1930,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-11-24T02:28:11Z",
-  "updated_at": "2026-07-13T20:31:23Z",
-  "pushed_at": "2026-07-13T20:31:09Z",
+  "updated_at": "2026-07-14T18:57:22Z",
+  "pushed_at": "2026-07-14T18:57:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -315,6 +315,10 @@
     {
       "date": "2026-07-13",
       "stars": 19204
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 19236
     }
   ]
 }

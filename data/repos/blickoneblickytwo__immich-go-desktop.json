@@ -3,12 +3,12 @@
   "owner": "blickoneblickytwo",
   "name": "immich-go-desktop",
   "full_name": "blickoneblickytwo/immich-go-desktop",
-  "description": "A friendly, no-terminal GUI that builds your immich-go import command — folder, Google Takeout, iCloud, or server-to-server.",
+  "description": "A friendly, no-terminal GUI for immich-go — optional API key, nothing leaves your browser, folder/Takeout/iCloud/server-to-server support.",
   "description_ja": "",
   "url": "https://github.com/blickoneblickytwo/immich-go-desktop",
   "homepage_url": "https://blickoneblickytwo.github.io/immich-go-desktop/",
   "language": "TypeScript",
-  "license": "",
+  "license": "MIT",
   "topics": [
     "google-photos",
     "google-takeout",
@@ -17,6 +17,7 @@
     "immich-go",
     "photo-backup",
     "photo-migration",
+    "privacy",
     "self-hosted",
     "web-ui"
   ],
@@ -25,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-20T06:02:54Z",
-  "updated_at": "2026-07-13T19:49:43Z",
-  "pushed_at": "2026-07-13T19:49:38Z",
+  "updated_at": "2026-07-14T05:43:58Z",
+  "pushed_at": "2026-07-14T05:43:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -303,6 +304,10 @@
     },
     {
       "date": "2026-07-13",
+      "stars": 95
+    },
+    {
+      "date": "2026-07-14",
       "stars": 95
     }
   ]

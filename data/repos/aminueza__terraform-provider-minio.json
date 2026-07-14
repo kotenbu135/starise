@@ -1,0 +1,41 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkyMjY2ODI5MTU=",
+  "owner": "aminueza",
+  "name": "terraform-provider-minio",
+  "full_name": "aminueza/terraform-provider-minio",
+  "description": "Terraform provider for MinIO and S3-compatible storage (R2, B2, Hetzner, Spaces) — buckets, IAM, replication, lifecycle, encryption \u0026 more.",
+  "description_ja": "",
+  "url": "https://github.com/aminueza/terraform-provider-minio",
+  "homepage_url": "https://registry.terraform.io/providers/aminueza/minio",
+  "language": "Go",
+  "license": "AGPL-3.0",
+  "topics": [
+    "backblaze-b2",
+    "cloudflare-r2",
+    "devops",
+    "golang",
+    "hcl",
+    "iam",
+    "infrastructure-as-code",
+    "minio",
+    "object-storage",
+    "s3",
+    "s3-compatible",
+    "terraform",
+    "terraform-provider"
+  ],
+  "star_count": 335,
+  "fork_count": 96,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2019-12-08T14:47:56Z",
+  "updated_at": "2026-07-14T12:52:35Z",
+  "pushed_at": "2026-07-14T12:52:03Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-14",
+      "stars": 335
+    }
+  ]
+}

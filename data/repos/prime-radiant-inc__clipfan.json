@@ -1,0 +1,34 @@
+{
+  "repo_id": "R_kgDOSqpN6Q",
+  "owner": "prime-radiant-inc",
+  "name": "clipfan",
+  "full_name": "prime-radiant-inc/clipfan",
+  "description": "Clipboard sync daemon for Mac + remote tmux fleet. Mirrors macOS pasteboard to remote OS clipboards and tmux paste buffers. Enables image paste into Claude Code/Codex over SSH without OSC 52 or Xvfb.",
+  "description_ja": "",
+  "url": "https://github.com/prime-radiant-inc/clipfan",
+  "homepage_url": "https://primeradiant.com/projects/clipfan/",
+  "language": "Go",
+  "license": "NOASSERTION",
+  "topics": [
+    "clipboard",
+    "daemon",
+    "go",
+    "macos",
+    "tailscale",
+    "tmux"
+  ],
+  "star_count": 29,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-28T18:57:26Z",
+  "updated_at": "2026-07-14T17:30:14Z",
+  "pushed_at": "2026-06-18T23:35:01Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-14",
+      "stars": 29
+    }
+  ]
+}

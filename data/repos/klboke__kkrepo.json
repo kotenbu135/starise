@@ -6,7 +6,7 @@
   "description": "kkRepo is a Nexus-compatible, self-hosted artifact repository for Maven, npm, PyPI, Go, Helm, NuGet, Cargo/Rust, Dart/Pub, Docker/OCI, RubyGems, and Yum artifacts. It supports one-click migration from Nexus to kkRepo.",
   "description_ja": "",
   "url": "https://github.com/klboke/kkRepo",
-  "homepage_url": "",
+  "homepage_url": "https://kkrepo.cn",
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [
@@ -24,13 +24,13 @@
     "pypi",
     "pypi-mirror"
   ],
-  "star_count": 84,
+  "star_count": 89,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-12T11:12:47Z",
-  "updated_at": "2026-07-13T09:33:31Z",
-  "pushed_at": "2026-07-13T14:09:24Z",
+  "updated_at": "2026-07-14T18:42:00Z",
+  "pushed_at": "2026-07-14T17:05:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -52,6 +52,10 @@
     {
       "date": "2026-07-13",
       "stars": 84
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 89
     }
   ]
 }

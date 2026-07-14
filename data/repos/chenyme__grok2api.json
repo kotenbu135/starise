@@ -3,7 +3,7 @@
   "owner": "chenyme",
   "name": "grok2api",
   "full_name": "chenyme/grok2api",
-  "description": "Grok2API 是一个基于 FastAPI 构建的 Grok 网关，支持将 Grok Web 能力以 OpenAI 兼容 API 的方式转换。",
+  "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
   "description_ja": "",
   "url": "https://github.com/chenyme/grok2api",
   "homepage_url": "",
@@ -13,13 +13,13 @@
     "grok",
     "grok-imagine"
   ],
-  "star_count": 5614,
-  "fork_count": 1892,
+  "star_count": 5821,
+  "fork_count": 1925,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-10T09:00:02Z",
-  "updated_at": "2026-07-13T19:57:37Z",
-  "pushed_at": "2026-07-13T15:40:31Z",
+  "updated_at": "2026-07-14T19:35:11Z",
+  "pushed_at": "2026-07-14T17:19:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -277,6 +277,10 @@
     {
       "date": "2026-07-13",
       "stars": 5614
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 5821
     }
   ]
 }

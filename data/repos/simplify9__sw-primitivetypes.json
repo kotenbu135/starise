@@ -3,20 +3,26 @@
   "owner": "simplify9",
   "name": "sw-primitivetypes",
   "full_name": "simplify9/sw-primitivetypes",
-  "description": "Highly reusable types and base types/interfaces for patterns used by Simplify9",
+  "description": ".NET library of foundational types and interfaces for DDD, messaging, and API development",
   "description_ja": "",
   "url": "https://github.com/simplify9/SW-PrimitiveTypes",
   "homepage_url": "",
   "language": "C#",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "dotnet",
+    "library",
+    "nuget",
+    "open-source",
+    "simplify9"
+  ],
   "star_count": 9,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-30T09:32:59Z",
-  "updated_at": "2026-07-13T17:18:00Z",
-  "pushed_at": "2026-07-13T17:18:09Z",
+  "updated_at": "2026-07-14T14:05:31Z",
+  "pushed_at": "2026-07-14T14:05:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -177,6 +183,10 @@
     },
     {
       "date": "2026-07-13",
+      "stars": 9
+    },
+    {
+      "date": "2026-07-14",
       "stars": 9
     }
   ]

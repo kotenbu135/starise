@@ -3,8 +3,8 @@
   "owner": "signoz",
   "name": "signoz",
   "full_name": "signoz/signoz",
-  "description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) \u0026 Observability tool",
-  "description_ja": "SigNozは、ログ・トレース・メトリクスを1つのアプリケーションに統合したOpenTelemetryネイティブのオープンソース可観測性プラットフォームです。DataDogやNewRelicなどのオープンソース代替。オープンソースのAPM（アプリケーションパフォーマンス監視）および可観測性ツール。",
+  "description": "SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.",
+  "description_ja": "",
   "url": "https://github.com/SigNoz/signoz",
   "homepage_url": "https://signoz.io",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "tracing",
     "typescript"
   ],
-  "star_count": 29351,
-  "fork_count": 2319,
+  "star_count": 29591,
+  "fork_count": 2326,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-01-03T12:44:36Z",
-  "updated_at": "2026-07-13T21:20:51Z",
-  "pushed_at": "2026-07-13T21:36:07Z",
+  "updated_at": "2026-07-14T20:35:08Z",
+  "pushed_at": "2026-07-14T19:25:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -315,6 +315,10 @@
     {
       "date": "2026-07-13",
       "stars": 29351
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 29591
     }
   ]
 }

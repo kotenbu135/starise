@@ -1,0 +1,43 @@
+{
+  "repo_id": "R_kgDORwEmNQ",
+  "owner": "permanu",
+  "name": "dwaar",
+  "full_name": "permanu/dwaar",
+  "description": "High-performance reverse proxy with built-in analytics, automatic HTTPS, and bot detection. Powered by Cloudflare Pingora. Configured in 3 lines. One binary replaces nginx + Plausible + fail2ban.",
+  "description_ja": "",
+  "url": "https://github.com/permanu/Dwaar",
+  "homepage_url": "https://dwaar.dev/",
+  "language": "Rust",
+  "license": "NOASSERTION",
+  "topics": [
+    "analytics",
+    "caddy",
+    "devops",
+    "docker",
+    "http3",
+    "https",
+    "kubernetes",
+    "load-balancer",
+    "pingora",
+    "proxy",
+    "reverse-proxy",
+    "rust",
+    "tls",
+    "wasm",
+    "web-server"
+  ],
+  "star_count": 9,
+  "fork_count": 0,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-25T04:13:58Z",
+  "updated_at": "2026-07-12T23:56:48Z",
+  "pushed_at": "2026-06-22T03:54:25Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-14",
+      "stars": 9
+    }
+  ]
+}

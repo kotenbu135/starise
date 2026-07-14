@@ -3,23 +3,24 @@
   "owner": "retentioneering",
   "name": "retentioneering-tools",
   "full_name": "retentioneering/retentioneering-tools",
-  "description": "Retentioneering: product analytics, data-driven CJM optimization, marketing analytics, web analytics, transaction analytics, graph visualization, process mining, and behavioral segmentation in Python. Predictive analytics over clickstream, AB tests, machine learning, and Markov Chain simulations.",
-  "description_ja": "Retentioneering：Pythonによるプロダクトアナリティクス、データドリブンなCJM最適化、マーケティング・Web・トランザクション分析、グラフ可視化、プロセスマイニング、行動セグメンテーション。クリックストリーム・ABテスト・機械学習・マルコフ連鎖シミュレーションを用いた予測分析。",
+  "description": "Retentioneering: product analytics mcp, data-driven CJM optimization, marketing analytics, web analytics, transaction analytics, graph visualization, process mining, and behavioral segmentation in Python. Predictive analytics over clickstream, AB tests, machine learning, and Markov Chain simulations.",
+  "description_ja": "",
   "url": "https://github.com/retentioneering/retentioneering-tools",
-  "homepage_url": "https://doc.retentioneering.com/stable/doc/index.html",
+  "homepage_url": "https://retentioneering.com/docs/",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
+    "analytics-mcp",
     "behaviour-analysis",
     "business-intelligence",
     "clickstream",
+    "clickstream-analysis",
     "customer-journey-map",
     "customer-segmentation",
     "data-visualization",
     "graph-visualizer",
     "library",
     "machine-learning",
-    "machinelearning",
     "pandas",
     "predictive-analytics",
     "predictive-modeling",
@@ -30,13 +31,13 @@
     "user-trajectories-analysis",
     "web-analytics"
   ],
-  "star_count": 893,
+  "star_count": 905,
   "fork_count": 135,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-07-02T13:37:30Z",
-  "updated_at": "2026-07-13T14:05:03Z",
-  "pushed_at": "2026-07-13T10:16:55Z",
+  "updated_at": "2026-07-14T18:03:20Z",
+  "pushed_at": "2026-07-14T18:01:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -314,6 +315,10 @@
     {
       "date": "2026-07-13",
       "stars": 893
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 905
     }
   ]
 }

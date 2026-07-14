@@ -3,7 +3,7 @@
   "owner": "luccahuguet",
   "name": "yazelix",
   "full_name": "luccahuguet/yazelix",
-  "description": "Yazi and Zellij with smart defaults \u0026 awesome plugins give helix/nvim a powerful yazi sidebar, git integrations, a configurable popup system (lazygit, a config ui, etc), zoxide integrations, zjstatus widgets, and more. Your terminal IDE.  Written in rust and blazingly fast. Available via flake/home-manager. One line install.",
+  "description": "Yazelix Nova: a cohesive terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell",
   "description_ja": "",
   "url": "https://github.com/luccahuguet/yazelix",
   "homepage_url": "",
@@ -29,13 +29,13 @@
     "yazi",
     "zellij"
   ],
-  "star_count": 1113,
+  "star_count": 1112,
   "fork_count": 49,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-20T21:15:45Z",
-  "updated_at": "2026-07-13T18:37:58Z",
-  "pushed_at": "2026-07-13T18:37:33Z",
+  "updated_at": "2026-07-14T19:48:09Z",
+  "pushed_at": "2026-07-14T19:47:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -305,6 +305,10 @@
     {
       "date": "2026-07-13",
       "stars": 1113
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 1112
     }
   ]
 }

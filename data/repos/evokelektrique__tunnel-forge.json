@@ -3,7 +3,7 @@
   "owner": "evokelektrique",
   "name": "tunnel-forge",
   "full_name": "evokelektrique/tunnel-forge",
-  "description": "Flutter VPN client for L2TP/IPsec on modern Android with tunnel, proxy, and per-app routing.",
+  "description": "Open-source L2TP/IPsec client for modern Android with full-device VPN, proxy-only mode, and per-app routing.",
   "description_ja": "",
   "url": "https://github.com/evokelektrique/tunnel-forge",
   "homepage_url": "https://t.me/TunnelForge",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T18:02:27Z",
-  "updated_at": "2026-07-13T19:05:49Z",
-  "pushed_at": "2026-07-11T11:22:21Z",
+  "updated_at": "2026-07-14T15:48:06Z",
+  "pushed_at": "2026-07-14T15:27:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -238,6 +238,10 @@
     },
     {
       "date": "2026-07-13",
+      "stars": 52
+    },
+    {
+      "date": "2026-07-14",
       "stars": 52
     }
   ]

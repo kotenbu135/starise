@@ -3,7 +3,7 @@
   "owner": "yakhyo",
   "name": "face-parsing",
   "full_name": "yakhyo/face-parsing",
-  "description": "Real-Time Face Parsing with BiSeNet, PyTorch, ONNX Runtime, and Pretrained Weights",
+  "description": "Real-time face parsing and facial semantic segmentation with BiSeNet - PyTorch training, ONNX export, pretrained weights.",
   "description_ja": "",
   "url": "https://github.com/yakhyo/face-parsing",
   "homepage_url": "https://yakhyo.github.io/face-parsing/",
@@ -15,12 +15,12 @@
     "onnx-inference",
     "onnxruntime"
   ],
-  "star_count": 298,
+  "star_count": 299,
   "fork_count": 47,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-12T09:37:52Z",
-  "updated_at": "2026-07-13T07:30:47Z",
+  "updated_at": "2026-07-14T13:52:51Z",
   "pushed_at": "2026-04-14T00:46:56Z",
   "deleted_at": "",
   "star_history": [
@@ -83,6 +83,10 @@
     {
       "date": "2026-07-13",
       "stars": 298
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 299
     }
   ]
 }
