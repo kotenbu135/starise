@@ -6,7 +6,7 @@
   "description": "Java agent for Minecraft server platform PaperMC that lazily deserializes chest/container items — removes the chunk-load NBT unpack lag from large storage and map-art. Zero data risk (shadow-validated).",
   "description_ja": "",
   "url": "https://github.com/kuohsuanlo/LazyContainerAgent",
-  "homepage_url": "",
+  "homepage_url": "https://mcfallout.net/",
   "language": "Java",
   "license": "",
   "topics": [
@@ -19,12 +19,12 @@
     "papermc",
     "performance"
   ],
-  "star_count": 75,
+  "star_count": 76,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-23T14:14:02Z",
-  "updated_at": "2026-07-13T14:31:17Z",
+  "updated_at": "2026-07-15T12:30:55Z",
   "pushed_at": "2026-07-03T02:06:26Z",
   "deleted_at": "",
   "star_history": [
@@ -103,6 +103,10 @@
     {
       "date": "2026-07-14",
       "stars": 75
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 76
     }
   ]
 }

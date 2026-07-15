@@ -17,10 +17,10 @@
     "ai-security",
     "dlp",
     "egress-proxy",
-    "fetch-proxy",
     "github-action",
     "golang",
     "integrity-monitoring",
+    "llm-firewall",
     "llm-security",
     "mcp",
     "mcp-security",
@@ -31,13 +31,13 @@
     "ssrf",
     "ssrf-protection"
   ],
-  "star_count": 767,
+  "star_count": 768,
   "fork_count": 88,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-08T00:40:18Z",
-  "updated_at": "2026-07-14T18:20:10Z",
-  "pushed_at": "2026-07-14T17:02:51Z",
+  "updated_at": "2026-07-15T15:32:03Z",
+  "pushed_at": "2026-07-15T19:52:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -315,6 +315,10 @@
     {
       "date": "2026-07-14",
       "stars": 767
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 768
     }
   ]
 }

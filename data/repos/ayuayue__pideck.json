@@ -3,29 +3,37 @@
   "owner": "ayuayue",
   "name": "pideck",
   "full_name": "ayuayue/pideck",
-  "description": "Desktop workbench for managing multiple pi coding-agent sessions across project folders.",
+  "description": "PiDeck 是一个开源的桌面工作台，用于在本地项目目录中统一管理 pi Agent 会话，并支持导入 Codex、Claude 本地会话以便统一浏览和恢复。支持多项目工作区、会话历史、Git 集成、内置终端、模型配置和插件管理，基于 Electron 构建。",
   "description_ja": "",
   "url": "https://github.com/ayuayue/PiDeck",
   "homepage_url": "https://ayuayue.github.io/PiDeck/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "ai-agent",
+    "agent",
+    "ai-assistant",
+    "ai-coding-agent",
+    "claude-code",
+    "codex",
     "coding-agent",
+    "desktop",
     "desktop-app",
-    "electron",
+    "multi-project",
     "pi",
-    "react",
-    "rpc",
-    "typescript"
+    "pi-agent",
+    "pi-deck",
+    "pi-desktop",
+    "pideck",
+    "pidesktop",
+    "session-management"
   ],
-  "star_count": 250,
-  "fork_count": 32,
+  "star_count": 256,
+  "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-31T12:40:24Z",
-  "updated_at": "2026-07-14T16:41:40Z",
-  "pushed_at": "2026-07-14T10:31:49Z",
+  "updated_at": "2026-07-15T16:03:22Z",
+  "pushed_at": "2026-07-15T16:01:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -179,6 +187,10 @@
     {
       "date": "2026-07-14",
       "stars": 250
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 256
     }
   ]
 }

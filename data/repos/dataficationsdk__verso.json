@@ -6,7 +6,7 @@
   "description": "Extensible interactive notebook platform for .NET. Every built-in feature, from the C# kernel to the dashboard layout, is an extension built on the same public interfaces available to third-party authors. Runs in VS Code and the browser.",
   "description_ja": ".NET向けの拡張可能なインタラクティブノートブックプラットフォーム。C#カーネルからダッシュボードレイアウトまで、すべての組み込み機能はサードパーティ製作者が利用できる同一のパブリックインターフェース上に構築された拡張機能です。VS Codeおよびブラウザで動作します",
   "url": "https://github.com/DataficationSDK/Verso",
-  "homepage_url": "https://versonotebooks.com",
+  "homepage_url": "https://www.versonotebooks.com",
   "language": "C#",
   "license": "MIT",
   "topics": [
@@ -17,13 +17,13 @@
     "notebooks",
     "polyglot"
   ],
-  "star_count": 199,
+  "star_count": 198,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-13T18:45:40Z",
-  "updated_at": "2026-07-14T13:14:45Z",
-  "pushed_at": "2026-07-14T13:14:12Z",
+  "updated_at": "2026-07-15T12:58:19Z",
+  "pushed_at": "2026-07-15T12:16:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -301,6 +301,10 @@
     {
       "date": "2026-07-14",
       "stars": 199
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 198
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "facenox",
   "name": "facenox",
   "full_name": "facenox/facenox",
-  "description": "Real-time face recognition attendance software. Open-source.",
+  "description": "Open-source, offline-first face recognition attendance platform that runs on any webcam.",
   "description_ja": "",
   "url": "https://github.com/facenox/facenox",
   "homepage_url": "https://facenox.com",
@@ -11,15 +11,14 @@
   "license": "AGPL-3.0",
   "topics": [
     "anti-spoofing",
-    "attendance-application",
-    "attendance-management",
-    "attendance-monitoring",
     "attendance-software",
     "attendance-system",
     "attendance-tracking",
+    "biometric-attendance",
     "computer-vision",
     "desktop-app",
     "electron",
+    "employee-attendance",
     "face-detection",
     "face-recognition",
     "fastapi",
@@ -28,7 +27,8 @@
     "open-source",
     "python",
     "react",
-    "real-time-attendance-management",
+    "time-and-attendance",
+    "time-tracker",
     "typescript"
   ],
   "star_count": 52,
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-08T19:32:06Z",
-  "updated_at": "2026-07-07T08:06:13Z",
-  "pushed_at": "2026-07-05T08:42:00Z",
+  "updated_at": "2026-07-15T05:54:47Z",
+  "pushed_at": "2026-07-15T05:54:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -170,6 +170,10 @@
     },
     {
       "date": "2026-07-14",
+      "stars": 52
+    },
+    {
+      "date": "2026-07-15",
       "stars": 52
     }
   ]

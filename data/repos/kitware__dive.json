@@ -7,7 +7,7 @@
   "description_ja": "Webおよびデスクトップ向けメディアアノテーション・分析ツール。https://viame.kitware.comで始めよう",
   "url": "https://github.com/Kitware/dive",
   "homepage_url": "https://kitware.github.io/dive",
-  "language": "Vue",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "annotation",
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-11-01T19:03:12Z",
-  "updated_at": "2026-07-13T17:04:29Z",
-  "pushed_at": "2026-07-14T18:15:08Z",
+  "updated_at": "2026-07-15T17:37:20Z",
+  "pushed_at": "2026-07-15T18:30:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -304,6 +304,10 @@
     },
     {
       "date": "2026-07-14",
+      "stars": 105
+    },
+    {
+      "date": "2026-07-15",
       "stars": 105
     }
   ]

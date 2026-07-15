@@ -3,25 +3,36 @@
   "owner": "niki914",
   "name": "agentic-nexus",
   "full_name": "niki914/agentic-nexus",
-  "description": "Takeover your voice assistant with powerful agent",
+  "description": "Take over your Android voice assistant with a custom AI agent — connect any LLM (Claude, GPT, Gemini), use MCP tools, Shell/SSH, and Root/Shizuku automation",
   "description_ja": "",
   "url": "https://github.com/niki914/agentic-nexus",
   "homepage_url": "",
   "language": "Kotlin",
-  "license": "",
+  "license": "MIT",
   "topics": [
-    "agentic-ai",
+    "agent",
     "android",
-    "lsposed-module",
-    "mcp"
+    "automation",
+    "claude",
+    "gpt",
+    "kotlin",
+    "llm",
+    "lsposed",
+    "mcp",
+    "root",
+    "shizuku",
+    "skills",
+    "ssh",
+    "termux",
+    "xposed"
   ],
-  "star_count": 63,
+  "star_count": 65,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-05T05:25:32Z",
-  "updated_at": "2026-07-14T12:40:16Z",
-  "pushed_at": "2026-07-14T12:40:01Z",
+  "updated_at": "2026-07-15T17:16:26Z",
+  "pushed_at": "2026-07-15T04:07:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +114,10 @@
     {
       "date": "2026-07-14",
       "stars": 63
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 65
     }
   ]
 }

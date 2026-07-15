@@ -3,12 +3,12 @@
   "owner": "agents365-ai",
   "name": "video-podcast-maker",
   "full_name": "agents365-ai/video-podcast-maker",
-  "description": "Topic → 4K narrated video for coding agents. v3.0 Asset Engine: manifest-based asset layer (user files / stock / AI images / AI B-roll / Hyperframes overlays), 11 TTS backends, Remotion composition, cost-gated AI generation",
+  "description": "Topic → 4K narrated video for coding agents. v4.0: all TTS via the ttsCN engine component (11 platforms incl. MiniMax voice clone, native word-level subtitle sync), manifest-based Asset Engine, Remotion composition, cost-gated AI generation",
   "description_ja": "",
   "url": "https://github.com/Agents365-ai/video-podcast-maker",
   "homepage_url": "",
   "language": "Python",
-  "license": "MIT",
+  "license": "NOASSERTION",
   "topics": [
     "agent-skill",
     "ai-video",
@@ -20,13 +20,13 @@
     "text-to-speech",
     "video-generation"
   ],
-  "star_count": 1443,
+  "star_count": 1447,
   "fork_count": 150,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-16T14:15:27Z",
-  "updated_at": "2026-07-14T15:46:06Z",
-  "pushed_at": "2026-07-13T16:31:54Z",
+  "updated_at": "2026-07-15T16:19:49Z",
+  "pushed_at": "2026-07-15T16:18:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -280,6 +280,10 @@
     {
       "date": "2026-07-14",
       "stars": 1443
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 1447
     }
   ]
 }

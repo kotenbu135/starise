@@ -3,20 +3,20 @@
   "owner": "yangjunjie-lin",
   "name": "scanly",
   "full_name": "yangjunjie-lin/scanly",
-  "description": "A lightweight QR code scanner and decoder with image preprocessing, clean output, and simple batch-friendly usage.",
+  "description": "Privacy-first browser QR scanner with a Web Worker decoding pipeline, cross-browser tests, and a 51/52 regression benchmark.",
   "description_ja": "",
   "url": "https://github.com/Yangjunjie-Lin/Scanly",
   "homepage_url": "https://qr-decoder-theta.vercel.app",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [],
-  "star_count": 109,
+  "star_count": 117,
   "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-12T14:42:59Z",
-  "updated_at": "2026-07-14T11:32:29Z",
-  "pushed_at": "2026-07-14T11:42:30Z",
+  "updated_at": "2026-07-15T12:04:20Z",
+  "pushed_at": "2026-07-15T11:02:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +94,10 @@
     {
       "date": "2026-07-14",
       "stars": 109
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 117
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "enping-hu",
   "name": "minimind-deep-dive",
   "full_name": "enping-hu/minimind-deep-dive",
-  "description": "逐行对照 MiniMind 源码精读、并延伸到大模型技术体系的中文学习笔记 —— 预训练 / SFT / DPO / PPO / GRPO、训练机制、MiniMind2→3 版本对照、真实实验证据。",
+  "description": "从 MiniMind 源码读起,再延伸到现代大模型技术体系的中文学习笔记。主线逐行精读预训练 / SFT / DPO / PPO / GRPO 与训练机制;附录 17 篇进阶卷覆盖量化、投机解码、RLHF 全景、模型代际史等 MiniMind 没涉及、但进阶绕不开的主题。",
   "description_ja": "",
   "url": "https://github.com/Enping-Hu/minimind-deep-dive",
   "homepage_url": "",
@@ -34,7 +34,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-19T13:17:24Z",
-  "updated_at": "2026-07-14T17:41:41Z",
+  "updated_at": "2026-07-15T09:28:51Z",
   "pushed_at": "2026-07-08T14:26:21Z",
   "deleted_at": "",
   "star_history": [
@@ -120,6 +120,10 @@
     },
     {
       "date": "2026-07-14",
+      "stars": 98
+    },
+    {
+      "date": "2026-07-15",
       "stars": 98
     }
   ]

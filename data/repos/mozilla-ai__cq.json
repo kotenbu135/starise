@@ -6,7 +6,7 @@
   "description": "An open standard for shared agent learning. Agents persist, share, and query collective knowledge so they stop rediscovering the same failures independently.",
   "description_ja": "エージェント共有学習のオープン標準。エージェントが集合知を永続化・共有・クエリすることで、同じ失敗を個別に再発見し続けることを防ぐ。",
   "url": "https://github.com/mozilla-ai/cq",
-  "homepage_url": "",
+  "homepage_url": "https://docs.mozilla.ai/cq",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
@@ -14,13 +14,13 @@
     "go",
     "python"
   ],
-  "star_count": 1222,
-  "fork_count": 63,
+  "star_count": 1223,
+  "fork_count": 64,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-04T17:51:25Z",
-  "updated_at": "2026-07-13T13:24:48Z",
-  "pushed_at": "2026-07-08T10:10:13Z",
+  "updated_at": "2026-07-15T11:13:43Z",
+  "pushed_at": "2026-07-15T09:25:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -302,6 +302,10 @@
     {
       "date": "2026-07-14",
       "stars": 1222
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 1223
     }
   ]
 }

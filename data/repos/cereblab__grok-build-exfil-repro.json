@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOTVEHVQ",
+  "owner": "cereblab",
+  "name": "grok-build-exfil-repro",
+  "full_name": "cereblab/grok-build-exfil-repro",
+  "description": "Reproduce it yourself: Grok Build CLI uploads your entire repo + full git history to xAI's cloud, independent of what the model reads. Deny only blocks reading; a committed file still ships in the git bundle. mitmproxy harness + canary repo + downloadable evidence.",
+  "description_ja": "",
+  "url": "https://github.com/cereblab/grok-build-exfil-repro",
+  "homepage_url": "https://x.com/cereblab",
+  "language": "Shell",
+  "license": "",
+  "topics": [],
+  "star_count": 48,
+  "fork_count": 9,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-07-11T05:31:38Z",
+  "updated_at": "2026-07-15T15:50:24Z",
+  "pushed_at": "2026-07-13T18:38:06Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-15",
+      "stars": 48
+    }
+  ]
+}

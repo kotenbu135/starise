@@ -3,21 +3,20 @@
   "owner": "builderz-labs",
   "name": "mission-control",
   "full_name": "builderz-labs/mission-control",
-  "description": "Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.",
-  "description_ja": "セルフホスト型AIエージェントオーケストレーションプラットフォーム：タスクのディスパッチ、マルチエージェントワークフローの実行、コスト監視、ひとつのミッションコントロールダッシュボードから運用管理。",
+  "description": "Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.",
+  "description_ja": "",
   "url": "https://github.com/builderz-labs/mission-control",
   "homepage_url": "https://mc.builderz.dev",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "agent-observability",
+    "agent-operations",
     "agent-orchestration",
     "ai-agents",
-    "ai-automation",
-    "ai-dashboard",
-    "claude",
-    "dashboard",
+    "claude-code",
+    "codex",
     "developer-tools",
-    "llm",
     "mcp",
     "nextjs",
     "open-source",
@@ -27,13 +26,13 @@
     "task-management",
     "typescript"
   ],
-  "star_count": 5742,
-  "fork_count": 962,
+  "star_count": 5760,
+  "fork_count": 964,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-13T04:06:19Z",
-  "updated_at": "2026-07-14T17:34:14Z",
-  "pushed_at": "2026-07-13T00:18:55Z",
+  "updated_at": "2026-07-15T19:31:10Z",
+  "pushed_at": "2026-07-15T19:44:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -315,6 +314,10 @@
     {
       "date": "2026-07-14",
       "stars": 5742
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 5760
     }
   ]
 }

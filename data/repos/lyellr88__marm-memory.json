@@ -6,7 +6,7 @@
   "description": "Local-first 3-in-1 AI memory layer \u0026 MCP server for Claude Code \u0026 Cursor. Fuses session history, codebase indices \u0026 concept graphs in SQLite. Enables zero-cloud, privacy-first context \u0026 instant recall for multi-agent swarms.",
   "description_ja": "",
   "url": "https://github.com/Lyellr88/marm-memory",
-  "homepage_url": "",
+  "homepage_url": "https://lyellr88.github.io/marm-memory",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-10T06:36:49Z",
-  "updated_at": "2026-07-13T12:06:43Z",
-  "pushed_at": "2026-07-13T02:36:49Z",
+  "updated_at": "2026-07-15T09:16:11Z",
+  "pushed_at": "2026-07-15T12:52:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -314,6 +314,10 @@
     },
     {
       "date": "2026-07-14",
+      "stars": 308
+    },
+    {
+      "date": "2026-07-15",
       "stars": 308
     }
   ]

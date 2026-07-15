@@ -6,20 +6,23 @@
   "description": "This paper list focuses on the theoretical and empirical analysis of language models, especially large language models (LLMs). The papers in this list investigate the learning behavior, generalization ability, and other properties of language models through theoretical analysis, empirical analysis, or a combination of both.",
   "description_ja": "",
   "url": "https://github.com/Furyton/awesome-language-model-analysis",
-  "homepage_url": "",
+  "homepage_url": "https://furyton.github.io/awesome-language-model-analysis/",
   "language": "Python",
   "license": "CC0-1.0",
   "topics": [
     "ai",
     "analysis",
     "analytics",
+    "anthropic",
     "awesome",
     "chatgpt",
     "deep-learning",
+    "deepseek",
     "generative-ai",
     "large-language-models",
     "llm",
     "nlp",
+    "openai",
     "theory",
     "transformers"
   ],
@@ -28,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-25T14:55:57Z",
-  "updated_at": "2026-07-11T19:47:01Z",
-  "pushed_at": "2026-07-11T19:46:58Z",
+  "updated_at": "2026-07-15T15:56:43Z",
+  "pushed_at": "2026-07-15T16:25:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -198,6 +201,10 @@
     },
     {
       "date": "2026-07-14",
+      "stars": 101
+    },
+    {
+      "date": "2026-07-15",
       "stars": 101
     }
   ]

@@ -3,15 +3,14 @@
   "owner": "mm7894215",
   "name": "tokentracker",
   "full_name": "mm7894215/tokentracker",
-  "description": "Track token usage across 25 AI coding tools — Claude Code, Codex, Cursor, Gemini, Kiro, OpenCode, Antigravity, Copilot, Kimi, CodeBuddy, WorkBuddy, Grok, Kilo, Roo, Zed, Goose, Mimo, ZCode \u0026 more — local-first, zero-config, with a dashboard, macOS menu bar app, and desktop widgets.",
+  "description": "Local-first AI token usage \u0026 cost tracker for 27 coding tools — with a desktop pet, 4 widgets, achievements, native macOS/Windows apps, and a one-command CLI. Never reads prompts.",
   "description_ja": "",
   "url": "https://github.com/mm7894215/TokenTracker",
   "homepage_url": "https://www.tokentracker.cc",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
-    "ai",
-    "ai-agent",
+    "ai-coding-tools",
     "ai-tools",
     "antigravity",
     "claude-code",
@@ -20,24 +19,25 @@
     "cost-tracker",
     "cursor",
     "dashboard",
+    "desktop-pet",
+    "desktop-widget",
     "developer-tools",
     "gemini-cli",
-    "llm",
     "local-first",
-    "macos",
-    "nodejs",
-    "npm-package",
+    "macos-app",
     "observability",
     "privacy-first",
-    "token-tracker"
+    "token-tracker",
+    "usage-tracker",
+    "windows-app"
   ],
-  "star_count": 990,
-  "fork_count": 97,
+  "star_count": 1011,
+  "fork_count": 100,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-05T12:02:23Z",
-  "updated_at": "2026-07-14T15:51:51Z",
-  "pushed_at": "2026-07-14T15:50:15Z",
+  "updated_at": "2026-07-15T17:55:05Z",
+  "pushed_at": "2026-07-15T16:00:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -311,6 +311,10 @@
     {
       "date": "2026-07-14",
       "stars": 990
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 1011
     }
   ]
 }

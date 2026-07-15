@@ -3,7 +3,7 @@
   "owner": "benoks",
   "name": "eshot",
   "full_name": "benoks/eshot",
-  "description": "Fast, lightweight Windows screenshot tool with annotations, OCR, uploads, pinned captures, GIF recording, and MP4 screen recording.",
+  "description": "Fast, lightweight Windows and Linux(KDE Plasma 6) screenshot tool with annotations, OCR, uploads, pinned captures, GIF recording, and MP4 screen recording.",
   "description_ja": "",
   "url": "https://github.com/Benoks/EShot",
   "homepage_url": "",
@@ -29,12 +29,12 @@
     "video",
     "windows"
   ],
-  "star_count": 52,
+  "star_count": 54,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-07T11:34:34Z",
-  "updated_at": "2026-07-14T17:20:36Z",
+  "updated_at": "2026-07-15T01:46:52Z",
   "pushed_at": "2026-07-14T17:20:04Z",
   "deleted_at": "",
   "star_history": [
@@ -177,6 +177,10 @@
     {
       "date": "2026-07-14",
       "stars": 52
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 54
     }
   ]
 }

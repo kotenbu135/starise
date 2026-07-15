@@ -3,39 +3,41 @@
   "owner": "douglasmonsky",
   "name": "codex-usage-tracker",
   "full_name": "douglasmonsky/codex-usage-tracker",
-  "description": "MCP \u0026 local dashboard for understanding where your Codex tokens and usage credits are going.",
+  "description": "Local-first MCP tools and dashboard for investigating Codex token usage, credits, costs, caching, and thread patterns.",
   "description_ja": "",
   "url": "https://github.com/douglasmonsky/codex-usage-tracker",
   "homepage_url": "https://github.com/douglasmonsky/codex-usage-tracker",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "chatgpt",
+    "cli",
     "codex",
-    "codex-app",
+    "codex-cli",
     "codex-plugin",
     "codex-skill",
+    "cost-analysis",
     "dashboard",
-    "free",
+    "developer-tools",
+    "llm-observability",
+    "local-first",
     "mcp",
-    "open-source",
+    "model-context-protocol",
     "openai",
-    "plugin",
-    "pypi-package",
+    "privacy-first",
+    "prompt-caching",
+    "pypi",
     "python",
-    "skill",
     "sqlite",
     "token-usage",
-    "tracker",
-    "tracking"
+    "usage-analytics"
   ],
-  "star_count": 159,
-  "fork_count": 12,
+  "star_count": 162,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-17T19:20:06Z",
-  "updated_at": "2026-07-14T19:43:10Z",
-  "pushed_at": "2026-07-14T19:45:01Z",
+  "updated_at": "2026-07-15T18:51:02Z",
+  "pushed_at": "2026-07-15T18:50:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -153,6 +155,10 @@
     {
       "date": "2026-07-14",
       "stars": 159
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 162
     }
   ]
 }

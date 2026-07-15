@@ -6,7 +6,7 @@
   "description": "paas-charm - charm repository.",
   "description_ja": "",
   "url": "https://github.com/canonical/paas-charm",
-  "homepage_url": "https://canonical-12-factor-app-support.readthedocs-hosted.com/en/latest/",
+  "homepage_url": "https://canonical.com/juju/docs/12-factor/",
   "language": "Python",
   "license": "",
   "topics": [
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-11T12:52:34Z",
-  "updated_at": "2026-07-06T13:52:06Z",
-  "pushed_at": "2026-07-14T19:38:59Z",
+  "updated_at": "2026-07-15T17:52:52Z",
+  "pushed_at": "2026-07-15T17:25:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -245,6 +245,10 @@
     },
     {
       "date": "2026-07-14",
+      "stars": 10
+    },
+    {
+      "date": "2026-07-15",
       "stars": 10
     }
   ]

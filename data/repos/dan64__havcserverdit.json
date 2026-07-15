@@ -1,0 +1,33 @@
+{
+  "repo_id": "R_kgDOSZQeyQ",
+  "owner": "dan64",
+  "name": "havcserverdit",
+  "full_name": "dan64/havcserverdit",
+  "description": "Hybrid Automatic Video Colorizer (HAVC) server that exposes a GPU-accelerated colorization pipeline for B\u0026W images and video frames based on Diffusion Transformer (DiT) models: Qwen-Image-Edit-2511 (with Nunchaku transformer) and LongCat ImageEdit Turbo. Colorized reference frames are propagated using CMNET2.",
+  "description_ja": "",
+  "url": "https://github.com/dan64/HAVCServerDiT",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "colorization",
+    "diffusers",
+    "image-colorization",
+    "nunchaku",
+    "svdquant"
+  ],
+  "star_count": 9,
+  "fork_count": 0,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-10T07:35:44Z",
+  "updated_at": "2026-07-15T17:04:38Z",
+  "pushed_at": "2026-07-11T00:49:13Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-15",
+      "stars": 9
+    }
+  ]
+}

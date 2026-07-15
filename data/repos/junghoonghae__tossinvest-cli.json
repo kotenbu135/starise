@@ -3,7 +3,7 @@
   "owner": "junghoonghae",
   "name": "tossinvest-cli",
   "full_name": "junghoonghae/tossinvest-cli",
-  "description": "tossctl — 토스증권용 커맨드라인 도구(비공식). 계좌·시세·주문과 웹앱 전용 기능(수급·AI 시그널·스크리너·배당)을 터미널에서 다룹니다. JSON·CSV 구조화 출력과 MCP 서버로 AI 에이전트·자동화에 바로 연동.",
+  "description": "토스증권을 AI 에이전트와 터미널에서 다루는 도구. CLI 와 MCP 서버로 계좌·시세·주문은 물론 웹앱 전용 기능(수급·AI 시그널·스크리너·배당)까지, JSON·CSV 구조화 출력으로 AI 도구·자동화에 바로 연동.",
   "description_ja": "",
   "url": "https://github.com/JungHoonGhae/tossinvest-cli",
   "homepage_url": "https://tossinvest-cli.vercel.app",
@@ -23,13 +23,13 @@
     "tossinvest",
     "trading-api"
   ],
-  "star_count": 450,
+  "star_count": 451,
   "fork_count": 75,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T15:01:03Z",
-  "updated_at": "2026-07-14T15:53:23Z",
-  "pushed_at": "2026-07-14T15:52:26Z",
+  "updated_at": "2026-07-15T14:16:40Z",
+  "pushed_at": "2026-07-15T14:14:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -275,6 +275,10 @@
     {
       "date": "2026-07-14",
       "stars": 450
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 451
     }
   ]
 }

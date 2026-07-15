@@ -3,7 +3,7 @@
   "owner": "healthchainai",
   "name": "healthchain",
   "full_name": "healthchainai/healthchain",
-  "description": "Python SDK for healthcare AI: connect models and agents to live EHR systems, skip the integration tax 💫 🏥",
+  "description": "Python SDK for healthcare AI — typed, validated FHIR tools for agents, real-time EHR connectivity, production deployment ✨ 🏥",
   "description_ja": "",
   "url": "https://github.com/healthchainai/HealthChain",
   "homepage_url": "https://healthchainai.github.io/HealthChain/",
@@ -18,19 +18,20 @@
     "fhir-tools",
     "healthcare",
     "healthcare-ai",
+    "langchain",
     "llm",
     "machine-learning",
     "mcp",
     "mlops",
     "python"
   ],
-  "star_count": 215,
+  "star_count": 216,
   "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-11T10:09:35Z",
-  "updated_at": "2026-07-14T17:23:54Z",
-  "pushed_at": "2026-07-12T12:48:47Z",
+  "updated_at": "2026-07-15T17:11:40Z",
+  "pushed_at": "2026-07-15T17:11:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -308,6 +309,10 @@
     {
       "date": "2026-07-14",
       "stars": 215
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 216
     }
   ]
 }

@@ -3,20 +3,29 @@
   "owner": "reliefeai",
   "name": "browser-relay",
   "full_name": "reliefeai/browser-relay",
-  "description": "",
+  "description": "Let AI agents share your everyday, logged-in Chrome through a Skill + CLI — locally or across multiple machines.",
   "description_ja": "",
   "url": "https://github.com/reliefeai/browser-relay",
-  "homepage_url": "",
+  "homepage_url": "https://www.npmjs.com/package/@linsoai/browser-relay",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 108,
+  "topics": [
+    "agent-skill",
+    "ai-agent",
+    "browser-automation",
+    "chrome-extension",
+    "claude-code",
+    "cli",
+    "codex",
+    "remote-browser"
+  ],
+  "star_count": 109,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-28T09:00:10Z",
-  "updated_at": "2026-07-14T10:42:29Z",
-  "pushed_at": "2026-07-06T06:09:56Z",
+  "updated_at": "2026-07-15T14:41:48Z",
+  "pushed_at": "2026-07-15T12:31:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -234,6 +243,10 @@
     {
       "date": "2026-07-14",
       "stars": 108
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 109
     }
   ]
 }

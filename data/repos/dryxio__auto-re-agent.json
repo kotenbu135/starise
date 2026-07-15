@@ -3,20 +3,34 @@
   "owner": "dryxio",
   "name": "auto-re-agent",
   "full_name": "dryxio/auto-re-agent",
-  "description": "Autonomous reverse-engineering agent: source-aware reverser/checker loop, objective verifier, 11-signal parity engine, Ghidra backend",
+  "description": "Open-source AI reverse-engineering agent using Ghidra and LLMs to reconstruct and validate C/C++ functions from binaries.",
   "description_ja": "",
   "url": "https://github.com/Dryxio/auto-re-agent",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 1028,
-  "fork_count": 129,
+  "topics": [
+    "ai-agent",
+    "autonomous-agent",
+    "binary-analysis",
+    "c-plus-plus",
+    "claude",
+    "codex",
+    "cybersecurity",
+    "decompilation",
+    "ghidra",
+    "llm",
+    "reverse-engineering",
+    "source-code-recovery",
+    "static-analysis"
+  ],
+  "star_count": 1045,
+  "fork_count": 131,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-17T17:59:32Z",
-  "updated_at": "2026-07-14T15:44:22Z",
-  "pushed_at": "2026-07-07T21:17:35Z",
+  "updated_at": "2026-07-15T18:43:27Z",
+  "pushed_at": "2026-07-15T13:09:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -246,6 +260,10 @@
     {
       "date": "2026-07-14",
       "stars": 1028
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 1045
     }
   ]
 }

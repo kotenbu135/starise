@@ -3,7 +3,7 @@
   "owner": "ccxt",
   "name": "ccxt",
   "full_name": "ccxt/ccxt",
-  "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java ",
+  "description": "A cryptocurrency trading API with more than 100 crypto and prediction exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java ",
   "description_ja": "",
   "url": "https://github.com/ccxt/ccxt",
   "homepage_url": "https://docs.ccxt.com",
@@ -26,18 +26,17 @@
     "library",
     "market-data",
     "memecoin",
-    "merchant",
     "strategy",
     "trade",
     "trading"
   ],
-  "star_count": 43300,
-  "fork_count": 8738,
+  "star_count": 43302,
+  "fork_count": 8741,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-05-14T15:41:56Z",
-  "updated_at": "2026-07-14T18:43:25Z",
-  "pushed_at": "2026-07-14T18:43:19Z",
+  "updated_at": "2026-07-15T16:44:48Z",
+  "pushed_at": "2026-07-15T16:44:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -319,6 +318,10 @@
     {
       "date": "2026-07-14",
       "stars": 43300
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 43302
     }
   ]
 }
