@@ -3,10 +3,10 @@
   "owner": "thestack-ai",
   "name": "zclean",
   "full_name": "thestack-ai/zclean",
-  "description": "AI coding runtime hygiene for Claude Code, Codex, Cursor, MCP servers, and developer caches. Try: npx z-clean audit",
+  "description": "AI coding runtime hygiene for Codex, Claude Code, Cursor, Windsurf, MCP servers, and safe workspace caches. Try: npx z-clean audit",
   "description_ja": "",
   "url": "https://github.com/TheStack-ai/zclean",
-  "homepage_url": "https://www.npmjs.com/package/@thestackai/zclean",
+  "homepage_url": "https://www.npmjs.com/package/z-clean",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-17T05:54:24Z",
-  "updated_at": "2026-07-13T02:53:58Z",
-  "pushed_at": "2026-07-13T02:29:58Z",
+  "updated_at": "2026-07-16T05:36:48Z",
+  "pushed_at": "2026-07-16T05:36:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -242,6 +242,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-16",
       "stars": 59
     }
   ]

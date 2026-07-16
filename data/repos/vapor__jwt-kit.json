@@ -6,7 +6,7 @@
   "description": "🔑 JSON Web Token (JWT) signing and verification (HMAC, ECDSA, EdDSA, MLDSA, RSA, PSS) with support for JWS and JWK",
   "description_ja": "🔑 JSON Web Token（JWT）の署名と検証（HMAC、ECDSA、EdDSA、MLDSA、RSA、PSS）。JWSとJWKをサポート",
   "url": "https://github.com/vapor/jwt-kit",
-  "homepage_url": "https://api.vapor.codes/jwtkit/documentation/jwtkit/",
+  "homepage_url": "https://api.vapor.codes/jwtkit/",
   "language": "Swift",
   "license": "MIT",
   "topics": [
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-05T21:46:30Z",
-  "updated_at": "2026-06-24T07:03:44Z",
-  "pushed_at": "2026-06-24T07:03:45Z",
+  "updated_at": "2026-07-16T11:21:24Z",
+  "pushed_at": "2026-07-16T11:26:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -305,6 +305,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 277
+    },
+    {
+      "date": "2026-07-16",
       "stars": 277
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "leonchaox",
   "name": "qinyan-academic-skills",
   "full_name": "leonchaox/qinyan-academic-skills",
-  "description": "沁言学术科研论文Skills库 - 177个学术研究Agent Skills的综合集合，涵盖论文检索、科学写作、生物信息、药物发现、临床医学等17个分类",
-  "description_ja": "沁言学術研究論文Skillsライブラリ — 論文検索、科学的文章執筆、バイオインフォマティクス、創薬、臨床医学など17カテゴリにわたる177件の学術研究Agent Skillsの総合コレクション。",
+  "description": "A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientific writing, grant development, bioinformatics, drug discovery, clinical research, machine learning, and data analysis.",
+  "description_ja": "",
   "url": "https://github.com/LeonChaoX/qinyan-academic-skills",
   "homepage_url": "",
   "language": "Python",
@@ -21,13 +21,13 @@
     "pubmed",
     "skill"
   ],
-  "star_count": 643,
-  "fork_count": 56,
+  "star_count": 648,
+  "fork_count": 57,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-27T07:53:27Z",
-  "updated_at": "2026-07-15T19:52:14Z",
-  "pushed_at": "2026-07-01T05:33:39Z",
+  "updated_at": "2026-07-16T14:45:38Z",
+  "pushed_at": "2026-07-16T09:43:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -309,6 +309,10 @@
     {
       "date": "2026-07-15",
       "stars": 643
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 648
     }
   ]
 }

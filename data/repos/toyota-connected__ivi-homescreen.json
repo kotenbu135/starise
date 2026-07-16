@@ -3,32 +3,32 @@
   "owner": "toyota-connected",
   "name": "ivi-homescreen",
   "full_name": "toyota-connected/ivi-homescreen",
-  "description": "Flutter Linux C++ embedder for desktop and embedded displays, with Wayland, DRM/KMS, EGL, Vulkan, and software backends",
+  "description": "Flutter Linux C++ embedder for desktop and embedded/automotive displays — Wayland, DRM/KMS, EGL, Vulkan (incl. zero-copy dma-buf), and software backends",
   "description_ja": "",
   "url": "https://github.com/toyota-connected/ivi-homescreen",
   "homepage_url": "",
   "language": "C++",
   "license": "NOASSERTION",
   "topics": [
+    "accessibility",
     "automotive",
     "cpp",
-    "drm-kms",
+    "dart",
+    "dma-buf",
     "drm-kms-egl",
     "drm-kms-vulkan",
-    "egl",
     "embedded-flutter",
     "embedded-linux",
     "flutter",
     "flutter-embedder",
-    "gbm",
+    "impeller",
     "ivi",
-    "linux",
-    "opengl-es",
-    "software-rendering",
-    "toyota",
-    "toyota-flutter",
+    "raspberry-pi",
+    "steam-deck",
     "vulkan",
     "wayland",
+    "wayland-egl",
+    "wayland-vulkan",
     "yocto"
   ],
   "star_count": 377,
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-31T22:16:24Z",
-  "updated_at": "2026-07-15T20:32:56Z",
-  "pushed_at": "2026-07-15T20:33:12Z",
+  "updated_at": "2026-07-16T00:16:30Z",
+  "pushed_at": "2026-07-16T20:43:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -318,6 +318,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 377
+    },
+    {
+      "date": "2026-07-16",
       "stars": 377
     }
   ]

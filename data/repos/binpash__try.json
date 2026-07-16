@@ -3,8 +3,8 @@
   "owner": "binpash",
   "name": "try",
   "full_name": "binpash/try",
-  "description": "Inspect a command's effects before modifying your live system",
-  "description_ja": "ライブシステムを変更する前にコマンドの影響を検査するツール",
+  "description": "Control and manipulate a command's effects before modifying your live system",
+  "description_ja": "",
   "url": "https://github.com/binpash/try",
   "homepage_url": "",
   "language": "Shell",
@@ -21,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-17T19:15:04Z",
-  "updated_at": "2026-07-15T18:29:34Z",
-  "pushed_at": "2026-07-15T18:31:40Z",
+  "updated_at": "2026-07-16T19:58:21Z",
+  "pushed_at": "2026-07-16T05:07:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -303,6 +303,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 5452
+    },
+    {
+      "date": "2026-07-16",
       "stars": 5452
     }
   ]

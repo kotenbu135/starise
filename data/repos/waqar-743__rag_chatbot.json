@@ -3,24 +3,29 @@
   "owner": "waqar-743",
   "name": "rag_chatbot",
   "full_name": "waqar-743/rag_chatbot",
-  "description": "This full-stack application implements RAG a technique that combines semantic search with LLM-powered generation to create AI systems that are accurate, traceable, and production-ready.",
+  "description": "Production RAG chatbot with cited answers — FastAPI, React, Qdrant, OpenRouter, and Render.",
   "description_ja": "",
   "url": "https://github.com/Waqar-743/RAG_Chatbot",
-  "homepage_url": "https://waqar-743.github.io/RAG_Chatbot/",
+  "homepage_url": "https://rag-chatbot-waqar.onrender.com",
   "language": "Python",
   "license": "",
   "topics": [
     "chat-with-documents",
+    "fastapi",
+    "openrouter",
+    "qdrant",
     "rag",
-    "rag-chatbot"
+    "rag-chatbot",
+    "react",
+    "render"
   ],
   "star_count": 10,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-22T17:04:33Z",
-  "updated_at": "2026-07-04T12:50:04Z",
-  "pushed_at": "2026-07-04T10:55:33Z",
+  "updated_at": "2026-07-16T07:22:58Z",
+  "pushed_at": "2026-07-16T07:22:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -273,6 +278,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 10
+    },
+    {
+      "date": "2026-07-16",
       "stars": 10
     }
   ]

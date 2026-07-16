@@ -3,7 +3,7 @@
   "owner": "purpledoubled",
   "name": "locally-uncensored",
   "full_name": "purpledoubled/locally-uncensored",
-  "description": "Uncensored local AI desktop app: chat, agent mode, image \u0026 video generation. Run abliterated/uncensored LLMs + ComfyUI fully offline with your own provider. Single .exe, no Docker.",
+  "description": "Plug-and-play local AI studio: uncensored chat, image \u0026 video generation, coding agent. Runs abliterated LLMs + ComfyUI 100% offline. One installer, no Docker, no cloud.",
   "description_ja": "",
   "url": "https://github.com/PurpleDoubleD/locally-uncensored",
   "homepage_url": "https://locallyuncensored.com",
@@ -17,27 +17,27 @@
     "comfyui",
     "desktop-app",
     "gemma4",
+    "gguf",
     "image-generation",
     "llm",
     "local-ai",
     "local-llm",
     "ollama",
     "privacy",
-    "react",
     "self-hosted",
+    "stable-diffusion",
     "tauri",
-    "typescript",
     "uncensored",
     "uncensored-ai",
     "video-generation"
   ],
-  "star_count": 903,
+  "star_count": 907,
   "fork_count": 143,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-24T21:52:47Z",
-  "updated_at": "2026-07-15T17:55:07Z",
-  "pushed_at": "2026-07-14T21:25:13Z",
+  "updated_at": "2026-07-16T20:07:00Z",
+  "pushed_at": "2026-07-16T14:25:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -199,6 +199,10 @@
     {
       "date": "2026-07-15",
       "stars": 903
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 907
     }
   ]
 }

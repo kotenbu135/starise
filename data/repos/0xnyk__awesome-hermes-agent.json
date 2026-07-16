@@ -3,27 +3,31 @@
   "owner": "0xnyk",
   "name": "awesome-hermes-agent",
   "full_name": "0xnyk/awesome-hermes-agent",
-  "description": "A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research",
-  "description_ja": "Nous ResearchのHermes Agent向けに厳選された、優れたスキル・ツール・統合・リソースのリスト",
+  "description": "Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.",
+  "description_ja": "",
   "url": "https://github.com/0xNyk/awesome-hermes-agent",
-  "homepage_url": "",
+  "homepage_url": "https://www.nyk.dev/oss/awesome-hermes-agent",
   "language": "",
   "license": "NOASSERTION",
   "topics": [
+    "agent-skills",
     "ai-agents",
+    "ai-tools",
     "awesome",
     "awesome-list",
     "hermes-agent",
+    "mcp",
+    "memory",
     "nous-research",
     "skills"
   ],
-  "star_count": 4711,
-  "fork_count": 327,
+  "star_count": 4735,
+  "fork_count": 330,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T05:34:37Z",
-  "updated_at": "2026-07-15T14:48:05Z",
-  "pushed_at": "2026-07-13T18:42:26Z",
+  "updated_at": "2026-07-16T19:48:25Z",
+  "pushed_at": "2026-07-15T21:41:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -309,6 +313,10 @@
     {
       "date": "2026-07-15",
       "stars": 4711
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 4735
     }
   ]
 }

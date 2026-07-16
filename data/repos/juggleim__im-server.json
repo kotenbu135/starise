@@ -3,10 +3,10 @@
   "owner": "juggleim",
   "name": "im-server",
   "full_name": "juggleim/im-server",
-  "description": "A high-performance IM server.",
-  "description_ja": "高性能なIMサーバー",
+  "description": "High-performance, scalable, self-hosted instant messaging server in Go — private chat, groups, chatrooms, WebSocket and REST APIs.",
+  "description_ja": "",
   "url": "https://github.com/juggleim/im-server",
-  "homepage_url": "https://www.juggle.im",
+  "homepage_url": "https://www.juggle.im/docs/guide/intro/",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
@@ -18,16 +18,21 @@
     "imserver",
     "instant-messaging",
     "messenger",
+    "multi-tenant",
+    "open-source",
+    "protobuf",
+    "realtime",
+    "rest-api",
     "self-hosted",
     "websocket"
   ],
-  "star_count": 3584,
+  "star_count": 3587,
   "fork_count": 363,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-26T07:01:43Z",
-  "updated_at": "2026-07-15T11:37:47Z",
-  "pushed_at": "2026-07-15T11:37:42Z",
+  "updated_at": "2026-07-16T12:23:45Z",
+  "pushed_at": "2026-07-16T12:23:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -309,6 +314,10 @@
     {
       "date": "2026-07-15",
       "stars": 3584
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 3587
     }
   ]
 }

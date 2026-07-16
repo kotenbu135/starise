@@ -3,7 +3,7 @@
   "owner": "moyufamily",
   "name": "ai-relay",
   "full_name": "moyufamily/ai-relay",
-  "description": "Serverless AI API Gateway / 无服务器 AI API 网关 · Vercel 一键部署 / Cloudflare 推送即部署 · 多 Provider 路由 · Key 轮换 · 故障转移 · OpenAI 兼容",
+  "description": "Serverless AI API Gateway /   Vercel  / Cloudflare / Multiple Provider / Fallback Chain",
   "description_ja": "",
   "url": "https://github.com/MoyuFamily/ai-relay",
   "homepage_url": "https://airelay.izmw.me",
@@ -28,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-20T15:37:05Z",
-  "updated_at": "2026-07-15T15:13:43Z",
-  "pushed_at": "2026-07-03T09:24:37Z",
+  "updated_at": "2026-07-16T03:10:32Z",
+  "pushed_at": "2026-07-16T03:05:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -190,6 +190,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 117
+    },
+    {
+      "date": "2026-07-16",
       "stars": 117
     }
   ]

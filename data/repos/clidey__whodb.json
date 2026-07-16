@@ -10,33 +10,34 @@
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
-    "anthropic",
-    "clickhouse",
-    "data-analysis",
-    "data-visualization",
-    "database",
-    "elasticsearch",
-    "explorer",
-    "golang",
-    "lightweight",
-    "mariadb",
-    "mongodb",
+    "ai-agent",
+    "data-catalog",
+    "data-governance",
+    "data-integration",
+    "data-lineage",
+    "data-pipeline",
+    "data-platform",
+    "database-management",
+    "er-diagram",
+    "internal-tools",
+    "mcp-server",
+    "model-context-protocol",
     "mysql",
-    "ollama",
-    "openai",
+    "oracle",
     "postgresql",
-    "reactjs",
-    "sqlite3",
-    "typescript",
-    "vite"
+    "self-hosted",
+    "sql-editor",
+    "sqlserver",
+    "text-to-sql",
+    "visual-query-builder"
   ],
-  "star_count": 4926,
+  "star_count": 4927,
   "fork_count": 221,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-11T10:10:59Z",
-  "updated_at": "2026-07-15T18:25:20Z",
-  "pushed_at": "2026-07-15T18:25:00Z",
+  "updated_at": "2026-07-16T17:04:22Z",
+  "pushed_at": "2026-07-16T17:56:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -322,6 +323,10 @@
     {
       "date": "2026-07-15",
       "stars": 4926
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 4927
     }
   ]
 }

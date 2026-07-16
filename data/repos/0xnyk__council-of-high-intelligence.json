@@ -3,33 +3,35 @@
   "owner": "0xnyk",
   "name": "council-of-high-intelligence",
   "full_name": "0xnyk/council-of-high-intelligence",
-  "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Structured multi-round deliberation, confidence-weighted verdicts, genuine model diversity. Install as a Claude Code plugin — one command: /council",
+  "description": "Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode.",
   "description_ja": "",
   "url": "https://github.com/0xNyk/council-of-high-intelligence",
-  "homepage_url": "",
+  "homepage_url": "https://www.nyk.dev/oss/council-of-high-intelligence",
   "language": "Shell",
   "license": "MIT",
   "topics": [
+    "agent-skill",
     "ai-agents",
-    "claude",
     "claude-code",
-    "claude-plugin",
+    "codex",
     "decision-making",
     "deliberation",
-    "gemini",
-    "multi-agent-debate",
+    "gemini-cli",
+    "llm-routing",
+    "multi-agent-systems",
     "multi-llm",
-    "ollama",
-    "openai",
-    "prompt-engineering"
+    "open-source",
+    "opencode",
+    "prompt-engineering",
+    "structured-debate"
   ],
-  "star_count": 3564,
-  "fork_count": 318,
+  "star_count": 3591,
+  "fork_count": 320,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-02T08:47:09Z",
-  "updated_at": "2026-07-15T19:06:26Z",
-  "pushed_at": "2026-07-13T18:42:28Z",
+  "updated_at": "2026-07-16T19:46:33Z",
+  "pushed_at": "2026-07-15T20:09:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -311,6 +313,10 @@
     {
       "date": "2026-07-15",
       "stars": 3564
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 3591
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "tsinhzl",
   "name": "kiro2cc-proxy",
   "full_name": "tsinhzl/kiro2cc-proxy",
-  "description": "kiro反代cc。支持 opus4.8/4.7/4.6/sonnet5 等最新模型，支持kiro缓存，流式输出。kiro2cc proxy: Anthropic Claude API → Kiro API. Supports Claude Opus 4.8 /4.7 / 4.6 / Sonnet 5, SSE streaming, cache-supported ",
+  "description": "kiro反代cc。支持 opus4.8/4.7/4.6/sonnet5/gpt5.6 等最新模型，支持kiro缓存，流式输出。kiro2cc proxy: Anthropic Claude API → Kiro API. Supports Claude Opus 4.8 /4.7 / 4.6 / Sonnet 5 / gpt 5.6, SSE streaming, cache-supported ",
   "description_ja": "",
   "url": "https://github.com/TsinHzl/kiro2cc-proxy",
   "homepage_url": "",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-15T20:45:36Z",
-  "updated_at": "2026-07-15T13:01:10Z",
-  "pushed_at": "2026-07-15T13:02:08Z",
+  "updated_at": "2026-07-16T12:58:48Z",
+  "pushed_at": "2026-07-16T12:58:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -137,6 +137,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 78
+    },
+    {
+      "date": "2026-07-16",
       "stars": 78
     }
   ]

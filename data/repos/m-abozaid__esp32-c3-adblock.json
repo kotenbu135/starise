@@ -1,0 +1,37 @@
+{
+  "repo_id": "R_kgDOS_ll1A",
+  "owner": "m-abozaid",
+  "name": "esp32-c3-adblock",
+  "full_name": "m-abozaid/esp32-c3-adblock",
+  "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
+  "description_ja": "",
+  "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+  "homepage_url": "",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "adblocker",
+    "arduino",
+    "dns",
+    "dns-sinkhole",
+    "esp32",
+    "esp32-c3",
+    "iot",
+    "pi-hole",
+    "platformio"
+  ],
+  "star_count": 41,
+  "fork_count": 4,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-19T18:14:43Z",
+  "updated_at": "2026-07-16T19:26:53Z",
+  "pushed_at": "2026-07-15T20:18:50Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-16",
+      "stars": 41
+    }
+  ]
+}

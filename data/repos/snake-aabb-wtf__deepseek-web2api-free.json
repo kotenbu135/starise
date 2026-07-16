@@ -1,0 +1,37 @@
+{
+  "repo_id": "R_kgDOSWudDg",
+  "owner": "snake-aabb-wtf",
+  "name": "deepseek-web2api-free",
+  "full_name": "snake-aabb-wtf/deepseek-web2api-free",
+  "description": " 基于 FastAPI 的 DeepSeek Chat 反向代理，将 DeepSeek 网页版的 API 转换为 OpenAI 兼容格式。   支持流式/非流式对话、专家模式、深度思考（reasoning_content）、工具调用（DSML prompt injection）。   自动处理 PoW 鉴权挑战，无需官方 API Key。",
+  "description_ja": "",
+  "url": "https://github.com/snake-aabb-wtf/deepseek-web2api-free",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "Unlicense",
+  "topics": [
+    "ai",
+    "ai-api",
+    "api-free",
+    "api-key",
+    "deepseek-v4",
+    "deepseek-v4-flash",
+    "deepseek-v4-pro",
+    "sub2api",
+    "web2api"
+  ],
+  "star_count": 46,
+  "fork_count": 10,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-07T09:36:51Z",
+  "updated_at": "2026-07-16T15:44:57Z",
+  "pushed_at": "2026-07-02T18:43:51Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-16",
+      "stars": 46
+    }
+  ]
+}

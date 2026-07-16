@@ -3,7 +3,7 @@
   "owner": "kryptosai",
   "name": "mcp-observatory",
   "full_name": "kryptosai/mcp-observatory",
-  "description": "Secure the MCP servers you're building. CI-native testing, attack simulation, and security gates — before agents depend on them.",
+  "description": "CI-native security testing for MCP servers. Attack simulation, schema drift detection, and health scoring before agents depend on them.",
   "description_ja": "",
   "url": "https://github.com/KryptosAI/mcp-observatory",
   "homepage_url": "https://github.com/KryptosAI/mcp-observatory#readme",
@@ -31,13 +31,13 @@
     "security",
     "supply-chain-security"
   ],
-  "star_count": 144,
+  "star_count": 236,
   "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-19T00:28:30Z",
-  "updated_at": "2026-07-15T18:56:55Z",
-  "pushed_at": "2026-07-15T18:56:50Z",
+  "updated_at": "2026-07-16T11:32:52Z",
+  "pushed_at": "2026-07-16T10:07:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -95,6 +95,10 @@
     {
       "date": "2026-07-15",
       "stars": 144
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 236
     }
   ]
 }

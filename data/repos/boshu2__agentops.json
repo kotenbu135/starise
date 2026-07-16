@@ -3,7 +3,7 @@
   "owner": "boshu2",
   "name": "agentops",
   "full_name": "boshu2/agentops",
-  "description": "Operating loop for coding agents. A change isn't done until a different model or a real test checks it, and the verdict is recorded in your repo.",
+  "description": "The operating loop a coding agent follows — and skills to orchestrate multi-agent systems.",
   "description_ja": "",
   "url": "https://github.com/boshu2/agentops",
   "homepage_url": "https://www.12factoragentops.com",
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-05T19:18:56Z",
-  "updated_at": "2026-07-15T19:49:15Z",
-  "pushed_at": "2026-07-15T19:49:11Z",
+  "updated_at": "2026-07-16T14:34:13Z",
+  "pushed_at": "2026-07-16T14:33:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -309,6 +309,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 410
+    },
+    {
+      "date": "2026-07-16",
       "stars": 410
     }
   ]

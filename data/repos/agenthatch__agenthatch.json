@@ -3,7 +3,7 @@
   "owner": "agenthatch",
   "name": "agenthatch",
   "full_name": "agenthatch/agenthatch",
-  "description": "Turn any skill into a standalone, runnable AI Agent",
+  "description": "Turn any skill into a standalone, runnable RAG-native AI Agent",
   "description_ja": "",
   "url": "https://github.com/agenthatch/agenthatch",
   "homepage_url": "",
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-03T02:21:35Z",
-  "updated_at": "2026-07-15T12:34:59Z",
-  "pushed_at": "2026-07-13T11:49:59Z",
+  "updated_at": "2026-07-16T13:01:29Z",
+  "pushed_at": "2026-07-16T12:59:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -119,6 +119,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 61
+    },
+    {
+      "date": "2026-07-16",
       "stars": 61
     }
   ]

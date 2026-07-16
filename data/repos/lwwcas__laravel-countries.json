@@ -3,41 +3,41 @@
   "owner": "lwwcas",
   "name": "laravel-countries",
   "full_name": "lwwcas/laravel-countries",
-  "description": "A comprehensive package for managing country data in Laravel applications, including multilingual support, geographic coordinates, and detailed metadata for seamless integration with Laravel.",
-  "description_ja": "多言語対応、地理座標、詳細なメタデータを含む、Laravelアプリケーションでの国データ管理に対応した包括的パッケージ。Laravelとシームレスに統合できます。",
+  "description": "Laravel country database package with Eloquent models, ISO 3166 codes, country flags, GeoJSON maps, phone codes, currencies and translations in 9 languages. Built with migrations \u0026 seeders for Laravel 10–13.",
+  "description_ja": "",
   "url": "https://github.com/lwwcas/laravel-countries",
   "homepage_url": "https://lwwcas.github.io/laravel-countries/",
   "language": "PHP",
   "license": "MIT",
   "topics": [
-    "arabic",
     "countries",
     "country",
     "country-codes",
     "country-flags",
+    "currency",
     "database",
-    "dutch",
-    "english",
-    "german",
-    "italian",
+    "eloquent",
+    "geojson",
+    "geolocation",
+    "internationalization",
+    "iso-3166",
     "laravel",
+    "laravel-package",
     "migrations",
+    "phone-numbers",
     "php",
-    "portuguese",
-    "portuguese-brazilian",
-    "portuguese-portugal",
     "regions",
-    "russian",
-    "seeds",
-    "spanish"
+    "svg",
+    "translations",
+    "world-countries"
   ],
   "star_count": 127,
   "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-17T16:00:52Z",
-  "updated_at": "2026-07-14T22:02:59Z",
-  "pushed_at": "2026-07-14T22:05:54Z",
+  "updated_at": "2026-07-16T09:03:56Z",
+  "pushed_at": "2026-07-16T09:05:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -318,6 +318,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 127
+    },
+    {
+      "date": "2026-07-16",
       "stars": 127
     }
   ]

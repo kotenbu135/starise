@@ -3,8 +3,8 @@
   "owner": "nameetp",
   "name": "pdfmux",
   "full_name": "nameetp/pdfmux",
-  "description": "PDF extraction that checks its own work. #2 reading order accuracy — zero AI, zero GPU, zero cost.",
-  "description_ja": "自己検証機能付きPDF抽出ツール。読み取り順精度ランキング2位 — AIゼロ、GPUゼロ、コストゼロ。",
+  "description": "Self-healing PDF extraction that flags what it can't read instead of dropping it — and now certifies any extractor's output, catching silently-dropped pages. #2 of all tools, #1 free on opendataloader-bench (0.903). 7-tool MCP. MIT, free.",
+  "description_ja": "",
   "url": "https://github.com/NameetP/pdfmux",
   "homepage_url": "https://pdfmux.com",
   "language": "Python",
@@ -31,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T16:32:24Z",
-  "updated_at": "2026-07-14T22:47:53Z",
-  "pushed_at": "2026-07-07T14:04:29Z",
+  "updated_at": "2026-07-16T17:58:24Z",
+  "pushed_at": "2026-07-16T20:16:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -317,6 +317,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 76
+    },
+    {
+      "date": "2026-07-16",
       "stars": 76
     }
   ]

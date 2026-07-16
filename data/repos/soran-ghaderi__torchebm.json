@@ -3,8 +3,8 @@
   "owner": "soran-ghaderi",
   "name": "torchebm",
   "full_name": "soran-ghaderi/torchebm",
-  "description": "🍓 Build and train energy-based and diffusion models in PyTorch ⚡.",
-  "description_ja": "PyTorchでエネルギーベースモデルと拡散モデルを構築・訓練するライブラリ。",
+  "description": "🍓 Simulation-free, GPU-first generative modeling in PyTorch ⚡ Composable primitives for scalable, stable training of modern EBMs, diffusion, flow matching, and Schrödinger bridges.",
+  "description_ja": "",
   "url": "https://github.com/soran-ghaderi/torchebm",
   "homepage_url": "https://soran-ghaderi.github.io/torchebm/",
   "language": "Python",
@@ -12,32 +12,31 @@
   "topics": [
     "contrastive-divergence",
     "cuda",
-    "cuda-optimization",
+    "deep-learning",
     "diffusion-models",
     "energy-based-models",
-    "equilibrium",
     "equilibrium-matching",
     "flow-matching",
     "generative-models",
-    "hamiltonian",
+    "gpu",
     "hamiltonian-monte-carlo",
     "langevin-dynamics",
     "mcmc-sampling",
-    "noise-contrastive-estimation",
-    "open-source",
+    "optimal-transport",
     "probabilistic-machine-learning",
     "pytorch",
     "sampling-methods",
+    "schrodinger-bridge",
     "score-matching",
-    "variational-inference"
+    "simulation-free"
   ],
-  "star_count": 103,
+  "star_count": 104,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-05T12:41:38Z",
-  "updated_at": "2026-07-14T23:52:07Z",
-  "pushed_at": "2026-07-14T14:02:07Z",
+  "updated_at": "2026-07-16T17:56:10Z",
+  "pushed_at": "2026-07-16T20:22:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -323,6 +322,10 @@
     {
       "date": "2026-07-15",
       "stars": 103
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 104
     }
   ]
 }

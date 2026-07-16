@@ -3,20 +3,33 @@
   "owner": "robertg761",
   "name": "ha-desktop-widget",
   "full_name": "robertg761/ha-desktop-widget",
-  "description": "A convenient tool for Home Assistant that provides quick access to your smart home devices from your desktop.",
+  "description": "Free, open-source Home Assistant desktop app and widget for Windows, macOS, and Linux. Control devices, view sensors, and pin entities to your desktop.",
   "description_ja": "",
   "url": "https://github.com/Robertg761/HA-Desktop-Widget",
   "homepage_url": "https://x.com/Robertg761_",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 36,
+  "topics": [
+    "dashboard",
+    "desktop-app",
+    "desktop-widget",
+    "electron",
+    "home-assistant",
+    "home-automation",
+    "iot",
+    "linux",
+    "macos",
+    "rainmeter",
+    "smart-home",
+    "windows"
+  ],
+  "star_count": 37,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-29T03:23:14Z",
-  "updated_at": "2026-07-13T22:31:21Z",
-  "pushed_at": "2026-07-15T09:21:10Z",
+  "updated_at": "2026-07-16T16:28:21Z",
+  "pushed_at": "2026-07-15T21:15:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +143,10 @@
     {
       "date": "2026-07-15",
       "stars": 36
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 37
     }
   ]
 }

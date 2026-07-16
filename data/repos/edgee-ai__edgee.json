@@ -3,7 +3,7 @@
   "owner": "edgee-ai",
   "name": "edgee",
   "full_name": "edgee-ai/edgee",
-  "description": "Open-source AI gateway written in Rust, with token compression for Claude Code, Codex... and any other LLM client.",
+  "description": "Official Edgee CLI to interract with Edgee's Agent Gateway. Route Claude Code, Codex, Cursor, VS Code + Copilot, and more through Edgee's hosted gateway to cut token spend.",
   "description_ja": "",
   "url": "https://github.com/edgee-ai/edgee",
   "homepage_url": "https://www.edgee.ai",
@@ -19,13 +19,13 @@
     "llm-gateway",
     "token-compression"
   ],
-  "star_count": 117,
-  "fork_count": 16,
+  "star_count": 119,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T08:07:03Z",
-  "updated_at": "2026-07-15T03:59:39Z",
-  "pushed_at": "2026-07-13T19:50:43Z",
+  "updated_at": "2026-07-16T13:51:45Z",
+  "pushed_at": "2026-07-16T13:51:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +75,10 @@
     {
       "date": "2026-07-15",
       "stars": 117
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 119
     }
   ]
 }

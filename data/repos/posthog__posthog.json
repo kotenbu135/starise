@@ -3,8 +3,8 @@
   "owner": "posthog",
   "name": "posthog",
   "full_name": "posthog/posthog",
-  "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-  "description_ja": "🦔 PostHog はプロダクト開発を成功に導くためのオールインワン開発者プラットフォームです。プロダクト分析、Web 分析、セッションリプレイ、エラートラッキング、フィーチャーフラグ、実験、サーベイ、データウェアハウス、CDP、そしてコードのデバッグや機能のリリース高速化を支援する AI プロダクトアシスタントを提供します。すべての利用状況と顧客データを一つのスタックで管理できます。",
+  "description": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+  "description_ja": "",
   "url": "https://github.com/PostHog/posthog",
   "homepage_url": "https://posthog.com",
   "language": "Python",
@@ -26,13 +26,13 @@
     "typescript",
     "web-analytics"
   ],
-  "star_count": 35557,
-  "fork_count": 2976,
+  "star_count": 35789,
+  "fork_count": 2985,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-01-23T22:46:58Z",
-  "updated_at": "2026-07-15T20:37:56Z",
-  "pushed_at": "2026-07-15T20:44:27Z",
+  "updated_at": "2026-07-16T21:11:07Z",
+  "pushed_at": "2026-07-16T21:11:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -318,6 +318,10 @@
     {
       "date": "2026-07-15",
       "stars": 35557
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 35789
     }
   ]
 }

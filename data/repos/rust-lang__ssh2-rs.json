@@ -6,7 +6,7 @@
   "description": "Rust bindings for libssh2",
   "description_ja": "libssh2のRustバインディング",
   "url": "https://github.com/rust-lang/ssh2-rs",
-  "homepage_url": "http://rust-lang.github.io/ssh2-rs/",
+  "homepage_url": "https://crates.io/crates/ssh2",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [],
@@ -15,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-09-18T05:10:52Z",
-  "updated_at": "2026-07-10T16:33:06Z",
+  "updated_at": "2026-07-16T14:20:11Z",
   "pushed_at": "2026-06-30T19:40:28Z",
   "deleted_at": "",
   "star_history": [
@@ -301,6 +301,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 564
+    },
+    {
+      "date": "2026-07-16",
       "stars": 564
     }
   ]

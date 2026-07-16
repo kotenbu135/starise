@@ -3,27 +3,32 @@
   "owner": "speedpy",
   "name": "speedpy",
   "full_name": "speedpy/speedpy",
-  "description": "Django-based SaaS boilerplate for the modern AI era ",
+  "description": "Free, MIT-licensed Django SaaS boilerplate for the AI era — production-ready APIs, teams, billing, and an MCP server for AI agents.",
   "description_ja": "",
   "url": "https://github.com/speedpy/speedpy",
   "homepage_url": "https://speedpy.com",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
+    "ai-agents",
     "alpinejs",
+    "boilerplate",
     "django",
     "django-rest-framework",
     "htmx",
+    "mcp",
+    "python",
     "saas-boilerplate",
+    "starter-kit",
     "stripe"
   ],
-  "star_count": 66,
+  "star_count": 70,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-02T10:37:41Z",
-  "updated_at": "2026-07-14T02:45:41Z",
-  "pushed_at": "2026-07-13T06:34:19Z",
+  "updated_at": "2026-07-16T20:57:36Z",
+  "pushed_at": "2026-07-16T20:57:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -97,6 +102,10 @@
     {
       "date": "2026-07-15",
       "stars": 66
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 70
     }
   ]
 }

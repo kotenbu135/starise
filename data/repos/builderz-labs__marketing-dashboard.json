@@ -3,10 +3,10 @@
   "owner": "builderz-labs",
   "name": "marketing-dashboard",
   "full_name": "builderz-labs/marketing-dashboard",
-  "description": "Open-source marketing operations control center for AI agent teams (CRM, outreach, content, analytics) powered by OpenClaw + SQLite.",
-  "description_ja": "OpenClaw + SQLite搭載のAIエージェントチーム向けオープンソースマーケティングオペレーションコントロールセンター（CRM、アウトリーチ、コンテンツ、分析）。",
+  "description": "Local-first marketing operations control center for CRM, outreach, content, analytics, approvals, automations, and agent workflows.",
+  "description_ja": "",
   "url": "https://github.com/builderz-labs/marketing-dashboard",
-  "homepage_url": "",
+  "homepage_url": "https://www.nyk.dev/oss/marketing-dashboard",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -20,13 +20,13 @@
     "sqlite",
     "typescript"
   ],
-  "star_count": 389,
+  "star_count": 390,
   "fork_count": 73,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-13T04:05:45Z",
-  "updated_at": "2026-07-15T17:32:51Z",
-  "pushed_at": "2026-06-21T13:29:31Z",
+  "updated_at": "2026-07-16T11:09:26Z",
+  "pushed_at": "2026-07-16T08:30:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -308,6 +308,10 @@
     {
       "date": "2026-07-15",
       "stars": 389
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 390
     }
   ]
 }

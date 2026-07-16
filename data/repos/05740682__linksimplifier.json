@@ -3,13 +3,16 @@
   "owner": "05740682",
   "name": "linksimplifier",
   "full_name": "05740682/linksimplifier",
-  "description": "一款基于C# WPF .NET Framework 4.8开发的云盘直链解析工具,支持从QQ邮箱文件中转站、蓝奏云获取直链并下载",
+  "description": "一款轻量、高效的云盘直链解析工具，支持解析QQ邮箱文件中转站和蓝奏云的直链并下载到本地。提供基于 C# WPF 的桌面客户端和基于 Cloudflare Workers \u0026 Pages 的 Web 版本。",
   "description_ja": "",
   "url": "https://github.com/05740682/LinkSimplifier",
   "homepage_url": "https://linksimplifier.test0001.bond/",
   "language": "C#",
   "license": "MIT",
   "topics": [
+    "cloudflare",
+    "cloudflare-pages",
+    "cloudflare-workers",
     "lanzou",
     "qqmail",
     "windows"
@@ -19,7 +22,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-06-14T09:26:15Z",
-  "updated_at": "2026-06-30T04:08:22Z",
+  "updated_at": "2026-07-15T23:30:39Z",
   "pushed_at": "2026-06-30T04:08:19Z",
   "deleted_at": "",
   "star_history": [
@@ -209,6 +212,10 @@
     },
     {
       "date": "2026-07-15",
+      "stars": 10
+    },
+    {
+      "date": "2026-07-16",
       "stars": 10
     }
   ]
