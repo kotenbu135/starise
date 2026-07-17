@@ -3,7 +3,7 @@
   "owner": "inlineresearch",
   "name": "inline-studio",
   "full_name": "inlineresearch/inline-studio",
-  "description": "AI filmmaking on a node canvas. Build your whole visual pipeline from moodboard to final cut. ",
+  "description": "AI filmmaking on a node canvas. Build your whole visual pipeline from moodboard to final cut. Generate on your own GPU with diffuser based generation engine. ",
   "description_ja": "",
   "url": "https://github.com/inlineresearch/Inline-Studio",
   "homepage_url": "https://inlinestudio.art/",
@@ -15,24 +15,25 @@
     "ai-video",
     "comfyui",
     "creative-tools",
-    "desktop-app",
-    "electron",
+    "cuda",
     "fal-ai",
     "filmmaking",
+    "generation-engine",
     "generative-ai",
     "generative-video",
     "node-editor",
+    "nvidia-gpu",
     "open-source",
     "storyboard",
     "text-to-video"
   ],
-  "star_count": 161,
-  "fork_count": 34,
+  "star_count": 162,
+  "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-11T07:13:32Z",
-  "updated_at": "2026-07-15T21:43:46Z",
-  "pushed_at": "2026-07-16T16:06:27Z",
+  "updated_at": "2026-07-17T16:55:18Z",
+  "pushed_at": "2026-07-17T10:37:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -126,6 +127,10 @@
     {
       "date": "2026-07-16",
       "stars": 161
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 162
     }
   ]
 }

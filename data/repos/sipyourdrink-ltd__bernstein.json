@@ -3,7 +3,7 @@
   "owner": "sipyourdrink-ltd",
   "name": "bernstein",
   "full_name": "sipyourdrink-ltd/bernstein",
-  "description": "Deterministic, audit-grade multi-agent orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained audit log, signed agent cards, per-artefact lineage, byte-identical replay with divergence detection, air-gap deploy. https://bernstein.run",
+  "description": "Deterministic, audit-grade multi-agent orchestration for AI agents (Claude Code, Codex, Gemini CLI, +40 more). HMAC-chained audit log, signed agent cards, per-artefact lineage, byte-identical replay with divergence detection, air-gap deploy. https://bernstein.run",
   "description_ja": "",
   "url": "https://github.com/sipyourdrink-ltd/bernstein",
   "homepage_url": "https://bernstein.run",
@@ -31,13 +31,13 @@
     "python",
     "swe-bench"
   ],
-  "star_count": 681,
-  "fork_count": 62,
+  "star_count": 688,
+  "fork_count": 63,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T14:52:26Z",
-  "updated_at": "2026-07-16T21:13:19Z",
-  "pushed_at": "2026-07-16T21:20:30Z",
+  "updated_at": "2026-07-17T19:11:21Z",
+  "pushed_at": "2026-07-17T14:54:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     {
       "date": "2026-07-16",
       "stars": 681
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 688
     }
   ]
 }

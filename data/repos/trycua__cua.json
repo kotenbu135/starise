@@ -3,8 +3,8 @@
   "owner": "trycua",
   "name": "cua",
   "full_name": "trycua/cua",
-  "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
-  "description_ja": "Computer-Use エージェント向けオープンソースインフラ。デスクトップ全体 (macOS、Linux、Windows) を操作できる AI エージェントのトレーニングと評価のためのサンドボックス、SDK、ベンチマーク。",
+  "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+  "description_ja": "",
   "url": "https://github.com/trycua/cua",
   "homepage_url": "https://cua.ai",
   "language": "HTML",
@@ -29,13 +29,13 @@
     "windows",
     "windows-sandbox"
   ],
-  "star_count": 19951,
-  "fork_count": 1311,
+  "star_count": 19999,
+  "fork_count": 1318,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-31T15:02:49Z",
-  "updated_at": "2026-07-16T21:27:26Z",
-  "pushed_at": "2026-07-16T21:19:05Z",
+  "updated_at": "2026-07-17T20:47:16Z",
+  "pushed_at": "2026-07-17T19:22:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -325,6 +325,10 @@
     {
       "date": "2026-07-16",
       "stars": 19951
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 19999
     }
   ]
 }

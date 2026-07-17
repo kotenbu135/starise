@@ -3,7 +3,7 @@
   "owner": "kane50613",
   "name": "takumi",
   "full_name": "kane50613/takumi",
-  "description": "Render JSX, HTML, and CSS to SVG or images. Drop-in next/og replacement.",
+  "description": "Render JSX \u0026 HTML to SVG or images. Support 160+ CSS properties. Drop-in next/og replacement.",
   "description_ja": "",
   "url": "https://github.com/kane50613/takumi",
   "homepage_url": "https://takumi.kane.tw",
@@ -25,13 +25,13 @@
     "tailwindcss",
     "wasm"
   ],
-  "star_count": 2366,
+  "star_count": 2373,
   "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-01T08:19:38Z",
-  "updated_at": "2026-07-16T20:08:36Z",
-  "pushed_at": "2026-07-16T20:32:54Z",
+  "updated_at": "2026-07-17T19:32:33Z",
+  "pushed_at": "2026-07-17T16:52:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -321,6 +321,10 @@
     {
       "date": "2026-07-16",
       "stars": 2366
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 2373
     }
   ]
 }

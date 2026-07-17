@@ -3,8 +3,8 @@
   "owner": "amsehili",
   "name": "auditok",
   "full_name": "amsehili/auditok",
-  "description": "An audio/acoustic activity detection and audio segmentation tool",
-  "description_ja": "音声 / 音響アクティビティ検出およびオーディオセグメンテーションツール",
+  "description": "An voice activity detection and audio segmentation tool",
+  "description_ja": "",
   "url": "https://github.com/amsehili/auditok",
   "homepage_url": "",
   "language": "Python",
@@ -17,12 +17,12 @@
     "voice-activity-detection",
     "voice-detection"
   ],
-  "star_count": 854,
+  "star_count": 855,
   "fork_count": 101,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-09-17T14:46:20Z",
-  "updated_at": "2026-07-16T19:52:44Z",
+  "updated_at": "2026-07-17T11:47:04Z",
   "pushed_at": "2026-07-16T19:52:30Z",
   "deleted_at": "",
   "star_history": [
@@ -313,6 +313,10 @@
     {
       "date": "2026-07-16",
       "stars": 854
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 855
     }
   ]
 }

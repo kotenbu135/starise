@@ -3,8 +3,8 @@
   "owner": "cyberstrikeus",
   "name": "cyberstrike",
   "full_name": "cyberstrikeus/cyberstrike",
-  "description": "AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT\u0026CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team.",
-  "description_ja": "7,300 以上の実行可能なセキュリティスキルを持つ AI 駆動の攻撃的セキュリティエージェント。MITRE ATT\u0026CK（2,000 以上の Atomic テスト）、CIS Benchmarks（1,500 以上のコントロール）、OWASP、NIST を活用した自律ペネトレーションテスト。遅延ロード対応、コンテキスト汚染ゼロ。あなたの AI レッドチーム。",
+  "description": "Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,300+ models, 7,600+ Ed25519-signed attack skills, 56+ built-in tools, 176+ MCP tools. MITRE ATT\u0026CK, OWASP WSTG, CIS Benchmarks. Post-exploit: Linux/Windows/macOS/AWS/Azure/K8s/CI-CD. Web UI + Cloudflare Tunnel. Your AI red team.",
+  "description_ja": "",
   "url": "https://github.com/CyberStrikeus/CyberStrike",
   "homepage_url": "https://cyberstrike.io",
   "language": "TypeScript",
@@ -12,32 +12,32 @@
   "topics": [
     "ai",
     "ai-agent",
-    "appsec",
-    "atomic-red-team",
+    "ai-security",
     "bug-bounty",
-    "cis-benchmarks",
     "cybersecurity",
     "devsecops",
     "ethical-hacking",
+    "hacking",
+    "hacking-tool",
+    "llm",
     "mcp",
+    "mcp-server",
     "mitre-attack",
-    "nist",
     "offensive-security",
     "owasp",
     "penetration-testing",
     "pentest",
     "red-team",
-    "security-automation",
-    "security-tools",
-    "web-security"
+    "security",
+    "security-tools"
   ],
-  "star_count": 1218,
-  "fork_count": 201,
+  "star_count": 1227,
+  "fork_count": 204,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-14T21:24:08Z",
-  "updated_at": "2026-07-16T19:49:36Z",
-  "pushed_at": "2026-07-16T19:49:28Z",
+  "updated_at": "2026-07-17T19:35:25Z",
+  "pushed_at": "2026-07-17T19:41:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -327,6 +327,10 @@
     {
       "date": "2026-07-16",
       "stars": 1218
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 1227
     }
   ]
 }

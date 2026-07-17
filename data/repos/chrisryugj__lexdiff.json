@@ -3,7 +3,7 @@
   "owner": "chrisryugj",
   "name": "lexdiff",
   "full_name": "chrisryugj/lexdiff",
-  "description": "한국 법령 AI 검색 — 자연어 질문 → 법령·판례 원문 근거 답변. Verbatim RAG · 신구조문 비교 · 3단 위임법령 · 판례·해석례 통합 · 영향 추적 · 조례 벤치마킹 (Next.js 16 · Gemini 3 Flash) | Korean Legal AI with verbatim RAG over govt API",
+  "description": "한국 법령을 자연어로 묻고 원문 근거와 함께 답을 받는 검색 서비스. 신구조문 비교와 판례·해석례 연결 | Ask Korean law in plain language, get answers grounded in verbatim source text",
   "description_ja": "",
   "url": "https://github.com/chrisryugj/lexdiff",
   "homepage_url": "https://lexdiff.gomdori.app",
@@ -26,13 +26,13 @@
     "tailwindcss",
     "typescript"
   ],
-  "star_count": 32,
-  "fork_count": 6,
+  "star_count": 35,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-31T00:59:26Z",
-  "updated_at": "2026-07-15T12:08:04Z",
-  "pushed_at": "2026-07-15T12:07:30Z",
+  "updated_at": "2026-07-17T13:42:00Z",
+  "pushed_at": "2026-07-17T12:29:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +54,10 @@
     {
       "date": "2026-07-16",
       "stars": 32
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 35
     }
   ]
 }

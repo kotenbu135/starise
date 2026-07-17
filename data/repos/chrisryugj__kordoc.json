@@ -3,7 +3,7 @@
   "owner": "chrisryugj",
   "name": "kordoc",
   "full_name": "chrisryugj/kordoc",
-  "description": "모두 파싱해버리겠다 — HWP3·HWP·HWPX·HWPML·PDF·XLS·XLSX·DOCX → Markdown. 신구대조·양식 자동 채우기·MCP 통합 (CLI + MCP Server) | Parse Korean documents (HWP3-5, HWPX, HWPML, PDF, Office) to Markdown — CLI + MCP Server with form-filler \u0026 diff",
+  "description": "모두 파싱해버리겠다 — HWP·HWPX·PDF·Office 문서를 Markdown으로. 양식 자동 채우기와 신구대조를 갖춘 CLI·MCP 서버 | Convert Korean documents (HWP, HWPX, PDF, Office) to Markdown — CLI and MCP server with form filling and diff",
   "description_ja": "",
   "url": "https://github.com/chrisryugj/kordoc",
   "homepage_url": "https://www.npmjs.com/package/kordoc",
@@ -24,13 +24,13 @@
     "pdf",
     "xlsx"
   ],
-  "star_count": 1450,
-  "fork_count": 276,
+  "star_count": 1466,
+  "fork_count": 278,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-28T08:33:25Z",
-  "updated_at": "2026-07-16T13:36:48Z",
-  "pushed_at": "2026-07-16T13:38:53Z",
+  "updated_at": "2026-07-17T14:47:44Z",
+  "pushed_at": "2026-07-17T12:29:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -320,6 +320,10 @@
     {
       "date": "2026-07-16",
       "stars": 1450
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 1466
     }
   ]
 }

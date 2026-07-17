@@ -3,10 +3,10 @@
   "owner": "xiangganluo",
   "name": "flex-point",
   "full_name": "xiangganluo/flex-point",
-  "description": "Flex Point 是一款面向应用的扩展点（Ext Point）框架，专为多业务场景下的\"能力解耦、动态路由、灵活扩展\"而设计。 他支持在不同场景下动态选择和切换业务实现，极大提升了系统的可维护性和业务创新能力。",
+  "description": "Flex Point 是一款面向应用的轻量级扩展点（Ext Point）框架，为多业务场景下的「能力解耦、动态路由、灵活扩展」而生。它把「同一能力的不同业务实现」抽象为扩展点，由选择器在运行期按上下文选中目标实现，让业务代码只依赖接口、路由决策收敛在框架内。",
   "description_ja": "",
   "url": "https://github.com/xiangganLuo/flex-point",
-  "homepage_url": "",
+  "homepage_url": "https://flex-point.pages.dev/",
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [],
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-26T09:52:01Z",
-  "updated_at": "2026-03-12T02:12:21Z",
-  "pushed_at": "2026-07-16T12:27:56Z",
+  "updated_at": "2026-07-17T04:58:55Z",
+  "pushed_at": "2026-07-17T04:58:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -113,6 +113,10 @@
     },
     {
       "date": "2026-07-16",
+      "stars": 9
+    },
+    {
+      "date": "2026-07-17",
       "stars": 9
     }
   ]

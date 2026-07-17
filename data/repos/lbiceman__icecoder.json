@@ -3,20 +3,32 @@
   "owner": "lbiceman",
   "name": "icecoder",
   "full_name": "lbiceman/icecoder",
-  "description": "",
+  "description": "Self-hosted AI coding agent with desktop \u0026 mobile UI, L1/L2 dual-mode supervision",
   "description_ja": "",
   "url": "https://github.com/lbiceman/iceCoder",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "ai-agent",
+    "coding-agent",
+    "desktop-app",
+    "developer-tools",
+    "electron",
+    "llm",
+    "mcp",
+    "mobile-h5",
+    "openai",
+    "self-hosted",
+    "typescript"
+  ],
   "star_count": 66,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-20T08:55:54Z",
-  "updated_at": "2026-07-15T05:54:33Z",
-  "pushed_at": "2026-07-16T10:00:08Z",
+  "updated_at": "2026-07-17T09:53:55Z",
+  "pushed_at": "2026-07-17T09:53:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -161,6 +173,10 @@
     },
     {
       "date": "2026-07-16",
+      "stars": 66
+    },
+    {
+      "date": "2026-07-17",
       "stars": 66
     }
   ]

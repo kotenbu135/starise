@@ -10,33 +10,33 @@
   "language": "Swift",
   "license": "MIT",
   "topics": [
+    "android",
     "async-await",
     "asynchronous",
     "asynchronous-tasks",
-    "carthage",
-    "dispatch",
     "foundation",
-    "grand-central-dispatch",
     "linux",
     "macos",
     "operation",
     "operationqueue",
-    "queuer",
     "scheduler",
     "semaphore",
     "swift",
+    "swift-android",
     "swift-package-manager",
+    "swift-windows",
     "synchronous-tasks",
     "task",
     "tvos",
-    "watchos"
+    "watchos",
+    "windows"
   ],
   "star_count": 1155,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-07-20T13:57:48Z",
-  "updated_at": "2026-07-15T11:12:44Z",
+  "updated_at": "2026-07-17T06:30:35Z",
   "pushed_at": "2026-07-15T11:53:18Z",
   "deleted_at": "",
   "star_history": [
@@ -326,6 +326,10 @@
     },
     {
       "date": "2026-07-16",
+      "stars": 1155
+    },
+    {
+      "date": "2026-07-17",
       "stars": 1155
     }
   ]

@@ -3,20 +3,23 @@
   "owner": "open-legal-products",
   "name": "mike",
   "full_name": "open-legal-products/mike",
-  "description": "OSS AI Legal Platform",
+  "description": "OSS Legal AI Platform",
   "description_ja": "",
   "url": "https://github.com/Open-Legal-Products/mike",
-  "homepage_url": "",
+  "homepage_url": "https://mikeoss.com",
   "language": "TypeScript",
   "license": "AGPL-3.0",
-  "topics": [],
-  "star_count": 3959,
-  "fork_count": 1248,
+  "topics": [
+    "legal-ai",
+    "legal-tech"
+  ],
+  "star_count": 3967,
+  "fork_count": 1249,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-29T17:41:12Z",
-  "updated_at": "2026-07-16T17:25:10Z",
-  "pushed_at": "2026-07-16T17:25:32Z",
+  "updated_at": "2026-07-17T16:04:48Z",
+  "pushed_at": "2026-07-17T09:14:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -286,6 +289,10 @@
     {
       "date": "2026-07-16",
       "stars": 3959
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 3967
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "proma-ai",
   "name": "proma",
   "full_name": "proma-ai/proma",
-  "description": "把最丝滑的通用 Agent 体验带进你的工作流，为 100x 专业用户而生的未来产品，正在实现 proactive Agent 阶段。基于 Claude Agent SDK 的完整开源实践，原生支持飞书群聊调用、灵活接入任意大模型供应商 —— 让顶级 Agent 能力真正跑在你每天用的地方。",
-  "description_ja": "最もスムーズな汎用Agent体験をワークフローに。100xプロユーザーのための未来プロダクト。プロアクティブAgent段階を実現中。Claude Agent SDKによる完全オープンソース実践。飛書グループチャット対応、任意のLLMプロバイダーへの柔軟な接続——トップクラスのAgent能力を毎日使う場所で動かす。",
+  "description": "Proma brings a seamless general-purpose Agent experience to your workflow. Built for 100× professionals and the proactive Agent era, it supports Claude and Pi runtimes, Feishu group chats, and any LLM provider.",
+  "description_ja": "",
   "url": "https://github.com/proma-ai/Proma",
   "homepage_url": "https://proma.cool/download",
   "language": "TypeScript",
@@ -19,13 +19,13 @@
     "gemini",
     "llm"
   ],
-  "star_count": 1516,
+  "star_count": 1518,
   "fork_count": 199,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-31T06:26:28Z",
-  "updated_at": "2026-07-16T19:04:17Z",
-  "pushed_at": "2026-07-16T08:37:11Z",
+  "updated_at": "2026-07-17T18:28:49Z",
+  "pushed_at": "2026-07-17T16:16:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -315,6 +315,10 @@
     {
       "date": "2026-07-16",
       "stars": 1516
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 1518
     }
   ]
 }

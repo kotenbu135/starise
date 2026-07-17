@@ -3,10 +3,10 @@
   "owner": "dtzp555-max",
   "name": "ocp",
   "full_name": "dtzp555-max/ocp",
-  "description": "Turn your Claude Pro/Max subscription into an OpenAI-compatible API. One proxy, multiple IDEs, LAN sharing for the whole family. $0 extra cost.",
-  "description_ja": "Claude Pro/MaxサブスクリプションをOpenAI互換APIに変換するプロキシ。複数IDEに対応し、家族間でLAN共有可能。追加費用ゼロ。",
+  "description": "Turn your Claude Pro/Max subscription into an OpenAI-compatible API for your IDEs and devices — LAN auth, per-key quotas, response cache, disciplined cli.js alignment. $0 extra cost.",
+  "description_ja": "",
   "url": "https://github.com/dtzp555-max/ocp",
-  "homepage_url": "https://docs.openclaw.ai",
+  "homepage_url": "",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
@@ -30,13 +30,13 @@
     "openclaw",
     "proxy"
   ],
-  "star_count": 86,
-  "fork_count": 16,
+  "star_count": 87,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T11:47:17Z",
-  "updated_at": "2026-07-16T19:25:55Z",
-  "pushed_at": "2026-07-15T23:34:35Z",
+  "updated_at": "2026-07-17T09:40:29Z",
+  "pushed_at": "2026-07-17T09:40:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -326,6 +326,10 @@
     {
       "date": "2026-07-16",
       "stars": 86
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 87
     }
   ]
 }

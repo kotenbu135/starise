@@ -6,24 +6,26 @@
   "description": "An experimental PlayStation 5 emulator for Windows, Linux and macOS.",
   "description_ja": "",
   "url": "https://github.com/sharpemu/sharpemu",
-  "homepage_url": "",
+  "homepage_url": "https://sharpemu.app",
   "language": "C#",
   "license": "GPL-2.0",
   "topics": [
     "csharp",
     "emulation",
     "emulator",
+    "linux",
+    "macos",
     "playstation5",
     "ps5",
     "windows"
   ],
-  "star_count": 3024,
-  "fork_count": 226,
+  "star_count": 3258,
+  "fork_count": 248,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T12:46:36Z",
-  "updated_at": "2026-07-16T21:19:53Z",
-  "pushed_at": "2026-07-16T16:57:46Z",
+  "updated_at": "2026-07-17T20:37:06Z",
+  "pushed_at": "2026-07-17T16:01:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +51,10 @@
     {
       "date": "2026-07-16",
       "stars": 3024
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 3258
     }
   ]
 }

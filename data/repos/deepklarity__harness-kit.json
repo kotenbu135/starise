@@ -3,19 +3,24 @@
   "owner": "deepklarity",
   "name": "harness-kit",
   "full_name": "deepklarity/harness-kit",
-  "description": "A kit for building with AI agents — not just the orchestration, but also the engineering patterns around it. ",
+  "description": "A kit for building with AI agents and also the engineering patterns around it. ",
   "description_ja": "",
   "url": "https://github.com/deepklarity/harness-kit",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "agent-skills",
+    "agentic-ai",
+    "agentic-framework",
+    "harness-engineering"
+  ],
   "star_count": 83,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T16:53:11Z",
-  "updated_at": "2026-07-15T19:42:41Z",
+  "updated_at": "2026-07-17T19:07:15Z",
   "pushed_at": "2026-07-15T19:26:48Z",
   "deleted_at": "",
   "star_history": [
@@ -293,6 +298,10 @@
     },
     {
       "date": "2026-07-16",
+      "stars": 83
+    },
+    {
+      "date": "2026-07-17",
       "stars": 83
     }
   ]

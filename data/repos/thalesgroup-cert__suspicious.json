@@ -6,9 +6,9 @@
   "description": "AI-powered phishing \u0026 threat-analysis platform to automatically inspect, classify, and report suspicious emails, files, URLs, IPs, and hashes built for teams and organizations",
   "description_ja": "AIを活用したフィッシング＆脅威分析プラットフォーム。不審なメール・ファイル・URL・IP・ハッシュを自動的に検査・分類・報告する、チームや組織向けのツール",
   "url": "https://github.com/thalesgroup-cert/suspicious",
-  "homepage_url": "",
-  "language": "CSS",
-  "license": "AGPL-3.0",
+  "homepage_url": "https://thalesgroup-cert.github.io/suspicious/",
+  "language": "Python",
+  "license": "Apache-2.0",
   "topics": [
     "django",
     "django-project",
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-03T12:14:34Z",
-  "updated_at": "2026-07-16T07:51:01Z",
-  "pushed_at": "2026-07-16T15:16:49Z",
+  "updated_at": "2026-07-17T15:55:13Z",
+  "pushed_at": "2026-07-17T15:58:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -312,6 +312,10 @@
     },
     {
       "date": "2026-07-16",
+      "stars": 85
+    },
+    {
+      "date": "2026-07-17",
       "stars": 85
     }
   ]

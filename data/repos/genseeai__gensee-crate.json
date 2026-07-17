@@ -3,7 +3,7 @@
   "owner": "genseeai",
   "name": "gensee-crate",
   "full_name": "genseeai/gensee-crate",
-  "description": "Runtime safety for AI coding agents with real-time enforcement, system-event monitoring, and long-horizon provenance. Supports Claude Code, Codex, Antigravity, Omnigent on native macOS and Linux.",
+  "description": "Runtime safety for AI coding agents with real-time enforcement, system-event monitoring, and long-horizon provenance. Supports Claude Code, Codex, Antigravity, Copilot, Omnigent on native macOS and Linux.",
   "description_ja": "",
   "url": "https://github.com/GenseeAI/gensee-crate",
   "homepage_url": "https://crate-docs.gensee.ai/",
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-23T18:30:24Z",
-  "updated_at": "2026-07-16T00:23:02Z",
-  "pushed_at": "2026-07-16T06:51:38Z",
+  "updated_at": "2026-07-17T17:21:36Z",
+  "pushed_at": "2026-07-17T19:51:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -117,6 +117,10 @@
     },
     {
       "date": "2026-07-16",
+      "stars": 108
+    },
+    {
+      "date": "2026-07-17",
       "stars": 108
     }
   ]

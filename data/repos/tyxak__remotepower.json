@@ -3,7 +3,7 @@
   "owner": "tyxak",
   "name": "remotepower",
   "full_name": "tyxak/remotepower",
-  "description": "Feature-rich all-in-one self-hosted server \u0026 fleet management (Web UI): patching, monitoring (agent + agentless/SNMP), CVE scanning, CMDB, RMM, alerts \u0026 webhooks, Proxmox/VMware, Ansible, compliance \u0026 more — the Swiss-army knife to keep your fleet healthy.",
+  "description": "Feature-rich all-in-one self-hosted server \u0026 server fleet management (Web UI): patching, monitoring (agent + agentless/SNMP), CVE scanning, CMDB, RMM, alerts \u0026 webhooks, Proxmox/VMware, Ansible, compliance \u0026 more — the Swiss-army knife to keep your servers healthy.",
   "description_ja": "",
   "url": "https://github.com/tyxak/remotepower",
   "homepage_url": "https://remotepower.tvipper.com",
@@ -31,12 +31,12 @@
     "sysadmin",
     "terraform"
   ],
-  "star_count": 58,
+  "star_count": 57,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-14T19:39:50Z",
-  "updated_at": "2026-07-16T16:44:34Z",
+  "updated_at": "2026-07-17T05:54:30Z",
   "pushed_at": "2026-07-16T16:44:31Z",
   "deleted_at": "",
   "star_history": [
@@ -143,6 +143,10 @@
     {
       "date": "2026-07-16",
       "stars": 58
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 57
     }
   ]
 }

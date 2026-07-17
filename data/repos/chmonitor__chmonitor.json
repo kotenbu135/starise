@@ -3,27 +3,33 @@
   "owner": "chmonitor",
   "name": "chmonitor",
   "full_name": "chmonitor/chmonitor",
-  "description": "A simple ClickHouse monitoring UI powered by system tables.",
+  "description": "Open-source operational advisor for ClickHouse — real-time monitoring plus AI-driven index/partition/materialized-view recommendations. Self-host or use the cloud.",
   "description_ja": "",
   "url": "https://github.com/chmonitor/chmonitor",
   "homepage_url": "https://chmonitor.dev",
   "language": "TypeScript",
   "license": "GPL-3.0",
   "topics": [
+    "ai-agent",
     "chmonitor",
     "clickhouse",
+    "cloudflare-workers",
+    "database-monitoring",
     "duyet",
+    "mcp",
     "monitoring",
-    "nextjs",
-    "vercel"
+    "observability",
+    "open-source",
+    "self-hosted",
+    "tanstack-start"
   ],
   "star_count": 249,
   "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-16T13:18:24Z",
-  "updated_at": "2026-07-16T16:20:06Z",
-  "pushed_at": "2026-07-16T18:08:18Z",
+  "updated_at": "2026-07-17T13:52:35Z",
+  "pushed_at": "2026-07-17T19:00:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -308,6 +314,10 @@
     },
     {
       "date": "2026-07-16",
+      "stars": 249
+    },
+    {
+      "date": "2026-07-17",
       "stars": 249
     }
   ]

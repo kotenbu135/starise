@@ -3,38 +3,29 @@
   "owner": "shuxinyang111",
   "name": "oysterworkflow",
   "full_name": "shuxinyang111/oysterworkflow",
-  "description": "The work experience layer for autonomous agents. Open-source core: https://github.com/ShuxinYang111/oysterworkflow-core",
+  "description": "Teach AI how your work actually gets done. Capture real computer work, extract the workflow graph and judgment, then run it with Codex or your own agent.",
   "description_ja": "",
   "url": "https://github.com/ShuxinYang111/oysterworkflow",
-  "homepage_url": "https://oysterworkflow.com/",
+  "homepage_url": "https://www.oysterworkflow.com/",
   "language": "",
   "license": "NOASSERTION",
   "topics": [
-    "agent-tools",
-    "agentic-ai",
-    "ai-agent",
     "ai-agents",
-    "automation",
-    "autonomous-agents",
+    "codex",
     "computer-use",
     "desktop-automation",
-    "developer-tools",
     "macos",
-    "macos-app",
-    "ocr",
-    "openclaw",
-    "process-automation",
-    "productivity",
-    "workflow",
-    "workflow-automation"
+    "mcp",
+    "workflow-automation",
+    "workflow-graph"
   ],
   "star_count": 194,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-18T03:41:01Z",
-  "updated_at": "2026-07-14T21:36:17Z",
-  "pushed_at": "2026-07-14T21:36:13Z",
+  "updated_at": "2026-07-17T04:37:35Z",
+  "pushed_at": "2026-07-17T19:35:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -243,6 +234,10 @@
     },
     {
       "date": "2026-07-16",
+      "stars": 194
+    },
+    {
+      "date": "2026-07-17",
       "stars": 194
     }
   ]

@@ -3,10 +3,10 @@
   "owner": "danybeltran",
   "name": "nextjs-typescript-and-postgresql",
   "full_name": "danybeltran/nextjs-typescript-and-postgresql",
-  "description": "A very minimal Next.js template that uses server actions, Prisma, PostgreSQL, TailwindCSS, Shadcn, Zod and Next auth.",
-  "description_ja": "server actions、Prisma、PostgreSQL、TailwindCSS、Shadcn、Zod、Next auth を使用した、非常にミニマルな Next.js テンプレート。",
+  "description": "A minimal full-stack TanStack Start template that uses React 19, Vite, Prisma, PostgreSQL, Tailwind CSS v4, Shadcn UI, Zod, and Auth.js.",
+  "description_ja": "",
   "url": "https://github.com/danybeltran/nextjs-typescript-and-postgresql",
-  "homepage_url": "https://nextjs-typescript-and-mongodb-psi.vercel.app",
+  "homepage_url": "https://tanstack-start-template-beta.vercel.app",
   "language": "TypeScript",
   "license": "",
   "topics": [
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-01-12T04:08:19Z",
-  "updated_at": "2026-04-19T19:45:34Z",
-  "pushed_at": "2026-02-23T05:18:03Z",
+  "updated_at": "2026-07-17T01:26:03Z",
+  "pushed_at": "2026-07-17T01:25:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -322,6 +322,10 @@
     },
     {
       "date": "2026-07-16",
+      "stars": 162
+    },
+    {
+      "date": "2026-07-17",
       "stars": 162
     }
   ]

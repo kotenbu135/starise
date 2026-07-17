@@ -3,7 +3,7 @@
   "owner": "scaccogatto",
   "name": "vue-waypoint",
   "full_name": "scaccogatto/vue-waypoint",
-  "description": "trigger functions and events based on the element position on the screen",
+  "description": "Vue 3 waypoint component — trigger functions and events when an element enters/leaves the viewport, via IntersectionObserver. TypeScript, SSR-safe.",
   "description_ja": "",
   "url": "https://github.com/scaccogatto/vue-waypoint",
   "homepage_url": "https://vue-waypoint.netlify.app",
@@ -28,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-12-06T09:30:38Z",
-  "updated_at": "2026-07-11T12:53:23Z",
-  "pushed_at": "2026-07-11T12:55:15Z",
+  "updated_at": "2026-07-17T13:02:09Z",
+  "pushed_at": "2026-07-17T13:01:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -106,6 +106,10 @@
     },
     {
       "date": "2026-07-16",
+      "stars": 462
+    },
+    {
+      "date": "2026-07-17",
       "stars": 462
     }
   ]

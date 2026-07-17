@@ -3,7 +3,7 @@
   "owner": "agent-threat-rule",
   "name": "agent-threat-rules",
   "full_name": "agent-threat-rule/agent-threat-rules",
-  "description": "Open detection standard -- like Sigma, but for AI agents. 425 rules, shipped in Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H. 97.1% recall on NVIDIA garak. NIST OSCAL Path 1.",
+  "description": "Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. 768 rules across 10 categories; merged into Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H, FINOS \u0026 SigmaHQ. MIT-licensed.",
   "description_ja": "",
   "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
   "homepage_url": "https://agentthreatrule.org",
@@ -22,13 +22,13 @@
     "sigma-rules",
     "threat-detection"
   ],
-  "star_count": 314,
+  "star_count": 316,
   "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-09T07:48:38Z",
-  "updated_at": "2026-07-16T14:35:13Z",
-  "pushed_at": "2026-07-16T09:15:11Z",
+  "updated_at": "2026-07-17T12:30:45Z",
+  "pushed_at": "2026-07-17T09:10:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     {
       "date": "2026-07-16",
       "stars": 314
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 316
     }
   ]
 }

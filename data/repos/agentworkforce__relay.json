@@ -3,7 +3,7 @@
   "owner": "agentworkforce",
   "name": "relay",
   "full_name": "agentworkforce/relay",
-  "description": "Get your agents talking. A hosted messaging store + router with fast retrieval. Useful for orchestrating agents.",
+  "description": "Real time communication for agents. Wake on message, channels, DMs and actions. Useful for orchestrating agents.",
   "description_ja": "",
   "url": "https://github.com/AgentWorkforce/relay",
   "homepage_url": "https://agentrelay.com",
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-17T14:09:13Z",
-  "updated_at": "2026-07-16T20:01:12Z",
-  "pushed_at": "2026-07-16T20:02:52Z",
+  "updated_at": "2026-07-17T18:47:27Z",
+  "pushed_at": "2026-07-17T16:32:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -129,6 +129,10 @@
     },
     {
       "date": "2026-07-16",
+      "stars": 764
+    },
+    {
+      "date": "2026-07-17",
       "stars": 764
     }
   ]

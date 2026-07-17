@@ -3,20 +3,20 @@
   "owner": "tianli0",
   "name": "thrm",
   "full_name": "tianli0/thrm",
-  "description": "一个基于 Wails + C# + Next.js 开发的桌面应用，用于控制飞智 BS系列 散热器设备，提供风扇控制、温度监控等功能。",
+  "description": "Open-source controller for Flydigi BS-series laptop coolers, featuring smart fan curves, hardware monitoring, RGB control, profiles, and Windows/Linux support.",
   "description_ja": "",
   "url": "https://github.com/TIANLI0/THRM",
   "homepage_url": "",
   "language": "Go",
   "license": "MIT",
   "topics": [],
-  "star_count": 320,
-  "fork_count": 11,
+  "star_count": 330,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-13T10:28:45Z",
-  "updated_at": "2026-07-16T18:12:01Z",
-  "pushed_at": "2026-07-16T18:11:47Z",
+  "updated_at": "2026-07-17T16:21:40Z",
+  "pushed_at": "2026-07-17T04:50:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     {
       "date": "2026-07-16",
       "stars": 320
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 330
     }
   ]
 }
