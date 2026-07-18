@@ -19,7 +19,7 @@
     "http2",
     "httpdbg",
     "httpx",
-    "pyhttpdbg",
+    "observability",
     "pytest",
     "python",
     "python-requests",
@@ -27,7 +27,6 @@
     "rest",
     "rest-api",
     "tools",
-    "unittest",
     "urllib3"
   ],
   "star_count": 905,
@@ -35,7 +34,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-21T13:08:02Z",
-  "updated_at": "2026-07-11T06:53:32Z",
+  "updated_at": "2026-07-18T09:05:21Z",
   "pushed_at": "2026-07-11T07:09:11Z",
   "deleted_at": "",
   "star_history": [
@@ -329,6 +328,10 @@
     },
     {
       "date": "2026-07-17",
+      "stars": 905
+    },
+    {
+      "date": "2026-07-18",
       "stars": 905
     }
   ]

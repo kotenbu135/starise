@@ -3,20 +3,36 @@
   "owner": "mixitupbot",
   "name": "desktop",
   "full_name": "mixitupbot/desktop",
-  "description": "",
+  "description": "One bot. Endless possibilities. Mix It Up is your all-in-one stream bot for Twitch, YouTube, Kick, and Velora. Chat, events, games, and more. Download today!",
   "description_ja": "",
   "url": "https://github.com/MixItUpBot/Desktop",
-  "homepage_url": "",
+  "homepage_url": "https://mixitup.bot",
   "language": "C#",
   "license": "NOASSERTION",
-  "topics": [],
+  "topics": [
+    "automation",
+    "bot",
+    "chat",
+    "content-creation",
+    "kick",
+    "livestream",
+    "overlay",
+    "stream",
+    "streamer",
+    "streaming",
+    "tts",
+    "twitch",
+    "twitch-bot",
+    "velora",
+    "youtube"
+  ],
   "star_count": 30,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-17T22:57:34Z",
-  "updated_at": "2026-07-15T20:29:37Z",
-  "pushed_at": "2026-07-17T19:24:50Z",
+  "updated_at": "2026-07-18T00:21:05Z",
+  "pushed_at": "2026-07-18T06:23:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -201,6 +217,10 @@
     },
     {
       "date": "2026-07-17",
+      "stars": 30
+    },
+    {
+      "date": "2026-07-18",
       "stars": 30
     }
   ]

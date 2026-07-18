@@ -3,8 +3,8 @@
   "owner": "blockrunai",
   "name": "clawrouter",
   "full_name": "blockrunai/clawrouter",
-  "description": "The agent-native LLM router for OpenClaw. 41+ models, \u003c1ms routing, USDC payments on Base \u0026 Solana via x402.",
-  "description_ja": "OpenClaw向けのエージェントネイティブLLMルーター。41以上のモデル、1ms未満のルーティング、x402経由のBase \u0026 SolanaでのUSDC決済に対応。",
+  "description": "The agent-native LLM router for autonomous agents. 55+ models (8 free), \u003c1ms local routing, USDC payments on Base \u0026 Solana via x402.",
+  "description_ja": "",
   "url": "https://github.com/BlockRunAI/ClawRouter",
   "homepage_url": "",
   "language": "TypeScript",
@@ -28,12 +28,12 @@
     "x402"
   ],
   "star_count": 6659,
-  "fork_count": 627,
+  "fork_count": 629,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-03T17:32:00Z",
-  "updated_at": "2026-07-17T18:58:17Z",
-  "pushed_at": "2026-07-17T15:27:05Z",
+  "updated_at": "2026-07-18T19:20:29Z",
+  "pushed_at": "2026-07-18T17:00:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -326,6 +326,10 @@
     },
     {
       "date": "2026-07-17",
+      "stars": 6659
+    },
+    {
+      "date": "2026-07-18",
       "stars": 6659
     }
   ]

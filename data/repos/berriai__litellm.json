@@ -3,8 +3,8 @@
   "owner": "berriai",
   "name": "litellm",
   "full_name": "berriai/litellm",
-  "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
-  "description_ja": "コスト追跡、ガードレール、ロードバランシング、ロギングを備え、OpenAI（またはネイティブ）形式で 100 以上の LLM API を呼び出せる Python SDK およびプロキシサーバー（AI Gateway）。[Bedrock、Azure、OpenAI、VertexAI、Cohere、Anthropic、Sagemaker、HuggingFace、VLLM、NVIDIA NIM]",
+  "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+  "description_ja": "",
   "url": "https://github.com/BerriAI/litellm",
   "homepage_url": "https://docs.litellm.ai/docs/",
   "language": "Python",
@@ -27,13 +27,13 @@
     "rust-ai",
     "vertex-ai"
   ],
-  "star_count": 53874,
-  "fork_count": 9855,
+  "star_count": 53950,
+  "fork_count": 9870,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-27T00:09:52Z",
-  "updated_at": "2026-07-17T19:29:48Z",
-  "pushed_at": "2026-07-17T19:29:32Z",
+  "updated_at": "2026-07-18T19:12:00Z",
+  "pushed_at": "2026-07-18T19:22:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -327,6 +327,10 @@
     {
       "date": "2026-07-17",
       "stars": 53874
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 53950
     }
   ]
 }

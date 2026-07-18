@@ -3,16 +3,14 @@
   "owner": "stevereiner",
   "name": "flexible-graphrag",
   "full_name": "stevereiner/flexible-graphrag",
-  "description": "Python, LlamaIndex, LangChain, Docker Compose: 15 Property Graph, 4 RDF , 10 Vector, OpenSearch, Elasticsearch, Alfresco DBs. 13 data sources (9 auto-sync), KG auto-building, Ontologies, LLMs, Docling or LlamaParse doc processing, GraphRAG, RAG only, Hybrid Search, AI Chat. TypeScript React, Vue, Angular frontends, FastAPI REST backend, MCP Server.",
+  "description": "Python, LlamaIndex, LangChain, Docker Compose: 15 Property Graph, 4 RDF , 10 Vector, OpenSearch, Elasticsearch, Alfresco DBs. 13 data sources (9 auto-sync), KG auto-building, Ontologies, LLMs, Docling, LlamaParse, LiteParse, GraphRAG, RAG, Hybrid Search, AI Chat. TypeScript React, Vue, Angular frontends, FastAPI REST, MCP Server, optional Langflow.",
   "description_ja": "",
   "url": "https://github.com/stevereiner/flexible-graphrag",
   "homepage_url": "https://stevereiner.github.io/flexible-graphrag/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
-    "ai-agent-memory",
     "ai-chat",
-    "ai-context-extraction",
     "ai-context-management",
     "alfresco",
     "arcadedb",
@@ -24,6 +22,8 @@
     "knowledge-graph",
     "ladybugdb",
     "langchain",
+    "langflow",
+    "liteparse",
     "llamaindex",
     "llamaparse",
     "mcp-server",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-05T23:49:36Z",
-  "updated_at": "2026-07-13T12:07:19Z",
-  "pushed_at": "2026-07-06T08:29:05Z",
+  "updated_at": "2026-07-18T05:04:09Z",
+  "pushed_at": "2026-07-18T04:44:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -330,6 +330,10 @@
     },
     {
       "date": "2026-07-17",
+      "stars": 164
+    },
+    {
+      "date": "2026-07-18",
       "stars": 164
     }
   ]

@@ -3,15 +3,16 @@
   "owner": "pardnchiu",
   "name": "go-scheduler",
   "full_name": "pardnchiu/go-scheduler",
-  "description": "Scheduler with standard cron and task dependencies",
-  "description_ja": "標準cronとタスク依存関係をサポートするスケジューラ。",
+  "description": "(module) A Go scheduling library with task dependencies, timeout control, and cron expressions",
+  "description_ja": "",
   "url": "https://github.com/pardnchiu/go-scheduler",
-  "homepage_url": "",
+  "homepage_url": "https://go-scheduler.pardn.io",
   "language": "Go",
   "license": "MIT",
   "topics": [
-    "backend",
+    "awesome-go",
     "cron",
+    "go",
     "golang",
     "pardnchiu",
     "scheduler"
@@ -21,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-22T12:49:07Z",
-  "updated_at": "2026-07-13T10:17:05Z",
-  "pushed_at": "2026-02-16T09:10:19Z",
+  "updated_at": "2026-07-18T05:52:09Z",
+  "pushed_at": "2026-07-17T22:42:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -311,6 +312,10 @@
     },
     {
       "date": "2026-07-17",
+      "stars": 36
+    },
+    {
+      "date": "2026-07-18",
       "stars": 36
     }
   ]

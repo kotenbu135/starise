@@ -3,7 +3,7 @@
   "owner": "sickn33",
   "name": "agentic-awesome-skills",
   "full_name": "sickn33/agentic-awesome-skills",
-  "description": "Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.",
+  "description": "AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
   "description_ja": "",
   "url": "https://github.com/sickn33/agentic-awesome-skills",
   "homepage_url": "https://sickn33.github.io/agentic-awesome-skills/",
@@ -31,13 +31,13 @@
     "mcp",
     "skill-library"
   ],
-  "star_count": 43493,
-  "fork_count": 6474,
+  "star_count": 43540,
+  "fork_count": 6469,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-14T17:48:09Z",
-  "updated_at": "2026-07-17T20:40:24Z",
-  "pushed_at": "2026-07-17T20:29:27Z",
+  "updated_at": "2026-07-18T20:14:43Z",
+  "pushed_at": "2026-07-18T17:36:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -331,6 +331,10 @@
     {
       "date": "2026-07-17",
       "stars": 43493
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 43540
     }
   ]
 }

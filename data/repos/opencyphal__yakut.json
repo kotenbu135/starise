@@ -3,8 +3,8 @@
   "owner": "opencyphal",
   "name": "yakut",
   "full_name": "opencyphal/yakut",
-  "description": "Simple CLI tool for diagnostics and debugging of Cyphal networks",
-  "description_ja": "Cyphal ネットワークの診断とデバッグ用シンプル CLI ツール",
+  "description": "Simple CLI tool for diagnostics and debugging of Cyphal networks. For the newer Cyphal v1.1, prefer https://github.com/OpenCyphal-Garage/cynic",
+  "description_ja": "",
   "url": "https://github.com/OpenCyphal/yakut",
   "homepage_url": "https://opencyphal.org",
   "language": "Python",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-12-22T17:10:41Z",
-  "updated_at": "2026-07-01T14:40:02Z",
-  "pushed_at": "2026-07-16T20:18:09Z",
+  "updated_at": "2026-07-17T20:55:12Z",
+  "pushed_at": "2026-07-17T20:54:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -326,6 +326,10 @@
     },
     {
       "date": "2026-07-17",
+      "stars": 64
+    },
+    {
+      "date": "2026-07-18",
       "stars": 64
     }
   ]

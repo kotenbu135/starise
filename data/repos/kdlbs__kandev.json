@@ -6,7 +6,7 @@
   "description": "AI Kanban \u0026 Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry.",
   "description_ja": "",
   "url": "https://github.com/kdlbs/kandev",
-  "homepage_url": "",
+  "homepage_url": "https://kandev.ai",
   "language": "Go",
   "license": "AGPL-3.0",
   "topics": [
@@ -31,13 +31,13 @@
     "workflow-automation",
     "worktrees"
   ],
-  "star_count": 450,
+  "star_count": 454,
   "fork_count": 62,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-09T23:26:53Z",
-  "updated_at": "2026-07-17T17:48:18Z",
-  "pushed_at": "2026-07-17T19:56:40Z",
+  "updated_at": "2026-07-18T18:50:58Z",
+  "pushed_at": "2026-07-18T19:36:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -319,6 +319,10 @@
     {
       "date": "2026-07-17",
       "stars": 450
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 454
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "shy3130",
   "name": "tickflow-stock-panel",
   "full_name": "shy3130/tickflow-stock-panel",
-  "description": "自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
+  "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目",
   "description_ja": "",
   "url": "https://github.com/shy3130/tickflow-stock-panel",
   "homepage_url": "",
@@ -28,15 +28,16 @@
     "stock",
     "stock-analysis",
     "tdx",
-    "tickflow"
+    "tickflow",
+    "tsp"
   ],
-  "star_count": 2244,
-  "fork_count": 498,
+  "star_count": 2263,
+  "fork_count": 505,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-18T06:18:29Z",
-  "updated_at": "2026-07-17T18:51:49Z",
-  "pushed_at": "2026-07-17T16:50:41Z",
+  "updated_at": "2026-07-18T16:15:15Z",
+  "pushed_at": "2026-07-18T15:38:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -138,6 +139,10 @@
     {
       "date": "2026-07-17",
       "stars": 2244
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 2263
     }
   ]
 }

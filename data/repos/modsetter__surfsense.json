@@ -3,7 +3,7 @@
   "owner": "modsetter",
   "name": "surfsense",
   "full_name": "modsetter/surfsense",
-  "description": "NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9",
+  "description": "Open-source NotebookLM alternative for AI agents. Research the open web with live data, through one API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9",
   "description_ja": "",
   "url": "https://github.com/MODSetter/SurfSense",
   "homepage_url": "https://www.surfsense.com",
@@ -13,26 +13,25 @@
     "agent",
     "agents",
     "ai",
-    "chrome-extension",
-    "extension",
     "fastapi",
     "langchain",
     "langgraph",
     "nextjs",
     "notebooklm",
+    "notebooklm-alternative",
     "ollama",
-    "perplexity",
     "python",
     "rag",
-    "typescript"
+    "typescript",
+    "web-scraping"
   ],
-  "star_count": 15271,
+  "star_count": 15276,
   "fork_count": 1467,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-30T23:00:09Z",
-  "updated_at": "2026-07-17T18:18:57Z",
-  "pushed_at": "2026-07-17T10:27:46Z",
+  "updated_at": "2026-07-18T15:05:45Z",
+  "pushed_at": "2026-07-18T06:26:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -326,6 +325,10 @@
     {
       "date": "2026-07-17",
       "stars": 15271
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 15276
     }
   ]
 }

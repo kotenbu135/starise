@@ -7,7 +7,7 @@
   "description_ja": "Apache Superset はデータ可視化とデータ探索のプラットフォームです",
   "url": "https://github.com/apache/superset",
   "homepage_url": "https://superset.apache.org/",
-  "language": "TypeScript",
+  "language": "Python",
   "license": "Apache-2.0",
   "topics": [
     "analytics",
@@ -29,13 +29,13 @@
     "sql-editor",
     "superset"
   ],
-  "star_count": 73871,
-  "fork_count": 17902,
+  "star_count": 73876,
+  "fork_count": 17907,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-07-21T18:55:34Z",
-  "updated_at": "2026-07-17T18:50:50Z",
-  "pushed_at": "2026-07-17T19:16:32Z",
+  "updated_at": "2026-07-18T19:20:07Z",
+  "pushed_at": "2026-07-18T18:58:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -337,6 +337,10 @@
     {
       "date": "2026-07-17",
       "stars": 73871
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 73876
     }
   ]
 }

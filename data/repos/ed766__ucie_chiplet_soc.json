@@ -3,7 +3,7 @@
   "owner": "ed766",
   "name": "ucie_chiplet_soc",
   "full_name": "ed766/ucie_chiplet_soc",
-  "description": "Firmware-driven dual-die RV32 chiplet SoC with queued DMA, UPF 4.0 low-power intent, async CDC, behavioral UCIe-style transport, formal/UVM evidence, and LibreLane.",
+  "description": "Firmware-driven dual-die RV32 chiplet SoC with GCC/ISS co-verification, DMA/AES offload, UPF 4.0 low-power intent, async CDC, real UVM, formal, and open-source coverage.",
   "description_ja": "",
   "url": "https://github.com/ed766/ucie_chiplet_soc",
   "homepage_url": "",
@@ -21,13 +21,13 @@
     "upf",
     "verilator"
   ],
-  "star_count": 9,
+  "star_count": 10,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-30T06:41:58Z",
-  "updated_at": "2026-07-16T22:09:27Z",
-  "pushed_at": "2026-07-16T22:09:23Z",
+  "updated_at": "2026-07-18T19:24:44Z",
+  "pushed_at": "2026-07-18T19:24:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -181,6 +181,10 @@
     {
       "date": "2026-07-17",
       "stars": 9
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 10
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "askalf",
   "name": "dario",
   "full_name": "askalf/dario",
-  "description": "Your Claude Pro/Max subscription in any tool — Cursor, Cline, Aider, Agent SDK — at subscription pricing, not per-token bills. One local endpoint that replays Claude Code's wire shape so your traffic stays in the subscription pool.",
+  "description": "A local OpenAI- and Anthropic-compatible proxy that brings your Claude Pro/Max subscription to Cursor, Cline, Aider, and the Agent SDK. Session-affinity routing, multi-account pooling, and live drift detection keep long agent runs stable across tools.",
   "description_ja": "",
   "url": "https://github.com/askalf/dario",
   "homepage_url": "https://www.npmjs.com/package/@askalf/dario",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-08T16:08:01Z",
-  "updated_at": "2026-07-17T18:21:56Z",
-  "pushed_at": "2026-07-17T16:41:17Z",
+  "updated_at": "2026-07-18T18:03:14Z",
+  "pushed_at": "2026-07-18T18:03:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -314,6 +314,10 @@
     },
     {
       "date": "2026-07-17",
+      "stars": 319
+    },
+    {
+      "date": "2026-07-18",
       "stars": 319
     }
   ]

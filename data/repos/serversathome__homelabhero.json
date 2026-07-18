@@ -3,20 +3,34 @@
   "owner": "serversathome",
   "name": "homelabhero",
   "full_name": "serversathome/homelabhero",
-  "description": "",
+  "description": "Turn a fresh LXC into an AI homelab command center. One command installs Claude Code + a web UI, preloaded with skills, and a credential broker so Claude operates your TrueNAS/Proxmox/Linux over SSH without ever seeing a secret.",
   "description_ja": "",
   "url": "https://github.com/serversathome/homelabhero",
   "homepage_url": "",
   "language": "Shell",
   "license": "",
-  "topics": [],
-  "star_count": 51,
+  "topics": [
+    "ai",
+    "automation",
+    "claude",
+    "claude-code",
+    "credential-broker",
+    "homelab",
+    "homelab-automation",
+    "lxc",
+    "proxmox",
+    "self-hosted",
+    "ssh",
+    "truenas",
+    "ubuntu"
+  ],
+  "star_count": 52,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-06T16:57:35Z",
-  "updated_at": "2026-07-17T19:28:57Z",
-  "pushed_at": "2026-07-17T19:28:52Z",
+  "updated_at": "2026-07-18T16:52:32Z",
+  "pushed_at": "2026-07-18T16:52:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +52,10 @@
     {
       "date": "2026-07-17",
       "stars": 51
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 52
     }
   ]
 }

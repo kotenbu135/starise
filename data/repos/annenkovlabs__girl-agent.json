@@ -6,17 +6,33 @@
   "description": "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием.",
   "description_ja": "",
   "url": "https://github.com/AnnenkovLabs/girl-agent",
-  "homepage_url": "",
+  "homepage_url": "https://oss.girl-agent.com/",
   "language": "TypeScript",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 329,
+  "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "aigirl",
+    "aigirlfriend",
+    "anti-ai-slop",
+    "chatbot",
+    "chatgpt",
+    "girl-agent",
+    "girlfriend",
+    "realistic-ai",
+    "telegram",
+    "userbot",
+    "userbot-for-telegram",
+    "userbot-telegram"
+  ],
+  "star_count": 331,
   "fork_count": 47,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-04T17:58:06Z",
-  "updated_at": "2026-07-17T00:07:12Z",
-  "pushed_at": "2026-07-09T22:20:10Z",
+  "updated_at": "2026-07-18T17:49:34Z",
+  "pushed_at": "2026-07-18T16:55:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -242,6 +258,10 @@
     {
       "date": "2026-07-17",
       "stars": 329
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 331
     }
   ]
 }

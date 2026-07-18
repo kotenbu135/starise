@@ -3,13 +3,15 @@
   "owner": "raulgomis",
   "name": "semversioner",
   "full_name": "raulgomis/semversioner",
-  "description": "The easiest way to manage semantic versioning in your project and generate CHANGELOG.md file automatically.",
-  "description_ja": "プロジェクトのセマンティックバージョニング管理とCHANGELOG.mdの自動生成を最も簡単に行う方法",
+  "description": "The easiest way to manage semantic versioning and generate CHANGELOG.md automatically for AI-native projects.",
+  "description_ja": "",
   "url": "https://github.com/raulgomis/semversioner",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "ai",
+    "ai-agents",
     "cicd",
     "devops",
     "semver",
@@ -20,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-10T13:25:03Z",
-  "updated_at": "2026-06-07T07:56:24Z",
-  "pushed_at": "2026-06-12T23:07:58Z",
+  "updated_at": "2026-07-18T13:35:32Z",
+  "pushed_at": "2026-07-18T12:42:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -310,6 +312,10 @@
     },
     {
       "date": "2026-07-17",
+      "stars": 47
+    },
+    {
+      "date": "2026-07-18",
       "stars": 47
     }
   ]

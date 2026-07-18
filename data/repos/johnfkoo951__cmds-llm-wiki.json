@@ -3,20 +3,27 @@
   "owner": "johnfkoo951",
   "name": "cmds-llm-wiki",
   "full_name": "johnfkoo951/cmds-llm-wiki",
-  "description": "LLM Wiki template — Karpathy 3-layer pattern + Gold In Gold Out purpose gate + Claude Code harness (7 commands, 2 hooks, 18 web clipper templates)",
+  "description": "LLM Wiki template — Karpathy 3-layer pattern + Gold In Gold Out purpose gate + dual Claude Code·Codex harness (11 commands, 2 hooks, 18 web clipper templates)",
   "description_ja": "",
   "url": "https://github.com/johnfkoo951/cmds-llm-wiki",
   "homepage_url": "",
   "language": "Shell",
   "license": "",
-  "topics": [],
-  "star_count": 55,
+  "topics": [
+    "claude-code",
+    "knowledge-management",
+    "llm-wiki",
+    "obsidian",
+    "pkm",
+    "second-brain"
+  ],
+  "star_count": 56,
   "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-14T12:50:52Z",
-  "updated_at": "2026-07-17T15:56:00Z",
-  "pushed_at": "2026-07-02T23:57:57Z",
+  "updated_at": "2026-07-18T03:49:31Z",
+  "pushed_at": "2026-07-18T03:49:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +73,10 @@
     {
       "date": "2026-07-17",
       "stars": 55
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 56
     }
   ]
 }

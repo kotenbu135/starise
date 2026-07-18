@@ -3,8 +3,8 @@
   "owner": "lyokone",
   "name": "flutterlocation",
   "full_name": "lyokone/flutterlocation",
-  "description": "A Flutter plugin to easily handle realtime location in iOS and Android. Provides settings for optimizing performance or battery.",
-  "description_ja": "iOS と Android でリアルタイム位置情報を簡単に扱える Flutter プラグイン。パフォーマンスとバッテリーの最適化設定を提供",
+  "description": "A Flutter plugin to easily handle realtime location in Android, iOS, macOS, Web, Windows and Linux. Provides settings for optimizing performance or battery.",
+  "description_ja": "",
   "url": "https://github.com/Lyokone/flutterlocation",
   "homepage_url": "",
   "language": "Dart",
@@ -14,15 +14,21 @@
     "dart",
     "flutter",
     "flutter-plugin",
-    "ios"
+    "gps",
+    "ios",
+    "linux",
+    "location",
+    "macos",
+    "web",
+    "windows"
   ],
   "star_count": 1155,
   "fork_count": 843,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-07-07T12:47:30Z",
-  "updated_at": "2026-07-17T20:13:19Z",
-  "pushed_at": "2026-07-17T20:14:21Z",
+  "updated_at": "2026-07-18T10:45:18Z",
+  "pushed_at": "2026-07-18T10:50:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -315,6 +321,10 @@
     },
     {
       "date": "2026-07-17",
+      "stars": 1155
+    },
+    {
+      "date": "2026-07-18",
       "stars": 1155
     }
   ]

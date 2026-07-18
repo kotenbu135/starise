@@ -1,0 +1,44 @@
+{
+  "repo_id": "R_kgDOTGAWPw",
+  "owner": "heeeyaaaa",
+  "name": "vmem-decrypt",
+  "full_name": "heeeyaaaa/vmem-decrypt",
+  "description": "Decrypt VMware vTPM-encrypted .vmem/.vmsn/.vmss/.nvram from the VM password, and flatten the .vmem to a Volatility-ready image.",
+  "description_ja": "",
+  "url": "https://github.com/heeeyaaaa/vmem-decrypt",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "decryption",
+    "dfir",
+    "encobj",
+    "forensics",
+    "incident-response",
+    "memory-forensics",
+    "python",
+    "reverse-engineering",
+    "vmem",
+    "vmsn",
+    "vmware",
+    "vmware-workstation",
+    "volatility",
+    "volatility3",
+    "vtpm",
+    "windows11"
+  ],
+  "star_count": 46,
+  "fork_count": 7,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-26T13:36:40Z",
+  "updated_at": "2026-07-18T16:24:36Z",
+  "pushed_at": "2026-07-04T14:14:29Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-18",
+      "stars": 46
+    }
+  ]
+}

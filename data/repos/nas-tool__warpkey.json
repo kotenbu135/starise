@@ -6,20 +6,20 @@
   "description": "CloudFlare Key Collection Tool CloudFlare WARP KEY收集工具，WARP KEY收集工具，每小时自动更新https://www.wanghaoyu.com.cn/archives/cloudflare-warp-key.html",
   "description_ja": "",
   "url": "https://github.com/nas-tool/warpkey",
-  "homepage_url": "https://nas-tool.github.io/warpkey/",
+  "homepage_url": "https://warpkey-edge-console.niubiplus.workers.dev/zh",
   "language": "TypeScript",
-  "license": "",
+  "license": "MIT",
   "topics": [
     "cloudflare",
     "warp"
   ],
-  "star_count": 110,
+  "star_count": 111,
   "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-02T13:56:44Z",
-  "updated_at": "2026-07-15T22:57:26Z",
-  "pushed_at": "2026-03-12T16:46:27Z",
+  "updated_at": "2026-07-18T09:23:47Z",
+  "pushed_at": "2026-07-18T02:07:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -233,6 +233,10 @@
     {
       "date": "2026-07-17",
       "stars": 110
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 111
     }
   ]
 }

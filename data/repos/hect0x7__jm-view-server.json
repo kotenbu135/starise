@@ -3,11 +3,11 @@
   "owner": "hect0x7",
   "name": "jm-view-server",
   "full_name": "hect0x7/jm-view-server",
-  "description": "”离线版“ 禁漫天堂 | 文件服务器 | 离线看本 | jmcomic | 插件",
+  "description": "本地看漫画神器，使用浏览器/手机看本 | 局域网 | 文件服务器 | 离线看本 | jmcomic",
   "description_ja": "",
   "url": "https://github.com/hect0x7/jm-view-server",
   "homepage_url": "https://pypi.org/project/jm-view-server/",
-  "language": "HTML",
+  "language": "JavaScript",
   "license": "MIT",
   "topics": [
     "18comic",
@@ -18,13 +18,13 @@
     "file-server",
     "jmcomic"
   ],
-  "star_count": 58,
+  "star_count": 60,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-12T14:51:36Z",
-  "updated_at": "2026-07-17T09:55:13Z",
-  "pushed_at": "2026-07-11T10:05:58Z",
+  "updated_at": "2026-07-18T17:51:27Z",
+  "pushed_at": "2026-07-18T14:53:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -218,6 +218,10 @@
     {
       "date": "2026-07-17",
       "stars": 58
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 60
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "j-x-z",
   "name": "cocoa-way",
   "full_name": "j-x-z/cocoa-way",
-  "description": "Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.",
-  "description_ja": "SmithayをベースにRustで書かれたネイティブmacOS向けWaylandコンポジター。XQuartz不要でmacOS上でLinuxアプリのシームレスなストリーミングを実現。",
+  "description": "Run Linux desktops and apps on macOS with a native Metal Wayland compositor, Apple Container GUI, Waypipe, Docker/OrbStack, and rootless windows.",
+  "description_ja": "",
   "url": "https://github.com/J-x-Z/cocoa-way",
   "homepage_url": "",
   "language": "Rust",
@@ -12,26 +12,31 @@
   "topics": [
     "apple-container",
     "apple-container-gui",
+    "apple-silicon",
+    "container-gui",
     "developer-productivity",
     "linux-apps-on-macos",
+    "linux-gui",
     "macos",
     "macos-application",
     "macos-tools",
+    "metal",
     "remote-development",
     "remote-development-container",
+    "rootless",
     "rust",
     "ssh-tool",
     "wayland",
     "wayland-compositor",
     "xquartz-alternative"
   ],
-  "star_count": 977,
+  "star_count": 978,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-13T15:27:08Z",
-  "updated_at": "2026-07-15T11:29:27Z",
-  "pushed_at": "2026-06-24T11:56:34Z",
+  "updated_at": "2026-07-18T13:54:11Z",
+  "pushed_at": "2026-07-18T07:29:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -325,6 +330,10 @@
     {
       "date": "2026-07-17",
       "stars": 977
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 978
     }
   ]
 }

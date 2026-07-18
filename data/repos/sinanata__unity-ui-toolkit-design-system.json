@@ -3,7 +3,7 @@
   "owner": "sinanata",
   "name": "unity-ui-toolkit-design-system",
   "full_name": "sinanata/unity-ui-toolkit-design-system",
-  "description": "Drop-in design system for Unity 6 UI Toolkit (UIDocument + PanelRenderer, UXML + USS): tokens, 42 components, 120 icons, mobile-responsive, dark-themed. One stylesheet, zero dependencies. Battle-tested in a shipping cross-play game.",
+  "description": "Drop-in design system for Unity 6 UI Toolkit (UIDocument + PanelRenderer, UXML + USS): tokens, fx shader material support, 42 components, 120 icons, mobile-responsive, dark-themed. One stylesheet, zero dependencies. Battle-tested in a shipping cross-play game.",
   "description_ja": "",
   "url": "https://github.com/sinanata/unity-ui-toolkit-design-system",
   "homepage_url": "https://sinanata.github.io/unity-ui-toolkit-design-system/",
@@ -26,13 +26,13 @@
     "unity6",
     "uxml"
   ],
-  "star_count": 483,
+  "star_count": 487,
   "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-01T21:04:22Z",
-  "updated_at": "2026-07-17T14:45:09Z",
-  "pushed_at": "2026-07-15T00:30:00Z",
+  "updated_at": "2026-07-18T14:17:18Z",
+  "pushed_at": "2026-07-17T22:03:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -282,6 +282,10 @@
     {
       "date": "2026-07-17",
       "stars": 483
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 487
     }
   ]
 }
