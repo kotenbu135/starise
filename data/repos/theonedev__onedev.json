@@ -3,27 +3,29 @@
   "owner": "theonedev",
   "name": "onedev",
   "full_name": "theonedev/onedev",
-  "description": "Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.",
-  "description_ja": "CI/CD、Kanban、パッケージ機能を備えたGitサーバー。シームレスな統合。類まれな体験。",
+  "description": "The Unified and Autonomous Development Platform",
+  "description_ja": "",
   "url": "https://github.com/theonedev/onedev",
   "homepage_url": "https://onedev.io",
   "language": "Java",
   "license": "MIT",
   "topics": [
+    "ai",
     "ci-cd",
     "devops",
     "git",
     "kanban",
     "packages",
-    "self-hosted"
+    "self-hosted",
+    "workspaces"
   ],
-  "star_count": 15097,
+  "star_count": 15104,
   "fork_count": 965,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-11-06T02:57:01Z",
-  "updated_at": "2026-07-18T12:02:40Z",
-  "pushed_at": "2026-07-18T12:02:19Z",
+  "updated_at": "2026-07-19T19:53:21Z",
+  "pushed_at": "2026-07-19T14:21:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -321,6 +323,10 @@
     {
       "date": "2026-07-18",
       "stars": 15097
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 15104
     }
   ]
 }

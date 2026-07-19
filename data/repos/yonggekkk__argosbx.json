@@ -3,8 +3,8 @@
   "owner": "yonggekkk",
   "name": "argosbx",
   "full_name": "yonggekkk/argosbx",
-  "description": "小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：AnyTLS、Any-reality、Vless-xhttp-reality-vision-enc、Vless-tcp-reality-vision、Vless-xhttp-vision-enc、Vless-ws-vision-enc、Shadowsocks-2022、Hysteria2、Tuic、Socks5、Vmess-ws、Argo临时/固定隧道",
-  "description_ja": "初心者向け自前プロキシ構築ツール！ArgoSBXワンクリック無対話スクリプト💣：Sing-box・Xray・Argoの三大カーネル自動組み合わせ；VPS・Docker・コンテナのマルチ環境デプロイ対応；CDN経由の5方式+WARP経由の15種組み合わせ；対応済みプロトコル：AnyTLS、Any-reality、Vless-xhttp-reality-vision-enc、Vless-tcp-reality-vision、Vless-xhttp-vision-enc、Vless-ws-vision-enc、Shadowsocks-2022、Hysteria2、Tuic、Socks5、Vmess-ws、Argo一時/固定トンネル",
+  "description": "小白自建代理神器！ArgoSBX一键无交互小钢炮脚本💣：Sing-box、Xray、Argo三内核自动搭配；支持VPS、Docker、容器多环境部署；套CDN的5大方案+套WARP的15种组合；已支持协议：Naiveproxy、AnyTLS、Any-reality、Vless-xhttp-reality-vision-enc、Vless-tcp-reality-vision、Vless-xhttp-vision-enc、Vless-ws-vision-enc、Shadowsocks-2022、Hysteria2、Tuic、Socks5、Vmess-ws、Argo临时/固定隧道",
+  "description_ja": "",
   "url": "https://github.com/yonggekkk/argosbx",
   "homepage_url": "https://yonggekkk.github.io/argosbx/",
   "language": "Shell",
@@ -12,13 +12,10 @@
   "topics": [
     "anytls",
     "argo",
-    "claw-cloud",
     "cloudflared",
     "docker-image",
-    "google-idx",
     "hysteria2",
-    "ml-kem-768",
-    "sap",
+    "naiveproxy",
     "shadowsocks-2022",
     "singbox",
     "socks5",
@@ -29,15 +26,16 @@
     "vmess-ws",
     "warp",
     "wireguard",
+    "xhttp",
     "xray"
   ],
-  "star_count": 5483,
-  "fork_count": 2230,
+  "star_count": 5495,
+  "fork_count": 2231,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-22T01:46:41Z",
-  "updated_at": "2026-07-18T16:52:20Z",
-  "pushed_at": "2026-07-17T13:18:46Z",
+  "updated_at": "2026-07-19T14:54:48Z",
+  "pushed_at": "2026-07-19T12:35:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -335,6 +333,10 @@
     {
       "date": "2026-07-18",
       "stars": 5483
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 5495
     }
   ]
 }

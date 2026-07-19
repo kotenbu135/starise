@@ -1,0 +1,335 @@
+{
+  "repo_id": "R_kgDORPNUhA",
+  "owner": "builderz-labs",
+  "name": "mission-control",
+  "full_name": "builderz-labs/mission-control",
+  "description": "Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.",
+  "description_ja": "",
+  "url": "https://github.com/builderz-labs/mission-control",
+  "homepage_url": "https://mc.builderz.dev",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "agent-observability",
+    "agent-operations",
+    "agent-orchestration",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "mcp",
+    "nextjs",
+    "open-source",
+    "openclaw",
+    "self-hosted",
+    "sqlite",
+    "task-management",
+    "typescript"
+  ],
+  "star_count": 5781,
+  "fork_count": 5,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-02-13T04:06:19Z",
+  "updated_at": "2026-07-19T16:39:45Z",
+  "pushed_at": "2026-07-19T06:24:31Z",
+  "deleted_at": "2026-07-17",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 4265
+    },
+    {
+      "date": "2026-04-23",
+      "stars": 4318
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 4348
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 4370
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 4428
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 4510
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 4546
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 4571
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 4601
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 4720
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 4746
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 4764
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 4779
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 4814
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 4827
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 4835
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 4847
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 4861
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 4874
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 4896
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 4922
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 4938
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 4970
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 5001
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 5033
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 5073
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 5089
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 5113
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 5163
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 5180
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 5193
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 5199
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 5210
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 5232
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 5248
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 5258
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 5273
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 5284
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 5292
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 5297
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 5314
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 5331
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 5344
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 5353
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 5359
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 5368
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 5382
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 5398
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 5399
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 5412
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 5420
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 5428
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 5446
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 5452
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 5464
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 5480
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 5492
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 5496
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 5505
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 5510
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 5556
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 5626
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 5641
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 5660
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 5672
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 5694
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 5716
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 5723
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 5733
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 5742
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 5760
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 5769
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 5773
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 5781
+    }
+  ]
+}

@@ -3,20 +3,35 @@
   "owner": "hello245m",
   "name": "free-stockdb",
   "full_name": "hello245m/free-stockdb",
-  "description": "每日更新！免费股票日k、分时k线数据，etf分钟数据，截至到2026-07月最新数据，含全沪京深7000+股票",
+  "description": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
   "description_ja": "",
   "url": "https://github.com/hello245m/free-stockdb",
   "homepage_url": "",
   "language": "HTML",
-  "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 523,
-  "fork_count": 82,
+  "license": "MIT",
+  "topics": [
+    "a-share",
+    "algorithmic-trading",
+    "backtesting",
+    "china-stock-market",
+    "kline",
+    "local-first",
+    "market-data",
+    "mcp",
+    "quant-research",
+    "quantitative-finance",
+    "stock-data",
+    "stock-market",
+    "technical-analysis",
+    "time-series-database"
+  ],
+  "star_count": 541,
+  "fork_count": 84,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-08T13:34:17Z",
-  "updated_at": "2026-07-18T17:27:19Z",
-  "pushed_at": "2026-07-16T18:38:45Z",
+  "updated_at": "2026-07-19T18:55:54Z",
+  "pushed_at": "2026-07-19T18:55:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +85,10 @@
     {
       "date": "2026-07-18",
       "stars": 523
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 541
     }
   ]
 }

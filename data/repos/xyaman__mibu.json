@@ -3,29 +3,32 @@
   "owner": "xyaman",
   "name": "mibu",
   "full_name": "xyaman/mibu",
-  "description": "Pure Zig library for low-level terminal manipulation: zero heap allocations, UTF-8 support, text styling, color output, cursor and screen control, key and mouse event handling.",
-  "description_ja": "低レベルなターミナル操作のための純粋 Zig ライブラリ：ヒープアロケーションゼロ、UTF-8 サポート、テキストスタイリング、カラー出力、カーソル・画面制御、キー・マウスイベント処理",
+  "description": "Zero-allocation Zig library for ANSI terminal control: colors, styling, cursor, screen, and input events.",
+  "description_ja": "",
   "url": "https://github.com/xyaman/mibu",
   "homepage_url": "",
   "language": "Zig",
   "license": "MIT",
   "topics": [
     "ansi",
-    "color",
+    "cli",
+    "colors",
     "console",
-    "cursor",
+    "escape-codes",
+    "kitty",
     "terminal",
     "tui",
     "zig",
+    "zig-library",
     "zig-package"
   ],
-  "star_count": 150,
+  "star_count": 151,
   "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-03T17:08:47Z",
-  "updated_at": "2026-07-18T18:10:16Z",
-  "pushed_at": "2026-07-15T02:22:11Z",
+  "updated_at": "2026-07-19T11:23:56Z",
+  "pushed_at": "2026-07-19T11:23:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -319,6 +322,10 @@
     {
       "date": "2026-07-18",
       "stars": 150
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 151
     }
   ]
 }

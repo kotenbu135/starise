@@ -3,36 +3,40 @@
   "owner": "agenta-ai",
   "name": "agenta",
   "full_name": "agenta-ai/agenta",
-  "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM observability all in one place.",
-  "description_ja": "[18] オープンソースのLLMOpsプラットフォーム: プロンプトプレイグラウンド、プロンプト管理、LLM評価、LLM可観測性をひとつに統合。",
+  "description": "The open-source workspace for building and running AI agents. Build agents through chat, share them with your team, and run background agents on schedules or app events.",
+  "description_ja": "",
   "url": "https://github.com/Agenta-AI/agenta",
   "homepage_url": "http://www.agenta.ai",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
+    "agent-builder",
+    "agent-observability",
+    "agent-orchestration",
+    "agent-workspace",
+    "agentic-ai",
+    "agentic-workflow",
     "agents",
-    "evaluation",
-    "llm-as-a-judge",
+    "ai-agent",
+    "ai-agents",
+    "ai-automation",
+    "ai-workflow-builder",
+    "background-agents",
+    "harness",
+    "human-in-the-loop",
     "llm-evaluation",
-    "llm-framework",
-    "llm-monitoring",
     "llm-observability",
-    "llm-platform",
-    "llm-playground",
-    "llm-tools",
-    "llmops",
-    "observability",
-    "prompt-engineering",
-    "prompt-management",
-    "rag-evaluation"
+    "mcp",
+    "open-source",
+    "self-hosted"
   ],
-  "star_count": 4303,
+  "star_count": 4309,
   "fork_count": 574,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-26T09:54:28Z",
-  "updated_at": "2026-07-18T17:09:52Z",
-  "pushed_at": "2026-07-18T19:14:57Z",
+  "updated_at": "2026-07-19T18:45:03Z",
+  "pushed_at": "2026-07-19T19:04:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -330,6 +334,10 @@
     {
       "date": "2026-07-18",
       "stars": 4303
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 4309
     }
   ]
 }

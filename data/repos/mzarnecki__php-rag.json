@@ -1,0 +1,45 @@
+{
+  "repo_id": "R_kgDOL-x5-w",
+  "owner": "mzarnecki",
+  "name": "php-rag",
+  "full_name": "mzarnecki/php-rag",
+  "description": "This application uses LLMs like DeepSeek, GPT-5, Claude, Gemini or Llama, Mixtral (locally)  in order to generate text based on the user input. The user input is used to retrieve relevant information from the database and then the retrieved information is used to generate the text. This approach combines power of LLMs and access to source documen",
+  "description_ja": "",
+  "url": "https://github.com/mzarnecki/php-rag",
+  "homepage_url": "https://medium.com/@michalzarnecki88/a-guide-to-using-llm-retrieval-augmented-generation-with-php-3bff25ce6616",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "chatbot",
+    "chatgpt",
+    "claude-3",
+    "deepseek",
+    "embeddings",
+    "gemini",
+    "genai",
+    "gpt-4",
+    "llama3",
+    "llm",
+    "llms",
+    "mixtral",
+    "ollama",
+    "pgvector",
+    "php",
+    "rag",
+    "semanticsearch"
+  ],
+  "star_count": 67,
+  "fork_count": 5,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2024-05-21T20:15:34Z",
+  "updated_at": "2026-07-19T13:48:28Z",
+  "pushed_at": "2026-07-19T13:48:25Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-19",
+      "stars": 67
+    }
+  ]
+}

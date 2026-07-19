@@ -3,8 +3,8 @@
   "owner": "letsfg",
   "name": "letsfg",
   "full_name": "letsfg/letsfg",
-  "description": "Agent-native flight search \u0026 booking. Saved $116 across 5 routes vs Google Flights (verified). 400+ airlines in 5 seconds. Join the community - Star and spread the word",
-  "description_ja": "エージェントネイティブな航空券検索・予約。Google Flights と比較して5ルートで116ドル節約（確認済み）。5秒で400以上の航空会社に対応。コミュニティに参加して Star と拡散を！",
+  "description": "Agent-native flight search \u0026 booking. 400+ airlines, zero markup, $116 saved vs Google Flights (verified). Building toward the whole trip: best airport, ground transport, delay \u0026 cancellation handling.",
+  "description_ja": "",
   "url": "https://github.com/LetsFG/LetsFG",
   "homepage_url": "https://letsfg.co/en",
   "language": "Python",
@@ -27,13 +27,13 @@
     "python-sdk",
     "travel"
   ],
-  "star_count": 1547,
-  "fork_count": 90,
+  "star_count": 1576,
+  "fork_count": 91,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T11:17:50Z",
-  "updated_at": "2026-07-17T23:42:44Z",
-  "pushed_at": "2026-07-10T21:35:20Z",
+  "updated_at": "2026-07-19T19:51:10Z",
+  "pushed_at": "2026-07-19T12:55:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -331,6 +331,10 @@
     {
       "date": "2026-07-18",
       "stars": 1547
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 1576
     }
   ]
 }

@@ -3,23 +3,30 @@
   "owner": "kci-lnk",
   "name": "fn-knock-turborepo",
   "full_name": "kci-lnk/fn-knock-turborepo",
-  "description": "敲门Knock - 一站式公网鉴权集成方案",
+  "description": "面向 NAS、软路由与家庭服务器的多平台高性能安全网关，采用 Rust + Go 双核心架构，集成反向代理、身份认证、WAF、SSL、DDNS 与内网穿透。",
   "description_ja": "",
   "url": "https://github.com/kci-lnk/fn-knock-turborepo",
   "homepage_url": "https://www.fnknock.cn/",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "access-control",
+    "authentication",
     "fn-knock",
-    "fnos"
+    "fnos",
+    "golang",
+    "reverse-proxy",
+    "rust",
+    "self-hosted",
+    "zero-trust"
   ],
   "star_count": 107,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-12T05:12:24Z",
-  "updated_at": "2026-07-18T19:50:20Z",
-  "pushed_at": "2026-07-18T19:50:16Z",
+  "updated_at": "2026-07-19T16:07:58Z",
+  "pushed_at": "2026-07-19T16:04:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -296,6 +303,10 @@
     },
     {
       "date": "2026-07-18",
+      "stars": 107
+    },
+    {
+      "date": "2026-07-19",
       "stars": 107
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "mlhher",
   "name": "late-cli",
   "full_name": "mlhher/late-cli",
-  "description": "Stop degrading your model's reasoning. A minimal, zero-config AI coding agent. Enforced ephemeral subagents keep context pure. From tiny local models up to Sol, Claude and Kimi K3.",
+  "description": "Stop degrading your model's reasoning. A minimal, zero-config AI coding agent. Enforced ephemeral subagents keep context pure. From tiny local models up to Sol, Fable and Kimi K3.",
   "description_ja": "",
   "url": "https://github.com/mlhher/late-cli",
   "homepage_url": "",
@@ -28,16 +28,16 @@
     "local-ai",
     "local-llm",
     "mcp",
-    "sol",
+    "qwen",
     "tui"
   ],
-  "star_count": 381,
+  "star_count": 382,
   "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-22T05:00:28Z",
-  "updated_at": "2026-07-18T14:51:31Z",
-  "pushed_at": "2026-07-18T13:17:58Z",
+  "updated_at": "2026-07-19T18:55:27Z",
+  "pushed_at": "2026-07-19T13:22:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -311,6 +311,10 @@
     {
       "date": "2026-07-18",
       "stars": 381
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 382
     }
   ]
 }

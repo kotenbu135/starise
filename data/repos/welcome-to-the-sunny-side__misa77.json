@@ -9,13 +9,16 @@
   "homepage_url": "",
   "language": "C++",
   "license": "MIT",
-  "topics": [],
-  "star_count": 128,
+  "topics": [
+    "compression",
+    "lz77"
+  ],
+  "star_count": 134,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-02T13:13:24Z",
-  "updated_at": "2026-07-18T18:51:11Z",
+  "updated_at": "2026-07-19T16:44:24Z",
   "pushed_at": "2026-07-18T18:15:34Z",
   "deleted_at": "",
   "star_history": [
@@ -34,6 +37,10 @@
     {
       "date": "2026-07-18",
       "stars": 128
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 134
     }
   ]
 }

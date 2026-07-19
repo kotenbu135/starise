@@ -3,26 +3,25 @@
   "owner": "fnosp",
   "name": "flynarwhal",
   "full_name": "fnosp/flynarwhal",
-  "description": "基于 Compose Multiplatform 框架开发的适用于飞牛影视的跨平台客户端",
-  "description_ja": "Compose Multiplatform フレームワークで開発された、飞牛影视（fnOS Video）向けクロスプラットフォームクライアント。",
+  "description": "基于 Flutter 框架开发的适用于飞牛影视的跨平台客户端",
+  "description_ja": "",
   "url": "https://github.com/FNOSP/FlyNarwhal",
   "homepage_url": "",
-  "language": "Kotlin",
+  "language": "Dart",
   "license": "AGPL-3.0",
   "topics": [
-    "compose",
-    "compose-multiplatform",
+    "dart",
+    "flutter",
     "fnos",
-    "fntv",
-    "fntv-client-multiplatform"
+    "fntv"
   ],
   "star_count": 439,
   "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-16T18:29:25Z",
-  "updated_at": "2026-07-16T16:00:45Z",
-  "pushed_at": "2026-07-16T16:34:03Z",
+  "updated_at": "2026-07-19T15:31:51Z",
+  "pushed_at": "2026-07-19T15:31:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -319,6 +318,10 @@
     },
     {
       "date": "2026-07-18",
+      "stars": 439
+    },
+    {
+      "date": "2026-07-19",
       "stars": 439
     }
   ]

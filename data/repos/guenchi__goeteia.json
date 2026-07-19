@@ -3,13 +3,15 @@
   "owner": "guenchi",
   "name": "goeteia",
   "full_name": "guenchi/goeteia",
-  "description": "A self-hosting Scheme to WebAssembly Compiler",
+  "description": "A graphics optimized pure Scheme web programming toolkit.",
   "description_ja": "",
   "url": "https://github.com/guenchi/Goeteia",
   "homepage_url": "https://goeteia.dev",
   "language": "Scheme",
   "license": "MIT",
   "topics": [
+    "3d-game",
+    "3d-graphics",
     "scheme",
     "scheme-compiler",
     "wasm"
@@ -19,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-11T02:03:39Z",
-  "updated_at": "2026-07-18T16:12:38Z",
-  "pushed_at": "2026-07-18T16:12:31Z",
+  "updated_at": "2026-07-19T18:38:54Z",
+  "pushed_at": "2026-07-19T18:38:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +43,10 @@
     },
     {
       "date": "2026-07-18",
+      "stars": 58
+    },
+    {
+      "date": "2026-07-19",
       "stars": 58
     }
   ]
