@@ -3,20 +3,32 @@
   "owner": "earthcake2233",
   "name": "cakecake",
   "full_name": "earthcake2233/cakecake",
-  "description": "仿 B 站核心链路的个人学习项目（cakecake）。Go 后端 + Vue 3 前端，含视频/专栏、弹幕、搜索、运营后台等。",
+  "description": "仿 B 站核心链路的个人学习项目 (cakecake) · Go + Vue 3 full-stack with video, columns, danmaku, search \u0026 admin dashboard.",
   "description_ja": "",
   "url": "https://github.com/earthcake2233/cakecake",
   "homepage_url": "https://chengzisoft.top/#/",
   "language": "Vue",
   "license": "NOASSERTION",
-  "topics": [],
+  "topics": [
+    "bilibili",
+    "bilibili-clone",
+    "danmaku",
+    "elasticsearch",
+    "ffmpeg",
+    "golang",
+    "oss",
+    "rabbitmq",
+    "redis",
+    "vue",
+    "websocket"
+  ],
   "star_count": 11,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-27T07:14:25Z",
-  "updated_at": "2026-06-27T08:27:50Z",
-  "pushed_at": "2026-06-27T08:22:33Z",
+  "updated_at": "2026-07-21T16:19:18Z",
+  "pushed_at": "2026-07-21T16:14:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -153,6 +165,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 11
+    },
+    {
+      "date": "2026-07-21",
       "stars": 11
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "nodeauth",
   "name": "nodeauth-worker",
   "full_name": "nodeauth/nodeauth-worker",
-  "description": "NodeAuth: 支持 Cloudflare Serverless 与 Docker 私有化部署的高安全、轻量级二步验证 (2FA/TOTP) 管理工具",
+  "description": "NodeAuth: High-security, Lightweight 2FA/TOTP management tool supporting Cloudflare Serverless and Docker on-premise deployment.",
   "description_ja": "",
   "url": "https://github.com/nodeauth/nodeauth-worker",
   "homepage_url": "https://wiki.nodeauth.io",
@@ -21,12 +21,12 @@
     "nodeauth",
     "zero-knowledge"
   ],
-  "star_count": 55,
+  "star_count": 54,
   "fork_count": 65,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-25T06:23:50Z",
-  "updated_at": "2026-07-19T02:51:09Z",
+  "updated_at": "2026-07-21T17:39:29Z",
   "pushed_at": "2026-07-19T02:51:05Z",
   "deleted_at": "",
   "star_history": [
@@ -165,6 +165,10 @@
     {
       "date": "2026-07-19",
       "stars": 55
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 54
     }
   ]
 }

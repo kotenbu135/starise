@@ -3,8 +3,8 @@
   "owner": "eigent-ai",
   "name": "eigent",
   "full_name": "eigent-ai/eigent",
-  "description": "Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cowork.",
-  "description_ja": "Eigent: 卓越した生産性を引き出すオープンソースの共同作業デスクトップ。Claude Cowork のローカル・無料代替。",
+  "description": "Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex",
+  "description_ja": "",
   "url": "https://github.com/eigent-ai/eigent",
   "homepage_url": "https://www.eigent.ai",
   "language": "TypeScript",
@@ -20,13 +20,13 @@
     "desktop-agent",
     "multi-agent-systems"
   ],
-  "star_count": 14606,
-  "fork_count": 1730,
+  "star_count": 14623,
+  "fork_count": 1735,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-29T15:56:02Z",
-  "updated_at": "2026-07-19T18:02:43Z",
-  "pushed_at": "2026-07-19T16:17:45Z",
+  "updated_at": "2026-07-21T20:15:47Z",
+  "pushed_at": "2026-07-21T15:24:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -328,6 +328,10 @@
     {
       "date": "2026-07-19",
       "stars": 14606
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 14623
     }
   ]
 }

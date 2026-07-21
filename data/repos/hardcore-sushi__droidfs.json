@@ -7,7 +7,7 @@
   "description_ja": "Android 向け暗号化オーバーレイファイルシステム実装。Gitea でも公開中: https://forge.chapril.org/hardcoresushi/DroidFS",
   "url": "https://github.com/hardcore-sushi/DroidFS",
   "homepage_url": "",
-  "language": "Java",
+  "language": "Kotlin",
   "license": "AGPL-3.0",
   "topics": [
     "android",
@@ -18,13 +18,13 @@
     "gocryptfs",
     "video-recording"
   ],
-  "star_count": 961,
-  "fork_count": 67,
+  "star_count": 963,
+  "fork_count": 69,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-07-12T14:43:26Z",
-  "updated_at": "2026-07-19T02:21:02Z",
-  "pushed_at": "2026-06-08T10:50:43Z",
+  "updated_at": "2026-07-21T19:24:06Z",
+  "pushed_at": "2026-07-21T19:23:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -326,6 +326,10 @@
     {
       "date": "2026-07-19",
       "stars": 961
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 963
     }
   ]
 }

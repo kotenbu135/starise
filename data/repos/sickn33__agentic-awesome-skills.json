@@ -3,7 +3,7 @@
   "owner": "sickn33",
   "name": "agentic-awesome-skills",
   "full_name": "sickn33/agentic-awesome-skills",
-  "description": "AAS Core preview is the local, agent-first control plane for discovering, recommending, validating, and planning exact skill stacks, backed by 1,965+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+  "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,969+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
   "description_ja": "",
   "url": "https://github.com/sickn33/agentic-awesome-skills",
   "homepage_url": "https://sickn33.github.io/agentic-awesome-skills/",
@@ -31,13 +31,13 @@
     "mcp",
     "skill-library"
   ],
-  "star_count": 43588,
-  "fork_count": 6465,
+  "star_count": 43679,
+  "fork_count": 6464,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-14T17:48:09Z",
-  "updated_at": "2026-07-19T19:54:01Z",
-  "pushed_at": "2026-07-19T19:48:27Z",
+  "updated_at": "2026-07-21T21:16:03Z",
+  "pushed_at": "2026-07-21T21:15:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -339,6 +339,10 @@
     {
       "date": "2026-07-19",
       "stars": 43588
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 43679
     }
   ]
 }

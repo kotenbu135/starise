@@ -3,29 +3,36 @@
   "owner": "green-dalii",
   "name": "obsidian-llm-wiki",
   "full_name": "green-dalii/obsidian-llm-wiki",
-  "description": "Karpathy's LLM Wiki implementation plugin for Obsidian - multi-page knowledge generation with entity/concept pages and conversational query.",
+  "description": "Karpathy's LLM Wiki implementation plugin for Obsidian - turns notes and PDFs into a linked, LLM-powered knowledge base with entity pages, concept pages, graph-powered Q\u0026A, and local-first privacy.",
   "description_ja": "",
   "url": "https://github.com/green-dalii/obsidian-llm-wiki",
   "homepage_url": "https://llmwiki.greenerai.top",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
+    "anthropic",
+    "graph-algorithms",
     "karpathy",
     "knowledge-graph",
     "knowledge-management",
     "llm-wiki",
-    "llm-wiki-karpathy",
+    "local-first",
+    "markdown",
     "note-taking",
     "obsidian",
-    "obsidian-plugin"
+    "obsidian-plugins",
+    "openai",
+    "pdf",
+    "pdf-processing",
+    "privacy-first"
   ],
-  "star_count": 325,
-  "fork_count": 38,
+  "star_count": 337,
+  "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-26T14:57:39Z",
-  "updated_at": "2026-07-19T14:07:12Z",
-  "pushed_at": "2026-07-19T14:04:27Z",
+  "updated_at": "2026-07-21T19:53:58Z",
+  "pushed_at": "2026-07-21T04:05:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -207,6 +214,10 @@
     {
       "date": "2026-07-19",
       "stars": 325
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 337
     }
   ]
 }

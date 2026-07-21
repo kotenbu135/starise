@@ -3,28 +3,31 @@
   "owner": "ultralytics",
   "name": "xview-yolov3",
   "full_name": "ultralytics/xview-yolov3",
-  "description": "xView 2018 Object Detection Challenge: YOLOv3 Training and Inference.",
-  "description_ja": "xView 2018物体検出チャレンジ: YOLOv3によるトレーニングと推論",
+  "description": "YOLOv3 training, preprocessing, validation, and inference for object detection in xView satellite imagery and the xView detection challenge.",
+  "description_ja": "",
   "url": "https://github.com/ultralytics/xview-yolov3",
   "homepage_url": "https://docs.ultralytics.com",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
     "challenge",
-    "deep-learning",
-    "machine-learning",
+    "computer-vision",
+    "inference",
+    "model-training",
+    "object-detection",
+    "pytorch",
+    "remote-sensing",
+    "satellite-imagery",
     "ultralytics",
     "xview",
-    "xview-2018",
-    "yolov3",
-    "yolov3-training"
+    "yolov3"
   ],
   "star_count": 338,
   "fork_count": 59,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-06-12T19:21:21Z",
-  "updated_at": "2026-07-10T00:58:27Z",
+  "updated_at": "2026-07-21T13:57:48Z",
   "pushed_at": "2026-07-09T23:36:19Z",
   "deleted_at": "",
   "star_history": [
@@ -318,6 +321,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 338
+    },
+    {
+      "date": "2026-07-21",
       "stars": 338
     }
   ]

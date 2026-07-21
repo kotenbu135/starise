@@ -3,8 +3,8 @@
   "owner": "0chencc",
   "name": "clawgod",
   "full_name": "0chencc/clawgod",
-  "description": "This is NOT a third-party Claude Code client. ClawGod is a runtime patch applied on top of the official Claude Code. It works with any version — as Claude Code updates, the patch continues to take effect",
-  "description_ja": "これはサードパーティのClaude Codeクライアントでは「ない」。ClawGodは公式Claude Codeに上から適用されるランタイムパッチ。任意のバージョンで動作し、Claude Codeが更新されてもパッチは引き続き有効。",
+  "description": "ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with each version update.",
+  "description_ja": "",
   "url": "https://github.com/0Chencc/clawgod",
   "homepage_url": "http://clawgod.0chen.cc/",
   "language": "HTML",
@@ -25,13 +25,13 @@
     "vibe-coding",
     "windows"
   ],
-  "star_count": 1704,
-  "fork_count": 287,
+  "star_count": 1719,
+  "fork_count": 293,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-01T11:09:07Z",
-  "updated_at": "2026-07-19T19:01:00Z",
-  "pushed_at": "2026-07-19T09:19:14Z",
+  "updated_at": "2026-07-21T12:23:00Z",
+  "pushed_at": "2026-07-21T11:53:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -333,6 +333,10 @@
     {
       "date": "2026-07-19",
       "stars": 1704
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 1719
     }
   ]
 }

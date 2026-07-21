@@ -3,31 +3,33 @@
   "owner": "ultralytics",
   "name": "llm",
   "full_name": "ultralytics/llm",
-  "description": "Ultralytics LLM-related experiments",
+  "description": "Zero-dependency JavaScript AI chat widget with SSE streaming, search, page context, accessibility, and theming.",
   "description_ja": "",
   "url": "https://github.com/ultralytics/llm",
-  "homepage_url": "https://www.ultralytics.com",
+  "homepage_url": "https://chatjs-ultralytics.vercel.app/examples/web/demo",
   "language": "JavaScript",
   "license": "AGPL-3.0",
   "topics": [
-    "assistant",
-    "chat",
+    "accessibility",
+    "ai",
+    "chat-widget",
     "chatbot",
-    "chatgpt",
-    "gpt",
+    "frontend",
     "javascript",
+    "jsdelivr",
     "llm",
-    "streaming-chat",
-    "ultralytics",
-    "yolo"
+    "sse",
+    "streaming",
+    "web-search",
+    "zero-dependency"
   ],
   "star_count": 104,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-09T02:35:55Z",
-  "updated_at": "2026-07-17T11:51:39Z",
-  "pushed_at": "2026-07-17T11:51:26Z",
+  "updated_at": "2026-07-21T13:59:34Z",
+  "pushed_at": "2026-07-21T06:47:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -196,6 +198,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 104
+    },
+    {
+      "date": "2026-07-21",
       "stars": 104
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "smart-cloud",
   "name": "smart-cloud",
   "full_name": "smart-cloud/smart-cloud",
-  "description": "基于springboot \u0026\u0026 springcloud的脚手架，支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据mock、接口文档自动生成、请求幂等校验、接口日志\u0026\u0026sql日志切面打印、分表分库分布式事务、国际化语言、接口监控及服务监控等",
-  "description_ja": "Spring Boot \u0026 Spring Cloudベースのスキャフォールド。サービスの統合・分割デプロイ、APIの暗号化・復号・署名、ログデータのマスキング、APIモック、APIドキュメント自動生成、冪等チェック、API・SQLログのAOP出力、シャーディング・分散トランザクション、国際化、APIおよびサービス監視などに対応。",
+  "description": "一站式 Spring Cloud 微服务脚手架 —— 让微服务开发像搭积木一样简单。支持服务合并部署与拆分部署、接口加解密签名、日志数据 脱敏、接口数据mock、接口文档自动生成、请求幂等校验、接口日志\u0026\u0026sql日志切面打印、分表分库分布式事务、国际化语言、接口监控及服务监控等",
+  "description_ja": "",
   "url": "https://github.com/smart-cloud/smart-cloud",
   "homepage_url": "",
   "language": "Java",
@@ -33,7 +33,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-28T15:57:57Z",
-  "updated_at": "2026-07-13T20:16:26Z",
+  "updated_at": "2026-07-20T06:14:24Z",
   "pushed_at": "2026-06-12T12:25:56Z",
   "deleted_at": "",
   "star_history": [
@@ -335,6 +335,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 689
+    },
+    {
+      "date": "2026-07-21",
       "stars": 689
     }
   ]

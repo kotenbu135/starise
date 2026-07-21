@@ -3,8 +3,8 @@
   "owner": "michael-a-kuykendall",
   "name": "crabcamera",
   "full_name": "michael-a-kuykendall/crabcamera",
-  "description": "Professional desktop camera plugin for Tauri with WebRTC live preview, automated quality validation, and advanced hardware controls. Zero-config cross-platform solution for photography apps,   surveillance systems, and automated capture workflows.",
-  "description_ja": "WebRTCライブプレビュー、自動品質検証、高度なハードウェア制御を備えたTauri向けプロフェッショナルデスクトップカメラプラグイン。写真アプリ、監視システム、自動撮影ワークフロー向けのゼロ設定クロスプラットフォームソリューション。",
+  "description": "Professional desktop camera plugin for Tauri with automated quality validation and advanced hardware controls. Zero-config cross-platform solution for photography apps, surveillance systems, and automated capture workflows.",
+  "description_ja": "",
   "url": "https://github.com/Michael-A-Kuykendall/crabcamera",
   "homepage_url": "",
   "language": "Rust",
@@ -19,7 +19,6 @@
     "desktop",
     "hardware-controls",
     "image-capture",
-    "live-streaming",
     "mediafoundation",
     "photography",
     "professional-controls",
@@ -27,17 +26,15 @@
     "real-time",
     "rust",
     "surveillance",
-    "tauri",
-    "video-streaming",
-    "webrtc"
+    "tauri"
   ],
-  "star_count": 165,
+  "star_count": 166,
   "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-07T05:47:28Z",
-  "updated_at": "2026-07-05T10:49:49Z",
-  "pushed_at": "2026-06-05T17:22:13Z",
+  "updated_at": "2026-07-21T20:40:20Z",
+  "pushed_at": "2026-07-21T20:39:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -335,6 +332,10 @@
     {
       "date": "2026-07-19",
       "stars": 165
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 166
     }
   ]
 }

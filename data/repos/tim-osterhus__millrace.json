@@ -3,7 +3,7 @@
   "owner": "tim-osterhus",
   "name": "millrace",
   "full_name": "tim-osterhus/millrace",
-  "description": "A configurable runtime for creating governed agentic loops to reliably enable autonomous execution of complex multi-step workflows.",
+  "description": "A local, domain-agnostic workflow runtime that compiles decision graphs into durable, governed execution for agents, with recovery, operator control, and evidence-backed completion.",
   "description_ja": "",
   "url": "https://github.com/tim-osterhus/millrace",
   "homepage_url": "https://millrace.ai",
@@ -19,17 +19,18 @@
     "autonomous-agents",
     "governed-autonomy",
     "governed-loop",
+    "graph-engineering",
     "harness-engineering",
     "loop-engineering",
     "runtime-engine",
     "runtime-engineering"
   ],
   "star_count": 66,
-  "fork_count": 5,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T13:35:35Z",
-  "updated_at": "2026-07-19T11:21:37Z",
+  "updated_at": "2026-07-21T01:40:54Z",
   "pushed_at": "2026-06-15T18:13:54Z",
   "deleted_at": "",
   "star_history": [
@@ -155,6 +156,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 66
+    },
+    {
+      "date": "2026-07-21",
       "stars": 66
     }
   ]

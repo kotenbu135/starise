@@ -3,7 +3,7 @@
   "owner": "rashn",
   "name": "ruswitcher",
   "full_name": "rashn/ruswitcher",
-  "description": "Fix a wrong keyboard layout on macOS — by a tap or automatically, locally and over Screen Sharing. Menu-bar app, clipboard-free conversion, free \u0026 open-source.",
+  "description": "Fix a wrong keyboard layout on macOS — Latin, Cyrillic and Hebrew (RTL) — by a tap or automatically, locally and over Screen Sharing. Menu-bar app, clipboard-free, free \u0026 open-source.",
   "description_ja": "",
   "url": "https://github.com/rashn/RuSwitcher",
   "homepage_url": "https://github.com/rashn/RuSwitcher/releases/latest",
@@ -21,13 +21,13 @@
     "swift",
     "ukrainian"
   ],
-  "star_count": 110,
+  "star_count": 121,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-06T17:11:26Z",
-  "updated_at": "2026-07-19T08:04:48Z",
-  "pushed_at": "2026-07-19T08:04:39Z",
+  "updated_at": "2026-07-21T20:48:41Z",
+  "pushed_at": "2026-07-21T08:13:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -141,6 +141,10 @@
     {
       "date": "2026-07-19",
       "stars": 110
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 121
     }
   ]
 }

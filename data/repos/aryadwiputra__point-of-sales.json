@@ -3,8 +3,8 @@
   "owner": "aryadwiputra",
   "name": "point-of-sales",
   "full_name": "aryadwiputra/point-of-sales",
-  "description": "Aplikasi kasir (point of sales) yang dibuat menggunakan Laravel 12, Inertia 2, React dan Tailwind",
-  "description_ja": "Laravel 12・Inertia 2・React・Tailwind で作成された POS（販売時点管理）アプリ",
+  "description": "Aplikasi kasir (point of sales) yang dibuat menggunakan Laravel 13, Inertia 3, React 19 dan TailwindCSS",
+  "description_ja": "",
   "url": "https://github.com/aryadwiputra/point-of-sales",
   "homepage_url": "https://kasir.aryadwip.com",
   "language": "JavaScript",
@@ -26,11 +26,11 @@
     "web-kasir"
   ],
   "star_count": 256,
-  "fork_count": 112,
+  "fork_count": 114,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-13T08:23:13Z",
-  "updated_at": "2026-07-19T08:36:13Z",
+  "updated_at": "2026-07-20T03:15:52Z",
   "pushed_at": "2026-07-19T01:13:51Z",
   "deleted_at": "",
   "star_history": [
@@ -328,6 +328,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 256
+    },
+    {
+      "date": "2026-07-21",
       "stars": 256
     }
   ]

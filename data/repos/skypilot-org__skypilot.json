@@ -3,10 +3,10 @@
   "owner": "skypilot-org",
   "name": "skypilot",
   "full_name": "skypilot-org/skypilot",
-  "description": "Run, manage, and scale AI workloads on any AI infrastructure. Use one system to access \u0026 manage all AI compute (Kubernetes, Slurm, 20+ clouds, on-prem).",
-  "description_ja": "あらゆるAIインフラ上でAIワークロードを実行・管理・スケールするためのシステム。Kubernetes、Slurm、20以上のクラウド、オンプレミスのすべてのAIコンピュートに対応した統一管理システム。",
+  "description": "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.",
+  "description_ja": "",
   "url": "https://github.com/skypilot-org/skypilot",
-  "homepage_url": "https://docs.skypilot.co/",
+  "homepage_url": "https://skypilot.ai/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -30,13 +30,13 @@
     "spot-instances",
     "tpu"
   ],
-  "star_count": 10315,
-  "fork_count": 1138,
+  "star_count": 10332,
+  "fork_count": 1140,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-11T23:32:15Z",
-  "updated_at": "2026-07-19T16:15:04Z",
-  "pushed_at": "2026-07-18T05:41:31Z",
+  "updated_at": "2026-07-21T20:59:04Z",
+  "pushed_at": "2026-07-21T18:17:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -338,6 +338,10 @@
     {
       "date": "2026-07-19",
       "stars": 10315
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 10332
     }
   ]
 }

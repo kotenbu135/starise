@@ -3,7 +3,7 @@
   "owner": "jm00nj",
   "name": "phantom-evasion-loader",
   "full_name": "jm00nj/phantom-evasion-loader",
-  "description": "Phantom-Evasion-Loader is a standalone, pure x64 Assembly injection engine engineered to minimize the detection surface of modern EDR/XDR solutions and Kernel-level monitors like Falco (eBPF). It leverages advanced techniques such as SROP and Zero-Copy Injection to deliver payloads as a ghost in the machine.",
+  "description": "Phantom-Evasion-Loader is a standalone, pure x64 Assembly injection engine engineered to minimize the detection surface of modern EDR/XDR solutions and Kernel-level monitors like Falco (eBPF). It leverages advanced techniques such as SROP and Direct Cross-Memory Injection to deliver payloads as a ghost in the machine.",
   "description_ja": "",
   "url": "https://github.com/JM00NJ/Phantom-Evasion-Loader",
   "homepage_url": "https://netacoding.com/",
@@ -19,13 +19,13 @@
     "redteaming",
     "sigreturn-oriented-programming"
   ],
-  "star_count": 108,
+  "star_count": 109,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-13T03:59:13Z",
-  "updated_at": "2026-07-13T12:12:17Z",
-  "pushed_at": "2026-07-13T07:19:24Z",
+  "updated_at": "2026-07-20T13:49:29Z",
+  "pushed_at": "2026-07-20T13:48:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -215,6 +215,10 @@
     {
       "date": "2026-07-19",
       "stars": 108
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 109
     }
   ]
 }

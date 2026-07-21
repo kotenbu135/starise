@@ -3,20 +3,35 @@
   "owner": "nvidia",
   "name": "skills",
   "full_name": "nvidia/skills",
-  "description": "AI agent skills published by NVIDIA",
-  "description_ja": "NVIDIAが公開しているAIエージェントスキル",
+  "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
+  "description_ja": "",
   "url": "https://github.com/NVIDIA/skills",
   "homepage_url": "https://docs.nvidia.com/skills",
   "language": "Python",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 2593,
-  "fork_count": 291,
+  "topics": [
+    "agent-skills",
+    "agentic-ai",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "cuda",
+    "developer-tools",
+    "llm",
+    "omniverse",
+    "physical-ai",
+    "rag",
+    "robotics",
+    "simulation"
+  ],
+  "star_count": 2620,
+  "fork_count": 296,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-25T21:54:05Z",
-  "updated_at": "2026-07-19T19:13:24Z",
-  "pushed_at": "2026-07-19T19:31:08Z",
+  "updated_at": "2026-07-21T20:56:43Z",
+  "pushed_at": "2026-07-21T20:56:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -318,6 +333,10 @@
     {
       "date": "2026-07-19",
       "stars": 2593
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 2620
     }
   ]
 }

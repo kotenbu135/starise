@@ -3,33 +3,33 @@
   "owner": "ultralytics",
   "name": "template",
   "full_name": "ultralytics/template",
-  "description": "Ultralytics Python Project Template",
-  "description_ja": "UltralyticsのPythonプロジェクトテンプレート",
+  "description": "Ultralytics Python package template with pytest and unittest examples, CLI, CI matrix, coverage, formatting, and automated PyPI releases.",
+  "description_ja": "",
   "url": "https://github.com/ultralytics/template",
   "homepage_url": "https://ultralytics.com",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
-    "ai",
-    "best-practices",
-    "computer-vision",
-    "hub",
-    "machine-learning",
-    "ml",
+    "ci-cd",
+    "cli",
+    "code-coverage",
+    "code-quality",
+    "github-actions",
+    "project-template",
+    "pypi",
+    "pytest",
     "python",
+    "python-package",
     "ultralytics",
-    "yolo",
-    "yolo11",
-    "yolov5",
-    "yolov8"
+    "unittest"
   ],
   "star_count": 74,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-31T18:36:23Z",
-  "updated_at": "2026-07-17T11:37:10Z",
-  "pushed_at": "2026-07-17T11:36:56Z",
+  "updated_at": "2026-07-21T13:57:37Z",
+  "pushed_at": "2026-07-21T10:50:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -326,6 +326,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 74
+    },
+    {
+      "date": "2026-07-21",
       "stars": 74
     }
   ]

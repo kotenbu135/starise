@@ -3,7 +3,7 @@
   "owner": "batorrent-app",
   "name": "batorrent",
   "full_name": "batorrent-app/batorrent",
-  "description": "A lightweight BitTorrent client built with C++, Qt 6, and libtorrent-rasterbar.",
+  "description": "A modern, open-source BitTorrent client focused on privacy, performance, and clarity. No ads, no telemetry.",
   "description_ja": "",
   "url": "https://github.com/BATorrent-app/BATorrent",
   "homepage_url": "http://batorrent.com/",
@@ -28,13 +28,13 @@
     "torrent-downloader",
     "webui"
   ],
-  "star_count": 106,
-  "fork_count": 2,
+  "star_count": 112,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T04:11:02Z",
-  "updated_at": "2026-07-19T09:48:30Z",
-  "pushed_at": "2026-07-19T18:05:35Z",
+  "updated_at": "2026-07-21T19:58:07Z",
+  "pushed_at": "2026-07-21T19:57:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -244,6 +244,10 @@
     {
       "date": "2026-07-19",
       "stars": 106
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 112
     }
   ]
 }

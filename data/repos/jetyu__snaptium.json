@@ -3,29 +3,26 @@
   "owner": "jetyu",
   "name": "snaptium",
   "full_name": "jetyu/snaptium",
-  "description": "A modern multi-platform note-taking application built with Electron, featuring local data storage for complete security and control.",
-  "description_ja": "Electron で構築されたモダンなマルチプラットフォームノートアプリ。完全なセキュリティとコントロールのためのローカルデータストレージを搭載。",
+  "description": "A modern markdown AI note-taking application",
+  "description_ja": "",
   "url": "https://github.com/jetyu/Snaptium",
-  "homepage_url": "",
+  "homepage_url": "https://snaptium.com/",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
-    "ai-assistant",
+    "agent",
     "ai-note-taking",
     "aws-s3",
-    "codemirror",
+    "chatbot",
     "electron",
-    "knowledge-management",
     "lancedb",
-    "local-first",
+    "llm",
     "markdown",
-    "multi-platform",
+    "mcp",
     "note",
-    "note-taking",
     "notebook",
     "oss",
     "rag",
-    "retrieval-augmented-generation",
     "webdav"
   ],
   "star_count": 54,
@@ -33,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-21T09:56:11Z",
-  "updated_at": "2026-07-16T13:43:58Z",
-  "pushed_at": "2026-07-19T14:55:54Z",
+  "updated_at": "2026-07-20T07:27:31Z",
+  "pushed_at": "2026-07-20T19:14:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -335,6 +332,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 54
+    },
+    {
+      "date": "2026-07-21",
       "stars": 54
     }
   ]

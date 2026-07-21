@@ -3,8 +3,8 @@
   "owner": "1jehuang",
   "name": "jcode",
   "full_name": "1jehuang/jcode",
-  "description": "Coding Agent Harness",
-  "description_ja": "コーディングエージェントハーネス",
+  "description": "The most intelligent agent harness for code",
+  "description_ja": "",
   "url": "https://github.com/1jehuang/jcode",
   "homepage_url": "https://jcode.sh",
   "language": "Rust",
@@ -23,13 +23,13 @@
     "terminal",
     "tui"
   ],
-  "star_count": 8812,
-  "fork_count": 1023,
+  "star_count": 10223,
+  "fork_count": 1125,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-05T09:43:36Z",
-  "updated_at": "2026-07-19T19:17:37Z",
-  "pushed_at": "2026-07-19T10:42:16Z",
+  "updated_at": "2026-07-21T19:49:18Z",
+  "pushed_at": "2026-07-21T19:19:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -331,6 +331,10 @@
     {
       "date": "2026-07-19",
       "stars": 8812
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 10223
     }
   ]
 }

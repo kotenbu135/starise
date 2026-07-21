@@ -9,14 +9,34 @@
   "homepage_url": "",
   "language": "C++",
   "license": "MIT",
-  "topics": [],
-  "star_count": 52,
+  "topics": [
+    "bare-metal",
+    "bump-allocator",
+    "c23",
+    "containers",
+    "cortex-m",
+    "cpp26",
+    "data-structures",
+    "embedded",
+    "embedded-linux",
+    "embedded-systems",
+    "firmware",
+    "freestanding",
+    "lock-free",
+    "mcu",
+    "memory-management",
+    "mpu",
+    "ring-buffer",
+    "rtos",
+    "static-allocation"
+  ],
+  "star_count": 53,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-27T15:47:14Z",
-  "updated_at": "2026-07-19T18:33:31Z",
-  "pushed_at": "2026-07-16T17:14:44Z",
+  "updated_at": "2026-07-20T22:28:06Z",
+  "pushed_at": "2026-07-20T22:28:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +98,10 @@
     {
       "date": "2026-07-19",
       "stars": 52
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 53
     }
   ]
 }

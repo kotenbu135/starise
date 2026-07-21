@@ -3,7 +3,7 @@
   "owner": "gabelul",
   "name": "stitch-kit",
   "full_name": "gabelul/stitch-kit",
-  "description": "Design superpowers for AI coding agents. 35 skills, 5 layers, 7 framework targets. Ideation, batch generation, design systems, iteration loops, and production conversion via Google Stitch MCP. Claude Code plugin + Codex CLI agent. The design intelligence layer your agent was missing.",
+  "description": "Your coding agent designs terrible UI. stitch-kit wires it into Google Stitch MCP and teaches it the whole pipeline — ideation, screen generation, design systems, production components.",
   "description_ja": "",
   "url": "https://github.com/gabelul/stitch-kit",
   "homepage_url": "https://booplex.com/projects/stitch-kit-design-intelligence-for-ai-agents",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-18T17:02:56Z",
-  "updated_at": "2026-07-04T19:09:18Z",
-  "pushed_at": "2026-06-09T08:24:26Z",
+  "updated_at": "2026-07-20T20:50:57Z",
+  "pushed_at": "2026-07-20T20:50:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -246,6 +246,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 35
+    },
+    {
+      "date": "2026-07-21",
       "stars": 35
     }
   ]

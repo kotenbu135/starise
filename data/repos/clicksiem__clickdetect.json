@@ -3,8 +3,8 @@
   "owner": "clicksiem",
   "name": "clickdetect",
   "full_name": "clicksiem/clickdetect",
-  "description": "Clickdetect - generic and no vendor lock-in threshold based detection",
-  "description_ja": "Clickdetect - ベンダーロックインなしの汎用しきい値ベース検出ツール",
+  "description": "ClickDetect is a vendor-agnostic alerting framework for threshold-based detection. It works with ClickHouse, OpenSearch/Elasticsearch, VictoriaLogs, PostgreSQL, DuckDB or any custom data source through a flexible integration layer.",
+  "description_ja": "",
   "url": "https://github.com/clicksiem/clickdetect",
   "homepage_url": "https://clickdetect.souzo.me",
   "language": "Python",
@@ -20,13 +20,13 @@
     "siem",
     "wazuh"
   ],
-  "star_count": 46,
+  "star_count": 48,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T00:58:32Z",
-  "updated_at": "2026-07-19T16:13:38Z",
-  "pushed_at": "2026-07-19T16:14:57Z",
+  "updated_at": "2026-07-21T17:41:32Z",
+  "pushed_at": "2026-07-21T17:38:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -324,6 +324,10 @@
     {
       "date": "2026-07-19",
       "stars": 46
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 48
     }
   ]
 }

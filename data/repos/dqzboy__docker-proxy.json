@@ -3,7 +3,7 @@
   "owner": "dqzboy",
   "name": "docker-proxy",
   "full_name": "dqzboy/docker-proxy",
-  "description": "🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\\管理服务。支持免服务器部署到 ClawCloud\\Render\\Koyeb",
+  "description": "🔥 🔥 🔥 自建 Docker 镜像加速与管理服务，支持 Docker、K8s、Quay、GHCR、MCR、NVCR 等上游一键部署，并提供 Web 后台进行代理管理。",
   "description_ja": "",
   "url": "https://github.com/dqzboy/Docker-Proxy",
   "homepage_url": "https://dqzboy.github.io/docs/",
@@ -14,13 +14,13 @@
     "docker-registry",
     "gcr-registry"
   ],
-  "star_count": 4313,
+  "star_count": 4320,
   "fork_count": 599,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-08T14:06:48Z",
-  "updated_at": "2026-07-19T16:00:40Z",
-  "pushed_at": "2026-06-27T10:51:39Z",
+  "updated_at": "2026-07-21T15:54:46Z",
+  "pushed_at": "2026-07-21T13:55:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -186,6 +186,10 @@
     {
       "date": "2026-07-19",
       "stars": 4313
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 4320
     }
   ]
 }

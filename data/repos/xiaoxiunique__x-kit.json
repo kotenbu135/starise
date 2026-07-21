@@ -3,25 +3,29 @@
   "owner": "xiaoxiunique",
   "name": "x-kit",
   "full_name": "xiaoxiunique/x-kit",
-  "description": "一个用于抓取和分析 X (Twitter) 用户数据和推文的工具。",
-  "description_ja": "X（Twitter）のユーザーデータとツイートをスクレイピング・分析するためのツール。",
+  "description": "Pure-Python protocol tools and research notes for X.com, with VibeLoft Twitter account datasets",
+  "description_ja": "",
   "url": "https://github.com/xiaoxiunique/x-kit",
   "homepage_url": "",
-  "language": "TypeScript",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "crawler",
     "kols",
+    "protocol",
+    "python",
     "twitter",
-    "x"
+    "vibeloft",
+    "x",
+    "x-com"
   ],
   "star_count": 935,
   "fork_count": 147,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-16T03:05:01Z",
-  "updated_at": "2026-07-09T09:46:48Z",
-  "pushed_at": "2026-05-19T23:21:59Z",
+  "updated_at": "2026-07-21T21:20:17Z",
+  "pushed_at": "2026-07-21T21:20:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -322,6 +326,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 935
+    },
+    {
+      "date": "2026-07-21",
       "stars": 935
     }
   ]

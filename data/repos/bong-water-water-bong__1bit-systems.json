@@ -3,7 +3,7 @@
   "owner": "bong-water-water-bong",
   "name": "1bit-systems",
   "full_name": "bong-water-water-bong/1bit-systems",
-  "description": "398 KB single binary · NPU 69 tok/s · GPU 426 tok/s ternary · GGUF/ONNX/Q4NX. NPU + GPU + CPU. Zero Python. MIT.",
+  "description": "Model-agnostic NPU+GPU+CPU inference engine for AMD Strix Halo. FastFlowLM fully reverse-engineered and replaced with a native open-source XDNA 2 stack — zero proprietary code. GGUF/ONNX/1BP ternary (TQ2 2-bit). Zero Python at runtime. MIT.",
   "description_ja": "",
   "url": "https://github.com/bong-water-water-bong/1bit-systems",
   "homepage_url": "https://1bit.systems",
@@ -35,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-19T20:11:06Z",
-  "updated_at": "2026-07-19T18:55:19Z",
-  "pushed_at": "2026-07-19T18:42:36Z",
+  "updated_at": "2026-07-21T12:54:21Z",
+  "pushed_at": "2026-07-21T16:46:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -293,6 +293,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 13
+    },
+    {
+      "date": "2026-07-21",
       "stars": 13
     }
   ]

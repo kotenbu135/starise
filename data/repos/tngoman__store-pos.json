@@ -3,31 +3,34 @@
   "owner": "tngoman",
   "name": "store-pos",
   "full_name": "tngoman/store-pos",
-  "description": "Point of Sale Desktop App built with Electron",
-  "description_ja": "Electron で構築したデスクトップ向け POS（販売時点管理）アプリ",
+  "description": "Modern Electron Point of Sale — React till, Express + SQLite API, LAN multi-terminal, catalog/photos, and Windows installer.",
+  "description_ja": "",
   "url": "https://github.com/tngoman/Store-POS",
   "homepage_url": "",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "",
   "topics": [
-    "electron-app",
+    "cash",
+    "desktop-app",
+    "electron",
     "express",
-    "expressjs",
-    "nodeapp",
-    "nodejs",
-    "nodejsexpress",
+    "lan",
     "point-of-sale",
-    "pointofsale",
-    "pointofsales",
-    "pos"
+    "pos",
+    "react",
+    "register",
+    "retail",
+    "sqlite",
+    "typescript",
+    "vite"
   ],
   "star_count": 1011,
-  "fork_count": 464,
+  "fork_count": 465,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-02-21T21:11:27Z",
-  "updated_at": "2026-07-13T18:51:41Z",
-  "pushed_at": "2026-02-02T18:44:09Z",
+  "updated_at": "2026-07-20T23:01:24Z",
+  "pushed_at": "2026-07-21T16:17:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -328,6 +331,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 1011
+    },
+    {
+      "date": "2026-07-21",
       "stars": 1011
     }
   ]

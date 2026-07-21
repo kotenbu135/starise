@@ -3,7 +3,7 @@
   "owner": "jigjoy-ai",
   "name": "baro",
   "full_name": "jigjoy-ai/baro",
-  "description": "CLI that turns a goal into a pull request. Parallel AI coding agents on a Mozaik event bus.",
+  "description": "A CLI that turns a goal into a pull request - and a sandbox for testing concurrent AI coding agents on the Mozaik runtime.",
   "description_ja": "",
   "url": "https://github.com/jigjoy-ai/baro",
   "homepage_url": "https://baro.rs",
@@ -16,20 +16,20 @@
     "claude-code",
     "cli",
     "coding-agent",
+    "concurrent-agents",
     "mozaik",
     "mozaik-native",
     "multi-agent-system",
-    "parallel-agents",
     "pull-request-automation",
     "reactive-agents"
   ],
-  "star_count": 106,
+  "star_count": 107,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T12:45:48Z",
-  "updated_at": "2026-07-19T17:57:59Z",
-  "pushed_at": "2026-07-18T17:32:52Z",
+  "updated_at": "2026-07-21T14:38:17Z",
+  "pushed_at": "2026-07-21T18:39:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -243,6 +243,10 @@
     {
       "date": "2026-07-19",
       "stars": 106
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 107
     }
   ]
 }

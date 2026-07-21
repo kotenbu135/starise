@@ -6,7 +6,7 @@
   "description": "Config-driven engine that turns JSON into production-grade AI agents. Multi-agent orchestration, 12+ LLM providers, MCP/A2A protocols, RAG, persistent memory, and enterprise compliance (EU AI Act, GDPR, HIPAA). Built on Quarkus.",
   "description_ja": "JSONから本番品質のAIエージェントを生成するConfig駆動エンジン。マルチエージェントオーケストレーション、12以上のLLMプロバイダ、MCP/A2Aプロトコル、RAG、永続メモリ、エンタープライズコンプライアンス（EU AI Act、GDPR、HIPAA）に対応。Quarkus上に構築。",
   "url": "https://github.com/labsai/EDDI",
-  "homepage_url": "https://eddi.labs.ai",
+  "homepage_url": "https://eddi.technology",
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [
@@ -34,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-10-13T13:29:22Z",
-  "updated_at": "2026-07-18T12:48:14Z",
-  "pushed_at": "2026-07-16T07:41:08Z",
+  "updated_at": "2026-07-21T14:55:44Z",
+  "pushed_at": "2026-07-21T15:46:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -336,6 +336,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 363
+    },
+    {
+      "date": "2026-07-21",
       "stars": 363
     }
   ]

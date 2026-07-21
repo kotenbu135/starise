@@ -10,6 +10,7 @@
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "agent",
     "ai",
     "ai-infra",
     "ai-memory-bank",
@@ -17,20 +18,20 @@
     "cloud-native",
     "lance",
     "lancedb",
-    "model-deployment",
     "model-training",
     "rust",
     "s3",
     "s3-files",
+    "sandbox-environment",
     "vllm-plugins"
   ],
-  "star_count": 871,
+  "star_count": 872,
   "fork_count": 97,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-27T06:24:21Z",
-  "updated_at": "2026-07-17T15:29:41Z",
-  "pushed_at": "2026-07-19T02:42:09Z",
+  "updated_at": "2026-07-21T10:01:08Z",
+  "pushed_at": "2026-07-21T10:00:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -332,6 +333,10 @@
     {
       "date": "2026-07-19",
       "stars": 871
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 872
     }
   ]
 }

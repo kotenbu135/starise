@@ -3,34 +3,37 @@
   "owner": "ultralytics",
   "name": "yolov5",
   "full_name": "ultralytics/yolov5",
-  "description": "Ultralytics YOLOv5 in PyTorch \u003e ONNX \u003e CoreML \u003e TFLite",
+  "description": "Ultralytics YOLOv5 in PyTorch for object detection, instance segmentation, classification, training, and export.",
   "description_ja": "",
   "url": "https://github.com/ultralytics/yolov5",
-  "homepage_url": "https://docs.ultralytics.com",
+  "homepage_url": "https://docs.ultralytics.com/yolov5/",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
+    "computer-vision",
     "coreml",
     "deep-learning",
-    "ios",
-    "machine-learning",
-    "ml",
+    "image-classification",
+    "inference",
+    "instance-segmentation",
+    "model-export",
+    "model-training",
     "object-detection",
     "onnx",
     "pytorch",
+    "tensorrt",
     "tflite",
     "ultralytics",
     "yolo",
-    "yolov3",
     "yolov5"
   ],
-  "star_count": 57701,
-  "fork_count": 17470,
+  "star_count": 57710,
+  "fork_count": 17471,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-18T03:45:11Z",
-  "updated_at": "2026-07-19T18:21:19Z",
-  "pushed_at": "2026-07-17T10:40:22Z",
+  "updated_at": "2026-07-21T20:55:36Z",
+  "pushed_at": "2026-07-21T10:14:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -340,6 +343,10 @@
     {
       "date": "2026-07-19",
       "stars": 57701
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 57710
     }
   ]
 }

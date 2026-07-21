@@ -3,26 +3,30 @@
   "owner": "ifocus9",
   "name": "poptrans",
   "full_name": "ifocus9/poptrans",
-  "description": "一款 Windows 桌面翻译工具。选中文本或框选屏幕区域，按下快捷键即可弹出翻译结果。基于腾讯 Hy-MT2-1.8B 离线翻译与 RapidOCR 引擎，支持中英文互译、OCR 截图翻译、自定义快捷键、深色主题 UI。",
+  "description": "PopTrans — Windows 本地离线翻译工具。选中文本 / OCR 截图后一键翻译，基于 Go + Wails + llama.cpp 纯 CPU 推理，无需 GPU。",
   "description_ja": "",
   "url": "https://github.com/ifocus9/PopTrans",
   "homepage_url": "",
-  "language": "Python",
+  "language": "Go",
   "license": "MIT",
   "topics": [
+    "go",
+    "hy-mt2",
     "llama-cpp",
     "ocr",
     "offline",
+    "rapidocr",
     "translation",
+    "wails",
     "windows-tools"
   ],
-  "star_count": 47,
+  "star_count": 55,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-25T07:46:22Z",
-  "updated_at": "2026-07-19T15:11:35Z",
-  "pushed_at": "2026-07-17T06:40:13Z",
+  "updated_at": "2026-07-21T10:15:43Z",
+  "pushed_at": "2026-07-20T09:23:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +36,10 @@
     {
       "date": "2026-07-19",
       "stars": 47
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 55
     }
   ]
 }

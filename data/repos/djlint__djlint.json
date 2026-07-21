@@ -3,39 +3,37 @@
   "owner": "djlint",
   "name": "djlint",
   "full_name": "djlint/djlint",
-  "description": "✨ HTML Template Linter and Formatter. Django - Jinja - Nunjucks - Handlebars - GoLang",
-  "description_ja": "✨ HTMLテンプレートのリンター＆フォーマッター。Django・Jinja・Nunjucks・Handlebars・GoLangに対応。",
+  "description": "✨ HTML Template Linter and Formatter. Django, Jinja, Askama, Tera, Liquid, Nunjucks, Twig, Handlebars, Mustache, GoLang, Angular",
+  "description_ja": "",
   "url": "https://github.com/djlint/djLint",
   "homepage_url": "https://djLint.com",
   "language": "Python",
   "license": "GPL-3.0",
   "topics": [
+    "angular",
+    "askama",
     "django",
-    "django-templates",
+    "formatter",
     "golang",
-    "golang-template",
-    "handlebars-js",
-    "handlebars-templates",
+    "handlebars",
     "html",
-    "html-linter",
-    "html-templates",
+    "jinja",
     "jinja2",
-    "jinja2-templates",
     "linter",
-    "mustache-js",
+    "liquid",
+    "mustache",
     "nunjucks",
-    "nunjucks-templates",
     "python",
-    "twig",
-    "twig-templates"
+    "tera",
+    "twig"
   ],
   "star_count": 938,
-  "fork_count": 117,
+  "fork_count": 118,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-07-12T18:23:55Z",
-  "updated_at": "2026-07-19T18:47:37Z",
-  "pushed_at": "2026-07-19T18:47:34Z",
+  "updated_at": "2026-07-21T19:29:31Z",
+  "pushed_at": "2026-07-21T19:28:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -336,6 +334,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 938
+    },
+    {
+      "date": "2026-07-21",
       "stars": 938
     }
   ]

@@ -3,28 +3,27 @@
   "owner": "giladfuchs",
   "name": "next-ecommerce",
   "full_name": "giladfuchs/next-ecommerce",
-  "description": "Free, Modern, accessible monorepo e-commerce platform built with Next.js 16. Includes two standalone implementations: Payload CMS–based and Express with a custom admin. Features a dynamic storefront and production-ready commerce flow",
-  "description_ja": "Next.js 16で構築された無料・モダン・アクセシブルなモノレポECプラットフォーム。Payload CMSベースとカスタム管理画面付きExpressの2つのスタンドアロン実装を含む。動的なストアフロントと本番対応のコマースフローを提供",
+  "description": "Free, modern, and accessible e-commerce platform built with Next.js 16 and Payload CMS. Features a dynamic storefront, flexible content management, and a production-ready commerce flow.",
+  "description_ja": "",
   "url": "https://github.com/giladfuchs/next-ecommerce",
   "homepage_url": "https://payload.url-link.org",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "ecommerce",
-    "express",
     "nextjs",
     "payloadcms",
     "postgresql",
     "storefront",
-    "typescipt"
+    "typescript"
   ],
   "star_count": 82,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-19T15:59:13Z",
-  "updated_at": "2026-07-19T02:02:01Z",
-  "pushed_at": "2026-06-19T09:57:14Z",
+  "updated_at": "2026-07-21T14:47:22Z",
+  "pushed_at": "2026-07-21T12:30:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -321,6 +320,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 82
+    },
+    {
+      "date": "2026-07-21",
       "stars": 82
     }
   ]

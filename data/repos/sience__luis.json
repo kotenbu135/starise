@@ -3,8 +3,8 @@
   "owner": "sience",
   "name": "luis",
   "full_name": "sience/luis",
-  "description": "LUIS (Love UI System) is a flexible graphical user interface (GUI) framework built on top of the Löve2D game framework. LUIS provides developers with the tools to create dynamic, grid-centric, layered user interfaces for games and applications.",
-  "description_ja": "LUIS（Love UI System）は Löve2D ゲームフレームワーク上に構築された柔軟な GUI フレームワークです。ゲームやアプリ向けに動的・グリッド中心・レイヤー型のユーザーインターフェースを作成するためのツールを開発者に提供します。",
+  "description": "LUIS (Love2D UI System) is a flexible graphical user interface (GUI) framework built on top of the Löve2D game framework. LUIS provides developers with the tools to create dynamic, grid-centric, layered user interfaces for games and applications.",
+  "description_ja": "",
   "url": "https://github.com/SiENcE/luis",
   "homepage_url": "",
   "language": "Lua",
@@ -30,7 +30,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-25T13:35:20Z",
-  "updated_at": "2026-07-10T18:19:17Z",
+  "updated_at": "2026-07-21T09:45:47Z",
   "pushed_at": "2026-06-21T11:10:17Z",
   "deleted_at": "",
   "star_history": [
@@ -328,6 +328,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 118
+    },
+    {
+      "date": "2026-07-21",
       "stars": 118
     }
   ]

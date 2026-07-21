@@ -3,39 +3,37 @@
   "owner": "ultralytics",
   "name": "notebooks",
   "full_name": "ultralytics/notebooks",
-  "description": "Ultralytics Notebooks 🚀",
-  "description_ja": "Ultralytics Notebooks 🚀",
+  "description": "Ultralytics YOLO tutorials for Colab, Kaggle, and SageMaker covering training, inference, export, and vision tasks.",
+  "description_ja": "",
   "url": "https://github.com/ultralytics/notebooks",
   "homepage_url": "https://docs.ultralytics.com",
   "language": "Jupyter Notebook",
   "license": "AGPL-3.0",
   "topics": [
     "computer-vision",
-    "datasets",
-    "deep-learning",
     "examples",
-    "examples-python",
-    "instance-segmentation",
-    "llm",
-    "manufacturing",
-    "medical-imaging",
-    "ml",
-    "notebooks",
-    "notebooks-jupyter",
+    "google-colab",
+    "jupyter-notebook",
+    "kaggle",
+    "model-export",
+    "model-training",
     "object-detection",
     "object-tracking",
+    "pose-estimation",
+    "sagemaker",
+    "segmentation",
+    "tutorials",
     "ultralytics",
     "yolo",
-    "yolo11",
-    "youtube"
+    "yolo11"
   ],
   "star_count": 227,
   "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-26T15:48:27Z",
-  "updated_at": "2026-07-19T09:29:16Z",
-  "pushed_at": "2026-07-17T12:07:34Z",
+  "updated_at": "2026-07-21T13:56:54Z",
+  "pushed_at": "2026-07-21T09:18:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -332,6 +330,10 @@
     },
     {
       "date": "2026-07-19",
+      "stars": 227
+    },
+    {
+      "date": "2026-07-21",
       "stars": 227
     }
   ]
