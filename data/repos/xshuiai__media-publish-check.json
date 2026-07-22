@@ -3,10 +3,10 @@
   "owner": "xshuiai",
   "name": "media-publish-check",
   "full_name": "xshuiai/media-publish-check",
-  "description": "Pre-publish review and platform adaptation for Douyin, Xiaohongshu, Weixin Video Accounts, and Kuaishou.",
+  "description": "自媒体发布审核 Skill｜Pre-publish audit for Douyin, Xiaohongshu, Weixin Video Accounts \u0026 Kuaishou.",
   "description_ja": "",
   "url": "https://github.com/XshuiAi/media-publish-check",
-  "homepage_url": "",
+  "homepage_url": "https://xshuiai.github.io/media-publish-check/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -15,19 +15,28 @@
     "china-social-media",
     "claude-code",
     "codex",
+    "content-audit",
     "content-compliance",
+    "content-localization",
+    "content-moderation",
+    "content-review",
+    "creator-compliance",
     "creator-tools",
     "douyin",
     "kuaishou",
+    "livestream-commerce",
+    "overseas-creators",
+    "short-video",
+    "weixin-video-accounts",
     "xiaohongshu"
   ],
-  "star_count": 34,
+  "star_count": 35,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-14T06:12:43Z",
-  "updated_at": "2026-07-21T10:35:12Z",
-  "pushed_at": "2026-07-18T10:00:05Z",
+  "updated_at": "2026-07-22T15:00:58Z",
+  "pushed_at": "2026-07-22T06:20:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +54,10 @@
     {
       "date": "2026-07-21",
       "stars": 34
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 35
     }
   ]
 }

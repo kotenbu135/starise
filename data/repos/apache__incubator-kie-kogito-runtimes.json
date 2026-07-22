@@ -3,8 +3,8 @@
   "owner": "apache",
   "name": "incubator-kie-kogito-runtimes",
   "full_name": "apache/incubator-kie-kogito-runtimes",
-  "description": "Kogito Runtimes is a cloud-native business automation technology for building cloud-ready business applications",
-  "description_ja": "Kogito Runtimesはクラウド対応ビジネスアプリケーション構築のためのクラウドネイティブなビジネス自動化技術です。",
+  "description": "Kogito Runtimes has moved to https://github.com/apache/incubator-kie-drools. This repository is archived. Kogito Runtimes is a cloud-native business automation technology for building cloud-ready business applications",
+  "description_ja": "",
   "url": "https://github.com/apache/incubator-kie-kogito-runtimes",
   "homepage_url": "https://kie.apache.org",
   "language": "Java",
@@ -30,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-03-07T08:49:09Z",
-  "updated_at": "2026-07-21T16:35:38Z",
-  "pushed_at": "2026-07-21T16:33:31Z",
+  "updated_at": "2026-07-22T06:02:15Z",
+  "pushed_at": "2026-07-22T06:01:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -336,6 +336,10 @@
     },
     {
       "date": "2026-07-21",
+      "stars": 612
+    },
+    {
+      "date": "2026-07-22",
       "stars": 612
     }
   ]

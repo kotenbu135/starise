@@ -7,7 +7,7 @@
   "description_ja": "CPlay2Air / Carlinkitワイヤレスリバースエンジニアリング。",
   "url": "https://github.com/ludwig-v/wireless-carplay-dongle-reverse-engineering",
   "homepage_url": "",
-  "language": "Shell",
+  "language": "C",
   "license": "GPL-3.0",
   "topics": [
     "apple",
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-03T20:38:21Z",
-  "updated_at": "2026-07-21T11:55:03Z",
-  "pushed_at": "2026-07-11T20:54:35Z",
+  "updated_at": "2026-07-22T15:22:06Z",
+  "pushed_at": "2026-07-22T15:20:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -324,6 +324,10 @@
     },
     {
       "date": "2026-07-21",
+      "stars": 896
+    },
+    {
+      "date": "2026-07-22",
       "stars": 896
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "cynative",
   "name": "cynative",
   "full_name": "cynative/cynative",
-  "description": "Deep cybersecurity research agent for your cloud, code and runtime - ask your infrastructure anything. Read-only, sandboxed.",
+  "description": "Deep research for your infra. Cynative runs frontier models across your code, cloud and runtime - reasoning through GitHub, GitLab, AWS, GCP, Azure and Kubernetes as one system - and comes back with verified answers.",
   "description_ja": "",
   "url": "https://github.com/cynative/cynative",
   "homepage_url": "https://cynative.com",
@@ -31,13 +31,13 @@
     "trust-boundary",
     "vulnerability-management"
   ],
-  "star_count": 139,
+  "star_count": 140,
   "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-24T18:06:26Z",
-  "updated_at": "2026-07-21T18:25:34Z",
-  "pushed_at": "2026-07-21T19:56:30Z",
+  "updated_at": "2026-07-22T17:39:40Z",
+  "pushed_at": "2026-07-22T17:39:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -67,6 +67,10 @@
     {
       "date": "2026-07-21",
       "stars": 139
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 140
     }
   ]
 }

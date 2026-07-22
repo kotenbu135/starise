@@ -3,20 +3,29 @@
   "owner": "klotzbrocken",
   "name": "retromac",
   "full_name": "klotzbrocken/retromac",
-  "description": "CRT shader overlay for macOS — retro TV effects, themed docks, and more",
+  "description": "Turn your Mac into a retro computer: real-time CRT/retro shaders and classic desktop themes (Mac OS 9, Windows XP, BeOS and more), as a macOS menu-bar app.",
   "description_ja": "",
   "url": "https://github.com/klotzbrocken/RetroMac",
-  "homepage_url": "",
+  "homepage_url": "https://myretromac.app",
   "language": "Swift",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 68,
+  "topics": [
+    "crt-shader",
+    "macos",
+    "menubar-app",
+    "metal",
+    "retro",
+    "screencapturekit",
+    "skeuomorphism",
+    "swift"
+  ],
+  "star_count": 69,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-22T10:18:58Z",
-  "updated_at": "2026-07-21T10:50:40Z",
-  "pushed_at": "2026-07-18T07:19:28Z",
+  "updated_at": "2026-07-22T09:39:28Z",
+  "pushed_at": "2026-07-22T02:03:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -82,6 +91,10 @@
     {
       "date": "2026-07-21",
       "stars": 68
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 69
     }
   ]
 }

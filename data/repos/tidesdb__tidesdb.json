@@ -3,8 +3,8 @@
   "owner": "tidesdb",
   "name": "tidesdb",
   "full_name": "tidesdb/tidesdb",
-  "description": "High-performance adaptive, durable, portable, transactional embeddable storage engine with optional tiered object storage for infinite scale. Designed for flash and RAM optimization.",
-  "description_ja": "高性能・適応型・耐久性・ポータブル・トランザクション対応の組み込みストレージエンジン。無制限スケールのためのオプションの階層型オブジェクトストレージを搭載。フラッシュと RAM の最適化を目的に設計",
+  "description": "High-performance write \u0026 space optimized transactional storage engine.",
+  "description_ja": "",
   "url": "https://github.com/tidesdb/tidesdb",
   "homepage_url": "https://tidesdb.com",
   "language": "C",
@@ -20,7 +20,6 @@
     "lsmb",
     "macos",
     "multi-platform",
-    "object-storage",
     "oltp",
     "portable",
     "storage-engine",
@@ -29,12 +28,12 @@
     "windows",
     "x86-64"
   ],
-  "star_count": 554,
+  "star_count": 555,
   "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-14T20:04:39Z",
-  "updated_at": "2026-07-21T03:23:41Z",
+  "updated_at": "2026-07-22T02:22:00Z",
   "pushed_at": "2026-07-20T19:21:11Z",
   "deleted_at": "",
   "star_history": [
@@ -337,6 +336,10 @@
     {
       "date": "2026-07-21",
       "stars": 554
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 555
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "madeye",
   "name": "meow",
   "full_name": "madeye/meow",
-  "description": "Meow - A Clash/mihomo Android client with Flutter UI, powered by mihomo-rust and netstack-smoltcp tun2socks",
-  "description_ja": "Meow — Flutter UIを搭載したClash/mihomoのAndroidクライアント。mihomo-rustとnetstack-smoltcp tun2socksで動作。",
+  "description": "Meow - A Clash/mihomo Android client with Flutter UI, powered by meow-rs and lwip-based tun2socks",
+  "description_ja": "",
   "url": "https://github.com/madeye/meow",
   "homepage_url": "https://madeye.github.io/meow/",
   "language": "Dart",
@@ -19,13 +19,13 @@
     "tun2socks",
     "vpn"
   ],
-  "star_count": 99,
+  "star_count": 101,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T08:24:22Z",
-  "updated_at": "2026-07-21T05:45:38Z",
-  "pushed_at": "2026-07-10T09:04:19Z",
+  "updated_at": "2026-07-22T15:16:35Z",
+  "pushed_at": "2026-07-22T10:17:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -331,6 +331,10 @@
     {
       "date": "2026-07-21",
       "stars": 99
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 101
     }
   ]
 }

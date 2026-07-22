@@ -3,17 +3,21 @@
   "owner": "giacomo-folli",
   "name": "asmlings",
   "full_name": "giacomo-folli/asmlings",
-  "description": "A lightweight educational sandbox for Intel 8086 assembly programming with a Rust-based emulator runner.",
+  "description": "Learn x86 assembly through interactive exercises.",
   "description_ja": "",
   "url": "https://github.com/giacomo-folli/asmlings",
-  "homepage_url": "https://giacomo-folli.github.io/asmlings-web/",
+  "homepage_url": "https://crates.io/crates/asmlings",
   "language": "Rust",
   "license": "",
   "topics": [
+    "assembly",
     "beginner",
-    "cli",
-    "learning",
+    "compiler",
+    "education",
+    "llvm",
+    "machine-code",
     "nasm",
+    "reverse-engineering",
     "rust",
     "tutorial",
     "x86"
@@ -23,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-22T08:27:36Z",
-  "updated_at": "2026-07-07T12:02:45Z",
-  "pushed_at": "2026-07-01T17:23:48Z",
+  "updated_at": "2026-07-22T12:56:28Z",
+  "pushed_at": "2026-07-22T12:52:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -109,6 +113,10 @@
     },
     {
       "date": "2026-07-21",
+      "stars": 32
+    },
+    {
+      "date": "2026-07-22",
       "stars": 32
     }
   ]

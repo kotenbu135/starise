@@ -6,7 +6,7 @@
   "description": "LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group.",
   "description_ja": "",
   "url": "https://github.com/291-Group/LAN-Orangutan",
-  "homepage_url": "https://291grp.com/open-src/",
+  "homepage_url": "https://LANOrangutan.com",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -29,13 +29,13 @@
     "tailscale-network",
     "web-dashboard"
   ],
-  "star_count": 445,
-  "fork_count": 29,
+  "star_count": 450,
+  "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-29T13:32:02Z",
-  "updated_at": "2026-07-21T17:57:49Z",
-  "pushed_at": "2026-07-19T21:46:16Z",
+  "updated_at": "2026-07-22T19:15:51Z",
+  "pushed_at": "2026-07-22T18:55:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +57,10 @@
     {
       "date": "2026-07-21",
       "stars": 445
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 450
     }
   ]
 }

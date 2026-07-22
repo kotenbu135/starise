@@ -3,7 +3,7 @@
   "owner": "juspay",
   "name": "neurolink",
   "full_name": "juspay/neurolink",
-  "description": "One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (58+ servers), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.",
+  "description": "One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (connect any MCP server), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.",
   "description_ja": "",
   "url": "https://github.com/juspay/neurolink",
   "homepage_url": "https://neurolink.ink",
@@ -31,13 +31,13 @@
     "typescript",
     "voice-ai"
   ],
-  "star_count": 112,
-  "fork_count": 118,
+  "star_count": 113,
+  "fork_count": 119,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-31T15:05:42Z",
-  "updated_at": "2026-07-21T07:54:34Z",
-  "pushed_at": "2026-07-21T14:02:41Z",
+  "updated_at": "2026-07-22T20:33:39Z",
+  "pushed_at": "2026-07-22T20:46:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -227,6 +227,10 @@
     {
       "date": "2026-07-21",
       "stars": 112
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 113
     }
   ]
 }

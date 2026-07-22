@@ -7,7 +7,7 @@
   "description_ja": "ThingLinks Engine搭載のエンタープライズ級IoTプラットフォーム。MQTT / HTTP / CoAP / TCP / Modbusをサポートし、ルールエンジン、ビジュアル表示画面、マルチテナントに対応。ノードあたり数百万の接続が可能。",
   "url": "https://github.com/mqttsnet/thinglinks",
   "homepage_url": "https://mqttsnet.com",
-  "language": "Java",
+  "language": "PLpgSQL",
   "license": "NOASSERTION",
   "topics": [
     "bifromq",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-17T06:07:31Z",
-  "updated_at": "2026-07-12T05:07:25Z",
-  "pushed_at": "2026-07-20T01:59:59Z",
+  "updated_at": "2026-07-22T03:07:11Z",
+  "pushed_at": "2026-07-22T03:13:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -326,6 +326,10 @@
     },
     {
       "date": "2026-07-21",
+      "stars": 1071
+    },
+    {
+      "date": "2026-07-22",
       "stars": 1071
     }
   ]

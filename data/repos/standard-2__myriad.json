@@ -6,17 +6,23 @@
   "description": "An open-source general standardization compliance test for executors based on the Myriad-enhanced UNC standard",
   "description_ja": "",
   "url": "https://github.com/Standard-2/Myriad",
-  "homepage_url": "https://standard-2.github.io/Myriad/",
+  "homepage_url": "https://myriad.tools",
   "language": "Luau",
   "license": "MIT",
-  "topics": [],
-  "star_count": 37,
+  "topics": [
+    "cheat",
+    "executor",
+    "roblox",
+    "sunc",
+    "unc"
+  ],
+  "star_count": 36,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-10T22:40:13Z",
-  "updated_at": "2026-07-21T17:22:47Z",
-  "pushed_at": "2026-07-13T19:46:00Z",
+  "updated_at": "2026-07-22T20:10:21Z",
+  "pushed_at": "2026-07-22T20:10:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -298,6 +304,10 @@
     {
       "date": "2026-07-21",
       "stars": 37
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 36
     }
   ]
 }

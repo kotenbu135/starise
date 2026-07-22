@@ -3,28 +3,35 @@
   "owner": "mytonwallet-org",
   "name": "mytonwallet",
   "full_name": "mytonwallet-org/mytonwallet",
-  "description": "The next-generation onchain wallet for secure everyday use",
-  "description_ja": "安全な日常利用のための次世代オンチェーンウォレット",
+  "description": "A crypto wallet you'll actually enjoy.",
+  "description_ja": "",
   "url": "https://github.com/mytonwallet-org/mytonwallet",
-  "homepage_url": "https://mytonwallet.io",
+  "homepage_url": "https://mywallet.io",
   "language": "Swift",
   "license": "GPL-3.0",
   "topics": [
+    "base",
+    "bitcoin",
     "blockchain",
+    "bnb",
     "crypto",
     "cryptocurrency",
     "dapp",
-    "hacktoberfest",
+    "ethereum",
+    "hyperliquid",
+    "ledger",
+    "solana",
     "ton",
+    "tron",
     "wallet",
     "web3"
   ],
-  "star_count": 771,
+  "star_count": 773,
   "fork_count": 380,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-28T00:05:31Z",
-  "updated_at": "2026-07-19T06:00:59Z",
+  "updated_at": "2026-07-22T21:10:00Z",
   "pushed_at": "2026-07-18T14:29:07Z",
   "deleted_at": "",
   "star_history": [
@@ -331,6 +338,10 @@
     {
       "date": "2026-07-21",
       "stars": 771
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 773
     }
   ]
 }

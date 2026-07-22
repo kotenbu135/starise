@@ -3,7 +3,7 @@
   "owner": "qinshihu",
   "name": "itops-agent-platform",
   "full_name": "qinshihu/itops-agent-platform",
-  "description": "国内首个企业级 IT 运维多 Agent 自动化平台 — 基于大语言模型的智能运维解决方案。ITOps Agent Platform通过可视化工作流编排，将多个AI Agent组合成智能运维自动化流水线，实现服务器管理、告警处理、故障诊断、日志分析、脚本管理、定时运维任务的自动化执行， 支持国内外主流大模型，旨在 Zabbix/Prometheus 告警自动修复闭环，Docker 一键部署，多平台兼容。",
+  "description": "China's 1st enterprise multi-agent IT ops platform. LLM-powered auto-remediation for Zabbix/Prometheus. Docker deploy.",
   "description_ja": "",
   "url": "https://github.com/qinshihu/itops-agent-platform",
   "homepage_url": "https://aiopsdoc-0mwug01t6.maozi.io/",
@@ -28,13 +28,13 @@
     "sre",
     "zabbix"
   ],
-  "star_count": 768,
-  "fork_count": 198,
+  "star_count": 779,
+  "fork_count": 201,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-20T18:29:31Z",
-  "updated_at": "2026-07-21T17:11:30Z",
-  "pushed_at": "2026-07-10T11:25:07Z",
+  "updated_at": "2026-07-22T17:54:11Z",
+  "pushed_at": "2026-07-22T17:53:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -244,6 +244,10 @@
     {
       "date": "2026-07-21",
       "stars": 768
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 779
     }
   ]
 }

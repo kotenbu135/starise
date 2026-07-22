@@ -3,20 +3,28 @@
   "owner": "blader",
   "name": "humanizer",
   "full_name": "blader/humanizer",
-  "description": "Claude Code skill that removes signs of AI-generated writing from text",
-  "description_ja": "テキストからAI生成の痕跡を除去する Claude Code スキル。",
+  "description": "Agent skill that removes signs of AI-generated writing from text",
+  "description_ja": "",
   "url": "https://github.com/blader/humanizer",
-  "homepage_url": "",
-  "language": "",
+  "homepage_url": "https://skills.sh/blader/humanizer",
+  "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 30193,
-  "fork_count": 2786,
+  "topics": [
+    "agent-skills",
+    "ai-writing",
+    "claude-code",
+    "codex",
+    "cursor",
+    "prompt-engineering",
+    "writing-tools"
+  ],
+  "star_count": 30394,
+  "fork_count": 2801,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-18T05:30:15Z",
-  "updated_at": "2026-07-21T19:57:03Z",
-  "pushed_at": "2026-06-29T20:43:06Z",
+  "updated_at": "2026-07-22T20:25:42Z",
+  "pushed_at": "2026-07-22T06:26:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -318,6 +326,10 @@
     {
       "date": "2026-07-21",
       "stars": 30193
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 30394
     }
   ]
 }

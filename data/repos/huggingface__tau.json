@@ -3,20 +3,20 @@
   "owner": "huggingface",
   "name": "tau",
   "full_name": "huggingface/tau",
-  "description": "a minimalist agent that teaches you to create coding agents",
+  "description": "A Python port of Pi’s minimalist coding agent.",
   "description_ja": "",
   "url": "https://github.com/huggingface/tau",
   "homepage_url": "http://twotimespi.dev/",
   "language": "Python",
   "license": "MIT",
   "topics": [],
-  "star_count": 1730,
-  "fork_count": 186,
+  "star_count": 1806,
+  "fork_count": 189,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-11T16:33:44Z",
-  "updated_at": "2026-07-21T20:22:55Z",
-  "pushed_at": "2026-07-21T18:48:54Z",
+  "updated_at": "2026-07-22T20:31:11Z",
+  "pushed_at": "2026-07-22T17:44:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -118,6 +118,10 @@
     {
       "date": "2026-07-21",
       "stars": 1730
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 1806
     }
   ]
 }

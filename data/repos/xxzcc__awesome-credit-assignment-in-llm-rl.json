@@ -3,20 +3,31 @@
   "owner": "xxzcc",
   "name": "awesome-credit-assignment-in-llm-rl",
   "full_name": "xxzcc/awesome-credit-assignment-in-llm-rl",
-  "description": "",
+  "description": "Curated papers, taxonomy, benchmarks, and decision guides for credit assignment in reasoning and agentic LLM reinforcement learning.",
   "description_ja": "",
   "url": "https://github.com/xxzcc/Awesome-Credit-Assignment-in-LLM-RL",
-  "homepage_url": "",
+  "homepage_url": "https://arxiv.org/abs/2604.09459",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 107,
+  "topics": [
+    "agentic-rl",
+    "awesome",
+    "awesome-list",
+    "credit-assignment",
+    "large-language-models",
+    "llm",
+    "multi-agent-systems",
+    "process-reward-model",
+    "reinforcement-learning",
+    "rlvr"
+  ],
+  "star_count": 110,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-13T04:34:15Z",
-  "updated_at": "2026-07-21T09:13:19Z",
-  "pushed_at": "2026-07-02T06:39:12Z",
+  "updated_at": "2026-07-22T06:09:26Z",
+  "pushed_at": "2026-07-22T06:09:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -214,6 +225,10 @@
     {
       "date": "2026-07-21",
       "stars": 107
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 110
     }
   ]
 }

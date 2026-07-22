@@ -19,22 +19,25 @@
     "deadlocks",
     "dotnet",
     "duckdb",
+    "mcp",
     "mcp-server",
     "model-context-protocol",
     "performance-monitoring",
+    "postgresql",
     "query-performance",
     "sql-server",
     "sql-server-monitoring",
+    "timescaledb",
     "wait-stats",
     "wpf"
   ],
-  "star_count": 439,
+  "star_count": 441,
   "fork_count": 80,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T16:42:25Z",
-  "updated_at": "2026-07-18T17:19:44Z",
-  "pushed_at": "2026-07-21T16:21:46Z",
+  "updated_at": "2026-07-22T14:03:26Z",
+  "pushed_at": "2026-07-22T20:08:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -172,6 +175,10 @@
     {
       "date": "2026-07-21",
       "stars": 439
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 441
     }
   ]
 }

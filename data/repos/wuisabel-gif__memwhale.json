@@ -3,32 +3,32 @@
   "owner": "wuisabel-gif",
   "name": "memwhale",
   "full_name": "wuisabel-gif/memwhale",
-  "description": "MemoryWhale is a Rust/Tauri local-first terminal memory system that records commands, arguments, logs, sessions, errors, bookmarks, and debug history into SQLite so work survives across machines, SSH sessions, containers, and crashes.",
+  "description": "Persistent, local memory for developers and their coding agents — records commands, output, errors, and the fixes that worked into SQLite and serves them over MCP.",
   "description_ja": "",
   "url": "https://github.com/wuisabel-gif/MemWhale",
   "homepage_url": "https://wuisabel-gif.github.io/MemWhale/",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "agent-memory",
     "ai-agents",
+    "claude-code",
     "cli",
     "command-line",
     "debugging",
     "developer-tools",
     "jetson",
-    "knowledge-graph",
     "local-first",
     "mcp",
+    "mcp-server",
     "memory",
     "model-context-protocol",
     "react",
     "robotics",
     "rust",
-    "second-brain",
     "sqlite",
     "tauri",
     "terminal",
-    "terminal-recorder",
     "typescript"
   ],
   "star_count": 37,
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-17T18:47:53Z",
-  "updated_at": "2026-07-21T08:02:42Z",
-  "pushed_at": "2026-07-21T08:01:44Z",
+  "updated_at": "2026-07-22T15:33:43Z",
+  "pushed_at": "2026-07-22T15:29:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +130,10 @@
     },
     {
       "date": "2026-07-21",
+      "stars": 37
+    },
+    {
+      "date": "2026-07-22",
       "stars": 37
     }
   ]

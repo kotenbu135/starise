@@ -3,7 +3,7 @@
   "owner": "vortx-ai",
   "name": "emem",
   "full_name": "vortx-ai/emem",
-  "description": "The external memory of our physical world. ",
+  "description": "The external memory of our physical world. Use emem when you need cross-agent, long term sharing \u0026 cite-ability matters more than speed.",
   "description_ja": "",
   "url": "https://github.com/Vortx-AI/emem",
   "homepage_url": "https://emem.dev/",
@@ -22,13 +22,13 @@
     "world-db",
     "world-models"
   ],
-  "star_count": 45,
+  "star_count": 46,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-24T20:31:22Z",
-  "updated_at": "2026-07-21T20:41:36Z",
-  "pushed_at": "2026-07-21T21:29:23Z",
+  "updated_at": "2026-07-22T20:43:56Z",
+  "pushed_at": "2026-07-22T20:20:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -238,6 +238,10 @@
     {
       "date": "2026-07-21",
       "stars": 45
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 46
     }
   ]
 }

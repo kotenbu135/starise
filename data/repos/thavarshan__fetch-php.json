@@ -3,8 +3,8 @@
   "owner": "thavarshan",
   "name": "fetch-php",
   "full_name": "thavarshan/fetch-php",
-  "description": "🚀 A lightweight HTTP library inspired by JavaScript's fetch, bringing simplicity and flexibility to PHP HTTP requests.",
-  "description_ja": "JavaScriptのfetchにインスパイアされた軽量HTTPライブラリ。PHPのHTTPリクエストにシンプルさと柔軟性をもたらす。",
+  "description": "🚀 Modern PHP HTTP client inspired by JavaScript's fetch API. Async/await, streaming, SSE, middleware, RFC 7234 caching, and full PSR-7/18 compliance.",
+  "description_ja": "",
   "url": "https://github.com/Thavarshan/fetch-php",
   "homepage_url": "https://fetch-php.thavarshan.com",
   "language": "PHP",
@@ -23,12 +23,12 @@
     "php"
   ],
   "star_count": 451,
-  "fork_count": 27,
+  "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-13T18:33:05Z",
-  "updated_at": "2026-07-21T11:28:48Z",
-  "pushed_at": "2026-07-21T11:28:37Z",
+  "updated_at": "2026-07-22T09:55:04Z",
+  "pushed_at": "2026-07-22T09:51:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -333,6 +333,10 @@
     },
     {
       "date": "2026-07-21",
+      "stars": 451
+    },
+    {
+      "date": "2026-07-22",
       "stars": 451
     }
   ]

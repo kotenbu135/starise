@@ -3,12 +3,12 @@
   "owner": "cdeust",
   "name": "cortex",
   "full_name": "cdeust/cortex",
-  "description": "Persistent memory for Claude Code built on computational neuroscience, not just retrieval. 36 cited brain mechanisms consolidate what matters, keep it current as your project evolves, and reconstruct the right context at the right time — a living memory, not a flat RAG. Says \"I don't know\" when unsure, flags contradictions. Local-first · MCP · MIT.",
+  "description": "Persistent memory for Claude Code — 36 cited neuroscience mechanisms, automatic capture/recall hooks, decay-based consolidation, compaction survival, reproducible benchmarks (LongMemEval R@10 98.2%). Zero-config SQLite install, PostgreSQL optional. Local-first · MCP · MIT.",
   "description_ja": "",
   "url": "https://github.com/cdeust/Cortex",
   "homepage_url": "https://ai-architect.tools",
   "language": "Python",
-  "license": "NOASSERTION",
+  "license": "MIT",
   "topics": [
     "agent-memory-system",
     "anthropic",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T11:24:37Z",
-  "updated_at": "2026-07-21T17:17:49Z",
-  "pushed_at": "2026-07-21T17:17:05Z",
+  "updated_at": "2026-07-22T20:02:53Z",
+  "pushed_at": "2026-07-22T20:00:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -218,6 +218,10 @@
     },
     {
       "date": "2026-07-21",
+      "stars": 67
+    },
+    {
+      "date": "2026-07-22",
       "stars": 67
     }
   ]

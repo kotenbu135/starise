@@ -3,20 +3,33 @@
   "owner": "holoviz",
   "name": "lumen",
   "full_name": "holoviz/lumen",
-  "description": "Illuminate your data.",
+  "description": "Illuminate your data. Agent framework turning natural language into SQL, charts, dashboards and reports.",
   "description_ja": "",
   "url": "https://github.com/holoviz/lumen",
   "homepage_url": "https://lumen.holoviz.org",
   "language": "Python",
   "license": "BSD-3-Clause",
-  "topics": [],
+  "topics": [
+    "ai-agents",
+    "conversational-ai",
+    "data-exploration",
+    "data-visualization",
+    "duckdb",
+    "holoviz",
+    "llm",
+    "panel",
+    "python",
+    "rag",
+    "text-to-sql",
+    "xarray"
+  ],
   "star_count": 300,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-06T17:25:16Z",
-  "updated_at": "2026-07-21T19:03:13Z",
-  "pushed_at": "2026-07-20T19:33:42Z",
+  "updated_at": "2026-07-22T05:47:05Z",
+  "pushed_at": "2026-07-22T10:34:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -285,6 +298,10 @@
     },
     {
       "date": "2026-07-21",
+      "stars": 300
+    },
+    {
+      "date": "2026-07-22",
       "stars": 300
     }
   ]

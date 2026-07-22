@@ -3,7 +3,7 @@
   "owner": "pavanbadempet",
   "name": "ai-healthcare-system",
   "full_name": "pavanbadempet/ai-healthcare-system",
-  "description": "Privacy-first AI Healthcare platform for HIPAA-compliant clinical workflows. Features a stateful LangGraph \u0026 MAF multi-agent RAG system, local Ollama LLMs, FastAPI, and React. Integrates PySpark Medallion Lakehouse analytics, HAPI FHIR patient imports, medical diagnostics ML models, and secure EHR hospital operations.",
+  "description": "AI Data Engineering Healthcare Platform: PySpark Medallion Lakehouse, Airflow DAGs, 5 ML Models, Local LLM RAG, and FastAPI Clinical Architecture.",
   "description_ja": "",
   "url": "https://github.com/pavanbadempet/AI-Healthcare-System",
   "homepage_url": "https://github.com/pavanbadempet/AI-Healthcare-System",
@@ -14,8 +14,8 @@
     "apache-airflow",
     "clinical-decision-support",
     "clinical-intelligence",
+    "delta-lake",
     "ehr",
-    "ehr-interoperability",
     "fastapi",
     "fhir",
     "healthcare",
@@ -32,12 +32,12 @@
     "react"
   ],
   "star_count": 36,
-  "fork_count": 12,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-30T17:05:05Z",
-  "updated_at": "2026-07-21T19:57:27Z",
-  "pushed_at": "2026-07-21T19:55:55Z",
+  "updated_at": "2026-07-22T18:26:36Z",
+  "pushed_at": "2026-07-22T07:48:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -178,6 +178,10 @@
     },
     {
       "date": "2026-07-21",
+      "stars": 36
+    },
+    {
+      "date": "2026-07-22",
       "stars": 36
     }
   ]

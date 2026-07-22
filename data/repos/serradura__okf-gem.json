@@ -3,7 +3,7 @@
   "owner": "serradura",
   "name": "okf-gem",
   "full_name": "serradura/okf-gem",
-  "description": "okf-gem: The complete OKF harness (skills + CLI + server)",
+  "description": "Open Knowledge Format for coding agents. Author, validate, lint, search, and visualize portable Markdown knowledge bundles. One gem carries the agent skill, the CLI and Ruby library, and an interactive graph. Docker and Claude Code plugin included, 100% local.",
   "description_ja": "",
   "url": "https://github.com/serradura/okf-gem",
   "homepage_url": "https://okfgem.com/",
@@ -14,23 +14,29 @@
     "ai-agents",
     "claude-code",
     "claude-code-plugin",
+    "cli",
     "developer-tools",
     "docker-image",
+    "documentation",
     "harness",
+    "knowledge-graph",
     "knowledge-management",
     "llm-tools",
+    "markdown",
     "okf",
     "open-knowledge-format",
+    "ruby",
     "structured-knowledge",
-    "toolkit"
+    "toolkit",
+    "yaml"
   ],
-  "star_count": 78,
+  "star_count": 85,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-11T17:13:33Z",
-  "updated_at": "2026-07-21T20:15:33Z",
-  "pushed_at": "2026-07-21T20:15:36Z",
+  "updated_at": "2026-07-22T20:40:51Z",
+  "pushed_at": "2026-07-22T20:40:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -56,6 +62,10 @@
     {
       "date": "2026-07-21",
       "stars": 78
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 85
     }
   ]
 }

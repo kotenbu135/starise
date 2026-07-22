@@ -3,8 +3,8 @@
   "owner": "krlabsorg",
   "name": "verbatim-rag",
   "full_name": "krlabsorg/verbatim-rag",
-  "description": "Hallucination-prevention RAG system with verbatim span extraction. Ensures all generated content is grounded in source documents with exact citations.",
-  "description_ja": "逐語的なスパン抽出によるハルシネーション防止 RAG システム。生成されたすべてのコンテンツが正確な引用とともにソースドキュメントに基づくことを保証する。",
+  "description": "Provenance-first extractive RAG: return verbatim source spans with citations using local ModernBERT or optional LLM-assisted extraction.",
+  "description_ja": "",
   "url": "https://github.com/KRLabsOrg/verbatim-rag",
   "homepage_url": "https://krlabsorg.github.io/verbatim-rag/",
   "language": "Python",
@@ -22,12 +22,12 @@
     "span-extraction"
   ],
   "star_count": 202,
-  "fork_count": 29,
+  "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-31T12:36:44Z",
-  "updated_at": "2026-07-20T16:37:57Z",
-  "pushed_at": "2026-07-13T08:53:53Z",
+  "updated_at": "2026-07-22T10:05:52Z",
+  "pushed_at": "2026-07-22T09:16:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -332,6 +332,10 @@
     },
     {
       "date": "2026-07-21",
+      "stars": 202
+    },
+    {
+      "date": "2026-07-22",
       "stars": 202
     }
   ]

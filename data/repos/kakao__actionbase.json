@@ -3,7 +3,7 @@
   "owner": "kakao",
   "name": "actionbase",
   "full_name": "kakao/actionbase",
-  "description": "One database for user-user (follows), user-item (likes), and item-item (related items) interactions — precomputed, served in real-time",
+  "description": "One database for user-user (follows), user-item (likes), and item-item (related items) interactions — precomputed at write time, served as simple lookups",
   "description_ja": "",
   "url": "https://github.com/kakao/actionbase",
   "homepage_url": "https://actionbase.io",
@@ -23,8 +23,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-11T01:36:04Z",
-  "updated_at": "2026-07-21T15:40:37Z",
-  "pushed_at": "2026-07-21T16:09:46Z",
+  "updated_at": "2026-07-22T10:08:40Z",
+  "pushed_at": "2026-07-22T15:29:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -325,6 +325,10 @@
     },
     {
       "date": "2026-07-21",
+      "stars": 223
+    },
+    {
+      "date": "2026-07-22",
       "stars": 223
     }
   ]
