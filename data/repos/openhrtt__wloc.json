@@ -3,7 +3,7 @@
   "owner": "openhrtt",
   "name": "wloc",
   "full_name": "openhrtt/wloc",
-  "description": "WLoc8 (https://wloc8.com) 网页更改定位，无需安装任何软件，支持iOS12-iOS27.0，支持5G/Wi-Fi，可过某丁等强风控软件",
+  "description": "WLoc8 (https://wloc8.com) 是一款支持MacOS、iOS与纯网页3种方式的苹果虚拟定位工具，iOS支持5G/Wi-Fi，可过某丁等强风控软件",
   "description_ja": "",
   "url": "https://github.com/OpenHRTT/wloc",
   "homepage_url": "https://wloc8.com",
@@ -11,19 +11,21 @@
   "license": "MIT",
   "topics": [
     "apple",
+    "apple-simulator-location",
     "location",
+    "mac-simulator-location",
     "simulator-location",
     "spoofed",
     "spoofed-location",
     "wloc"
   ],
-  "star_count": 122,
+  "star_count": 137,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-14T03:58:08Z",
-  "updated_at": "2026-07-22T21:14:28Z",
-  "pushed_at": "2026-07-22T05:25:23Z",
+  "updated_at": "2026-07-24T15:31:13Z",
+  "pushed_at": "2026-07-23T12:59:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +39,10 @@
     {
       "date": "2026-07-22",
       "stars": 122
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 137
     }
   ]
 }

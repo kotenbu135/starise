@@ -3,10 +3,10 @@
   "owner": "alfadur7",
   "name": "llm-wiki-newsroom",
   "full_name": "alfadur7/llm-wiki-newsroom",
-  "description": "Self-evolving multi-agent \"newsroom\" that turns your documents into a cross-linked knowledge wiki — writer ≠ reviewer, local-first, no API keys, a structured alternative to RAG.",
+  "description": "Harness engineering applied to knowledge production: a self-evolving multi-agent newsroom that turns your documents into a cross-linked markdown wiki. A \"reground\" loop pulls published pages back in before they go stale — writer ≠ reviewer, local-first, a structured alternative to RAG.",
   "description_ja": "",
   "url": "https://github.com/alfadur7/llm-wiki-newsroom",
-  "homepage_url": "",
+  "homepage_url": "https://alfadur7.github.io/llm-wiki-newsroom/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -16,6 +16,7 @@
     "claude-code",
     "claude-skills",
     "digital-garden",
+    "harness-engineering",
     "knowledge-base",
     "knowledge-graph",
     "llm",
@@ -28,16 +29,15 @@
     "pkm",
     "rag",
     "second-brain",
-    "semantic-search",
     "wiki"
   ],
-  "star_count": 57,
+  "star_count": 63,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-26T06:54:41Z",
-  "updated_at": "2026-07-22T14:10:43Z",
-  "pushed_at": "2026-07-22T14:03:43Z",
+  "updated_at": "2026-07-24T14:09:31Z",
+  "pushed_at": "2026-07-24T10:23:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +103,10 @@
     {
       "date": "2026-07-22",
       "stars": 57
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 63
     }
   ]
 }

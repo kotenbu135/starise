@@ -6,7 +6,7 @@
   "description": "Easily and securely send things from one computer to another :crocodile: :package:",
   "description_ja": "コンピューター間で簡単かつ安全にファイルを送受信 🐊 📦",
   "url": "https://github.com/schollz/croc",
-  "homepage_url": "https://schollz.com/software/croc6",
+  "homepage_url": "https://getcroc.com",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -18,13 +18,13 @@
     "tcp",
     "transfer"
   ],
-  "star_count": 37501,
-  "fork_count": 1482,
+  "star_count": 38290,
+  "fork_count": 1518,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-10-17T15:20:18Z",
-  "updated_at": "2026-07-22T21:38:01Z",
-  "pushed_at": "2026-07-21T20:26:42Z",
+  "updated_at": "2026-07-24T22:01:58Z",
+  "pushed_at": "2026-07-24T13:17:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -334,6 +334,10 @@
     {
       "date": "2026-07-22",
       "stars": 37501
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 38290
     }
   ]
 }

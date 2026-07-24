@@ -3,7 +3,7 @@
   "owner": "lxien",
   "name": "orbien",
   "full_name": "lxien/orbien",
-  "description": "Orbien 是一个内网穿透平台，支持TCP/HTTP/HTTPS/UDP/socks5/文件共享及上层协议代理，传输层支持TCP、Websocket、Quic，支持多路复用，满足弱网、防火墙穿透等场景；ACME域名证书申请部署以及自动续期、实时流量报文、压缩、mTLS传输加密、访问控制、鉴权认证、带宽限流、负载均衡、反向代理、身份认证、健康检查、管理面板等功能",
+  "description": "Orbien 是一个内网穿透平台，支持TCP/HTTP/HTTPS/UDP/socks5/文件共享及上层协议代理，传输层支持TCP、Websocket、Quic，支持多路复用，满足弱网、防火墙穿透等场景；ACME域名证书申请部署以及自动续期、HTTP(S)抓包与请求重放、压缩、mTLS传输加密、访问控制、鉴权认证、带宽限流、负载均衡、反向代理、身份认证、健康检查、管理面板等功能",
   "description_ja": "",
   "url": "https://github.com/lxien/orbien",
   "homepage_url": "",
@@ -31,13 +31,13 @@
     "udp",
     "websocket"
   ],
-  "star_count": 134,
-  "fork_count": 18,
+  "star_count": 138,
+  "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-04T12:26:10Z",
-  "updated_at": "2026-07-22T16:23:48Z",
-  "pushed_at": "2026-07-22T13:39:34Z",
+  "updated_at": "2026-07-24T14:38:47Z",
+  "pushed_at": "2026-07-24T14:38:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -299,6 +299,10 @@
     {
       "date": "2026-07-22",
       "stars": 134
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 138
     }
   ]
 }

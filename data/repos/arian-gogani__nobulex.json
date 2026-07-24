@@ -3,7 +3,7 @@
   "owner": "arian-gogani",
   "name": "nobulex",
   "full_name": "arian-gogani/nobulex",
-  "description": "Credit scores for AI agents. Every action builds a verifiable track record. The accountability primitive for AI agents.",
+  "description": "Credit scores for AI agents — signed, offline-verifiable receipts for every action. Reference implementation of the OWASP Agentic Skills Top 10 (AST09) bilateral receipt pattern. Open source, MIT.",
   "description_ja": "",
   "url": "https://github.com/arian-gogani/nobulex",
   "homepage_url": "https://nobulex.com",
@@ -31,13 +31,13 @@
     "rfc8785",
     "typescript"
   ],
-  "star_count": 37,
+  "star_count": 38,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T18:00:39Z",
-  "updated_at": "2026-07-21T06:04:49Z",
-  "pushed_at": "2026-07-21T06:04:26Z",
+  "updated_at": "2026-07-24T17:47:17Z",
+  "pushed_at": "2026-07-24T17:47:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -279,6 +279,10 @@
     {
       "date": "2026-07-22",
       "stars": 37
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 38
     }
   ]
 }

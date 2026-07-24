@@ -3,7 +3,7 @@
   "owner": "philipkocanda",
   "name": "canair",
   "full_name": "philipkocanda/canair",
-  "description": "Reverse engineering toolkit for WiCAN pro",
+  "description": "Reverse engineering toolkit for WiCAN OBD-II WiFi/BLE to CAN adapter",
   "description_ja": "",
   "url": "https://github.com/philipkocanda/canair",
   "homepage_url": "",
@@ -13,15 +13,16 @@
     "can-bus",
     "ioniq-ev",
     "obd2",
-    "wican"
+    "wican",
+    "wican-pro"
   ],
   "star_count": 9,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-19T07:10:43Z",
-  "updated_at": "2026-07-22T21:28:12Z",
-  "pushed_at": "2026-07-22T21:28:04Z",
+  "updated_at": "2026-07-24T21:32:56Z",
+  "pushed_at": "2026-07-24T21:32:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -30,6 +31,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 9
+    },
+    {
+      "date": "2026-07-24",
       "stars": 9
     }
   ]

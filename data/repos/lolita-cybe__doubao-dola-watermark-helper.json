@@ -3,7 +3,7 @@
   "owner": "lolita-cybe",
   "name": "doubao-dola-watermark-helper",
   "full_name": "lolita-cybe/doubao-dola-watermark-helper",
-  "description": "豆包 / Dola 网页端资源助手 支持图片与视频预览、无水印资源提取、15 秒配置及批量下载",
+  "description": "豆包 / Dola 浏览器资源助手：支持 4～15 秒自定义视频时长、无水印资源提取、视频预览、批量下载与账号识别",
   "description_ja": "",
   "url": "https://github.com/Lolita-cybe/doubao-dola-watermark-helper",
   "homepage_url": "",
@@ -18,13 +18,13 @@
     "manifest-v3",
     "video-downloader"
   ],
-  "star_count": 58,
-  "fork_count": 7,
+  "star_count": 65,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-08T09:42:13Z",
-  "updated_at": "2026-07-22T07:20:33Z",
-  "pushed_at": "2026-07-19T06:27:38Z",
+  "updated_at": "2026-07-24T11:35:40Z",
+  "pushed_at": "2026-07-23T04:21:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +42,10 @@
     {
       "date": "2026-07-22",
       "stars": 58
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 65
     }
   ]
 }

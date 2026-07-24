@@ -3,7 +3,7 @@
   "owner": "xoshbin",
   "name": "asyar",
   "full_name": "xoshbin/asyar",
-  "description": "Local-First Cross platform alternative to Raycast.",
+  "description": "Privacy-focused Local-First Cross platform alternative to Raycast.",
   "description_ja": "",
   "url": "https://github.com/Xoshbin/asyar",
   "homepage_url": "https://asyar.org/",
@@ -11,18 +11,20 @@
   "license": "AGPL-3.0",
   "topics": [
     "launcher",
+    "local-first",
+    "privacy-first",
+    "raycast",
     "rust",
     "spotlight",
-    "tauri",
-    "typescript"
+    "tauri"
   ],
-  "star_count": 230,
+  "star_count": 233,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-18T21:12:52Z",
-  "updated_at": "2026-07-22T20:07:17Z",
-  "pushed_at": "2026-07-22T20:05:58Z",
+  "updated_at": "2026-07-24T21:14:16Z",
+  "pushed_at": "2026-07-24T21:14:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -252,6 +254,10 @@
     {
       "date": "2026-07-22",
       "stars": 230
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 233
     }
   ]
 }

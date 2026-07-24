@@ -3,7 +3,7 @@
   "owner": "rivet-dev",
   "name": "agentos",
   "full_name": "rivet-dev/agentos",
-  "description": "A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.",
+  "description": "Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly \u0026 V8 isolates.",
   "description_ja": "",
   "url": "https://github.com/rivet-dev/agentos",
   "homepage_url": "https://agentos-sdk.dev",
@@ -19,13 +19,13 @@
     "wasm",
     "webassembly"
   ],
-  "star_count": 4012,
-  "fork_count": 199,
+  "star_count": 4110,
+  "fork_count": 201,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-07T01:06:25Z",
-  "updated_at": "2026-07-22T20:48:42Z",
-  "pushed_at": "2026-07-22T20:53:28Z",
+  "updated_at": "2026-07-24T21:16:10Z",
+  "pushed_at": "2026-07-24T21:07:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -335,6 +335,10 @@
     {
       "date": "2026-07-22",
       "stars": 4012
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 4110
     }
   ]
 }

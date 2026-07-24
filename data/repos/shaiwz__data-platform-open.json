@@ -3,8 +3,8 @@
   "owner": "shaiwz",
   "name": "data-platform-open",
   "full_name": "shaiwz/data-platform-open",
-  "description": "🔥🔥🔥可视化拖拽式大数据集成平台、大数据平台、大数据，包含数据流、数据源、数据对齐、查询模板、完善的监控等。像画流程图一样且无代码方式同步、清洗数据。",
-  "description_ja": "ビジュアルドラッグ\u0026ドロップ型ビッグデータ統合プラットフォーム。データフロー・データソース・データ整合・クエリテンプレート・充実した監視機能などを含む。フローチャートを描くようにノーコードでデータの同期・クレンジングが可能。",
+  "description": "🔥🔥🔥可视化拖拽式大数据集成平台、大数据平台、大数据，包含数据流、数据源、数据对齐、查询模板、智能问数、AI集成、完善的监控等。像画流程图一样且无代码方式同步、清洗数据。",
+  "description_ja": "",
   "url": "https://github.com/shaiwz/data-platform-open",
   "homepage_url": "https://shaiwz.com/home",
   "language": "Java",
@@ -17,12 +17,12 @@
     "kafka",
     "starrocks"
   ],
-  "star_count": 630,
+  "star_count": 631,
   "fork_count": 72,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-19T09:13:21Z",
-  "updated_at": "2026-07-20T09:38:11Z",
+  "updated_at": "2026-07-24T08:15:11Z",
   "pushed_at": "2026-07-15T15:17:57Z",
   "deleted_at": "",
   "star_history": [
@@ -333,6 +333,10 @@
     {
       "date": "2026-07-22",
       "stars": 630
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 631
     }
   ]
 }

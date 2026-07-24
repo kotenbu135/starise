@@ -3,7 +3,7 @@
   "owner": "melandlabs",
   "name": "openloomi",
   "full_name": "melandlabs/openloomi",
-  "description": "OpenLoomi is an open-source AI coworker for builders who want local-first work memory around their AI agents",
+  "description": "OpenLoomi is an open-source AI coworker. It connects your work tools, understands what you’re working on, and tells you what needs your attention, why it matters, and what to do next. It’s your open-source Attention Agent.",
   "description_ja": "",
   "url": "https://github.com/melandlabs/openloomi",
   "homepage_url": "https://openloomi.ai/",
@@ -12,6 +12,7 @@
   "topics": [
     "agent",
     "ai",
+    "attention-agent",
     "claw",
     "context-engineering",
     "gmail",
@@ -24,20 +25,19 @@
     "memory",
     "message",
     "promt-engineering",
-    "rag",
     "security",
     "skills",
     "slack",
     "telegram",
     "whatsapp"
   ],
-  "star_count": 706,
-  "fork_count": 35,
+  "star_count": 723,
+  "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-10T13:32:01Z",
-  "updated_at": "2026-07-22T19:50:12Z",
-  "pushed_at": "2026-07-22T14:30:46Z",
+  "updated_at": "2026-07-24T12:30:35Z",
+  "pushed_at": "2026-07-24T10:57:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -271,6 +271,10 @@
     {
       "date": "2026-07-22",
       "stars": 706
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 723
     }
   ]
 }

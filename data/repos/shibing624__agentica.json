@@ -3,29 +3,34 @@
   "owner": "shibing624",
   "name": "agentica",
   "full_name": "shibing624/agentica",
-  "description": "Agentica: Lightweight async-first Python framework for AI agents. 轻量级异步优先的AI Agent框架，支持工具调用、RAG、多智能体和MCP。",
+  "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets \u0026 death-spiral guards, persistent cross-session memory, self-evolving SKILL.md, /goal long-task loop, 40+ tools, 20+ models, MCP/ACP. Ships a CLI + Web Gateway out of the box.",
   "description_ja": "",
   "url": "https://github.com/shibing624/agentica",
   "homepage_url": "https://shibing624.github.io/agentica/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
-    "actionflow",
     "agent",
+    "agent-framework",
     "agentica",
     "agents",
+    "ai-agent",
+    "cli",
     "langchain",
     "llm",
+    "mcp",
     "multi-agent",
-    "workflows"
+    "rag",
+    "self-evolving",
+    "workflow"
   ],
   "star_count": 337,
   "fork_count": 49,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-03T12:07:51Z",
-  "updated_at": "2026-07-21T14:27:18Z",
-  "pushed_at": "2026-07-21T14:21:32Z",
+  "updated_at": "2026-07-24T21:09:08Z",
+  "pushed_at": "2026-07-24T21:09:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -298,6 +303,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 337
+    },
+    {
+      "date": "2026-07-24",
       "stars": 337
     }
   ]

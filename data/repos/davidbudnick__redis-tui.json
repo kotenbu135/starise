@@ -3,19 +3,19 @@
   "owner": "davidbudnick",
   "name": "redis-tui",
   "full_name": "davidbudnick/redis-tui",
-  "description": "Redis TUI Manager",
+  "description": "Lightweight Redis TUI Manager",
   "description_ja": "",
   "url": "https://github.com/davidbudnick/redis-tui",
   "homepage_url": "",
   "language": "Go",
   "license": "MIT",
   "topics": [],
-  "star_count": 35,
+  "star_count": 37,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-29T05:20:22Z",
-  "updated_at": "2026-07-21T04:00:42Z",
+  "updated_at": "2026-07-23T13:57:57Z",
   "pushed_at": "2026-07-21T04:00:15Z",
   "deleted_at": "",
   "star_history": [
@@ -130,6 +130,10 @@
     {
       "date": "2026-07-22",
       "stars": 35
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 37
     }
   ]
 }

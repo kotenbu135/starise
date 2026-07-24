@@ -3,28 +3,41 @@
   "owner": "lvgl",
   "name": "lvgl",
   "full_name": "lvgl/lvgl",
-  "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. ",
-  "description_ja": "あらゆるMCU、MPU、ディスプレイタイプ向けに美しいUIを作成するための組み込みグラフィックスライブラリ",
+  "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
+  "description_ja": "",
   "url": "https://github.com/lvgl/lvgl",
   "homepage_url": "https://lvgl.io",
   "language": "C",
   "license": "MIT",
   "topics": [
+    "arduino",
     "c",
-    "embedded",
-    "graphics",
-    "gui",
-    "mcu",
-    "microcontroller",
-    "tft"
+    "cpp",
+    "display",
+    "e-ink-display",
+    "embedded-ui",
+    "esp32",
+    "graphics-library",
+    "hmi",
+    "linux",
+    "lvgl",
+    "lvgl-pro",
+    "nxp",
+    "oled-display",
+    "renesas",
+    "stm32",
+    "tft-display",
+    "touchscreen",
+    "ui",
+    "zephyr"
   ],
-  "star_count": 24169,
-  "fork_count": 4257,
+  "star_count": 24187,
+  "fork_count": 4259,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-06-08T04:14:34Z",
-  "updated_at": "2026-07-22T18:49:05Z",
-  "pushed_at": "2026-07-22T05:58:57Z",
+  "updated_at": "2026-07-24T18:03:03Z",
+  "pushed_at": "2026-07-23T15:03:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -330,6 +343,10 @@
     {
       "date": "2026-07-22",
       "stars": 24169
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 24187
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "antiz96",
   "name": "arch-update",
   "full_name": "antiz96/arch-update",
-  "description": "An interactive update notifier \u0026 applier for Arch Linux with a systray applet that assists you with important pre / post update tasks.",
-  "description_ja": "Arch Linux向け対話型アップデート通知・適用ツール。重要なアップデート前後のタスクを支援するシストレイアプレット付き",
+  "description": "An interactive update notifier \u0026 applier for Arch Linux that assists you with important pre / post update tasks (including a systray applet and extensive CLI).",
+  "description_ja": "",
   "url": "https://github.com/Antiz96/arch-update",
   "homepage_url": "",
   "language": "Shell",
@@ -13,14 +13,15 @@
     "applet",
     "arch",
     "arch-linux",
-    "arch-linux-packages",
     "arch-update",
     "archlinux",
     "aur",
     "flatpak",
     "paru",
     "pikaur",
+    "rust",
     "systray",
+    "tray",
     "update",
     "update-applier",
     "update-check",
@@ -30,13 +31,13 @@
     "widget",
     "yay"
   ],
-  "star_count": 401,
+  "star_count": 400,
   "fork_count": 76,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-03-27T18:01:39Z",
-  "updated_at": "2026-07-22T16:17:25Z",
-  "pushed_at": "2026-07-22T11:28:05Z",
+  "updated_at": "2026-07-24T19:59:24Z",
+  "pushed_at": "2026-07-24T19:10:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -342,6 +343,10 @@
     {
       "date": "2026-07-22",
       "stars": 401
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 400
     }
   ]
 }

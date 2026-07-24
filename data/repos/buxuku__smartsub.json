@@ -3,7 +3,7 @@
   "owner": "buxuku",
   "name": "smartsub",
   "full_name": "buxuku/smartsub",
-  "description": "本地优先的一站式桌面字幕工具，内置 6 种 ASR 引擎与全平台 GPU 加速及 17+ 翻译服务商，覆盖音视频转写、翻译、校对、字幕烧录封装全流程，跨 Windows/macOS/Linux 运行",
+  "description": "视频转字幕、字幕翻译、AI 配音与声音克隆、字幕烧录——免费开源的一站式桌面工具。基于 Whisper / FunASR 等本地模型离线语音转文字，批量处理 + 全平台 GPU 加速，跨 Windows / macOS / Linux。Free, open-source desktop app to generate, translate, dub \u0026 burn video subtitles — local Whisper speech-to-text, AI dubbing \u0026 voice cloning, offline, GPU-accelerated.",
   "description_ja": "",
   "url": "https://github.com/buxuku/SmartSub",
   "homepage_url": "https://smartsub.linxiaodong.com/",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "topics": [
     "deepseek",
-    "faster-whipser",
+    "faster-whisper",
     "fireredasr",
     "funasr",
     "ollama",
@@ -23,13 +23,13 @@
     "whisper",
     "whisper-cpp"
   ],
-  "star_count": 4306,
-  "fork_count": 299,
+  "star_count": 4324,
+  "fork_count": 303,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-21T09:33:49Z",
-  "updated_at": "2026-07-22T10:20:48Z",
-  "pushed_at": "2026-07-22T10:02:55Z",
+  "updated_at": "2026-07-24T20:24:47Z",
+  "pushed_at": "2026-07-24T15:49:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -139,6 +139,10 @@
     {
       "date": "2026-07-22",
       "stars": 4306
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 4324
     }
   ]
 }

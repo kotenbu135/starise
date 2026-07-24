@@ -3,11 +3,11 @@
   "owner": "lod-dawn",
   "name": "fast-vben-admin",
   "full_name": "lod-dawn/fast-vben-admin",
-  "description": "FastAPI + Vue Vben Admin 全栈后台管理模板，支持 RBAC 权限、动态菜单和 Docker Compose 部署。",
+  "description": "Fast Vben Admin 是一个面向中后台和多租户 SaaS 场景的模块化全栈管理平台。项目采用“模块化单体 + 构建期 Edition 组合”：FastAPI 提供 API、事务与安全边界，Vue Vben Admin 的 web-antd 应用负责管理界面，Platform 提供认证、租户、RBAC、系统管理和基础设施能力，Items、ERP 等业务模块通过统一契约按 Edition 组合交付。",
   "description_ja": "",
   "url": "https://github.com/LoD-Dawn/Fast-Vben-Admin",
   "homepage_url": "http://114.132.74.2:5173/auth/login",
-  "language": "Vue",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "admin-template",
@@ -17,13 +17,13 @@
     "vue",
     "vue-vben-admin"
   ],
-  "star_count": 144,
-  "fork_count": 16,
+  "star_count": 171,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-08T03:24:31Z",
-  "updated_at": "2026-07-22T18:19:20Z",
-  "pushed_at": "2026-07-22T16:27:18Z",
+  "updated_at": "2026-07-24T21:37:07Z",
+  "pushed_at": "2026-07-23T15:43:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +49,10 @@
     {
       "date": "2026-07-22",
       "stars": 144
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 171
     }
   ]
 }

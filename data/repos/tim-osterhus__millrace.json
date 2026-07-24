@@ -3,7 +3,7 @@
   "owner": "tim-osterhus",
   "name": "millrace",
   "full_name": "tim-osterhus/millrace",
-  "description": "A local, domain-agnostic workflow runtime that compiles decision graphs into durable, governed execution for agents, with recovery, operator control, and evidence-backed completion.",
+  "description": "A locally compiled runtime for governed domain-agnostic agent graphs.",
   "description_ja": "",
   "url": "https://github.com/tim-osterhus/millrace",
   "homepage_url": "https://millrace.ai",
@@ -25,13 +25,13 @@
     "runtime-engine",
     "runtime-engineering"
   ],
-  "star_count": 75,
-  "fork_count": 7,
+  "star_count": 82,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T13:35:35Z",
-  "updated_at": "2026-07-22T20:58:09Z",
-  "pushed_at": "2026-07-22T05:16:18Z",
+  "updated_at": "2026-07-24T04:46:32Z",
+  "pushed_at": "2026-07-24T04:46:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -165,6 +165,10 @@
     {
       "date": "2026-07-22",
       "stars": 75
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 82
     }
   ]
 }

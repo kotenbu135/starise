@@ -3,8 +3,8 @@
   "owner": "yonggekkk",
   "name": "sing-box-yg",
   "full_name": "yonggekkk/sing-box-yg",
-  "description": "Sing-box精装桶五合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能。Hostuno三合一代理脚本",
-  "description_ja": "Sing-box高機能5in1プロトコルVPS専用スクリプト：3つの独自機能！自己署名/acme二重証明書切替、Argo固定・一時二重トンネル（共存可）、Psiphon VPN（30ヶ国）分流機能。Hostuno三合一プロキシスクリプト",
+  "description": "Sing-box精装桶五合一协议VPS专用脚本：三大独家功能！自签/acme双证书切换、Argo固定临时双隧道（可共存）、Psiphon赛风VPN（30个国家）分流功能、本地IP订阅生成",
+  "description_ja": "",
   "url": "https://github.com/yonggekkk/sing-box-yg",
   "homepage_url": "https://ygkkk.blogspot.com/2023/10/sing-box-yg.html",
   "language": "Shell",
@@ -30,12 +30,12 @@
     "warp",
     "xray"
   ],
-  "star_count": 9674,
-  "fork_count": 3027,
+  "star_count": 9691,
+  "fork_count": 3030,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-22T07:08:11Z",
-  "updated_at": "2026-07-22T16:19:55Z",
+  "updated_at": "2026-07-24T14:55:44Z",
   "pushed_at": "2026-07-16T07:37:08Z",
   "deleted_at": "",
   "star_history": [
@@ -342,6 +342,10 @@
     {
       "date": "2026-07-22",
       "stars": 9674
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 9691
     }
   ]
 }

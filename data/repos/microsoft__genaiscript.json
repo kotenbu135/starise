@@ -3,37 +3,19 @@
   "owner": "microsoft",
   "name": "genaiscript",
   "full_name": "microsoft/genaiscript",
-  "description": "Automatable GenAI Scripting",
-  "description_ja": "自動化可能なGenAIスクリプティング。",
+  "description": "DEPRECATED",
+  "description_ja": "非推奨",
   "url": "https://github.com/microsoft/genaiscript",
-  "homepage_url": "https://microsoft.github.io/genaiscript/",
+  "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [
-    "agent",
-    "agents",
-    "ai",
-    "chatgpt",
-    "deepseek-r1",
-    "genai",
-    "genaistack",
-    "gpt",
-    "gpt4",
-    "javascript",
-    "llm",
-    "llm-framework",
-    "phi4",
-    "prompt-engineering",
-    "scripting",
-    "typescript",
-    "vscode-extension"
-  ],
-  "star_count": 2899,
+  "topics": [],
+  "star_count": 2901,
   "fork_count": 230,
   "is_archived": true,
   "is_fork": false,
   "created_at": "2023-08-17T15:57:21Z",
-  "updated_at": "2026-07-21T08:55:56Z",
+  "updated_at": "2026-07-24T04:35:28Z",
   "pushed_at": "2026-05-21T01:15:26Z",
   "deleted_at": "",
   "star_history": [
@@ -344,6 +326,10 @@
     {
       "date": "2026-07-22",
       "stars": 2899
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 2901
     }
   ]
 }

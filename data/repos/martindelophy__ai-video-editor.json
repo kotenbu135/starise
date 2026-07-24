@@ -16,6 +16,7 @@
     "automatic-captions",
     "browser-ai",
     "ffmpeg",
+    "ffmpeg-wasm",
     "joyvasa",
     "liveportrait",
     "onnx",
@@ -24,16 +25,19 @@
     "talking-avatar",
     "text-to-speech",
     "video-editor",
+    "video-processing",
     "vite",
+    "webassembly",
+    "webcodecs",
     "webgpu"
   ],
-  "star_count": 82,
-  "fork_count": 10,
+  "star_count": 254,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-09T04:43:11Z",
-  "updated_at": "2026-07-22T15:33:46Z",
-  "pushed_at": "2026-07-22T10:47:45Z",
+  "updated_at": "2026-07-24T20:50:23Z",
+  "pushed_at": "2026-07-24T08:34:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +51,10 @@
     {
       "date": "2026-07-22",
       "stars": 82
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 254
     }
   ]
 }

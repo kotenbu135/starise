@@ -3,10 +3,10 @@
   "owner": "xyflow",
   "name": "pro-platform",
   "full_name": "xyflow/pro-platform",
-  "description": "✨ The subscriber platform for React Flow Pro. View advanced code examples, invite your team members and manage your subscription.",
-  "description_ja": "React Flow Pro のサブスクライバープラットフォーム。高度なコード例の閲覧、チームメンバーの招待、サブスクリプション管理が可能",
+  "description": "The legacy subscriber platform for React Flow Pro. Not maintained anymore since the platform is now integrated into our websites.",
+  "description_ja": "",
   "url": "https://github.com/xyflow/pro-platform",
-  "homepage_url": "https://pro.reactflow.dev",
+  "homepage_url": "https://reactflow.dev",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -16,11 +16,11 @@
   ],
   "star_count": 129,
   "fork_count": 32,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2023-11-06T10:21:00Z",
-  "updated_at": "2026-07-01T11:37:11Z",
-  "pushed_at": "2026-07-01T11:37:06Z",
+  "updated_at": "2026-07-23T09:11:46Z",
+  "pushed_at": "2026-07-23T08:12:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -325,6 +325,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 129
+    },
+    {
+      "date": "2026-07-24",
       "stars": 129
     }
   ]

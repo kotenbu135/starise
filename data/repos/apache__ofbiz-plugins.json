@@ -7,7 +7,7 @@
   "description_ja": "Apache OFBiz は企業プロセスの自動化を目的としたオープンソース製品です。ERP、CRM、E ビジネス／E コマース、サプライチェーン管理、製造リソース計画向けのフレームワークコンポーネントとビジネスアプリケーションを含みます。OFBiz は信頼性・安全性・スケーラビリティに優れたエンタープライズソリューションの基盤と出発点を提供します。",
   "url": "https://github.com/apache/ofbiz-plugins",
   "homepage_url": "https://ofbiz.apache.org/",
-  "language": "Java",
+  "language": "FreeMarker",
   "license": "Apache-2.0",
   "topics": [
     "content",
@@ -24,13 +24,13 @@
     "web-framework",
     "xml"
   ],
-  "star_count": 174,
-  "fork_count": 215,
+  "star_count": 175,
+  "fork_count": 216,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-03-05T08:00:07Z",
-  "updated_at": "2026-07-22T02:19:57Z",
-  "pushed_at": "2026-07-22T03:54:14Z",
+  "updated_at": "2026-07-24T09:18:50Z",
+  "pushed_at": "2026-07-24T08:21:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -336,6 +336,10 @@
     {
       "date": "2026-07-22",
       "stars": 174
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 175
     }
   ]
 }

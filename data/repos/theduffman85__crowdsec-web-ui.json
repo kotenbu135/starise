@@ -3,7 +3,7 @@
   "owner": "theduffman85",
   "name": "crowdsec-web-ui",
   "full_name": "theduffman85/crowdsec-web-ui",
-  "description": "A modern, responsive web interface for managing CrowdSec alerts and decisions. ",
+  "description": "A self-hosted dashboard for CrowdSec: investigate alerts, manage decisions, monitor runtime metrics, and send notifications from one responsive UI.",
   "description_ja": "",
   "url": "https://github.com/TheDuffman85/crowdsec-web-ui",
   "homepage_url": "",
@@ -24,13 +24,13 @@
     "ntfy",
     "self-hosted"
   ],
-  "star_count": 434,
+  "star_count": 443,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-09T21:07:39Z",
-  "updated_at": "2026-07-22T20:23:15Z",
-  "pushed_at": "2026-07-22T20:51:11Z",
+  "updated_at": "2026-07-24T21:51:55Z",
+  "pushed_at": "2026-07-24T22:01:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -252,6 +252,10 @@
     {
       "date": "2026-07-22",
       "stars": 434
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 443
     }
   ]
 }

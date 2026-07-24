@@ -1,0 +1,37 @@
+{
+  "repo_id": "R_kgDOTIgBLw",
+  "owner": "fengyede79",
+  "name": "text-to-sql-agent-system",
+  "full_name": "fengyede79/text-to-sql-agent-system",
+  "description": "面向企业结构化数据问数的可控 Text-to-SQL Agent 工程实践，覆盖语义预检、多路元数据召回、LangGraph 编排、SQL 安全校验、有界纠错、Recovery Agent 与真实链路评测闭环。",
+  "description_ja": "",
+  "url": "https://github.com/fengyede79/text-to-sql-agent-system",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "agent",
+    "elasticsearch",
+    "evaluation",
+    "fastapi",
+    "langgraph",
+    "qdrant",
+    "sqlglot",
+    "sse",
+    "text-to-sql"
+  ],
+  "star_count": 68,
+  "fork_count": 0,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-29T12:15:46Z",
+  "updated_at": "2026-07-24T14:38:01Z",
+  "pushed_at": "2026-07-11T11:37:52Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-24",
+      "stars": 68
+    }
+  ]
+}

@@ -10,6 +10,8 @@
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
+    "email-relay",
+    "email-routing",
     "http-to-smtp",
     "mail-delivery",
     "mailchimp-alternative",
@@ -30,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T08:17:18Z",
-  "updated_at": "2026-07-22T18:52:15Z",
-  "pushed_at": "2026-07-22T18:53:25Z",
+  "updated_at": "2026-07-24T02:43:45Z",
+  "pushed_at": "2026-07-24T19:06:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -340,6 +342,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 79
+    },
+    {
+      "date": "2026-07-24",
       "stars": 79
     }
   ]

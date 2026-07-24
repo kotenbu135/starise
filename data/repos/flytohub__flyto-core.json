@@ -3,7 +3,7 @@
   "owner": "flytohub",
   "name": "flyto-core",
   "full_name": "flytohub/flyto-core",
-  "description": "Flyto2 Core is the open-source execution kernel for automation and AI-agent workflows: 451 registry-backed modules, MCP-native transport, YAML recipes, evidence capture, replay, triggers, queue, versioning, and metering.",
+  "description": "Flyto2 Core is the open-source execution kernel for automation and AI-agent workflows: 452 registry-backed modules, MCP-native transport, YAML recipes, evidence capture, replay, triggers, queue, versioning, and metering.",
   "description_ja": "",
   "url": "https://github.com/flytohub/flyto-core",
   "homepage_url": "https://flyto2.com",
@@ -32,12 +32,12 @@
     "workflow-engine"
   ],
   "star_count": 477,
-  "fork_count": 82,
+  "fork_count": 83,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-04T08:50:27Z",
-  "updated_at": "2026-07-22T12:56:35Z",
-  "pushed_at": "2026-07-22T12:55:37Z",
+  "updated_at": "2026-07-23T04:39:47Z",
+  "pushed_at": "2026-07-23T04:44:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -138,6 +138,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 477
+    },
+    {
+      "date": "2026-07-24",
       "stars": 477
     }
   ]

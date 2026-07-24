@@ -6,7 +6,7 @@
   "description": "🦀🌡️ Real-time system monitor for Apple Silicon Macs (M1–M5). No sudo. TUI, JSON/Prometheus metrics server, and Rust library.",
   "description_ja": "🦀🌡️ Apple Silicon Mac（M1〜M5）向けリアルタイムシステムモニタ。sudo 不要。TUI、JSON/Prometheus メトリクスサーバ、Rust ライブラリを搭載。",
   "url": "https://github.com/vladkens/macmon",
-  "homepage_url": "",
+  "homepage_url": "https://docs.rs/macmon",
   "language": "Rust",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "system-monitor",
     "tui"
   ],
-  "star_count": 1740,
+  "star_count": 1744,
   "fork_count": 68,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-16T08:34:34Z",
-  "updated_at": "2026-07-22T08:06:48Z",
-  "pushed_at": "2026-06-09T20:53:57Z",
+  "updated_at": "2026-07-24T11:57:55Z",
+  "pushed_at": "2026-07-24T01:18:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -343,6 +343,10 @@
     {
       "date": "2026-07-22",
       "stars": 1740
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 1744
     }
   ]
 }

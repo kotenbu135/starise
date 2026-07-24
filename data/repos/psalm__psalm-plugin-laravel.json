@@ -3,8 +3,8 @@
   "owner": "psalm",
   "name": "psalm-plugin-laravel",
   "full_name": "psalm/psalm-plugin-laravel",
-  "description": "Laravel static analysis with built-in security scanning",
-  "description_ja": "組み込みセキュリティスキャンを備えたLaravel静的解析ツール",
+  "description": "Security-focused Laravel static analyser",
+  "description_ja": "",
   "url": "https://github.com/psalm/psalm-plugin-laravel",
   "homepage_url": "",
   "language": "PHP",
@@ -15,6 +15,8 @@
     "php-static-analysis",
     "psalm",
     "psalm-plugin",
+    "security",
+    "security-audit",
     "static-analysis"
   ],
   "star_count": 334,
@@ -22,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-02-18T23:11:27Z",
-  "updated_at": "2026-07-20T22:45:46Z",
-  "pushed_at": "2026-07-17T18:01:15Z",
+  "updated_at": "2026-07-24T19:10:55Z",
+  "pushed_at": "2026-07-24T18:53:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -328,6 +330,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 334
+    },
+    {
+      "date": "2026-07-24",
       "stars": 334
     }
   ]

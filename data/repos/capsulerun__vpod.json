@@ -3,7 +3,7 @@
   "owner": "capsulerun",
   "name": "vpod",
   "full_name": "capsulerun/vpod",
-  "description": "Lightweight, secure sandboxes for untrusted processes.",
+  "description": "Lightweight, secure linux sandboxes for untrusted processes.",
   "description_ja": "",
   "url": "https://github.com/capsulerun/vpod",
   "homepage_url": "https://docs.vpod.sh/",
@@ -13,6 +13,7 @@
     "ai-agents",
     "code-execution",
     "code-interpreter",
+    "isolation",
     "llm",
     "python",
     "riscv",
@@ -26,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-17T15:52:47Z",
-  "updated_at": "2026-07-22T18:50:29Z",
-  "pushed_at": "2026-07-22T18:49:55Z",
+  "updated_at": "2026-07-24T15:47:58Z",
+  "pushed_at": "2026-07-24T12:56:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -164,6 +165,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 62
+    },
+    {
+      "date": "2026-07-24",
       "stars": 62
     }
   ]

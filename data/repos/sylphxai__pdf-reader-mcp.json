@@ -3,7 +3,7 @@
   "owner": "sylphxai",
   "name": "pdf-reader-mcp",
   "full_name": "sylphxai/pdf-reader-mcp",
-  "description": "📄 The PDF intelligence layer for AI agents — Agent Document Twin, evidence-first extraction, visual crops, OCR provenance, trust reports, and benchmark-gated releases. MCP server for Claude, Cursor, VS Code, and any MCP client.",
+  "description": "Give your AI agent eyes for PDFs — structured text, tables, OCR, visual evidence, and page-level citations via MCP. Native Rust, local-first.",
   "description_ja": "",
   "url": "https://github.com/SylphxAI/pdf-reader-mcp",
   "homepage_url": "https://sylphxai.github.io/pdf-reader-mcp/",
@@ -20,24 +20,23 @@
     "llm-tool",
     "mcp",
     "model-context-protocol",
-    "nodejs",
     "ocr",
     "pdf",
     "pdf-intelligence",
     "pdf-reader",
     "pdf-to-markdown",
     "rag",
+    "rust",
     "trust-report",
-    "typescript",
     "visual-evidence"
   ],
-  "star_count": 832,
-  "fork_count": 72,
+  "star_count": 835,
+  "fork_count": 73,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-04T16:17:42Z",
-  "updated_at": "2026-07-22T21:37:25Z",
-  "pushed_at": "2026-07-22T21:37:21Z",
+  "updated_at": "2026-07-24T21:44:35Z",
+  "pushed_at": "2026-07-24T22:02:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -347,6 +346,10 @@
     {
       "date": "2026-07-22",
       "stars": 832
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 835
     }
   ]
 }

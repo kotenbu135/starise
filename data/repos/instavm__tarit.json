@@ -3,7 +3,7 @@
   "owner": "instavm",
   "name": "tarit",
   "full_name": "instavm/tarit",
-  "description": "A hypervisor and sandbox cloud for self-hosted AI agents and RL",
+  "description": "A hypervisor and sandbox cloud for self-hosting AI agents and RL",
   "description_ja": "",
   "url": "https://github.com/instavm/tarit",
   "homepage_url": "https://instavm.io",
@@ -16,13 +16,13 @@
     "rust",
     "sandbox"
   ],
-  "star_count": 61,
+  "star_count": 66,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-06T11:31:06Z",
-  "updated_at": "2026-07-22T20:44:38Z",
-  "pushed_at": "2026-07-20T04:39:00Z",
+  "updated_at": "2026-07-24T11:03:26Z",
+  "pushed_at": "2026-07-24T11:06:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +36,10 @@
     {
       "date": "2026-07-22",
       "stars": 61
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 66
     }
   ]
 }

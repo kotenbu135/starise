@@ -10,20 +10,27 @@
   "language": "Java",
   "license": "",
   "topics": [
+    "ai-grounding",
     "ai-mode",
+    "ai-search",
+    "ai-training",
+    "firecrawl-alternative",
     "google-ai",
     "google-ai-mode",
     "proxy-scrape",
     "scraper-api",
+    "search-api",
+    "tavily-alternative",
     "web-scraper",
-    "web-scraper-api"
+    "web-scraper-api",
+    "web-search-api"
   ],
-  "star_count": 3420,
+  "star_count": 3455,
   "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-08T13:17:40Z",
-  "updated_at": "2026-07-22T06:18:34Z",
+  "updated_at": "2026-07-24T20:28:59Z",
   "pushed_at": "2026-06-08T10:14:30Z",
   "deleted_at": "",
   "star_history": [
@@ -334,6 +341,10 @@
     {
       "date": "2026-07-22",
       "stars": 3420
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 3455
     }
   ]
 }

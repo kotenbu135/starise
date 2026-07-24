@@ -7,31 +7,37 @@
   "description_ja": "",
   "url": "https://github.com/RiccardoBiosas/awesome-MLSecOps",
   "homepage_url": "https://awesomemlsecops.com/",
-  "language": "",
+  "language": "Astro",
   "license": "MIT",
   "topics": [
-    "awesome",
-    "cloud",
+    "adversarial-machine-learning",
+    "agentic-security",
+    "ai-agents",
+    "ai-governance",
+    "ai-red-teaming",
+    "ai-security",
     "data-poisoning",
-    "devsecops",
-    "exploit",
-    "large-language-models",
-    "llm",
-    "machine-learning",
+    "large-language-model",
+    "llm-security",
     "machine-learning-security",
+    "mcp-security",
     "mlops",
+    "mlops-security",
     "mlsecops",
-    "prompt",
-    "prompt-engineering",
-    "security"
+    "model-poisoning",
+    "owasp",
+    "prompt-injection",
+    "rag-security",
+    "supply-chain-security",
+    "threat-modeling"
   ],
-  "star_count": 439,
-  "fork_count": 87,
+  "star_count": 440,
+  "fork_count": 88,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-01T10:06:32Z",
-  "updated_at": "2026-07-19T05:36:20Z",
-  "pushed_at": "2026-07-19T04:28:36Z",
+  "updated_at": "2026-07-24T06:46:54Z",
+  "pushed_at": "2026-07-24T04:18:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -165,6 +171,10 @@
     {
       "date": "2026-07-22",
       "stars": 439
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 440
     }
   ]
 }

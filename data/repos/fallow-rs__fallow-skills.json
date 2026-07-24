@@ -7,7 +7,7 @@
   "description_ja": "",
   "url": "https://github.com/fallow-rs/fallow-skills",
   "homepage_url": "https://docs.fallow.tools/integrations/agent-skills",
-  "language": "Shell",
+  "language": "JavaScript",
   "license": "MIT",
   "topics": [
     "agent-skills",
@@ -31,13 +31,13 @@
     "unused-exports",
     "windsurf"
   ],
-  "star_count": 103,
+  "star_count": 105,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-20T11:08:51Z",
-  "updated_at": "2026-07-22T16:14:50Z",
-  "pushed_at": "2026-07-22T16:14:03Z",
+  "updated_at": "2026-07-24T20:47:12Z",
+  "pushed_at": "2026-07-24T20:47:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -283,6 +283,10 @@
     {
       "date": "2026-07-22",
       "stars": 103
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 105
     }
   ]
 }

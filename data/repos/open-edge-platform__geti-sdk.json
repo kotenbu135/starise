@@ -3,8 +3,8 @@
   "owner": "open-edge-platform",
   "name": "geti-sdk",
   "full_name": "open-edge-platform/geti-sdk",
-  "description": "Software Development Kit (SDK) for the Geti™ platform for Computer Vision AI model training. ",
-  "description_ja": "コンピュータービジョンAIモデルのトレーニングを行うGeti™プラットフォーム向けSDK（ソフトウェア開発キット）。",
+  "description": "⚠️ [Deprecated] SDK for the Geti™ platform (v2.x only)",
+  "description_ja": "",
   "url": "https://github.com/open-edge-platform/geti-sdk",
   "homepage_url": "https://open-edge-platform.github.io/geti-sdk/",
   "language": "Python",
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-07-21T11:11:26Z",
-  "updated_at": "2026-07-14T11:15:37Z",
-  "pushed_at": "2026-07-15T03:10:56Z",
+  "updated_at": "2026-07-23T14:16:14Z",
+  "pushed_at": "2026-07-24T03:21:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -331,6 +331,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 124
+    },
+    {
+      "date": "2026-07-24",
       "stars": 124
     }
   ]

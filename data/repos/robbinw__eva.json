@@ -3,19 +3,24 @@
   "owner": "robbinw",
   "name": "eva",
   "full_name": "robbinw/eva",
-  "description": "EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards",
+  "description": "Official Implementation of \"EVA: Aligning Video World Models with Executable Robot Actions via Inverse Dynamics Rewards\"",
   "description_ja": "",
   "url": "https://github.com/RobbinW/EVA",
-  "homepage_url": "",
+  "homepage_url": "https://eva-project-page.github.io/",
   "language": "Python",
   "license": "",
-  "topics": [],
+  "topics": [
+    "embodied-ai",
+    "video-generation",
+    "world-model",
+    "world-model-rl"
+  ],
   "star_count": 60,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T08:59:42Z",
-  "updated_at": "2026-07-16T06:48:18Z",
+  "updated_at": "2026-07-23T18:05:00Z",
   "pushed_at": "2026-05-13T18:14:20Z",
   "deleted_at": "",
   "star_history": [
@@ -225,6 +230,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 60
+    },
+    {
+      "date": "2026-07-24",
       "stars": 60
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "smixs",
   "name": "humanizer-ru",
   "full_name": "smixs/humanizer-ru",
-  "description": "Skill для AI-агентов (Claude Code, Codex, OpenClaw, Hermes): убирает 32 признака AI-генерации из русского текста - канцелярит, штампы ChatGPT, слоп | Russian AI-text humanizer skill for coding agents",
+  "description": "Skill для AI-агентов (Claude Code, Codex, OpenClaw, Hermes): убирает 37 признаков AI-генерации из русского текста и проверяет, писала ли его нейросеть - канцелярит, штампы ChatGPT, артефакты копипаста | Russian AI-text humanizer \u0026 detector skill for coding agents",
   "description_ja": "",
   "url": "https://github.com/smixs/humanizer-ru",
   "homepage_url": "",
@@ -31,13 +31,13 @@
     "text-processing",
     "writing-tools"
   ],
-  "star_count": 104,
+  "star_count": 107,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-27T11:05:51Z",
-  "updated_at": "2026-07-22T20:58:37Z",
-  "pushed_at": "2026-07-21T03:52:36Z",
+  "updated_at": "2026-07-23T18:43:33Z",
+  "pushed_at": "2026-07-23T04:07:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -343,6 +343,10 @@
     {
       "date": "2026-07-22",
       "stars": 104
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 107
     }
   ]
 }

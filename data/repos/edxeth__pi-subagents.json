@@ -3,20 +3,20 @@
   "owner": "edxeth",
   "name": "pi-subagents",
   "full_name": "edxeth/pi-subagents",
-  "description": "Power-user multi-agent framework for Pi: named agents, interactive sessions via Herdr/cmux/tmux/zellij/WezTerm, background workers, async/sync coordination, fork/resume, child-to-parent messaging, orchestrator mode, and a live TUI",
+  "description": "Pi multi-agent framework for power users: background/foreground agents, sync/async coordination, fresh/forked context, child-to-parent messaging, orchestrator mode, supports tmux | cmux | ZelliJ | WezTerm | Herdr",
   "description_ja": "",
   "url": "https://github.com/edxeth/pi-subagents",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [],
-  "star_count": 89,
-  "fork_count": 15,
+  "star_count": 90,
+  "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-16T15:13:11Z",
-  "updated_at": "2026-07-22T17:34:03Z",
-  "pushed_at": "2026-07-21T12:28:44Z",
+  "updated_at": "2026-07-24T14:29:47Z",
+  "pushed_at": "2026-07-24T14:29:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -154,6 +154,10 @@
     {
       "date": "2026-07-22",
       "stars": 89
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 90
     }
   ]
 }

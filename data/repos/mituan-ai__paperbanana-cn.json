@@ -3,28 +3,29 @@
   "owner": "mituan-ai",
   "name": "paperbanana-cn",
   "full_name": "mituan-ai/paperbanana-cn",
-  "description": "PaperBanana-CN：支持各类中转站的科研生图工具（中文友好，包含最新gpt-image-2）",
+  "description": "Scientific figure workbench with independent VLM/image connections, Chinese UI, and unified size controls.",
   "description_ja": "",
   "url": "https://github.com/mituan-ai/PaperBanana-CN",
   "homepage_url": "https://github.com/mituan-ai/PaperBanana-CN",
   "language": "Python",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "topics": [
     "academic-figures",
     "bilingual",
-    "gateway",
-    "gemini",
-    "openai",
+    "gradio",
+    "image-generation",
+    "mcp",
     "paperbanana",
-    "streamlit"
+    "python",
+    "scientific-visualization"
   ],
   "star_count": 64,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-24T07:40:10Z",
-  "updated_at": "2026-07-12T11:57:20Z",
-  "pushed_at": "2026-05-13T01:41:19Z",
+  "updated_at": "2026-07-24T10:40:13Z",
+  "pushed_at": "2026-07-24T10:40:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -249,6 +250,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 64
+    },
+    {
+      "date": "2026-07-24",
       "stars": 64
     }
   ]

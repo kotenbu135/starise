@@ -3,12 +3,12 @@
   "owner": "swissmakers",
   "name": "fail2ban-ui",
   "full_name": "swissmakers/fail2ban-ui",
-  "description": "Fail2Ban UI is a swissmade web interface for operating Fail2Ban across one or more Linux hosts. It provides a central place to review bans, search and unban IPs, manage jails and filters, and receive notifications.",
+  "description": "Fail2Ban UI is a management platform for operating Fail2Ban across one or more Linux hosts. It provides a central place to review bans, search and unban IP addresses, manage jails and filters, and receive notifications.",
   "description_ja": "",
   "url": "https://github.com/swissmakers/fail2ban-ui",
   "homepage_url": "https://fail2ban-ui.com",
   "language": "Go",
-  "license": "GPL-3.0",
+  "license": "AGPL-3.0",
   "topics": [
     "dashboard",
     "fail2ban",
@@ -19,13 +19,13 @@
     "remote-management",
     "webui"
   ],
-  "star_count": 312,
+  "star_count": 313,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-25T14:57:53Z",
-  "updated_at": "2026-07-22T16:55:42Z",
-  "pushed_at": "2026-07-22T17:22:30Z",
+  "updated_at": "2026-07-24T21:05:27Z",
+  "pushed_at": "2026-07-24T21:05:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -191,6 +191,10 @@
     {
       "date": "2026-07-22",
       "stars": 312
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 313
     }
   ]
 }

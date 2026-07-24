@@ -3,20 +3,31 @@
   "owner": "chnjames",
   "name": "aigeotools",
   "full_name": "chnjames/aigeotools",
-  "description": "GEO 智能内容优化平台",
+  "description": "GEO（AI 搜索引擎优化）智能内容优化平台 — 帮助品牌在 ChatGPT、Perplexity 等 AI 回答中被优先引用。支持关键词策略、多平台内容生成、E-E-A-T 优化、多模型验证和数据分析。",
   "description_ja": "",
   "url": "https://github.com/chnjames/AIGEOTOOLS",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 116,
+  "topics": [
+    "ai-seo",
+    "brand-visibility",
+    "content-marketing",
+    "eeat",
+    "generative-engine-optimization",
+    "geo",
+    "langchain",
+    "llm",
+    "rag",
+    "streamlit"
+  ],
+  "star_count": 117,
   "fork_count": 45,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-23T07:39:37Z",
-  "updated_at": "2026-07-22T00:36:43Z",
-  "pushed_at": "2026-04-30T15:35:34Z",
+  "updated_at": "2026-07-24T08:14:18Z",
+  "pushed_at": "2026-07-24T08:13:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -118,6 +129,10 @@
     {
       "date": "2026-07-22",
       "stars": 116
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 117
     }
   ]
 }

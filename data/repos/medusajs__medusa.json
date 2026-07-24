@@ -3,13 +3,15 @@
   "owner": "medusajs",
   "name": "medusa",
   "full_name": "medusajs/medusa",
-  "description": "The world's most flexible commerce platform.",
-  "description_ja": "世界で最も柔軟なコマースプラットフォーム。",
+  "description": "The world's most flexible commerce platform for agents and developers",
+  "description_ja": "",
   "url": "https://github.com/medusajs/medusa",
   "homepage_url": "https://medusajs.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "ai-coding",
+    "ai-tools",
     "commerce",
     "e-commerce",
     "ecommerce",
@@ -20,13 +22,13 @@
     "react",
     "typescript"
   ],
-  "star_count": 35291,
-  "fork_count": 4960,
+  "star_count": 35337,
+  "fork_count": 4970,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-01-18T13:39:04Z",
-  "updated_at": "2026-07-22T19:50:41Z",
-  "pushed_at": "2026-07-22T20:04:11Z",
+  "updated_at": "2026-07-24T20:21:15Z",
+  "pushed_at": "2026-07-24T20:06:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -336,6 +338,10 @@
     {
       "date": "2026-07-22",
       "stars": 35291
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 35337
     }
   ]
 }

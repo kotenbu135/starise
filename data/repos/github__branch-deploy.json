@@ -7,7 +7,7 @@
   "description_ja": "GitHub ActionsのIssueOpsによるブランチデプロイの実現 — このプロジェクトが役立つと思ったらスターをお願いします！⭐️",
   "url": "https://github.com/github/branch-deploy",
   "homepage_url": "https://github.com/marketplace/actions/branch-deploy",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "action",
@@ -28,12 +28,12 @@
     "workflows"
   ],
   "star_count": 558,
-  "fork_count": 67,
+  "fork_count": 68,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-28T13:51:25Z",
-  "updated_at": "2026-07-20T00:56:22Z",
-  "pushed_at": "2026-07-06T11:52:55Z",
+  "updated_at": "2026-07-24T06:23:13Z",
+  "pushed_at": "2026-07-24T06:23:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -338,6 +338,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 558
+    },
+    {
+      "date": "2026-07-24",
       "stars": 558
     }
   ]

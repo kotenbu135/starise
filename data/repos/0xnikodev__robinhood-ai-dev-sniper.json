@@ -3,10 +3,10 @@
   "owner": "0xnikodev",
   "name": "robinhood-ai-dev-sniper",
   "full_name": "0xnikodev/robinhood-ai-dev-sniper",
-  "description": "🏹 RobinHood — AI Dev Sniper: high-performance Go trading bot for Ethereum \u0026 EVM chains. Uniswap V2/V3 sniper with Flashbots bundle protection, multi-wallet coordinated buys, real-time mempool monitoring, AI deving autopilot, Twitter/X signal parsing, top-dev tracking, volume bot and ERC-20 token creator. Base, BNB Chain, Arbitrum.",
+  "description": "🏹 RobinHood — AI Dev Sniper: Go sniper \u0026 trading panel for Robinhood Chain (Arbitrum-Orbit L2, id 4663). Boundary-race launch sniping via pre-signed on-chain relay volleys, Uniswap V3, dev-buy-band + storm-gate auto-sniper, trailing exit, multi-wallet pool, one-tx token launch. By TokenLab · t.me/TokenLabPW",
   "description_ja": "",
   "url": "https://github.com/0xNikoDev/robinhood-ai-dev-sniper",
-  "homepage_url": "",
+  "homepage_url": "https://memesnipe.fun",
   "language": "Go",
   "license": "NOASSERTION",
   "topics": [
@@ -31,13 +31,13 @@
     "uniswap",
     "web3"
   ],
-  "star_count": 85,
+  "star_count": 135,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-14T01:15:03Z",
-  "updated_at": "2026-07-22T17:08:07Z",
-  "pushed_at": "2026-07-14T01:15:09Z",
+  "updated_at": "2026-07-24T07:57:33Z",
+  "pushed_at": "2026-07-23T19:41:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-07-22",
       "stars": 85
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 135
     }
   ]
 }

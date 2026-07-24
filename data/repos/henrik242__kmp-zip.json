@@ -3,7 +3,7 @@
   "owner": "henrik242",
   "name": "kmp-zip",
   "full_name": "henrik242/kmp-zip",
-  "description": "Kotlin Multiplatform ZIP stream library for JVM and iOS targets.",
+  "description": "Kotlin Multiplatform ZIP stream library for JVM, iOS, native and Wasm targets.",
   "description_ja": "",
   "url": "https://github.com/henrik242/kmp-zip",
   "homepage_url": "",
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-17T08:05:05Z",
-  "updated_at": "2026-07-08T10:19:12Z",
-  "pushed_at": "2026-07-15T05:55:25Z",
+  "updated_at": "2026-07-24T16:37:28Z",
+  "pushed_at": "2026-07-24T16:37:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -300,6 +300,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 25
+    },
+    {
+      "date": "2026-07-24",
       "stars": 25
     }
   ]

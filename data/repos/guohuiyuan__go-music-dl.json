@@ -3,7 +3,7 @@
   "owner": "guohuiyuan",
   "name": "go-music-dl",
   "full_name": "guohuiyuan/go-music-dl",
-  "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：1074285005",
+  "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
   "description_ja": "",
   "url": "https://github.com/guohuiyuan/go-music-dl",
   "homepage_url": "https://music.zkkp.nyc.mn",
@@ -13,13 +13,13 @@
     "go",
     "music"
   ],
-  "star_count": 3673,
-  "fork_count": 337,
+  "star_count": 3691,
+  "fork_count": 341,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-18T16:29:10Z",
-  "updated_at": "2026-07-22T16:40:15Z",
-  "pushed_at": "2026-07-20T08:20:49Z",
+  "updated_at": "2026-07-24T19:55:03Z",
+  "pushed_at": "2026-07-24T07:17:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -213,6 +213,10 @@
     {
       "date": "2026-07-22",
       "stars": 3673
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 3691
     }
   ]
 }

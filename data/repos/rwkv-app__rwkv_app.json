@@ -3,10 +3,10 @@
   "owner": "rwkv-app",
   "name": "rwkv_app",
   "full_name": "rwkv-app/rwkv_app",
-  "description": "A fast, lightweight, and extensible RWKV chat UI powered by Flutter. Offline-ready, multi-backend support, ideal for local RWKV inference.",
+  "description": "Cross-platform, local-first RWKV chat built with Flutter for Android, iOS, Windows, macOS, and Linux.",
   "description_ja": "",
   "url": "https://github.com/RWKV-APP/RWKV_APP",
-  "homepage_url": "https://rwkv.com",
+  "homepage_url": "https://rwkv.halowang.cloud/",
   "language": "Dart",
   "license": "Apache-2.0",
   "topics": [
@@ -16,7 +16,7 @@
     "mobile-app",
     "offline-app",
     "rwkv",
-    "text-to-speeh",
+    "text-to-speech",
     "visual-question-answering"
   ],
   "star_count": 107,
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-09T06:45:02Z",
-  "updated_at": "2026-07-18T00:44:54Z",
-  "pushed_at": "2026-07-17T17:08:31Z",
+  "updated_at": "2026-07-23T09:14:43Z",
+  "pushed_at": "2026-07-23T09:14:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -238,6 +238,10 @@
     },
     {
       "date": "2026-07-22",
+      "stars": 107
+    },
+    {
+      "date": "2026-07-24",
       "stars": 107
     }
   ]

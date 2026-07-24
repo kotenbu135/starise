@@ -6,17 +6,22 @@
   "description": "Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.",
   "description_ja": "",
   "url": "https://github.com/alangrainger/immich-public-proxy",
-  "homepage_url": "",
+  "homepage_url": "https://docs.ipp.nz",
   "language": "TypeScript",
   "license": "AGPL-3.0",
-  "topics": [],
-  "star_count": 2098,
+  "topics": [
+    "gallery",
+    "immich",
+    "privacy",
+    "security"
+  ],
+  "star_count": 2104,
   "fork_count": 71,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-29T14:59:27Z",
-  "updated_at": "2026-07-22T18:50:02Z",
-  "pushed_at": "2026-07-17T03:01:56Z",
+  "updated_at": "2026-07-24T13:03:45Z",
+  "pushed_at": "2026-07-24T10:15:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -170,6 +175,10 @@
     {
       "date": "2026-07-22",
       "stars": 2098
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 2104
     }
   ]
 }

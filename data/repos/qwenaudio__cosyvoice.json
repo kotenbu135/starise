@@ -1,0 +1,355 @@
+{
+  "repo_id": "R_kgDOMRSMsg",
+  "owner": "qwenaudio",
+  "name": "cosyvoice",
+  "full_name": "qwenaudio/cosyvoice",
+  "description": "Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.",
+  "description_ja": "多言語対応の大規模音声生成モデル。推論・学習・デプロイのフルスタック機能を提供",
+  "url": "https://github.com/QwenAudio/CosyVoice",
+  "homepage_url": "https://funaudiollm.github.io/cosyvoice3",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "audio-generation",
+    "cantonese",
+    "chatbot",
+    "chatgpt",
+    "chinese",
+    "cosyvoice",
+    "cross-lingual",
+    "english",
+    "fine-grained",
+    "fine-tuning",
+    "gpt-4o",
+    "japanese",
+    "korean",
+    "multi-lingual",
+    "natural-language-generation",
+    "python",
+    "text-to-speech",
+    "tts",
+    "voice-cloning"
+  ],
+  "star_count": 22385,
+  "fork_count": 2584,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2024-07-03T02:59:22Z",
+  "updated_at": "2026-07-24T21:12:54Z",
+  "pushed_at": "2026-05-25T18:15:40Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 20687
+    },
+    {
+      "date": "2026-04-23",
+      "stars": 20720
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 20750
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 20762
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 20791
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 20827
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 20842
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 20858
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 20871
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 20956
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 20970
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 20985
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 20996
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 21029
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 21051
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 21062
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 21079
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 21100
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 21124
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 21138
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 21185
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 21205
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 21220
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 21241
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 21281
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 21333
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 21354
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 21376
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 21427
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 21444
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 21469
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 21486
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 21501
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 21525
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 21545
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 21574
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 21594
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 21620
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 21633
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 21647
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 21665
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 21680
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 21697
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 21724
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 21738
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 21753
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 21765
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 21789
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 21806
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 21827
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 21839
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 21859
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 21869
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 21874
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 21889
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 21899
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 21919
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 21939
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 21959
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 21969
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 21977
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 22001
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 22022
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 22044
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 22063
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 22078
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 22102
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 22117
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 22137
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 22165
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 22189
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 22219
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 22238
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 22253
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 22268
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 22327
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 22355
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 22385
+    }
+  ]
+}
