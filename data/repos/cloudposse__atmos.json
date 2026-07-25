@@ -3,8 +3,8 @@
   "owner": "cloudposse",
   "name": "atmos",
   "full_name": "cloudposse/atmos",
-  "description": "👽 Terraform Orchestration Tool for DevOps. Keep environment configuration DRY with hierarchical imports of configurations, inheritance, and WAY more. Native support for Terraform and Helmfile.",
-  "description_ja": "👽 DevOps向けTerraformオーケストレーションツール。設定の階層インポートや継承などでDRYな環境構成を実現。TerraformとHelmfileをネイティブサポート。",
+  "description": "Atmos is the open-source runtime for infrastructure — it builds, authenticates, and ships Terraform, OpenTofu, Kubernetes, Helm, and containers the same way on your laptop, in CI, and with AI agents.",
+  "description_ja": "",
   "url": "https://github.com/cloudposse/atmos",
   "homepage_url": "https://atmos.tools",
   "language": "Go",
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-09-03T00:46:14Z",
-  "updated_at": "2026-07-24T17:40:49Z",
-  "pushed_at": "2026-07-24T19:25:57Z",
+  "updated_at": "2026-07-25T15:02:47Z",
+  "pushed_at": "2026-07-25T19:32:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -336,6 +336,10 @@
     },
     {
       "date": "2026-07-24",
+      "stars": 1341
+    },
+    {
+      "date": "2026-07-25",
       "stars": 1341
     }
   ]

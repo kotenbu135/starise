@@ -3,10 +3,10 @@
   "owner": "virastack",
   "name": "start",
   "full_name": "virastack/start",
-  "description": "Scaffold new projects and add tools from the ViraStack ecosystem with a single command.",
+  "description": "Production-grade scaffolding CLI for modern React — integrate ecosystem tools in one command.",
   "description_ja": "",
   "url": "https://github.com/virastack/start",
-  "homepage_url": "https://www.virastack.com/en/start/",
+  "homepage_url": "https://www.virastack.com/start/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-08T19:12:35Z",
-  "updated_at": "2026-07-24T00:40:31Z",
-  "pushed_at": "2026-07-24T00:36:06Z",
+  "updated_at": "2026-07-25T13:47:35Z",
+  "pushed_at": "2026-07-25T12:53:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -337,6 +337,10 @@
     },
     {
       "date": "2026-07-24",
+      "stars": 103
+    },
+    {
+      "date": "2026-07-25",
       "stars": 103
     }
   ]

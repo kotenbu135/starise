@@ -3,19 +3,27 @@
   "owner": "semantic-craft",
   "name": "ios-vibebuddy",
   "full_name": "semantic-craft/ios-vibebuddy",
-  "description": "",
+  "description": "vibebuddy — 在手机上盯住你的 AI coding agents：会话总览、需要你时推送、锁屏批准命令、语音对话。Your AI coding agents, on your phone.",
   "description_ja": "",
   "url": "https://github.com/semantic-craft/iOS-vibebuddy",
   "homepage_url": "",
   "language": "Swift",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "ios",
+    "macos",
+    "mobile-companion",
+    "push-notifications",
+    "swift"
+  ],
   "star_count": 98,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-04T11:33:49Z",
-  "updated_at": "2026-07-24T01:06:16Z",
+  "updated_at": "2026-07-25T11:27:46Z",
   "pushed_at": "2026-07-24T01:05:59Z",
   "deleted_at": "",
   "star_history": [
@@ -177,6 +185,10 @@
     },
     {
       "date": "2026-07-24",
+      "stars": 98
+    },
+    {
+      "date": "2026-07-25",
       "stars": 98
     }
   ]

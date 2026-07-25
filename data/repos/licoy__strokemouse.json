@@ -6,7 +6,7 @@
   "description": "macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching.",
   "description_ja": "",
   "url": "https://github.com/Licoy/StrokeMouse",
-  "homepage_url": "",
+  "homepage_url": "https://strokemouse.com",
   "language": "Swift",
   "license": "AGPL-3.0",
   "topics": [
@@ -31,13 +31,13 @@
     "swiftui",
     "utility"
   ],
-  "star_count": 111,
+  "star_count": 112,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-16T08:58:27Z",
-  "updated_at": "2026-07-24T12:34:29Z",
-  "pushed_at": "2026-07-24T12:33:35Z",
+  "updated_at": "2026-07-25T11:17:03Z",
+  "pushed_at": "2026-07-25T11:13:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -63,6 +63,10 @@
     {
       "date": "2026-07-24",
       "stars": 111
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 112
     }
   ]
 }

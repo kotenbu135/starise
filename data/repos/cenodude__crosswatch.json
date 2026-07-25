@@ -3,7 +3,7 @@
   "owner": "cenodude",
   "name": "crosswatch",
   "full_name": "cenodude/crosswatch",
-  "description": "Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, and more. Keep your movies and shows in sync, no matter where you watch.",
+  "description": "Synchronize your data across Plex, Jellyfin, Emby, SIMKL, Trakt,  PublicMetaDB, AniList, TMDb, MDBlist, Nuvio and more. Keep your movies and shows in sync, no matter where you watch.",
   "description_ja": "",
   "url": "https://github.com/cenodude/CrossWatch",
   "homepage_url": "https://wiki.crosswatch.app",
@@ -16,22 +16,25 @@
     "mdblist",
     "media-sync",
     "media-synchronisation",
+    "nuvio",
     "plex",
     "plex-media-server",
+    "publicmetadb",
     "simkl",
     "tautulli",
+    "tautulli-api",
     "tmdb",
     "trakt",
     "watcher",
     "webhook"
   ],
-  "star_count": 666,
+  "star_count": 677,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-27T17:26:22Z",
-  "updated_at": "2026-07-24T20:06:54Z",
-  "pushed_at": "2026-07-24T16:40:55Z",
+  "updated_at": "2026-07-25T18:02:39Z",
+  "pushed_at": "2026-07-25T18:13:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -277,6 +280,10 @@
     {
       "date": "2026-07-24",
       "stars": 666
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 677
     }
   ]
 }

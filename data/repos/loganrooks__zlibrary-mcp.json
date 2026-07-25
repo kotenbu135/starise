@@ -3,20 +3,31 @@
   "owner": "loganrooks",
   "name": "zlibrary-mcp",
   "full_name": "loganrooks/zlibrary-mcp",
-  "description": "",
+  "description": "MCP server for Z-Library: search, download, and process books into RAG-ready text for AI assistants (Claude Code, Claude Desktop, Cline, RooCode)",
   "description_ja": "",
   "url": "https://github.com/loganrooks/zlibrary-mcp",
-  "homepage_url": "",
+  "homepage_url": "https://www.npmjs.com/package/zlibrary-mcp",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 47,
-  "fork_count": 8,
+  "topics": [
+    "ai-assistant",
+    "book-search",
+    "claude",
+    "ebooks",
+    "mcp",
+    "model-context-protocol",
+    "python",
+    "rag",
+    "typescript",
+    "zlibrary"
+  ],
+  "star_count": 49,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-11T03:41:34Z",
-  "updated_at": "2026-07-18T23:13:09Z",
-  "pushed_at": "2026-07-24T20:55:00Z",
+  "updated_at": "2026-07-25T13:56:16Z",
+  "pushed_at": "2026-07-25T02:57:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -310,6 +321,10 @@
     {
       "date": "2026-07-24",
       "stars": 47
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 49
     }
   ]
 }

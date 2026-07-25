@@ -3,20 +3,38 @@
   "owner": "pauljoda",
   "name": "prismedia",
   "full_name": "pauljoda/prismedia",
-  "description": "All in one self hosted, private media library",
+  "description": "Your whole media life in one private, self-hosted library—watch, read, listen, request, and manage across web, iPhone, iPad, and Apple TV.",
   "description_ja": "",
   "url": "https://github.com/pauljoda/Prismedia",
-  "homepage_url": "",
+  "homepage_url": "https://pauljoda.github.io/Prismedia/",
   "language": "C#",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 57,
+  "topics": [
+    "audiobook-player",
+    "docker",
+    "dotnet",
+    "ebook-reader",
+    "ffmpeg",
+    "homelab",
+    "ios",
+    "jellyfin",
+    "media-library",
+    "media-server",
+    "music-server",
+    "postgresql",
+    "self-hosted",
+    "svelte",
+    "swiftui",
+    "tvos",
+    "video-streaming"
+  ],
+  "star_count": 61,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-23T21:02:38Z",
-  "updated_at": "2026-07-24T21:31:37Z",
-  "pushed_at": "2026-07-24T21:31:29Z",
+  "updated_at": "2026-07-25T17:53:17Z",
+  "pushed_at": "2026-07-25T17:53:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -114,6 +132,10 @@
     {
       "date": "2026-07-24",
       "stars": 57
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 61
     }
   ]
 }

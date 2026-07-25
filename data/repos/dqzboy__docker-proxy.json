@@ -3,7 +3,7 @@
   "owner": "dqzboy",
   "name": "docker-proxy",
   "full_name": "dqzboy/docker-proxy",
-  "description": "🔥 🔥 🔥 自建 Docker 镜像加速与管理服务，支持 Docker、K8s、Quay、GHCR、MCR、NVCR 等上游一键部署，并提供 Web 后台进行代理管理。",
+  "description": "自建 Docker 镜像加速与管理服务。零磁盘缓存、可视化面板、支持上游账号认证，支持一键部署Docker、K8s、Quay、Ghcr、Mcr、elastic、nvcr等镜像加速",
   "description_ja": "",
   "url": "https://github.com/dqzboy/Docker-Proxy",
   "homepage_url": "https://docker-proxy-desc.vercel.app",
@@ -14,12 +14,12 @@
     "docker-registry",
     "gcr-registry"
   ],
-  "star_count": 4325,
-  "fork_count": 604,
+  "star_count": 4326,
+  "fork_count": 605,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-08T14:06:48Z",
-  "updated_at": "2026-07-24T15:26:51Z",
+  "updated_at": "2026-07-25T15:24:09Z",
   "pushed_at": "2026-07-24T11:45:33Z",
   "deleted_at": "",
   "star_history": [
@@ -198,6 +198,10 @@
     {
       "date": "2026-07-24",
       "stars": 4325
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 4326
     }
   ]
 }

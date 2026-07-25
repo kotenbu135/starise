@@ -10,11 +10,10 @@
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
-    "ai",
     "diffusion",
     "distributed",
-    "dit",
-    "infra",
+    "gpu",
+    "kunlun",
     "llm",
     "lora",
     "megatron",
@@ -25,15 +24,16 @@
     "vla",
     "vlm",
     "wam",
-    "wan"
+    "wan",
+    "xpu"
   ],
-  "star_count": 315,
+  "star_count": 317,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-23T08:45:42Z",
-  "updated_at": "2026-07-24T20:09:09Z",
-  "pushed_at": "2026-07-24T20:08:53Z",
+  "updated_at": "2026-07-25T17:40:42Z",
+  "pushed_at": "2026-07-25T16:57:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -151,6 +151,10 @@
     {
       "date": "2026-07-24",
       "stars": 315
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 317
     }
   ]
 }

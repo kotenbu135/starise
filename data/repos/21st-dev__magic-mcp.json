@@ -3,20 +3,29 @@
   "owner": "21st-dev",
   "name": "magic-mcp",
   "full_name": "21st-dev/magic-mcp",
-  "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
-  "description_ja": "[35] Cursor / WindSurf / Cline 上で動く v0 のような体験。フロントエンドを魔法のように扱える 21st dev Magic MCP サーバ",
+  "description": "It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st MCP; this package keeps old configs working. Setup: 21st.dev/mcp",
+  "description_ja": "",
   "url": "https://github.com/21st-dev/magic-mcp",
-  "homepage_url": "https://21st.dev/magic",
-  "language": "TypeScript",
+  "homepage_url": "https://21st.dev/mcp",
+  "language": "JavaScript",
   "license": "",
-  "topics": [],
-  "star_count": 5508,
-  "fork_count": 408,
+  "topics": [
+    "21st",
+    "claude",
+    "cursor",
+    "mcp",
+    "model-context-protocol",
+    "react",
+    "tailwindcss",
+    "ui-components"
+  ],
+  "star_count": 5519,
+  "fork_count": 409,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-19T13:17:50Z",
-  "updated_at": "2026-07-24T17:45:08Z",
-  "pushed_at": "2026-02-17T04:50:55Z",
+  "updated_at": "2026-07-25T17:09:58Z",
+  "pushed_at": "2026-07-24T23:30:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -330,6 +339,10 @@
     {
       "date": "2026-07-24",
       "stars": 5508
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 5519
     }
   ]
 }

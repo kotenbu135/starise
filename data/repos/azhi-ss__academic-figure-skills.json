@@ -3,20 +3,31 @@
   "owner": "azhi-ss",
   "name": "academic-figure-skills",
   "full_name": "azhi-ss/academic-figure-skills",
-  "description": "",
+  "description": "AI skills for academic paper figures: repo analysis, figure planning, colorblind palettes, JSON figure specs. Install: npx skills add Azhi-ss/academic-figure-skills",
   "description_ja": "",
   "url": "https://github.com/Azhi-ss/academic-figure-skills",
-  "homepage_url": "",
-  "language": "",
+  "homepage_url": "https://www.skills.sh/azhi-ss/academic-figure-skills",
+  "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 64,
+  "topics": [
+    "academic-writing",
+    "agent-skills",
+    "claude-code",
+    "colorblind-palette",
+    "cvpr",
+    "neurips",
+    "npx-skills",
+    "paper-figures",
+    "prompt-engineering",
+    "scientific-visualization"
+  ],
+  "star_count": 66,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-09T16:20:16Z",
-  "updated_at": "2026-07-24T13:27:45Z",
-  "pushed_at": "2026-05-11T07:30:07Z",
+  "updated_at": "2026-07-25T13:05:21Z",
+  "pushed_at": "2026-07-25T02:13:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +145,10 @@
     {
       "date": "2026-07-24",
       "stars": 64
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 66
     }
   ]
 }

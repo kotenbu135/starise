@@ -3,8 +3,8 @@
   "owner": "bulwarkmail",
   "name": "webmail",
   "full_name": "bulwarkmail/webmail",
-  "description": "JMAP Webmail built for the 21st Century. A modern, self-hosted email client for Stalwart Mail Server powered by the JMAP protocol. Email, calendar, contacts and files. Fast, private, and open source.",
-  "description_ja": "21世紀のために作られたJMAP Webメール。JMAPプロトコルで動作するStalwart Mail Server向けのモダンなセルフホスト型メールクライアント。メール、カレンダー、連絡先、ファイル対応。高速、プライベート、オープンソース。",
+  "description": "Self-hosted JMAP webmail for Stalwart Mail Server. Mail, calendar, contacts, and files in one client.",
+  "description_ja": "",
   "url": "https://github.com/bulwarkmail/webmail",
   "homepage_url": "https://bulwarkmail.org",
   "language": "TypeScript",
@@ -12,22 +12,29 @@
   "topics": [
     "calendar",
     "contacts",
+    "docker",
     "email",
     "email-client",
+    "groupware",
     "jmap",
     "mail",
     "nextjs",
+    "privacy",
+    "pwa",
+    "react",
     "self-hosted",
+    "stalwart",
+    "tailwindcss",
     "typescript",
     "webmail"
   ],
-  "star_count": 865,
+  "star_count": 872,
   "fork_count": 125,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-13T12:01:48Z",
-  "updated_at": "2026-07-24T19:55:48Z",
-  "pushed_at": "2026-07-24T19:55:43Z",
+  "updated_at": "2026-07-25T17:44:40Z",
+  "pushed_at": "2026-07-25T15:53:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -337,6 +344,10 @@
     {
       "date": "2026-07-24",
       "stars": 865
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 872
     }
   ]
 }

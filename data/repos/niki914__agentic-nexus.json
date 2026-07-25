@@ -3,14 +3,16 @@
   "owner": "niki914",
   "name": "agentic-nexus",
   "full_name": "niki914/agentic-nexus",
-  "description": "Android Native Agent that makes screen operations, runs shell commands, uses Skills \u0026 MCP tools, and controls SSH machines",
+  "description": "Android Native AI agent for phone automation — control apps via Accessibility / Root / Shizuku, run Shell / SSH commands, and extend with MCP, Skills",
   "description_ja": "",
   "url": "https://github.com/niki914/agentic-nexus",
   "homepage_url": "",
   "language": "Kotlin",
   "license": "MIT",
   "topics": [
+    "accessibility",
     "agent",
+    "ai",
     "android",
     "automation",
     "claude",
@@ -19,6 +21,7 @@
     "llm",
     "lsposed",
     "mcp",
+    "mobile",
     "root",
     "shizuku",
     "skills",
@@ -26,13 +29,13 @@
     "termux",
     "xposed"
   ],
-  "star_count": 80,
+  "star_count": 82,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-05T05:25:32Z",
-  "updated_at": "2026-07-24T06:17:12Z",
-  "pushed_at": "2026-07-24T17:55:14Z",
+  "updated_at": "2026-07-25T15:36:09Z",
+  "pushed_at": "2026-07-25T16:39:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -146,6 +149,10 @@
     {
       "date": "2026-07-24",
       "stars": 80
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 82
     }
   ]
 }

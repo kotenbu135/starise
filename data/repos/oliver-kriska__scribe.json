@@ -1,0 +1,44 @@
+{
+  "repo_id": "R_kgDOSIeVNQ",
+  "owner": "oliver-kriska",
+  "name": "scribe",
+  "full_name": "oliver-kriska/scribe",
+  "description": "LLM-managed personal knowledge base. Auto-extracts from git repos, Claude Code sessions (via ccrider FTS5), and iMessage bookmarks. Cross-project, qmd-indexed, runs on cron",
+  "description_ja": "",
+  "url": "https://github.com/oliver-kriska/scribe",
+  "homepage_url": "https://getscribe.dev/",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "ai-tools",
+    "bm25",
+    "claude-code",
+    "cli",
+    "cron",
+    "developer-tools",
+    "full-text-search",
+    "golang",
+    "knowledge-base",
+    "llm",
+    "local-first",
+    "markdown",
+    "ollama",
+    "personal-kb",
+    "qmd",
+    "second-brain"
+  ],
+  "star_count": 50,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-21T09:37:19Z",
+  "updated_at": "2026-07-25T19:37:00Z",
+  "pushed_at": "2026-07-23T04:50:59Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-25",
+      "stars": 50
+    }
+  ]
+}

@@ -3,20 +3,31 @@
   "owner": "vulnerscom",
   "name": "api",
   "full_name": "vulnerscom/api",
-  "description": "Vulners Python API wrapper",
-  "description_ja": "Vulners Python API ラッパー",
+  "description": "Official Python SDK for the Vulners vulnerability-intelligence API — search CVEs, exploits and advisories (CVSS/EPSS/KEV), audit software, Linux/Windows hosts and SBOMs, and stream the whole graph. Typed sync + async clients, 100% v3-compatible, with a built-in MCP server for AI agents.",
+  "description_ja": "",
   "url": "https://github.com/vulnersCom/api",
-  "homepage_url": "",
+  "homepage_url": "https://vulners.com",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "database",
+    "api-client",
+    "asyncio",
+    "cve",
+    "cvss",
+    "epss",
+    "exploit-database",
     "exploits",
+    "infosec",
+    "mcp",
     "python",
-    "python-wrapper",
-    "scanner",
-    "vulnerability",
+    "sbom",
+    "sdk",
+    "security",
+    "threat-intelligence",
+    "vulnerability-database",
     "vulnerability-detection",
+    "vulnerability-scanner",
+    "vulners",
     "vulners-api"
   ],
   "star_count": 371,
@@ -24,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-09-07T10:27:06Z",
-  "updated_at": "2026-07-24T15:56:51Z",
-  "pushed_at": "2026-07-24T18:11:16Z",
+  "updated_at": "2026-07-25T04:01:10Z",
+  "pushed_at": "2026-07-25T04:00:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -334,6 +345,10 @@
     },
     {
       "date": "2026-07-24",
+      "stars": 371
+    },
+    {
+      "date": "2026-07-25",
       "stars": 371
     }
   ]

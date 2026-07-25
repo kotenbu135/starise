@@ -1,0 +1,48 @@
+{
+  "repo_id": "R_kgDOOPTOSg",
+  "owner": "clifton",
+  "name": "rstructor",
+  "full_name": "clifton/rstructor",
+  "description": "Pydantic + Instructor for Rust: extract structured, validated data from LLMs (OpenAI GPT, Anthropic Claude, Gemini, Grok/xAI) into native Rust structs \u0026 enums. Derive macros auto-generate JSON Schema, parse responses, and retry on validation errors. Type-safe structured outputs \u0026 function calling.",
+  "description_ja": "",
+  "url": "https://github.com/clifton/rstructor",
+  "homepage_url": "https://crates.io/crates/rstructor",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "anthropic",
+    "claude",
+    "data-extraction",
+    "function-calling",
+    "gemini",
+    "gpt",
+    "grok",
+    "instructor",
+    "json-schema",
+    "llm",
+    "llm-tools",
+    "openai",
+    "pydantic",
+    "rust",
+    "rust-crate",
+    "serde",
+    "structured-data",
+    "structured-output",
+    "validation",
+    "xai"
+  ],
+  "star_count": 29,
+  "fork_count": 4,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-03-26T21:00:37Z",
+  "updated_at": "2026-07-25T06:22:49Z",
+  "pushed_at": "2026-07-15T15:33:23Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-25",
+      "stars": 29
+    }
+  ]
+}

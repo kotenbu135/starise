@@ -10,6 +10,7 @@
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "agent",
     "agent-memory",
     "ai-agents",
     "ai-coding-agents",
@@ -17,18 +18,17 @@
     "codex",
     "context-compression",
     "context-engineering",
-    "context-management",
     "context-optimization",
     "context-window",
-    "cursor",
+    "developer-tools-ai-agent",
     "github-copilot",
+    "graph",
     "hallucination-detection",
+    "harness-engineering",
     "llm",
+    "loop-engineering",
     "mcp",
-    "mcp-server",
-    "model-context-protocol",
     "openclaw",
-    "prompt-compression",
     "token-optimization"
   ],
   "star_count": 427,
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T23:03:02Z",
-  "updated_at": "2026-07-24T16:43:46Z",
-  "pushed_at": "2026-07-24T14:17:00Z",
+  "updated_at": "2026-07-25T19:00:25Z",
+  "pushed_at": "2026-07-25T19:56:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -350,6 +350,10 @@
     },
     {
       "date": "2026-07-24",
+      "stars": 427
+    },
+    {
+      "date": "2026-07-25",
       "stars": 427
     }
   ]

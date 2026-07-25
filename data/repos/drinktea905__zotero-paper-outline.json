@@ -3,30 +3,33 @@
   "owner": "drinktea905",
   "name": "zotero-paper-outline",
   "full_name": "drinktea905/zotero-paper-outline",
-  "description": "Zotero 7/8/9 插件：AI 论文整篇总结与带页码层级目录，支持入库自动生成、阅读器跳转和 API 连接测试；兼容 DeepSeek/OpenAI/Kimi/智谱/通义/SiliconFlow/Ollama，并提供去除文字空格、复制 PDF 文件等实用工具。",
+  "description": "让 Zotero 自动读论文：生成整篇总结与可跳转层级目录，支持自动入库处理、AI 连接测试、模型自动适配、多篇 PDF 复制和中文空格清理。",
   "description_ja": "",
   "url": "https://github.com/DrinkTea905/zotero-paper-outline",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "academic-reading",
     "ai",
     "deepseek",
+    "literature-management",
     "llm",
     "outline",
+    "paper-summary",
     "pdf",
     "research-tools",
     "zotero",
     "zotero-plugin",
     "zotero7"
   ],
-  "star_count": 13,
+  "star_count": 14,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-18T07:47:06Z",
-  "updated_at": "2026-07-24T07:20:18Z",
-  "pushed_at": "2026-07-24T07:20:00Z",
+  "updated_at": "2026-07-25T13:50:54Z",
+  "pushed_at": "2026-07-25T13:50:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -64,6 +67,10 @@
     {
       "date": "2026-07-24",
       "stars": 13
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 14
     }
   ]
 }

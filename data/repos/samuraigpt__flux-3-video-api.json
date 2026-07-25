@@ -6,7 +6,7 @@
   "description": "Python wrapper for Black Forest Labs' FLUX 3 video API — Text-to-Video and Image-to-Video with native synchronized audio.",
   "description_ja": "",
   "url": "https://github.com/SamurAIGPT/flux-3-video-api",
-  "homepage_url": "",
+  "homepage_url": "https://muapi.ai/flux-3",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -24,12 +24,12 @@
     "video-api",
     "video-generation"
   ],
-  "star_count": 88,
-  "fork_count": 11,
+  "star_count": 89,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-21T23:16:36Z",
-  "updated_at": "2026-07-23T19:22:36Z",
+  "updated_at": "2026-07-25T18:15:38Z",
   "pushed_at": "2026-07-23T19:22:02Z",
   "deleted_at": "",
   "star_history": [
@@ -344,6 +344,10 @@
     {
       "date": "2026-07-24",
       "stars": 88
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 89
     }
   ]
 }

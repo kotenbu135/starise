@@ -3,41 +3,36 @@
   "owner": "luoyuctl",
   "name": "agenttrace",
   "full_name": "luoyuctl/agenttrace",
-  "description": "Local-first TUI for AI coding-agent session history: trace cost, tokens, time, tool failures, latency, health, diffs, reports, and CI gates across local agent logs.",
+  "description": "Local-first Rust TUI/CLI for auditing AI coding-agent sessions: cost, tokens, latency, failures, and health｜本地优先 Rust TUI/CLI，审计 AI 编程 Agent 会话的成本、Token、延迟、失败与健康度",
   "description_ja": "",
   "url": "https://github.com/luoyuctl/agenttrace",
-  "homepage_url": "https://luoyuctl.github.io/agenttrace/",
+  "homepage_url": "https://github.com/luoyuctl/agenttrace",
   "language": "Rust",
   "license": "MIT",
   "topics": [
-    "agent-session-replay",
     "ai-agent-observability",
     "ai-agents",
-    "ai-coding",
     "ai-cost-tracking",
-    "aider",
     "claude-code",
-    "claude-code-logs",
-    "cli",
-    "cline",
     "codex-cli",
+    "coding-agent",
     "cursor",
-    "developer-tools",
     "gemini-cli",
-    "kimi-cli",
     "opencode",
     "qwen-code",
-    "terminal",
+    "rust",
+    "rust-cli",
+    "session-history",
     "token-usage",
     "tui"
   ],
-  "star_count": 108,
+  "star_count": 110,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-01T04:29:32Z",
-  "updated_at": "2026-07-24T09:37:04Z",
-  "pushed_at": "2026-07-20T11:50:54Z",
+  "updated_at": "2026-07-25T19:02:00Z",
+  "pushed_at": "2026-07-25T18:52:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -263,6 +258,10 @@
     {
       "date": "2026-07-24",
       "stars": 108
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 110
     }
   ]
 }

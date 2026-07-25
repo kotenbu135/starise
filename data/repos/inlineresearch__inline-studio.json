@@ -3,12 +3,12 @@
   "owner": "inlineresearch",
   "name": "inline-studio",
   "full_name": "inlineresearch/inline-studio",
-  "description": "AI filmmaking on a node canvas. Build your whole visual pipeline from moodboard to final cut. Generate on your own GPU with diffuser based generation engine. ",
+  "description": "AI filmmaking on a node canvas. Build your whole visual pipeline from moodboard to final cut. Generate on your own GPU with diffuser based generation engine. Train your own Z-Image \u0026 Krea2 lora models. ",
   "description_ja": "",
   "url": "https://github.com/inlineresearch/Inline-Studio",
   "homepage_url": "https://inlinestudio.art/",
   "language": "Python",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "topics": [
     "ai-art",
     "ai-film",
@@ -22,20 +22,22 @@
     "generation-engine",
     "generative-ai",
     "generative-video",
+    "krea2",
     "lora-training",
     "node-editor",
     "nvidia-gpu",
     "open-source",
     "storyboard",
-    "text-to-video"
+    "text-to-video",
+    "z-image"
   ],
-  "star_count": 171,
+  "star_count": 173,
   "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-11T07:13:32Z",
-  "updated_at": "2026-07-23T12:28:04Z",
-  "pushed_at": "2026-07-24T15:01:24Z",
+  "updated_at": "2026-07-25T19:29:34Z",
+  "pushed_at": "2026-07-25T19:51:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -153,6 +155,10 @@
     {
       "date": "2026-07-24",
       "stars": 171
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 173
     }
   ]
 }

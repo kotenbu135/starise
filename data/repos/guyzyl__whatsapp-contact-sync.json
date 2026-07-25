@@ -7,7 +7,7 @@
   "description_ja": "WhatsApp の連絡先写真を Google Contacts へ簡単に同期するツール",
   "url": "https://github.com/guyzyl/whatsapp-contact-sync",
   "homepage_url": "https://whasync.com/",
-  "language": "Vue",
+  "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
     "daisyui",
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-05-20T12:05:19Z",
-  "updated_at": "2026-07-06T00:48:28Z",
-  "pushed_at": "2026-07-05T19:20:57Z",
+  "updated_at": "2026-07-25T18:07:14Z",
+  "pushed_at": "2026-07-25T18:08:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -339,6 +339,10 @@
     },
     {
       "date": "2026-07-24",
+      "stars": 301
+    },
+    {
+      "date": "2026-07-25",
       "stars": 301
     }
   ]

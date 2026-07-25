@@ -3,28 +3,32 @@
   "owner": "halilkaandogan",
   "name": "kaaninhos-mp3",
   "full_name": "halilkaandogan/kaaninhos-mp3",
-  "description": "A retro-themed desktop music player built with Electron.js. It supports local and YouTube playback, playlist management and custom audio effects.",
+  "description": "A lightweight, retro-styled desktop music player inspired by Winamp. Stream music directly from YouTube, apply real-time audio effects, and play a mini-game while listening!",
   "description_ja": "",
   "url": "https://github.com/halilkaandogan/kaaninhos-mp3",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
-    "desktop-app",
+    "audio-effects",
+    "desktop-application",
     "electron",
-    "mp3-player",
     "music-player",
-    "playlist-music",
-    "yt-dlp",
-    "yt-music"
+    "nostalgia",
+    "retro-music-player",
+    "winamp",
+    "winamp-alternative",
+    "youtube",
+    "youtube-streaming",
+    "yt-dlp"
   ],
-  "star_count": 73,
-  "fork_count": 0,
+  "star_count": 76,
+  "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-13T21:11:19Z",
-  "updated_at": "2026-07-23T17:36:31Z",
-  "pushed_at": "2026-07-18T07:42:25Z",
+  "updated_at": "2026-07-25T12:33:30Z",
+  "pushed_at": "2026-07-25T12:26:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +58,10 @@
     {
       "date": "2026-07-24",
       "stars": 73
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 76
     }
   ]
 }

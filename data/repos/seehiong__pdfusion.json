@@ -3,35 +3,37 @@
   "owner": "seehiong",
   "name": "pdfusion",
   "full_name": "seehiong/pdfusion",
-  "description": "A privacy-first PDF processing engine that deconstructs documents into their core elements—text, images, and tables—and reconstructs them into pristine, structured Markdown. Self-hosted React + FastAPI stack with local AI vision models via LiteLLM/Ollama. Your data never leaves your machine.",
-  "description_ja": "プライバシー最優先のPDF処理エンジン。ドキュメントをテキスト・画像・表などの構成要素に分解し、整然とした構造化Markdownに再構築します。LiteLLM/OllamaによるローカルAIビジョンモデルを使ったセルフホスト型React + FastAPIスタック。データは一切外部に送信されません。",
+  "description": "A privacy-first PDF processing engine that runs entirely in your browser—deconstructing documents into text, images, and tables, then reconstructing them into pristine, structured Markdown. Static React SPA with client-side AI vision via Ollama, OpenRouter, or Gemini. Your files never leave your machine.",
+  "description_ja": "",
   "url": "https://github.com/seehiong/pdfusion",
-  "homepage_url": "https://seehiong.github.io/posts/2026/04/self-hosting-signoz-observability-with-litellm/",
-  "language": "Python",
-  "license": "NOASSERTION",
+  "homepage_url": "https://seehiong.github.io/pdfusion/",
+  "language": "TypeScript",
+  "license": "MIT",
   "topics": [
     "backend",
+    "client-side",
     "document-processing",
-    "fastapi",
-    "litellm",
+    "github-page",
+    "indexeddb",
     "markdown",
     "ollama",
     "open-source",
+    "openrouter",
     "pdf",
-    "postgresql",
+    "pdfjs",
     "privacy",
-    "pymupdf",
-    "python",
     "react",
-    "self-hosted"
+    "serverless",
+    "typescript",
+    "vite"
   ],
   "star_count": 68,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-10T11:58:21Z",
-  "updated_at": "2026-07-10T23:47:03Z",
-  "pushed_at": "2026-04-04T04:27:57Z",
+  "updated_at": "2026-07-25T02:13:20Z",
+  "pushed_at": "2026-07-25T02:08:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -340,6 +342,10 @@
     },
     {
       "date": "2026-07-24",
+      "stars": 68
+    },
+    {
+      "date": "2026-07-25",
       "stars": 68
     }
   ]
