@@ -10,12 +10,12 @@
   "language": "Rust",
   "license": "MIT",
   "topics": [
-    "2d",
     "algorithm",
+    "cam",
+    "cnc",
     "compaction",
     "cutting",
     "garment",
-    "heuristic",
     "irregular",
     "laser",
     "layout",
@@ -31,12 +31,12 @@
     "true-shape-nesting",
     "woodworking"
   ],
-  "star_count": 311,
-  "fork_count": 63,
+  "star_count": 316,
+  "fork_count": 64,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-25T15:27:13Z",
-  "updated_at": "2026-07-24T07:45:52Z",
+  "updated_at": "2026-07-31T08:38:26Z",
   "pushed_at": "2026-06-30T19:53:37Z",
   "deleted_at": "",
   "star_history": [
@@ -135,6 +135,10 @@
     {
       "date": "2026-07-25",
       "stars": 311
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 316
     }
   ]
 }

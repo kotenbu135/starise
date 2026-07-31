@@ -6,7 +6,7 @@
   "description": "Nexent is a zero-code platform for auto-generating production-grade AI agents using Harness Engineering principles — unified tools, skills, memory, and orchestration with built-in constraints, feedback loops, and control planes.",
   "description_ja": "Nexentは、Harness Engineingの原則に基づき、本番品質のAIエージェントを自動生成するノーコードプラットフォームです。ツール・スキル・メモリ・オーケストレーションを統合し、制約・フィードバックループ・コントロールプレーンを標準搭載しています。",
   "url": "https://github.com/ModelEngine-Group/nexent",
-  "homepage_url": "",
+  "homepage_url": "http://modelengine-group.github.io/nexent/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -23,13 +23,13 @@
     "multi-agent",
     "rag"
   ],
-  "star_count": 5788,
-  "fork_count": 708,
+  "star_count": 5807,
+  "fork_count": 710,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-28T10:44:33Z",
-  "updated_at": "2026-07-25T14:08:15Z",
-  "pushed_at": "2026-07-25T10:57:02Z",
+  "updated_at": "2026-07-31T11:10:09Z",
+  "pushed_at": "2026-07-31T11:03:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -347,6 +347,10 @@
     {
       "date": "2026-07-25",
       "stars": 5788
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 5807
     }
   ]
 }

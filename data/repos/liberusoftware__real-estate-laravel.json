@@ -3,8 +3,8 @@
   "owner": "liberusoftware",
   "name": "real-estate-laravel",
   "full_name": "liberusoftware/real-estate-laravel",
-  "description": "Real Estate / Estate Agent, solution for your Property Agency. Application written in Laravel 12 / PHP 8.5 using Filament 5. Support for Rightmove, Zoopla, OnTheMarket",
-  "description_ja": "Laravel 12 / PHP 8.5 + Filament 5 で構築された不動産・不動産エージェント向けソリューション。Rightmove、Zoopla、OnTheMarket に対応。",
+  "description": "Real Estate / Estate Agent, solution for your Property Agency. Application written in Laravel 13 / PHP 8.5 using Filament 5. Support for Rightmove, Zoopla, OnTheMarket",
+  "description_ja": "",
   "url": "https://github.com/liberusoftware/real-estate-laravel",
   "homepage_url": "https://www.liberusoftware.com",
   "language": "PHP",
@@ -22,13 +22,13 @@
     "real-estate",
     "sales"
   ],
-  "star_count": 109,
+  "star_count": 110,
   "fork_count": 65,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-04T14:40:42Z",
-  "updated_at": "2026-07-23T17:22:42Z",
-  "pushed_at": "2026-07-23T13:26:41Z",
+  "updated_at": "2026-07-28T15:42:35Z",
+  "pushed_at": "2026-07-28T15:41:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -342,6 +342,10 @@
     {
       "date": "2026-07-25",
       "stars": 109
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 110
     }
   ]
 }

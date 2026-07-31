@@ -3,7 +3,7 @@
   "owner": "kmolan",
   "name": "multicalc-rust",
   "full_name": "kmolan/multicalc-rust",
-  "description": "Calculus, autodiff, nonlinear least squares \u0026 linear algebra in safe, no-std rust. Works on any target: 64-bit servers to bare-metal microcontrollers",
+  "description": "Scientific computing that fits on a microcontroller. Estimation, control, kinematics, Lie groups, calculus, autodiff and linear algebra in stable no_std Rust with no heap, no panics and no unsafe. Run the same code on your laptop and your Cortex-M0.",
   "description_ja": "",
   "url": "https://github.com/kmolan/multicalc-rust",
   "homepage_url": "",
@@ -13,8 +13,10 @@
     "autodiff",
     "automatic-differentiation",
     "calculus",
+    "control-systems",
     "cortex-m",
     "embedded",
+    "embedded-rust",
     "kalman-filter",
     "levenberg-marquardt",
     "lie-groups",
@@ -23,16 +25,19 @@
     "numerical-methods",
     "ode-solver",
     "optimization",
+    "particle-filter",
     "robotics",
-    "rust"
+    "rust",
+    "sensor-fusion",
+    "state-estimation"
   ],
-  "star_count": 90,
-  "fork_count": 17,
+  "star_count": 136,
+  "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-06T02:01:56Z",
-  "updated_at": "2026-07-23T21:01:37Z",
-  "pushed_at": "2026-07-23T22:22:51Z",
+  "updated_at": "2026-07-31T15:50:03Z",
+  "pushed_at": "2026-07-31T08:15:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +103,10 @@
     {
       "date": "2026-07-25",
       "stars": 90
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 136
     }
   ]
 }

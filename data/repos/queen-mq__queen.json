@@ -3,11 +3,11 @@
   "owner": "queen-mq",
   "name": "queen",
   "full_name": "queen-mq/queen",
-  "description": "C++ Partitioned Message Queue backed by PostgreSQL, with Go, Node, Python, PHP, C++, plain HTTP clients. Support consumer group, replay, transactional pop+ack, failover to disk",
+  "description": "Rust Partitioned Message Queue backed by PostgreSQL, with Go, Node, Python, PHP, C++, plain HTTP clients. Support consumer group, replay, transactional pop+ack, failover to disk",
   "description_ja": "",
   "url": "https://github.com/queen-mq/queen",
   "homepage_url": "https://queenmq.com",
-  "language": "C++",
+  "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
     "cpp",
@@ -17,6 +17,7 @@
     "postgresql",
     "pubsub",
     "queue",
+    "rust",
     "streaming"
   ],
   "star_count": 49,
@@ -24,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-07T10:26:51Z",
-  "updated_at": "2026-07-16T09:01:30Z",
-  "pushed_at": "2026-07-25T08:04:10Z",
+  "updated_at": "2026-07-31T15:01:00Z",
+  "pushed_at": "2026-07-31T15:31:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -138,6 +139,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-07-31",
       "stars": 49
     }
   ]

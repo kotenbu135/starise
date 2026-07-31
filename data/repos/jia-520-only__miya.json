@@ -3,7 +3,7 @@
   "owner": "jia-520-only",
   "name": "miya",
   "full_name": "jia-520-only/miya",
-  "description": " 弥娅（Miya）——大脑·手·面三层架构的 AI 虚拟化身。守护进程承载人格、 记忆与 APV2.1 白箱认知引擎；Claude Code Engine 作为她的肢体执行文件 操作与代码编写；Electron 桌面应用呈现 Live2D 形象。六层记忆（对话→ 短期→长期→语义→知识→置顶）让她真正记住你。QQ/Telegram/Discord/飞书 全平台在线，20+ 种 YAML 人格支持运行时热替换。DeepSeek V4 驱动，多 模型池智能调度，蛛网子网统一消息路由。",
+  "description": "Miya,一个比较集成的智能体，可以接入各种类型的API，主要作用是提供拟人陪伴以及电脑操作，远程控制等，可以在多个平台交互，统一使用一个后端进程，没有新增的会话窗口，一切对话都会进入弥娅的记忆。",
   "description_ja": "",
   "url": "https://github.com/Jia-520-only/Miya",
   "homepage_url": "https://www.bilibili.com/video/BV1ef5R6HE2C/?share_source=copy_web\u0026vd_source=7dd95f626c81cc377acd4cb7e01d234b",
@@ -14,12 +14,12 @@
     "bot",
     "wife"
   ],
-  "star_count": 30,
+  "star_count": 31,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-02T13:14:25Z",
-  "updated_at": "2026-07-23T08:29:35Z",
+  "updated_at": "2026-07-29T17:27:04Z",
   "pushed_at": "2026-07-23T07:38:47Z",
   "deleted_at": "",
   "star_history": [
@@ -158,6 +158,10 @@
     {
       "date": "2026-07-25",
       "stars": 30
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 31
     }
   ]
 }

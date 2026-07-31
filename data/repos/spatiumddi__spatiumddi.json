@@ -6,7 +6,7 @@
   "description": "Open-source DDI platform — unified DNS, DHCP, and IP Address Management. Runs its own BIND9 / PowerDNS / Kea service containers, with a FastAPI control plane and React UI.",
   "description_ja": "",
   "url": "https://github.com/spatiumddi/spatiumddi",
-  "homepage_url": "https://spatiumddi.github.io",
+  "homepage_url": "https://www.spatiumddi.com",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
@@ -14,29 +14,30 @@
     "bind9",
     "ddi",
     "dhcp",
+    "dhcp-server",
     "dns",
     "dns-management",
+    "dns-server",
     "docker",
     "fastapi",
-    "infrastructure",
+    "homelab",
     "ip-address-management",
     "ipam",
     "kea",
     "kubernetes",
     "netops",
     "network-automation",
-    "open-source",
     "powerdns",
     "react",
     "self-hosted"
   ],
-  "star_count": 41,
-  "fork_count": 8,
+  "star_count": 45,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-13T01:49:40Z",
-  "updated_at": "2026-07-25T16:02:02Z",
-  "pushed_at": "2026-07-25T16:01:41Z",
+  "updated_at": "2026-07-31T21:34:55Z",
+  "pushed_at": "2026-07-31T21:43:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -118,6 +119,10 @@
     {
       "date": "2026-07-25",
       "stars": 41
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 45
     }
   ]
 }

@@ -3,32 +3,27 @@
   "owner": "rhesis-ai",
   "name": "rhesis",
   "full_name": "rhesis-ai/rhesis",
-  "description": "The testing platform for AI teams. Bring engineers, PMs, and domain experts together to generate tests, simulate (adversarial) conversations, and trace every failure to its root cause.",
-  "description_ja": "AIチーム向けのテストプラットフォーム。エンジニア、PM、ドメインエキスパートが協力してテストを生成し、（敵対的な）会話をシミュレートし、あらゆる障害の根本原因を追跡できる。",
+  "description": "The collaboration layer for AI teams: domain experts annotate and review agent behavior, engineers improve the agent from what they find.",
+  "description_ja": "",
   "url": "https://github.com/rhesis-ai/rhesis",
   "homepage_url": "https://www.rhesis.ai/",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
-    "generative-ai",
-    "llm-evaluation",
-    "llm-evaluation-framework",
+    "annotations",
+    "feedback-loop",
+    "hypothesis-testing",
     "llmops",
-    "open-source",
-    "quality-assessment",
-    "responsible-ai",
-    "test-execution",
-    "test-generation",
-    "test-management",
-    "trustworthy-ai"
+    "regression-testing",
+    "systematic-evaluation"
   ],
-  "star_count": 381,
+  "star_count": 385,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-09T19:32:19Z",
-  "updated_at": "2026-07-24T20:54:17Z",
-  "pushed_at": "2026-07-25T12:55:50Z",
+  "updated_at": "2026-07-31T16:41:54Z",
+  "pushed_at": "2026-07-31T16:18:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -346,6 +341,10 @@
     {
       "date": "2026-07-25",
       "stars": 381
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 385
     }
   ]
 }

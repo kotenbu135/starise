@@ -3,7 +3,7 @@
   "owner": "genai-io",
   "name": "san",
   "full_name": "genai-io/san",
-  "description": "A minimal, fast agent harness for the terminal. One ~12 MB native binary that runs anywhere, with an open, extensible architecture.",
+  "description": "Small context, native speed, open all the way down — an open-source terminal agent runtime. One 12 MB Go binary, zero runtime deps.",
   "description_ja": "",
   "url": "https://github.com/genai-io/san",
   "homepage_url": "https://genai-io.github.io/san/",
@@ -23,12 +23,12 @@
     "tui"
   ],
   "star_count": 72,
-  "fork_count": 32,
+  "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-05T16:16:25Z",
-  "updated_at": "2026-07-25T01:16:15Z",
-  "pushed_at": "2026-07-25T00:04:02Z",
+  "updated_at": "2026-07-31T20:53:07Z",
+  "pushed_at": "2026-07-30T15:30:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -213,6 +213,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 72
+    },
+    {
+      "date": "2026-07-31",
       "stars": 72
     }
   ]

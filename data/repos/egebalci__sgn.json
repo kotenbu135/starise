@@ -3,20 +3,20 @@
   "owner": "egebalci",
   "name": "sgn",
   "full_name": "egebalci/sgn",
-  "description": "Shikata ga nai (仕方がない) encoder ported into go with several improvements",
-  "description_ja": "Shikata ga nai（仕方がない）エンコーダーを Go に移植し、いくつかの改善を加えたもの",
+  "description": "SGN — polymorphic binary encoder",
+  "description_ja": "",
   "url": "https://github.com/EgeBalci/sgn",
   "homepage_url": "",
-  "language": "Go",
+  "language": "Rust",
   "license": "MIT",
   "topics": [],
-  "star_count": 1991,
+  "star_count": 1994,
   "fork_count": 248,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-10-30T10:20:01Z",
-  "updated_at": "2026-07-23T19:56:39Z",
-  "pushed_at": "2026-05-01T22:56:23Z",
+  "updated_at": "2026-07-30T05:33:23Z",
+  "pushed_at": "2026-07-28T22:08:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -334,6 +334,10 @@
     {
       "date": "2026-07-25",
       "stars": 1991
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 1994
     }
   ]
 }

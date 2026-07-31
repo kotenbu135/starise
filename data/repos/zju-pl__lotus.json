@@ -3,20 +3,26 @@
   "owner": "zju-pl",
   "name": "lotus",
   "full_name": "zju-pl/lotus",
-  "description": "A program analysis and verification framework for LLVM IR",
+  "description": "LLVM-based Static Analysis Framework",
   "description_ja": "",
   "url": "https://github.com/ZJU-PL/lotus",
   "homepage_url": "",
   "language": "C++",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 35,
+  "topics": [
+    "compilers",
+    "formal-verification",
+    "llvm",
+    "pointer-analysis",
+    "static-analysis"
+  ],
+  "star_count": 36,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-13T12:39:14Z",
-  "updated_at": "2026-07-25T13:54:29Z",
-  "pushed_at": "2026-07-25T13:54:18Z",
+  "updated_at": "2026-07-30T12:32:18Z",
+  "pushed_at": "2026-07-30T12:32:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +264,10 @@
     {
       "date": "2026-07-25",
       "stars": 35
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 36
     }
   ]
 }

@@ -3,36 +3,41 @@
   "owner": "gotempsh",
   "name": "temps",
   "full_name": "gotempsh/temps",
-  "description": "Own your PaaS",
+  "description": "AI-native open-source alternative to Vercel + Sentry + PostHog + Pingdom + Resend + E2B. 440+ CLI operations with drop-in skills for Claude Code, Codex \u0026 OpenCode — deployments, analytics, session replay, error tracking, OpenTelemetry, email, sandboxes \u0026 AI gateway in one self-hosted Rust binary.",
   "description_ja": "",
   "url": "https://github.com/gotempsh/temps",
   "homepage_url": "https://temps.sh/docs",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "ai-agents",
+    "ai-gateway",
     "analytics",
     "ci-cd",
-    "cloud",
+    "claude-code",
+    "coolify-alternative",
     "deployment-platform",
     "devops",
     "docker",
     "error-tracking",
     "monitoring",
     "open-source",
+    "opentelemetry",
     "paas",
-    "pingora",
+    "posthog-alternative",
     "rust",
     "self-hosted",
-    "self-hosting",
-    "session-replay"
+    "sentry-alternative",
+    "session-replay",
+    "vercel-alternative"
   ],
-  "star_count": 560,
-  "fork_count": 39,
+  "star_count": 582,
+  "fork_count": 42,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-21T10:30:44Z",
-  "updated_at": "2026-07-25T14:54:50Z",
-  "pushed_at": "2026-07-25T19:27:36Z",
+  "updated_at": "2026-07-31T20:59:14Z",
+  "pushed_at": "2026-07-31T20:59:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -346,6 +351,10 @@
     {
       "date": "2026-07-25",
       "stars": 560
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 582
     }
   ]
 }

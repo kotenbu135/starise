@@ -3,28 +3,41 @@
   "owner": "evotecit",
   "name": "officeimo",
   "full_name": "evotecit/officeimo",
-  "description": "Fast and easy to use cross-platform .NET library that creates or modifies Microsoft Word (DocX) and later also Excel (XLSX) files without installing any software. Library is based on Open XML SDK",
-  "description_ja": "ソフトウェアのインストール不要でMicrosoft Word（DocX）およびExcel（XLSX）ファイルを作成・編集できる、高速で使いやすいクロスプラットフォーム.NETライブラリ。Open XML SDKをベースにしています。",
+  "description": "MIT-licensed, COM-free .NET libraries for creating, reading, editing, converting, rendering, and extracting Office, PDF, email, OneNote, and text formats.",
+  "description_ja": "",
   "url": "https://github.com/EvotecIT/OfficeIMO",
   "homepage_url": "https://officeimo.com/",
   "language": "C#",
   "license": "MIT",
   "topics": [
+    "aspose-alternative",
     "c-sharp",
+    "document-automation",
+    "document-conversion",
+    "document-generation",
     "docx",
+    "dotnet",
+    "email",
     "hacktoberfest",
     "office",
+    "onenote",
     "openxml",
     "openxml-sdk",
-    "word"
+    "ost",
+    "pdf",
+    "pptx",
+    "pst",
+    "rag",
+    "word",
+    "xlsx"
   ],
-  "star_count": 486,
+  "star_count": 495,
   "fork_count": 69,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-22T07:54:02Z",
-  "updated_at": "2026-07-25T17:32:27Z",
-  "pushed_at": "2026-07-25T19:34:14Z",
+  "updated_at": "2026-07-31T20:29:17Z",
+  "pushed_at": "2026-07-31T20:29:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -342,6 +355,10 @@
     {
       "date": "2026-07-25",
       "stars": 486
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 495
     }
   ]
 }

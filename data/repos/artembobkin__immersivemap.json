@@ -3,15 +3,18 @@
   "owner": "artembobkin",
   "name": "immersivemap",
   "full_name": "artembobkin/immersivemap",
-  "description": "Native Swift + Metal map rendering engine for SwiftUI apps.",
+  "description": "Native Swift 6 + Metal map rendering engine for SwiftUI. Globe and flat vector-tile maps with labels, SwiftUI markers and avatars, on iOS and macOS.",
   "description_ja": "",
   "url": "https://github.com/artembobkin/ImmersiveMap",
-  "homepage_url": "",
+  "homepage_url": "https://swiftpackageindex.com/artembobkin/ImmersiveMap",
   "language": "Swift",
   "license": "MIT",
   "topics": [
+    "cartography",
     "geospatial",
     "globe",
+    "gpu",
+    "graphics",
     "ios",
     "macos",
     "map-engine",
@@ -20,19 +23,20 @@
     "maps",
     "metal",
     "mvt",
-    "openstreetmap",
+    "rendering-engine",
     "swift",
     "swift-package-manager",
+    "swift6",
     "swiftui",
     "vector-tiles"
   ],
-  "star_count": 75,
+  "star_count": 80,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-25T14:03:47Z",
-  "updated_at": "2026-07-25T08:31:19Z",
-  "pushed_at": "2026-07-24T14:03:41Z",
+  "updated_at": "2026-07-31T11:45:11Z",
+  "pushed_at": "2026-07-31T11:44:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +58,10 @@
     {
       "date": "2026-07-25",
       "stars": 75
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 80
     }
   ]
 }

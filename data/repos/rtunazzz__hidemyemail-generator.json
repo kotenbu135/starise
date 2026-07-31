@@ -3,27 +3,37 @@
   "owner": "rtunazzz",
   "name": "hidemyemail-generator",
   "full_name": "rtunazzz/hidemyemail-generator",
-  "description": "Generator for Apple's HideMyEmail service. Generate multiple iCloud emails with ease!",
+  "description": "Bulk-generate iCloud Hide My Email addresses. Native macOS app and cross-platform CLI with batch generation, scheduling, a local inbox with code extraction, as well as iCloud China support.",
   "description_ja": "",
   "url": "https://github.com/rtunazzz/hidemyemail-generator",
-  "homepage_url": "",
-  "language": "Python",
+  "homepage_url": "https://github.com/rtunazzz/hidemyemail-generator/releases/latest",
+  "language": "Swift",
   "license": "MIT",
   "topics": [
-    "apple",
-    "email-generator",
+    "apple-silicon",
+    "burner-email",
+    "disposable-email",
+    "email",
+    "email-alias",
+    "email-generator-tool",
+    "hide-my-email",
     "hidemyemail",
+    "icloud",
     "icloud-generator",
+    "icloud-plus",
+    "privacy",
+    "rafflebot",
     "rafflebots",
-    "sneakers"
+    "sneakerbot",
+    "sneakermonitor"
   ],
-  "star_count": 642,
-  "fork_count": 119,
+  "star_count": 656,
+  "fork_count": 124,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-03-05T11:41:12Z",
-  "updated_at": "2026-07-25T04:53:32Z",
-  "pushed_at": "2026-07-01T08:42:21Z",
+  "updated_at": "2026-07-31T19:08:37Z",
+  "pushed_at": "2026-07-31T09:34:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -173,6 +183,10 @@
     {
       "date": "2026-07-25",
       "stars": 642
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 656
     }
   ]
 }

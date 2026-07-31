@@ -3,20 +3,30 @@
   "owner": "rlaope",
   "name": "oh-my-hermes",
   "full_name": "rlaope/oh-my-hermes",
-  "description": "OMH (Oh-My-Hermes) — Anyone can use hermes-agent professionally The powerful intelligence harness for your AI Agent.",
+  "description": "Just install once. Anyone can use hermes-agent professionally. the powerful intelligence and memory system for your agent ⚚",
   "description_ja": "",
   "url": "https://github.com/rlaope/oh-my-hermes",
   "homepage_url": "https://rlaope.github.io/oh-my-hermes/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 71,
-  "fork_count": 2,
+  "topics": [
+    "agent",
+    "ai",
+    "ai-agent",
+    "ai-tools",
+    "claude-code",
+    "codex",
+    "hermes-agent",
+    "hermes-skill",
+    "skills"
+  ],
+  "star_count": 406,
+  "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-03T13:00:34Z",
-  "updated_at": "2026-07-25T17:11:54Z",
-  "pushed_at": "2026-07-25T17:11:49Z",
+  "updated_at": "2026-07-31T20:39:11Z",
+  "pushed_at": "2026-07-31T20:18:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -82,6 +92,10 @@
     {
       "date": "2026-07-25",
       "stars": 71
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 406
     }
   ]
 }

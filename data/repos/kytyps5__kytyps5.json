@@ -3,7 +3,7 @@
   "owner": "kytyps5",
   "name": "kytyps5",
   "full_name": "kytyps5/kytyps5",
-  "description": "PlayStation 5 emulator for Windows",
+  "description": "PlayStation 5 emulator for Windows, Linux and MacOS",
   "description_ja": "",
   "url": "https://github.com/KytyPS5/KytyPS5",
   "homepage_url": "",
@@ -13,18 +13,21 @@
     "cpp",
     "emulation",
     "emulator",
+    "gpu",
+    "linux",
+    "macos",
     "playstation5",
     "ps5",
     "vulkan",
     "windows"
   ],
-  "star_count": 896,
-  "fork_count": 81,
+  "star_count": 1063,
+  "fork_count": 96,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T14:58:38Z",
-  "updated_at": "2026-07-25T19:25:42Z",
-  "pushed_at": "2026-07-22T22:51:04Z",
+  "updated_at": "2026-07-31T18:38:46Z",
+  "pushed_at": "2026-07-31T09:54:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +73,10 @@
     {
       "date": "2026-07-25",
       "stars": 896
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 1063
     }
   ]
 }

@@ -3,22 +3,22 @@
   "owner": "qa-guru",
   "name": "allure-notifications",
   "full_name": "qa-guru/allure-notifications",
-  "description": "jar, that draws piechart from results and sends it with link to build to messenger",
-  "description_ja": "結果を円グラフで描画し、ビルドへのリンクとともにメッセンジャーに送信するjar",
+  "description": "ts-app, that draws piechart from results and sends it with link to build to messenger",
+  "description_ja": "",
   "url": "https://github.com/qa-guru/allure-notifications",
-  "homepage_url": "",
-  "language": "Java",
+  "homepage_url": "https://allure-notifications.qa.guru/",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "allure-notifications"
   ],
-  "star_count": 576,
+  "star_count": 578,
   "fork_count": 96,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-11-26T22:24:54Z",
-  "updated_at": "2026-07-25T15:45:33Z",
-  "pushed_at": "2026-07-25T15:45:19Z",
+  "updated_at": "2026-07-31T17:57:24Z",
+  "pushed_at": "2026-07-31T17:57:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -336,6 +336,10 @@
     {
       "date": "2026-07-25",
       "stars": 576
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 578
     }
   ]
 }

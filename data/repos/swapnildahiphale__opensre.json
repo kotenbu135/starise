@@ -3,7 +3,7 @@
   "owner": "swapnildahiphale",
   "name": "opensre",
   "full_name": "swapnildahiphale/opensre",
-  "description": "Open-source AI SRE agent that investigates production incidents using episodic memory and Neo4j knowledge graph. 50+ production skills. Self-hosted.",
+  "description": "OpenSRE — the memory-first AI SRE. Self-hosted incident investigation with episodic memory, knowledge graph, web console, Slack \u0026 Teams. opensre.in",
   "description_ja": "",
   "url": "https://github.com/swapnildahiphale/OpenSRE",
   "homepage_url": "https://opensre.in",
@@ -17,17 +17,17 @@
     "incident-investigation",
     "incident-response",
     "knowledge-graph",
-    "langgraph",
+    "self-hosted",
     "site-reliability-engineering",
     "sre-agent"
   ],
-  "star_count": 98,
+  "star_count": 100,
   "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-28T18:57:28Z",
-  "updated_at": "2026-07-25T09:59:11Z",
-  "pushed_at": "2026-07-21T09:13:09Z",
+  "updated_at": "2026-07-29T08:51:35Z",
+  "pushed_at": "2026-07-29T08:49:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -345,6 +345,10 @@
     {
       "date": "2026-07-25",
       "stars": 98
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 100
     }
   ]
 }

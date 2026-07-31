@@ -6,36 +6,38 @@
   "description": "Muzo is a feature-rich, privacy-focused YouTube Music client built with Flutter. It offers a premium ad-free experience with background playback, offline downloads, and a modern, customizable UI.",
   "description_ja": "",
   "url": "https://github.com/Shashwat-CODING/Muzo",
-  "homepage_url": "https://muzo.dpdns.org",
+  "homepage_url": "https://muzo.kouzu.in/",
   "language": "Dart",
   "license": "",
   "topics": [
-    "android",
-    "app",
-    "cross-platform",
-    "dart",
+    "android-app",
     "flutter",
-    "flutter-apps",
-    "free",
     "music",
     "music-player",
     "music-service",
     "music-streaming",
     "open-source",
+    "piped",
+    "player",
     "streaming",
-    "web",
-    "youtube",
+    "youtube-api",
+    "youtube-dl",
+    "youtube-downloader",
+    "youtube-fix",
     "youtube-music",
     "youtube-player",
-    "youtube-playlist"
+    "youtube-player-api",
+    "youtube-playlist",
+    "youtube-playlist-downloader",
+    "youtube-video"
   ],
-  "star_count": 53,
+  "star_count": 56,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-08T15:51:02Z",
-  "updated_at": "2026-07-25T06:34:58Z",
-  "pushed_at": "2026-07-20T12:37:19Z",
+  "updated_at": "2026-07-31T15:21:28Z",
+  "pushed_at": "2026-07-29T15:31:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -269,6 +271,10 @@
     {
       "date": "2026-07-25",
       "stars": 53
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 56
     }
   ]
 }

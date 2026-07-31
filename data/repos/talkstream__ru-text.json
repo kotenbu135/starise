@@ -3,27 +3,27 @@
   "owner": "talkstream",
   "name": "ru-text",
   "full_name": "talkstream/ru-text",
-  "description": "Russian text quality plugin for Claude Code, Cowork, Codex CLI, Gemini CLI, Cursor, OpenClaw, and Notion — typography, info-style, editorial, UX writing",
+  "description": "Russian text quality for AI agents — neuroslop cleanup, typography, information style, editorial standards, UX writing, business correspondence. 2,000+ linguistic atoms, loaded on demand.",
   "description_ja": "",
   "url": "https://github.com/talkstream/ru-text",
   "homepage_url": "",
-  "language": "",
+  "language": "Shell",
   "license": "MIT",
   "topics": [
     "agent-skills",
     "ai-agents",
+    "ai-text-detection",
     "claude-code",
     "claude-cowork",
     "codex-cli",
-    "content-design",
     "cursor",
     "editorial",
     "gemini-cli-extension",
     "info-style",
+    "neuroslop",
     "notion",
-    "open-source",
     "openclaw",
-    "plugin",
+    "proofreading",
     "russian",
     "russian-language",
     "text-quality",
@@ -31,13 +31,13 @@
     "typography",
     "ux-writing"
   ],
-  "star_count": 164,
+  "star_count": 176,
   "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-28T16:00:17Z",
-  "updated_at": "2026-07-25T16:59:22Z",
-  "pushed_at": "2026-07-25T11:25:34Z",
+  "updated_at": "2026-07-31T20:24:12Z",
+  "pushed_at": "2026-07-31T20:23:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -251,6 +251,10 @@
     {
       "date": "2026-07-25",
       "stars": 164
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 176
     }
   ]
 }

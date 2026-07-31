@@ -3,8 +3,8 @@
   "owner": "ruochenlyu",
   "name": "apple-health-analyst",
   "full_name": "ruochenlyu/apple-health-analyst",
-  "description": "Privacy-first Apple Health analyzer — cross-metric insights, behavioral patterns, and health reports. Agent skill for Claude Code, Codex \u0026 Cursor.",
-  "description_ja": "プライバシー重視の Apple Health アナライザー — クロスメトリクスのインサイト、行動パターン、健康レポート。Claude Code、Codex、Cursor 向けエージェントスキル",
+  "description": "Privacy-conscious Apple Health export analyzer with bilingual health and multi-sport training reports",
+  "description_ja": "",
   "url": "https://github.com/RuochenLyu/apple-health-analyst",
   "homepage_url": "https://kshift.me/apple-health-analyst/",
   "language": "TypeScript",
@@ -20,13 +20,13 @@
     "quantified-self",
     "skill"
   ],
-  "star_count": 56,
+  "star_count": 57,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-27T01:26:04Z",
-  "updated_at": "2026-07-12T14:34:08Z",
-  "pushed_at": "2026-04-16T13:18:54Z",
+  "updated_at": "2026-07-31T02:42:46Z",
+  "pushed_at": "2026-07-31T03:04:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -340,6 +340,10 @@
     {
       "date": "2026-07-25",
       "stars": 56
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 57
     }
   ]
 }

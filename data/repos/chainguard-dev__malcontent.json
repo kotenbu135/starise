@@ -7,7 +7,7 @@
   "description_ja": "",
   "url": "https://github.com/chainguard-dev/malcontent",
   "homepage_url": "",
-  "language": "Go",
+  "language": "YARA",
   "license": "Apache-2.0",
   "topics": [
     "binary",
@@ -17,13 +17,13 @@
     "no-ghaudit-default-permissions",
     "reverse-engineering"
   ],
-  "star_count": 670,
-  "fork_count": 62,
+  "star_count": 671,
+  "fork_count": 63,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-07T00:47:30Z",
-  "updated_at": "2026-07-24T12:44:13Z",
-  "pushed_at": "2026-07-25T00:31:22Z",
+  "updated_at": "2026-07-31T19:56:22Z",
+  "pushed_at": "2026-07-31T20:00:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -125,6 +125,10 @@
     {
       "date": "2026-07-25",
       "stars": 670
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 671
     }
   ]
 }

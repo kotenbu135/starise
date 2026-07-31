@@ -3,7 +3,7 @@
   "owner": "autonomous-ai",
   "name": "autonomous-grid",
   "full_name": "autonomous-ai/autonomous-grid",
-  "description": "Grid is the orchestration layer for local AI. It pools the computers you already own to run AI inference.",
+  "description": "Your AI intranet: network the computers you already own for inference and training.",
   "description_ja": "",
   "url": "https://github.com/autonomous-ai/autonomous-grid",
   "homepage_url": "https://www.autonomous.ai/grid",
@@ -11,22 +11,31 @@
   "license": "MIT",
   "topics": [
     "ai",
+    "distributed",
+    "fine-tuning",
+    "grpo",
     "homelab",
     "inference",
     "llm",
+    "local-ai",
     "local-llm",
+    "lora",
+    "mlx",
     "openai-compatible",
     "orchestration",
     "python",
-    "self-hosted"
+    "reinforcement-learning",
+    "self-hosted",
+    "training",
+    "vllm"
   ],
-  "star_count": 110,
+  "star_count": 112,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-17T03:56:36Z",
-  "updated_at": "2026-07-25T17:08:45Z",
-  "pushed_at": "2026-07-25T17:55:11Z",
+  "updated_at": "2026-07-31T13:12:41Z",
+  "pushed_at": "2026-07-31T13:25:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -128,6 +137,10 @@
     {
       "date": "2026-07-25",
       "stars": 110
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 112
     }
   ]
 }

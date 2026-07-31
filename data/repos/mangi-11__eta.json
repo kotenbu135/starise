@@ -3,26 +3,28 @@
   "owner": "mangi-11",
   "name": "eta",
   "full_name": "mangi-11/eta",
-  "description": "在 ColorOS 上实现类似豆包手机的系统级 GUI Agent，同时提供结构化设备工具，让模型无需依赖 GUI 即可直达系统能力。凭借支持 Root Shell 与 Linux 环境的终端能力，进一步覆盖 Android 世界中更广泛的任务，并解锁 Gemini 与一圈即搜。",
+  "description": "在 ColorOS 与 HyperOS 上实现系统级 Android AI Agent。通过类似豆包手机的 GUI Agent 实现跨应用操作，同时提供结构化设备工具，让模型无需依赖 GUI 即可直达系统能力。凭借支持 Root Shell 与 Linux 环境的终端能力，进一步覆盖 Android 世界中更广泛的任务，并解锁 Gemini 与一圈即搜",
   "description_ja": "",
   "url": "https://github.com/Mangi-11/Eta",
   "homepage_url": "",
   "language": "Kotlin",
-  "license": "",
+  "license": "NOASSERTION",
   "topics": [
     "circle-to-search",
     "coloros",
     "gemini",
+    "hyperos",
     "lsposed-module",
-    "oneplus"
+    "oneplus",
+    "xiaomi"
   ],
-  "star_count": 456,
-  "fork_count": 30,
+  "star_count": 697,
+  "fork_count": 57,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-26T16:07:24Z",
-  "updated_at": "2026-07-25T19:00:58Z",
-  "pushed_at": "2026-07-25T18:57:20Z",
+  "updated_at": "2026-07-31T20:50:58Z",
+  "pushed_at": "2026-07-31T15:59:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -336,6 +338,10 @@
     {
       "date": "2026-07-25",
       "stars": 456
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 697
     }
   ]
 }

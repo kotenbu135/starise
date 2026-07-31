@@ -7,7 +7,7 @@
   "description_ja": "美しく、高速でモダンな React UI ライブラリ。（旧称 NextUI）",
   "url": "https://github.com/heroui-inc/heroui",
   "homepage_url": "https://heroui.com",
-  "language": "MDX",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "component-library",
@@ -15,13 +15,13 @@
     "library",
     "reactjs"
   ],
-  "star_count": 30202,
-  "fork_count": 2203,
+  "star_count": 30264,
+  "fork_count": 2204,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-22T13:06:23Z",
-  "updated_at": "2026-07-25T19:46:02Z",
-  "pushed_at": "2026-07-25T12:05:42Z",
+  "updated_at": "2026-07-31T17:46:09Z",
+  "pushed_at": "2026-07-31T17:31:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -339,6 +339,10 @@
     {
       "date": "2026-07-25",
       "stars": 30202
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 30264
     }
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "repo_id": "R_kgDOTRFdXg",
+  "owner": "ychangqing",
+  "name": "igraph",
+  "full_name": "ychangqing/igraph",
+  "description": "IGraph 把代码仓库解析为「符号节点 + 调用关系边」的知识图谱，叠加 LLM 语义摘要与向量索引，通过双通道（Dense + FTS5）RRF 融合检索对外服务。支持挂载 PRD / DB Schema 等多模态资源建立跨模态关联，内置 MCP Server 可直接接入 Cursor / Claude Code 等 AI 助手。",
+  "description_ja": "",
+  "url": "https://github.com/Ychangqing/IGraph",
+  "homepage_url": "https://ychangqing.github.io/IGraph/",
+  "language": "TypeScript",
+  "license": "",
+  "topics": [
+    "codegraph",
+    "llm"
+  ],
+  "star_count": 52,
+  "fork_count": 1,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-07-08T02:38:51Z",
+  "updated_at": "2026-07-31T20:44:05Z",
+  "pushed_at": "2026-07-18T07:48:49Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-07-31",
+      "stars": 52
+    }
+  ]
+}

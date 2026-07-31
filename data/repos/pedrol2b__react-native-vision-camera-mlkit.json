@@ -3,8 +3,8 @@
   "owner": "pedrol2b",
   "name": "react-native-vision-camera-mlkit",
   "full_name": "pedrol2b/react-native-vision-camera-mlkit",
-  "description": "A powerful React Native Vision Camera plugin delivering high-performance Google ML Kit frame processor features—including text recognition (OCR), face detection, barcode scanning, pose detection, and more. Seamlessly bridges native ML Kit capabilities for real-time, on-device computer vision in your React Native apps.",
-  "description_ja": "テキスト認識（OCR）、顔検出、バーコードスキャン、ポーズ検出などの高性能な Google ML Kit フレームプロセッサ機能を提供する強力な React Native Vision Camera プラグイン。React Native アプリでリアルタイムかつオンデバイスのコンピュータビジョンを実現するため、ネイティブ ML Kit 機能をシームレスに橋渡しします。",
+  "description": "React Native Vision Camera plugin for Google ML Kit vision features — text recognition (OCR) and barcode scanning today, with more ML Kit features on the roadmap.",
+  "description_ja": "",
   "url": "https://github.com/pedrol2b/react-native-vision-camera-mlkit",
   "homepage_url": "https://www.npmjs.com/package/react-native-vision-camera-mlkit",
   "language": "TypeScript",
@@ -13,9 +13,9 @@
     "android",
     "barcode",
     "barcode-scanner",
+    "barcode-scanning",
     "camera",
     "computer-vision",
-    "face-detection",
     "frame-processor",
     "google-ml-kit",
     "image-processing",
@@ -24,20 +24,20 @@
     "mlkit",
     "native-module",
     "ocr",
-    "pose-detection",
     "react-native",
     "react-native-module",
     "text-detection",
+    "text-recognition",
     "vision",
     "vision-camera"
   ],
   "star_count": 51,
-  "fork_count": 5,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-15T20:51:32Z",
-  "updated_at": "2026-07-10T01:25:10Z",
-  "pushed_at": "2026-07-14T03:10:56Z",
+  "updated_at": "2026-07-27T01:33:02Z",
+  "pushed_at": "2026-07-27T02:18:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -350,6 +350,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 51
+    },
+    {
+      "date": "2026-07-31",
       "stars": 51
     }
   ]

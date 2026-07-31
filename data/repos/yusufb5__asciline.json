@@ -3,20 +3,20 @@
   "owner": "yusufb5",
   "name": "asciline",
   "full_name": "yusufb5/asciline",
-  "description": "A high-performance, real-time ASCII video rendering engine. Streams binary-encoded frames via WebSockets for low latency, 30 FPS playback using HTML5 Canvas and requestAnimationFrame.",
+  "description": "A high-performance ASCII video rendering engine featuring real-time WebSocket binary streaming and an isolated compiler for serverless static generation. Built for low-latency 30 FPS playback on HTML5 Canvas.",
   "description_ja": "",
   "url": "https://github.com/YusufB5/ASCILINE",
   "homepage_url": "",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [],
-  "star_count": 2535,
-  "fork_count": 290,
+  "star_count": 2562,
+  "fork_count": 297,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-01T17:19:56Z",
-  "updated_at": "2026-07-25T14:13:25Z",
-  "pushed_at": "2026-07-25T14:12:59Z",
+  "updated_at": "2026-07-31T20:19:20Z",
+  "pushed_at": "2026-07-31T20:19:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -182,6 +182,10 @@
     {
       "date": "2026-07-25",
       "stars": 2535
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 2562
     }
   ]
 }

@@ -10,31 +10,34 @@
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "ai-agents",
     "alacritty",
+    "claude-code",
+    "coding-agent",
     "cross-platform",
     "daemon",
     "developer-tools",
     "gpu",
-    "gpu-acceleration",
     "gpui",
     "linux",
     "macos",
     "pty",
     "rust",
-    "rust-lang",
     "shell",
+    "ssh",
     "terminal",
     "terminal-emulator",
-    "tmux-alternative",
+    "terminal-multiplexer",
+    "tmux",
     "windows"
   ],
-  "star_count": 218,
-  "fork_count": 12,
+  "star_count": 465,
+  "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-06T12:51:10Z",
-  "updated_at": "2026-07-25T18:40:19Z",
-  "pushed_at": "2026-07-25T19:02:37Z",
+  "updated_at": "2026-07-31T20:57:57Z",
+  "pushed_at": "2026-07-31T16:23:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -104,6 +107,10 @@
     {
       "date": "2026-07-25",
       "stars": 218
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 465
     }
   ]
 }

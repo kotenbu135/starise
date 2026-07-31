@@ -3,7 +3,7 @@
   "owner": "bytedance",
   "name": "android-inline-hook",
   "full_name": "bytedance/android-inline-hook",
-  "description": ":fire: ShadowHook is an Android inlinehook library which supports thumb, arm32 and arm64.",
+  "description": "通用的Android inline hook库，支持thumb，arm32，arm64",
   "description_ja": "",
   "url": "https://github.com/bytedance/android-inline-hook",
   "homepage_url": "https://github.com/bytedance/android-inline-hook/blob/main/doc/manual.md",
@@ -22,12 +22,12 @@
     "security",
     "thumb"
   ],
-  "star_count": 2344,
-  "fork_count": 401,
+  "star_count": 2353,
+  "fork_count": 400,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-10T03:43:15Z",
-  "updated_at": "2026-07-24T13:22:39Z",
+  "updated_at": "2026-07-31T07:59:39Z",
   "pushed_at": "2026-06-15T09:38:30Z",
   "deleted_at": "",
   "star_history": [
@@ -342,6 +342,10 @@
     {
       "date": "2026-07-25",
       "stars": 2344
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 2353
     }
   ]
 }

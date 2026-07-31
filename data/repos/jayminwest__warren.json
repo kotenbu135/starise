@@ -6,17 +6,30 @@
   "description": "Coolify for coding agents. Control plane for your agents that operate in isolation, self-manage, self-repair, and self-improve all on your infrastructure.",
   "description_ja": "",
   "url": "https://github.com/jayminwest/warren",
-  "homepage_url": "",
+  "homepage_url": "https://app.warren.run",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 125,
-  "fork_count": 38,
+  "topics": [
+    "agent-orchestration",
+    "ai-agents",
+    "autonomous-agents",
+    "bun",
+    "claude",
+    "control-plane",
+    "developer-tools",
+    "devops",
+    "kubernetes",
+    "sandbox",
+    "self-hosted",
+    "typescript"
+  ],
+  "star_count": 206,
+  "fork_count": 51,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-08T19:04:57Z",
-  "updated_at": "2026-07-25T17:49:14Z",
-  "pushed_at": "2026-07-25T17:49:04Z",
+  "updated_at": "2026-07-31T20:49:00Z",
+  "pushed_at": "2026-07-31T20:48:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -238,6 +251,10 @@
     {
       "date": "2026-07-25",
       "stars": 125
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 206
     }
   ]
 }

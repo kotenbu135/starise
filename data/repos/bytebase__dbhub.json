@@ -3,8 +3,8 @@
   "owner": "bytebase",
   "name": "dbhub",
   "full_name": "bytebase/dbhub",
-  "description": "Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.",
-  "description_ja": "Postgres・MySQL・SQL Server・MariaDB・SQLite 向けのゼロ依存・トークン効率の高いデータベース MCP サーバー",
+  "description": "Token efficient, zero-dependency database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.",
+  "description_ja": "",
   "url": "https://github.com/bytebase/dbhub",
   "homepage_url": "https://dbhub.ai",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "sqlite",
     "sqlserver"
   ],
-  "star_count": 3230,
-  "fork_count": 276,
+  "star_count": 3263,
+  "fork_count": 280,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-09T16:36:38Z",
-  "updated_at": "2026-07-25T10:23:42Z",
-  "pushed_at": "2026-07-22T11:24:56Z",
+  "updated_at": "2026-07-31T18:59:09Z",
+  "pushed_at": "2026-07-31T18:28:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -355,6 +355,10 @@
     {
       "date": "2026-07-25",
       "stars": 3230
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 3263
     }
   ]
 }

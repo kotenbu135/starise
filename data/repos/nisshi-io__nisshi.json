@@ -1,0 +1,356 @@
+{
+  "repo_id": "R_kgDOMmbANA",
+  "owner": "nisshi-io",
+  "name": "nisshi",
+  "full_name": "nisshi-io/nisshi",
+  "description": "Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake",
+  "description_ja": "S3、PostgreSQL、SQLite、Apache Iceberg、Delta Lake に対応した Apache Kafka® 互換ブローカー",
+  "url": "https://github.com/nisshi-io/nisshi",
+  "homepage_url": "https://docs.nisshi.io",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "apache-arrow",
+    "apache-iceberg",
+    "apache-kafka",
+    "built-with-rust",
+    "datafusion",
+    "datalake",
+    "delta-lake",
+    "parquet",
+    "postgres",
+    "postgresql",
+    "s3",
+    "sqlite"
+  ],
+  "star_count": 1835,
+  "fork_count": 76,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2024-08-21T14:47:15Z",
+  "updated_at": "2026-07-31T11:53:19Z",
+  "pushed_at": "2026-07-31T16:15:07Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 1746
+    },
+    {
+      "date": "2026-04-23",
+      "stars": 1747
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 1748
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1748
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 1751
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 1754
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 1755
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 1756
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 1756
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1764
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 1766
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 1768
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 1768
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 1768
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 1770
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 1770
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 1771
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 1772
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 1773
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 1774
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 1775
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 1775
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 1775
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 1776
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 1777
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 1779
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 1781
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 1782
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 1783
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 1784
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 1786
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 1787
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 1787
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 1790
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 1791
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 1792
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 1796
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 1796
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 1797
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 1798
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 1800
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 1801
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 1802
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 1802
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 1803
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 1804
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 1805
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 1806
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 1806
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 1806
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 1806
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 1807
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 1807
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 1807
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 1809
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 1809
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 1810
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 1812
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 1812
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 1812
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 1812
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 1811
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 1811
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 1813
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 1813
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 1814
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 1814
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 1815
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 1818
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 1820
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 1820
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 1822
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 1823
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 1824
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 1824
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 1825
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 1825
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 1829
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 1830
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 1835
+    }
+  ]
+}

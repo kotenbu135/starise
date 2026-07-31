@@ -3,8 +3,8 @@
   "owner": "senryoku",
   "name": "deecy",
   "full_name": "senryoku/deecy",
-  "description": "Experimental Dreamcast emulator written in Zig",
-  "description_ja": "Zig で書かれた実験的な Dreamcast エミュレータ",
+  "description": "Dreamcast emulator written in Zig",
+  "description_ja": "",
   "url": "https://github.com/Senryoku/Deecy",
   "homepage_url": "https://senryoku.github.io/Deecy/",
   "language": "Zig",
@@ -16,13 +16,13 @@
     "zig",
     "zig-program"
   ],
-  "star_count": 213,
-  "fork_count": 5,
+  "star_count": 214,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-04T23:09:01Z",
-  "updated_at": "2026-07-21T15:40:36Z",
-  "pushed_at": "2026-07-21T15:37:02Z",
+  "updated_at": "2026-07-31T04:56:11Z",
+  "pushed_at": "2026-07-31T04:55:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -336,6 +336,10 @@
     {
       "date": "2026-07-25",
       "stars": 213
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 214
     }
   ]
 }

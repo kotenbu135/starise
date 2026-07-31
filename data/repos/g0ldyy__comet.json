@@ -3,8 +3,8 @@
   "owner": "g0ldyy",
   "name": "comet",
   "full_name": "g0ldyy/comet",
-  "description": "Stremio's fastest torrent/debrid search add-on.",
-  "description_ja": "Stremio 向け最速のトレント・デブリッド検索アドオン。",
+  "description": "Stremio's fastest torrent/debrid/usenet search add-on.",
+  "description_ja": "",
   "url": "https://github.com/g0ldyy/comet",
   "homepage_url": "",
   "language": "Python",
@@ -17,13 +17,13 @@
     "stremio-addon",
     "stremio-addons"
   ],
-  "star_count": 1012,
-  "fork_count": 156,
+  "star_count": 1028,
+  "fork_count": 159,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-11T20:44:44Z",
-  "updated_at": "2026-07-25T13:01:38Z",
-  "pushed_at": "2026-07-24T19:56:31Z",
+  "updated_at": "2026-07-31T20:54:07Z",
+  "pushed_at": "2026-07-29T15:42:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -341,6 +341,10 @@
     {
       "date": "2026-07-25",
       "stars": 1012
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 1028
     }
   ]
 }

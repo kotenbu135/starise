@@ -14,7 +14,6 @@
     "ai-agent",
     "claude-code",
     "claude-plugin",
-    "claude-skills",
     "comfyui",
     "comfyui-extension",
     "comfyui-mcp",
@@ -25,19 +24,20 @@
     "mcp",
     "mcp-server",
     "model-context-protocol",
-    "qwen",
+    "offline",
+    "ollama",
+    "self-hosted",
     "stable-diffusion",
-    "text-to-image",
     "video-generation",
     "wan"
   ],
-  "star_count": 446,
-  "fork_count": 72,
+  "star_count": 467,
+  "fork_count": 80,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T17:08:48Z",
-  "updated_at": "2026-07-25T11:08:44Z",
-  "pushed_at": "2026-07-24T22:56:37Z",
+  "updated_at": "2026-07-31T19:13:17Z",
+  "pushed_at": "2026-07-31T19:42:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -351,6 +351,10 @@
     {
       "date": "2026-07-25",
       "stars": 446
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 467
     }
   ]
 }

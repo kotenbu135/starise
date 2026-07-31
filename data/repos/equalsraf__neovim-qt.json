@@ -3,8 +3,8 @@
   "owner": "equalsraf",
   "name": "neovim-qt",
   "full_name": "equalsraf/neovim-qt",
-  "description": "Neovim client library and GUI, in Qt5.",
-  "description_ja": "Qt5 による Neovim クライアントライブラリおよび GUI。",
+  "description": "Neovim client library and GUI, in Qt6.",
+  "description_ja": "",
   "url": "https://github.com/equalsraf/neovim-qt",
   "homepage_url": "https://github.com/equalsraf/neovim-qt/wiki",
   "language": "C++",
@@ -14,13 +14,13 @@
     "neovim-guis",
     "qt"
   ],
-  "star_count": 1996,
-  "fork_count": 181,
+  "star_count": 1995,
+  "fork_count": 182,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-05-26T15:31:34Z",
-  "updated_at": "2026-07-25T19:12:38Z",
-  "pushed_at": "2026-07-25T17:19:40Z",
+  "updated_at": "2026-07-30T18:24:06Z",
+  "pushed_at": "2026-07-31T13:56:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -338,6 +338,10 @@
     {
       "date": "2026-07-25",
       "stars": 1996
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 1995
     }
   ]
 }

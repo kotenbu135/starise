@@ -3,7 +3,7 @@
   "owner": "scaccogatto",
   "name": "okf-skills",
   "full_name": "scaccogatto/okf-skills",
-  "description": "The OKF toolkit for Claude Code — author, maintain, validate \u0026 visualize Open Knowledge Format bundles. Claude Code plugin + skills.sh.",
+  "description": "The OKF toolkit for Claude Code — author, maintain, validate \u0026 visualize Open Knowledge Format bundles. Plugin, agent skills, and a GitHub Action.",
   "description_ja": "",
   "url": "https://github.com/scaccogatto/okf-skills",
   "homepage_url": "https://scaccogatto.github.io/okf-skills/",
@@ -25,13 +25,13 @@
     "structured-knowledge",
     "yaml"
   ],
-  "star_count": 87,
-  "fork_count": 14,
+  "star_count": 205,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-14T11:15:31Z",
-  "updated_at": "2026-07-24T23:02:04Z",
-  "pushed_at": "2026-07-22T13:34:17Z",
+  "updated_at": "2026-07-31T09:20:30Z",
+  "pushed_at": "2026-07-29T06:13:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -89,6 +89,10 @@
     {
       "date": "2026-07-25",
       "stars": 87
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 205
     }
   ]
 }

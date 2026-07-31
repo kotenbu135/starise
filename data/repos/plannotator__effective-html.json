@@ -3,23 +3,29 @@
   "owner": "plannotator",
   "name": "effective-html",
   "full_name": "plannotator/effective-html",
-  "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+  "description": "Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.",
   "description_ja": "",
   "url": "https://github.com/plannotator/effective-html",
   "homepage_url": "https://plannotator.ai",
-  "language": "HTML",
+  "language": "",
   "license": "MIT",
   "topics": [
     "agent-skills",
+    "claude-code",
+    "codex",
+    "html-artifacts",
+    "html-prototype",
+    "html-wireframe",
+    "prototyping",
     "skills"
   ],
-  "star_count": 1404,
-  "fork_count": 108,
+  "star_count": 1445,
+  "fork_count": 111,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T23:24:51Z",
-  "updated_at": "2026-07-25T19:30:36Z",
-  "pushed_at": "2026-07-08T04:22:30Z",
+  "updated_at": "2026-07-31T11:12:23Z",
+  "pushed_at": "2026-07-31T03:12:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -185,6 +191,10 @@
     {
       "date": "2026-07-25",
       "stars": 1404
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 1445
     }
   ]
 }

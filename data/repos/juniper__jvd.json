@@ -3,20 +3,31 @@
   "owner": "juniper",
   "name": "jvd",
   "full_name": "juniper/jvd",
-  "description": "Configuration repository for Juniper Validated Design (JVD)",
-  "description_ja": "Juniper Validated Design（JVD）向けの設定リポジトリ",
+  "description": "Juniper Validated Designs — configs plus an interactive portal: snip library, BYOAI assistants, and a config generator.",
+  "description_ja": "",
   "url": "https://github.com/Juniper/jvd",
   "homepage_url": "https://juniper.github.io/jvd/portal/",
   "language": "TypeScript",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "ai",
+    "data-center",
+    "evpn-vxlan",
+    "juniper",
+    "junos",
+    "mcp",
+    "network-automation",
+    "network-configuration",
+    "service-provider",
+    "validated-designs"
+  ],
   "star_count": 32,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-11T17:45:19Z",
-  "updated_at": "2026-07-24T23:14:35Z",
-  "pushed_at": "2026-07-25T07:00:40Z",
+  "updated_at": "2026-07-30T21:51:23Z",
+  "pushed_at": "2026-07-31T07:13:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -329,6 +340,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 32
+    },
+    {
+      "date": "2026-07-31",
       "stars": 32
     }
   ]

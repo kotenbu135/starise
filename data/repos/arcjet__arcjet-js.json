@@ -3,38 +3,34 @@
   "owner": "arcjet",
   "name": "arcjet-js",
   "full_name": "arcjet/arcjet-js",
-  "description": "Arcjet JavaScript (JS) / TypeScript SDK. Stop bots and automated attacks from burning your AI budget, leaking data, or misusing tools with Arcjet's AI security building blocks.",
-  "description_ja": "Arcjet JavaScript (JS) / TypeScript SDK。Arcjet の AI セキュリティ構成要素で、ボットや自動攻撃による AI 予算の浪費・データ漏洩・ツールの悪用を防ぐ",
+  "description": "Runtime security for AI apps and agents: prompt injection detection, tool-call authorization, sensitive-data redaction, bot protection, and rate limiting. Drop it into your JS/TS code.",
+  "description_ja": "",
   "url": "https://github.com/arcjet/arcjet-js",
   "homepage_url": "https://arcjet.com",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
-    "bun",
-    "developer-tools",
-    "javascript",
-    "javascript-library",
-    "nextjs",
-    "nodejs",
-    "prompt-injection",
-    "prompt-injection-defense",
-    "rate-limiting",
-    "remix",
-    "security",
-    "security-tools",
-    "serverless",
-    "sveltekit",
-    "typescript",
-    "typescript-library",
-    "webassembly"
+    "agent-security",
+    "ai-agents",
+    "ai-security",
+    "application-security",
+    "bot-detection",
+    "llm-security",
+    "mcp",
+    "pii-detection",
+    "prompt-injection-detection",
+    "rate-limiter",
+    "runtime-security",
+    "tool-authorization",
+    "typescipt"
   ],
-  "star_count": 675,
+  "star_count": 676,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-30T07:25:40Z",
-  "updated_at": "2026-07-25T04:03:17Z",
-  "pushed_at": "2026-07-25T04:05:21Z",
+  "updated_at": "2026-07-31T17:39:33Z",
+  "pushed_at": "2026-07-31T17:40:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -348,6 +344,10 @@
     {
       "date": "2026-07-25",
       "stars": 675
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 676
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "Claude Code and Cursor plugin that enables your AI tools with a Slack MCP Server and Slack Developer Skills.",
   "description_ja": "",
   "url": "https://github.com/slackapi/slack-skills-plugin",
-  "homepage_url": "https://docs.slack.dev",
+  "homepage_url": "https://docs.slack.dev/ai/slack-skills-plugin",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -16,13 +16,13 @@
     "skills",
     "slack"
   ],
-  "star_count": 86,
-  "fork_count": 23,
+  "star_count": 88,
+  "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-12T23:46:51Z",
-  "updated_at": "2026-07-21T10:38:17Z",
-  "pushed_at": "2026-07-23T17:41:55Z",
+  "updated_at": "2026-07-30T20:07:56Z",
+  "pushed_at": "2026-07-31T18:20:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -324,6 +324,10 @@
     {
       "date": "2026-07-25",
       "stars": 86
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 88
     }
   ]
 }

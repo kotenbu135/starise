@@ -3,20 +3,22 @@
   "owner": "qianjiachun",
   "name": "cs-match-helper",
   "full_name": "qianjiachun/cs-match-helper",
-  "description": "🦇CS匹配助手 赛前分析双方数据 ai预测比赛胜负 \u0026 急停助手 帮助你改善急停水平",
+  "description": "🦇 CS Match Helper: analyze both teams' pre-match data, use AI to predict match outcomes, and improve your counter-strafing skills with the HUD.",
   "description_ja": "",
   "url": "https://github.com/qianjiachun/cs-match-helper",
   "homepage_url": "https://ppzs.fkbuff.com",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 57,
-  "fork_count": 1,
+  "topics": [
+    "counter-strike-2"
+  ],
+  "star_count": 58,
+  "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-10T01:20:42Z",
-  "updated_at": "2026-07-25T05:49:31Z",
-  "pushed_at": "2026-07-24T10:11:01Z",
+  "updated_at": "2026-07-30T16:54:03Z",
+  "pushed_at": "2026-07-30T16:50:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +76,10 @@
     {
       "date": "2026-07-25",
       "stars": 57
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 58
     }
   ]
 }

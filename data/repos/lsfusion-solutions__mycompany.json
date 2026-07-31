@@ -3,35 +3,39 @@
   "owner": "lsfusion-solutions",
   "name": "mycompany",
   "full_name": "lsfusion-solutions/mycompany",
-  "description": "ERP-system for small businesses",
+  "description": "Free, open-source, self-hosted ERP and CRM for small businesses: inventory, invoicing, manufacturing, sales, projects, HR and POS. Built on lsFusion.",
   "description_ja": "",
   "url": "https://github.com/lsfusion-solutions/mycompany",
-  "homepage_url": "",
+  "homepage_url": "https://mycompany.lsfusion.org/",
   "language": "JavaScript",
   "license": "Apache-2.0",
   "topics": [
-    "accounting-software",
-    "apps",
-    "business",
-    "business-solutions",
     "erp",
-    "erp-application",
     "erp-framework",
-    "erp-product",
-    "erp-project",
     "erp-software",
-    "management",
+    "human-resources",
+    "inventory-management",
+    "invoicing",
+    "lsfusion",
+    "manufacturing",
+    "open-source",
+    "open-source-erp",
+    "point-of-sale",
     "polish-language",
+    "postgresql",
+    "project-management",
     "russian-language",
-    "small-business"
+    "self-hosted",
+    "small-business",
+    "warehouse-management"
   ],
   "star_count": 311,
-  "fork_count": 111,
+  "fork_count": 110,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-10-19T12:28:28Z",
-  "updated_at": "2026-07-24T13:55:18Z",
-  "pushed_at": "2026-07-24T13:54:20Z",
+  "updated_at": "2026-07-31T12:04:16Z",
+  "pushed_at": "2026-07-31T12:03:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -268,6 +272,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 311
+    },
+    {
+      "date": "2026-07-31",
       "stars": 311
     }
   ]

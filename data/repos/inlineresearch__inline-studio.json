@@ -3,7 +3,7 @@
   "owner": "inlineresearch",
   "name": "inline-studio",
   "full_name": "inlineresearch/inline-studio",
-  "description": "AI filmmaking on a node canvas. Build your whole visual pipeline from moodboard to final cut. Generate on your own GPU with diffuser based generation engine. Train your own Z-Image \u0026 Krea2 lora models. ",
+  "description": "AI filmmaking on a node canvas. Build your whole visual pipeline from moodboard to final cut, and keep every render as a versioned take so you never lose the good version. Free and open source. Renders on your own GPU with the Inline Core engine (Z-Image, Krea 2, FLUX.2) or hosted models with no GPU. Train your own LoRAs on the same canvas.",
   "description_ja": "",
   "url": "https://github.com/inlineresearch/Inline-Studio",
   "homepage_url": "https://inlinestudio.art/",
@@ -14,12 +14,12 @@
     "ai-film",
     "ai-filmmaking",
     "ai-video",
-    "comfyui",
+    "controlnet",
     "creative-tools",
-    "cuda",
+    "diffusion-models",
     "fal-ai",
     "filmmaking",
-    "generation-engine",
+    "flux2",
     "generative-ai",
     "generative-video",
     "krea2",
@@ -31,13 +31,13 @@
     "text-to-video",
     "z-image"
   ],
-  "star_count": 173,
-  "fork_count": 36,
+  "star_count": 182,
+  "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-11T07:13:32Z",
-  "updated_at": "2026-07-25T19:29:34Z",
-  "pushed_at": "2026-07-25T19:51:25Z",
+  "updated_at": "2026-07-31T16:31:20Z",
+  "pushed_at": "2026-07-31T16:30:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -159,6 +159,10 @@
     {
       "date": "2026-07-25",
       "stars": 173
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 182
     }
   ]
 }

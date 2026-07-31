@@ -3,7 +3,7 @@
   "owner": "martindelophy",
   "name": "ai-video-editor",
   "full_name": "martindelophy/ai-video-editor",
-  "description": "Local-first browser AI video editor with ONNX voiceovers, Whisper captions, talking avatars, and multi-track MP4/WebM export.",
+  "description": "Local-first browser AI video editor with WebGPU AI music, AI repair, voiceovers, captions, talking avatars, and deterministic export.",
   "description_ja": "",
   "url": "https://github.com/MartinDelophy/ai-video-editor",
   "homepage_url": "https://video-editor.ai-creator.top/",
@@ -11,14 +11,14 @@
   "license": "MIT",
   "topics": [
     "agent-skills",
+    "ai-music",
     "ai-video-editor",
     "ai-voiceover",
     "automatic-captions",
     "browser-ai",
-    "ffmpeg",
-    "ffmpeg-wasm",
     "joyvasa",
     "liveportrait",
+    "modelscope",
     "onnx",
     "pwa",
     "react",
@@ -26,18 +26,18 @@
     "text-to-speech",
     "video-editor",
     "video-processing",
-    "vite",
+    "video-restoration",
     "webassembly",
     "webcodecs",
     "webgpu"
   ],
-  "star_count": 281,
-  "fork_count": 21,
+  "star_count": 414,
+  "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-09T04:43:11Z",
-  "updated_at": "2026-07-25T16:34:17Z",
-  "pushed_at": "2026-07-25T14:44:46Z",
+  "updated_at": "2026-07-31T15:27:33Z",
+  "pushed_at": "2026-07-31T08:19:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-07-25",
       "stars": 281
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 414
     }
   ]
 }

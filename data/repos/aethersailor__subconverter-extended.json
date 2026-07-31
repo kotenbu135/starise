@@ -3,7 +3,7 @@
   "owner": "aethersailor",
   "name": "subconverter-extended",
   "full_name": "aethersailor/subconverter-extended",
-  "description": "基于 subconverter 二次开发的订阅转换后端 mihomo 专用增强版：无需拉取远程订阅内容即可完成转换，规避订阅源访问屏蔽；接入 mihomo 原生解析能力并自动跟随上游协议/参数变化，实现完美解析节点链接，同时兼容原版模板。增加仪表盘等有趣功能。",
+  "description": "基于 subconverter 二次开发的 Mihomo 专用订阅转换后端增强版。无需由后端拉取远程订阅内容即可完成转换，有效规避订阅源访问受限或屏蔽问题；深度集成 Mihomo 原生解析能力，持续同步上游协议与参数支持，可准确解析各类节点链接，并兼容原版 subconverter 模板。同时提供可视化仪表盘及多项实用扩展功能。",
   "description_ja": "",
   "url": "https://github.com/Aethersailor/SubConverter-Extended",
   "homepage_url": "",
@@ -20,13 +20,13 @@
     "vless",
     "vless-reality"
   ],
-  "star_count": 851,
-  "fork_count": 101,
+  "star_count": 873,
+  "fork_count": 103,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-13T14:44:38Z",
-  "updated_at": "2026-07-25T10:42:57Z",
-  "pushed_at": "2026-07-24T03:04:13Z",
+  "updated_at": "2026-07-31T14:32:48Z",
+  "pushed_at": "2026-07-29T14:08:04Z",
   "deleted_at": "2026-06-12",
   "star_history": [
     {
@@ -208,6 +208,10 @@
     {
       "date": "2026-07-25",
       "stars": 851
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 873
     }
   ]
 }

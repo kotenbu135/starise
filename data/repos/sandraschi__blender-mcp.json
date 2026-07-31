@@ -3,7 +3,7 @@
   "owner": "sandraschi",
   "name": "blender-mcp",
   "full_name": "sandraschi/blender-mcp",
-  "description": "Blender 3D automation via FastMCP 3.4 — 41 portmanteau tools, 150+ operations. AI construction, VRM avatars, Gaussian splats, VSE video editing, Grease Pencil 2D animation, Tauri windows app. React web dashboard.",
+  "description": "Headless Blender automation via FastMCP — 41 portmanteau tools (150+ ops). Batch mesh/VSE/Grease Pencil, VRM, Gaussian splats; optional live bridge. For Cursor / Claude Desktop. React dashboard + Tauri app.",
   "description_ja": "",
   "url": "https://github.com/sandraschi/blender-mcp",
   "homepage_url": "",
@@ -17,20 +17,22 @@
     "fleet",
     "gaussian-splatting",
     "grease-pencil",
+    "headless",
     "mcp",
     "mcp-server",
+    "model-context-protocol",
     "tauri",
     "vrm-avatar",
     "vse",
     "webapp"
   ],
-  "star_count": 24,
-  "fork_count": 5,
+  "star_count": 29,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-15T18:40:01Z",
-  "updated_at": "2026-07-23T02:26:19Z",
-  "pushed_at": "2026-07-14T23:43:52Z",
+  "updated_at": "2026-07-31T13:07:44Z",
+  "pushed_at": "2026-07-31T13:06:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -232,6 +234,10 @@
     {
       "date": "2026-07-25",
       "stars": 24
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 29
     }
   ]
 }

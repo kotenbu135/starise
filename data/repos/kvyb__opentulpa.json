@@ -3,37 +3,33 @@
   "owner": "kvyb",
   "name": "opentulpa",
   "full_name": "kvyb/opentulpa",
-  "description": "Self-hosted personal AI agent and employee for workflow automation in your DMs. It writes code, runs tools, schedules jobs, saves workflows, and remembers context.",
+  "description": "Open-source, self-hosted AI agent that evolves its own code to perform better in your specific use-cases.",
   "description_ja": "",
   "url": "https://github.com/kvyb/opentulpa",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "agentic",
     "agentic-ai",
-    "ai",
     "ai-agent",
-    "automation",
-    "integrations",
-    "langgraph",
-    "llm",
-    "multimodal",
-    "personal-assistant",
-    "rag",
-    "sales-automation",
-    "self-hosted",
-    "task-scheduler",
-    "telegram-bot",
-    "workflow-automation"
+    "ai-agents",
+    "autonomous-agents",
+    "coding-agent",
+    "deep-agents",
+    "llms",
+    "open-source",
+    "self-evolving-agent",
+    "self-improving-agent",
+    "self-modifying-ai",
+    "workflow-automation-ai"
   ],
   "star_count": 39,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-20T13:16:46Z",
-  "updated_at": "2026-07-24T19:16:17Z",
-  "pushed_at": "2026-07-24T19:15:53Z",
+  "updated_at": "2026-07-31T14:13:19Z",
+  "pushed_at": "2026-07-31T14:10:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -326,6 +322,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 39
+    },
+    {
+      "date": "2026-07-31",
       "stars": 39
     }
   ]

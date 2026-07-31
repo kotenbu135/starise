@@ -9,14 +9,17 @@
   "homepage_url": "https://www.apollographql.com/docs/apollo-mcp-server/quickstart",
   "language": "Rust",
   "license": "MIT",
-  "topics": [],
-  "star_count": 299,
-  "fork_count": 69,
+  "topics": [
+    "graphql",
+    "mcp"
+  ],
+  "star_count": 301,
+  "fork_count": 71,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-02T20:22:33Z",
-  "updated_at": "2026-07-23T14:58:01Z",
-  "pushed_at": "2026-07-24T20:53:19Z",
+  "updated_at": "2026-07-31T15:59:19Z",
+  "pushed_at": "2026-07-31T15:59:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +137,10 @@
     {
       "date": "2026-07-25",
       "stars": 299
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 301
     }
   ]
 }

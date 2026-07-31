@@ -7,7 +7,7 @@
   "description_ja": "vortexファイルの読み書きを可能にするDuckDB拡張",
   "url": "https://github.com/vortex-data/duckdb-vortex",
   "homepage_url": "",
-  "language": "Shell",
+  "language": "CMake",
   "license": "MIT",
   "topics": [],
   "star_count": 51,
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-17T10:30:34Z",
-  "updated_at": "2026-07-24T08:55:01Z",
-  "pushed_at": "2026-07-25T18:11:44Z",
+  "updated_at": "2026-07-27T09:48:42Z",
+  "pushed_at": "2026-07-31T18:08:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -329,6 +329,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 51
+    },
+    {
+      "date": "2026-07-31",
       "stars": 51
     }
   ]

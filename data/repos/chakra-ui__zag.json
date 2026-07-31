@@ -3,8 +3,8 @@
   "owner": "chakra-ui",
   "name": "zag",
   "full_name": "chakra-ui/zag",
-  "description": "Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines",
-  "description_ja": "有限状態機械を基盤に、React、Solid、Vue、Svelte でデザインシステムを構築",
+  "description": "Build your design system in React, Solid, Vue, Svelte or Vanilla. Powered by finite state machines",
+  "description_ja": "",
   "url": "https://github.com/chakra-ui/zag",
   "homepage_url": "http://zagjs.com",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "vue",
     "xstate"
   ],
-  "star_count": 5167,
-  "fork_count": 264,
+  "star_count": 5173,
+  "fork_count": 267,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-07-07T11:38:07Z",
-  "updated_at": "2026-07-24T17:29:54Z",
-  "pushed_at": "2026-07-24T23:18:25Z",
+  "updated_at": "2026-07-30T00:59:42Z",
+  "pushed_at": "2026-07-30T12:55:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -355,6 +355,10 @@
     {
       "date": "2026-07-25",
       "stars": 5167
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 5173
     }
   ]
 }

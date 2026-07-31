@@ -3,7 +3,7 @@
   "owner": "demchaav",
   "name": "graphcompose",
   "full_name": "demchaav/graphcompose",
-  "description": "Declarative Java PDF engine for structured business documents — semantic layout, atomic pagination, theme tokens, native charts, SVG \u0026 gradients, deterministic, PDFBox-backed",
+  "description": "Declarative Java engine for structured business documents — one session renders a print-ready PDF and a geometry-identical, editable PowerPoint deck. Semantic layout, atomic pagination, theme tokens, native charts, SVG \u0026 gradients, deterministic, PDFBox-backed",
   "description_ja": "",
   "url": "https://github.com/DemchaAV/GraphCompose",
   "homepage_url": "https://demchaav.github.io/GraphCompose/",
@@ -25,17 +25,19 @@
     "pdf-lib",
     "pdf-library",
     "pdfbox3",
+    "powerpoint",
+    "pptx",
     "report-generation",
     "snapshot-testing",
     "template-engine"
   ],
-  "star_count": 105,
+  "star_count": 106,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-20T18:16:34Z",
-  "updated_at": "2026-07-17T21:09:08Z",
-  "pushed_at": "2026-07-25T14:16:49Z",
+  "updated_at": "2026-07-26T15:33:14Z",
+  "pushed_at": "2026-07-31T20:16:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -81,6 +83,10 @@
     {
       "date": "2026-07-25",
       "stars": 105
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 106
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "knightinfected",
   "name": "pipewirecontroller",
   "full_name": "knightinfected/pipewirecontroller",
-  "description": "GTK4/libadwaita control center for PipeWire — filter chains, HRIR virtual surround, drop-in config management, live patchbay, performance monitoring, virtual devices, routing snapshots, per-application policies and LADSPA/LV2 effect inserts. And more.... On the AUR: pipewire-controller",
+  "description": "GTK4/libadwaita control center for PipeWire — live level meters on every volume control, parametric equalizer, microphone cleanup (echo/noise), live patchbay, performance monitoring, virtual devices, filter chains, HRIR virtual surround, routing snapshots, per-app policies and LADSPA/LV2 effect inserts. On the AUR: pipewire-controller",
   "description_ja": "",
   "url": "https://github.com/knightinfected/PipeWireController",
   "homepage_url": "",
@@ -24,13 +24,13 @@
     "virtual-surround",
     "wireplumber"
   ],
-  "star_count": 50,
+  "star_count": 76,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-21T19:53:51Z",
-  "updated_at": "2026-07-25T16:28:32Z",
-  "pushed_at": "2026-07-24T00:56:37Z",
+  "updated_at": "2026-07-31T20:09:44Z",
+  "pushed_at": "2026-07-31T20:09:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +40,10 @@
     {
       "date": "2026-07-25",
       "stars": 50
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 76
     }
   ]
 }

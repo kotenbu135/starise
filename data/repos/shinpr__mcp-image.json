@@ -3,7 +3,7 @@
   "owner": "shinpr",
   "name": "mcp-image",
   "full_name": "shinpr/mcp-image",
-  "description": "MCP server for AI image generation and editing with automatic prompt optimization and quality presets. Powered by Gemini (Nano Banana 2 \u0026 Pro), with optional OpenAI GPT Image support.",
+  "description": "MCP server for AI image generation and editing with automatic prompt optimization and quality presets. Supports Nano Banana (Gemini), OpenAI GPT Image, and BytePlus Seedream.",
   "description_ja": "",
   "url": "https://github.com/shinpr/mcp-image",
   "homepage_url": "",
@@ -14,7 +14,6 @@
     "ai-tools",
     "claude-code",
     "codex",
-    "cursor",
     "gemini",
     "generative-ai",
     "gpt-image-2",
@@ -24,15 +23,16 @@
     "mcp-server",
     "model-context-protocol",
     "prompt-optimization",
+    "seedream",
     "skills"
   ],
-  "star_count": 141,
-  "fork_count": 23,
+  "star_count": 144,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-27T21:33:53Z",
-  "updated_at": "2026-07-25T03:14:32Z",
-  "pushed_at": "2026-07-24T06:15:31Z",
+  "updated_at": "2026-07-31T07:49:15Z",
+  "pushed_at": "2026-07-29T09:31:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -350,6 +350,10 @@
     {
       "date": "2026-07-25",
       "stars": 141
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 144
     }
   ]
 }

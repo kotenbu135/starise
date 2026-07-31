@@ -3,20 +3,34 @@
   "owner": "chubrik",
   "name": "logicarrows",
   "full_name": "chubrik/logicarrows",
-  "description": "Collection of maps created in the game “Logic Arrows” by Onigiri.",
+  "description": "Collection of maps for the “Logic Arrows” game — from simple gates to full-fledged computers with their own assembler, programs, and games",
   "description_ja": "",
   "url": "https://github.com/chubrik/LogicArrows",
-  "homepage_url": "",
+  "homepage_url": "https://logic-arrows.io/map-computer",
   "language": "Assembly",
   "license": "",
-  "topics": [],
-  "star_count": 49,
+  "topics": [
+    "8-bit-computer",
+    "assembly",
+    "assembly-language",
+    "cellular-automata",
+    "computer-architecture",
+    "digital-logic",
+    "emulator",
+    "game-of-life",
+    "logic-arrows",
+    "logic-gates",
+    "snake-game",
+    "tetris",
+    "turing-complete"
+  ],
+  "star_count": 50,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-03T10:55:42Z",
-  "updated_at": "2026-07-23T10:09:54Z",
-  "pushed_at": "2026-07-23T09:37:42Z",
+  "updated_at": "2026-07-31T17:06:55Z",
+  "pushed_at": "2026-07-31T17:06:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -186,6 +200,10 @@
     {
       "date": "2026-07-25",
       "stars": 49
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 50
     }
   ]
 }

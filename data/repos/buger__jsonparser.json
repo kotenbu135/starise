@@ -3,10 +3,10 @@
   "owner": "buger",
   "name": "jsonparser",
   "full_name": "buger/jsonparser",
-  "description": "One of the fastest alternative JSON parser for Go that does not require schema",
-  "description_ja": "スキーマ不要で動作する Go 向けの最速クラス代替 JSON パーサー。",
+  "description": "THE fastest alternative JSON parser for Go that does not require schema",
+  "description_ja": "",
   "url": "https://github.com/buger/jsonparser",
-  "homepage_url": "",
+  "homepage_url": "https://blog.reqproof.com/p/celebrating-ten-years-of-jsonparser",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -16,13 +16,13 @@
     "parser",
     "perfomance"
   ],
-  "star_count": 5630,
-  "fork_count": 458,
+  "star_count": 5636,
+  "fork_count": 456,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-03-20T06:22:33Z",
-  "updated_at": "2026-07-25T08:21:20Z",
-  "pushed_at": "2026-05-03T11:10:14Z",
+  "updated_at": "2026-07-31T18:35:21Z",
+  "pushed_at": "2026-07-31T04:12:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -340,6 +340,10 @@
     {
       "date": "2026-07-25",
       "stars": 5630
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 5636
     }
   ]
 }

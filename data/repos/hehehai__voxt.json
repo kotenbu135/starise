@@ -3,8 +3,8 @@
   "owner": "hehehai",
   "name": "voxt",
   "full_name": "hehehai/voxt",
-  "description": "🎙️Voice input and translation app for macOS. Press to talk, release to paste.",
-  "description_ja": "macOS 向け音声入力・翻訳アプリ。押して話し、離してペーストするだけ。",
+  "description": "🎙️ Local-first voice input for Mac—cleanup, rewrite, translation, and per-app style from one hold-to-talk habit.",
+  "description_ja": "",
   "url": "https://github.com/hehehai/voxt",
   "homepage_url": "https://voxt.actnow.dev",
   "language": "Swift",
@@ -20,13 +20,13 @@
     "voice-assistant",
     "whisper"
   ],
-  "star_count": 705,
+  "star_count": 716,
   "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T02:45:43Z",
-  "updated_at": "2026-07-25T15:02:20Z",
-  "pushed_at": "2026-07-25T15:01:52Z",
+  "updated_at": "2026-07-31T19:04:14Z",
+  "pushed_at": "2026-07-31T03:04:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -344,6 +344,10 @@
     {
       "date": "2026-07-25",
       "stars": 705
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 716
     }
   ]
 }

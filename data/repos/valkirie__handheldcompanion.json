@@ -3,20 +3,26 @@
   "owner": "valkirie",
   "name": "handheldcompanion",
   "full_name": "valkirie/handheldcompanion",
-  "description": "ControllerService",
-  "description_ja": "ControllerService",
+  "description": "A touch optimized GUI to increase your handheld gaming computer experience.",
+  "description_ja": "",
   "url": "https://github.com/Valkirie/HandheldCompanion",
   "homepage_url": "",
   "language": "C#",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 1684,
-  "fork_count": 114,
+  "topics": [
+    "consoles",
+    "gaming",
+    "gyroscope",
+    "handheld",
+    "windows"
+  ],
+  "star_count": 1686,
+  "fork_count": 116,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-20T13:29:22Z",
-  "updated_at": "2026-07-25T15:31:53Z",
-  "pushed_at": "2026-07-24T09:16:32Z",
+  "updated_at": "2026-07-30T14:02:39Z",
+  "pushed_at": "2026-07-30T14:06:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -334,6 +340,10 @@
     {
       "date": "2026-07-25",
       "stars": 1684
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 1686
     }
   ]
 }

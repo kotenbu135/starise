@@ -3,7 +3,7 @@
   "owner": "nameetp",
   "name": "pdfmux",
   "full_name": "nameetp/pdfmux",
-  "description": "Self-healing PDF extraction that flags what it can't read instead of dropping it — and now certifies any extractor's output, catching silently-dropped pages. #2 of all tools, #1 free on opendataloader-bench (0.903). 7-tool MCP. MIT, free.",
+  "description": "PDF extraction that audits its own output — and certifies any other extractor's, catching pages they silently dropped. Verify signed manifests offline: free, MIT, no account. 0.903 on opendataloader-bench, #2 of 8 engines. 7-tool MCP server.",
   "description_ja": "",
   "url": "https://github.com/NameetP/pdfmux",
   "homepage_url": "https://pdfmux.com",
@@ -12,13 +12,18 @@
   "topics": [
     "ai-agent",
     "docling",
+    "document-ai",
     "document-parsing",
+    "langchain",
+    "llamaindex",
     "llm",
     "mcp",
+    "mcp-server",
     "ocr",
     "opendataloader",
     "pdf",
     "pdf-extraction",
+    "pdf-parser",
     "pdf-to-json",
     "pdf-to-markdown",
     "python",
@@ -31,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T16:32:24Z",
-  "updated_at": "2026-07-20T07:50:13Z",
-  "pushed_at": "2026-07-25T05:02:37Z",
+  "updated_at": "2026-07-29T14:32:57Z",
+  "pushed_at": "2026-07-29T12:22:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -349,6 +354,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 77
+    },
+    {
+      "date": "2026-07-31",
       "stars": 77
     }
   ]

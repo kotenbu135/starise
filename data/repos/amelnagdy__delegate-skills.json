@@ -3,7 +3,7 @@
   "owner": "amelnagdy",
   "name": "delegate-skills",
   "full_name": "amelnagdy/delegate-skills",
-  "description": "Drive Codex, OpenCode, Antigravity, Grok, or Kimi as a background implementer — brief it, review its diff, land the commit yourself.",
+  "description": "Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.",
   "description_ja": "",
   "url": "https://github.com/amElnagdy/delegate-skills",
   "homepage_url": "https://www.skills.sh/amelnagdy/delegate-skills",
@@ -11,20 +11,28 @@
   "license": "MIT",
   "topics": [
     "agent-skills",
-    "automation",
+    "ai-coding-agent",
+    "antigravity",
     "claude-code",
+    "claude-code-skills",
+    "codex",
     "coding-agent",
-    "developer-tools",
+    "cursor",
+    "grok",
+    "kimi",
+    "mistral",
     "openai-codex",
-    "skills-cli"
+    "opencode",
+    "qoder",
+    "skills-sh"
   ],
-  "star_count": 550,
-  "fork_count": 56,
+  "star_count": 656,
+  "fork_count": 72,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-14T10:35:48Z",
-  "updated_at": "2026-07-25T18:58:52Z",
-  "pushed_at": "2026-07-23T14:06:45Z",
+  "updated_at": "2026-07-31T16:37:46Z",
+  "pushed_at": "2026-07-31T20:11:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +54,10 @@
     {
       "date": "2026-07-25",
       "stars": 550
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 656
     }
   ]
 }

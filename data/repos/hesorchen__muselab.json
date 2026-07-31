@@ -3,7 +3,7 @@
   "owner": "hesorchen",
   "name": "muselab",
   "full_name": "hesorchen/muselab",
-  "description": "基于 Claude Agent SDK 构建的自托管 Agent 工作台，可以复用 Claude、GPT 订阅额度。掌握完整用户上下文，主流模型一键切换，HTML / Markdown 即写即渲染，PC端、移动端多端同步。",
+  "description": "基于 Claude Agent SDK 构建的自托管 Agent 工作台，可以复用 Claude、ChatGPT 订阅额度。集成文件、预览、AI 对话和真实终端。多工作目录、主流模型一键接入、HTML／Markdown 即写即渲染，以及桌面端、移动端多端内容同步。",
   "description_ja": "",
   "url": "https://github.com/hesorchen/muselab",
   "homepage_url": "https://hesorchen.github.io/muselab/promo/",
@@ -21,13 +21,13 @@
     "personal-knowledge-base",
     "self-hosted"
   ],
-  "star_count": 47,
-  "fork_count": 6,
+  "star_count": 57,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-16T16:47:53Z",
-  "updated_at": "2026-07-25T18:05:55Z",
-  "pushed_at": "2026-07-25T18:05:45Z",
+  "updated_at": "2026-07-31T16:40:51Z",
+  "pushed_at": "2026-07-31T16:40:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -153,6 +153,10 @@
     {
       "date": "2026-07-25",
       "stars": 47
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 57
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "uipath",
   "name": "coder_eval",
   "full_name": "uipath/coder_eval",
-  "description": "Evaluate \u0026 benchmark AI coding agents and Claude Code skills — sandboxed, reproducible YAML eval suites for Claude Code, Codex \u0026 Gemini, with A/B experiments and CI gates.",
+  "description": "Test that your Claude Code skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, activation checks, A/B experiments, CI gates.",
   "description_ja": "",
   "url": "https://github.com/UiPath/coder_eval",
   "homepage_url": "https://coder-eval.com",
@@ -11,24 +11,23 @@
   "license": "Apache-2.0",
   "topics": [
     "agent-evaluation",
+    "agent-skills",
     "agent-testing",
-    "ai-agents",
-    "ai-evaluation",
+    "anthropic",
+    "anthropic-claude",
     "antigravity",
-    "benchmark",
     "claude",
+    "claude-agent-sdk",
     "claude-code",
     "claude-code-skills",
     "claude-skills",
     "codex",
     "coding-agents",
-    "evals",
     "evaluation-framework",
     "gemini",
-    "llm-eval",
-    "llm-evaluation",
-    "llmops",
-    "sandbox",
+    "github-actions",
+    "regression-testing",
+    "skill-testing",
     "swe-bench"
   ],
   "star_count": 107,
@@ -36,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-09T06:46:59Z",
-  "updated_at": "2026-07-24T21:11:57Z",
-  "pushed_at": "2026-07-24T22:14:45Z",
+  "updated_at": "2026-07-31T21:54:42Z",
+  "pushed_at": "2026-07-31T21:54:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +69,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 107
+    },
+    {
+      "date": "2026-07-31",
       "stars": 107
     }
   ]

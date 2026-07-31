@@ -6,7 +6,7 @@
   "description": "Cloud Native application framework for .NET",
   "description_ja": ".NET 向けクラウドネイティブアプリケーションフレームワーク",
   "url": "https://github.com/dotnet/orleans",
-  "homepage_url": "https://docs.microsoft.com/dotnet/orleans",
+  "homepage_url": "https://dotnet.github.io/orleans/",
   "language": "C#",
   "license": "MIT",
   "topics": [
@@ -21,12 +21,12 @@
     "orleans"
   ],
   "star_count": 10816,
-  "fork_count": 2134,
+  "fork_count": 2135,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-12-19T14:32:50Z",
-  "updated_at": "2026-07-25T00:05:03Z",
-  "pushed_at": "2026-07-24T21:21:56Z",
+  "updated_at": "2026-07-31T20:27:16Z",
+  "pushed_at": "2026-07-31T20:33:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -343,6 +343,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 10816
+    },
+    {
+      "date": "2026-07-31",
       "stars": 10816
     }
   ]

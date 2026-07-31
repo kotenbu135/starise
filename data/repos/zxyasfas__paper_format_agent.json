@@ -3,7 +3,7 @@
   "owner": "zxyasfas",
   "name": "paper_format_agent",
   "full_name": "zxyasfas/paper_format_agent",
-  "description": "DOCX formatter for academic papers with a content-fingerprint guard: proves your text is never altered, only the formatting. Also installable as an agent skill.",
+  "description": "DOCX formatter for academic papers with a content-fingerprint guard: proves your text is never altered, only the formatting. Also installable as an agent skill. 毕业论文、学位论文的 Word 自动排版：按格式要求改字体字号、行距、缩进、标题和题注；指纹校验保证只改格式、不动正文，也可做格式检查评分。",
   "description_ja": "",
   "url": "https://github.com/zxyasfas/paper_format_agent",
   "homepage_url": "",
@@ -12,20 +12,24 @@
   "topics": [
     "academic-writing",
     "agent-skill",
+    "chinese",
     "document-formatting",
     "docx",
+    "formatter",
     "local-first",
     "mcp-server",
+    "microsoft-word",
+    "paper-formatting",
     "python",
     "thesis"
   ],
   "star_count": 88,
-  "fork_count": 4,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-05T07:55:41Z",
-  "updated_at": "2026-07-24T03:28:40Z",
-  "pushed_at": "2026-07-18T17:41:08Z",
+  "updated_at": "2026-07-29T06:30:15Z",
+  "pushed_at": "2026-07-29T06:29:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -270,6 +274,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 88
+    },
+    {
+      "date": "2026-07-31",
       "stars": 88
     }
   ]

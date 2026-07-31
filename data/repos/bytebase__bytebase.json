@@ -3,18 +3,20 @@
   "owner": "bytebase",
   "name": "bytebase",
   "full_name": "bytebase/bytebase",
-  "description": "World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.",
-  "description_ja": "開発者・セキュリティ・DBA・プラットフォームエンジニアリングチーム向けの世界最先端のデータベース DevSecOps ソリューション。データベース DevSecOps のための GitHub/GitLab。",
+  "description": "The standard of database governance. Govern changes and access across every major database type - by humans and agents.",
+  "description_ja": "",
   "url": "https://github.com/bytebase/bytebase",
   "homepage_url": "https://www.bytebase.com",
   "language": "Go",
   "license": "NOASSERTION",
   "topics": [
     "cicd",
+    "data-governance",
     "data-masking",
     "data-security",
     "database-access",
-    "dbeaver",
+    "database-governance",
+    "devops",
     "devsecops",
     "flyway",
     "gitops",
@@ -22,22 +24,20 @@
     "mongodb",
     "mysql",
     "oracle",
-    "pam",
     "postgresql",
     "schema-migrations",
     "security",
-    "snowflake",
     "sql-client",
     "sqlserver",
     "tidb"
   ],
-  "star_count": 14290,
-  "fork_count": 963,
+  "star_count": 14313,
+  "fork_count": 965,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-01-27T04:33:50Z",
-  "updated_at": "2026-07-25T15:42:59Z",
-  "pushed_at": "2026-07-25T14:29:29Z",
+  "updated_at": "2026-07-31T14:28:15Z",
+  "pushed_at": "2026-07-31T14:25:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -355,6 +355,10 @@
     {
       "date": "2026-07-25",
       "stars": 14290
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 14313
     }
   ]
 }

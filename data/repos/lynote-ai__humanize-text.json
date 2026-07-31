@@ -3,7 +3,7 @@
   "owner": "lynote-ai",
   "name": "humanize-text",
   "full_name": "lynote-ai/humanize-text",
-  "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+  "description": "Open-source humanize text toolkit. Documents 4 humanization methodologies with reference implementations, plus a production pipeline combining LLM rewriting with a cross-engine translation chain. Python, OpenAI-compatible API.",
   "description_ja": "",
   "url": "https://github.com/lynote-ai/humanize-text",
   "homepage_url": "https://lynote.ai/ai-humanizer",
@@ -18,21 +18,26 @@
     "ai-humanizer",
     "ai-text-humanizer",
     "ai-tools",
+    "ai-writing",
     "gptzero-bypass",
     "humanize",
     "humanize-ai-text",
     "humanize-text",
+    "paraphrasing",
     "student-tools",
     "text-humanizer",
+    "text-processing",
+    "text-rewriting",
+    "writing-assistant",
     "writing-tools"
   ],
-  "star_count": 1514,
-  "fork_count": 85,
+  "star_count": 1540,
+  "fork_count": 90,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-18T10:12:15Z",
-  "updated_at": "2026-07-25T16:03:39Z",
-  "pushed_at": "2026-07-24T11:05:49Z",
+  "updated_at": "2026-07-31T15:20:02Z",
+  "pushed_at": "2026-07-31T08:02:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +263,10 @@
     {
       "date": "2026-07-25",
       "stars": 1514
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 1540
     }
   ]
 }

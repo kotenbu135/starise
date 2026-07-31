@@ -3,7 +3,7 @@
   "owner": "edumucelli",
   "name": "docking",
   "full_name": "edumucelli/docking",
-  "description": "A lightweight, feature-rich dock for Linux written in Python with GTK 3 and Cairo",
+  "description": "A lightweight, feature-rich dock for Linux written in Python with GTK 3 and Cairo for X11 and Wayland",
   "description_ja": "",
   "url": "https://github.com/edumucelli/docking",
   "homepage_url": "https://www.docking.cc",
@@ -15,15 +15,17 @@
     "dockbar",
     "gtk3",
     "linux",
-    "python"
+    "python",
+    "wayland",
+    "x11"
   ],
-  "star_count": 60,
+  "star_count": 61,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T18:42:28Z",
-  "updated_at": "2026-07-24T20:20:35Z",
-  "pushed_at": "2026-07-24T20:20:42Z",
+  "updated_at": "2026-07-31T19:35:03Z",
+  "pushed_at": "2026-07-31T20:50:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -329,6 +331,10 @@
     {
       "date": "2026-07-25",
       "stars": 60
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 61
     }
   ]
 }

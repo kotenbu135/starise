@@ -3,10 +3,10 @@
   "owner": "archcore-ai",
   "name": "plugin",
   "full_name": "archcore-ai/plugin",
-  "description": "Plugin for context engineering in Claude Code, Cursor, and Codex. Build on top Archcore CLI.",
+  "description": "Git-native repo memory for Claude Code, Cursor \u0026 Codex CLI — /archcore slash commands, MCP, session hooks",
   "description_ja": "",
   "url": "https://github.com/archcore-ai/plugin",
-  "homepage_url": "https://docs.archcore.ai/plugin/overview/",
+  "homepage_url": "https://archcore.ai/plugin/",
   "language": "Shell",
   "license": "Apache-2.0",
   "topics": [
@@ -16,27 +16,28 @@
     "ai-tools",
     "architecture",
     "claude",
+    "claude-code",
     "claude-code-plugin",
     "codex",
     "codex-cli",
     "context",
     "context-engineering",
-    "conventions",
+    "copilot",
     "cursor",
-    "documentation",
     "knowledge-management",
     "mcp",
     "plugin",
+    "repo-memory",
     "spec-driven",
     "subagents"
   ],
   "star_count": 50,
-  "fork_count": 6,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-05T06:30:15Z",
-  "updated_at": "2026-07-24T15:09:01Z",
-  "pushed_at": "2026-07-24T15:07:56Z",
+  "updated_at": "2026-07-30T10:05:27Z",
+  "pushed_at": "2026-07-27T20:46:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -213,6 +214,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 50
+    },
+    {
+      "date": "2026-07-31",
       "stars": 50
     }
   ]

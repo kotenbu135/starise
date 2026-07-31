@@ -3,34 +3,41 @@
   "owner": "off-grid-ai",
   "name": "ogam",
   "full_name": "off-grid-ai/ogam",
-  "description": "The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-to-text, vision, text-to-image",
-  "description_ja": "[26] オフライン AI のスイスアーミーナイフ。チャット、音声、画像生成 — プライバシー優先、インターネット不要。LLM をダウンロードしてモバイル端末で利用。データは端末外に出ない。テキスト生成、ビジョン、画像生成に対応。",
+  "description": "The Swiss Army Knife of Offline AI. Chat, see, speak, and generate images on your phone or Mac — GGUF LLMs, vision, Whisper speech-to-text, Stable Diffusion, tool calling, and local-network servers. Runs on your CPU, GPU, or NPU. No account, no API key, zero data leaves your device.",
+  "description_ja": "",
   "url": "https://github.com/off-grid-ai/OGAM",
   "homepage_url": "https://getoffgridai.co/pro/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "android",
     "edge-ai",
     "gguf",
+    "ios",
     "llama-cpp",
     "local-ai",
+    "macos",
+    "mcp",
     "mobile-ai",
     "offline-ai",
     "offline-llm",
     "ondevice",
     "ondevice-ai",
     "privacy-first",
+    "react-native",
     "stable-diffusion-android",
     "tool-calling",
-    "whisper-android"
+    "vision-language-model",
+    "whisper-android",
+    "whisper-cpp"
   ],
-  "star_count": 2804,
-  "fork_count": 268,
+  "star_count": 2852,
+  "fork_count": 272,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-29T11:00:58Z",
-  "updated_at": "2026-07-25T16:58:54Z",
-  "pushed_at": "2026-07-25T14:08:50Z",
+  "updated_at": "2026-07-31T20:54:24Z",
+  "pushed_at": "2026-07-27T13:06:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -348,6 +355,10 @@
     {
       "date": "2026-07-25",
       "stars": 2804
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 2852
     }
   ]
 }

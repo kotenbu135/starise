@@ -3,39 +3,34 @@
   "owner": "cosmic-ide",
   "name": "cosmic-ide",
   "full_name": "cosmic-ide/cosmic-ide",
-  "description": "A next-gen Ide for JVM development on Android",
-  "description_ja": "Android 上の JVM 開発向け次世代 IDE",
+  "description": "A desktop-class, general-purpose IDE for Android, powered by a full Linux environment.",
+  "description_ja": "",
   "url": "https://github.com/Cosmic-Ide/Cosmic-IDE",
   "homepage_url": "",
-  "language": "Java",
+  "language": "Kotlin",
   "license": "GPL-3.0",
   "topics": [
-    "android",
-    "android-development",
-    "code-editor",
-    "codeeditor",
-    "compiler",
-    "cosmic-ide",
-    "decompiler",
-    "disassembler",
-    "editor",
-    "hacktoberfest",
-    "java",
-    "java-ide",
-    "javaide",
-    "jvm",
-    "kotlin",
-    "kotlin-ide",
-    "offline",
-    "smali-parser"
+    "android-application",
+    "android-ide",
+    "code-editor-mobile",
+    "developer-tools",
+    "development",
+    "development-environment",
+    "gradle",
+    "hacktober",
+    "language-server-protocol",
+    "linux-on-android",
+    "maven",
+    "open-source",
+    "terminal"
   ],
-  "star_count": 680,
+  "star_count": 684,
   "fork_count": 99,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-18T07:15:30Z",
-  "updated_at": "2026-07-25T05:54:24Z",
-  "pushed_at": "2026-03-09T10:01:34Z",
+  "updated_at": "2026-07-31T15:40:55Z",
+  "pushed_at": "2026-07-31T15:21:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -353,6 +348,10 @@
     {
       "date": "2026-07-25",
       "stars": 680
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 684
     }
   ]
 }

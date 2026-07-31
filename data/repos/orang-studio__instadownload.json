@@ -8,22 +8,28 @@
   "url": "https://github.com/Orang-Studio/InstaDownload",
   "homepage_url": "https://oranges.lt/software",
   "language": "Kotlin",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "topics": [
+    "android",
     "apk",
     "app",
     "insta",
     "instagram",
-    "instagram-api",
-    "instagram-downloader"
+    "instagram-downloader",
+    "instagram-photos",
+    "instagram-reels",
+    "no-ads",
+    "photo-downloader",
+    "privacy",
+    "video-downlaoder"
   ],
-  "star_count": 33,
-  "fork_count": 1,
+  "star_count": 40,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-08T16:22:03Z",
-  "updated_at": "2026-07-25T16:52:43Z",
-  "pushed_at": "2026-07-23T14:15:36Z",
+  "updated_at": "2026-07-31T13:59:16Z",
+  "pushed_at": "2026-07-31T13:58:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -73,6 +79,10 @@
     {
       "date": "2026-07-25",
       "stars": 33
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 40
     }
   ]
 }

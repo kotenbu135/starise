@@ -9,14 +9,19 @@
   "homepage_url": "https://greasyfork.org/zh-CN/scripts/533339",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 123,
+  "topics": [
+    "bilibili",
+    "login",
+    "tampermonkey",
+    "userscript"
+  ],
+  "star_count": 124,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-19T13:22:56Z",
-  "updated_at": "2026-07-24T02:41:25Z",
-  "pushed_at": "2026-07-23T02:54:15Z",
+  "updated_at": "2026-07-28T05:56:33Z",
+  "pushed_at": "2026-07-27T00:28:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -238,6 +243,10 @@
     {
       "date": "2026-07-25",
       "stars": 123
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 124
     }
   ]
 }

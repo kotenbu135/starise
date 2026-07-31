@@ -3,7 +3,7 @@
   "owner": "rocm",
   "name": "flydsl",
   "full_name": "rocm/flydsl",
-  "description": "FlyDSL is the Python front‑end of the project: Flexible LaYout DSL.",
+  "description": "FlyDSL is the Python front‑end of the project: a Flexible Layout Python DSL for expressing tiling, partitioning, data movement, and kernel structure at a high level.",
   "description_ja": "",
   "url": "https://github.com/ROCm/FlyDSL",
   "homepage_url": "",
@@ -18,13 +18,13 @@
     "performance",
     "python-dsl"
   ],
-  "star_count": 249,
-  "fork_count": 97,
+  "star_count": 257,
+  "fork_count": 102,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-23T14:25:05Z",
-  "updated_at": "2026-07-25T00:52:20Z",
-  "pushed_at": "2026-07-25T18:39:02Z",
+  "updated_at": "2026-07-31T16:25:40Z",
+  "pushed_at": "2026-07-31T21:43:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -262,6 +262,10 @@
     {
       "date": "2026-07-25",
       "stars": 249
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 257
     }
   ]
 }

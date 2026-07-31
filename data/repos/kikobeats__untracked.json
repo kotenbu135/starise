@@ -3,23 +3,31 @@
   "owner": "kikobeats",
   "name": "untracked",
   "full_name": "kikobeats/untracked",
-  "description": "Universal way for ignoring unnecessary common files to fit your bundle",
+  "description": "Ignore common junk files in zip/lambda/webpack bundles with a universal untracked file list.",
   "description_ja": "",
   "url": "https://github.com/Kikobeats/untracked",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/Kikobeats/untracked",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "bundle",
+    "cleanup",
+    "deploy",
     "gitignore",
-    "prune"
+    "ignore",
+    "lambda",
+    "packaging",
+    "untracked",
+    "webpack",
+    "zip"
   ],
   "star_count": 834,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-23T23:32:36Z",
-  "updated_at": "2026-07-22T19:42:58Z",
-  "pushed_at": "2026-07-15T06:41:16Z",
+  "updated_at": "2026-07-30T19:58:11Z",
+  "pushed_at": "2026-07-30T10:58:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -220,6 +228,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 834
+    },
+    {
+      "date": "2026-07-31",
       "stars": 834
     }
   ]

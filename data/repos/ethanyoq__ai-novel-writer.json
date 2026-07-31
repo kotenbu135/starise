@@ -3,7 +3,7 @@
   "owner": "ethanyoq",
   "name": "ai-novel-writer",
   "full_name": "ethanyoq/ai-novel-writer",
-  "description": "本地写小说软件与 AI 网文写作工具：支持大纲、角色关系图谱、章节蓝图、审稿修稿和知识库的中文小说创作软件。解决AI写小说角色混乱，长期遗忘的问题。",
+  "description": "AI小说创作工作台，支持：大纲、角色、章节蓝图、审稿修稿和知识库。支持 win\u0026Mac 双端，支持本地模型",
   "description_ja": "",
   "url": "https://github.com/EthanYoQ/AI-Novel-Writer",
   "homepage_url": "",
@@ -21,13 +21,13 @@
     "typescript",
     "web-novel"
   ],
-  "star_count": 226,
-  "fork_count": 36,
+  "star_count": 279,
+  "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-20T17:27:16Z",
-  "updated_at": "2026-07-25T19:21:00Z",
-  "pushed_at": "2026-07-25T00:08:32Z",
+  "updated_at": "2026-07-31T14:57:58Z",
+  "pushed_at": "2026-07-31T13:06:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +57,10 @@
     {
       "date": "2026-07-25",
       "stars": 226
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 279
     }
   ]
 }

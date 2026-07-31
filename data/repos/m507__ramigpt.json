@@ -3,11 +3,11 @@
   "owner": "m507",
   "name": "ramigpt",
   "full_name": "m507/ramigpt",
-  "description": "Autonomous Privilege Escalation using AI",
-  "description_ja": "AI を活用した自律的な権限昇格",
+  "description": "Autonomous Privilege Escalation using AI + Benchmarking models",
+  "description_ja": "",
   "url": "https://github.com/M507/RamiGPT",
   "homepage_url": "",
-  "language": "Shell",
+  "language": "Python",
   "license": "Apache-2.0",
   "topics": [
     "ai-enumeration",
@@ -21,13 +21,13 @@
     "pwntools",
     "vulnhub"
   ],
-  "star_count": 861,
-  "fork_count": 191,
+  "star_count": 860,
+  "fork_count": 190,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-24T20:18:55Z",
-  "updated_at": "2026-07-25T02:27:49Z",
-  "pushed_at": "2025-11-29T11:04:28Z",
+  "updated_at": "2026-07-31T19:06:44Z",
+  "pushed_at": "2026-07-31T12:03:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -341,6 +341,10 @@
     {
       "date": "2026-07-25",
       "stars": 861
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 860
     }
   ]
 }

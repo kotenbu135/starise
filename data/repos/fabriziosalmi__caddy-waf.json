@@ -6,7 +6,7 @@
   "description": "Caddy WAF (Regex Rules, IP and DNS filtering, Rate Limiting, GeoIP, Tor, Anomaly Detection)",
   "description_ja": "Caddy WAF（正規表現ルール、IP・DNS フィルタリング、レート制限、GeoIP、Tor、異常検知）",
   "url": "https://github.com/fabriziosalmi/caddy-waf",
-  "homepage_url": "",
+  "homepage_url": "https://fabriziosalmi.github.io/caddy-waf/",
   "language": "Go",
   "license": "AGPL-3.0",
   "topics": [
@@ -29,13 +29,13 @@
     "web-application-firewall",
     "web-security"
   ],
-  "star_count": 789,
+  "star_count": 795,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-02T12:13:56Z",
-  "updated_at": "2026-07-21T08:15:24Z",
-  "pushed_at": "2026-07-23T12:24:38Z",
+  "updated_at": "2026-07-31T06:44:47Z",
+  "pushed_at": "2026-07-30T12:24:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -353,6 +353,10 @@
     {
       "date": "2026-07-25",
       "stars": 789
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 795
     }
   ]
 }

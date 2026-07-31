@@ -3,7 +3,7 @@
   "owner": "a1ex4",
   "name": "ownfoil",
   "full_name": "a1ex4/ownfoil",
-  "description": "Switch library manager, with a self-hosted Tinfoil Shop.",
+  "description": "Nintendo Switch library manager, with automated management tasks, serving your library to multiple supported clients on your Switch, with shop customization and multi user authentication.",
   "description_ja": "",
   "url": "https://github.com/a1ex4/ownfoil",
   "homepage_url": "",
@@ -13,19 +13,17 @@
     "atmosphere",
     "homebrew",
     "nintendo-switch",
-    "nintendo-switch-hacking",
     "self-hosted",
-    "sigpatches",
     "switch",
     "tinfoil"
   ],
-  "star_count": 873,
-  "fork_count": 87,
+  "star_count": 878,
+  "fork_count": 86,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-09T10:13:19Z",
-  "updated_at": "2026-07-24T19:28:26Z",
-  "pushed_at": "2026-07-23T14:05:37Z",
+  "updated_at": "2026-07-31T09:26:33Z",
+  "pushed_at": "2026-07-29T15:46:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -287,6 +285,10 @@
     {
       "date": "2026-07-25",
       "stars": 873
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 878
     }
   ]
 }

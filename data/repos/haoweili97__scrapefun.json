@@ -3,22 +3,31 @@
   "owner": "haoweili97",
   "name": "scrapefun",
   "full_name": "haoweili97/scrapefun",
-  "description": "强大的WebDAV媒体服务器，支持自定义刮削脚本",
+  "description": "覆盖电影、剧集、漫画与远程资源的综合媒体服务器",
   "description_ja": "",
   "url": "https://github.com/HaoweiLi97/ScrapeFun",
-  "homepage_url": "https://www.scrapefun.com",
+  "homepage_url": "https://scrapefun.com/",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
-    "mediaserver"
+    "alist",
+    "comic-reader",
+    "docker",
+    "jellyfin",
+    "manga",
+    "media-server",
+    "scrapefun",
+    "self-hosted",
+    "subtitles",
+    "webdav"
   ],
-  "star_count": 32,
+  "star_count": 34,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-04T19:45:40Z",
-  "updated_at": "2026-07-23T19:33:25Z",
-  "pushed_at": "2026-07-23T19:33:21Z",
+  "updated_at": "2026-07-31T02:24:52Z",
+  "pushed_at": "2026-07-26T17:21:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -100,6 +109,10 @@
     {
       "date": "2026-07-25",
       "stars": 32
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 34
     }
   ]
 }

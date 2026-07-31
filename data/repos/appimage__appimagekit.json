@@ -7,7 +7,7 @@
   "description_ja": "RHEL、CentOS、openSUSE、SLED、Ubuntu、Fedora、debian およびその派生ディストリビューションなど、一般的な Linux ベース OS で動作する AppImage としてデスクトップアプリケーションをパッケージ化します。irc.libera.chat の #AppImage に参加しましょう。",
   "url": "https://github.com/AppImage/AppImageKit",
   "homepage_url": "http://appimage.org",
-  "language": "C",
+  "language": "",
   "license": "NOASSERTION",
   "topics": [
     "appimage",
@@ -17,13 +17,13 @@
     "linux-app",
     "packaging"
   ],
-  "star_count": 9391,
-  "fork_count": 588,
+  "star_count": 9394,
+  "fork_count": 590,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-04-14T20:53:12Z",
-  "updated_at": "2026-07-24T16:38:33Z",
-  "pushed_at": "2025-06-09T05:35:59Z",
+  "updated_at": "2026-07-31T06:02:36Z",
+  "pushed_at": "2026-07-26T18:38:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -341,6 +341,10 @@
     {
       "date": "2026-07-25",
       "stars": 9391
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 9394
     }
   ]
 }

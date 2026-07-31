@@ -3,10 +3,10 @@
   "owner": "aethersailor",
   "name": "custom_openclash_rules",
   "full_name": "aethersailor/custom_openclash_rules",
-  "description": "An OpenClash-focused configuration and resource repository featuring setup guides, subscription conversion templates, rule snippets, utility scripts, overwrite resources, IPv6 guidance, and troubleshooting documentation.",
+  "description": "面向 OpenClash 用户的综合配置与扩展资源库，提供图文设置方案、订阅转换模板、YAML 配置示例与远程 YAML 部署方式，收录直连、代理、Steam CDN、加密 DNS 及游戏等规则碎片，并配套 OpenClash 安装、更新与架构检测脚本、覆写模块资源，以及 IPv6 配置方案和故障排除文档。",
   "description_ja": "",
   "url": "https://github.com/Aethersailor/Custom_OpenClash_Rules",
-  "homepage_url": "",
+  "homepage_url": "https://t.me/custom_openclash_rules_group",
   "language": "Shell",
   "license": "CC-BY-SA-4.0",
   "topics": [
@@ -18,13 +18,13 @@
     "ruleset",
     "vless"
   ],
-  "star_count": 6203,
-  "fork_count": 1338,
+  "star_count": 6228,
+  "fork_count": 1343,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-04T15:15:35Z",
-  "updated_at": "2026-07-25T17:57:56Z",
-  "pushed_at": "2026-07-25T17:57:51Z",
+  "updated_at": "2026-07-31T20:07:45Z",
+  "pushed_at": "2026-07-31T20:07:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -82,6 +82,10 @@
     {
       "date": "2026-07-25",
       "stars": 6203
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 6228
     }
   ]
 }

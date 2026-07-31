@@ -1,0 +1,251 @@
+{
+  "repo_id": "R_kgDOSOqFDA",
+  "owner": "openbitfun",
+  "name": "skill_tree",
+  "full_name": "openbitfun/skill_tree",
+  "description": "为 AI coding agent（Claude Code / Codex CLI 等）打造的 Skill 分层路由树生成器。把臃肿的单体 Skill 拆分/聚合成 ROOT → ROUTER → SKILL 的树形结构，让 agent 根据用户意图按需加载子能力，避免一次性塞满上下文。支持单 Skill 拆树、多 Skill 聚合（含歧义消解）、增量扩展三种模式，兼容 .claude/skills 与 .agent/skills 双路径约定，纯 Markdown + Bash，零依赖。",
+  "description_ja": "",
+  "url": "https://github.com/openBitFun/skill_tree",
+  "homepage_url": "",
+  "language": "Shell",
+  "license": "MIT",
+  "topics": [],
+  "star_count": 60,
+  "fork_count": 7,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-28T08:09:54Z",
+  "updated_at": "2026-07-31T07:05:47Z",
+  "pushed_at": "2026-07-26T07:22:25Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-05-25",
+      "stars": 49
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 50
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 51
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 50
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 50
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 50
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 50
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 51
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 51
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 51
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 51
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 51
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 51
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 51
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 51
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 52
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 52
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 52
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 53
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 54
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 55
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 55
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 55
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 56
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 56
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 56
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 56
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 56
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 56
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 56
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 56
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 56
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 56
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 56
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 56
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 56
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 56
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 56
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 57
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 57
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 57
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 57
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 58
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 58
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 58
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 60
+    }
+  ]
+}

@@ -3,7 +3,7 @@
   "owner": "dagucloud",
   "name": "dagu",
   "full_name": "dagucloud/dagu",
-  "description": "Local-first workflow engine for ops automation and AI-assisted operations. Open source and self-hostable: single binary, no DBMS. Define DAGs in declarative YAML. Built-in MCP server so AI agents can manage your DAGs.",
+  "description": "Local-first engine: one binary, no database.",
   "description_ja": "",
   "url": "https://github.com/dagucloud/dagu",
   "homepage_url": "https://dagu.sh",
@@ -19,7 +19,7 @@
     "human-in-the-loop",
     "job-scheduler",
     "mcp-server",
-    "multiplayer-agent",
+    "multi-agent",
     "on-premise",
     "private-runners",
     "self-hosted",
@@ -31,13 +31,13 @@
     "workflow-orchestration",
     "workflow-scheduler"
   ],
-  "star_count": 3674,
-  "fork_count": 296,
+  "star_count": 3689,
+  "fork_count": 297,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-22T13:00:42Z",
-  "updated_at": "2026-07-25T16:10:24Z",
-  "pushed_at": "2026-07-25T17:19:58Z",
+  "updated_at": "2026-07-31T17:14:34Z",
+  "pushed_at": "2026-07-31T17:40:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -351,6 +351,10 @@
     {
       "date": "2026-07-25",
       "stars": 3674
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 3689
     }
   ]
 }

@@ -3,19 +3,30 @@
   "owner": "threathunterx",
   "name": "nebula",
   "full_name": "threathunterx/nebula",
-  "description": "\"星云\"业务风控系统，主工程",
-  "description_ja": "「星云」ビジネスリスク管理システム、メインプロジェクト。",
+  "description": "[已归档] Nebula 1.x —— 2019 年停止维护,依赖技术栈均已 EOL,请勿用于生产。新版本见 threathunterX/nebula2",
+  "description_ja": "",
   "url": "https://github.com/threathunterX/nebula",
   "homepage_url": "https://threathunter.cn/nebula.html",
   "language": "Lua",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "anti-fraud",
+    "archived",
+    "business-security",
+    "deprecated",
+    "fraud-detection",
+    "lua",
+    "openresty",
+    "real-time",
+    "risk-control",
+    "rule-engine"
+  ],
   "star_count": 1098,
   "fork_count": 383,
   "is_archived": true,
   "is_fork": false,
   "created_at": "2017-08-29T10:05:32Z",
-  "updated_at": "2026-07-25T14:43:23Z",
+  "updated_at": "2026-07-27T06:10:02Z",
   "pushed_at": "2026-07-25T14:41:45Z",
   "deleted_at": "",
   "star_history": [
@@ -329,6 +340,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 1098
+    },
+    {
+      "date": "2026-07-31",
       "stars": 1098
     }
   ]

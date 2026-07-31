@@ -3,8 +3,8 @@
   "owner": "duckframework",
   "name": "duck",
   "full_name": "duckframework/duck",
-  "description": "Build scalable reactive web applications with Pure Python (No Javascript needed)",
-  "description_ja": "Pure PythonでスケーラブルなリアクティブWebアプリを構築（JavaScriptが不要）",
+  "description": "Build high-performance, scalable, server-side reactive web applications — without a separate frontend framework or a complex JavaScript stack.",
+  "description_ja": "",
   "url": "https://github.com/duckframework/duck",
   "homepage_url": "https://docs.duckframework.com/",
   "language": "Python",
@@ -31,13 +31,13 @@
     "web-server",
     "websocket"
   ],
-  "star_count": 43,
+  "star_count": 44,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-04T11:54:27Z",
-  "updated_at": "2026-07-21T14:06:17Z",
-  "pushed_at": "2026-07-21T14:03:16Z",
+  "updated_at": "2026-07-31T14:18:00Z",
+  "pushed_at": "2026-07-31T14:14:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -351,6 +351,10 @@
     {
       "date": "2026-07-25",
       "stars": 43
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 44
     }
   ]
 }

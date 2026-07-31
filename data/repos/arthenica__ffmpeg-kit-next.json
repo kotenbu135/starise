@@ -3,7 +3,7 @@
   "owner": "arthenica",
   "name": "ffmpeg-kit-next",
   "full_name": "arthenica/ffmpeg-kit-next",
-  "description": "Official continuation of FFmpegKit. Supports Android, Flutter, iOS, iPadOS, Linux, macOS, React Native and tvOS",
+  "description": "Official continuation of FFmpegKit. Supports Android, Flutter, iOS, iPadOS, Linux, macOS, React Native, tvOS, visionOS and Web (Wasm)",
   "description_ja": "",
   "url": "https://github.com/arthenica/ffmpeg-kit-next",
   "homepage_url": "https://arthenica.github.io/ffmpeg-kit-next/",
@@ -18,15 +18,16 @@
     "linux",
     "macos",
     "react-native",
-    "tvos"
+    "tvos",
+    "webassembly"
   ],
-  "star_count": 40,
-  "fork_count": 12,
+  "star_count": 53,
+  "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-01T00:33:40Z",
-  "updated_at": "2026-07-24T22:01:35Z",
-  "pushed_at": "2026-07-23T17:41:36Z",
+  "updated_at": "2026-07-31T10:06:14Z",
+  "pushed_at": "2026-07-29T17:42:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +45,10 @@
     {
       "date": "2026-07-25",
       "stars": 40
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 53
     }
   ]
 }

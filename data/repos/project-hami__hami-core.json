@@ -3,20 +3,27 @@
   "owner": "project-hami",
   "name": "hami-core",
   "full_name": "project-hami/hami-core",
-  "description": "HAMi-core compiles libvgpu.so, which ensures hard limit on GPU in container",
-  "description_ja": "HAMi-coreはlibvgpu.soをコンパイルし、コンテナ内のGPUにハードリミットを適用する",
+  "description": "A transparent, in-container GPU resource controller that enforces memory and compute limits by intercepting CUDA calls without application or driver changes.",
+  "description_ja": "",
   "url": "https://github.com/Project-HAMi/HAMi-core",
-  "homepage_url": "",
+  "homepage_url": "https://project-hami.io",
   "language": "C",
   "license": "",
-  "topics": [],
+  "topics": [
+    "containers",
+    "cuda",
+    "cuda-hook",
+    "gpu",
+    "gpu-sharing",
+    "gpu-virtualization"
+  ],
   "star_count": 319,
-  "fork_count": 176,
+  "fork_count": 186,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-23T09:36:22Z",
-  "updated_at": "2026-07-23T09:19:23Z",
-  "pushed_at": "2026-07-23T07:35:40Z",
+  "updated_at": "2026-07-29T09:47:11Z",
+  "pushed_at": "2026-07-30T07:43:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -333,6 +340,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 319
+    },
+    {
+      "date": "2026-07-31",
       "stars": 319
     }
   ]

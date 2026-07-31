@@ -3,7 +3,7 @@
   "owner": "baidu-baige",
   "name": "loongforge",
   "full_name": "baidu-baige/loongforge",
-  "description": "A modular, scalable, high-performance training framework for LLMs, VLMs, diffusion, and embodied models.",
+  "description": "A unified, high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.",
   "description_ja": "",
   "url": "https://github.com/baidu-baige/LoongForge",
   "homepage_url": "https://baidu-baige.github.io/LoongForge/",
@@ -27,13 +27,13 @@
     "wan",
     "xpu"
   ],
-  "star_count": 317,
-  "fork_count": 34,
+  "star_count": 327,
+  "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-23T08:45:42Z",
-  "updated_at": "2026-07-25T17:40:42Z",
-  "pushed_at": "2026-07-25T16:57:42Z",
+  "updated_at": "2026-07-31T09:44:52Z",
+  "pushed_at": "2026-07-31T02:03:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -155,6 +155,10 @@
     {
       "date": "2026-07-25",
       "stars": 317
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 327
     }
   ]
 }

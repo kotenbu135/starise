@@ -7,7 +7,7 @@
   "description_ja": "画面を見て会話を聞き、次に何をすべきかを教えてくれる AI",
   "url": "https://github.com/BasedHardware/omi",
   "homepage_url": "https://omi.me",
-  "language": "Dart",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "ai",
@@ -27,13 +27,13 @@
     "transcription",
     "wearable"
   ],
-  "star_count": 13062,
-  "fork_count": 2138,
+  "star_count": 13096,
+  "fork_count": 2155,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-22T18:12:25Z",
-  "updated_at": "2026-07-25T19:10:28Z",
-  "pushed_at": "2026-07-25T19:17:57Z",
+  "updated_at": "2026-07-31T19:18:13Z",
+  "pushed_at": "2026-07-31T20:35:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -351,6 +351,10 @@
     {
       "date": "2026-07-25",
       "stars": 13062
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 13096
     }
   ]
 }

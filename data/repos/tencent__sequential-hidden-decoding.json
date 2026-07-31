@@ -3,19 +3,19 @@
   "owner": "tencent",
   "name": "sequential-hidden-decoding",
   "full_name": "tencent/sequential-hidden-decoding",
-  "description": "",
+  "description": "Official implementation of Hidden Decoding at Scale, scaling latent computation per token through multiple hidden streams while keeping the Transformer backbone fixed.",
   "description_ja": "",
   "url": "https://github.com/Tencent/Sequential-Hidden-Decoding",
-  "homepage_url": "",
+  "homepage_url": "https://arxiv.org/abs/2607.08186",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [],
-  "star_count": 35,
+  "star_count": 38,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-10T08:35:15Z",
-  "updated_at": "2026-07-24T12:46:57Z",
+  "updated_at": "2026-07-31T03:34:02Z",
   "pushed_at": "2026-07-09T08:57:43Z",
   "deleted_at": "",
   "star_history": [
@@ -66,6 +66,10 @@
     {
       "date": "2026-07-25",
       "stars": 35
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 38
     }
   ]
 }

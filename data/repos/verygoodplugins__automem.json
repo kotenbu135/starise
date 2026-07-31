@@ -3,8 +3,8 @@
   "owner": "verygoodplugins",
   "name": "automem",
   "full_name": "verygoodplugins/automem",
-  "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
-  "description_ja": "AutoMemは、AIアシスタントに永続的でリレーショナルなメモリを提供するグラフ・ベクターメモリサービスです。",
+  "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessions.",
+  "description_ja": "",
   "url": "https://github.com/verygoodplugins/automem",
   "homepage_url": "https://automem.ai/",
   "language": "Python",
@@ -13,11 +13,13 @@
     "ai",
     "ai-memory",
     "anthropic",
+    "automem",
     "falkordb",
     "graph-database",
     "llm",
     "memory",
     "qdrant",
+    "rag",
     "vector-database"
   ],
   "star_count": 794,
@@ -25,7 +27,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-16T07:04:22Z",
-  "updated_at": "2026-07-23T15:44:34Z",
+  "updated_at": "2026-07-29T11:43:08Z",
   "pushed_at": "2026-07-18T15:24:36Z",
   "deleted_at": "",
   "star_history": [
@@ -343,6 +345,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 794
+    },
+    {
+      "date": "2026-07-31",
       "stars": 794
     }
   ]

@@ -3,20 +3,41 @@
   "owner": "raymondchins",
   "name": "agentmap",
   "full_name": "raymondchins/agentmap",
-  "description": "The repo map your coding agent is forced to use — ~98% fewer tokens (up to 99.9% per task) to understand a TS/JS codebase. PageRank hubs, Aider-style symbol ranking, token-budgeted digest, --any router, wired into the agent loop.",
+  "description": "Stop your coding agent reading the wrong files. Compiler-grade TS/JS repo map — 100% precision on blast radius vs grep's 60%, measured on public repos. CLI + MCP server, fully local, no vector DB.",
   "description_ja": "",
   "url": "https://github.com/raymondchins/agentmap",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "ai-agents",
+    "ai-coding",
+    "claude-code",
+    "cli",
+    "code-context",
+    "code-graph",
+    "code-intelligence",
+    "code-map",
+    "coding-agent",
+    "context-engineering",
+    "dependency-graph",
+    "developer-tools",
+    "javascript",
+    "mcp",
+    "mcp-server",
+    "pagerank",
+    "repo-map",
+    "static-analysis",
+    "ts-morph",
+    "typescript"
+  ],
   "star_count": 45,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-13T11:29:36Z",
-  "updated_at": "2026-07-25T10:57:09Z",
-  "pushed_at": "2026-07-25T10:56:39Z",
+  "updated_at": "2026-07-27T16:33:03Z",
+  "pushed_at": "2026-07-27T16:32:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -61,6 +82,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 45
+    },
+    {
+      "date": "2026-07-31",
       "stars": 45
     }
   ]

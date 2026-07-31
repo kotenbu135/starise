@@ -3,7 +3,7 @@
   "owner": "opensurface",
   "name": "sonosesp",
   "full_name": "opensurface/sonosesp",
-  "description": "A modern, touchscreen controller for Sonos speakers built with ESP32-P4",
+  "description": "Touchscreen Sonos controller for ESP32-P4 — album art, synced lyrics, multi-room, weather and a StandBy clock. Flash it from your browser.",
   "description_ja": "",
   "url": "https://github.com/OpenSurface/SonosESP",
   "homepage_url": "https://opensurface.github.io/SonosESP/",
@@ -15,6 +15,7 @@
     "embedded",
     "esp32",
     "esp32-p4",
+    "freertos",
     "guition",
     "home-automation",
     "iot",
@@ -23,19 +24,20 @@
     "music-player",
     "ota-update",
     "platformio",
+    "smart-display",
     "smart-home",
     "sonos",
     "sonos-controller",
     "touchscreen",
     "upnp"
   ],
-  "star_count": 42,
+  "star_count": 43,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-14T01:27:50Z",
-  "updated_at": "2026-07-19T15:02:19Z",
-  "pushed_at": "2026-07-20T10:26:17Z",
+  "updated_at": "2026-07-27T22:49:54Z",
+  "pushed_at": "2026-07-28T04:20:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -249,6 +251,10 @@
     {
       "date": "2026-07-25",
       "stars": 42
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 43
     }
   ]
 }

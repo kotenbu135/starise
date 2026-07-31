@@ -3,20 +3,25 @@
   "owner": "vizzletf",
   "name": "luci-theme-footstrap",
   "full_name": "vizzletf/luci-theme-footstrap",
-  "description": "Current lightweight LuCI theme for OpenWrt, faster than default with good aesthetics",
+  "description": "A faster, better-looking LuCI. Theme for OpenWrt 24.10+ with SPA navigation and real mobile layout",
   "description_ja": "",
   "url": "https://github.com/VizzleTF/luci-theme-footstrap",
-  "homepage_url": "",
-  "language": "CSS",
+  "homepage_url": "https://vizzletf.github.io/luci-theme-footstrap/playground.html",
+  "language": "JavaScript",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 82,
+  "topics": [
+    "luci",
+    "luci-theme",
+    "openwrt",
+    "openwrt-theme"
+  ],
+  "star_count": 90,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-08T07:20:08Z",
-  "updated_at": "2026-07-25T20:15:41Z",
-  "pushed_at": "2026-07-25T20:15:41Z",
+  "updated_at": "2026-07-31T20:01:30Z",
+  "pushed_at": "2026-07-31T18:30:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +71,10 @@
     {
       "date": "2026-07-25",
       "stars": 82
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 90
     }
   ]
 }

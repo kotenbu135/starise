@@ -3,7 +3,7 @@
   "owner": "robocurve",
   "name": "inspect-robots",
   "full_name": "robocurve/inspect-robots",
-  "description": "Evaluation framework for VLA / physical-AI models: define a benchmark once, run any policy on any robot or sim. (The Inspect AI for robotics.)",
+  "description": "Open source evals for physical AI. Run any LLM/VLA on any arm/humanoid against any real/sim benchmark.",
   "description_ja": "",
   "url": "https://github.com/robocurve/inspect-robots",
   "homepage_url": "https://inspectrobots.org",
@@ -19,13 +19,13 @@
     "vision-language-action",
     "vla"
   ],
-  "star_count": 62,
-  "fork_count": 8,
+  "star_count": 101,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-26T06:55:29Z",
-  "updated_at": "2026-07-25T18:06:13Z",
-  "pushed_at": "2026-07-25T16:19:33Z",
+  "updated_at": "2026-07-31T20:14:55Z",
+  "pushed_at": "2026-07-31T05:28:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +35,10 @@
     {
       "date": "2026-07-25",
       "stars": 62
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 101
     }
   ]
 }

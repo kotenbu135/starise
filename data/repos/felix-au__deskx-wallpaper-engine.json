@@ -3,25 +3,44 @@
   "owner": "felix-au",
   "name": "deskx-wallpaper-engine",
   "full_name": "felix-au/deskx-wallpaper-engine",
-  "description": "",
+  "description": "A lightweight wallpaper engine and interactive widget utility built with Electron. Injects dynamic wallpapers (videos, GIFs, HTML, images) behind desktop icons using Win32 WorkerW, and runs a draggable, multi-layered widget overlay system with full multi-monitor support.",
   "description_ja": "",
   "url": "https://github.com/Felix-au/DeskX-Wallpaper-Engine",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 48,
+  "topics": [
+    "customization",
+    "desktop-customization",
+    "desktop-widgets",
+    "electron",
+    "ffi",
+    "html5-canvas",
+    "multi-monitor",
+    "personalization",
+    "wallpapaer",
+    "wallpaper-engine",
+    "widgets",
+    "win32",
+    "win32-api",
+    "windows-application"
+  ],
+  "star_count": 54,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-10T01:05:30Z",
-  "updated_at": "2026-07-25T14:30:37Z",
-  "pushed_at": "2026-05-22T10:12:40Z",
+  "updated_at": "2026-07-30T17:51:13Z",
+  "pushed_at": "2026-07-28T20:12:38Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-07-25",
       "stars": 48
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 54
     }
   ]
 }

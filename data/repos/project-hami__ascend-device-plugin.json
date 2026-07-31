@@ -3,20 +3,24 @@
   "owner": "project-hami",
   "name": "ascend-device-plugin",
   "full_name": "project-hami/ascend-device-plugin",
-  "description": "",
+  "description": "Kubernetes device plugin for Ascend NPUs, supporting hard and soft NPU slicing with HAMi and Volcano.",
   "description_ja": "",
   "url": "https://github.com/Project-HAMi/ascend-device-plugin",
   "homepage_url": "",
   "language": "Go",
   "license": "",
-  "topics": [],
-  "star_count": 35,
-  "fork_count": 35,
+  "topics": [
+    "device-plugin",
+    "gpu",
+    "kubernetes"
+  ],
+  "star_count": 36,
+  "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-11T02:00:47Z",
-  "updated_at": "2026-07-24T08:40:42Z",
-  "pushed_at": "2026-07-24T09:38:45Z",
+  "updated_at": "2026-07-30T02:15:49Z",
+  "pushed_at": "2026-07-30T02:15:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +262,10 @@
     {
       "date": "2026-07-25",
       "stars": 35
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 36
     }
   ]
 }

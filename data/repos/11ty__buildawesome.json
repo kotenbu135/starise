@@ -6,7 +6,7 @@
   "description": "A simpler site generator. Transforms a directory of templates (of varying types) into HTML.",
   "description_ja": "よりシンプルなサイトジェネレーター。様々な種類のテンプレートが入ったディレクトリをHTMLに変換。",
   "url": "https://github.com/11ty/buildawesome",
-  "homepage_url": "https://www.11ty.dev/",
+  "homepage_url": "https://build.awesome.me/",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
@@ -17,13 +17,13 @@
     "static-site-generator",
     "templates"
   ],
-  "star_count": 19797,
-  "fork_count": 585,
+  "star_count": 19821,
+  "fork_count": 586,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-11-27T05:19:00Z",
-  "updated_at": "2026-07-25T17:47:17Z",
-  "pushed_at": "2026-07-24T19:42:33Z",
+  "updated_at": "2026-07-31T19:02:25Z",
+  "pushed_at": "2026-07-27T16:45:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -341,6 +341,10 @@
     {
       "date": "2026-07-25",
       "stars": 19797
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 19821
     }
   ]
 }

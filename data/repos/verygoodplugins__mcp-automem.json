@@ -3,30 +3,35 @@
   "owner": "verygoodplugins",
   "name": "mcp-automem",
   "full_name": "verygoodplugins/mcp-automem",
-  "description": "AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory:",
-  "description_ja": "AutoMemは、AIアシスタントに永続的でリレーショナルなメモリを提供するグラフ・ベクターメモリサービスです。",
+  "description": "MCP client for AutoMem — give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversations.",
+  "description_ja": "",
   "url": "https://github.com/verygoodplugins/mcp-automem",
   "homepage_url": "https://automem.ai/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "ai",
+    "ai-memory",
+    "automem",
     "falkordb",
     "graph-database",
+    "mcp",
+    "mcp-server",
     "memory",
+    "model-context-protocol",
     "nodejs",
     "qdrant",
     "rag",
     "redis",
     "vector-database"
   ],
-  "star_count": 61,
+  "star_count": 63,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-22T14:39:30Z",
-  "updated_at": "2026-07-25T11:59:35Z",
-  "pushed_at": "2026-07-25T10:09:29Z",
+  "updated_at": "2026-07-27T07:19:18Z",
+  "pushed_at": "2026-07-28T23:53:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -344,6 +349,10 @@
     {
       "date": "2026-07-25",
       "stars": 61
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 63
     }
   ]
 }

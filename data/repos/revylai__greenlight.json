@@ -3,20 +3,35 @@
   "owner": "revylai",
   "name": "greenlight",
   "full_name": "revylai/greenlight",
-  "description": "Pre-submission compliance scanner for the Apple App Store",
-  "description_ja": "Apple App Store向けの申請前コンプライアンススキャナー。",
+  "description": "Pre-submission compliance scanner for the Apple App Store and Google Play. Scans code, privacy manifests, Android manifests, and IPA/APK/AAB binaries against the review guidelines. Offline, no account.",
+  "description_ja": "",
   "url": "https://github.com/RevylAI/greenlight",
-  "homepage_url": "",
+  "homepage_url": "https://revyl.com",
   "language": "Go",
   "license": "MIT",
-  "topics": [],
-  "star_count": 2341,
-  "fork_count": 141,
+  "topics": [
+    "android",
+    "app-store",
+    "app-store-review",
+    "cli",
+    "compliance",
+    "devtools",
+    "expo",
+    "golang",
+    "google-play",
+    "ios",
+    "mobile",
+    "react-native",
+    "static-analysis",
+    "swift"
+  ],
+  "star_count": 2363,
+  "fork_count": 144,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T22:54:47Z",
-  "updated_at": "2026-07-25T14:38:47Z",
-  "pushed_at": "2026-07-01T19:43:12Z",
+  "updated_at": "2026-07-31T21:03:03Z",
+  "pushed_at": "2026-07-28T20:42:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -334,6 +349,10 @@
     {
       "date": "2026-07-25",
       "stars": 2341
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 2363
     }
   ]
 }

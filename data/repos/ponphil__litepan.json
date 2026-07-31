@@ -3,20 +3,20 @@
   "owner": "ponphil",
   "name": "litepan",
   "full_name": "ponphil/litepan",
-  "description": "LitePan - 多网盘聚合与管理工具，支持 WebDAV、STRM、媒体整理",
+  "description": "LitePan - 多网盘聚合挂载，支持 WebDAV、STRM、媒体整理、本地挂载、串联任务",
   "description_ja": "",
   "url": "https://github.com/Ponphil/LitePan",
-  "homepage_url": "",
-  "language": "Python",
+  "homepage_url": "https://www.litepan.top",
+  "language": "Go",
   "license": "NOASSERTION",
   "topics": [],
-  "star_count": 485,
-  "fork_count": 69,
+  "star_count": 622,
+  "fork_count": 81,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-22T02:10:17Z",
-  "updated_at": "2026-07-25T17:18:50Z",
-  "pushed_at": "2026-07-21T05:50:53Z",
+  "updated_at": "2026-07-31T19:04:52Z",
+  "pushed_at": "2026-07-31T15:52:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -106,6 +106,10 @@
     {
       "date": "2026-07-25",
       "stars": 485
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 622
     }
   ]
 }

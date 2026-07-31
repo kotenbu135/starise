@@ -3,8 +3,8 @@
   "owner": "javahongxi",
   "name": "whatsmars",
   "full_name": "javahongxi/whatsmars",
-  "description": "Java生态研究(Spring Boot + Redis + Dubbo + RocketMQ + Elasticsearch)🔥🔥🔥🔥🔥 (Spring Boot 3.5.x)",
-  "description_ja": "",
+  "description": "Java生态研究(Spring Boot + Redis + Dubbo + RocketMQ + Elasticsearch)🔥🔥🔥🔥🔥",
+  "description_ja": "Java エコシステム研究（Spring Boot + Redis + Dubbo + RocketMQ + Elasticsearch）🔥🔥🔥🔥🔥",
   "url": "https://github.com/javahongxi/whatsmars",
   "homepage_url": "https://blog.csdn.net/javahongxi",
   "language": "Java",
@@ -16,6 +16,7 @@
     "grpc",
     "java",
     "kafka",
+    "langchain4j",
     "microservices",
     "nacos",
     "netty",
@@ -28,7 +29,6 @@
     "spring-ai",
     "spring-boot",
     "spring-mvc",
-    "tomcat",
     "zookeeper"
   ],
   "star_count": 1969,
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-04-01T10:33:04Z",
-  "updated_at": "2026-07-23T12:13:11Z",
-  "pushed_at": "2026-07-23T12:13:05Z",
+  "updated_at": "2026-07-30T18:17:04Z",
+  "pushed_at": "2026-07-30T18:15:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -354,6 +354,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 1969
+    },
+    {
+      "date": "2026-07-31",
       "stars": 1969
     }
   ]

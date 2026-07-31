@@ -7,7 +7,7 @@
   "description_ja": "AWS CodeDeploy のホストエージェント",
   "url": "https://github.com/aws/aws-codedeploy-agent",
   "homepage_url": "https://aws.amazon.com/codedeploy",
-  "language": "Ruby",
+  "language": "Rust",
   "license": "Apache-2.0",
   "topics": [],
   "star_count": 336,
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-10-22T23:57:53Z",
-  "updated_at": "2026-07-25T19:02:11Z",
-  "pushed_at": "2026-07-06T12:39:56Z",
+  "updated_at": "2026-07-31T16:04:23Z",
+  "pushed_at": "2026-07-31T16:05:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -333,6 +333,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 336
+    },
+    {
+      "date": "2026-07-31",
       "stars": 336
     }
   ]

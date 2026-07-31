@@ -3,8 +3,8 @@
   "owner": "wmaslonek",
   "name": "guardian-db",
   "full_name": "wmaslonek/guardian-db",
-  "description": "GuardianDB: High-performance, local-first decentralized database built on Rust and Iroh",
-  "description_ja": "GuardianDB: Rust と Iroh で構築された高性能・ローカルファースト分散データベース。",
+  "description": "GuardianDB: High-performance, local-first decentralized database that stores and processes data, built on Rust and Iroh",
+  "description_ja": "",
   "url": "https://github.com/wmaslonek/guardian-db",
   "homepage_url": "https://www.willsearch.com.br",
   "language": "Rust",
@@ -15,25 +15,29 @@
     "database",
     "decentralization",
     "distributed",
+    "edge",
+    "edge-ai",
+    "edge-computing",
     "iroh",
-    "magicsock",
     "odm",
     "orm",
     "p2p",
     "p2p-database",
     "peer-to-peer",
     "quic",
-    "tags",
-    "web3",
-    "willow"
+    "rag",
+    "typeorm",
+    "vector",
+    "vector-search",
+    "web3"
   ],
-  "star_count": 203,
-  "fork_count": 16,
+  "star_count": 202,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-26T19:48:27Z",
-  "updated_at": "2026-07-22T00:28:11Z",
-  "pushed_at": "2026-07-12T22:03:57Z",
+  "updated_at": "2026-07-31T18:25:35Z",
+  "pushed_at": "2026-07-31T18:25:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -347,6 +351,10 @@
     {
       "date": "2026-07-25",
       "stars": 203
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 202
     }
   ]
 }

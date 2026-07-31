@@ -7,7 +7,7 @@
   "description_ja": "Node-RED で KNX 設備を制御！Philips HUE 制御と ETS グループアドレスインポーターを統合した KNX ノード集",
   "url": "https://github.com/Supergiovane/node-red-contrib-knx-ultimate",
   "homepage_url": "https://youtu.be/egRbR_KwP9I",
-  "language": "HTML",
+  "language": "JavaScript",
   "license": "MIT",
   "topics": [
     "eib",
@@ -23,8 +23,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-07-25T14:59:09Z",
-  "updated_at": "2026-07-25T17:02:07Z",
-  "pushed_at": "2026-07-25T17:03:01Z",
+  "updated_at": "2026-07-31T18:13:16Z",
+  "pushed_at": "2026-07-31T18:12:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -337,6 +337,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 178
+    },
+    {
+      "date": "2026-07-31",
       "stars": 178
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "tele-ai",
   "name": "fluxon",
   "full_name": "tele-ai/fluxon",
-  "description": "One unified distributed system for high performance RPC, KV Cache, Message Queue, and File \u0026 Object Acceleration",
+  "description": "An AI-native distributed data plane built in Rust that supports high performance RPC, KV Cache, Message Queue, and File \u0026 Object Acceleration ",
   "description_ja": "",
   "url": "https://github.com/Tele-AI/Fluxon",
   "homepage_url": "https://tele-ai.github.io/Fluxon/",
@@ -31,13 +31,13 @@
     "shared-memory-communication",
     "training"
   ],
-  "star_count": 113,
+  "star_count": 119,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-12T11:06:27Z",
-  "updated_at": "2026-07-25T13:22:51Z",
-  "pushed_at": "2026-07-24T11:04:37Z",
+  "updated_at": "2026-07-30T00:54:44Z",
+  "pushed_at": "2026-07-31T12:31:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -139,6 +139,10 @@
     {
       "date": "2026-07-25",
       "stars": 113
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 119
     }
   ]
 }

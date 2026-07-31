@@ -3,7 +3,7 @@
   "owner": "bitrouter",
   "name": "bitrouter",
   "full_name": "bitrouter/bitrouter",
-  "description": "The self-improving LLM router that optimize your agentic workflows with every runs, works with any harnesses, any models, any loops.",
+  "description": "The model router that continuously improve your agentic workflows, works with any harnesses, any models, any loops.",
   "description_ja": "",
   "url": "https://github.com/bitrouter/bitrouter",
   "homepage_url": "https://bitrouter.ai",
@@ -31,13 +31,13 @@
     "rust",
     "skills"
   ],
-  "star_count": 214,
-  "fork_count": 13,
+  "star_count": 216,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T20:04:01Z",
-  "updated_at": "2026-07-25T15:37:07Z",
-  "pushed_at": "2026-07-25T06:17:06Z",
+  "updated_at": "2026-07-31T11:28:42Z",
+  "pushed_at": "2026-07-31T18:34:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -355,6 +355,10 @@
     {
       "date": "2026-07-25",
       "stars": 214
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 216
     }
   ]
 }

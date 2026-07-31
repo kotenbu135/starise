@@ -7,7 +7,7 @@
   "description_ja": "CraterはクラウドネイティブなAIトレーニング・推論プラットフォームです。",
   "url": "https://github.com/raids-lab/crater",
   "homepage_url": "https://raids-lab.github.io/crater/en/",
-  "language": "TypeScript",
+  "language": "Go",
   "license": "Apache-2.0",
   "topics": [
     "buildkit",
@@ -28,12 +28,12 @@
     "volcano"
   ],
   "star_count": 543,
-  "fork_count": 69,
+  "fork_count": 71,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-08T04:45:45Z",
-  "updated_at": "2026-07-25T12:01:36Z",
-  "pushed_at": "2026-07-25T12:01:14Z",
+  "updated_at": "2026-07-31T02:43:52Z",
+  "pushed_at": "2026-07-30T08:28:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -346,6 +346,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 543
+    },
+    {
+      "date": "2026-07-31",
       "stars": 543
     }
   ]

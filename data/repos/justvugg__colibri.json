@@ -3,20 +3,20 @@
   "owner": "justvugg",
   "name": "colibri",
   "full_name": "justvugg/colibri",
-  "description": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+  "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
   "description_ja": "",
   "url": "https://github.com/JustVugg/colibri",
   "homepage_url": "https://justvugg.github.io/colibri",
   "language": "C",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 18974,
-  "fork_count": 1875,
+  "star_count": 21471,
+  "fork_count": 2250,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-01T12:27:49Z",
-  "updated_at": "2026-07-25T19:59:16Z",
-  "pushed_at": "2026-07-25T15:23:15Z",
+  "updated_at": "2026-07-31T21:14:34Z",
+  "pushed_at": "2026-07-31T21:14:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +90,10 @@
     {
       "date": "2026-07-25",
       "stars": 18974
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 21471
     }
   ]
 }

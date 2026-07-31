@@ -3,37 +3,41 @@
   "owner": "marcimastro98",
   "name": "xenon",
   "full_name": "marcimastro98/xenon",
-  "description": "A 100% local, all-in-one dashboard for the CORSAIR Xeneon Edge (and any Windows browser). System monitor, media \u0026 mic, a voice AI that can build dashboard pages for you, a Stream-Deck grid, RGB lighting, and Twitch/OBS control. Free, open-source, no account.",
+  "description": "A 100% local, all-in-one dashboard for any screen, tablet or phone, works on Windows, Linux or MacOS . System monitor, media \u0026 mic, a voice AI that can build dashboard pages for you, a Stream-Deck grid, RGB lighting, and Twitch/OBS control. Free, open-source, no account.",
   "description_ja": "",
   "url": "https://github.com/marcimastro98/Xenon",
   "homepage_url": "https://xenon-app.com/",
   "language": "JavaScript",
   "license": "NOASSERTION",
   "topics": [
-    "ai-assistant",
+    "browser",
+    "chatgpt",
+    "claude",
+    "claude-code",
     "corsair",
     "dashboard",
-    "free",
+    "discord",
     "gemini",
-    "icue",
+    "linux",
     "local-ai",
-    "nodejs",
+    "macos",
     "obs",
     "ollama",
-    "open-source",
-    "rgb",
+    "spotify",
     "stream-deck",
     "system-monitor",
     "twitch",
-    "xeneon-edge"
+    "windows",
+    "xeneon-edge",
+    "youtube"
   ],
-  "star_count": 43,
+  "star_count": 45,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-30T11:45:32Z",
-  "updated_at": "2026-07-25T15:45:22Z",
-  "pushed_at": "2026-07-25T15:45:18Z",
+  "updated_at": "2026-07-31T11:54:47Z",
+  "pushed_at": "2026-07-31T20:24:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -111,6 +115,10 @@
     {
       "date": "2026-07-25",
       "stars": 43
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 45
     }
   ]
 }

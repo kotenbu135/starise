@@ -3,8 +3,8 @@
   "owner": "ilyhalight",
   "name": "voice-over-translation",
   "full_name": "ilyhalight/voice-over-translation",
-  "description": "Небольшое расширение, которое добавляет закадровый перевод видео из YaBrowser в другие браузеры",
-  "description_ja": "YaBrowser の動画吹き替え翻訳機能を他のブラウザに追加する小さな拡張機能",
+  "description": "Смотрите видео на другом языке с закадровым переводом и субтитрами в любом браузере",
+  "description_ja": "",
   "url": "https://github.com/ilyhalight/voice-over-translation",
   "homepage_url": "https://votdocs.toil.cc/ecosystem/voice-over-translation.html",
   "language": "TypeScript",
@@ -15,13 +15,13 @@
     "vot",
     "vtrans"
   ],
-  "star_count": 7178,
-  "fork_count": 437,
+  "star_count": 7210,
+  "fork_count": 441,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-22T18:48:22Z",
-  "updated_at": "2026-07-25T17:38:55Z",
-  "pushed_at": "2026-07-22T19:53:18Z",
+  "updated_at": "2026-07-31T09:30:33Z",
+  "pushed_at": "2026-07-31T11:12:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -339,6 +339,10 @@
     {
       "date": "2026-07-25",
       "stars": 7178
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 7210
     }
   ]
 }

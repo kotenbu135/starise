@@ -3,24 +3,41 @@
   "owner": "cogwheel0",
   "name": "conduit",
   "full_name": "cogwheel0/conduit",
-  "description": "Mobile (iOS/Android) client for OpenWebUI. Chat with your self‑hosted AI.",
-  "description_ja": "OpenWebUI向けモバイル（iOS/Android）クライアント。セルフホストのAIとチャット。",
+  "description": "Native iOS and Android client for Open WebUI, plus direct OpenAI-compatible, Ollama, and OpenRouter connections and self-hosted Hermes agents. Local-first chats, real auth for reverse proxies, no telemetry.",
+  "description_ja": "",
   "url": "https://github.com/cogwheel0/conduit",
-  "homepage_url": "http://conduit.mobile",
+  "homepage_url": "https://conduit.mobile",
   "language": "Dart",
   "license": "GPL-3.0",
   "topics": [
+    "ai-agents",
+    "ai-assistant",
+    "android",
+    "chat",
+    "chatbot",
+    "cross-platform",
+    "dart",
+    "flutter",
+    "ios",
+    "llm",
+    "llm-client",
+    "mobile-app",
     "ollama",
+    "open-webui",
+    "openai",
+    "openrouter",
     "openwebui",
+    "privacy",
+    "self-hosted",
     "selfhosted"
   ],
-  "star_count": 1826,
-  "fork_count": 188,
+  "star_count": 1853,
+  "fork_count": 193,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-09T19:46:53Z",
-  "updated_at": "2026-07-25T15:46:36Z",
-  "pushed_at": "2026-07-25T19:30:26Z",
+  "updated_at": "2026-07-31T18:00:56Z",
+  "pushed_at": "2026-07-31T20:37:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -338,6 +355,10 @@
     {
       "date": "2026-07-25",
       "stars": 1826
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 1853
     }
   ]
 }

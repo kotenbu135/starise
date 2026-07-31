@@ -3,10 +3,10 @@
   "owner": "stoneatom",
   "name": "stonedb",
   "full_name": "stoneatom/stonedb",
-  "description": "StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave. (https://stonedb.io)",
-  "description_ja": "StoneDBはOLTP・リアルタイム分析向けのオープンソースMySQL HTAPおよびMySQLネイティブデータベース。MySQLHeatWaveの対抗製品。(https://stonedb.io)",
+  "description": "StoneDB is an Open-Source MySQL HTAP and MySQL-Native DataBase for OLTP, Real-Time Analytics, a counterpart of MySQLHeatWave.",
+  "description_ja": "",
   "url": "https://github.com/stoneatom/stonedb",
-  "homepage_url": "https://stonedb.io/",
+  "homepage_url": "",
   "language": "C++",
   "license": "GPL-2.0",
   "topics": [
@@ -34,7 +34,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-09T01:10:28Z",
-  "updated_at": "2026-07-21T01:06:28Z",
+  "updated_at": "2026-07-28T05:57:46Z",
   "pushed_at": "2026-06-23T09:11:04Z",
   "deleted_at": "",
   "star_history": [
@@ -352,6 +352,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 883
+    },
+    {
+      "date": "2026-07-31",
       "stars": 883
     }
   ]

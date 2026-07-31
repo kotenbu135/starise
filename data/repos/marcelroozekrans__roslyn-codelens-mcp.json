@@ -3,7 +3,7 @@
   "owner": "marcelroozekrans",
   "name": "roslyn-codelens-mcp",
   "full_name": "marcelroozekrans/roslyn-codelens-mcp",
-  "description": "Roslyn-based MCP server giving AI agents deep semantic understanding of .NET/C# codebases — 57 tools for navigation, call graphs, diagnostics \u0026 code fixes, code-quality auditing, test intelligence, DI graphs, and IL/external-assembly inspection.",
+  "description": "Roslyn-based MCP server giving AI agents deep semantic understanding of .NET/C# codebases — 67 tools for navigation, call graphs, diagnostics \u0026 code fixes, safe refactoring, code-quality auditing, test intelligence, DI graphs, and IL/external-assembly inspection.",
   "description_ja": "",
   "url": "https://github.com/MarcelRoozekrans/roslyn-codelens-mcp",
   "homepage_url": "",
@@ -22,13 +22,13 @@
     "roslyn",
     "static-analysis"
   ],
-  "star_count": 34,
-  "fork_count": 13,
+  "star_count": 39,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T09:23:01Z",
-  "updated_at": "2026-07-23T07:43:49Z",
-  "pushed_at": "2026-07-23T07:43:46Z",
+  "updated_at": "2026-07-31T05:08:05Z",
+  "pushed_at": "2026-07-31T04:55:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +78,10 @@
     {
       "date": "2026-07-25",
       "stars": 34
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 39
     }
   ]
 }

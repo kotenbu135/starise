@@ -3,7 +3,7 @@
   "owner": "simonlin1212",
   "name": "global-stock-data",
   "full_name": "simonlin1212/global-stock-data",
-  "description": "US \u0026 HK stock market data for AI coding assistants — zero-auth, official sources. CBOE options with full Greeks + 0DTE flow, FINRA market-wide short volume, SEC EDGAR filing stream, and a free market-wide screener. 13 layers, 30+ endpoints, 11 sources. Every source labeled with its compliance tier.",
+  "description": "US stock market data for AI coding assistants — zero-auth, official sources. CBOE options with full Greeks + 0DTE flow, FINRA market-wide short volume, SEC EDGAR filing stream, and a free market-wide screener. 13 layers, 30+ endpoints, 11 sources. Every source labeled with its compliance tier.",
   "description_ja": "",
   "url": "https://github.com/simonlin1212/global-stock-data",
   "homepage_url": "",
@@ -17,7 +17,6 @@
     "financial-data",
     "finra",
     "fintech",
-    "hk-stocks",
     "llm-tools",
     "market-data",
     "options-data",
@@ -26,13 +25,13 @@
     "trading",
     "us-stocks"
   ],
-  "star_count": 1230,
-  "fork_count": 188,
+  "star_count": 1412,
+  "fork_count": 213,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-20T10:12:30Z",
-  "updated_at": "2026-07-25T12:19:32Z",
-  "pushed_at": "2026-07-25T12:19:16Z",
+  "updated_at": "2026-07-31T21:34:21Z",
+  "pushed_at": "2026-07-26T08:24:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -190,6 +189,10 @@
     {
       "date": "2026-07-25",
       "stars": 1230
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 1412
     }
   ]
 }

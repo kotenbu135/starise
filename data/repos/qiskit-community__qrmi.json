@@ -10,19 +10,24 @@
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "c",
     "hpc",
+    "lua",
+    "python3",
     "qiskit",
     "quantum",
     "quantum-computing",
-    "resource-management"
+    "resource-management",
+    "rust",
+    "workload-managers"
   ],
   "star_count": 56,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-05T20:10:30Z",
-  "updated_at": "2026-07-21T13:52:32Z",
-  "pushed_at": "2026-07-22T12:11:54Z",
+  "updated_at": "2026-07-31T03:57:22Z",
+  "pushed_at": "2026-07-31T07:16:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -191,6 +196,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 56
+    },
+    {
+      "date": "2026-07-31",
       "stars": 56
     }
   ]

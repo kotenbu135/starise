@@ -10,24 +10,33 @@
   "language": "YAML",
   "license": "Unlicense",
   "topics": [
+    "atlantis",
+    "backstage",
+    "cert-manager",
+    "cilium",
     "cloudflare",
-    "devops",
-    "flux",
+    "envoy",
+    "external-dns",
+    "fluxcd",
     "gitops",
-    "k8s",
+    "helm",
+    "home-ops",
     "k8s-at-home",
     "kubernetes",
-    "talos",
-    "terraform",
-    "traefik"
+    "minio",
+    "openbao",
+    "prometheus",
+    "renovate",
+    "rook-ceph",
+    "talos"
   ],
   "star_count": 80,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-25T19:23:23Z",
-  "updated_at": "2026-07-25T19:16:36Z",
-  "pushed_at": "2026-07-25T19:16:34Z",
+  "updated_at": "2026-07-31T17:46:08Z",
+  "pushed_at": "2026-07-31T21:13:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -340,6 +349,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 80
+    },
+    {
+      "date": "2026-07-31",
       "stars": 80
     }
   ]

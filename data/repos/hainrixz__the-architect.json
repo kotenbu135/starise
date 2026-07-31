@@ -3,31 +3,37 @@
   "owner": "hainrixz",
   "name": "the-architect",
   "full_name": "hainrixz/the-architect",
-  "description": "The Architect — A Claude Code meta-agent that designs complete software blueprints. Describe what you want to build, get a self-contained .md file that Claude Code can build autonomously.",
-  "description_ja": "The Architect — 完全なソフトウェア設計図を作成するClaude Codeメタエージェント。作りたいものを説明するだけで、Claude Codeが自律的にビルドできる自己完結型.mdファイルを生成。",
+  "description": "A Claude Code plugin that interviews you, designs the whole architecture, and writes a self-contained blueprint another Claude Code instance builds from with zero context — EARS acceptance criteria and a runnable verify command on every build step. 14 project shapes, greenfield and brownfield. EN/ES.",
+  "description_ja": "",
   "url": "https://github.com/Hainrixz/the-architect",
   "homepage_url": "https://tododeia.com",
   "language": "",
   "license": "MIT",
   "topics": [
+    "agentic-coding",
     "ai-agent",
+    "ai-coding-assistant",
     "anthropic",
     "automation",
     "blueprint",
     "claude",
     "claude-code",
+    "claude-code-plugin",
+    "claude-plugin",
     "developer-tools",
     "meta-agent",
     "saas",
-    "software-architecture"
+    "software-architecture",
+    "spec-driven-development",
+    "technical-specification"
   ],
-  "star_count": 372,
-  "fork_count": 73,
+  "star_count": 390,
+  "fork_count": 75,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T04:18:20Z",
-  "updated_at": "2026-07-25T18:39:32Z",
-  "pushed_at": "2026-03-31T04:23:43Z",
+  "updated_at": "2026-07-31T16:02:11Z",
+  "pushed_at": "2026-07-28T17:18:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -345,6 +351,10 @@
     {
       "date": "2026-07-25",
       "stars": 372
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 390
     }
   ]
 }

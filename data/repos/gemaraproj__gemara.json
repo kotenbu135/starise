@@ -7,7 +7,7 @@
   "description_ja": "ガバナンス活動における手戻りの最小化。",
   "url": "https://github.com/gemaraproj/gemara",
   "homepage_url": "http://gemara.openssf.org/",
-  "language": "Go",
+  "language": "CUE",
   "license": "Apache-2.0",
   "topics": [],
   "star_count": 59,
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-18T03:27:49Z",
-  "updated_at": "2026-07-25T18:43:10Z",
-  "pushed_at": "2026-07-25T18:43:58Z",
+  "updated_at": "2026-07-29T20:40:40Z",
+  "pushed_at": "2026-07-29T20:42:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -329,6 +329,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-31",
       "stars": 59
     }
   ]

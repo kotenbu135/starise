@@ -3,20 +3,20 @@
   "owner": "specterops",
   "name": "configmanbearpig",
   "full_name": "specterops/configmanbearpig",
-  "description": "PowerShell collector for adding SCCM attack paths to BloodHound with OpenGraph",
+  "description": "Python collector for adding SCCM attack paths to BloodHound with OpenGraph",
   "description_ja": "",
   "url": "https://github.com/SpecterOps/ConfigManBearPig",
   "homepage_url": "",
-  "language": "PowerShell",
+  "language": "Python",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 100,
+  "star_count": 102,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-03T16:08:13Z",
-  "updated_at": "2026-07-20T10:40:40Z",
-  "pushed_at": "2026-04-21T14:43:46Z",
+  "updated_at": "2026-07-31T14:29:38Z",
+  "pushed_at": "2026-07-31T14:26:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-07-25",
       "stars": 100
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 102
     }
   ]
 }

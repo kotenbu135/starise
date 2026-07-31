@@ -7,7 +7,7 @@
   "description_ja": "デスクトップ向けMatrixクライアントのまた別の実装",
   "url": "https://github.com/cinnyapp/cinny-desktop",
   "homepage_url": "",
-  "language": "JavaScript",
+  "language": "Rust",
   "license": "AGPL-3.0",
   "topics": [
     "cinny",
@@ -20,13 +20,13 @@
     "tauri-app",
     "windows-app"
   ],
-  "star_count": 835,
-  "fork_count": 118,
+  "star_count": 834,
+  "fork_count": 119,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-29T14:20:47Z",
-  "updated_at": "2026-07-24T17:42:08Z",
-  "pushed_at": "2026-07-20T19:32:40Z",
+  "updated_at": "2026-07-31T15:25:21Z",
+  "pushed_at": "2026-07-31T13:30:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -344,6 +344,10 @@
     {
       "date": "2026-07-25",
       "stars": 835
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 834
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "pinkpixel-dev",
   "name": "mem0-mcp",
   "full_name": "pinkpixel-dev/mem0-mcp",
-  "description": "✨ mem0 MCP Server: A memory system using mem0 for AI applications with model context protocl (MCP) integration. Enables long-term memory for AI agents as a drop-in MCP server.",
-  "description_ja": "AI アプリケーション向けにmem0を使用したメモリシステムで、Model Context Protocol（MCP）統合を備えたMCPサーバー。AIエージェントの長期記憶をドロップイン型MCPサーバーとして実現。",
+  "description": "A memory system using mem0 for AI applications. Enables long-term memory for AI agents as a drop-in MCP server.",
+  "description_ja": "",
   "url": "https://github.com/pinkpixel-dev/mem0-mcp",
   "homepage_url": "https://pinkpixel.dev",
   "language": "TypeScript",
@@ -32,7 +32,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-12T00:47:01Z",
-  "updated_at": "2026-07-18T12:53:24Z",
+  "updated_at": "2026-07-26T22:26:21Z",
   "pushed_at": "2026-07-25T10:22:49Z",
   "deleted_at": "",
   "star_history": [
@@ -346,6 +346,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 99
+    },
+    {
+      "date": "2026-07-31",
       "stars": 99
     }
   ]

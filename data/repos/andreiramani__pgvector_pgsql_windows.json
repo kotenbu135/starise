@@ -3,14 +3,16 @@
   "owner": "andreiramani",
   "name": "pgvector_pgsql_windows",
   "full_name": "andreiramani/pgvector_pgsql_windows",
-  "description": "pgvector - a PostgreSQL extension (native compiled in Microsoft Windows environment)",
-  "description_ja": "pgvector — PostgreSQL 拡張機能（Microsoft Windows 環境向けネイティブビルド版）",
+  "description": "pgvector for PostgreSQL Windows (native compiled in Microsoft Windows environment)",
+  "description_ja": "",
   "url": "https://github.com/andreiramani/pgvector_pgsql_windows",
   "homepage_url": "",
   "language": "",
   "license": "",
   "topics": [
+    "approximate-nearest-neighbor-search",
     "llm",
+    "nearest-neighbor-search",
     "nlp",
     "pgsql",
     "pgvector",
@@ -20,13 +22,13 @@
     "vector",
     "vector-database"
   ],
-  "star_count": 183,
-  "fork_count": 26,
+  "star_count": 187,
+  "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-05T06:50:29Z",
-  "updated_at": "2026-07-24T06:52:38Z",
-  "pushed_at": "2026-07-23T13:08:43Z",
+  "updated_at": "2026-07-30T01:33:06Z",
+  "pushed_at": "2026-07-30T01:23:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -344,6 +346,10 @@
     {
       "date": "2026-07-25",
       "stars": 183
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 187
     }
   ]
 }

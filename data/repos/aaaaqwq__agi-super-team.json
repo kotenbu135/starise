@@ -3,35 +3,33 @@
   "owner": "aaaaqwq",
   "name": "agi-super-team",
   "full_name": "aaaaqwq/agi-super-team",
-  "description": "14 AI executives powered by legendary minds (Musk/Buffett/Simons/Feynman) — deploy your virtual C-Suite in one git clone.",
+  "description": "An installable, cross-framework AI organization: C-suite agents, expert subagents, curated skills, independent review, and one-command setup across 18 AI client/runtime adapters.",
   "description_ja": "",
   "url": "https://github.com/aAAaqwq/AGI-Super-Team",
-  "homepage_url": "",
+  "homepage_url": "https://www.npmjs.com/package/agi-super-team",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "agent-framework",
     "agent-orchestration",
     "agent-skills",
-    "ai-agent",
-    "ai-tools",
-    "autonomous-agents",
+    "ai-agent-framework",
+    "ai-agents",
+    "c-suite",
     "claude-code",
-    "codex",
-    "coding-agent",
-    "cursor",
     "developer-tools",
-    "multi-agent",
-    "opensource-ai",
-    "skill-management"
+    "hermes-agent",
+    "multi-agent-systems",
+    "npm-package",
+    "openai-codex",
+    "openclaw"
   ],
-  "star_count": 81,
-  "fork_count": 18,
+  "star_count": 80,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-06T08:53:42Z",
-  "updated_at": "2026-07-24T18:05:34Z",
-  "pushed_at": "2026-07-24T13:49:42Z",
+  "updated_at": "2026-07-31T09:35:55Z",
+  "pushed_at": "2026-07-31T04:45:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -181,6 +179,10 @@
     {
       "date": "2026-07-25",
       "stars": 81
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 80
     }
   ]
 }

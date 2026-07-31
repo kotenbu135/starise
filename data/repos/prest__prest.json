@@ -10,29 +10,34 @@
   "language": "Go",
   "license": "MIT",
   "topics": [
-    "ai",
-    "automatic-api",
+    "api",
+    "baas",
+    "backend",
+    "crud",
     "database",
-    "databases",
-    "go",
+    "docker",
     "golang",
-    "hacktoberfest",
+    "instant-api",
+    "jwt",
     "low-code",
-    "mcp-server",
-    "multi-db",
+    "mcp",
+    "microservice",
+    "model-context-protocol",
+    "openapi",
     "postgres",
     "postgresql",
-    "prest",
-    "rest",
-    "rest-api"
+    "rest-api",
+    "self-hosted",
+    "sql",
+    "timescaledb"
   ],
-  "star_count": 4599,
-  "fork_count": 312,
+  "star_count": 4605,
+  "fork_count": 310,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-11-22T05:17:05Z",
-  "updated_at": "2026-07-24T17:52:33Z",
-  "pushed_at": "2026-07-25T15:20:07Z",
+  "updated_at": "2026-07-30T18:38:16Z",
+  "pushed_at": "2026-07-31T09:27:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -346,6 +351,10 @@
     {
       "date": "2026-07-25",
       "stars": 4599
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 4605
     }
   ]
 }

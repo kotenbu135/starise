@@ -3,8 +3,8 @@
   "owner": "bitcoin-computer",
   "name": "monorepo",
   "full_name": "bitcoin-computer/monorepo",
-  "description": "A Turing-complete smart contract system for Bitcoin and Litecoin",
-  "description_ja": "BitcoinとLitecoinのためのチューリング完全スマートコントラクトシステム",
+  "description": "A Turing-Complete Metaprotocol for Bitcoin, Litecoin and other UTXO Based Blockchains",
+  "description_ja": "",
   "url": "https://github.com/bitcoin-computer/monorepo",
   "homepage_url": "https://docs.bitcoincomputer.io/",
   "language": "JavaScript",
@@ -18,13 +18,13 @@
     "smart-contracts",
     "typescript"
   ],
-  "star_count": 45,
+  "star_count": 46,
   "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-03T16:57:59Z",
-  "updated_at": "2026-07-25T00:55:26Z",
-  "pushed_at": "2026-07-25T01:33:25Z",
+  "updated_at": "2026-07-31T04:13:29Z",
+  "pushed_at": "2026-07-29T21:27:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -338,6 +338,10 @@
     {
       "date": "2026-07-25",
       "stars": 45
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 46
     }
   ]
 }

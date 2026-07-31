@@ -3,7 +3,7 @@
   "owner": "mohitagw15856",
   "name": "pm-claude-skills",
   "full_name": "mohitagw15856/pm-claude-skills",
-  "description": "In Anthropic's official Claude plugin directory · 515 professional Agent Skills (PRDs, launches, compliance, CVs \u0026 more) for Claude, ChatGPT, Gemini, Cursor \u0026 Codex. Try free in-browser, or 'npx pm-claude-skills add'.",
+  "description": "822 professional Agent Skills for Claude, ChatGPT, Gemini, Cursor \u0026 Codex — decode a lease, write a PRD, run the AGM, prep the D\u0026D session, practice the salary negotiation. Plain-markdown, MIT, in Anthropic's official plugin directory. Try free in-browser or 'npx pm-claude-skills add'.",
   "description_ja": "",
   "url": "https://github.com/mohitagw15856/pm-claude-skills",
   "homepage_url": "https://mohitagw15856.github.io/pm-claude-skills/",
@@ -20,6 +20,7 @@
     "claude-code",
     "claude-skills",
     "cursor",
+    "developer-tools",
     "gemini",
     "llm",
     "mcp",
@@ -27,15 +28,16 @@
     "product-management",
     "productivity",
     "prompt-engineering",
+    "prompts",
     "skills"
   ],
-  "star_count": 1218,
-  "fork_count": 220,
+  "star_count": 1243,
+  "fork_count": 224,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-29T08:28:07Z",
-  "updated_at": "2026-07-25T15:54:04Z",
-  "pushed_at": "2026-07-25T14:24:14Z",
+  "updated_at": "2026-07-31T20:36:09Z",
+  "pushed_at": "2026-07-31T08:10:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -329,6 +331,10 @@
     {
       "date": "2026-07-25",
       "stars": 1218
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 1243
     }
   ]
 }

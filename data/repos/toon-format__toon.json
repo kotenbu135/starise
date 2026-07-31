@@ -3,8 +3,8 @@
   "owner": "toon-format",
   "name": "toon",
   "full_name": "toon-format/toon",
-  "description": "🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.",
-  "description_ja": "Token-Oriented Object Notation（TOON）― LLMプロンプト向けのコンパクトで人間が読みやすいスキーマ対応JSON。仕様・ベンチマーク・TypeScript SDK付き",
+  "description": "🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.",
+  "description_ja": "",
   "url": "https://github.com/toon-format/toon",
   "homepage_url": "https://toonformat.dev",
   "language": "TypeScript",
@@ -15,13 +15,13 @@
     "serialization",
     "tokenization"
   ],
-  "star_count": 24983,
-  "fork_count": 1109,
+  "star_count": 25038,
+  "fork_count": 1111,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-22T18:17:32Z",
-  "updated_at": "2026-07-25T19:04:46Z",
-  "pushed_at": "2026-07-24T21:13:42Z",
+  "updated_at": "2026-07-31T20:26:34Z",
+  "pushed_at": "2026-07-26T14:58:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -339,6 +339,10 @@
     {
       "date": "2026-07-25",
       "stars": 24983
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 25038
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "anil-matcha",
   "name": "flux-3-dev-api",
   "full_name": "anil-matcha/flux-3-dev-api",
-  "description": "Python wrapper for Black Forest Labs' FLUX 3 Dev API — fast, low-cost FLUX 3 variant, plus the full FLUX 3 family (Text-to-Image, Image-to-Image, Text-to-Video, Image-to-Video).",
+  "description": "Python wrapper for Black Forest Labs' FLUX 3 Dev API, available now — fast, low-cost FLUX 3 variant, plus the full FLUX 3 family (Text-to-Image, Image-to-Image, Text-to-Video, Image-to-Video).",
   "description_ja": "",
   "url": "https://github.com/Anil-matcha/Flux-3-Dev-API",
   "homepage_url": "https://muapi.ai/flux-3",
@@ -31,13 +31,13 @@
     "text-to-video-api",
     "video-generation"
   ],
-  "star_count": 166,
-  "fork_count": 49,
+  "star_count": 174,
+  "fork_count": 51,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-25T14:40:48Z",
-  "updated_at": "2026-07-25T15:45:02Z",
-  "pushed_at": "2026-07-23T18:53:20Z",
+  "updated_at": "2026-07-30T20:39:40Z",
+  "pushed_at": "2026-07-30T20:39:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -215,6 +215,10 @@
     {
       "date": "2026-07-25",
       "stars": 166
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 174
     }
   ]
 }

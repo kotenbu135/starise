@@ -3,20 +3,41 @@
   "owner": "michaelwilhelmsen",
   "name": "humla",
   "full_name": "michaelwilhelmsen/humla",
-  "description": "Personal macOS meeting transcription — OpenAI / Speechmatics / on-device Whisper, per-note summary presets, Tauri 2 + Rust + Swift",
+  "description": "Open-source AI meeting notes for Mac. Records mic + system audio with no bot, transcribes on-device or via OpenAI / Deepgram / Groq, identifies speakers offline, and writes summaries that fuse your notes with the transcript. Ask your notes and get cited answers. Tauri 2 + Rust + Swift.",
   "description_ja": "",
   "url": "https://github.com/michaelwilhelmsen/humla",
-  "homepage_url": "",
+  "homepage_url": "https://humla.team",
   "language": "Rust",
   "license": "MIT",
-  "topics": [],
-  "star_count": 156,
-  "fork_count": 13,
+  "topics": [
+    "ai",
+    "apple-silicon",
+    "granola-alternative",
+    "local-first",
+    "local-llm",
+    "macos",
+    "meeting-minutes",
+    "meeting-notes",
+    "norwegian",
+    "note-taking",
+    "on-device",
+    "open-source",
+    "privacy",
+    "rag",
+    "rust",
+    "speaker-diarization",
+    "swift",
+    "tauri",
+    "transcription",
+    "whisper"
+  ],
+  "star_count": 175,
+  "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-27T21:08:53Z",
-  "updated_at": "2026-07-24T18:16:24Z",
-  "pushed_at": "2026-07-25T19:30:55Z",
+  "updated_at": "2026-07-31T11:42:00Z",
+  "pushed_at": "2026-07-31T10:11:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -294,6 +315,10 @@
     {
       "date": "2026-07-25",
       "stars": 156
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 175
     }
   ]
 }

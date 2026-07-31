@@ -3,20 +3,32 @@
   "owner": "liliu-z",
   "name": "stashbase",
   "full_name": "liliu-z/stashbase",
-  "description": "A local-first knowledge base that turns documents, screenshots, and AI artifacts into persistent memory for you and your AI.",
+  "description": "Turn local files into searchable context for AI agents.",
   "description_ja": "",
   "url": "https://github.com/liliu-z/stashbase",
-  "homepage_url": "",
+  "homepage_url": "https://stashbase.ai",
   "language": "TypeScript",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 105,
-  "fork_count": 9,
+  "topics": [
+    "ai-agents",
+    "document-search",
+    "electron",
+    "knowledge-base",
+    "local-first",
+    "mcp",
+    "mcp-server",
+    "milvus",
+    "rag",
+    "semantic-search",
+    "typescript"
+  ],
+  "star_count": 165,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-19T05:21:06Z",
-  "updated_at": "2026-07-25T18:10:05Z",
-  "pushed_at": "2026-07-24T12:24:10Z",
+  "updated_at": "2026-07-31T18:36:12Z",
+  "pushed_at": "2026-07-31T13:38:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +54,10 @@
     {
       "date": "2026-07-25",
       "stars": 105
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 165
     }
   ]
 }

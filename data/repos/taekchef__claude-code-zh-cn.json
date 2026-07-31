@@ -3,20 +3,29 @@
   "owner": "taekchef",
   "name": "claude-code-zh-cn",
   "full_name": "taekchef/claude-code-zh-cn",
-  "description": "Claude Code 中文本地化插件 — 简体中文支持",
+  "description": "Claude Code CLI 简体中文本地化 / 汉化插件；支持 macOS、Linux、WSL、Windows 与新版 native，一行安装，更新后自动修复。",
   "description_ja": "",
   "url": "https://github.com/taekchef/claude-code-zh-cn",
-  "homepage_url": "https://cczh.online.zoer.ai",
+  "homepage_url": "https://taekchef.github.io/claude-code-zh-cn/",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 606,
+  "topics": [
+    "chinese",
+    "claude-code",
+    "claude-code-plugin",
+    "cli",
+    "developer-tools",
+    "i18n",
+    "localization",
+    "translation"
+  ],
+  "star_count": 633,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-02T16:06:18Z",
-  "updated_at": "2026-07-25T20:29:12Z",
-  "pushed_at": "2026-07-25T20:29:24Z",
+  "updated_at": "2026-07-31T17:44:27Z",
+  "pushed_at": "2026-07-31T18:30:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -226,6 +235,10 @@
     {
       "date": "2026-07-25",
       "stars": 606
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 633
     }
   ]
 }

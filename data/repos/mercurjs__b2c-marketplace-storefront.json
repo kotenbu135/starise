@@ -3,10 +3,10 @@
   "owner": "mercurjs",
   "name": "b2c-marketplace-storefront",
   "full_name": "mercurjs/b2c-marketplace-storefront",
-  "description": "Open Source Storefront for Multi-vendor Marketplace. Customizable and designed for B2C. Check demo for Fashion industry 👇",
-  "description_ja": "マルチベンダーマーケットプレイス向けオープンソースストアフロント。カスタマイズ可能でB2C向けに設計。ファッション業界のデモあり 👇",
+  "description": "Open Source Storefront for Multi-vendor Marketplace. Customizable. Check demo for Fashion industry 👇",
+  "description_ja": "",
   "url": "https://github.com/mercurjs/b2c-marketplace-storefront",
-  "homepage_url": "https://b2c.mercurjs.com",
+  "homepage_url": "https://demo.mercurjs.com",
   "language": "TypeScript",
   "license": "",
   "topics": [
@@ -23,12 +23,12 @@
     "ui"
   ],
   "star_count": 200,
-  "fork_count": 133,
-  "is_archived": false,
+  "fork_count": 131,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2025-02-04T10:20:45Z",
-  "updated_at": "2026-07-17T06:27:13Z",
-  "pushed_at": "2026-07-25T02:09:46Z",
+  "updated_at": "2026-07-28T09:45:23Z",
+  "pushed_at": "2026-07-28T09:43:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -341,6 +341,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 200
+    },
+    {
+      "date": "2026-07-31",
       "stars": 200
     }
   ]

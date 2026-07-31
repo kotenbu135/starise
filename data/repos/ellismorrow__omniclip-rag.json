@@ -3,10 +3,10 @@
   "owner": "ellismorrow",
   "name": "omniclip-rag",
   "full_name": "ellismorrow/omniclip-rag",
-  "description": "Local-first RAG desktop app \u0026 official MCP Server. Let any AI instantly search your private Markdown, PDF, and 1290+ document formats. (本地优先的 RAG 桌面端与官方 MCP 服务器。让任意 AI 瞬间检索你的私有 Markdown、PDF 及 1290+ 种文档格式。)",
-  "description_ja": "ローカルファースト型RAGデスクトップアプリ＆公式MCPサーバー。あらゆるAIがプライベートなMarkdown、PDF、および1290以上のドキュメント形式を瞬時に検索できます。",
+  "description": "Local-first RAG for private Markdown, PDF and Tika documents — Windows desktop app with a read-only MCP server.｜本地优先检索私有 Markdown、PDF 与 Tika 文档，提供 Windows 桌面端和只读 MCP 服务。",
+  "description_ja": "",
   "url": "https://github.com/EllisMorrow/OmniClip-RAG",
-  "homepage_url": "https://msjsc001.github.io/OmniClip-RAG/",
+  "homepage_url": "https://EllisMorrow.github.io/OmniClip-RAG/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T14:00:52Z",
-  "updated_at": "2026-07-24T15:07:48Z",
-  "pushed_at": "2026-04-20T07:04:37Z",
+  "updated_at": "2026-07-31T06:44:38Z",
+  "pushed_at": "2026-07-31T06:43:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -345,6 +345,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 43
+    },
+    {
+      "date": "2026-07-31",
       "stars": 43
     }
   ]

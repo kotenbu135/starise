@@ -3,8 +3,8 @@
   "owner": "phnx47",
   "name": "dapper-repositories",
   "full_name": "phnx47/dapper-repositories",
-  "description": "CRUD for Dapper",
-  "description_ja": "Dapper向けのCRUD操作ライブラリ",
+  "description": "Generate SQL for CRUD operations based on your POCO classes for Dapper",
+  "description_ja": "",
   "url": "https://github.com/phnx47/dapper-repositories",
   "homepage_url": "https://www.learndapper.com/extensions/microorm-dapper-repositories",
   "language": "C#",
@@ -17,13 +17,13 @@
     "repository-pattern",
     "sql-generator"
   ],
-  "star_count": 704,
+  "star_count": 705,
   "fork_count": 206,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-04-07T20:40:22Z",
-  "updated_at": "2026-07-25T01:48:17Z",
-  "pushed_at": "2026-07-25T01:53:01Z",
+  "updated_at": "2026-07-31T13:16:17Z",
+  "pushed_at": "2026-07-31T13:11:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -341,6 +341,10 @@
     {
       "date": "2026-07-25",
       "stars": 704
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 705
     }
   ]
 }

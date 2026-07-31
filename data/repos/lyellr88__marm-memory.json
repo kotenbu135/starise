@@ -3,7 +3,7 @@
   "owner": "lyellr88",
   "name": "marm-memory",
   "full_name": "lyellr88/marm-memory",
-  "description": "Local-first 3-in-1 AI memory layer \u0026 MCP server for Claude Code, Codex, Grok, Gemini, VS Code and Cursor. Fuses session history, codebase indices \u0026 concept graphs in SQLite. Enables zero-cloud, privacy-first context \u0026 instant recall for multi-agent swarms.",
+  "description": "Local-first 3-in-1 AI memory layer \u0026 MCP server for Claude Code, Codex, Grok, Gemini, VS Code and Cursor. Fuses session history, codebase indexing \u0026 concept graphs in SQLite. Enables zero-cloud, privacy-first context \u0026 instant recall, supports multi-agent swarms.",
   "description_ja": "",
   "url": "https://github.com/Lyellr88/marm-memory",
   "homepage_url": "https://lyellr88.github.io/marm-memory",
@@ -31,13 +31,13 @@
     "sematic-search",
     "sqlite"
   ],
-  "star_count": 320,
-  "fork_count": 58,
+  "star_count": 323,
+  "fork_count": 61,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-10T06:36:49Z",
-  "updated_at": "2026-07-25T03:13:17Z",
-  "pushed_at": "2026-07-24T12:06:02Z",
+  "updated_at": "2026-07-31T19:55:08Z",
+  "pushed_at": "2026-07-31T19:54:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -351,6 +351,10 @@
     {
       "date": "2026-07-25",
       "stars": 320
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 323
     }
   ]
 }

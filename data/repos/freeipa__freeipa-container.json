@@ -21,7 +21,6 @@
     "kubeadm-init",
     "kubernetes",
     "moby-engine",
-    "openshift",
     "podman",
     "rke2"
   ],
@@ -30,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-06-26T09:17:27Z",
-  "updated_at": "2026-07-25T16:41:28Z",
-  "pushed_at": "2026-07-06T00:36:14Z",
+  "updated_at": "2026-07-31T19:27:55Z",
+  "pushed_at": "2026-07-31T19:27:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -344,6 +343,10 @@
     },
     {
       "date": "2026-07-25",
+      "stars": 700
+    },
+    {
+      "date": "2026-07-31",
       "stars": 700
     }
   ]
