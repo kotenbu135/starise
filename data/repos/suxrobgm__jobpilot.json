@@ -3,20 +3,23 @@
   "owner": "suxrobgm",
   "name": "jobpilot",
   "full_name": "suxrobgm/jobpilot",
-  "description": "Claude Code and Codex plugin that autonomously searches job boards, auto-fills applications, generates cover letters, and preps for interviews - powered by your resume",
+  "description": "An AI agent that applies to jobs for you - searches boards, tailors your resume, fills applications, messages recruiters. All from a real browser on your machine, on your Claude Code or Codex subscription.",
   "description_ja": "",
   "url": "https://github.com/suxrobGM/jobpilot",
-  "homepage_url": "",
+  "homepage_url": "https://jobpilot.suxrobgm.net",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "ai-agents",
     "automation",
+    "autonomous-agents",
     "claude-code",
     "claude-code-plugin",
     "codex",
     "codex-plugin",
     "cover-letter",
     "job-application",
+    "job-application-automation",
     "job-search",
     "playwright",
     "resume"
@@ -26,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T03:17:24Z",
-  "updated_at": "2026-07-29T22:25:57Z",
-  "pushed_at": "2026-07-26T19:49:21Z",
+  "updated_at": "2026-08-01T18:17:00Z",
+  "pushed_at": "2026-08-01T18:17:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -124,6 +127,10 @@
     },
     {
       "date": "2026-07-31",
+      "stars": 39
+    },
+    {
+      "date": "2026-08-01",
       "stars": 39
     }
   ]

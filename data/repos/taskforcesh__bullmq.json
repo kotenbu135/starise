@@ -3,7 +3,7 @@
   "owner": "taskforcesh",
   "name": "bullmq",
   "full_name": "taskforcesh/bullmq",
-  "description": "BullMQ - Message Queue and Batch processing for NodeJS, Python, Elixir, Rust and PHP based on Redis",
+  "description": "BullMQ - Message Queue and Batch processing for NodeJS, Python, .NET, Elixir, Rust and PHP based on Redis or PostgreSQL",
   "description_ja": "",
   "url": "https://github.com/taskforcesh/bullmq",
   "homepage_url": "https://bullmq.io",
@@ -20,13 +20,13 @@
     "rust",
     "typescript"
   ],
-  "star_count": 9227,
-  "fork_count": 658,
+  "star_count": 9231,
+  "fork_count": 659,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-12-19T21:46:28Z",
-  "updated_at": "2026-07-31T21:54:39Z",
-  "pushed_at": "2026-07-31T21:56:23Z",
+  "updated_at": "2026-08-01T20:17:24Z",
+  "pushed_at": "2026-08-01T20:38:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -348,6 +348,10 @@
     {
       "date": "2026-07-31",
       "stars": 9227
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 9231
     }
   ]
 }

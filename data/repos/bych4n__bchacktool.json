@@ -3,36 +3,30 @@
   "owner": "bych4n",
   "name": "bchacktool",
   "full_name": "bych4n/bchacktool",
-  "description": "🔥 Professional Penetration Testing Framework v4.0 - Automated subdomain enumeration, vulnerability scanning with Nuclei, port scanning, and comprehensive HTML reports. Features parallel scanning, resume capability, and real-time progress tracking.",
-  "description_ja": "プロフェッショナルなペネトレーションテストフレームワーク v4.0 — 自動サブドメイン列挙・Nuclei による脆弱性スキャン・ポートスキャン・包括的な HTML レポート。並列スキャン・再開機能・リアルタイム進捗追跡を搭載。",
+  "description": "All-in-one launcher and installer for popular penetration-testing and OSINT tools on Kali Linux and Termux.",
+  "description_ja": "",
   "url": "https://github.com/ByCh4n/BCHackTool",
   "homepage_url": "https://github.com/ByCh4n/BCHackTool",
   "language": "Shell",
-  "license": "NOASSERTION",
+  "license": "MIT",
   "topics": [
-    "automation",
-    "bash-script",
-    "bug-bounty",
+    "bash",
     "cybersecurity",
     "ethical-hacking",
-    "nuclei",
+    "hacking-tools",
+    "kali-linux",
     "osint",
     "penetration-testing",
-    "recon-tool",
-    "red-team",
-    "security-scanner",
     "security-tools",
-    "subdomain-enumeration",
-    "vulnerability-scanner",
-    "web-security"
+    "termux"
   ],
   "star_count": 532,
   "fork_count": 88,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-23T12:03:22Z",
-  "updated_at": "2026-07-14T13:58:27Z",
-  "pushed_at": "2026-01-09T13:42:26Z",
+  "updated_at": "2026-08-01T19:09:22Z",
+  "pushed_at": "2026-08-01T19:09:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -349,6 +343,10 @@
     },
     {
       "date": "2026-07-31",
+      "stars": 532
+    },
+    {
+      "date": "2026-08-01",
       "stars": 532
     }
   ]

@@ -7,7 +7,7 @@
   "description_ja": "スマートフォン上で動作するローカルAIアシスタント",
   "url": "https://github.com/timmyy123/LLM-Hub",
   "homepage_url": "https://llm-hub.app",
-  "language": "C++",
+  "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
     "ai",
@@ -27,13 +27,13 @@
     "stable-diffusion",
     "whisper"
   ],
-  "star_count": 523,
+  "star_count": 525,
   "fork_count": 113,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-08T09:40:31Z",
-  "updated_at": "2026-07-31T19:07:56Z",
-  "pushed_at": "2026-07-31T19:07:10Z",
+  "updated_at": "2026-08-01T17:13:08Z",
+  "pushed_at": "2026-08-01T17:13:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -355,6 +355,10 @@
     {
       "date": "2026-07-31",
       "stars": 523
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 525
     }
   ]
 }

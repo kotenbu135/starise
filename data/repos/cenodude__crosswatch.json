@@ -12,6 +12,7 @@
   "topics": [
     "anilist",
     "emby",
+    "floppy",
     "jellyfin",
     "kodi",
     "mdblist",
@@ -26,15 +27,16 @@
     "tmdb",
     "trakt",
     "watcher",
-    "webhook"
+    "webhook",
+    "yamtrack"
   ],
-  "star_count": 697,
+  "star_count": 707,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-27T17:26:22Z",
-  "updated_at": "2026-07-31T20:21:21Z",
-  "pushed_at": "2026-07-31T20:10:38Z",
+  "updated_at": "2026-08-01T19:35:12Z",
+  "pushed_at": "2026-08-01T17:41:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -288,6 +290,10 @@
     {
       "date": "2026-07-31",
       "stars": 697
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 707
     }
   ]
 }

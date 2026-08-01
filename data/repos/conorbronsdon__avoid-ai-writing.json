@@ -6,7 +6,7 @@
   "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, and Hermes.",
   "description_ja": "AIライティングパターンを除去するためにコンテンツを監査・書き直すスキル。Claude Code、OpenClaw、Hermesなどのエージェントと組み合わせて使用可能",
   "url": "https://github.com/conorbronsdon/avoid-ai-writing",
-  "homepage_url": "https://www.chainofthought.show/",
+  "homepage_url": "https://chainofthought.show/go/avoid-ai-writing",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
@@ -18,13 +18,13 @@
     "skill",
     "writing"
   ],
-  "star_count": 2725,
-  "fork_count": 250,
+  "star_count": 2738,
+  "fork_count": 252,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T07:47:40Z",
-  "updated_at": "2026-07-31T20:31:56Z",
-  "pushed_at": "2026-07-31T19:22:42Z",
+  "updated_at": "2026-08-01T15:37:15Z",
+  "pushed_at": "2026-07-31T21:13:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -346,6 +346,10 @@
     {
       "date": "2026-07-31",
       "stars": 2725
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 2738
     }
   ]
 }

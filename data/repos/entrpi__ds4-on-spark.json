@@ -3,7 +3,7 @@
   "owner": "entrpi",
   "name": "ds4-on-spark",
   "full_name": "entrpi/ds4-on-spark",
-  "description": "Entrpi/ds4, a Blackwell CUDA perf fork of antirez/ds4 on NVIDIA DGX Spark: one-command install, ~2x upstream prefill, ~1.5x decode, DSpark, and full continuous batch support",
+  "description": "Entrpi/ds4, a Blackwell CUDA perf fork of antirez/ds4 on NVIDIA DGX Spark: one-command install, ~3x upstream prefill, ~1.5x decode, DSpark, and full continuous batch support",
   "description_ja": "",
   "url": "https://github.com/Entrpi/ds4-on-spark",
   "homepage_url": "",
@@ -20,13 +20,13 @@
     "llm",
     "moe"
   ],
-  "star_count": 91,
+  "star_count": 136,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-12T04:31:42Z",
-  "updated_at": "2026-07-31T08:42:27Z",
-  "pushed_at": "2026-07-24T01:16:41Z",
+  "updated_at": "2026-08-01T19:56:14Z",
+  "pushed_at": "2026-08-01T13:58:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -64,6 +64,10 @@
     {
       "date": "2026-07-31",
       "stars": 91
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 136
     }
   ]
 }

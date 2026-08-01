@@ -6,7 +6,7 @@
   "description": "OpenLake is a high performance storage engine for efficient LLM inference and GPU Training",
   "description_ja": "",
   "url": "https://github.com/openlake-project/openlake",
-  "homepage_url": "https://cloud.theopenlake.com",
+  "homepage_url": "https://theopenlake.com",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -22,13 +22,13 @@
     "storage",
     "throughput"
   ],
-  "star_count": 2311,
+  "star_count": 2309,
   "fork_count": 420,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-27T04:07:33Z",
-  "updated_at": "2026-07-31T17:02:56Z",
-  "pushed_at": "2026-07-31T14:55:32Z",
+  "updated_at": "2026-08-01T17:57:17Z",
+  "pushed_at": "2026-08-01T04:41:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +258,10 @@
     {
       "date": "2026-07-31",
       "stars": 2311
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 2309
     }
   ]
 }

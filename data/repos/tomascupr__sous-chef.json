@@ -3,7 +3,7 @@
   "owner": "tomascupr",
   "name": "sous-chef",
   "full_name": "tomascupr/sous-chef",
-  "description": "Claude orchestrates and reviews; Codex CLI implements. A Claude Code plugin for the two-model kitchen: /serve tasks end to end, /simmer goals until green. Your head chef doesn't chop onions.",
+  "description": "Claude orchestrates and reviews; Sonnet, Codex, GLM, or Grok implements. A Claude Code plugin for the orchestrator/implementer split: /serve tasks end to end, /simmer goals until green. Your head chef doesn't chop onions.",
   "description_ja": "",
   "url": "https://github.com/tomascupr/sous-chef",
   "homepage_url": "",
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-02T22:38:10Z",
-  "updated_at": "2026-07-25T08:40:42Z",
-  "pushed_at": "2026-07-08T21:34:06Z",
+  "updated_at": "2026-08-01T18:36:05Z",
+  "pushed_at": "2026-08-01T18:36:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -104,6 +104,10 @@
     },
     {
       "date": "2026-07-31",
+      "stars": 67
+    },
+    {
+      "date": "2026-08-01",
       "stars": 67
     }
   ]

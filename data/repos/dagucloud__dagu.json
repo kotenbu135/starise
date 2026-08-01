@@ -3,41 +3,39 @@
   "owner": "dagucloud",
   "name": "dagu",
   "full_name": "dagucloud/dagu",
-  "description": "Local-first engine: one binary, no database.",
+  "description": "Self-hosted workflow orchestration in one binary. YAML DAGs, cron, AI agent steps, Web UI. Lightweight Airflow alternative, no database.",
   "description_ja": "",
   "url": "https://github.com/dagucloud/dagu",
   "homepage_url": "https://dagu.sh",
   "language": "Go",
   "license": "GPL-3.0",
   "topics": [
-    "agentic-workflow",
+    "ai-agents",
+    "airflow-alternative",
     "cron",
+    "dag",
     "data-pipeline",
     "devops",
     "durable-execution",
-    "durable-workflows",
+    "golang",
     "human-in-the-loop",
     "job-scheduler",
+    "llm",
     "mcp-server",
-    "multi-agent",
-    "on-premise",
-    "private-runners",
     "self-hosted",
-    "self-service",
-    "selfservice-portal",
     "task-automation",
-    "task-scheduler",
     "workflow-engine",
     "workflow-orchestration",
-    "workflow-scheduler"
+    "workflow-scheduler",
+    "yaml"
   ],
   "star_count": 3689,
   "fork_count": 297,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-22T13:00:42Z",
-  "updated_at": "2026-07-31T17:14:34Z",
-  "pushed_at": "2026-07-31T17:40:06Z",
+  "updated_at": "2026-08-01T14:26:38Z",
+  "pushed_at": "2026-08-01T14:26:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -354,6 +352,10 @@
     },
     {
       "date": "2026-07-31",
+      "stars": 3689
+    },
+    {
+      "date": "2026-08-01",
       "stars": 3689
     }
   ]

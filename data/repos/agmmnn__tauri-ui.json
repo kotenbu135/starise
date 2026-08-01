@@ -3,13 +3,14 @@
   "owner": "agmmnn",
   "name": "tauri-ui",
   "full_name": "agmmnn/tauri-ui",
-  "description": "🦀 Tauri + shadcn/ui starter. Pick your framework and start building. Vite, Next.js, React Router, Astro, TanStack Start.",
+  "description": "🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries.",
   "description_ja": "",
   "url": "https://github.com/agmmnn/tauri-ui",
   "homepage_url": "https://tauriui.vercel.app",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "base-ui",
     "boilerplate",
     "desktop-app",
     "nextjs",
@@ -20,13 +21,13 @@
     "tauri",
     "tauri-app"
   ],
-  "star_count": 2118,
+  "star_count": 2120,
   "fork_count": 122,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-27T23:44:37Z",
-  "updated_at": "2026-07-31T19:37:25Z",
-  "pushed_at": "2026-04-20T13:20:20Z",
+  "updated_at": "2026-08-01T16:51:22Z",
+  "pushed_at": "2026-08-01T16:51:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -348,6 +349,10 @@
     {
       "date": "2026-07-31",
       "stars": 2118
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 2120
     }
   ]
 }

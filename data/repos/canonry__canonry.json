@@ -3,7 +3,7 @@
   "owner": "canonry",
   "name": "canonry",
   "full_name": "canonry/canonry",
-  "description": "An agent first AEO monitoring and execution platform",
+  "description": "An agent first AEO + web analytics monitoring and execution platform",
   "description_ja": "",
   "url": "https://github.com/Canonry/canonry",
   "homepage_url": "https://canonry.ai/open-source-platform",
@@ -12,7 +12,6 @@
   "topics": [
     "aeo",
     "agent",
-    "ai-agents",
     "ai-search",
     "ai-visibility",
     "answer-engine-optimisation",
@@ -20,24 +19,24 @@
     "brand-monitoring",
     "cli",
     "generative-engine-optimization",
-    "geo",
     "geo-optimization",
-    "llm-monitoring",
+    "google-analytics",
     "local-first",
     "mcp",
     "self-hosted",
     "seo",
     "seo-optimization",
+    "server-side-tracking",
     "sqlite",
-    "websearch"
+    "web-analytics"
   ],
-  "star_count": 101,
+  "star_count": 102,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-09T01:18:16Z",
-  "updated_at": "2026-07-31T18:40:45Z",
-  "pushed_at": "2026-07-31T20:21:04Z",
+  "updated_at": "2026-08-01T19:45:32Z",
+  "pushed_at": "2026-08-01T19:39:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -279,6 +278,10 @@
     {
       "date": "2026-07-31",
       "stars": 101
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 102
     }
   ]
 }

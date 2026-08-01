@@ -3,10 +3,10 @@
   "owner": "wukongdaily",
   "name": "immortalwrt-imagebuilder",
   "full_name": "wukongdaily/immortalwrt-imagebuilder",
-  "description": "它是一个工作流。可快速构建 可选docker、可选自定义固件大小的 immortalWrt。它相当于一个云端的ImageBuilder,属于构建的范畴,不算是编译。目前也支持第三方插件的按需集成。",
-  "description_ja": "Docker対応・カスタムファームウェアサイズ選択可能なimmortalWrtを素早く構築するワークフロー。クラウド上のImageBuilderに相当し、コンパイルではなくビルドに分類される。サードパーティプラグインのオンデマンド統合もサポート",
+  "description": "它是一个工作流。可快速构建 可选docker、可选1G~4G固件大小的 immortalWrt。它相当于一个云端的ImageBuilder,属于构建的范畴,不算是编译。目前也支持第三方插件的按需集成。",
+  "description_ja": "",
   "url": "https://github.com/wukongdaily/ImmortalWrt-ImageBuilder",
-  "homepage_url": "https://wkdaily.cpolar.cn/archives/40",
+  "homepage_url": "https://t.me/imm_imagebuilder",
   "language": "Shell",
   "license": "GPL-3.0",
   "topics": [
@@ -19,13 +19,13 @@
     "rootfs",
     "rootsize"
   ],
-  "star_count": 2557,
-  "fork_count": 8799,
+  "star_count": 2559,
+  "fork_count": 8814,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-31T07:44:02Z",
-  "updated_at": "2026-07-31T08:06:09Z",
-  "pushed_at": "2026-07-08T14:01:33Z",
+  "updated_at": "2026-08-01T15:57:58Z",
+  "pushed_at": "2026-08-01T02:08:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -343,6 +343,10 @@
     {
       "date": "2026-07-31",
       "stars": 2557
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 2559
     }
   ]
 }

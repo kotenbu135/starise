@@ -3,33 +3,35 @@
   "owner": "cogeto",
   "name": "cogeto",
   "full_name": "cogeto/cogeto",
-  "description": "A private, EU-hosted AI command center that turns scattered work into inspectable, editable, and deletable memory.",
+  "description": "Verified institutional memory for your documents: reads document sets, verifies every fact against its source, reports contradictions between documents, and produces a signed findings report. EU hosted, self hosted, or fully offline. AGPLv3.",
   "description_ja": "",
   "url": "https://github.com/Cogeto/cogeto",
   "homepage_url": "https://cogeto.eu",
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
-    "agplv3",
-    "ai-memory",
-    "eu",
+    "agpl",
+    "air-gapped",
+    "audit",
+    "compliance",
+    "contradiction-detection",
+    "document-intelligence",
+    "eu-sovereignty",
     "gdpr",
+    "institutional-memory",
     "knowledge-management",
-    "mistral",
-    "nestjs",
-    "privacy",
-    "rag",
+    "postgres",
     "self-hosted",
     "typescript",
-    "verifiable"
+    "verified-memory"
   ],
   "star_count": 103,
   "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-01T15:17:00Z",
-  "updated_at": "2026-07-31T19:49:03Z",
-  "pushed_at": "2026-07-31T19:48:40Z",
+  "updated_at": "2026-08-01T15:23:38Z",
+  "pushed_at": "2026-08-01T15:26:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -66,6 +68,10 @@
     },
     {
       "date": "2026-07-31",
+      "stars": 103
+    },
+    {
+      "date": "2026-08-01",
       "stars": 103
     }
   ]

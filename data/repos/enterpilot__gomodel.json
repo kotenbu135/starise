@@ -3,10 +3,10 @@
   "owner": "enterpilot",
   "name": "gomodel",
   "full_name": "enterpilot/gomodel",
-  "description": "AI gateway written in Go. Lightweight unified OpenAI-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI \u0026 Ollama. LiteLLM alternative with observability, guardrails, streaming, costs and usage tracking.",
-  "description_ja": "Goで書かれたAIゲートウェイ。OpenAI・Anthropic・Gemini・Groq・xAI・OllamaをサポートするOpenAI互換の軽量統合API。オブザーバビリティ・ガードレール・ストリーミング・コストと使用量追跡機能を備えたLiteLLMの代替",
+  "description": "AI gateway / AI control plane / AI proxy written in Go. Unified OpenAI-compatible and Anthropic-compatible API for OpenAI, Anthropic, Gemini, Groq, xAI, Ollama, vLLM and more. A LiteLLM alternative with observability, guardrails, streaming, cost tracking, intelligent routing, sticky sessions, failover, real-time logs and usage tracking. Prod ready.",
+  "description_ja": "",
   "url": "https://github.com/ENTERPILOT/GoModel",
-  "homepage_url": "https://gomodel.enterpilot.io/",
+  "homepage_url": "https://gomodel.enterpilot.io/?utm_source=github_desc",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -28,13 +28,13 @@
     "openai-compatible-proxy-server",
     "proxy"
   ],
-  "star_count": 1032,
+  "star_count": 1033,
   "fork_count": 74,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-05T21:26:31Z",
-  "updated_at": "2026-07-31T15:14:29Z",
-  "pushed_at": "2026-07-31T16:29:31Z",
+  "updated_at": "2026-08-01T17:26:22Z",
+  "pushed_at": "2026-08-01T19:31:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -352,6 +352,10 @@
     {
       "date": "2026-07-31",
       "stars": 1032
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 1033
     }
   ]
 }

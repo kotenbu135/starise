@@ -3,7 +3,7 @@
   "owner": "526077247",
   "name": "genshingameplay",
   "full_name": "526077247/genshingameplay",
-  "description": "参考Genshin的GamePlay框架，基于 TaoTie 轻量级 Unity 框架构建，涵盖战斗（AbilitySystem）、解谜（SceneGroup）、怪物 AI、剧情（Story）、相机控制等完整游戏玩法系统。  使用 Json 序列化的 Graph 编辑器进行可视化配置，二进制（Nino）/Json序列化的配置加载，YooAsset 管理资源,架构方便支持热更",
+  "description": "参考Genshin的GamePlay框架，基于 TaoTie 轻量级 Unity 框架构建，涵盖战斗（AbilitySystem）、解谜（SceneGroup）、怪物 AI、剧情（Story）、相机控制等完整游戏玩法系统。  使用 Json 序列化的 Graph 编辑器进行可视化配置，Proto/Json序列化的配置加载，YooAsset 管理资源,架构方便支持热更",
   "description_ja": "",
   "url": "https://github.com/526077247/GenshinGamePlay",
   "homepage_url": "",
@@ -16,12 +16,12 @@
     "genshin",
     "unity"
   ],
-  "star_count": 453,
+  "star_count": 454,
   "fork_count": 75,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-23T12:21:14Z",
-  "updated_at": "2026-07-31T10:42:06Z",
+  "updated_at": "2026-08-01T07:25:43Z",
   "pushed_at": "2026-07-31T10:39:43Z",
   "deleted_at": "",
   "star_history": [
@@ -344,6 +344,10 @@
     {
       "date": "2026-07-31",
       "stars": 453
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 454
     }
   ]
 }
