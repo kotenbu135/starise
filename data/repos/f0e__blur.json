@@ -6,7 +6,7 @@
   "description": "Add motion blur to videos",
   "description_ja": "動画にモーションブラーを追加するツール",
   "url": "https://github.com/f0e/blur",
-  "homepage_url": "https://blur.tekno.sh",
+  "homepage_url": "https://blur.sh",
   "language": "C++",
   "license": "GPL-3.0",
   "topics": [
@@ -18,12 +18,12 @@
     "video-processing",
     "video-rendering"
   ],
-  "star_count": 850,
+  "star_count": 851,
   "fork_count": 55,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-07-01T23:05:31Z",
-  "updated_at": "2026-08-01T18:42:33Z",
+  "updated_at": "2026-08-02T10:28:50Z",
   "pushed_at": "2026-05-15T06:52:09Z",
   "deleted_at": "",
   "star_history": [
@@ -350,6 +350,10 @@
     {
       "date": "2026-08-01",
       "stars": 850
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 851
     }
   ]
 }

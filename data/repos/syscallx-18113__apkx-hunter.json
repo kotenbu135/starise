@@ -3,7 +3,7 @@
   "owner": "syscallx-18113",
   "name": "apkx-hunter",
   "full_name": "syscallx-18113/apkx-hunter",
-  "description": "Apkx-Hunter is an Android Static Analysis Framework written entirely in C with OWASP MASVS scanning with 15 categories and 166 detection patterns for Android security assessments, reverse engineering, malware analysis, bug bounty hunting, and penetration testing. It features ML-based secret scoring, and advanced static security analysis.",
+  "description": "Apkx-Hunter is an Android Static Analysis Framework in Debian Package written entirely in C with OWASP MASVS scanning with 15 categories and 166 detection patterns for Android security assessments, reverse engineering, malware analysis, and penetration testing. It features ML-based secret scoring, and advanced static security analysis.",
   "description_ja": "",
   "url": "https://github.com/SyscallX-18113/Apkx-Hunter",
   "homepage_url": "",
@@ -19,6 +19,10 @@
     "apk-analysis-",
     "bug-bounty",
     "cybersecurity",
+    "debian",
+    "debian-package",
+    "debian-packages",
+    "debian-packaging",
     "malware-analysis",
     "mobile-security",
     "mobile-security-framework",
@@ -32,7 +36,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-11T11:29:57Z",
-  "updated_at": "2026-08-01T16:07:09Z",
+  "updated_at": "2026-08-02T08:45:11Z",
   "pushed_at": "2026-08-01T10:16:43Z",
   "deleted_at": "",
   "star_history": [
@@ -82,6 +86,10 @@
     },
     {
       "date": "2026-08-01",
+      "stars": 82
+    },
+    {
+      "date": "2026-08-02",
       "stars": 82
     }
   ]

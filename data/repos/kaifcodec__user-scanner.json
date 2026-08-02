@@ -3,7 +3,7 @@
   "owner": "kaifcodec",
   "name": "user-scanner",
   "full_name": "kaifcodec/user-scanner",
-  "description": "🕵️‍♂️ (2-in-1) Email \u0026 Username OSINT suite for deep data extraction. Analyzes 365+ scan vectors (140+ email / 225+ username) for security research, investigations, and digital footprinting.",
+  "description": "🕵️‍♂️ (2-in-1) Email \u0026 Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 365+ scan vectors (140+ email / 225+ username) for security research, investigations, and digital footprinting.",
   "description_ja": "",
   "url": "https://github.com/kaifcodec/user-scanner",
   "homepage_url": "",
@@ -27,13 +27,13 @@
     "threat-intelligence",
     "username-osint"
   ],
-  "star_count": 2923,
-  "fork_count": 340,
+  "star_count": 2935,
+  "fork_count": 341,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-19T04:21:48Z",
-  "updated_at": "2026-08-01T19:09:46Z",
-  "pushed_at": "2026-08-01T11:44:06Z",
+  "updated_at": "2026-08-02T14:34:05Z",
+  "pushed_at": "2026-08-02T12:48:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -275,6 +275,10 @@
     {
       "date": "2026-08-01",
       "stars": 2923
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 2935
     }
   ]
 }

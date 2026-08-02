@@ -3,7 +3,7 @@
   "owner": "alibaba",
   "name": "open-code-review",
   "full_name": "alibaba/open-code-review",
-  "description": "Open-source \u0026 free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
+  "description": "Open-source \u0026 free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI \u0026 Anthropic compatible.",
   "description_ja": "",
   "url": "https://github.com/alibaba/open-code-review",
   "homepage_url": "https://open-codereview.ai",
@@ -17,13 +17,13 @@
     "harness",
     "repository-level-context"
   ],
-  "star_count": 17440,
-  "fork_count": 1185,
+  "star_count": 17836,
+  "fork_count": 1207,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-18T02:16:36Z",
-  "updated_at": "2026-08-01T19:46:28Z",
-  "pushed_at": "2026-08-01T10:09:51Z",
+  "updated_at": "2026-08-02T19:20:36Z",
+  "pushed_at": "2026-08-02T14:58:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -245,6 +245,10 @@
     {
       "date": "2026-08-01",
       "stars": 17440
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 17836
     }
   ]
 }

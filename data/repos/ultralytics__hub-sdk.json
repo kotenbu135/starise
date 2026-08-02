@@ -3,32 +3,32 @@
   "owner": "ultralytics",
   "name": "hub-sdk",
   "full_name": "ultralytics/hub-sdk",
-  "description": "Python SDK for Ultralytics HUB: authenticate and programmatically create, manage, upload, export, and deploy computer vision models, datasets, and projects.",
+  "description": "Retired Python SDK for the shut-down Ultralytics HUB API, kept for reference; build new integrations on the Ultralytics Platform REST API",
   "description_ja": "",
   "url": "https://github.com/ultralytics/hub-sdk",
-  "homepage_url": "https://pypi.org/project/hub-sdk/",
+  "homepage_url": "https://docs.ultralytics.com/platform/api",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
     "api-client",
     "computer-vision",
     "datasets",
+    "deprecated",
     "model-deployment",
     "model-export",
     "model-training",
     "models",
     "python",
     "python-sdk",
-    "ultralytics-hub",
-    "uploads"
+    "ultralytics-hub"
   ],
   "star_count": 90,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-27T14:34:41Z",
-  "updated_at": "2026-08-01T15:31:49Z",
-  "pushed_at": "2026-08-01T15:31:45Z",
+  "updated_at": "2026-08-02T19:02:06Z",
+  "pushed_at": "2026-08-02T19:02:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -53,6 +53,10 @@
     },
     {
       "date": "2026-08-01",
+      "stars": 90
+    },
+    {
+      "date": "2026-08-02",
       "stars": 90
     }
   ]

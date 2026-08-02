@@ -3,7 +3,7 @@
   "owner": "pierregode",
   "name": "ragnar",
   "full_name": "pierregode/ragnar",
-  "description": "Ragnar is a Powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT and is Father of Bjorn. It discovers network targets, open ports, exposed services, vulnerabilities.",
+  "description": "Ragnar is a full-stack network verification, troubleshooting, and monitoring suite for wired and Wi-Fi, running on a handheld pocket computer — Raspberry Pi Zero 2W and up across OSI L1–L7, as individual unit or in a mesh.",
   "description_ja": "",
   "url": "https://github.com/PierreGode/Ragnar",
   "homepage_url": "",
@@ -11,12 +11,12 @@
   "license": "NOASSERTION",
   "topics": [],
   "star_count": 785,
-  "fork_count": 65,
+  "fork_count": 64,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-01T03:12:25Z",
-  "updated_at": "2026-08-01T14:19:02Z",
-  "pushed_at": "2026-08-01T19:01:26Z",
+  "updated_at": "2026-08-02T19:44:23Z",
+  "pushed_at": "2026-08-02T10:10:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -205,6 +205,10 @@
     },
     {
       "date": "2026-08-01",
+      "stars": 785
+    },
+    {
+      "date": "2026-08-02",
       "stars": 785
     }
   ]

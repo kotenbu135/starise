@@ -1,0 +1,46 @@
+{
+  "repo_id": "R_kgDOTGVg7g",
+  "owner": "bagowix",
+  "name": "interlock",
+  "full_name": "bagowix/interlock",
+  "description": "Circuit breaker for Python: sync + async in one class, sliding-window rate, slow-call detection, Polly-style resilience pipeline, type-safe API",
+  "description_ja": "",
+  "url": "https://github.com/bagowix/interlock",
+  "homepage_url": "https://bagowix.github.io/interlock/",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "aiohttp",
+    "asyncio",
+    "bulkhead",
+    "circuit-breaker",
+    "circuit-breaker-pattern",
+    "distributed-systems",
+    "fastapi",
+    "fault-tolerance",
+    "httpx",
+    "httpx2",
+    "litestar",
+    "opentelemetry",
+    "python",
+    "requests",
+    "resilience",
+    "retry",
+    "slow-call-detection",
+    "tenacity"
+  ],
+  "star_count": 73,
+  "fork_count": 1,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-26T21:00:37Z",
+  "updated_at": "2026-08-02T19:09:44Z",
+  "pushed_at": "2026-08-02T18:59:41Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-02",
+      "stars": 73
+    }
+  ]
+}

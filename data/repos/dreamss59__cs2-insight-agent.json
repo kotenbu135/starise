@@ -3,20 +3,20 @@
   "owner": "dreamss59",
   "name": "cs2-insight-agent",
   "full_name": "dreamss59/cs2-insight-agent",
-  "description": "自动解析 Demo 录像，提取高光 / 下饭 / 梗死亡时刻，可调用 LLM 生成毒舌锐评与评分，并通过 OBS 全自动控制 CS2 回放录制成片，开箱即用。",
+  "description": "CS2 一站式创作套件：Demo 库与分析（高光/下饭/仿实战POV/2D 回放/热力图/饰品换肤），OBS 自动录制成片，合辑工作台 + LiteCut 多轨精剪，可选 LLM 毒舌锐评。0 注入、0 Hook、0 逆向游戏进程，本地回放低风险。",
   "description_ja": "",
   "url": "https://github.com/DrEAmSs59/CS2-insight-agent",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "NOASSERTION",
   "topics": [],
-  "star_count": 721,
-  "fork_count": 42,
+  "star_count": 725,
+  "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-14T14:58:43Z",
-  "updated_at": "2026-08-01T13:58:56Z",
-  "pushed_at": "2026-08-01T10:27:44Z",
+  "updated_at": "2026-08-02T17:53:05Z",
+  "pushed_at": "2026-08-02T14:13:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -186,6 +186,10 @@
     {
       "date": "2026-08-01",
       "stars": 721
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 725
     }
   ]
 }

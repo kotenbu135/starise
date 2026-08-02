@@ -3,10 +3,10 @@
   "owner": "bytedoger",
   "name": "awesome-openprice",
   "full_name": "bytedoger/awesome-openprice",
-  "description": "open price ,一个开源的收录全网卡网渠道各种AI订阅价格的项目。打破信息茧房，一站式获取各个渠道的 Claude、GPT、gemini 、cursor产品的最新价格，方便比价",
+  "description": "开源的 AI 订阅价格聚合与比价平台，收录 ChatGPT、Claude、Gemini、Grok、Cursor 等产品的官方订阅价格和卡网渠道报价，帮助用户快速查询并比较不同购买渠道。",
   "description_ja": "",
   "url": "https://github.com/bytedoger/awesome-OpenPrice",
-  "homepage_url": "https://openprice.cc",
+  "homepage_url": "https://www.openprice.cc",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
@@ -22,13 +22,13 @@
     "price-comparison",
     "sd2"
   ],
-  "star_count": 592,
-  "fork_count": 26,
+  "star_count": 596,
+  "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-16T06:28:46Z",
-  "updated_at": "2026-08-01T16:19:50Z",
-  "pushed_at": "2026-08-01T10:24:27Z",
+  "updated_at": "2026-08-02T16:05:54Z",
+  "pushed_at": "2026-08-02T16:05:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-08-01",
       "stars": 592
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 596
     }
   ]
 }

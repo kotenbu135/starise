@@ -3,8 +3,8 @@
   "owner": "platonai",
   "name": "browser4",
   "full_name": "platonai/browser4",
-  "description": "Browser4: a lightning-fast, coroutine-safe browser for your AI.",
-  "description_ja": "Browser4: AI 向けの超高速かつコルーチンセーフなブラウザ。",
+  "description": "Browser4: a fast, intelligent, scalable, multi-scenario agentic browser.",
+  "description_ja": "",
   "url": "https://github.com/platonai/Browser4",
   "homepage_url": "https://browser4.io",
   "language": "Kotlin",
@@ -17,13 +17,13 @@
     "browser-infra",
     "browser-use-agent"
   ],
-  "star_count": 1093,
+  "star_count": 1094,
   "fork_count": 145,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-03-12T12:00:26Z",
-  "updated_at": "2026-07-30T06:25:03Z",
-  "pushed_at": "2026-08-01T16:10:23Z",
+  "updated_at": "2026-08-02T17:15:57Z",
+  "pushed_at": "2026-08-02T18:53:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -349,6 +349,10 @@
     {
       "date": "2026-08-01",
       "stars": 1093
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 1094
     }
   ]
 }

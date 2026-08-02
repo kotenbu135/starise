@@ -6,11 +6,10 @@
   "description": "A Neovim plugin to browse and manage pull requests and issues across GitHub, GitLab, Bitbucket, and Jira without leaving your editor.",
   "description_ja": "",
   "url": "https://github.com/emrearmagan/atlas.nvim",
-  "homepage_url": "",
+  "homepage_url": "https://atlasnvim.dev",
   "language": "Lua",
   "license": "MIT",
   "topics": [
-    "atlassian",
     "bitbucket",
     "github",
     "gitlab",
@@ -19,16 +18,15 @@
     "neovim",
     "neovim-plugin",
     "nvim",
-    "nvim-plugin",
-    "vim"
+    "nvim-plugin"
   ],
-  "star_count": 163,
+  "star_count": 172,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-08T14:12:13Z",
-  "updated_at": "2026-08-01T19:28:25Z",
-  "pushed_at": "2026-08-01T19:59:05Z",
+  "updated_at": "2026-08-02T16:05:22Z",
+  "pushed_at": "2026-08-02T16:19:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -290,6 +288,10 @@
     {
       "date": "2026-08-01",
       "stars": 163
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 172
     }
   ]
 }

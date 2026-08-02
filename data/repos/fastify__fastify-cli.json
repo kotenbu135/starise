@@ -3,8 +3,8 @@
   "owner": "fastify",
   "name": "fastify-cli",
   "full_name": "fastify/fastify-cli",
-  "description": "Run a Fastify application with one command!",
-  "description_ja": "1つのコマンドでFastifyアプリケーションを実行する。",
+  "description": "Run a Fastify application with one command!fixed ",
+  "description_ja": "",
   "url": "https://github.com/fastify/fastify-cli",
   "homepage_url": "https://npmjs.com/package/fastify-cli",
   "language": "JavaScript",
@@ -12,16 +12,17 @@
   "topics": [
     "cli",
     "fastify",
+    "fastify-library",
     "fastify-tool",
     "scaffold",
     "tool"
   ],
-  "star_count": 729,
+  "star_count": 730,
   "fork_count": 175,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-11-30T23:13:19Z",
-  "updated_at": "2026-07-23T23:46:17Z",
+  "updated_at": "2026-08-02T09:10:02Z",
   "pushed_at": "2026-07-23T08:07:52Z",
   "deleted_at": "",
   "star_history": [
@@ -348,6 +349,10 @@
     {
       "date": "2026-08-01",
       "stars": 729
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 730
     }
   ]
 }

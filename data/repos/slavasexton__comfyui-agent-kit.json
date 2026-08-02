@@ -3,7 +3,7 @@
   "owner": "slavasexton",
   "name": "comfyui-agent-kit",
   "full_name": "slavasexton/comfyui-agent-kit",
-  "description": "One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code): drives a local ComfyUI end to end. 74 model prompt recipes, 578 templates, hardware-aware selection, auto-start, workflow building, multi-shot video, ControlNet, HDR, enhance/restore. By AI VFX NEWS.",
+  "description": "One ComfyUI skill for every AI coding agent (Claude Code, Codex, Gemini CLI, Qwen Code): drives a local ComfyUI end to end. 75 model prompt recipes, 583 templates, plus a standalone Seedance skill for ByteDance video models. Hardware-aware selection, workflow building, multi-shot video, ControlNet, HDR. By AI VFX NEWS.",
   "description_ja": "",
   "url": "https://github.com/SlavaSexton/ComfyUI-Agent-Kit",
   "homepage_url": "https://aivfxnews.com/",
@@ -25,13 +25,13 @@
     "stable-diffusion",
     "video-generation"
   ],
-  "star_count": 61,
+  "star_count": 62,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-20T04:54:03Z",
-  "updated_at": "2026-07-31T18:12:41Z",
-  "pushed_at": "2026-07-31T18:12:09Z",
+  "updated_at": "2026-08-02T18:17:08Z",
+  "pushed_at": "2026-08-02T18:16:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -81,6 +81,10 @@
     {
       "date": "2026-08-01",
       "stars": 61
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 62
     }
   ]
 }

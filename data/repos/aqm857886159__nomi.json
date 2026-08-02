@@ -3,24 +3,24 @@
   "owner": "aqm857886159",
   "name": "nomi",
   "full_name": "aqm857886159/nomi",
-  "description": "Open-source, local-first desktop app for AI video creation: write a script → generate images \u0026 video → edit on a timeline → export. Bring your own model \u0026 API key — everything runs on your machine. Built with Electron + React.",
+  "description": "Open-source AI video workbench. Bring any model or your local ComfyUI, and let Claude Code / Codex / Cursor direct it over MCP — storyboard, references, generation, editable first cut on a real timeline. Local-first: projects, prompts, and keys stay on your machine. No account, no telemetry.",
   "description_ja": "",
   "url": "https://github.com/aqm857886159/Nomi",
   "homepage_url": "https://nomiaqm.com",
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
-    "ai",
     "ai-agent",
     "ai-video",
     "ai-video-generator",
     "bring-your-own-key",
-    "content-creation",
+    "comfyui",
     "creative-tools",
     "desktop-app",
     "electron",
     "image-generation",
     "local-first",
+    "mcp",
     "offline",
     "react",
     "storyboard",
@@ -31,13 +31,13 @@
     "video-editing",
     "video-generation"
   ],
-  "star_count": 386,
-  "fork_count": 81,
+  "star_count": 389,
+  "fork_count": 83,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-04T13:38:29Z",
-  "updated_at": "2026-08-01T19:10:32Z",
-  "pushed_at": "2026-08-01T17:55:32Z",
+  "updated_at": "2026-08-02T15:48:43Z",
+  "pushed_at": "2026-08-02T15:48:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -223,6 +223,10 @@
     {
       "date": "2026-08-01",
       "stars": 386
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 389
     }
   ]
 }

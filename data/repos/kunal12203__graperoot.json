@@ -3,20 +3,29 @@
   "owner": "kunal12203",
   "name": "graperoot",
   "full_name": "kunal12203/graperoot",
-  "description": "",
+  "description": "Compounding Context for AI Coding Assistants — MCP graph engine for Claude Code, Cursor, Copilot, Gemini, OpenCode",
   "description_ja": "",
   "url": "https://github.com/kunal12203/GrapeRoot",
   "homepage_url": "https://graperoot.dev",
   "language": "Python",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 961,
-  "fork_count": 118,
+  "topics": [
+    "ai-coding",
+    "claude-code",
+    "context-engine",
+    "copilot",
+    "cursor",
+    "gemini",
+    "graperoot",
+    "mcp"
+  ],
+  "star_count": 977,
+  "fork_count": 120,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-21T17:06:14Z",
-  "updated_at": "2026-08-01T19:48:03Z",
-  "pushed_at": "2026-08-01T19:47:59Z",
+  "updated_at": "2026-08-02T20:17:41Z",
+  "pushed_at": "2026-08-02T20:17:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -342,6 +351,10 @@
     {
       "date": "2026-08-01",
       "stars": 961
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 977
     }
   ]
 }

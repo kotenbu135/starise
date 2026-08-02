@@ -1,0 +1,35 @@
+{
+  "repo_id": "R_kgDOTXZxjQ",
+  "owner": "paulneja",
+  "name": "linux-on-esp32-s3",
+  "full_name": "paulneja/linux-on-esp32-s3",
+  "description": "Real Linux 6.11 running natively on the ESP32-S3's Xtensa cores (not emulated), with working WiFi and the chip's hardware RSA accelerator exposed to the Linux Crypto API. One flashable image; 16MB flash / 8MB PSRAM; NOMMU; STA-only.",
+  "description_ja": "",
+  "url": "https://github.com/paulneja/Linux-on-esp32-S3",
+  "homepage_url": "",
+  "language": "C",
+  "license": "GPL-3.0",
+  "topics": [
+    "buildroot",
+    "crypto",
+    "esp32",
+    "esp32-s3",
+    "linux",
+    "nommu",
+    "xtensa"
+  ],
+  "star_count": 46,
+  "fork_count": 1,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-07-13T18:20:32Z",
+  "updated_at": "2026-08-02T09:30:11Z",
+  "pushed_at": "2026-07-31T14:20:24Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-02",
+      "stars": 46
+    }
+  ]
+}

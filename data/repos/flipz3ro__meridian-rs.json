@@ -3,20 +3,28 @@
   "owner": "flipz3ro",
   "name": "meridian-rs",
   "full_name": "flipz3ro/meridian-rs",
-  "description": "",
+  "description": "Autonomous Meteora DLMM liquidity-provider agent on Solana — single headless Rust binary, Telegram-controlled",
   "description_ja": "",
   "url": "https://github.com/FlipZ3ro/meridian-rs",
   "homepage_url": "",
   "language": "Rust",
-  "license": "",
-  "topics": [],
+  "license": "MIT",
+  "topics": [
+    "defi",
+    "dlmm",
+    "meteora",
+    "rust",
+    "solana",
+    "telegram-bot",
+    "trading-bot"
+  ],
   "star_count": 34,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-08T07:52:36Z",
-  "updated_at": "2026-07-29T07:44:41Z",
-  "pushed_at": "2026-07-06T18:26:31Z",
+  "updated_at": "2026-08-02T08:56:41Z",
+  "pushed_at": "2026-08-02T08:57:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -117,6 +125,10 @@
     },
     {
       "date": "2026-08-01",
+      "stars": 34
+    },
+    {
+      "date": "2026-08-02",
       "stars": 34
     }
   ]

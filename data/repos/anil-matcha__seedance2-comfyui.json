@@ -3,7 +3,7 @@
   "owner": "anil-matcha",
   "name": "seedance2-comfyui",
   "full_name": "anil-matcha/seedance2-comfyui",
-  "description": "ComfyUI custom nodes for Seedance 2.0 and Seedance 2 Mini — text-to-video, image-to-video, consistent character, and video extend via muapi.ai.",
+  "description": "Seedance 2.0, 2.5 \u0026 2 Mini ComfyUI: custom nodes and workflows for ByteDance video generation via MuAPI — text-to-video, image-to-video, Omni Reference, consistent characters, and video extend.",
   "description_ja": "",
   "url": "https://github.com/Anil-matcha/seedance2-comfyui",
   "homepage_url": "https://muapi.ai/playground/seedance-2.0-mini-image-to-video",
@@ -20,12 +20,12 @@
     "generative-ai",
     "image-to-video",
     "muapi",
-    "python",
     "seedance",
     "seedance-2-5",
+    "seedance-2-5-api",
+    "seedance-2-5-comfyui",
     "seedance-2-mini",
     "seedance2",
-    "sora-alternative",
     "text-to-video",
     "video-ai",
     "video-extend",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-16T10:34:16Z",
-  "updated_at": "2026-07-21T06:28:56Z",
-  "pushed_at": "2026-07-03T17:20:52Z",
+  "updated_at": "2026-08-02T00:09:41Z",
+  "pushed_at": "2026-08-02T00:09:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -282,6 +282,10 @@
     },
     {
       "date": "2026-08-01",
+      "stars": 37
+    },
+    {
+      "date": "2026-08-02",
       "stars": 37
     }
   ]

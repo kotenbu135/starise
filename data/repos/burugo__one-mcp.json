@@ -6,7 +6,7 @@
   "description": "A centralized reverse-proxy platform for MCP servers — manage, group, and export as Skills from a single endpoint.",
   "description_ja": "MCPサーバー向け集中型リバースプロキシプラットフォーム — 単一エンドポイントで管理・グループ化・Skillとしてエクスポート可能",
   "url": "https://github.com/burugo/one-mcp",
-  "homepage_url": "https://jieli.app",
+  "homepage_url": "",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -17,13 +17,13 @@
     "mcp-proxy",
     "modelcontextprotocol"
   ],
-  "star_count": 409,
+  "star_count": 408,
   "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-16T14:02:27Z",
-  "updated_at": "2026-08-01T07:36:49Z",
-  "pushed_at": "2026-05-26T01:34:35Z",
+  "updated_at": "2026-08-02T19:21:25Z",
+  "pushed_at": "2026-08-02T19:02:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -349,6 +349,10 @@
     {
       "date": "2026-08-01",
       "stars": 409
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 408
     }
   ]
 }

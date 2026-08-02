@@ -3,7 +3,7 @@
   "owner": "hez2010",
   "name": "hezium.memory",
   "full_name": "hez2010/hezium.memory",
-  "description": "Managed BigArray, BigMemory, and BigSpan types for .NET languages (C#, F#, etc.), supporting huge arrays with more than 2 billion elements and up to 128 TiB using GC-managed contiguous memory and nint indexing.",
+  "description": "Contiguous, garbage-collected managed BigArray, BigMemory, and BigSpan types for .NET languages (C#, F#, etc.), supporting huge arrays with more than 2 billion elements and up to 128 TiB using GC-managed contiguous memory and nint indexing.",
   "description_ja": "",
   "url": "https://github.com/hez2010/Hezium.Memory",
   "homepage_url": "",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-29T13:10:49Z",
-  "updated_at": "2026-07-31T15:12:28Z",
-  "pushed_at": "2026-07-31T15:06:45Z",
+  "updated_at": "2026-08-02T02:59:09Z",
+  "pushed_at": "2026-08-02T02:59:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     },
     {
       "date": "2026-08-01",
+      "stars": 46
+    },
+    {
+      "date": "2026-08-02",
       "stars": 46
     }
   ]
