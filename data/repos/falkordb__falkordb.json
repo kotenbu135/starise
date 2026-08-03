@@ -7,7 +7,7 @@
   "description_ja": "GraphBLAS をスパース隣接行列グラフ表現に採用した超高速グラフデータベース。LLM 向けの最高の Knowledge Graph（GraphRAG）の提供を目指しています。",
   "url": "https://github.com/FalkorDB/FalkorDB",
   "homepage_url": "https://www.falkordb.com/",
-  "language": "C",
+  "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
     "cloud-database",
@@ -20,13 +20,13 @@
     "knowledge-graph",
     "realtime-database"
   ],
-  "star_count": 4873,
-  "fork_count": 412,
+  "star_count": 5120,
+  "fork_count": 414,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-20T10:47:51Z",
-  "updated_at": "2026-08-02T19:44:45Z",
-  "pushed_at": "2026-08-02T18:12:14Z",
+  "updated_at": "2026-08-03T20:45:16Z",
+  "pushed_at": "2026-08-03T17:20:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -352,6 +352,10 @@
     {
       "date": "2026-08-02",
       "stars": 4873
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 5120
     }
   ]
 }

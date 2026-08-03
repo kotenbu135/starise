@@ -3,33 +3,33 @@
   "owner": "tzuhuantai",
   "name": "raspberrypi-webrtc",
   "full_name": "tzuhuantai/raspberrypi-webrtc",
-  "description": "Native WebRTC low-latency P2P video streaming on Raspberry Pi and NVIDIA Jetson with both hardware and software encoding support.",
-  "description_ja": "Raspberry PiとNVIDIA JetsonでハードウェアおよびソフトウェアエンコードをサポートするネイティブWebRTC低遅延P2Pビデオストリーミング",
+  "description": "Real-time WebRTC streaming for Raspberry Pi and NVIDIA Jetson with 100–200 ms glass-to-glass latency.",
+  "description_ja": "",
   "url": "https://github.com/TzuHuanTai/RaspberryPi-WebRTC",
   "homepage_url": "https://picamera.live",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [
+    "av1",
+    "camera",
+    "embedded-linux",
     "h264",
     "jetson",
     "low-latency",
     "nvidia",
-    "openh264",
     "p2p",
-    "peer-to-peer",
-    "raspberry-pi",
+    "raspberry-pi-camera",
+    "real-time-video",
     "v4l2",
-    "video",
-    "video-streaming",
     "webrtc"
   ],
-  "star_count": 978,
+  "star_count": 979,
   "fork_count": 59,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-05-09T06:06:35Z",
-  "updated_at": "2026-08-02T11:09:00Z",
-  "pushed_at": "2026-08-02T11:08:56Z",
+  "updated_at": "2026-08-03T13:34:28Z",
+  "pushed_at": "2026-08-03T08:00:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -359,6 +359,10 @@
     {
       "date": "2026-08-02",
       "stars": 978
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 979
     }
   ]
 }

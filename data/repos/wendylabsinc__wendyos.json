@@ -3,28 +3,33 @@
   "owner": "wendylabsinc",
   "name": "wendyos",
   "full_name": "wendylabsinc/wendyos",
-  "description": "A CLI and App Manager for WendyOS",
-  "description_ja": "WendyOS向けのCLIおよびアプリマネージャー",
+  "description": "Deploy containerized apps to NVIDIA Jetson and Raspberry Pi over a USB-C cable. Mobile-style development for edge devices.",
+  "description_ja": "",
   "url": "https://github.com/wendylabsinc/WendyOS",
   "homepage_url": "https://docs.wendy.dev/latest",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
+    "cli",
+    "developer-tools",
     "edge",
-    "edge-compuing",
+    "edge-computing",
+    "embedded-linux",
+    "golang",
     "iot",
     "jetson",
     "nvidia",
     "physical",
+    "raspberry-pi",
     "swift"
   ],
-  "star_count": 70,
+  "star_count": 71,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-04T09:45:50Z",
-  "updated_at": "2026-08-02T18:44:30Z",
-  "pushed_at": "2026-08-02T20:48:55Z",
+  "updated_at": "2026-08-03T19:04:15Z",
+  "pushed_at": "2026-08-03T19:29:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -350,6 +355,10 @@
     {
       "date": "2026-08-02",
       "stars": 70
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 71
     }
   ]
 }

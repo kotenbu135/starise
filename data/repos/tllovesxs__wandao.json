@@ -3,7 +3,7 @@
   "owner": "tllovesxs",
   "name": "wandao",
   "full_name": "tllovesxs/wandao",
-  "description": "万能导:多平台知识库 Markdown 全项目一键导入导出工具(导入导出效果最好),用自动化代替手动复制粘贴(有道云,飞书,语雀,阿里云知识库,知识星球,印象笔记,ima,onenote,为知笔记导出导入).(可保留目录结构,图片,项目格式) 关键词:语雀导出导入,飞书导出导入,ima导出导入.阿里云文档导出,印象笔记导出导入,有道云导出,知识星球导出,为知笔记导出,onenote导出,钉钉文档,息流导出,Obsidian 导出,wps导出,知乎导出",
+  "description": "万能导:多平台知识库 Markdown 全项目一键导入导出工具(导入导出效果最好),用自动化代替手动复制粘贴(有道云,飞书,语雀,阿里云知识库,知识星球,印象笔记,ima,onenote,为知笔记,csdn,知乎,微信公众号导出导入).(可保留目录结构,图片,项目格式) 关键词:微信公众号导出,语雀导出导入,飞书导出导入,ima导出导入.阿里云文档导出,印象笔记导出导入,有道云导出,知识星球导出,为知笔记导出,onenote导出,钉钉文档,息流导出,Obsidian 导出,wps导出,知乎导出",
   "description_ja": "",
   "url": "https://github.com/tllovesxs/wandao",
   "homepage_url": "https://linux.do/t/topic/2452125",
@@ -23,17 +23,18 @@
     "onenote",
     "python",
     "wps",
+    "wx",
     "yuque",
     "yvque",
     "zsxq"
   ],
-  "star_count": 700,
-  "fork_count": 79,
+  "star_count": 714,
+  "fork_count": 81,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-22T02:43:25Z",
-  "updated_at": "2026-08-02T18:21:54Z",
-  "pushed_at": "2026-08-02T18:21:45Z",
+  "updated_at": "2026-08-03T17:24:54Z",
+  "pushed_at": "2026-08-03T05:32:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +80,10 @@
     {
       "date": "2026-08-02",
       "stars": 700
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 714
     }
   ]
 }

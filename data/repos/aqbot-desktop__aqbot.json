@@ -3,7 +3,7 @@
   "owner": "aqbot-desktop",
   "name": "aqbot",
   "full_name": "aqbot-desktop/aqbot",
-  "description": "☁️ 轻量级高性能跨平台AI对话 + AI网关桌面客户端 | Lightweight, high-performance cross-platform AI dialogue + AI gateway desktop client",
+  "description": "☁️ 轻量级高性能跨平台AI对话 + AI Agent + AI网关桌面客户端 | Lightweight, high-performance cross-platform AI dialogue + AI Agent + AI gateway desktop client",
   "description_ja": "",
   "url": "https://github.com/AQBot-Desktop/AQBot",
   "homepage_url": "https://app.aqbot.top",
@@ -19,12 +19,12 @@
     "tauri",
     "tauri-app"
   ],
-  "star_count": 733,
+  "star_count": 737,
   "fork_count": 84,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-24T13:24:58Z",
-  "updated_at": "2026-08-02T17:16:57Z",
+  "updated_at": "2026-08-03T15:02:22Z",
   "pushed_at": "2026-07-30T10:25:41Z",
   "deleted_at": "",
   "star_history": [
@@ -315,6 +315,10 @@
     {
       "date": "2026-08-02",
       "stars": 733
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 737
     }
   ]
 }

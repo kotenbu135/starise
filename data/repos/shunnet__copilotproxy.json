@@ -3,7 +3,7 @@
   "owner": "shunnet",
   "name": "copilotproxy",
   "full_name": "shunnet/copilotproxy",
-  "description": "CopilotProxy — Ollama 兼容的多模型 AI 代理",
+  "description": "CopilotProxy — Ollama 兼容的多模型 AI 代理 （将不在更新，现在Claude Codex 可以完美解决问题了，后续 VS 应该会支持国内大模型）",
   "description_ja": "",
   "url": "https://github.com/shunnet/CopilotProxy",
   "homepage_url": "https://snet.cn",
@@ -22,7 +22,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-25T07:38:23Z",
-  "updated_at": "2026-08-02T10:05:03Z",
+  "updated_at": "2026-08-03T07:34:02Z",
   "pushed_at": "2026-08-02T10:14:13Z",
   "deleted_at": "",
   "star_history": [
@@ -80,6 +80,10 @@
     },
     {
       "date": "2026-08-02",
+      "stars": 36
+    },
+    {
+      "date": "2026-08-03",
       "stars": 36
     }
   ]

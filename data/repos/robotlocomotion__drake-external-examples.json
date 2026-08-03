@@ -7,7 +7,7 @@
   "description_ja": "Drakeをあなたのプロジェクトでどのように使用するかを示すサンプル集。",
   "url": "https://github.com/RobotLocomotion/drake-external-examples",
   "homepage_url": "https://drake.mit.edu/",
-  "language": "Python",
+  "language": "C++",
   "license": "MIT-0",
   "topics": [
     "drake",
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-05-02T00:45:35Z",
-  "updated_at": "2026-07-28T16:33:06Z",
-  "pushed_at": "2026-07-31T15:15:41Z",
+  "updated_at": "2026-08-03T18:38:48Z",
+  "pushed_at": "2026-08-03T18:37:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -345,6 +345,10 @@
     },
     {
       "date": "2026-08-02",
+      "stars": 124
+    },
+    {
+      "date": "2026-08-03",
       "stars": 124
     }
   ]

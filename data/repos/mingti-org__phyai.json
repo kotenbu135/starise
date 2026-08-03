@@ -6,16 +6,23 @@
   "description": "PhyAI is a high-performance framework for running Physical AI models (VLA, WAM, and beyond), supporting both cloud-based serving and on-device deployment.",
   "description_ja": "",
   "url": "https://github.com/mingti-org/phyai",
-  "homepage_url": "",
+  "homepage_url": "https://phyai.mintlify.app/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 69,
-  "fork_count": 18,
+  "topics": [
+    "ai",
+    "embodied-ai",
+    "llm",
+    "robotics",
+    "vla",
+    "wam"
+  ],
+  "star_count": 70,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-11T02:48:29Z",
-  "updated_at": "2026-08-02T16:24:00Z",
+  "updated_at": "2026-08-03T01:08:53Z",
   "pushed_at": "2026-08-02T16:23:18Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +53,10 @@
     {
       "date": "2026-08-02",
       "stars": 69
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 70
     }
   ]
 }

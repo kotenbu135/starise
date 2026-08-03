@@ -13,8 +13,8 @@
     "cockroachdb",
     "database",
     "javascript",
+    "loggy-core",
     "mariadb",
-    "mongo",
     "mongodb",
     "mongodb-orm",
     "mssql",
@@ -31,13 +31,13 @@
     "sqlserver",
     "typescript"
   ],
-  "star_count": 47427,
-  "fork_count": 2478,
+  "star_count": 47521,
+  "fork_count": 2514,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-06-20T13:33:47Z",
-  "updated_at": "2026-08-02T20:08:08Z",
-  "pushed_at": "2026-08-01T09:38:38Z",
+  "updated_at": "2026-08-03T20:53:25Z",
+  "pushed_at": "2026-08-03T20:55:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -375,6 +375,10 @@
     {
       "date": "2026-08-02",
       "stars": 47427
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 47521
     }
   ]
 }

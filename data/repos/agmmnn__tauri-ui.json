@@ -3,7 +3,7 @@
   "owner": "agmmnn",
   "name": "tauri-ui",
   "full_name": "agmmnn/tauri-ui",
-  "description": "🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries.",
+  "description": "🦀 Tauri + shadcn/ui app scaffolder with desktop-ready defaults and optional batteries. Supports: Vite, Next.js, Astro, TanStack Start.",
   "description_ja": "",
   "url": "https://github.com/agmmnn/tauri-ui",
   "homepage_url": "https://tauriui.vercel.app",
@@ -21,12 +21,12 @@
     "tauri",
     "tauri-app"
   ],
-  "star_count": 2120,
+  "star_count": 2121,
   "fork_count": 122,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-27T23:44:37Z",
-  "updated_at": "2026-08-01T16:51:22Z",
+  "updated_at": "2026-08-03T09:45:15Z",
   "pushed_at": "2026-08-01T16:51:18Z",
   "deleted_at": "",
   "star_history": [
@@ -357,6 +357,10 @@
     {
       "date": "2026-08-02",
       "stars": 2120
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 2121
     }
   ]
 }

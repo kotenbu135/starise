@@ -3,39 +3,39 @@
   "owner": "fajarhide",
   "name": "omni",
   "full_name": "fajarhide/omni",
-  "description": "Noise-canceling context and long-term memory for your AI agent. Stop paying Claude to read 10,000 lines of terminal noise like a headphone for AI agent",
+  "description": "Cuts terminal noise 89% before your AI coding agent reads it. Fewer tokens, nothing ever lost, and it never invents a result.",
   "description_ja": "",
   "url": "https://github.com/fajarhide/omni",
   "homepage_url": "https://omni.weekndlabs.com",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "agentic-ai",
     "ai-agents",
     "antigravity",
     "claude-code",
     "cli",
     "context-distillation",
+    "context-engineering",
     "cost-reduction",
-    "efficiency-tools",
+    "cursor",
+    "developer-tools",
     "homebrew",
     "hooks",
+    "llm",
     "mcp",
     "memory",
-    "memory-management",
-    "memory-system",
     "rust",
     "token-efficiency",
-    "token-optimization",
-    "token-reduction",
-    "token-savings"
+    "token-optimization"
   ],
-  "star_count": 317,
+  "star_count": 318,
   "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T03:38:04Z",
-  "updated_at": "2026-08-02T19:04:18Z",
-  "pushed_at": "2026-08-02T19:04:08Z",
+  "updated_at": "2026-08-03T15:51:48Z",
+  "pushed_at": "2026-08-03T15:46:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -121,6 +121,10 @@
     {
       "date": "2026-08-02",
       "stars": 317
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 318
     }
   ]
 }

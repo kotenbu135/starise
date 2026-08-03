@@ -3,7 +3,7 @@
   "owner": "smixs",
   "name": "skill-conductor",
   "full_name": "smixs/skill-conductor",
-  "description": "Architecture-first skill lifecycle for AI agents. 5 modes: CREATE → EVAL → EDIT → REVIEW → PACKAGE. Integrates Anthropic's eval engine (grader/comparator/analyzer agents, blind A/B, benchmarks) with architecture patterns, TDD baseline, and 5-axis scoring. Not just testing - full design-to-distribution.",
+  "description": "Architecture-first skill lifecycle for AI agents. BinEval binary scoring with threshold-blind, cross-family-calibrated judges, gated self-update loop, pressure testing, 10 authoring principles grounded in empirical research.",
   "description_ja": "",
   "url": "https://github.com/smixs/skill-conductor",
   "homepage_url": "https://t.me/aimastersme",
@@ -27,13 +27,13 @@
     "skills",
     "tdd"
   ],
-  "star_count": 122,
-  "fork_count": 15,
+  "star_count": 139,
+  "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T22:35:16Z",
-  "updated_at": "2026-08-02T20:40:20Z",
-  "pushed_at": "2026-07-21T02:45:14Z",
+  "updated_at": "2026-08-03T19:12:15Z",
+  "pushed_at": "2026-08-03T10:30:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -211,6 +211,10 @@
     {
       "date": "2026-08-02",
       "stars": 122
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 139
     }
   ]
 }

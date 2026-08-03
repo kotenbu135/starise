@@ -3,13 +3,14 @@
   "owner": "gaitco",
   "name": "rating",
   "full_name": "gaitco/rating",
-  "description": "rating system for laravel",
+  "description": "A complete rating and review system for Laravel — ratable models, averages and moderation.",
   "description_ja": "",
   "url": "https://github.com/gaitco/rating",
-  "homepage_url": "",
+  "homepage_url": "https://gaitco.com/open-source/rating",
   "language": "PHP",
   "license": "MIT",
   "topics": [
+    "gait",
     "laravel",
     "laravelrating",
     "rating",
@@ -20,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-10-24T14:28:48Z",
-  "updated_at": "2026-08-02T13:54:43Z",
-  "pushed_at": "2026-08-02T13:54:50Z",
+  "updated_at": "2026-08-02T21:04:12Z",
+  "pushed_at": "2026-08-02T21:04:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -270,6 +271,10 @@
     },
     {
       "date": "2026-08-02",
+      "stars": 86
+    },
+    {
+      "date": "2026-08-03",
       "stars": 86
     }
   ]

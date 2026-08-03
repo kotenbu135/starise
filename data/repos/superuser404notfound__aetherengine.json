@@ -3,14 +3,13 @@
   "owner": "superuser404notfound",
   "name": "aetherengine",
   "full_name": "superuser404notfound/aetherengine",
-  "description": "Media player engine for iOS, tvOS and macOS. FFmpeg demux, VideoToolbox / dav1d / libavcodec decode (HEVC, H.264, AV1, VP9, MPEG-2, VC-1), live TV with DVR timeshift and hardware deinterlace, Dolby Atmos passthrough, HDR10 / HDR10+ / Dolby Vision / HLG, text + bitmap + teletext subtitles, plus a lean audio-only path. You ship the UI.",
+  "description": "Media player engine for iOS, tvOS, macOS and visionOS. FFmpeg demux, VideoToolbox / dav1d / libavcodec decode (HEVC, H.264, AV1, VP9, MPEG-2, VC-1), live TV with DVR timeshift and hardware deinterlace, Dolby Atmos passthrough, HDR10 / HDR10+ / Dolby Vision / HLG, text + bitmap + teletext subtitles, plus a lean audio-only path. You ship the UI.",
   "description_ja": "",
   "url": "https://github.com/superuser404notfound/AetherEngine",
   "homepage_url": "https://aetherengine.superuser404.de",
   "language": "Swift",
   "license": "NOASSERTION",
   "topics": [
-    "apple",
     "av1",
     "avfoundation",
     "dolby-atmos",
@@ -29,15 +28,16 @@
     "swift",
     "tvos",
     "video-player",
-    "videotoolbox"
+    "videotoolbox",
+    "visionos"
   ],
-  "star_count": 138,
+  "star_count": 139,
   "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-12T04:13:55Z",
-  "updated_at": "2026-08-02T19:33:50Z",
-  "pushed_at": "2026-08-02T17:58:05Z",
+  "updated_at": "2026-08-03T18:09:08Z",
+  "pushed_at": "2026-08-03T18:08:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -239,6 +239,10 @@
     {
       "date": "2026-08-02",
       "stars": 138
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 139
     }
   ]
 }

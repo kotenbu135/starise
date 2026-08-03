@@ -6,7 +6,7 @@
   "description": "Nix expressions for VS Code Marketplace and Open VSX extensions [maintainers=@deemp, @ameertaweel]",
   "description_ja": "VS Code Marketplace および Open VSX 拡張機能向けの Nix 式",
   "url": "https://github.com/nix-community/nix-vscode-extensions",
-  "homepage_url": "https://github.com/nix-community/nix-vscode-marketplace",
+  "homepage_url": "https://github.com/nix-community/nix-vscode-extensions",
   "language": "Haskell",
   "license": "MIT",
   "topics": [
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-27T06:23:22Z",
-  "updated_at": "2026-08-02T03:34:09Z",
-  "pushed_at": "2026-08-02T03:33:56Z",
+  "updated_at": "2026-08-03T16:15:43Z",
+  "pushed_at": "2026-08-03T03:34:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -345,6 +345,10 @@
     },
     {
       "date": "2026-08-02",
+      "stars": 389
+    },
+    {
+      "date": "2026-08-03",
       "stars": 389
     }
   ]

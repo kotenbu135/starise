@@ -6,7 +6,7 @@
   "description": "Wifi \u0026 BLE driven passenger flow metering with cheap ESP32 boards",
   "description_ja": "安価なESP32ボードを使用したWifi・BLE駆動の通行量計測",
   "url": "https://github.com/cyberman54/ESP32-Paxcounter",
-  "homepage_url": "https://cyberman54.github.io/ESP32-Paxcounter/",
+  "homepage_url": "https://paxcounter.org/",
   "language": "C++",
   "license": "NOASSERTION",
   "topics": [
@@ -32,12 +32,12 @@
     "wifi"
   ],
   "star_count": 2071,
-  "fork_count": 453,
+  "fork_count": 454,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-03-18T18:40:47Z",
-  "updated_at": "2026-08-02T15:15:56Z",
-  "pushed_at": "2026-08-02T15:16:02Z",
+  "updated_at": "2026-08-03T18:06:37Z",
+  "pushed_at": "2026-08-03T18:51:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -362,6 +362,10 @@
     },
     {
       "date": "2026-08-02",
+      "stars": 2071
+    },
+    {
+      "date": "2026-08-03",
       "stars": 2071
     }
   ]

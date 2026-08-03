@@ -3,20 +3,31 @@
   "owner": "sanqi-cd",
   "name": "sanqi-skills",
   "full_name": "sanqi-cd/sanqi-skills",
-  "description": "AI 实用技能合集 | 持续更新各类 AI Skill",
+  "description": "Production-ready Agent Skills for Codex, Claude Code, OpenCode and OpenClaw | 小红书图文、学习路径、论文解读与 YouTube 播客笔记",
   "description_ja": "",
   "url": "https://github.com/sanqi-cd/Sanqi-Skills",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "learning-path",
+    "openclaw",
+    "opencode",
+    "prompt-engineering",
+    "xiaohongshu",
+    "youtube-transcript"
+  ],
   "star_count": 23,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-23T03:07:50Z",
-  "updated_at": "2026-07-25T08:56:28Z",
-  "pushed_at": "2026-06-09T14:44:00Z",
+  "updated_at": "2026-08-03T13:38:56Z",
+  "pushed_at": "2026-08-03T13:32:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -201,6 +212,10 @@
     },
     {
       "date": "2026-08-02",
+      "stars": 23
+    },
+    {
+      "date": "2026-08-03",
       "stars": 23
     }
   ]

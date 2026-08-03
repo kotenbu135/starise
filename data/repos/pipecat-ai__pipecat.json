@@ -3,8 +3,8 @@
   "owner": "pipecat-ai",
   "name": "pipecat",
   "full_name": "pipecat-ai/pipecat",
-  "description": "Open Source framework for voice and multimodal conversational AI",
-  "description_ja": "音声・マルチモーダル会話AIのオープンソースフレームワーク",
+  "description": "Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.",
+  "description_ja": "",
   "url": "https://github.com/pipecat-ai/pipecat",
   "homepage_url": "https://pipecat.ai",
   "language": "Python",
@@ -17,13 +17,13 @@
     "voice",
     "voice-assistant"
   ],
-  "star_count": 13860,
-  "fork_count": 2395,
+  "star_count": 13900,
+  "fork_count": 2410,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-27T12:59:00Z",
-  "updated_at": "2026-08-02T19:51:20Z",
-  "pushed_at": "2026-08-02T20:09:15Z",
+  "updated_at": "2026-08-03T21:44:01Z",
+  "pushed_at": "2026-08-03T21:41:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -353,6 +353,10 @@
     {
       "date": "2026-08-02",
       "stars": 13860
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 13900
     }
   ]
 }

@@ -3,29 +3,34 @@
   "owner": "bifrost0x",
   "name": "webssh",
   "full_name": "bifrost0x/webssh",
-  "description": "A modern, feature-rich web-based SSH terminal with SFTP file manager",
+  "description": "Security-focused, self-hosted SSH and SFTP workspace for homelabs and teams - multi-user, passkeys, OIDC, encrypted keys, backups, and offline-ready.",
   "description_ja": "",
   "url": "https://github.com/bifrost0x/webssh",
-  "homepage_url": "",
+  "homepage_url": "https://bifrost0x.github.io/webssh/",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "docker",
     "homelab",
+    "offline-first",
+    "openid-connect",
+    "passkeys",
+    "security",
     "self-hosted",
     "sftp",
     "ssh",
+    "tailscale",
     "terminal",
     "web-terminal",
     "webssh"
   ],
-  "star_count": 174,
+  "star_count": 175,
   "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-24T10:38:45Z",
-  "updated_at": "2026-08-02T16:50:47Z",
-  "pushed_at": "2026-08-02T14:50:33Z",
+  "updated_at": "2026-08-03T18:43:01Z",
+  "pushed_at": "2026-08-03T14:38:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -327,6 +332,10 @@
     {
       "date": "2026-08-02",
       "stars": 174
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 175
     }
   ]
 }

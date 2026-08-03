@@ -7,7 +7,7 @@
   "description_ja": "100% 無料のモダン JS SaaS ボイラープレート（React、NodeJS、Prisma）。認証（メール、Google、GitHub、Slack、MS）、メール送信、バックグラウンドジョブ、ランディングページ、決済（Stripe、Polar.sh）、Shadcn UI、S3 ファイルアップロードなどフル機能搭載。AGENTS.md、スキル、Claude Code プラグインで AI 対応済み。ワンコマンドデプロイ。Wasp フルスタックフレームワーク採用。",
   "url": "https://github.com/wasp-lang/open-saas",
   "homepage_url": "https://opensaas.sh",
-  "language": "TypeScript",
+  "language": "MDX",
   "license": "MIT",
   "topics": [
     "ai",
@@ -31,13 +31,13 @@
     "typesafe",
     "typescript"
   ],
-  "star_count": 15124,
+  "star_count": 15135,
   "fork_count": 1808,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-01T13:54:36Z",
-  "updated_at": "2026-08-02T20:18:13Z",
-  "pushed_at": "2026-07-31T07:44:16Z",
+  "updated_at": "2026-08-03T21:34:10Z",
+  "pushed_at": "2026-08-03T11:14:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -367,6 +367,10 @@
     {
       "date": "2026-08-02",
       "stars": 15124
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 15135
     }
   ]
 }

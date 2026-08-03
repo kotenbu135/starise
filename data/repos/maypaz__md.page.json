@@ -3,17 +3,21 @@
   "owner": "maypaz",
   "name": "md.page",
   "full_name": "maypaz/md.page",
-  "description": "Markdown in, beautiful page out. Turn any Markdown into a shareable web page — one API call, zero setup.",
+  "description": "Instantly turn Markdown into a shareable web page. Self-hostable open-source engine of md.page.",
   "description_ja": "",
   "url": "https://github.com/maypaz/md.page",
   "homepage_url": "https://md.page",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "ai-agents",
     "api",
     "cloudflare-workers",
+    "hono",
     "html",
     "markdown",
+    "mcp",
+    "self-hosted",
     "sharing"
   ],
   "star_count": 104,
@@ -21,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-27T10:38:26Z",
-  "updated_at": "2026-08-01T14:41:58Z",
-  "pushed_at": "2026-04-19T20:03:37Z",
+  "updated_at": "2026-08-03T13:47:43Z",
+  "pushed_at": "2026-08-03T13:43:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -299,6 +303,10 @@
     },
     {
       "date": "2026-08-02",
+      "stars": 104
+    },
+    {
+      "date": "2026-08-03",
       "stars": 104
     }
   ]

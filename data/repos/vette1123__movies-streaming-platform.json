@@ -3,7 +3,7 @@
   "owner": "vette1123",
   "name": "movies-streaming-platform",
   "full_name": "vette1123/movies-streaming-platform",
-  "description": "Reely — a fast, installable (PWA) movie \u0026 TV platform to discover, track \u0026 stream films and series. Deep live-applying filters, command-palette search, rich detail pages, watchlist \u0026 watch history — powered by TMDB + real IMDb ratings, on Next.js 16 + React 19, deployed on Cloudflare Workers via OpenNext.",
+  "description": "Reely — a fast, installable (PWA) movie \u0026 TV platform to discover, track \u0026 stream films and series. Deep live-applying filters, command-palette search, rich detail pages, watchlist \u0026 watch history — powered by TMDB, on Next.js 16 + React 19, shipped as a static export on Cloudflare Workers Static Assets.",
   "description_ja": "",
   "url": "https://github.com/Vette1123/movies-streaming-platform",
   "homepage_url": "https://www.reely.space",
@@ -15,7 +15,6 @@
     "framer-motion",
     "movies",
     "nextjs",
-    "opennext",
     "posthog",
     "progressive-web-app",
     "pwa",
@@ -25,19 +24,20 @@
     "react-query",
     "service-worker",
     "shadcn-ui",
+    "static-site",
     "streaming",
     "tailwindcss",
     "tmdb",
     "tv-shows",
     "typescript"
   ],
-  "star_count": 164,
+  "star_count": 163,
   "fork_count": 68,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-01T17:46:15Z",
-  "updated_at": "2026-08-02T17:30:40Z",
-  "pushed_at": "2026-08-01T08:11:47Z",
+  "updated_at": "2026-08-03T17:40:01Z",
+  "pushed_at": "2026-08-03T14:02:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -363,6 +363,10 @@
     {
       "date": "2026-08-02",
       "stars": 164
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 163
     }
   ]
 }

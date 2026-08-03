@@ -3,8 +3,8 @@
   "owner": "chatanywhere",
   "name": "gpt_api_free",
   "full_name": "chatanywhere/gpt_api_free",
-  "description": "Free ChatGPT\u0026DeepSeek API Key，免费ChatGPT\u0026DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。",
-  "description_ja": "無料の ChatGPT・DeepSeek API キー。DeepSeek API および GPT-4 API に無料接続可能。gpt・deepseek・claude・gemini・grok など主要な大規模モデルをサポート。",
+  "description": "免费大模型API，支持免费调用GPT、DeepSeek等主流模型，免费额度10000点，每日刷新！另付费价格最低官方1-2折！",
+  "description_ja": "",
   "url": "https://github.com/chatanywhere/GPT_API_free",
   "homepage_url": "https://api.chatanywhere.tech",
   "language": "",
@@ -16,14 +16,15 @@
     "deepseek",
     "gemini",
     "gpt",
-    "grok"
+    "grok",
+    "llm-agents"
   ],
-  "star_count": 39580,
-  "fork_count": 2676,
+  "star_count": 39639,
+  "fork_count": 2675,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-23T12:42:08Z",
-  "updated_at": "2026-08-02T18:50:29Z",
+  "updated_at": "2026-08-03T19:41:57Z",
   "pushed_at": "2026-07-28T19:03:18Z",
   "deleted_at": "",
   "star_history": [
@@ -354,6 +355,10 @@
     {
       "date": "2026-08-02",
       "stars": 39580
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 39639
     }
   ]
 }

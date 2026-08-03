@@ -3,7 +3,7 @@
   "owner": "pedrol2b",
   "name": "react-native-vision-camera-mlkit",
   "full_name": "pedrol2b/react-native-vision-camera-mlkit",
-  "description": "React Native Vision Camera plugin for Google ML Kit vision features — text recognition (OCR) and barcode scanning today, with more ML Kit features on the roadmap.",
+  "description": "React Native Vision Camera v5 (Nitro) plugin for Google ML Kit — text recognition (OCR) and barcode scanning today, each independently installable, with more ML Kit features on the roadmap.",
   "description_ja": "",
   "url": "https://github.com/pedrol2b/react-native-vision-camera-mlkit",
   "homepage_url": "https://www.npmjs.com/package/react-native-vision-camera-mlkit",
@@ -16,19 +16,19 @@
     "barcode-scanning",
     "camera",
     "computer-vision",
+    "config-plugin",
+    "expo",
     "frame-processor",
     "google-ml-kit",
     "image-processing",
     "ios",
     "machine-learning",
     "mlkit",
-    "native-module",
+    "nitro",
     "ocr",
     "react-native",
     "react-native-module",
-    "text-detection",
     "text-recognition",
-    "vision",
     "vision-camera"
   ],
   "star_count": 51,
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-15T20:51:32Z",
-  "updated_at": "2026-07-27T01:33:02Z",
-  "pushed_at": "2026-08-02T18:53:22Z",
+  "updated_at": "2026-08-02T22:57:17Z",
+  "pushed_at": "2026-08-02T22:52:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -362,6 +362,10 @@
     },
     {
       "date": "2026-08-02",
+      "stars": 51
+    },
+    {
+      "date": "2026-08-03",
       "stars": 51
     }
   ]

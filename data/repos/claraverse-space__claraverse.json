@@ -7,7 +7,7 @@
   "description_ja": "Claraverse は、ChatGPT・Claude・N8N・ImageGen を自前ホスト LLM・キー・コンピュートで置き換えるオープンソースのプライバシー重視エコシステム。デスクトップ・iOS・Android アプリ付き",
   "url": "https://github.com/claraverse-space/ClaraVerse",
   "homepage_url": "https://claraverse.space",
-  "language": "Go",
+  "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
     "hacktoberfest",
@@ -16,13 +16,13 @@
     "opensourcellms",
     "webui"
   ],
-  "star_count": 3838,
-  "fork_count": 426,
+  "star_count": 3846,
+  "fork_count": 429,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-10T17:37:36Z",
-  "updated_at": "2026-08-02T19:40:22Z",
-  "pushed_at": "2026-08-02T07:17:42Z",
+  "updated_at": "2026-08-03T20:24:35Z",
+  "pushed_at": "2026-08-03T16:56:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -352,6 +352,10 @@
     {
       "date": "2026-08-02",
       "stars": 3838
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 3846
     }
   ]
 }

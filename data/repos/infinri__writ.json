@@ -3,7 +3,7 @@
   "owner": "infinri",
   "name": "writ",
   "full_name": "infinri/writ",
-  "description": "Writ keeps AI coding on your rules. It feeds Claude Code the right coding standards for each task in under a millisecond, and it blocks risky code changes until a human approves the plan and the tests. Ships with 287 rules across security, architecture, and testing.",
+  "description": "A Claude Code plugin that blocks risky writes until a human approves the plan and the tests, then feeds the AI only the rules that fit the file it is touching. Ships with 287 rules across security, architecture, and testing.",
   "description_ja": "",
   "url": "https://github.com/infinri/Writ",
   "homepage_url": "https://infinri.github.io/Writ/docs/architecture/index.html",
@@ -13,31 +13,23 @@
     "agent-tools",
     "ai-agents",
     "ai-coding",
-    "bm25",
     "claude-code",
     "claude-plugin",
     "code-quality",
     "developer-tools",
-    "fastapi",
-    "hnswlib",
     "hybrid-search",
     "knowledge-graph",
     "llm-tools",
-    "neo4j",
-    "onnx",
     "python",
-    "rag",
-    "rule-enforcement",
-    "tantivy",
-    "vector-search"
+    "rule-enforcement"
   ],
-  "star_count": 164,
-  "fork_count": 12,
+  "star_count": 165,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T00:51:19Z",
-  "updated_at": "2026-08-01T23:48:46Z",
-  "pushed_at": "2026-08-01T21:25:21Z",
+  "updated_at": "2026-08-03T13:58:11Z",
+  "pushed_at": "2026-08-03T13:55:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -315,6 +307,10 @@
     {
       "date": "2026-08-02",
       "stars": 164
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 165
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "1bit-systems",
   "name": "1bit-systems",
   "full_name": "1bit-systems/1bit-systems",
-  "description": "Model-agnostic NPU+GPU+CPU inference engine for AMD Strix Halo. FastFlowLM reverse-engineered — 19 architectures, 46+ 1BP models, 6 backends. GGUF/ONNX/Q4NX/1BP. Zero Python. MIT.",
+  "description": "Model-agnostic NPU+GPU+CPU inference engine for AMD Strix Halo. FastFlowLM reverse-engineered — 19 architectures, 46+ 1BP models, 5 backends. GGUF/ONNX/Q4NX/1BP. Zero Python. MIT.",
   "description_ja": "",
   "url": "https://github.com/1bit-systems/1bit-systems",
   "homepage_url": "https://1bit.systems",
@@ -31,13 +31,13 @@
     "xdna-2",
     "zero-python"
   ],
-  "star_count": 14,
+  "star_count": 15,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-19T20:11:06Z",
-  "updated_at": "2026-08-02T16:20:57Z",
-  "pushed_at": "2026-08-02T19:22:49Z",
+  "updated_at": "2026-08-03T20:15:11Z",
+  "pushed_at": "2026-08-03T20:15:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -323,6 +323,10 @@
     {
       "date": "2026-08-02",
       "stars": 14
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 15
     }
   ]
 }

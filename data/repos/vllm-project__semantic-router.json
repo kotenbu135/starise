@@ -3,7 +3,7 @@
   "owner": "vllm-project",
   "name": "semantic-router",
   "full_name": "vllm-project/semantic-router",
-  "description": "Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference",
+  "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
   "description_ja": "",
   "url": "https://github.com/vllm-project/semantic-router",
   "homepage_url": "https://vllm-sr.ai",
@@ -29,13 +29,13 @@
     "semantic-router",
     "vllm"
   ],
-  "star_count": 5102,
-  "fork_count": 793,
+  "star_count": 5110,
+  "fork_count": 797,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-26T21:49:50Z",
-  "updated_at": "2026-08-02T13:06:32Z",
-  "pushed_at": "2026-08-02T11:18:35Z",
+  "updated_at": "2026-08-03T14:45:42Z",
+  "pushed_at": "2026-08-03T18:28:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -365,6 +365,10 @@
     {
       "date": "2026-08-02",
       "stars": 5102
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 5110
     }
   ]
 }
