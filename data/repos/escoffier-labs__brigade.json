@@ -3,7 +3,7 @@
   "owner": "escoffier-labs",
   "name": "brigade",
   "full_name": "escoffier-labs/brigade",
-  "description": "Your agents run loops. Brigade keeps the receipts. Local control plane: share MCP, tools, and memory across harnesses; prove with file receipts; improve only from real exit codes. No daemon, no lock-in.",
+  "description": "Agents claim work they did not do. Brigade makes them prove it: a check run through Brigade writes a file with the real exit code. A built-in code graph tells them who calls what and what a change breaks, before they edit. One catalog syncs MCP servers, tools, and skills across harnesses; memory rides a review gate. Local files, no daemon.",
   "description_ja": "",
   "url": "https://github.com/escoffier-labs/brigade",
   "homepage_url": "https://brigade.tools",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-13T21:55:58Z",
-  "updated_at": "2026-08-03T17:35:50Z",
-  "pushed_at": "2026-08-03T19:00:50Z",
+  "updated_at": "2026-08-04T16:40:05Z",
+  "pushed_at": "2026-08-04T16:39:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +134,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 65
+    },
+    {
+      "date": "2026-08-04",
       "stars": 65
     }
   ]

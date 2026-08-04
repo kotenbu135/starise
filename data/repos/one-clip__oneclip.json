@@ -3,8 +3,8 @@
   "owner": "one-clip",
   "name": "oneclip",
   "full_name": "one-clip/oneclip",
-  "description": "OneClip——A simple and professional native clipboard manager for macOS ｜简单专业的macOS原生剪贴板软件",
-  "description_ja": "OneClip — シンプルでプロフェッショナルな macOS ネイティブクリップボードマネージャー",
+  "description": "OneClip——A simple and professional native clipboard manager for macOS ｜简单专业的macOS原生剪贴板工具｜支持截图、OCR、翻译、拖拽容器",
+  "description_ja": "",
   "url": "https://github.com/One-Clip/OneClip",
   "homepage_url": "https://oneclip.cloud",
   "language": "Swift",
@@ -18,12 +18,12 @@
     "swift",
     "swiftui"
   ],
-  "star_count": 390,
-  "fork_count": 16,
+  "star_count": 406,
+  "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-06T11:52:02Z",
-  "updated_at": "2026-08-03T19:11:46Z",
+  "updated_at": "2026-08-04T17:19:52Z",
   "pushed_at": "2026-08-03T12:38:14Z",
   "deleted_at": "2026-06-11",
   "star_history": [
@@ -210,6 +210,10 @@
     {
       "date": "2026-08-03",
       "stars": 390
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 406
     }
   ]
 }

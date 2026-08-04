@@ -3,7 +3,7 @@
   "owner": "askimo-ai",
   "name": "askimo",
   "full_name": "askimo-ai/askimo",
-  "description": "AI Client for chat, RAG, plans, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM, Gemini, OpenRouter))",
+  "description": "AI Client for chat, RAG, plans, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM, Gemini, OpenRouter)",
   "description_ja": "",
   "url": "https://github.com/askimo-ai/askimo",
   "homepage_url": "https://askimo.chat",
@@ -22,22 +22,22 @@
     "gemini",
     "gemini-client",
     "grok",
-    "langchain4j",
     "llm",
     "local-llm",
     "modelcontextprotocol",
     "ollama-gui",
     "openai-gui",
+    "openrouter",
     "rag",
     "retrieval-augmented-generation"
   ],
-  "star_count": 285,
-  "fork_count": 56,
+  "star_count": 287,
+  "fork_count": 58,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-05T06:25:32Z",
-  "updated_at": "2026-08-03T20:22:02Z",
-  "pushed_at": "2026-08-03T20:20:07Z",
+  "updated_at": "2026-08-04T16:19:07Z",
+  "pushed_at": "2026-08-04T19:46:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -371,6 +371,10 @@
     {
       "date": "2026-08-03",
       "stars": 285
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 287
     }
   ]
 }

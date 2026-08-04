@@ -3,8 +3,8 @@
   "owner": "cvs-health",
   "name": "uqlm",
   "full_name": "cvs-health/uqlm",
-  "description": "UQLM: Uncertainty Quantification for Language Models, is a Python package for UQ-based LLM hallucination detection",
-  "description_ja": "UQLM: 言語モデルの不確実性定量化。UQ ベースの LLM ハルシネーション検出のための Python パッケージ",
+  "description": "[JMLR 2026] \"UQLM: A Python Package for Uncertainty Quantification in Large Language Models\"",
+  "description_ja": "",
   "url": "https://github.com/cvs-health/uqlm",
   "homepage_url": "https://cvs-health.github.io/uqlm/latest/index.html",
   "language": "Python",
@@ -30,7 +30,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-17T23:12:21Z",
-  "updated_at": "2026-08-03T13:26:44Z",
+  "updated_at": "2026-08-04T18:23:16Z",
   "pushed_at": "2026-08-03T16:34:45Z",
   "deleted_at": "",
   "star_history": [
@@ -364,6 +364,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 1189
+    },
+    {
+      "date": "2026-08-04",
       "stars": 1189
     }
   ]

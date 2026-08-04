@@ -3,19 +3,31 @@
   "owner": "tomleelive",
   "name": "openclaw-unity-plugin",
   "full_name": "tomleelive/openclaw-unity-plugin",
-  "description": "A plugin for Openclaw to control the Unity Editor.",
+  "description": "55 MCP tools to drive the Unity Editor from any MCP-compatible AI agent — scenes, GameObjects, prefabs, assets, tests, and builds. OpenClaw gateway included for remote and chat access.",
   "description_ja": "",
   "url": "https://github.com/TomLeeLive/openclaw-unity-plugin",
   "homepage_url": "",
   "language": "C#",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 105,
+  "topics": [
+    "ai-agent",
+    "editor-plugin",
+    "game-development",
+    "gamedev",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "openclaw",
+    "unity",
+    "unity-editor",
+    "unity3d"
+  ],
+  "star_count": 106,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-07T07:32:17Z",
-  "updated_at": "2026-07-14T02:27:31Z",
+  "updated_at": "2026-08-04T10:05:33Z",
   "pushed_at": "2026-07-08T11:24:36Z",
   "deleted_at": "",
   "star_history": [
@@ -322,6 +334,10 @@
     {
       "date": "2026-08-03",
       "stars": 105
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 106
     }
   ]
 }

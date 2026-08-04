@@ -6,7 +6,7 @@
   "description": "Publisher-aware full-text PDF fetcher — DOI in, PDF out via OA → publisher TDM APIs → your own institutional proxy. Download end of a paper pipeline; pair with paper-radar (discovery) and paper-review-and-digest (reading).",
   "description_ja": "",
   "url": "https://github.com/drpwchen/paper-fetch",
-  "homepage_url": "",
+  "homepage_url": "https://drpwchen.com/posts/paper-fetch/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -26,7 +26,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-10T07:57:31Z",
-  "updated_at": "2026-08-02T12:19:21Z",
+  "updated_at": "2026-08-04T00:29:02Z",
   "pushed_at": "2026-08-02T12:18:49Z",
   "deleted_at": "",
   "star_history": [
@@ -76,6 +76,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 56
+    },
+    {
+      "date": "2026-08-04",
       "stars": 56
     }
   ]

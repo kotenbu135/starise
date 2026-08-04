@@ -3,10 +3,10 @@
   "owner": "langgenius",
   "name": "mosoo-agent-driver",
   "full_name": "langgenius/mosoo-agent-driver",
-  "description": "Runtime-neutral driver for Claude Code, Codex, and ACP. Compatible with Claude Managed Agents (CMA) API.",
+  "description": "Runtime-neutral AI execution bridge for Claude Agent SDK, Codex app-server, and Agent Client Protocol (ACP).",
   "description_ja": "",
   "url": "https://github.com/langgenius/mosoo-agent-driver",
-  "homepage_url": "",
+  "homepage_url": "https://mosoo.ai",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
@@ -31,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-05T11:03:06Z",
-  "updated_at": "2026-08-03T07:30:00Z",
-  "pushed_at": "2026-08-03T07:28:50Z",
+  "updated_at": "2026-08-04T17:39:10Z",
+  "pushed_at": "2026-08-04T17:39:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -229,6 +229,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 66
+    },
+    {
+      "date": "2026-08-04",
       "stars": 66
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "outsquarecapital",
   "name": "pyochain",
   "full_name": "outsquarecapital/pyochain",
-  "description": "Iterator, Result and Option written in Rust, for Python",
+  "description": "Iterator, sorted containers, Result, Option, ABCs and more, written in Rust, for Python",
   "description_ja": "",
   "url": "https://github.com/OutSquareCapital/pyochain",
   "homepage_url": "https://outsquarecapital.github.io/pyochain/",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-01T23:10:12Z",
-  "updated_at": "2026-07-27T10:47:54Z",
-  "pushed_at": "2026-08-03T11:58:46Z",
+  "updated_at": "2026-08-04T12:33:15Z",
+  "pushed_at": "2026-08-04T21:11:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -302,6 +302,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 61
+    },
+    {
+      "date": "2026-08-04",
       "stars": 61
     }
   ]

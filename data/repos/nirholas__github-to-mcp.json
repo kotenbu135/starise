@@ -6,7 +6,7 @@
   "description": "Convert GitHub repositories to MCP servers automatically. Extract tools from OpenAPI, GraphQL \u0026 REST APIs for Claude Desktop, Cursor, Windsurf, Cline \u0026 VS Code. AI-powered code generation creates type-safe TypeScript/Python MCP servers. Zero config setup - just paste a repo URL. Built for AI assistants \u0026 LLM tool integration.",
   "description_ja": "",
   "url": "https://github.com/nirholas/github-to-mcp",
-  "homepage_url": "https://github-to-mcp.vercel.app",
+  "homepage_url": "https://nirholas.github.io/github-to-mcp/",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
@@ -32,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-17T16:52:20Z",
-  "updated_at": "2026-07-30T19:25:17Z",
-  "pushed_at": "2026-07-30T19:23:30Z",
+  "updated_at": "2026-08-04T06:49:23Z",
+  "pushed_at": "2026-08-04T01:40:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -142,6 +142,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 31
+    },
+    {
+      "date": "2026-08-04",
       "stars": 31
     }
   ]

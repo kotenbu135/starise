@@ -3,7 +3,7 @@
   "owner": "agent-threat-rule",
   "name": "agent-threat-rules",
   "full_name": "agent-threat-rule/agent-threat-rules",
-  "description": "Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. 768 rules across 10 categories; merged into Microsoft AGT, Cisco AI Defense, MISP, OWASP A-S-R-H, FINOS \u0026 SigmaHQ. MIT-licensed.",
+  "description": "Open detection-rule standard for AI agent security threats — like Sigma, but for AI agents. Executable rules across 10 categories; merged into Microsoft AGT, Cisco AI Defense, MISP, OWASP, FINOS \u0026 SigmaHQ. MIT-licensed.",
   "description_ja": "",
   "url": "https://github.com/Agent-Threat-Rule/agent-threat-rules",
   "homepage_url": "https://agentthreatrule.org",
@@ -22,13 +22,13 @@
     "sigma-rules",
     "threat-detection"
   ],
-  "star_count": 361,
-  "fork_count": 48,
+  "star_count": 362,
+  "fork_count": 47,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-09T07:48:38Z",
-  "updated_at": "2026-08-03T20:27:13Z",
-  "pushed_at": "2026-08-03T20:12:21Z",
+  "updated_at": "2026-08-04T18:50:01Z",
+  "pushed_at": "2026-08-04T20:46:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +130,10 @@
     {
       "date": "2026-08-03",
       "stars": 361
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 362
     }
   ]
 }

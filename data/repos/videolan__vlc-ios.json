@@ -7,7 +7,7 @@
   "description_ja": "iOS/iPadOSおよびtvOS向けVLC公式ミラー",
   "url": "https://github.com/videolan/vlc-ios",
   "homepage_url": "",
-  "language": "Swift",
+  "language": "Objective-C",
   "license": "NOASSERTION",
   "topics": [
     "objective-c",
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-02-04T14:44:05Z",
-  "updated_at": "2026-08-03T13:56:27Z",
-  "pushed_at": "2026-08-03T13:50:50Z",
+  "updated_at": "2026-08-04T16:25:33Z",
+  "pushed_at": "2026-08-04T16:25:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -353,6 +353,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 1282
+    },
+    {
+      "date": "2026-08-04",
       "stars": 1282
     }
   ]

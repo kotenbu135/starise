@@ -3,7 +3,7 @@
   "owner": "wh1isper",
   "name": "mcp-email-server",
   "full_name": "wh1isper/mcp-email-server",
-  "description": "IMAP and SMTP via MCP Server",
+  "description": "Full-featured, multi-account MCP email server for Windows, macOS, and Linux—read, search, organize, and send email via IMAP and SMTP.",
   "description_ja": "",
   "url": "https://github.com/Wh1isper/mcp-email-server",
   "homepage_url": "https://mcp-email-server.wh1isper.top",
@@ -11,16 +11,23 @@
   "license": "BSD-3-Clause",
   "topics": [
     "email",
+    "email-server",
+    "fastmcp",
+    "imap",
     "mcp",
-    "mcp-server"
+    "mcp-server",
+    "model-context-protocol",
+    "multi-account",
+    "python",
+    "smtp"
   ],
   "star_count": 299,
-  "fork_count": 115,
+  "fork_count": 114,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-24T12:46:46Z",
-  "updated_at": "2026-08-03T17:31:32Z",
-  "pushed_at": "2026-08-03T20:44:18Z",
+  "updated_at": "2026-08-04T17:59:21Z",
+  "pushed_at": "2026-08-04T07:39:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +44,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 299
+    },
+    {
+      "date": "2026-08-04",
       "stars": 299
     }
   ]

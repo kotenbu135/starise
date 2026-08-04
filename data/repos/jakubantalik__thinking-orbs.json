@@ -3,19 +3,26 @@
   "owner": "jakubantalik",
   "name": "thinking-orbs",
   "full_name": "jakubantalik/thinking-orbs",
-  "description": "Dotted thought-orb loading indicators for AI \u0026 agent UIs — six tuned states, two sizes, auto dark/light",
+  "description": "Dotted thought-orb loading indicators for AI \u0026 agent UIs, 9 tuned types, two sizes, auto dark/light",
   "description_ja": "",
   "url": "https://github.com/Jakubantalik/thinking-orbs",
-  "homepage_url": "",
+  "homepage_url": "orbs.jakubantalik.com",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 1360,
-  "fork_count": 104,
+  "topics": [
+    "ai",
+    "ai-agents",
+    "chat",
+    "loader",
+    "ui",
+    "ux"
+  ],
+  "star_count": 1476,
+  "fork_count": 113,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-21T07:01:53Z",
-  "updated_at": "2026-08-03T20:55:04Z",
+  "updated_at": "2026-08-04T21:28:12Z",
   "pushed_at": "2026-08-03T13:12:05Z",
   "deleted_at": "",
   "star_history": [
@@ -46,6 +53,10 @@
     {
       "date": "2026-08-03",
       "stars": 1360
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 1476
     }
   ]
 }

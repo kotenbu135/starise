@@ -7,25 +7,29 @@
   "description_ja": "",
   "url": "https://github.com/angristan/larafeed",
   "homepage_url": "",
-  "language": "Go",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "chatgpt",
+    "cloudflare",
+    "cloudflare-workers",
     "feed",
-    "inertia",
-    "laravel",
-    "laravel-actions",
+    "feed-reader",
     "mantine",
+    "passkeys",
     "react",
-    "rss"
+    "rss",
+    "rss-reader",
+    "tanstack-query",
+    "typescript",
+    "webauthn"
   ],
   "star_count": 63,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-14T11:15:13Z",
-  "updated_at": "2026-07-27T19:37:04Z",
-  "pushed_at": "2026-08-03T18:49:21Z",
+  "updated_at": "2026-08-04T19:52:56Z",
+  "pushed_at": "2026-08-04T19:52:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -154,6 +158,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 63
+    },
+    {
+      "date": "2026-08-04",
       "stars": 63
     }
   ]

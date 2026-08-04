@@ -3,10 +3,10 @@
   "owner": "proofofwork-agency",
   "name": "reporecall",
   "full_name": "proofofwork-agency/reporecall",
-  "description": "Local codebase memory, auto-generated wiki, and interactive architecture dashboard for Claude Code and MCP. AST indexing, call graphs, hybrid search, topology analysis. 0 tool calls, 3-8x fewer tokens, everything stays on your machine.",
+  "description": "Local-first, auto-injecting context + memory layer for Claude Code, Codex and MCP. Per-prompt hook injection, explicit freshness/Trust Contract, AST indexing, call graphs, hybrid search, wiki + architecture dashboard. Everything stays on your machine.",
   "description_ja": "",
   "url": "https://github.com/proofofwork-agency/reporecall",
-  "homepage_url": "",
+  "homepage_url": "https://proofofwork-agency.github.io/reporecall/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -31,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T22:39:45Z",
-  "updated_at": "2026-07-30T21:10:20Z",
-  "pushed_at": "2026-07-09T17:01:30Z",
+  "updated_at": "2026-08-04T19:17:32Z",
+  "pushed_at": "2026-08-04T19:13:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -285,6 +285,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 36
+    },
+    {
+      "date": "2026-08-04",
       "stars": 36
     }
   ]

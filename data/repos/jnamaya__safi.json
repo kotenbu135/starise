@@ -3,7 +3,7 @@
   "owner": "jnamaya",
   "name": "safi",
   "full_name": "jnamaya/safi",
-  "description": "SAFi is a runtime governance  for AI agents. Policy-enforced gates, per-turn audit trails, and longitudinal consistency memory. ",
+  "description": "SAFi is an open-source runtime governance engine for agentic AI that enforces your policies, governs agent actions, and records every decision for audit.",
   "description_ja": "",
   "url": "https://github.com/jnamaya/SAFi",
   "homepage_url": "https://selfalignmentframework.com/",
@@ -19,13 +19,13 @@
     "llm-alignment",
     "runtime"
   ],
-  "star_count": 50,
+  "star_count": 49,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-02T21:48:14Z",
-  "updated_at": "2026-08-03T17:38:33Z",
-  "pushed_at": "2026-08-03T17:38:28Z",
+  "updated_at": "2026-08-04T15:09:08Z",
+  "pushed_at": "2026-08-04T15:05:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -83,6 +83,10 @@
     {
       "date": "2026-08-03",
       "stars": 50
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 49
     }
   ]
 }

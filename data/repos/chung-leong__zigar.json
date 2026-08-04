@@ -3,7 +3,7 @@
   "owner": "chung-leong",
   "name": "zigar",
   "full_name": "chung-leong/zigar",
-  "description": "Toolkit enabling the use of Zig code in JavaScript projects",
+  "description": "Toolkit enabling the use of Zig code in JavaScript and PHP projects",
   "description_ja": "",
   "url": "https://github.com/chung-leong/zigar",
   "homepage_url": "https://zigar.net",
@@ -15,6 +15,9 @@
     "javascript",
     "nodejs",
     "nwjs",
+    "php",
+    "php8",
+    "phpextension",
     "rollup-plugin",
     "wasm",
     "webpack-plugin",
@@ -26,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-10T21:05:44Z",
-  "updated_at": "2026-08-02T16:55:26Z",
-  "pushed_at": "2026-08-02T15:23:38Z",
+  "updated_at": "2026-08-04T20:21:30Z",
+  "pushed_at": "2026-08-04T21:07:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -156,6 +159,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 417
+    },
+    {
+      "date": "2026-08-04",
       "stars": 417
     }
   ]

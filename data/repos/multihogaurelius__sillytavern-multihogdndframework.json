@@ -3,7 +3,7 @@
   "owner": "multihogaurelius",
   "name": "sillytavern-multihogdndframework",
   "full_name": "multihogaurelius/sillytavern-multihogdndframework",
-  "description": "Started off as a humble \"RPG State Tracker\" but has since expanded into a more ambitious game engine, simulation system, and modular RPG framework where you can basically make your own game. Mechanical integrity and simulation depth is key here. This isn't a narrative-first philosophy; it aims for relentless \"simulation autism.\"",
+  "description": "Started off as a humble \"RPG State Tracker\" but has since expanded into a more ambitious game engine, simulation system, and modular RPG platform where you can even make your own RPGs with their own systems and game logic. By default, ships with a \"hardcore\" setup that can best be described as simulation autism. Actions have consequences.",
   "description_ja": "",
   "url": "https://github.com/MultihogAurelius/SillyTavern-MultihogDnDFramework",
   "homepage_url": "",
@@ -23,13 +23,13 @@
     "tabletop-rpg",
     "tabletop-simulator"
   ],
-  "star_count": 61,
+  "star_count": 62,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-16T01:18:13Z",
-  "updated_at": "2026-08-03T19:10:27Z",
-  "pushed_at": "2026-08-03T18:35:31Z",
+  "updated_at": "2026-08-04T21:58:40Z",
+  "pushed_at": "2026-08-04T21:46:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -119,6 +119,10 @@
     {
       "date": "2026-08-03",
       "stars": 61
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 62
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "saaranshm",
   "name": "unsnooze",
   "full_name": "saaranshm/unsnooze",
-  "description": "Auto-resume Claude Code, Codex CLI, Grok, Qwen Code, Kimi CLI, OpenCode \u0026 Antigravity when the 5-hour/weekly usage limit resets — tmux, Zellij, VS Code \u0026 desktop apps",
+  "description": "Automatically resume Claude Code, Codex CLI, Grok, Qwen Code, Kimi CLI, OpenCode, and Antigravity sessions when 5-hour or weekly usage limits reset—across tmux, Zellij, VS Code, and desktop apps.",
   "description_ja": "",
   "url": "https://github.com/saaranshM/unsnooze",
-  "homepage_url": "https://unsnooze.combustortech.in",
+  "homepage_url": "https://unsnooze.dev",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "usage-limit",
     "zellij"
   ],
-  "star_count": 72,
+  "star_count": 73,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-10T11:27:52Z",
-  "updated_at": "2026-08-03T13:36:59Z",
-  "pushed_at": "2026-07-26T11:47:30Z",
+  "updated_at": "2026-08-04T10:30:14Z",
+  "pushed_at": "2026-08-04T10:28:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -87,6 +87,10 @@
     {
       "date": "2026-08-03",
       "stars": 72
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 73
     }
   ]
 }

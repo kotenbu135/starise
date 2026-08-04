@@ -3,20 +3,33 @@
   "owner": "kittors",
   "name": "clirelay",
   "full_name": "kittors/clirelay",
-  "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API",
+  "description": "Self-hosted AI gateway for coding CLIs — one OpenAI/Claude/Gemini/Codex-compatible endpoint, with a multi-tenant web console, request logs, and spend quotas.",
   "description_ja": "",
   "url": "https://github.com/kittors/CliRelay",
   "homepage_url": "",
   "language": "Go",
   "license": "MIT",
-  "topics": [],
-  "star_count": 880,
+  "topics": [
+    "ai-gateway",
+    "anthropic",
+    "api-gateway",
+    "claude-code",
+    "gemini-cli",
+    "go",
+    "llm",
+    "llm-proxy",
+    "multi-tenant",
+    "openai",
+    "openai-codex",
+    "self-hosted"
+  ],
+  "star_count": 881,
   "fork_count": 97,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-27T01:35:42Z",
-  "updated_at": "2026-08-03T19:21:23Z",
-  "pushed_at": "2026-08-03T13:01:43Z",
+  "updated_at": "2026-08-04T09:41:04Z",
+  "pushed_at": "2026-08-04T09:46:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -326,6 +339,10 @@
     {
       "date": "2026-08-03",
       "stars": 880
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 881
     }
   ]
 }

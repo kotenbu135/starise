@@ -3,7 +3,7 @@
   "owner": "wendylabsinc",
   "name": "wendyos",
   "full_name": "wendylabsinc/wendyos",
-  "description": "Deploy containerized apps to NVIDIA Jetson and Raspberry Pi over a USB-C cable. Mobile-style development for edge devices.",
+  "description": "Deploy AI apps to NVIDIA Jetson, Raspberry Pi, and Linux devices over USB-C—without SSH, monitors, or device-side internet.",
   "description_ja": "",
   "url": "https://github.com/wendylabsinc/WendyOS",
   "homepage_url": "https://docs.wendy.dev/latest",
@@ -28,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-04T09:45:50Z",
-  "updated_at": "2026-08-03T19:04:15Z",
-  "pushed_at": "2026-08-03T19:29:19Z",
+  "updated_at": "2026-08-04T22:26:38Z",
+  "pushed_at": "2026-08-04T22:26:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -358,6 +358,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 71
+    },
+    {
+      "date": "2026-08-04",
       "stars": 71
     }
   ]

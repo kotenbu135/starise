@@ -3,10 +3,10 @@
   "owner": "aklivity",
   "name": "zilla",
   "full_name": "aklivity/zilla",
-  "description": "🦎 A multi-protocol edge \u0026 service proxy. Seamlessly interface web apps, IoT clients, \u0026 microservices to Apache Kafka® via declaratively defined, stateless APIs.",
-  "description_ja": "🦎 マルチプロトコル対応のエッジ＆サービスプロキシ。宣言的に定義されたステートレスAPIを介して、Webアプリ・IoTクライアント・マイクロサービスをApache Kafka®へシームレスに接続",
+  "description": "🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP.",
+  "description_ja": "",
   "url": "https://github.com/aklivity/zilla",
-  "homepage_url": "https://docs.aklivity.io/zilla",
+  "homepage_url": "https://docs.aklivity.io/latest",
   "language": "Java",
   "license": "NOASSERTION",
   "topics": [
@@ -31,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-07T22:10:04Z",
-  "updated_at": "2026-08-03T16:30:51Z",
-  "pushed_at": "2026-08-03T20:31:23Z",
+  "updated_at": "2026-08-04T18:43:31Z",
+  "pushed_at": "2026-08-04T19:58:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -365,6 +365,10 @@
     },
     {
       "date": "2026-08-03",
+      "stars": 693
+    },
+    {
+      "date": "2026-08-04",
       "stars": 693
     }
   ]

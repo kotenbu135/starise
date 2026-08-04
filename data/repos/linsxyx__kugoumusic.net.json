@@ -3,19 +3,26 @@
   "owner": "linsxyx",
   "name": "kugoumusic.net",
   "full_name": "linsxyx/kugoumusic.net",
-  "description": "最好用最轻量的第三方酷狗概念版音乐播放器",
+  "description": "基于 .NET 10 与 Avalonia 打造的轻量级跨平台酷狗音乐客户端。",
   "description_ja": "",
   "url": "https://github.com/Linsxyx/KugouMusic.NET",
   "homepage_url": "",
   "language": "C#",
   "license": "MIT",
-  "topics": [],
-  "star_count": 590,
+  "topics": [
+    "avalonia",
+    "kugou",
+    "linux",
+    "macos",
+    "music-player",
+    "windows"
+  ],
+  "star_count": 600,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-21T11:28:01Z",
-  "updated_at": "2026-08-03T18:53:16Z",
+  "updated_at": "2026-08-04T15:34:18Z",
   "pushed_at": "2026-08-02T15:44:30Z",
   "deleted_at": "",
   "star_history": [
@@ -126,6 +133,10 @@
     {
       "date": "2026-08-03",
       "stars": 590
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 600
     }
   ]
 }

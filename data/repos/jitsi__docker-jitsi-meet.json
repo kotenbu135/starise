@@ -6,7 +6,7 @@
   "description": "Jitsi Meet on Docker",
   "description_ja": "Docker 上で動作する Jitsi Meet。",
   "url": "https://github.com/jitsi/docker-jitsi-meet",
-  "homepage_url": "https://hub.docker.com/u/jitsi/",
+  "homepage_url": "https://github.com/orgs/jitsi/packages?repo_name=docker-jitsi-meet",
   "language": "Lua",
   "license": "Apache-2.0",
   "topics": [
@@ -15,12 +15,12 @@
     "jitsi-meet",
     "video-conferencing"
   ],
-  "star_count": 3592,
+  "star_count": 3593,
   "fork_count": 1567,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-07-17T09:23:37Z",
-  "updated_at": "2026-08-03T07:57:17Z",
+  "updated_at": "2026-08-04T21:39:38Z",
   "pushed_at": "2026-08-03T07:56:15Z",
   "deleted_at": "",
   "star_history": [
@@ -351,6 +351,10 @@
     {
       "date": "2026-08-03",
       "stars": 3592
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 3593
     }
   ]
 }
