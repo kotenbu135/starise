@@ -3,20 +3,33 @@
   "owner": "embeddedkitorg",
   "name": "ek-omniprobe",
   "full_name": "embeddedkitorg/ek-omniprobe",
-  "description": "嵌入式开发三合一工具，固件烧录 rtt调试 串口终端",
+  "description": "面向嵌入式开发者的一体化桌面调试与分析工作台，集成固件烧录、Cortex-M 源码调试、RTT、串口/Modbus、蓝牙和日志分析。",
   "description_ja": "",
   "url": "https://github.com/EmbeddedKitOrg/EK-OmniProbe",
-  "homepage_url": "",
+  "homepage_url": "https://embeddedkitorg.github.io/EK-OmniProbe/",
   "language": "TypeScript",
   "license": "",
-  "topics": [],
-  "star_count": 67,
+  "topics": [
+    "bluetooth",
+    "cortex-m",
+    "debugger",
+    "embedded",
+    "firmware",
+    "modbus",
+    "probe-rs",
+    "react",
+    "rtt",
+    "rust",
+    "serial",
+    "tauri"
+  ],
+  "star_count": 71,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-21T15:32:27Z",
-  "updated_at": "2026-08-04T17:24:26Z",
-  "pushed_at": "2026-08-04T17:25:14Z",
+  "updated_at": "2026-08-08T16:21:52Z",
+  "pushed_at": "2026-08-08T16:25:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -278,6 +291,10 @@
     {
       "date": "2026-08-04",
       "stars": 67
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 71
     }
   ]
 }

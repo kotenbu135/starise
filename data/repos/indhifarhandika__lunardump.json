@@ -6,7 +6,7 @@
   "description": "A lightweight, zero-trust CLI tool built in Python to automate, encrypt, and stream database backups directly to multi-cloud storage.",
   "description_ja": "",
   "url": "https://github.com/indhifarhandika/LunarDump",
-  "homepage_url": "https://lunardump.readthedocs.io/",
+  "homepage_url": "https://lunardump.indhifarhandika.dev/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -20,12 +20,12 @@
     "postgresql",
     "python"
   ],
-  "star_count": 35,
+  "star_count": 38,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-29T03:20:05Z",
-  "updated_at": "2026-08-04T07:57:26Z",
+  "updated_at": "2026-08-06T08:47:13Z",
   "pushed_at": "2026-08-02T02:38:18Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +44,10 @@
     {
       "date": "2026-08-04",
       "stars": 35
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 38
     }
   ]
 }

@@ -10,31 +10,34 @@
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
-    "agent",
-    "anthropic",
+    "ai-agents",
     "bigquery",
+    "business-intelligence",
     "charts",
+    "clickhouse",
     "context-engineering",
+    "dashboard",
+    "databricks",
     "duckdb",
     "genbi",
+    "generative-ai",
     "llm",
-    "openai",
+    "mcp",
     "postgresql",
     "rag",
+    "semantic-layer",
+    "snowflake",
     "sql",
-    "sqlai",
-    "text-to-chart",
     "text-to-sql",
-    "text2sql",
-    "vertex"
+    "text2sql"
   ],
-  "star_count": 16811,
-  "fork_count": 1901,
+  "star_count": 17183,
+  "fork_count": 1946,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-13T06:18:20Z",
-  "updated_at": "2026-08-04T18:52:12Z",
-  "pushed_at": "2026-08-03T13:03:46Z",
+  "updated_at": "2026-08-08T09:32:48Z",
+  "pushed_at": "2026-08-07T11:26:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -372,6 +375,10 @@
     {
       "date": "2026-08-04",
       "stars": 16811
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 17183
     }
   ]
 }

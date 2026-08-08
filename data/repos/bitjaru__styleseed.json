@@ -3,7 +3,7 @@
   "owner": "bitjaru",
   "name": "styleseed",
   "full_name": "bitjaru/styleseed",
-  "description": "Open-source design-method engine for Claude Code, Codex \u0026 Cursor. Gives coding agents fixed design judgment—not one fixed aesthetic—then selects or derives the right grammar from references, locks project decisions, and verifies UI, carousels, decks \u0026 docs. 20 skills · MIT.",
+  "description": "Open-source design-method engine for Claude Code, Codex \u0026 Cursor. Fixed design judgment, multiple grammars, reference compilation, semantic palettes, and Studio workflows for verified UI, interaction, image/video jobs, carousels, decks \u0026 docs. 22 skills · MIT.",
   "description_ja": "",
   "url": "https://github.com/bitjaru/styleseed",
   "homepage_url": "https://styleseed-demo.vercel.app",
@@ -31,13 +31,13 @@
     "ui-design",
     "vibe-coding"
   ],
-  "star_count": 867,
-  "fork_count": 75,
+  "star_count": 875,
+  "fork_count": 77,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-07T02:32:20Z",
-  "updated_at": "2026-08-04T09:40:59Z",
-  "pushed_at": "2026-08-03T10:08:24Z",
+  "updated_at": "2026-08-08T15:17:56Z",
+  "pushed_at": "2026-08-06T04:55:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -371,6 +371,10 @@
     {
       "date": "2026-08-04",
       "stars": 867
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 875
     }
   ]
 }

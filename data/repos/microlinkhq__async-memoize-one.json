@@ -3,20 +3,31 @@
   "owner": "microlinkhq",
   "name": "async-memoize-one",
   "full_name": "microlinkhq/async-memoize-one",
-  "description": "memoize the last result, in async way.",
-  "description_ja": "最後の結果を非同期でメモ化する。",
+  "description": "Async memoize-one: cache only the last result of an async function for cheap repeats.",
+  "description_ja": "",
   "url": "https://github.com/microlinkhq/async-memoize-one",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/microlinkhq/async-memoize-one",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "async",
+    "cache",
+    "function",
+    "last",
+    "memoize",
+    "memoize-one",
+    "optimize",
+    "performance",
+    "promise",
+    "ttl"
+  ],
   "star_count": 28,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-12-02T08:57:34Z",
-  "updated_at": "2026-08-03T19:40:42Z",
-  "pushed_at": "2026-08-03T19:38:44Z",
+  "updated_at": "2026-08-05T20:32:18Z",
+  "pushed_at": "2026-08-05T20:31:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -349,6 +360,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 28
+    },
+    {
+      "date": "2026-08-08",
       "stars": 28
     }
   ]

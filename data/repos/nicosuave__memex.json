@@ -3,8 +3,8 @@
   "owner": "nicosuave",
   "name": "memex",
   "full_name": "nicosuave/memex",
-  "description": "Fast transcript search for humans \u0026 agents. Supports Claude Code, Codex CLI \u0026 OpenCode",
-  "description_ja": "人間とエージェント向けの高速トランスクリプト検索。Claude Code、Codex CLI、OpenCodeをサポート",
+  "description": "Fast transcript search for humans \u0026 agents for Claude Code, Codex, Pi, OpenCode, Github Copilot \u0026 Cursor",
+  "description_ja": "",
   "url": "https://github.com/nicosuave/memex",
   "homepage_url": "",
   "language": "Rust",
@@ -13,17 +13,18 @@
     "bm25",
     "claude-code",
     "codex-cli",
+    "herdr-plugin",
     "hybrid-search",
     "rag",
     "tantivy"
   ],
-  "star_count": 81,
+  "star_count": 89,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-01T20:32:00Z",
-  "updated_at": "2026-08-04T05:37:13Z",
-  "pushed_at": "2026-07-27T18:42:30Z",
+  "updated_at": "2026-08-08T14:08:51Z",
+  "pushed_at": "2026-08-05T22:19:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -361,6 +362,10 @@
     {
       "date": "2026-08-04",
       "stars": 81
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 89
     }
   ]
 }

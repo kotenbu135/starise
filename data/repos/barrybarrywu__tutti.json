@@ -3,7 +3,7 @@
   "owner": "barrybarrywu",
   "name": "tutti",
   "full_name": "barrybarrywu/tutti",
-  "description": "Aggregate audio output across multiple Mac speakers — one sound, every speaker.",
+  "description": "Multi-output audio and display control for Mac — one panel for every output, app, and screen.",
   "description_ja": "",
   "url": "https://github.com/BarryBarrywu/tutti",
   "homepage_url": "https://tutti.barrybarrywu.com",
@@ -14,6 +14,8 @@
     "audio-routing",
     "audio-utility",
     "bluetooth",
+    "brightness-control",
+    "display-control",
     "equalizer",
     "macos",
     "macos-app",
@@ -22,18 +24,17 @@
     "multi-room-audio",
     "now-playing",
     "per-app-volume",
-    "source-available",
     "stereo-split",
     "swift",
     "swiftui",
     "volume-control"
   ],
-  "star_count": 94,
+  "star_count": 95,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-23T07:52:04Z",
-  "updated_at": "2026-08-03T11:09:12Z",
+  "updated_at": "2026-08-07T15:50:04Z",
   "pushed_at": "2026-08-03T11:06:05Z",
   "deleted_at": "",
   "star_history": [
@@ -96,6 +97,10 @@
     {
       "date": "2026-08-04",
       "stars": 94
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 95
     }
   ]
 }

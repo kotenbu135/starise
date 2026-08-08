@@ -3,10 +3,10 @@
   "owner": "heymaikol",
   "name": "network-doctor",
   "full_name": "heymaikol/network-doctor",
-  "description": "Cross-platform network troubleshooting TUI that pinpoints DNS, TCP, TLS, HTTP, and proxy failures—and even suggests fixes.",
+  "description": "Cross-platform network troubleshooting TUI that pinpoints DNS, TCP, TLS, HTTP, and proxy failures, and it even suggests fixes.",
   "description_ja": "",
   "url": "https://github.com/heymaikol/network-doctor",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/heymaikol/network-doctor/releases/latest",
   "language": "Go",
   "license": "GPL-3.0",
   "topics": [
@@ -19,13 +19,13 @@
     "networking",
     "tui"
   ],
-  "star_count": 97,
+  "star_count": 142,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-28T04:11:17Z",
-  "updated_at": "2026-08-04T21:27:24Z",
-  "pushed_at": "2026-08-04T20:17:22Z",
+  "updated_at": "2026-08-08T19:57:25Z",
+  "pushed_at": "2026-08-08T19:21:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-08-04",
       "stars": 97
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 142
     }
   ]
 }

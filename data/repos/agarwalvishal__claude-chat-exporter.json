@@ -3,30 +3,38 @@
   "owner": "agarwalvishal",
   "name": "claude-chat-exporter",
   "full_name": "agarwalvishal/claude-chat-exporter",
-  "description": "Claude Chat Exporter is a JavaScript tool that allows you to export your conversations with Claude AI into a well-formatted Markdown file.",
+  "description": "One-click, privacy-first exporter for Claude.ai chats — clean Markdown with artifacts and attachments, ready for Obsidian and RAG.",
   "description_ja": "",
   "url": "https://github.com/agarwalvishal/claude-chat-exporter",
-  "homepage_url": "",
+  "homepage_url": "https://agarwalvishal.github.io/claude-chat-exporter/",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "ai-chat",
+    "anthropic",
+    "backup",
+    "bookmarklet",
     "chat",
-    "chatexporter",
+    "chat-exporter",
     "claude",
     "claude-ai",
+    "client-side",
     "conversation",
-    "conversational-ai",
     "export",
-    "html-to-markdown",
-    "markdown"
+    "knowledge-management",
+    "llm",
+    "markdown",
+    "obsidian",
+    "privacy",
+    "rag"
   ],
-  "star_count": 614,
-  "fork_count": 72,
+  "star_count": 618,
+  "fork_count": 73,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-10T17:45:18Z",
-  "updated_at": "2026-08-02T15:06:02Z",
-  "pushed_at": "2026-08-04T12:58:34Z",
+  "updated_at": "2026-08-08T12:37:54Z",
+  "pushed_at": "2026-08-08T12:37:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -140,6 +148,10 @@
     {
       "date": "2026-08-04",
       "stars": 614
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 618
     }
   ]
 }

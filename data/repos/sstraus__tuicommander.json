@@ -3,7 +3,7 @@
   "owner": "sstraus",
   "name": "tuicommander",
   "full_name": "sstraus/tuicommander",
-  "description": "Desktop terminal orchestrator for running dozens of AI coding agents in parallel. Tauri + SolidJS + Rust.",
+  "description": "The IDE that understands AI agents. Run parallel agents on isolated branches with full observability. Diffs, PRs, CI, usage dashboards — one workspace, zero context loss.",
   "description_ja": "",
   "url": "https://github.com/sstraus/tuicommander",
   "homepage_url": "https://tuicommander.com",
@@ -11,9 +11,11 @@
   "license": "Apache-2.0",
   "topics": [
     "ai-agents",
+    "ai-native",
     "claude-code",
     "developer-tools",
     "git-worktree",
+    "ide",
     "macos",
     "rust",
     "solidjs",
@@ -21,13 +23,13 @@
     "terminal",
     "xterm-js"
   ],
-  "star_count": 110,
+  "star_count": 112,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-17T14:12:03Z",
-  "updated_at": "2026-08-04T15:52:41Z",
-  "pushed_at": "2026-08-04T15:51:06Z",
+  "updated_at": "2026-08-07T14:21:50Z",
+  "pushed_at": "2026-08-06T15:25:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -345,6 +347,10 @@
     {
       "date": "2026-08-04",
       "stars": 110
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 112
     }
   ]
 }

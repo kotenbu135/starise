@@ -7,7 +7,7 @@
   "description_ja": "金融分野向けMCP。Tushare APIとBinance APIを統合し、Claude等の言語モデルに株式・ファンド・債券・マクロ経済指標・ステーブルコイン・仮想通貨などの多次元リアルタイム金融データへのアクセスを提供。財務データクエリ・金融ニュース・国家統計局データの照会機能も含みます。",
   "url": "https://github.com/guangxiangdebizi/FinanceMCP",
   "homepage_url": "https://finvestai.top/",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "binance",
@@ -20,13 +20,13 @@
     "stablecoin",
     "tushare"
   ],
-  "star_count": 640,
+  "star_count": 641,
   "fork_count": 118,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-10T01:55:53Z",
-  "updated_at": "2026-08-04T06:10:37Z",
-  "pushed_at": "2026-05-26T10:33:14Z",
+  "updated_at": "2026-08-06T08:02:54Z",
+  "pushed_at": "2026-08-06T08:01:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -364,6 +364,10 @@
     {
       "date": "2026-08-04",
       "stars": 640
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 641
     }
   ]
 }

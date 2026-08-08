@@ -3,7 +3,7 @@
   "owner": "baidu-maps",
   "name": "stability-analysis-agent",
   "full_name": "baidu-maps/stability-analysis-agent",
-  "description": "  AI Agent for app stability analysis — crash logs, ANR, OOM, freezes \u0026 more. Parses,   symbolizes (addr2line/atos), extracts code context, and generates root-cause fix   suggestions via LangGraph + RAG. iOS/Android/macOS/Linux/Windows. App 稳定性智能分析   Agent",
+  "description": "根据 Crash/ANR/OOM 等日志构建证据链，实现自动修复代码的Agent框架，并支持衔接自动测试验证、Bug管理平台 Agent framework that builds evidence chains from Crash/ANR/OOM logs, auto-fixes code, and plugs into test verification \u0026 bug trackers.",
   "description_ja": "",
   "url": "https://github.com/baidu-maps/stability-analysis-agent",
   "homepage_url": "",
@@ -31,13 +31,13 @@
     "stability-ai",
     "stability-analysis"
   ],
-  "star_count": 36,
+  "star_count": 37,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-14T06:21:45Z",
-  "updated_at": "2026-08-01T07:05:27Z",
-  "pushed_at": "2026-07-15T07:37:28Z",
+  "updated_at": "2026-08-06T06:39:50Z",
+  "pushed_at": "2026-08-06T06:38:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -127,6 +127,10 @@
     {
       "date": "2026-08-04",
       "stars": 36
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 37
     }
   ]
 }

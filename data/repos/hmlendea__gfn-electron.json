@@ -3,13 +3,14 @@
   "owner": "hmlendea",
   "name": "gfn-electron",
   "full_name": "hmlendea/gfn-electron",
-  "description": "Linux Desktop client for Nvidia's GeForce NOW game streaming service",
+  "description": "Linux Desktop client for Nvidia's GeForce NOW game streaming service.",
   "description_ja": "",
   "url": "https://github.com/hmlendea/gfn-electron",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "GPL-3.0",
   "topics": [
+    "cloud-gaming",
     "electron",
     "flatpak",
     "game-streaming",
@@ -19,13 +20,13 @@
     "nvidia",
     "snap"
   ],
-  "star_count": 626,
+  "star_count": 625,
   "fork_count": 80,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-08-19T09:17:10Z",
-  "updated_at": "2026-08-04T21:29:32Z",
-  "pushed_at": "2026-08-04T21:29:59Z",
+  "updated_at": "2026-08-08T17:39:35Z",
+  "pushed_at": "2026-08-07T18:08:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -163,6 +164,10 @@
     {
       "date": "2026-08-04",
       "stars": 626
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 625
     }
   ]
 }

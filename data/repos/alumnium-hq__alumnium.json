@@ -3,8 +3,8 @@
   "owner": "alumnium-hq",
   "name": "alumnium",
   "full_name": "alumnium-hq/alumnium",
-  "description": "End-to-end testing with AI",
-  "description_ja": "AI を活用したエンドツーエンドテスト",
+  "description": "End-to-End Testing with AI for Agents and Engineers",
+  "description_ja": "",
   "url": "https://github.com/alumnium-hq/alumnium",
   "homepage_url": "https://alumnium.ai",
   "language": "TypeScript",
@@ -20,15 +20,16 @@
     "selenium",
     "test-automation",
     "testing",
-    "typescript"
+    "typescript",
+    "webdriverio"
   ],
-  "star_count": 967,
-  "fork_count": 94,
+  "star_count": 988,
+  "fork_count": 95,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-28T14:53:36Z",
-  "updated_at": "2026-07-29T19:14:57Z",
-  "pushed_at": "2026-08-04T14:55:33Z",
+  "updated_at": "2026-08-08T12:34:31Z",
+  "pushed_at": "2026-08-08T09:08:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +367,10 @@
     {
       "date": "2026-08-04",
       "stars": 967
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 988
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "uphiago",
   "name": "recon-skills",
   "full_name": "uphiago/recon-skills",
-  "description": "An evolving recon \u0026 pentest skill pack. CORS, XSS, SQLi, SSRF, RCE, WordPress, MCP, cloud, subdomain takeover, and more. Field-tested. MIT. Full write-up at hiago.sh",
+  "description": "Recon \u0026 pentest skill pack. CORS, XSS, SQLi, SSRF, RCE, WordPress, MCP, cloud, subdomain takeover, and more. Field-tested. MIT. Full write-up at hiago.sh",
   "description_ja": "",
   "url": "https://github.com/uphiago/recon-skills",
   "homepage_url": "https://hiago.sh",
@@ -26,12 +26,12 @@
     "supabase",
     "wordpress-security"
   ],
-  "star_count": 1047,
-  "fork_count": 190,
+  "star_count": 1052,
+  "fork_count": 191,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-24T18:19:06Z",
-  "updated_at": "2026-08-04T07:08:06Z",
+  "updated_at": "2026-08-08T13:47:02Z",
   "pushed_at": "2026-07-31T17:23:28Z",
   "deleted_at": "",
   "star_history": [
@@ -134,6 +134,10 @@
     {
       "date": "2026-08-04",
       "stars": 1047
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1052
     }
   ]
 }

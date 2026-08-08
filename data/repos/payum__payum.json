@@ -6,7 +6,7 @@
   "description": "PHP Payment processing library. It offers everything you need to work with payments: Credit card \u0026 offsite purchasing, subscriptions, payouts etc.",
   "description_ja": "PHP決済処理ライブラリ。クレジットカード・オフサイト購入・サブスクリプション・ペイアウトなど、決済に必要なすべての機能を提供。",
   "url": "https://github.com/Payum/Payum",
-  "homepage_url": "https://payum.gitbook.io/payum",
+  "homepage_url": "https://docs.payum.dev",
   "language": "PHP",
   "license": "MIT",
   "topics": [
@@ -20,12 +20,12 @@
     "stripe"
   ],
   "star_count": 1925,
-  "fork_count": 346,
+  "fork_count": 345,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-11-23T10:06:16Z",
-  "updated_at": "2026-08-04T05:42:54Z",
-  "pushed_at": "2026-02-11T17:22:11Z",
+  "updated_at": "2026-08-08T09:58:53Z",
+  "pushed_at": "2026-08-08T09:58:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -362,6 +362,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 1925
+    },
+    {
+      "date": "2026-08-08",
       "stars": 1925
     }
   ]

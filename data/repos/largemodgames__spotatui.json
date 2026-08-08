@@ -12,6 +12,8 @@
   "topics": [
     "audio-visualization",
     "cli",
+    "lyrics",
+    "mpris",
     "multimedia",
     "music",
     "music-player",
@@ -19,6 +21,7 @@
     "radio",
     "ratatui",
     "rust",
+    "self-hosted",
     "spotify",
     "spotify-api",
     "spotify-tui",
@@ -28,13 +31,13 @@
     "tui",
     "youtube"
   ],
-  "star_count": 1145,
-  "fork_count": 228,
+  "star_count": 1166,
+  "fork_count": 236,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-10T16:10:29Z",
-  "updated_at": "2026-08-04T21:21:09Z",
-  "pushed_at": "2026-08-04T14:04:56Z",
+  "updated_at": "2026-08-08T14:29:52Z",
+  "pushed_at": "2026-08-08T14:29:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -372,6 +375,10 @@
     {
       "date": "2026-08-04",
       "stars": 1145
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1166
     }
   ]
 }

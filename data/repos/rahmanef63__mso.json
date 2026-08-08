@@ -3,10 +3,10 @@
   "owner": "rahmanef63",
   "name": "mso",
   "full_name": "rahmanef63/mso",
-  "description": "A browser-based graphical shell \u0026 control plane for a Linux server you own — terminal, files, metrics \u0026 AI in one mobile-first pane.",
+  "description": "Browser-based graphical shell and control plane for a Linux server you own — real terminal, file manager, live metrics and BYOK AI in one mobile-first workspace. Next.js 16 · React 19 · node-pty · Tailwind v4 · shadcn/ui. Public alpha, self-hosted.",
   "description_ja": "",
   "url": "https://github.com/rahmanef63/mso",
-  "homepage_url": "https://os.rahmanef.com",
+  "homepage_url": "https://mso.rahmanef.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -16,7 +16,6 @@
     "homelab",
     "mobile-first",
     "nextjs",
-    "playwright",
     "pty",
     "react",
     "self-hosted",
@@ -30,12 +29,12 @@
     "web-desktop",
     "web-terminal"
   ],
-  "star_count": 49,
+  "star_count": 54,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-29T17:44:06Z",
-  "updated_at": "2026-08-04T10:44:27Z",
+  "updated_at": "2026-08-08T06:41:41Z",
   "pushed_at": "2026-08-04T04:35:34Z",
   "deleted_at": "",
   "star_history": [
@@ -242,6 +241,10 @@
     {
       "date": "2026-08-04",
       "stars": 49
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 54
     }
   ]
 }

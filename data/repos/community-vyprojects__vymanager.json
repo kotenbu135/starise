@@ -3,7 +3,7 @@
   "owner": "community-vyprojects",
   "name": "vymanager",
   "full_name": "community-vyprojects/vymanager",
-  "description": "Centralized SDN controller to configure, deploy and monitor multi-site VyOS routers via a modern web interface",
+  "description": "Multi-tenant network management platform to configure, deploy, and monitor VyOS instances across multiple sites.",
   "description_ja": "",
   "url": "https://github.com/Community-VyProjects/VyManager",
   "homepage_url": "https://discord.gg/k9SSkK7wPQ",
@@ -11,28 +11,32 @@
   "license": "GPL-3.0",
   "topics": [
     "central-management",
+    "dashboard",
     "deployment",
+    "devops",
+    "docker",
+    "fastapi",
     "firewall",
+    "graphql",
     "gui",
     "monitoring",
     "network-automation",
     "network-controller",
+    "network-management",
     "network-orchestration",
+    "nextjs",
     "routing",
-    "sdn",
-    "site-manager",
-    "vyatta",
     "vyos",
     "vyos-router",
     "web-interface"
   ],
-  "star_count": 402,
+  "star_count": 404,
   "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-19T11:27:56Z",
-  "updated_at": "2026-08-03T03:29:29Z",
-  "pushed_at": "2026-07-25T23:53:35Z",
+  "updated_at": "2026-08-07T03:49:14Z",
+  "pushed_at": "2026-08-06T17:59:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -226,6 +230,10 @@
     {
       "date": "2026-08-04",
       "stars": 402
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 404
     }
   ]
 }

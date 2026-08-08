@@ -3,32 +3,40 @@
   "owner": "luqp2",
   "name": "image-metahub",
   "full_name": "luqp2/image-metahub",
-  "description": "A desktop application for browsing, searching, and organizing AI-generated images locally. Designed for performance with large collections, focusing on powerful metadata filtering and complete privacy.",
+  "description": "A local-first workspace that keeps your generated media connected to the prompts, models and workflows that created them. Search, compare and send anything straight back into ComfyUI — nothing leaves your machine.",
   "description_ja": "",
   "url": "https://github.com/LuqP2/Image-MetaHub",
   "homepage_url": "https://imagemetahub.com",
   "language": "TypeScript",
   "license": "MPL-2.0",
   "topics": [
+    "ai-art",
     "ai-tools",
     "automatic1111",
     "comfyui",
     "electron",
+    "flux",
+    "generative-ai",
     "image-browser",
-    "image-classification",
+    "image-metadata",
     "invokeai",
+    "local-first",
+    "lora",
     "metadata",
+    "png-metadata",
     "react",
+    "sdxl",
     "stable-diffusion",
-    "typescript"
+    "typescript",
+    "z-image-turbo"
   ],
-  "star_count": 309,
+  "star_count": 310,
   "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-16T23:06:49Z",
-  "updated_at": "2026-08-03T04:59:54Z",
-  "pushed_at": "2026-08-04T20:26:58Z",
+  "updated_at": "2026-08-08T18:31:14Z",
+  "pushed_at": "2026-08-08T18:34:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -190,6 +198,10 @@
     {
       "date": "2026-08-04",
       "stars": 309
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 310
     }
   ]
 }

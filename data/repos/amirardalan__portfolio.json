@@ -3,8 +3,8 @@
   "owner": "amirardalan",
   "name": "portfolio",
   "full_name": "amirardalan/portfolio",
-  "description": "A Markdown blog and CMS written in TypeScript using Next.js App Router. Publish and edit blog posts without a build using On-demand Revalidation.",
-  "description_ja": "Next.js App Routerを使用してTypeScriptで書かれたMarkdownブログ＆CMS。On-demand Revalidationによりビルドなしで投稿の公開・編集が可能。",
+  "description": "A design-engineering portfolio and Markdown publishing system built with TypeScript and Next.js App Router, featuring a custom CMS and on-demand revalidation.",
+  "description_ja": "",
   "url": "https://github.com/amirardalan/portfolio",
   "homepage_url": "https://amir.sh",
   "language": "TypeScript",
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-29T06:37:15Z",
-  "updated_at": "2026-08-01T02:15:09Z",
-  "pushed_at": "2026-08-01T02:15:04Z",
+  "updated_at": "2026-08-08T03:57:47Z",
+  "pushed_at": "2026-08-08T03:56:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -361,6 +361,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 65
+    },
+    {
+      "date": "2026-08-08",
       "stars": 65
     }
   ]

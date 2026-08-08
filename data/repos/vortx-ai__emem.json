@@ -3,25 +3,31 @@
   "owner": "vortx-ai",
   "name": "emem",
   "full_name": "vortx-ai/emem",
-  "description": "The external memory of our physical world a.k.a. Long-horizon cite-able memory for multi-agent systems.",
+  "description": "emem converts physical world observations to a signed memory token: it survives compaction, handoffs, and model swaps, and verifies offline.",
   "description_ja": "",
   "url": "https://github.com/Vortx-AI/emem",
   "homepage_url": "https://emem.dev/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "agent-memory",
     "ai-agents",
-    "artificial-intelligence",
+    "earth-observation",
     "ed25519",
     "long-context",
     "long-running-agents",
-    "long-running-tasks",
     "long-term-memory",
-    "machine-learning",
     "mcp",
+    "mcp-server",
     "memory",
     "model-context-protocol",
-    "world-db",
+    "model-context-protocol-server",
+    "rust",
+    "space",
+    "token",
+    "tokenizer",
+    "vision-ai",
+    "vision-framework",
     "world-models"
   ],
   "star_count": 52,
@@ -29,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-24T20:31:22Z",
-  "updated_at": "2026-08-04T17:30:22Z",
-  "pushed_at": "2026-08-04T17:28:37Z",
+  "updated_at": "2026-08-08T08:06:04Z",
+  "pushed_at": "2026-08-08T08:06:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -271,6 +277,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 52
+    },
+    {
+      "date": "2026-08-08",
       "stars": 52
     }
   ]

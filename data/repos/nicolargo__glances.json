@@ -3,8 +3,8 @@
   "owner": "nicolargo",
   "name": "glances",
   "full_name": "nicolargo/glances",
-  "description": "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.",
-  "description_ja": "システムをひと目で把握。GNU/Linux、BSD、Mac OS、Windows向けのtop/htop代替ツール",
+  "description": "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.",
+  "description_ja": "",
   "url": "https://github.com/nicolargo/glances",
   "homepage_url": "http://nicolargo.github.io/glances/",
   "language": "Python",
@@ -19,13 +19,13 @@
     "terminal",
     "web"
   ],
-  "star_count": 33252,
-  "fork_count": 1776,
+  "star_count": 33270,
+  "fork_count": 1781,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-12-04T08:49:15Z",
-  "updated_at": "2026-08-04T19:41:20Z",
-  "pushed_at": "2026-08-04T08:55:26Z",
+  "updated_at": "2026-08-08T12:16:03Z",
+  "pushed_at": "2026-08-08T08:18:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -363,6 +363,10 @@
     {
       "date": "2026-08-04",
       "stars": 33252
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 33270
     }
   ]
 }

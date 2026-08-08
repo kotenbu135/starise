@@ -3,7 +3,7 @@
   "owner": "robinrodricks",
   "name": "fluentstorage",
   "full_name": "robinrodricks/fluentstorage",
-  "description": "A polycloud .NET cloud storage abstraction layer. Provides a single unified polycloud API across 15+ clouds for Object manipulation, File uploads/downloads, File streaming/seeking, Object metadata, Versioning, Tags, Storage tier/class, Presigned URLs, Directory manipulation and more.",
+  "description": ".NET polycloud storage framework which provides a unified polycloud API across 15+ clouds for Object manipulation, File uploads/downloads, File streaming/seeking, Directory upload/download, Object metadata, Versioning, Tags, Storage tier/class, Presigned URLs and more.",
   "description_ja": "",
   "url": "https://github.com/robinrodricks/FluentStorage",
   "homepage_url": "",
@@ -33,7 +33,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-18T08:04:41Z",
-  "updated_at": "2026-07-23T19:04:14Z",
+  "updated_at": "2026-08-05T07:59:54Z",
   "pushed_at": "2026-07-23T19:04:10Z",
   "deleted_at": "",
   "star_history": [
@@ -371,6 +371,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 454
+    },
+    {
+      "date": "2026-08-08",
       "stars": 454
     }
   ]

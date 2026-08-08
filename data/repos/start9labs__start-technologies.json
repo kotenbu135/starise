@@ -3,28 +3,29 @@
   "owner": "start9labs",
   "name": "start-technologies",
   "full_name": "start9labs/start-technologies",
-  "description": "A graphical server OS optimized for self-hosting",
+  "description": "Monorepo for StartOS, StartWRT, StartTunnel, start-sdk, start-docs, start-cli, start-registry, patch-db, and various shared libraries",
   "description_ja": "",
   "url": "https://github.com/Start9Labs/start-technologies",
   "homepage_url": "https://start9.com",
   "language": "Rust",
   "license": "MIT",
   "topics": [
-    "bitcoin",
-    "bitcoin-node",
-    "lightning-node",
+    "open-source",
     "p2p",
     "personal-server",
-    "privacy-enhancing-technologies",
-    "self-hosting"
+    "privacy",
+    "router-os",
+    "self-hosting",
+    "server-os",
+    "vpn"
   ],
-  "star_count": 1971,
-  "fork_count": 192,
+  "star_count": 1974,
+  "fork_count": 193,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-13T23:08:38Z",
-  "updated_at": "2026-08-04T18:15:38Z",
-  "pushed_at": "2026-08-04T19:25:10Z",
+  "updated_at": "2026-08-07T23:28:21Z",
+  "pushed_at": "2026-08-07T23:42:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -246,6 +247,10 @@
     {
       "date": "2026-08-04",
       "stars": 1971
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1974
     }
   ]
 }

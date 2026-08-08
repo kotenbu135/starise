@@ -3,20 +3,20 @@
   "owner": "flowing-water1",
   "name": "missions",
   "full_name": "flowing-water1/missions",
-  "description": "把一个需求扔给 agent，它会自己拆成 CSV、按四状态闭环跑、跑完再 sub-agent review，发现差距就追加 follow-up，最后整批闭环再交还给你。配合 codex 的 `/goal` 用，断联不停、可 resume。",
+  "description": "Mission skills for approved specs, resumable CSV execution, evidence-led review, and human handoff.",
   "description_ja": "",
   "url": "https://github.com/flowing-water1/Missions",
   "homepage_url": "",
   "language": "Python",
-  "license": "",
+  "license": "MIT",
   "topics": [],
-  "star_count": 58,
+  "star_count": 59,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-22T08:31:42Z",
-  "updated_at": "2026-07-29T11:16:31Z",
-  "pushed_at": "2026-07-09T06:16:45Z",
+  "updated_at": "2026-08-07T14:45:51Z",
+  "pushed_at": "2026-08-07T09:21:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -194,6 +194,10 @@
     {
       "date": "2026-08-04",
       "stars": 58
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 59
     }
   ]
 }

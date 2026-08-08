@@ -3,7 +3,7 @@
   "owner": "zhihui-hu",
   "name": "one-mail",
   "full_name": "zhihui-hu/one-mail",
-  "description": "OneMail 是一个本地优先的桌面邮件客户端，使用 Electron + React + TypeScript 构建。它通过 IMAP 同步邮件到本地 SQLite，支持多邮箱聚合、邮件筛选、正文安全预览、附件下载和 SQL 备份导入导出。",
+  "description": "OneMail 是一个本地优先的桌面邮件客户端，使用Tauri + React + TypeScript 构建。它通过 IMAP 同步邮件到本地 SQLite，支持多邮箱聚合、邮件筛选、正文安全预览、附件下载和 SQL 备份导入导出。",
   "description_ja": "",
   "url": "https://github.com/zhihui-hu/one-mail",
   "homepage_url": "https://zhihui-hu.github.io/one-mail/",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-12T10:27:02Z",
-  "updated_at": "2026-08-04T15:46:45Z",
-  "pushed_at": "2026-08-04T15:44:37Z",
+  "updated_at": "2026-08-06T14:12:05Z",
+  "pushed_at": "2026-08-06T14:09:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -181,6 +181,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 40
+    },
+    {
+      "date": "2026-08-08",
       "stars": 40
     }
   ]

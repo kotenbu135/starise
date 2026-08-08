@@ -10,29 +10,34 @@
   "language": "Swift",
   "license": "GPL-3.0",
   "topics": [
-    "7zip",
+    "7z",
+    "appkit",
     "archive",
-    "archive-manager",
-    "lha",
-    "lz4",
-    "lzh",
-    "lzx",
+    "archive-manager-tools",
+    "archiver",
+    "compression",
+    "decompression",
+    "developer-tools",
+    "extractor",
+    "finder-extension",
+    "gzip",
     "macos",
-    "macos-app",
-    "native",
-    "nested",
-    "previewer",
+    "macpacker",
+    "nested-archives",
+    "quick-look",
     "rar",
+    "swift",
+    "swiftui",
     "tar",
     "zip"
   ],
-  "star_count": 511,
-  "fork_count": 22,
+  "star_count": 529,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-20T16:17:33Z",
-  "updated_at": "2026-08-04T10:57:50Z",
-  "pushed_at": "2026-08-02T14:47:02Z",
+  "updated_at": "2026-08-08T15:50:57Z",
+  "pushed_at": "2026-08-08T15:06:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -370,6 +375,10 @@
     {
       "date": "2026-08-04",
       "stars": 511
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 529
     }
   ]
 }

@@ -3,26 +3,37 @@
   "owner": "goldziher",
   "name": "scythe",
   "full_name": "goldziher/scythe",
-  "description": "Polyglot SQL compiler and linter. ",
+  "description": "SQL as a first-class language: formatting, linting, security auditing and pre-commit hooks for your .sql files, plus type-safe code generation for 10 languages across 10 databases.",
   "description_ja": "",
   "url": "https://github.com/Goldziher/scythe",
   "homepage_url": "https://goldziher.github.io/scythe",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "code-generation",
     "codegen",
     "database",
+    "developer-tools",
+    "mysql",
+    "orm-alternative",
+    "postgresql",
+    "pre-commit",
+    "rust",
     "sql",
+    "sql-formatter",
+    "sql-linter",
     "sqlc",
+    "sqlite",
+    "static-analysis",
     "type-safe"
   ],
-  "star_count": 56,
-  "fork_count": 2,
+  "star_count": 65,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T21:00:18Z",
-  "updated_at": "2026-07-24T04:08:29Z",
-  "pushed_at": "2026-07-24T04:08:22Z",
+  "updated_at": "2026-08-08T11:57:05Z",
+  "pushed_at": "2026-08-08T10:24:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -284,6 +295,10 @@
     {
       "date": "2026-08-04",
       "stars": 56
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 65
     }
   ]
 }

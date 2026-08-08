@@ -6,7 +6,7 @@
   "description": "the agi compiler: records llm agent behavior, proves what repeats, and compiles it into verified, sandboxed wasm binaries that run for microdollars. nothing figured out twice, paper: https://arxiv.org/abs/2607.04542",
   "description_ja": "",
   "url": "https://github.com/RightNow-AI/auto",
-  "homepage_url": "https://www.rightnowai.co/",
+  "homepage_url": "https://runinfra.ai/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -20,12 +20,12 @@
     "program-synthesis",
     "webassembly"
   ],
-  "star_count": 120,
+  "star_count": 121,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-05T15:20:57Z",
-  "updated_at": "2026-08-02T19:23:11Z",
+  "updated_at": "2026-08-08T01:50:52Z",
   "pushed_at": "2026-07-07T12:28:30Z",
   "deleted_at": "",
   "star_history": [
@@ -112,6 +112,10 @@
     {
       "date": "2026-08-04",
       "stars": 120
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 121
     }
   ]
 }

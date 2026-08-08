@@ -3,7 +3,7 @@
   "owner": "prismorsec",
   "name": "prismor",
   "full_name": "prismorsec/prismor",
-  "description": " Self-hosted runtime control plane for AI agents. Observe or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc. Works with any ai agent like Claude Code, Codex, and framework SDKs (formerly - immunity-agent)",
+  "description": " Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent agnostic (Claude,codex etc.)",
   "description_ja": "",
   "url": "https://github.com/PrismorSec/prismor",
   "homepage_url": "https://prismor.dev",
@@ -23,21 +23,21 @@
     "guardrails",
     "llm-security",
     "mcp",
+    "owasp",
     "prompt-injection",
     "secrets-management",
     "security",
-    "security-tools",
     "skill-scanner",
     "supply-chain-security",
     "tool-calls"
   ],
-  "star_count": 274,
-  "fork_count": 25,
+  "star_count": 280,
+  "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-20T16:43:19Z",
-  "updated_at": "2026-08-04T21:43:13Z",
-  "pushed_at": "2026-08-04T21:43:08Z",
+  "updated_at": "2026-08-08T15:49:09Z",
+  "pushed_at": "2026-08-08T15:49:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -355,6 +355,10 @@
     {
       "date": "2026-08-04",
       "stars": 274
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 280
     }
   ]
 }

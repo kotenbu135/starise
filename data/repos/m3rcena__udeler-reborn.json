@@ -3,20 +3,27 @@
   "owner": "m3rcena",
   "name": "udeler-reborn",
   "full_name": "m3rcena/udeler-reborn",
-  "description": "A desktop application for downloading Udemy Courses",
+  "description": "The elite, zero-trust desktop client to securely download, decrypt, and manage your purchased Udemy courses for offline viewing. Supports Windows, macOS, and Linux.",
   "description_ja": "",
   "url": "https://github.com/M3rcena/Udeler-Reborn",
-  "homepage_url": "",
+  "homepage_url": "https://udeler-reborn.ddns.net/",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 52,
+  "topics": [
+    "course",
+    "courses",
+    "udeler",
+    "udeler-download",
+    "udemy",
+    "udemy-course"
+  ],
+  "star_count": 53,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-17T13:56:51Z",
-  "updated_at": "2026-07-30T14:33:23Z",
-  "pushed_at": "2026-08-02T20:08:32Z",
+  "updated_at": "2026-08-07T20:21:25Z",
+  "pushed_at": "2026-08-05T20:09:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +65,10 @@
     {
       "date": "2026-08-04",
       "stars": 52
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 53
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "pvinh-quant",
   "name": "kairos-v2",
   "full_name": "pvinh-quant/kairos-v2",
-  "description": "Kairos v2 là một framework nghiên cứu định lượng mã nguồn mở được phát triển bằng Python nhằm hỗ trợ nghiên cứu và kiểm chứng chiến lược giao dịch Crypto Futures một cách có hệ thống. Dự án cung cấp quy trình nghiên cứu từ xử lý dữ liệu OHLC, xây dựng và đánh giá đặc trưng (feature), phân tích yếu tố (factor research), backtest, tối ưu tham số",
+  "description": "Kairos v2 is an open-source quantitative research framework developed in Python to systematically support the research and validation of Crypto Futures trading strategies. The project provides an end-to-end research workflow covering OHLC data processing, feature engineering and evaluation, factor research, backtesting, and parameter optimization.",
   "description_ja": "",
   "url": "https://github.com/PVinh-Quant/Kairos-v2",
   "homepage_url": "",
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-11T02:18:00Z",
-  "updated_at": "2026-08-02T10:20:46Z",
-  "pushed_at": "2026-07-13T06:10:43Z",
+  "updated_at": "2026-08-07T14:42:26Z",
+  "pushed_at": "2026-08-07T14:41:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -109,6 +109,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 32
+    },
+    {
+      "date": "2026-08-08",
       "stars": 32
     }
   ]

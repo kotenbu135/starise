@@ -3,8 +3,8 @@
   "owner": "ipfs",
   "name": "kubo",
   "full_name": "ipfs/kubo",
-  "description": "An IPFS implementation in Go",
-  "description_ja": "GoによるIPFS実装",
+  "description": "IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API",
+  "description_ja": "",
   "url": "https://github.com/ipfs/kubo",
   "homepage_url": "https://docs.ipfs.tech/how-to/command-line-quick-start/",
   "language": "Go",
@@ -12,13 +12,13 @@
   "topics": [
     "ipfs"
   ],
-  "star_count": 17093,
+  "star_count": 17094,
   "fork_count": 3164,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-06-26T08:14:34Z",
-  "updated_at": "2026-08-04T15:46:49Z",
-  "pushed_at": "2026-08-04T15:53:06Z",
+  "updated_at": "2026-08-08T07:03:52Z",
+  "pushed_at": "2026-08-07T11:45:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -356,6 +356,10 @@
     {
       "date": "2026-08-04",
       "stars": 17093
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 17094
     }
   ]
 }

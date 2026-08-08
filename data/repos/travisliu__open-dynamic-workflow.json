@@ -6,16 +6,20 @@
   "description": "Open Dynamic Workflow is a local-first workflow runner for orchestrating external coding-agent CLIs",
   "description_ja": "",
   "url": "https://github.com/travisliu/open-dynamic-workflow",
-  "homepage_url": "",
+  "homepage_url": "https://travisliu.github.io/open-dynamic-workflow/",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "agent-orchestration",
+    "agentic",
+    "codex"
+  ],
   "star_count": 59,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-05T11:05:20Z",
-  "updated_at": "2026-08-03T15:54:37Z",
+  "updated_at": "2026-08-06T12:14:33Z",
   "pushed_at": "2026-07-29T12:56:58Z",
   "deleted_at": "",
   "star_history": [
@@ -141,6 +145,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 59
+    },
+    {
+      "date": "2026-08-08",
       "stars": 59
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "unslothai",
   "name": "unsloth",
   "full_name": "unslothai/unsloth",
-  "description": "Unsloth is a local UI for training and running Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, GLM and other models.",
+  "description": "The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.",
   "description_ja": "",
   "url": "https://github.com/unslothai/unsloth",
   "homepage_url": "https://unsloth.ai/docs",
@@ -11,32 +11,33 @@
   "license": "Apache-2.0",
   "topics": [
     "agent",
+    "chatgpt",
     "deepseek",
     "fine-tuning",
     "gemma",
     "gemma3",
     "gpt-oss",
+    "image-generation",
     "llama",
-    "llama3",
     "llm",
     "llms",
-    "mistral",
     "openai",
     "qwen",
     "reinforcement-learning",
     "self-hosted",
+    "stable-diffusion",
     "text-to-speech",
     "tts",
     "ui",
     "unsloth"
   ],
-  "star_count": 69567,
-  "fork_count": 6273,
+  "star_count": 69725,
+  "fork_count": 6293,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-29T16:50:09Z",
-  "updated_at": "2026-08-04T22:10:33Z",
-  "pushed_at": "2026-08-04T21:19:54Z",
+  "updated_at": "2026-08-08T20:49:16Z",
+  "pushed_at": "2026-08-08T20:51:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -382,6 +383,10 @@
     {
       "date": "2026-08-04",
       "stars": 69567
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 69725
     }
   ]
 }

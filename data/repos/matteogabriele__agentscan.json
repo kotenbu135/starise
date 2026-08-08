@@ -3,20 +3,27 @@
   "owner": "matteogabriele",
   "name": "agentscan",
   "full_name": "matteogabriele/agentscan",
-  "description": "An open experiment in detecting automation patterns on GitHub",
+  "description": "Automation pattern detection for open source maintainers",
   "description_ja": "",
   "url": "https://github.com/MatteoGabriele/agentscan",
   "homepage_url": "https://agentscan.tools",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 78,
+  "topics": [
+    "anti-ai",
+    "anti-ai-slop",
+    "automation-detection",
+    "behavior-detection",
+    "security",
+    "spam-detection"
+  ],
+  "star_count": 81,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-14T21:51:29Z",
-  "updated_at": "2026-08-04T21:01:14Z",
-  "pushed_at": "2026-08-04T21:00:59Z",
+  "updated_at": "2026-08-08T20:10:56Z",
+  "pushed_at": "2026-08-08T20:10:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -310,6 +317,10 @@
     {
       "date": "2026-08-04",
       "stars": 78
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 81
     }
   ]
 }

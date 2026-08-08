@@ -3,17 +3,20 @@
   "owner": "ulsklyc",
   "name": "yuvomi",
   "full_name": "ulsklyc/yuvomi",
-  "description": "Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.  ",
+  "description": "Self-hosted family planner - tasks, calendars, shopping, meals, budget. Your data, your server.",
   "description_ja": "",
   "url": "https://github.com/ulsklyc/yuvomi",
   "homepage_url": "https://yuvomi.cloud/",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "calendar",
     "docker",
     "family",
     "family-planner",
-    "home-automation",
+    "household",
+    "meal-planning",
+    "nodejs",
     "open-source",
     "planner-app",
     "privacy-first",
@@ -21,15 +24,16 @@
     "pwa",
     "self-hosted",
     "selfhosted",
-    "selfhosted-apps"
+    "selfhosted-apps",
+    "sqlite"
   ],
-  "star_count": 1261,
-  "fork_count": 104,
+  "star_count": 1292,
+  "fork_count": 110,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-24T12:46:14Z",
-  "updated_at": "2026-08-04T19:44:12Z",
-  "pushed_at": "2026-08-04T19:41:53Z",
+  "updated_at": "2026-08-08T10:29:33Z",
+  "pushed_at": "2026-08-06T12:58:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -255,6 +259,10 @@
     {
       "date": "2026-08-04",
       "stars": 1261
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1292
     }
   ]
 }

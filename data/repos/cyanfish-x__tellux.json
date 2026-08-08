@@ -3,20 +3,35 @@
   "owner": "cyanfish-x",
   "name": "tellux",
   "full_name": "cyanfish-x/tellux",
-  "description": "",
+  "description": "Open-source 3D Earth Engine built on Three.js for digital globes, digital twins, 3D maps — terrain, 3D Tiles, atmosphere \u0026 clouds.",
   "description_ja": "",
   "url": "https://github.com/cyanfish-x/tellux",
-  "homepage_url": "",
+  "homepage_url": "https://tellux.cyanfish.site",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 83,
+  "topics": [
+    "3d-engine",
+    "3d-tiles",
+    "atmosphere",
+    "cesium",
+    "digital-earth",
+    "digital-twin",
+    "geospatial",
+    "gis",
+    "terrain",
+    "threejs",
+    "typescript",
+    "volumetric-clouds",
+    "webgl",
+    "webgpu"
+  ],
+  "star_count": 86,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-03T13:40:19Z",
-  "updated_at": "2026-08-04T01:58:58Z",
-  "pushed_at": "2026-07-31T00:22:01Z",
+  "updated_at": "2026-08-07T06:43:35Z",
+  "pushed_at": "2026-08-05T10:29:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -122,6 +137,10 @@
     {
       "date": "2026-08-04",
       "stars": 83
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 86
     }
   ]
 }

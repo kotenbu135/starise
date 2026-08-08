@@ -3,7 +3,7 @@
   "owner": "bitrouter",
   "name": "bitrouter",
   "full_name": "bitrouter/bitrouter",
-  "description": "The model router that continuously improve your agentic workflows, works with any harnesses, any models, any loops.",
+  "description": "The context-aware model router that continuously improve your agentic workflows, works with any harnesses, any models, any loops.",
   "description_ja": "",
   "url": "https://github.com/bitrouter/bitrouter",
   "homepage_url": "https://bitrouter.ai",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T20:04:01Z",
-  "updated_at": "2026-08-04T10:42:21Z",
-  "pushed_at": "2026-08-04T16:09:48Z",
+  "updated_at": "2026-08-08T14:22:55Z",
+  "pushed_at": "2026-08-08T18:46:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -374,6 +374,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 216
+    },
+    {
+      "date": "2026-08-08",
       "stars": 216
     }
   ]

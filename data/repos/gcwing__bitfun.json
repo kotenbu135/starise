@@ -3,10 +3,10 @@
   "owner": "gcwing",
   "name": "bitfun",
   "full_name": "gcwing/bitfun",
-  "description": "BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、 Cowork Agent、Computer Use. It has memory, personality, and the ability to evolve over time",
-  "description_ja": "BitFunはデスクトップグレードのAgentランタイムであり、すぐに使えるデスクトップAgentアプリケーションスイート。Code Agent、Cowork Agent、Computer Useを内蔵し、メモリとパーソナリティを持ち、時間をかけて進化する能力を備える。",
+  "description": "BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
+  "description_ja": "",
   "url": "https://github.com/GCWing/BitFun",
-  "homepage_url": "https://openbitfun.com/",
+  "homepage_url": "https://gcwing.com/projects/bitfun",
   "language": "Rust",
   "license": "MIT",
   "topics": [
@@ -22,13 +22,13 @@
     "openclaw",
     "vibe-coding"
   ],
-  "star_count": 1424,
-  "fork_count": 166,
+  "star_count": 1606,
+  "fork_count": 179,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-02T09:52:10Z",
-  "updated_at": "2026-08-04T20:13:17Z",
-  "pushed_at": "2026-08-04T09:17:41Z",
+  "updated_at": "2026-08-08T17:21:15Z",
+  "pushed_at": "2026-08-08T15:07:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +366,10 @@
     {
       "date": "2026-08-04",
       "stars": 1424
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1606
     }
   ]
 }

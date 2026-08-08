@@ -6,22 +6,23 @@
   "description": "Source generated cross platform Wireshark dissectors",
   "description_ja": "ソースコード生成によるクロスプラットフォームWiresharkディセクタ",
   "url": "https://github.com/Open-Markets-Initiative/wireshark-lua",
-  "homepage_url": "",
+  "homepage_url": "https://openmarketsinitiative.com",
   "language": "Lua",
   "license": "GPL-3.0",
   "topics": [
     "dissector",
+    "electronic-exchange",
     "lua",
     "pcap",
     "wireshark"
   ],
-  "star_count": 228,
+  "star_count": 229,
   "fork_count": 74,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-02-25T04:15:36Z",
-  "updated_at": "2026-08-03T15:34:14Z",
-  "pushed_at": "2026-08-03T03:29:50Z",
+  "updated_at": "2026-08-08T20:17:05Z",
+  "pushed_at": "2026-08-08T20:17:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -355,6 +356,10 @@
     {
       "date": "2026-08-04",
       "stars": 228
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 229
     }
   ]
 }

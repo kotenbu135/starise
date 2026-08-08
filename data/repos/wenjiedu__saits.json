@@ -1,0 +1,48 @@
+{
+  "repo_id": "R_kgDOGfukNw",
+  "owner": "wenjiedu",
+  "name": "saits",
+  "full_name": "wenjiedu/saits",
+  "description": "The official PyTorch implementation of the paper \"SAITS: Self-Attention-based Imputation for Time Series\". A fast and state-of-the-art (SOTA) deep-learning neural network model for efficient time-series imputation (impute multivariate incomplete time series containing NaN missing data/values with machine learning). https://arxiv.org/abs/2202.08516",
+  "description_ja": "",
+  "url": "https://github.com/WenjieDu/SAITS",
+  "homepage_url": "https://doi.org/10.1016/j.eswa.2023.119619",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "attention",
+    "attention-mechanism",
+    "deep-learning",
+    "imputation",
+    "imputation-model",
+    "impute",
+    "incomplete-data",
+    "incomplete-time-series",
+    "interpolation",
+    "irregular-sampling",
+    "machine-learning",
+    "missing-values",
+    "partially-observed",
+    "partially-observed-data",
+    "partially-observed-time-series",
+    "pytorch",
+    "self-attention",
+    "time-series",
+    "time-series-imputation",
+    "transformer"
+  ],
+  "star_count": 514,
+  "fork_count": 70,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2021-12-07T14:57:37Z",
+  "updated_at": "2026-08-08T12:17:37Z",
+  "pushed_at": "2026-08-03T08:24:01Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-08",
+      "stars": 514
+    }
+  ]
+}

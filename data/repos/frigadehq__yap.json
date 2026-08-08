@@ -3,7 +3,7 @@
   "owner": "frigadehq",
   "name": "yap",
   "full_name": "frigadehq/yap",
-  "description": "Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud, no API keys, no account.",
+  "description": "Free, open source voice dictation for macOS. On-device transcription with Apple's Speech framework. No cloud/no API keys/no account.",
   "description_ja": "",
   "url": "https://github.com/FrigadeHQ/yap",
   "homepage_url": "https://frigade.com/yap",
@@ -25,14 +25,14 @@
     "swiftui",
     "transcription",
     "voice-to-text",
-    "whisper-alternative"
+    "wispr-flow"
   ],
-  "star_count": 342,
-  "fork_count": 18,
+  "star_count": 347,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-23T23:34:40Z",
-  "updated_at": "2026-08-04T14:43:32Z",
+  "updated_at": "2026-08-08T17:23:19Z",
   "pushed_at": "2026-08-01T00:35:52Z",
   "deleted_at": "",
   "star_history": [
@@ -55,6 +55,10 @@
     {
       "date": "2026-08-04",
       "stars": 342
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 347
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "scanaislop",
   "name": "aislop",
   "full_name": "scanaislop/aislop",
-  "description": "Catch the slop AI coding agents leave in your code: narrative comments, swallowed exceptions, as-any casts, dead code, oversized functions. 50+ rules across 8 languages (TypeScript, JavaScript, Python, Go, Rust, Ruby, PHP). Sub-second, deterministic, no LLM at runtime. MIT-licensed.",
+  "description": "Catch code-quality issues AI agents leave behind. 50+ deterministic rules across 10 language targets. CLI, CI, and GitHub Actions. No LLM at runtime. MIT.",
   "description_ja": "",
   "url": "https://github.com/scanaislop/aislop",
   "homepage_url": "https://scanaislop.com",
@@ -13,17 +13,17 @@
     "ai",
     "ai-slop",
     "ai-slop-detection",
+    "c-sharp",
     "cli",
     "code-quality",
     "code-review",
+    "cpp",
     "developer-tools",
     "github-actions",
     "go",
     "javascript",
     "linter",
     "php",
-    "pre-commit",
-    "pull-request",
     "python",
     "quality-gate",
     "ruby",
@@ -31,13 +31,13 @@
     "static-analysis",
     "typescript"
   ],
-  "star_count": 536,
+  "star_count": 543,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T13:05:19Z",
-  "updated_at": "2026-08-04T15:47:01Z",
-  "pushed_at": "2026-08-01T06:10:35Z",
+  "updated_at": "2026-08-08T17:07:14Z",
+  "pushed_at": "2026-08-08T19:00:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -275,6 +275,10 @@
     {
       "date": "2026-08-04",
       "stars": 536
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 543
     }
   ]
 }

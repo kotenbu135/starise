@@ -3,41 +3,41 @@
   "owner": "marcimastro98",
   "name": "xenon",
   "full_name": "marcimastro98/xenon",
-  "description": "A 100% local, all-in-one dashboard for any screen, tablet or phone, works on Windows, Linux or MacOS . System monitor, media \u0026 mic, a voice AI that can build dashboard pages for you, a Stream-Deck grid, RGB lighting, and Twitch/OBS control. Free, open-source, no account.",
+  "description": "A 100% local all-in-one dashboard for any screen, tablet or phone. Windows, with macOS and Linux in beta. System monitor, media and mic, a voice AI that can build dashboard pages for you, a Stream Deck style grid, RGB lighting, and Twitch/OBS control. Free and source-available, no account, no telemetry.",
   "description_ja": "",
   "url": "https://github.com/marcimastro98/Xenon",
   "homepage_url": "https://xenon-app.com/",
   "language": "JavaScript",
   "license": "NOASSERTION",
   "topics": [
-    "browser",
-    "chatgpt",
     "claude",
     "claude-code",
     "corsair",
     "dashboard",
     "discord",
-    "gemini",
     "linux",
     "local-ai",
     "macos",
     "obs",
     "ollama",
+    "openrgb",
+    "self-hosted",
     "spotify",
     "stream-deck",
     "system-monitor",
+    "tauri",
     "twitch",
     "windows",
     "xeneon-edge",
     "youtube"
   ],
-  "star_count": 45,
+  "star_count": 47,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-30T11:45:32Z",
-  "updated_at": "2026-08-02T07:10:24Z",
-  "pushed_at": "2026-08-03T17:39:14Z",
+  "updated_at": "2026-08-06T20:50:35Z",
+  "pushed_at": "2026-08-07T10:05:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     {
       "date": "2026-08-04",
       "stars": 45
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 47
     }
   ]
 }

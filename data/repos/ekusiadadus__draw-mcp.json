@@ -3,20 +3,30 @@
   "owner": "ekusiadadus",
   "name": "draw-mcp",
   "full_name": "ekusiadadus/draw-mcp",
-  "description": "",
+  "description": "Claude Code skill and CLI validator for production-quality draw.io XML — 31 rules, presets, and CI integration.",
   "description_ja": "",
   "url": "https://github.com/ekusiadadus/draw-mcp",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/ekusiadadus/draw-mcp",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "ai-agents",
+    "architecture-diagrams",
+    "claude-code",
+    "developer-tools",
+    "diagrams",
+    "drawio",
+    "python",
+    "validator",
+    "xml"
+  ],
   "star_count": 29,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-16T07:40:33Z",
-  "updated_at": "2026-06-02T08:50:31Z",
-  "pushed_at": "2026-03-15T03:36:34Z",
+  "updated_at": "2026-08-06T07:21:32Z",
+  "pushed_at": "2026-08-06T07:20:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -229,6 +239,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 29
+    },
+    {
+      "date": "2026-08-08",
       "stars": 29
     }
   ]

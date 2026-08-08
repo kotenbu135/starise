@@ -24,19 +24,20 @@
     "pose-estimation",
     "rust",
     "segmentation",
+    "semantic-segmentation",
     "tensorrt",
     "ultralytics",
     "wasm",
     "webgpu",
     "yolo"
   ],
-  "star_count": 139,
-  "fork_count": 16,
+  "star_count": 141,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-26T14:53:25Z",
-  "updated_at": "2026-08-04T22:22:47Z",
-  "pushed_at": "2026-08-04T16:37:47Z",
+  "updated_at": "2026-08-08T19:41:15Z",
+  "pushed_at": "2026-08-08T19:41:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -370,6 +371,10 @@
     {
       "date": "2026-08-04",
       "stars": 139
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 141
     }
   ]
 }

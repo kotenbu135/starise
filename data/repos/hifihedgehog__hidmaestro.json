@@ -3,7 +3,7 @@
   "owner": "hifihedgehog",
   "name": "hidmaestro",
   "full_name": "hifihedgehog/hidmaestro",
-  "description": "Virtual game controllers for Windows that show up as real hardware to every API: DirectInput, XInput, SDL3, browser Gamepad, WGI/GameInput. Byte-exact VID/PID and HID descriptor per profile. 225 profiles across 32 vendors. HID PID 1.0 force feedback, hot-plug, multi-controller. Pure user mode: no kernel driver, no EV cert, no reboots.",
+  "description": "Virtual game controllers for Windows that show up as real hardware to every API: DirectInput, XInput, SDL3, browser Gamepad, WGI/GameInput. Byte-exact VID/PID and HID descriptor per profile. 228 profiles across 32 vendors. HID PID 1.0 force feedback, hot-plug, multi-controller. Pure user mode: no kernel driver, no EV cert, no reboots.",
   "description_ja": "",
   "url": "https://github.com/hifihedgehog/HIDMaestro",
   "homepage_url": "https://hidmaestro.org/",
@@ -31,13 +31,13 @@
     "windows",
     "xinput"
   ],
-  "star_count": 51,
+  "star_count": 53,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-10T15:39:12Z",
-  "updated_at": "2026-08-03T05:24:31Z",
-  "pushed_at": "2026-08-01T05:51:08Z",
+  "updated_at": "2026-08-08T00:46:54Z",
+  "pushed_at": "2026-08-08T00:46:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-08-04",
       "stars": 51
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 53
     }
   ]
 }

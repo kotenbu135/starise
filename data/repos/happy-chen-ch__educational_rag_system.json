@@ -3,7 +3,7 @@
   "owner": "happy-chen-ch",
   "name": "educational_rag_system",
   "full_name": "happy-chen-ch/educational_rag_system",
-  "description": "面向教育场景的RAG智能问答系统，融合关键词匹配与语义检索双引擎，融合MySQL和RAG技术，先经过MySQL数据库的检索(还融合了Redis辅助储存和搜索)，若无符合条件答案，则进入RAG系统，RAG知识库中的知识储存在Milvus向量数据库中",
+  "description": "End-to-end educational RAG system: dual-engine retrieval (BM25 + BGE-M3 hybrid vector search), adaptive query strategies (HyDE/sub-query/backtracking), BERT intent classification, BGE-Reranker precision ranking, Chinese-optimized text splitting, and FastAPI SSE streaming — from documents to real-time answers.",
   "description_ja": "",
   "url": "https://github.com/Happy-Chen-CH/Educational_RAG_System",
   "homepage_url": "",
@@ -18,12 +18,12 @@
     "rag",
     "redis"
   ],
-  "star_count": 122,
-  "fork_count": 3,
+  "star_count": 123,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-15T11:50:53Z",
-  "updated_at": "2026-07-28T00:06:53Z",
+  "updated_at": "2026-08-08T09:04:27Z",
   "pushed_at": "2026-06-22T11:04:50Z",
   "deleted_at": "",
   "star_history": [
@@ -190,6 +190,10 @@
     {
       "date": "2026-08-04",
       "stars": 122
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 123
     }
   ]
 }

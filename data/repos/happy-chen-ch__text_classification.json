@@ -3,7 +3,7 @@
   "owner": "happy-chen-ch",
   "name": "text_classification",
   "full_name": "happy-chen-ch/text_classification",
-  "description": "一个文本分类的项目，这个项目实现了三种文本分类的方法，从一开始的随机森林，到fasttext，最后是基于BERT预训练模型训练出自己的文本分类模型；还包括模型的压缩，比如模型量化，模型蒸馏等操作；是一个完整的项目",
+  "description": "A Chinese news headline classification benchmark: 200K labeled samples across 10 categories. Covers 4 approaches — TF-IDF+RandomForest, FastText, BERT fine-tuning+int8 quantization, and knowledge distillation (BERT→TextCNN) — spanning classical ML to model compression, with Flask RESTful API.",
   "description_ja": "",
   "url": "https://github.com/Happy-Chen-CH/text_classification",
   "homepage_url": "",
@@ -19,12 +19,12 @@
     "tensorflow",
     "text-classification"
   ],
-  "star_count": 104,
-  "fork_count": 4,
+  "star_count": 106,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-03T07:39:51Z",
-  "updated_at": "2026-07-29T16:46:32Z",
+  "updated_at": "2026-08-08T09:03:33Z",
   "pushed_at": "2026-06-22T10:28:28Z",
   "deleted_at": "",
   "star_history": [
@@ -243,6 +243,10 @@
     {
       "date": "2026-08-04",
       "stars": 104
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 106
     }
   ]
 }

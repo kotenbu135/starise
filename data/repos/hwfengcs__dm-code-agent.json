@@ -3,7 +3,7 @@
   "owner": "hwfengcs",
   "name": "dm-code-agent",
   "full_name": "hwfengcs/dm-code-agent",
-  "description": "Lightweight, auditable Python code agent (~1500 LOC) — ReAct + Planner + Reflexion + Hybrid RAG, with SWE-bench Lite   eval and trace replay.",
+  "description": "Local-first, auditable Python code agent. Ships its own 30-task hidden-test benchmark plus SWE-bench Verified scored by the official harness -- every number reproducible, negative results included.",
   "description_ja": "",
   "url": "https://github.com/hwfengcs/DM-Code-Agent",
   "homepage_url": "",
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-30T04:31:28Z",
-  "updated_at": "2026-08-04T16:25:57Z",
-  "pushed_at": "2026-08-04T16:24:42Z",
+  "updated_at": "2026-08-08T07:07:08Z",
+  "pushed_at": "2026-08-08T07:07:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -329,6 +329,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 149
+    },
+    {
+      "date": "2026-08-08",
       "stars": 149
     }
   ]

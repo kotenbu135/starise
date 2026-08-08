@@ -3,41 +3,41 @@
   "owner": "slothflowlabs",
   "name": "duckle",
   "full_name": "slothflowlabs/duckle",
-  "description": "Open-source ETL/ELT on DuckDB. Write, wire, or draw one pipeline: 350+ components, 160+ connectors, dbt, CDC, data quality, a Python API, and MCP for AI agents. Runs anywhere, no lock-in.",
+  "description": "Open-source ETL and ELT tool on DuckDB. Low-code visual data pipelines or SQL: 364 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI agents.",
   "description_ja": "",
   "url": "https://github.com/slothflowlabs/duckle",
   "homepage_url": "https://duckle.org/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
-    "ai-agents",
     "cdc",
     "connectors",
     "data-engineering",
     "data-integration",
+    "data-orchestration",
     "data-pipeline",
     "data-quality",
     "data-transformation",
+    "data-warehouse",
     "dbt",
-    "developer-tools",
     "duckdb",
     "elt",
     "etl",
+    "etl-framework",
+    "ingestion",
+    "lakehouse",
     "local-first",
-    "mcp",
+    "low-code",
     "no-code",
-    "python",
-    "reverse-etl",
-    "rust",
-    "self-hosted"
+    "reverse-etl"
   ],
-  "star_count": 908,
-  "fork_count": 74,
+  "star_count": 1023,
+  "fork_count": 77,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-21T06:32:39Z",
-  "updated_at": "2026-08-04T13:43:26Z",
-  "pushed_at": "2026-08-04T13:41:46Z",
+  "updated_at": "2026-08-08T11:59:38Z",
+  "pushed_at": "2026-08-08T11:59:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -279,6 +279,10 @@
     {
       "date": "2026-08-04",
       "stars": 908
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1023
     }
   ]
 }

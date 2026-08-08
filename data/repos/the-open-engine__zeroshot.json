@@ -3,7 +3,7 @@
   "owner": "the-open-engine",
   "name": "zeroshot",
   "full_name": "the-open-engine/zeroshot",
-  "description": "Your autonomous engineering team in a CLI. The agent loop produces senior-level code that you can actually trust in prod because of non-negotiable feedback from independent reviewers. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI with trivial setup.",
+  "description": "Independent executor–verifier orchestration for software changes.",
   "description_ja": "",
   "url": "https://github.com/the-open-engine/zeroshot",
   "homepage_url": "https://www.theopenengine.com",
@@ -27,13 +27,13 @@
     "multi-agent",
     "vibecoding"
   ],
-  "star_count": 1690,
-  "fork_count": 146,
+  "star_count": 1697,
+  "fork_count": 149,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-25T17:12:45Z",
-  "updated_at": "2026-08-04T20:42:57Z",
-  "pushed_at": "2026-08-04T22:23:37Z",
+  "updated_at": "2026-08-08T16:41:52Z",
+  "pushed_at": "2026-08-08T20:33:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -371,6 +371,10 @@
     {
       "date": "2026-08-04",
       "stars": 1690
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1697
     }
   ]
 }

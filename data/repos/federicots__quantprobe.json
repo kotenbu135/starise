@@ -3,27 +3,32 @@
   "owner": "federicots",
   "name": "quantprobe",
   "full_name": "federicots/quantprobe",
-  "description": "Run GLM-4.5-Air (110B) on a 16GB-RAM consumer machine - identify the best memory allocation to overcome standard hardware limitations in Local LLM applications. Placement beats budget. Falsification-Tested laws, probes and recipes for LLMs on commodity hardware",
+  "description": "Run a 110B on a 2016 PC with 16 GB RAM. Know your tok/s before you download. Placement beats budget: predicts speed + memory fit for any GGUF on your exact hardware, self-calibrates, emits the exact llama.cpp command — or 'quantprobe auto' does it all. Falsification-tested laws; misses published at full size. pip install quantprobe",
   "description_ja": "",
   "url": "https://github.com/FedericoTs/quantprobe",
   "homepage_url": "https://federicots.github.io/quantprobe/",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "benchmark",
     "gguf",
+    "hardware-detection",
     "inference",
     "llama-cpp",
     "llm",
+    "local-llm",
     "moe",
-    "quantization"
+    "performance",
+    "quantization",
+    "speculative-decoding"
   ],
-  "star_count": 58,
-  "fork_count": 6,
+  "star_count": 77,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-21T21:09:22Z",
-  "updated_at": "2026-08-04T20:17:44Z",
-  "pushed_at": "2026-08-04T20:16:31Z",
+  "updated_at": "2026-08-08T18:16:04Z",
+  "pushed_at": "2026-08-08T17:36:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +42,10 @@
     {
       "date": "2026-08-04",
       "stars": 58
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 77
     }
   ]
 }

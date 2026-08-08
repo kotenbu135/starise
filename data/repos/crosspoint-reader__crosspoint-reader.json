@@ -3,20 +3,28 @@
   "owner": "crosspoint-reader",
   "name": "crosspoint-reader",
   "full_name": "crosspoint-reader/crosspoint-reader",
-  "description": "Firmware for the Xteink X3 and X4 e-readers",
+  "description": "Open-source e-reader firmware",
   "description_ja": "",
   "url": "https://github.com/crosspoint-reader/crosspoint-reader",
   "homepage_url": "https://crosspointreader.com",
   "language": "C",
   "license": "MIT",
-  "topics": [],
-  "star_count": 6799,
-  "fork_count": 1352,
+  "topics": [
+    "e-reader",
+    "eink",
+    "epub",
+    "epub-reader",
+    "ereader",
+    "esp32",
+    "firmware"
+  ],
+  "star_count": 6905,
+  "fork_count": 1383,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-03T11:01:12Z",
-  "updated_at": "2026-08-04T18:58:35Z",
-  "pushed_at": "2026-08-04T16:08:16Z",
+  "updated_at": "2026-08-08T19:38:44Z",
+  "pushed_at": "2026-08-08T07:40:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -290,6 +298,10 @@
     {
       "date": "2026-08-04",
       "stars": 6799
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 6905
     }
   ]
 }

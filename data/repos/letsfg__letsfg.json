@@ -3,7 +3,7 @@
   "owner": "letsfg",
   "name": "letsfg",
   "full_name": "letsfg/letsfg",
-  "description": "Flights and hotels for AI agents. Hundreds of airlines plus the major booking sites, with per-flight reliability history and instant booking. Bookable hotel rates with free cancellation, pay-later terms and a 10% reservation fee.",
+  "description": "Agent-native flight \u0026 hotel search and booking — MCP server, CLI, and Python/JS SDKs. Hundreds of airlines plus the major booking sites, with per-flight reliability history. Bookable hotel rates with free cancellation, pay-later terms, and a 10% reservation fee.",
   "description_ja": "",
   "url": "https://github.com/LetsFG/LetsFG",
   "homepage_url": "https://letsfg.co/en",
@@ -15,29 +15,27 @@
     "ai-agents",
     "airline-api",
     "booking",
-    "business",
+    "cli",
     "flight-search",
     "flights",
-    "framework",
-    "hermes",
-    "hermes-agent",
     "hotel-api",
     "hotel-booking",
     "hotels",
     "mcp",
+    "nodejs",
     "openclaw",
-    "personal",
     "python-sdk",
     "travel",
-    "travel-api"
+    "travel-api",
+    "typescript-sdk"
   ],
-  "star_count": 1637,
-  "fork_count": 98,
+  "star_count": 1646,
+  "fork_count": 99,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T11:17:50Z",
-  "updated_at": "2026-08-04T10:16:05Z",
-  "pushed_at": "2026-08-04T08:20:03Z",
+  "updated_at": "2026-08-08T10:38:24Z",
+  "pushed_at": "2026-08-05T14:57:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -375,6 +373,10 @@
     {
       "date": "2026-08-04",
       "stars": 1637
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1646
     }
   ]
 }

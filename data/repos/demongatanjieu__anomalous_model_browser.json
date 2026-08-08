@@ -3,20 +3,20 @@
   "owner": "demongatanjieu",
   "name": "anomalous_model_browser",
   "full_name": "demongatanjieu/anomalous_model_browser",
-  "description": "A blazing-fast, zero-dependency model browser \u0026 gallery for ComfyUI. Features O(1) Civitai scraping, seamless workflow drag-and-drop, and a self-healing engine that magically auto-resolves missing models via metadata hash injection. ",
+  "description": "A comprehensive Creative Workspace and Model Manager for ComfyUI. Features zero-dependency Civitai scraping, an auto-resolving Model Doctor, a visual Node Assistant, lossless Workflow Exchange, and reusable Workflow Recipes with Parameter Notebooks.",
   "description_ja": "",
   "url": "https://github.com/DemonGatanjieu/Anomalous_Model_Browser",
   "homepage_url": "",
   "language": "JavaScript",
-  "license": "",
+  "license": "MIT",
   "topics": [],
-  "star_count": 45,
+  "star_count": 52,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-02T03:14:24Z",
-  "updated_at": "2026-08-04T17:25:42Z",
-  "pushed_at": "2026-08-02T09:32:30Z",
+  "updated_at": "2026-08-08T15:13:52Z",
+  "pushed_at": "2026-08-08T13:11:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +50,10 @@
     {
       "date": "2026-08-04",
       "stars": 45
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 52
     }
   ]
 }

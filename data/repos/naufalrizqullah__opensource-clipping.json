@@ -3,7 +3,7 @@
   "owner": "naufalrizqullah",
   "name": "opensource-clipping",
   "full_name": "naufalrizqullah/opensource-clipping",
-  "description": "🎬 AI Auto-Clipper \u0026 Teaser Generator — Transform long-form videos into viral short-form highlights with face-tracking, karaoke subtitles, B-roll, BGM ducking, and auto-thumbnails. Powered by Whisper, Gemini AI \u0026 MediaPipe / YOLO",
+  "description": "🎬 Ultimate AI Auto-Clipper — Transform long-form videos \u0026 podcasts into viral shorts! Features smart face-tracking, kinetic karaoke subtitles, contextual B-roll, AI voice-overs, and auto-uploaders (YouTube/FB). Powered by Whisper, Gemini, MediaPipe, \u0026 Pyannote.",
   "description_ja": "",
   "url": "https://github.com/NaufalRizqullah/opensource-clipping",
   "homepage_url": "https://naufalrizqullah.github.io/opensource-clipping/",
@@ -13,25 +13,30 @@
     "ai",
     "auto-clipper",
     "clipper",
+    "face-tracker",
     "ffmpeg",
     "gemini",
     "karaoke-subtitles",
     "mediapipe",
+    "podcast",
+    "pyannote",
     "python",
     "reels",
     "short-form-content",
     "tiktok",
     "video-editing",
+    "video-editor",
+    "voice-over",
     "whisper",
     "yolo",
     "youtube-shorts"
   ],
   "star_count": 57,
-  "fork_count": 30,
+  "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T02:34:25Z",
-  "updated_at": "2026-08-04T05:11:44Z",
+  "updated_at": "2026-08-07T13:32:28Z",
   "pushed_at": "2026-08-04T05:11:32Z",
   "deleted_at": "",
   "star_history": [
@@ -145,6 +150,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 57
+    },
+    {
+      "date": "2026-08-08",
       "stars": 57
     }
   ]

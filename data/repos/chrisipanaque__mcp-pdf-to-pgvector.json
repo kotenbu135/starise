@@ -1,0 +1,44 @@
+{
+  "repo_id": "R_kgDOSsIayg",
+  "owner": "chrisipanaque",
+  "name": "mcp-pdf-to-pgvector",
+  "full_name": "chrisipanaque/mcp-pdf-to-pgvector",
+  "description": "MCP server that extracts, chunks, embeds and stores PDF documents into a pgvector database for semantic search and RAG pipelines.",
+  "description_ja": "",
+  "url": "https://github.com/chrisipanaque/mcp-pdf-to-pgvector",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "",
+  "topics": [
+    "asyncpg",
+    "embeddings",
+    "knowledge-base",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "nomic-embed",
+    "pdf-ingestion",
+    "pdf-to-pgvector",
+    "pgvector",
+    "postgresql",
+    "pymupdf",
+    "python",
+    "rag",
+    "sentence-transformers",
+    "vector-database"
+  ],
+  "star_count": 31,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-30T10:04:08Z",
+  "updated_at": "2026-08-05T20:51:48Z",
+  "pushed_at": "2026-07-16T21:46:47Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-08",
+      "stars": 31
+    }
+  ]
+}

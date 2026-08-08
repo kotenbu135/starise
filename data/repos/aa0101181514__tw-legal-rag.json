@@ -6,17 +6,30 @@
   "description": "Open-source CLI for semantic Taiwan legal judgment retrieval. Search judgments, package them for your own AI (Claude/ChatGPT), and run a bundle-level citation check. Bring your own LLM; retrieval-only.",
   "description_ja": "",
   "url": "https://github.com/aa0101181514/tw-legal-rag",
-  "homepage_url": "",
+  "homepage_url": "https://dr-lawbot.com",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "court-judgments",
+    "legal-ai",
+    "legal-research",
+    "legal-tech",
+    "llm",
+    "mcp",
+    "model-context-protocol",
+    "python-cli",
+    "rag",
+    "retrieval-augmented-generation",
+    "semantic-search",
+    "taiwan"
+  ],
   "star_count": 231,
   "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-23T04:12:36Z",
-  "updated_at": "2026-08-04T13:41:01Z",
-  "pushed_at": "2026-08-04T13:39:04Z",
+  "updated_at": "2026-08-08T06:58:53Z",
+  "pushed_at": "2026-08-08T06:58:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -257,6 +270,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 231
+    },
+    {
+      "date": "2026-08-08",
       "stars": 231
     }
   ]

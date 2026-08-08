@@ -3,7 +3,7 @@
   "owner": "anysearch-ai",
   "name": "anysearch-mcp-server",
   "full_name": "anysearch-ai/anysearch-mcp-server",
-  "description": "Unified real-time search engine skill for AI agents.",
+  "description": "Unified real-time search MCP server supporting general web search, vertical domain search, parallel batch search, and full-page URL content extraction.",
   "description_ja": "",
   "url": "https://github.com/anysearch-ai/anysearch-mcp-server",
   "homepage_url": "https://www.anysearch.com",
@@ -17,12 +17,12 @@
     "openclaw",
     "qclaw"
   ],
-  "star_count": 1641,
-  "fork_count": 180,
+  "star_count": 1645,
+  "fork_count": 181,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-30T02:55:53Z",
-  "updated_at": "2026-08-04T13:45:27Z",
+  "updated_at": "2026-08-08T17:59:20Z",
   "pushed_at": "2026-07-10T10:55:05Z",
   "deleted_at": "",
   "star_history": [
@@ -261,6 +261,10 @@
     {
       "date": "2026-08-04",
       "stars": 1641
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1645
     }
   ]
 }

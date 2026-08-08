@@ -3,8 +3,8 @@
   "owner": "munafio",
   "name": "chatify",
   "full_name": "munafio/chatify",
-  "description": "Laravel's #1 one-to-one chatting system package, helps you add a complete real-time chatting system to your new/existing Laravel application with only one command.",
-  "description_ja": "LaravelNo.1の1対1チャットシステムパッケージ。コマンド1つで新規・既存のLaravelアプリにリアルタイムチャット機能を追加できる。",
+  "description": "Laravel’s #1 real-time chat package. Direct messages, groups, voice notes, and much more, with a full messenger UI — plus a headless API. Install in one command.",
+  "description_ja": "",
   "url": "https://github.com/munafio/chatify",
   "homepage_url": "https://chatify.munafio.com",
   "language": "PHP",
@@ -22,13 +22,13 @@
     "real-time",
     "realtime-messaging"
   ],
-  "star_count": 2409,
+  "star_count": 2411,
   "fork_count": 486,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-30T10:28:55Z",
-  "updated_at": "2026-08-04T18:23:01Z",
-  "pushed_at": "2026-07-25T00:18:47Z",
+  "updated_at": "2026-08-08T17:33:09Z",
+  "pushed_at": "2026-08-04T23:13:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +366,10 @@
     {
       "date": "2026-08-04",
       "stars": 2409
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 2411
     }
   ]
 }

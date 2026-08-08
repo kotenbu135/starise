@@ -3,7 +3,7 @@
   "owner": "pocket-stack",
   "name": "pocketjs",
   "full_name": "pocket-stack/pocketjs",
-  "description": "High-performance JSX UI outside the browser, with hardware rendering, standard Vue Vapor and Solid support, a Tailwind style engine, and 60 FPS animation under an 8 MB memory budget.",
+  "description": "Compact JavaScript runtime family for building user interfaces, games, 3D experiences, and AI-native applications across radically different devices.",
   "description_ja": "",
   "url": "https://github.com/pocket-stack/pocketjs",
   "homepage_url": "https://pocketjs.dev",
@@ -24,13 +24,13 @@
     "vue-vapor",
     "webassembly"
   ],
-  "star_count": 891,
-  "fork_count": 45,
+  "star_count": 938,
+  "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-03T07:28:28Z",
-  "updated_at": "2026-08-04T21:19:06Z",
-  "pushed_at": "2026-08-04T21:38:32Z",
+  "updated_at": "2026-08-08T12:18:37Z",
+  "pushed_at": "2026-08-08T13:43:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -124,6 +124,10 @@
     {
       "date": "2026-08-04",
       "stars": 891
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 938
     }
   ]
 }

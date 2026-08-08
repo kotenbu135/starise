@@ -3,22 +3,23 @@
   "owner": "asmyshlyaev177",
   "name": "react-horizontal-scrolling-menu",
   "full_name": "asmyshlyaev177/react-horizontal-scrolling-menu",
-  "description": "Horizontal scrolling menu component for React. ",
+  "description": "Horizontal scrolling menu component for React with per-item visibility tracking. Supports mouse and touch devices, SSR-safe.",
   "description_ja": "",
   "url": "https://github.com/asmyshlyaev177/react-horizontal-scrolling-menu",
-  "homepage_url": "https://asmyshlyaev177.github.io/react-horizontal-scrolling-menu",
+  "homepage_url": "https://react-horizontal-scrolling-menu.asmyshlyaev177.workers.dev",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "carousel",
     "gallery",
     "javascript",
     "navigation",
-    "popular",
     "react",
     "react-component",
     "reactjs",
     "scroll",
     "scrolling",
+    "tabs",
     "typescript"
   ],
   "star_count": 788,
@@ -26,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-07-13T14:17:33Z",
-  "updated_at": "2026-08-01T17:07:25Z",
-  "pushed_at": "2026-08-01T17:13:17Z",
+  "updated_at": "2026-08-07T16:21:38Z",
+  "pushed_at": "2026-08-08T14:36:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -48,6 +49,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 788
+    },
+    {
+      "date": "2026-08-08",
       "stars": 788
     }
   ]

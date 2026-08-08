@@ -1,0 +1,371 @@
+{
+  "repo_id": "R_kgDORMdrkw",
+  "owner": "redwoodjs",
+  "name": "local-ci",
+  "full_name": "redwoodjs/local-ci",
+  "description": "Run GitHub Actions locally — pause on failure, retry in place, and keep caches on your machine.",
+  "description_ja": "",
+  "url": "https://github.com/redwoodjs/local-ci",
+  "homepage_url": "https://local-ci.dev",
+  "language": "TypeScript",
+  "license": "NOASSERTION",
+  "topics": [
+    "act-alternative",
+    "ai-agent",
+    "ci-cd",
+    "developer-experience",
+    "devtools",
+    "github-actions",
+    "local-runner"
+  ],
+  "star_count": 726,
+  "fork_count": 17,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-02-09T20:24:25Z",
+  "updated_at": "2026-08-07T08:49:10Z",
+  "pushed_at": "2026-08-06T21:45:05Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 599
+    },
+    {
+      "date": "2026-04-23",
+      "stars": 605
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 608
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 608
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 611
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 620
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 623
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 623
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 624
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 630
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 633
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 635
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 637
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 638
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 649
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 651
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 654
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 655
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 656
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 656
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 656
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 657
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 659
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 660
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 692
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 696
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 697
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 696
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 697
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 699
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 699
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 699
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 700
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 700
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 702
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 700
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 703
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 704
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 705
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 705
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 705
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 705
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 705
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 705
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 705
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 705
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 704
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 705
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 705
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 705
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 705
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 706
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 706
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 706
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 707
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 707
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 707
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 707
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 708
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 708
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 710
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 710
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 710
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 711
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 711
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 711
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 711
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 711
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 712
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 717
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 717
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 719
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 719
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 719
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 720
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 721
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 722
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 723
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 724
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 725
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 725
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 725
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 725
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 725
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 726
+    }
+  ]
+}

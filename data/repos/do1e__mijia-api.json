@@ -3,8 +3,8 @@
   "owner": "do1e",
   "name": "mijia-api",
   "full_name": "do1e/mijia-api",
-  "description": "米家API，使用Python控制米家设备",
-  "description_ja": "Python で Mi Home（米家）デバイスを制御するための Mi Home API。",
+  "description": "使用代码、CLI、MCP 直接控制米家设备。",
+  "description_ja": "",
   "url": "https://github.com/Do1e/mijia-api",
   "homepage_url": "https://mijia-api.do1e.com",
   "language": "Python",
@@ -17,12 +17,12 @@
     "xiaomi-smart",
     "xiaomi-smart-home"
   ],
-  "star_count": 698,
-  "fork_count": 97,
+  "star_count": 700,
+  "fork_count": 96,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-12T12:07:30Z",
-  "updated_at": "2026-08-04T19:21:37Z",
+  "updated_at": "2026-08-07T15:29:14Z",
   "pushed_at": "2026-07-24T06:43:53Z",
   "deleted_at": "",
   "star_history": [
@@ -357,6 +357,10 @@
     {
       "date": "2026-08-04",
       "stars": 698
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 700
     }
   ]
 }

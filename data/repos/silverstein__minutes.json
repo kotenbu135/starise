@@ -3,8 +3,8 @@
   "owner": "silverstein",
   "name": "minutes",
   "full_name": "silverstein/minutes",
-  "description": "Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer.",
-  "description_ja": "すべてのミーティング、アイデア、ボイスメモを AI で検索可能に。オープンソース・プライバシー優先の会話メモリレイヤー。",
+  "description": "Every meeting, every idea, every voice note, searchable by your AI. Open-source, privacy-first conversation memory layer.",
+  "description_ja": "",
   "url": "https://github.com/silverstein/minutes",
   "homepage_url": "https://useminutes.app",
   "language": "Rust",
@@ -24,13 +24,13 @@
     "voice-memo",
     "whisper"
   ],
-  "star_count": 1410,
+  "star_count": 1414,
   "fork_count": 146,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T06:11:04Z",
-  "updated_at": "2026-08-04T19:10:33Z",
-  "pushed_at": "2026-08-04T21:09:04Z",
+  "updated_at": "2026-08-08T16:04:49Z",
+  "pushed_at": "2026-08-08T16:04:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -368,6 +368,10 @@
     {
       "date": "2026-08-04",
       "stars": 1410
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1414
     }
   ]
 }

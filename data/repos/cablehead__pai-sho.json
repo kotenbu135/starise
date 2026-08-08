@@ -3,7 +3,7 @@
   "owner": "cablehead",
   "name": "pai-sho",
   "full_name": "cablehead/pai-sho",
-  "description": "Encrypted peer-to-peer port forwarding for machines with no open ports; default-deny, per-peer grants",
+  "description": "Drop one binary on a box with no way in. It dials home and punches through, so its ports show up on your laptop, each under its own name. Encrypted, peer-to-peer, default deny.",
   "description_ja": "",
   "url": "https://github.com/cablehead/pai-sho",
   "homepage_url": "",
@@ -17,16 +17,18 @@
     "p2p",
     "port-forwarding",
     "quic",
+    "remote-access",
     "rust",
+    "tun",
     "tunneling"
   ],
-  "star_count": 35,
+  "star_count": 39,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-13T19:23:46Z",
-  "updated_at": "2026-08-04T16:59:13Z",
-  "pushed_at": "2026-08-04T16:58:23Z",
+  "updated_at": "2026-08-08T06:29:24Z",
+  "pushed_at": "2026-08-07T16:36:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -116,6 +118,10 @@
     {
       "date": "2026-08-04",
       "stars": 35
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 39
     }
   ]
 }

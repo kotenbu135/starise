@@ -3,20 +3,31 @@
   "owner": "radiant303",
   "name": "springnote",
   "full_name": "radiant303/springnote",
-  "description": "懒人实习记录工具",
+  "description": "SpringNote是一个懒人实习记录工具",
   "description_ja": "",
   "url": "https://github.com/Radiant303/SpringNote",
   "homepage_url": "https://radiant303.github.io/SpringNote/",
   "language": "Dart",
   "license": "AGPL-3.0",
-  "topics": [],
-  "star_count": 470,
-  "fork_count": 49,
+  "topics": [
+    "chatgpt",
+    "claude",
+    "deepseek",
+    "flutter",
+    "gemini",
+    "macos",
+    "markdown",
+    "rust",
+    "springnote",
+    "windows"
+  ],
+  "star_count": 487,
+  "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-20T11:34:58Z",
-  "updated_at": "2026-08-04T20:10:46Z",
-  "pushed_at": "2026-08-04T10:47:25Z",
+  "updated_at": "2026-08-08T19:42:06Z",
+  "pushed_at": "2026-08-08T10:18:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -162,6 +173,10 @@
     {
       "date": "2026-08-04",
       "stars": 470
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 487
     }
   ]
 }

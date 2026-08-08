@@ -3,7 +3,7 @@
   "owner": "morteza-asadi-shalmaiy",
   "name": "facial-recognition-pipeline",
   "full_name": "morteza-asadi-shalmaiy/facial-recognition-pipeline",
-  "description": "python notebook facial recognitition ",
+  "description": "Local, API-free multi-stage identity pipeline: face recognition → liveness detection → super-resolution fallback → person Re-ID, built for realistic CCTV-style conditions.",
   "description_ja": "",
   "url": "https://github.com/Morteza-Asadi-Shalmaiy/facial-recognition-pipeline",
   "homepage_url": "",
@@ -26,13 +26,13 @@
     "torchreid",
     "yolov8"
   ],
-  "star_count": 53,
-  "fork_count": 7,
+  "star_count": 69,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-23T12:11:41Z",
-  "updated_at": "2026-08-04T18:25:11Z",
-  "pushed_at": "2026-07-24T05:06:05Z",
+  "updated_at": "2026-08-08T19:32:14Z",
+  "pushed_at": "2026-08-05T17:05:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-08-04",
       "stars": 53
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 69
     }
   ]
 }

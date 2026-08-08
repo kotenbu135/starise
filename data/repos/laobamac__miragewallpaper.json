@@ -6,22 +6,22 @@
   "description": "A live wallpaper engine for macOS, supporting Web/video/scene wallpaper",
   "description_ja": "",
   "url": "https://github.com/laobamac/MirageWallpaper",
-  "homepage_url": "https://mirage.simplehac.cn",
+  "homepage_url": "https://mirage.simplehac.cn/",
   "language": "C++",
   "license": "GPL-3.0",
   "topics": [
+    "dynamic-wallpaper",
     "macos",
     "mirage",
-    "miragewallpaper",
-    "wallpaper"
+    "miragewallpaper"
   ],
-  "star_count": 29,
-  "fork_count": 3,
+  "star_count": 57,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-01T15:41:56Z",
-  "updated_at": "2026-08-04T15:54:29Z",
-  "pushed_at": "2026-08-04T16:25:53Z",
+  "updated_at": "2026-08-08T13:52:19Z",
+  "pushed_at": "2026-08-08T12:45:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -31,6 +31,10 @@
     {
       "date": "2026-08-04",
       "stars": 29
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 57
     }
   ]
 }

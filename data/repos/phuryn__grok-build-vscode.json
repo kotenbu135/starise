@@ -3,7 +3,7 @@
   "owner": "phuryn",
   "name": "grok-build-vscode",
   "full_name": "phuryn/grok-build-vscode",
-  "description": "The GUI for Grok Build CLI (incl. Grok 4.5), right in your IDE. An extension for VS Code, Cursor, and more.",
+  "description": "Grok Build Desktop (Windows, macOS) + GUI for Grok Build CLI (extensions for VS Code, Cursor, and more). Supports Grok 4.6.",
   "description_ja": "",
   "url": "https://github.com/phuryn/grok-build-vscode",
   "homepage_url": "https://www.productcompass.pm",
@@ -13,17 +13,19 @@
     "cursor",
     "grok-api",
     "grok-build",
+    "grok-build-desktop",
+    "grok-build-gui",
     "spacexai",
     "vscode",
     "vscode-extension"
   ],
-  "star_count": 119,
-  "fork_count": 29,
+  "star_count": 125,
+  "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-17T08:34:16Z",
-  "updated_at": "2026-08-04T08:02:06Z",
-  "pushed_at": "2026-08-03T10:54:01Z",
+  "updated_at": "2026-08-08T13:05:50Z",
+  "pushed_at": "2026-08-08T16:19:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -117,6 +119,10 @@
     {
       "date": "2026-08-04",
       "stars": 119
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 125
     }
   ]
 }

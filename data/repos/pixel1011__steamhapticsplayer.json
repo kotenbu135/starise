@@ -3,20 +3,28 @@
   "owner": "pixel1011",
   "name": "steamhapticsplayer",
   "full_name": "pixel1011/steamhapticsplayer",
-  "description": "",
+  "description": "Plays audio files on the steam controller (2026)",
   "description_ja": "",
   "url": "https://github.com/Pixel1011/SteamHapticsPlayer",
   "homepage_url": "",
   "language": "C++",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 50,
+  "topics": [
+    "controller",
+    "hid",
+    "linux",
+    "steam-controller",
+    "steam-controller-2",
+    "steam-controller-2026",
+    "windows"
+  ],
+  "star_count": 68,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-18T14:29:41Z",
-  "updated_at": "2026-08-02T18:35:35Z",
-  "pushed_at": "2026-08-02T18:35:31Z",
+  "updated_at": "2026-08-08T18:50:22Z",
+  "pushed_at": "2026-08-08T15:03:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +42,10 @@
     {
       "date": "2026-08-04",
       "stars": 50
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 68
     }
   ]
 }

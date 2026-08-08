@@ -3,38 +3,41 @@
   "owner": "phasehq",
   "name": "console",
   "full_name": "phasehq/console",
-  "description": "Application secrets and configuration management for developers.",
-  "description_ja": "開発者向けアプリケーションシークレットおよび設定管理ツール",
+  "description": "Secrets management for teams and AI agents.",
+  "description_ja": "",
   "url": "https://github.com/phasehq/console",
   "homepage_url": "https://phase.dev",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
+    "claude",
+    "claude-code",
+    "codex",
+    "codex-cli",
     "devops",
     "django",
     "docker",
     "dotenv",
     "end-to-end-encryption",
     "environment-variables",
-    "nextjs",
     "open-source",
-    "python",
-    "react",
+    "opencode",
+    "secret",
     "secret-management",
     "secrets",
     "secrets-management",
+    "secrets-manager",
     "security",
     "security-tools",
-    "self-hosting",
-    "typescript"
+    "self-hosting"
   ],
-  "star_count": 901,
+  "star_count": 903,
   "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-30T08:11:58Z",
-  "updated_at": "2026-08-03T06:13:28Z",
-  "pushed_at": "2026-08-03T18:10:46Z",
+  "updated_at": "2026-08-07T13:34:58Z",
+  "pushed_at": "2026-08-07T13:37:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -372,6 +375,10 @@
     {
       "date": "2026-08-04",
       "stars": 901
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 903
     }
   ]
 }

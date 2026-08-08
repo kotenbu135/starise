@@ -3,8 +3,8 @@
   "owner": "lasect",
   "name": "discodb",
   "full_name": "lasect/discodb",
-  "description": "relational database stored 100% in a discord guild built with go",
-  "description_ja": "Go で構築された、Discord ギルドに 100% 格納されるリレーショナルデータベース",
+  "description": "relational database stored in discord guilds",
+  "description_ja": "",
   "url": "https://github.com/lasect/discodb",
   "homepage_url": "",
   "language": "Go",
@@ -20,7 +20,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-27T15:13:57Z",
-  "updated_at": "2026-07-27T02:59:58Z",
+  "updated_at": "2026-08-08T13:35:45Z",
   "pushed_at": "2026-04-10T15:02:42Z",
   "deleted_at": "",
   "star_history": [
@@ -354,6 +354,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 151
+    },
+    {
+      "date": "2026-08-08",
       "stars": 151
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "osidemedia",
   "name": "higgsfield-ai-prompt-skill",
   "full_name": "osidemedia/higgsfield-ai-prompt-skill",
-  "description": "Claude AI skill for cinematic Higgsfield AI prompts — 20 sub-skills covering Cinema Studio 2.5/3.0/3.5, MCSLA formula, Soul ID character consistency, Seedance 2.0 prompt modes, Kling 3.0 Motion Control, Elements system, DISCIPLINE framework, production benchmarks, and 17 templates across 3 categories.",
+  "description": "Claude AI skill for cinematic Higgsfield AI prompts — 32 sub-skills covering Seedance 2.5 (omni-reference, video edit + extend) and 2.0, the Hell Grind feature-film pipeline, an acting system, Cinema Studio 2.5/3.0/3.5, MCSLA, Soul ID consistency, Kling 3.0 Motion Control, the DISCIPLINE framework, and 18 templates.",
   "description_ja": "",
   "url": "https://github.com/OSideMedia/higgsfield-ai-prompt-skill",
   "homepage_url": "https://higgsfield.ai",
@@ -13,31 +13,31 @@
     "ai-cinema",
     "ai-filmmaking",
     "ai-video",
+    "character-acting",
     "cinema-studio",
-    "cinematic-cameras",
     "claude-code",
     "claude-cowork",
     "claude-skill",
+    "dreamina",
     "higgsfield",
     "kling",
     "mcsla",
     "motion-control",
     "prompt-engineering",
     "seedance",
-    "sora",
-    "soul-cinema",
+    "seedance-2-5",
     "soul-id",
     "veo",
     "video-generation",
     "wan"
   ],
-  "star_count": 244,
-  "fork_count": 49,
+  "star_count": 267,
+  "fork_count": 59,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T18:03:41Z",
-  "updated_at": "2026-08-04T13:05:24Z",
-  "pushed_at": "2026-08-02T05:28:38Z",
+  "updated_at": "2026-08-08T15:03:43Z",
+  "pushed_at": "2026-08-08T15:03:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -355,6 +355,10 @@
     {
       "date": "2026-08-04",
       "stars": 244
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 267
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkzNjI5MzQxMjM=",
+  "owner": "monosans",
+  "name": "proxy-scraper-checker",
+  "full_name": "monosans/proxy-scraper-checker",
+  "description": "Fast proxy scraper and checker written in Rust. Collects HTTP, SOCKS4 and SOCKS5 proxies from any number of sources, verifies each one really works, and writes JSON and plain text with response time, exit IP, ASN and geolocation. Single binary for Windows, Linux, macOS and Android, with an interactive TUI.",
+  "description_ja": "",
+  "url": "https://github.com/monosans/proxy-scraper-checker",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "async",
+    "cli",
+    "free-proxy",
+    "geolocation",
+    "http-proxy",
+    "proxy",
+    "proxy-checker",
+    "proxy-grabber",
+    "proxy-list",
+    "proxy-scrape",
+    "proxy-scraper",
+    "proxyscrape",
+    "proxyscraper",
+    "rust",
+    "socks4",
+    "socks4a",
+    "socks5",
+    "socks5h",
+    "tokio",
+    "tui"
+  ],
+  "star_count": 1306,
+  "fork_count": 274,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2021-04-29T20:04:52Z",
+  "updated_at": "2026-08-08T09:57:14Z",
+  "pushed_at": "2026-08-08T09:57:00Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-08",
+      "stars": 1306
+    }
+  ]
+}

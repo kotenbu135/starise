@@ -6,7 +6,7 @@
   "description": "distributed scheduled task management system ",
   "description_ja": "分散スケジュールタスク管理システム",
   "url": "https://github.com/gocronx-team/gocron",
-  "homepage_url": "",
+  "homepage_url": "https://gocron-docs.pages.dev/",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -16,6 +16,8 @@
     "distributed",
     "gin",
     "go",
+    "go-cron",
+    "go-crontab",
     "gocron",
     "goland",
     "scheduler",
@@ -23,13 +25,13 @@
     "vite",
     "vue3"
   ],
-  "star_count": 790,
-  "fork_count": 57,
+  "star_count": 788,
+  "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-27T08:22:16Z",
-  "updated_at": "2026-08-04T03:19:43Z",
-  "pushed_at": "2026-07-31T17:16:46Z",
+  "updated_at": "2026-08-07T06:07:30Z",
+  "pushed_at": "2026-08-07T17:15:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -367,6 +369,10 @@
     {
       "date": "2026-08-04",
       "stars": 790
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 788
     }
   ]
 }

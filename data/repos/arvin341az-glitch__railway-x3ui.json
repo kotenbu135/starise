@@ -3,19 +3,25 @@
   "owner": "arvin341az-glitch",
   "name": "railway-x3ui",
   "full_name": "arvin341az-glitch/railway-x3ui",
-  "description": "",
+  "description": "One-click deployment of 3x-ui panel on Railway using Docker.",
   "description_ja": "",
   "url": "https://github.com/arvin341az-glitch/railway-x3ui",
   "homepage_url": "",
   "language": "Dockerfile",
   "license": "",
-  "topics": [],
-  "star_count": 373,
-  "fork_count": 2052,
+  "topics": [
+    "3x-ui",
+    "deployment",
+    "docker",
+    "proxy",
+    "railway"
+  ],
+  "star_count": 394,
+  "fork_count": 2124,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-14T08:41:30Z",
-  "updated_at": "2026-08-04T20:12:14Z",
+  "updated_at": "2026-08-08T17:52:32Z",
   "pushed_at": "2026-07-11T16:10:33Z",
   "deleted_at": "",
   "star_history": [
@@ -58,6 +64,10 @@
     {
       "date": "2026-08-04",
       "stars": 373
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 394
     }
   ]
 }

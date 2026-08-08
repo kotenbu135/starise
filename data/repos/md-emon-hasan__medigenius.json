@@ -3,7 +3,7 @@
   "owner": "md-emon-hasan",
   "name": "medigenius",
   "full_name": "md-emon-hasan/medigenius",
-  "description": "Advanced multi-agent Medical AI Assistant powered by LangGraph that delivers empathetic, doctor-like responses using a hybrid pipeline of LLM reasoning, RAG from medical PDFs, and intelligent fallback tools. Features Long-term memory with SQLite, dynamic tool routing, and state reasoning for reliable, context-aware consultation.",
+  "description": "AI-powered multi-agent medical assistant with a deterministic safety layer — crisis detection, refused-topic hard-stops, dosage grounding, and post-generation diagnosis verification running before and after every LLM call, backed by parallel RAG, Wikipedia, and Tavily retrieval with symptom and drug-question routing.",
   "description_ja": "",
   "url": "https://github.com/Md-Emon-Hasan/MediGenius",
   "homepage_url": "https://medigenius.onrender.com",
@@ -31,13 +31,13 @@
     "symptomanalysissubagent",
     "tool-use-ai"
   ],
-  "star_count": 44,
+  "star_count": 45,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-30T17:17:17Z",
-  "updated_at": "2026-08-04T15:04:50Z",
-  "pushed_at": "2026-08-04T10:33:18Z",
+  "updated_at": "2026-08-06T06:23:19Z",
+  "pushed_at": "2026-08-05T16:35:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -115,6 +115,10 @@
     {
       "date": "2026-08-04",
       "stars": 44
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 45
     }
   ]
 }

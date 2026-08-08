@@ -3,7 +3,7 @@
   "owner": "oleksandrkrupko",
   "name": "mac-os-debloat",
   "full_name": "oleksandrkrupko/mac-os-debloat",
-  "description": "Debloat your Mac from the terminal. Zero deps, SIP-safe. Interactive console util to disable 269 non-essential macOS launchd services + Spotlight toggle. Self-validates against your macOS build. Frees ~1.5-2GB RAM. macOS Tahoe + Apple Silicon.",
+  "description": "Debloat your Mac from the terminal. Zero deps, SIP-safe. Interactive console util to disable 270 non-essential macOS launchd services + Spotlight toggle. Self-validates against your macOS build. Frees ~1.5-2GB RAM. macOS Tahoe + Apple Silicon.",
   "description_ja": "",
   "url": "https://github.com/OleksandrKrupko/mac-os-debloat",
   "homepage_url": "",
@@ -32,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T15:28:56Z",
-  "updated_at": "2026-08-04T05:25:41Z",
-  "pushed_at": "2026-07-17T09:19:13Z",
+  "updated_at": "2026-08-05T15:58:30Z",
+  "pushed_at": "2026-08-05T15:57:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +62,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 18
+    },
+    {
+      "date": "2026-08-08",
       "stars": 18
     }
   ]

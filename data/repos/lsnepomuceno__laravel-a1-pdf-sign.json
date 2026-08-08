@@ -3,8 +3,8 @@
   "owner": "lsnepomuceno",
   "name": "laravel-a1-pdf-sign",
   "full_name": "lsnepomuceno/laravel-a1-pdf-sign",
-  "description": "Sign PDF files with valid x509 certificate",
-  "description_ja": "有効なx509証明書でPDFファイルに署名する",
+  "description": "Multiple digital signatures on a single PDF, in Laravel. Each signature is appended as a new revision, so signing again never invalidates the ones before it. A1/x509 certificates, PAdES profiles, RFC 3161 timestamps, LTV and cryptographic validation.",
+  "description_ja": "",
   "url": "https://github.com/lsnepomuceno/laravel-a1-pdf-sign",
   "homepage_url": "https://laravel-a1-pdf-sign.netlify.app/",
   "language": "PHP",
@@ -34,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-09T20:16:56Z",
-  "updated_at": "2026-05-31T22:41:32Z",
-  "pushed_at": "2026-05-04T18:18:08Z",
+  "updated_at": "2026-08-06T12:01:25Z",
+  "pushed_at": "2026-08-06T14:57:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -368,6 +368,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 317
+    },
+    {
+      "date": "2026-08-08",
       "stars": 317
     }
   ]

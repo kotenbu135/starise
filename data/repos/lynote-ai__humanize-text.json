@@ -3,41 +3,34 @@
   "owner": "lynote-ai",
   "name": "humanize-text",
   "full_name": "lynote-ai/humanize-text",
-  "description": "Open-source humanize text toolkit. Documents 4 humanization methodologies with reference implementations, plus a production pipeline combining LLM rewriting with a cross-engine translation chain. Python, OpenAI-compatible API.",
+  "description": "Open-source pipeline and reference implementations for improving the readability and natural cadence of AI-assisted drafts.",
   "description_ja": "",
   "url": "https://github.com/lynote-ai/humanize-text",
   "homepage_url": "https://lynote.ai/ai-humanizer",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "academic-writing",
-    "ai-content-humanizer",
-    "ai-detection",
-    "ai-detection-bypasser",
-    "ai-detector",
     "ai-humanizer",
-    "ai-text-humanizer",
     "ai-tools",
     "ai-writing",
-    "gptzero-bypass",
-    "humanize",
     "humanize-ai-text",
     "humanize-text",
+    "open-source",
     "paraphrasing",
-    "student-tools",
+    "python",
+    "responsible-ai",
     "text-humanizer",
     "text-processing",
     "text-rewriting",
-    "writing-assistant",
-    "writing-tools"
+    "writing-assistant"
   ],
-  "star_count": 1549,
-  "fork_count": 92,
+  "star_count": 1554,
+  "fork_count": 93,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-18T10:12:15Z",
-  "updated_at": "2026-08-04T18:52:27Z",
-  "pushed_at": "2026-07-31T08:02:22Z",
+  "updated_at": "2026-08-08T16:33:58Z",
+  "pushed_at": "2026-08-05T08:56:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -283,6 +276,10 @@
     {
       "date": "2026-08-04",
       "stars": 1549
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1554
     }
   ]
 }

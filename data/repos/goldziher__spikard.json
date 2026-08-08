@@ -3,19 +3,27 @@
   "owner": "goldziher",
   "name": "spikard",
   "full_name": "goldziher/spikard",
-  "description": "Rust-powered, multi-language web toolkit with bindings for Python, Typescript, Ruby and PHP.",
-  "description_ja": "Rust 製の多言語対応ウェブツールキット。Python・Typescript・Ruby・PHP 向けバインディングを提供。",
+  "description": "Codegen-first polyglot web toolkit: one Rust core, 14 language bindings, spec-driven codegen (OpenAPI, AsyncAPI, GraphQL, gRPC, SQL to HTTP) and a 13-tool MCP server. Experimental, pre-1.0, MIT.",
+  "description_ja": "",
   "url": "https://github.com/Goldziher/spikard",
-  "homepage_url": "",
+  "homepage_url": "https://spikard.dev",
   "language": "Rust",
   "license": "MIT",
   "topics": [
-    "bun",
-    "deno",
-    "edge",
+    "api",
+    "asyncapi",
+    "codegen",
+    "framework",
+    "go",
+    "graphql",
+    "grpc",
     "http",
+    "json-rpc",
+    "mcp",
     "node",
+    "openapi",
     "php",
+    "polyglot",
     "python",
     "ruby",
     "rust",
@@ -24,12 +32,12 @@
     "web"
   ],
   "star_count": 115,
-  "fork_count": 6,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-30T21:03:45Z",
-  "updated_at": "2026-08-03T14:09:13Z",
-  "pushed_at": "2026-07-31T13:21:13Z",
+  "updated_at": "2026-08-07T05:39:17Z",
+  "pushed_at": "2026-08-07T05:38:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -362,6 +370,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 115
+    },
+    {
+      "date": "2026-08-08",
       "stars": 115
     }
   ]

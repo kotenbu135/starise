@@ -11,8 +11,12 @@
   "license": "NOASSERTION",
   "topics": [
     "docker",
+    "docker-compose",
     "emby",
+    "epg",
+    "epg-iptv",
     "iptv",
+    "iptv-application",
     "iptv-channels",
     "iptv-free",
     "iptv-m3u",
@@ -23,15 +27,17 @@
     "kodi",
     "m3u",
     "m3u8",
-    "plex"
+    "plex",
+    "self-hosted",
+    "self-hosting"
   ],
-  "star_count": 74,
+  "star_count": 76,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-07T17:35:07Z",
-  "updated_at": "2026-08-03T00:58:38Z",
-  "pushed_at": "2026-07-30T23:01:27Z",
+  "updated_at": "2026-08-08T10:59:52Z",
+  "pushed_at": "2026-08-06T08:02:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -157,6 +163,10 @@
     {
       "date": "2026-08-04",
       "stars": 74
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 76
     }
   ]
 }

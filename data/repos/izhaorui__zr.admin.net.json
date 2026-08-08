@@ -3,26 +3,25 @@
   "owner": "izhaorui",
   "name": "zr.admin.net",
   "full_name": "izhaorui/zr.admin.net",
-  "description": "🎉ZR.Admin.NET是一款前后端分离的、跨平台基于RBAC的通用权限管理后台。ORM采用SqlSugar。前端采用Vue、AntDesign，支持多租户、缓存、任务调度、支持统一异常处理、接口限流、支持一键生成前后端代码，支持动态国际化翻译(Vue3)，等诸多黑科技，代码简洁易懂、易扩展让开发更简单、更通用。",
-  "description_ja": "🎉 ZR.Admin.NETは、RBACベースの汎用権限管理バックエンドで、フロントエンドとバックエンドを分離したクロスプラットフォーム構成。ORMにSqlSugarを採用。フロントエンドはVue・AntDesignを使用し、マルチテナント、キャッシュ、タスクスケジューリング、統合例外処理、APIレート制限、ワンクリックでのフロント/バックエンドコード生成、動的国際化翻訳（Vue3）などの機能を搭載。コードはシンプルで拡張しやすく、開発をより簡単・汎用的にします。",
+  "description": "🎉ZR.Admin.NET是一款前后端分离的、跨平台基于RBAC的通用权限管理后台。ORM采用SqlSugar。前端采用Vue、AntDesign，支持saas多租户、缓存、任务调度、支持统一异常处理、接口限流、支持一键生成前后端代码，支持动态国际化翻译(Vue3)，等诸多黑科技，代码简洁易懂、易扩展让开发更简单、更通用。",
+  "description_ja": "",
   "url": "https://github.com/izhaorui/Zr.Admin.NET",
   "homepage_url": "http://www.izhaorui.cn",
   "language": "C#",
   "license": "MIT",
   "topics": [
     "admin",
-    "net7",
     "saas",
     "sqlsugar",
     "uniapp"
   ],
-  "star_count": 1626,
+  "star_count": 1629,
   "fork_count": 170,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-26T08:05:17Z",
-  "updated_at": "2026-08-04T05:53:43Z",
-  "pushed_at": "2026-07-25T03:09:54Z",
+  "updated_at": "2026-08-07T12:30:11Z",
+  "pushed_at": "2026-08-04T22:55:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -360,6 +359,10 @@
     {
       "date": "2026-08-04",
       "stars": 1626
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1629
     }
   ]
 }

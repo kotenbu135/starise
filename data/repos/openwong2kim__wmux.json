@@ -3,10 +3,10 @@
   "owner": "openwong2kim",
   "name": "wmux",
   "full_name": "openwong2kim/wmux",
-  "description": "Workspace multiplexer for AI agent",
+  "description": "Run Claude Code, Codex \u0026 Gemini in parallel on Windows \u0026 macOS — git worktree fan-out with atomic hunk adoption, approval gates, reboot-surviving sessions",
   "description_ja": "",
   "url": "https://github.com/openwong2kim/wmux",
-  "homepage_url": "https://github.com/openwong2kim/wmux#readme",
+  "homepage_url": "https://www.wmux.app",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -29,13 +29,13 @@
     "windows",
     "workspace-multiplexer"
   ],
-  "star_count": 324,
+  "star_count": 333,
   "fork_count": 55,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-20T02:54:57Z",
-  "updated_at": "2026-08-04T21:49:06Z",
-  "pushed_at": "2026-08-04T21:03:08Z",
+  "updated_at": "2026-08-08T08:37:29Z",
+  "pushed_at": "2026-08-08T08:51:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -373,6 +373,10 @@
     {
       "date": "2026-08-04",
       "stars": 324
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 333
     }
   ]
 }

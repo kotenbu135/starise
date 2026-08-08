@@ -3,24 +3,24 @@
   "owner": "elementalsouls",
   "name": "claude-osint",
   "full_name": "elementalsouls/claude-osint",
-  "description": "Two paired Claude skills · 90+ recon modules · 48 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · 5,500+ lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements.",
+  "description": "8 Claude skills · 100+ recon capabilities · 80 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · ~10,000 lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements.",
   "description_ja": "",
   "url": "https://github.com/elementalsouls/Claude-OSINT",
   "homepage_url": "",
   "language": "Python",
-  "license": "NOASSERTION",
+  "license": "MIT",
   "topics": [
     "agentskills",
     "claude",
     "skills"
   ],
-  "star_count": 2202,
-  "fork_count": 408,
+  "star_count": 2247,
+  "fork_count": 416,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-26T21:09:56Z",
-  "updated_at": "2026-08-04T17:42:47Z",
-  "pushed_at": "2026-06-08T20:41:52Z",
+  "updated_at": "2026-08-08T17:56:56Z",
+  "pushed_at": "2026-08-08T17:56:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -322,6 +322,10 @@
     {
       "date": "2026-08-04",
       "stars": 2202
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 2247
     }
   ]
 }

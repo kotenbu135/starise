@@ -6,17 +6,27 @@
   "description": "A Hibernate Repository to handle easier usage of the Hibernate / Jakarta Framework for Applications likes Paper / Bukkit / Spigot Minecraft Servers or Spring Applications",
   "description_ja": "",
   "url": "https://github.com/JExcellence/JEHibernate",
-  "homepage_url": "",
+  "homepage_url": "https://jexcellence.de",
   "language": "Java",
   "license": "MIT",
-  "topics": [],
-  "star_count": 37,
+  "topics": [
+    "hibernate",
+    "hibernate-jpa",
+    "hibernate-orm",
+    "paper",
+    "papermc",
+    "spigot",
+    "spigot-api",
+    "spring-boot",
+    "spring-data-jpa"
+  ],
+  "star_count": 39,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-06T18:04:54Z",
-  "updated_at": "2026-08-04T13:54:15Z",
-  "pushed_at": "2026-06-04T18:39:20Z",
+  "updated_at": "2026-08-07T07:34:34Z",
+  "pushed_at": "2026-08-06T07:43:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -274,6 +284,10 @@
     {
       "date": "2026-08-04",
       "stars": 37
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 39
     }
   ]
 }

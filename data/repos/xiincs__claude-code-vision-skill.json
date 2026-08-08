@@ -9,13 +9,23 @@
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 132,
+  "topics": [
+    "agent-skills",
+    "anthropic",
+    "claude-code",
+    "claude-skills",
+    "deepseek",
+    "multimodal",
+    "python",
+    "qwen",
+    "vision"
+  ],
+  "star_count": 148,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-21T11:51:52Z",
-  "updated_at": "2026-08-04T17:54:05Z",
+  "updated_at": "2026-08-08T10:59:25Z",
   "pushed_at": "2026-08-03T14:55:15Z",
   "deleted_at": "",
   "star_history": [
@@ -174,6 +184,10 @@
     {
       "date": "2026-08-04",
       "stars": 132
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 148
     }
   ]
 }

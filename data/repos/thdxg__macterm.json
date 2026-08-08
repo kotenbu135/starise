@@ -3,7 +3,7 @@
   "owner": "thdxg",
   "name": "macterm",
   "full_name": "thdxg/macterm",
-  "description": "A macOS terminal with session persistence, smart multiplexing, and native UI, built on libghostty",
+  "description": "A macOS terminal with session persistence, smart multiplexing, and native UI",
   "description_ja": "",
   "url": "https://github.com/thdxg/macterm",
   "homepage_url": "https://macterm.thdxg.dev",
@@ -11,17 +11,20 @@
   "license": "MIT",
   "topics": [
     "ghostty",
+    "libghostty",
     "macos",
     "multiplexer",
-    "terminal"
+    "native",
+    "terminal",
+    "zmx"
   ],
-  "star_count": 406,
+  "star_count": 407,
   "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-12T04:22:18Z",
-  "updated_at": "2026-08-04T11:03:58Z",
-  "pushed_at": "2026-08-03T16:53:54Z",
+  "updated_at": "2026-08-07T20:23:20Z",
+  "pushed_at": "2026-08-07T17:11:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -355,6 +358,10 @@
     {
       "date": "2026-08-04",
       "stars": 406
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 407
     }
   ]
 }

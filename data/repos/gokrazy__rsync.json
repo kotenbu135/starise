@@ -6,7 +6,7 @@
   "description": "rsync in Go! implements client and server, which can send or receive files (upload, download, all directions supported)",
   "description_ja": "Go で実装した rsync！クライアントとサーバーを実装し、ファイルの送受信（アップロード・ダウンロード、全方向）に対応",
   "url": "https://github.com/gokrazy/rsync",
-  "homepage_url": "",
+  "homepage_url": "https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/",
   "language": "Go",
   "license": "BSD-3-Clause",
   "topics": [
@@ -23,13 +23,13 @@
     "server",
     "upload"
   ],
-  "star_count": 842,
+  "star_count": 845,
   "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-22T16:47:40Z",
-  "updated_at": "2026-08-02T17:05:30Z",
-  "pushed_at": "2026-07-02T21:56:19Z",
+  "updated_at": "2026-08-08T00:22:41Z",
+  "pushed_at": "2026-08-07T17:12:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -367,6 +367,10 @@
     {
       "date": "2026-08-04",
       "stars": 842
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 845
     }
   ]
 }

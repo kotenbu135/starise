@@ -3,8 +3,8 @@
   "owner": "dotnet",
   "name": "aspnet-api-versioning",
   "full_name": "dotnet/aspnet-api-versioning",
-  "description": "Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.",
-  "description_ja": "ASP.NET Web API、ASP.NET Web API 向け OData、ASP.NET Core にサービス API バージョニングを追加するライブラリセットを提供します。",
+  "description": "Provides a set of libraries which add service API versioning to ASP.NET Core Minimal APIs, Controllers, gRPC, OData, and Web API (Classic).",
+  "description_ja": "",
   "url": "https://github.com/dotnet/aspnet-api-versioning",
   "homepage_url": "",
   "language": "C#",
@@ -17,13 +17,13 @@
     "versioning-semantics",
     "webapi"
   ],
-  "star_count": 3202,
-  "fork_count": 720,
+  "star_count": 3203,
+  "fork_count": 721,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-07-26T14:13:32Z",
-  "updated_at": "2026-07-31T08:44:02Z",
-  "pushed_at": "2026-07-30T16:49:12Z",
+  "updated_at": "2026-08-07T01:28:33Z",
+  "pushed_at": "2026-08-06T08:22:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -361,6 +361,10 @@
     {
       "date": "2026-08-04",
       "stars": 3202
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 3203
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "meziantou",
   "name": "meziantou.polyfill",
   "full_name": "meziantou/meziantou.polyfill",
-  "description": "",
+  "description": "Source Generator that adds polyfill methods and types so projects targeting older TFMs can compile with source-compatible APIs.",
   "description_ja": "",
   "url": "https://github.com/meziantou/Meziantou.Polyfill",
   "homepage_url": "https://www.meziantou.net/",
@@ -13,13 +13,13 @@
     "dotnet",
     "polyfill"
   ],
-  "star_count": 101,
+  "star_count": 102,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-06-07T03:14:17Z",
-  "updated_at": "2026-07-29T12:18:12Z",
-  "pushed_at": "2026-08-03T16:31:39Z",
+  "updated_at": "2026-08-08T17:28:27Z",
+  "pushed_at": "2026-08-08T17:29:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -97,6 +97,10 @@
     {
       "date": "2026-08-04",
       "stars": 101
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 102
     }
   ]
 }

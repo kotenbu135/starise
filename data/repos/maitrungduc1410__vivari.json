@@ -3,7 +3,7 @@
   "owner": "maitrungduc1410",
   "name": "vivari",
   "full_name": "maitrungduc1410/vivari",
-  "description": "An open-source, MIT-licensed WebContainer - run Node projects (Vite, Express, and more) 100% in the browser. No server. Bun support in progress.",
+  "description": "Open-source MIT WebContainer alternative. Run Node, Bun and Python 100% in the browser — Node's real lib/, real npm/yarn/pnpm, Next.js 16 RSC, Vite, SvelteKit, SQLite and Postgres, plus a CDP step debugger. No server, no license fee.",
   "description_ja": "",
   "url": "https://github.com/maitrungduc1410/vivari",
   "homepage_url": "https://vivari.run",
@@ -19,13 +19,13 @@
     "webassembly",
     "webcontainer"
   ],
-  "star_count": 46,
-  "fork_count": 6,
+  "star_count": 49,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-19T08:22:33Z",
-  "updated_at": "2026-08-04T15:01:56Z",
-  "pushed_at": "2026-08-04T15:00:27Z",
+  "updated_at": "2026-08-08T14:00:59Z",
+  "pushed_at": "2026-08-08T06:51:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-08-04",
       "stars": 46
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 49
     }
   ]
 }

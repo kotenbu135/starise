@@ -3,7 +3,7 @@
   "owner": "notoriouslab",
   "name": "vault-curate",
   "full_name": "notoriouslab/vault-curate",
-  "description": "Hybrid semantic search and AI curation for your vault. Combines BM25 keyword, on-device WebGPU embeddings, and fuzzy title matching. Multilingual, with particularly strong Chinese/CJK support. Opt-in AI features auto-generate note descriptions and topic-grouped Maps of Content. Local-first, no API keys.",
+  "description": "Find, connect, rediscover your notes — a local-first second brain for Obsidian. Semantic search with strong Chinese/CJK, relation graphs and semantic paths for connections you never drew, Hot/Cold rediscovery of forgotten notes. Desktop builds the index; phones and tablets search it. No API keys.",
   "description_ja": "",
   "url": "https://github.com/notoriouslab/vault-curate",
   "homepage_url": "https://community.obsidian.md/plugins/vault-curate",
@@ -15,6 +15,7 @@
     "chinese-search",
     "embeddings",
     "hybrid-search",
+    "mobile",
     "obsidian",
     "obsidian-md",
     "obsidian-plugin",
@@ -31,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T11:14:03Z",
-  "updated_at": "2026-08-04T06:55:14Z",
-  "pushed_at": "2026-07-30T09:45:01Z",
+  "updated_at": "2026-08-06T10:27:03Z",
+  "pushed_at": "2026-08-06T10:26:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -301,6 +302,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 130
+    },
+    {
+      "date": "2026-08-08",
       "stars": 130
     }
   ]

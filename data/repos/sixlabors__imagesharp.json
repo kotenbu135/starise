@@ -3,8 +3,8 @@
   "owner": "sixlabors",
   "name": "imagesharp",
   "full_name": "sixlabors/imagesharp",
-  "description": ":camera: A modern, cross-platform, 2D Graphics library for .NET",
-  "description_ja": "モダンでクロスプラットフォームな .NET 向け 2D グラフィックスライブラリ",
+  "description": "A modern, cross-platform, 2D Graphics library for .NET",
+  "description_ja": "",
   "url": "https://github.com/SixLabors/ImageSharp",
   "homepage_url": "https://sixlabors.com/products/imagesharp/",
   "language": "C#",
@@ -24,13 +24,13 @@
     "tiff",
     "webp"
   ],
-  "star_count": 8023,
+  "star_count": 8025,
   "fork_count": 894,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-10-28T04:46:36Z",
-  "updated_at": "2026-08-04T10:29:59Z",
-  "pushed_at": "2026-07-30T03:56:54Z",
+  "updated_at": "2026-08-08T14:25:33Z",
+  "pushed_at": "2026-08-08T13:11:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -368,6 +368,10 @@
     {
       "date": "2026-08-04",
       "stars": 8023
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 8025
     }
   ]
 }

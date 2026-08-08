@@ -3,31 +3,28 @@
   "owner": "zhuzhaoyun",
   "name": "molio",
   "full_name": "zhuzhaoyun/molio",
-  "description": "更懂你的 AI 工作伙伴：把 Claude Code / Codex 等 AI runtime 接到你的 Obsidian 知识库，读你的积累做研究、分析、创作，产出回写入库，构建 LLM Wiki 与知识图谱。本地运行，数据永不上传 | The AI work partner that knows you better: plug Claude Code \u0026 Codex into your Obsidian vault — research, analyze, create, write results back, build an LLM Wiki \u0026 knowledge graph. Local-first, data stays yours",
+  "description": "A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows.",
   "description_ja": "",
   "url": "https://github.com/zhuzhaoyun/Molio",
-  "homepage_url": "https://molio.cn/",
+  "homepage_url": "https://molio.cn",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
-    "ai-writing",
     "claude-code",
-    "electron-app",
     "knowledge-management",
     "llmwiki",
     "local-first",
-    "markdown",
     "obsidian",
     "web-clipper",
     "wechat-bot"
   ],
-  "star_count": 104,
-  "fork_count": 21,
+  "star_count": 147,
+  "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-04T07:45:17Z",
-  "updated_at": "2026-08-04T22:32:03Z",
-  "pushed_at": "2026-08-04T15:09:10Z",
+  "updated_at": "2026-08-08T20:49:16Z",
+  "pushed_at": "2026-08-08T15:29:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -93,6 +90,10 @@
     {
       "date": "2026-08-04",
       "stars": 104
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 147
     }
   ]
 }

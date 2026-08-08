@@ -3,7 +3,7 @@
   "owner": "flowing-abyss",
   "name": "obsidian-hybrid-search",
   "full_name": "flowing-abyss/obsidian-hybrid-search",
-  "description": "Hybrid search over your Obsidian vault – CLI and MCP server",
+  "description": "Hybrid search for Obsidian vaults via plugin, CLI, and MCP server",
   "description_ja": "",
   "url": "https://github.com/flowing-abyss/obsidian-hybrid-search",
   "homepage_url": "",
@@ -17,13 +17,13 @@
     "sqlite",
     "vector-search"
   ],
-  "star_count": 93,
-  "fork_count": 13,
+  "star_count": 95,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T15:15:51Z",
-  "updated_at": "2026-08-03T10:05:52Z",
-  "pushed_at": "2026-08-03T10:11:56Z",
+  "updated_at": "2026-08-08T03:20:11Z",
+  "pushed_at": "2026-08-08T03:20:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -277,6 +277,10 @@
     {
       "date": "2026-08-04",
       "stars": 93
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 95
     }
   ]
 }

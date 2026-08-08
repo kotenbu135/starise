@@ -7,7 +7,7 @@
   "description_ja": "完全な負荷テストプラットフォーム。本番グレードの負荷テストに必要なすべてを提供。サーバーレス＆分散対応。Playwrightを使った負荷テスト、HTTP API・GraphQL・WebSocketなどのテストに対応。任意のNode.jsモジュールを利用可能。",
   "url": "https://github.com/artilleryio/artillery",
   "homepage_url": "https://www.artillery.io",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "MPL-2.0",
   "topics": [
     "api",
@@ -31,13 +31,13 @@
     "typescript",
     "websocket"
   ],
-  "star_count": 9039,
-  "fork_count": 558,
+  "star_count": 9049,
+  "fork_count": 559,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-05-28T12:31:42Z",
-  "updated_at": "2026-08-04T15:12:57Z",
-  "pushed_at": "2026-08-04T15:11:17Z",
+  "updated_at": "2026-08-08T04:03:58Z",
+  "pushed_at": "2026-08-07T21:42:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -375,6 +375,10 @@
     {
       "date": "2026-08-04",
       "stars": 9039
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 9049
     }
   ]
 }

@@ -7,7 +7,7 @@
   "description_ja": "オープンソース LLM のファインチューニング・構築・デプロイを簡単に行えるツール",
   "url": "https://github.com/kaito-project/aikit",
   "homepage_url": "https://kaito-project.github.io/aikit/",
-  "language": "Go",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "ai",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-20T02:31:11Z",
-  "updated_at": "2026-08-04T16:59:10Z",
-  "pushed_at": "2026-08-04T16:57:49Z",
+  "updated_at": "2026-08-08T16:34:06Z",
+  "pushed_at": "2026-08-08T17:43:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -374,6 +374,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 535
+    },
+    {
+      "date": "2026-08-08",
       "stars": 535
     }
   ]

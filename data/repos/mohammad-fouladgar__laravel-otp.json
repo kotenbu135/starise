@@ -3,7 +3,7 @@
   "owner": "mohammad-fouladgar",
   "name": "laravel-otp",
   "full_name": "mohammad-fouladgar/laravel-otp",
-  "description": "This package provides convenient methods for sending and validating OTP notifications to users for authentication.",
+  "description": "Headless OTP generation and validation for Laravel — channel-agnostic, event-driven, and framework for any recipient type.",
   "description_ja": "",
   "url": "https://github.com/mohammad-fouladgar/laravel-otp",
   "homepage_url": "https://medium.com/p/e9ae2400ea37",
@@ -12,7 +12,6 @@
   "topics": [
     "laravel",
     "laravel-otp",
-    "lumen-otp",
     "one-time-password",
     "otp",
     "otp-authentication",
@@ -25,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-07-23T15:35:17Z",
-  "updated_at": "2026-08-03T15:46:44Z",
-  "pushed_at": "2026-08-03T15:43:21Z",
+  "updated_at": "2026-08-08T13:09:53Z",
+  "pushed_at": "2026-08-08T13:09:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -339,6 +338,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 212
+    },
+    {
+      "date": "2026-08-08",
       "stars": 212
     }
   ]

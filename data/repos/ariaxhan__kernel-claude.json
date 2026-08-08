@@ -8,15 +8,26 @@
   "url": "https://github.com/ariaxhan/kernel-claude",
   "homepage_url": "",
   "language": "JavaScript",
-  "license": "",
-  "topics": [],
+  "license": "MIT",
+  "topics": [
+    "agent-memory",
+    "ai-agents",
+    "anthropic",
+    "claude-code",
+    "developer-tools",
+    "llm-agents",
+    "multi-agent-systems",
+    "prompt-engineering",
+    "self-improving-ai",
+    "sqlite"
+  ],
   "star_count": 12,
-  "fork_count": 0,
+  "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-10T00:44:54Z",
-  "updated_at": "2026-07-24T22:08:33Z",
-  "pushed_at": "2026-08-02T02:05:08Z",
+  "updated_at": "2026-08-08T18:51:26Z",
+  "pushed_at": "2026-08-08T18:51:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -301,6 +312,10 @@
     },
     {
       "date": "2026-08-04",
+      "stars": 12
+    },
+    {
+      "date": "2026-08-08",
       "stars": 12
     }
   ]

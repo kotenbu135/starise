@@ -3,7 +3,7 @@
   "owner": "lukasl-dev",
   "name": "pi.nix",
   "full_name": "lukasl-dev/pi.nix",
-  "description": "Nix flake for pi, a terminal coding agent.",
+  "description": "Nix flake for earendil's pi, a terminal coding agent.",
   "description_ja": "",
   "url": "https://github.com/lukasl-dev/pi.nix",
   "homepage_url": "https://github.com/earendil-works/pi",
@@ -16,13 +16,13 @@
     "pi",
     "pi-mono"
   ],
-  "star_count": 79,
-  "fork_count": 11,
+  "star_count": 83,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T00:19:11Z",
-  "updated_at": "2026-08-03T19:22:35Z",
-  "pushed_at": "2026-08-03T07:48:39Z",
+  "updated_at": "2026-08-08T09:27:11Z",
+  "pushed_at": "2026-08-08T05:13:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -292,6 +292,10 @@
     {
       "date": "2026-08-04",
       "stars": 79
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 83
     }
   ]
 }

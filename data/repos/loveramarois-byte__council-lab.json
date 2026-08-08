@@ -3,29 +3,35 @@
   "owner": "loveramarois-byte",
   "name": "council-lab",
   "full_name": "loveramarois-byte/council-lab",
-  "description": "Local-first, human-participatory four-agent AI deliberation workspace",
+  "description": "Local-first AI decision workspace with four competing perspectives, human approval, evidence tracking, and native macOS and Windows apps.",
   "description_ja": "",
   "url": "https://github.com/loveramarois-byte/council-lab",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "accessibility",
     "ai-agents",
     "ccswitch",
+    "decision-support",
     "deliberation",
+    "desktop-app",
     "fastapi",
     "langgraph",
     "local-first",
+    "macos",
     "multi-agent",
-    "nextjs"
+    "nextjs",
+    "privacy",
+    "windows"
   ],
-  "star_count": 79,
-  "fork_count": 11,
+  "star_count": 96,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-27T14:14:09Z",
-  "updated_at": "2026-08-03T17:00:16Z",
-  "pushed_at": "2026-08-04T00:15:02Z",
+  "updated_at": "2026-08-08T15:25:33Z",
+  "pushed_at": "2026-08-08T15:27:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +49,10 @@
     {
       "date": "2026-08-04",
       "stars": 79
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 96
     }
   ]
 }
