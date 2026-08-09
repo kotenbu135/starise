@@ -3,7 +3,7 @@
   "owner": "jochenyang",
   "name": "luma-mcp",
   "full_name": "jochenyang/luma-mcp",
-  "description": "Multi-Model Visual Understanding MCP Server, GLM-4.6V, DeepSeek-OCR (free), and Qwen3-VL-Flash. Provide visual processing capabilities for AI coding models that do not support image understanding.多模型视觉理解MCP服务器，GLM-4.6V、DeepSeek-OCR（免费）和Qwen3-VL-Flash等。为不支持图片理解的 AI 编码模型提供视觉处理能力。",
+  "description": "多模型视觉理解 MCP 服务器，为不支持图片理解的 AI 编码模型提供视觉能力：分析截图、报错、UI 与文档，可接入多家主流视觉大模型。Multi-model vision MCP server that adds image understanding to AI coding models without native vision — analyze screenshots, errors, UI and documents via major vision LLM providers.",
   "description_ja": "",
   "url": "https://github.com/JochenYang/luma-mcp",
   "homepage_url": "",
@@ -16,18 +16,22 @@
     "model-context-protocol",
     "vision"
   ],
-  "star_count": 99,
+  "star_count": 101,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-11T14:02:06Z",
-  "updated_at": "2026-08-08T13:15:55Z",
-  "pushed_at": "2026-08-07T11:55:33Z",
+  "updated_at": "2026-08-09T14:05:22Z",
+  "pushed_at": "2026-08-09T06:39:44Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-08-08",
       "stars": 99
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 101
     }
   ]
 }

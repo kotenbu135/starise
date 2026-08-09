@@ -3,11 +3,11 @@
   "owner": "livetl",
   "name": "livetl",
   "full_name": "livetl/livetl",
-  "description": "Get live translations for YouTube streams, crowdsourced from multilingual viewers!",
-  "description_ja": "多言語ユーザーのクラウドソーシングによる YouTube ライブ配信のリアルタイム翻訳を取得！",
+  "description": "LiveTL + HyperChat | Get live translations for YouTube streams, crowdsourced from multilingual viewers!",
+  "description_ja": "",
   "url": "https://github.com/LiveTL/LiveTL",
   "homepage_url": "https://livetl.app/",
-  "language": "JavaScript",
+  "language": "Svelte",
   "license": "AGPL-3.0",
   "topics": [
     "hacktoberfest",
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-22T07:39:58Z",
-  "updated_at": "2026-08-01T21:25:45Z",
-  "pushed_at": "2026-08-01T22:42:58Z",
+  "updated_at": "2026-08-09T17:13:21Z",
+  "pushed_at": "2026-08-09T17:16:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -364,6 +364,10 @@
     },
     {
       "date": "2026-08-08",
+      "stars": 615
+    },
+    {
+      "date": "2026-08-09",
       "stars": 615
     }
   ]

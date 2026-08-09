@@ -3,8 +3,8 @@
   "owner": "wader",
   "name": "fq",
   "full_name": "wader/fq",
-  "description": "jq for binary formats - tool, language and decoders for working with binary and text formats",
-  "description_ja": "バイナリフォーマット向けの jq — バイナリおよびテキスト形式を扱うためのツール、言語、デコーダー。",
+  "description": "fq - jq for binary formats. Tool, language and decoders for working with binary formats.",
+  "description_ja": "",
   "url": "https://github.com/wader/fq",
   "homepage_url": "",
   "language": "Go",
@@ -24,13 +24,13 @@
     "tls",
     "xml"
   ],
-  "star_count": 10553,
+  "star_count": 10554,
   "fork_count": 248,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-02-07T21:37:53Z",
-  "updated_at": "2026-08-08T06:49:38Z",
-  "pushed_at": "2026-08-06T09:10:31Z",
+  "updated_at": "2026-08-09T18:36:20Z",
+  "pushed_at": "2026-08-09T18:33:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -372,6 +372,10 @@
     {
       "date": "2026-08-08",
       "stars": 10553
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 10554
     }
   ]
 }

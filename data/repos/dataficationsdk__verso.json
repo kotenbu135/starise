@@ -3,8 +3,8 @@
   "owner": "dataficationsdk",
   "name": "verso",
   "full_name": "dataficationsdk/verso",
-  "description": "Extensible interactive notebook platform for .NET. Every built-in feature, from the C# kernel to the dashboard layout, is an extension built on the same public interfaces available to third-party authors. Runs in VS Code and the browser.",
-  "description_ja": ".NET向けの拡張可能なインタラクティブノートブックプラットフォーム。C#カーネルからダッシュボードレイアウトまで、すべての組み込み機能はサードパーティ製作者が利用できる同一のパブリックインターフェース上に構築された拡張機能です。VS Codeおよびブラウザで動作します",
+  "description": "Extensible interactive notebook platform. Every feature is an extension built on the same public interfaces available to third party authors. Runs in VS Code and the browser.",
+  "description_ja": "",
   "url": "https://github.com/DataficationSDK/Verso",
   "homepage_url": "https://www.versonotebooks.com",
   "language": "C#",
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-13T18:45:40Z",
-  "updated_at": "2026-08-08T15:17:29Z",
-  "pushed_at": "2026-08-08T15:17:47Z",
+  "updated_at": "2026-08-08T20:26:29Z",
+  "pushed_at": "2026-08-08T20:26:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -360,6 +360,10 @@
     },
     {
       "date": "2026-08-08",
+      "stars": 212
+    },
+    {
+      "date": "2026-08-09",
       "stars": 212
     }
   ]

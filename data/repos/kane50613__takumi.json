@@ -3,7 +3,7 @@
   "owner": "kane50613",
   "name": "takumi",
   "full_name": "kane50613/takumi",
-  "description": "Render JSX \u0026 HTML to image, SVG or PDF. 170+ CSS properties supported. Drop-in next/og replacement.",
+  "description": "Render OG images and paged PDFs from JSX, HTML, and CSS. No headless browser. Runs on Node.js, Cloudflare Workers, browsers, and Rust.",
   "description_ja": "",
   "url": "https://github.com/kane50613/takumi",
   "homepage_url": "https://takumi.kane.tw",
@@ -11,29 +11,32 @@
   "license": "Apache-2.0",
   "topics": [
     "cloudflare-workers",
-    "css",
     "gif",
     "html-to-image",
+    "html-to-pdf",
     "image-generation",
+    "invoice",
     "jsx",
-    "nodejs",
     "og-image",
     "opengraph",
+    "opengraph-images",
     "pdf",
     "pdf-generation",
-    "react",
+    "pdf-generator",
+    "puppeteer-alternative",
     "rust",
     "satori",
-    "tailwindcss",
+    "social-cards",
+    "svg",
     "wasm"
   ],
-  "star_count": 2729,
-  "fork_count": 51,
+  "star_count": 2743,
+  "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-01T08:19:38Z",
-  "updated_at": "2026-08-08T19:19:42Z",
-  "pushed_at": "2026-08-08T16:33:54Z",
+  "updated_at": "2026-08-09T19:38:17Z",
+  "pushed_at": "2026-08-09T19:41:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -375,6 +378,10 @@
     {
       "date": "2026-08-08",
       "stars": 2729
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 2743
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "scanaislop",
   "name": "aislop",
   "full_name": "scanaislop/aislop",
-  "description": "Catch code-quality issues AI agents leave behind. 50+ deterministic rules across 10 language targets. CLI, CI, and GitHub Actions. No LLM at runtime. MIT.",
+  "description": "Catch and fix the code-quality issues AI coding agents leave behind - dead code, unsafe casts, swallowed errors, duplication, security risks, and more. 50+ deterministic rules across 10 language targets, with CLI, CI, and GitHub Actions. No LLM at runtime. MIT.",
   "description_ja": "",
   "url": "https://github.com/scanaislop/aislop",
   "homepage_url": "https://scanaislop.com",
@@ -31,12 +31,12 @@
     "static-analysis",
     "typescript"
   ],
-  "star_count": 543,
+  "star_count": 544,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T13:05:19Z",
-  "updated_at": "2026-08-08T17:07:14Z",
+  "updated_at": "2026-08-09T02:58:10Z",
   "pushed_at": "2026-08-08T19:00:19Z",
   "deleted_at": "",
   "star_history": [
@@ -279,6 +279,10 @@
     {
       "date": "2026-08-08",
       "stars": 543
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 544
     }
   ]
 }

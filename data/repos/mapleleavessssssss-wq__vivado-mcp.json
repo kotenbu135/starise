@@ -3,7 +3,7 @@
   "owner": "mapleleavessssssss-wq",
   "name": "vivado-mcp",
   "full_name": "mapleleavessssssss-wq/vivado-mcp",
-  "description": "MCP server for Xilinx Vivado — 让 AI(Claude Code / Cursor)驱动 FPGA 全流程:综合/实现/仿真/波形/时序诊断。30 个精简工具,CRITICAL WARNING 自动分类 + 中文修复建议,其余交给 run_tcl —— less is more",
+  "description": "Vivado MCP server — 让 Claude Code / Cursor / Codex 驱动本地 FPGA 全流程。30 个精选工具、8 个证据驱动 Prompt、doctor 环境自检、GUI/Tcl/attach 会话，以及时序和 CRITICAL WARNING 中文诊断。",
   "description_ja": "",
   "url": "https://github.com/mapleleavessssssss-wq/vivado-mcp",
   "homepage_url": "https://pypi.org/project/vivado-mcp/",
@@ -12,11 +12,14 @@
   "topics": [
     "ai",
     "claude",
+    "codex",
     "eda",
     "fpga",
+    "hardware-debugging",
     "mcp",
     "mcp-server",
     "model-context-protocol",
+    "python",
     "tcl",
     "verilog",
     "vivado",
@@ -28,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-12T04:24:57Z",
-  "updated_at": "2026-08-08T14:47:03Z",
-  "pushed_at": "2026-08-08T09:25:37Z",
+  "updated_at": "2026-08-09T08:37:35Z",
+  "pushed_at": "2026-08-09T08:34:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -278,6 +281,10 @@
     },
     {
       "date": "2026-08-08",
+      "stars": 98
+    },
+    {
+      "date": "2026-08-09",
       "stars": 98
     }
   ]

@@ -3,20 +3,33 @@
   "owner": "daisuke0131",
   "name": "viewmonitor",
   "full_name": "daisuke0131/viewmonitor",
-  "description": "ViewMonitor can measure view positions with accuracy.",
+  "description": "An in-app visual layout inspector for iOS. Inspect UIKit and SwiftUI views, frames, spacing, overlaps, insets, and properties on device.",
   "description_ja": "",
   "url": "https://github.com/daisuke0131/ViewMonitor",
   "homepage_url": "",
   "language": "Swift",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "debugging",
+    "design-tools",
+    "developer-tools",
+    "ios",
+    "layout",
+    "layout-debugger",
+    "swift",
+    "swift-package-manager",
+    "swiftui",
+    "ui-debugging",
+    "ui-inspector",
+    "uikit"
+  ],
   "star_count": 720,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-06-10T12:13:29Z",
-  "updated_at": "2026-08-06T13:08:57Z",
-  "pushed_at": "2026-08-06T16:30:03Z",
+  "updated_at": "2026-08-09T15:34:29Z",
+  "pushed_at": "2026-08-09T15:34:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -25,6 +38,10 @@
     },
     {
       "date": "2026-08-08",
+      "stars": 720
+    },
+    {
+      "date": "2026-08-09",
       "stars": 720
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "minerproxypro",
   "name": "tcminerproxy",
   "full_name": "minerproxypro/tcminerproxy",
-  "description": "MinerProxy矿池抽水 矿池代理 矿池中转 矿池抽水  纯中转Rust全新独立架构矿池中转 / 算力抽水工具 TCMinerProxy；近年全球大型矿场主流 Stratum 矿池代理，支持算力分流、自建私有矿池、TMS 加密隧道，适配全币种比特币挖矿等POW 算力运维软件。",
+  "description": "MinerProxy矿池抽水 矿池代理 矿池中转 矿池抽水  纯中转Rust全新独立架构矿池中转 / 算力抽水工具 TCMinerProxy；近年全球大型矿场主流 Stratum 矿池代理，支持算力分流、自建私有矿池、TMS 加密隧道，适配全币种比特币挖矿等POW 算力运维软件Bitcoin Mining Farm Management。",
   "description_ja": "",
   "url": "https://github.com/MinerProxyPro/TCMinerProxy",
   "homepage_url": "https://www.tcminerproxy.com",
@@ -21,12 +21,12 @@
     "rust",
     "stratum-proxy"
   ],
-  "star_count": 363,
+  "star_count": 374,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-23T14:14:10Z",
-  "updated_at": "2026-08-08T19:30:11Z",
+  "updated_at": "2026-08-09T19:10:11Z",
   "pushed_at": "2026-08-07T11:35:33Z",
   "deleted_at": "",
   "star_history": [
@@ -97,6 +97,10 @@
     {
       "date": "2026-08-08",
       "stars": 363
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 374
     }
   ]
 }

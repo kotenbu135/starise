@@ -3,7 +3,7 @@
   "owner": "jamailar",
   "name": "beav",
   "full_name": "jamailar/beav",
-  "description": "小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作、自媒体版WorkBuddy、小红书爬虫数据采集｜你桌面盒子里的AI小河狸🦫",
+  "description": "小红书 AI 工作台｜小红书采集、评论区下载、素材库、选题、AI写作、小红书全域解决方案，开箱即用，一键安装，小红书AI工作台，自媒体素材库，AI写作+图片自动编排，小红书版OpenClaw、自媒体资产底座+AI工作台，支持小红书图文+小红书评论区下载、小红书AI创作、自媒体版WorkBuddy、小红书爬虫数据采集",
   "description_ja": "",
   "url": "https://github.com/Jamailar/Beav",
   "homepage_url": "https://beav.me/",
@@ -12,22 +12,25 @@
   "topics": [
     "ai",
     "ai-agents",
-    "claude-design",
     "content-creation",
-    "gpt-image-2",
     "harness-engineering",
     "hermes",
     "hermes-agent",
     "openclaw",
     "skills",
+    "xhs",
+    "xhs-downloader",
+    "xhs-tool",
+    "xiaohongshu",
+    "xiaohongshu-downloader",
     "xiaohongshu-scraper"
   ],
-  "star_count": 1377,
-  "fork_count": 191,
+  "star_count": 1379,
+  "fork_count": 193,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-04T04:59:21Z",
-  "updated_at": "2026-08-08T09:27:28Z",
+  "updated_at": "2026-08-09T14:52:48Z",
   "pushed_at": "2026-08-07T10:40:35Z",
   "deleted_at": "",
   "star_history": [
@@ -370,6 +373,10 @@
     {
       "date": "2026-08-08",
       "stars": 1377
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 1379
     }
   ]
 }

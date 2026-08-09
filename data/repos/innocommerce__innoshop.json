@@ -3,7 +3,7 @@
   "owner": "innocommerce",
   "name": "innoshop",
   "full_name": "innocommerce/innoshop",
-  "description": "InnoShop is an AI-powered open source e-commerce system built on Laravel 13, designed for global commerce. It supports multiple AI models for intelligent automation, with native multi-language and multi-currency capabilities. The   modular architecture and flexible plugin/theme system make it highly adaptable to diverse business needs.",
+  "description": "InnoShop is an AI-powered open source e-commerce system built on Laravel 13. It supports multiple AI models and native MCP (Model Context Protocol) for intelligent automation, with multi-language and multi-currency out of the box. Modular architecture and flexible plugin/theme system make it highly adaptable to diverse business needs.",
   "description_ja": "",
   "url": "https://github.com/innocommerce/innoshop",
   "homepage_url": "https://www.innoshop.com",
@@ -11,33 +11,33 @@
   "license": "NOASSERTION",
   "topics": [
     "ai",
+    "ai-commerce",
     "b2c",
+    "e-commerce",
     "ecommerce",
     "ecommerce-platform",
-    "innocms",
     "innoshop",
     "laravel",
     "laravel-ecommerce",
-    "laravelshop",
-    "magento",
     "mcp",
     "mcp-server",
-    "mcp-tools",
+    "multi-currency",
+    "multilingual",
     "open-source",
-    "openai",
     "opensource-ecommerce",
+    "php",
     "php-ecommerce",
-    "shop",
-    "storefront",
-    "symfony"
+    "self-hosted",
+    "shopify-alternative",
+    "woocommerce-alternative"
   ],
   "star_count": 652,
   "fork_count": 188,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-22T02:32:33Z",
-  "updated_at": "2026-08-08T03:41:29Z",
-  "pushed_at": "2026-08-08T11:31:14Z",
+  "updated_at": "2026-08-09T14:00:06Z",
+  "pushed_at": "2026-08-09T13:59:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -378,6 +378,10 @@
     },
     {
       "date": "2026-08-08",
+      "stars": 652
+    },
+    {
+      "date": "2026-08-09",
       "stars": 652
     }
   ]

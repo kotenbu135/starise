@@ -3,20 +3,33 @@
   "owner": "ppgranger",
   "name": "token-saver",
   "full_name": "ppgranger/token-saver",
-  "description": "Content-aware output compression for AI coding assistants. Replaces blind truncation with intelligent strategies per file type: structural summaries for code, schema extraction for configs, error-focused filtering for logs, and smart sampling for CSVs. Saves tokens while preserving what the model actually needs.",
+  "description": "Content-aware output compression for AI coding assistants. 36 specialized processors cut CLI output tokens by 60-99% (git, pytest, npm, terraform, kubectl, docker, and more) without losing errors, diffs, or stack traces.",
   "description_ja": "",
   "url": "https://github.com/ppgranger/token-saver",
-  "homepage_url": "",
+  "homepage_url": "https://ppgranger.github.io/token-saver/",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 134,
+  "topics": [
+    "agentic-ai",
+    "ai-coding-assistant",
+    "claude-code",
+    "claude-code-plugin",
+    "cli-tools",
+    "context-engineering",
+    "context-window",
+    "developer-tools",
+    "llm-cost-optimization",
+    "mcp",
+    "python",
+    "token-optimization"
+  ],
+  "star_count": 135,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-17T21:22:55Z",
-  "updated_at": "2026-08-08T00:50:00Z",
-  "pushed_at": "2026-08-04T19:14:00Z",
+  "updated_at": "2026-08-09T19:40:44Z",
+  "pushed_at": "2026-08-09T19:42:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +271,10 @@
     {
       "date": "2026-08-08",
       "stars": 134
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 135
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "Code intelligence CLI — function-level dependency graph across 34 languages, 34-tool MCP server for AI agents, complexity metrics, architecture boundary enforcement, CI quality gates, git diff impact with co-change analysis, hybrid semantic search. Fully local, zero API keys required.",
   "description_ja": "",
   "url": "https://github.com/optave/ops-codegraph-tool",
-  "homepage_url": "",
+  "homepage_url": "https://www.npmjs.com/package/@optave/codegraph",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
@@ -16,24 +16,28 @@
     "cli",
     "code-analysis",
     "code-quality",
+    "code-search",
     "codeowners",
     "complexity-metrics",
     "dependency-graph",
+    "developer-tools",
     "impact-analysis",
     "incremental-builds",
     "mcp-server",
+    "rust",
     "semantic-search",
     "sqlite",
     "static-analysis",
-    "tree-sitter"
+    "tree-sitter",
+    "typescript"
   ],
   "star_count": 86,
   "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-21T09:31:55Z",
-  "updated_at": "2026-08-08T18:05:00Z",
-  "pushed_at": "2026-08-08T19:05:29Z",
+  "updated_at": "2026-08-09T19:08:56Z",
+  "pushed_at": "2026-08-09T19:44:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -338,6 +342,10 @@
     },
     {
       "date": "2026-08-08",
+      "stars": 86
+    },
+    {
+      "date": "2026-08-09",
       "stars": 86
     }
   ]

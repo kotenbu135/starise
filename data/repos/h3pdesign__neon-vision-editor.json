@@ -3,7 +3,7 @@
   "owner": "h3pdesign",
   "name": "neon-vision-editor",
   "full_name": "h3pdesign/neon-vision-editor",
-  "description": "Neon Vision Editor - A lightweight, modern code \u0026 text editor for macOS built for speed, readability, and automatic syntax highlighting — minimal by design, with fast file access and a focused editing experience.",
+  "description": "A native Swift editor for code and Markdown across macOS, iPadOS, iOS, and visionOS.",
   "description_ja": "",
   "url": "https://github.com/h3pdesign/Neon-Vision-Editor",
   "homepage_url": "https://h3pdesign.github.io/Neon-Vision-Editor/",
@@ -11,33 +11,25 @@
   "license": "Apache-2.0",
   "topics": [
     "appkit",
-    "code",
     "code-editor",
-    "code-snapshot",
-    "coding",
-    "cross-platform",
     "developer-tools",
-    "file-handling",
-    "find-files",
-    "foundation-models",
-    "ios-app",
-    "ipad-app",
+    "ios",
+    "ipados",
     "macos",
     "markdown",
-    "native-macos",
-    "project-management",
     "swift",
+    "swiftui",
     "syntax-highlighting",
-    "text-editor",
-    "vim-mode"
+    "uikit",
+    "visionos"
   ],
-  "star_count": 368,
+  "star_count": 369,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-26T10:24:41Z",
-  "updated_at": "2026-08-08T17:03:19Z",
-  "pushed_at": "2026-08-08T17:03:14Z",
+  "updated_at": "2026-08-09T19:34:24Z",
+  "pushed_at": "2026-08-09T19:34:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -379,6 +371,10 @@
     {
       "date": "2026-08-08",
       "stars": 368
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 369
     }
   ]
 }

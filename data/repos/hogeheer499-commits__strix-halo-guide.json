@@ -3,7 +3,7 @@
   "owner": "hogeheer499-commits",
   "name": "strix-halo-guide",
   "full_name": "hogeheer499-commits/strix-halo-guide",
-  "description": "AMD Strix Halo / Ryzen AI Halo local LLM setup and benchmark guide for Ryzen AI MAX+ 395 and Radeon 8060S: Ollama, llama.cpp Vulkan/RADV, ROCm, 101 t/s Qwen3-Coder, CHADROCK MTP, 120B GGUF, and raw evidence.",
+  "description": "Strix Halo guide for AMD Ryzen AI MAX+ 395 / Radeon 8060S local LLM setup and benchmarks: Ollama, llama.cpp, Vulkan/RADV, ROCm, GGUF, and raw evidence.",
   "description_ja": "",
   "url": "https://github.com/hogeheer499-commits/strix-halo-guide",
   "homepage_url": "https://hogeheer499-commits.github.io/strix-halo-guide/",
@@ -31,13 +31,13 @@
     "unified-memory",
     "vulkan"
   ],
-  "star_count": 262,
+  "star_count": 264,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T22:33:43Z",
-  "updated_at": "2026-08-08T04:32:23Z",
-  "pushed_at": "2026-07-29T20:11:28Z",
+  "updated_at": "2026-08-09T17:12:39Z",
+  "pushed_at": "2026-08-09T00:02:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -307,6 +307,10 @@
     {
       "date": "2026-08-08",
       "stars": 262
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 264
     }
   ]
 }

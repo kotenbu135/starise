@@ -3,8 +3,8 @@
   "owner": "1panel-dev",
   "name": "1panel",
   "full_name": "1panel-dev/1panel",
-  "description": "🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.",
-  "description_ja": "[4] 🔥 1Panel はモダンなオープンソース VPS コントロールパネル — ネイティブで AI Agent をサポートする唯一の存在。Ollama モデルの実行、OpenClaw エージェントのデプロイ、サーバースタック全体の管理を、洗練された Web インターフェイスから一括で行えます。",
+  "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.",
+  "description_ja": "",
   "url": "https://github.com/1Panel-dev/1Panel",
   "homepage_url": "https://1panel.pro",
   "language": "Go",
@@ -25,13 +25,13 @@
     "qwenpaw",
     "webmin"
   ],
-  "star_count": 36460,
-  "fork_count": 3287,
+  "star_count": 36468,
+  "fork_count": 3288,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-07-19T15:44:52Z",
-  "updated_at": "2026-08-08T17:39:36Z",
-  "pushed_at": "2026-08-07T14:51:58Z",
+  "updated_at": "2026-08-09T16:19:27Z",
+  "pushed_at": "2026-08-09T01:14:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -373,6 +373,10 @@
     {
       "date": "2026-08-08",
       "stars": 36460
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 36468
     }
   ]
 }
