@@ -3,8 +3,8 @@
   "owner": "michaelbel",
   "name": "movies",
   "full_name": "michaelbel/movies",
-  "description": "Discover movies app illustrating Kotlin Multiplatform development best practices",
-  "description_ja": "Kotlin Multiplatformの開発ベストプラクティスを示す映画発見アプリ。",
+  "description": "Kotlin Multiplatform movie discovery app powered by TMDb — Android, iOS and Desktop with Compose Multiplatform and Material3",
+  "description_ja": "",
   "url": "https://github.com/michaelbel/movies",
   "homepage_url": "https://play.google.com/store/apps/details?id=org.michaelbel.moviemade",
   "language": "Kotlin",
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-26T16:27:58Z",
-  "updated_at": "2026-08-08T15:41:05Z",
-  "pushed_at": "2026-08-08T15:41:01Z",
+  "updated_at": "2026-08-13T23:55:35Z",
+  "pushed_at": "2026-08-13T10:59:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -368,6 +368,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 338
+    },
+    {
+      "date": "2026-08-15",
       "stars": 338
     }
   ]

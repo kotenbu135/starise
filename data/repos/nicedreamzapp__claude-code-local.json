@@ -3,8 +3,8 @@
   "owner": "nicedreamzapp",
   "name": "claude-code-local",
   "full_name": "nicedreamzapp/claude-code-local",
-  "description": "Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server, 65 tok/s Qwen 3.5 122B, Llama 3.3 70B, Gemma 4 31B. Private, offline, airgap-ready. Built for NDA / legal / healthcare workflows.",
-  "description_ja": "Apple Silicon上でローカルAIを使いClaude Codeを100%オンデバイスで実行。MLXネイティブAnthropic APIサーバー、65 tok/s対応のQwen 3.5 122B・Llama 3.3 70B・Gemma 4 31B。プライベート・オフライン・エアギャップ対応。NDA・法務・医療ワークフロー向け。",
+  "description": "Run Claude Code 100% on-device with local AI on Apple Silicon. MLX-native Anthropic-API server. 6 fighters incl. Muse-Glimmer 30B (now multimodal — reads images, abliterated), Gemma 4 31B, Qwen 3.5 122B (65 tok/s), DeepSeek V4 Flash (1M ctx). Private, offline, airgap-ready. Built for NDA / legal / healthcare workflows.",
+  "description_ja": "",
   "url": "https://github.com/nicedreamzapp/claude-code-local",
   "homepage_url": "https://www.youtube.com/@nicedreamzapps",
   "language": "Python",
@@ -31,13 +31,13 @@
     "qwen",
     "voice-ai"
   ],
-  "star_count": 3173,
-  "fork_count": 604,
+  "star_count": 3211,
+  "fork_count": 613,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-26T06:43:30Z",
-  "updated_at": "2026-08-09T19:01:03Z",
-  "pushed_at": "2026-08-07T19:24:36Z",
+  "updated_at": "2026-08-15T13:56:52Z",
+  "pushed_at": "2026-08-13T00:33:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-09",
       "stars": 3173
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 3211
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "avifenesh",
   "name": "memra",
   "full_name": "avifenesh/memra",
-  "description": "memra — from-scratch LLM inference engine for NVIDIA RTX 50-series (Rust + CUDA)",
+  "description": "memra is a Rust + CUDA inference engine built for NVIDIA RTX PRO 6000 Blackwell and RTX 5090. It serves GGUF models over an OpenAI-compatible API, and every default it ships was measured on those two cards — both Blackwell sm_120a, with a separately compile-gated Hopper/H100 (sm_90a) lane alongside.",
   "description_ja": "",
   "url": "https://github.com/avifenesh/memra",
   "homepage_url": "https://huggingface.co/Avifenesh/bw24-bench",
@@ -17,26 +17,27 @@
     "gguf",
     "gpu",
     "gpu-kernels",
-    "hy3",
     "inference",
-    "llama-cpp",
     "llm",
     "moe",
     "nvfp4",
     "nvidia",
     "performance",
     "qwen",
+    "rtx",
+    "rtx-5090",
+    "rtx-pro-6000",
     "rust",
     "sm120a",
     "speculative-decoding"
   ],
-  "star_count": 297,
+  "star_count": 304,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-05T20:45:33Z",
-  "updated_at": "2026-08-09T15:50:45Z",
-  "pushed_at": "2026-08-09T17:49:02Z",
+  "updated_at": "2026-08-15T18:01:52Z",
+  "pushed_at": "2026-08-15T18:45:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +51,10 @@
     {
       "date": "2026-08-09",
       "stars": 297
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 304
     }
   ]
 }

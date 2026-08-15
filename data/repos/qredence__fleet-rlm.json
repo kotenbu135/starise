@@ -3,7 +3,7 @@
   "owner": "qredence",
   "name": "fleet-rlm",
   "full_name": "qredence/fleet-rlm",
-  "description": "DSPy's Recursive Language Model (RLM) with Daytona Sandbox for secure cloud-based code execution",
+  "description": "Agentic RLM workbench on DSPy 3.3: sandboxed code execution, live operator streaming over SSE, durable sessions \u0026 artifacts, terminal-first client",
   "description_ja": "",
   "url": "https://github.com/Qredence/fleet-rlm",
   "homepage_url": "https://docs.qredence.ai/",
@@ -15,7 +15,6 @@
     "code-execution",
     "daytona",
     "dspy",
-    "modal",
     "recursive-language-model",
     "rlm",
     "sandbox",
@@ -26,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-07T16:49:25Z",
-  "updated_at": "2026-08-09T12:48:52Z",
-  "pushed_at": "2026-08-09T15:10:17Z",
+  "updated_at": "2026-08-15T14:46:11Z",
+  "pushed_at": "2026-08-15T14:52:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -196,6 +195,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 51
+    },
+    {
+      "date": "2026-08-15",
       "stars": 51
     }
   ]

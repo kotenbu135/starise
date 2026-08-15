@@ -3,8 +3,8 @@
   "owner": "dmtrkovalenko",
   "name": "zlob",
   "full_name": "dmtrkovalenko/zlob",
-  "description": "100% POSIX and glibc compatible globbing library for C, Zig, and Rust that is faster and supports all the modern globbing formats and gitignore",
-  "description_ja": "C、Zig、Rust 向けの 100% POSIX および glibc 互換グロブライブラリ。高速で、モダンなグロブ形式と gitignore をすべてサポート。",
+  "description": "*Very* fast recursive file walking and globbing library for Zig, C, and Rust. With gitignore support. 100% POSIX compatible",
+  "description_ja": "",
   "url": "https://github.com/dmtrKovalenko/zlob",
   "homepage_url": "https://docs.rs/zlob/latest/zlob/",
   "language": "Zig",
@@ -17,13 +17,13 @@
     "simd",
     "zig"
   ],
-  "star_count": 214,
-  "fork_count": 17,
+  "star_count": 223,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-23T18:03:37Z",
-  "updated_at": "2026-08-09T00:45:06Z",
-  "pushed_at": "2026-08-05T03:01:26Z",
+  "updated_at": "2026-08-15T06:06:24Z",
+  "pushed_at": "2026-08-15T02:27:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -365,6 +365,10 @@
     {
       "date": "2026-08-09",
       "stars": 214
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 223
     }
   ]
 }

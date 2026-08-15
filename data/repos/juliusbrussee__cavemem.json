@@ -3,8 +3,8 @@
   "owner": "juliusbrussee",
   "name": "cavemem",
   "full_name": "juliusbrussee/cavemem",
-  "description": "Cross-agent persistent memory for coding assistants. Stored compressed. Retrieved fast. Local by default.",
-  "description_ja": "コーディングアシスタント向けクロスエージェント永続メモリ。圧縮保存・高速取得・デフォルトはローカル。",
+  "description": "Frozen — cross-agent persistent memory for coding assistants. Still works; the compressed-memory core now ships inside JuliusBrussee/caveman.",
+  "description_ja": "",
   "url": "https://github.com/JuliusBrussee/cavemem",
   "homepage_url": "https://caveman.so/",
   "language": "TypeScript",
@@ -19,13 +19,13 @@
     "rag",
     "rag-chatbot"
   ],
-  "star_count": 669,
+  "star_count": 674,
   "fork_count": 61,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-18T00:21:39Z",
-  "updated_at": "2026-08-08T16:12:17Z",
-  "pushed_at": "2026-07-03T14:47:17Z",
+  "updated_at": "2026-08-15T08:50:24Z",
+  "pushed_at": "2026-08-14T22:08:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -371,6 +371,10 @@
     {
       "date": "2026-08-09",
       "stars": 669
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 674
     }
   ]
 }

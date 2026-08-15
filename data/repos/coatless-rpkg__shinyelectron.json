@@ -3,10 +3,10 @@
   "owner": "coatless-rpkg",
   "name": "shinyelectron",
   "full_name": "coatless-rpkg/shinyelectron",
-  "description": "[On-CRAN][Active-Development] Setup a standalone Shiny application built with Electron to run as a Desktop application",
+  "description": "[On-CRAN][Developmental] Setup a standalone Shiny application built with Electron to run as a Desktop application",
   "description_ja": "",
   "url": "https://github.com/coatless-rpkg/shinyelectron",
-  "homepage_url": "http://r-pkg.thecoatlessprofessor.com/shinyelectron/",
+  "homepage_url": "https://r-pkg.thecoatlessprofessor.com/shinyelectron/",
   "language": "R",
   "license": "AGPL-3.0",
   "topics": [
@@ -19,12 +19,12 @@
     "shiny-app",
     "standalone-app"
   ],
-  "star_count": 105,
+  "star_count": 111,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-08T22:48:05Z",
-  "updated_at": "2026-08-09T15:19:45Z",
+  "updated_at": "2026-08-12T19:25:17Z",
   "pushed_at": "2026-08-08T18:45:55Z",
   "deleted_at": "",
   "star_history": [
@@ -71,6 +71,10 @@
     {
       "date": "2026-08-09",
       "stars": 105
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 111
     }
   ]
 }

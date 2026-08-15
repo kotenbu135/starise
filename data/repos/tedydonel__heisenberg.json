@@ -3,25 +3,35 @@
   "owner": "tedydonel",
   "name": "heisenberg",
   "full_name": "tedydonel/heisenberg",
-  "description": "",
+  "description": "A block-based content engine and bilingual blog backend for Laravel  Gutenberg-style editor, media library, post templates, roles, and an AI writing assistant, with zero host coupling.",
   "description_ja": "",
   "url": "https://github.com/tedydonel/Heisenberg",
   "homepage_url": "",
   "language": "PHP",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 47,
+  "topics": [
+    "ai-agent",
+    "blog-engine",
+    "laravel-cms",
+    "laravel-cms-builder",
+    "mcp"
+  ],
+  "star_count": 79,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-05T11:05:07Z",
-  "updated_at": "2026-08-09T11:11:51Z",
-  "pushed_at": "2026-08-09T06:08:34Z",
+  "updated_at": "2026-08-15T19:21:09Z",
+  "pushed_at": "2026-08-14T11:46:55Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-08-09",
       "stars": 47
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 79
     }
   ]
 }

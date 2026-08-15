@@ -3,20 +3,36 @@
   "owner": "sgl-project",
   "name": "sglang-omni",
   "full_name": "sgl-project/sglang-omni",
-  "description": "SGLang Omni: High-Performance Multi-Stage Pipeline Framework for Omni Models",
+  "description": "SGLang-Omni empowers high-performance serving for TTS, ASR, speech and omni models.",
   "description_ja": "",
   "url": "https://github.com/sgl-project/sglang-omni",
-  "homepage_url": "http://docs.sglang.io/sglang-omni/",
+  "homepage_url": "https://docs.sglang.io/sglang-omni/",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 770,
-  "fork_count": 317,
+  "topics": [
+    "asr",
+    "audio-generation",
+    "cuda",
+    "distributed-inference",
+    "inference",
+    "model-serving",
+    "multimodal",
+    "music-generation",
+    "openai-api",
+    "pytorch",
+    "sglang",
+    "speech-recognition",
+    "streaming",
+    "text-to-speech",
+    "tts"
+  ],
+  "star_count": 819,
+  "fork_count": 341,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-07T06:58:29Z",
-  "updated_at": "2026-08-09T18:44:51Z",
-  "pushed_at": "2026-08-09T20:09:19Z",
+  "updated_at": "2026-08-15T19:14:15Z",
+  "pushed_at": "2026-08-15T19:13:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -278,6 +294,10 @@
     {
       "date": "2026-08-09",
       "stars": 770
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 819
     }
   ]
 }

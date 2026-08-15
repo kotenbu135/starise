@@ -3,34 +3,34 @@
   "owner": "john-rocky",
   "name": "coreml-models",
   "full_name": "john-rocky/coreml-models",
-  "description": "Converted CoreML Model Zoo.",
-  "description_ja": "変換済み CoreML Model Zoo。",
+  "description": "Core ML model zoo for iOS/macOS — PyTorch models converted to ready-to-use .mlpackage, each with a conversion script and SwiftUI sample app. Sibling repos cover Apple's Core AI framework (iOS/macOS 27) and on-device LLMs.",
+  "description_ja": "",
   "url": "https://github.com/john-rocky/CoreML-Models",
   "homepage_url": "https://john-rocky.github.io/",
   "language": "Swift",
   "license": "",
   "topics": [
+    "apple-silicon",
+    "core-ai",
     "coreml",
-    "coreml-framework",
     "coremltools",
     "deep-learning",
     "gan",
-    "gans",
-    "image-classification",
     "ios",
     "machine-learning",
+    "mlpackage",
     "object-detection",
+    "on-device-ai",
     "semantic-segmentation",
-    "style-gan",
     "super-resolution",
     "swift"
   ],
-  "star_count": 1832,
+  "star_count": 1836,
   "fork_count": 170,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-08-12T02:41:43Z",
-  "updated_at": "2026-08-07T02:46:03Z",
+  "updated_at": "2026-08-13T15:45:12Z",
   "pushed_at": "2026-07-31T05:21:31Z",
   "deleted_at": "",
   "star_history": [
@@ -377,6 +377,10 @@
     {
       "date": "2026-08-09",
       "stars": 1832
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1836
     }
   ]
 }

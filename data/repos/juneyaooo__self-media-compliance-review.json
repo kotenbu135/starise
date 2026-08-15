@@ -3,20 +3,32 @@
   "owner": "juneyaooo",
   "name": "self-media-compliance-review",
   "full_name": "juneyaooo/self-media-compliance-review",
-  "description": "",
+  "description": "自媒体视频发布前违规风险审核。检查画面/声音/文字/封面/评论/带货信息/资质/引流，输出 Pass→Blocker 五级风险报告。覆盖抖音/小红书/视频号/B站/快手+千川低质素材。Claude Code、codex、workbuddy、hermes  skill",
   "description_ja": "",
   "url": "https://github.com/JuneYaooo/self-media-compliance-review",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 54,
-  "fork_count": 6,
+  "topics": [
+    "ai-agent",
+    "ai-agents",
+    "claude-code-skills",
+    "compliance-check",
+    "content-creation",
+    "content-moderation",
+    "e-commerce-compliance",
+    "risk-assessment",
+    "skills",
+    "social-media-tool",
+    "social-media-tools"
+  ],
+  "star_count": 60,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-19T15:04:02Z",
-  "updated_at": "2026-08-09T06:24:00Z",
-  "pushed_at": "2026-06-30T12:29:33Z",
+  "updated_at": "2026-08-15T09:17:27Z",
+  "pushed_at": "2026-08-15T09:17:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -134,6 +146,10 @@
     {
       "date": "2026-08-09",
       "stars": 54
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 60
     }
   ]
 }

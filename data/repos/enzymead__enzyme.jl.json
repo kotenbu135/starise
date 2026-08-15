@@ -6,7 +6,7 @@
   "description": "Julia bindings for the Enzyme automatic differentiator",
   "description_ja": "Enzyme自動微分器のJuliaバインディング。",
   "url": "https://github.com/EnzymeAD/Enzyme.jl",
-  "homepage_url": "https://enzyme.mit.edu",
+  "homepage_url": "https://enzymead.github.io/Enzyme.jl/",
   "language": "Julia",
   "license": "MIT",
   "topics": [
@@ -19,13 +19,13 @@
     "llvm",
     "machine-learning"
   ],
-  "star_count": 579,
+  "star_count": 582,
   "fork_count": 103,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-09-06T20:06:06Z",
-  "updated_at": "2026-08-09T18:25:06Z",
-  "pushed_at": "2026-08-09T19:19:09Z",
+  "updated_at": "2026-08-14T07:32:58Z",
+  "pushed_at": "2026-08-15T11:23:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -371,6 +371,10 @@
     {
       "date": "2026-08-09",
       "stars": 579
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 582
     }
   ]
 }

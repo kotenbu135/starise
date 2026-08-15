@@ -3,29 +3,33 @@
   "owner": "fzkuji",
   "name": "gui-agent-harness",
   "full_name": "fzkuji/gui-agent-harness",
-  "description": "Autonomous GUI agent — give it a task, it operates the desktop. Visual memory, one-shot UI learning. | 自主GUI代理——给它一个任务，它操作桌面。视觉记忆，一次学习即可操作。",
+  "description": "Autonomous GUI agent — give it a task, it operates the desktop. Visual memory, one-shot UI learning. Built for OpenProgram.",
   "description_ja": "",
   "url": "https://github.com/Fzkuji/GUI-Agent-Harness",
-  "homepage_url": "",
+  "homepage_url": "https://openprogram.io/docs/capabilities/workflows/gui-agent.html",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "agentic-workflow",
     "ai-agent",
     "applescript",
+    "autonomous-agent",
+    "computer-use",
     "desktop-automation",
     "gui-automation",
     "llm-tools",
     "macos",
     "ocr",
-    "openclaw"
+    "openclaw",
+    "openprogram"
   ],
-  "star_count": 41,
-  "fork_count": 4,
+  "star_count": 43,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T13:38:39Z",
-  "updated_at": "2026-08-09T18:06:12Z",
-  "pushed_at": "2026-08-09T18:05:14Z",
+  "updated_at": "2026-08-14T19:11:08Z",
+  "pushed_at": "2026-08-13T07:39:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -279,6 +283,10 @@
     {
       "date": "2026-08-09",
       "stars": 41
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 43
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "kaifcodec",
   "name": "user-scanner",
   "full_name": "kaifcodec/user-scanner",
-  "description": "🕵️‍♂️ (2-in-1) Email \u0026 Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 375+ actively maintained scan vectors (150+ email / 225+ username) for security research, investigations, and digital footprinting.",
+  "description": "🕵️‍♂️ (2-in-1) Email \u0026 Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 380+ actively maintained scan vectors (155+ email / 225+ username) for security research, investigations, and digital footprinting.",
   "description_ja": "",
   "url": "https://github.com/kaifcodec/user-scanner",
   "homepage_url": "",
@@ -13,27 +13,28 @@
     "cybersecurity",
     "cybersecurity-tools",
     "email-osint",
-    "enumeration",
     "ethical-hacking",
     "ethical-hacking-tools",
+    "identification",
+    "infosec",
     "osint",
     "osint-email",
     "osint-tool",
     "osint-tools",
     "osint-username",
+    "pentesting",
     "python",
     "redteam-tools",
     "redteaming",
-    "threat-intelligence",
-    "username-osint"
+    "threat-intelligence"
   ],
-  "star_count": 3080,
-  "fork_count": 353,
+  "star_count": 3197,
+  "fork_count": 371,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-19T04:21:48Z",
-  "updated_at": "2026-08-09T19:24:33Z",
-  "pushed_at": "2026-08-09T17:15:12Z",
+  "updated_at": "2026-08-15T18:53:22Z",
+  "pushed_at": "2026-08-14T09:05:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -295,6 +296,10 @@
     {
       "date": "2026-08-09",
       "stars": 3080
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 3197
     }
   ]
 }

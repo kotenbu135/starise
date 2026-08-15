@@ -3,7 +3,7 @@
   "owner": "hackunderway",
   "name": "searchphone",
   "full_name": "hackunderway/searchphone",
-  "description": "Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo) and automatic report generation.",
+  "description": "Phone number OSINT toolkit with multi-API search (Google, GitHub, Numverify, Reddit, DuckDuckGo), Hudson Rock infostealer intelligence, and automatic report generation.",
   "description_ja": "",
   "url": "https://github.com/HackUnderway/SearchPhone",
   "homepage_url": "https://toolkit.hackunderway.com/",
@@ -14,6 +14,7 @@
     "cybersecurity",
     "github-search",
     "hackunderway",
+    "hudsonrock",
     "infosec",
     "osint",
     "osint-tool",
@@ -22,13 +23,13 @@
     "python",
     "searchphone"
   ],
-  "star_count": 1107,
-  "fork_count": 166,
+  "star_count": 1247,
+  "fork_count": 191,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-12T04:06:55Z",
-  "updated_at": "2026-08-09T15:26:35Z",
-  "pushed_at": "2026-07-16T16:15:40Z",
+  "updated_at": "2026-08-15T17:18:37Z",
+  "pushed_at": "2026-08-10T18:18:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +131,10 @@
     {
       "date": "2026-08-09",
       "stars": 1107
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1247
     }
   ]
 }

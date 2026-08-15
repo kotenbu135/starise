@@ -3,29 +3,33 @@
   "owner": "weiwill88",
   "name": "local_pdf_chat_rag",
   "full_name": "weiwill88/local_pdf_chat_rag",
-  "description": "🧠 纯原生 Python 实现的 RAG 框架 | FAISS + BM25 混合检索 | 支持 Ollama / SiliconFlow | 适合新手入门学习",
-  "description_ja": "🧠 純粋なネイティブPythonで実装されたRAGフレームワーク | FAISS + BM25ハイブリッド検索 | Ollama / SiliconFlow対応 | 初心者の学習に最適",
+  "description": "Transparent Python RAG reference with FAISS + BM25 hybrid retrieval, reranking, Gradio UI, and FastAPI.",
+  "description_ja": "",
   "url": "https://github.com/weiwill88/Local_Pdf_Chat_RAG",
-  "homepage_url": "https://item.jd.com/14639741.html",
+  "homepage_url": "https://github.com/weiwill88/Local_Pdf_Chat_RAG#readme",
   "language": "Python",
-  "license": "",
+  "license": "MIT",
   "topics": [
     "bm25",
     "chinese-nlp",
     "deepseek",
     "document-qa",
     "faiss",
+    "fastapi",
     "gradio",
+    "hybrid-search",
+    "ollama",
+    "python",
     "rag",
     "retrieval-augmented-generation"
   ],
-  "star_count": 943,
-  "fork_count": 180,
+  "star_count": 945,
+  "fork_count": 179,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-01T03:10:46Z",
-  "updated_at": "2026-08-07T09:09:40Z",
-  "pushed_at": "2026-07-04T03:03:45Z",
+  "updated_at": "2026-08-13T14:17:31Z",
+  "pushed_at": "2026-08-12T15:03:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -371,6 +375,10 @@
     {
       "date": "2026-08-09",
       "stars": 943
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 945
     }
   ]
 }

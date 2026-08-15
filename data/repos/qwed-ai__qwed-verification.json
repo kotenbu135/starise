@@ -3,7 +3,7 @@
   "owner": "qwed-ai",
   "name": "qwed-verification",
   "full_name": "qwed-ai/qwed-verification",
-  "description": "A deterministic verification layer for AI systems.  QWED verifies AI outputs using mathematics, symbolic reasoning, and formal methods (Z3, SMT, SymPy), creating an auditable trust boundary for agentic AI.  Not generation. Verification.",
+  "description": "Open-source AI verification infrastructure for deterministic verification of LLM outputs, tool calls, code, schemas, and agent state before production execution.",
   "description_ja": "",
   "url": "https://github.com/QWED-AI/qwed-verification",
   "homepage_url": "https://docs.qwedai.com/",
@@ -16,19 +16,19 @@
     "code-security",
     "deterministic-ai",
     "deterministic-verification",
-    "deterministic-verification-layer",
+    "diagnostic-result",
     "enterprise-ai",
+    "fail-closed",
     "formal-verification",
     "hallucination",
     "hallucination-detection",
     "llm-safety",
     "llm-verification",
     "machine-learning",
-    "neurosymbolic-ai",
-    "nlp",
     "python",
     "smt-solver",
     "sympy",
+    "verification-context",
     "z3-prover"
   ],
   "star_count": 57,
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-13T06:07:56Z",
-  "updated_at": "2026-08-09T16:24:34Z",
-  "pushed_at": "2026-08-09T17:25:42Z",
+  "updated_at": "2026-08-14T17:08:59Z",
+  "pushed_at": "2026-08-14T17:06:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -382,6 +382,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 57
+    },
+    {
+      "date": "2026-08-15",
       "stars": 57
     }
   ]

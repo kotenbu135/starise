@@ -3,8 +3,8 @@
   "owner": "garycli",
   "name": "garycli",
   "full_name": "garycli/garycli",
-  "description": "The Spear Carrier. AI-native CLI agent for STM32 embedded development and automated debugging. (Gary：专为 STM32 打造的 AI 原生命令行开发与调试智能体。)",
-  "description_ja": "STM32 組み込み開発と自動デバッグのための AI ネイティブ CLI エージェント。",
+  "description": "AI-native embedded engineering agent — from natural-language requirements to code, build, flash, runtime validation, diagnosis and repair.",
+  "description_ja": "",
   "url": "https://github.com/garycli/garycli",
   "homepage_url": "",
   "language": "Python",
@@ -22,13 +22,13 @@
     "python",
     "stm32"
   ],
-  "star_count": 153,
+  "star_count": 151,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T06:07:15Z",
-  "updated_at": "2026-08-08T15:48:42Z",
-  "pushed_at": "2026-07-14T15:39:30Z",
+  "updated_at": "2026-08-15T07:38:52Z",
+  "pushed_at": "2026-08-13T02:32:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -370,6 +370,10 @@
     {
       "date": "2026-08-09",
       "stars": 153
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 151
     }
   ]
 }

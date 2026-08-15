@@ -3,7 +3,7 @@
   "owner": "morloc-project",
   "name": "morloc",
   "full_name": "morloc-project/morloc",
-  "description": "A strongly-typed, polyglot CLI/API generator",
+  "description": "A strongly-typed, polyglot compiler",
   "description_ja": "",
   "url": "https://github.com/morloc-project/morloc",
   "homepage_url": "",
@@ -15,17 +15,18 @@
     "code-generation",
     "functional-language",
     "language",
+    "mcp",
     "polyglot",
     "programming-language",
     "type-system"
   ],
-  "star_count": 215,
+  "star_count": 216,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-12-02T03:11:38Z",
-  "updated_at": "2026-08-02T20:43:39Z",
-  "pushed_at": "2026-08-09T17:25:00Z",
+  "updated_at": "2026-08-15T17:42:32Z",
+  "pushed_at": "2026-08-15T17:42:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -367,6 +368,10 @@
     {
       "date": "2026-08-09",
       "stars": 215
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 216
     }
   ]
 }

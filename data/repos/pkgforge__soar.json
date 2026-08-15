@@ -3,8 +3,8 @@
   "owner": "pkgforge",
   "name": "soar",
   "full_name": "pkgforge/soar",
-  "description": "A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) \u0026 More [maintainer=@QaidVoid]",
-  "description_ja": "静的バイナリ、ポータブルフォーマット（AppImage|AppBundle|FlatImage|Runimage）などに対応した高速でモダンなパッケージマネージャー [メンテナー=@QaidVoid]",
+  "description": "A fast, modern, distro-independent package manager that just works [maintainer=@QaidVoid]",
+  "description_ja": "",
   "url": "https://github.com/pkgforge/soar",
   "homepage_url": "https://soar.qaidvoid.dev",
   "language": "Rust",
@@ -28,13 +28,13 @@
     "rust",
     "static-binary"
   ],
-  "star_count": 838,
+  "star_count": 845,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-03T02:24:54Z",
-  "updated_at": "2026-08-09T10:46:57Z",
-  "pushed_at": "2026-08-09T17:30:58Z",
+  "updated_at": "2026-08-15T07:40:14Z",
+  "pushed_at": "2026-08-15T07:45:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -380,6 +380,10 @@
     {
       "date": "2026-08-09",
       "stars": 838
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 845
     }
   ]
 }

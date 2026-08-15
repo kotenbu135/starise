@@ -3,7 +3,7 @@
   "owner": "southpawin",
   "name": "turbofit",
   "full_name": "southpawin/turbofit",
-  "description": "Local-first adaptive LLM runtime for Hermes Agent. Matches 8–300 GB hardware, acquires pinned GGUFs through Turbohaul, and safely contracts and heals under VRAM pressure—no remote fallback by default.",
+  "description": "Adaptive local inference for Hermes Agent — Qwen 3.8 27B, DeepSeek V4 Flash, multimodal models, native runtimes, and evidence-gated auto-fit from 8–300+ GB.",
   "description_ja": "",
   "url": "https://github.com/SouthpawIN/turbofit",
   "homepage_url": "",
@@ -18,13 +18,13 @@
     "llama-cpp",
     "local-llm"
   ],
-  "star_count": 53,
+  "star_count": 62,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-22T02:26:22Z",
-  "updated_at": "2026-08-09T11:55:02Z",
-  "pushed_at": "2026-08-04T20:30:17Z",
+  "updated_at": "2026-08-14T23:28:09Z",
+  "pushed_at": "2026-08-15T05:41:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +34,10 @@
     {
       "date": "2026-08-09",
       "stars": 53
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 62
     }
   ]
 }

@@ -7,24 +7,31 @@
   "description_ja": "動的・時変4Dジオメトリデータの処理・圧縮・保存・ストリーミング・可視化コードを収録したリポジトリ",
   "url": "https://github.com/open4dfoundation/Open4D",
   "homepage_url": "",
-  "language": "Python",
+  "language": "HTML",
   "license": "MIT",
   "topics": [
     "3d",
     "4d",
+    "4d-geometry",
     "ai",
     "compression",
+    "computer-vision",
+    "dynamic-mesh",
+    "gaussian-splatting",
     "mesh",
+    "point-cloud",
     "robotics",
+    "spatial-computing",
+    "volumetric-video",
     "xr"
   ],
-  "star_count": 60,
-  "fork_count": 14,
+  "star_count": 63,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-31T23:34:53Z",
-  "updated_at": "2026-08-08T14:36:07Z",
-  "pushed_at": "2026-08-06T18:48:27Z",
+  "updated_at": "2026-08-14T22:54:45Z",
+  "pushed_at": "2026-08-14T22:52:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +373,10 @@
     {
       "date": "2026-08-09",
       "stars": 60
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 63
     }
   ]
 }

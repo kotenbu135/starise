@@ -3,7 +3,7 @@
   "owner": "lennney",
   "name": "agent-search-mcp",
   "full_name": "lennney/agent-search-mcp",
-  "description": "Free-first web search MCP with zero-key English and Chinese sources and compact evidence.",
+  "description": "Free-first Chinese and English web search MCP using zero-key sources and inspectable evidence.",
   "description_ja": "",
   "url": "https://github.com/lennney/agent-search-mcp",
   "homepage_url": "https://take-a-deep-breath0.com/en/agent-search-mcp",
@@ -15,11 +15,11 @@
     "claude",
     "codex",
     "cursor",
+    "evidence-first",
     "mcp",
     "mcp-server",
     "metasearch",
     "model-context-protocol",
-    "open-source",
     "privacy-first",
     "search-aggregator",
     "self-hosted",
@@ -31,13 +31,13 @@
     "zero-api-key",
     "zero-config"
   ],
-  "star_count": 93,
-  "fork_count": 7,
+  "star_count": 107,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-22T11:54:37Z",
-  "updated_at": "2026-08-09T16:26:28Z",
-  "pushed_at": "2026-08-09T16:25:37Z",
+  "updated_at": "2026-08-14T14:21:14Z",
+  "pushed_at": "2026-08-11T19:42:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -67,6 +67,10 @@
     {
       "date": "2026-08-09",
       "stars": 93
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 107
     }
   ]
 }

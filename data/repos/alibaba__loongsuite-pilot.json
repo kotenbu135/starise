@@ -3,20 +3,40 @@
   "owner": "alibaba",
   "name": "loongsuite-pilot",
   "full_name": "alibaba/loongsuite-pilot",
-  "description": "",
+  "description": "Local-first telemetry collector for AI coding agents — unified OpenTelemetry events for Claude Code, Codex, Cursor and more. Token usage, cost, traces and security audit, exported anywhere.",
   "description_ja": "",
   "url": "https://github.com/alibaba/loongsuite-pilot",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/alibaba/loongsuite-pilot#readme",
   "language": "TypeScript",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 94,
-  "fork_count": 34,
+  "topics": [
+    "ai-coding",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agent",
+    "cost-tracking",
+    "cursor",
+    "developer-tools",
+    "dsh",
+    "llm-observability",
+    "local-first",
+    "macos",
+    "observability",
+    "opencode",
+    "opentelemetry",
+    "otel",
+    "token-usage",
+    "typescript"
+  ],
+  "star_count": 104,
+  "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-04T07:38:51Z",
-  "updated_at": "2026-08-07T10:29:23Z",
-  "pushed_at": "2026-08-07T10:24:14Z",
+  "updated_at": "2026-08-15T15:15:39Z",
+  "pushed_at": "2026-08-15T15:26:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -174,6 +194,10 @@
     {
       "date": "2026-08-09",
       "stars": 94
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 104
     }
   ]
 }

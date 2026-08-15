@@ -3,8 +3,8 @@
   "owner": "edjopato",
   "name": "mqttui",
   "full_name": "edjopato/mqttui",
-  "description": "Subscribe to a MQTT Topic or publish something quickly from the terminal",
-  "description_ja": "ターミナルから MQTT トピックをすばやくサブスクライブまたはパブリッシュするツール",
+  "description": "Subscribe to a MQTT topic or publish something quickly from the terminal",
+  "description_ja": "",
   "url": "https://github.com/EdJoPaTo/mqttui",
   "homepage_url": "",
   "language": "Rust",
@@ -24,7 +24,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-12T15:12:43Z",
-  "updated_at": "2026-08-09T17:13:35Z",
+  "updated_at": "2026-08-11T07:54:58Z",
   "pushed_at": "2026-08-09T17:40:11Z",
   "deleted_at": "",
   "star_history": [
@@ -370,6 +370,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 712
+    },
+    {
+      "date": "2026-08-15",
       "stars": 712
     }
   ]

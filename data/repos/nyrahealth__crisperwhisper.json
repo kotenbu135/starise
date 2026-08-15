@@ -6,7 +6,7 @@
   "description": "Verbatim Automatic Speech Recognition with improved word-level timestamps and filler detection",
   "description_ja": "",
   "url": "https://github.com/nyrahealth/CrisperWhisper",
-  "homepage_url": "",
+  "homepage_url": "nyra-labs.com",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
@@ -18,17 +18,19 @@
     "speech",
     "speech-processing",
     "speech-recognition",
+    "stutter-detection",
+    "stuttering",
     "timestamps",
     "transcription",
     "verbatim",
     "whisper"
   ],
-  "star_count": 1263,
-  "fork_count": 76,
+  "star_count": 1310,
+  "fork_count": 79,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-24T09:30:00Z",
-  "updated_at": "2026-08-09T19:55:49Z",
+  "updated_at": "2026-08-15T16:00:21Z",
   "pushed_at": "2026-08-06T14:08:22Z",
   "deleted_at": "",
   "star_history": [
@@ -95,6 +97,10 @@
     {
       "date": "2026-08-09",
       "stars": 1263
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1310
     }
   ]
 }

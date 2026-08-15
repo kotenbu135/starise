@@ -3,7 +3,7 @@
   "owner": "basekick-labs",
   "name": "arc",
   "full_name": "basekick-labs/arc",
-  "description": "High-performance analytical database. 19.9M records/sec ingestion, 8.4M+ rows/sec queries. Ingestion, compaction, SQL, retention, continuous queries — one binary. Open Parquet on your storage. S3/Azure native. Air-gap ready. No vendor lock-in. AGPL-3.0.",
+  "description": "Open, SQL-native time-series database for telemetry you need to keep. 34M+ records/sec ingestion, 8M+ rows/sec queries. InfluxDB Line Protocol and Telegraf compatible. Open Parquet on your storage. Single binary. S3/Azure native. Air-gap ready. AGPL-3.0.",
   "description_ja": "",
   "url": "https://github.com/Basekick-Labs/arc",
   "homepage_url": "https://basekick.net",
@@ -29,13 +29,13 @@
     "time-series",
     "traces"
   ],
-  "star_count": 635,
+  "star_count": 639,
   "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-07T15:27:59Z",
-  "updated_at": "2026-08-09T18:35:39Z",
-  "pushed_at": "2026-08-09T18:35:32Z",
+  "updated_at": "2026-08-14T17:13:55Z",
+  "pushed_at": "2026-08-14T17:12:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -381,6 +381,10 @@
     {
       "date": "2026-08-09",
       "stars": 635
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 639
     }
   ]
 }

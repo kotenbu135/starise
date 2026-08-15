@@ -3,7 +3,7 @@
   "owner": "open-mercato",
   "name": "open-mercato",
   "full_name": "open-mercato/open-mercato",
-  "description": "AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural and domain decisions (multi-tenancy, RBAC,  event flow, pricing, sales pipeline,CRM/ERP processes) are already made conventions and specs so agents (Cursor, Claude Code, Codex) arch. decisions without reinventing.  Ship production grade with AI Agents.",
+  "description": "The AI-Engineering Foundation Framework for CRM/ERP and commerce: open-source TypeScript, with multi-tenancy, RBAC, events and domain modules already decided as conventions and specs, so Cursor, Claude Code and Codex build features instead of re-deciding architecture. Start with 80% done.",
   "description_ja": "",
   "url": "https://github.com/open-mercato/open-mercato",
   "homepage_url": "https://www.openmercato.com/",
@@ -22,13 +22,13 @@
     "self-hosted",
     "typescript"
   ],
-  "star_count": 1586,
-  "fork_count": 355,
+  "star_count": 1636,
+  "fork_count": 363,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-10T13:27:45Z",
-  "updated_at": "2026-08-09T18:02:40Z",
-  "pushed_at": "2026-08-09T18:41:47Z",
+  "updated_at": "2026-08-15T08:33:02Z",
+  "pushed_at": "2026-08-15T16:57:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     {
       "date": "2026-08-09",
       "stars": 1586
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1636
     }
   ]
 }

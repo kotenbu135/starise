@@ -3,29 +3,31 @@
   "owner": "lidge-jun",
   "name": "ima2-gen",
   "full_name": "lidge-jun/ima2-gen",
-  "description": "Minimal CLI + web UI for OpenAI GPT Image 2 generation. Dual auth: API Key (paid) or OAuth via ChatGPT (free). Text-to-image, image-to-image, parallel gen, custom sizes.",
-  "description_ja": "OpenAI GPT Image 2生成用のミニマルなCLI＋Web UI。APIキー（有料）またはChatGPT経由のOAuth（無料）によるデュアル認証。テキストから画像、画像から画像、並列生成、カスタムサイズに対応。",
+  "description": "Local-first visual generation runtime and studio for people and coding agents, with reproducible image and video workflows across multiple providers.",
+  "description_ja": "",
   "url": "https://github.com/lidge-jun/ima2-gen",
   "homepage_url": "https://lidge-jun.github.io/ima2-gen/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "chatgpt",
-    "cli",
-    "express",
-    "gpt-image-2",
+    "ai-agent",
+    "gemini",
+    "grok",
     "image-generation",
-    "nodejs",
-    "oauth",
-    "openai"
+    "local-first",
+    "mcp",
+    "node-editor",
+    "openai",
+    "video-generation",
+    "visual-workflow"
   ],
-  "star_count": 664,
-  "fork_count": 115,
+  "star_count": 677,
+  "fork_count": 117,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-21T19:46:16Z",
-  "updated_at": "2026-08-09T06:34:04Z",
-  "pushed_at": "2026-08-04T03:44:55Z",
+  "updated_at": "2026-08-15T13:54:40Z",
+  "pushed_at": "2026-08-15T14:24:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -367,6 +369,10 @@
     {
       "date": "2026-08-09",
       "stars": 664
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 677
     }
   ]
 }

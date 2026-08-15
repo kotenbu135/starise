@@ -3,8 +3,8 @@
   "owner": "neolabhq",
   "name": "context-engineering-kit",
   "full_name": "neolabhq/context-engineering-kit",
-  "description": "Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others.",
-  "description_ja": "エージェントの出力品質向上に特化した手工芸のClaude Codeスキル集。OpenCode、Cursor、Antigravity、Gemini CLIなどとも互換。",
+  "description": "Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source alternative.",
+  "description_ja": "",
   "url": "https://github.com/NeoLabHQ/context-engineering-kit",
   "homepage_url": "https://neolab.gitbook.io/cek",
   "language": "TypeScript",
@@ -14,19 +14,20 @@
     "ai",
     "claude",
     "cline",
+    "coderabbit",
     "cursor",
     "llm",
     "marketplace",
     "opencode",
     "windsurf"
   ],
-  "star_count": 1308,
-  "fork_count": 136,
+  "star_count": 1337,
+  "fork_count": 137,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-13T23:23:04Z",
-  "updated_at": "2026-08-08T06:01:39Z",
-  "pushed_at": "2026-08-09T00:56:10Z",
+  "updated_at": "2026-08-15T13:25:31Z",
+  "pushed_at": "2026-08-15T19:28:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -372,6 +373,10 @@
     {
       "date": "2026-08-09",
       "stars": 1308
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1337
     }
   ]
 }

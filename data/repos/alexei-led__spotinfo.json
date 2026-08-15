@@ -3,8 +3,8 @@
   "owner": "alexei-led",
   "name": "spotinfo",
   "full_name": "alexei-led/spotinfo",
-  "description": "CLI for exploring AWS EC2 Spot inventory. Inspect AWS Spot instance types, saving, price, and interruption frequency.",
-  "description_ja": "AWS EC2 Spotインベントリを探索するCLI。AWS Spotインスタンスタイプ、節約額、価格、中断頻度を確認",
+  "description": "CLI for exploring Spot instance pricing across AWS, GCP and Azure. Inspect Spot instance types, savings, price, and AWS interruption frequency — offline, from embedded data.",
+  "description_ja": "",
   "url": "https://github.com/alexei-led/spotinfo",
   "homepage_url": "",
   "language": "Go",
@@ -14,20 +14,27 @@
     "aws",
     "aws-spot",
     "aws-spot-cli",
+    "azure",
+    "azure-spot",
+    "cloud-cost",
     "devops",
     "ec2-spot",
+    "finops",
+    "gcp",
+    "google-cloud",
     "mcp",
     "mcp-server",
+    "multicloud",
     "spot-advisor",
     "spot-instances"
   ],
-  "star_count": 161,
+  "star_count": 163,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-03-31T09:35:20Z",
-  "updated_at": "2026-08-09T14:06:11Z",
-  "pushed_at": "2026-08-09T17:26:24Z",
+  "updated_at": "2026-08-12T17:25:27Z",
+  "pushed_at": "2026-08-12T10:33:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -369,6 +376,10 @@
     {
       "date": "2026-08-09",
       "stars": 161
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 163
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "cortexflow",
   "name": "cortexbrain",
   "full_name": "cortexflow/cortexbrain",
-  "description": "CortexBrain is an ambitious open-source project designed to build an intelligent, lightweight, and highly efficient monitoring platform for distributed cloud and hybrid (cloud–edge) workflows",
-  "description_ja": "CortexBrain は、分散クラウドおよびハイブリッド（クラウド・エッジ）ワークフロー向けの、インテリジェントで軽量かつ高効率な監視プラットフォームを構築することを目指した野心的なオープンソースプロジェクトです。",
+  "description": "CortexBrain is an ambitious open-source project designed to build an intelligent, lightweight, and highly efficient monitoring platform for distributed cloud and hybrid (cloud-edge) workflows",
+  "description_ja": "",
   "url": "https://github.com/CortexFlow/CortexBrain",
-  "homepage_url": "https://www.cortexflow.org",
+  "homepage_url": "",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -31,13 +31,13 @@
     "service-mesh",
     "traffic-control"
   ],
-  "star_count": 83,
+  "star_count": 84,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-22T07:44:21Z",
-  "updated_at": "2026-07-18T16:36:19Z",
-  "pushed_at": "2026-08-04T21:25:21Z",
+  "updated_at": "2026-08-12T15:34:46Z",
+  "pushed_at": "2026-08-11T05:45:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -379,6 +379,10 @@
     {
       "date": "2026-08-09",
       "stars": 83
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 84
     }
   ]
 }

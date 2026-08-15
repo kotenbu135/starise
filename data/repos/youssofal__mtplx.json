@@ -3,7 +3,7 @@
   "owner": "youssofal",
   "name": "mtplx",
   "full_name": "youssofal/mtplx",
-  "description": "3x decode TPS increase On Qwen 3.6 27B @ temp 0.6 | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
+  "description": "3x faster speeds on MLX | Qwen 3.6 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
   "description_ja": "",
   "url": "https://github.com/youssofal/MTPLX",
   "homepage_url": "https://mtplx.com",
@@ -25,13 +25,13 @@
     "speculative-decoding",
     "speculative-sampling"
   ],
-  "star_count": 1148,
-  "fork_count": 84,
+  "star_count": 1215,
+  "fork_count": 86,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-02T00:59:09Z",
-  "updated_at": "2026-08-09T14:33:22Z",
-  "pushed_at": "2026-08-07T12:10:30Z",
+  "updated_at": "2026-08-15T20:36:25Z",
+  "pushed_at": "2026-08-15T12:30:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -297,6 +297,10 @@
     {
       "date": "2026-08-09",
       "stars": 1148
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1215
     }
   ]
 }

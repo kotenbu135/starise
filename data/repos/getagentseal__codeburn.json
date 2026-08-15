@@ -3,7 +3,7 @@
   "owner": "getagentseal",
   "name": "codeburn",
   "full_name": "getagentseal/codeburn",
-  "description": "Free, local tool to track AI coding token usage and cost across 31 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn",
+  "description": "Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn",
   "description_ja": "",
   "url": "https://github.com/getagentseal/codeburn",
   "homepage_url": "https://codeburn.app/",
@@ -23,13 +23,13 @@
     "token-usage",
     "web-dashboard"
   ],
-  "star_count": 9216,
-  "fork_count": 723,
+  "star_count": 9396,
+  "fork_count": 745,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-13T22:11:53Z",
-  "updated_at": "2026-08-09T19:24:17Z",
-  "pushed_at": "2026-08-09T01:51:45Z",
+  "updated_at": "2026-08-15T18:42:38Z",
+  "pushed_at": "2026-08-12T19:50:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -375,6 +375,10 @@
     {
       "date": "2026-08-09",
       "stars": 9216
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 9396
     }
   ]
 }

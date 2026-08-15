@@ -16,27 +16,28 @@
     "agent-sdk",
     "agent-sdk-go",
     "agentic-ai",
-    "agentic-framework",
     "ai",
     "ai-agents",
     "ai-agents-framework",
     "distributed-agents",
     "durable-agents",
     "durable-execution",
+    "framework",
     "golang",
     "in-process",
     "mcp",
-    "orchestration",
+    "restate",
+    "restatedotdev",
     "temporal",
     "workflow"
   ],
-  "star_count": 43,
+  "star_count": 46,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-13T09:11:14Z",
-  "updated_at": "2026-08-09T05:12:29Z",
-  "pushed_at": "2026-08-09T05:14:35Z",
+  "updated_at": "2026-08-15T10:56:16Z",
+  "pushed_at": "2026-08-12T01:54:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -318,6 +319,10 @@
     {
       "date": "2026-08-09",
       "stars": 43
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 46
     }
   ]
 }

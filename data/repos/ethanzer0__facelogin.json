@@ -3,7 +3,7 @@
   "owner": "ethanzer0",
   "name": "facelogin",
   "full_name": "ethanzer0/facelogin",
-  "description": "基于 Windows Credential Provider 框架的摄像头人脸识别解锁工具。让不支持Windows Hello的的电脑也能够体验“人脸登录”无需额外操作，看一眼即可解锁你的电脑 — 支持本地账户与微软在线账户，内置眨眼与静默反欺诈双重活体检测。",
+  "description": "基于 Windows Credential Provider 框架的摄像头人脸识别解锁工具。让不支持Windows Hello的的电脑也能够体验“人脸登录”。",
   "description_ja": "",
   "url": "https://github.com/EthanZer0/FaceLogin",
   "homepage_url": "",
@@ -20,13 +20,13 @@
     "windows-login",
     "windowshello"
   ],
-  "star_count": 103,
-  "fork_count": 3,
+  "star_count": 113,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-31T02:10:19Z",
-  "updated_at": "2026-08-09T10:29:48Z",
-  "pushed_at": "2026-08-09T02:12:31Z",
+  "updated_at": "2026-08-15T09:53:32Z",
+  "pushed_at": "2026-08-15T12:39:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -52,6 +52,10 @@
     {
       "date": "2026-08-09",
       "stars": 103
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 113
     }
   ]
 }

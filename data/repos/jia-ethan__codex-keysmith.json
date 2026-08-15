@@ -3,10 +3,10 @@
   "owner": "jia-ethan",
   "name": "codex-keysmith",
   "full_name": "jia-ethan/codex-keysmith",
-  "description": "Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.",
+  "description": "Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recovery.",
   "description_ja": "",
   "url": "https://github.com/Jia-Ethan/codex-keysmith",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/Jia-Ethan/codex-keysmith/releases/latest",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -19,13 +19,13 @@
     "prompt-engineering",
     "python"
   ],
-  "star_count": 3114,
-  "fork_count": 482,
+  "star_count": 3561,
+  "fork_count": 552,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-28T04:38:07Z",
-  "updated_at": "2026-08-09T17:37:55Z",
-  "pushed_at": "2026-07-29T01:54:09Z",
+  "updated_at": "2026-08-15T19:35:49Z",
+  "pushed_at": "2026-08-15T14:15:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -107,6 +107,10 @@
     {
       "date": "2026-08-09",
       "stars": 3114
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 3561
     }
   ]
 }

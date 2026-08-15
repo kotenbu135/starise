@@ -3,24 +3,26 @@
   "owner": "viren070",
   "name": "aiostreams",
   "full_name": "viren070/aiostreams",
-  "description": "One addon to rule them all. AIOStreams consolidates multiple Stremio addons and debrid services into a single, highly customisable super-addon. ",
+  "description": "AIOStreams consolidates multiple Stremio addons and debrid/usenet services - including its own suite of built-in addons and a native Usenet streaming engine - into a single, highly customisable super-addon. ",
   "description_ja": "",
   "url": "https://github.com/Viren070/AIOStreams",
   "homepage_url": "http://docs.aiostreams.viren070.me/",
   "language": "TypeScript",
   "license": "GPL-3.0",
   "topics": [
+    "self-hosted",
     "stremio",
     "stremio-addon",
-    "stremio-addons"
+    "stremio-addons",
+    "usenet"
   ],
-  "star_count": 2486,
-  "fork_count": 808,
+  "star_count": 2524,
+  "fork_count": 816,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-22T21:55:55Z",
-  "updated_at": "2026-08-09T19:04:24Z",
-  "pushed_at": "2026-08-09T19:04:39Z",
+  "updated_at": "2026-08-15T18:30:33Z",
+  "pushed_at": "2026-08-12T13:59:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -302,6 +304,10 @@
     {
       "date": "2026-08-09",
       "stars": 2486
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 2524
     }
   ]
 }

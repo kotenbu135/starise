@@ -6,7 +6,7 @@
   "description": "Real-time PHP debugging in the browser — stream debug output to a dashboard via SSE. Zero config, zero dependencies, just Debug::send() and see.",
   "description_ja": "ブラウザでリアルタイムにPHPデバッグ。SSE経由でデバッグ出力をダッシュボードにストリーミング。設定不要、依存関係なし。Debug::send()だけで完結。",
   "url": "https://github.com/CallMeLeon167/debugphp",
-  "homepage_url": "https://debugphp.dev",
+  "homepage_url": "",
   "language": "PHP",
   "license": "MIT",
   "topics": [
@@ -23,10 +23,10 @@
   ],
   "star_count": 105,
   "fork_count": 9,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2026-02-15T14:54:03Z",
-  "updated_at": "2026-08-04T10:41:56Z",
+  "updated_at": "2026-08-14T08:30:22Z",
   "pushed_at": "2026-07-15T09:26:05Z",
   "deleted_at": "",
   "star_history": [
@@ -364,6 +364,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 105
+    },
+    {
+      "date": "2026-08-15",
       "stars": 105
     }
   ]

@@ -3,20 +3,40 @@
   "owner": "ahxn00",
   "name": "owntv",
   "full_name": "ahxn00/owntv",
-  "description": "",
+  "description": "Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.",
   "description_ja": "",
   "url": "https://github.com/ahXN00/OwnTV",
-  "homepage_url": "",
+  "homepage_url": "https://t.me/owntvplayer",
   "language": "Kotlin",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 303,
-  "fork_count": 51,
+  "topics": [
+    "android",
+    "android-tv",
+    "catchup-tv",
+    "compose-for-tv",
+    "epg",
+    "exoplayer",
+    "iptv",
+    "iptv-player",
+    "jetpack-compose",
+    "kotlin",
+    "leanback",
+    "m3u",
+    "media3",
+    "mpv",
+    "open-source",
+    "stalker-portal",
+    "xmltv",
+    "xtream",
+    "xtream-codes"
+  ],
+  "star_count": 325,
+  "fork_count": 54,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-11T03:13:01Z",
-  "updated_at": "2026-08-09T11:36:54Z",
-  "pushed_at": "2026-08-09T11:36:47Z",
+  "updated_at": "2026-08-15T16:38:24Z",
+  "pushed_at": "2026-08-15T12:19:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +98,10 @@
     {
       "date": "2026-08-09",
       "stars": 303
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 325
     }
   ]
 }

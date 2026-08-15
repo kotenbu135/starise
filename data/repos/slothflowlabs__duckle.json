@@ -3,7 +3,7 @@
   "owner": "slothflowlabs",
   "name": "duckle",
   "full_name": "slothflowlabs/duckle",
-  "description": "Open-source ETL and ELT tool on DuckDB. Low-code visual data pipelines or SQL: 364 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI agents.",
+  "description": "Open-source ETL and ELT tool on DuckDB. No-Code/Low-code visual data pipelines or SQL: 385 components, dbt, CDC, data quality, reverse ETL, lineage, MCP for AI agents.",
   "description_ja": "",
   "url": "https://github.com/slothflowlabs/duckle",
   "homepage_url": "https://duckle.org/",
@@ -31,13 +31,13 @@
     "no-code",
     "reverse-etl"
   ],
-  "star_count": 1026,
-  "fork_count": 77,
+  "star_count": 1021,
+  "fork_count": 79,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-21T06:32:39Z",
-  "updated_at": "2026-08-09T18:27:15Z",
-  "pushed_at": "2026-08-08T11:59:34Z",
+  "updated_at": "2026-08-15T19:53:43Z",
+  "pushed_at": "2026-08-15T12:20:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -287,6 +287,10 @@
     {
       "date": "2026-08-09",
       "stars": 1026
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1021
     }
   ]
 }

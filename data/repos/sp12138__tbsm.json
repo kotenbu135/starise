@@ -3,7 +3,7 @@
   "owner": "sp12138",
   "name": "tbsm",
   "full_name": "sp12138/tbsm",
-  "description": "Official implementation of TBSM: Three-Body Scattering for Generative Modeling.",
+  "description": "[Preprint] TBSM: Three-Body Scattering for Generative Modeling.",
   "description_ja": "",
   "url": "https://github.com/sp12138/TBSM",
   "homepage_url": "https://arxiv.org/abs/2607.18198",
@@ -16,12 +16,12 @@
     "one-step-generation",
     "pytorch"
   ],
-  "star_count": 47,
-  "fork_count": 1,
+  "star_count": 68,
+  "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-20T19:05:34Z",
-  "updated_at": "2026-08-07T12:07:31Z",
+  "updated_at": "2026-08-15T13:04:45Z",
   "pushed_at": "2026-08-07T12:07:16Z",
   "deleted_at": "",
   "star_history": [
@@ -44,6 +44,10 @@
     {
       "date": "2026-08-09",
       "stars": 47
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 68
     }
   ]
 }

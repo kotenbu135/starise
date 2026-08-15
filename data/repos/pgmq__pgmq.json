@@ -7,18 +7,18 @@
   "description_ja": "軽量メッセージキュー。AWS SQS や RSMQ に似た仕組みを Postgres 上で実現します。",
   "url": "https://github.com/pgmq/pgmq",
   "homepage_url": "https://pgmq.github.io/pgmq/",
-  "language": "PLpgSQL",
+  "language": "Rust",
   "license": "PostgreSQL",
   "topics": [
     "message-queue"
   ],
-  "star_count": 5069,
+  "star_count": 5088,
   "fork_count": 141,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-24T13:49:58Z",
-  "updated_at": "2026-08-09T16:40:14Z",
-  "pushed_at": "2026-08-03T23:24:43Z",
+  "updated_at": "2026-08-15T15:52:27Z",
+  "pushed_at": "2026-08-15T15:52:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -364,6 +364,10 @@
     {
       "date": "2026-08-09",
       "stars": 5069
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 5088
     }
   ]
 }

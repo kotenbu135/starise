@@ -3,20 +3,35 @@
   "owner": "ffroliva",
   "name": "gflow-cli",
   "full_name": "ffroliva/gflow-cli",
-  "description": "Unofficial CLI for Google Flow — drive Veo I2V from the terminal. For Ultra/Pro subscribers who want to use their Flow credits efficiently via batch automation instead of the web UI.",
+  "description": "Drive Google Flow from the command line: Veo video and Imagen images, scripted, batched and pipeline-ready. Ships an MCP server so coding agents can drive it too, giving you and your agents full programmatic control over generation. Unofficial, alpha, not affiliated with Google.",
   "description_ja": "",
   "url": "https://github.com/ffroliva/gflow-cli",
   "homepage_url": "https://ffroliva.github.io/gflow-cli/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 104,
-  "fork_count": 30,
+  "topics": [
+    "agentic",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "generative-ai",
+    "google-flow",
+    "image-to-video",
+    "imagen",
+    "mcp",
+    "mcp-server",
+    "python",
+    "text-to-video",
+    "veo",
+    "video-generation"
+  ],
+  "star_count": 116,
+  "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-09T15:05:54Z",
-  "updated_at": "2026-08-09T11:40:44Z",
-  "pushed_at": "2026-08-06T11:51:14Z",
+  "updated_at": "2026-08-15T16:00:02Z",
+  "pushed_at": "2026-08-15T14:02:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -178,6 +193,10 @@
     {
       "date": "2026-08-09",
       "stars": 104
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 116
     }
   ]
 }

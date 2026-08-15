@@ -3,7 +3,7 @@
   "owner": "whiteguo233",
   "name": "openbiliclaw",
   "full_name": "whiteguo233/openbiliclaw",
-  "description": "本地私有的跨平台 AI 内容发现 Agent——先深度理解你，再主动去 B站/小红书/抖音/YouTube/X/知乎/Reddit 找你会喜欢的内容。Local-first AI agent that learns who you are, then hunts content you'll love across platforms.",
+  "description": "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）",
   "description_ja": "",
   "url": "https://github.com/whiteguo233/OpenBiliClaw",
   "homepage_url": "https://whiteguo233.github.io/OpenBiliClaw/",
@@ -12,16 +12,16 @@
   "topics": [
     "ai-agent",
     "bilibili",
-    "browser-extension",
     "chrome-extension",
     "content-discovery",
     "cross-platform",
+    "deepseek-harness",
     "douyin",
+    "dsh",
+    "dsh-plugin",
     "llm",
     "local-first",
-    "multi-source",
     "personal-ai",
-    "personality-profiling",
     "privacy-first",
     "python",
     "recommendation-system",
@@ -31,13 +31,13 @@
     "youtube",
     "zhihu"
   ],
-  "star_count": 1671,
-  "fork_count": 103,
+  "star_count": 2553,
+  "fork_count": 122,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T13:46:10Z",
-  "updated_at": "2026-08-09T18:32:46Z",
-  "pushed_at": "2026-08-09T18:32:22Z",
+  "updated_at": "2026-08-15T20:23:57Z",
+  "pushed_at": "2026-08-15T19:31:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-09",
       "stars": 1671
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 2553
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "hesprs",
   "name": "sync-engine",
   "full_name": "hesprs/sync-engine",
-  "description": "🔄 The next-generation Obsidian syncing plugin. Fast · Free · Extend with Modules.",
+  "description": "🔄 The fast and extensible synchronization engine for Obsidian.",
   "description_ja": "",
   "url": "https://github.com/hesprs/sync-engine",
   "homepage_url": "https://sync.consensia.cc",
@@ -12,15 +12,17 @@
   "topics": [
     "obsidian-md",
     "obsidian-plugin",
-    "synchronization"
+    "s3",
+    "synchronization",
+    "webdav"
   ],
-  "star_count": 322,
-  "fork_count": 22,
+  "star_count": 332,
+  "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-04T10:45:54Z",
-  "updated_at": "2026-08-09T03:57:24Z",
-  "pushed_at": "2026-08-09T03:58:27Z",
+  "updated_at": "2026-08-15T17:10:05Z",
+  "pushed_at": "2026-08-15T03:39:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +60,10 @@
     {
       "date": "2026-08-09",
       "stars": 322
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 332
     }
   ]
 }

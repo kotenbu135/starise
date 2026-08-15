@@ -3,31 +3,34 @@
   "owner": "ryan-yang125",
   "name": "chatllm-web",
   "full_name": "ryan-yang125/chatllm-web",
-  "description": "🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.",
+  "description": "Private local model studio, AI chat, and agent workspace powered by WebGPU and WebLLM.",
   "description_ja": "",
   "url": "https://github.com/Ryan-yang125/ChatLLM-Web",
-  "homepage_url": "https://chat-llm-web.vercel.app",
-  "language": "JavaScript",
+  "homepage_url": "https://chatllm-web.pages.dev",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "chatgpt",
-    "deep-learning",
+    "ai-agents",
+    "browser-ai",
+    "cloudflare-pages",
+    "llama",
     "llm",
-    "nextjs",
+    "local-ai",
+    "local-models",
     "pwa",
     "react",
-    "tvm",
-    "vicuna",
+    "vite",
+    "web-llm",
     "webgpu",
-    "webml"
+    "webllm"
   ],
   "star_count": 629,
-  "fork_count": 47,
+  "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-23T05:07:57Z",
-  "updated_at": "2026-08-04T14:13:48Z",
-  "pushed_at": "2026-07-27T11:48:59Z",
+  "updated_at": "2026-08-12T04:16:29Z",
+  "pushed_at": "2026-08-12T03:59:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -56,6 +59,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 629
+    },
+    {
+      "date": "2026-08-15",
       "stars": 629
     }
   ]

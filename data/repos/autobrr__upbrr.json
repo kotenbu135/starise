@@ -3,20 +3,31 @@
   "owner": "autobrr",
   "name": "upbrr",
   "full_name": "autobrr/upbrr",
-  "description": "",
+  "description": "Guided private-tracker upload preparation: metadata, dupe checks, screenshots, descriptions, submission, and torrent-client integration.",
   "description_ja": "",
   "url": "https://github.com/autobrr/upbrr",
-  "homepage_url": "",
+  "homepage_url": "https://upbrr.com/",
   "language": "Go",
   "license": "GPL-2.0",
-  "topics": [],
-  "star_count": 163,
-  "fork_count": 12,
+  "topics": [
+    "automation",
+    "cli",
+    "docker",
+    "golang",
+    "qbit",
+    "qbittorent",
+    "trackers",
+    "upload-assistant",
+    "uploading",
+    "webui"
+  ],
+  "star_count": 171,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T09:37:22Z",
-  "updated_at": "2026-08-09T10:58:37Z",
-  "pushed_at": "2026-08-09T13:40:54Z",
+  "updated_at": "2026-08-15T13:05:25Z",
+  "pushed_at": "2026-08-15T18:15:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -202,6 +213,10 @@
     {
       "date": "2026-08-09",
       "stars": 163
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 171
     }
   ]
 }

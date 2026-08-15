@@ -3,8 +3,8 @@
   "owner": "gyulyvgc",
   "name": "sniffnet",
   "full_name": "gyulyvgc/sniffnet",
-  "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
-  "description_ja": "インターネットトラフィックを快適に監視するツール",
+  "description": "Comfortably monitor your network traffic 🕵️‍♂️",
+  "description_ja": "",
   "url": "https://github.com/GyulyVGC/sniffnet",
   "homepage_url": "https://sniffnet.app",
   "language": "Rust",
@@ -30,13 +30,13 @@
     "utility",
     "windows"
   ],
-  "star_count": 40430,
-  "fork_count": 1908,
+  "star_count": 40551,
+  "fork_count": 1921,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-07-31T21:55:56Z",
-  "updated_at": "2026-08-09T19:34:32Z",
-  "pushed_at": "2026-08-08T09:40:28Z",
+  "updated_at": "2026-08-15T17:22:06Z",
+  "pushed_at": "2026-08-15T03:14:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -382,6 +382,10 @@
     {
       "date": "2026-08-09",
       "stars": 40430
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 40551
     }
   ]
 }

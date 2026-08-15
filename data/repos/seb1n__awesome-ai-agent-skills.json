@@ -3,23 +3,41 @@
   "owner": "seb1n",
   "name": "awesome-ai-agent-skills",
   "full_name": "seb1n/awesome-ai-agent-skills",
-  "description": "90+ universal, self-contained skills that make any AI agent better at real-world tasks. Not a link directory — every skill is a complete, ready-to-use instruction set.",
+  "description": "103 ready-to-use AI agent skills for Claude Code, OpenAI Codex, Gemini CLI, Cursor, GitHub Copilot, Windsurf, and other Agent Skills-compatible tools. Complete SKILL.md workflows—not a link directory.",
   "description_ja": "",
   "url": "https://github.com/seb1n/awesome-ai-agent-skills",
-  "homepage_url": "",
+  "homepage_url": "https://www.skills.sh/seb1n/awesome-ai-agent-skills",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "agent",
-    "agentskills"
+    "agent-skills",
+    "ai-agent-skills",
+    "ai-agents",
+    "awesome-list",
+    "claude-code",
+    "claude-code-skills",
+    "claude-skills",
+    "codex",
+    "codex-skills",
+    "context-engineering",
+    "cursor",
+    "cursor-skills",
+    "gemini-cli",
+    "gemini-skills",
+    "github-copilot",
+    "mcp",
+    "openai-codex",
+    "skill-md",
+    "skills",
+    "windsurf"
   ],
-  "star_count": 149,
+  "star_count": 155,
   "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T16:50:24Z",
-  "updated_at": "2026-08-09T20:00:54Z",
-  "pushed_at": "2026-08-09T19:02:16Z",
+  "updated_at": "2026-08-15T15:11:02Z",
+  "pushed_at": "2026-08-09T22:29:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -229,6 +247,10 @@
     {
       "date": "2026-08-09",
       "stars": 149
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 155
     }
   ]
 }

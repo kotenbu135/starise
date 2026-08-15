@@ -3,7 +3,7 @@
   "owner": "nyxxbit",
   "name": "discord-quest-completer",
   "full_name": "nyxxbit/discord-quest-completer",
-  "description": "Auto-complete every Discord Quest in seconds. Paste one script, get all rewards. Resilient module loader, auto-claim, adaptive speed. No installs, no tokens, no dependencies.",
+  "description": "Completes Discord Quests without playing them. All five types, including achievement-in-activity, which is the reason it exists. Userscript or Vencord plugin, same engine. Discord has been enforcing against quest automation since April 2026, read the warning in the README before running it.",
   "description_ja": "",
   "url": "https://github.com/nyxxbit/discord-quest-completer",
   "homepage_url": "",
@@ -24,13 +24,13 @@
     "quest-completer",
     "userscript"
   ],
-  "star_count": 381,
-  "fork_count": 36,
+  "star_count": 400,
+  "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-19T06:02:37Z",
-  "updated_at": "2026-08-09T13:03:02Z",
-  "pushed_at": "2026-08-09T06:44:00Z",
+  "updated_at": "2026-08-15T19:39:31Z",
+  "pushed_at": "2026-08-10T01:57:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +68,10 @@
     {
       "date": "2026-08-09",
       "stars": 381
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 400
     }
   ]
 }

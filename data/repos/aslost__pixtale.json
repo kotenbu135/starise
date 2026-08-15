@@ -3,7 +3,7 @@
   "owner": "aslost",
   "name": "pixtale",
   "full_name": "aslost/pixtale",
-  "description": "一个瀑布流Web相册，基于Next构建 | A masonry-style web photo album built with Next.js",
+  "description": "An immersive masonry photo gallery | 一个沉浸式瀑布流相册应用",
   "description_ja": "",
   "url": "https://github.com/aslost/pixtale",
   "homepage_url": "",
@@ -15,15 +15,17 @@
     "photo-album",
     "photo-gallery",
     "photography",
-    "photos"
+    "photos",
+    "vercel",
+    "vercel-deployment"
   ],
-  "star_count": 115,
-  "fork_count": 9,
+  "star_count": 199,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-24T04:43:15Z",
-  "updated_at": "2026-08-09T18:07:02Z",
-  "pushed_at": "2026-08-09T07:50:14Z",
+  "updated_at": "2026-08-15T16:19:26Z",
+  "pushed_at": "2026-08-15T05:31:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +35,10 @@
     {
       "date": "2026-08-09",
       "stars": 115
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 199
     }
   ]
 }

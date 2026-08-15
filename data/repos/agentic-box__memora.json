@@ -3,8 +3,8 @@
   "owner": "agentic-box",
   "name": "memora",
   "full_name": "agentic-box/memora",
-  "description": "Give your AI agents persistent memory.",
-  "description_ja": "[27] AIエージェントに永続的なメモリを。",
+  "description": "Give your AI agents persistent, collective memory — with deduplicating absorb, supersession lineage, semantic search, and a graph UI. Speaks MCP.",
+  "description_ja": "",
   "url": "https://github.com/agentic-box/memora",
   "homepage_url": "",
   "language": "Python",
@@ -27,13 +27,13 @@
     "semantic-search-algorithm",
     "sqlite"
   ],
-  "star_count": 605,
-  "fork_count": 68,
+  "star_count": 661,
+  "fork_count": 71,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-19T09:44:12Z",
-  "updated_at": "2026-08-09T19:07:35Z",
-  "pushed_at": "2026-07-13T15:18:42Z",
+  "updated_at": "2026-08-15T13:39:02Z",
+  "pushed_at": "2026-08-15T17:05:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -379,6 +379,10 @@
     {
       "date": "2026-08-09",
       "stars": 605
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 661
     }
   ]
 }

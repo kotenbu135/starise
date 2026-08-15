@@ -3,8 +3,8 @@
   "owner": "simstudioai",
   "name": "sim",
   "full_name": "simstudioai/sim",
-  "description": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-  "description_ja": "AIエージェントのビルド・デプロイ・オーケストレーション。SimはAIワークフォースの中核インテリジェンス層です。",
+  "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+  "description_ja": "",
   "url": "https://github.com/simstudioai/sim",
   "homepage_url": "https://www.sim.ai",
   "language": "TypeScript",
@@ -29,13 +29,13 @@
     "react",
     "typescript"
   ],
-  "star_count": 29387,
-  "fork_count": 3767,
+  "star_count": 29424,
+  "fork_count": 3775,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-05T22:47:49Z",
-  "updated_at": "2026-08-09T18:49:07Z",
-  "pushed_at": "2026-08-09T17:54:50Z",
+  "updated_at": "2026-08-15T18:13:18Z",
+  "pushed_at": "2026-08-15T20:24:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -381,6 +381,10 @@
     {
       "date": "2026-08-09",
       "stars": 29387
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 29424
     }
   ]
 }

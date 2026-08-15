@@ -3,19 +3,29 @@
   "owner": "netvar1337",
   "name": "vibe-island",
   "full_name": "netvar1337/vibe-island",
-  "description": "A Dynamic Island for your AI coding tools — cross-platform: macOS, Windows, Linux (Hyprland, Sway, GNOME, KDE)",
+  "description": "Dynamic Island for AI coding tools - macOS, Windows, Linux (Hyprland/Sway/GNOME/KDE)",
   "description_ja": "",
   "url": "https://github.com/NetVar1337/vibe-island",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/NetVar1337/vibe-island",
   "language": "Rust",
   "license": "NOASSERTION",
-  "topics": [],
+  "topics": [
+    "ai-tools",
+    "cross-platform",
+    "desktop",
+    "developer-tools",
+    "dynamic-island",
+    "linux",
+    "macos",
+    "rust",
+    "windows"
+  ],
   "star_count": 68,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T03:53:07Z",
-  "updated_at": "2026-08-01T10:26:12Z",
+  "updated_at": "2026-08-11T10:14:47Z",
   "pushed_at": "2026-07-21T01:27:20Z",
   "deleted_at": "",
   "star_history": [
@@ -329,6 +339,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 68
+    },
+    {
+      "date": "2026-08-15",
       "stars": 68
     }
   ]

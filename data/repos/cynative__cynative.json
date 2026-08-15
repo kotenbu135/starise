@@ -3,7 +3,7 @@
   "owner": "cynative",
   "name": "cynative",
   "full_name": "cynative/cynative",
-  "description": "Deep research for your Infrastructure. Cynative safely enables AI to reason across your code, cloud and runtime as one system - read-only connectors, sandboxed execution, verified answers.",
+  "description": "Build your own security agents. Open-source framework for agents with live, read-only access to your infrastructure, with no path to widen it. Reasons across AWS, GCP, Azure, Kubernetes, GitHub and GitLab as one system.",
   "description_ja": "",
   "url": "https://github.com/cynative/cynative",
   "homepage_url": "https://cynative.com",
@@ -31,13 +31,13 @@
     "trust-boundary",
     "vulnerability-management"
   ],
-  "star_count": 181,
+  "star_count": 190,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-24T18:06:26Z",
-  "updated_at": "2026-08-09T11:08:04Z",
-  "pushed_at": "2026-08-07T14:41:29Z",
+  "updated_at": "2026-08-14T19:55:20Z",
+  "pushed_at": "2026-08-14T18:09:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -107,6 +107,10 @@
     {
       "date": "2026-08-09",
       "stars": 181
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 190
     }
   ]
 }

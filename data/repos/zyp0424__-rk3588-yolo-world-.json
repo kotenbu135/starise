@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOS6OhMw",
+  "owner": "zyp0424",
+  "name": "-rk3588-yolo-world-",
+  "full_name": "zyp0424/-rk3588-yolo-world-",
+  "description": "基于rk3588，用yolo-world实现对摄像头采取到的实时画面里的物品进行低延迟识别，由于yolo-world的强大识别功能（物体名称所对应向量与识别到的物体所对应的向量深入融合计算，按照训练好的参数进行推理），可以识别所有物体，若要改变识别物体的类型，无需重新训练，直接改变detect_classes.txt里的物品名称即可。",
+  "description_ja": "",
+  "url": "https://github.com/zyp0424/-RK3588-yolo-world-",
+  "homepage_url": "",
+  "language": "C",
+  "license": "MIT",
+  "topics": [],
+  "star_count": 49,
+  "fork_count": 4,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-14T07:49:28Z",
+  "updated_at": "2026-08-15T02:50:59Z",
+  "pushed_at": "2026-06-15T03:05:11Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-15",
+      "stars": 49
+    }
+  ]
+}

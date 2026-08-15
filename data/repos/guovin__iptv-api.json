@@ -3,7 +3,7 @@
   "owner": "guovin",
   "name": "iptv-api",
   "full_name": "guovin/iptv-api",
-  "description": "⚡️IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署",
+  "description": "⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署",
   "description_ja": "",
   "url": "https://github.com/Guovin/iptv-api",
   "homepage_url": "",
@@ -31,13 +31,13 @@
     "tv",
     "tvbox"
   ],
-  "star_count": 24815,
-  "fork_count": 7281,
+  "star_count": 24885,
+  "fork_count": 7314,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-04T11:22:59Z",
-  "updated_at": "2026-08-09T19:08:02Z",
-  "pushed_at": "2026-08-07T06:35:33Z",
+  "updated_at": "2026-08-15T17:34:28Z",
+  "pushed_at": "2026-08-14T09:34:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-09",
       "stars": 24815
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 24885
     }
   ]
 }

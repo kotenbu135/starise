@@ -3,8 +3,8 @@
   "owner": "liberusoftware",
   "name": "crm-laravel",
   "full_name": "liberusoftware/crm-laravel",
-  "description": "CRM application written in Laravel 12 / PHP 8.5 using Filament 5. HubSpot \u0026 SalesForce alternative.",
-  "description_ja": "Laravel 12 / PHP 8.5 + Filament 5 で構築された CRM アプリケーション。HubSpot・SalesForce の代替。",
+  "description": "CRM application written in Laravel 13 / PHP 8.5 using Filament 5. HubSpot \u0026 SalesForce alternative.",
+  "description_ja": "",
   "url": "https://github.com/liberusoftware/crm-laravel",
   "homepage_url": "https://www.liberusoftware.com",
   "language": "PHP",
@@ -30,7 +30,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-04T14:42:31Z",
-  "updated_at": "2026-08-07T22:25:33Z",
+  "updated_at": "2026-08-10T22:11:43Z",
   "pushed_at": "2026-07-23T13:19:51Z",
   "deleted_at": "",
   "star_history": [
@@ -372,6 +372,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 123
+    },
+    {
+      "date": "2026-08-15",
       "stars": 123
     }
   ]

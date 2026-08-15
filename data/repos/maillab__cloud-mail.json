@@ -7,8 +7,8 @@
   "description_ja": "CloudflareベースのメールサービスおよびCloudflare Emailメールボックス。",
   "url": "https://github.com/maillab/cloud-mail",
   "homepage_url": "https://skymail.ink",
-  "language": "TypeScript",
-  "license": "AGPL-3.0",
+  "language": "JavaScript",
+  "license": "MIT",
   "topics": [
     "cloudflare",
     "cloudflare-email",
@@ -16,13 +16,13 @@
     "email",
     "mail"
   ],
-  "star_count": 13271,
-  "fork_count": 19674,
+  "star_count": 13424,
+  "fork_count": 19966,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-24T11:36:56Z",
-  "updated_at": "2026-08-09T19:20:58Z",
-  "pushed_at": "2026-08-09T16:08:32Z",
+  "updated_at": "2026-08-15T18:03:18Z",
+  "pushed_at": "2026-08-15T16:12:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -368,6 +368,10 @@
     {
       "date": "2026-08-09",
       "stars": 13271
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 13424
     }
   ]
 }

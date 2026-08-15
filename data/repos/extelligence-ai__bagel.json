@@ -3,28 +3,36 @@
   "owner": "extelligence-ai",
   "name": "bagel",
   "full_name": "extelligence-ai/bagel",
-  "description": "Chat with your robotics, drone, and IoT data — ChatGPT for the physical world.",
-  "description_ja": "ロボット、ドローン、IoTデータとチャットする — 物理世界のためのChatGPT。",
+  "description": "Query robotics, drone, and IoT data in plain English through an MCP server, with an intelligent edge data reduction pipeline that keeps only the windows that matter.",
+  "description_ja": "",
   "url": "https://github.com/Extelligence-ai/bagel",
-  "homepage_url": "",
+  "homepage_url": "https://www.trybagel.com",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
     "ardupilot",
     "betaflight",
+    "claude",
+    "data-reduction",
     "drone",
+    "duckdb",
+    "iot",
+    "mcap",
     "mcp",
+    "mcp-server",
+    "model-context-protocol",
     "px4-autopilot",
     "robotics",
+    "ros",
     "ros2"
   ],
-  "star_count": 389,
+  "star_count": 390,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-27T23:40:24Z",
-  "updated_at": "2026-08-05T20:46:14Z",
-  "pushed_at": "2026-08-08T21:21:40Z",
+  "updated_at": "2026-08-13T20:25:44Z",
+  "pushed_at": "2026-08-15T11:53:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +374,10 @@
     {
       "date": "2026-08-09",
       "stars": 389
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 390
     }
   ]
 }

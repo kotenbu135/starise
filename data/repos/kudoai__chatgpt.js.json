@@ -6,7 +6,7 @@
   "description": "🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT",
   "description_ja": "",
   "url": "https://github.com/KudoAI/chatgpt.js",
-  "homepage_url": "",
+  "homepage_url": "https://chatgptjs.org",
   "language": "JavaScript",
   "license": "",
   "topics": [
@@ -31,12 +31,12 @@
     "openai"
   ],
   "star_count": 2042,
-  "fork_count": 172,
-  "is_archived": false,
+  "fork_count": 173,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2023-03-15T07:53:55Z",
-  "updated_at": "2026-08-07T08:29:07Z",
-  "pushed_at": "2026-08-03T06:08:16Z",
+  "updated_at": "2026-08-10T08:04:03Z",
+  "pushed_at": "2026-08-10T08:03:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -381,6 +381,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 2042
+    },
+    {
+      "date": "2026-08-15",
       "stars": 2042
     }
   ]

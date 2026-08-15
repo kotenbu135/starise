@@ -3,20 +3,31 @@
   "owner": "foreverblue816",
   "name": "grace",
   "full_name": "foreverblue816/grace",
-  "description": "[ICML 2026] Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs",
+  "description": "[ICML 2026] GRACE-VLM: deployable INT4 Qwen3-VL via quantization-aware distillation.",
   "description_ja": "",
   "url": "https://github.com/ForeverBlue816/GRACE",
-  "homepage_url": "",
+  "homepage_url": "https://huggingface.co/spaces/ForeverBlue/GRACE-VLM",
   "language": "Jupyter Notebook",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 188,
-  "fork_count": 2,
+  "topics": [
+    "awq",
+    "efficient-ai",
+    "icml-2026",
+    "int4",
+    "knowledge-distillation",
+    "multimodal",
+    "pytorch",
+    "quantization-aware-training",
+    "qwen3-vl",
+    "vision-language-model"
+  ],
+  "star_count": 219,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-16T04:22:13Z",
-  "updated_at": "2026-08-09T16:44:09Z",
-  "pushed_at": "2026-07-07T11:49:50Z",
+  "updated_at": "2026-08-15T11:27:21Z",
+  "pushed_at": "2026-08-15T11:34:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -186,6 +197,10 @@
     {
       "date": "2026-08-09",
       "stars": 188
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 219
     }
   ]
 }

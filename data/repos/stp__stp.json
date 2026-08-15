@@ -3,10 +3,10 @@
   "owner": "stp",
   "name": "stp",
   "full_name": "stp/stp",
-  "description": "Simple Theorem Prover, an efficient SMT solver for bitvectors",
-  "description_ja": "Simple Theorem Prover：ビットベクタ向けの高効率SMTソルバー",
+  "description": "Simple Theorem Prover, an efficient SMT solver for bitvectors, floating-point and arrays.",
+  "description_ja": "",
   "url": "https://github.com/stp/stp",
-  "homepage_url": "https://stp.github.io/",
+  "homepage_url": "https://stp.github.io/stp/",
   "language": "C++",
   "license": "NOASSERTION",
   "topics": [
@@ -17,13 +17,13 @@
     "symbolic-execution",
     "verification"
   ],
-  "star_count": 583,
+  "star_count": 584,
   "fork_count": 143,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-08-27T00:53:59Z",
-  "updated_at": "2026-08-09T15:05:03Z",
-  "pushed_at": "2026-08-09T15:04:52Z",
+  "updated_at": "2026-08-15T12:36:16Z",
+  "pushed_at": "2026-08-15T15:06:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -369,6 +369,10 @@
     {
       "date": "2026-08-09",
       "stars": 583
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 584
     }
   ]
 }

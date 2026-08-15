@@ -3,40 +3,41 @@
   "owner": "fastapi",
   "name": "full-stack-fastapi-template",
   "full_name": "fastapi/full-stack-fastapi-template",
-  "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
-  "description_ja": "フルスタックなモダンWebアプリケーションテンプレート。FastAPI、React、SQLModel、PostgreSQL、Docker、GitHub Actions、自動HTTPSなどを使用。",
+  "description": "Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.",
+  "description_ja": "",
   "url": "https://github.com/fastapi/full-stack-fastapi-template",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "backend",
-    "chakra-ui",
     "docker",
+    "docker-compose",
     "fastapi",
-    "frontend",
-    "json",
-    "json-schema",
+    "fastapi-cloud",
+    "full-stack",
+    "github-actions",
     "jwt",
-    "letsencrypt",
     "openapi",
+    "playwright",
     "postgresql",
+    "pytest",
     "python",
     "react",
+    "shadcn-ui",
     "sqlmodel",
-    "swagger",
+    "tailwindcss",
     "tanstack-query",
     "tanstack-router",
-    "traefik",
-    "typescript"
+    "typescript",
+    "vite"
   ],
-  "star_count": 44693,
-  "fork_count": 8898,
+  "star_count": 44880,
+  "fork_count": 8927,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-02-23T15:08:34Z",
-  "updated_at": "2026-08-09T18:45:56Z",
-  "pushed_at": "2026-08-09T18:21:45Z",
+  "updated_at": "2026-08-15T18:09:11Z",
+  "pushed_at": "2026-08-14T17:22:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -382,6 +383,10 @@
     {
       "date": "2026-08-09",
       "stars": 44693
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 44880
     }
   ]
 }

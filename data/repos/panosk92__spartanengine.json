@@ -3,8 +3,8 @@
   "owner": "panosk92",
   "name": "spartanengine",
   "full_name": "panosk92/spartanengine",
-  "description": "A game engine with a fully bindless, GPU-driven renderer featuring real-time path-traced global illumination, hardware ray tracing, and a physics simulation running at 200Hz, built over 10+ years of R\u0026D",
-  "description_ja": "完全なバインドレス・GPU駆動レンダラーを備えたゲームエンジン。リアルタイムパストレーシングによるグローバルイルミネーション、ハードウェアレイトレーシング、200Hz物理シミュレーションを搭載。10年以上のR\u0026Dの成果。",
+  "description": "A game engine with a fully bindless, GPU-driven renderer featuring real-time path-traced global illumination, hardware ray tracing, and a physics simulation running at 200Hz, built over 12+ years of R\u0026D",
+  "description_ja": "",
   "url": "https://github.com/PanosK92/SpartanEngine",
   "homepage_url": "https://panoskarabelas.com",
   "language": "C++",
@@ -31,13 +31,13 @@
     "vulkan",
     "xess"
   ],
-  "star_count": 3103,
+  "star_count": 3106,
   "fork_count": 269,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-06-18T03:27:49Z",
-  "updated_at": "2026-08-09T16:23:09Z",
-  "pushed_at": "2026-08-09T16:28:22Z",
+  "updated_at": "2026-08-14T10:06:32Z",
+  "pushed_at": "2026-08-13T19:01:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-09",
       "stars": 3103
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 3106
     }
   ]
 }

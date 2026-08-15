@@ -3,7 +3,7 @@
   "owner": "ccfos",
   "name": "huatuo",
   "full_name": "ccfos/huatuo",
-  "description": "eBPF-based observability for Linux kernel \u0026 Agent sandbox. 🚀🚀",
+  "description": "eBPF-based Linux kernel observability 🚀🚀",
   "description_ja": "",
   "url": "https://github.com/ccfos/huatuo",
   "homepage_url": "https://huatuo.tech/",
@@ -19,13 +19,13 @@
     "profiling",
     "sandbox"
   ],
-  "star_count": 1053,
-  "fork_count": 119,
+  "star_count": 1058,
+  "fork_count": 120,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-04T05:02:21Z",
-  "updated_at": "2026-08-08T13:07:14Z",
-  "pushed_at": "2026-08-07T10:35:34Z",
+  "updated_at": "2026-08-15T07:46:32Z",
+  "pushed_at": "2026-08-13T10:39:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -367,6 +367,10 @@
     {
       "date": "2026-08-09",
       "stars": 1053
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1058
     }
   ]
 }

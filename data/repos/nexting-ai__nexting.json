@@ -3,31 +3,31 @@
   "owner": "nexting-ai",
   "name": "nexting",
   "full_name": "nexting-ai/nexting",
-  "description": "A wearable terminal to dispatch tasks to your own AI agents — Claude Code, OpenClaw, Codex. Tap, speak, dispatch. The first hardware built for OpenClaw. Open source (MIT).",
+  "description": "Remote control for Claude Code and Codex on Mac or PC. View sessions, send tasks, and drive them remotely from your phone, PIN, or Ring. OpenClaw supported.",
   "description_ja": "",
   "url": "https://github.com/Nexting-ai/nexting",
-  "homepage_url": "",
+  "homepage_url": "https://nexting.ai",
   "language": "C",
   "license": "MIT",
   "topics": [
+    "agent-remote-control",
     "ai-agent",
     "ai-wearable",
     "claude-code",
     "codex",
     "hardware",
     "nrf52840",
-    "open-source",
     "openclaw",
-    "voice-assistant",
+    "remote-control",
     "wearable"
   ],
-  "star_count": 645,
-  "fork_count": 10,
+  "star_count": 785,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-10T08:15:23Z",
-  "updated_at": "2026-08-09T19:25:32Z",
-  "pushed_at": "2026-08-04T14:32:39Z",
+  "updated_at": "2026-08-15T17:30:45Z",
+  "pushed_at": "2026-08-11T12:41:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -241,6 +241,10 @@
     {
       "date": "2026-08-09",
       "stars": 645
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 785
     }
   ]
 }

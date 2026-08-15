@@ -3,7 +3,7 @@
   "owner": "raguteam",
   "name": "ragu",
   "full_name": "raguteam/ragu",
-  "description": "Codebase for the implementaion of graph-rag system",
+  "description": "Modular GraphRAG framework",
   "description_ja": "",
   "url": "https://github.com/RaguTeam/RAGU",
   "homepage_url": "",
@@ -16,13 +16,13 @@
     "nlp",
     "rag"
   ],
-  "star_count": 119,
+  "star_count": 121,
   "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-04T16:52:42Z",
-  "updated_at": "2026-08-08T05:14:46Z",
-  "pushed_at": "2026-08-09T16:21:13Z",
+  "updated_at": "2026-08-14T19:16:07Z",
+  "pushed_at": "2026-08-12T19:10:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -260,6 +260,10 @@
     {
       "date": "2026-08-09",
       "stars": 119
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 121
     }
   ]
 }

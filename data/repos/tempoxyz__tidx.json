@@ -1,0 +1,35 @@
+{
+  "repo_id": "R_kgDOQ-sMeQ",
+  "owner": "tempoxyz",
+  "name": "tidx",
+  "full_name": "tempoxyz/tidx",
+  "description": "tidx indexes Tempo chain data into a hybrid PostgreSQL + ClickHouse architecture for fast point lookups (OLTP) and lightning-fast analytics (OLAP).",
+  "description_ja": "",
+  "url": "https://github.com/tempoxyz/tidx",
+  "homepage_url": "https://tidx.sh",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "analytics",
+    "blockchain-indexer",
+    "clickhouse",
+    "indexer",
+    "postgresql",
+    "rust",
+    "tempo"
+  ],
+  "star_count": 98,
+  "fork_count": 24,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-01-22T02:26:09Z",
+  "updated_at": "2026-08-11T14:25:22Z",
+  "pushed_at": "2026-08-11T14:21:50Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-15",
+      "stars": 98
+    }
+  ]
+}

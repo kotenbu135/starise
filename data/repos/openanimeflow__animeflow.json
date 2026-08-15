@@ -3,8 +3,8 @@
   "owner": "openanimeflow",
   "name": "animeflow",
   "full_name": "openanimeflow/animeflow",
-  "description": "一个跨平台的动漫视频播放追番软件，支持多数据源、支持实时视频4k超分辨率、自定义爬虫配置,对接Bangumi服务同步用户收藏数据,对接弹弹Play提供弹幕体验，为您提供流畅的观影体验",
-  "description_ja": "クロスプラットフォームのアニメ動画視聴・追跡ソフトウェア。複数データソース対応、リアルタイム4K超解像、カスタムクローラー設定、Bangumiとの連携によるユーザーコレクション同期、弾弾Playとの連携による弾幕体験、スムーズな視聴体験を提供",
+  "description": "一个跨平台的动漫视频播放追番、看番、番剧软件，支持多数据源、支持实时视频4k超分辨率、自定义爬虫配置,对接Bangumi服务同步用户收藏数据,对接弹弹Play提供弹幕体验，为您提供流畅的观影体验",
+  "description_ja": "",
   "url": "https://github.com/openAnimeFlow/AnimeFlow",
   "homepage_url": "https://ligg.top",
   "language": "Dart",
@@ -18,13 +18,13 @@
     "macos",
     "windows"
   ],
-  "star_count": 171,
+  "star_count": 173,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-20T19:33:06Z",
-  "updated_at": "2026-08-09T01:17:17Z",
-  "pushed_at": "2026-08-09T01:17:14Z",
+  "updated_at": "2026-08-15T06:13:48Z",
+  "pushed_at": "2026-08-13T04:14:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +366,10 @@
     {
       "date": "2026-08-09",
       "stars": 171
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 173
     }
   ]
 }

@@ -3,20 +3,20 @@
   "owner": "tmolteno",
   "name": "necpp",
   "full_name": "tmolteno/necpp",
-  "description": "NEC2++ is a C++ rewrite of the Numerical Electromagnetics Code (NEC-2) with many new features like automatic error detection when you specify the structure incorrectly and much faster execution. . The simulation engine in Nec2++ is compiled into a library for easy integration into automatic antenna design systems or GUI tools.",
+  "description": "NEC2++ is a C++ rewrite of the Numerical Electromagnetics Code (NEC-2) with many new features like automatic error detection when you specify the structure incorrectly and much faster execution.  The simulation engine in Nec2++ is compiled into a library for easy integration into automatic antenna design systems or GUI tools.",
   "description_ja": "",
   "url": "https://github.com/tmolteno/necpp",
-  "homepage_url": "http://elec.otago.ac.nz/w/index.php/Necpp",
+  "homepage_url": "http://tmolteno.github.io/necpp/",
   "language": "C++",
   "license": "GPL-2.0",
   "topics": [],
-  "star_count": 303,
-  "fork_count": 79,
+  "star_count": 304,
+  "fork_count": 81,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-03-22T22:40:22Z",
-  "updated_at": "2026-08-07T05:54:35Z",
-  "pushed_at": "2026-08-07T05:54:49Z",
+  "updated_at": "2026-08-12T14:16:49Z",
+  "pushed_at": "2026-08-12T07:33:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -314,6 +314,10 @@
     {
       "date": "2026-08-09",
       "stars": 303
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 304
     }
   ]
 }

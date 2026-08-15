@@ -3,7 +3,7 @@
   "owner": "vshulcz",
   "name": "deja-vu",
   "full_name": "vshulcz/deja-vu",
-  "description": "Your agents already solved this. deja finds it — it indexes the sessions your coding agents already wrote to disk, months of history from before you installed it, and recalls them automatically at session start across seventeen harnesses. 84.9% hit@1 on LongMemEval-S, no LLM, no embeddings. One zero-dep binary, fully local.",
+  "description": "Memory for coding agents. Indexes the sessions 17 agents already wrote to disk, including months from before you installed it, and recalls them in any of them. No LLM, no embeddings — one local Go binary.",
   "description_ja": "",
   "url": "https://github.com/vshulcz/deja-vu",
   "homepage_url": "https://vshulcz.github.io/deja-vu/",
@@ -24,13 +24,13 @@
     "opencode",
     "session-search"
   ],
-  "star_count": 615,
-  "fork_count": 39,
+  "star_count": 634,
+  "fork_count": 45,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-14T07:45:44Z",
-  "updated_at": "2026-08-09T15:35:21Z",
-  "pushed_at": "2026-08-09T12:45:52Z",
+  "updated_at": "2026-08-15T19:55:49Z",
+  "pushed_at": "2026-08-15T20:34:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -76,6 +76,10 @@
     {
       "date": "2026-08-09",
       "stars": 615
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 634
     }
   ]
 }

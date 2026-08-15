@@ -3,7 +3,7 @@
   "owner": "sipyourdrink-ltd",
   "name": "bernstein",
   "full_name": "sipyourdrink-ltd/bernstein",
-  "description": "Deterministic orchestrator for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). No model in the coordination loop, so parallel runs in per-task git worktrees replay byte-identically. Signed lineage plus an opt-in HMAC audit chain a reviewer checks offline, without rerunning it. Cluster mode, air-gap deploy. https://bernstein.run",
+  "description": "Deterministic orchestrator for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). No model in the coordination loop, so parallel runs in per-task git worktrees replay byte-identically. Signed lineage plus an opt-in HMAC audit chain a reviewer checks offline. Cluster mode, air-gap deploy. Status: beta. https://bernstein.run",
   "description_ja": "",
   "url": "https://github.com/sipyourdrink-ltd/bernstein",
   "homepage_url": "https://bernstein.run",
@@ -31,13 +31,13 @@
     "reproducibility",
     "tamper-evident"
   ],
-  "star_count": 818,
-  "fork_count": 94,
+  "star_count": 898,
+  "fork_count": 113,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T14:52:26Z",
-  "updated_at": "2026-08-09T19:20:49Z",
-  "pushed_at": "2026-08-09T16:58:23Z",
+  "updated_at": "2026-08-15T20:19:06Z",
+  "pushed_at": "2026-08-15T20:25:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -191,6 +191,10 @@
     {
       "date": "2026-08-09",
       "stars": 818
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 898
     }
   ]
 }

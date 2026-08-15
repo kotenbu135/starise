@@ -3,7 +3,7 @@
   "owner": "thomasmbury",
   "name": "ewstools",
   "full_name": "thomasmbury/ewstools",
-  "description": "Python package for early warning signals (EWS) of bifurcations in time series data.",
+  "description": "Python package for early warning signals (EWS) of critical transitions in time series data.",
   "description_ja": "",
   "url": "https://github.com/ThomasMBury/ewstools",
   "homepage_url": "",
@@ -31,7 +31,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-11-01T23:04:44Z",
-  "updated_at": "2026-07-30T20:57:39Z",
+  "updated_at": "2026-08-10T20:32:56Z",
   "pushed_at": "2026-07-30T20:58:23Z",
   "deleted_at": "",
   "star_history": [
@@ -285,6 +285,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 98
+    },
+    {
+      "date": "2026-08-15",
       "stars": 98
     }
   ]

@@ -3,20 +3,20 @@
   "owner": "ccpopy",
   "name": "cc-sessions",
   "full_name": "ccpopy/cc-sessions",
-  "description": "提供codex不同提供商会话修复和claude会话管理，支持会话备份以及会话分支，以及统计，一切都在本地运行",
+  "description": "支持codex、claude及opencode的会话管理，支持windows、linux、macos以及ssh环境",
   "description_ja": "",
   "url": "https://github.com/ccpopy/cc-sessions",
   "homepage_url": "",
   "language": "Rust",
   "license": "MIT",
   "topics": [],
-  "star_count": 188,
+  "star_count": 199,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-07T03:34:46Z",
-  "updated_at": "2026-08-08T06:41:35Z",
-  "pushed_at": "2026-08-08T06:41:55Z",
+  "updated_at": "2026-08-14T10:15:04Z",
+  "pushed_at": "2026-08-14T10:14:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -282,6 +282,10 @@
     {
       "date": "2026-08-09",
       "stars": 188
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 199
     }
   ]
 }

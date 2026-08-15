@@ -3,20 +3,30 @@
   "owner": "agentgg-dev",
   "name": "agentgg",
   "full_name": "agentgg-dev/agentgg",
-  "description": "agentgg cli",
+  "description": "Open source agentic SAST. The engine behind hundreds of disclosed zero-days. 100+ AI security agents, any repo or PR diff, bring your own model.",
   "description_ja": "",
   "url": "https://github.com/agentgg-dev/agentgg",
-  "homepage_url": "",
+  "homepage_url": "https://agentgg.dev/",
   "language": "TypeScript",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 89,
-  "fork_count": 11,
+  "topics": [
+    "ai-agents",
+    "appsec",
+    "cli",
+    "code-review",
+    "llm",
+    "sast",
+    "security",
+    "static-analysis",
+    "vulnerability-scanner"
+  ],
+  "star_count": 98,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-13T02:04:55Z",
-  "updated_at": "2026-08-08T22:47:03Z",
-  "pushed_at": "2026-08-08T22:47:07Z",
+  "updated_at": "2026-08-15T17:40:02Z",
+  "pushed_at": "2026-08-13T03:43:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -230,6 +240,10 @@
     {
       "date": "2026-08-09",
       "stars": 89
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 98
     }
   ]
 }

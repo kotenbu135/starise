@@ -3,41 +3,30 @@
   "owner": "yaoapp",
   "name": "yao",
   "full_name": "yaoapp/yao",
-  "description": "✨ Build AI agents and web apps — with a single binary.",
-  "description_ja": "✨ シングルバイナリでAIエージェントとWebアプリを構築",
+  "description": "✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.",
+  "description_ja": "",
   "url": "https://github.com/YaoApp/yao",
   "homepage_url": "https://yaoagents.com",
   "language": "Go",
   "license": "NOASSERTION",
   "topics": [
     "agent",
-    "agentic-ai",
     "agents",
     "ai",
-    "ai-applications",
-    "ai-dev",
-    "ai-developer-tools",
-    "ai-generated-code",
     "ai-native",
-    "ai-native-development",
-    "aigc",
-    "api",
-    "autonomous",
-    "autonomous-agents",
-    "autonomous-robots",
-    "autonomous-systems",
-    "chatbot",
-    "cli",
+    "claude-code",
+    "deepseek-harness",
     "developer-tools",
+    "dsh-plugin",
     "golang"
   ],
-  "star_count": 7563,
+  "star_count": 7568,
   "fork_count": 686,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-06T09:20:27Z",
-  "updated_at": "2026-08-09T12:45:14Z",
-  "pushed_at": "2026-08-08T11:18:38Z",
+  "updated_at": "2026-08-15T20:18:56Z",
+  "pushed_at": "2026-08-15T17:19:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +372,10 @@
     {
       "date": "2026-08-09",
       "stars": 7563
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 7568
     }
   ]
 }

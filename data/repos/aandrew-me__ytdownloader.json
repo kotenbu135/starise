@@ -3,10 +3,10 @@
   "owner": "aandrew-me",
   "name": "ytdownloader",
   "full_name": "aandrew-me/ytdownloader",
-  "description": "Desktop App for downloading Videos and Audios from hundreds of sites",
-  "description_ja": "数百のサイトから動画と音声をダウンロードするデスクトップアプリ",
+  "description": "Desktop app to download audio/video from hundreds of sites",
+  "description_ja": "",
   "url": "https://github.com/aandrew-me/ytDownloader",
-  "homepage_url": "https://aandrew-me.github.io/ytDownloader-site/",
+  "homepage_url": "https://ytdn.netlify.app/",
   "language": "JavaScript",
   "license": "GPL-3.0",
   "topics": [
@@ -31,13 +31,13 @@
     "yt-dlp",
     "ytdownloader"
   ],
-  "star_count": 10105,
-  "fork_count": 898,
+  "star_count": 10151,
+  "fork_count": 907,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-07-25T16:14:20Z",
-  "updated_at": "2026-08-09T17:32:47Z",
-  "pushed_at": "2026-08-09T14:04:18Z",
+  "updated_at": "2026-08-15T18:47:16Z",
+  "pushed_at": "2026-08-15T06:03:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-09",
       "stars": 10105
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 10151
     }
   ]
 }

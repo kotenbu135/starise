@@ -3,20 +3,31 @@
   "owner": "vmihalis",
   "name": "hacker-bob",
   "full_name": "vmihalis/hacker-bob",
-  "description": "Claude Code bug bounty agent. Install in current workspace: npx -y hacker-bob-cc@latest install \"$PWD\" then restart Claude and run /bob-hunt target.com",
+  "description": "A local MCP runtime that attacks what you own and only reports what it proved. 17 CVEs across 9 projects came out of this repo. Install: npx -y hacker-bob@latest install /path/to/project, then run /bob-evaluate target.com",
   "description_ja": "",
   "url": "https://github.com/vmihalis/hacker-bob",
-  "homepage_url": "https://www.npmjs.com/package/hacker-bob-cc",
+  "homepage_url": "https://hackerbob.ai",
   "language": "JavaScript",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 98,
+  "topics": [
+    "appsec",
+    "claude-code",
+    "cve",
+    "fuzzing",
+    "mcp",
+    "model-context-protocol",
+    "offensive-security",
+    "pentesting",
+    "security",
+    "smart-contract-security"
+  ],
+  "star_count": 97,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T11:28:31Z",
-  "updated_at": "2026-07-29T12:39:03Z",
-  "pushed_at": "2026-08-01T11:08:03Z",
+  "updated_at": "2026-08-13T18:01:00Z",
+  "pushed_at": "2026-08-13T21:52:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -286,6 +297,10 @@
     {
       "date": "2026-08-09",
       "stars": 98
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 97
     }
   ]
 }

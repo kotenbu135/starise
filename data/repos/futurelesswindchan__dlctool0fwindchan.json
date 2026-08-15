@@ -3,20 +3,25 @@
   "owner": "futurelesswindchan",
   "name": "dlctool0fwindchan",
   "full_name": "futurelesswindchan/dlctool0fwindchan",
-  "description": "一个简单易用工具，支持从hubcapmanifest.com（原manifest.morrenus.xyz）下载的清单压缩包、自动识别游戏和 DLC、选择性安装/卸载",
+  "description": "风兔盒 (Kazeusa) - 优雅的 Steam 游戏 DLC 清单/解密密钥管理器",
   "description_ja": "",
   "url": "https://github.com/futurelesswindchan/DLCtool0fwindchan",
   "homepage_url": "",
   "language": "Go",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 33,
+  "topics": [
+    "golang",
+    "typescript",
+    "vue3",
+    "wails"
+  ],
+  "star_count": 34,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T09:28:18Z",
-  "updated_at": "2026-08-08T17:12:22Z",
-  "pushed_at": "2026-08-09T01:23:50Z",
+  "updated_at": "2026-08-15T13:23:08Z",
+  "pushed_at": "2026-08-15T13:22:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +67,10 @@
     {
       "date": "2026-08-09",
       "stars": 33
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 34
     }
   ]
 }

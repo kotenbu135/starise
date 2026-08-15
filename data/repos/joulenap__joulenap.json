@@ -3,7 +3,7 @@
   "owner": "joulenap",
   "name": "joulenap",
   "full_name": "joulenap/joulenap",
-  "description": "Wake-on-LAN backup scheduler for Proxmox VE + PBS — let your backup server sleep",
+  "description": "Wake-on-LAN backup scheduler for Proxmox VE + PBS - let your backup servers sleep",
   "description_ja": "",
   "url": "https://github.com/Joulenap/joulenap",
   "homepage_url": "https://www.joulenap.com",
@@ -23,13 +23,13 @@
     "wake-on-lan",
     "wol"
   ],
-  "star_count": 45,
-  "fork_count": 2,
+  "star_count": 115,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-02T18:46:59Z",
-  "updated_at": "2026-08-09T19:35:23Z",
-  "pushed_at": "2026-08-08T20:34:18Z",
+  "updated_at": "2026-08-14T22:00:36Z",
+  "pushed_at": "2026-08-11T21:23:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-08-09",
       "stars": 45
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 115
     }
   ]
 }

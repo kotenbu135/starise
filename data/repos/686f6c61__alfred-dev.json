@@ -3,12 +3,12 @@
   "owner": "686f6c61",
   "name": "alfred-dev",
   "full_name": "686f6c61/alfred-dev",
-  "description": "Plugin de Claude Code: 18 agentes especializados, 60 skills, 25 comandos, 13 hooks, memoria persistente, Memory UI local, quality gates, evidence guard, continuidad operativa y modo autopilot.",
-  "description_ja": "Claude Codeプラグイン: 18の専門エージェント、60スキル、25コマンド、13フック、永続メモリ、ローカルMemory UI、quality gates、evidence guard、運用継続性、autopilotモードを搭載",
+  "description": " Tu equipo de desarrolladores en un plugin. 10 agentes, 11 skills planas, 18 comandos /alfred-dev:*. Memoria persistente, quality gates con evidencia y MCP local. ",
+  "description_ja": "",
   "url": "https://github.com/686f6c61/alfred-dev",
   "homepage_url": "https://alfred-dev.com",
   "language": "Python",
-  "license": "",
+  "license": "MIT",
   "topics": [
     "ai-agents",
     "automation",
@@ -18,18 +18,20 @@
     "code-quality",
     "devops",
     "evidence-guard",
+    "mcp",
+    "qa",
     "sdlc",
     "security",
     "software-engineering",
     "tdd"
   ],
-  "star_count": 105,
+  "star_count": 104,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-18T16:16:40Z",
-  "updated_at": "2026-08-07T19:12:48Z",
-  "pushed_at": "2026-08-07T19:48:29Z",
+  "updated_at": "2026-08-15T13:19:10Z",
+  "pushed_at": "2026-08-15T13:13:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -375,6 +377,10 @@
     {
       "date": "2026-08-09",
       "stars": 105
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 104
     }
   ]
 }

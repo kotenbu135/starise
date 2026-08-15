@@ -6,7 +6,7 @@
   "description": "Backup and migrate Kubernetes applications and their persistent volumes",
   "description_ja": "KubernetesアプリケーションとそのPersistent Volumeのバックアップと移行",
   "url": "https://github.com/velero-io/velero",
-  "homepage_url": "https://velero-io.github.io/velero/",
+  "homepage_url": "https://velero.io",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
@@ -16,13 +16,13 @@
     "kubernetes",
     "velero"
   ],
-  "star_count": 10191,
-  "fork_count": 1585,
+  "star_count": 10212,
+  "fork_count": 1593,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-08-02T17:22:11Z",
-  "updated_at": "2026-08-09T18:41:20Z",
-  "pushed_at": "2026-08-09T16:34:06Z",
+  "updated_at": "2026-08-15T16:33:59Z",
+  "pushed_at": "2026-08-15T19:12:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -368,6 +368,10 @@
     {
       "date": "2026-08-09",
       "stars": 10191
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 10212
     }
   ]
 }

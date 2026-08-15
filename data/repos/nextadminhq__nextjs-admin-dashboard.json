@@ -3,13 +3,16 @@
   "owner": "nextadminhq",
   "name": "nextjs-admin-dashboard",
   "full_name": "nextadminhq/nextjs-admin-dashboard",
-  "description": "Next.js admin dashboard template and  UI components that come with pre-built elements, components, pages, high-quality design, integrations, and much more.",
-  "description_ja": "事前構築済みの要素・コンポーネント・ページ・高品質デザイン・インテグレーションなどを備えたNext.js管理ダッシュボードテンプレートとUIコンポーネント集。",
+  "description": "AI-Native Next.js admin dashboard template and  UI components that come with pre-built elements, components, pages, high-quality design, integrations, and much more.",
+  "description_ja": "",
   "url": "https://github.com/NextAdminHQ/nextjs-admin-dashboard",
   "homepage_url": "https://nextadmin.co",
   "language": "TypeScript",
   "license": "",
   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-native",
     "charts",
     "components",
     "dashboard",
@@ -17,26 +20,23 @@
     "graph",
     "nextjs",
     "nextjs-admin-template",
-    "nextjs-boilerplate",
     "nextjs-dashboard",
     "nextjs-dashboard-template",
-    "nextjs-starter",
     "nextjs-template",
-    "nextjs15",
+    "skills",
     "tailwindcss",
     "toolkit",
     "typescript",
     "ui-components",
-    "uikit",
     "vercel"
   ],
-  "star_count": 527,
-  "fork_count": 245,
+  "star_count": 530,
+  "fork_count": 246,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-09T11:47:51Z",
-  "updated_at": "2026-08-09T12:00:51Z",
-  "pushed_at": "2026-07-20T10:17:45Z",
+  "updated_at": "2026-08-15T11:13:33Z",
+  "pushed_at": "2026-08-13T14:24:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -378,6 +378,10 @@
     {
       "date": "2026-08-09",
       "stars": 527
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 530
     }
   ]
 }

@@ -3,41 +3,37 @@
   "owner": "agions",
   "name": "novella",
   "full_name": "agions/novella",
-  "description": "MangaV (漫织 AI) - 端到端 AI 漫剧创作平台。集成 13 大 AI 大模型、视听多模态与 FFmpeg 硬件加速引擎，输入一本小说，AI 自动生成 4K 精致漫剧。",
+  "description": "🎬 端到端 AI 漫剧 / 动画短剧 Multi-Agent 多智能体协作创作平台 (Novella AI)。基于 Hub-and-Spoke 智能体架构、ProjectBlackboard 共享黑板、自定义 Agent 扩展插件、角色 Consistency 锚定与 4K GPU 压制。",
   "description_ja": "",
   "url": "https://github.com/Agions/novella",
   "homepage_url": "https://agions.github.io/novella/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "ai",
+    "agent-orchestration",
+    "ai-agent",
     "ai-manga",
-    "ai-tools",
-    "anime-generator",
-    "computer-vision",
-    "cyberpunk",
-    "deepseek",
-    "ffmpeg",
-    "llm",
-    "manga",
-    "manga-creation",
-    "manga-pipeline",
+    "ai-video-generation",
+    "desktop-app",
+    "ffmpeg-gpu",
+    "manga-generator",
+    "monorepo",
+    "multi-agent",
     "novel-to-video",
     "react19",
     "rust",
-    "script-generation",
-    "storyboard",
-    "tauri",
-    "text-to-video",
-    "tts"
+    "script-to-video",
+    "storyboard-ai",
+    "tauri-v2",
+    "tts-audio"
   ],
-  "star_count": 74,
-  "fork_count": 18,
+  "star_count": 78,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-14T04:57:11Z",
-  "updated_at": "2026-08-09T10:40:38Z",
-  "pushed_at": "2026-08-09T12:55:25Z",
+  "updated_at": "2026-08-15T11:56:46Z",
+  "pushed_at": "2026-08-12T12:08:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -219,6 +215,10 @@
     {
       "date": "2026-08-09",
       "stars": 74
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 78
     }
   ]
 }

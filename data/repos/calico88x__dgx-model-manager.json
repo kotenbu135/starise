@@ -3,7 +3,7 @@
   "owner": "calico88x",
   "name": "dgx-model-manager",
   "full_name": "calico88x/dgx-model-manager",
-  "description": "Single-file web UI for NVIDIA DGX Spark — pull Ollama models, browse and download from HuggingFace, manage LiteLLM routing, and control SGLang, vLLM, llama.cpp, LocalAI, and ComfyUI. All from one browser tab.",
+  "description": "Browser-based model and inference management for NVIDIA DGX Spark - inventory local and Hugging Face models, manage Ollama and LiteLLM, generate Docker Compose deployments for vLLM, SGLang, llama.cpp, LocalAI, and ComfyUI, with multi-user access, diagnostics, and multi-node support.",
   "description_ja": "",
   "url": "https://github.com/calico88x/DGX-Model-Manager",
   "homepage_url": "",
@@ -11,24 +11,20 @@
   "license": "MIT",
   "topics": [
     "ai",
-    "ai-tools",
-    "dgx-spark",
     "dgxspark",
-    "fastapi",
     "gb10",
     "llm",
-    "llm-tools",
     "model-deployment",
     "nvidia",
-    "web"
+    "python"
   ],
   "star_count": 32,
-  "fork_count": 5,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-01T21:13:08Z",
-  "updated_at": "2026-08-08T02:03:45Z",
-  "pushed_at": "2026-05-19T21:07:10Z",
+  "updated_at": "2026-08-11T03:16:50Z",
+  "pushed_at": "2026-08-11T03:03:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -53,6 +49,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 32
+    },
+    {
+      "date": "2026-08-15",
       "stars": 32
     }
   ]

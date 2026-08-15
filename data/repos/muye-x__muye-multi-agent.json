@@ -3,20 +3,20 @@
   "owner": "muye-x",
   "name": "muye-multi-agent",
   "full_name": "muye-x/muye-multi-agent",
-  "description": "基于 Muye Multi-Agent SDK 的多服务 Agent 脚手架，包含模型网关、主 Agent 编排、Graph/ReAct 子 Agent 示例、Nginx Gateway 和本地运维控制台。",
+  "description": "基于 Muye Multi-Agent SDK 的多服务 Agent 脚手架，可一条命令基于知识库创建Agent。A multi-service Agent scaffolding based on the Muye Multi-Agent SDK, which can create an Agent from a knowledge base with a single command.",
   "description_ja": "",
   "url": "https://github.com/muye-x/muye-multi-agent",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [],
-  "star_count": 74,
-  "fork_count": 3,
+  "star_count": 6,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-25T02:04:18Z",
-  "updated_at": "2026-08-09T08:33:11Z",
-  "pushed_at": "2026-08-06T08:01:46Z",
+  "updated_at": "2026-08-15T13:55:17Z",
+  "pushed_at": "2026-08-15T10:14:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +38,10 @@
     {
       "date": "2026-08-09",
       "stars": 74
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 6
     }
   ]
 }

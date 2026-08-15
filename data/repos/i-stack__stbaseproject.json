@@ -3,13 +3,14 @@
   "owner": "i-stack",
   "name": "stbaseproject",
   "full_name": "i-stack/stbaseproject",
-  "description": "Modular iOS 16+ toolkit: MVVM page layer, HTTP/WebSocket networking, SSL pinning, Keychain/crypto, UIKit, Markdown, localization; optional Contacts/Location/Media. SPM \u0026 CocoaPods.",
+  "description": "iOS base components library for Swift — UIKit, networking, security, localization",
   "description_ja": "",
   "url": "https://github.com/i-stack/STBaseProject",
   "homepage_url": "",
   "language": "Swift",
   "license": "MIT",
   "topics": [
+    "base-library",
     "cocoapods",
     "ios",
     "ios-development",
@@ -20,19 +21,20 @@
     "mvvm",
     "networking",
     "privacy-manifest",
+    "security",
     "ssl-pinning",
     "swift",
     "swift-package-manager",
     "uikit",
     "websocket"
   ],
-  "star_count": 240,
-  "fork_count": 2,
+  "star_count": 242,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-16T03:38:19Z",
-  "updated_at": "2026-07-27T16:36:48Z",
-  "pushed_at": "2026-08-08T09:06:41Z",
+  "updated_at": "2026-08-13T09:43:16Z",
+  "pushed_at": "2026-08-13T09:42:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -378,6 +380,10 @@
     {
       "date": "2026-08-09",
       "stars": 240
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 242
     }
   ]
 }

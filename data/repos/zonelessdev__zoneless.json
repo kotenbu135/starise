@@ -3,7 +3,7 @@
   "owner": "zonelessdev",
   "name": "zoneless",
   "full_name": "zonelessdev/zoneless",
-  "description": "The open-source Stripe, built on stablecoins. Same API and dashboard you already know, minus the fees. Payments infrastructure you actually own.",
+  "description": "Open-source Stripe alternative for stablecoins. Checkout, subscriptions, and marketplace payouts. Self-hosted with a Stripe-compatible API. Your very own payments stack with no fees.",
   "description_ja": "",
   "url": "https://github.com/zonelessdev/zoneless",
   "homepage_url": "https://zoneless.com",
@@ -18,16 +18,18 @@
     "solana",
     "stablecoins",
     "stripe",
+    "stripe-alternative",
     "stripe-connect",
+    "subscriptions",
     "usdc"
   ],
-  "star_count": 339,
-  "fork_count": 33,
+  "star_count": 340,
+  "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T13:06:49Z",
-  "updated_at": "2026-08-09T18:50:25Z",
-  "pushed_at": "2026-08-09T02:08:43Z",
+  "updated_at": "2026-08-14T11:12:00Z",
+  "pushed_at": "2026-08-14T01:33:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -321,6 +323,10 @@
     {
       "date": "2026-08-09",
       "stars": 339
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 340
     }
   ]
 }

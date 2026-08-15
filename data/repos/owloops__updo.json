@@ -6,7 +6,7 @@
   "description": "Uptime monitoring CLI tool with alerting and advanced settings",
   "description_ja": "アラートと高度な設定を備えたアップタイム監視 CLI ツール",
   "url": "https://github.com/Owloops/updo",
-  "homepage_url": "https://www.owloops.com",
+  "homepage_url": "",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -14,12 +14,12 @@
     "monitoring",
     "termui"
   ],
-  "star_count": 1069,
-  "fork_count": 55,
+  "star_count": 1108,
+  "fork_count": 59,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-26T13:01:30Z",
-  "updated_at": "2026-08-09T17:23:20Z",
+  "updated_at": "2026-08-15T17:25:39Z",
   "pushed_at": "2026-05-26T08:12:19Z",
   "deleted_at": "",
   "star_history": [
@@ -366,6 +366,10 @@
     {
       "date": "2026-08-09",
       "stars": 1069
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1108
     }
   ]
 }

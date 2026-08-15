@@ -3,20 +3,20 @@
   "owner": "mmzming",
   "name": "my-blog",
   "full_name": "mmzming/my-blog",
-  "description": "Firefly-Mod blog，config记得修改哦，有些配置可能AI写死，有疑惑可以问AI，我的响应可能没AI快且准（淌口水.jpg。还有这设计大部分按照我个人喜好弄，有些地方不喜欢大伙可以让AI改下即可，本博客已经很大程度改成AI的形状了，改动很方便",
+  "description": "Firefly-Mod 魔改自用博客，和Firefly一样部署方式，使用前记得修改配置文件和删掉public里面两个indexnow文件（百度和头条SEO用的，这个得自己独立配置）。",
   "description_ja": "",
   "url": "https://github.com/MmzMing/my-blog",
   "homepage_url": "https://tblog.mmzhiku.xyz/",
-  "language": "Astro",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [],
-  "star_count": 23,
+  "star_count": 27,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-08T00:08:35Z",
-  "updated_at": "2026-08-09T11:01:12Z",
-  "pushed_at": "2026-08-08T10:42:57Z",
+  "updated_at": "2026-08-15T17:47:17Z",
+  "pushed_at": "2026-08-15T17:46:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +130,10 @@
     {
       "date": "2026-08-09",
       "stars": 23
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 27
     }
   ]
 }

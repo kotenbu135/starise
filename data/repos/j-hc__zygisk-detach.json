@@ -6,19 +6,19 @@
   "description": "Zygisk module to detach installed apps from Play Store, hooking binder",
   "description_ja": "バインダーをフックしてインストール済みアプリをPlay Storeから切り離すZygiskモジュール",
   "url": "https://github.com/j-hc/zygisk-detach",
-  "homepage_url": "https://t.me/rv_magisk",
+  "homepage_url": "",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
     "detach",
     "zygisk"
   ],
-  "star_count": 2096,
-  "fork_count": 63,
+  "star_count": 2102,
+  "fork_count": 64,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-29T16:55:30Z",
-  "updated_at": "2026-08-09T02:57:18Z",
+  "updated_at": "2026-08-15T18:51:31Z",
   "pushed_at": "2026-07-09T10:51:53Z",
   "deleted_at": "",
   "star_history": [
@@ -365,6 +365,10 @@
     {
       "date": "2026-08-09",
       "stars": 2096
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 2102
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
   "description_ja": "LTX-2音声・動画生成モデルの公式Python推論・LoRAトレーナーパッケージ。",
   "url": "https://github.com/Lightricks/LTX-2",
-  "homepage_url": "https://ltx.io/model/ltx-2",
+  "homepage_url": "https://ltx.io",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
@@ -14,13 +14,13 @@
     "ltx",
     "ltx-2"
   ],
-  "star_count": 8554,
-  "fork_count": 1385,
+  "star_count": 9018,
+  "fork_count": 1424,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-03T13:16:29Z",
-  "updated_at": "2026-08-09T19:16:24Z",
-  "pushed_at": "2026-08-03T14:27:05Z",
+  "updated_at": "2026-08-15T19:50:16Z",
+  "pushed_at": "2026-08-12T08:29:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +366,10 @@
     {
       "date": "2026-08-09",
       "stars": 8554
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 9018
     }
   ]
 }

@@ -7,8 +7,8 @@
   "description_ja": "サイドバーに類似リポジトリを表示します",
   "url": "https://github.com/Mubelotix/SimRepo",
   "homepage_url": "https://chromewebstore.google.com/detail/simrepo/jieoogmcigenidbkgnkaakagdnlnieap",
-  "language": "JavaScript",
-  "license": "GPL-3.0",
+  "language": "TypeScript",
+  "license": "NOASSERTION",
   "topics": [
     "embeddings",
     "git",
@@ -18,13 +18,13 @@
     "repositories",
     "vector"
   ],
-  "star_count": 315,
+  "star_count": 316,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-29T22:45:07Z",
-  "updated_at": "2026-08-09T00:49:10Z",
-  "pushed_at": "2026-08-06T14:36:18Z",
+  "updated_at": "2026-08-15T15:09:09Z",
+  "pushed_at": "2026-08-15T15:06:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -370,6 +370,10 @@
     {
       "date": "2026-08-09",
       "stars": 315
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 316
     }
   ]
 }

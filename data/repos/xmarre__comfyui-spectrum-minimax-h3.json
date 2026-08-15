@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOTs-TwA",
+  "owner": "xmarre",
+  "name": "comfyui-spectrum-minimax-h3",
+  "full_name": "xmarre/comfyui-spectrum-minimax-h3",
+  "description": "Spectrum-based acceleration for ComfyUI’s native MiniMax H3 audio-video model. Forecasts post-transformer features with Chebyshev ridge regression to skip selected transformer evaluations, with adaptive scheduling, sampler-aware safeguards, CPU/VRAM history storage, and native fallbacks.",
+  "description_ja": "",
+  "url": "https://github.com/xmarre/ComfyUI-Spectrum-MiniMax-H3",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "GPL-3.0",
+  "topics": [],
+  "star_count": 516,
+  "fork_count": 27,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-08-03T20:51:37Z",
+  "updated_at": "2026-08-15T19:32:48Z",
+  "pushed_at": "2026-08-15T14:59:02Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-15",
+      "stars": 516
+    }
+  ]
+}

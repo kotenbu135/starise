@@ -3,8 +3,8 @@
   "owner": "intellindust-ai-lab",
   "name": "edgecrafter",
   "full_name": "intellindust-ai-lab/edgecrafter",
-  "description": "Pytorch implementation of \"EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation\"",
-  "description_ja": "「EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation」のPyTorch実装",
+  "description": "[TMLR 26] EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation",
+  "description_ja": "",
   "url": "https://github.com/Intellindust-AI-Lab/EdgeCrafter",
   "homepage_url": "https://intellindust-ai-lab.github.io/projects/EdgeCrafter/",
   "language": "Python",
@@ -17,15 +17,16 @@
     "lightweight",
     "object-detection",
     "pose-estimation",
-    "real-time"
+    "real-time",
+    "tmlr-2026"
   ],
-  "star_count": 302,
-  "fork_count": 36,
+  "star_count": 311,
+  "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T10:28:22Z",
-  "updated_at": "2026-08-08T13:15:39Z",
-  "pushed_at": "2026-08-07T07:33:18Z",
+  "updated_at": "2026-08-15T14:27:49Z",
+  "pushed_at": "2026-08-14T15:17:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -367,6 +368,10 @@
     {
       "date": "2026-08-09",
       "stars": 302
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 311
     }
   ]
 }

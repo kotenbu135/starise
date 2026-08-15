@@ -3,32 +3,39 @@
   "owner": "ronynn",
   "name": "karui",
   "full_name": "ronynn/karui",
-  "description": "A privacy friendly, aesthetically pleasing google tasks alternative to do list app, inspired by system-24 theme and windows mobile design system. It's just a 64kb apk.",
+  "description": "A privacy friendly, aesthetically pleasing google tasks alternative to do list app, inspired by system-24 theme and windows mobile design system. It's just a 85kb apk.",
   "description_ja": "",
   "url": "https://github.com/ronynn/karui",
   "homepage_url": "https://f-droid.org/en/packages/io.github.ronynn.karui/",
-  "language": "HTML",
+  "language": "JavaScript",
   "license": "GPL-3.0",
   "topics": [
     "alpinejs",
     "android",
     "android-app",
+    "canvas-confetti",
+    "easter-egg",
+    "easter-eggs",
+    "flappy-bird",
+    "flappybird",
     "local",
     "notetaking",
     "privacy",
     "privacy-focused",
     "productivity",
+    "retro",
+    "snake-game",
     "svelte",
     "todo",
     "todolist"
   ],
-  "star_count": 117,
+  "star_count": 120,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-09T17:43:49Z",
-  "updated_at": "2026-08-09T13:57:03Z",
-  "pushed_at": "2026-08-09T14:07:43Z",
+  "updated_at": "2026-08-12T22:17:54Z",
+  "pushed_at": "2026-08-10T23:43:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -370,6 +377,10 @@
     {
       "date": "2026-08-09",
       "stars": 117
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 120
     }
   ]
 }

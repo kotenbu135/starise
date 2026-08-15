@@ -9,13 +9,17 @@
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "dns",
+    "metrics",
+    "prometheus"
+  ],
   "star_count": 32,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-30T11:35:43Z",
-  "updated_at": "2026-08-03T07:19:59Z",
+  "updated_at": "2026-08-12T15:18:48Z",
   "pushed_at": "2026-08-03T07:19:48Z",
   "deleted_at": "",
   "star_history": [
@@ -337,6 +341,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 32
+    },
+    {
+      "date": "2026-08-15",
       "stars": 32
     }
   ]

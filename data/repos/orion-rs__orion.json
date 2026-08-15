@@ -13,6 +13,7 @@
     "aead",
     "argon2",
     "blake2b",
+    "blake3",
     "chacha20-poly1305",
     "crypto",
     "cryptography",
@@ -21,23 +22,22 @@
     "hpke",
     "kem",
     "key-committing",
+    "ml-dsa",
     "ml-kem",
     "orion",
     "pqc",
     "pure-rust",
     "rust",
     "sha3",
-    "x-wing",
-    "x25519",
-    "xchacha20-poly1305"
+    "x-wing"
   ],
-  "star_count": 723,
+  "star_count": 721,
   "fork_count": 57,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-02-06T17:45:01Z",
-  "updated_at": "2026-08-06T11:03:54Z",
-  "pushed_at": "2026-08-09T19:58:23Z",
+  "updated_at": "2026-08-11T15:37:56Z",
+  "pushed_at": "2026-08-15T15:13:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-09",
       "stars": 723
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 721
     }
   ]
 }

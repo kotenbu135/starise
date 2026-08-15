@@ -7,16 +7,26 @@
   "description_ja": "",
   "url": "https://github.com/depalmar/ai-dfir-toolkit",
   "homepage_url": "",
-  "language": "YARA",
+  "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "ai-security",
+    "detection-engineering",
+    "dfir",
+    "forensics",
+    "incident-response",
+    "llm-security",
+    "mcp",
+    "sigma",
+    "threat-hunting"
+  ],
   "star_count": 15,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-19T22:31:52Z",
-  "updated_at": "2026-07-27T00:21:40Z",
-  "pushed_at": "2026-05-20T21:40:04Z",
+  "updated_at": "2026-08-15T00:48:06Z",
+  "pushed_at": "2026-08-15T00:48:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -261,6 +271,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 15
+    },
+    {
+      "date": "2026-08-15",
       "stars": 15
     }
   ]

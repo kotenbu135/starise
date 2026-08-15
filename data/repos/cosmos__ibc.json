@@ -7,8 +7,8 @@
   "description_ja": "Cosmos ネットワークおよびインターチェーンエコシステム向けの Interchain Standards（ICS）",
   "url": "https://github.com/cosmos/ibc",
   "homepage_url": "",
-  "language": "TeX",
-  "license": "NOASSERTION",
+  "language": "Go",
+  "license": "Apache-2.0",
   "topics": [
     "blockchain",
     "cosmos",
@@ -16,12 +16,12 @@
     "interchain"
   ],
   "star_count": 1017,
-  "fork_count": 455,
+  "fork_count": 456,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-02-08T22:57:36Z",
-  "updated_at": "2026-08-06T07:53:36Z",
-  "pushed_at": "2026-08-09T19:00:56Z",
+  "updated_at": "2026-08-15T11:53:30Z",
+  "pushed_at": "2026-08-15T13:26:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -362,6 +362,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 1017
+    },
+    {
+      "date": "2026-08-15",
       "stars": 1017
     }
   ]

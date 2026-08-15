@@ -3,18 +3,19 @@
   "owner": "fajarhide",
   "name": "omni",
   "full_name": "fajarhide/omni",
-  "description": "Cuts terminal noise 89% before your AI coding agent reads it. Fewer tokens, nothing ever lost, and it never invents a result.",
+  "description": "Stop paying to re-read the same output. OMNI turns repeated bytes into retrievable handles: 97.2% off a file your agent reads twice, 74.9% across 6,656 real commands. Nothing deleted, nothing invented, and every number replays on your own corpus.",
   "description_ja": "",
   "url": "https://github.com/fajarhide/omni",
-  "homepage_url": "https://omni.weekndlabs.com",
+  "homepage_url": "https://omni.weekndlabs.com/docs",
   "language": "Rust",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "topics": [
     "agentic-ai",
     "ai-agents",
     "antigravity",
     "claude-code",
     "cli",
+    "context-compression",
     "context-distillation",
     "context-engineering",
     "cost-reduction",
@@ -25,17 +26,18 @@
     "llm",
     "mcp",
     "memory",
+    "prompt-caching",
     "rust",
     "token-efficiency",
     "token-optimization"
   ],
-  "star_count": 320,
-  "fork_count": 31,
+  "star_count": 349,
+  "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T03:38:04Z",
-  "updated_at": "2026-08-09T05:12:21Z",
-  "pushed_at": "2026-08-09T05:12:18Z",
+  "updated_at": "2026-08-15T16:55:09Z",
+  "pushed_at": "2026-08-15T16:54:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -137,6 +139,10 @@
     {
       "date": "2026-08-09",
       "stars": 320
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 349
     }
   ]
 }

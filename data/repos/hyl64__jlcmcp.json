@@ -3,20 +3,20 @@
   "owner": "hyl64",
   "name": "jlcmcp",
   "full_name": "hyl64/jlcmcp",
-  "description": "嘉立创 EDA MCP Server — 39 个 PCB 自动化工具，让Agent 直接操控嘉立创 EDA",
+  "description": "嘉立创 EDA MCP Server（官方栈版）— 59 个工具：PCB/原理图自动化 + 自动布局/布线/DRC自修复/设计健康报告 等高级功能，基于官方 Run API Gateway + easyeda-api-skill",
   "description_ja": "",
   "url": "https://github.com/hyl64/jlcmcp",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [],
-  "star_count": 173,
+  "star_count": 182,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-25T13:24:15Z",
-  "updated_at": "2026-08-08T12:58:03Z",
-  "pushed_at": "2026-03-25T02:10:51Z",
+  "updated_at": "2026-08-15T10:25:27Z",
+  "pushed_at": "2026-08-15T10:25:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -306,6 +306,10 @@
     {
       "date": "2026-08-09",
       "stars": 173
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 182
     }
   ]
 }

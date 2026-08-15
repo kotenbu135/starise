@@ -3,31 +3,30 @@
   "owner": "gamote",
   "name": "lottie-react",
   "full_name": "gamote/lottie-react",
-  "description": "A lightweight React library for rendering complex After Effects animations in real time using Lottie.",
-  "description_ja": "Lottie を使用して複雑な After Effects アニメーションをリアルタイムでレンダリングする軽量な React ライブラリ。",
+  "description": "Lottie animations in React: one component for the easy path, the whole engine when you need control.",
+  "description_ja": "",
   "url": "https://github.com/Gamote/lottie-react",
   "homepage_url": "https://lottiereact.com",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
+    "after-effects",
     "animation",
-    "component",
-    "hook",
-    "hooks",
     "lottie",
     "lottie-react",
     "lottie-web",
     "react",
+    "react-component",
     "react-hooks",
-    "web"
+    "typescript"
   ],
   "star_count": 963,
-  "fork_count": 71,
+  "fork_count": 72,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-30T19:51:33Z",
-  "updated_at": "2026-07-28T04:43:00Z",
-  "pushed_at": "2026-08-06T21:21:53Z",
+  "updated_at": "2026-08-12T20:28:58Z",
+  "pushed_at": "2026-08-12T21:46:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -372,6 +371,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 963
+    },
+    {
+      "date": "2026-08-15",
       "stars": 963
     }
   ]

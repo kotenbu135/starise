@@ -3,7 +3,7 @@
   "owner": "rockbenben",
   "name": "subtitle-translator",
   "full_name": "rockbenben/subtitle-translator",
-  "description": "⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 17+ LLM providers ｜ 批量字幕翻译，支持 120+ 语言",
+  "description": "⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 27 LLM providers ｜ 批量字幕翻译，支持 120+ 语言",
   "description_ja": "",
   "url": "https://github.com/rockbenben/subtitle-translator",
   "homepage_url": "https://tools.newzone.top/en/subtitle-translator",
@@ -14,30 +14,25 @@
     "ass",
     "batch-translation",
     "bilingual-subtitles",
-    "chatgpt",
-    "gpt",
-    "i18n",
+    "cli",
     "llm",
     "lrc",
-    "nextjs",
-    "openai",
-    "react",
     "srt",
     "subtitle",
     "subtitle-translator",
     "subtitles",
     "translation",
     "translator",
-    "typescript",
-    "vtt"
+    "vtt",
+    "web-app"
   ],
-  "star_count": 1007,
-  "fork_count": 131,
+  "star_count": 1032,
+  "fork_count": 133,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-23T10:13:20Z",
-  "updated_at": "2026-08-08T22:06:33Z",
-  "pushed_at": "2026-08-02T04:44:29Z",
+  "updated_at": "2026-08-15T16:49:17Z",
+  "pushed_at": "2026-08-12T06:51:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +378,10 @@
     {
       "date": "2026-08-09",
       "stars": 1007
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1032
     }
   ]
 }

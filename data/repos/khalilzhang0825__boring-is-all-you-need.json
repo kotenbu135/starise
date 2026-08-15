@@ -3,7 +3,7 @@
   "owner": "khalilzhang0825",
   "name": "boring-is-all-you-need",
   "full_name": "khalilzhang0825/boring-is-all-you-need",
-  "description": "Boring Is All You Need: a Codex Desktop workflow replacement with transactional migration, fail-closed safety hooks, risk-based review, checkpoint commits, and release evidence.",
+  "description": "Boring Is All You Need: a Codex Desktop workflow replacement with transactional migration, audit-only managed hooks, risk-based review, scoped checkpoint commits, and release evidence.",
   "description_ja": "",
   "url": "https://github.com/Khalilzhang0825/boring-is-all-you-need",
   "homepage_url": "",
@@ -20,13 +20,13 @@
     "prompt-engineering",
     "workflow-automation"
   ],
-  "star_count": 136,
+  "star_count": 160,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-29T06:09:54Z",
-  "updated_at": "2026-08-09T17:07:00Z",
-  "pushed_at": "2026-08-07T02:32:25Z",
+  "updated_at": "2026-08-15T11:32:38Z",
+  "pushed_at": "2026-08-10T10:33:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -76,6 +76,10 @@
     {
       "date": "2026-08-09",
       "stars": 136
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 160
     }
   ]
 }

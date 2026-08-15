@@ -3,7 +3,7 @@
   "owner": "bdffzi",
   "name": "alife",
   "full_name": "bdffzi/alife",
-  "description": "一款专注于桌宠方向的AIAgent。特点是一键安装、功能齐全，极低开销、信息透明、永久唯一会话、全功能可插拔、具有极高的扩展性和拟人程度上限。非常适合想长期培养的小白用户和自定义需求高的开发者",
+  "description": "一款专注于桌宠方向的AIAgent。特点是一键安装、功能齐全、极低开销、完全暴露上下文、全功能插件化、自主编写重载插件、永久唯一会话、类游戏引擎交互策略。非常适合想长期培养和自定义需求高的用户。",
   "description_ja": "",
   "url": "https://github.com/BDFFZI/Alife",
   "homepage_url": "",
@@ -15,13 +15,13 @@
     "deskpet",
     "dotnet"
   ],
-  "star_count": 136,
+  "star_count": 143,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T16:55:09Z",
-  "updated_at": "2026-08-08T16:38:37Z",
-  "pushed_at": "2026-08-09T17:46:57Z",
+  "updated_at": "2026-08-15T16:54:24Z",
+  "pushed_at": "2026-08-13T17:07:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -219,6 +219,10 @@
     {
       "date": "2026-08-09",
       "stars": 136
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 143
     }
   ]
 }

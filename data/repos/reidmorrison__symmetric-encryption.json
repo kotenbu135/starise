@@ -3,7 +3,7 @@
   "owner": "reidmorrison",
   "name": "symmetric-encryption",
   "full_name": "reidmorrison/symmetric-encryption",
-  "description": "Symmetric Encryption for Ruby Projects using OpenSSL ",
+  "description": "Encrypt data at rest in Ruby and Rails, with keys held outside your source code.",
   "description_ja": "",
   "url": "https://github.com/reidmorrison/symmetric-encryption",
   "homepage_url": "https://encryption.reidmorrison.com/",
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-01-18T18:42:18Z",
-  "updated_at": "2026-08-09T20:02:40Z",
-  "pushed_at": "2026-08-09T20:02:26Z",
+  "updated_at": "2026-08-10T00:10:37Z",
+  "pushed_at": "2026-08-10T13:00:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +32,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 475
+    },
+    {
+      "date": "2026-08-15",
       "stars": 475
     }
   ]

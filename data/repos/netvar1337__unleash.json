@@ -3,31 +3,29 @@
   "owner": "netvar1337",
   "name": "unleash",
   "full_name": "netvar1337/unleash",
-  "description": "Unleash Claude Code. 113 patches — zero refusals, zero telemetry, 42 feature gates unlocked. In-place Bun SEA bytecode patcher with interactive TUI, 11-strategy signature scanner, and auto-discovery. Single static Go binary.",
+  "description": "Unleash Claude Code - 113 patches, zero refusals/telemetry, 42 gates. Bun SEA bytecode patcher + TUI. Static Go binary.",
   "description_ja": "",
   "url": "https://github.com/NetVar1337/unleash",
-  "homepage_url": "https://github.com/VoidChecksum/unleash",
+  "homepage_url": "https://github.com/NetVar1337/unleash",
   "language": "Go",
   "license": "GPL-3.0",
   "topics": [
     "binary-patching",
-    "bun-sea",
+    "bun",
     "claude-code",
-    "feature-unlock",
     "go",
-    "operator-authorization",
-    "permission-bypass",
     "reverse-engineering",
+    "security-research",
     "telemetry-removal",
     "tui"
   ],
-  "star_count": 61,
+  "star_count": 63,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T13:23:15Z",
-  "updated_at": "2026-08-07T03:22:45Z",
-  "pushed_at": "2026-07-02T12:33:25Z",
+  "updated_at": "2026-08-14T10:07:48Z",
+  "pushed_at": "2026-08-12T09:50:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -149,6 +147,10 @@
     {
       "date": "2026-08-09",
       "stars": 61
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 63
     }
   ]
 }

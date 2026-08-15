@@ -3,7 +3,7 @@
   "owner": "vladimir-human",
   "name": "humanizer-ru",
   "full_name": "vladimir-human/humanizer-ru",
-  "description": "Скилл для ИИ-агентов: находит и убирает следы машинной генерации из русского текста — 37 паттернов, 38 regex-маркеров, реестр доказательств | Russian AI-writing humanizer skill",
+  "description": "Скилл для ИИ-агентов: находит и убирает следы машинной генерации из русского текста. 38 паттернов, 39 regex-маркеров с реестром доказательств, слепые парные прогоны, файловый слой снятия C2PA/EXIF/XMP | Russian AI-writing humanizer skill with file metadata cleaning",
   "description_ja": "",
   "url": "https://github.com/Vladimir-Human/humanizer-ru",
   "homepage_url": "https://skills.sh/vladimir-human/humanizer-ru/humanizer-ru",
@@ -14,8 +14,8 @@
     "ai",
     "ai-detection",
     "ai-humanizer",
-    "ai-text",
     "ai-writing",
+    "c2pa",
     "claude",
     "claude-code",
     "claude-skills",
@@ -26,18 +26,18 @@
     "llm",
     "nlp",
     "opencode",
-    "prompt-engineering",
     "russian",
     "russian-nlp",
-    "text-humanization"
+    "text-humanization",
+    "watermarks"
   ],
-  "star_count": 93,
+  "star_count": 100,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-21T15:02:29Z",
-  "updated_at": "2026-08-08T08:30:29Z",
-  "pushed_at": "2026-08-08T07:06:38Z",
+  "updated_at": "2026-08-15T18:45:23Z",
+  "pushed_at": "2026-08-15T06:13:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -299,6 +299,10 @@
     {
       "date": "2026-08-09",
       "stars": 93
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 100
     }
   ]
 }

@@ -3,38 +3,41 @@
   "owner": "harveybc",
   "name": "gym-fx",
   "full_name": "harveybc/gym-fx",
-  "description": "Forex trading simulator environment for OpenAI Gym, observations contain the order status, performance and timeseries loaded from a CSV file containing rates and indicators. Work In Progress",
-  "description_ja": "OpenAI Gym 向けの外国為替取引シミュレーター環境。観測データには注文状況・パフォーマンス・レートとインジケーターを含む CSV から読み込んだ時系列データが含まれます。開発中",
+  "description": "Gymnasium trading environment for FX and crypto: backtrader execution bridge, protected SL/TP orders, solvency curricula and audit-grade trade diagnostics",
+  "description_ja": "",
   "url": "https://github.com/harveybc/gym-fx",
   "homepage_url": "",
   "language": "Python",
   "license": "",
   "topics": [
-    "agent",
-    "blockchain",
-    "decentralized",
+    "algorithmic-trading",
+    "backtesting",
+    "backtrader",
+    "cryptocurrency",
     "deep-learning",
-    "deep-q-network",
-    "distributed",
-    "evolutionary-algorithms",
+    "environment",
     "forex",
+    "gymnasium",
     "machine-learning",
-    "machinelearning",
-    "mql4",
+    "market-simulation",
     "openai-gym",
-    "p2p",
     "python",
-    "q-learning",
+    "quantitative-finance",
     "reinforcement-learning",
-    "timeseries"
+    "risk-management",
+    "simulation",
+    "stop-loss",
+    "time-series",
+    "trading",
+    "trading-environment"
   ],
   "star_count": 209,
   "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-02-21T21:04:09Z",
-  "updated_at": "2026-08-06T22:00:56Z",
-  "pushed_at": "2026-08-06T22:00:32Z",
+  "updated_at": "2026-08-12T18:08:17Z",
+  "pushed_at": "2026-08-12T18:07:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -375,6 +378,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 209
+    },
+    {
+      "date": "2026-08-15",
       "stars": 209
     }
   ]

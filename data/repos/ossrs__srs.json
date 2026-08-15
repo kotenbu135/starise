@@ -3,8 +3,8 @@
   "owner": "ossrs",
   "name": "srs",
   "full_name": "ossrs/srs",
-  "description": "SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
-  "description_ja": "SRSはRTMP、WebRTC、HLS、HTTP-FLV、HTTP-TS、SRT、MPEG-DASH、GB28181に対応し、H.264、H.265、AV1、VP9、AAC、Opus、G.711のコーデックをサポートするシンプルで高効率なリアルタイムメディアサーバーです。",
+  "description": "SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.",
+  "description_ja": "",
   "url": "https://github.com/ossrs/srs",
   "homepage_url": "https://ossrs.io",
   "language": "C++",
@@ -31,13 +31,13 @@
     "video-streaming",
     "webrtc"
   ],
-  "star_count": 29114,
-  "fork_count": 5681,
+  "star_count": 29141,
+  "fork_count": 5686,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-04-29T06:59:32Z",
-  "updated_at": "2026-08-09T19:30:48Z",
-  "pushed_at": "2026-08-09T19:51:26Z",
+  "updated_at": "2026-08-15T10:40:49Z",
+  "pushed_at": "2026-08-14T02:06:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-09",
       "stars": 29114
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 29141
     }
   ]
 }

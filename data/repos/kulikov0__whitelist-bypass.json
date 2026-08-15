@@ -3,19 +3,25 @@
   "owner": "kulikov0",
   "name": "whitelist-bypass",
   "full_name": "kulikov0/whitelist-bypass",
-  "description": "",
+  "description": "Tunneling data over webrtc to bypass censorship  ",
   "description_ja": "",
   "url": "https://github.com/kulikov0/whitelist-bypass",
   "homepage_url": "https://t.me/markovdrankthechains",
   "language": "Go",
   "license": "MIT",
-  "topics": [],
-  "star_count": 1572,
-  "fork_count": 94,
+  "topics": [
+    "anticensorship",
+    "go",
+    "golang",
+    "security",
+    "tunneling"
+  ],
+  "star_count": 1589,
+  "fork_count": 95,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-19T15:58:14Z",
-  "updated_at": "2026-08-08T21:03:09Z",
+  "updated_at": "2026-08-15T12:05:23Z",
   "pushed_at": "2026-08-04T18:30:25Z",
   "deleted_at": "",
   "star_history": [
@@ -362,6 +368,10 @@
     {
       "date": "2026-08-09",
       "stars": 1572
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1589
     }
   ]
 }

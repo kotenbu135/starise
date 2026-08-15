@@ -3,7 +3,7 @@
   "owner": "l-forster",
   "name": "open-jet",
   "full_name": "l-forster/open-jet",
-  "description": " A terminal coding agent, and a Python SDK for embedding on-device models in your own apps. ",
+  "description": "A terminal coding agent, and a Python SDK for embedding on-device models in your own apps. ",
   "description_ja": "",
   "url": "https://github.com/L-Forster/open-jet",
   "homepage_url": "https://www.openjet.dev/",
@@ -16,11 +16,19 @@
     "anthropic",
     "claude-code",
     "codex",
+    "coding-agent",
     "harness",
+    "llama-cpp",
     "llm",
+    "lm-studio",
+    "local-first",
+    "local-llm",
+    "offline-ai",
+    "ollama",
     "open-jet",
     "openai",
     "openjet",
+    "python-sdk",
     "self-hosted"
   ],
   "star_count": 50,
@@ -28,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-16T01:26:28Z",
-  "updated_at": "2026-08-08T05:49:03Z",
-  "pushed_at": "2026-08-08T05:48:46Z",
+  "updated_at": "2026-08-15T13:13:41Z",
+  "pushed_at": "2026-08-15T13:13:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +66,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 50
+    },
+    {
+      "date": "2026-08-15",
       "stars": 50
     }
   ]

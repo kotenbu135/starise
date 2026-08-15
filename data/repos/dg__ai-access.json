@@ -6,7 +6,7 @@
   "description": "A flexible PHP library providing access to various AI models (OpenAI, Claude, Gemini, DeepSeek and Grok) via a consistent interface.",
   "description_ja": "",
   "url": "https://github.com/dg/ai-access",
-  "homepage_url": "",
+  "homepage_url": "https://doc.nette.org/en/ai-access",
   "language": "PHP",
   "license": "NOASSERTION",
   "topics": [
@@ -23,13 +23,13 @@
     "llm",
     "openai"
   ],
-  "star_count": 53,
+  "star_count": 54,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-11T15:23:01Z",
-  "updated_at": "2026-08-04T08:45:11Z",
-  "pushed_at": "2026-08-04T08:42:28Z",
+  "updated_at": "2026-08-12T14:48:03Z",
+  "pushed_at": "2026-08-12T14:46:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +103,10 @@
     {
       "date": "2026-08-09",
       "stars": 53
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 54
     }
   ]
 }

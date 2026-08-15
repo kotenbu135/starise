@@ -3,8 +3,8 @@
   "owner": "rockbenben",
   "name": "img-prompt",
   "full_name": "rockbenben/img-prompt",
-  "description": "🎨 AI Image Prompt Generator with 5000+ prompts in 18 languages. Create perfect prompts fin your native language. 极简的图像提示词编辑器",
-  "description_ja": "18言語5000件以上のプロンプトを収録したAI画像プロンプトジェネレーター。あなたの母国語で最適なプロンプトを作成できます。シンプルな画像プロンプトエディター。",
+  "description": "AI art \u0026 video prompt generator: click 5000+ tags in your native language, copy the English prompt Midjourney, FLUX, GPT-Image, Veo expect ｜ AI 绘画/视频提示词生成器，中文点标签，英文出提示词",
+  "description_ja": "",
   "url": "https://github.com/rockbenben/img-prompt",
   "homepage_url": "https://prompt.newzone.top",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "tailwindcss",
     "typescript"
   ],
-  "star_count": 347,
-  "fork_count": 85,
+  "star_count": 350,
+  "fork_count": 86,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-17T05:26:53Z",
-  "updated_at": "2026-08-05T22:46:10Z",
-  "pushed_at": "2026-08-05T22:48:31Z",
+  "updated_at": "2026-08-15T15:36:16Z",
+  "pushed_at": "2026-08-12T02:16:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-09",
       "stars": 347
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 350
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "r1ck404",
   "name": "nodepod",
   "full_name": "r1ck404/nodepod",
-  "description": "Node.js for inside the browser. An open-source, lightweight WebContainer alternative.",
-  "description_ja": "ブラウザ内で動作するNode.js。オープンソースの軽量WebContainerオルタナティブ",
+  "description": "Node.js inside the browser. Filesystem, shell, npm packages, and HTTP servers. Source-available under MIT + Commons Clause.",
+  "description_ja": "",
   "url": "https://github.com/R1ck404/Nodepod",
-  "homepage_url": "https://scelar.com/blog/introducing-nodepod",
+  "homepage_url": "https://r1ck404.github.io/Nodepod/",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
@@ -17,13 +17,13 @@
     "typescript",
     "webcontainers"
   ],
-  "star_count": 167,
+  "star_count": 168,
   "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-17T10:24:18Z",
-  "updated_at": "2026-08-05T21:36:34Z",
-  "pushed_at": "2026-08-05T15:45:50Z",
+  "updated_at": "2026-08-15T15:21:05Z",
+  "pushed_at": "2026-08-13T20:44:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -365,6 +365,10 @@
     {
       "date": "2026-08-09",
       "stars": 167
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 168
     }
   ]
 }

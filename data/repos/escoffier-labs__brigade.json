@@ -3,7 +3,7 @@
   "owner": "escoffier-labs",
   "name": "brigade",
   "full_name": "escoffier-labs/brigade",
-  "description": "Agents claim work they did not do. Brigade makes them prove it: a check run through Brigade writes a file with the real exit code. A built-in code graph tells them who calls what and what a change breaks, before they edit. One catalog syncs MCP servers, tools, and skills across harnesses; memory rides a review gate. Local files, no daemon.",
+  "description": "Track work, verify results, carry memory, and sync tools across coding agents. Local files, no daemon.",
   "description_ja": "",
   "url": "https://github.com/escoffier-labs/brigade",
   "homepage_url": "https://brigade.tools",
@@ -31,13 +31,13 @@
     "openclaw",
     "opencode"
   ],
-  "star_count": 66,
+  "star_count": 67,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-13T21:55:58Z",
-  "updated_at": "2026-08-09T19:08:50Z",
-  "pushed_at": "2026-08-09T19:24:49Z",
+  "updated_at": "2026-08-15T12:30:47Z",
+  "pushed_at": "2026-08-15T12:30:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -147,6 +147,10 @@
     {
       "date": "2026-08-09",
       "stars": 66
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 67
     }
   ]
 }

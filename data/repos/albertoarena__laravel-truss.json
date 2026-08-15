@@ -6,7 +6,7 @@
   "description": "A live database structure viewer for Laravel that renders your schema as a scrollable, zoomable ER diagram. Structure only, never data.",
   "description_ja": "",
   "url": "https://github.com/albertoarena/laravel-truss",
-  "homepage_url": "https://trussphp.com",
+  "homepage_url": "https://trussphp.com/",
   "language": "PHP",
   "license": "MIT",
   "topics": [
@@ -22,13 +22,13 @@
     "php",
     "schema"
   ],
-  "star_count": 90,
-  "fork_count": 4,
+  "star_count": 215,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-22T18:51:08Z",
-  "updated_at": "2026-08-09T06:31:33Z",
-  "pushed_at": "2026-08-09T06:31:27Z",
+  "updated_at": "2026-08-15T17:26:48Z",
+  "pushed_at": "2026-08-15T03:40:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +58,10 @@
     {
       "date": "2026-08-09",
       "stars": 90
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 215
     }
   ]
 }

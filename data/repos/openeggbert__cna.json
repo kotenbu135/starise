@@ -3,7 +3,7 @@
   "owner": "openeggbert",
   "name": "cna",
   "full_name": "openeggbert/cna",
-  "description": "Modern C++23 reimplementation of the Microsoft XNA 4.0 API on SDL3, with pluggable rendering backends (SDL_Renderer, OpenGL, bgfx) and cross-platform networking.",
+  "description": "Modern C++23 reimplementation of the Microsoft XNA 4.0 API on SDL3, with 46 pluggable renderers (SDL_Renderer, OpenGL, bgfx, etc.) and cross-platform networking.",
   "description_ja": "",
   "url": "https://github.com/openeggbert/cna",
   "homepage_url": "https://libcna.com",
@@ -20,13 +20,13 @@
     "xna",
     "xna-framework"
   ],
-  "star_count": 83,
-  "fork_count": 4,
+  "star_count": 90,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-22T17:00:26Z",
-  "updated_at": "2026-08-09T18:44:46Z",
-  "pushed_at": "2026-08-09T18:02:30Z",
+  "updated_at": "2026-08-15T14:35:22Z",
+  "pushed_at": "2026-08-15T20:03:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +40,10 @@
     {
       "date": "2026-08-09",
       "stars": 83
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 90
     }
   ]
 }

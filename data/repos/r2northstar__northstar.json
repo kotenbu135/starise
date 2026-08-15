@@ -7,7 +7,7 @@
   "description_ja": "Northstar のパッケージ済みリリースリポジトリ",
   "url": "https://github.com/R2Northstar/Northstar",
   "homepage_url": "https://northstar.tf/",
-  "language": "Shell",
+  "language": "Nix",
   "license": "MIT",
   "topics": [
     "northstar",
@@ -16,13 +16,13 @@
     "titanfall",
     "titanfall-2"
   ],
-  "star_count": 1773,
+  "star_count": 1775,
   "fork_count": 128,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-21T18:27:30Z",
-  "updated_at": "2026-08-08T05:58:05Z",
-  "pushed_at": "2026-08-09T05:28:36Z",
+  "updated_at": "2026-08-14T15:17:52Z",
+  "pushed_at": "2026-08-10T07:58:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -364,6 +364,10 @@
     {
       "date": "2026-08-09",
       "stars": 1773
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1775
     }
   ]
 }

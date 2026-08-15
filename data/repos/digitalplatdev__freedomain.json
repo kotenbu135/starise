@@ -3,28 +3,36 @@
   "owner": "digitalplatdev",
   "name": "freedomain",
   "full_name": "digitalplatdev/freedomain",
-  "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-  "description_ja": "DigitalPlat FreeDomain: すべての人に無料ドメインを",
+  "description": "Free domain registration and practical DNS learning resources for everyone.",
+  "description_ja": "",
   "url": "https://github.com/DigitalPlatDev/FreeDomain",
   "homepage_url": "https://domain.digitalplat.org",
-  "language": "",
+  "language": "Markdown",
   "license": "AGPL-3.0",
   "topics": [
     "digitalplat",
+    "dns",
+    "dns-tutorial",
+    "documentation",
     "domain",
     "domain-platform",
+    "domain-registration",
     "domainname",
     "domains",
+    "education",
     "free",
-    "freedomain"
+    "free-domain",
+    "freedomain",
+    "internet-infrastructure",
+    "nameserver"
   ],
-  "star_count": 191960,
-  "fork_count": 4084,
+  "star_count": 193262,
+  "fork_count": 4127,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-30T13:23:00Z",
-  "updated_at": "2026-08-09T19:24:29Z",
-  "pushed_at": "2026-07-16T15:38:52Z",
+  "updated_at": "2026-08-15T19:13:03Z",
+  "pushed_at": "2026-08-12T10:36:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -378,6 +386,10 @@
     {
       "date": "2026-08-09",
       "stars": 191960
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 193262
     }
   ]
 }

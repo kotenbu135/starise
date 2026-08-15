@@ -3,14 +3,15 @@
   "owner": "sarensw",
   "name": "macpacker",
   "full_name": "sarensw/macpacker",
-  "description": "Archive manager for macOS. Open source, because essential tools should be free. Preview (nested) archives without extracting them. Extract single files.",
-  "description_ja": "macOS向けアーカイブマネージャー。本質的なツールは無料であるべきとしてオープンソース。展開なしで（ネストされた）アーカイブをプレビュー可能。単一ファイルの解凍にも対応。",
+  "description": "Archive manager and 7zip replacement for macOS. Preview (nested) archives without extracting them. Extract single files.",
+  "description_ja": "",
   "url": "https://github.com/sarensw/MacPacker",
   "homepage_url": "https://macpacker.app",
   "language": "Swift",
   "license": "GPL-3.0",
   "topics": [
     "7z",
+    "7zip",
     "appkit",
     "archive",
     "archive-manager-tools",
@@ -26,18 +27,17 @@
     "nested-archives",
     "quick-look",
     "rar",
-    "swift",
     "swiftui",
     "tar",
     "zip"
   ],
-  "star_count": 536,
+  "star_count": 559,
   "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-20T16:17:33Z",
-  "updated_at": "2026-08-09T18:12:37Z",
-  "pushed_at": "2026-08-09T09:53:27Z",
+  "updated_at": "2026-08-15T19:58:50Z",
+  "pushed_at": "2026-08-15T14:59:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-09",
       "stars": 536
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 559
     }
   ]
 }

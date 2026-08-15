@@ -3,7 +3,7 @@
   "owner": "chefkissinc",
   "name": "nootedred",
   "full_name": "chefkissinc/nootedred",
-  "description": "The unsupported AMD GPU support kext.",
+  "description": "The macOS kext for GPU bug fixes, QoL improvements, and extended hardware support.",
   "description_ja": "",
   "url": "https://github.com/ChefKissInc/NootedRed",
   "homepage_url": "https://chefkiss.dev/applehax/nootedred/",
@@ -25,13 +25,13 @@
     "vega",
     "whateverred"
   ],
-  "star_count": 1947,
+  "star_count": 1946,
   "fork_count": 1262,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-11T12:58:48Z",
-  "updated_at": "2026-08-09T04:29:13Z",
-  "pushed_at": "2026-08-08T21:44:36Z",
+  "updated_at": "2026-08-15T17:26:25Z",
+  "pushed_at": "2026-08-15T17:26:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -141,6 +141,10 @@
     {
       "date": "2026-08-09",
       "stars": 1947
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1946
     }
   ]
 }

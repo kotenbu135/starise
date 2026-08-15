@@ -3,15 +3,15 @@
   "owner": "lgdimaggio",
   "name": "predictive-maintenance-mcp",
   "full_name": "lgdimaggio/predictive-maintenance-mcp",
-  "description": "AI-Powered Predictive Maintenance \u0026 Fault Diagnosis through Model Context Protocol. An open-source framework for integrating Large Language Models with predictive maintenance and fault diagnosis workflows.",
-  "description_ja": "Model Context Protocolを活用したAI駆動の予知保全・故障診断。大規模言語モデルを予知保全・故障診断ワークフローと統合するオープンソースフレームワーク",
+  "description": "MCP server for predictive maintenance and machinery fault diagnosis. Gives AI assistants evidence-based vibration analysis - FFT, envelope, bearing fault detection, ISO 20816-3 severity - with a measured, blind CWRU benchmark. Local-first: raw signals never leave your machine. Includes a Claude Code plugin.",
+  "description_ja": "",
   "url": "https://github.com/LGDiMaggio/predictive-maintenance-mcp",
   "homepage_url": "https://lgdimaggio.github.io/predictive-maintenance-mcp/",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
+    "ai-agent",
     "anomaly-detection",
-    "asset-management",
     "bearing-fault-diagnosis",
     "claude-agents",
     "claude-ai",
@@ -22,8 +22,8 @@
     "iiot",
     "industrial-iot",
     "industry-4-0",
-    "iso10816",
-    "machine-failure",
+    "iso-20816",
+    "mcp",
     "mcp-server",
     "model-context-protocol",
     "predictive-analytics",
@@ -31,13 +31,13 @@
     "signal-processing",
     "vibration-analysis"
   ],
-  "star_count": 70,
-  "fork_count": 18,
+  "star_count": 72,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-11T09:49:39Z",
-  "updated_at": "2026-08-09T16:04:11Z",
-  "pushed_at": "2026-08-09T16:09:02Z",
+  "updated_at": "2026-08-15T08:39:09Z",
+  "pushed_at": "2026-08-15T08:39:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -379,6 +379,10 @@
     {
       "date": "2026-08-09",
       "stars": 70
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 72
     }
   ]
 }

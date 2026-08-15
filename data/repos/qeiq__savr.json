@@ -3,10 +3,10 @@
   "owner": "qeiq",
   "name": "savr",
   "full_name": "qeiq/savr",
-  "description": "Savr - Bookmark Manager App ",
+  "description": "Savr - A clean , modern  bookmark manager app made with Jetpack Compose on top of Material You",
   "description_ja": "",
   "url": "https://github.com/qeiq/Savr",
-  "homepage_url": "",
+  "homepage_url": "https://play.google.com/store/apps/details?id=com.zarnth.savr",
   "language": "Kotlin",
   "license": "GPL-3.0",
   "topics": [
@@ -16,13 +16,13 @@
     "kotlin-android",
     "kotlin-multiplatform"
   ],
-  "star_count": 97,
-  "fork_count": 7,
+  "star_count": 116,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-11T04:23:57Z",
-  "updated_at": "2026-08-09T19:48:28Z",
-  "pushed_at": "2026-08-09T19:48:32Z",
+  "updated_at": "2026-08-15T14:13:33Z",
+  "pushed_at": "2026-08-15T14:13:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -184,6 +184,10 @@
     {
       "date": "2026-08-09",
       "stars": 97
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 116
     }
   ]
 }

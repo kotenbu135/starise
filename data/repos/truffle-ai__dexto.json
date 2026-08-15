@@ -3,8 +3,8 @@
   "owner": "truffle-ai",
   "name": "dexto",
   "full_name": "truffle-ai/dexto",
-  "description": "A coding agent and general agent harness for building and orchestrating agentic applications.",
-  "description_ja": "エージェントアプリケーションの構築とオーケストレーションのためのコーディングエージェントおよび汎用エージェントハーネス",
+  "description": "Agent harness and tookit for building AI agents and agentic applications. CLI and SDKs included",
+  "description_ja": "",
   "url": "https://github.com/truffle-ai/dexto",
   "homepage_url": "https://dexto.ai",
   "language": "TypeScript",
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-24T22:49:13Z",
-  "updated_at": "2026-08-04T14:52:13Z",
-  "pushed_at": "2026-08-04T15:38:51Z",
+  "updated_at": "2026-08-12T08:29:11Z",
+  "pushed_at": "2026-08-12T00:05:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -373,6 +373,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 645
+    },
+    {
+      "date": "2026-08-15",
       "stars": 645
     }
   ]

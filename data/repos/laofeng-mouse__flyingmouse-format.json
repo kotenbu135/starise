@@ -3,12 +3,12 @@
   "owner": "laofeng-mouse",
   "name": "flyingmouse-format",
   "full_name": "laofeng-mouse/flyingmouse-format",
-  "description": "飞鼠格式 FlyingMouse Format - Windows 万能文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换",
+  "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
   "description_ja": "",
   "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
   "homepage_url": "",
   "language": "JavaScript",
-  "license": "MIT",
+  "license": "NOASSERTION",
   "topics": [
     "desktop-app",
     "electron",
@@ -21,18 +21,22 @@
     "windows",
     "wps"
   ],
-  "star_count": 47,
-  "fork_count": 3,
+  "star_count": 3195,
+  "fork_count": 279,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-06T03:59:32Z",
-  "updated_at": "2026-08-09T13:13:50Z",
-  "pushed_at": "2026-08-09T05:05:43Z",
+  "updated_at": "2026-08-15T19:40:59Z",
+  "pushed_at": "2026-08-15T15:25:00Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-08-09",
       "stars": 47
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 3195
     }
   ]
 }

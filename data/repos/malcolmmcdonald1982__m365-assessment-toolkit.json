@@ -3,7 +3,7 @@
   "owner": "malcolmmcdonald1982",
   "name": "m365-assessment-toolkit",
   "full_name": "malcolmmcdonald1982/m365-assessment-toolkit",
-  "description": "Free, open-source Microsoft 365 security assessment tool. Evaluates 23 findings, auto-remediates with rollback, generates professional reports, and simulates attack chains. Windows, local, no data leaves your machine.",
+  "description": "Free, open-source Microsoft 365 security assessment tool. Evaluates 54 findings across identity, CA, Exchange, Teams, SharePoint and Intune. Auto-remediates with rollback, generates professional reports, and simulates attack chains. Windows, local, no data leaves your machine.",
   "description_ja": "",
   "url": "https://github.com/malcolmmcdonald1982/M365-Assessment-Toolkit",
   "homepage_url": "",
@@ -22,12 +22,12 @@
     "windows"
   ],
   "star_count": 67,
-  "fork_count": 18,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-05T11:19:09Z",
-  "updated_at": "2026-08-06T18:43:31Z",
-  "pushed_at": "2026-06-05T20:04:37Z",
+  "updated_at": "2026-08-12T20:32:06Z",
+  "pushed_at": "2026-08-12T20:31:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -280,6 +280,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 67
+    },
+    {
+      "date": "2026-08-15",
       "stars": 67
     }
   ]

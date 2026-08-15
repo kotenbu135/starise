@@ -3,25 +3,43 @@
   "owner": "loecedas",
   "name": "snapfind",
   "full_name": "loecedas/snapfind",
-  "description": "",
+  "description": "一款专为 Windows 深度定制的高性能、纯本地离线截图 OCR 识别与搜索工具。支持 PaddleOCR 双模型热切换、多选区跨界面连续暂存，常驻内存仅 ~10MB，100% 保护隐私。",
   "description_ja": "",
   "url": "https://github.com/Loecedas/SnapFind",
   "homepage_url": "https://snapfind.baseye.org/",
   "language": "C#",
-  "license": "",
-  "topics": [],
-  "star_count": 9,
-  "fork_count": 1,
+  "license": "NOASSERTION",
+  "topics": [
+    "csharp",
+    "desktop-app",
+    "dotnet8",
+    "ocr",
+    "offline-first",
+    "paddleocr",
+    "privacy-first",
+    "productivity-tools",
+    "screenshot",
+    "utility",
+    "windows-11",
+    "windows-tools",
+    "wpf"
+  ],
+  "star_count": 18,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-03T04:43:13Z",
-  "updated_at": "2026-08-09T16:05:56Z",
-  "pushed_at": "2026-08-08T12:37:19Z",
+  "updated_at": "2026-08-15T16:09:27Z",
+  "pushed_at": "2026-08-15T03:37:02Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-08-09",
       "stars": 9
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 18
     }
   ]
 }

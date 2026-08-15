@@ -10,11 +10,16 @@
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "agent-skills",
     "agent-workspace",
     "ai-agent",
+    "ai-agents",
     "claude-code",
     "codex",
+    "deepseek-harness",
     "desktop-app",
+    "dsh",
+    "dsh-plugin",
     "electron",
     "hermes-agent",
     "llm",
@@ -23,14 +28,15 @@
     "model-router",
     "openclaw",
     "react",
-    "typescript"
+    "typescript",
+    "vibe-coding"
   ],
-  "star_count": 870,
-  "fork_count": 203,
+  "star_count": 878,
+  "fork_count": 205,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-07T14:18:06Z",
-  "updated_at": "2026-08-09T16:27:03Z",
+  "updated_at": "2026-08-15T14:34:07Z",
   "pushed_at": "2026-08-06T08:32:46Z",
   "deleted_at": "",
   "star_history": [
@@ -269,6 +275,10 @@
     {
       "date": "2026-08-09",
       "stars": 870
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 878
     }
   ]
 }

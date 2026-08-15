@@ -6,9 +6,9 @@
   "description": "Cross-platform network troubleshooting TUI that pinpoints DNS, TCP, TLS, HTTP, and proxy failures, and it even suggests fixes.",
   "description_ja": "",
   "url": "https://github.com/heymaikol/network-doctor",
-  "homepage_url": "https://github.com/heymaikol/network-doctor/releases/latest",
+  "homepage_url": "https://heymaikol.github.io/network-doctor/",
   "language": "Go",
-  "license": "GPL-3.0",
+  "license": "Apache-2.0",
   "topics": [
     "bubbletea",
     "cli",
@@ -23,13 +23,13 @@
     "tls",
     "tui"
   ],
-  "star_count": 181,
-  "fork_count": 5,
+  "star_count": 243,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-28T04:11:17Z",
-  "updated_at": "2026-08-09T18:31:45Z",
-  "pushed_at": "2026-08-09T18:31:34Z",
+  "updated_at": "2026-08-15T17:34:55Z",
+  "pushed_at": "2026-08-15T08:05:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +71,10 @@
     {
       "date": "2026-08-09",
       "stars": 181
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 243
     }
   ]
 }

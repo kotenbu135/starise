@@ -3,7 +3,7 @@
   "owner": "hashgraph-online",
   "name": "awesome-ai-plugins",
   "full_name": "hashgraph-online/awesome-ai-plugins",
-  "description": "A curated list of awesome plugins for AI assistants including Claude Code, OpenAI Codex, Gemini, OpenCode and More.",
+  "description": "A curated list of awesome plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCode and More.",
   "description_ja": "",
   "url": "https://github.com/hashgraph-online/awesome-ai-plugins",
   "homepage_url": "https://hol.org/registry/plugins",
@@ -11,24 +11,30 @@
   "license": "Apache-2.0",
   "topics": [
     "ai-assistant",
+    "ai-plugin",
+    "antigravity",
     "awesome",
     "awesome-list",
+    "chatgpt",
+    "clade",
+    "claude",
     "claude-code",
     "codex",
     "extensions",
     "gemini-cli",
+    "grok",
     "mcp",
     "model-context-protocol",
     "plugins",
     "skills"
   ],
-  "star_count": 87,
-  "fork_count": 46,
+  "star_count": 94,
+  "fork_count": 59,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-07T18:49:58Z",
-  "updated_at": "2026-08-09T17:44:38Z",
-  "pushed_at": "2026-08-09T17:44:25Z",
+  "updated_at": "2026-08-15T18:33:23Z",
+  "pushed_at": "2026-08-15T11:54:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -330,6 +336,10 @@
     {
       "date": "2026-08-09",
       "stars": 87
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 94
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "metalama",
   "name": "metalama",
   "full_name": "metalama/metalama",
-  "description": "A meta-programming framework for code generation, aspect-oriented programming, and architecture verification of large C# codebases.",
+  "description": "A Roslyn-based open-source patterns \u0026 architecture toolkit for C#. Built by the makers of PostSharp.",
   "description_ja": "",
   "url": "https://github.com/metalama/Metalama",
-  "homepage_url": "https://metalama.net",
+  "homepage_url": "https://postsharp.net/metalama",
   "language": "C#",
   "license": "NOASSERTION",
   "topics": [
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-19T11:20:17Z",
-  "updated_at": "2026-08-05T15:14:38Z",
-  "pushed_at": "2026-08-09T19:45:38Z",
+  "updated_at": "2026-08-13T08:30:34Z",
+  "pushed_at": "2026-08-13T08:29:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +50,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 417
+    },
+    {
+      "date": "2026-08-15",
       "stars": 417
     }
   ]

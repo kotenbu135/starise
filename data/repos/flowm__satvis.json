@@ -3,8 +3,8 @@
   "owner": "flowm",
   "name": "satvis",
   "full_name": "flowm/satvis",
-  "description": "Satellite orbit visualization and pass prediction with Cesium.js",
-  "description_ja": "Cesium.js を使った衛星軌道の可視化とパス予測。",
+  "description": "3D satellite tracker and pass predictor. 12,000+ satellites live on a globe or in a compass-aimed sky view, from CelesTrak element sets. Built with CesiumJS and Vue.",
+  "description_ja": "",
   "url": "https://github.com/Flowm/satvis",
   "homepage_url": "https://satvis.space",
   "language": "TypeScript",
@@ -20,13 +20,13 @@
     "satellite-orbit-visualization",
     "vue"
   ],
-  "star_count": 398,
-  "fork_count": 120,
+  "star_count": 399,
+  "fork_count": 122,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-10-28T23:42:21Z",
-  "updated_at": "2026-08-07T02:12:35Z",
-  "pushed_at": "2026-08-07T02:12:05Z",
+  "updated_at": "2026-08-12T03:44:35Z",
+  "pushed_at": "2026-08-12T03:44:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -368,6 +368,10 @@
     {
       "date": "2026-08-09",
       "stars": 398
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 399
     }
   ]
 }

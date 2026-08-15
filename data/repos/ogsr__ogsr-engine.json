@@ -3,8 +3,8 @@
   "owner": "ogsr",
   "name": "ogsr-engine",
   "full_name": "ogsr/ogsr-engine",
-  "description": "OGSR Project - Evolution of X-Ray Engine for S.T.A.L.K.E.R.: Shadow of Chernobyl",
-  "description_ja": "OGSR プロジェクト — S.T.A.L.K.E.R.: Shadow of Chernobyl 向け X-Ray Engine の進化版。",
+  "description": "OGSR Project - Evolution of X-Ray Engine",
+  "description_ja": "",
   "url": "https://github.com/OGSR/OGSR-Engine",
   "homepage_url": "https://discord.com/servers/ogsr-508530704674455562",
   "language": "C++",
@@ -25,13 +25,13 @@
     "xray",
     "xray-engine"
   ],
-  "star_count": 583,
+  "star_count": 584,
   "fork_count": 97,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-09-10T07:42:59Z",
-  "updated_at": "2026-08-05T06:02:21Z",
-  "pushed_at": "2026-08-01T08:14:07Z",
+  "updated_at": "2026-08-15T08:21:16Z",
+  "pushed_at": "2026-08-15T08:21:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -377,6 +377,10 @@
     {
       "date": "2026-08-09",
       "stars": 583
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 584
     }
   ]
 }

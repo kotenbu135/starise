@@ -6,7 +6,7 @@
   "description": "🤖 AI chat \u0026 search summaries in Google Search, powered by the latest LLMs",
   "description_ja": "🤖 最新LLMを活用した、Google Search向けAIチャットと検索サマリー機能。",
   "url": "https://github.com/KudoAI/googlegpt",
-  "homepage_url": "",
+  "homepage_url": "https://googlegpt.kudoai.org",
   "language": "JavaScript",
   "license": "",
   "topics": [
@@ -33,11 +33,11 @@
   ],
   "star_count": 186,
   "fork_count": 17,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2023-10-30T06:58:59Z",
-  "updated_at": "2026-08-05T18:55:18Z",
-  "pushed_at": "2026-08-05T10:02:25Z",
+  "updated_at": "2026-08-15T13:42:48Z",
+  "pushed_at": "2026-08-15T13:42:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -382,6 +382,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 186
+    },
+    {
+      "date": "2026-08-15",
       "stars": 186
     }
   ]

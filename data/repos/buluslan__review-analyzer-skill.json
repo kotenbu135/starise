@@ -3,7 +3,7 @@
   "owner": "buluslan",
   "name": "review-analyzer-skill",
   "full_name": "buluslan/review-analyzer-skill",
-  "description": "AI 驱动的电商评论深度分析工具 — 14章洞察报告 · 6套主题看板 · 飞书同步 · Sorftime 数据对接 · 零 API Key",
+  "description": "AI 驱动的电商评论深度分析工具 — 22维度标签构建 · 生成14章洞察报告 · 内置6套主题看板 · 可写入飞书",
   "description_ja": "",
   "url": "https://github.com/buluslan/review-analyzer-skill",
   "homepage_url": "",
@@ -23,13 +23,13 @@
     "review-analysis",
     "visualization"
   ],
-  "star_count": 110,
+  "star_count": 114,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-04T12:22:01Z",
-  "updated_at": "2026-08-09T15:28:19Z",
-  "pushed_at": "2026-06-01T14:52:38Z",
+  "updated_at": "2026-08-15T03:01:46Z",
+  "pushed_at": "2026-08-14T17:10:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -375,6 +375,10 @@
     {
       "date": "2026-08-09",
       "stars": 110
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 114
     }
   ]
 }

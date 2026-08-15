@@ -3,8 +3,8 @@
   "owner": "surveyjs",
   "name": "survey-library",
   "full_name": "surveyjs/survey-library",
-  "description": "SurveyJS is an open-source JavaScript form builder library that allows developers to create dynamic forms, multi-step form wizards, and survey applications. It supports React, Angular, and Vue.js (Vue 3), and can also be used in applications built with plain JavaScript.",
-  "description_ja": "SurveyJS は、動的フォーム、多段階フォームウィザード、アンケートアプリを構築できるオープンソースの JavaScript フォームビルダーライブラリ。React、Angular、Vue.js（Vue 3）をサポートし、プレーンな JavaScript でも利用可能。",
+  "description": "Open-source JavaScript form library for React, Angular, Vue, and plain JavaScript. Render dynamic JSON-driven forms, multi-step form wizards, surveys, quizzes, and other data-entry tools.",
+  "description_ja": "",
   "url": "https://github.com/surveyjs/survey-library",
   "homepage_url": "https://surveyjs.io/form-library",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "vue3",
     "web-forms"
   ],
-  "star_count": 4834,
-  "fork_count": 918,
+  "star_count": 4838,
+  "fork_count": 920,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-08-14T08:53:22Z",
-  "updated_at": "2026-08-09T11:11:54Z",
-  "pushed_at": "2026-08-09T15:42:20Z",
+  "updated_at": "2026-08-15T14:55:00Z",
+  "pushed_at": "2026-08-14T14:34:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-09",
       "stars": 4834
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 4838
     }
   ]
 }

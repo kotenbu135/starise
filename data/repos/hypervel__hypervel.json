@@ -3,8 +3,8 @@
   "owner": "hypervel",
   "name": "hypervel",
   "full_name": "hypervel/hypervel",
-  "description": "Hypervel is a Laravel-style framework with native coroutine support for ultra-high performance.",
-  "description_ja": "Hypervel は、超高パフォーマンスを実現するネイティブコルーチンサポートを備えた Laravel スタイルのフレームワークです。",
+  "description": "The application skeleton for the Hypervel framework.",
+  "description_ja": "",
   "url": "https://github.com/hypervel/hypervel",
   "homepage_url": "https://hypervel.org",
   "language": "PHP",
@@ -17,13 +17,13 @@
     "php",
     "swoole"
   ],
-  "star_count": 617,
+  "star_count": 618,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-19T17:25:19Z",
-  "updated_at": "2026-08-09T18:03:46Z",
-  "pushed_at": "2026-08-07T17:20:00Z",
+  "updated_at": "2026-08-14T22:41:48Z",
+  "pushed_at": "2026-08-14T22:41:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -369,6 +369,10 @@
     {
       "date": "2026-08-09",
       "stars": 617
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 618
     }
   ]
 }

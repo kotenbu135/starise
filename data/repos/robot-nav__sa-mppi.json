@@ -3,7 +3,7 @@
   "owner": "robot-nav",
   "name": "sa-mppi",
   "full_name": "robot-nav/sa-mppi",
-  "description": "用于轮/足式机器人的改进MPPI 局部控制器。main（结合RC-ESDF的SA-MPPI：提升动态绕障能力）、MPPI_C++（标准）、 OptiIO-MPPI（魔改避障）、DC-PMPPI （Disturbance-Compensated Pure MPPI：提高湿滑地面以及扰动甲板下的跟踪能力）等",
+  "description": "用于轮/足式机器人的改进MPPI 局部控制器。main（结合RC-ESDF的SA-MPPI：提升动态绕障能力）、MPPI_C++（标准）、 OptiIO-MPPI（避障）、DC-PMPPI （Disturbance-Compensated Pure MPPI：提高湿滑地面以及扰动甲板下的跟踪能力）等",
   "description_ja": "",
   "url": "https://github.com/Robot-Nav/SA-MPPI",
   "homepage_url": "https://blog.csdn.net/qq_56908984/article/details/160439414",
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T07:48:43Z",
-  "updated_at": "2026-08-07T01:46:38Z",
-  "pushed_at": "2026-07-28T02:18:33Z",
+  "updated_at": "2026-08-13T11:12:24Z",
+  "pushed_at": "2026-08-13T12:33:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -202,6 +202,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 49
+    },
+    {
+      "date": "2026-08-15",
       "stars": 49
     }
   ]

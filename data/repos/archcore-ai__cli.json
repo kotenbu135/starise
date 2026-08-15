@@ -3,37 +3,39 @@
   "owner": "archcore-ai",
   "name": "cli",
   "full_name": "archcore-ai/cli",
-  "description": "Git-native repo memory for AI coding agents — CLI, local MCP server, session hooks",
+  "description": "Git-native context engineering CLI and MCP server for AI coding agents. Keep specs, ADRs, rules, plans, and project knowledge in Git.",
   "description_ja": "",
   "url": "https://github.com/archcore-ai/cli",
   "homepage_url": "https://archcore.ai",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
-    "agent",
-    "agent-memory",
-    "ai",
+    "adr",
     "ai-agents",
+    "ai-coding",
     "architecture",
     "claude-code",
+    "coding-agents",
     "context-engineering",
     "cursor",
-    "developer-platform",
     "developer-tools",
-    "documentation",
-    "graphrag",
+    "git-native",
+    "harness",
+    "harness-engineering",
     "mcp",
     "mcp-server",
-    "rag",
-    "repo-memory"
+    "model-context-protocol",
+    "project-context",
+    "spec-driven-development",
+    "specifications"
   ],
   "star_count": 60,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-18T14:41:11Z",
-  "updated_at": "2026-08-08T13:01:59Z",
-  "pushed_at": "2026-08-07T09:15:13Z",
+  "updated_at": "2026-08-14T14:49:46Z",
+  "pushed_at": "2026-08-14T14:49:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -334,6 +336,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 60
+    },
+    {
+      "date": "2026-08-15",
       "stars": 60
     }
   ]

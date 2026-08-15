@@ -3,20 +3,37 @@
   "owner": "shashikanth-gs",
   "name": "a2a-wrapper",
   "full_name": "shashikanth-gs/a2a-wrapper",
-  "description": "A2A protocol wrappers that turn AI backends into interoperable agents. Drop a JSON config, get a spec-compliant A2A server. Supports GitHub Copilot SDK, OpenCode, and more.",
+  "description": "A2A protocol wrappers that turn AI backends into interoperable agents. Drop a JSON config, get a spec-compliant A2A server. Supports GitHub Copilot SDK, OpenCode, Claude, Codex and more.",
   "description_ja": "",
   "url": "https://github.com/shashikanth-gs/a2a-wrapper",
   "homepage_url": "https://a2a-wrapper.allsrc.dev",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 30,
+  "topics": [
+    "a2a",
+    "a2a-protocol",
+    "a2a-server",
+    "agent-orchestration",
+    "agent2agent",
+    "ai-agents",
+    "antigravity",
+    "claude",
+    "claude-agent-sdk",
+    "copilot",
+    "gemini",
+    "github-copilot",
+    "mcp",
+    "multi-agent-systems",
+    "openai-codex",
+    "opencode"
+  ],
+  "star_count": 32,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-02T08:07:43Z",
-  "updated_at": "2026-08-09T17:16:41Z",
-  "pushed_at": "2026-08-08T09:15:09Z",
+  "updated_at": "2026-08-14T02:38:22Z",
+  "pushed_at": "2026-08-15T06:22:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -26,6 +43,10 @@
     {
       "date": "2026-08-09",
       "stars": 30
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 32
     }
   ]
 }

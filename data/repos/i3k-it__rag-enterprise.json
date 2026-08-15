@@ -3,19 +3,19 @@
   "owner": "i3k-it",
   "name": "rag-enterprise",
   "full_name": "i3k-it/rag-enterprise",
-  "description": "🚀 100% local RAG system with one-command setup. Your data never leaves your server. AGPL-3.0",
-  "description_ja": "ワンコマンドでセットアップできる100%ローカルRAGシステム。データはサーバー外に出ない。AGPL-3.0。",
+  "description": "🚀 100% local RAG system with one-command setup. Your data never leaves your server. Apache-2.0",
+  "description_ja": "",
   "url": "https://github.com/I3K-IT/RAG-Enterprise",
-  "homepage_url": "https://www.i3k.eu",
-  "language": "Python",
-  "license": "NOASSERTION",
+  "homepage_url": "https://www.rag-enterprise.com",
+  "language": "Rust",
+  "license": "Apache-2.0",
   "topics": [
+    "binary",
     "docker",
     "document-ai",
     "enterprise",
     "fastapi",
     "gpu",
-    "langchain",
     "llm",
     "local-ai",
     "ocr",
@@ -27,6 +27,8 @@
     "retrieval",
     "retrieval-augmented-generation",
     "retrieval-augmented-generation-rag",
+    "rust",
+    "rust-lang",
     "self-hosted"
   ],
   "star_count": 57,
@@ -34,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-05T15:48:51Z",
-  "updated_at": "2026-07-11T14:01:43Z",
-  "pushed_at": "2026-06-23T10:20:30Z",
+  "updated_at": "2026-08-14T15:13:38Z",
+  "pushed_at": "2026-08-14T15:17:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -380,6 +382,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 57
+    },
+    {
+      "date": "2026-08-15",
       "stars": 57
     }
   ]

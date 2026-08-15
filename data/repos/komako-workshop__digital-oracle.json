@@ -3,19 +3,34 @@
   "owner": "komako-workshop",
   "name": "digital-oracle",
   "full_name": "komako-workshop/digital-oracle",
-  "description": "",
+  "description": "AI agent skill that answers macro questions — housing, gold, BTC, geopolitics — with probability estimates mined from 13 financial data sources (Polymarket, Kalshi, CFTC, SEC \u0026 more). For Claude Code / Cursor / Codex / OpenClaw. | 让 AI Agent 从金融数据中挖掘宏观趋势的数字先知",
   "description_ja": "",
   "url": "https://github.com/komako-workshop/digital-oracle",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 766,
-  "fork_count": 156,
+  "topics": [
+    "agent-skills",
+    "ai-agent",
+    "claude-code",
+    "codex",
+    "cursor",
+    "finance",
+    "kalshi",
+    "llm",
+    "macroeconomics",
+    "market-data",
+    "openclaw",
+    "polymarket",
+    "prediction-markets",
+    "quantitative-finance"
+  ],
+  "star_count": 781,
+  "fork_count": 158,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T05:53:21Z",
-  "updated_at": "2026-08-09T04:51:37Z",
+  "updated_at": "2026-08-15T13:34:50Z",
   "pushed_at": "2026-07-26T22:44:52Z",
   "deleted_at": "",
   "star_history": [
@@ -262,6 +277,10 @@
     {
       "date": "2026-08-09",
       "stars": 766
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 781
     }
   ]
 }

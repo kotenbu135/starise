@@ -3,10 +3,10 @@
   "owner": "preziotte",
   "name": "party-mode",
   "full_name": "preziotte/party-mode",
-  "description": "An experimental music visualizer using d3.js and the web audio api.",
-  "description_ja": "d3.js と Web Audio API を使った実験的な音楽ビジュアライザー。",
+  "description": "An experimental d3.js music visualizer from 2014. Continued as vizz.fm",
+  "description_ja": "",
   "url": "https://github.com/preziotte/party-mode",
-  "homepage_url": "https://vizz.fm/",
+  "homepage_url": "https://vizz.fm",
   "language": "JavaScript",
   "license": "",
   "topics": [
@@ -20,15 +20,17 @@
     "html5-audio-element",
     "javascript",
     "music-visualizer",
-    "visualization"
+    "svg",
+    "visualization",
+    "web-audio-api"
   ],
-  "star_count": 801,
+  "star_count": 802,
   "fork_count": 89,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-08-18T21:45:26Z",
-  "updated_at": "2026-07-09T06:00:53Z",
-  "pushed_at": "2026-02-17T14:01:14Z",
+  "updated_at": "2026-08-15T00:27:51Z",
+  "pushed_at": "2026-08-15T00:24:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -374,6 +376,10 @@
     {
       "date": "2026-08-09",
       "stars": 801
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 802
     }
   ]
 }

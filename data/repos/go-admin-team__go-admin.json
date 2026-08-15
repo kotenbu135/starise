@@ -3,8 +3,8 @@
   "owner": "go-admin-team",
   "name": "go-admin",
   "full_name": "go-admin-team/go-admin",
-  "description": "基于Gin + Vue + Element UI \u0026  Arco Design \u0026 Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro",
-  "description_ja": "Gin + Vue + Element UI \u0026 Arco Design \u0026 Ant Designベースのフロントエンド・バックエンド分離権限管理システムスキャフォールド（マルチテナント対応、基本ユーザー管理、JWT認証、コードジェネレーター、RBACリソース制御、フォームビルダー、定期タスクなど）。3分で中・バックオフィスプロジェクトを構築できます。",
+  "description": "基于Gin + Vue + Element UI \u0026  Arco Design \u0026 Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   Demo： https://vue.go-admin.pro  Antd PRO：https://antd.go-admin.pro",
+  "description_ja": "",
   "url": "https://github.com/go-admin-team/go-admin",
   "homepage_url": "https://www.go-admin.pro",
   "language": "Go",
@@ -25,13 +25,13 @@
     "vue-admin",
     "vue3"
   ],
-  "star_count": 12727,
-  "fork_count": 2582,
+  "star_count": 12736,
+  "fork_count": 2585,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-13T09:22:25Z",
-  "updated_at": "2026-08-08T20:16:28Z",
-  "pushed_at": "2026-08-08T05:55:08Z",
+  "updated_at": "2026-08-15T02:07:08Z",
+  "pushed_at": "2026-08-14T13:45:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -377,6 +377,10 @@
     {
       "date": "2026-08-09",
       "stars": 12727
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 12736
     }
   ]
 }

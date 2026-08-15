@@ -3,23 +3,24 @@
   "owner": "anomalyco",
   "name": "opentui",
   "full_name": "anomalyco/opentui",
-  "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
-  "description_ja": "OpenTUIはターミナルユーザーインターフェース(TUI)構築用のライブラリです。",
+  "description": "OpenTUI is a library to build terminal user interfaces (TUI)",
+  "description_ja": "",
   "url": "https://github.com/anomalyco/opentui",
-  "homepage_url": "https://opentui.com",
+  "homepage_url": "https://opentui.com/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "opencode",
+    "opentui",
     "tui"
   ],
-  "star_count": 12931,
-  "fork_count": 680,
+  "star_count": 13016,
+  "fork_count": 688,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-21T09:35:54Z",
-  "updated_at": "2026-08-09T15:19:41Z",
-  "pushed_at": "2026-08-08T20:11:20Z",
+  "updated_at": "2026-08-15T17:07:33Z",
+  "pushed_at": "2026-08-15T12:59:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -365,6 +366,10 @@
     {
       "date": "2026-08-09",
       "stars": 12931
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 13016
     }
   ]
 }

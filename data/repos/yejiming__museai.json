@@ -3,7 +3,7 @@
   "owner": "yejiming",
   "name": "museai",
   "full_name": "yejiming/museai",
-  "description": "创建你的 AI 角色，进入你的故事世界。和角色聊天、冒险、穿书，让每一次互动都留下羁绊",
+  "description": "创建你的 AI 角色，进入你的故事世界。和角色聊天、冒险、穿书，让每一次互动都留下羁绊（支持 DeepSeek Harness 插件，欢迎使用）",
   "description_ja": "",
   "url": "https://github.com/yejiming/MuseAI",
   "homepage_url": "",
@@ -12,15 +12,17 @@
   "topics": [
     "agent",
     "ai",
-    "companion-ai"
+    "companion-ai",
+    "dsh",
+    "dsh-plugin"
   ],
-  "star_count": 491,
-  "fork_count": 44,
+  "star_count": 561,
+  "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-03T14:09:27Z",
-  "updated_at": "2026-08-09T15:01:33Z",
-  "pushed_at": "2026-08-09T06:15:21Z",
+  "updated_at": "2026-08-15T19:34:35Z",
+  "pushed_at": "2026-08-14T07:59:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -362,6 +364,10 @@
     {
       "date": "2026-08-09",
       "stars": 491
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 561
     }
   ]
 }

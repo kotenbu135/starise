@@ -6,17 +6,19 @@
   "description": "Duranta - An open, research-grade RAN + UE reference stack",
   "description_ja": "",
   "url": "https://github.com/duranta-project/openairinterface5g",
-  "homepage_url": "",
+  "homepage_url": "https://lfnetworking.org/projects/duranta/",
   "language": "C",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 52,
-  "fork_count": 66,
+  "topics": [
+    "openairinterface"
+  ],
+  "star_count": 54,
+  "fork_count": 69,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-27T08:57:48Z",
-  "updated_at": "2026-08-08T12:51:03Z",
-  "pushed_at": "2026-08-09T13:28:27Z",
+  "updated_at": "2026-08-14T07:45:24Z",
+  "pushed_at": "2026-08-15T15:32:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +48,10 @@
     {
       "date": "2026-08-09",
       "stars": 52
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 54
     }
   ]
 }

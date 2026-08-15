@@ -3,40 +3,20 @@
   "owner": "tangxiaofeng7",
   "name": "cscan",
   "full_name": "tangxiaofeng7/cscan",
-  "description": "Enterprise-grade Distributed Asset \u0026 Vulnerability Scanner. Features: Port Scanning, Subdomain Brute-force, Fingerprinting, and PoC Detection. Built on Go-Zero \u0026 Vue3. 高性能分布式网络资产扫描平台 (子域名扫描/端口扫描/指纹识别/弱口令爆破/JS识别/POC扫描)----------------------------点击下面URL获取高级POC",
+  "description": "Exposure Surface / Attack Surface Scanning Platform 暴露面/攻击面扫描平台",
   "description_ja": "",
   "url": "https://github.com/tangxiaofeng7/cscan",
-  "homepage_url": "http://cscan.txf7.cn:8080",
+  "homepage_url": "https://cscan-site.txf7.cn",
   "language": "Go",
   "license": "MIT",
-  "topics": [
-    "bugbounty",
-    "cybersecurity",
-    "dnsx",
-    "fofa",
-    "httpx",
-    "hunter",
-    "masscan",
-    "nabbu",
-    "namp",
-    "nuclei",
-    "penetration-testing",
-    "quake",
-    "scan",
-    "security",
-    "security-tools",
-    "subfinder",
-    "urlfinder",
-    "vulnerability-scanner",
-    "wappalyzer"
-  ],
-  "star_count": 408,
-  "fork_count": 61,
+  "topics": [],
+  "star_count": 420,
+  "fork_count": 62,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-20T13:44:00Z",
-  "updated_at": "2026-08-08T06:22:56Z",
-  "pushed_at": "2026-08-04T08:24:12Z",
+  "updated_at": "2026-08-15T15:00:02Z",
+  "pushed_at": "2026-08-14T09:20:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -382,6 +362,10 @@
     {
       "date": "2026-08-09",
       "stars": 408
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 420
     }
   ]
 }

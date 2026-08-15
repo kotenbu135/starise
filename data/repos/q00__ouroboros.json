@@ -3,7 +3,7 @@
   "owner": "q00",
   "name": "ouroboros",
   "full_name": "q00/ouroboros",
-  "description": "Agent OS: Stop prompting. Start specifying.",
+  "description": "Agent OS: the agent gets smarter on its own. We just hold the line: the grading command and expected result never make it into the success contract we hand it. Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 13 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
   "description_ja": "",
   "url": "https://github.com/Q00/ouroboros",
   "homepage_url": "https://ouroboros.page/",
@@ -17,23 +17,26 @@
     "claude-code",
     "cli",
     "codex",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness",
     "developer-tools",
+    "dsh",
+    "dsh-plugin",
+    "github-copilot",
+    "llm-evaluation",
     "llm-orchestration",
-    "llm-runtime",
+    "loop-engineering",
     "mcp",
-    "opencode",
-    "prompt-engineering",
-    "python",
-    "socratic-method",
-    "spec-driven-development"
+    "opencode"
   ],
-  "star_count": 5358,
-  "fork_count": 535,
+  "star_count": 5421,
+  "fork_count": 547,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-14T01:14:04Z",
-  "updated_at": "2026-08-09T20:09:15Z",
-  "pushed_at": "2026-08-09T20:09:04Z",
+  "updated_at": "2026-08-15T19:27:21Z",
+  "pushed_at": "2026-08-15T20:08:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -379,6 +382,10 @@
     {
       "date": "2026-08-09",
       "stars": 5358
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 5421
     }
   ]
 }

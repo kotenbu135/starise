@@ -3,10 +3,10 @@
   "owner": "snowtraces",
   "name": "poetry-source",
   "full_name": "snowtraces/poetry-source",
-  "description": "历朝代诗词数据集，以及简单展示页面。其中数据集包括三国、五代十国、南北朝、晋、秦、汉、唐、宋、金、元、明和清的诗词曲，另外有两个版本的全唐诗。",
-  "description_ja": "歴代王朝の詩詞データセットと簡易表示ページ。三国・五代十国・南北朝・晋・秦・漢・唐・宋・金・元・明・清の詩詞曲を収録し、全唐詩の2バージョンも含む。",
+  "description": "中国古典诗词曲数据集与展示项目，收录三国、五代十国、南北朝、晋、秦、汉、唐、宋、金、元、明、清等时期的诗、词、曲，并整理两个版本的《全唐诗》。",
+  "description_ja": "",
   "url": "https://github.com/snowtraces/poetry-source",
-  "homepage_url": "https://poetry.snowtraces.com",
+  "homepage_url": "https://poetry-api.snowtraces.com",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-04-02T16:37:52Z",
-  "updated_at": "2026-08-07T09:44:38Z",
-  "pushed_at": "2026-08-07T09:44:04Z",
+  "updated_at": "2026-08-12T10:57:04Z",
+  "pushed_at": "2026-08-12T10:56:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -362,6 +362,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 102
+    },
+    {
+      "date": "2026-08-15",
       "stars": 102
     }
   ]

@@ -3,29 +3,35 @@
   "owner": "alaliqing",
   "name": "claude-paper",
   "full_name": "alaliqing/claude-paper",
-  "description": "📚 Claude Code plugin that automates research papers study with automatic material generation, code demonstrations, and interactive web viewer.",
-  "description_ja": "📚 研究論文の学習を自動化するClaude Codeプラグイン。教材自動生成、コードデモ、インタラクティブWebビューアを提供。",
+  "description": "📖 Cross-agent research paper toolkit for Claude Code, Codex, OpenCode, and DeepSeek Harness—quick summaries, deep study materials, code demos, and a local web viewer.",
+  "description_ja": "",
   "url": "https://github.com/alaliqing/claude-paper",
   "homepage_url": "",
   "language": "Vue",
   "license": "MIT",
   "topics": [
     "academic-tools",
+    "agent-skills",
     "claude-code",
     "code-generation",
+    "codex",
+    "deepseek-harness",
+    "dsh-plugin",
     "learning-management",
+    "npm-package",
+    "opencode",
     "pdf-parser",
     "research-papers",
     "vue",
     "web-viewer"
   ],
-  "star_count": 265,
-  "fork_count": 23,
+  "star_count": 303,
+  "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-10T09:15:25Z",
-  "updated_at": "2026-08-07T11:41:42Z",
-  "pushed_at": "2026-04-03T09:22:22Z",
+  "updated_at": "2026-08-15T15:29:33Z",
+  "pushed_at": "2026-08-14T09:09:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -367,6 +373,10 @@
     {
       "date": "2026-08-09",
       "stars": 265
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 303
     }
   ]
 }

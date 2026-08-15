@@ -3,8 +3,8 @@
   "owner": "amansikarwar",
   "name": "freedium_mobile",
   "full_name": "amansikarwar/freedium_mobile",
-  "description": "An app to read Medium articles without hitting the paywall",
-  "description_ja": "Mediumの記事を有料の壁にぶつからずに読むアプリ",
+  "description": "An app to read paywalled articles for free",
+  "description_ja": "",
   "url": "https://github.com/AmanSikarwar/freedium_mobile",
   "homepage_url": "",
   "language": "Dart",
@@ -24,13 +24,13 @@
     "paywall-bypass",
     "reader"
   ],
-  "star_count": 99,
+  "star_count": 100,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-02T09:51:06Z",
-  "updated_at": "2026-08-02T07:40:26Z",
-  "pushed_at": "2026-08-03T20:55:00Z",
+  "updated_at": "2026-08-11T01:05:49Z",
+  "pushed_at": "2026-08-10T20:38:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -372,6 +372,10 @@
     {
       "date": "2026-08-09",
       "stars": 99
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 100
     }
   ]
 }

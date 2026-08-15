@@ -3,8 +3,8 @@
   "owner": "hoochanlon",
   "name": "fq-book",
   "full_name": "hoochanlon/fq-book",
-  "description": "📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明",
-  "description_ja": "📖『ネットワークプロキシとVPNアプリケーション詳解』プロキシ・トンネル・VPNの動作原理を詳述し、GFWの戦略（アドレス・ポートブロック、サーバーキャッシュポイズニング、デジタル認証攻撃、SSL接続遮断など）の原理を解説します。",
+  "description": "📖《这本书能让你连接互联网》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明",
+  "description_ja": "",
   "url": "https://github.com/hoochanlon/fq-book",
   "homepage_url": "https://hoochanlon.github.io/fq-book",
   "language": "Shell",
@@ -26,13 +26,13 @@
     "tunnel",
     "vpn"
   ],
-  "star_count": 4237,
-  "fork_count": 1200,
+  "star_count": 4242,
+  "fork_count": 1201,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-05-26T09:57:13Z",
-  "updated_at": "2026-08-09T03:50:01Z",
-  "pushed_at": "2026-07-07T12:40:39Z",
+  "updated_at": "2026-08-15T12:18:38Z",
+  "pushed_at": "2026-08-15T12:18:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -374,6 +374,10 @@
     {
       "date": "2026-08-09",
       "stars": 4237
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 4242
     }
   ]
 }

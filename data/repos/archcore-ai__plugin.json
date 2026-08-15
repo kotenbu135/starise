@@ -3,41 +3,41 @@
   "owner": "archcore-ai",
   "name": "plugin",
   "full_name": "archcore-ai/plugin",
-  "description": "Git-native repo memory for Claude Code, Cursor \u0026 Codex CLI — /archcore slash commands, MCP, session hooks",
+  "description": "Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.",
   "description_ja": "",
   "url": "https://github.com/archcore-ai/plugin",
   "homepage_url": "https://archcore.ai/plugin/",
   "language": "Shell",
   "license": "Apache-2.0",
   "topics": [
-    "ai",
+    "agent-skills",
     "ai-agents",
     "ai-coding",
-    "ai-tools",
     "architecture",
-    "claude",
     "claude-code",
     "claude-code-plugin",
     "codex",
     "codex-cli",
-    "context",
+    "coding-agents",
     "context-engineering",
-    "copilot",
     "cursor",
-    "knowledge-management",
+    "developer-tools",
+    "github-copilot",
+    "harness",
+    "harness-engineering",
     "mcp",
     "plugin",
-    "repo-memory",
-    "spec-driven",
+    "project-context",
+    "spec-driven-development",
     "subagents"
   ],
-  "star_count": 51,
+  "star_count": 52,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-05T06:30:15Z",
-  "updated_at": "2026-08-08T10:01:23Z",
-  "pushed_at": "2026-08-08T10:01:08Z",
+  "updated_at": "2026-08-14T14:16:22Z",
+  "pushed_at": "2026-08-14T15:32:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -243,6 +243,10 @@
     {
       "date": "2026-08-09",
       "stars": 51
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 52
     }
   ]
 }

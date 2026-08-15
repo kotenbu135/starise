@@ -15,8 +15,9 @@
     "ai-agents",
     "bash",
     "claude-code",
+    "dsh",
+    "dsh-plugin",
     "fuse",
-    "langchain",
     "llm-agents",
     "openai-agents",
     "python",
@@ -24,13 +25,13 @@
     "vfs",
     "virtual-filesystem"
   ],
-  "star_count": 3395,
-  "fork_count": 250,
+  "star_count": 3445,
+  "fork_count": 255,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-06T17:00:48Z",
-  "updated_at": "2026-08-09T17:32:22Z",
-  "pushed_at": "2026-08-09T18:27:03Z",
+  "updated_at": "2026-08-15T18:53:43Z",
+  "pushed_at": "2026-08-15T17:51:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -340,6 +341,10 @@
     {
       "date": "2026-08-09",
       "stars": 3395
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 3445
     }
   ]
 }

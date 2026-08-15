@@ -3,7 +3,7 @@
   "owner": "ahs12",
   "name": "thoth-blueprint",
   "full_name": "ahs12/thoth-blueprint",
-  "description": "Free visual database design tool with drag-and-move editing, multi-format export, and migration generation for popular frameworks.",
+  "description": "Design databases the way you think. Create unlimited schemas, import existing designs, visualize relationships, export to multiple formats, and generate framework migrations. Offline-first, local by default, with optional cloud or local AI.",
   "description_ja": "",
   "url": "https://github.com/AHS12/thoth-blueprint",
   "homepage_url": "https://thoth-blueprint.vercel.app",
@@ -20,13 +20,13 @@
     "typescript",
     "zustand"
   ],
-  "star_count": 624,
+  "star_count": 623,
   "fork_count": 53,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-07T19:17:59Z",
-  "updated_at": "2026-08-08T06:31:42Z",
-  "pushed_at": "2026-08-05T09:25:17Z",
+  "updated_at": "2026-08-12T19:07:21Z",
+  "pushed_at": "2026-08-12T19:06:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -96,6 +96,10 @@
     {
       "date": "2026-08-09",
       "stars": 624
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 623
     }
   ]
 }

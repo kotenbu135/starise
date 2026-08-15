@@ -3,7 +3,7 @@
   "owner": "knightinfected",
   "name": "pipewirecontroller",
   "full_name": "knightinfected/pipewirecontroller",
-  "description": "GTK4/libadwaita audio control center for PipeWire — audio management, signal paths, virtual devices, live patchbay, parametric equalizer, performance monitoring, filter chains, microphone cleanup (echo/noise), HRIR virtual surround, routing snapshots, per-app policies, LADSPA/LV2 effect inserts and more. On the AUR: pipewire-controller",
+  "description": "GTK4/libadwaita audio control center for PipeWire — audio management, signal paths, virtual devices, live patchbay, parametric equalizer, performance monitoring, filter chains, microphone cleanup (echo/noise), HRIR virtual surround, routing snapshots, per-app policies, LADSPA/LV2 effect inserts and more. On the AUR: pipewire-control-center",
   "description_ja": "",
   "url": "https://github.com/knightinfected/PipeWireController",
   "homepage_url": "",
@@ -30,13 +30,13 @@
     "virtual-surround",
     "wireplumber"
   ],
-  "star_count": 86,
+  "star_count": 110,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-21T19:53:51Z",
-  "updated_at": "2026-08-06T13:47:15Z",
-  "pushed_at": "2026-08-05T09:34:43Z",
+  "updated_at": "2026-08-14T09:24:59Z",
+  "pushed_at": "2026-08-14T02:42:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +74,10 @@
     {
       "date": "2026-08-09",
       "stars": 86
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 110
     }
   ]
 }

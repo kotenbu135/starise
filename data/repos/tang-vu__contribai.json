@@ -3,36 +3,37 @@
   "owner": "tang-vu",
   "name": "contribai",
   "full_name": "tang-vu/contribai",
-  "description": "Autonomous AI agent that contributes to open source — discovers repos, analyzes code, generates fixes, and submits PRs",
-  "description_ja": "オープンソースに貢献する自律型AIエージェント。リポジトリを発見し、コードを解析し、修正を生成してPRを提出する。",
+  "description": "Maintainer-governed agent for evidence-backed open-source contribution proposals",
+  "description_ja": "",
   "url": "https://github.com/tang-vu/ContribAI",
-  "homepage_url": "https://github.com/tang-vu/ContribAI",
+  "homepage_url": "https://tang-vu.github.io/ContribAI/",
   "language": "Rust",
-  "license": "NOASSERTION",
+  "license": "AGPL-3.0",
   "topics": [
     "agent",
     "ai",
     "ai-agent",
-    "automation",
-    "autonomous-agent",
+    "ai-governance",
     "code-analysis",
     "code-quality",
     "contributions",
+    "developer-tools",
     "gemini",
     "github",
     "llm",
     "open-source",
     "pull-requests",
-    "python",
-    "security"
+    "rust",
+    "security",
+    "supply-chain-security"
   ],
-  "star_count": 247,
-  "fork_count": 87,
+  "star_count": 245,
+  "fork_count": 86,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-17T15:57:53Z",
-  "updated_at": "2026-08-09T18:00:36Z",
-  "pushed_at": "2026-08-08T08:39:02Z",
+  "updated_at": "2026-08-14T13:27:14Z",
+  "pushed_at": "2026-08-10T08:20:49Z",
   "deleted_at": "2026-05-31",
   "star_history": [
     {
@@ -342,6 +343,10 @@
     {
       "date": "2026-08-09",
       "stars": 247
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 245
     }
   ]
 }

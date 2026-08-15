@@ -3,8 +3,8 @@
   "owner": "juliusbrussee",
   "name": "cavekit",
   "full_name": "juliusbrussee/cavekit",
-  "description": "A Claude Code plugin that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software with automated iteration, validation, and cross-model peer review.",
-  "description_ja": "自然言語を設計図に、設計図を並列ビルドプランに、そしてビルドプランを動作するソフトウェアへと変換するClaude Codeプラグイン。自動反復・検証・クロスモデルピアレビュー機能付き。",
+  "description": "Frozen — compressed spec-driven development plugin for Claude Code. Still works; active development moved to JuliusBrussee/caveman.",
+  "description_ja": "",
   "url": "https://github.com/JuliusBrussee/cavekit",
   "homepage_url": "https://caveman.so/",
   "language": "",
@@ -16,13 +16,13 @@
     "spec-driven-development",
     "test-driven-development"
   ],
-  "star_count": 1137,
+  "star_count": 1143,
   "fork_count": 86,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-14T23:59:42Z",
-  "updated_at": "2026-08-08T16:12:08Z",
-  "pushed_at": "2026-06-18T06:00:50Z",
+  "updated_at": "2026-08-14T22:08:36Z",
+  "pushed_at": "2026-08-14T22:07:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -364,6 +364,10 @@
     {
       "date": "2026-08-09",
       "stars": 1137
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1143
     }
   ]
 }

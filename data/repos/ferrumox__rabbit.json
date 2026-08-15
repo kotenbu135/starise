@@ -3,20 +3,20 @@
   "owner": "ferrumox",
   "name": "rabbit",
   "full_name": "ferrumox/rabbit",
-  "description": "Run Kimi K3 (2.8T MoE) on a 128GB-RAM consumer machine in pure Rust, experts streamed from disk. Tiny engine, immense model.",
+  "description": "Run Qwen 3.8 MAX (2.4T MoE) on a 50GB-RAM consumer machine in pure Rust, experts streamed from disk. Tiny engine, immense model.",
   "description_ja": "",
   "url": "https://github.com/ferrumox/rabbit",
   "homepage_url": "",
   "language": "Rust",
-  "license": "",
+  "license": "Apache-2.0",
   "topics": [],
-  "star_count": 118,
-  "fork_count": 14,
+  "star_count": 152,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-13T19:47:36Z",
-  "updated_at": "2026-08-09T14:50:16Z",
-  "pushed_at": "2026-07-28T09:19:09Z",
+  "updated_at": "2026-08-15T15:50:15Z",
+  "pushed_at": "2026-08-14T06:09:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-08-09",
       "stars": 118
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 152
     }
   ]
 }

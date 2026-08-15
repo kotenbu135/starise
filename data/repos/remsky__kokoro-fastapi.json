@@ -3,7 +3,7 @@
   "owner": "remsky",
   "name": "kokoro-fastapi",
   "full_name": "remsky/kokoro-fastapi",
-  "description": "Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/multiplatform CPU, AMD, NVIDIA GPU PyTorch support; voice-mixing, auto-stitching, captioned timestamps",
+  "description": "Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, voice-mixing, auto-stitching, caption timestamps, SSML, readalong web UI",
   "description_ja": "",
   "url": "https://github.com/remsky/Kokoro-FastAPI",
   "homepage_url": "",
@@ -14,24 +14,27 @@
     "kokoro",
     "kokoro-82m",
     "kokoro-tts",
+    "multi-speaker-tts",
     "mutilingual-audio",
     "openai-compatible-api",
     "openwebui",
     "pytorch",
+    "read-along",
     "sillytavern",
+    "ssml",
     "text-to-speech",
     "tts",
     "tts-api",
     "tts-captions",
     "tts-generation"
   ],
-  "star_count": 5305,
-  "fork_count": 867,
+  "star_count": 5329,
+  "fork_count": 871,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-30T11:53:42Z",
-  "updated_at": "2026-08-09T15:17:19Z",
-  "pushed_at": "2026-08-08T17:56:35Z",
+  "updated_at": "2026-08-15T20:02:38Z",
+  "pushed_at": "2026-08-15T18:48:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -377,6 +380,10 @@
     {
       "date": "2026-08-09",
       "stars": 5305
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 5329
     }
   ]
 }

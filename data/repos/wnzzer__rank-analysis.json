@@ -3,7 +3,7 @@
   "owner": "wnzzer",
   "name": "rank-analysis",
   "full_name": "wnzzer/rank-analysis",
-  "description": "基于Tauri 2 + Rust，构建的一个LOL 英雄联盟战绩查询助手，创新式标签标记机制，一键分析的混子、牛马队友",
+  "description": "A League of Legends match history and performance analysis assistant built with Tauri 2 and Rust. Its innovative tagging system lets users instantly identify and analyze underperforming teammates, hard carries, and “passenger” players.",
   "description_ja": "",
   "url": "https://github.com/wnzzer/rank-analysis",
   "homepage_url": "https://github.com/wnzzer/rank-analysis/releases/latest",
@@ -19,13 +19,13 @@
     "rust",
     "tauri"
   ],
-  "star_count": 401,
-  "fork_count": 40,
+  "star_count": 405,
+  "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-08T08:29:52Z",
-  "updated_at": "2026-08-09T14:23:12Z",
-  "pushed_at": "2026-08-09T14:29:20Z",
+  "updated_at": "2026-08-15T02:06:18Z",
+  "pushed_at": "2026-08-15T02:07:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -279,6 +279,10 @@
     {
       "date": "2026-08-09",
       "stars": 401
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 405
     }
   ]
 }

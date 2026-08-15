@@ -3,25 +3,37 @@
   "owner": "daturaxoxo",
   "name": "aurora",
   "full_name": "daturaxoxo/aurora",
-  "description": "Lightweight Modding Platform for Neverness To Everness.",
+  "description": "Lightweight Mod Manager and Mod Platform for Anime Games.",
   "description_ja": "",
   "url": "https://github.com/Daturaxoxo/Aurora",
-  "homepage_url": "",
-  "language": "Python",
-  "license": "GPL-3.0",
+  "homepage_url": "https://getaurora.moe",
+  "language": "Rust",
+  "license": "NOASSERTION",
   "topics": [
+    "gacha-games",
     "launcher",
+    "linux",
+    "linux-app",
     "mod-launcher",
+    "mod-loader",
+    "mod-manager",
+    "mod-platform",
     "modding",
-    "neverness-to-everness"
+    "neverness-to-everness",
+    "rust",
+    "rust-lang",
+    "slint",
+    "slint-ui",
+    "unreal-engine",
+    "windows"
   ],
-  "star_count": 72,
+  "star_count": 74,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-13T22:30:29Z",
-  "updated_at": "2026-08-08T02:21:50Z",
-  "pushed_at": "2026-08-09T13:13:30Z",
+  "updated_at": "2026-08-15T18:42:41Z",
+  "pushed_at": "2026-08-15T18:42:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -151,6 +163,10 @@
     {
       "date": "2026-08-09",
       "stars": 72
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 74
     }
   ]
 }

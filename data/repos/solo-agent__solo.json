@@ -3,28 +3,33 @@
   "owner": "solo-agent",
   "name": "solo",
   "full_name": "solo-agent/solo",
-  "description": "For human and AI agents to collaborate through channels, tasks, and persistent workspaces.",
+  "description": "Solo Agent — an open-source, local-first workspace where humans and AI coding agents collaborate through channels, tasks, teams, and persistent memory.",
   "description_ja": "",
   "url": "https://github.com/solo-agent/solo",
-  "homepage_url": "",
+  "homepage_url": "https://soloagent.team",
   "language": "Go",
   "license": "MIT",
   "topics": [
+    "agent-orchestration",
     "agent-workspace",
     "ai-agents",
     "ai-workspace",
     "claude-code",
     "codex",
+    "coding-agents",
     "multi-agent",
-    "opencode"
+    "opencode",
+    "solo",
+    "solo-agent",
+    "soloagent"
   ],
-  "star_count": 634,
+  "star_count": 599,
   "fork_count": 45,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-12T01:13:02Z",
-  "updated_at": "2026-08-09T11:34:10Z",
-  "pushed_at": "2026-08-09T13:00:45Z",
+  "updated_at": "2026-08-15T15:41:20Z",
+  "pushed_at": "2026-08-15T14:19:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +135,10 @@
     {
       "date": "2026-08-09",
       "stars": 634
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 599
     }
   ]
 }

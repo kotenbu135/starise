@@ -3,32 +3,40 @@
   "owner": "dj-bolt",
   "name": "django-bolt",
   "full_name": "dj-bolt/django-bolt",
-  "description": "Rust-powered API framework for Django achieving 60k+ RPS. Uses Actix Web for HTTP, PyO3 for Python bridging, msgspec for serialization. Decorator-based routing with built-in auth and middleware.",
-  "description_ja": "DjangoでRPS 6万以上を実現するRust製APIフレームワーク。HTTPにActix Web、PythonブリッジにPyO3、シリアライズにmsgspecを使用。デコレーターベースのルーティング、認証・ミドルウェア組み込み済み。",
+  "description": "The fastest Python web framework, built on Django. Rust (Actix Web) HTTP server + async typed handlers + msgspec, with the full Django ORM, Admin, middleware and auth. 300k+ req/s, no gunicorn/uvicorn.",
+  "description_ja": "",
   "url": "https://github.com/dj-bolt/django-bolt",
-  "homepage_url": "",
+  "homepage_url": "https://bolt.farhana.li/",
   "language": "Python",
   "license": "",
   "topics": [
     "actix-web",
     "api",
-    "api-rest",
-    "asyncio",
-    "bolt",
+    "async",
     "django",
     "django-bolt",
+    "django-ninja",
+    "django-rest-framework",
+    "fastapi-alternative",
+    "high-performance",
+    "llms-txt",
+    "llmstxt",
     "msgspec",
+    "openapi",
     "pyo3",
     "python",
-    "rust"
+    "rest-api",
+    "rust",
+    "web-framework",
+    "websocket"
   ],
-  "star_count": 1609,
-  "fork_count": 83,
+  "star_count": 1637,
+  "fork_count": 84,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-20T19:04:44Z",
-  "updated_at": "2026-08-09T13:26:35Z",
-  "pushed_at": "2026-08-08T19:33:30Z",
+  "updated_at": "2026-08-15T18:49:34Z",
+  "pushed_at": "2026-08-15T19:08:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -370,6 +378,10 @@
     {
       "date": "2026-08-09",
       "stars": 1609
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1637
     }
   ]
 }

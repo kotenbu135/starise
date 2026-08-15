@@ -3,20 +3,36 @@
   "owner": "pacifio",
   "name": "atlas",
   "full_name": "pacifio/atlas",
-  "description": "Source control for agents",
+  "description": "Source control for agents. Use multiple coding agents, track they change, and query them in one place",
   "description_ja": "",
   "url": "https://github.com/pacifio/atlas",
   "homepage_url": "https://www.tryatlas.cc/",
-  "language": "Rust",
+  "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 101,
-  "fork_count": 14,
+  "topics": [
+    "ai",
+    "ai-coding-assistant",
+    "claude-code",
+    "codex",
+    "coding-agents",
+    "git",
+    "gitops",
+    "kilo-code",
+    "mcp",
+    "mcp-client",
+    "opencode",
+    "opencode-ai",
+    "opencode-skills",
+    "self-hosted",
+    "skills"
+  ],
+  "star_count": 1037,
+  "fork_count": 177,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-14T16:48:52Z",
-  "updated_at": "2026-08-09T04:53:07Z",
-  "pushed_at": "2026-08-09T11:53:19Z",
+  "updated_at": "2026-08-15T17:52:47Z",
+  "pushed_at": "2026-08-15T05:07:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -190,6 +206,10 @@
     {
       "date": "2026-08-09",
       "stars": 101
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1037
     }
   ]
 }

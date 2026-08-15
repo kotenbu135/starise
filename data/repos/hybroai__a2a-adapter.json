@@ -3,8 +3,8 @@
   "owner": "hybroai",
   "name": "a2a-adapter",
   "full_name": "hybroai/a2a-adapter",
-  "description": "Open Source A2A Protocol Adapter SDK for Different Agent Frameworks",
-  "description_ja": "異なるエージェントフレームワーク向けオープンソース A2A プロトコルアダプター SDK",
+  "description": "Open Source A2A Protocol Adapter SDK for Different Agent Frameworks and Harnesses",
+  "description_ja": "",
   "url": "https://github.com/hybroai/a2a-adapter",
   "homepage_url": "https://pypi.org/project/a2a-adapter/",
   "language": "Python",
@@ -27,6 +27,7 @@
     "n8n",
     "ollama",
     "openclaw",
+    "pi-agent",
     "python"
   ],
   "star_count": 92,
@@ -34,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-15T00:54:44Z",
-  "updated_at": "2026-08-09T09:34:29Z",
-  "pushed_at": "2026-08-09T09:34:15Z",
+  "updated_at": "2026-08-15T09:37:15Z",
+  "pushed_at": "2026-08-10T06:15:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -380,6 +381,10 @@
     },
     {
       "date": "2026-08-09",
+      "stars": 92
+    },
+    {
+      "date": "2026-08-15",
       "stars": 92
     }
   ]

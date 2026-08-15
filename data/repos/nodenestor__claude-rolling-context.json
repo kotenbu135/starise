@@ -1,0 +1,41 @@
+{
+  "repo_id": "R_kgDORfiurQ",
+  "owner": "nodenestor",
+  "name": "claude-rolling-context",
+  "full_name": "nodenestor/claude-rolling-context",
+  "description": "Rolling context compression for Claude Code — never hit the context wall. Auto-compresses old messages while keeping recent context verbatim. Zero config, zero latency. Works as a Claude Code plugin.",
+  "description_ja": "",
+  "url": "https://github.com/NodeNestor/claude-rolling-context",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "ai-agent",
+    "ai-coding",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-code-extension",
+    "claude-code-plugin",
+    "context-compression",
+    "context-management",
+    "context-window",
+    "llm-context",
+    "prompt-compression",
+    "rolling-context"
+  ],
+  "star_count": 29,
+  "fork_count": 6,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-05T22:25:23Z",
+  "updated_at": "2026-08-14T02:30:31Z",
+  "pushed_at": "2026-08-12T10:52:51Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-15",
+      "stars": 29
+    }
+  ]
+}

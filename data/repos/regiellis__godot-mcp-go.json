@@ -3,7 +3,7 @@
   "owner": "regiellis",
   "name": "godot-mcp-go",
   "full_name": "regiellis/godot-mcp-go",
-  "description": "Control a running Godot 4.7 editor and game directly from the terminal. Includes a Go CLI, editor addon, 312 commands, and an MCP server with dynamically generated tool schemas.",
+  "description": "Give AI agents the complete Godot development loop: discover, build, play, observe, debug, fix, and verify from a CLI or MCP client.",
   "description_ja": "",
   "url": "https://github.com/regiellis/godot-mcp-go",
   "homepage_url": "https://regiellis.github.io/godot-mcp-go/",
@@ -21,13 +21,13 @@
     "mcp",
     "model-context-protocol"
   ],
-  "star_count": 36,
+  "star_count": 39,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-23T02:04:06Z",
-  "updated_at": "2026-08-09T20:04:58Z",
-  "pushed_at": "2026-08-09T20:04:39Z",
+  "updated_at": "2026-08-14T01:45:14Z",
+  "pushed_at": "2026-08-14T01:45:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +41,10 @@
     {
       "date": "2026-08-09",
       "stars": 36
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 39
     }
   ]
 }

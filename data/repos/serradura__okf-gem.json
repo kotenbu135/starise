@@ -3,7 +3,7 @@
   "owner": "serradura",
   "name": "okf-gem",
   "full_name": "serradura/okf-gem",
-  "description": "Open Knowledge Format for coding agents. Author, validate, lint, search, and visualize portable Markdown knowledge bundles. One gem carries the agent skill, the CLI and Ruby library, and an interactive graph. Docker and Claude Code plugin included, 100% local.",
+  "description": "Open Knowledge Format for coding agents. Author, validate, lint, search, and visualize portable Markdown knowledge bundles. The okf gem carries the agent skill, CLI, Ruby library, and an interactive graph; okf-mcp serves the same bundles to any MCP host. Docker and Claude Code plugin included, 100% local.",
   "description_ja": "",
   "url": "https://github.com/serradura/okf-gem",
   "homepage_url": "https://okfgem.com/",
@@ -30,13 +30,13 @@
     "toolkit",
     "yaml"
   ],
-  "star_count": 120,
-  "fork_count": 9,
+  "star_count": 122,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-11T17:13:33Z",
-  "updated_at": "2026-08-07T16:58:52Z",
-  "pushed_at": "2026-08-07T12:30:57Z",
+  "updated_at": "2026-08-15T18:16:24Z",
+  "pushed_at": "2026-08-15T18:16:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -102,6 +102,10 @@
     {
       "date": "2026-08-09",
       "stars": 120
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 122
     }
   ]
 }

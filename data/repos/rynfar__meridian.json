@@ -3,8 +3,8 @@
   "owner": "rynfar",
   "name": "meridian",
   "full_name": "rynfar/meridian",
-  "description": "Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. Proxy that bridges Anthropic's official SDK to enable Claude Max in third-party tools.",
-  "description_ja": "Claude MaxサブスクリプションをOpenCode・Pi・Droid・Aider・Crush・Clineで使用できるプロキシ。AnthropicのSDKをブリッジしてサードパーティツールでClaude Maxを利用可能にする。",
+  "description": "Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline, Jcode. Proxy that bridges Anthropic's official SDK to enable Claude Max in third-party tools.",
+  "description_ja": "",
   "url": "https://github.com/rynfar/meridian",
   "homepage_url": "https://www.npmjs.com/package/@rynfar/meridian",
   "language": "TypeScript",
@@ -20,6 +20,7 @@
     "claude-max",
     "cline",
     "crush-cli",
+    "jcode",
     "llm",
     "opencode",
     "opencode-plugin",
@@ -28,13 +29,13 @@
     "pylon-orchestrator",
     "whatsapp-automation"
   ],
-  "star_count": 1824,
-  "fork_count": 205,
+  "star_count": 1851,
+  "fork_count": 207,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-20T21:39:40Z",
-  "updated_at": "2026-08-09T18:50:58Z",
-  "pushed_at": "2026-08-05T08:26:39Z",
+  "updated_at": "2026-08-15T19:45:01Z",
+  "pushed_at": "2026-08-15T19:45:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -380,6 +381,10 @@
     {
       "date": "2026-08-09",
       "stars": 1824
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1851
     }
   ]
 }
