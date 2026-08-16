@@ -3,27 +3,41 @@
   "owner": "pascalebeier",
   "name": "hitkeep",
   "full_name": "pascalebeier/hitkeep",
-  "description": "HitKeep is privacy-first analytics for humans and AI agents, self-hosted or in managed EU/US cloud regions.",
+  "description": "100% open-source, AI-native web analytics with cookieless tracking, open exports, custom domains, and SSO—self-hosted as one Go binary or managed in EU/US cloud.",
   "description_ja": "",
   "url": "https://github.com/PascaleBeier/hitkeep",
   "homepage_url": "https://hitkeep.com",
   "language": "Go",
   "license": "MIT",
   "topics": [
-    "agent-skills",
-    "ai",
+    "ai-analytics",
+    "ai-native",
+    "ai-visibility",
     "analytics",
-    "angular",
+    "analytics-dashboard",
+    "conversion-analytics",
+    "cookieless",
+    "custom-domains",
+    "data-sovereignty",
+    "duckdb",
+    "ecommerce-analytics",
     "go",
-    "mcp"
+    "google-analytics-alternative",
+    "model-context-protocol",
+    "open-source-analytics",
+    "privacy-friendly",
+    "self-hosted",
+    "single-sign-on",
+    "web-analytics",
+    "website-analytics"
   ],
-  "star_count": 81,
+  "star_count": 82,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-08T11:56:11Z",
-  "updated_at": "2026-08-12T07:08:42Z",
-  "pushed_at": "2026-08-15T19:22:44Z",
+  "updated_at": "2026-08-16T19:24:46Z",
+  "pushed_at": "2026-08-16T19:28:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -341,6 +355,10 @@
     {
       "date": "2026-08-15",
       "stars": 81
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 82
     }
   ]
 }

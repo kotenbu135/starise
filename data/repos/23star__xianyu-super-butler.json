@@ -6,17 +6,28 @@
   "description": "闲鱼超级管家是在 xianyu-auto-reply 基础上全面升级的新版本，自动滑块、发货、评价、要花、擦亮通通稳定支持，时刻维护！时刻更新！坚决保证使用世界上最强 AI模型(5.6 sol 、ops 5)进行vibecoding！",
   "description_ja": "",
   "url": "https://github.com/23Star/xianyu-super-butler",
-  "homepage_url": "",
+  "homepage_url": "https://xy.corleom.com",
   "language": "Python",
   "license": "AGPL-3.0",
-  "topics": [],
-  "star_count": 737,
-  "fork_count": 532,
+  "topics": [
+    "xianyu",
+    "xianyu-assistant",
+    "xianyu-auto-delivery",
+    "xianyu-auto-reply",
+    "xianyu-bot",
+    "xianyu-monitor",
+    "xianyu-super-butler",
+    "xianyu-tool",
+    "xianyuapp",
+    "xianyubb-bot"
+  ],
+  "star_count": 747,
+  "fork_count": 533,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-11T17:43:42Z",
-  "updated_at": "2026-08-15T15:56:36Z",
-  "pushed_at": "2026-08-15T13:12:06Z",
+  "updated_at": "2026-08-16T18:50:04Z",
+  "pushed_at": "2026-08-16T18:49:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +97,10 @@
     {
       "date": "2026-08-15",
       "stars": 737
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 747
     }
   ]
 }

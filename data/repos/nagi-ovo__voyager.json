@@ -3,7 +3,7 @@
   "owner": "nagi-ovo",
   "name": "voyager",
   "full_name": "nagi-ovo/voyager",
-  "description": "Voyager — an all-in-one enhancement suite for AI Studio, Gemini, Claude \u0026 ChatGPT: timelines, folders, prompts, usage tracking, chat export, plugins, and more. / 面向 AI Studio、Gemini、Claude 与 ChatGPT 的全能增强套件。",
+  "description": "Enhancement suite for Gemini, AI Studio, Claude \u0026 ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。",
   "description_ja": "",
   "url": "https://github.com/Nagi-ovo/voyager",
   "homepage_url": "https://voyager.nagi.fun/en",
@@ -18,19 +18,19 @@
     "chrome-extension",
     "claude-ai",
     "dsh",
+    "dsh-plugin",
     "edge-addon",
     "firefox-addons",
     "gemini",
-    "safari-extension",
-    "vibe-coding"
+    "safari-extension"
   ],
-  "star_count": 19381,
-  "fork_count": 646,
+  "star_count": 19486,
+  "fork_count": 647,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-04T23:42:35Z",
-  "updated_at": "2026-08-15T18:14:05Z",
-  "pushed_at": "2026-08-15T18:13:48Z",
+  "updated_at": "2026-08-16T18:25:23Z",
+  "pushed_at": "2026-08-16T00:11:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -380,6 +380,10 @@
     {
       "date": "2026-08-15",
       "stars": 19381
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 19486
     }
   ]
 }

@@ -3,15 +3,23 @@
   "owner": "quillhash",
   "name": "real-world-assets-rwa",
   "full_name": "quillhash/real-world-assets-rwa",
-  "description": "This repository comprises the theoretical and technical aspects of tokenisation of real world assets.",
-  "description_ja": "このリポジトリは現実世界の資産のトークン化に関する理論的・技術的側面をまとめたものです。",
+  "description": "Developer handbook \u0026 reference implementation for Real-World Asset (RWA) tokenization: token standards (ERC-3643, ERC-4626), Foundry code, audit methodology. By QuillAudits",
+  "description_ja": "",
   "url": "https://github.com/Quillhash/Real-World-Assets-RWA",
-  "homepage_url": "",
+  "homepage_url": "https://www.quillaudits.com/research/rwa-development",
   "language": "Solidity",
-  "license": "",
+  "license": "MIT",
   "topics": [
-    "blockchain",
+    "chainlink",
+    "erc-3643",
+    "erc-4626",
+    "foundry",
+    "real-world-assets",
+    "rwa",
+    "security-audit",
     "smart-contracts",
+    "solidity",
+    "token-standards",
     "tokenization",
     "web3"
   ],
@@ -20,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-01T11:39:21Z",
-  "updated_at": "2026-07-22T17:46:53Z",
-  "pushed_at": "2026-03-11T08:59:33Z",
+  "updated_at": "2026-08-16T18:32:34Z",
+  "pushed_at": "2026-08-16T18:31:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +374,10 @@
     },
     {
       "date": "2026-08-15",
+      "stars": 95
+    },
+    {
+      "date": "2026-08-16",
       "stars": 95
     }
   ]

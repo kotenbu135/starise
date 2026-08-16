@@ -3,20 +3,33 @@
   "owner": "quentinfuxa",
   "name": "whisperlivekit",
   "full_name": "quentinfuxa/whisperlivekit",
-  "description": "Simultaneous speech-to-text models",
-  "description_ja": "同時音声認識モデル",
+  "description": "Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.",
+  "description_ja": "",
   "url": "https://github.com/QuentinFuxa/WhisperLiveKit",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 10610,
-  "fork_count": 1099,
+  "topics": [
+    "automatic-speech-recognition",
+    "fastapi",
+    "python",
+    "pytorch",
+    "real-time",
+    "speaker-diarization",
+    "speech-recognition",
+    "speech-to-text",
+    "streaming",
+    "translation",
+    "websocket",
+    "whisper"
+  ],
+  "star_count": 10611,
+  "fork_count": 1101,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-19T10:49:09Z",
-  "updated_at": "2026-08-15T18:23:52Z",
-  "pushed_at": "2026-08-01T16:41:25Z",
+  "updated_at": "2026-08-16T16:23:31Z",
+  "pushed_at": "2026-08-16T15:41:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +379,10 @@
     {
       "date": "2026-08-15",
       "stars": 10610
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 10611
     }
   ]
 }

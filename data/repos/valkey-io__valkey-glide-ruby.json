@@ -3,10 +3,10 @@
   "owner": "valkey-io",
   "name": "valkey-glide-ruby",
   "full_name": "valkey-io/valkey-glide-ruby",
-  "description": "A Ruby client library for Valkey",
+  "description": "The Valkey GLIDE Ruby client. Supports Valkey, and Redis open source 6.2, 7.0 and 7.2. Valkey GLIDE is designed for reliability, optimized performance, and high-availability, for Valkey and Redis OSS based applications. GLIDE is a multi language client library, written in Rust with programming language bindings",
   "description_ja": "",
   "url": "https://github.com/valkey-io/valkey-glide-ruby",
-  "homepage_url": "",
+  "homepage_url": "glide.valkey.io",
   "language": "Ruby",
   "license": "NOASSERTION",
   "topics": [],
@@ -15,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-09T14:42:33Z",
-  "updated_at": "2026-08-14T21:36:34Z",
+  "updated_at": "2026-08-15T20:41:21Z",
   "pushed_at": "2026-08-14T23:03:13Z",
   "deleted_at": "",
   "star_history": [
@@ -289,6 +289,10 @@
     },
     {
       "date": "2026-08-15",
+      "stars": 29
+    },
+    {
+      "date": "2026-08-16",
       "stars": 29
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "t8y2",
   "name": "dbx",
   "full_name": "t8y2/dbx",
-  "description": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 70+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+  "description": "20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 80+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
   "description_ja": "",
   "url": "https://github.com/t8y2/dbx",
   "homepage_url": "https://dbxio.com",
@@ -29,13 +29,13 @@
     "tauri",
     "vue"
   ],
-  "star_count": 14964,
-  "fork_count": 1508,
+  "star_count": 15087,
+  "fork_count": 1519,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-29T03:00:36Z",
-  "updated_at": "2026-08-15T20:28:44Z",
-  "pushed_at": "2026-08-15T18:04:43Z",
+  "updated_at": "2026-08-16T19:28:04Z",
+  "pushed_at": "2026-08-16T19:27:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -365,6 +365,10 @@
     {
       "date": "2026-08-15",
       "stars": 14964
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 15087
     }
   ]
 }

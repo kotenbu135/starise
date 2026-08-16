@@ -1,0 +1,40 @@
+{
+  "repo_id": "R_kgDOT3x0xg",
+  "owner": "decionis",
+  "name": "agent-safe-pipeline",
+  "full_name": "decionis/agent-safe-pipeline",
+  "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+  "description_ja": "",
+  "url": "https://github.com/decionis/agent-safe-pipeline",
+  "homepage_url": "https://decionis.com/docs?utm_source=github\u0026utm_medium=org_readme\u0026utm_campaign=dev_discovery",
+  "language": "TypeScript",
+  "license": "Apache-2.0",
+  "topics": [
+    "agentic-ai",
+    "ai-agent-permissions",
+    "ai-agents",
+    "ai-governance",
+    "ai-safety",
+    "authorization",
+    "decionis",
+    "human-in-the-loop",
+    "mcp",
+    "policy-as-code",
+    "reference-architecture",
+    "typescript"
+  ],
+  "star_count": 483,
+  "fork_count": 59,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-08-13T21:36:19Z",
+  "updated_at": "2026-08-16T20:16:16Z",
+  "pushed_at": "2026-08-16T19:23:29Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-16",
+      "stars": 483
+    }
+  ]
+}

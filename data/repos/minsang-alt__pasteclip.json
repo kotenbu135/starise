@@ -3,20 +3,32 @@
   "owner": "minsang-alt",
   "name": "pasteclip",
   "full_name": "minsang-alt/pasteclip",
-  "description": "“Paste” app alternative (free)",
+  "description": "Free, open-source clipboard manager for macOS. Native Paste alternative with card UI, Pinboards, Quick Look, and 100% local storage.",
   "description_ja": "",
   "url": "https://github.com/minsang-alt/PasteClip",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/minsang-alt/PasteClip/releases/latest",
   "language": "Swift",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 98,
-  "fork_count": 8,
+  "topics": [
+    "clipboard",
+    "clipboard-history",
+    "clipboard-manager",
+    "macos",
+    "macos-app",
+    "menubar-app",
+    "paste-alternative",
+    "productivity",
+    "swift",
+    "swiftdata",
+    "swiftui"
+  ],
+  "star_count": 118,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T15:07:20Z",
-  "updated_at": "2026-08-15T17:12:18Z",
-  "pushed_at": "2026-08-15T11:24:49Z",
+  "updated_at": "2026-08-16T14:42:52Z",
+  "pushed_at": "2026-08-16T06:03:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -350,6 +362,10 @@
     {
       "date": "2026-08-15",
       "stars": 98
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 118
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "shunnet",
   "name": "daq",
   "full_name": "shunnet/daq",
-  "description": "[ 开箱即用 ] 一款基于 .NET 10 WPF 架构的工业物联网插件化数据采集转发工具（OPC[UA/DA]/Modbus/数据库/非标数据/大部分PLC/Mqtt/Kafka/NetMQ/Netty/RabbitMQ）",
+  "description": "[ 开箱即用 ] 一款基于 .NET 10 双架构(WPF/Blazor)的工业物联网插件化数据采集转发工具（OPC[UA/DA]/Modbus/数据库/非标数据/大部分PLC/Mqtt/Kafka/NetMQ/Netty/RabbitMQ）",
   "description_ja": "",
   "url": "https://github.com/shunnet/Daq",
   "homepage_url": "https://snet.cn",
@@ -22,13 +22,13 @@
     "s7",
     "zeromq"
   ],
-  "star_count": 67,
-  "fork_count": 20,
+  "star_count": 74,
+  "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-24T09:54:45Z",
-  "updated_at": "2026-08-14T15:58:58Z",
-  "pushed_at": "2026-08-14T16:01:34Z",
+  "updated_at": "2026-08-16T17:55:41Z",
+  "pushed_at": "2026-08-16T06:46:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +90,10 @@
     {
       "date": "2026-08-15",
       "stars": 67
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 74
     }
   ]
 }

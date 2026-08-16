@@ -6,7 +6,7 @@
   "description": "A vault for securely storing and accessing AWS credentials in development environments",
   "description_ja": "開発環境でAWS認証情報を安全に保存・アクセスするためのVault",
   "url": "https://github.com/ByteNess/aws-vault",
-  "homepage_url": "",
+  "homepage_url": "https://byteness.github.io/aws-vault/",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-22T20:15:33Z",
-  "updated_at": "2026-08-14T14:56:11Z",
-  "pushed_at": "2026-08-14T14:34:57Z",
+  "updated_at": "2026-08-15T22:41:41Z",
+  "pushed_at": "2026-08-15T22:52:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -370,6 +370,10 @@
     },
     {
       "date": "2026-08-15",
+      "stars": 425
+    },
+    {
+      "date": "2026-08-16",
       "stars": 425
     }
   ]

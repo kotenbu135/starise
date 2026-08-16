@@ -3,26 +3,26 @@
   "owner": "wxkingstar",
   "name": "specfusion",
   "full_name": "wxkingstar/specfusion",
-  "description": "在 Claude Code / Cursor / Gemini CLI 里直接搜 18 个中国开放平台 API 文档 | Search 18 Chinese platform API docs (WeChat, Feishu, DingTalk, Taobao, etc.) directly in your AI coding tool. 56,700+ docs, zero config.",
+  "description": "在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。",
   "description_ja": "",
   "url": "https://github.com/wxkingstar/SpecFusion",
   "homepage_url": "https://specfusion.kingstar.xin/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "ai-coding",
+    "ai-agents",
     "alipay",
     "api-documentation",
     "chinese-api",
     "claude-code",
     "cursor",
+    "deepseek-harness",
     "dingtalk",
     "douyin",
+    "dsh-plugin",
     "feishu",
     "gemini-cli",
     "jd",
-    "lark",
-    "mcp",
     "pinduoduo",
     "shein",
     "taobao",
@@ -31,13 +31,13 @@
     "xiaohongshu",
     "youzan"
   ],
-  "star_count": 50,
+  "star_count": 51,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-12T11:45:11Z",
-  "updated_at": "2026-08-10T16:14:51Z",
-  "pushed_at": "2026-07-26T12:09:15Z",
+  "updated_at": "2026-08-16T18:39:57Z",
+  "pushed_at": "2026-08-16T17:45:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-08-15",
       "stars": 50
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 51
     }
   ]
 }

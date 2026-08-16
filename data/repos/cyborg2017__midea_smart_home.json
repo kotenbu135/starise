@@ -3,7 +3,7 @@
   "owner": "cyborg2017",
   "name": "midea_smart_home",
   "full_name": "cyborg2017/midea_smart_home",
-  "description": "美的智能设备局域网集成接入home assistant，支持: 空调、油烟机、热水器、冰箱、洗碗机、洗衣机、空气净化器、风扇、扫地机器人等27种品类设备",
+  "description": "美的智能设备局域网集成接入home assistant，支持: 空调、油烟机、热水器、冰箱、洗碗机、洗衣机、空气净化器、风扇、扫地机器人等29种品类设备",
   "description_ja": "",
   "url": "https://github.com/Cyborg2017/midea_smart_home",
   "homepage_url": "",
@@ -16,13 +16,13 @@
     "homeassistant",
     "midea"
   ],
-  "star_count": 95,
+  "star_count": 96,
   "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-20T13:05:18Z",
-  "updated_at": "2026-08-15T07:18:49Z",
-  "pushed_at": "2026-08-14T12:47:44Z",
+  "updated_at": "2026-08-16T14:31:09Z",
+  "pushed_at": "2026-08-16T14:30:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -352,6 +352,10 @@
     {
       "date": "2026-08-15",
       "stars": 95
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 96
     }
   ]
 }

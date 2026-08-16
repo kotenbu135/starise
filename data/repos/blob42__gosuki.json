@@ -3,7 +3,7 @@
   "owner": "blob42",
   "name": "gosuki",
   "full_name": "blob42/gosuki",
-  "description": "Lightweight, privacy-first, universal bookmark manager.  Unifies your bookmarks from ANY browser, realtime synchronization (locally or P2P), no extension required, everything stored locally.",
+  "description": "One binary, zero extensions, real time multi browser bookmark manager . Works with any browser and handles profiles. Multi-device sync and archival",
   "description_ja": "",
   "url": "https://github.com/blob42/gosuki",
   "homepage_url": "https://gosuki.net",
@@ -14,6 +14,7 @@
     "archiving",
     "bookmark-manager",
     "bookmarks",
+    "bookmarks-manager",
     "buku",
     "cli",
     "cloudless",
@@ -29,13 +30,13 @@
     "standalone",
     "webui"
   ],
-  "star_count": 538,
-  "fork_count": 28,
+  "star_count": 539,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-03T22:29:05Z",
-  "updated_at": "2026-08-15T15:21:05Z",
-  "pushed_at": "2026-07-17T00:01:47Z",
+  "updated_at": "2026-08-16T07:02:51Z",
+  "pushed_at": "2026-08-15T23:15:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -373,6 +374,10 @@
     {
       "date": "2026-08-15",
       "stars": 538
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 539
     }
   ]
 }

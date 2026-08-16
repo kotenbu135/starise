@@ -3,7 +3,7 @@
   "owner": "tim-osterhus",
   "name": "millrace",
   "full_name": "tim-osterhus/millrace",
-  "description": "Turns repeatable, domain-agnostic workflows into multi-step graph-driven loops. ",
+  "description": "Turns repeatable, domain-agnostic workflows into graph-driven loops. ",
   "description_ja": "",
   "url": "https://github.com/tim-osterhus/millrace",
   "homepage_url": "https://millrace.ai",
@@ -11,28 +11,30 @@
   "license": "Apache-2.0",
   "topics": [
     "agent-loop",
-    "agentic-ai-development",
-    "agentic-coding",
-    "agentic-engineering",
     "agentic-framework",
     "agentic-workflow",
-    "autonomous-agents",
+    "durable-workflow",
+    "durable-workflows",
     "governed-autonomy",
     "governed-loop",
+    "governed-runtime",
     "graph-engineering",
-    "harness-engineering",
+    "graph-runtime",
     "loop-engineering",
     "millrace",
+    "runtime-authority",
+    "runtime-contract",
     "runtime-engine",
-    "runtime-engineering"
+    "runtime-engineering",
+    "workflow-compiler"
   ],
   "star_count": 86,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T13:35:35Z",
-  "updated_at": "2026-08-11T18:22:22Z",
-  "pushed_at": "2026-08-11T18:21:48Z",
+  "updated_at": "2026-08-16T10:48:48Z",
+  "pushed_at": "2026-08-16T10:48:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -205,6 +207,10 @@
     },
     {
       "date": "2026-08-15",
+      "stars": 86
+    },
+    {
+      "date": "2026-08-16",
       "stars": 86
     }
   ]

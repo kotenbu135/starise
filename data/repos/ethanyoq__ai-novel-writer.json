@@ -3,7 +3,7 @@
   "owner": "ethanyoq",
   "name": "ai-novel-writer",
   "full_name": "ethanyoq/ai-novel-writer",
-  "description": "AI小说写作软件，通过大纲、角色、章节蓝图、审稿修稿和知识库控制长篇小说写作，支持本地模型编写。",
+  "description": "本地优先 AI 小说创作工作台，提供 Windows/macOS 桌面版与 DeepSeek Harness 插件开发预览，支持角色、大纲、章节蓝图、审稿修稿和本地模型。",
   "description_ja": "",
   "url": "https://github.com/EthanYoQ/AI-Novel-Writer",
   "homepage_url": "",
@@ -11,6 +11,7 @@
   "license": "GPL-3.0",
   "topics": [
     "ai-writing",
+    "deepseek-harness",
     "dsh-plugin",
     "dsh-plugins",
     "electron",
@@ -23,13 +24,13 @@
     "typescript",
     "web-novel"
   ],
-  "star_count": 356,
+  "star_count": 363,
   "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-20T17:27:16Z",
-  "updated_at": "2026-08-15T19:13:22Z",
-  "pushed_at": "2026-08-15T19:12:35Z",
+  "updated_at": "2026-08-16T16:24:25Z",
+  "pushed_at": "2026-08-16T16:25:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +92,10 @@
     {
       "date": "2026-08-15",
       "stars": 356
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 363
     }
   ]
 }

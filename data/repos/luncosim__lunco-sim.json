@@ -3,7 +3,7 @@
   "owner": "luncosim",
   "name": "lunco-sim",
   "full_name": "luncosim/lunco-sim",
-  "description": "LunCo: virtual universe to design real space missions 🌎🚀🌚",
+  "description": "Collaborative Multiphysics Cosimulator For Space Missions  🌎🚀🌚",
   "description_ja": "",
   "url": "https://github.com/LunCoSim/lunco-sim",
   "homepage_url": "https://lunco.space",
@@ -11,24 +11,24 @@
   "license": "Apache-2.0",
   "topics": [
     "artemis",
-    "bevy",
     "desci",
     "engineering",
-    "exploration",
     "flatsat",
     "gravity",
-    "ksp",
     "lander",
     "lunar",
     "mbse",
     "modelica",
     "moon",
+    "multiphysical-modeling",
+    "multiphysics-simulation",
     "newspace",
-    "open-source",
+    "robotics",
+    "robotics-simulation",
     "rocket",
-    "rust",
     "simulation",
     "space",
+    "space-exploration",
     "spacex"
   ],
   "star_count": 106,
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-05-20T10:23:54Z",
-  "updated_at": "2026-08-15T15:39:20Z",
-  "pushed_at": "2026-08-15T16:53:09Z",
+  "updated_at": "2026-08-16T10:32:55Z",
+  "pushed_at": "2026-08-16T13:42:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -106,6 +106,10 @@
     },
     {
       "date": "2026-08-15",
+      "stars": 106
+    },
+    {
+      "date": "2026-08-16",
       "stars": 106
     }
   ]

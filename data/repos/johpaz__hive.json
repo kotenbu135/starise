@@ -3,17 +3,20 @@
   "owner": "johpaz",
   "name": "hive",
   "full_name": "johpaz/hive",
-  "description": "Hive Agents gateway localfirts ",
+  "description": "Hive Agents harnest agent loop localfirts ",
   "description_ja": "",
   "url": "https://github.com/johpaz/hive",
   "homepage_url": "https://www.hiveagents.io/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "agent",
+    "agentloop",
     "agents",
     "bun",
     "cli",
     "colombia",
+    "harness",
     "latam",
     "localfirst",
     "open-source"
@@ -23,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T16:50:50Z",
-  "updated_at": "2026-08-15T18:47:16Z",
-  "pushed_at": "2026-08-15T18:46:46Z",
+  "updated_at": "2026-08-15T20:54:27Z",
+  "pushed_at": "2026-08-15T20:53:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -293,6 +296,10 @@
     },
     {
       "date": "2026-08-15",
+      "stars": 53
+    },
+    {
+      "date": "2026-08-16",
       "stars": 53
     }
   ]

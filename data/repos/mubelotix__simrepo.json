@@ -6,25 +6,28 @@
   "description": "Shows similar repositories in the sidebar",
   "description_ja": "サイドバーに類似リポジトリを表示します",
   "url": "https://github.com/Mubelotix/SimRepo",
-  "homepage_url": "https://chromewebstore.google.com/detail/simrepo/jieoogmcigenidbkgnkaakagdnlnieap",
+  "homepage_url": "https://star-history.dera.page",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
     "embeddings",
     "git",
     "github",
+    "github-star-histor",
+    "github-trending",
     "machine-learning",
     "recommendations",
+    "recommender-system",
     "repositories",
-    "vector"
+    "star-history"
   ],
-  "star_count": 316,
-  "fork_count": 12,
+  "star_count": 320,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-29T22:45:07Z",
-  "updated_at": "2026-08-15T15:09:09Z",
-  "pushed_at": "2026-08-15T15:06:50Z",
+  "updated_at": "2026-08-16T14:57:44Z",
+  "pushed_at": "2026-08-16T14:30:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -374,6 +377,10 @@
     {
       "date": "2026-08-15",
       "stars": 316
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 320
     }
   ]
 }

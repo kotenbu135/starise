@@ -3,24 +3,30 @@
   "owner": "mobilenativefoundation",
   "name": "store",
   "full_name": "mobilenativefoundation/store",
-  "description": "A Kotlin Multiplatform solution for working with data. Whether you’re building alone or with a team of thousands, Store can help",
-  "description_ja": "データ操作のための Kotlin Multiplatform ソリューション。個人開発から大規模チーム開発まで、Store が役に立ちます",
+  "description": "A library for reading and writing data that lives in network, disk, and memory.",
+  "description_ja": "",
   "url": "https://github.com/MobileNativeFoundation/Store",
   "homepage_url": "https://store.mobilenativefoundation.org",
   "language": "Kotlin",
   "license": "Apache-2.0",
   "topics": [
     "cache",
+    "fetch",
+    "kmp",
+    "kotlin-flow",
     "kotlin-multiplatform",
+    "kotlin-multiplatform-mobile",
+    "kotlin-native",
     "offline-first",
-    "repository"
+    "repository-pattern",
+    "update"
   ],
   "star_count": 3413,
   "fork_count": 216,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-05T18:58:10Z",
-  "updated_at": "2026-08-13T12:19:13Z",
+  "updated_at": "2026-08-16T19:33:45Z",
   "pushed_at": "2026-08-15T12:45:57Z",
   "deleted_at": "",
   "star_history": [
@@ -370,6 +376,10 @@
     },
     {
       "date": "2026-08-15",
+      "stars": 3413
+    },
+    {
+      "date": "2026-08-16",
       "stars": 3413
     }
   ]

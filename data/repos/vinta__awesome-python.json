@@ -3,8 +3,8 @@
   "owner": "vinta",
   "name": "awesome-python",
   "full_name": "vinta/awesome-python",
-  "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
-  "description_ja": "Pythonフレームワーク・ライブラリ・ツール・リソースのこだわりのリスト",
+  "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+  "description_ja": "",
   "url": "https://github.com/vinta/awesome-python",
   "homepage_url": "https://awesome-python.com/",
   "language": "Python",
@@ -17,13 +17,13 @@
     "python-libraries",
     "python-tools"
   ],
-  "star_count": 314136,
-  "fork_count": 28518,
+  "star_count": 314302,
+  "fork_count": 28524,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-06-27T21:00:06Z",
-  "updated_at": "2026-08-15T20:10:17Z",
-  "pushed_at": "2026-08-05T06:11:04Z",
+  "updated_at": "2026-08-16T20:23:33Z",
+  "pushed_at": "2026-08-16T13:31:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -381,6 +381,10 @@
     {
       "date": "2026-08-15",
       "stars": 314136
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 314302
     }
   ]
 }

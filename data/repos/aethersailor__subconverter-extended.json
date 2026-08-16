@@ -3,7 +3,7 @@
   "owner": "aethersailor",
   "name": "subconverter-extended",
   "full_name": "aethersailor/subconverter-extended",
-  "description": "基于 subconverter 二次开发的 Mihomo 专用订阅转换后端增强版。无需由后端拉取远程订阅内容即可完成转换，有效规避订阅源访问受限或屏蔽问题；深度集成 Mihomo 原生解析能力，持续同步上游协议与参数支持，可准确解析各类节点链接，并兼容原版 subconverter 模板。同时提供可视化仪表盘及多项实用扩展功能。",
+  "description": "基于 subconverter 深度演进的多客户端订阅转换后端，重点优化 Mihomo，并持续完善 Surge、Quantumult X、Loon、Surfboard、Stash、Sing-box、Shadowrocket 等目标格式。支持 Mihomo 原生节点解析与 Proxy Provider、客户端原生远程资源、传统订阅及分享链接转换，可减少后端代取订阅造成的地区、出口 IP 和访问策略差异；兼容 subconverter 模板，并提供特色参数、请求诊断、可视化仪表盘、安全档位、出站代理策略、Docker/便携包/OpenWrt 多平台部署及中文 Wiki。长期目标是让用户只需维护转换模板或使用公共模板，再附加订阅链接或节点链接，即可生成适用于不同客户端的配置文件；目前仍在持续完善。",
   "description_ja": "",
   "url": "https://github.com/Aethersailor/SubConverter-Extended",
   "homepage_url": "",
@@ -18,18 +18,19 @@
     "mihomo",
     "openclash",
     "proxy-provider",
+    "stash",
     "subconverter",
     "subscribe",
     "vless",
     "vless-reality"
   ],
-  "star_count": 903,
-  "fork_count": 111,
+  "star_count": 908,
+  "fork_count": 112,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-13T14:44:38Z",
-  "updated_at": "2026-08-15T07:45:23Z",
-  "pushed_at": "2026-08-15T16:28:20Z",
+  "updated_at": "2026-08-16T16:54:36Z",
+  "pushed_at": "2026-08-16T17:17:10Z",
   "deleted_at": "2026-06-12",
   "star_history": [
     {
@@ -239,6 +240,10 @@
     {
       "date": "2026-08-15",
       "stars": 903
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 908
     }
   ]
 }

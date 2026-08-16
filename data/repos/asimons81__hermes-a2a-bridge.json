@@ -3,7 +3,7 @@
   "owner": "asimons81",
   "name": "hermes-a2a-bridge",
   "full_name": "asimons81/hermes-a2a-bridge",
-  "description": "Thin local-first bridge that lets Hermes Agent call other agents (and be one too) — HTTP+JSON, text \u0026 data parts, SSE streaming, durable replay. A2A-shaped, not A2A-conformant. Honest, not incomplete.",
+  "description": "Archived — superseded by built-in Hermes A2A (https://hermes-agent.nousresearch.com/docs/user-guide/messaging/a2a)",
   "description_ja": "",
   "url": "https://github.com/asimons81/hermes-a2a-bridge",
   "homepage_url": "https://github.com/asimons81/hermes-a2a-bridge",
@@ -22,11 +22,11 @@
   ],
   "star_count": 49,
   "fork_count": 6,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2026-06-27T02:40:24Z",
-  "updated_at": "2026-08-10T04:35:35Z",
-  "pushed_at": "2026-08-10T04:35:18Z",
+  "updated_at": "2026-08-16T05:16:26Z",
+  "pushed_at": "2026-08-16T05:12:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +39,10 @@
     },
     {
       "date": "2026-08-15",
+      "stars": 49
+    },
+    {
+      "date": "2026-08-16",
       "stars": 49
     }
   ]
