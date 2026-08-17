@@ -3,7 +3,7 @@
   "owner": "shibing624",
   "name": "agentica",
   "full_name": "shibing624/agentica",
-  "description": "Build AI agents that run for hours, not seconds. Async-first Python harness: auto context-compaction, cost budgets \u0026 death-spiral guards, persistent cross-session memory, self-evolving SKILL.md, /goal long-task loop, 40+ tools, 20+ models, MCP/ACP. Ships a CLI + Web Gateway out of the box.",
+  "description": "One person, a team of agents. Multi-session CLI that collaborates across terminals; /goal keeps long tasks running; WeChat/WeCom/Feishu gateway lets you call them back when you walk away. Async Python SDK, persistent memory, self-evolving skills.",
   "description_ja": "",
   "url": "https://github.com/shibing624/agentica",
   "homepage_url": "https://shibing624.github.io/agentica/",
@@ -24,13 +24,13 @@
     "self-evolving",
     "workflow"
   ],
-  "star_count": 347,
+  "star_count": 349,
   "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-03T12:07:51Z",
-  "updated_at": "2026-08-16T15:05:24Z",
-  "pushed_at": "2026-08-16T15:05:17Z",
+  "updated_at": "2026-08-17T14:03:12Z",
+  "pushed_at": "2026-08-17T14:02:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -348,6 +348,10 @@
     {
       "date": "2026-08-16",
       "stars": 347
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 349
     }
   ]
 }

@@ -3,19 +3,29 @@
   "owner": "ialicebobi",
   "name": "sy-tomato-plugin",
   "full_name": "ialicebobi/sy-tomato-plugin",
-  "description": "",
+  "description": "思源笔记 All-in-One 效率工具箱（开源）：状态栏番茄钟、底部反链、块关系图、思维导线、批注、文档合并、拍照闪记、AI 知识库问答、闪卡增强（优先级/图片挖空/失效清理）等 20+ 功能。",
   "description_ja": "",
   "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "flashcards",
+    "knowledge-management",
+    "pomodoro",
+    "productivity",
+    "siyuan",
+    "siyuan-plugin",
+    "spaced-repetition",
+    "svelte",
+    "typescript"
+  ],
   "star_count": 51,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-07T17:00:28Z",
-  "updated_at": "2026-08-14T15:29:26Z",
+  "updated_at": "2026-08-17T02:17:09Z",
   "pushed_at": "2026-08-14T15:28:11Z",
   "deleted_at": "",
   "star_history": [
@@ -229,6 +239,10 @@
     },
     {
       "date": "2026-08-16",
+      "stars": 51
+    },
+    {
+      "date": "2026-08-17",
       "stars": 51
     }
   ]

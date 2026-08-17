@@ -3,8 +3,8 @@
   "owner": "opentcs",
   "name": "opentcs-commadapter-vda5050",
   "full_name": "opentcs/opentcs-commadapter-vda5050",
-  "description": "An implementation of the VDA5050 interface for openTCS (by Fraunhofer IML)",
-  "description_ja": "openTCS向けVDA5050インターフェースの実装（Fraunhofer IML製）",
+  "description": "ARCHIVED: An implementation of the VDA5050 interface for openTCS (by Fraunhofer IML)",
+  "description_ja": "",
   "url": "https://github.com/openTCS/opentcs-commadapter-vda5050",
   "homepage_url": "https://www.opentcs.org/",
   "language": "Java",
@@ -18,11 +18,11 @@
   ],
   "star_count": 68,
   "fork_count": 20,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2023-03-23T08:43:16Z",
-  "updated_at": "2026-08-11T13:56:10Z",
-  "pushed_at": "2026-08-11T13:54:07Z",
+  "updated_at": "2026-08-17T09:37:58Z",
+  "pushed_at": "2026-08-17T09:36:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -371,6 +371,10 @@
     },
     {
       "date": "2026-08-16",
+      "stars": 68
+    },
+    {
+      "date": "2026-08-17",
       "stars": 68
     }
   ]

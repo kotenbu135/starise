@@ -3,7 +3,7 @@
   "owner": "memoket",
   "name": "memoket-kite",
   "full_name": "memoket/memoket-kite",
-  "description": "Memory engine for AI agents with token-efficient, explainable retrieval beyond vector similarity.",
+  "description": "An open-source, vector-free long-term memory engine for AI agents, achieving SOTA on LoCoMo and LongMemEval with significantly less context.",
   "description_ja": "",
   "url": "https://github.com/memoket/memoket-kite",
   "homepage_url": "https://memoket.ai/",
@@ -20,7 +20,9 @@
     "knowledge-management",
     "llm",
     "llm-memory",
+    "locomo",
     "long-term-memory",
+    "longmemeval",
     "memory",
     "memory-engine",
     "memory-layer",
@@ -29,13 +31,13 @@
     "rag",
     "retrieval"
   ],
-  "star_count": 64,
+  "star_count": 79,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-12T03:19:07Z",
-  "updated_at": "2026-08-16T16:11:15Z",
-  "pushed_at": "2026-08-14T09:23:57Z",
+  "updated_at": "2026-08-17T18:52:57Z",
+  "pushed_at": "2026-08-17T13:15:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +47,10 @@
     {
       "date": "2026-08-16",
       "stars": 64
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 79
     }
   ]
 }

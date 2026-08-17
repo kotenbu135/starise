@@ -3,7 +3,7 @@
   "owner": "dunkbing",
   "name": "dearsql",
   "full_name": "dunkbing/dearsql",
-  "description": "A simple, cross-platform database client built with C++ and ImGui",
+  "description": "A fast, minimal, cross-platform database client built with C++ and ImGui",
   "description_ja": "",
   "url": "https://github.com/dunkbing/dearsql",
   "homepage_url": "https://dearsql.dev",
@@ -15,12 +15,12 @@
     "imgui",
     "sql"
   ],
-  "star_count": 162,
+  "star_count": 163,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-27T07:17:43Z",
-  "updated_at": "2026-08-16T06:05:38Z",
+  "updated_at": "2026-08-17T04:17:37Z",
   "pushed_at": "2026-08-12T17:21:35Z",
   "deleted_at": "",
   "star_history": [
@@ -359,6 +359,10 @@
     {
       "date": "2026-08-16",
       "stars": 162
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 163
     }
   ]
 }

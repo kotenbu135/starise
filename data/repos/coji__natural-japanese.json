@@ -3,7 +3,7 @@
   "owner": "coji",
   "name": "natural-japanese",
   "full_name": "coji/natural-japanese",
-  "description": "仕事の日本語文書を読みやすくわかりやすく書く・直す Agent Skill。議事録・調査レポート・社内ガイド・リサーチメモ・スライド構成に対応し、AI臭さの除去も工程に含む。sudachipy 形態素解析による機械検出付き。",
+  "description": "仕事の日本語を、読みやすくわかりやすく書く・直すための Agent Skill です。",
   "description_ja": "",
   "url": "https://github.com/coji/natural-japanese",
   "homepage_url": "",
@@ -19,13 +19,13 @@
     "sudachipy",
     "writing"
   ],
-  "star_count": 175,
+  "star_count": 370,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-12T05:54:55Z",
-  "updated_at": "2026-08-16T18:58:52Z",
-  "pushed_at": "2026-08-16T07:54:58Z",
+  "updated_at": "2026-08-17T17:58:33Z",
+  "pushed_at": "2026-08-17T00:56:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +103,10 @@
     {
       "date": "2026-08-16",
       "stars": 175
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 370
     }
   ]
 }

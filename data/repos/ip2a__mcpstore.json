@@ -3,14 +3,13 @@
   "owner": "ip2a",
   "name": "mcpstore",
   "full_name": "ip2a/mcpstore",
-  "description": "开盒即用的优雅管理mcp服务 | 结合Agent框架 | 作者听劝 | 已发布pypi | Vue页面demo ",
-  "description_ja": "すぐに使えるエレガントなMCPサービス管理ツール。Agentフレームワーク連携対応、PyPIリリース済み、Vue画面デモあり。",
+  "description": "Elegantly manage your MCP services",
+  "description_ja": "",
   "url": "https://github.com/ip2a/mcpstore",
-  "homepage_url": "https://doc.mcpstore.wiki/",
+  "homepage_url": "https://ip2a.github.io/mcpstore/",
   "language": "Rust",
   "license": "MIT",
   "topics": [
-    "fastmcp",
     "mcp",
     "mcp-client",
     "mcp-host",
@@ -22,16 +21,15 @@
     "mcp-use",
     "mcpserver",
     "mcpstore",
-    "python",
-    "vue"
+    "python"
   ],
   "star_count": 436,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-10T16:06:23Z",
-  "updated_at": "2026-08-05T23:14:35Z",
-  "pushed_at": "2026-08-05T08:38:58Z",
+  "updated_at": "2026-08-17T10:35:11Z",
+  "pushed_at": "2026-08-17T10:33:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -64,6 +62,10 @@
     },
     {
       "date": "2026-08-16",
+      "stars": 436
+    },
+    {
+      "date": "2026-08-17",
       "stars": 436
     }
   ]

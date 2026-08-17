@@ -3,20 +3,20 @@
   "owner": "aeon-7",
   "name": "vllm-ultimate-dgx-spark",
   "full_name": "aeon-7/vllm-ultimate-dgx-spark",
-  "description": "AEON vLLM Ultimate — vLLM 0.25.0 built from source for DGX Spark / Blackwell (sm_121a/GB10). One image serves the whole AEON fleet (Gemma-4-26B-A4B, Qwen3.6-27B, Qwen3.6-35B-A3B) with DFlash spec-decode on a pinned V1 runner, Triton NVFP4-KV, FP8 KV, NVFP4 swizzled-scale decode fix, FlashInfer 0.6.13, TP=2-ready.",
+  "description": "AEON vLLM Ultimate — vLLM 0.27.1 built from source for DGX Spark / Blackwell (sm_121a/GB10). DSpark quantized Markov heads, DFlash SWA on MRv2, Triton NVFP4-KV (NHD-safe), NVFP4_AWQ, torch 2.13 + FlashInfer 0.6.16 trio, NCCL 2.30.7, TP=2-ready. One image serves the whole AEON fleet.",
   "description_ja": "",
   "url": "https://github.com/AEON-7/vllm-ultimate-dgx-spark",
   "homepage_url": "https://github.com/AEON-7/vllm-ultimate-dgx-spark/pkgs/container/aeon-vllm-ultimate",
   "language": "Python",
   "license": "",
   "topics": [],
-  "star_count": 108,
+  "star_count": 116,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-05T05:07:43Z",
-  "updated_at": "2026-08-16T07:50:52Z",
-  "pushed_at": "2026-08-13T02:37:45Z",
+  "updated_at": "2026-08-17T13:23:08Z",
+  "pushed_at": "2026-08-17T01:52:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -150,6 +150,10 @@
     {
       "date": "2026-08-16",
       "stars": 108
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 116
     }
   ]
 }

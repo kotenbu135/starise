@@ -3,13 +3,14 @@
   "owner": "bionic-gpt",
   "name": "bionic-gpt",
   "full_name": "bionic-gpt/bionic-gpt",
-  "description": "Bionic is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality",
-  "description_ja": "BionicはChatGPTのオンプレミス代替製品で、厳格なデータ機密性を維持しながら生成AIの利点を提供します。",
+  "description": "Bionic is sovereign AI for the enterprise — ChatGPT-like AI that runs on-premise and can securely work with your sensitive data and systems.",
+  "description_ja": "",
   "url": "https://github.com/bionic-gpt/bionic-gpt",
   "homepage_url": "https://bionic-gpt.com",
   "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
+    "agentic-ai",
     "architecture",
     "full-stack",
     "llmops",
@@ -21,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-07T07:45:24Z",
-  "updated_at": "2026-08-14T07:43:47Z",
-  "pushed_at": "2026-08-03T12:06:17Z",
+  "updated_at": "2026-08-17T13:20:48Z",
+  "pushed_at": "2026-08-17T13:16:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -375,6 +376,10 @@
     },
     {
       "date": "2026-08-16",
+      "stars": 2351
+    },
+    {
+      "date": "2026-08-17",
       "stars": 2351
     }
   ]

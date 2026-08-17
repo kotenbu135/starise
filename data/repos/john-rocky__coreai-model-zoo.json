@@ -3,7 +3,7 @@
   "owner": "john-rocky",
   "name": "coreai-model-zoo",
   "full_name": "john-rocky/coreai-model-zoo",
-  "description": "Community model zoo for Apple Core AI (iOS/macOS 27): 57 models — LLM, VLM, OCR, ASR, TTS, image/video/music gen, forecasting — each gated against its source model and shipped with the recipe that produced it. Downloadable from Hugging Face, runnable in one line of Swift via CoreAIKit. Plus benchmarks, Metal kernels, knowledge base.",
+  "description": "Community model zoo for Apple Core AI (iOS/macOS 27): 62 models — LLM, VLM, OCR, ASR, TTS, image/video/music gen, forecasting — each gated against its source model and shipped with the recipe that produced it. Downloadable from Hugging Face, runnable in one line of Swift via CoreAIKit. Plus benchmarks, Metal kernels, knowledge base.",
   "description_ja": "",
   "url": "https://github.com/john-rocky/coreai-model-zoo",
   "homepage_url": "https://john-rocky.github.io/coreai-model-zoo/",
@@ -30,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-10T05:21:10Z",
-  "updated_at": "2026-08-16T19:06:03Z",
-  "pushed_at": "2026-08-16T19:05:30Z",
+  "updated_at": "2026-08-17T15:26:16Z",
+  "pushed_at": "2026-08-17T15:26:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -188,6 +188,10 @@
     },
     {
       "date": "2026-08-16",
+      "stars": 386
+    },
+    {
+      "date": "2026-08-17",
       "stars": 386
     }
   ]

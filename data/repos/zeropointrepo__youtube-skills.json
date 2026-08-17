@@ -3,7 +3,7 @@
   "owner": "zeropointrepo",
   "name": "youtube-skills",
   "full_name": "zeropointrepo/youtube-skills",
-  "description": "YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw, Hermes-Agent, Claude Code, Cursor, Windsurf.",
+  "description": "YouTube Transcript API skills for AI agents. Get transcripts, search videos, browse channels. Works with OpenClaw, Hermes Agent, and other agent runtimes.",
   "description_ja": "",
   "url": "https://github.com/ZeroPointRepo/youtube-skills",
   "homepage_url": "https://transcriptapi.com",
@@ -17,12 +17,12 @@
     "youtube-search",
     "youtube-transcript"
   ],
-  "star_count": 519,
+  "star_count": 525,
   "fork_count": 54,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-01T14:25:01Z",
-  "updated_at": "2026-08-16T12:37:48Z",
+  "updated_at": "2026-08-17T19:22:46Z",
   "pushed_at": "2026-08-12T13:21:43Z",
   "deleted_at": "",
   "star_history": [
@@ -173,6 +173,10 @@
     {
       "date": "2026-08-16",
       "stars": 519
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 525
     }
   ]
 }

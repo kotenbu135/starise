@@ -3,20 +3,29 @@
   "owner": "azurplain",
   "name": "mini-window-browser",
   "full_name": "azurplain/mini-window-browser",
-  "description": "专为单屏玩家打造的 Windows 画中画浏览器。核心功能：【沉浸式挖孔/鼠标穿透】挂机不挡操作、【场景预设】一键切换窗口布局、老板键及书签管理。基于 C++ / WebView2 开发。主要用于一个屏幕肝地图，您也可以用到其他方便的合法用途。",
-  "description_ja": "シングルモニター向けの Windows ピクチャーインピクチャーブラウザ。主な機能：【没入型くり抜き/マウス透過】作業を妨げないながら見、【シーンプリセット】ワンクリックでウィンドウレイアウト切り替え、ボスキーおよびブックマーク管理。C++ / WebView2 ベース。主にシングルスクリーンでマップを見ながらのプレイ用ですが、他の合法的な用途にも活用できます。",
+  "description": "专为单屏玩家打造的 Windows 画中画浏览器：沉浸挖孔、鼠标穿透、场景预设、全局媒体热键与多标签。基于 C++20 / Win32 / WebView2。",
+  "description_ja": "",
   "url": "https://github.com/azurplain/Mini-Window-Browser",
   "homepage_url": "",
   "language": "C++",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 62,
+  "topics": [
+    "browser",
+    "cpp",
+    "gaming",
+    "overlay",
+    "picture-in-picture",
+    "webview2",
+    "win32",
+    "windows"
+  ],
+  "star_count": 63,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-28T10:31:24Z",
-  "updated_at": "2026-08-16T03:23:21Z",
-  "pushed_at": "2026-03-06T09:01:42Z",
+  "updated_at": "2026-08-17T07:37:12Z",
+  "pushed_at": "2026-08-17T07:17:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -370,6 +379,10 @@
     {
       "date": "2026-08-16",
       "stars": 62
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 63
     }
   ]
 }

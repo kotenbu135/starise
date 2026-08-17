@@ -3,20 +3,31 @@
   "owner": "immortal71",
   "name": "openoncology",
   "full_name": "immortal71/openoncology",
-  "description": "This is opensource project which help u to make personalized drug for your own cancer treatment after analyzing dna and cancer biopsy -which is better than general one ,ever felt rich people spend millions to take personalize treatment to fight  cancer and u cant afford shit more than general chemo therapy ,I was there too so i made this ..enjoy!!!",
+  "description": "Open-source precision oncology platform that ranks FDA-approved and repurposing drug candidates from a patient's variant profile using OncoKB, AlphaMissense, OpenTargets and ChEMBL evidence. Blinded 50-case oncologist holdout: Hit@3 0.900, zero false positives.",
   "description_ja": "",
   "url": "https://github.com/immortal71/openoncology",
   "homepage_url": "",
   "language": "Python",
-  "license": "",
-  "topics": [],
+  "license": "MIT",
+  "topics": [
+    "bioinformatics",
+    "cancer-research",
+    "computational-biology",
+    "drug-repurposing",
+    "fastapi",
+    "genomics",
+    "machine-learning",
+    "open-science",
+    "precision-oncology",
+    "python"
+  ],
   "star_count": 69,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-20T00:56:41Z",
-  "updated_at": "2026-08-13T17:15:13Z",
-  "pushed_at": "2026-08-13T17:14:08Z",
+  "updated_at": "2026-08-17T16:46:32Z",
+  "pushed_at": "2026-08-17T16:44:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -333,6 +344,10 @@
     },
     {
       "date": "2026-08-16",
+      "stars": 69
+    },
+    {
+      "date": "2026-08-17",
       "stars": 69
     }
   ]

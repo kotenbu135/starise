@@ -9,13 +9,26 @@
   "homepage_url": "https://oncologylab.github.io/craftgrn/",
   "language": "R",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 221,
+  "topics": [
+    "atac-seq",
+    "bioinformatics",
+    "chromatin-accessibility",
+    "computational-biology",
+    "gene-regulation",
+    "gene-regulation-networks",
+    "multiomics",
+    "network-inference",
+    "regulatory-genomics",
+    "rna-seq",
+    "topic-modeling",
+    "transcription-factors"
+  ],
+  "star_count": 227,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-30T21:10:03Z",
-  "updated_at": "2026-08-16T19:48:07Z",
+  "updated_at": "2026-08-17T18:37:47Z",
   "pushed_at": "2026-08-13T12:31:12Z",
   "deleted_at": "",
   "star_history": [
@@ -54,6 +67,10 @@
     {
       "date": "2026-08-16",
       "stars": 221
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 227
     }
   ]
 }

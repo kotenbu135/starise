@@ -3,17 +3,16 @@
   "owner": "cloudinary",
   "name": "cloudinary_npm",
   "full_name": "cloudinary/cloudinary_npm",
-  "description": "Cloudinary NPM for node.js integration",
-  "description_ja": "node.js統合用のCloudinary NPM",
+  "description": "Upload, transform, optimize, and manage images and videos with Cloudinary from Node.js.",
+  "description_ja": "",
   "url": "https://github.com/cloudinary/cloudinary_npm",
-  "homepage_url": "",
+  "homepage_url": "https://cloudinary.com/documentation/node_integration",
   "language": "JavaScript",
   "license": "",
   "topics": [
     "cdn",
     "cloud",
     "cloudinary-sdk",
-    "hacktoberfest",
     "image-compression",
     "image-manipulation",
     "image-transformations",
@@ -22,6 +21,7 @@
     "npm-package",
     "optimize-images",
     "responsive-images",
+    "sdk",
     "transform-images",
     "video",
     "video-transcoding",
@@ -30,13 +30,13 @@
     "web-development",
     "web-optimization"
   ],
-  "star_count": 667,
+  "star_count": 666,
   "fork_count": 319,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-06-22T08:20:27Z",
-  "updated_at": "2026-08-07T10:35:20Z",
-  "pushed_at": "2026-07-02T21:26:44Z",
+  "updated_at": "2026-08-17T11:16:37Z",
+  "pushed_at": "2026-08-17T13:14:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -390,6 +390,10 @@
     {
       "date": "2026-08-16",
       "stars": 667
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 666
     }
   ]
 }

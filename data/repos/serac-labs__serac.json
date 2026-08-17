@@ -3,34 +3,31 @@
   "owner": "serac-labs",
   "name": "serac",
   "full_name": "serac-labs/serac",
-  "description": "Serac — open-source AI build agent for ServiceNow. 400+ MCP tools, bring-your-own LLM keys (Claude/GPT/Gemini/Ollama). Read a story, ship the update set.",
+  "description": "A ServiceNow MCP server, and the skill guides that teach an agent to use it. 400+ snow_* tools over stdio or streamable HTTP, loaded on demand so the catalog fits a context window, plus blast-radius impact analysis. 57 ServiceNow SKILL.md guides. Works with any MCP client; on npm as @serac-labs/servicenow-mcp.",
   "description_ja": "",
   "url": "https://github.com/serac-labs/serac",
   "homepage_url": "https://serac.build",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
+    "agent-skills",
     "ai",
-    "ai-agent",
-    "bring-your-own-key",
-    "cli",
     "developer-tools",
     "llm",
     "mcp",
+    "mcp-server",
     "model-context-protocol",
-    "opencode",
     "servicenow",
     "servicenow-development",
-    "typescript",
-    "update-set"
+    "typescript"
   ],
   "star_count": 78,
   "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-16T06:50:17Z",
-  "updated_at": "2026-08-16T11:25:06Z",
-  "pushed_at": "2026-08-16T11:24:51Z",
+  "updated_at": "2026-08-17T08:58:08Z",
+  "pushed_at": "2026-08-17T08:56:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +380,10 @@
     },
     {
       "date": "2026-08-16",
+      "stars": 78
+    },
+    {
+      "date": "2026-08-17",
       "stars": 78
     }
   ]

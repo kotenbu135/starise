@@ -3,7 +3,7 @@
   "owner": "mochow13",
   "name": "keen-code",
   "full_name": "mochow13/keen-code",
-  "description": "A context-aware terminal coding agent written in Go. Supports multiple-providers, MCPs, Subagents, Agent Skills, controllable tool output retention, and more.",
+  "description": "A context-aware terminal-based coding agent written in Go. Supports multiple-providers, MCPs, Subagents, Agent Skills, controllable tool output retention, hashline edits, and more.",
   "description_ja": "",
   "url": "https://github.com/mochow13/keen-code",
   "homepage_url": "https://mochow13.github.io/keen-code/",
@@ -12,18 +12,24 @@
   "topics": [
     "agentic-ai",
     "ai-agent",
+    "ai-agents",
     "ai-assistant",
+    "ai-coding",
     "ai-coding-agent",
     "ai-coding-tool",
-    "coding-assistant"
+    "ai-tools",
+    "coding-agent",
+    "coding-assistant",
+    "terminal-based",
+    "terminal-ui"
   ],
   "star_count": 59,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-16T00:49:00Z",
-  "updated_at": "2026-08-15T10:57:12Z",
-  "pushed_at": "2026-08-13T21:54:27Z",
+  "updated_at": "2026-08-16T22:32:19Z",
+  "pushed_at": "2026-08-16T22:32:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -240,6 +246,10 @@
     },
     {
       "date": "2026-08-16",
+      "stars": 59
+    },
+    {
+      "date": "2026-08-17",
       "stars": 59
     }
   ]

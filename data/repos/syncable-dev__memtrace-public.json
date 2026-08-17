@@ -3,7 +3,7 @@
   "owner": "syncable-dev",
   "name": "memtrace-public",
   "full_name": "syncable-dev/memtrace-public",
-  "description": "Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · Hermes · VS Code · Windsurf.",
+  "description": "Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf.",
   "description_ja": "",
   "url": "https://github.com/syncable-dev/memtrace-public",
   "homepage_url": "https://memtrace.io",
@@ -18,26 +18,26 @@
     "code-search",
     "coding-agents",
     "cursor",
-    "developer-tools",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
     "knowledge-graph",
-    "llm",
     "local-first",
     "mcp",
     "mcp-server",
-    "rag",
     "rust",
     "semantic-search",
     "structural-memory",
     "temporal-analysis",
     "tree-sitter"
   ],
-  "star_count": 452,
+  "star_count": 454,
   "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-11T11:49:55Z",
-  "updated_at": "2026-08-16T17:13:32Z",
-  "pushed_at": "2026-08-13T12:44:13Z",
+  "updated_at": "2026-08-17T14:44:58Z",
+  "pushed_at": "2026-08-17T07:08:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -367,6 +367,10 @@
     {
       "date": "2026-08-16",
       "stars": 452
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 454
     }
   ]
 }

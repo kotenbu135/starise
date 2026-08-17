@@ -3,8 +3,8 @@
   "owner": "tencent",
   "name": "ai-infra-guard",
   "full_name": "tencent/ai-infra-guard",
-  "description": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-  "description_ja": "OpenClaw Security Scan・Agent Scan・Skills Scan・MCP scan・AI Infra scan・LLMジェイルブレーク評価によってAIエコシステムを保護するフルスタックAIレッドチーミングプラットフォーム",
+  "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+  "description_ja": "",
   "url": "https://github.com/Tencent/AI-Infra-Guard",
   "homepage_url": "https://tencent.github.io/AI-Infra-Guard/",
   "language": "Python",
@@ -31,12 +31,12 @@
     "vulnerability"
   ],
   "star_count": 4513,
-  "fork_count": 446,
+  "fork_count": 447,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-25T06:39:30Z",
-  "updated_at": "2026-08-16T16:05:47Z",
-  "pushed_at": "2026-08-12T02:23:40Z",
+  "updated_at": "2026-08-17T19:41:35Z",
+  "pushed_at": "2026-08-17T09:25:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -389,6 +389,10 @@
     },
     {
       "date": "2026-08-16",
+      "stars": 4513
+    },
+    {
+      "date": "2026-08-17",
       "stars": 4513
     }
   ]

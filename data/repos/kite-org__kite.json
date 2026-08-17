@@ -6,7 +6,7 @@
   "description": "🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not just a tool, but more like a platform.",
   "description_ja": "マルチクラスター・リソース管理、エンタープライズグレードのユーザーガバナンス（OAuth、RBAC、監査ログ）、AIエージェントを一つのワークスペースに統合した軽量でモダンなKubernetesダッシュボード。単なるツールではなく、プラットフォームに近い存在。",
   "url": "https://github.com/kite-org/kite",
-  "homepage_url": "https://kite-demo.zzde.me",
+  "homepage_url": "https://kite.zzde.me",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
@@ -20,12 +20,12 @@
     "multi-cluster",
     "prometheus"
   ],
-  "star_count": 3017,
-  "fork_count": 289,
+  "star_count": 3042,
+  "fork_count": 293,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-17T12:12:15Z",
-  "updated_at": "2026-08-16T02:23:10Z",
+  "updated_at": "2026-08-17T19:05:17Z",
   "pushed_at": "2026-08-15T10:11:05Z",
   "deleted_at": "",
   "star_history": [
@@ -380,6 +380,10 @@
     {
       "date": "2026-08-16",
       "stars": 3017
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 3042
     }
   ]
 }

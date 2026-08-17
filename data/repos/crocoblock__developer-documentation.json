@@ -3,20 +3,32 @@
   "owner": "crocoblock",
   "name": "developer-documentation",
   "full_name": "crocoblock/developer-documentation",
-  "description": "",
+  "description": " Official developer documentation for JetEngine, JetSmartFilters, JetFormBuilder \u0026 Crocoblock plugins — PHP hooks \u0026 filters, macros, Query Builder API, CCT API, code examples.",
   "description_ja": "",
   "url": "https://github.com/Crocoblock/developer-documentation",
-  "homepage_url": "",
+  "homepage_url": "https://crocoblock.com",
   "language": "JavaScript",
   "license": "",
-  "topics": [],
+  "topics": [
+    "bricks",
+    "custom-fields",
+    "custom-post-types",
+    "elementor",
+    "gutenberg",
+    "gutenberg-blocks",
+    "jet-engine",
+    "jet-smart-filters",
+    "wordpress",
+    "wordpress-development",
+    "wordpress-plugin"
+  ],
   "star_count": 30,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-09T08:53:40Z",
-  "updated_at": "2026-06-20T04:37:35Z",
-  "pushed_at": "2026-03-23T08:34:53Z",
+  "updated_at": "2026-08-17T08:57:16Z",
+  "pushed_at": "2026-08-17T08:56:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -221,6 +233,10 @@
     },
     {
       "date": "2026-08-16",
+      "stars": 30
+    },
+    {
+      "date": "2026-08-17",
       "stars": 30
     }
   ]

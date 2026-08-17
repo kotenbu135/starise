@@ -3,7 +3,7 @@
   "owner": "6v17",
   "name": "videoseek",
   "full_name": "6v17/videoseek",
-  "description": "A local-first desktop application for semantic video retrieval, enabling multimodal querying via natural-language text or reference images. ",
+  "description": "Local-first semantic video search: text \u0026 image queries, subtitle OCR, preview/export, optional LAN sharing.",
   "description_ja": "",
   "url": "https://github.com/6v17/VideoSeek",
   "homepage_url": "https://www.lv17.top/",
@@ -19,12 +19,12 @@
     "siglip2",
     "sqlite"
   ],
-  "star_count": 57,
+  "star_count": 59,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-14T12:02:24Z",
-  "updated_at": "2026-08-16T06:47:58Z",
+  "updated_at": "2026-08-17T11:45:58Z",
   "pushed_at": "2026-08-16T06:47:35Z",
   "deleted_at": "",
   "star_history": [
@@ -279,6 +279,10 @@
     {
       "date": "2026-08-16",
       "stars": 57
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 59
     }
   ]
 }
