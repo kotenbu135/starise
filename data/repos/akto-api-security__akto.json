@@ -3,38 +3,31 @@
   "owner": "akto-api-security",
   "name": "akto",
   "full_name": "akto-api-security/akto",
-  "description": "Proactive, Open source API security → API discovery, API Security Posture, Testing in CI/CD, Test Library with 1000+ Tests, Add custom tests, Sensitive data exposure",
-  "description_ja": "プロアクティブなオープンソースAPIセキュリティ → APIディスカバリ、APIセキュリティポスチャ、CI/CDでのテスト、1000以上のテストを備えるテストライブラリ、カスタムテスト追加、機密データ露出検出",
+  "description": "Akto is the fastest growing AI Security platform for your teams to secure AI agents, MCPs, LLMs, Agent skills, Gen AI apps in your organization.",
+  "description_ja": "",
   "url": "https://github.com/akto-api-security/akto",
   "homepage_url": "https://www.akto.io/",
   "language": "Java",
   "license": "MIT",
   "topics": [
-    "api-discovery",
-    "api-security",
-    "api-security-posture",
-    "api-security-testing",
-    "api-testing",
-    "authentication",
-    "authorization",
-    "devsecops",
-    "devsecops-pipeline",
-    "hacktoberfest",
-    "hacktoberfest2023",
-    "idor",
-    "owasp-top-10",
-    "security",
-    "security-testing",
-    "sensitive-data-exposure",
-    "threat-detection"
+    "ai-security",
+    "ai-security-governance",
+    "ai-security-prompt-injection-llm-security",
+    "ai-security-testing",
+    "ai-security-tool",
+    "guardrails",
+    "owasp-agentic-top-10",
+    "owasp-llm-top-10",
+    "owasp-mcp-top-10",
+    "red-teaming"
   ],
-  "star_count": 1504,
-  "fork_count": 289,
+  "star_count": 1503,
+  "fork_count": 290,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-31T09:07:07Z",
-  "updated_at": "2026-08-17T10:04:22Z",
-  "pushed_at": "2026-08-17T16:57:30Z",
+  "updated_at": "2026-08-20T13:32:18Z",
+  "pushed_at": "2026-08-20T18:02:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -388,6 +381,10 @@
     {
       "date": "2026-08-17",
       "stars": 1504
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 1503
     }
   ]
 }

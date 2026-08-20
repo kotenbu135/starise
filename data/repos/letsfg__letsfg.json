@@ -3,10 +3,10 @@
   "owner": "letsfg",
   "name": "letsfg",
   "full_name": "letsfg/letsfg",
-  "description": "Agent-native flight \u0026 hotel search and booking — MCP server, CLI, and Python/JS SDKs. Hundreds of airlines plus the major booking sites, with per-flight reliability history. Bookable hotel rates with free cancellation, pay-later terms, and a 10% reservation fee.",
+  "description": "Agent-native flight \u0026 hotel search and booking — MCP server, CLI, and Python/JS SDKs. Hundreds of airlines plus the major booking sites, with per-flight reliability history. Free-cancellation hotel rates: hold the room with a small upfront charge, then pay the balance later by link, up to the hotel's own deadline.",
   "description_ja": "",
   "url": "https://github.com/LetsFG/LetsFG",
-  "homepage_url": "https://letsfg.co/en",
+  "homepage_url": "https://letsfg.co",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
@@ -29,13 +29,13 @@
     "travel-api",
     "typescript-sdk"
   ],
-  "star_count": 1739,
-  "fork_count": 108,
+  "star_count": 1757,
+  "fork_count": 117,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T11:17:50Z",
-  "updated_at": "2026-08-17T17:23:27Z",
-  "pushed_at": "2026-08-17T14:41:10Z",
+  "updated_at": "2026-08-20T18:45:47Z",
+  "pushed_at": "2026-08-18T14:01:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -393,6 +393,10 @@
     {
       "date": "2026-08-17",
       "stars": 1739
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 1757
     }
   ]
 }

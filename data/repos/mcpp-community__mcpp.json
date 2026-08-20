@@ -6,7 +6,7 @@
   "description": "A modern C++ module-first build tool — written in pure C++23 modules, fully self-hosted / 一个 现代C++ 模块化构建工具 — 纯 C++23 模块编写(已实现自举) ",
   "description_ja": "",
   "url": "https://github.com/mcpp-community/mcpp",
-  "homepage_url": "",
+  "homepage_url": "https://mcpplibs.github.io/mcpp-index",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [
@@ -16,13 +16,13 @@
     "mcpp",
     "toolchain"
   ],
-  "star_count": 105,
+  "star_count": 108,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-06T04:16:35Z",
-  "updated_at": "2026-08-17T12:04:09Z",
-  "pushed_at": "2026-08-17T19:28:15Z",
+  "updated_at": "2026-08-20T19:38:20Z",
+  "pushed_at": "2026-08-20T19:29:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -188,6 +188,10 @@
     {
       "date": "2026-08-17",
       "stars": 105
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 108
     }
   ]
 }

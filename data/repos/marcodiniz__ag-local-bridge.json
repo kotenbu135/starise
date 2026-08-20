@@ -3,20 +3,31 @@
   "owner": "marcodiniz",
   "name": "ag-local-bridge",
   "full_name": "marcodiniz/ag-local-bridge",
-  "description": "OpenAI-compatible API bridge for Antigravity — use Claude, Gemini, and GPT-OSS with any tool",
+  "description": "Local OpenAI, Anthropic \u0026 Gemini API bridge for Antigravity — use Claude Sonnet/Opus 4.6, Gemini 3.7/3.6/3.5, and GPT-OSS with opencode, Claude Code, Cline \u0026 more",
   "description_ja": "",
   "url": "https://github.com/marcodiniz/ag-local-bridge",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "anthropic",
+    "antigravity",
+    "claude-3-7-sonnet",
+    "claude-code",
+    "gemini",
+    "gemini-flash",
+    "llm-bridge",
+    "open-vsx",
+    "openai",
+    "opencode"
+  ],
   "star_count": 49,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T17:12:53Z",
-  "updated_at": "2026-08-09T22:42:42Z",
-  "pushed_at": "2026-05-19T18:40:12Z",
+  "updated_at": "2026-08-19T10:15:47Z",
+  "pushed_at": "2026-08-19T10:15:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -29,6 +40,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 49
+    },
+    {
+      "date": "2026-08-20",
       "stars": 49
     }
   ]

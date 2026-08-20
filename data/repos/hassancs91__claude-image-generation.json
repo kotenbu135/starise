@@ -3,20 +3,31 @@
   "owner": "hassancs91",
   "name": "claude-image-generation",
   "full_name": "hassancs91/claude-image-generation",
-  "description": "",
+  "description": "Connect Claude to image generation with Agent Skills. Three levels: a zero-cost code-based design engine, a Three.js 3D renderer, and a real diffusion model on Cloudflare. Plus an AI Storybook pipeline that turns a plain-English story into an illustrated, narrated HTML book.",
   "description_ja": "",
   "url": "https://github.com/hassancs91/claude-image-generation",
-  "homepage_url": "",
+  "homepage_url": "https://learnwithhasan.com/guide/claude-code-images-no-ai-model/",
   "language": "HTML",
   "license": "MIT",
-  "topics": [],
-  "star_count": 77,
+  "topics": [
+    "agent-skills",
+    "ai-images",
+    "claude",
+    "claude-code",
+    "cloudflare-workers",
+    "diffusion-models",
+    "flux",
+    "image-generation",
+    "storybook",
+    "threejs"
+  ],
+  "star_count": 79,
   "fork_count": 55,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-09T09:39:30Z",
-  "updated_at": "2026-08-13T06:13:07Z",
-  "pushed_at": "2026-07-09T14:30:15Z",
+  "updated_at": "2026-08-19T23:30:45Z",
+  "pushed_at": "2026-08-18T10:37:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +109,10 @@
     {
       "date": "2026-08-17",
       "stars": 77
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 79
     }
   ]
 }

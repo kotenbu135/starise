@@ -6,7 +6,7 @@
   "description": "Simulate dynamic systems expressed in block diagram form using Python",
   "description_ja": "Python を使ってブロック線図形式で記述された動的システムをシミュレートする",
   "url": "https://github.com/petercorke/bdsim",
-  "homepage_url": "",
+  "homepage_url": "https://petercorke.github.io/bdsim/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -19,13 +19,13 @@
     "robotics",
     "simulation"
   ],
-  "star_count": 265,
-  "fork_count": 38,
+  "star_count": 267,
+  "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-23T23:52:35Z",
-  "updated_at": "2026-08-17T10:31:30Z",
-  "pushed_at": "2026-08-17T10:31:34Z",
+  "updated_at": "2026-08-19T23:10:15Z",
+  "pushed_at": "2026-08-20T05:43:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -379,6 +379,10 @@
     {
       "date": "2026-08-17",
       "stars": 265
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 267
     }
   ]
 }

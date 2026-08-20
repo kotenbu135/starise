@@ -3,39 +3,32 @@
   "owner": "hmbown",
   "name": "codewhale",
   "full_name": "hmbown/codewhale",
-  "description": "Open-source, community-driven agent harness",
+  "description": "Open-source coding agent for your terminal, built in Rust and on a journey of continuous community improvement. Issues and PRs welcome.",
   "description_ja": "",
   "url": "https://github.com/Hmbown/CodeWhale",
   "homepage_url": "https://codewhale.net/",
   "language": "Rust",
   "license": "MIT",
   "topics": [
-    "ai",
+    "agent-orchestration",
     "ai-agent",
-    "alibaba-cloud",
-    "anthropic",
     "cli",
     "coding-agent",
-    "deepseek",
-    "deepseek-harness",
-    "dsh",
-    "grok",
-    "harness",
-    "kimi",
-    "llm",
-    "openai",
-    "qwen",
+    "local-first",
+    "mcp",
+    "multi-agent",
+    "multi-model",
+    "open-source",
     "rust",
-    "terminal",
     "tui"
   ],
-  "star_count": 40826,
-  "fork_count": 3531,
+  "star_count": 40831,
+  "fork_count": 3533,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-19T18:21:01Z",
-  "updated_at": "2026-08-17T19:11:48Z",
-  "pushed_at": "2026-08-17T15:52:05Z",
+  "updated_at": "2026-08-20T18:11:44Z",
+  "pushed_at": "2026-08-20T16:23:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -373,6 +366,10 @@
     {
       "date": "2026-08-17",
       "stars": 40826
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 40831
     }
   ]
 }

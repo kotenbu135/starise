@@ -3,20 +3,33 @@
   "owner": "koroqe",
   "name": "claude-code-sdlc",
   "full_name": "koroqe/claude-code-sdlc",
-  "description": "Turn Claude Code into a full dev team — 13 AI agents, documentation-first pipeline, TDD enforcement",
+  "description": "Turn Claude Code into an autonomous software development team — 15 specialized agents, documentation-first pipeline, TDD slices in parallel waves, and 9 quality gates.",
   "description_ja": "",
   "url": "https://github.com/Koroqe/claude-code-sdlc",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/Koroqe/claude-code-sdlc",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 50,
-  "fork_count": 3,
+  "topics": [
+    "ai-agents",
+    "anthropic",
+    "automation",
+    "claude",
+    "claude-code",
+    "code-review",
+    "developer-tools",
+    "devtools",
+    "plugin",
+    "quality-gates",
+    "sdlc",
+    "tdd"
+  ],
+  "star_count": 51,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-13T14:56:30Z",
-  "updated_at": "2026-08-17T11:49:52Z",
-  "pushed_at": "2026-08-17T11:48:24Z",
+  "updated_at": "2026-08-20T17:39:10Z",
+  "pushed_at": "2026-08-20T17:34:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +91,10 @@
     {
       "date": "2026-08-17",
       "stars": 50
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 51
     }
   ]
 }

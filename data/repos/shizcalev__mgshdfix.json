@@ -3,25 +3,33 @@
   "owner": "shizcalev",
   "name": "mgshdfix",
   "full_name": "shizcalev/mgshdfix",
-  "description": "A fix that adds custom resolutions, ultrawide support and much more to the Metal Gear Solid Master Collection.",
-  "description_ja": "Metal Gear Solid マスターコレクションにカスタム解像度やウルトラワイド対応などを追加するパッチ",
+  "description": "A fix that restores broken visual effects, adds custom resolutions, and much more to the Metal Gear Solid Master Collection.",
+  "description_ja": "",
   "url": "https://github.com/ShizCalev/MGSHDFix",
-  "homepage_url": "",
+  "homepage_url": "https://www.nexusmods.com/metalgearsolid2mc/mods/49",
   "language": "C++",
   "license": "MIT",
   "topics": [
-    "dll",
+    "bugfix",
+    "bugfixes",
+    "game-restoration",
+    "metal-gear",
+    "metal-gear-2",
+    "metal-gear-solid-2",
+    "metal-gear-solid-3",
+    "metal-gear-solid-master-collection",
     "metalgearsolid",
     "mod",
+    "restoration",
     "ultrawide"
   ],
-  "star_count": 801,
+  "star_count": 803,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-25T03:55:48Z",
-  "updated_at": "2026-08-17T07:42:41Z",
-  "pushed_at": "2026-08-16T11:07:21Z",
+  "updated_at": "2026-08-20T15:28:52Z",
+  "pushed_at": "2026-08-20T15:21:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -379,6 +387,10 @@
     {
       "date": "2026-08-17",
       "stars": 801
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 803
     }
   ]
 }

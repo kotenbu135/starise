@@ -3,7 +3,7 @@
   "owner": "betterleaks",
   "name": "betterleaks",
   "full_name": "betterleaks/betterleaks",
-  "description": "Scan the world (for secrets)",
+  "description": "Find leaked secrets everywhere.",
   "description_ja": "",
   "url": "https://github.com/betterleaks/betterleaks",
   "homepage_url": "https://betterleaks.com",
@@ -31,13 +31,13 @@
     "security-tools",
     "static-analysis"
   ],
-  "star_count": 1697,
-  "fork_count": 125,
+  "star_count": 1733,
+  "fork_count": 126,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-03T18:21:41Z",
-  "updated_at": "2026-08-17T16:44:49Z",
-  "pushed_at": "2026-08-17T16:44:01Z",
+  "updated_at": "2026-08-20T14:58:18Z",
+  "pushed_at": "2026-08-20T14:29:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -395,6 +395,10 @@
     {
       "date": "2026-08-17",
       "stars": 1697
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 1733
     }
   ]
 }

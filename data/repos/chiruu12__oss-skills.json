@@ -3,30 +3,37 @@
   "owner": "chiruu12",
   "name": "oss-skills",
   "full_name": "chiruu12/oss-skills",
-  "description": "15 Claude Code skills that walk you through your first open source contribution. Built by a GSoC mentor.",
+  "description": "15 executable skills that walk you through your first open source contribution. Works in Claude Code, Cursor, Codex, Copilot, Windsurf, Zed and anything that reads AGENTS.md. Built by a GSoC mentor.",
   "description_ja": "",
   "url": "https://github.com/chiruu12/OSS-Skills",
   "homepage_url": "",
   "language": "Shell",
   "license": "MIT",
   "topics": [
+    "agents-md",
+    "ai-coding-assistant",
     "claude-code",
     "claude-code-skills",
+    "codex",
     "contributing",
+    "copilot",
+    "cursor",
     "first-contribution",
     "gsoc",
     "hacktoberfest",
     "open-source",
     "oss",
-    "skills"
+    "skills",
+    "windsurf",
+    "zed"
   ],
-  "star_count": 57,
+  "star_count": 58,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-27T13:45:59Z",
-  "updated_at": "2026-08-17T07:55:19Z",
-  "pushed_at": "2026-08-16T18:57:35Z",
+  "updated_at": "2026-08-20T08:47:06Z",
+  "pushed_at": "2026-08-20T11:45:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -316,6 +323,10 @@
     {
       "date": "2026-08-17",
       "stars": 57
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 58
     }
   ]
 }

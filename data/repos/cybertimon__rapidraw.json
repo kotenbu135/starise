@@ -6,7 +6,7 @@
   "description": "A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.",
   "description_ja": "パフォーマンスを重視して設計された、美しく非破壊的な GPU アクセラレーション対応の RAW 画像エディター",
   "url": "https://github.com/CyberTimon/RapidRAW",
-  "homepage_url": "",
+  "homepage_url": "https://getrapidraw.com",
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
@@ -19,13 +19,13 @@
     "rust",
     "tauri"
   ],
-  "star_count": 9351,
-  "fork_count": 485,
+  "star_count": 9456,
+  "fork_count": 494,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-13T20:16:40Z",
-  "updated_at": "2026-08-17T18:53:07Z",
-  "pushed_at": "2026-08-17T18:48:33Z",
+  "updated_at": "2026-08-20T19:16:19Z",
+  "pushed_at": "2026-08-20T19:17:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-17",
       "stars": 9351
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 9456
     }
   ]
 }

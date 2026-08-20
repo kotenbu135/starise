@@ -3,7 +3,7 @@
   "owner": "alexgreensh",
   "name": "attention-span",
   "full_name": "alexgreensh/attention-span",
-  "description": "Make your agents talk human. ADHD-friendly output styles for Claude Code. So you can pay attention, not tokens.",
+  "description": "Make your agents talk human. ADHD-friendly output styles for Claude Code, Codex, and others. So you can pay attention, not tokens.",
   "description_ja": "",
   "url": "https://github.com/alexgreensh/attention-span",
   "homepage_url": "https://alexgreenshpun.com",
@@ -11,19 +11,21 @@
   "license": "AGPL-3.0",
   "topics": [
     "adhd-friendly",
+    "ai-slop-reduction",
+    "anti-slop",
     "claude-code",
     "eli5",
     "explainability",
     "explainable-ai",
     "output-style"
   ],
-  "star_count": 747,
-  "fork_count": 25,
+  "star_count": 825,
+  "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-04T23:20:01Z",
-  "updated_at": "2026-08-17T18:00:38Z",
-  "pushed_at": "2026-08-15T12:05:04Z",
+  "updated_at": "2026-08-20T18:51:19Z",
+  "pushed_at": "2026-08-19T13:46:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +35,10 @@
     {
       "date": "2026-08-17",
       "stars": 747
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 825
     }
   ]
 }

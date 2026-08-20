@@ -3,7 +3,7 @@
   "owner": "onecli",
   "name": "onecli",
   "full_name": "onecli/onecli",
-  "description": "Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys.",
+  "description": "Open-source sandboxed agent harness for teams. Giving every employee a secured personal agent.",
   "description_ja": "",
   "url": "https://github.com/onecli/onecli",
   "homepage_url": "https://onecli.sh",
@@ -13,9 +13,7 @@
     "ai-agents",
     "cli",
     "mcp",
-    "nanoclaw",
     "nodejs",
-    "openclaw",
     "postgres",
     "rust",
     "secret-management",
@@ -23,13 +21,13 @@
     "security-tools",
     "vault"
   ],
-  "star_count": 3105,
-  "fork_count": 187,
+  "star_count": 3296,
+  "fork_count": 197,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T10:38:52Z",
-  "updated_at": "2026-08-17T18:31:58Z",
-  "pushed_at": "2026-08-15T01:28:44Z",
+  "updated_at": "2026-08-20T20:08:07Z",
+  "pushed_at": "2026-08-19T17:17:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -387,6 +385,10 @@
     {
       "date": "2026-08-17",
       "stars": 3105
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 3296
     }
   ]
 }

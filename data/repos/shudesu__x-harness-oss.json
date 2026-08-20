@@ -6,17 +6,23 @@
   "description": "Open-source X (Twitter) marketing automation — the self-hosted alternative to XTEP",
   "description_ja": "",
   "url": "https://github.com/Shudesu/x-harness-oss",
-  "homepage_url": "https://the-harness.com/x-harness-installation-guide/",
+  "homepage_url": "https://the-harness.com/harness/#x-harness",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 89,
+  "topics": [
+    "cloudflare-workers",
+    "crm",
+    "marketing-automation",
+    "twitter",
+    "x-harness"
+  ],
+  "star_count": 91,
   "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-02T11:13:47Z",
-  "updated_at": "2026-08-16T11:15:17Z",
-  "pushed_at": "2026-08-15T12:15:16Z",
+  "updated_at": "2026-08-20T01:27:25Z",
+  "pushed_at": "2026-08-20T01:27:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -302,6 +308,10 @@
     {
       "date": "2026-08-17",
       "stars": 89
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 91
     }
   ]
 }

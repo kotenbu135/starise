@@ -3,10 +3,10 @@
   "owner": "botagi",
   "name": "agmind",
   "full_name": "botagi/agmind",
-  "description": "Private LLM/RAG platform in one command for NVIDIA DGX Spark / GB10 (arm64). Validated on real hardware.",
+  "description": "Legacy: self-hosted LLM/RAG stack installer for DGX Spark (arm64). The work continued as AGmind Systems Lab — measured local-LLM performance evidence (Strix Halo, DGX Spark, llama.cpp, vLLM): https://agmind.ai",
   "description_ja": "",
   "url": "https://github.com/botAGI/AGmind",
-  "homepage_url": "https://agmind.dev",
+  "homepage_url": "https://agmind.ai",
   "language": "Shell",
   "license": "NOASSERTION",
   "topics": [
@@ -29,12 +29,12 @@
     "self-hosted",
     "vllm"
   ],
-  "star_count": 43,
+  "star_count": 44,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-13T21:18:32Z",
-  "updated_at": "2026-08-15T05:12:54Z",
+  "updated_at": "2026-08-19T15:30:08Z",
   "pushed_at": "2026-07-27T03:08:53Z",
   "deleted_at": "",
   "star_history": [
@@ -185,6 +185,10 @@
     {
       "date": "2026-08-17",
       "stars": 43
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 44
     }
   ]
 }

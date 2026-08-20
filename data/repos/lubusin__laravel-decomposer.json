@@ -3,8 +3,8 @@
   "owner": "lubusin",
   "name": "laravel-decomposer",
   "full_name": "lubusin/laravel-decomposer",
-  "description": "⚙️ A Laravel package to decompose your installed packages, their dependencies, your app \u0026 server environment",
-  "description_ja": "⚙️ インストール済みパッケージとその依存関係、アプリおよびサーバー環境を分析するLaravelパッケージ。",
+  "description": "Laravel package to decompose your installed packages, their dependencies, your app \u0026 server environment",
+  "description_ja": "",
   "url": "https://github.com/lubusIN/laravel-decomposer",
   "homepage_url": "",
   "language": "Blade",
@@ -20,7 +20,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-02-17T16:52:39Z",
-  "updated_at": "2026-08-08T17:19:50Z",
+  "updated_at": "2026-08-18T15:14:19Z",
   "pushed_at": "2026-04-18T06:45:26Z",
   "deleted_at": "",
   "star_history": [
@@ -374,6 +374,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 638
+    },
+    {
+      "date": "2026-08-20",
       "stars": 638
     }
   ]

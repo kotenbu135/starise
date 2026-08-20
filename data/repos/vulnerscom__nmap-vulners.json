@@ -3,20 +3,39 @@
   "owner": "vulnerscom",
   "name": "nmap-vulners",
   "full_name": "vulnerscom/nmap-vulners",
-  "description": "NSE script based on Vulners.com API",
-  "description_ja": "Vulners.com API を利用した NSE スクリプト",
+  "description": "Nmap NSE scripts that turn a service scan into CVEs, CVSS scores and known exploits — fingerprints software from HTTP responses and checks every detected CPE against the Vulners database.",
+  "description_ja": "",
   "url": "https://github.com/vulnersCom/nmap-vulners",
-  "homepage_url": "",
+  "homepage_url": "https://vulners.com",
   "language": "Lua",
-  "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 3400,
+  "license": "NOASSERTION",
+  "topics": [
+    "cpe",
+    "cve",
+    "cvss",
+    "exploit-database",
+    "fingerprinting",
+    "infosec",
+    "lua",
+    "network-scanner",
+    "nmap",
+    "nmap-scripts",
+    "nse",
+    "nse-scripts",
+    "pentesting",
+    "security",
+    "security-tools",
+    "vulnerability-detection",
+    "vulnerability-scanner",
+    "vulners"
+  ],
+  "star_count": 3403,
   "fork_count": 559,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-19T21:21:28Z",
-  "updated_at": "2026-08-16T10:26:41Z",
-  "pushed_at": "2026-07-23T15:11:02Z",
+  "updated_at": "2026-08-20T08:14:26Z",
+  "pushed_at": "2026-08-20T07:46:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -370,6 +389,10 @@
     {
       "date": "2026-08-17",
       "stars": 3400
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 3403
     }
   ]
 }

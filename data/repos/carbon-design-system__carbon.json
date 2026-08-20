@@ -7,7 +7,7 @@
   "description_ja": "IBM が構築したデザインシステム",
   "url": "https://github.com/carbon-design-system/carbon",
   "homepage_url": "https://www.carbondesignsystem.com",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "design-system",
@@ -16,13 +16,13 @@
     "react",
     "scss"
   ],
-  "star_count": 9364,
-  "fork_count": 2253,
+  "star_count": 9373,
+  "fork_count": 2258,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-03-13T14:23:59Z",
-  "updated_at": "2026-08-17T18:39:11Z",
-  "pushed_at": "2026-08-17T18:46:43Z",
+  "updated_at": "2026-08-20T18:48:36Z",
+  "pushed_at": "2026-08-20T18:44:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -380,6 +380,10 @@
     {
       "date": "2026-08-17",
       "stars": 9364
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 9373
     }
   ]
 }

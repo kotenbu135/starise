@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOT6vfKw",
+  "owner": "sigmanticai",
+  "name": "apex-inference-chip",
+  "full_name": "sigmanticai/apex-inference-chip",
+  "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+  "description_ja": "",
+  "url": "https://github.com/SigmanticAI/apex-inference-chip",
+  "homepage_url": "https://www.sigmanticai.com",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [],
+  "star_count": 625,
+  "fork_count": 1,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-08-17T04:25:26Z",
+  "updated_at": "2026-08-20T20:34:39Z",
+  "pushed_at": "2026-08-18T17:10:33Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-20",
+      "stars": 625
+    }
+  ]
+}

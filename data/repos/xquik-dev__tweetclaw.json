@@ -3,7 +3,7 @@
   "owner": "xquik-dev",
   "name": "tweetclaw",
   "full_name": "xquik-dev/tweetclaw",
-  "description": "OpenClaw plugin for tweet search, replies, follower exports, media, monitoring, publishing, and giveaways. Not affiliated with X Corp.",
+  "description": "OpenClaw plugin for Twitter search, follower exports, monitoring, media, and approved X automation through Xquik. Not affiliated with X Corp.",
   "description_ja": "",
   "url": "https://github.com/Xquik-dev/tweetclaw",
   "homepage_url": "https://xquik.com",
@@ -15,27 +15,29 @@
     "clawhub",
     "context7",
     "data-extraction",
+    "follower-export",
     "giveaway",
     "openclaw",
     "openclaw-plugin",
-    "pay-per-use",
     "skills",
     "social-media",
+    "tweet-search",
     "tweetclaw",
     "twitter",
     "twitter-api",
     "twitter-automation",
+    "twitter-search",
     "x",
     "x-api",
     "xquik"
   ],
-  "star_count": 91,
+  "star_count": 92,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-13T12:18:27Z",
-  "updated_at": "2026-08-14T10:35:14Z",
-  "pushed_at": "2026-08-12T14:59:15Z",
+  "updated_at": "2026-08-20T19:51:28Z",
+  "pushed_at": "2026-08-20T19:48:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -393,6 +395,10 @@
     {
       "date": "2026-08-17",
       "stars": 91
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 92
     }
   ]
 }

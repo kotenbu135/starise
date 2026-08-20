@@ -3,8 +3,8 @@
   "owner": "korlibs",
   "name": "korge",
   "full_name": "korlibs/korge",
-  "description": "A Kotlin Multiplatform Game Engine",
-  "description_ja": "Kotlin Multiplatform 向けゲームエンジン",
+  "description": "Korge is a Multiplatform Game Engine written in Kotlin for JVM, Web, Android and iOS.",
+  "description_ja": "",
   "url": "https://github.com/korlibs/korge",
   "homepage_url": "https://korge.org/",
   "language": "Kotlin",
@@ -18,11 +18,11 @@
     "webgl"
   ],
   "star_count": 3040,
-  "fork_count": 146,
+  "fork_count": 147,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-01-26T07:56:45Z",
-  "updated_at": "2026-08-17T16:04:52Z",
+  "updated_at": "2026-08-19T12:09:23Z",
   "pushed_at": "2026-08-13T16:26:05Z",
   "deleted_at": "",
   "star_history": [
@@ -380,6 +380,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 3040
+    },
+    {
+      "date": "2026-08-20",
       "stars": 3040
     }
   ]

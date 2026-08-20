@@ -3,7 +3,7 @@
   "owner": "nicosuave",
   "name": "memex",
   "full_name": "nicosuave/memex",
-  "description": "Search Claude Code, Codex, Pi, OpenCode, Github Copilot \u0026 Cursor transcripts \u0026 resume sessions",
+  "description": "Search Claude Code, Codex, Pi, OpenCode, Github Copilot \u0026 Cursor transcripts. Resume sessions. Track tokens.",
   "description_ja": "",
   "url": "https://github.com/nicosuave/memex",
   "homepage_url": "",
@@ -18,13 +18,13 @@
     "rag",
     "tantivy"
   ],
-  "star_count": 130,
+  "star_count": 154,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-01T20:32:00Z",
-  "updated_at": "2026-08-17T13:04:29Z",
-  "pushed_at": "2026-08-16T18:08:04Z",
+  "updated_at": "2026-08-20T19:39:30Z",
+  "pushed_at": "2026-08-20T16:28:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -382,6 +382,10 @@
     {
       "date": "2026-08-17",
       "stars": 130
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 154
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "observal",
   "name": "observal",
   "full_name": "observal/observal",
-  "description": "Observal is a local registry and analytics platform for your AI components.  Setup Observal, define the scope and share your Skills, MCPs and Agents.",
+  "description": "Observal is self-hosted registry for your coding agent extensions with a built in insight engine.  Setup Observal, define the scope and share your Skills, MCPs and Agents with your peers.",
   "description_ja": "",
   "url": "https://github.com/Observal/Observal",
   "homepage_url": "https://observal.io/",
@@ -29,13 +29,13 @@
     "self-hosted",
     "skills"
   ],
-  "star_count": 2364,
-  "fork_count": 472,
+  "star_count": 2367,
+  "fork_count": 473,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T16:05:36Z",
-  "updated_at": "2026-08-17T18:14:34Z",
-  "pushed_at": "2026-08-16T22:36:01Z",
+  "updated_at": "2026-08-20T16:46:02Z",
+  "pushed_at": "2026-08-20T04:31:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -393,6 +393,10 @@
     {
       "date": "2026-08-17",
       "stars": 2364
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 2367
     }
   ]
 }

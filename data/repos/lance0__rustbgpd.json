@@ -6,7 +6,7 @@
   "description": "An API-first BGP daemon in Rust for programmable route-server and control-plane use cases",
   "description_ja": "",
   "url": "https://github.com/lance0/rustbgpd",
-  "homepage_url": "",
+  "homepage_url": "https://rbgp.rs",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -24,13 +24,13 @@
     "rust",
     "sdn"
   ],
-  "star_count": 57,
-  "fork_count": 2,
+  "star_count": 58,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-27T13:35:52Z",
-  "updated_at": "2026-08-16T23:03:02Z",
-  "pushed_at": "2026-08-16T05:17:08Z",
+  "updated_at": "2026-08-20T19:17:51Z",
+  "pushed_at": "2026-08-20T19:51:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -364,6 +364,10 @@
     {
       "date": "2026-08-17",
       "stars": 57
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 58
     }
   ]
 }

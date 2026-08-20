@@ -13,25 +13,31 @@
     "aggregations",
     "analytics",
     "bm25",
-    "database",
-    "elasticsearch",
+    "columnar-storage",
+    "distributed-search",
     "full-text-search",
     "htap",
     "hybrid-search",
+    "mpp",
     "olap",
     "postgresql",
+    "postgresql-extension",
     "real-time-analytics",
+    "rust",
+    "search-engine",
+    "semantic-search",
     "similarity-search",
     "sparse-vector",
-    "sql"
+    "vector-database",
+    "vector-search"
   ],
-  "star_count": 9168,
+  "star_count": 9175,
   "fork_count": 435,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-06-30T20:21:47Z",
-  "updated_at": "2026-08-17T19:09:41Z",
-  "pushed_at": "2026-08-17T19:34:30Z",
+  "updated_at": "2026-08-20T08:51:25Z",
+  "pushed_at": "2026-08-20T20:10:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -389,6 +395,10 @@
     {
       "date": "2026-08-17",
       "stars": 9168
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 9175
     }
   ]
 }

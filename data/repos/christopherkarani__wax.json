@@ -3,8 +3,8 @@
   "owner": "christopherkarani",
   "name": "wax",
   "full_name": "christopherkarani/wax",
-  "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No API. One File. Pure Swift",
-  "description_ja": "AIエージェント向けの単一ファイルメモリレイヤー。Apple SiliconでサブミリセカンドのRAGを実現。Metalで最適化されたオンデバイス処理。サーバー不要。API不要。1ファイル。Pure Swift。",
+  "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. No Server. No API. One File. Pure Swift",
+  "description_ja": "",
   "url": "https://github.com/christopherkarani/Wax",
   "homepage_url": "https://christopherkarani.github.io/Wax/",
   "language": "Swift",
@@ -31,13 +31,13 @@
     "vector-search",
     "vectordb"
   ],
-  "star_count": 778,
+  "star_count": 784,
   "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-20T06:00:56Z",
-  "updated_at": "2026-08-17T12:23:32Z",
-  "pushed_at": "2026-08-16T12:46:31Z",
+  "updated_at": "2026-08-20T14:37:10Z",
+  "pushed_at": "2026-08-20T19:05:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -395,6 +395,10 @@
     {
       "date": "2026-08-17",
       "stars": 778
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 784
     }
   ]
 }

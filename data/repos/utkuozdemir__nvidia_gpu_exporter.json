@@ -3,8 +3,8 @@
   "owner": "utkuozdemir",
   "name": "nvidia_gpu_exporter",
   "full_name": "utkuozdemir/nvidia_gpu_exporter",
-  "description": "Nvidia GPU exporter for prometheus using nvidia-smi binary",
-  "description_ja": "nvidia-smi バイナリを使用した Prometheus 向け Nvidia GPU エクスポーター",
+  "description": "Nvidia GPU exporter for prometheus using nvidia-smi binary OR using NVML",
+  "description_ja": "",
   "url": "https://github.com/utkuozdemir/nvidia_gpu_exporter",
   "homepage_url": "",
   "language": "Go",
@@ -24,13 +24,13 @@
     "prometheus",
     "prometheus-exporter"
   ],
-  "star_count": 1532,
+  "star_count": 1533,
   "fork_count": 150,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-08T22:42:30Z",
-  "updated_at": "2026-08-17T15:34:32Z",
-  "pushed_at": "2026-08-17T15:34:29Z",
+  "updated_at": "2026-08-20T14:37:17Z",
+  "pushed_at": "2026-08-20T18:36:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -388,6 +388,10 @@
     {
       "date": "2026-08-17",
       "stars": 1532
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 1533
     }
   ]
 }

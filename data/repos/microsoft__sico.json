@@ -3,11 +3,11 @@
   "owner": "microsoft",
   "name": "sico",
   "full_name": "microsoft/sico",
-  "description": "An open-source Digital Worker platform for reliable execution and continuous co-evolution.",
+  "description": "An open-source Digital Worker platform for reliable execution, continuous co-evolution, and building Enterprise AI assets.",
   "description_ja": "",
   "url": "https://github.com/microsoft/Sico",
   "homepage_url": "",
-  "language": "TypeScript",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "agent-evolution",
@@ -24,13 +24,13 @@
     "llm",
     "production-ai"
   ],
-  "star_count": 181,
-  "fork_count": 15,
+  "star_count": 182,
+  "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-09T13:44:18Z",
-  "updated_at": "2026-08-15T10:03:50Z",
-  "pushed_at": "2026-08-07T08:25:01Z",
+  "updated_at": "2026-08-20T02:46:52Z",
+  "pushed_at": "2026-08-20T02:48:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -268,6 +268,10 @@
     {
       "date": "2026-08-17",
       "stars": 181
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 182
     }
   ]
 }

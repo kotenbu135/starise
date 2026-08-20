@@ -3,20 +3,31 @@
   "owner": "kgnio",
   "name": "github-profile-stats-card",
   "full_name": "kgnio/github-profile-stats-card",
-  "description": "A GitHub statistics card that allows the user to view their GitHub statistics on their profile.",
+  "description": "Customizable GitHub profile stats card generator. Create dynamic SVG cards for GitHub Profile READMEs with multiple themes — no setup required.",
   "description_ja": "",
   "url": "https://github.com/kgnio/github-profile-stats-card",
   "homepage_url": "https://kgnio-profile-card.vercel.app",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 209,
+  "topics": [
+    "developer-profile",
+    "github-badges",
+    "github-profile",
+    "github-profile-readme",
+    "github-readme-generator",
+    "github-stats",
+    "github-stats-card",
+    "profile-card",
+    "readme-widget",
+    "svg"
+  ],
+  "star_count": 223,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-29T11:13:50Z",
-  "updated_at": "2026-08-17T18:47:16Z",
-  "pushed_at": "2026-08-17T18:41:56Z",
+  "updated_at": "2026-08-20T18:51:52Z",
+  "pushed_at": "2026-08-20T18:41:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -234,6 +245,10 @@
     {
       "date": "2026-08-17",
       "stars": 209
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 223
     }
   ]
 }

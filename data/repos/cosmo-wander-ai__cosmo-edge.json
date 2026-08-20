@@ -3,7 +3,7 @@
   "owner": "cosmo-wander-ai",
   "name": "cosmo-edge",
   "full_name": "cosmo-wander-ai/cosmo-edge",
-  "description": "Production-grade C++ edge AI engine for video analytics with visual pipeline orchestration, on-device VLM, and real-time OSD.",
+  "description": "Production-grade C++ edge AI engine for video analytics and on-device VLM across Sophon, Rockchip RKNN, and x86, with visual orchestration, real-time OSD, events, and reproducible benchmarks.",
   "description_ja": "",
   "url": "https://github.com/cosmo-wander-ai/cosmo-edge",
   "homepage_url": "https://www.cosmowander.ai/",
@@ -13,21 +13,26 @@
     "bm1688",
     "computer-vision",
     "cpp17",
+    "cv186x",
     "edge-ai",
     "grounding-dino",
     "on-device-ai",
+    "rk3576",
+    "rknn",
+    "rockchip",
+    "rv1126b",
     "sophon",
     "video-analytics",
     "visual-pipeline",
     "vlm"
   ],
-  "star_count": 524,
-  "fork_count": 142,
+  "star_count": 555,
+  "fork_count": 148,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T03:54:53Z",
-  "updated_at": "2026-08-17T17:01:13Z",
-  "pushed_at": "2026-08-17T10:25:28Z",
+  "updated_at": "2026-08-20T14:36:30Z",
+  "pushed_at": "2026-08-20T19:15:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -141,6 +146,10 @@
     {
       "date": "2026-08-17",
       "stars": 524
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 555
     }
   ]
 }

@@ -3,20 +3,29 @@
   "owner": "vieeeeeee",
   "name": "wibi-style",
   "full_name": "vieeeeeee/wibi-style",
-  "description": "威比的风格skill",
+  "description": "19 款可独立安装的 AI 视觉风格 Skill：挑一款、上传一张照片，在 Codex 里直接生成成品。作者 @威比 Hunter Wei.（抖音、小红书同名）",
   "description_ja": "",
   "url": "https://github.com/Vieeeeeee/wibi-style",
-  "homepage_url": "",
+  "homepage_url": "https://style.abdc.online",
   "language": "Python",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 48,
-  "fork_count": 5,
+  "topics": [
+    "agent-skills",
+    "ai",
+    "ai-art",
+    "claude-code",
+    "codex",
+    "image-generation",
+    "photo-effects",
+    "prompt-engineering"
+  ],
+  "star_count": 81,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-09T08:39:04Z",
-  "updated_at": "2026-08-17T06:58:49Z",
-  "pushed_at": "2026-08-17T06:58:21Z",
+  "updated_at": "2026-08-20T14:49:42Z",
+  "pushed_at": "2026-08-20T12:06:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -26,6 +35,10 @@
     {
       "date": "2026-08-17",
       "stars": 48
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 81
     }
   ]
 }

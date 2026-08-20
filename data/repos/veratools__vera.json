@@ -1,0 +1,403 @@
+{
+  "repo_id": "R_kgDORtaZMA",
+  "owner": "veratools",
+  "name": "vera",
+  "full_name": "veratools/vera",
+  "description": "Local code search combining BM25, vector similarity, and cross-encoder reranking. Parses 60+ languages with tree-sitter, runs entirely offline, and returns structured results with file paths, line ranges, and symbol metadata. Built in Rust.",
+  "description_ja": "BM25・ベクター類似度・cross-encoderリランキングを組み合わせたローカルコード検索。tree-sitterで60以上の言語を解析し、完全オフラインで動作し、ファイルパス・行範囲・シンボルメタデータを含む構造化された結果を返す。Rust製。",
+  "url": "https://github.com/VeraTools/Vera",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [
+    "bm25",
+    "cli",
+    "code-search",
+    "code-search-engine",
+    "cross-encoder",
+    "embeddings",
+    "local",
+    "mcp",
+    "mcp-server",
+    "onnx",
+    "rag",
+    "reranking",
+    "retrieval",
+    "rust",
+    "semantic-search",
+    "semantic-search-engine",
+    "skills",
+    "tree-sitter",
+    "vector-search"
+  ],
+  "star_count": 105,
+  "fork_count": 14,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-22T05:41:30Z",
+  "updated_at": "2026-08-20T13:12:29Z",
+  "pushed_at": "2026-08-20T00:28:13Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-21",
+      "stars": 64
+    },
+    {
+      "date": "2026-04-23",
+      "stars": 65
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 66
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 66
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 68
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 70
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 70
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 70
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 71
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 76
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 77
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 78
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 80
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 80
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 81
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 82
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 83
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 85
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 85
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 87
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 89
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 89
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 89
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 91
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 91
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 91
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 91
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 91
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 93
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 93
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 94
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 94
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 95
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 95
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 96
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 96
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 96
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 96
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 98
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 98
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 98
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 98
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 97
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 96
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 97
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 98
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 98
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 98
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 98
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 100
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 101
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 102
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 103
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 102
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 101
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 102
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 102
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 102
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 102
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 102
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 102
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 102
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 102
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 103
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 105
+    }
+  ]
+}

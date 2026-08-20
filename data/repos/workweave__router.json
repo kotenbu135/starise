@@ -6,7 +6,7 @@
   "description": "Model router for agentic systems. Routes every prompt to the right model in \u003c50ms. Cut costs 40-70% with just an endpoint change.",
   "description_ja": "",
   "url": "https://github.com/workweave/router",
-  "homepage_url": "https://weaverouter.com",
+  "homepage_url": "https://weaveos.com/products/router",
   "language": "Go",
   "license": "NOASSERTION",
   "topics": [
@@ -18,13 +18,13 @@
     "model-router",
     "openai-compatible"
   ],
-  "star_count": 961,
-  "fork_count": 50,
+  "star_count": 967,
+  "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-27T17:56:27Z",
-  "updated_at": "2026-08-17T19:36:15Z",
-  "pushed_at": "2026-08-17T20:00:09Z",
+  "updated_at": "2026-08-20T20:06:30Z",
+  "pushed_at": "2026-08-20T20:39:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -166,6 +166,10 @@
     {
       "date": "2026-08-17",
       "stars": 961
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 967
     }
   ]
 }

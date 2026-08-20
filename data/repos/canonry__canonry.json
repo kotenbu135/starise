@@ -3,7 +3,7 @@
   "owner": "canonry",
   "name": "canonry",
   "full_name": "canonry/canonry",
-  "description": "An agent first AEO monitoring and execution platform",
+  "description": "Self-hosted AI visibility (AEO) stack. Track how ChatGPT, Claude, Gemini, and Perplexity cite your domain. Join it with Search Console, GA4, Bing, server-side traffic, and paid. Agent first.",
   "description_ja": "",
   "url": "https://github.com/Canonry/canonry",
   "homepage_url": "https://canonry.ai/open-source-platform",
@@ -30,13 +30,13 @@
     "sqlite",
     "web-analytics"
   ],
-  "star_count": 112,
-  "fork_count": 12,
+  "star_count": 117,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-09T01:18:16Z",
-  "updated_at": "2026-08-17T18:17:52Z",
-  "pushed_at": "2026-08-17T18:51:05Z",
+  "updated_at": "2026-08-20T17:30:23Z",
+  "pushed_at": "2026-08-20T18:30:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -314,6 +314,10 @@
     {
       "date": "2026-08-17",
       "stars": 112
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 117
     }
   ]
 }

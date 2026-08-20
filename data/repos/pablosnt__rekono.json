@@ -3,37 +3,34 @@
   "owner": "pablosnt",
   "name": "rekono",
   "full_name": "pablosnt/rekono",
-  "description": "Pentesting automation platform that combines hacking tools to complete assessments",
-  "description_ja": "各種ハッキングツールを統合してアセスメントを完遂するペンテスト自動化プラットフォーム。",
+  "description": "Offensive security platform that automates attack surface discovery and vulnerability management",
+  "description_ja": "",
   "url": "https://github.com/pablosnt/rekono",
-  "homepage_url": "https://github.com/pablosnt/rekono/wiki",
+  "homepage_url": "",
   "language": "Python",
   "license": "GPL-3.0",
   "topics": [
-    "bug-bounty",
-    "bug-hunter",
-    "easm",
-    "external-attack-surface-management",
+    "attack-surface-management",
     "hacking",
-    "hacking-collaboration-platform",
-    "hacking-copilot",
     "infosec",
+    "offensive-security",
     "pentesting",
-    "pentesting-automation",
-    "read-team",
     "recon",
+    "red-teaming",
     "security",
-    "security-assessments",
-    "vulnerability-management",
-    "vulnerability-scanners"
+    "security-audit",
+    "security-automation",
+    "security-scanner",
+    "security-tools",
+    "vulnerability-management"
   ],
   "star_count": 527,
   "fork_count": 81,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-15T14:21:54Z",
-  "updated_at": "2026-08-14T21:36:26Z",
-  "pushed_at": "2026-08-17T08:22:11Z",
+  "updated_at": "2026-08-20T18:53:04Z",
+  "pushed_at": "2026-08-20T20:01:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -386,6 +383,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 527
+    },
+    {
+      "date": "2026-08-20",
       "stars": 527
     }
   ]

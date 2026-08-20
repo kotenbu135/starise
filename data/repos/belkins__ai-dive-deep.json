@@ -3,7 +3,7 @@
   "owner": "belkins",
   "name": "ai-dive-deep",
   "full_name": "belkins/ai-dive-deep",
-  "description": "Vlad's Playbook — the operator's field manual where every artifact is live, clickable, and forwardable. 39 chapters · 25 interactive widgets · 3 embedded case studies (AFC pitch + sanitized client audit). Read it → dive.vladyslavpodoliako.com",
+  "description": "Vlad's Playbook — a 48-chapter operator field manual where every artifact is live, clickable, and forwardable. 31 interactive widgets, a self-updating AI radar, hand-verified model leaderboards, embedded case studies — and the repo runs the agent workflow the book teaches.",
   "description_ja": "",
   "url": "https://github.com/Belkins/ai-dive-deep",
   "homepage_url": "https://dive.vladyslavpodoliako.com",
@@ -11,6 +11,7 @@
   "license": "NOASSERTION",
   "topics": [
     "agent-orchestration",
+    "agentic-coding",
     "ai-agents",
     "anthropic",
     "astro",
@@ -21,15 +22,16 @@
     "interactive-book",
     "mcp",
     "mdx",
+    "playbook",
     "static-site"
   ],
-  "star_count": 395,
+  "star_count": 392,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-07T13:26:59Z",
-  "updated_at": "2026-08-17T18:47:39Z",
-  "pushed_at": "2026-08-17T18:44:11Z",
+  "updated_at": "2026-08-20T15:11:34Z",
+  "pushed_at": "2026-08-19T22:44:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -107,6 +109,10 @@
     {
       "date": "2026-08-17",
       "stars": 395
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 392
     }
   ]
 }

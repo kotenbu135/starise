@@ -3,7 +3,7 @@
   "owner": "cayalume",
   "name": "strm-cayflow",
   "full_name": "cayalume/strm-cayflow",
-  "description": "基于115目录树快速生成strm,集成302重定向播放,网盘视频刮削,一键为媒体库生成精美海报,emby播放/删除/入库通知等",
+  "description": "基于115目录树快速生成strm,集成302重定向播放,ed2k生成,ai字幕生成,网盘视频刮削,一键为媒体库生成精美海报,emby播放/删除/入库通知等",
   "description_ja": "",
   "url": "https://github.com/cayalume/strm-CayFlow",
   "homepage_url": "",
@@ -11,12 +11,12 @@
   "license": "",
   "topics": [],
   "star_count": 56,
-  "fork_count": 6,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-30T12:14:41Z",
-  "updated_at": "2026-08-16T21:56:46Z",
-  "pushed_at": "2026-08-16T21:56:41Z",
+  "updated_at": "2026-08-20T11:33:24Z",
+  "pushed_at": "2026-08-20T11:32:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -109,6 +109,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 56
+    },
+    {
+      "date": "2026-08-20",
       "stars": 56
     }
   ]

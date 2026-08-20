@@ -6,17 +6,30 @@
   "description": "Grok 批量注册 (Camoufox) + 实时 Web 监控面板 | Batch Grok registration engine with live panel — concurrency · ASN blacklist · proxy pool · token auth",
   "description_ja": "",
   "url": "https://github.com/lij768423-svg/grok-register-panel",
-  "homepage_url": "",
+  "homepage_url": "https://lij768423-svg.github.io/grok-register-panel/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 760,
-  "fork_count": 236,
+  "topics": [
+    "automation",
+    "camoufox",
+    "dashboard",
+    "grok",
+    "grok2api",
+    "playwright",
+    "proxy",
+    "python",
+    "turnstile",
+    "web-ui",
+    "webui",
+    "xai"
+  ],
+  "star_count": 809,
+  "fork_count": 256,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-29T09:25:01Z",
-  "updated_at": "2026-08-17T18:45:32Z",
-  "pushed_at": "2026-08-17T04:00:58Z",
+  "updated_at": "2026-08-20T18:47:45Z",
+  "pushed_at": "2026-08-20T05:19:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +51,10 @@
     {
       "date": "2026-08-17",
       "stars": 760
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 809
     }
   ]
 }

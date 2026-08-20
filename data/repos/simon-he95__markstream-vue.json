@@ -3,7 +3,7 @@
   "owner": "simon-he95",
   "name": "markstream-vue",
   "full_name": "simon-he95/markstream-vue",
-  "description": "Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, Shiki, Monaco, safe HTML, and low-jitter updates.",
+  "description": "Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, stream-diffs code blocks, safe HTML, and low-jitter updates.",
   "description_ja": "",
   "url": "https://github.com/Simon-He95/markstream-vue",
   "homepage_url": "https://markstream.simonhe.me",
@@ -19,25 +19,24 @@
     "markdown-renderer",
     "markstream",
     "mermaid",
-    "monaco-editor",
     "nextjs",
     "nuxt",
+    "octane",
     "react",
     "safe-html",
-    "shiki",
     "stream-markdown",
     "streaming-markdown",
     "svelte",
     "vitepress",
     "vue"
   ],
-  "star_count": 2895,
+  "star_count": 2905,
   "fork_count": 175,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-22T08:28:26Z",
-  "updated_at": "2026-08-17T04:24:58Z",
-  "pushed_at": "2026-08-17T16:37:18Z",
+  "updated_at": "2026-08-20T05:53:52Z",
+  "pushed_at": "2026-08-20T05:07:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -315,6 +314,10 @@
     {
       "date": "2026-08-17",
       "stars": 2895
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 2905
     }
   ]
 }

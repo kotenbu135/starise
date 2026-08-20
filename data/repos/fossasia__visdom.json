@@ -3,7 +3,7 @@
   "owner": "fossasia",
   "name": "visdom",
   "full_name": "fossasia/visdom",
-  "description": "A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy https://visdom.dev",
+  "description": "Tool for real-time visualization, monitoring and collaborative analysis of AI/ML experiments and live data. Supports Python, PyTorch/Torch, NumPy, TensorFlow/Keras https://visdom.dev",
   "description_ja": "",
   "url": "https://github.com/fossasia/visdom",
   "homepage_url": "https://visdom.dev",
@@ -11,12 +11,12 @@
   "license": "Apache-2.0",
   "topics": [],
   "star_count": 10274,
-  "fork_count": 1247,
+  "fork_count": 1246,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-01-25T17:59:45Z",
-  "updated_at": "2026-08-17T15:51:51Z",
-  "pushed_at": "2026-08-17T13:19:30Z",
+  "updated_at": "2026-08-20T13:37:13Z",
+  "pushed_at": "2026-08-20T13:33:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -373,6 +373,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 10274
+    },
+    {
+      "date": "2026-08-20",
       "stars": 10274
     }
   ]

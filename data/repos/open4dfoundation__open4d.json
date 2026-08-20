@@ -7,7 +7,7 @@
   "description_ja": "動的・時変4Dジオメトリデータの処理・圧縮・保存・ストリーミング・可視化コードを収録したリポジトリ",
   "url": "https://github.com/open4dfoundation/Open4D",
   "homepage_url": "",
-  "language": "HTML",
+  "language": "C++",
   "license": "MIT",
   "topics": [
     "3d",
@@ -25,13 +25,13 @@
     "volumetric-video",
     "xr"
   ],
-  "star_count": 63,
-  "fork_count": 15,
+  "star_count": 64,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-31T23:34:53Z",
-  "updated_at": "2026-08-17T15:59:45Z",
-  "pushed_at": "2026-08-17T19:26:34Z",
+  "updated_at": "2026-08-19T17:56:03Z",
+  "pushed_at": "2026-08-20T19:07:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -385,6 +385,10 @@
     {
       "date": "2026-08-17",
       "stars": 63
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 64
     }
   ]
 }

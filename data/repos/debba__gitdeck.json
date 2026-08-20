@@ -3,20 +3,20 @@
   "owner": "debba",
   "name": "gitdeck",
   "full_name": "debba/gitdeck",
-  "description": "Open-source Git dashboard built for GIthub and Forgejo on REST and GraphQL APIs: repositories, issues, pull requests, traffic, Actions, contributors, dependents, and a kanban board view.",
+  "description": "Open-source Git dashboard for GitHub, GitLab, and Forgejo: repositories, issues, pull requests, notifications, traffic, CI, contributors, dependents, and kanban boards.",
   "description_ja": "",
   "url": "https://github.com/debba/gitdeck",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [],
-  "star_count": 379,
+  "star_count": 390,
   "fork_count": 47,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-29T05:21:26Z",
-  "updated_at": "2026-08-13T04:58:26Z",
-  "pushed_at": "2026-08-04T06:41:58Z",
+  "updated_at": "2026-08-20T11:16:34Z",
+  "pushed_at": "2026-08-19T18:14:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -330,6 +330,10 @@
     {
       "date": "2026-08-17",
       "stars": 379
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 390
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "eracle",
   "name": "openoutreach",
   "full_name": "eracle/openoutreach",
-  "description": "Agentic Email Automation Tool: Describe your product. Define your target market. The AI finds the leads for you.",
+  "description": "Open-source AI lead finder: describe your product, it finds the people who fit and tells you why each one does.",
   "description_ja": "",
   "url": "https://github.com/eracle/OpenOutreach",
   "homepage_url": "https://openoutreach.app",
@@ -14,27 +14,27 @@
     "agentic",
     "agentic-marketing",
     "agentic-workflow",
-    "automated-outreach",
     "automation",
-    "cold-email",
-    "cold-email-agent",
-    "cold-email-ma",
+    "b2b",
     "email-automation",
-    "email-marketing",
+    "icp",
+    "lead-generation",
+    "lead-qualification",
     "llm",
     "marketing",
     "marketing-automation",
-    "marketing-outreach",
     "outreach",
-    "smtp"
+    "prospecting",
+    "sales-intelligence",
+    "self-hosted"
   ],
-  "star_count": 2715,
-  "fork_count": 513,
+  "star_count": 2771,
+  "fork_count": 527,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-10-07T18:10:30Z",
-  "updated_at": "2026-08-17T12:35:34Z",
-  "pushed_at": "2026-08-16T15:17:35Z",
+  "updated_at": "2026-08-20T19:08:36Z",
+  "pushed_at": "2026-08-20T19:02:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -392,6 +392,10 @@
     {
       "date": "2026-08-17",
       "stars": 2715
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 2771
     }
   ]
 }

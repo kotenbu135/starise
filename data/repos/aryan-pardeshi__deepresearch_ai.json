@@ -6,7 +6,7 @@
   "description": "AI research workspace with two modes — DeepSearch turns a query into a cited web report in ~2 min; Research Mode runs a 25-agent pipeline that writes a full academic paper (PRISMA diagram, verified citations, PDF/DOCX export). 4 human-in-the-loop checkpoints. Built with LangGraph, FastAPI, and any OpenAI-compatible LLM.",
   "description_ja": "",
   "url": "https://github.com/Aryan-Pardeshi/DeepResearch_AI",
-  "homepage_url": "https://deepresearch-ai-gxiu.onrender.com/",
+  "homepage_url": "https://deep-research-ai-xi.vercel.app/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -31,18 +31,22 @@
     "semantic-scholar",
     "server-sent-events"
   ],
-  "star_count": 35,
+  "star_count": 37,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-01T20:59:52Z",
-  "updated_at": "2026-08-17T18:39:45Z",
-  "pushed_at": "2026-08-17T20:12:06Z",
+  "updated_at": "2026-08-20T16:51:33Z",
+  "pushed_at": "2026-08-20T16:43:25Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-08-17",
       "stars": 35
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 37
     }
   ]
 }

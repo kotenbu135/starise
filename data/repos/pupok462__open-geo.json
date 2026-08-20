@@ -3,7 +3,7 @@
   "owner": "pupok462",
   "name": "open-geo",
   "full_name": "pupok462/open-geo",
-  "description": "Measure brand visibility in AI answers by reading the rendered answer a logged-in user actually sees (agent in a real browser). Google AI Overview, ChatGPT, Claude, Gemini, Yandex Alice, DeepSeek. Claude Code skill, MIT.",
+  "description": "Composable GEO visibility agent skill: measures rendered AI answers in a real logged-in browser and returns a portable JSON artifact for any downstream agent workflow. Google, ChatGPT, Claude, Gemini, Yandex, DeepSeek, Perplexity. MIT.",
   "description_ja": "",
   "url": "https://github.com/Pupok462/open-geo",
   "homepage_url": "https://pupok462.github.io/open-geo/",
@@ -12,6 +12,8 @@
   "topics": [
     "aeo",
     "aeo-optimization",
+    "agent-skill",
+    "agent-workflow",
     "ai-search",
     "ai-visibility",
     "answer-engine-optimization",
@@ -19,8 +21,6 @@
     "chatgpt",
     "claude",
     "claude-code",
-    "claude-code-skill",
-    "claude-skills",
     "deepseek",
     "gemini",
     "generative-engine-optimization",
@@ -35,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-22T11:25:42Z",
-  "updated_at": "2026-08-17T14:24:52Z",
-  "pushed_at": "2026-08-12T08:03:56Z",
+  "updated_at": "2026-08-19T04:50:56Z",
+  "pushed_at": "2026-08-19T04:50:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -177,6 +177,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 19
+    },
+    {
+      "date": "2026-08-20",
       "stars": 19
     }
   ]

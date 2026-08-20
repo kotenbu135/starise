@@ -3,8 +3,8 @@
   "owner": "crabtalk",
   "name": "crabtalk",
   "full_name": "crabtalk/crabtalk",
-  "description": "Agents daemon that hides nothing",
-  "description_ja": "何も隠さないエージェントデーモン。",
+  "description": "The long-running embedded agent",
+  "description_ja": "",
   "url": "https://github.com/crabtalk/crabtalk",
   "homepage_url": "https://crabtalk.ai",
   "language": "Rust",
@@ -14,17 +14,15 @@
     "agent-runtime",
     "ai",
     "ai-agent",
-    "composable",
-    "developer-tool",
-    "llm"
+    "composable"
   ],
   "star_count": 729,
   "fork_count": 85,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T04:41:33Z",
-  "updated_at": "2026-08-17T07:51:00Z",
-  "pushed_at": "2026-08-17T17:12:12Z",
+  "updated_at": "2026-08-19T10:15:44Z",
+  "pushed_at": "2026-08-19T18:07:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -381,6 +379,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 729
+    },
+    {
+      "date": "2026-08-20",
       "stars": 729
     }
   ]

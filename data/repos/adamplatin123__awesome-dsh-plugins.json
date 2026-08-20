@@ -3,22 +3,27 @@
   "owner": "adamplatin123",
   "name": "awesome-dsh-plugins",
   "full_name": "adamplatin123/awesome-dsh-plugins",
-  "description": "DSH 插件雷达与精选榜：多路自动发现 7600+ 候选，容器真实安装路径运行级实测（四档判定，883/1415 可用），精选 Top 50 · 11 类人工策展，全量索引 PLUGINS-ALL.md，自动更新。",
+  "description": "DSH 插件雷达与精选榜：多路自动发现 9000+ 候选，容器真实安装路径运行级实测（四档判定），精选 Top 50 · 11 类人工策展，全量索引 PLUGINS-ALL.md，自动更新。",
   "description_ja": "",
   "url": "https://github.com/AdamPlatin123/awesome-dsh-plugins",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "dsh-plugin"
+    "agent-plugins",
+    "awesome-list",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "plugin-registry"
   ],
-  "star_count": 1140,
-  "fork_count": 105,
+  "star_count": 1281,
+  "fork_count": 123,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-04T21:46:54Z",
-  "updated_at": "2026-08-17T18:33:23Z",
-  "pushed_at": "2026-08-17T18:33:13Z",
+  "updated_at": "2026-08-20T17:35:43Z",
+  "pushed_at": "2026-08-20T17:25:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -32,6 +37,10 @@
     {
       "date": "2026-08-17",
       "stars": 1140
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 1281
     }
   ]
 }

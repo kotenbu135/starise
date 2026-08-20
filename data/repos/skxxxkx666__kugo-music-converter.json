@@ -3,33 +3,40 @@
   "owner": "skxxxkx666",
   "name": "kugo-music-converter",
   "full_name": "skxxxkx666/kugo-music-converter",
-  "description": "酷狗/网易云加密音频批量转换工具，支持 KGG/KGM/KGMA/VPR/NCM 转 MP3/FLAC/WAV",
+  "description": "酷狗/网易云/酷我/QQ音乐加密音频批量转换工具，支持 KGG/KGM/KGMA/VPR/NCM/KWM/QMC 转 MP3/FLAC/WAV",
   "description_ja": "",
   "url": "https://github.com/skxxxkx666/Kugo-Music-Converter",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/skxxxkx666/Kugo-Music-Converter/releases",
   "language": "Go",
   "license": "GPL-3.0",
   "topics": [
     "audio-converter",
     "decrypt",
-    "drm-removal",
+    "desktop-app",
+    "ffmpeg",
     "flac",
     "golang",
     "kgg",
     "kgm",
     "kugou",
+    "kuwo",
+    "kwm",
     "mp3",
     "music-converter",
     "ncm",
+    "netease-cloud-music",
+    "qmc",
+    "qqmusic",
+    "wails",
     "windows"
   ],
-  "star_count": 113,
-  "fork_count": 8,
+  "star_count": 120,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-18T01:29:30Z",
-  "updated_at": "2026-08-17T10:42:13Z",
-  "pushed_at": "2026-08-03T08:09:05Z",
+  "updated_at": "2026-08-20T10:30:12Z",
+  "pushed_at": "2026-08-19T02:36:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -51,6 +58,10 @@
     {
       "date": "2026-08-17",
       "stars": 113
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 120
     }
   ]
 }

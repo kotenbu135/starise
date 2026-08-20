@@ -3,22 +3,37 @@
   "owner": "zhoushoujianwork",
   "name": "easyeda-agent",
   "full_name": "zhoushoujianwork/easyeda-agent",
-  "description": "",
+  "description": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
   "description_ja": "",
   "url": "https://github.com/zhoushoujianwork/easyeda-agent",
-  "homepage_url": "",
+  "homepage_url": "https://jlc-ext.com/item/zhoushoujian/easyeda-agent-connector",
   "language": "Go",
   "license": "NOASSERTION",
   "topics": [
-    "dsh-plugin"
+    "agent-skill",
+    "ai-agent",
+    "claude-code",
+    "dsh-plugin",
+    "easyeda",
+    "eda",
+    "electronics",
+    "golang",
+    "hardware-design",
+    "jlceda",
+    "lceda",
+    "mcp",
+    "mcp-server",
+    "pcb",
+    "pcb-design",
+    "schematic"
   ],
-  "star_count": 231,
-  "fork_count": 35,
+  "star_count": 259,
+  "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-25T09:29:20Z",
-  "updated_at": "2026-08-17T19:05:25Z",
-  "pushed_at": "2026-08-17T19:01:40Z",
+  "updated_at": "2026-08-20T17:30:01Z",
+  "pushed_at": "2026-08-20T17:26:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -120,6 +135,10 @@
     {
       "date": "2026-08-17",
       "stars": 231
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 259
     }
   ]
 }

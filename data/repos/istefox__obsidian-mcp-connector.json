@@ -3,25 +3,29 @@
   "owner": "istefox",
   "name": "obsidian-mcp-connector",
   "full_name": "istefox/obsidian-mcp-connector",
-  "description": "Add integrations like semantic search and custom Templater prompts to Claude or any MCP client.",
+  "description": "Your Obsidian vault, exposed to Claude and any MCP client. Runs inside Obsidian, on-device semantic search, no cloud round-trip, no binary to download.",
   "description_ja": "",
   "url": "https://github.com/istefox/obsidian-mcp-connector",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "ai-tools",
     "claude",
+    "local-first",
     "mcp",
     "model-context-protocol",
-    "obsidian-plugin"
+    "obsidian-plugin",
+    "semantic-search",
+    "typescript"
   ],
-  "star_count": 42,
+  "star_count": 45,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-11T08:56:09Z",
-  "updated_at": "2026-08-17T18:54:04Z",
-  "pushed_at": "2026-08-17T19:14:26Z",
+  "updated_at": "2026-08-19T23:25:53Z",
+  "pushed_at": "2026-08-19T12:51:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -83,6 +87,10 @@
     {
       "date": "2026-08-17",
       "stars": 42
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 45
     }
   ]
 }

@@ -3,15 +3,14 @@
   "owner": "ediwang",
   "name": "moonglade",
   "full_name": "ediwang/moonglade",
-  "description": "Blog system of https://edi.wang, runs on Microsoft Azure",
-  "description_ja": "https://edi.wang のブログシステム。Microsoft Azure 上で動作",
+  "description": "Blog system of https://edi.wang",
+  "description_ja": "",
   "url": "https://github.com/EdiWang/Moonglade",
   "homepage_url": "https://edi.wang",
   "language": "C#",
   "license": "GPL-3.0",
   "topics": [
     "aspnet-core",
-    "azure",
     "azure-app-service",
     "azure-blob-storage",
     "azure-sql-database",
@@ -25,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-01-30T05:51:33Z",
-  "updated_at": "2026-08-17T07:15:30Z",
-  "pushed_at": "2026-08-17T07:15:02Z",
+  "updated_at": "2026-08-20T05:53:52Z",
+  "pushed_at": "2026-08-20T05:53:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +382,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 537
+    },
+    {
+      "date": "2026-08-20",
       "stars": 537
     }
   ]

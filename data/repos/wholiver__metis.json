@@ -3,30 +3,40 @@
   "owner": "wholiver",
   "name": "metis",
   "full_name": "wholiver/metis",
-  "description": "A self-improving agent for enhancing LLM coding performance / 一个很强的 Coding agent， 可提升模型编程性能以及质量",
+  "description": "Metis is a coding agent that boosts coding performance by 50%",
   "description_ja": "",
   "url": "https://github.com/Wholiver/metis",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "",
   "topics": [
-    "agent",
-    "ai",
+    "agent-orchestration",
+    "agent-skills",
+    "agentic-workflow",
+    "ai-agents",
+    "ai-coding",
+    "automated-testing",
+    "autonomous-agents",
+    "claude-code",
     "cli",
-    "coding-agent",
-    "hermes",
-    "llm",
-    "tui",
-    "typescript",
-    "vibe-coding",
-    "vibecoding"
+    "code-review",
+    "codex",
+    "coding-agents",
+    "developer-tools",
+    "github-copilot",
+    "multi-agent-systems",
+    "opencode",
+    "prompt-engineering",
+    "subagents",
+    "test-driven-development",
+    "workflow-automation"
   ],
-  "star_count": 45,
+  "star_count": 46,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-11T07:02:59Z",
-  "updated_at": "2026-08-17T13:42:15Z",
+  "updated_at": "2026-08-19T03:03:48Z",
   "pushed_at": "2026-08-16T03:20:18Z",
   "deleted_at": "",
   "star_history": [
@@ -41,6 +51,10 @@
     {
       "date": "2026-08-17",
       "stars": 45
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 46
     }
   ]
 }

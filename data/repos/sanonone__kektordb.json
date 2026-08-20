@@ -10,6 +10,9 @@
   "language": "Go",
   "license": "NOASSERTION",
   "topics": [
+    "agent-memory",
+    "agent-memory-mcp",
+    "agent-memory-system",
     "ai",
     "ai-memory",
     "ai-memory-system",
@@ -32,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-05T09:36:35Z",
-  "updated_at": "2026-08-12T13:28:58Z",
-  "pushed_at": "2026-08-17T11:14:18Z",
+  "updated_at": "2026-08-20T08:45:12Z",
+  "pushed_at": "2026-08-20T12:30:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -390,6 +393,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 83
+    },
+    {
+      "date": "2026-08-20",
       "stars": 83
     }
   ]

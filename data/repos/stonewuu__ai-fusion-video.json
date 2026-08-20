@@ -3,7 +3,7 @@
   "owner": "stonewuu",
   "name": "ai-fusion-video",
   "full_name": "stonewuu/ai-fusion-video",
-  "description": "【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java 底层 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on a Java backend.",
+  "description": "【融光】 - 基于 Agent 的全流程AI短剧/漫剧/视频创作平台 - Java \u0026 agentscope2.0 | Agent-based end-to-end AI creation platform for short dramas, motion comics, and videos – built on Java \u0026 \u0026 agentscope 2.0.",
   "description_ja": "",
   "url": "https://github.com/Stonewuu/ai-fusion-video",
   "homepage_url": "",
@@ -11,18 +11,19 @@
   "license": "MIT",
   "topics": [
     "agents",
+    "agentscope",
     "automation",
     "java",
     "short-drama",
     "video-generation"
   ],
-  "star_count": 1304,
-  "fork_count": 271,
+  "star_count": 1326,
+  "fork_count": 281,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T15:08:46Z",
-  "updated_at": "2026-08-17T16:38:31Z",
-  "pushed_at": "2026-08-06T15:20:55Z",
+  "updated_at": "2026-08-20T13:00:17Z",
+  "pushed_at": "2026-08-18T04:36:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -368,6 +369,10 @@
     {
       "date": "2026-08-17",
       "stars": 1304
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 1326
     }
   ]
 }

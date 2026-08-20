@@ -3,7 +3,7 @@
   "owner": "topscoder",
   "name": "nuclei-wordfence-cve",
   "full_name": "topscoder/nuclei-wordfence-cve",
-  "description": "75k+ WordPress Nuclei templates, updated daily from Wordfence intel—filter by severity/tags/CVE and scan in one line. 🚀🔒",
+  "description": "80k+ WordPress Nuclei templates, updated daily from Wordfence intel—filter by severity/tags/CVE and scan in one line. 🚀🔒",
   "description_ja": "",
   "url": "https://github.com/topscoder/nuclei-wordfence-cve",
   "homepage_url": "",
@@ -31,12 +31,12 @@
     "wordpress"
   ],
   "star_count": 1275,
-  "fork_count": 154,
+  "fork_count": 155,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-28T21:32:00Z",
-  "updated_at": "2026-08-17T07:28:00Z",
-  "pushed_at": "2026-08-17T07:26:43Z",
+  "updated_at": "2026-08-20T07:12:39Z",
+  "pushed_at": "2026-08-20T07:11:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -389,6 +389,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 1275
+    },
+    {
+      "date": "2026-08-20",
       "stars": 1275
     }
   ]

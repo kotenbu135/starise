@@ -3,7 +3,7 @@
   "owner": "huiliyi37",
   "name": "tianshu-harness",
   "full_name": "huiliyi37/tianshu-harness",
-  "description": "天枢 (Tianshu) 是一个基于harness工程的终端编程智能体运行时（TUI），针对DeepSeek V4 做了前缀缓存工程优化（长会话实测稳态命中率 95–99%）和深度适配。它跳出了传统 AI 编程助手把大模型仅当成“工具”的局限，基于认知虚拟机 (CVM)、自感知层和信息素（Stigmergy）自衰减记忆构建，让 AI 成为有独立判断与认知防护的“开发伙伴”。",
+  "description": "天枢 (Tianshu) 是一个基于harness工程的终端编程智能体运行时（Tui X Gui），针对DeepSeek V4 做了前缀缓存工程优化（长会话实测稳态命中率 97–99%）和深度适配。它跳出了传统 AI 编程助手把大模型仅当成“工具”的局限，基于认知虚拟机 (CVM)、自感知层和信息素（Stigmergy）自衰减记忆构建，让 AI 成为有独立判断与认知防护的“开发伙伴”。",
   "description_ja": "",
   "url": "https://github.com/huiliyi37/Tianshu-harness",
   "homepage_url": "",
@@ -14,18 +14,20 @@
     "coding-agent",
     "context-management",
     "deepseek",
+    "dsh",
+    "gui",
     "harness",
     "harness-engineering",
     "prefix-cache",
     "tui"
   ],
-  "star_count": 242,
-  "fork_count": 21,
+  "star_count": 245,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T13:40:47Z",
-  "updated_at": "2026-08-17T17:09:13Z",
-  "pushed_at": "2026-08-17T03:21:10Z",
+  "updated_at": "2026-08-20T03:52:37Z",
+  "pushed_at": "2026-08-19T01:51:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +137,10 @@
     {
       "date": "2026-08-17",
       "stars": 242
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 245
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "ypollak2",
   "name": "llm-router",
   "full_name": "ypollak2/llm-router",
-  "description": "  Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more.        Free-first fallback chain keeps costs 70–85% lower.",
+  "description": "Universal LLM router for AI coding tools. Works with Claude Code, Cursor, Codex, Gemini CLI, Copilot and more. Free-first fallback chain cuts costs 35-80%.",
   "description_ja": "",
   "url": "https://github.com/ypollak2/llm-router",
   "homepage_url": "",
@@ -24,13 +24,13 @@
     "ollama",
     "openai"
   ],
-  "star_count": 70,
+  "star_count": 71,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-28T21:49:28Z",
-  "updated_at": "2026-08-17T06:37:31Z",
-  "pushed_at": "2026-08-05T13:27:59Z",
+  "updated_at": "2026-08-20T10:46:52Z",
+  "pushed_at": "2026-08-20T10:45:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -260,6 +260,10 @@
     {
       "date": "2026-08-17",
       "stars": 70
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 71
     }
   ]
 }

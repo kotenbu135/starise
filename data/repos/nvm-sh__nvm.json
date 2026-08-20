@@ -3,8 +3,8 @@
   "owner": "nvm-sh",
   "name": "nvm",
   "full_name": "nvm-sh/nvm",
-  "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-  "description_ja": "Node Version Manager — 複数のアクティブなNode.jsバージョンを管理するPOSIX準拠のbashスクリプト",
+  "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+  "description_ja": "",
   "url": "https://github.com/nvm-sh/nvm",
   "homepage_url": "",
   "language": "Shell",
@@ -24,13 +24,13 @@
     "version-manager",
     "zsh"
   ],
-  "star_count": 94622,
-  "fork_count": 10371,
+  "star_count": 94663,
+  "fork_count": 10382,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2010-04-15T17:47:47Z",
-  "updated_at": "2026-08-17T18:24:59Z",
-  "pushed_at": "2026-07-24T19:11:41Z",
+  "updated_at": "2026-08-20T20:06:18Z",
+  "pushed_at": "2026-08-18T06:42:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -396,6 +396,10 @@
     {
       "date": "2026-08-17",
       "stars": 94622
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 94663
     }
   ]
 }

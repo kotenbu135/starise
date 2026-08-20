@@ -3,7 +3,7 @@
   "owner": "stickerdaniel",
   "name": "saas-starter",
   "full_name": "stickerdaniel/saas-starter",
-  "description": "Open-source SvelteKit + Convex SaaS template that gets harder to break the more agents work on it. Auth, billing, admin, AI chat, email, and i18n ship end to end. Every recurring bug class becomes an ESLint rule, banned-pattern check, test, or validator, enforced in CI. Deploy on Cloudflare or Vercel for $0.",
+  "description": "SvelteKit + Convex-native SaaS starter optimised for coding agents, with auth, billing, admin, AI, and built-in regression guardrails.",
   "description_ja": "",
   "url": "https://github.com/stickerdaniel/saas-starter",
   "homepage_url": "https://saas.daniel.sticker.name",
@@ -31,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-18T20:35:25Z",
-  "updated_at": "2026-08-14T12:21:10Z",
-  "pushed_at": "2026-08-17T17:31:06Z",
+  "updated_at": "2026-08-20T19:47:46Z",
+  "pushed_at": "2026-08-20T19:53:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -345,6 +345,10 @@
     },
     {
       "date": "2026-08-17",
+      "stars": 51
+    },
+    {
+      "date": "2026-08-20",
       "stars": 51
     }
   ]

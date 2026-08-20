@@ -3,7 +3,7 @@
   "owner": "wshobson",
   "name": "agents",
   "full_name": "wshobson/agents",
-  "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
+  "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity",
   "description_ja": "",
   "url": "https://github.com/wshobson/agents",
   "homepage_url": "https://sethhobson.com",
@@ -15,29 +15,29 @@
     "agents",
     "ai-agents",
     "anthropic",
-    "automation",
+    "antigravity",
+    "claude",
     "claude-code",
     "claude-code-plugins",
-    "codex-cli",
+    "claude-skills",
+    "codex",
     "copilot",
     "cursor",
     "cursor-rules",
     "developer-tools",
-    "gemini-cli",
     "mcp",
     "multi-agent",
     "opencode",
-    "orchestration",
     "prompt-engineering",
-    "workflows"
+    "subagents"
   ],
-  "star_count": 38869,
-  "fork_count": 4140,
+  "star_count": 38959,
+  "fork_count": 4146,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-24T23:28:14Z",
-  "updated_at": "2026-08-17T19:11:39Z",
-  "pushed_at": "2026-08-17T01:09:44Z",
+  "updated_at": "2026-08-20T20:38:01Z",
+  "pushed_at": "2026-08-18T15:56:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -395,6 +395,10 @@
     {
       "date": "2026-08-17",
       "stars": 38869
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 38959
     }
   ]
 }

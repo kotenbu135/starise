@@ -3,13 +3,14 @@
   "owner": "scottcjn",
   "name": "rustchain",
   "full_name": "scottcjn/rustchain",
-  "description": "DePIN for Vintage Hardware — Proof-of-Antiquity blockchain where old machines outmine new ones. AI-powered hardware fingerprinting, 15+ CPU architectures, Solana bridge (wRTC). $0 VC.",
-  "description_ja": "ヴィンテージハードウェア向け DePIN — 古いマシンが新しいマシンを上回る Proof-of-Antiquity ブロックチェーン。AI によるハードウェアフィンガープリンティング、15 以上の CPU アーキテクチャ対応、Solana ブリッジ（wRTC）。VC 資金ゼロ。",
+  "description": "Sybil-resistant AI agent network with hardware-attested identity. Proof-of-Antiquity blockchain: physical machines across 15+ CPU architectures prove they are real silicon, not VM farms. Agent economy, micropayments, Solana bridge (wRTC). $0 VC.",
+  "description_ja": "",
   "url": "https://github.com/Scottcjn/Rustchain",
   "homepage_url": "https://rustchain.org",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "agent-authentication",
     "agent-economy",
     "ai",
     "ai-agents",
@@ -17,27 +18,26 @@
     "cryptocurrency",
     "decentralized",
     "depin",
-    "e-waste",
     "green-computing",
+    "hardware-attestation",
     "hardware-fingerprinting",
-    "machine-to-machine",
     "micropayments",
     "mining",
+    "multi-agent-systems",
     "open-source",
-    "powerpc",
     "proof-of-antiquity",
-    "python",
     "solana",
     "sovereign-inference",
+    "sybil-resistance",
     "vintage-hardware"
   ],
-  "star_count": 611,
-  "fork_count": 529,
+  "star_count": 676,
+  "fork_count": 533,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-21T15:12:18Z",
-  "updated_at": "2026-08-17T19:13:30Z",
-  "pushed_at": "2026-08-14T04:02:45Z",
+  "updated_at": "2026-08-20T20:19:15Z",
+  "pushed_at": "2026-08-20T15:50:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -391,6 +391,10 @@
     {
       "date": "2026-08-17",
       "stars": 611
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 676
     }
   ]
 }

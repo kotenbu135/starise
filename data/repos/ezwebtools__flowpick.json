@@ -10,23 +10,23 @@
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "bilibili-downloader",
     "browser-extension",
     "hls-downloader",
     "image-downloader",
     "m3u8-downloader",
     "m3u8-to-mp4",
     "media-capture",
-    "media-downloader",
     "mpd-downloader",
     "video-sniffer",
     "web-extension"
   ],
-  "star_count": 146,
+  "star_count": 149,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T12:41:57Z",
-  "updated_at": "2026-08-17T12:22:55Z",
+  "updated_at": "2026-08-20T10:36:16Z",
   "pushed_at": "2026-08-13T17:51:03Z",
   "deleted_at": "",
   "star_history": [
@@ -165,6 +165,10 @@
     {
       "date": "2026-08-17",
       "stars": 146
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 149
     }
   ]
 }

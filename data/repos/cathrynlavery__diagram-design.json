@@ -3,20 +3,29 @@
   "owner": "cathrynlavery",
   "name": "diagram-design",
   "full_name": "cathrynlavery/diagram-design",
-  "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+  "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
   "description_ja": "",
   "url": "https://github.com/cathrynlavery/diagram-design",
-  "homepage_url": "",
+  "homepage_url": "https://cathrynlavery.github.io/diagram-design/",
   "language": "HTML",
   "license": "MIT",
-  "topics": [],
-  "star_count": 20409,
-  "fork_count": 1251,
+  "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "data-visualization",
+    "diagrams",
+    "drawio",
+    "mermaid",
+    "svg"
+  ],
+  "star_count": 24183,
+  "fork_count": 1467,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-16T18:01:16Z",
-  "updated_at": "2026-08-17T18:50:41Z",
-  "pushed_at": "2026-08-14T21:28:44Z",
+  "updated_at": "2026-08-20T19:10:31Z",
+  "pushed_at": "2026-08-20T19:06:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -374,6 +383,10 @@
     {
       "date": "2026-08-17",
       "stars": 20409
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 24183
     }
   ]
 }

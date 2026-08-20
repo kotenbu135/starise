@@ -3,40 +3,41 @@
   "owner": "rockbenben",
   "name": "chatgpt-shortcut",
   "full_name": "rockbenben/chatgpt-shortcut",
-  "description": "🚀💪Maximize your efficiency and productivity. The ultimate hub to manage, customize, and share prompts. (English/中文/Español/العربية). 让生产力加倍的 AI 快捷指令。更高效地管理提示词，在分享社区中发现适用于不同场景的灵感。",
-  "description_ja": "効率と生産性を最大化するための究極のプロンプト管理・カスタマイズ・共有ハブ。（English/中文/Español/العربية）AIプロンプトで生産性を倍増。プロンプトをより効率的に管理し、コミュニティでさまざまなシナリオに役立つインスピレーションを発見。",
+  "description": "💪 Build your own AI prompt library — 5000+ community prompts for ChatGPT, Claude, Gemini and Cursor ｜ AI 快捷指令：把好用的提示词收进自己的库，5000+ 社区提示词随取",
+  "description_ja": "",
   "url": "https://github.com/rockbenben/ChatGPT-Shortcut",
   "homepage_url": "https://www.aishort.top/en",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "ai",
+    "ai-prompt",
+    "ai-prompts",
     "ai-tools",
     "aigc",
     "chatgpt",
-    "chatgpt-api",
     "chatgpt-prompts",
+    "chrome-extension",
+    "claude",
+    "cursor",
+    "deepseek",
     "docusaurus",
+    "gemini",
     "generative-ai",
-    "gpt",
-    "gpt-4",
-    "llm",
-    "openai",
     "productivity",
     "prompt",
     "prompt-engineering",
     "prompt-library",
-    "prompts",
-    "react",
-    "typescript"
+    "prompt-management",
+    "prompt-templates",
+    "prompts"
   ],
-  "star_count": 8688,
-  "fork_count": 949,
+  "star_count": 8698,
+  "fork_count": 948,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-24T12:53:49Z",
-  "updated_at": "2026-08-17T10:56:36Z",
-  "pushed_at": "2026-08-03T12:08:22Z",
+  "updated_at": "2026-08-20T18:02:08Z",
+  "pushed_at": "2026-08-20T16:14:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +395,10 @@
     {
       "date": "2026-08-17",
       "stars": 8688
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 8698
     }
   ]
 }

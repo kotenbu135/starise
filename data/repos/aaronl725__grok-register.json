@@ -3,7 +3,7 @@
   "owner": "aaronl725",
   "name": "grok-register",
   "full_name": "aaronl725/grok-register",
-  "description": "批量注册稳定 Grok 账号，可直接导入 grok2api 和 cpa 使用，并且可以与cloudflare无限域名邮箱等联动。通过1000+账号连续注册测试。",
+  "description": "批量稳定注册 Grok 账号，支持 WebUI/GUI/CLI、多邮箱服务、多线程并发、账号级多协议代理池、grok2api 入池、SSO 风控筛查与CPA OIDC 凭证导出。",
   "description_ja": "",
   "url": "https://github.com/AaronL725/grok-register",
   "homepage_url": "",
@@ -18,12 +18,12 @@
     "tkinter",
     "webui"
   ],
-  "star_count": 2093,
-  "fork_count": 481,
+  "star_count": 2124,
+  "fork_count": 484,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-10T18:43:16Z",
-  "updated_at": "2026-08-17T16:53:55Z",
+  "updated_at": "2026-08-20T17:35:46Z",
   "pushed_at": "2026-08-17T02:03:35Z",
   "deleted_at": "",
   "star_history": [
@@ -134,6 +134,10 @@
     {
       "date": "2026-08-17",
       "stars": 2093
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 2124
     }
   ]
 }

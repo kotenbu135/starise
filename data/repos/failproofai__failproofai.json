@@ -3,41 +3,41 @@
   "owner": "failproofai",
   "name": "failproofai",
   "full_name": "failproofai/failproofai",
-  "description": "Runtime failure resolution for coding agents. Hooks into Claude Code, Codex \u0026 your favourite harnesses. Catches loops, dangerous actions, and secret leaks before they become incidents. Zero latency. Runs locally.",
+  "description": "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.  40 built-in policies, a local dashboard, no account required with a generous free cloud plan",
   "description_ja": "",
   "url": "https://github.com/FailproofAI/failproofai",
   "homepage_url": "https://befailproof.ai",
-  "language": "TypeScript",
+  "language": "MDX",
   "license": "NOASSERTION",
   "topics": [
     "agent-failure",
+    "agent-harness",
+    "agent-observability",
     "agent-reliability",
+    "agent-tracing",
     "ai-agent",
-    "claude",
     "claude-code",
-    "claude-hooks",
     "codex",
-    "coding-agent",
-    "cursor",
-    "error-handling",
-    "gemini-cli",
+    "enforcement",
+    "evals",
+    "guardrails",
+    "hermes",
     "hooks",
     "llm",
     "llm-failures",
-    "npm",
+    "llm-observability",
     "npm-package",
-    "openai",
-    "opencode",
-    "picode",
+    "observability",
+    "openclaw",
     "reliability"
   ],
-  "star_count": 1121,
-  "fork_count": 44,
+  "star_count": 1185,
+  "fork_count": 107,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-06T01:56:39Z",
-  "updated_at": "2026-08-17T15:26:40Z",
-  "pushed_at": "2026-08-17T18:51:37Z",
+  "updated_at": "2026-08-20T11:37:45Z",
+  "pushed_at": "2026-08-20T14:41:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -315,6 +315,10 @@
     {
       "date": "2026-08-17",
       "stars": 1121
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 1185
     }
   ]
 }

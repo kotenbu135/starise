@@ -3,10 +3,10 @@
   "owner": "vladimir-human",
   "name": "ru-marketplace-mcp",
   "full_name": "vladimir-human/ru-marketplace-mcp",
-  "description": "Девять российских маркетплейсов и китайский Taobao как MCP-серверы: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, Мегамаркет, Lamoda, DNS, Ситилинк. Плюс сравнение цен по всем сразу. Только чтение, ключи не нужны.",
+  "description": "Одиннадцать маркетплейсов как MCP-серверы: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, AliExpress, Taobao, Мегамаркет, Lamoda, DNS, Ситилинк. Плюс сравнение цен по всем сразу. Только чтение, ключи не нужны.",
   "description_ja": "",
   "url": "https://github.com/Vladimir-Human/ru-marketplace-mcp",
-  "homepage_url": "https://github.com/Vladimir-Human/ru-marketplace-mcp/releases/tag/v1.4.1",
+  "homepage_url": "https://github.com/Vladimir-Human/ru-marketplace-mcp/releases/tag/v1.5.1",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "wildberries",
     "yandex-market"
   ],
-  "star_count": 64,
+  "star_count": 66,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-26T17:56:16Z",
-  "updated_at": "2026-08-17T19:42:45Z",
-  "pushed_at": "2026-08-17T10:52:51Z",
+  "updated_at": "2026-08-20T20:37:32Z",
+  "pushed_at": "2026-08-20T20:37:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     {
       "date": "2026-08-17",
       "stars": 64
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 66
     }
   ]
 }
