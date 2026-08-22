@@ -3,7 +3,7 @@
   "owner": "n3rada",
   "name": "ropcatalog",
   "full_name": "n3rada/ropcatalog",
-  "description": "Finding and classifying ROP gadgets from rp++ output file with some regex and a CLI.",
+  "description": "Finding and classifying ROP gadgets from rp++ output file with some regex and a CLI. Built during an OffSec journey, primarily for the EXP-301 and EXP-401 courses.",
   "description_ja": "",
   "url": "https://github.com/n3rada/ropcatalog",
   "homepage_url": "",
@@ -36,7 +36,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-11T15:54:40Z",
-  "updated_at": "2026-08-01T00:09:06Z",
+  "updated_at": "2026-08-20T23:04:01Z",
   "pushed_at": "2026-06-12T10:09:18Z",
   "deleted_at": "",
   "star_history": [
@@ -318,6 +318,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 36
+    },
+    {
+      "date": "2026-08-22",
       "stars": 36
     }
   ]

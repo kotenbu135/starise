@@ -3,12 +3,12 @@
   "owner": "eracle",
   "name": "openoutreach",
   "full_name": "eracle/openoutreach",
-  "description": "Open-source AI lead finder: describe your product, it finds the people who fit and tells you why each one does.",
+  "description": "Open-source AI agent for B2B lead generation — describe your product, it finds the people who fit and explains why each one does, then exports a CSV your cold-email tool can send. Self-hosted CLI.",
   "description_ja": "",
   "url": "https://github.com/eracle/OpenOutreach",
   "homepage_url": "https://openoutreach.app",
   "language": "Python",
-  "license": "NOASSERTION",
+  "license": "GPL-3.0",
   "topics": [
     "agent",
     "agentic",
@@ -28,13 +28,13 @@
     "sales-intelligence",
     "self-hosted"
   ],
-  "star_count": 2771,
-  "fork_count": 527,
+  "star_count": 2801,
+  "fork_count": 531,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-10-07T18:10:30Z",
-  "updated_at": "2026-08-20T19:08:36Z",
-  "pushed_at": "2026-08-20T19:02:54Z",
+  "updated_at": "2026-08-22T18:58:47Z",
+  "pushed_at": "2026-08-22T18:58:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -396,6 +396,10 @@
     {
       "date": "2026-08-20",
       "stars": 2771
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 2801
     }
   ]
 }

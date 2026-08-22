@@ -3,16 +3,16 @@
   "owner": "atrocore",
   "name": "atrocore",
   "full_name": "atrocore/atrocore",
-  "description": "AtroCore is an enterprise-ready, highly configurable, and scalable open-source Data Management and System Integration Platform. It can be used for Master Data Management (MDM), Product Information Management (PIM), Business Process Management (BPM), and much more.",
-  "description_ja": "AtroCore は、エンタープライズ対応の高度に設定可能でスケーラブルなオープンソースデータ管理・システム統合プラットフォームです。MDM・PIM・BPM などに活用できます。",
+  "description": "AtroCore is an enterprise-ready, highly configurable Business Application Platform for managing complex data, integrating systems, and building custom business applications. It provides ready-made solutions for Master Data Management (MDM), Product Information Management (PIM), Digital Asset Management (DAM), and more.",
+  "description_ja": "",
   "url": "https://github.com/atrocore/atrocore",
   "homepage_url": "https://www.atrocore.com/en",
   "language": "JavaScript",
   "license": "GPL-3.0",
   "topics": [
     "api-first",
-    "application-development",
     "b2b",
+    "business-application-platform",
     "business-process-management",
     "dam",
     "data-governance",
@@ -32,12 +32,12 @@
     "system-integration"
   ],
   "star_count": 228,
-  "fork_count": 60,
+  "fork_count": 61,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-09-24T12:40:09Z",
-  "updated_at": "2026-08-20T12:10:30Z",
-  "pushed_at": "2026-08-20T12:12:40Z",
+  "updated_at": "2026-08-22T14:15:13Z",
+  "pushed_at": "2026-08-22T14:11:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +394,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 228
+    },
+    {
+      "date": "2026-08-22",
       "stars": 228
     }
   ]

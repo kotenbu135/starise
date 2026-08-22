@@ -3,7 +3,7 @@
   "owner": "yusong652",
   "name": "itasca-mcp",
   "full_name": "yusong652/itasca-mcp",
-  "description": "MCP server connecting AI agents to ITASCA engines (PFC, FLAC, 3DEC, MPoint, MassFlow) — run numerical simulations through natural conversation",
+  "description": "MCP server connecting AI agents to ITASCA engines (PFC, FLAC, 3DEC, MPoint, MassFlow) — run geotechnical \u0026 geomechanics simulations through natural conversation",
   "description_ja": "",
   "url": "https://github.com/yusong652/itasca-mcp",
   "homepage_url": "https://pypi.org/project/itasca-mcp/",
@@ -20,23 +20,24 @@
     "flac",
     "gemini-cli",
     "geomechanics",
+    "geotechnical-engineering",
     "itasca",
-    "itasca-pfc",
     "llm-tools",
     "mcp",
     "mcp-server",
     "model-context-protocol",
     "particle-flow-code",
     "pfc",
-    "simulation"
+    "simulation",
+    "soil-mechanics"
   ],
-  "star_count": 156,
+  "star_count": 157,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T09:31:43Z",
-  "updated_at": "2026-08-18T18:19:37Z",
-  "pushed_at": "2026-08-18T18:20:04Z",
+  "updated_at": "2026-08-22T20:21:54Z",
+  "pushed_at": "2026-08-22T20:21:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -338,6 +339,10 @@
     {
       "date": "2026-08-20",
       "stars": 156
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 157
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "alicankaya192",
   "name": "data-science-roadmap",
   "full_name": "alicankaya192/data-science-roadmap",
-  "description": "İstatistikten Makine Öğrenmesine kadar uzanan süreçte Veri Bilimi temellerini, Python uygulamalarını ve sektörel çalışma notlarını içeren kapsamlı bir yol haritası.",
+  "description": "Python temellerinden Reinforcement Learning'e kadar uzanan, 22 modüllük uçtan uca Veri Bilimi \u0026 Makine Öğrenmesi yol haritası. Her konuda çalıştırılmış notebook'lar ve PDF tekrar soruları.",
   "description_ja": "",
   "url": "https://github.com/AlicanKaya192/Data-Science-RoadMap",
   "homepage_url": "https://alican-kaya.com",
@@ -12,11 +12,19 @@
   "topics": [
     "crm",
     "data-science",
+    "data-visualization",
+    "deep-learning",
+    "docker",
+    "generative-ai",
+    "llm",
     "machine-learning",
+    "nlp",
     "numpy",
     "pandas",
     "python",
+    "reinforcement-learning",
     "roadmap",
+    "sql",
     "statistics"
   ],
   "star_count": 55,
@@ -24,8 +32,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-26T17:16:39Z",
-  "updated_at": "2026-08-17T07:54:04Z",
-  "pushed_at": "2026-08-08T20:49:03Z",
+  "updated_at": "2026-08-22T17:36:23Z",
+  "pushed_at": "2026-08-22T17:36:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -118,6 +126,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 55
+    },
+    {
+      "date": "2026-08-22",
       "stars": 55
     }
   ]

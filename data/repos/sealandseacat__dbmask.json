@@ -3,20 +3,30 @@
   "owner": "sealandseacat",
   "name": "dbmask",
   "full_name": "sealandseacat/dbmask",
-  "description": "we are trying to detect and mask all the sensitive data in your testing environment so it reduce the damage during data breach and cyberattack",
+  "description": "Discover, mask, and validate sensitive data in any database — for every environment your data flows to.",
   "description_ja": "",
   "url": "https://github.com/sealandseacat/dbmask",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "anonymization",
+    "data-governance",
+    "data-mask",
+    "data-masking",
+    "gdpr",
+    "pii",
+    "privacy",
+    "security",
+    "sqlachemy"
+  ],
   "star_count": 124,
-  "fork_count": 16,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T23:14:51Z",
-  "updated_at": "2026-08-20T17:51:03Z",
-  "pushed_at": "2026-08-20T17:49:24Z",
+  "updated_at": "2026-08-21T22:53:18Z",
+  "pushed_at": "2026-08-21T00:20:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -125,6 +135,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 124
+    },
+    {
+      "date": "2026-08-22",
       "stars": 124
     }
   ]

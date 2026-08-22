@@ -3,7 +3,7 @@
   "owner": "colorlibhq",
   "name": "gentelella",
   "full_name": "colorlibhq/gentelella",
-  "description": "Free Bootstrap 5 Admin Dashboard Template",
+  "description": "Free admin dashboard template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery.",
   "description_ja": "",
   "url": "https://github.com/ColorlibHQ/gentelella",
   "homepage_url": "https://gentelella.colorlib.com/",
@@ -18,26 +18,26 @@
     "admin-template",
     "admin-ui",
     "bootstrap",
-    "bootstrap-5",
-    "bootstrap-5-admin-template",
-    "bootstrap-5-dashboard",
-    "bootstrap-5-template",
     "bootstrap-admin-panel",
     "colorlib",
     "css",
+    "dark-mode",
     "dashboard",
     "dashboard-template",
     "dashboard-templates",
     "html",
-    "html-template"
+    "html-template",
+    "scss",
+    "vanilla-javascript",
+    "vite"
   ],
-  "star_count": 21484,
-  "fork_count": 6831,
+  "star_count": 21486,
+  "fork_count": 6830,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-05-15T06:57:27Z",
-  "updated_at": "2026-08-20T11:08:52Z",
-  "pushed_at": "2026-08-07T11:43:10Z",
+  "updated_at": "2026-08-22T05:34:56Z",
+  "pushed_at": "2026-08-21T13:25:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -367,6 +367,10 @@
     {
       "date": "2026-08-20",
       "stars": 21484
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 21486
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "tw93",
   "name": "mole",
   "full_name": "tw93/mole",
-  "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.",
+  "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.",
   "description_ja": "",
   "url": "https://github.com/tw93/Mole",
   "homepage_url": "https://mole.fit",
@@ -14,25 +14,28 @@
     "appcleaner",
     "clean",
     "cleaner",
-    "cleaner-cli",
-    "cleaner-script",
+    "cleanmymac",
     "command-line",
     "daisydisk",
     "istat",
     "mac",
     "macos",
+    "macos-app",
+    "native",
     "optimize",
     "sensei",
     "shell",
+    "swift",
+    "swiftui",
     "uninstall"
   ],
-  "star_count": 64362,
-  "fork_count": 2255,
+  "star_count": 64557,
+  "fork_count": 2258,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-23T06:38:40Z",
-  "updated_at": "2026-08-20T20:32:36Z",
-  "pushed_at": "2026-08-17T19:11:17Z",
+  "updated_at": "2026-08-22T20:39:59Z",
+  "pushed_at": "2026-08-22T14:12:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +405,10 @@
     {
       "date": "2026-08-20",
       "stars": 64362
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 64557
     }
   ]
 }

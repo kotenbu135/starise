@@ -6,8 +6,8 @@
   "description": "Cross-platform NES Emulator built with Dart and Flutter",
   "description_ja": "DartとFlutterで構築されたクロスプラットフォームNESエミュレーター。",
   "url": "https://github.com/jpjonte/NESd",
-  "homepage_url": "",
-  "language": "C",
+  "homepage_url": "https://nesd.jpj.dev",
+  "language": "Dart",
   "license": "MIT",
   "topics": [
     "dart",
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-23T10:08:26Z",
-  "updated_at": "2026-08-20T14:00:56Z",
-  "pushed_at": "2026-08-20T14:07:52Z",
+  "updated_at": "2026-08-22T08:38:17Z",
+  "pushed_at": "2026-08-22T09:03:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -378,6 +378,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 67
+    },
+    {
+      "date": "2026-08-22",
       "stars": 67
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "vinhnx",
   "name": "vtcode",
   "full_name": "vinhnx/vtcode",
-  "description": "VT Code is a Rust coding agent with LLM-native code understanding, OS-native sandboxing, and multi-provider support.",
+  "description": "VT Code is an open-source Rust terminal coding agent.",
   "description_ja": "",
   "url": "https://github.com/vinhnx/VTCode",
   "homepage_url": "https://github.com/vinhnx/VTCode/wiki",
@@ -20,13 +20,13 @@
     "terminal",
     "tui"
   ],
-  "star_count": 812,
-  "fork_count": 76,
+  "star_count": 816,
+  "fork_count": 77,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-29T09:01:48Z",
-  "updated_at": "2026-08-20T19:50:09Z",
-  "pushed_at": "2026-08-19T15:33:27Z",
+  "updated_at": "2026-08-22T10:20:21Z",
+  "pushed_at": "2026-08-22T10:19:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -384,6 +384,10 @@
     {
       "date": "2026-08-20",
       "stars": 812
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 816
     }
   ]
 }

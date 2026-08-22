@@ -3,7 +3,7 @@
   "owner": "akiralereal",
   "name": "iptv",
   "full_name": "akiralereal/iptv",
-  "description": "基于 Docker 的 IPTV 直播源管理与分发系统：可视化后台、咪咕源抓取（含体育赛事/EPG），支持外部源管理与 m3u txt 订阅；内置纬来体育、Red Bull、4K 卫视及港澳台等，开箱即用。",
+  "description": "基于 Docker 的 IPTV 直播源管理与分发系统：可视化后台、直播源抓取（含体育赛事/EPG），支持外部源管理与 m3u txt 订阅；内置纬来体育、Red Bull、4K 卫视及港澳台等，开箱即用。",
   "description_ja": "",
   "url": "https://github.com/akiralereal/iptv",
   "homepage_url": "https://ifansclub.com/",
@@ -16,15 +16,14 @@
     "iptv-links",
     "iptv-m3u",
     "iptv-m3u8",
-    "iptv-playlist",
-    "migu"
+    "iptv-playlist"
   ],
-  "star_count": 420,
-  "fork_count": 133,
+  "star_count": 429,
+  "fork_count": 136,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T07:33:46Z",
-  "updated_at": "2026-08-19T19:36:19Z",
+  "updated_at": "2026-08-22T15:00:31Z",
   "pushed_at": "2026-08-19T13:54:01Z",
   "deleted_at": "",
   "star_history": [
@@ -155,6 +154,10 @@
     {
       "date": "2026-08-20",
       "stars": 420
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 429
     }
   ]
 }

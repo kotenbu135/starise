@@ -3,41 +3,41 @@
   "owner": "cyberstrikeus",
   "name": "cyberstrike",
   "full_name": "cyberstrikeus/cyberstrike",
-  "description": "Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,300+ models, 7,600+ Ed25519-signed attack skills, 56+ built-in tools, 176+ MCP tools. MITRE ATT\u0026CK, OWASP WSTG, CIS Benchmarks. Post-exploit: Linux/Windows/macOS/AWS/Azure/K8s/CI-CD. Web UI + Cloudflare Tunnel. Your AI red team.",
+  "description": "Open-source AI-powered offensive security harness for automated penetration testing.",
   "description_ja": "",
   "url": "https://github.com/CyberStrikeus/CyberStrike",
   "homepage_url": "https://cyberstrike.io",
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
-    "ai",
-    "ai-agent",
+    "agents",
+    "ai-hacking",
+    "ai-penetration-testing",
+    "ai-pentesting",
     "ai-security",
+    "artificial-intelligence",
     "bug-bounty",
+    "code-quality",
+    "ctf-tools",
     "cybersecurity",
-    "devsecops",
+    "cybersecurity-tools",
     "ethical-hacking",
     "hacking",
-    "hacking-tool",
-    "llm",
-    "mcp",
-    "mcp-server",
-    "mitre-attack",
+    "llm-security",
     "offensive-security",
-    "owasp",
     "penetration-testing",
-    "pentest",
-    "red-team",
+    "pentesting-tools",
+    "red-teaming",
     "security",
-    "security-tools"
+    "security-automation"
   ],
-  "star_count": 1894,
-  "fork_count": 288,
+  "star_count": 1926,
+  "fork_count": 294,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-14T21:24:08Z",
-  "updated_at": "2026-08-20T18:30:23Z",
-  "pushed_at": "2026-08-20T12:29:16Z",
+  "updated_at": "2026-08-22T17:47:14Z",
+  "pushed_at": "2026-08-22T12:20:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -399,6 +399,10 @@
     {
       "date": "2026-08-20",
       "stars": 1894
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 1926
     }
   ]
 }

@@ -6,17 +6,17 @@
   "description": "Одиннадцать маркетплейсов как MCP-серверы: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, AliExpress, Taobao, Мегамаркет, Lamoda, DNS, Ситилинк. Плюс сравнение цен по всем сразу. Только чтение, ключи не нужны.",
   "description_ja": "",
   "url": "https://github.com/Vladimir-Human/ru-marketplace-mcp",
-  "homepage_url": "https://github.com/Vladimir-Human/ru-marketplace-mcp/releases/tag/v1.5.1",
+  "homepage_url": "https://github.com/Vladimir-Human/ru-marketplace-mcp/releases",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "aliexpress",
     "avito",
     "citilink",
     "claude",
-    "detmir",
+    "detsky-mir",
     "dns",
     "dsh-plugin",
-    "ecommerce",
     "lamoda",
     "marketplace",
     "mcp",
@@ -31,13 +31,13 @@
     "wildberries",
     "yandex-market"
   ],
-  "star_count": 66,
-  "fork_count": 10,
+  "star_count": 68,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-26T17:56:16Z",
-  "updated_at": "2026-08-20T20:37:32Z",
-  "pushed_at": "2026-08-20T20:37:11Z",
+  "updated_at": "2026-08-22T02:50:11Z",
+  "pushed_at": "2026-08-20T22:03:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -83,6 +83,10 @@
     {
       "date": "2026-08-20",
       "stars": 66
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 68
     }
   ]
 }

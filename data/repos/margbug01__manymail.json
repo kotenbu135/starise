@@ -3,20 +3,41 @@
   "owner": "margbug01",
   "name": "manymail",
   "full_name": "margbug01/manymail",
-  "description": "Self-hosted mail service — SMTP receiver + REST API + Web viewer",
+  "description": "Lightweight self-hosted email server with Docker: SMTP, IMAP, webmail, REST API. Disposable/temp mail and multi-domain inboxes without Postfix.",
   "description_ja": "",
   "url": "https://github.com/margbug01/ManyMail",
-  "homepage_url": "",
+  "homepage_url": "https://margbug01.github.io/ManyMail/",
   "language": "HTML",
-  "license": "",
-  "topics": [],
-  "star_count": 29,
+  "license": "MIT",
+  "topics": [
+    "disposable-email",
+    "docker",
+    "docker-compose",
+    "email",
+    "email-server",
+    "fastapi",
+    "homelab",
+    "imap",
+    "mail-server",
+    "mailserver",
+    "mongodb",
+    "python",
+    "rest-api",
+    "self-hosted",
+    "self-hosted-email",
+    "selfhosted",
+    "smtp",
+    "smtp-server",
+    "temp-mail",
+    "webmail"
+  ],
+  "star_count": 30,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-05T09:20:00Z",
-  "updated_at": "2026-08-18T12:55:33Z",
-  "pushed_at": "2026-06-05T09:09:02Z",
+  "updated_at": "2026-08-22T07:32:34Z",
+  "pushed_at": "2026-08-22T07:32:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -194,6 +215,10 @@
     {
       "date": "2026-08-20",
       "stars": 29
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 30
     }
   ]
 }

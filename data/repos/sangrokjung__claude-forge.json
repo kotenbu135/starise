@@ -3,8 +3,8 @@
   "owner": "sangrokjung",
   "name": "claude-forge",
   "full_name": "sangrokjung/claude-forge",
-  "description": "Supercharge Claude Code with 11 AI agents, 36 commands \u0026 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install.",
-  "description_ja": "11 の AI エージェント、36 のコマンド、15 のスキルで Claude Code を強化する oh-my-zsh にインスパイアされた claude-code プラグインフレームワーク。6層のセキュリティフック付き。5分でインストール可能。",
+  "description": "oh-my-zsh for Claude Code — 16 agents, 35 commands, 32 skills, 21 safety hooks in one install. v4.0 adds an adversarial review loop: a second agent that never sees the first one's reasoning. MIT.",
+  "description_ja": "",
   "url": "https://github.com/sangrokjung/claude-forge",
   "homepage_url": "https://sangrokjung.github.io/claude-forge",
   "language": "Shell",
@@ -31,13 +31,13 @@
     "slash-commands",
     "workflow"
   ],
-  "star_count": 805,
+  "star_count": 810,
   "fork_count": 175,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-23T07:46:08Z",
-  "updated_at": "2026-08-19T14:44:22Z",
-  "pushed_at": "2026-08-20T02:39:29Z",
+  "updated_at": "2026-08-22T09:24:49Z",
+  "pushed_at": "2026-08-21T17:24:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -399,6 +399,10 @@
     {
       "date": "2026-08-20",
       "stars": 805
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 810
     }
   ]
 }

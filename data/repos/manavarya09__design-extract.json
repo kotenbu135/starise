@@ -7,7 +7,7 @@
   "description_ja": "1 コマンドで任意のウェブサイトの完全なデザインシステムを抽出。DTCG トークン、セマンティック・プリミティブ・コンポジット対応、Claude Code/Cursor/Windsurf 向け MCP サーバー、マルチプラットフォームエミッター（iOS SwiftUI、Android Compose、Flutter、WordPress）、Tailwind v4、Figma 変数、shadcn/ui、CSS ヘルスチェック、WCAG 修正、Chrome 拡張。MIT、Playwright、Node 20+。",
   "url": "https://github.com/Manavarya09/design-extract",
   "homepage_url": "https://www.designlang.app",
-  "language": "JavaScript",
+  "language": "HTML",
   "license": "MIT",
   "topics": [
     "accessibility",
@@ -31,13 +31,13 @@
     "tailwind",
     "web-scraping"
   ],
-  "star_count": 3360,
-  "fork_count": 319,
+  "star_count": 3355,
+  "fork_count": 308,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-15T10:11:22Z",
-  "updated_at": "2026-06-24T18:26:39Z",
-  "pushed_at": "2026-06-22T19:00:43Z",
+  "updated_at": "2026-08-22T17:32:09Z",
+  "pushed_at": "2026-08-22T03:39:36Z",
   "deleted_at": "2026-06-25",
   "star_history": [
     {
@@ -239,6 +239,10 @@
     {
       "date": "2026-06-24",
       "stars": 3360
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 3355
     }
   ]
 }

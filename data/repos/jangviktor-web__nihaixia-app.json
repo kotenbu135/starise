@@ -3,7 +3,7 @@
   "owner": "jangviktor-web",
   "name": "nihaixia-app",
   "full_name": "jangviktor-web/nihaixia-app",
-  "description": "倪海厦汉唐中医玄学算命AI 安卓APP - 基于倪海厦天纪、地纪、人纪、伤寒论、金匮要略、黄帝内经、神农本草经、历史医案、六经辨证体系、易经、紫微斗数排盘、易经六十四卦、四柱命卦的安卓中医玄学算命诊断助手 | TCM Diagnosis App based on Ni Haisha's Six Meridian theory",
+  "description": "汉唐中医 · 倪海厦六经辨证安卓系统中医诊断助手：一款离线优先、完全免费的 Flutter/Dart Android App，基于倪海厦《人纪》（伤寒论/金匮要略/黄帝内经/针灸大成/神农本草经）。核心功能：六经辨证智能问诊（太阳/阳明/少阳/太阴/少阴/厥阴）、322首经方与465味本草速查（附子生炮拆分零死链）、408穴针灸与透针处方、1257例倪师医案库与闭门课重症、黄帝内经73篇全文检索、经方剂量换算、子午流注取穴。自研辨证引擎驱动，回归测试守护；无广告、无内购、隐私不出本机。紫微/易经/四柱/六爻为民俗文化参考，非医疗诊断。",
   "description_ja": "",
   "url": "https://github.com/jangviktor-web/nihaixia-app",
   "homepage_url": "https://jangviktor-web.github.io/nihaixia-app/",
@@ -12,31 +12,32 @@
   "topics": [
     "android",
     "chinese-medicine",
+    "dart",
+    "diagnosis",
     "differential-diagnosis",
     "flutter",
     "herbal-medicine",
     "jingfang",
     "medical-app",
+    "medical-cases",
     "meridian",
     "ni-haisha",
-    "nihaisha",
-    "nihaixia",
     "offline-app",
+    "offline-first",
     "shanghan-lun",
-    "shanghanlun",
     "six-meridian",
-    "suanming",
     "tcm",
+    "traditional-chinese-medicine",
     "yijing",
     "ziweidoushu"
   ],
-  "star_count": 153,
+  "star_count": 154,
   "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-28T16:00:12Z",
-  "updated_at": "2026-08-20T01:15:45Z",
-  "pushed_at": "2026-08-20T01:14:18Z",
+  "updated_at": "2026-08-22T05:46:25Z",
+  "pushed_at": "2026-08-21T11:04:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -126,6 +127,10 @@
     {
       "date": "2026-08-20",
       "stars": 153
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 154
     }
   ]
 }

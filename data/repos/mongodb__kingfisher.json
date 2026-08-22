@@ -3,7 +3,7 @@
   "owner": "mongodb",
   "name": "kingfisher",
   "full_name": "mongodb/kingfisher",
-  "description": "Detect leaked secrets + live validation. Map blast radius across your stack. Revoke fast. 1,000+ rules.",
+  "description": "Detect leaked secrets + live validation. Map blast radius across your stack. Revoke fast. Hundreds of rules.",
   "description_ja": "",
   "url": "https://github.com/mongodb/kingfisher",
   "homepage_url": "https://mongodb.github.io/kingfisher/",
@@ -17,13 +17,13 @@
     "secrets-management",
     "security"
   ],
-  "star_count": 1206,
+  "star_count": 1207,
   "fork_count": 117,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-08T17:27:15Z",
-  "updated_at": "2026-08-19T15:33:56Z",
-  "pushed_at": "2026-08-18T02:42:21Z",
+  "updated_at": "2026-08-22T15:23:11Z",
+  "pushed_at": "2026-08-22T20:03:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -385,6 +385,10 @@
     {
       "date": "2026-08-20",
       "stars": 1206
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 1207
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOThCUAQ",
+  "owner": "haohuangsix",
+  "name": "gpt-register-pipeline",
+  "full_name": "haohuangsix/gpt-register-pipeline",
+  "description": "一个端到端的全自动流水线项目，覆盖 ChatGPT/OpenAI 免费账号注册的完整链路：用你自己的 iCloud 隐藏邮件地址（Hide My Email）生成 @icloud.com 别名作为邮箱源，自动注册 GPT 账号并通过接码平台完成手机验证，最后生成 Codex OAuth 凭证并导入 VPS/代理。仅供自动化你自有资源的账号注册与授权，每个账号独立邮箱 + 独立手机号（一号一账号），不绕过平台验证机制。",
+  "description_ja": "",
+  "url": "https://github.com/Haohuangsix/gpt-register-pipeline",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [],
+  "star_count": 45,
+  "fork_count": 14,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-07-23T08:29:42Z",
+  "updated_at": "2026-08-22T14:21:49Z",
+  "pushed_at": "2026-07-31T06:26:05Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-22",
+      "stars": 45
+    }
+  ]
+}

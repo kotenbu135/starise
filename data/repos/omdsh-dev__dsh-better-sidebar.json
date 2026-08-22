@@ -3,7 +3,7 @@
   "owner": "omdsh-dev",
   "name": "dsh-better-sidebar",
   "full_name": "omdsh-dev/dsh-better-sidebar",
-  "description": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, Git, and sub-agent pages.",
+  "description": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
   "description_ja": "",
   "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
   "homepage_url": "",
@@ -17,13 +17,13 @@
     "dsh-plugin",
     "sidebar"
   ],
-  "star_count": 2461,
-  "fork_count": 184,
+  "star_count": 2652,
+  "fork_count": 210,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-07T16:04:00Z",
-  "updated_at": "2026-08-20T19:58:55Z",
-  "pushed_at": "2026-08-20T17:58:41Z",
+  "updated_at": "2026-08-22T17:27:38Z",
+  "pushed_at": "2026-08-22T16:26:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +41,10 @@
     {
       "date": "2026-08-20",
       "stars": 2461
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 2652
     }
   ]
 }

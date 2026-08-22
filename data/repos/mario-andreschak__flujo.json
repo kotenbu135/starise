@@ -3,20 +3,41 @@
   "owner": "mario-andreschak",
   "name": "flujo",
   "full_name": "mario-andreschak/flujo",
-  "description": "MCP-Hub and -Inspector, Multi-Model Workflow and Chat Interface ",
+  "description": "Multi-Agent + Automation: Workflows, Automation, Self-Improving Agents",
   "description_ja": "",
   "url": "https://github.com/mario-andreschak/FLUJO",
-  "homepage_url": "",
+  "homepage_url": "https://flujo.com.co",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 610,
+  "topics": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai-chat",
+    "automation",
+    "autonomous-agents",
+    "claude",
+    "claude-code",
+    "gemini",
+    "llm-agents",
+    "mcp",
+    "mcp-client",
+    "mcp-server",
+    "multi-agent",
+    "multi-agent-systems",
+    "ollama",
+    "openai",
+    "pocketflow",
+    "workflow",
+    "workflow-automation"
+  ],
+  "star_count": 612,
   "fork_count": 86,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-26T20:23:56Z",
-  "updated_at": "2026-08-20T18:34:10Z",
-  "pushed_at": "2026-08-20T18:30:49Z",
+  "updated_at": "2026-08-22T17:49:05Z",
+  "pushed_at": "2026-08-22T17:48:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -230,6 +251,10 @@
     {
       "date": "2026-08-20",
       "stars": 610
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 612
     }
   ]
 }

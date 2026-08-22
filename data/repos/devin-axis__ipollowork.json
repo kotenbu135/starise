@@ -3,7 +3,7 @@
   "owner": "devin-axis",
   "name": "ipollowork",
   "full_name": "devin-axis/ipollowork",
-  "description": "A next-generation, source-available AI workspace with a self-evolving agent runtime for editable code, design, presentations, websites, and video—a Codex alternative that integrates DeepSeek Harness for subagent delegation, combining iPolloWork’s complete AI workbench with DSH’s specialized agents and both plugin ecosystems in one workflow.",
+  "description": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
   "description_ja": "",
   "url": "https://github.com/Devin-AXIS/iPolloWork",
   "homepage_url": "https://www.ipollo.ai/",
@@ -16,25 +16,26 @@
     "ai-work",
     "claude-code",
     "codex",
+    "codex-plugin",
     "deepseek-harness",
     "dsh-plugin",
     "enterprise-agent-workspace",
     "hermes-agent",
     "ipollowork-plugin",
     "ipollowork-skill",
-    "openclaw",
+    "multi-agent-workspace",
     "opencode",
     "opencode-plugin",
     "self-evolving-ai",
     "visual-editor"
   ],
-  "star_count": 4330,
-  "fork_count": 835,
+  "star_count": 4503,
+  "fork_count": 884,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-25T03:57:40Z",
-  "updated_at": "2026-08-20T18:23:25Z",
-  "pushed_at": "2026-08-20T18:02:47Z",
+  "updated_at": "2026-08-22T19:34:44Z",
+  "pushed_at": "2026-08-22T15:52:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -132,6 +133,10 @@
     {
       "date": "2026-08-20",
       "stars": 4330
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 4503
     }
   ]
 }

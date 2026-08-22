@@ -3,7 +3,7 @@
   "owner": "togettoyou",
   "name": "zke",
   "full_name": "togettoyou/zke",
-  "description": "ZKE（Z Kubernetes Engine）：macOS 风格的 Kubernetes 多集群控制台，基于 Server + Agent 与 QUIC/mTLS，适用于私有云、混合云及边缘环境。",
+  "description": "ZKE（Z Kubernetes Engine）：AI 原生的 Kubernetes 云操作环境，桌面式多集群控制台加受控 AIOps Agent，基于 Server + Agent 与 QUIC/mTLS，适用于私有云、混合云及边缘。",
   "description_ja": "",
   "url": "https://github.com/togettoyou/zke",
   "homepage_url": "https://fbcupchhlacp.sealosbja.site",
@@ -12,27 +12,26 @@
   "topics": [
     "agent",
     "ai-platform",
+    "aiops",
     "cloud-native",
     "cloudos",
     "edge-computing",
     "hybrid-cloud",
     "kubernetes",
-    "kubernetes-cluster",
     "kubernetes-dashboard",
     "kubernetes-engine",
     "llmops",
     "mlops",
     "multi-cluster",
-    "multi-tenant",
-    "quic"
+    "multi-tenant"
   ],
-  "star_count": 75,
+  "star_count": 76,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-23T02:14:33Z",
-  "updated_at": "2026-08-20T07:11:40Z",
-  "pushed_at": "2026-08-20T16:19:13Z",
+  "updated_at": "2026-08-22T14:20:18Z",
+  "pushed_at": "2026-08-22T14:19:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +49,10 @@
     {
       "date": "2026-08-20",
       "stars": 75
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 76
     }
   ]
 }

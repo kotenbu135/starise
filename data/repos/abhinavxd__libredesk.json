@@ -3,38 +3,38 @@
   "owner": "abhinavxd",
   "name": "libredesk",
   "full_name": "abhinavxd/libredesk",
-  "description": "Open source, self-hosted omnichannel customer support desk. Live chat, email, and more in a single binary.",
-  "description_ja": "オープンソース・セルフホスト型のオムニチャネル顧客サポートデスク。ライブチャット、メールなどを単一バイナリで提供。",
+  "description": "Open-source, self-hosted customer support desk in a single binary. Email and live chat. A lightweight alternative to Intercom, Zendesk, and Chatwoot.",
+  "description_ja": "",
   "url": "https://github.com/abhinavxd/libredesk",
   "homepage_url": "https://libredesk.io",
   "language": "Go",
   "license": "AGPL-3.0",
   "topics": [
     "chat-widget",
-    "conversation",
-    "conversations",
     "customer-service",
     "customer-success",
     "customer-support",
     "customer-support-automation",
     "golang",
+    "helpcenter",
     "helpdesk",
     "intercom",
-    "live-chat",
+    "knowledge-base",
     "livechat",
     "omnichannel",
     "self-hosted",
     "support",
     "ticketing-system",
-    "vue"
+    "vue",
+    "zendesk"
   ],
-  "star_count": 2740,
-  "fork_count": 237,
+  "star_count": 2770,
+  "fork_count": 238,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-12T12:14:24Z",
-  "updated_at": "2026-08-20T18:31:27Z",
-  "pushed_at": "2026-08-20T16:26:57Z",
+  "updated_at": "2026-08-22T19:18:08Z",
+  "pushed_at": "2026-08-22T09:44:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -392,6 +392,10 @@
     {
       "date": "2026-08-20",
       "stars": 2740
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 2770
     }
   ]
 }

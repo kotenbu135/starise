@@ -3,14 +3,15 @@
   "owner": "djdevil",
   "name": "alertticker-card",
   "full_name": "djdevil/alertticker-card",
-  "description": "A custom Lovelace card to display alerts and notifications based on entity states.",
+  "description": "🔔 The most complete alert \u0026 notification card for Home Assistant — 52 themes, TTS, push, overlay banner, media player, weather widget. Zero YAML required.",
   "description_ja": "",
   "url": "https://github.com/djdevil/AlertTicker-Card",
-  "homepage_url": "https://github.com/djdevil/AlertTicker-Card",
+  "homepage_url": "https://community.home-assistant.io/t/alertticker-card-for-home-assistant/1005906",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
     "alert",
+    "alerts",
     "custom-card",
     "dashboard",
     "hacs",
@@ -22,15 +23,19 @@
     "lovelace-card",
     "lovelace-custom-card",
     "notification",
-    "ticker"
+    "notifications",
+    "ticker",
+    "ticker-card",
+    "tts",
+    "weather"
   ],
-  "star_count": 316,
+  "star_count": 317,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-28T21:36:30Z",
-  "updated_at": "2026-08-20T06:43:17Z",
-  "pushed_at": "2026-08-19T21:40:43Z",
+  "updated_at": "2026-08-22T15:46:02Z",
+  "pushed_at": "2026-08-22T15:43:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -124,6 +129,10 @@
     {
       "date": "2026-08-20",
       "stars": 316
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 317
     }
   ]
 }

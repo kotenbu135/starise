@@ -3,7 +3,7 @@
   "owner": "erickochen",
   "name": "purple",
   "full_name": "erickochen/purple",
-  "description": "Free, open-source terminal SSH manager and SSH config editor in Rust for macOS and Linux that keeps ~/.ssh/config in sync with 16 cloud providers, monitors live SSH tunnels and manages Docker and Podman containers fleet-wide. Plus scp, Vault SSH certs and an MCP server for AI agents.",
+  "description": "Free, open-source terminal SSH manager and SSH config editor in Rust for macOS and Linux that keeps ~/.ssh/config in sync with 17 cloud providers, monitors live SSH tunnels and manages Docker and Podman containers fleet-wide. Plus scp, Vault SSH certs and an MCP server for AI agents.",
   "description_ja": "",
   "url": "https://github.com/erickochen/purple",
   "homepage_url": "https://getpurple.sh",
@@ -31,12 +31,12 @@
     "termius-alternative",
     "tui"
   ],
-  "star_count": 528,
-  "fork_count": 26,
+  "star_count": 642,
+  "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-19T16:30:18Z",
-  "updated_at": "2026-08-20T17:58:40Z",
+  "updated_at": "2026-08-22T19:26:22Z",
   "pushed_at": "2026-08-16T16:53:30Z",
   "deleted_at": "",
   "star_history": [
@@ -395,6 +395,10 @@
     {
       "date": "2026-08-20",
       "stars": 528
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 642
     }
   ]
 }

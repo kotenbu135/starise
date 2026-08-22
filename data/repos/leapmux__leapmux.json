@@ -7,7 +7,7 @@
   "description_ja": "AI コーディングエージェント マルチプレクサー",
   "url": "https://github.com/leapmux/leapmux",
   "homepage_url": "https://leapmux.dev",
-  "language": "Go",
+  "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
     "acp",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T06:07:09Z",
-  "updated_at": "2026-08-20T19:51:33Z",
-  "pushed_at": "2026-08-20T19:48:00Z",
+  "updated_at": "2026-08-22T09:41:37Z",
+  "pushed_at": "2026-08-22T15:02:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +398,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 75
+    },
+    {
+      "date": "2026-08-22",
       "stars": 75
     }
   ]

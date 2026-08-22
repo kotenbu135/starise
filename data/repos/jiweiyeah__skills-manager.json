@@ -3,10 +3,10 @@
   "owner": "jiweiyeah",
   "name": "skills-manager",
   "full_name": "jiweiyeah/skills-manager",
-  "description": "A high-performance desktop application for managing skills across multiple AI coding assistants. Seamlessly organize, sync, and share skills for Claude Code、Codex、Opencode and other AI tools. Built with Tauri 2.0, React 19, and Rust.",
+  "description": "Free, open-source desktop manager for AI Agent Skills. Write a skill once, sync it to 32 AI coding tools (Claude Code, Codex, Cursor, Gemini CLI, and more) via symlinks. Local-first, MIT licensed. macOS, Windows, Linux.",
   "description_ja": "",
   "url": "https://github.com/jiweiyeah/Skills-Manager",
-  "homepage_url": "https://skillsmanager.freeourdays.com",
+  "homepage_url": "https://skillsmanager.freeourdays.com/?ref=gh",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -15,7 +15,9 @@
     "claude-code-skills",
     "codex",
     "codex-skills",
+    "deepseek-harness",
     "developer-tools",
+    "pi",
     "react-19",
     "skills",
     "skills-management",
@@ -27,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T05:25:20Z",
-  "updated_at": "2026-08-20T13:08:41Z",
-  "pushed_at": "2026-08-19T14:23:29Z",
+  "updated_at": "2026-08-22T16:41:22Z",
+  "pushed_at": "2026-08-22T16:40:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -373,6 +375,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 948
+    },
+    {
+      "date": "2026-08-22",
       "stars": 948
     }
   ]

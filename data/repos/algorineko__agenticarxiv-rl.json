@@ -3,20 +3,20 @@
   "owner": "algorineko",
   "name": "agenticarxiv-rl",
   "full_name": "algorineko/agenticarxiv-rl",
-  "description": "Staged SFT→DPO→GRPO reinforcement learning pipeline for training a ReAct tool-use agent on arXiv paper retrieval tasks, with a deterministic snapshot-replay environment.",
+  "description": "Staged SFT→DPO→GRPO/SAO reinforcement learning pipeline for training a ReAct tool-use agent on arXiv paper retrieval tasks, with a deterministic snapshot-replay environment.",
   "description_ja": "",
   "url": "https://github.com/Algorineko/AgenticArXiv-RL",
   "homepage_url": "",
   "language": "Python",
   "license": "",
   "topics": [],
-  "star_count": 64,
-  "fork_count": 20,
+  "star_count": 72,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-21T08:02:15Z",
-  "updated_at": "2026-08-20T18:32:19Z",
-  "pushed_at": "2026-08-20T12:53:40Z",
+  "updated_at": "2026-08-22T15:03:58Z",
+  "pushed_at": "2026-08-22T07:23:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-08-20",
       "stars": 64
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 72
     }
   ]
 }

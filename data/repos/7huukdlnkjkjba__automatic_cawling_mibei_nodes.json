@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOOn4k5g",
+  "owner": "7huukdlnkjkjba",
+  "name": "automatic_cawling_mibei_nodes",
+  "full_name": "7huukdlnkjkjba/automatic_cawling_mibei_nodes",
+  "description": "这是一个自动获取并更新v2rayN节点订阅的Python脚本。它通过爬取目标网站获取mibei最新节点信息，自动更新v2rayN配置并重启程序。主要功能包括：检测/管理v2rayN进程、解析网页获取节点链接、下载节点文件、更新订阅配置等。使用requests、BeautifulSoup等库实现网页抓取，通过psutil和subprocess管理进程，具有完善的日志记录和错误处理机制。",
+  "description_ja": "",
+  "url": "https://github.com/7huukdlnkjkjba/Automatic_cawling_mibei_Nodes",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "",
+  "topics": [],
+  "star_count": 29,
+  "fork_count": 9,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-05-10T22:27:20Z",
+  "updated_at": "2026-08-22T03:50:54Z",
+  "pushed_at": "2026-08-21T06:48:22Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-22",
+      "stars": 29
+    }
+  ]
+}

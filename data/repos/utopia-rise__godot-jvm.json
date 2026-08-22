@@ -6,7 +6,7 @@
   "description": "Godot Kotlin JVM Module",
   "description_ja": "Godot Kotlin JVMモジュール",
   "url": "https://github.com/utopia-rise/godot-jvm",
-  "homepage_url": "https://godot-kotl.in",
+  "homepage_url": "https://godot-jvm.dev",
   "language": "Kotlin",
   "license": "MIT",
   "topics": [
@@ -17,7 +17,11 @@
     "game-development",
     "godot",
     "godot-engine",
+    "godot-java",
     "godot-jvm",
+    "godot-kotlin-jvm",
+    "godot-scala",
+    "godote-jvm",
     "godotengine",
     "ios",
     "java",
@@ -27,13 +31,13 @@
     "osx",
     "windows"
   ],
-  "star_count": 953,
+  "star_count": 951,
   "fork_count": 60,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-08-22T09:56:57Z",
-  "updated_at": "2026-08-19T12:04:16Z",
-  "pushed_at": "2026-08-20T16:28:13Z",
+  "updated_at": "2026-08-22T14:11:17Z",
+  "pushed_at": "2026-08-22T20:52:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -395,6 +399,10 @@
     {
       "date": "2026-08-20",
       "stars": 953
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 951
     }
   ]
 }

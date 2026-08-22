@@ -6,7 +6,7 @@
   "description": "CortexBrain is an ambitious open-source project designed to build an intelligent, lightweight, and highly efficient monitoring platform for distributed cloud and hybrid (cloud-edge) workflows",
   "description_ja": "",
   "url": "https://github.com/CortexFlow/CortexBrain",
-  "homepage_url": "",
+  "homepage_url": "https://docs.cortexflow.org/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -14,7 +14,6 @@
     "bpf-programs",
     "cluster-analysis",
     "cluster-monitoring-tool",
-    "data-science",
     "devops",
     "ebpf",
     "edge-computing",
@@ -27,8 +26,6 @@
     "open-source",
     "resource-monitoring",
     "rust",
-    "rust-lang",
-    "service-mesh",
     "traffic-control"
   ],
   "star_count": 83,
@@ -36,8 +33,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-22T07:44:21Z",
-  "updated_at": "2026-08-20T11:22:22Z",
-  "pushed_at": "2026-08-16T22:35:41Z",
+  "updated_at": "2026-08-22T18:52:31Z",
+  "pushed_at": "2026-08-22T17:07:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +391,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 83
+    },
+    {
+      "date": "2026-08-22",
       "stars": 83
     }
   ]

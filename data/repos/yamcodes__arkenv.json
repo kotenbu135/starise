@@ -3,7 +3,7 @@
   "owner": "yamcodes",
   "name": "arkenv",
   "full_name": "yamcodes/arkenv",
-  "description": "⛯ The simple way to validate environment variables. Use ArkType, Zod, Valibot, or any Standard Schema library",
+  "description": "⛯ Typesafe environment variables for ArkType, Zod, Valibot, and any Standard Schema.",
   "description_ja": "",
   "url": "https://github.com/yamcodes/arkenv",
   "homepage_url": "https://arkenv.js.org",
@@ -30,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-25T10:27:09Z",
-  "updated_at": "2026-08-15T11:39:15Z",
-  "pushed_at": "2026-08-20T20:18:55Z",
+  "updated_at": "2026-08-21T17:56:38Z",
+  "pushed_at": "2026-08-22T21:00:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -184,6 +184,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 139
+    },
+    {
+      "date": "2026-08-22",
       "stars": 139
     }
   ]

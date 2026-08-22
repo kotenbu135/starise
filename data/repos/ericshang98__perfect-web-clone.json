@@ -3,29 +3,29 @@
   "owner": "ericshang98",
   "name": "perfect-web-clone",
   "full_name": "ericshang98/perfect-web-clone",
-  "description": "A true AI agent for pixel-perfect web cloning. Multi-agent architecture built on Claude Agent SDK with 40+ specialized tools. Clones from CSS \u0026 structured blocks—not screenshots—enabling perfect reproduction where single-model tools like Cursor/Claude Code fail.",
-  "description_ja": "ピクセルパーフェクトなWebクローニングのための真のAIエージェント。Claude Agent SDK上に構築されたマルチエージェントアーキテクチャで40以上の専門ツールを搭載。スクリーンショットではなくCSSと構造化ブロックからクローンを生成し、Cursor/Claude Codeなどシングルモデルツールが失敗するケースでも完全再現を実現。",
+  "description": "Pixel-perfect clones of any webpage. Paste a URL, get a measured Vite + React replica.",
+  "description_ja": "",
   "url": "https://github.com/ericshang98/Perfect-Web-Clone",
   "homepage_url": "",
   "language": "Python",
-  "license": "",
+  "license": "MIT",
   "topics": [
     "ai-agent",
     "automation",
-    "claude-sdk",
-    "multi-agent",
-    "nextjs",
+    "dsh",
+    "dsh-plugin",
     "pixel-perfect",
+    "playwright",
     "python",
     "web-cloning"
   ],
   "star_count": 253,
-  "fork_count": 23,
+  "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-06T03:29:29Z",
-  "updated_at": "2026-08-16T15:26:51Z",
-  "pushed_at": "2026-06-18T10:32:39Z",
+  "updated_at": "2026-08-22T14:41:31Z",
+  "pushed_at": "2026-08-22T14:39:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -386,6 +386,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 253
+    },
+    {
+      "date": "2026-08-22",
       "stars": 253
     }
   ]

@@ -3,28 +3,41 @@
   "owner": "rpbouman",
   "name": "huey",
   "full_name": "rpbouman/huey",
-  "description": "Light-weight, browser-based ROLAP pivot tables on top of DuckDB-WASM",
+  "description": "Browser-based data analytics \u0026 BI with DuckDB-WASM. Privacy-first: your data stays local; no server required.",
   "description_ja": "",
   "url": "https://github.com/rpbouman/huey",
-  "homepage_url": "",
+  "homepage_url": "https://rpbouman.github.io/huey/",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
-    "data",
+    "business-analytics",
+    "business-intelligence",
+    "csv",
+    "data-analytics",
+    "data-engineering",
     "duckdb",
+    "duckdb-database",
+    "duckdb-quack",
+    "duckdb-server",
+    "duckdb-wasm",
     "excel",
+    "json",
+    "olap",
+    "olap-engine",
+    "parquet",
+    "pivot-table",
     "pivot-tables",
+    "power-bi",
     "rolap",
-    "small-data",
     "sql"
   ],
-  "star_count": 607,
+  "star_count": 608,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-25T12:12:26Z",
-  "updated_at": "2026-08-20T14:34:16Z",
-  "pushed_at": "2026-08-20T14:23:47Z",
+  "updated_at": "2026-08-22T15:20:41Z",
+  "pushed_at": "2026-08-22T03:38:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +107,10 @@
     {
       "date": "2026-08-20",
       "stars": 607
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 608
     }
   ]
 }

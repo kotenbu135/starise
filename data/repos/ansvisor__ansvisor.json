@@ -3,7 +3,7 @@
   "owner": "ansvisor",
   "name": "ansvisor",
   "full_name": "ansvisor/ansvisor",
-  "description": "Open-source AI Visibility Platform — track AI visibility, citations, prompts, competitors, and content opportunities across ChatGPT, Claude, Gemini, Google AI Overviews, Google AI Mode, Perplexity, Grok, and Copilot.",
+  "description": "Open-source AI Search Intelligence Platform — track, analyze, and improve AI visibility, citations, prompts, competitors, and content opportunities across ChatGPT, Claude, Gemini, Google AI Overviews, Google AI Mode, Perplexity, Grok, and Microsoft Copilot.",
   "description_ja": "",
   "url": "https://github.com/ansvisor/ansvisor",
   "homepage_url": "https://ansvisor.com",
@@ -31,13 +31,13 @@
     "supabase",
     "typescript"
   ],
-  "star_count": 90,
-  "fork_count": 74,
+  "star_count": 96,
+  "fork_count": 76,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-05T10:57:46Z",
-  "updated_at": "2026-08-20T17:23:08Z",
-  "pushed_at": "2026-08-20T17:18:59Z",
+  "updated_at": "2026-08-22T19:26:03Z",
+  "pushed_at": "2026-08-22T19:25:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -199,6 +199,10 @@
     {
       "date": "2026-08-20",
       "stars": 90
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 96
     }
   ]
 }

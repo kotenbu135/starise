@@ -6,11 +6,13 @@
   "description": "🎛️ All-in-one control center for Windows system tweaks and optimizations.",
   "description_ja": "",
   "url": "https://github.com/PrimeBuild-pc/TweakHub",
-  "homepage_url": "https://discord.gg/GkvXN5GEZ6",
+  "homepage_url": "https://discord.gg/FCKQz3yXA4",
   "language": "C#",
   "license": "MIT",
   "topics": [
     "control-center",
+    "csharp",
+    "dotnet",
     "fps",
     "fpsboost",
     "games",
@@ -18,15 +20,16 @@
     "latency-optimization",
     "optimizer",
     "tweaks",
-    "windows-11"
+    "windows-11",
+    "wpf"
   ],
   "star_count": 34,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-03T00:51:19Z",
-  "updated_at": "2026-08-20T18:57:03Z",
-  "pushed_at": "2026-08-14T01:15:49Z",
+  "updated_at": "2026-08-21T15:07:45Z",
+  "pushed_at": "2026-08-21T15:06:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -335,6 +338,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 34
+    },
+    {
+      "date": "2026-08-22",
       "stars": 34
     }
   ]

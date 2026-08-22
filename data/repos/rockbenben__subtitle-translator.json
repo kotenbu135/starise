@@ -3,7 +3,7 @@
   "owner": "rockbenben",
   "name": "subtitle-translator",
   "full_name": "rockbenben/subtitle-translator",
-  "description": "⚡ Blazing-fast batch subtitle translation, .srt/.ass/.vtt/.lrc, 27 LLM providers ｜ 批量字幕翻译，支持 120+ 语言",
+  "description": "Translate a whole season of subtitles in one pass — .srt/.ass/.vtt/.lrc, 120+ languages, 27 LLM providers, timing untouched ｜ 整季字幕一次译完，时轴不动，支持 120+ 语言",
   "description_ja": "",
   "url": "https://github.com/rockbenben/subtitle-translator",
   "homepage_url": "https://tools.newzone.top/en/subtitle-translator",
@@ -31,12 +31,12 @@
     "vtt",
     "web-app"
   ],
-  "star_count": 1044,
-  "fork_count": 135,
+  "star_count": 1049,
+  "fork_count": 136,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-23T10:13:20Z",
-  "updated_at": "2026-08-20T18:55:59Z",
+  "updated_at": "2026-08-22T12:49:02Z",
   "pushed_at": "2026-08-12T06:51:44Z",
   "deleted_at": "",
   "star_history": [
@@ -399,6 +399,10 @@
     {
       "date": "2026-08-20",
       "stars": 1044
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 1049
     }
   ]
 }

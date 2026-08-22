@@ -3,8 +3,8 @@
   "owner": "arabcoders",
   "name": "ytptube",
   "full_name": "arabcoders/ytptube",
-  "description": "A WebUI for yt-dlp with concurrent downloads support, presets and scheduled tasks and many more.",
-  "description_ja": "並列ダウンロード・プリセット・スケジュールタスクなどを備えた yt-dlp 向け WebUI",
+  "description": "A self-hosted media download manager, automation interface, and media-library preparation layer for yt-dlp",
+  "description_ja": "",
   "url": "https://github.com/arabcoders/ytptube",
   "homepage_url": "",
   "language": "Python",
@@ -17,13 +17,13 @@
     "yt-dlp",
     "ytptube"
   ],
-  "star_count": 996,
+  "star_count": 998,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-24T16:59:47Z",
-  "updated_at": "2026-08-20T18:56:35Z",
-  "pushed_at": "2026-08-20T19:00:18Z",
+  "updated_at": "2026-08-22T10:51:07Z",
+  "pushed_at": "2026-08-21T17:50:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -385,6 +385,10 @@
     {
       "date": "2026-08-20",
       "stars": 996
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 998
     }
   ]
 }

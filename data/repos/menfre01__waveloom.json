@@ -3,7 +3,7 @@
   "owner": "menfre01",
   "name": "waveloom",
   "full_name": "menfre01/waveloom",
-  "description": "为 DeepSeek 前缀缓存定制的终端 Code Agent（纯 Go），缓存命中率 95-99%，输入成本降至 1/50。A terminal coding agent optimized for DeepSeek prefix caching — 95-99% cache hit, 1/50th the cost.",
+  "description": "为 DeepSeek 前缀缓存定制的终端 Code Agent(纯 Go),缓存命中率 95-99%,命中输入定价为未命中的 1/30。A terminal coding agent optimized for DeepSeek prefix caching — 95-99% cache hit, cache-hit input priced at 1/30th of cache-miss.",
   "description_ja": "",
   "url": "https://github.com/Menfre01/waveloom",
   "homepage_url": "https://github.com/Menfre01/waveloom",
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-24T07:16:26Z",
-  "updated_at": "2026-08-20T12:08:59Z",
-  "pushed_at": "2026-08-20T12:05:43Z",
+  "updated_at": "2026-08-22T08:03:04Z",
+  "pushed_at": "2026-08-22T08:02:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -67,6 +67,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 130
+    },
+    {
+      "date": "2026-08-22",
       "stars": 130
     }
   ]

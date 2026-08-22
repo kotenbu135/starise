@@ -6,7 +6,7 @@
   "description": "Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 support— mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.",
   "description_ja": "",
   "url": "https://github.com/YTwsy/OpenSurge-for-Mac",
-  "homepage_url": "",
+  "homepage_url": "https://opensurge.pages.dev",
   "language": "Go",
   "license": "GPL-3.0",
   "topics": [
@@ -27,13 +27,13 @@
     "transparent-proxy",
     "tun"
   ],
-  "star_count": 2101,
-  "fork_count": 133,
+  "star_count": 2251,
+  "fork_count": 151,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-29T15:41:44Z",
-  "updated_at": "2026-08-20T13:58:27Z",
-  "pushed_at": "2026-08-20T17:14:26Z",
+  "updated_at": "2026-08-22T17:25:29Z",
+  "pushed_at": "2026-08-22T09:35:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     {
       "date": "2026-08-20",
       "stars": 2101
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 2251
     }
   ]
 }

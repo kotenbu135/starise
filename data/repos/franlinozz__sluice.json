@@ -9,14 +9,30 @@
   "homepage_url": "https://sluiceflow.vercel.app",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "agent-payments",
+    "ai-agents",
+    "appkit",
+    "arc",
+    "circle",
+    "circle-agent-stack",
+    "circle-gateway",
+    "developer-controlled-wallets",
+    "micropayments",
+    "modular-wallets",
+    "sluice",
+    "usdc",
+    "user-controlled-wallets",
+    "x402",
+    "x402-batching"
+  ],
   "star_count": 31,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-23T13:18:19Z",
-  "updated_at": "2026-08-18T21:41:04Z",
-  "pushed_at": "2026-08-16T22:15:53Z",
+  "updated_at": "2026-08-21T10:03:58Z",
+  "pushed_at": "2026-08-21T10:02:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -109,6 +125,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 31
+    },
+    {
+      "date": "2026-08-22",
       "stars": 31
     }
   ]

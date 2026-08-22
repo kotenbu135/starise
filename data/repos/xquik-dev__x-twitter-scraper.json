@@ -3,7 +3,7 @@
   "owner": "xquik-dev",
   "name": "x-twitter-scraper",
   "full_name": "xquik-dev/x-twitter-scraper",
-  "description": "Twitter scraper API Skill for tweet search, exports, monitoring, webhooks, and approved X actions. Not affiliated with X Corp.",
+  "description": "X (Twitter) Scraper API and X API Alternative. You do not need an official X developer account. You do not need to connect or use an X account for supported scraping. Not affiliated with X Corp.",
   "description_ja": "",
   "url": "https://github.com/Xquik-dev/x-twitter-scraper",
   "homepage_url": "https://xquik.com",
@@ -19,7 +19,6 @@
     "mcp-server",
     "profile-tweets",
     "sdk",
-    "send-tweets",
     "social-media-api",
     "social-media-automation",
     "tweet-search",
@@ -27,17 +26,18 @@
     "twitter-api-alternative",
     "twitter-automation",
     "twitter-scraper",
+    "twitter-scraper-api",
     "x-api",
     "x-api-alternative",
     "xquik"
   ],
-  "star_count": 184,
+  "star_count": 186,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-27T03:10:09Z",
-  "updated_at": "2026-08-20T09:30:45Z",
-  "pushed_at": "2026-08-20T09:24:19Z",
+  "updated_at": "2026-08-22T20:40:22Z",
+  "pushed_at": "2026-08-22T20:40:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -399,6 +399,10 @@
     {
       "date": "2026-08-20",
       "stars": 184
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 186
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "cmdada",
   "name": "3ds-cli",
   "full_name": "cmdada/3ds-cli",
-  "description": "Nintendo 3DS homebrew application that embeds a full RISC-V emulator to boot a Linux environment inside the 3DS Horizon OS.",
+  "description": "Run full RISCV Linux on (almost) every single Nintendo console",
   "description_ja": "",
   "url": "https://github.com/cmdada/3DS-CLI",
   "homepage_url": "",
@@ -16,13 +16,13 @@
     "nintendo-3ds",
     "risc-v"
   ],
-  "star_count": 39,
+  "star_count": 38,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-10T04:52:37Z",
-  "updated_at": "2026-08-12T23:03:41Z",
-  "pushed_at": "2026-08-12T23:05:51Z",
+  "updated_at": "2026-08-22T03:59:40Z",
+  "pushed_at": "2026-08-21T19:15:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -272,6 +272,10 @@
     {
       "date": "2026-08-20",
       "stars": 39
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 38
     }
   ]
 }

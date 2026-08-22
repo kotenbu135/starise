@@ -11,12 +11,14 @@
   "license": "NOASSERTION",
   "topics": [
     "2d-game-engine",
-    "classic-ikemen",
     "cpp",
     "fighting-game",
     "fighting-game-engine",
     "game-dev",
-    "ikemen-go",
+    "game-development",
+    "game-engine",
+    "game-engine-2d",
+    "ikemen-engine",
     "ikemen-plus",
     "ikemen-plus-ultra",
     "ikemen-screenpack",
@@ -26,17 +28,14 @@
     "lua-script",
     "mugen",
     "mugen-clone",
-    "mugen-online",
-    "s-size",
-    "sdl",
-    "winmugen"
+    "sdl2"
   ],
   "star_count": 100,
-  "fork_count": 23,
+  "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-02-01T15:15:21Z",
-  "updated_at": "2026-08-05T03:50:04Z",
+  "updated_at": "2026-08-21T19:26:28Z",
   "pushed_at": "2026-08-05T03:49:21Z",
   "deleted_at": "",
   "star_history": [
@@ -362,6 +361,10 @@
     },
     {
       "date": "2026-08-20",
+      "stars": 100
+    },
+    {
+      "date": "2026-08-22",
       "stars": 100
     }
   ]

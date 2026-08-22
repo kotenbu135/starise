@@ -3,7 +3,7 @@
   "owner": "ahmadhassan-bted",
   "name": "openopc-shadow-adapter",
   "full_name": "ahmadhassan-bted/openopc-shadow-adapter",
-  "description": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime. Park work items for human review. Resume execution automatically. No timeouts.",
+  "description": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime.",
   "description_ja": "",
   "url": "https://github.com/AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
   "homepage_url": "https://pypi.org/project/openopc-shadow-adapter/",
@@ -31,13 +31,13 @@
     "react",
     "shadow-mode"
   ],
-  "star_count": 51,
+  "star_count": 54,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-25T09:28:12Z",
-  "updated_at": "2026-08-20T06:59:14Z",
-  "pushed_at": "2026-07-29T07:22:37Z",
+  "updated_at": "2026-08-22T14:25:57Z",
+  "pushed_at": "2026-08-20T20:22:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-08-20",
       "stars": 51
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 54
     }
   ]
 }

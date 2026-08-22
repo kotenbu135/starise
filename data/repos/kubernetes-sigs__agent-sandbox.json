@@ -3,20 +3,26 @@
   "owner": "kubernetes-sigs",
   "name": "agent-sandbox",
   "full_name": "kubernetes-sigs/agent-sandbox",
-  "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.",
+  "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).",
   "description_ja": "",
   "url": "https://github.com/kubernetes-sigs/agent-sandbox",
   "homepage_url": "https://agent-sandbox.sigs.k8s.io",
   "language": "Go",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 3581,
-  "fork_count": 455,
+  "topics": [
+    "agent",
+    "ai",
+    "kubernetes",
+    "rl",
+    "sandbox"
+  ],
+  "star_count": 3586,
+  "fork_count": 456,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-12T04:55:05Z",
-  "updated_at": "2026-08-20T18:02:05Z",
-  "pushed_at": "2026-08-20T18:01:11Z",
+  "updated_at": "2026-08-22T00:27:28Z",
+  "pushed_at": "2026-08-22T01:21:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +372,10 @@
     {
       "date": "2026-08-20",
       "stars": 3581
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 3586
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "trailbaseio",
   "name": "trailbase",
   "full_name": "trailbaseio/trailbase",
-  "description": "An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite \u0026 Wasmtime.",
-  "description_ja": "Rust・SQLite・Wasmtimeで構築されたオープンなFirebase代替。サブミリ秒応答・単一バイナリ・タイプセーフなAPI・組み込みWebAssemblyランタイム・リアルタイムサブスクリプション・認証・管理UIを備える。",
+  "description": "An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) \u0026 Wasmtime.",
+  "description_ja": "",
   "url": "https://github.com/trailbaseio/trailbase",
   "homepage_url": "https://trailbase.io",
   "language": "Rust",
@@ -15,13 +15,13 @@
     "rest-api",
     "rust"
   ],
-  "star_count": 5563,
+  "star_count": 5566,
   "fork_count": 188,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-29T09:39:33Z",
-  "updated_at": "2026-08-20T15:07:25Z",
-  "pushed_at": "2026-08-20T20:31:05Z",
+  "updated_at": "2026-08-22T15:27:25Z",
+  "pushed_at": "2026-08-21T22:01:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-08-20",
       "stars": 5563
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 5566
     }
   ]
 }
