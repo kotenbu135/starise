@@ -3,30 +3,30 @@
   "owner": "1bit-monster",
   "name": "1bit-monster",
   "full_name": "1bit-monster/1bit-monster",
-  "description": "Model-agnostic, hardware-agnostic pure-C++ inference engine — one binary, NPU + GPU + CPU. 94% HF architecture coverage. Reverse-engineered AMD's closed-source Strix Halo NPU stack in 4 days. GGUF/ONNX/1BP. Zero Python. MIT.",
+  "description": "One engine, any model, zero Python. A model-agnostic, hardware-agnostic pure-C++ inference engine — NPU + GPU + CPU in one binary. 100% HuggingFace architecture coverage, zero Python. MIT.",
   "description_ja": "",
   "url": "https://github.com/1bit-MONSTER/1bit-MONSTER",
-  "homepage_url": "http://1bit.monster/",
+  "homepage_url": "https://1bit.monster",
   "language": "C++",
   "license": "MIT",
   "topics": [
+    "1bit",
     "1bp-format",
     "ai-inference",
-    "amd-native",
     "amd-strix-halo",
     "cplusplus-23",
-    "fused-engine",
+    "cpp",
     "gguf",
     "inference-engine",
-    "local-llm",
-    "mamba",
+    "llm-inference",
+    "local-ai",
     "mit-license",
     "model-agnostic",
-    "npu-inference",
+    "npu",
     "one-binary",
     "open-source-ai",
     "quantization",
-    "ternary-inference",
+    "rocm",
     "vulkan",
     "xdna-2",
     "zero-python"
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-19T20:11:06Z",
-  "updated_at": "2026-08-22T16:46:30Z",
-  "pushed_at": "2026-08-22T17:48:38Z",
+  "updated_at": "2026-08-23T19:03:31Z",
+  "pushed_at": "2026-08-23T19:04:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -358,6 +358,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 17
+    },
+    {
+      "date": "2026-08-23",
       "stars": 17
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "maioio",
   "name": "genesis-architect",
   "full_name": "maioio/genesis-architect",
-  "description": "Research-first project scaffolding for Claude Code. Mines GitHub Issues for production failures before writing a single file.",
+  "description": "Research-first architecture engine for Python, TS, Go and Rust. Mines GitHub Issues for real production failures before scaffolding, then audits drift, cycles and fragility in code you already have. Zero import cycles, zero critical anti-patterns - measured against itself.",
   "description_ja": "",
   "url": "https://github.com/maioio/genesis-architect",
   "homepage_url": "https://maioio.github.io/genesis-architect/",
@@ -13,27 +13,28 @@
     "ai-agent",
     "ai-tools",
     "architecture",
-    "boilerplate",
     "claude-code",
     "claude-skill",
     "cli",
     "code-generation",
-    "cookiecutter",
+    "code-quality",
+    "dependency-graph",
     "developer-tools",
     "devtools",
     "llm",
-    "open-core",
     "python",
-    "scaffolder",
-    "scaffolding"
+    "refactoring",
+    "scaffolding",
+    "static-analysis",
+    "technical-debt"
   ],
   "star_count": 47,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-07T15:22:29Z",
-  "updated_at": "2026-08-22T01:22:59Z",
-  "pushed_at": "2026-08-22T20:09:31Z",
+  "updated_at": "2026-08-23T13:33:55Z",
+  "pushed_at": "2026-08-23T13:33:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -202,6 +203,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 47
+    },
+    {
+      "date": "2026-08-23",
       "stars": 47
     }
   ]

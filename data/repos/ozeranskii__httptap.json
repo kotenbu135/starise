@@ -6,7 +6,7 @@
   "description": "Rich-powered CLI that breaks each HTTP request into DNS, connect, TLS, wait, and transfer phases with waterfall timelines, compact summaries, or metrics-only output.",
   "description_ja": "Rich を活用した CLI で、各 HTTP リクエストを DNS、接続、TLS、待機、転送フェーズに分解し、ウォーターフォールタイムライン、コンパクトなサマリー、またはメトリクスのみの出力を提供します",
   "url": "https://github.com/ozeranskii/httptap",
-  "homepage_url": "https://httptap.dev/",
+  "homepage_url": "https://docs.httptap.dev/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-22T22:05:06Z",
-  "updated_at": "2026-08-22T03:15:48Z",
-  "pushed_at": "2026-08-17T08:14:50Z",
+  "updated_at": "2026-08-23T13:45:28Z",
+  "pushed_at": "2026-08-23T13:45:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -389,6 +389,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 800
+    },
+    {
+      "date": "2026-08-23",
       "stars": 800
     }
   ]

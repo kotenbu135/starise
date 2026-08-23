@@ -3,7 +3,7 @@
   "owner": "marketcalls",
   "name": "openalgo-charts",
   "full_name": "marketcalls/openalgo-charts",
-  "description": "Dependency-free HTML5 canvas charting engine for OpenAlgo (\u003c50KB Brotli): all chart types, indicators, transforms, profiles, and Chart Based Trading.",
+  "description": "Dependency-free TypeScript canvas engine: indicators, drawings, market profile, order flow, replay, multi-chart sync and order entry on the chart. Any broker, any market",
   "description_ja": "",
   "url": "https://github.com/marketcalls/openalgo-charts",
   "homepage_url": "https://marketcalls.github.io/openalgo-charts",
@@ -13,13 +13,13 @@
     "charting-library",
     "openalgo-charts"
   ],
-  "star_count": 35,
-  "fork_count": 14,
+  "star_count": 37,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-26T19:31:51Z",
-  "updated_at": "2026-08-22T09:46:39Z",
-  "pushed_at": "2026-08-22T00:56:24Z",
+  "updated_at": "2026-08-23T18:53:21Z",
+  "pushed_at": "2026-08-23T17:56:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -69,6 +69,10 @@
     {
       "date": "2026-08-22",
       "stars": 35
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 37
     }
   ]
 }

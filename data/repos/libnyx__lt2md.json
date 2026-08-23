@@ -1,0 +1,41 @@
+{
+  "repo_id": "R_kgDOT4optA",
+  "owner": "libnyx",
+  "name": "lt2md",
+  "full_name": "libnyx/lt2md",
+  "description": "AI-agent skill producing reusable Markdown from PDFs. It turns flowcharts, diagrams, and charts into text beside each caption instead of empty links. It checks an earlier conversion against the PDF and fixes misread or missing parts. Long PDFs run in small saved batches with an independent review pass, each paragraph tagged with its page.",
+  "description_ja": "",
+  "url": "https://github.com/libnyx/LT2MD",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "AGPL-3.0",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "codex",
+    "codex-skill",
+    "document-conversion",
+    "llm",
+    "markdown",
+    "ocr",
+    "pdf",
+    "pdf-to-markdown",
+    "rag",
+    "scanned-documents",
+    "vlm"
+  ],
+  "star_count": 33,
+  "fork_count": 1,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-08-14T18:08:20Z",
+  "updated_at": "2026-08-23T17:41:32Z",
+  "pushed_at": "2026-08-23T16:55:14Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-23",
+      "stars": 33
+    }
+  ]
+}

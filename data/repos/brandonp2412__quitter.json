@@ -3,26 +3,30 @@
   "owner": "brandonp2412",
   "name": "quitter",
   "full_name": "brandonp2412/quitter",
-  "description": "Give up on addictions and become a Quitter 😎",
-  "description_ja": "依存症を断ち切ってQuitterになろう😎",
+  "description": "Private, offline addiction-recovery and sobriety tracker with milestones, journaling, notifications, and custom quit journeys.",
+  "description_ja": "",
   "url": "https://github.com/brandonp2412/Quitter",
   "homepage_url": "https://brandonp2412.github.io/Quitter/",
   "language": "Dart",
   "license": "MIT",
   "topics": [
-    "addiction",
     "addiction-recovery",
     "android",
     "dart",
+    "fdroid",
     "flutter",
-    "flutter-app",
     "habit-tracker",
+    "journal",
     "linux",
-    "mobile-app",
+    "milestone-tracker",
+    "notifications",
+    "offline-first",
+    "open-source",
+    "privacy",
     "quit-smoking",
     "recovery",
-    "sobriety",
     "sobriety-tracker",
+    "web",
     "windows"
   ],
   "star_count": 179,
@@ -30,7 +34,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-18T04:37:04Z",
-  "updated_at": "2026-08-22T16:46:59Z",
+  "updated_at": "2026-08-22T23:52:39Z",
   "pushed_at": "2026-08-20T06:04:39Z",
   "deleted_at": "",
   "star_history": [
@@ -396,6 +400,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 179
+    },
+    {
+      "date": "2026-08-23",
       "stars": 179
     }
   ]

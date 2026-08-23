@@ -3,7 +3,7 @@
   "owner": "w8123",
   "name": "enterpriseagentframework",
   "full_name": "w8123/enterpriseagentframework",
-  "description": "面向 OA、ERP、CRM、工单等企业系统快速构建智能体，让 AI 在权限、审计与治理约束下安全调用真实业务能力。Build agents quickly for enterprise systems such as OA, ERP, CRM, and ticketing, enabling AI to safely call real business capabilities under permissions, audit, and governance controls.",
+  "description": "ReachAI企业级智能体开发平台：快速、安全完成已有业务系统智能化改造，让 AI 在 OA、ERP、CRM 等原系统中查数据、填表单、办业务。ReachAI: Quickly and securely bring AI to existing enterprise systems, enabling AI to query data, fill out forms, and execute business tasks directly within OA, ERP, CRM, and other business applications.",
   "description_ja": "",
   "url": "https://github.com/w8123/EnterpriseAgentFramework",
   "homepage_url": "",
@@ -11,22 +11,22 @@
   "license": "MIT",
   "topics": [
     "a2a",
+    "agent",
     "agent-framework",
+    "agent-skills",
+    "agents",
     "ai-agents",
     "ai-capability",
+    "ai-coding",
     "ai-gateway",
-    "ai-platform",
+    "enterprise-agent",
     "enterprise-ai",
     "java",
     "langgraph",
-    "llmops",
-    "llmops-platform",
     "mcp",
     "milvus",
     "openai-compatible",
     "rag",
-    "spring-ai",
-    "spring-boot",
     "tool-calling",
     "vue",
     "workflow"
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-02T03:24:58Z",
-  "updated_at": "2026-08-21T14:58:46Z",
-  "pushed_at": "2026-08-16T13:43:35Z",
+  "updated_at": "2026-08-23T12:26:16Z",
+  "pushed_at": "2026-08-23T09:30:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -314,6 +314,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 581
+    },
+    {
+      "date": "2026-08-23",
       "stars": 581
     }
   ]

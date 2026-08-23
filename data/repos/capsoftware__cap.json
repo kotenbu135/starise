@@ -7,7 +7,7 @@
   "description_ja": "オープンソースのLoom代替ツール。美しく共有できる画面録画。",
   "url": "https://github.com/CapSoftware/Cap",
   "homepage_url": "https://cap.so",
-  "language": "TypeScript",
+  "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
     "app",
@@ -31,13 +31,13 @@
     "typescript",
     "vite"
   ],
-  "star_count": 21065,
+  "star_count": 21093,
   "fork_count": 1806,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-17T20:31:46Z",
-  "updated_at": "2026-08-22T17:57:51Z",
-  "pushed_at": "2026-08-21T09:04:30Z",
+  "updated_at": "2026-08-23T19:09:58Z",
+  "pushed_at": "2026-08-23T15:52:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +403,10 @@
     {
       "date": "2026-08-22",
       "stars": 21065
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 21093
     }
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "repo_id": "R_kgDOSbMnfQ",
+  "owner": "paperclipinc",
+  "name": "hermes-operator",
+  "full_name": "paperclipinc/hermes-operator",
+  "description": "Production-grade Kubernetes operator for nousresearch/hermes-agent: declarative spec, security defaults, S3 backups, OCI auto-update with rollback, SSA-based GitOps coexistence, OpenClaw migration.",
+  "description_ja": "",
+  "url": "https://github.com/paperclipinc/hermes-operator",
+  "homepage_url": "https://paperclip.inc/hermes-agent",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "ai-agent",
+    "cncf",
+    "devops",
+    "gitops",
+    "golang",
+    "helm",
+    "hermes",
+    "hermes-agent",
+    "kubernetes",
+    "kubernetes-operator",
+    "llm",
+    "olm",
+    "operator",
+    "operator-sdk",
+    "ssa"
+  ],
+  "star_count": 31,
+  "fork_count": 7,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-12T09:30:22Z",
+  "updated_at": "2026-08-23T16:36:29Z",
+  "pushed_at": "2026-08-17T19:08:45Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-23",
+      "stars": 31
+    }
+  ]
+}

@@ -3,10 +3,10 @@
   "owner": "hardcore-sushi",
   "name": "droidfs",
   "full_name": "hardcore-sushi/droidfs",
-  "description": "Encrypted overlay filesystems implementation for Android. Also available on gitea: https://forge.chapril.org/hardcoresushi/DroidFS",
-  "description_ja": "Android 向け暗号化オーバーレイファイルシステム実装。Gitea でも公開中: https://forge.chapril.org/hardcoresushi/DroidFS",
+  "description": "Encrypted overlay filesystems implementation for Android. Also available on Tangled.",
+  "description_ja": "",
   "url": "https://github.com/hardcore-sushi/DroidFS",
-  "homepage_url": "",
+  "homepage_url": "https://tangled.org/cipherd.arkensys.dedyn.io/DroidFS",
   "language": "Java",
   "license": "AGPL-3.0",
   "topics": [
@@ -18,13 +18,13 @@
     "gocryptfs",
     "video-recording"
   ],
-  "star_count": 983,
+  "star_count": 985,
   "fork_count": 72,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-07-12T14:43:26Z",
-  "updated_at": "2026-08-21T22:52:51Z",
-  "pushed_at": "2026-08-21T15:02:40Z",
+  "updated_at": "2026-08-23T17:34:43Z",
+  "pushed_at": "2026-08-23T17:31:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -390,6 +390,10 @@
     {
       "date": "2026-08-22",
       "stars": 983
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 985
     }
   ]
 }

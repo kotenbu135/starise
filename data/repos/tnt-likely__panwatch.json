@@ -18,9 +18,10 @@
     "deepseek",
     "fastapi",
     "fintech",
+    "langgraph",
     "llm",
+    "mcp",
     "openai",
-    "portfolio",
     "pwa",
     "quant",
     "self-hosted",
@@ -30,12 +31,12 @@
     "trading-agents",
     "trading-bot"
   ],
-  "star_count": 798,
-  "fork_count": 188,
+  "star_count": 802,
+  "fork_count": 187,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-23T13:34:00Z",
-  "updated_at": "2026-08-22T02:50:30Z",
+  "updated_at": "2026-08-23T18:09:58Z",
   "pushed_at": "2026-08-21T02:29:46Z",
   "deleted_at": "",
   "star_history": [
@@ -334,6 +335,10 @@
     {
       "date": "2026-08-22",
       "stars": 798
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 802
     }
   ]
 }

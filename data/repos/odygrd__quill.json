@@ -3,17 +3,17 @@
   "owner": "odygrd",
   "name": "quill",
   "full_name": "odygrd/quill",
-  "description": "Asynchronous Low Latency C++ Logging Library",
-  "description_ja": "非同期低レイテンシ C++ ロギングライブラリ",
+  "description": "Ultra-low-latency asynchronous C++17 logging and metrics library for performance-critical applications",
+  "description_ja": "",
   "url": "https://github.com/odygrd/quill",
-  "homepage_url": "",
+  "homepage_url": "https://quillcpp.readthedocs.io",
   "language": "C++",
   "license": "MIT",
   "topics": [
     "async",
     "asynchronous",
     "cpp",
-    "cpp14",
+    "cpp-logging",
     "cpp17",
     "cpp20",
     "cross-platform",
@@ -23,15 +23,19 @@
     "logger",
     "logging",
     "logging-library",
-    "low-latency"
+    "low-latency",
+    "metrics",
+    "observability",
+    "prometheus",
+    "structured-logging"
   ],
   "star_count": 3004,
   "fork_count": 271,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-01-15T23:22:33Z",
-  "updated_at": "2026-08-22T17:22:50Z",
-  "pushed_at": "2026-08-22T17:22:36Z",
+  "updated_at": "2026-08-23T11:48:28Z",
+  "pushed_at": "2026-08-23T12:59:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -396,6 +400,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 3004
+    },
+    {
+      "date": "2026-08-23",
       "stars": 3004
     }
   ]

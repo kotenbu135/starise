@@ -3,16 +3,16 @@
   "owner": "ridwaanhall",
   "name": "ridwaanhall-com",
   "full_name": "ridwaanhall/ridwaanhall-com",
-  "description": "🚀A Django portfolio platform built for ridwaanhall.com — database-backed content management with a full admin panel, real-time GitHub/WakaTime dashboards, a configurable OAuth guestbook, and enterprise-grade security. Fork it and make it your own; see Making It Your Own below.",
+  "description": "🚀A Next.js portfolio platform with Supabase backend, admin panel, real-time GitHub/WakaTime dashboards, OAuth guestbook, theming, and strong security — fully customizable for personal use.",
   "description_ja": "",
   "url": "https://github.com/ridwaanhall/ridwaanhall-com",
   "homepage_url": "https://ridwaanhall.com",
-  "language": "Python",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
-    "django",
-    "django-portfolio",
     "flexforge",
+    "nextjs",
+    "nextjs16-portfolio",
     "portfolio",
     "portfolio-website",
     "tailwind-portfolio",
@@ -23,8 +23,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-16T09:19:21Z",
-  "updated_at": "2026-08-19T17:30:27Z",
-  "pushed_at": "2026-08-22T15:23:32Z",
+  "updated_at": "2026-08-23T16:00:07Z",
+  "pushed_at": "2026-08-23T15:28:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -385,6 +385,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 37
+    },
+    {
+      "date": "2026-08-23",
       "stars": 37
     }
   ]

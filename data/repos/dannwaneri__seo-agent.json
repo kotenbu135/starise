@@ -3,19 +3,32 @@
   "owner": "dannwaneri",
   "name": "seo-agent",
   "full_name": "dannwaneri/seo-agent",
-  "description": "Local AI agent that audits URLs for SEO issues using Browser Use + Claude API + Playwright",
+  "description": "Open-source SEO audit agent — real-browser checks, backlink scoring, and multi-engine AI citation tracking (Claude, ChatGPT, Gemini, Perplexity, Copilot) via SearchApi",
   "description_ja": "",
   "url": "https://github.com/dannwaneri/seo-agent",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "ai-agent",
+    "ai-visibility",
+    "anthropic",
+    "browser-automation",
+    "claude-api",
+    "llm",
+    "playwright",
+    "python",
+    "searchapi",
+    "seo",
+    "seo-audit",
+    "seo-tools"
+  ],
   "star_count": 41,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T12:28:06Z",
-  "updated_at": "2026-08-20T15:24:13Z",
+  "updated_at": "2026-08-23T13:09:18Z",
   "pushed_at": "2026-08-20T15:23:13Z",
   "deleted_at": "",
   "star_history": [
@@ -237,6 +250,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 41
+    },
+    {
+      "date": "2026-08-23",
       "stars": 41
     }
   ]

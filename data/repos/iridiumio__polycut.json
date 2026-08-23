@@ -3,7 +3,7 @@
   "owner": "iridiumio",
   "name": "polycut",
   "full_name": "iridiumio/polycut",
-  "description": "Polycut is a tool designed to import SVG files and convert them to 2D GCode to run on 3D Printers that have blades/pens/knives/foil stampers or other tools attached. It also directly supports uploading to a networked 3D Printer via Klipper. Think of it as an alternative to buying a Cricut if you already have a 3D Printer.",
+  "description": "PolyCut turns a 3D printer into a 2D cutting/drawing machine. Import SVGs or images and convert them to GCode for use with pens, knives, foil tools or other attachments. Think of it as an alternative to Cricut if you already have a capable machine.",
   "description_ja": "",
   "url": "https://github.com/IridiumIO/PolyCut",
   "homepage_url": "https://github.com/IridiumIO/PolyCut",
@@ -25,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-19T11:52:15Z",
-  "updated_at": "2026-08-21T11:51:44Z",
-  "pushed_at": "2026-08-22T15:20:30Z",
+  "updated_at": "2026-08-23T02:11:19Z",
+  "pushed_at": "2026-08-23T02:11:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -359,6 +359,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 212
+    },
+    {
+      "date": "2026-08-23",
       "stars": 212
     }
   ]

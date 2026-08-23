@@ -3,7 +3,7 @@
   "owner": "fynnfluegge",
   "name": "agtx",
   "full_name": "fynnfluegge/agtx",
-  "description": "🏄🏼‍♂️ The blackboard for coding agents - terminal-native ADE for claude code, cursor, codex, opencode, grok and more",
+  "description": "🏄🏼‍♂️ The blackboard for coding agents. Terminal-native ADE for claude code, codex, cursor, opencode, grok and more",
   "description_ja": "",
   "url": "https://github.com/fynnfluegge/agtx",
   "homepage_url": "",
@@ -11,6 +11,7 @@
   "license": "Apache-2.0",
   "topics": [
     "ade",
+    "ai-agents",
     "claude",
     "claude-code",
     "codex",
@@ -20,13 +21,13 @@
     "spec-driven-development",
     "vibe-coding"
   ],
-  "star_count": 1388,
+  "star_count": 1431,
   "fork_count": 125,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-08T10:24:00Z",
-  "updated_at": "2026-08-22T19:49:17Z",
-  "pushed_at": "2026-08-22T17:57:14Z",
+  "updated_at": "2026-08-23T19:19:13Z",
+  "pushed_at": "2026-08-23T18:24:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -392,6 +393,10 @@
     {
       "date": "2026-08-22",
       "stars": 1388
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 1431
     }
   ]
 }

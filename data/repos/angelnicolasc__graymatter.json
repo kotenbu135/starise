@@ -6,7 +6,7 @@
   "description": "Three lines of code to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.",
   "description_ja": "",
   "url": "https://github.com/angelnicolasc/graymatter",
-  "homepage_url": "nickcerutti.com",
+  "homepage_url": "https://nickcerutti.com",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -15,7 +15,9 @@
     "ai-tools",
     "claude-code",
     "cli",
+    "context-management",
     "go",
+    "mcp",
     "offline-first",
     "persistent-memory",
     "self-hosted"
@@ -25,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-08T20:04:36Z",
-  "updated_at": "2026-08-21T21:58:46Z",
-  "pushed_at": "2026-08-19T00:17:48Z",
+  "updated_at": "2026-08-23T18:41:50Z",
+  "pushed_at": "2026-08-23T18:41:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -375,6 +377,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 459
+    },
+    {
+      "date": "2026-08-23",
       "stars": 459
     }
   ]

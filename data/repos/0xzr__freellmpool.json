@@ -3,7 +3,7 @@
   "owner": "0xzr",
   "name": "freellmpool",
   "full_name": "0xzr/freellmpool",
-  "description": "Free LLM API pool: 24 LLM providers cataloged, 222 routes, 407 cataloged chat models, keyless start when available.",
+  "description": "Free LLM API pool: 24 LLM providers cataloged, 226 routes, 410 cataloged chat models, keyless start when available.",
   "description_ja": "",
   "url": "https://github.com/0xzr/freellmpool",
   "homepage_url": "https://0xzr.github.io/freellmpool/",
@@ -26,18 +26,18 @@
     "model-context-protocol",
     "openai",
     "openai-proxy",
-    "opencode",
     "openrouter",
     "python",
-    "rate-limiting"
+    "rate-limiting",
+    "speech-to-text"
   ],
-  "star_count": 84,
+  "star_count": 85,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-03T00:35:58Z",
-  "updated_at": "2026-08-22T04:56:03Z",
-  "pushed_at": "2026-08-21T19:08:50Z",
+  "updated_at": "2026-08-23T17:28:49Z",
+  "pushed_at": "2026-08-23T14:07:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -95,6 +95,10 @@
     {
       "date": "2026-08-22",
       "stars": 84
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 85
     }
   ]
 }

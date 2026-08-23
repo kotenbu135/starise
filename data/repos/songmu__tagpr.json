@@ -6,20 +6,20 @@
   "description": "automatically creates and updates a pull request for unreleased items, tag them when they are merged, and create releases.",
   "description_ja": "未リリース項目のプルリクエストを自動作成・更新し、マージ時にタグ付けしてリリースを作成する",
   "url": "https://github.com/Songmu/tagpr",
-  "homepage_url": "",
+  "homepage_url": "https://junkyard.song.mu/tagpr/",
   "language": "Go",
   "license": "MIT",
   "topics": [
     "github-actions",
     "go"
   ],
-  "star_count": 325,
+  "star_count": 326,
   "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-14T07:35:48Z",
-  "updated_at": "2026-08-22T06:19:56Z",
-  "pushed_at": "2026-08-22T07:41:42Z",
+  "updated_at": "2026-08-23T13:48:34Z",
+  "pushed_at": "2026-08-23T12:33:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -385,6 +385,10 @@
     {
       "date": "2026-08-22",
       "stars": 325
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 326
     }
   ]
 }

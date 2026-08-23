@@ -1,0 +1,32 @@
+{
+  "repo_id": "R_kgDOT1N04Q",
+  "owner": "yinxulai",
+  "name": "one-switch",
+  "full_name": "yinxulai/one-switch",
+  "description": "One Switch 是面向 Codex、Claude Code 等 AI 开发工具的本地故障切换网关。它通过统一的本地 API 入口集中管理多个 AI 供应商、模型与密钥，让各类工具只需配置一次，无需在切换供应商或模型时反复修改 Base URL、模型名称和 API Key。当上游服务出现网络故障、超时、限流、鉴权失败或服务端异常时，One Switch 会按优先级自动切换到可用渠道，尽可能保障 AI 工作流持续稳定运行。",
+  "description_ja": "",
+  "url": "https://github.com/yinxulai/one-switch",
+  "homepage_url": "",
+  "language": "TypeScript",
+  "license": "",
+  "topics": [
+    "ai-proxy",
+    "cc-switch",
+    "claude-code",
+    "codex"
+  ],
+  "star_count": 51,
+  "fork_count": 0,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-08-11T11:57:43Z",
+  "updated_at": "2026-08-23T20:22:33Z",
+  "pushed_at": "2026-08-23T12:48:59Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-23",
+      "stars": 51
+    }
+  ]
+}

@@ -3,20 +3,25 @@
   "owner": "rajhodedara",
   "name": "live-sport-plugin",
   "full_name": "rajhodedara/live-sport-plugin",
-  "description": "",
+  "description": "A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-time feeds and delivers seamless IPTV playback.",
   "description_ja": "",
   "url": "https://github.com/rajhodedara/live-sport-plugin",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "",
-  "topics": [],
+  "topics": [
+    "javascript",
+    "live-streaming",
+    "plugin",
+    "scraper"
+  ],
   "star_count": 107,
-  "fork_count": 70,
+  "fork_count": 71,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-14T12:13:43Z",
-  "updated_at": "2026-08-22T19:28:46Z",
-  "pushed_at": "2026-08-22T19:26:48Z",
+  "updated_at": "2026-08-23T16:20:03Z",
+  "pushed_at": "2026-08-23T16:19:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +70,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 107
+    },
+    {
+      "date": "2026-08-23",
       "stars": 107
     }
   ]

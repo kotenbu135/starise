@@ -3,7 +3,7 @@
   "owner": "ethanyoq",
   "name": "agent-xiaohongshu-workbench",
   "full_name": "ethanyoq/agent-xiaohongshu-workbench",
-  "description": "小红书图文内容工作台：用 Codex Agent 完成热点研究、内容拆解、原创文稿、去 AI 味、品牌配图与人工确认发布。",
+  "description": "小红书图文内容工作台：把账号定位、热点研究、选题、原创文稿、品牌配图、预览和人工确认组织成一条可控流程。",
   "description_ja": "",
   "url": "https://github.com/EthanYoQ/agent-xiaohongshu-workbench",
   "homepage_url": "",
@@ -15,17 +15,23 @@
     "chinese-writing",
     "codex",
     "content-creation",
+    "content-marketing",
     "content-workflow",
+    "creator-tools",
+    "desktop-app",
+    "electron",
+    "social-media",
+    "social-media-automation",
     "xhs",
     "xiaohongshu"
   ],
-  "star_count": 94,
+  "star_count": 95,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-14T14:31:07Z",
-  "updated_at": "2026-08-20T15:31:27Z",
-  "pushed_at": "2026-08-22T18:05:02Z",
+  "updated_at": "2026-08-23T17:21:58Z",
+  "pushed_at": "2026-08-23T17:21:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -83,6 +89,10 @@
     {
       "date": "2026-08-22",
       "stars": 94
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 95
     }
   ]
 }

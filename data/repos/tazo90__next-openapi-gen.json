@@ -3,8 +3,8 @@
   "owner": "tazo90",
   "name": "next-openapi-gen",
   "full_name": "tazo90/next-openapi-gen",
-  "description": "Automatically generate OpenAPI 3.0, 3.1, and 3.2 documentation from Next.js projects, with support for Zod schemas, TypeScript types, and reusable OpenAPI fragments.",
-  "description_ja": "Next.js プロジェクトから OpenAPI 3.0、3.1、3.2 ドキュメントを自動生成。Zod スキーマ、TypeScript 型、再利用可能な OpenAPI フラグメントをサポート。",
+  "description": "Generate OpenAPI 3.0/3.1/3.2 specs from your route handlers — Next.js, TanStack Router, React Router, Remix, SvelteKit, Nuxt, Astro, Hono, Express. Zod, TypeScript types, drizzle-zod and reusable fragments. JSDoc-driven, zero runtime overhead.",
+  "description_ja": "",
   "url": "https://github.com/tazo90/next-openapi-gen",
   "homepage_url": "https://www.npmjs.com/package/next-openapi-gen",
   "language": "TypeScript",
@@ -12,14 +12,21 @@
   "topics": [
     "api",
     "api-docs",
+    "astro",
     "docs",
     "drizzle",
+    "express",
+    "hono",
     "nextjs",
+    "nuxt",
     "openapi",
     "reactjs",
     "redoc",
+    "remix",
     "scalar",
+    "sveltekit",
     "swagger",
+    "tanstack-router",
     "ts",
     "typescript",
     "zod"
@@ -29,7 +36,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-05T07:13:48Z",
-  "updated_at": "2026-08-20T19:09:44Z",
+  "updated_at": "2026-08-23T19:23:37Z",
   "pushed_at": "2026-08-20T20:06:31Z",
   "deleted_at": "",
   "star_history": [
@@ -391,6 +398,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 189
+    },
+    {
+      "date": "2026-08-23",
       "stars": 189
     }
   ]

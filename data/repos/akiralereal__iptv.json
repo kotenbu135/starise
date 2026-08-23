@@ -3,28 +3,31 @@
   "owner": "akiralereal",
   "name": "iptv",
   "full_name": "akiralereal/iptv",
-  "description": "基于 Docker 的 IPTV 直播源管理与分发系统：可视化后台、直播源抓取（含体育赛事/EPG），支持外部源管理与 m3u txt 订阅；内置纬来体育、Red Bull、4K 卫视及港澳台等，开箱即用。",
+  "description": "自托管的模块化 IPTV 直播源管理与分发系统——把平台抓取源（咪咕 / B 站直播）、精选频道与你自己的订阅聚合成一份干净的 m3u + EPG，配可视化后台。Docker 一键部署，开箱即有 300+ 频道。",
   "description_ja": "",
   "url": "https://github.com/akiralereal/iptv",
   "homepage_url": "https://ifansclub.com/",
   "language": "JavaScript",
   "license": "GPL-3.0",
   "topics": [
+    "bilibili",
+    "bilibili-live",
     "iptv",
     "iptv-channels",
     "iptv-free",
     "iptv-links",
     "iptv-m3u",
     "iptv-m3u8",
-    "iptv-playlist"
+    "iptv-playlist",
+    "migu"
   ],
-  "star_count": 429,
-  "fork_count": 136,
+  "star_count": 431,
+  "fork_count": 138,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T07:33:46Z",
-  "updated_at": "2026-08-22T15:00:31Z",
-  "pushed_at": "2026-08-19T13:54:01Z",
+  "updated_at": "2026-08-23T15:32:21Z",
+  "pushed_at": "2026-08-23T14:57:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -158,6 +161,10 @@
     {
       "date": "2026-08-22",
       "stars": 429
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 431
     }
   ]
 }

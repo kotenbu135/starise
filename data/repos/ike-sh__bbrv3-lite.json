@@ -3,7 +3,7 @@
   "owner": "ike-sh",
   "name": "bbrv3-lite",
   "full_name": "ike-sh/bbrv3-lite",
-  "description": "轻量级 BBR v3 / XanMod / TCP 网络调优脚本，保留内核安装、BBR 优化、DNS 净化、IPv6 管理、Realm timeout 修复与测速功能。",
+  "description": "轻量级 BBR v3 / XanMod / TCP 网络调优脚本，保留内核安装、BBR 优化、DNS 净化、IPv6 管理、 修复与测速功能。",
   "description_ja": "",
   "url": "https://github.com/ike-sh/bbrv3-lite",
   "homepage_url": "https://github.com/ike-sh/bbrv3-lite",
@@ -29,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-28T19:59:52Z",
-  "updated_at": "2026-08-22T13:06:12Z",
-  "pushed_at": "2026-08-16T10:52:29Z",
+  "updated_at": "2026-08-23T18:30:08Z",
+  "pushed_at": "2026-08-23T18:30:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -159,6 +159,10 @@
     },
     {
       "date": "2026-08-22",
+      "stars": 77
+    },
+    {
+      "date": "2026-08-23",
       "stars": 77
     }
   ]
