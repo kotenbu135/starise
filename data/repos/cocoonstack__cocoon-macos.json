@@ -1,0 +1,46 @@
+{
+  "repo_id": "R_kgDOSsvMDQ",
+  "owner": "cocoonstack",
+  "name": "cocoon-macos",
+  "full_name": "cocoonstack/cocoon-macos",
+  "description": "macOS VM engine for x86 Linux/KVM, built on cocoon. Boots real macOS guests (Sequoia, Tahoe) via QEMU + OpenCore + OVMF, with ghcr golden images, snapshot \u0026 clone, per-VM SMBIOS identity, CNI networking (real LAN IP via TC redirect), reachable VNC, and a Docker-like CLI. For macOS CI runners, cloud Macs, and ephemeral dev environments.",
+  "description_ja": "",
+  "url": "https://github.com/cocoonstack/cocoon-macos",
+  "homepage_url": "https://cocoonstack.github.io/cocoon-macos/",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "ci",
+    "clone",
+    "cloud-desktop",
+    "cni",
+    "cocoon",
+    "dev-environment",
+    "kvm",
+    "macos",
+    "oci",
+    "opencore",
+    "osx",
+    "ovmf",
+    "qcow2",
+    "qemu",
+    "sandbox",
+    "snapshot",
+    "virtual-machine",
+    "vnc"
+  ],
+  "star_count": 46,
+  "fork_count": 3,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-31T05:14:59Z",
+  "updated_at": "2026-08-26T10:45:09Z",
+  "pushed_at": "2026-08-20T17:14:39Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-28",
+      "stars": 46
+    }
+  ]
+}

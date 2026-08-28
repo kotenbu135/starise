@@ -3,7 +3,7 @@
   "owner": "orbien-org",
   "name": "orbien",
   "full_name": "orbien-org/orbien",
-  "description": "一个轻量高性能的内网穿透工具，二进制体积大约5MB ，支持 TCP、QUIC、KCP、WebSocket 传输协议，支持 TCP、UDP、HTTP、HTTPS 协议代理，提供纯Rust原生跨平台桌面客户端和服务端 Web 界面",
+  "description": "一个轻量高性能的内网穿透工具，二进制体积大约5MB ，支持 TCP、QUIC、KCP、WebSocket 传输协议，支持 TCP、UDP、HTTP、HTTPS、SOCKS5 协议代理，提供纯Rust原生跨平台桌面客户端和服务端 Web 界面",
   "description_ja": "",
   "url": "https://github.com/orbien-org/orbien",
   "homepage_url": "https://orbien-org.github.io/orbien/",
@@ -19,18 +19,19 @@
     "proxy",
     "quic",
     "rust",
+    "socks5",
     "tcp",
     "tokio",
     "tunnel",
     "websocket"
   ],
-  "star_count": 858,
-  "fork_count": 94,
+  "star_count": 1037,
+  "fork_count": 123,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-07T11:04:04Z",
-  "updated_at": "2026-08-23T19:35:58Z",
-  "pushed_at": "2026-08-23T14:11:40Z",
+  "updated_at": "2026-08-28T04:43:21Z",
+  "pushed_at": "2026-08-28T04:01:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -48,6 +49,10 @@
     {
       "date": "2026-08-23",
       "stars": 858
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 1037
     }
   ]
 }

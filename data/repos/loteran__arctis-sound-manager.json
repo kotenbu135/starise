@@ -3,7 +3,7 @@
   "owner": "loteran",
   "name": "arctis-sound-manager",
   "full_name": "loteran/arctis-sound-manager",
-  "description": "Linux GUI for SteelSeries Arctis headsets - Sonar presets and Chat Mix forNova Pro Wireless \u0026 Wired, Nova Pro Omni, Nova Elite, Nova 7/7P/5/3, Arctis 7/7+/9/Pro Wireless. Device settings, Sonar EQ, 4-channel Game/Chat/Media mixer, PipeWire routing.",
+  "description": "SteelSeries GG and Sonar alternative for Linux — Sonar EQ with 330+ game presets, ChatMix, Game/Chat/Media mixer, spatial audio, sidetone, ANC, battery and OLED. Arctis Nova Pro Wireless \u0026 Wired, Nova Pro Omni, Nova Elite, Nova 7/7P/5/3, Arctis 7/7+/9/Pro Wireless, GameBuds. Built on PipeWire.",
   "description_ja": "",
   "url": "https://github.com/loteran/Arctis-Sound-Manager",
   "homepage_url": "https://loteran.github.io/Arctis-Sound-Manager/",
@@ -29,13 +29,13 @@
     "wayland",
     "wireless-headset"
   ],
-  "star_count": 101,
+  "star_count": 107,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-09T15:07:18Z",
-  "updated_at": "2026-08-23T12:08:34Z",
-  "pushed_at": "2026-08-23T11:55:58Z",
+  "updated_at": "2026-08-27T12:28:27Z",
+  "pushed_at": "2026-08-27T12:21:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -265,6 +265,10 @@
     {
       "date": "2026-08-23",
       "stars": 101
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 107
     }
   ]
 }

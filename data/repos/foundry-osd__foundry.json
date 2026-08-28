@@ -3,31 +3,41 @@
   "owner": "foundry-osd",
   "name": "foundry",
   "full_name": "foundry-osd/foundry",
-  "description": "Foundry is a modern Windows deployment solution built on a desktop app and WinPE. It helps you create deployment media and run a guided deployment with the right OS, drivers, firmware, and configuration.",
+  "description": "Foundry is a modern, open-source Windows deployment solution with a graphical interface. Create bootable media and deploy Windows with the right OS, drivers, firmware, and configuration.",
   "description_ja": "",
   "url": "https://github.com/foundry-osd/foundry",
   "homepage_url": "https://docs.foundryosd.com",
   "language": "C#",
   "license": "MIT",
   "topics": [
-    "arm64",
     "autopilot",
-    "cloud",
     "deployment",
-    "drivers",
-    "iso",
-    "usb",
+    "deployment-automation",
+    "device-provisioning",
+    "endpoint-management",
+    "intune",
+    "microsoft-intune",
+    "modern-workplace",
+    "open-source",
+    "osd",
+    "powershell",
+    "provisioning",
+    "system-administration",
     "windows",
+    "windows-11",
+    "windows-autopilot",
+    "windows-deployment",
+    "windows-imaging",
     "winpe",
-    "x64"
+    "winui3"
   ],
-  "star_count": 55,
+  "star_count": 56,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T16:58:10Z",
-  "updated_at": "2026-08-21T00:30:58Z",
-  "pushed_at": "2026-08-23T12:43:49Z",
+  "updated_at": "2026-08-26T17:46:53Z",
+  "pushed_at": "2026-08-26T11:54:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -129,6 +139,10 @@
     {
       "date": "2026-08-23",
       "stars": 55
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 56
     }
   ]
 }

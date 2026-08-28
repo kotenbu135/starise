@@ -3,7 +3,7 @@
   "owner": "bitscoper",
   "name": "bitscoper_cyberkit",
   "full_name": "bitscoper/bitscoper_cyberkit",
-  "description": "A Flutter App: Bluetooth LE Scanner, IPv4 Subnet Scanner, mDNS Scanner, UPnP Scanner, Route Tracer, TCP Port Scanner, Pinger, File Hash Calculator, String Hash Calculator, CVSS Calculator, Base Encoder, Morse Code Translator, QR Code Generator, OGP Data Extractor, Series URI Crawler, DNS Record Retriever, WHOIS Retriever, and Wi-Fi Details Viewer",
+  "description": "A Flutter Application: Bluetooth Low Energy Scanner, IPv4 Subnet Scanner, mDNS Scanner, UPnP Scanner, Route Tracer, TCP Port Scanner, Pinger, DNS Record Retriever, File Hash Calculator, String Hash Calculator, Base Encoder, Series URI Crawler, OGP Data Extractor, WHOIS Retriever, CVSS Calculator, Morse Code Translator, and Wi-Fi Details Viewer.",
   "description_ja": "",
   "url": "https://github.com/bitscoper/bitscoper_cyberkit",
   "homepage_url": "",
@@ -30,13 +30,13 @@
     "web",
     "windows"
   ],
-  "star_count": 49,
+  "star_count": 56,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-21T04:41:32Z",
-  "updated_at": "2026-08-23T14:07:42Z",
-  "pushed_at": "2026-08-23T14:16:13Z",
+  "updated_at": "2026-08-28T02:31:54Z",
+  "pushed_at": "2026-08-27T09:41:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -354,6 +354,10 @@
     {
       "date": "2026-08-23",
       "stars": 49
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 56
     }
   ]
 }

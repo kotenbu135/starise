@@ -3,8 +3,8 @@
   "owner": "drduh",
   "name": "pwd.sh",
   "full_name": "drduh/pwd.sh",
-  "description": "GnuPG symmetric secrets manager using Bash.",
-  "description_ja": "Bashを使ったGnuPG対称鍵シークレット管理ツール。",
+  "description": "Manage secrets with Bash and GnuPG symmetric encryption",
+  "description_ja": "",
   "url": "https://github.com/drduh/pwd.sh",
   "homepage_url": "https://drduh.github.io/pwd.sh/",
   "language": "Shell",
@@ -12,6 +12,7 @@
   "topics": [
     "bash",
     "bash-script",
+    "cryptography",
     "encryption",
     "file-encryption",
     "gnupg",
@@ -28,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-07-02T00:52:01Z",
-  "updated_at": "2026-08-11T15:55:25Z",
-  "pushed_at": "2026-08-11T15:55:25Z",
+  "updated_at": "2026-08-24T01:12:19Z",
+  "pushed_at": "2026-08-24T01:00:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +395,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 1564
+    },
+    {
+      "date": "2026-08-28",
       "stars": 1564
     }
   ]

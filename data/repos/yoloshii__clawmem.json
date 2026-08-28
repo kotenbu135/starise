@@ -3,8 +3,8 @@
   "owner": "yoloshii",
   "name": "clawmem",
   "full_name": "yoloshii/clawmem",
-  "description": "On-device memory layer for AI agents. Claude Code, Hermes and OpenClaw. Hooks + MCP server + hybrid RAG search.",
-  "description_ja": "AIエージェント向けデバイス上メモリレイヤー。Claude Code、Hermes、OpenClawに対応。Hooks + MCPサーバー + ハイブリッドRAG検索。",
+  "description": "On-device memory layer for AI agents. Claude Code, OpenClaw and Hermes. Hooks + MCP server + hybrid RAG search.",
+  "description_ja": "",
   "url": "https://github.com/yoloshii/ClawMem",
   "homepage_url": "",
   "language": "TypeScript",
@@ -23,7 +23,7 @@
     "mcp-tools",
     "memory",
     "model-context-protocol",
-    "on-device-ai",
+    "openclaw",
     "plugin",
     "rag",
     "retrieval-augmented-generation",
@@ -31,12 +31,12 @@
     "typescript",
     "vector-search"
   ],
-  "star_count": 200,
-  "fork_count": 32,
+  "star_count": 201,
+  "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-06T14:34:04Z",
-  "updated_at": "2026-08-23T18:11:24Z",
+  "updated_at": "2026-08-24T16:03:04Z",
   "pushed_at": "2026-08-18T19:28:18Z",
   "deleted_at": "",
   "star_history": [
@@ -407,6 +407,10 @@
     {
       "date": "2026-08-23",
       "stars": 200
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 201
     }
   ]
 }

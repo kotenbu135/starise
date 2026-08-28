@@ -3,20 +3,24 @@
   "owner": "skyshadowhero",
   "name": "animated-plasma-task",
   "full_name": "skyshadowhero/animated-plasma-task",
-  "description": "",
+  "description": "A kde plasma tasks plugin that brings Windows and MacOS like animation to taskbar and kickoff.",
   "description_ja": "",
   "url": "https://github.com/SkyShadowHero/Animated-plasma-task",
   "homepage_url": "",
   "language": "QML",
   "license": "",
-  "topics": [],
-  "star_count": 9,
+  "topics": [
+    "kde-desktop",
+    "kde-plasma-6",
+    "kde-widget"
+  ],
+  "star_count": 10,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-19T04:24:34Z",
-  "updated_at": "2026-08-23T09:45:01Z",
-  "pushed_at": "2026-08-23T09:49:45Z",
+  "updated_at": "2026-08-28T04:06:57Z",
+  "pushed_at": "2026-08-28T04:04:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -26,6 +30,10 @@
     {
       "date": "2026-08-23",
       "stars": 9
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 10
     }
   ]
 }

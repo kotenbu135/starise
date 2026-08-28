@@ -3,7 +3,7 @@
   "owner": "akarasman",
   "name": "yolo-heatmaps",
   "full_name": "akarasman/yolo-heatmaps",
-  "description": "A utility for generating heatmaps of YOLOv8 using Layerwise Relevance Propagation (LRP/CRP).",
+  "description": "A utility for generating heatmaps of YOLO object detection models using Layerwise Relevance Propagation (LRP/CRP).",
   "description_ja": "",
   "url": "https://github.com/akarasman/yolo-heatmaps",
   "homepage_url": "",
@@ -34,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-06T22:01:14Z",
-  "updated_at": "2026-08-20T13:23:06Z",
-  "pushed_at": "2026-08-20T13:18:51Z",
+  "updated_at": "2026-08-25T12:01:49Z",
+  "pushed_at": "2026-08-25T07:33:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -48,6 +48,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 52
+    },
+    {
+      "date": "2026-08-28",
       "stars": 52
     }
   ]

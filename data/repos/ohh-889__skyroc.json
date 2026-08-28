@@ -3,8 +3,8 @@
   "owner": "ohh-889",
   "name": "skyroc",
   "full_name": "ohh-889/skyroc",
-  "description": "react-admin基于Antd，功能强大且丰富，页面美观，代码优雅 ",
-  "description_ja": "Antd ベースの react-admin。機能が豊富で強力、美しい UI と洗練されたコード。",
+  "description": "Skyroc 是一个基于 React 19 + TypeScript 的跨端前端工程化 monorepo：既提供开箱即用的 Web 中后台模板（Admin / RuoYi 对接版）和 Expo   移动端业务模板，也把请求、状态、日志、主题、双端 UI 组件库等能力沉淀为边界清晰的 workspace 包。",
+  "description_ja": "",
   "url": "https://github.com/Ohh-889/skyroc",
   "homepage_url": "https://admin.skyroc.me/",
   "language": "TypeScript",
@@ -18,13 +18,13 @@
     "tanstack-query",
     "tanstack-router"
   ],
-  "star_count": 786,
+  "star_count": 787,
   "fork_count": 171,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-08T05:24:29Z",
-  "updated_at": "2026-08-21T09:07:39Z",
-  "pushed_at": "2026-08-20T08:21:20Z",
+  "updated_at": "2026-08-28T04:26:01Z",
+  "pushed_at": "2026-08-28T04:25:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +394,10 @@
     {
       "date": "2026-08-23",
       "stars": 786
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 787
     }
   ]
 }

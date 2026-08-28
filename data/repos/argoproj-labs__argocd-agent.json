@@ -6,7 +6,7 @@
   "description": "Redefining the multi cluster story of Argo CD",
   "description_ja": "",
   "url": "https://github.com/argoproj-labs/argocd-agent",
-  "homepage_url": "https://argocd-agent.readthedocs.io/latest/",
+  "homepage_url": "https://argocd-agent.readthedocs.io/stable/",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
@@ -20,13 +20,13 @@
     "scaling",
     "telco"
   ],
-  "star_count": 579,
-  "fork_count": 94,
+  "star_count": 584,
+  "fork_count": 93,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-18T19:21:55Z",
-  "updated_at": "2026-08-20T22:35:36Z",
-  "pushed_at": "2026-08-20T22:35:16Z",
+  "updated_at": "2026-08-27T16:37:14Z",
+  "pushed_at": "2026-08-26T20:57:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -36,6 +36,10 @@
     {
       "date": "2026-08-23",
       "stars": 579
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 584
     }
   ]
 }

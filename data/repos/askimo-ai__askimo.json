@@ -10,20 +10,18 @@
   "language": "Kotlin",
   "license": "AGPL-3.0",
   "topics": [
-    "agentic-workflow",
     "ai",
     "ai-assistant",
     "artificial-intelligence",
     "chat-client",
     "chatgpt",
     "claude",
-    "claude-skills",
-    "codex-cli",
     "gemini",
     "gemini-client",
+    "gpt",
     "grok",
     "llm",
-    "local-llm",
+    "localai",
     "modelcontextprotocol",
     "ollama-gui",
     "openai-gui",
@@ -31,13 +29,13 @@
     "rag",
     "retrieval-augmented-generation"
   ],
-  "star_count": 357,
-  "fork_count": 76,
+  "star_count": 375,
+  "fork_count": 79,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-05T06:25:32Z",
-  "updated_at": "2026-08-23T18:14:35Z",
-  "pushed_at": "2026-08-23T18:42:53Z",
+  "updated_at": "2026-08-28T02:32:54Z",
+  "pushed_at": "2026-08-28T00:04:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -407,6 +405,10 @@
     {
       "date": "2026-08-23",
       "stars": 357
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 375
     }
   ]
 }

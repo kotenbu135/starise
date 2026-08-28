@@ -3,20 +3,20 @@
   "owner": "tashfeenahmed",
   "name": "freellmapi",
   "full_name": "tashfeenahmed/freellmapi",
-  "description": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+  "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
   "description_ja": "",
   "url": "https://github.com/tashfeenahmed/freellmapi",
   "homepage_url": "https://freellmapi.co",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [],
-  "star_count": 19462,
-  "fork_count": 2842,
+  "star_count": 21145,
+  "fork_count": 3023,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-21T13:38:59Z",
-  "updated_at": "2026-08-23T20:28:13Z",
-  "pushed_at": "2026-08-23T20:28:59Z",
+  "updated_at": "2026-08-28T05:09:34Z",
+  "pushed_at": "2026-08-28T00:05:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +366,10 @@
     {
       "date": "2026-08-23",
       "stars": 19462
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 21145
     }
   ]
 }

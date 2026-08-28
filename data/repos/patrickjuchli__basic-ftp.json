@@ -7,7 +7,7 @@
   "description_ja": "Node.js向けFTPクライアント。TLS経由のFTPS・IPv6パッシブモード・async/await・TypeScriptをサポート。",
   "url": "https://github.com/patrickjuchli/basic-ftp",
   "homepage_url": "",
-  "language": "TypeScript",
+  "language": "JavaScript",
   "license": "MIT",
   "topics": [
     "async-await",
@@ -20,12 +20,12 @@
     "typescript"
   ],
   "star_count": 734,
-  "fork_count": 101,
+  "fork_count": 102,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-30T15:11:28Z",
-  "updated_at": "2026-08-16T22:03:13Z",
-  "pushed_at": "2026-08-11T17:49:17Z",
+  "updated_at": "2026-08-27T19:26:57Z",
+  "pushed_at": "2026-08-27T19:40:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +394,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 734
+    },
+    {
+      "date": "2026-08-28",
       "stars": 734
     }
   ]

@@ -3,10 +3,10 @@
   "owner": "skardilabs",
   "name": "skardi",
   "full_name": "skardilabs/skardi",
-  "description": "Skardi is an agent data plane that gives AI agents data autonomy.",
+  "description": "Skardi is a self-improving context framework for ai agents",
   "description_ja": "",
   "url": "https://github.com/SkardiLabs/skardi",
-  "homepage_url": "https://www.skardi.ai",
+  "homepage_url": "https://skardi.ai",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -20,19 +20,19 @@
     "postgres",
     "rag",
     "redis",
+    "rsi",
+    "rsi-ai",
     "rust",
     "spark",
-    "sql",
-    "sqlite",
-    "vector-search"
+    "sql"
   ],
-  "star_count": 99,
+  "star_count": 100,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T14:29:26Z",
-  "updated_at": "2026-08-21T09:53:41Z",
-  "pushed_at": "2026-08-22T18:55:47Z",
+  "updated_at": "2026-08-27T09:26:29Z",
+  "pushed_at": "2026-08-27T09:23:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +402,10 @@
     {
       "date": "2026-08-23",
       "stars": 99
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 100
     }
   ]
 }

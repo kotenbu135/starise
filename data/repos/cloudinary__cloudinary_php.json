@@ -3,30 +3,35 @@
   "owner": "cloudinary",
   "name": "cloudinary_php",
   "full_name": "cloudinary/cloudinary_php",
-  "description": "PHP extension for Cloudinary",
+  "description": "Upload, transform, optimize, and manage images and videos with Cloudinary from PHP",
   "description_ja": "",
   "url": "https://github.com/cloudinary/cloudinary_php",
   "homepage_url": "https://cloudinary.com/documentation/php_integration",
   "language": "PHP",
   "license": "MIT",
   "topics": [
+    "cdn",
     "cloudinary",
     "cloudinary-api",
-    "cloudinary-php-sdk",
     "cloudinary-sdk",
-    "hacktoberfest",
+    "dam",
     "image-manipulation",
+    "image-optimization",
+    "image-upload",
+    "media-management",
+    "php",
     "php-library",
-    "sdk-php",
-    "video-manipulation"
+    "php-sdk",
+    "video-manipulation",
+    "video-upload"
   ],
   "star_count": 399,
   "fork_count": 151,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-05-17T15:24:58Z",
-  "updated_at": "2026-08-16T22:13:00Z",
-  "pushed_at": "2026-04-26T16:04:38Z",
+  "updated_at": "2026-08-24T21:48:05Z",
+  "pushed_at": "2026-08-25T13:25:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +388,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 399
+    },
+    {
+      "date": "2026-08-28",
       "stars": 399
     }
   ]

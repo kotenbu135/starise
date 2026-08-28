@@ -3,41 +3,41 @@
   "owner": "feder-cr",
   "name": "invisible_playwright",
   "full_name": "feder-cr/invisible_playwright",
-  "description": "Free antidetect browser stealth for Playwright: undetected Firefox fingerprint, headless/headed. Python scraping, hcaptcha/recaptcha bypass. Open source",
+  "description": "Free antidetect browser stealth for Playwright: undetected headless Firefox fingerprint. Python scraping, recaptcha and bot detection bypass. Open source",
   "description_ja": "",
   "url": "https://github.com/feder-cr/invisible_playwright",
-  "homepage_url": "https://feder-cr.github.io/invisible_playwright/",
-  "language": "Python",
+  "homepage_url": "",
+  "language": "JavaScript",
   "license": "MIT",
   "topics": [
     "anti-bot",
     "anti-detect-browser",
     "antidetect",
     "automation",
+    "bot-detection",
     "browser-automation",
     "browser-fingerprinting",
-    "captcha",
+    "cloudflare",
+    "crawler",
     "fingerprint",
-    "fingerprint-spoofing",
     "fingerprintjs",
     "firefox",
     "headless-browser",
     "playwright",
+    "proxy",
     "python",
-    "recaptcha",
-    "recaptcha-bypass",
     "scraping",
+    "selenium",
     "stealth",
-    "undetected",
     "web-scraping"
   ],
-  "star_count": 1862,
-  "fork_count": 209,
+  "star_count": 1943,
+  "fork_count": 229,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-13T05:04:33Z",
-  "updated_at": "2026-08-09T17:50:41Z",
-  "pushed_at": "2026-08-09T07:00:06Z",
+  "updated_at": "2026-08-28T02:11:13Z",
+  "pushed_at": "2026-08-28T01:52:02Z",
   "deleted_at": "2026-06-04",
   "star_history": [
     {
@@ -291,6 +291,10 @@
     {
       "date": "2026-08-09",
       "stars": 1862
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 1943
     }
   ]
 }

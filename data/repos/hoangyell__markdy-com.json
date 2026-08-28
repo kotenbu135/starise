@@ -3,29 +3,34 @@
   "owner": "hoangyell",
   "name": "markdy-com",
   "full_name": "hoangyell/markdy-com",
-  "description": "Open-source text-to-motion animation DSL. Write MarkdyScript to render animated scenes in the browser.",
+  "description": "🎬 Open-source animated architecture diagrams as code. Diagram-native DSL, 17 layout engines, Web Animations API, and MCP server for AI agents.",
   "description_ja": "",
   "url": "https://github.com/HoangYell/markdy-com",
-  "homepage_url": "http://markdy.com",
+  "homepage_url": "https://markdy.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "animated-diagrams",
     "animation",
+    "architecture-diagrams",
     "astro",
+    "developer-tools",
+    "diagram-as-code",
     "dsl",
-    "emoji",
-    "motion",
-    "stick-figure",
+    "mcp-server",
+    "mermaid-alternative",
+    "model-context-protocol",
+    "system-design",
     "typescript",
     "web-animations-api"
   ],
-  "star_count": 85,
+  "star_count": 84,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-05T03:58:17Z",
-  "updated_at": "2026-08-23T13:15:54Z",
-  "pushed_at": "2026-08-23T13:18:09Z",
+  "updated_at": "2026-08-25T23:06:23Z",
+  "pushed_at": "2026-08-25T23:06:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -195,6 +200,10 @@
     {
       "date": "2026-08-23",
       "stars": 85
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 84
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "faqfirebase",
   "name": "pi-desktop",
   "full_name": "faqfirebase/pi-desktop",
-  "description": "Pi Desktop — a free, open-source Electron GUI for the Pi coding agent. Chat, edit files, run a terminal, and review diffs in one window. Builds for Linux, macOS, and Windows.",
+  "description": "A free, open source Electron GUI for the Pi and oh-my-pi coding agents. Chat, edit files, run a terminal, and review diffs in one window. Linux, macOS, and Windows.",
   "description_ja": "",
   "url": "https://github.com/FaqFirebase/pi-desktop",
   "homepage_url": "https://pi-desktop.com",
@@ -20,17 +20,18 @@
     "gui",
     "ide",
     "llm",
+    "oh-my-pi",
     "pi",
     "react",
     "typescript"
   ],
-  "star_count": 50,
-  "fork_count": 7,
+  "star_count": 58,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-20T15:58:36Z",
-  "updated_at": "2026-08-23T14:32:41Z",
-  "pushed_at": "2026-08-23T03:49:17Z",
+  "updated_at": "2026-08-28T03:09:31Z",
+  "pushed_at": "2026-08-27T10:46:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +41,10 @@
     {
       "date": "2026-08-23",
       "stars": 50
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 58
     }
   ]
 }

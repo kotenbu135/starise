@@ -3,7 +3,7 @@
   "owner": "jacobaraujo7",
   "name": "remote_pi",
   "full_name": "jacobaraujo7/remote_pi",
-  "description": "Control your Pi coding agent from your phone. Pair with a one-time QR code and chat with your local agent — even when you're away from your computer.",
+  "description": "Control your Pi coding agent from your phone. Pair with a one-time QR code and chat with your local agent, even when you're away from your computer.",
   "description_ja": "",
   "url": "https://github.com/jacobaraujo7/remote_pi",
   "homepage_url": "https://remote-pi.jacobmoura.work",
@@ -18,13 +18,13 @@
     "picode",
     "rust"
   ],
-  "star_count": 288,
-  "fork_count": 81,
+  "star_count": 306,
+  "fork_count": 82,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-22T04:59:59Z",
-  "updated_at": "2026-08-23T17:33:56Z",
-  "pushed_at": "2026-08-21T17:55:39Z",
+  "updated_at": "2026-08-28T01:40:59Z",
+  "pushed_at": "2026-08-28T00:22:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -274,6 +274,10 @@
     {
       "date": "2026-08-23",
       "stars": 288
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 306
     }
   ]
 }

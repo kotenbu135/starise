@@ -3,26 +3,36 @@
   "owner": "kartiklabhshetwar",
   "name": "better-shot",
   "full_name": "kartiklabhshetwar/better-shot",
-  "description": "An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.",
+  "description": "One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.",
   "description_ja": "",
   "url": "https://github.com/KartikLabhshetwar/better-shot",
-  "homepage_url": "https://bettershot.site",
+  "homepage_url": "https://www.bettershot.site",
   "language": "Swift",
   "license": "BSD-3-Clause",
   "topics": [
+    "annotation-tool",
+    "cleanshot-alternative",
     "desktop-application",
+    "loom-alternative",
+    "macos",
     "macos-app",
     "macos-application",
-    "tauri",
-    "vitejs"
+    "screen-recorder",
+    "screen-recording",
+    "screencapturekit",
+    "screenshot",
+    "screenshot-tool",
+    "swift",
+    "swiftui",
+    "video-editor"
   ],
-  "star_count": 2189,
-  "fork_count": 131,
+  "star_count": 2212,
+  "fork_count": 133,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-11T09:39:37Z",
-  "updated_at": "2026-08-23T17:53:38Z",
-  "pushed_at": "2026-08-23T19:33:05Z",
+  "updated_at": "2026-08-27T19:32:04Z",
+  "pushed_at": "2026-08-26T20:12:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -280,6 +290,10 @@
     {
       "date": "2026-08-23",
       "stars": 2189
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 2212
     }
   ]
 }

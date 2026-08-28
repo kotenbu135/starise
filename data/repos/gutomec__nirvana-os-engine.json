@@ -3,20 +3,38 @@
   "owner": "gutomec",
   "name": "nirvana-os-engine",
   "full_name": "gutomec/nirvana-os-engine",
-  "description": "Nirvana-OS — source-available engine for agentic work (squads, businesses, mind-clones). Developed in the open. Runtime-agnostic: Claude Code, Codex, Gemini-CLI, Antigravity, Hermes.",
+  "description": "Nirvana-OS engine: ready-to-run agentic operations. One sentence in, finished work out. Source-available engine for companies, squads and mind-clones. Runtime-agnostic: Claude Code, Codex, Gemini-CLI, Antigravity, Hermes.",
   "description_ja": "",
   "url": "https://github.com/gutomec/nirvana-os-engine",
-  "homepage_url": "",
+  "homepage_url": "https://squads.sh/pt/nirvana-os",
   "language": "TypeScript",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 65,
-  "fork_count": 20,
+  "topics": [
+    "agent-framework",
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-agents",
+    "ai-orchestration",
+    "antigravity",
+    "automation",
+    "bun",
+    "claude-code",
+    "cli",
+    "codex",
+    "gemini-cli",
+    "mind-clones",
+    "multi-agent",
+    "orchestration",
+    "source-available",
+    "workflow-automation"
+  ],
+  "star_count": 66,
+  "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-16T04:46:29Z",
-  "updated_at": "2026-08-23T07:24:20Z",
-  "pushed_at": "2026-08-23T07:23:38Z",
+  "updated_at": "2026-08-28T03:15:39Z",
+  "pushed_at": "2026-08-28T03:15:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +88,10 @@
     {
       "date": "2026-08-23",
       "stars": 65
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 66
     }
   ]
 }

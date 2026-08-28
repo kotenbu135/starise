@@ -3,7 +3,7 @@
   "owner": "yjh051108",
   "name": "dsh-router-standard",
   "full_name": "yjh051108/dsh-router-standard",
-  "description": "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included.",
+  "description": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
   "description_ja": "",
   "url": "https://github.com/yjh051108/dsh-router-standard",
   "homepage_url": "",
@@ -17,12 +17,12 @@
     "dsh-plugin"
   ],
   "star_count": 369,
-  "fork_count": 33,
-  "is_archived": false,
+  "fork_count": 35,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2026-08-14T18:14:16Z",
-  "updated_at": "2026-08-23T16:14:12Z",
-  "pushed_at": "2026-08-23T15:25:43Z",
+  "updated_at": "2026-08-27T17:00:27Z",
+  "pushed_at": "2026-08-24T18:20:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +39,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 369
+    },
+    {
+      "date": "2026-08-28",
       "stars": 369
     }
   ]

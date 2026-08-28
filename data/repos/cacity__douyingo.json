@@ -3,26 +3,32 @@
   "owner": "cacity",
   "name": "douyingo",
   "full_name": "cacity/douyingo",
-  "description": "A lightweight Douyin (TikTok China) video downloader with PyQt5 GUI   轻量级抖音视频下载器 - 支持无水印下载、图片集下载。",
-  "description_ja": "PyQt5 GUI を備えた軽量な抖音（TikTok 中国版）動画ダウンローダー — 透かしなし・画像集ダウンロード対応",
+  "description": "React/Tauri 多平台媒体下载器，使用 Python sidecar、yt-dlp 和 FFmpeg，支持抖音、YouTube、Twitter/X 。",
+  "description_ja": "",
   "url": "https://github.com/cacity/DouyinGo",
   "homepage_url": "https://videohub.my",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "desktop-app",
-    "douyin",
-    "pyqt5",
-    "short-video",
-    "video-downloader"
+    "desktop-application",
+    "douyin-downloader",
+    "fastapi",
+    "ffmpeg",
+    "python",
+    "react",
+    "tauri",
+    "twitter",
+    "video-downlaoder",
+    "youtube",
+    "yt-dlp"
   ],
-  "star_count": 51,
+  "star_count": 52,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-29T04:00:21Z",
-  "updated_at": "2026-08-21T03:43:37Z",
-  "pushed_at": "2026-08-12T13:21:46Z",
+  "updated_at": "2026-08-27T07:59:37Z",
+  "pushed_at": "2026-08-27T07:55:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -388,6 +394,10 @@
     {
       "date": "2026-08-23",
       "stars": 51
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 52
     }
   ]
 }

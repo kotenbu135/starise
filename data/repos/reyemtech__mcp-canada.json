@@ -6,17 +6,28 @@
   "description": "MCP server for Canadian government data — 266 bilingual tools across 9 federal, 7 provincial \u0026 2 municipal open-data APIs (Bank of Canada, StatCan, weather, recalls, drugs, immigration, BC/Alberta/Saskatchewan/Manitoba/Quebec/Ontario + more)",
   "description_ja": "",
   "url": "https://github.com/ReyemTech/mcp-canada",
-  "homepage_url": "",
+  "homepage_url": "https://reyemtech.github.io/mcp-canada/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 57,
+  "topics": [
+    "bank-of-canada",
+    "bilingual",
+    "canada",
+    "claude",
+    "government-data",
+    "mcp",
+    "model-context-protocol",
+    "open-data",
+    "python",
+    "statistics-canada"
+  ],
+  "star_count": 58,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-06T19:49:21Z",
-  "updated_at": "2026-08-13T02:43:06Z",
-  "pushed_at": "2026-08-03T01:05:17Z",
+  "updated_at": "2026-08-27T23:34:10Z",
+  "pushed_at": "2026-08-24T15:57:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -242,6 +253,10 @@
     {
       "date": "2026-08-23",
       "stars": 57
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 58
     }
   ]
 }

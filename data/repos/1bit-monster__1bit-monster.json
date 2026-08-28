@@ -3,7 +3,7 @@
   "owner": "1bit-monster",
   "name": "1bit-monster",
   "full_name": "1bit-monster/1bit-monster",
-  "description": "One engine, any model, zero Python. A model-agnostic, hardware-agnostic pure-C++ inference engine — NPU + GPU + CPU in one binary. 100% HuggingFace architecture coverage, zero Python. MIT.",
+  "description": "One engine, any model. 100% Hugging Face model coverage \u0026  Zero python during runtime. ",
   "description_ja": "",
   "url": "https://github.com/1bit-MONSTER/1bit-MONSTER",
   "homepage_url": "https://1bit.monster",
@@ -32,12 +32,12 @@
     "zero-python"
   ],
   "star_count": 17,
-  "fork_count": 4,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-19T20:11:06Z",
-  "updated_at": "2026-08-23T19:03:31Z",
-  "pushed_at": "2026-08-23T19:04:46Z",
+  "updated_at": "2026-08-27T22:10:20Z",
+  "pushed_at": "2026-08-28T00:12:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -362,6 +362,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 17
+    },
+    {
+      "date": "2026-08-28",
       "stars": 17
     }
   ]

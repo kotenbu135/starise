@@ -3,7 +3,7 @@
   "owner": "richardcsuwandi",
   "name": "cake",
   "full_name": "richardcsuwandi/cake",
-  "description": "[NeurIPS 2025] Context-Aware Kernel Evolution (CAKE)",
+  "description": "[NeurIPS 2025] LLM-driven framework to adaptively evolve Gaussian process kernels",
   "description_ja": "",
   "url": "https://github.com/richardcsuwandi/cake",
   "homepage_url": "https://richardcsuwandi.github.io/cake/",
@@ -14,12 +14,12 @@
     "evolutionary-algorithm",
     "large-language-models"
   ],
-  "star_count": 30,
+  "star_count": 31,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-23T02:30:36Z",
-  "updated_at": "2026-08-14T16:47:07Z",
+  "updated_at": "2026-08-26T06:33:11Z",
   "pushed_at": "2026-08-07T15:40:01Z",
   "deleted_at": "",
   "star_history": [
@@ -54,6 +54,10 @@
     {
       "date": "2026-08-23",
       "stars": 30
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 31
     }
   ]
 }

@@ -3,19 +3,26 @@
   "owner": "tapter-dev",
   "name": "kaspi-pos-automation",
   "full_name": "tapter-dev/kaspi-pos-automation",
-  "description": "",
+  "description": "Автоматизация платежей Kaspi Pay: счета, QR-оплата, история операций, возвраты и вебхуки. Express-сервер + демо-интерфейс.",
   "description_ja": "",
   "url": "https://github.com/tapter-dev/kaspi-pos-automation",
-  "homepage_url": "",
+  "homepage_url": "https://tapter.one/kaspi.pos.automation",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 172,
-  "fork_count": 69,
+  "topics": [
+    "express",
+    "kaspi",
+    "kaspi-pay",
+    "kazakhstan",
+    "nodejs",
+    "qr-payments"
+  ],
+  "star_count": 174,
+  "fork_count": 70,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-09T10:42:59Z",
-  "updated_at": "2026-08-21T22:17:14Z",
+  "updated_at": "2026-08-25T12:54:07Z",
   "pushed_at": "2026-07-24T06:54:42Z",
   "deleted_at": "",
   "star_history": [
@@ -346,6 +353,10 @@
     {
       "date": "2026-08-23",
       "stars": 172
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 174
     }
   ]
 }

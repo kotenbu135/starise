@@ -3,8 +3,8 @@
   "owner": "open-edge-platform",
   "name": "geti",
   "full_name": "open-edge-platform/geti",
-  "description": "Build computer vision models in a fraction of the time and with less data.",
-  "description_ja": "短時間かつ少ないデータでコンピュータービジョンモデルを構築。",
+  "description": "Build, train, optimize, and run computer vision models locally, from raw images to live inference. Open source, with CPU, Intel XPU, and NVIDIA CUDA support.",
+  "description_ja": "",
   "url": "https://github.com/open-edge-platform/geti",
   "homepage_url": "https://docs.geti.intel.com",
   "language": "Python",
@@ -27,13 +27,13 @@
     "semi-supervised-learning",
     "transfer-learning"
   ],
-  "star_count": 1316,
+  "star_count": 1319,
   "fork_count": 477,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-10-26T14:02:29Z",
-  "updated_at": "2026-08-23T04:21:22Z",
-  "pushed_at": "2026-08-23T04:20:44Z",
+  "updated_at": "2026-08-27T15:17:38Z",
+  "pushed_at": "2026-08-28T04:51:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +403,10 @@
     {
       "date": "2026-08-23",
       "stars": 1316
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 1319
     }
   ]
 }

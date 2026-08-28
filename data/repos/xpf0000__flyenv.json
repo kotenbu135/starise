@@ -3,41 +3,41 @@
   "owner": "xpf0000",
   "name": "flyenv",
   "full_name": "xpf0000/flyenv",
-  "description": "All-in-One Native Local Development Environment for Windows, macOS \u0026 Linux. Docker alternative for PHP, Node.js, Python and more. Faster alternative to XAMPP, Laragon, MAMP and Laravel Herd with databases, Cron Jobs and runtime management.",
+  "description": "Native local development environment for Windows, macOS \u0026 Linux. Run PHP, Node.js, Python, databases, web servers, local sites, HTTPS, AI coding tools and MCP from one desktop app.",
   "description_ja": "",
   "url": "https://github.com/xpf0000/FlyEnv",
-  "homepage_url": "https://www.flyenv.com",
+  "homepage_url": "https://flyenv.com",
   "language": "TypeScript",
   "license": "BSD-3-Clause",
   "topics": [
-    "ai-agent",
-    "cron-jobs",
+    "dev-environment",
+    "developer-tools",
     "development-environment",
     "docker-alternative",
-    "laragon",
-    "laravel-herd",
+    "golang",
+    "java",
     "linux",
-    "local-ai",
     "local-development",
     "macos",
-    "mamp",
+    "mcp",
+    "mcp-server",
     "mysql",
+    "nginx",
     "nodejs",
     "php",
+    "postgresql",
     "python",
     "redis",
     "windows",
-    "wordpress",
-    "xampp",
     "xampp-alternative"
   ],
-  "star_count": 3170,
-  "fork_count": 352,
+  "star_count": 3180,
+  "fork_count": 354,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-04-11T13:56:40Z",
-  "updated_at": "2026-08-23T10:05:45Z",
-  "pushed_at": "2026-08-22T01:26:00Z",
+  "updated_at": "2026-08-27T10:03:01Z",
+  "pushed_at": "2026-08-26T01:44:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +403,10 @@
     {
       "date": "2026-08-23",
       "stars": 3170
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 3180
     }
   ]
 }

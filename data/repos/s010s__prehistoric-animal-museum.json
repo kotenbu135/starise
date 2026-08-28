@@ -3,20 +3,31 @@
   "owner": "s010s",
   "name": "prehistoric-animal-museum",
   "full_name": "s010s/prehistoric-animal-museum",
-  "description": "A calm, parent-and-child 3D prehistoric animal museum.",
+  "description": "A free, calm 3D prehistoric animal museum for children and families, with 18 interactive exhibits in English and Simplified Chinese.",
   "description_ja": "",
   "url": "https://github.com/s010s/prehistoric-animal-museum",
-  "homepage_url": "",
+  "homepage_url": "https://leon-made-this.work/museum/en/",
   "language": "TypeScript",
   "license": "AGPL-3.0",
-  "topics": [],
-  "star_count": 618,
-  "fork_count": 88,
+  "topics": [
+    "dinosaurs",
+    "education",
+    "kids",
+    "multilingual",
+    "museum",
+    "paleontology",
+    "react",
+    "threejs",
+    "typescript",
+    "webgl"
+  ],
+  "star_count": 707,
+  "fork_count": 100,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-04T15:01:54Z",
-  "updated_at": "2026-08-23T02:40:50Z",
-  "pushed_at": "2026-08-10T05:28:40Z",
+  "updated_at": "2026-08-28T04:21:32Z",
+  "pushed_at": "2026-08-26T17:19:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +53,10 @@
     {
       "date": "2026-08-23",
       "stars": 618
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 707
     }
   ]
 }

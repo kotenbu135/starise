@@ -6,17 +6,21 @@
   "description": "A speech companion app built with Expo",
   "description_ja": "",
   "url": "https://github.com/SchroederNathan/clarity",
-  "homepage_url": "",
+  "homepage_url": "https://clarityspeech.app",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 299,
-  "fork_count": 63,
+  "topics": [
+    "expo",
+    "react-native",
+    "speech"
+  ],
+  "star_count": 303,
+  "fork_count": 64,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-23T13:46:07Z",
-  "updated_at": "2026-08-23T05:24:50Z",
-  "pushed_at": "2026-08-23T05:24:40Z",
+  "updated_at": "2026-08-28T02:07:39Z",
+  "pushed_at": "2026-08-28T02:07:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +38,10 @@
     {
       "date": "2026-08-23",
       "stars": 299
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 303
     }
   ]
 }

@@ -7,7 +7,7 @@
   "description_ja": "AndroidのAPKに対してSASTおよびマルウェア解析を行うDjangoアプリケーション",
   "url": "https://github.com/mpast/mobileAudit",
   "homepage_url": "https://owasp.org/www-project-mobile-audit/",
-  "language": "HTML",
+  "language": "Python",
   "license": "GPL-3.0",
   "topics": [
     "androguard",
@@ -31,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-11-21T11:01:32Z",
-  "updated_at": "2026-08-14T21:36:25Z",
-  "pushed_at": "2026-08-17T21:25:20Z",
+  "updated_at": "2026-08-26T19:30:11Z",
+  "pushed_at": "2026-08-26T18:58:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -397,6 +397,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 226
+    },
+    {
+      "date": "2026-08-28",
       "stars": 226
     }
   ]

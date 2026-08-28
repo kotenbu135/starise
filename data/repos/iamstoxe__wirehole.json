@@ -7,8 +7,8 @@
   "description_ja": "WireHoleはWireGuard、Pi-hole、Unboundをdocker-composeで組み合わせたプロジェクト。Pi-holeによる広告ブロック機能と、UnboundによるDNSキャッシュ・プライバシー強化・上流プロバイダ設定を備えた、フルトンネルまたはスプリットトンネルのWireGuard VPNを個人で素早く構築できる。",
   "url": "https://github.com/IAmStoxe/wirehole",
   "homepage_url": "https://iamstoxe.com",
-  "language": "",
-  "license": "",
+  "language": "Shell",
+  "license": "NOASSERTION",
   "topics": [
     "ad-blocking",
     "adblock",
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-09-03T05:06:12Z",
-  "updated_at": "2026-08-20T10:40:20Z",
-  "pushed_at": "2026-08-22T06:10:12Z",
+  "updated_at": "2026-08-25T03:06:08Z",
+  "pushed_at": "2026-08-25T03:05:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -396,6 +396,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 4968
+    },
+    {
+      "date": "2026-08-28",
       "stars": 4968
     }
   ]

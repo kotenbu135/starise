@@ -3,7 +3,7 @@
   "owner": "perseus-computing-llc",
   "name": "perseus-vault",
   "full_name": "perseus-computing-llc/perseus-vault",
-  "description": "Persistent, encrypted memory for AI agents: one Rust binary, one file, no cloud. 122 canonical MCP tools, hybrid recall, bi-temporal history, AES-256-GCM. Local-first, air-gap ready, MIT.",
+  "description": "Perseus Vault — durable, encrypted, time-aware memory for AI agents. One Rust binary, one file, local-first, MCP-native, MIT.",
   "description_ja": "",
   "url": "https://github.com/Perseus-Computing-LLC/perseus-vault",
   "homepage_url": "https://perseus.observer/vault/",
@@ -27,13 +27,13 @@
     "sqlite",
     "vector-search"
   ],
-  "star_count": 57,
-  "fork_count": 11,
+  "star_count": 66,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-06T21:31:46Z",
-  "updated_at": "2026-08-23T18:26:54Z",
-  "pushed_at": "2026-08-23T18:26:43Z",
+  "updated_at": "2026-08-27T02:55:55Z",
+  "pushed_at": "2026-08-26T03:21:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-08-23",
       "stars": 57
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 66
     }
   ]
 }

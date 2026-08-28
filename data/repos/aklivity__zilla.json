@@ -3,7 +3,7 @@
   "owner": "aklivity",
   "name": "zilla",
   "full_name": "aklivity/zilla",
-  "description": "🦎 A high-performance, multi-protocol gateway for Apache Kafka and AI. Securely connect applications, APIs, agents, and devices to real-time data through Kafka, HTTP, SSE, MQTT, gRPC, and MCP.",
+  "description": "🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, schema, and observability.",
   "description_ja": "",
   "url": "https://github.com/aklivity/zilla",
   "homepage_url": "https://docs.aklivity.io/latest",
@@ -26,13 +26,13 @@
     "server-sent-events",
     "streaming-api"
   ],
-  "star_count": 1708,
-  "fork_count": 144,
+  "star_count": 1710,
+  "fork_count": 146,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-07T22:10:04Z",
-  "updated_at": "2026-08-23T18:46:54Z",
-  "pushed_at": "2026-08-23T18:49:31Z",
+  "updated_at": "2026-08-27T19:56:38Z",
+  "pushed_at": "2026-08-28T03:32:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +402,10 @@
     {
       "date": "2026-08-23",
       "stars": 1708
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 1710
     }
   ]
 }

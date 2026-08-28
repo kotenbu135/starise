@@ -3,7 +3,7 @@
   "owner": "mekotofeuka",
   "name": "mtproto_fix_by_meko",
   "full_name": "mekotofeuka/mtproto_fix_by_meko",
-  "description": "Universal VPN and MTProto proxy installer \u0026 fix - one‑click setup of Telemt, MTG, MTProtoZig etc MTProxy. Solves iOS/Android/Desktop connection issues, includes SNI checker, Panels installer and config editor. Настраиваем MTProto прокси за 1 минуту. 通用 VPN 和 MTProto 代理一键安装与修复工具。支持 Telemt、MTG、Erlang、MTProtoZig，解决 iOS/Android/Desktop 连接问题，内置 SNI 检测、",
+  "description": "Universal VPN and MTProto/WEB proxy installer \u0026 fix - one‑click setup of Telemt, MTG, MTProtoZig etc MTProxy. Solves iOS/Android/Desktop connection issues, includes SNI checker, Panels installer and config editor. Настраиваем MTProto/WEB прокси за 1 минуту. 通用 VPN 和 MTProto 代理一键安装与修复工具，内置 SNI 检测、",
   "description_ja": "",
   "url": "https://github.com/Mekotofeuka/MTPROTO_FIX_By_MEKO",
   "homepage_url": "",
@@ -18,15 +18,16 @@
     "proxy",
     "telegram",
     "telegram-fix",
-    "vpn"
+    "vpn",
+    "web"
   ],
-  "star_count": 1067,
+  "star_count": 1084,
   "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-23T11:12:12Z",
-  "updated_at": "2026-08-23T18:19:08Z",
-  "pushed_at": "2026-08-21T10:15:54Z",
+  "updated_at": "2026-08-28T01:05:47Z",
+  "pushed_at": "2026-08-26T21:28:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -164,6 +165,10 @@
     {
       "date": "2026-08-23",
       "stars": 1067
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 1084
     }
   ]
 }

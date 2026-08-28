@@ -3,20 +3,29 @@
   "owner": "hoylon",
   "name": "peerbridge-mcp",
   "full_name": "hoylon/peerbridge-mcp",
-  "description": "Local-first, auditable MCP coordination for equal AI coding peers and their human operator.",
+  "description": "Provider-native adapter and governance layer for auditable multi-agent coding, review, evidence, and release workflows.",
   "description_ja": "",
   "url": "https://github.com/Hoylon/peerbridge-mcp",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 46,
+  "topics": [
+    "ai-agents",
+    "audit-trail",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "local-first",
+    "mcp",
+    "multi-agent"
+  ],
+  "star_count": 143,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-17T18:17:08Z",
-  "updated_at": "2026-08-23T19:10:11Z",
-  "pushed_at": "2026-08-18T08:17:16Z",
+  "updated_at": "2026-08-28T03:57:39Z",
+  "pushed_at": "2026-08-25T15:11:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -26,6 +35,10 @@
     {
       "date": "2026-08-23",
       "stars": 46
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 143
     }
   ]
 }

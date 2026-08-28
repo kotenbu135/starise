@@ -3,8 +3,8 @@
   "owner": "oceanbase",
   "name": "oceanbase",
   "full_name": "oceanbase/oceanbase",
-  "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
-  "description_ja": "トランザクション・分析・AI ワークロード向け最速の分散データベース",
+  "description": "OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demanding workloads.",
+  "description_ja": "",
   "url": "https://github.com/oceanbase/oceanbase",
   "homepage_url": "https://en.oceanbase.com",
   "language": "C++",
@@ -31,13 +31,13 @@
     "vector-search",
     "vectors"
   ],
-  "star_count": 10253,
-  "fork_count": 1910,
+  "star_count": 10258,
+  "fork_count": 1911,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-05-31T14:36:17Z",
-  "updated_at": "2026-08-23T05:07:09Z",
-  "pushed_at": "2026-08-23T01:00:44Z",
+  "updated_at": "2026-08-28T03:32:20Z",
+  "pushed_at": "2026-08-28T01:00:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -407,6 +407,10 @@
     {
       "date": "2026-08-23",
       "stars": 10253
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 10258
     }
   ]
 }

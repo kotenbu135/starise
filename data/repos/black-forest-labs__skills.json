@@ -3,20 +3,29 @@
   "owner": "black-forest-labs",
   "name": "skills",
   "full_name": "black-forest-labs/skills",
-  "description": "Official skills from Black Forest Labs for FLUX image generation models. These skills provide prompting guidelines and API integration patterns following the https://agentskills.io specification.",
+  "description": "Official agent skills from Black Forest Labs for FLUX image and video generation — prompting guides and API integration patterns for Claude Code, Codex, and any agentskills.io-compatible agent.",
   "description_ja": "",
   "url": "https://github.com/black-forest-labs/skills",
-  "homepage_url": "",
+  "homepage_url": "https://docs.bfl.ai",
   "language": "TypeScript",
-  "license": "",
-  "topics": [],
-  "star_count": 105,
+  "license": "MIT",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "flux",
+    "generative-ai",
+    "image-generation",
+    "prompt-engineering",
+    "video-generation"
+  ],
+  "star_count": 106,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-24T00:06:16Z",
-  "updated_at": "2026-08-22T17:06:10Z",
-  "pushed_at": "2026-08-17T22:02:24Z",
+  "updated_at": "2026-08-26T22:20:01Z",
+  "pushed_at": "2026-08-26T22:07:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +47,10 @@
     {
       "date": "2026-08-23",
       "stars": 105
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 106
     }
   ]
 }

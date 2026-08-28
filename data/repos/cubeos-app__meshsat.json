@@ -3,28 +3,38 @@
   "owner": "cubeos-app",
   "name": "meshsat",
   "full_name": "cubeos-app/meshsat",
-  "description": "Meshtastic-to-Iridium satellite bridge. One gateway, unlimited mesh nodes, $15/month. Open source.",
+  "description": "Open source gateway bridging Meshtastic LoRa, Iridium satellite, cellular SMS, APRS and TAK over a Reticulum routing layer. Keeps people connected when the network is not. Runs on a   Raspberry Pi.",
   "description_ja": "",
   "url": "https://github.com/cubeos-app/meshsat",
-  "homepage_url": "",
+  "homepage_url": "https://meshsat.net/",
   "language": "Go",
   "license": "GPL-3.0",
   "topics": [
+    "aprs",
+    "ax25",
+    "emergency-communications",
+    "go",
+    "imt",
     "iridium",
     "lora",
     "mesh-networking",
     "meshtastic",
+    "off-grid",
+    "raspberry-pi",
+    "reticulum",
     "rockblock",
     "satellite",
-    "sbd"
+    "sbd",
+    "sdr",
+    "zigbee"
   ],
-  "star_count": 52,
+  "star_count": 54,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T15:51:51Z",
-  "updated_at": "2026-08-17T07:38:23Z",
-  "pushed_at": "2026-08-14T20:10:09Z",
+  "updated_at": "2026-08-28T00:41:10Z",
+  "pushed_at": "2026-08-28T00:40:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -170,6 +180,10 @@
     {
       "date": "2026-08-23",
       "stars": 52
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 54
     }
   ]
 }

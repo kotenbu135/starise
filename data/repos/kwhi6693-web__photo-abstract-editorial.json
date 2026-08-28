@@ -3,20 +3,31 @@
   "owner": "kwhi6693-web",
   "name": "photo-abstract-editorial",
   "full_name": "kwhi6693-web/photo-abstract-editorial",
-  "description": "A verified Codex skill for transforming one photograph into a vertical photo-plus-abstract editorial composition.",
+  "description": "Photo-to-editorial Skill with Original (Codex) and V3 Adaptive editions. Scene-aware layouts, creative controls, Strict Fidelity composition, structured QA, and a validated DeepSeek Harness capability path.",
   "description_ja": "",
   "url": "https://github.com/kwhi6693-web/photo-abstract-editorial",
   "homepage_url": "",
   "language": "Python",
   "license": "AGPL-3.0",
-  "topics": [],
-  "star_count": 71,
+  "topics": [
+    "ai-agent",
+    "codex-skill",
+    "deepseek-harness",
+    "editorial-design",
+    "image-compositing",
+    "image-processing",
+    "photo-editing",
+    "pillow",
+    "python",
+    "strict-fidelity"
+  ],
+  "star_count": 86,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-09T05:38:09Z",
-  "updated_at": "2026-08-23T09:17:21Z",
-  "pushed_at": "2026-08-14T03:03:20Z",
+  "updated_at": "2026-08-28T03:53:07Z",
+  "pushed_at": "2026-08-26T12:16:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +53,10 @@
     {
       "date": "2026-08-23",
       "stars": 71
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 86
     }
   ]
 }

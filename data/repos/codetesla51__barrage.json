@@ -9,14 +9,30 @@
   "homepage_url": "",
   "language": "Go",
   "license": "",
-  "topics": [],
-  "star_count": 78,
-  "fork_count": 4,
+  "topics": [
+    "benchmarking",
+    "cli",
+    "database-benchmark",
+    "developer-tools",
+    "go",
+    "golang",
+    "http-load-test",
+    "latency",
+    "load-testing",
+    "performance-analysis",
+    "performance-testing",
+    "postgres",
+    "redis",
+    "spike-detection",
+    "stress-testing"
+  ],
+  "star_count": 79,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-02T17:21:16Z",
-  "updated_at": "2026-08-23T18:59:35Z",
-  "pushed_at": "2026-08-23T18:59:27Z",
+  "updated_at": "2026-08-27T20:52:50Z",
+  "pushed_at": "2026-08-26T12:00:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +74,10 @@
     {
       "date": "2026-08-23",
       "stars": 78
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 79
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "n0zom1z0",
   "name": "th08",
   "full_name": "n0zom1z0/th08",
-  "description": "Source reconstruction of Touhou Eiyashou (TH08) 1.00d",
+  "description": "Source reconstruction of 東方永夜抄 ～ Imperishable Night 1.00d",
   "description_ja": "",
   "url": "https://github.com/N0zoM1z0/th08",
   "homepage_url": "",
@@ -11,23 +11,24 @@
   "license": "MIT",
   "topics": [
     "decompilation",
-    "dsh-plugin",
     "game-preservation",
     "ida-pro",
+    "imperishable-night",
     "msvc",
     "reccmp",
     "reverse-engineering",
     "th08",
     "touhou",
-    "touhou-games"
+    "touhou-games",
+    "touhou-project"
   ],
-  "star_count": 56,
+  "star_count": 103,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-13T02:24:08Z",
-  "updated_at": "2026-08-23T17:12:38Z",
-  "pushed_at": "2026-08-23T17:28:22Z",
+  "updated_at": "2026-08-27T23:28:07Z",
+  "pushed_at": "2026-08-27T15:23:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +38,10 @@
     {
       "date": "2026-08-23",
       "stars": 56
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 103
     }
   ]
 }

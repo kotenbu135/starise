@@ -3,7 +3,7 @@
   "owner": "nubo-db",
   "name": "dynoxide",
   "full_name": "nubo-db/dynoxide",
-  "description": "A fast, embeddable drop-in for DynamoDB Local, backed by SQLite. Runs as a native binary, a ~5 MB Docker image, or in the browser.",
+  "description": "A DynamoDB emulator in Rust, backed by SQLite. Starts in milliseconds as a single static binary, and is verified against real AWS by a public conformance suite. Runs as an HTTP server, an MCP server for coding agents, an embeddable library, or in the browser via WebAssembly.",
   "description_ja": "",
   "url": "https://github.com/nubo-db/dynoxide",
   "homepage_url": "https://dynoxide.dev",
@@ -11,23 +11,28 @@
   "license": "Apache-2.0",
   "topics": [
     "aws",
+    "ci",
     "conformance",
     "database",
+    "dynalite",
     "dynamodb",
     "dynamodb-emulator",
     "dynamodb-local",
+    "emulator",
+    "localstack",
     "mcp",
     "rust",
     "sqlite",
-    "testing"
+    "testing",
+    "webassembly"
   ],
-  "star_count": 83,
+  "star_count": 85,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-24T10:55:35Z",
-  "updated_at": "2026-08-23T13:06:07Z",
-  "pushed_at": "2026-08-23T13:09:52Z",
+  "updated_at": "2026-08-26T15:50:37Z",
+  "pushed_at": "2026-08-25T20:53:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -89,6 +94,10 @@
     {
       "date": "2026-08-23",
       "stars": 83
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 85
     }
   ]
 }

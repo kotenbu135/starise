@@ -3,41 +3,32 @@
   "owner": "arthurpanhku",
   "name": "dvalincode",
   "full_name": "arthurpanhku/dvalincode",
-  "description": "Approvable, local-first AI coding agent for regulated teams: policy controls, governed MCP, evidence packs, audit trails, secure remediation, and any OpenAI-compatible model.",
+  "description": "Independent security verification for code written by humans and AI agents. Scan, repair, then prove it — Dvalin runs your project's own checks and issues a Verified Fix Record anyone can re-derive offline. Local-first, policy-bound, MIT.",
   "description_ja": "",
   "url": "https://github.com/arthurpanhku/dvalincode",
   "homepage_url": "https://dvalincode.dev",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "ai-agent",
-    "ai-governance",
-    "audit-trail",
-    "cli",
-    "codeql",
-    "coding-agent",
-    "coding-assistant",
-    "compliance",
-    "developer-tools",
-    "devsecops",
-    "llm",
-    "local-first",
-    "mcp",
-    "model-agnostic",
-    "openssf",
-    "policy-as-code",
-    "secure-coding",
-    "security",
-    "typescript",
-    "web-gui"
+    "ai-agents",
+    "ai-governance-framework",
+    "audit-trails",
+    "cli-tool",
+    "coding-agents",
+    "mcp-server",
+    "model-agnostic-architectur",
+    "policy-as-code-sdlc",
+    "sarif",
+    "sast",
+    "vulnerability-remediation"
   ],
-  "star_count": 112,
+  "star_count": 113,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-20T14:48:17Z",
-  "updated_at": "2026-08-23T08:26:32Z",
-  "pushed_at": "2026-08-23T08:25:54Z",
+  "updated_at": "2026-08-26T09:29:12Z",
+  "pushed_at": "2026-08-26T09:28:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -199,6 +190,10 @@
     {
       "date": "2026-08-23",
       "stars": 112
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 113
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "fergana-labs",
   "name": "stash",
   "full_name": "fergana-labs/stash",
-  "description": "Shared memory for your team's coding agents",
+  "description": "Automatically create new skills based on past agent traces ",
   "description_ja": "",
   "url": "https://github.com/Fergana-Labs/stash",
   "homepage_url": "https://www.joinstash.ai",
@@ -30,13 +30,13 @@
     "wiki",
     "workspace"
   ],
-  "star_count": 320,
+  "star_count": 326,
   "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-12T04:36:24Z",
-  "updated_at": "2026-08-23T14:03:09Z",
-  "pushed_at": "2026-08-23T06:26:16Z",
+  "updated_at": "2026-08-27T21:05:09Z",
+  "pushed_at": "2026-08-27T08:39:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +394,10 @@
     {
       "date": "2026-08-23",
       "stars": 320
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 326
     }
   ]
 }

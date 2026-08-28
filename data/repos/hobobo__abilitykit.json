@@ -3,7 +3,7 @@
   "owner": "hobobo",
   "name": "abilitykit",
   "full_name": "hobobo/abilitykit",
-  "description": "面向中大型战斗项目设计的模块化游戏战斗工具集，提供数据驱动的技能管线、事件触发规则、战斗运行时与多种网络同步能力。核心逻辑采用纯 C#，可按需组合并运行于 Unity、服务器及测试环境。",
+  "description": "面向中大型战斗项目设计的模块化游戏战斗工具集，提供数据驱动的技能管线、事件触发规则、战斗运行时与多种网络同步能力。可用于构建技能系统等。核心逻辑采用纯 C#，可按需组合并运行于 Unity、服务器及测试环境。",
   "description_ja": "",
   "url": "https://github.com/HOBOBO/AbilityKit",
   "homepage_url": "",
@@ -21,13 +21,13 @@
     "state-sync",
     "triggering"
   ],
-  "star_count": 201,
-  "fork_count": 43,
+  "star_count": 206,
+  "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T12:06:22Z",
-  "updated_at": "2026-08-22T23:03:26Z",
-  "pushed_at": "2026-08-21T14:15:01Z",
+  "updated_at": "2026-08-28T01:24:50Z",
+  "pushed_at": "2026-08-28T01:24:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -373,6 +373,10 @@
     {
       "date": "2026-08-23",
       "stars": 201
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 206
     }
   ]
 }

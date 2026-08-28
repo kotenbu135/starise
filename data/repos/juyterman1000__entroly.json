@@ -3,7 +3,7 @@
   "owner": "juyterman1000",
   "name": "entroly",
   "full_name": "juyterman1000/entroly",
-  "description": "AI context optimization platform for files, conversations, RAG, code, logs and AI agents with context compression, evidence preservation, content-addressed recovery and auditable Context Receipts.",
+  "description": "Cut AI context cost without trusting the compressor. Every reduction is reversible, byte-exact recoverable, and carries an auditable receipt. Local-first, works through proxy, MCP, SDK, or agent wrapper.",
   "description_ja": "",
   "url": "https://github.com/juyterman1000/entroly",
   "homepage_url": "https://juyterman1000.github.io/entroly/docs/index.html",
@@ -31,13 +31,13 @@
     "token-optimization",
     "tokenomics"
   ],
-  "star_count": 437,
+  "star_count": 440,
   "fork_count": 67,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T23:03:02Z",
-  "updated_at": "2026-08-18T04:24:34Z",
-  "pushed_at": "2026-08-23T12:33:18Z",
+  "updated_at": "2026-08-28T01:03:49Z",
+  "pushed_at": "2026-08-28T02:18:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -407,6 +407,10 @@
     {
       "date": "2026-08-23",
       "stars": 437
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 440
     }
   ]
 }

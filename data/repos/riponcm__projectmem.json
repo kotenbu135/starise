@@ -3,7 +3,7 @@
   "owner": "riponcm",
   "name": "projectmem",
   "full_name": "riponcm/projectmem",
-  "description": "Local-first AI coding memory for AI agents. Records issues, attempts, fixes and decisions, then warns your agent before it repeats an approach that already failed. Native MCP server for Claude Code, Cursor, Antigravity and Codex. 100% local, no cloud, no telemetry. MIT.",
+  "description": "Open-source coding agent memory. Records issues, attempts, fixes and decisions, then warns your agent before it repeats an approach that already failed. Native MCP server for Claude Code, Cursor, Antigravity and Codex. 100% local, no cloud, no telemetry. MIT.",
   "description_ja": "",
   "url": "https://github.com/riponcm/projectmem",
   "homepage_url": "https://www.projectmem.dev",
@@ -31,13 +31,13 @@
     "model-context-protocol",
     "python"
   ],
-  "star_count": 747,
+  "star_count": 766,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-09T20:28:36Z",
-  "updated_at": "2026-08-22T05:57:52Z",
-  "pushed_at": "2026-08-06T01:49:30Z",
+  "updated_at": "2026-08-27T00:19:21Z",
+  "pushed_at": "2026-08-27T00:17:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -203,6 +203,10 @@
     {
       "date": "2026-08-23",
       "stars": 747
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 766
     }
   ]
 }

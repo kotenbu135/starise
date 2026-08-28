@@ -7,7 +7,7 @@
   "description_ja": "Windows Calculator：Windows に同梱されるシンプルかつ強力な電卓",
   "url": "https://github.com/microsoft/calculator",
   "homepage_url": "",
-  "language": "C++",
+  "language": "C#",
   "license": "MIT",
   "topics": [
     "cpp",
@@ -18,13 +18,13 @@
     "windows-11",
     "xaml"
   ],
-  "star_count": 31019,
-  "fork_count": 5778,
+  "star_count": 31025,
+  "fork_count": 5781,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-01-28T17:55:49Z",
-  "updated_at": "2026-08-23T08:33:30Z",
-  "pushed_at": "2026-08-05T16:57:14Z",
+  "updated_at": "2026-08-28T03:17:49Z",
+  "pushed_at": "2026-08-25T23:34:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +394,10 @@
     {
       "date": "2026-08-23",
       "stars": 31019
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 31025
     }
   ]
 }

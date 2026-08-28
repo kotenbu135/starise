@@ -3,7 +3,7 @@
   "owner": "vivekchand",
   "name": "clawmetry",
   "full_name": "vivekchand/clawmetry",
-  "description": "See your agent think. Zero-config observability \u0026 governance for 20+ AI agent runtimes: OpenClaw, Claude Code, OpenAI Codex, Cursor, Aider, Goose, NVIDIA NemoClaw, NanoClaw \u0026 more. Live token costs, sessions, tool calls, crons.",
+  "description": "See your agent think. Zero-config observability \u0026 governance for 26 AI agent runtimes: Claude Code, Cursor, OpenAI Codex, GitHub Copilot, Gemini CLI, Cline, OpenHands, Aider, Goose, OpenClaw, NVIDIA NemoClaw \u0026 more. Live token costs, sessions, tool calls, crons.",
   "description_ja": "",
   "url": "https://github.com/vivekchand/clawmetry",
   "homepage_url": "https://clawmetry.com",
@@ -19,25 +19,25 @@
     "codex",
     "cost-tracking",
     "cursor",
-    "dashboard",
     "developer-tools",
+    "gemini-cli",
+    "github-copilot",
     "goose",
     "llm",
     "llm-observability",
     "monitoring",
-    "nanoclaw",
     "observability",
     "openclaw",
     "opentelemetry",
     "python"
   ],
-  "star_count": 400,
-  "fork_count": 65,
+  "star_count": 401,
+  "fork_count": 64,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-13T06:49:19Z",
-  "updated_at": "2026-08-23T17:56:04Z",
-  "pushed_at": "2026-08-23T18:58:45Z",
+  "updated_at": "2026-08-28T03:37:30Z",
+  "pushed_at": "2026-08-28T04:44:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -407,6 +407,10 @@
     {
       "date": "2026-08-23",
       "stars": 400
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 401
     }
   ]
 }

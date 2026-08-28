@@ -3,7 +3,7 @@
   "owner": "bivlked",
   "name": "amneziawg-installer",
   "full_name": "bivlked/amneziawg-installer",
-  "description": "One-command AmneziaWG 2.0 / 3.0 installer for a self-hosted VPN server on Ubuntu and Debian: DPI bypass, traffic obfuscation, split tunneling, auto-hardening, client management. Includes a VPN cascade guide.",
+  "description": "One-command AmneziaWG 2.0 / 3.x installer for a self-hosted VPN server on Ubuntu and Debian: DPI bypass, traffic obfuscation, split tunneling, auto-hardening, client management. Includes a VPN cascade guide.",
   "description_ja": "",
   "url": "https://github.com/bivlked/amneziawg-installer",
   "homepage_url": "https://bivlked.github.io/amneziawg-installer/",
@@ -31,13 +31,13 @@
     "vpn-server",
     "wireguard"
   ],
-  "star_count": 1150,
-  "fork_count": 91,
+  "star_count": 1184,
+  "fork_count": 94,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-13T15:52:37Z",
-  "updated_at": "2026-08-23T16:56:50Z",
-  "pushed_at": "2026-08-23T16:34:06Z",
+  "updated_at": "2026-08-27T21:41:50Z",
+  "pushed_at": "2026-08-27T16:37:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +403,10 @@
     {
       "date": "2026-08-23",
       "stars": 1150
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 1184
     }
   ]
 }

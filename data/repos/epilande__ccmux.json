@@ -3,7 +3,7 @@
   "owner": "epilande",
   "name": "ccmux",
   "full_name": "epilande/ccmux",
-  "description": "🔮 Run all your AI coding agents (Claude Code, Codex, Cursor, ...) in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them",
+  "description": "🔮 Run all your AI coding agents in tmux: jump to the one that needs you, spawn them into worktrees, and hand work between them",
   "description_ja": "",
   "url": "https://github.com/epilande/ccmux",
   "homepage_url": "",
@@ -26,13 +26,13 @@
     "tmux",
     "tui"
   ],
-  "star_count": 144,
-  "fork_count": 22,
+  "star_count": 148,
+  "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-06T11:19:25Z",
-  "updated_at": "2026-08-23T10:47:07Z",
-  "pushed_at": "2026-08-23T15:37:49Z",
+  "updated_at": "2026-08-27T16:18:42Z",
+  "pushed_at": "2026-08-28T00:49:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -146,6 +146,10 @@
     {
       "date": "2026-08-23",
       "stars": 144
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 148
     }
   ]
 }

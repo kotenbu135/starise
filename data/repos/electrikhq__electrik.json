@@ -3,8 +3,8 @@
   "owner": "electrikhq",
   "name": "electrik",
   "full_name": "electrikhq/electrik",
-  "description": "Electrik is a full-featured, open-source, starter-kit to help you build you your SaaS application.",
-  "description_ja": "ElectrikはSaaSアプリケーション構築を支援する、フル機能のオープンソーススターターキット。",
+  "description": "Laravel SaaS starter kit: auth, teams, Stripe billing, and Slate 3 — Composer package for Laravel 12",
+  "description_ja": "",
   "url": "https://github.com/electrikhq/electrik",
   "homepage_url": "https://electrik.dev",
   "language": "PHP",
@@ -28,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-09-20T17:13:32Z",
-  "updated_at": "2026-08-02T15:57:58Z",
-  "pushed_at": "2026-08-23T14:00:09Z",
+  "updated_at": "2026-08-27T10:01:30Z",
+  "pushed_at": "2026-08-27T09:54:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -390,6 +390,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 293
+    },
+    {
+      "date": "2026-08-28",
       "stars": 293
     }
   ]

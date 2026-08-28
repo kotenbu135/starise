@@ -3,30 +3,36 @@
   "owner": "sealandseacat",
   "name": "dbmask",
   "full_name": "sealandseacat/dbmask",
-  "description": "Discover, mask, and validate sensitive data in any database — for every environment your data flows to.",
+  "description": "Discover, mask, and validate sensitive data in SQL databases — deterministic masking with built-in per-row verification. Works across PostgreSQL, MySQL, SQL Server, Oracle, and SQLite via SQLAlchemy.",
   "description_ja": "",
   "url": "https://github.com/sealandseacat/dbmask",
-  "homepage_url": "",
+  "homepage_url": "https://sealandseacat.github.io/dbmask/",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "anonymization",
+    "data-engineering",
     "data-governance",
-    "data-mask",
     "data-masking",
-    "gdpr",
+    "database",
+    "devops",
+    "etl",
+    "gdpr-consent",
     "pii",
     "privacy",
+    "python",
+    "scurity",
     "security",
-    "sqlachemy"
+    "sqlachemy",
+    "test-data"
   ],
   "star_count": 124,
-  "fork_count": 18,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T23:14:51Z",
-  "updated_at": "2026-08-21T22:53:18Z",
-  "pushed_at": "2026-08-21T00:20:34Z",
+  "updated_at": "2026-08-26T06:58:42Z",
+  "pushed_at": "2026-08-25T22:07:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -143,6 +149,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 124
+    },
+    {
+      "date": "2026-08-28",
       "stars": 124
     }
   ]

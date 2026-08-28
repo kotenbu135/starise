@@ -1,0 +1,38 @@
+{
+  "repo_id": "R_kgDOTeZS8A",
+  "owner": "doofzoff",
+  "name": "simurg",
+  "full_name": "doofzoff/simurg",
+  "description": "Zero-leak online detection of LLM decoding corruption — catch repetition loops, language drift and garbage mid-stream, before the user sees a bad token. Works with any OpenAI-compatible API.",
+  "description_ja": "",
+  "url": "https://github.com/doofzoff/SIMURG",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "anomaly-detection",
+    "guardrails",
+    "hallucination-detection",
+    "inference",
+    "llm",
+    "llm-safety",
+    "online-learning",
+    "openai-api",
+    "streaming",
+    "vllm"
+  ],
+  "star_count": 29,
+  "fork_count": 12,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-07-20T19:15:47Z",
+  "updated_at": "2026-08-27T09:30:27Z",
+  "pushed_at": "2026-08-25T10:59:52Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-28",
+      "stars": 29
+    }
+  ]
+}

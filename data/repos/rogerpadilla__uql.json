@@ -3,7 +3,7 @@
   "owner": "rogerpadilla",
   "name": "uql",
   "full_name": "rogerpadilla/uql",
-  "description": "JSON-native TypeScript ORM for Node.js, Bun and Deno. Supports PostgreSQL, MySQL, MariaDB, SQLite, CockroachDB, Turso, Neon, Cloudflare D1 and MongoDB. Queries are plain JSON, typed to the leaf.",
+  "description": "The JSON-native TypeScript ORM for Node.js, Bun and Deno",
   "description_ja": "",
   "url": "https://github.com/rogerpadilla/uql",
   "homepage_url": "https://uql-orm.dev",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-09-17T17:09:00Z",
-  "updated_at": "2026-08-23T14:19:00Z",
-  "pushed_at": "2026-08-22T19:57:22Z",
+  "updated_at": "2026-08-28T01:33:31Z",
+  "pushed_at": "2026-08-28T01:33:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +50,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 112
+    },
+    {
+      "date": "2026-08-28",
       "stars": 112
     }
   ]

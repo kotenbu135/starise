@@ -3,7 +3,7 @@
   "owner": "jinqians",
   "name": "proxy-stack",
   "full_name": "jinqians/proxy-stack",
-  "description": "基于 Bash 的 Linux 代理服务器交互式管理工具，通过一个 psm 命令统一管理 SingBox、Xray、Hysteria2、Snell、Shadowsocks、Nginx、SSL 证书、Cloudflare DDNS、Docker 及系统优化",
+  "description": "一键部署与管理 Linux 代理服务器 · Xray / sing-box / mihomo 三内核 · VLESS Reality / Vision / XHTTP、Hysteria2、Shadowsocks 2022、Snell、AnyTLS · 节点流量计费、SSL 证书、Nginx SNI 443 分流、安全加固与 Telegram 监控 | All-in-one Linux proxy server manager",
   "description_ja": "",
   "url": "https://github.com/jinqians/proxy-stack",
   "homepage_url": "https://vps.jinqians.com",
@@ -12,26 +12,32 @@
   "topics": [
     "anytls",
     "bash",
+    "clash-meta",
     "hysteria2",
     "interactive",
     "linux",
     "management-tool",
+    "mihomo",
     "proxy",
     "reality",
+    "shadowsocks",
+    "sing-box",
     "singbox",
     "snell",
     "ss2022",
     "vless",
     "vless-xhttp-reality",
+    "vpn",
+    "vps",
     "xray"
   ],
-  "star_count": 14,
+  "star_count": 16,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-01T18:02:41Z",
-  "updated_at": "2026-08-23T16:14:07Z",
-  "pushed_at": "2026-08-23T16:13:32Z",
+  "updated_at": "2026-08-26T14:47:48Z",
+  "pushed_at": "2026-08-24T09:59:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -85,6 +91,10 @@
     {
       "date": "2026-08-23",
       "stars": 14
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 16
     }
   ]
 }

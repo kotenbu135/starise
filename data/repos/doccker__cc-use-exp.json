@@ -3,27 +3,35 @@
   "owner": "doccker",
   "name": "cc-use-exp",
   "full_name": "doccker/cc-use-exp",
-  "description": "让 Claude Code、Antigravity、Gemini CLI、Codex、Cursor 开箱即用的分层配置模板，总结十多年的日常开发经验，持续完善中……",
+  "description": "⛔ No longer maintained → dev-agent-kit/recipes  让 Claude Code、Antigravity、Gemini CLI、Codex、Cursor 开箱即用的分层配置模板，总结十多年的日常开发经验",
   "description_ja": "",
   "url": "https://github.com/doccker/cc-use-exp",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/dev-agent-kit/recipes.git",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
+    "agent-skills",
+    "ai-agent",
+    "ai-coding",
     "antigravity",
+    "antigravity-cli",
     "claude-code",
     "codex",
+    "codex-cli",
     "cursor",
+    "developer-tools",
     "gemini-cli",
-    "github-copilot"
+    "github-copilot",
+    "prompt-engineering",
+    "workflow"
   ],
-  "star_count": 1014,
-  "fork_count": 105,
+  "star_count": 1033,
+  "fork_count": 108,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-04T09:52:00Z",
-  "updated_at": "2026-08-22T16:40:03Z",
-  "pushed_at": "2026-06-30T13:13:54Z",
+  "updated_at": "2026-08-28T02:02:43Z",
+  "pushed_at": "2026-08-26T02:55:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -229,6 +237,10 @@
     {
       "date": "2026-08-23",
       "stars": 1014
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 1033
     }
   ]
 }

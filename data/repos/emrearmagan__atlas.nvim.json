@@ -3,7 +3,7 @@
   "owner": "emrearmagan",
   "name": "atlas.nvim",
   "full_name": "emrearmagan/atlas.nvim",
-  "description": "A Neovim plugin to browse and manage pull requests and issues across GitHub, GitLab, Bitbucket, and Jira without leaving your editor.",
+  "description": "Review pull requests and manage issues across GitHub, GitLab, Bitbucket and Jira without leaving your editor.",
   "description_ja": "",
   "url": "https://github.com/emrearmagan/atlas.nvim",
   "homepage_url": "https://atlasnvim.dev",
@@ -11,6 +11,8 @@
   "license": "MIT",
   "topics": [
     "bitbucket",
+    "code-review",
+    "git",
     "github",
     "gitlab",
     "jira",
@@ -18,15 +20,16 @@
     "neovim",
     "neovim-plugin",
     "nvim",
-    "nvim-plugin"
+    "nvim-plugin",
+    "pull-requests"
   ],
-  "star_count": 225,
+  "star_count": 237,
   "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-08T14:12:13Z",
-  "updated_at": "2026-08-23T17:23:59Z",
-  "pushed_at": "2026-08-23T19:27:06Z",
+  "updated_at": "2026-08-26T22:58:25Z",
+  "pushed_at": "2026-08-26T22:05:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -332,6 +335,10 @@
     {
       "date": "2026-08-23",
       "stars": 225
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 237
     }
   ]
 }

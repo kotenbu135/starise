@@ -3,7 +3,7 @@
   "owner": "ilyautov",
   "name": "humanizer-ru",
   "full_name": "ilyautov/humanizer-ru",
-  "description": "Скилл для Claude. Убирает 58 признаков нейросети в русском тексте: канцелярит, кальки, фингерпринты ChatGPT и Claude. Метит в то, что меряют GPTZero, DivEye, RuBERT: поднимает perplexity и burstiness. 20 жёстких банов, quad-pass аудит, калибровка под голос автора, eval-харнес с метриками до/после.",
+  "description": "Скилл для Claude. Убирает 64 признака нейросети в русском тексте: канцелярит, кальки, фингерпринты ChatGPT и Claude. Метит в то, что меряют GPTZero, DivEye, RuBERT: поднимает perplexity и burstiness. 20 жёстких банов, quad-pass аудит, калибровка под голос автора, eval-харнес с метриками до/после.",
   "description_ja": "",
   "url": "https://github.com/ilyautov/humanizer-ru",
   "homepage_url": "https://humanizer-ru.aifrontier.tech/",
@@ -31,13 +31,13 @@
     "text-humanizer",
     "ux-writing"
   ],
-  "star_count": 244,
-  "fork_count": 17,
+  "star_count": 257,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-03T08:33:05Z",
-  "updated_at": "2026-08-22T14:17:39Z",
-  "pushed_at": "2026-08-21T20:44:46Z",
+  "updated_at": "2026-08-28T03:26:41Z",
+  "pushed_at": "2026-08-25T20:06:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -327,6 +327,10 @@
     {
       "date": "2026-08-23",
       "stars": 244
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 257
     }
   ]
 }

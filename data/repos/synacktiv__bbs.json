@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOK7K7Nw",
+  "owner": "synacktiv",
+  "name": "bbs",
+  "full_name": "synacktiv/bbs",
+  "description": "bbs is a router for SOCKS and HTTP proxies. It exposes a SOCKS5 (or HTTP CONNECT) service and forwards incoming requests to proxies or chains of proxies based on the request's target. Routing can be configured with a PAC script (if built with PAC support), or through a JSON file.",
+  "description_ja": "",
+  "url": "https://github.com/synacktiv/bbs",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "",
+  "topics": [],
+  "star_count": 99,
+  "fork_count": 4,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2023-12-18T16:29:18Z",
+  "updated_at": "2026-08-24T14:52:22Z",
+  "pushed_at": "2026-07-27T16:30:28Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-28",
+      "stars": 99
+    }
+  ]
+}

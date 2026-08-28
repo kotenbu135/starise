@@ -6,7 +6,7 @@
   "description": "route Claude Code requests through multiple upstream providers (OpenCode Go, OpenCode Zen, and AWS Bedrock) with automatic model selection and format transformation.",
   "description_ja": "",
   "url": "https://github.com/routatic/proxy",
-  "homepage_url": "",
+  "homepage_url": "https://deepwiki.com/routatic/proxy/1-overview",
   "language": "Go",
   "license": "AGPL-3.0",
   "topics": [
@@ -19,13 +19,13 @@
     "opencode-go",
     "opencode-zen"
   ],
-  "star_count": 956,
-  "fork_count": 128,
+  "star_count": 957,
+  "fork_count": 130,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T00:55:43Z",
-  "updated_at": "2026-08-23T15:13:16Z",
-  "pushed_at": "2026-08-22T05:40:47Z",
+  "updated_at": "2026-08-28T02:12:46Z",
+  "pushed_at": "2026-08-25T17:21:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -295,6 +295,10 @@
     {
       "date": "2026-08-23",
       "stars": 956
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 957
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "kitlangton",
   "name": "hex",
   "full_name": "kitlangton/hex",
-  "description": "VOICE → WORDS",
-  "description_ja": "音声 → テキスト",
+  "description": "Legacy Swift Hex app. Try the Rust rewrite at hex.kitlangton.com; new source at github.com/anomalyco/hex.",
+  "description_ja": "",
   "url": "https://github.com/kitlangton/Hex",
   "homepage_url": "https://hex.kitlangton.com",
   "language": "Swift",
@@ -17,13 +17,13 @@
     "transcription",
     "whisper"
   ],
-  "star_count": 2883,
-  "fork_count": 227,
+  "star_count": 2893,
+  "fork_count": 228,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-27T18:13:31Z",
-  "updated_at": "2026-08-23T09:51:56Z",
-  "pushed_at": "2026-07-19T21:00:36Z",
+  "updated_at": "2026-08-27T18:35:50Z",
+  "pushed_at": "2026-08-27T03:47:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -393,6 +393,10 @@
     {
       "date": "2026-08-23",
       "stars": 2883
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 2893
     }
   ]
 }

@@ -3,25 +3,26 @@
   "owner": "inclusionai",
   "name": "ui-venus",
   "full_name": "inclusionai/ui-venus",
-  "description": "UI-Venus is a native UI agent designed to perform precise GUI element grounding and effective navigation using only screenshots as input.",
+  "description": "UI-Venus is a general-purpose foundation GUI agent for mobile apps, web platforms, and desktop operating systems using only screenshots as input.",
   "description_ja": "",
   "url": "https://github.com/inclusionAI/UI-Venus",
   "homepage_url": "",
-  "language": "Python",
+  "language": "HTML",
   "license": "",
   "topics": [
-    "grounding",
+    "gui-agent",
+    "gui-captcha-solver",
+    "gui-grounding",
     "multimodel-large-language-model",
-    "reinforcement-learning",
-    "ui-agent"
+    "reinforcement-learning-algorithms"
   ],
-  "star_count": 1009,
+  "star_count": 1011,
   "fork_count": 83,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-15T11:57:47Z",
-  "updated_at": "2026-08-20T01:27:42Z",
-  "pushed_at": "2026-05-11T06:54:30Z",
+  "updated_at": "2026-08-28T03:05:39Z",
+  "pushed_at": "2026-08-28T03:04:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -355,6 +356,10 @@
     {
       "date": "2026-08-23",
       "stars": 1009
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 1011
     }
   ]
 }

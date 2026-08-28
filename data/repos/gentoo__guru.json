@@ -3,22 +3,20 @@
   "owner": "gentoo",
   "name": "guru",
   "full_name": "gentoo/guru",
-  "description": "[MIRROR] GURU: repository of new packages maintained collaboratively by users",
+  "description": "[MIRROR] GURU: repository of new packages maintained collaboratively by users. Contributing via Codeberg is preferred.",
   "description_ja": "",
   "url": "https://github.com/gentoo/guru",
-  "homepage_url": "https://gitweb.gentoo.org/repo/proj/guru.git",
+  "homepage_url": "https://codeberg.org/gentoo/guru",
   "language": "Shell",
   "license": "",
-  "topics": [
-    "hacktoberfest"
-  ],
-  "star_count": 318,
+  "topics": [],
+  "star_count": 320,
   "fork_count": 250,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-17T08:08:10Z",
-  "updated_at": "2026-08-21T17:30:54Z",
-  "pushed_at": "2026-08-23T17:50:54Z",
+  "updated_at": "2026-08-28T00:49:00Z",
+  "pushed_at": "2026-08-28T04:09:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -248,6 +246,10 @@
     {
       "date": "2026-08-23",
       "stars": 318
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 320
     }
   ]
 }

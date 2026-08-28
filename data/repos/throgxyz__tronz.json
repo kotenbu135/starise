@@ -3,7 +3,7 @@
   "owner": "throgxyz",
   "name": "tronz",
   "full_name": "throgxyz/tronz",
-  "description": "Idiomatic, async-first Rust SDK for the TRON network — inspired by alloy",
+  "description": "A modern Rust SDK for the TRON network with async-first RPC APIs, inspired by Alloy",
   "description_ja": "",
   "url": "https://github.com/throgxyz/tronz",
   "homepage_url": "https://crates.io/crates/tronz",
@@ -16,13 +16,13 @@
     "tron",
     "web3"
   ],
-  "star_count": 53,
+  "star_count": 55,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-14T12:56:38Z",
-  "updated_at": "2026-08-23T18:07:32Z",
-  "pushed_at": "2026-08-23T18:10:31Z",
+  "updated_at": "2026-08-25T19:50:03Z",
+  "pushed_at": "2026-08-25T14:15:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -120,6 +120,10 @@
     {
       "date": "2026-08-23",
       "stars": 53
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 55
     }
   ]
 }

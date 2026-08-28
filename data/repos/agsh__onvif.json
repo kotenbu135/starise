@@ -3,10 +3,10 @@
   "owner": "agsh",
   "name": "onvif",
   "full_name": "agsh/onvif",
-  "description": "ONVIF node.js implementation",
-  "description_ja": "[28] ONVIF の node.js 実装",
+  "description": "A TypeScript-first ONVIF client for Node.js with typed WSDL services, lazy loading, WS-Security/Digest authentication, WS-Discovery, Events, Media/Media2, PTZ, Recording/Replay and a drop-in compatibility layer for the legacy 0.x API.",
+  "description_ja": "",
   "url": "https://github.com/agsh/onvif",
-  "homepage_url": "https://onvif.pages.dev",
+  "homepage_url": "https://agsh.github.io/onvif/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -14,15 +14,16 @@
     "javascript",
     "nvt",
     "onvif",
-    "ptz"
+    "ptz",
+    "typescript"
   ],
-  "star_count": 784,
+  "star_count": 785,
   "fork_count": 261,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-12-08T10:35:09Z",
-  "updated_at": "2026-08-23T17:33:09Z",
-  "pushed_at": "2026-08-23T17:34:25Z",
+  "updated_at": "2026-08-26T04:47:43Z",
+  "pushed_at": "2026-08-26T15:38:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -392,6 +393,10 @@
     {
       "date": "2026-08-23",
       "stars": 784
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 785
     }
   ]
 }

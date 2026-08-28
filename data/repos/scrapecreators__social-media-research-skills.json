@@ -3,20 +3,33 @@
   "owner": "scrapecreators",
   "name": "social-media-research-skills",
   "full_name": "scrapecreators/social-media-research-skills",
-  "description": "Social media research skills for AI agents powered by ScrapeCreators",
+  "description": "AI agent skills for social media research. Outlier posts, comment mining, competitor teardowns, ad libraries \u0026 trends across TikTok, Instagram, YouTube, Reddit, X, LinkedIn \u0026 more. Powered by ScrapeCreators. Works with Claude Code, Cursor, Codex, Gemini CLI.",
   "description_ja": "",
   "url": "https://github.com/ScrapeCreators/social-media-research-skills",
-  "homepage_url": "",
+  "homepage_url": "https://scrapecreators.com",
   "language": "Python",
-  "license": "",
-  "topics": [],
-  "star_count": 1680,
-  "fork_count": 16,
+  "license": "MIT",
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-skills",
+    "competitor-analysis",
+    "content-marketing",
+    "cursor",
+    "influencer-marketing",
+    "market-research",
+    "social-media",
+    "social-media-research",
+    "workflow-automation"
+  ],
+  "star_count": 1823,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-06T21:47:43Z",
-  "updated_at": "2026-08-23T20:21:44Z",
-  "pushed_at": "2026-07-24T23:07:16Z",
+  "updated_at": "2026-08-28T04:05:05Z",
+  "pushed_at": "2026-08-26T17:26:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -122,6 +135,10 @@
     {
       "date": "2026-08-23",
       "stars": 1680
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 1823
     }
   ]
 }

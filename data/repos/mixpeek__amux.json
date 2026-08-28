@@ -7,7 +7,7 @@
   "description_ja": "",
   "url": "https://github.com/mixpeek/amux",
   "homepage_url": "https://amux.io",
-  "language": "HTML",
+  "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
     "agent-orchestration",
@@ -31,13 +31,13 @@
     "self-hosted",
     "tmux"
   ],
-  "star_count": 365,
-  "fork_count": 39,
+  "star_count": 372,
+  "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-18T14:30:56Z",
-  "updated_at": "2026-08-23T16:31:54Z",
-  "pushed_at": "2026-08-23T16:31:27Z",
+  "updated_at": "2026-08-27T20:20:35Z",
+  "pushed_at": "2026-08-27T20:20:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     {
       "date": "2026-08-23",
       "stars": 365
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 372
     }
   ]
 }

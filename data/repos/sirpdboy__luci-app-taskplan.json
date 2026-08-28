@@ -1,0 +1,29 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkyNzU3Mjg3NjU=",
+  "owner": "sirpdboy",
+  "name": "luci-app-taskplan",
+  "full_name": "sirpdboy/luci-app-taskplan",
+  "description": " luci-app-taskplan 任务设置v3.0 for js版 ：原定时设置的autotimeset的升级版，分开机任务设置和定时设置任务， 预置功能：重启、关机、重启网络、释放内存、系统清理、网络共享、关闭网络、自动检测断网重连、MWAN3负载均衡检测重连、自定义脚本等10多个功能. 轻松点击启用就可生效，更多的功能就看自己需要在自定义脚本自己加入。日志中有每一条任务执行的日志和时间，其中： Startup_task代表的是开机任务， Scheduled_task代表的是定时任务",
+  "description_ja": "",
+  "url": "https://github.com/sirpdboy/luci-app-taskplan",
+  "homepage_url": "https://github.com/sirpdboy/luci-app-taskplan",
+  "language": "Shell",
+  "license": "MIT",
+  "topics": [
+    "luci-app-taskplan"
+  ],
+  "star_count": 295,
+  "fork_count": 63,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2020-06-29T04:19:19Z",
+  "updated_at": "2026-08-24T06:39:00Z",
+  "pushed_at": "2026-03-12T13:32:19Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-28",
+      "stars": 295
+    }
+  ]
+}

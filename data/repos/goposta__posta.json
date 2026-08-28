@@ -8,7 +8,7 @@
   "url": "https://github.com/goposta/posta",
   "homepage_url": "https://goposta.dev",
   "language": "Go",
-  "license": "Apache-2.0",
+  "license": "AGPL-3.0",
   "topics": [
     "email-relay",
     "email-routing",
@@ -27,13 +27,13 @@
     "transactional-email",
     "transactional-outbox"
   ],
-  "star_count": 251,
-  "fork_count": 32,
+  "star_count": 254,
+  "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T08:17:18Z",
-  "updated_at": "2026-08-22T19:37:17Z",
-  "pushed_at": "2026-08-21T19:06:23Z",
+  "updated_at": "2026-08-28T03:47:21Z",
+  "pushed_at": "2026-08-28T03:53:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +403,10 @@
     {
       "date": "2026-08-23",
       "stars": 251
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 254
     }
   ]
 }

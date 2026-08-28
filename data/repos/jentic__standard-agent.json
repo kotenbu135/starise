@@ -3,20 +3,22 @@
   "owner": "jentic",
   "name": "standard-agent",
   "full_name": "jentic/standard-agent",
-  "description": "The composable standard reasoning agent",
-  "description_ja": "構成可能な標準推論エージェント。",
+  "description": "Composable reasoning agent library in Python. Swap LLMs, reasoning strategies, memory backends and tool providers, with just-in-time tool loading.",
+  "description_ja": "",
   "url": "https://github.com/jentic/standard-agent",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
-    "agent-framework",
+    "agent-library",
     "agents",
     "ai",
     "ai-agent",
     "developer-tools",
     "hacktoberfest",
+    "llm",
     "python",
+    "reasoning-agent",
     "rewoo"
   ],
   "star_count": 69,
@@ -24,7 +26,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-10T16:02:18Z",
-  "updated_at": "2026-08-21T13:35:09Z",
+  "updated_at": "2026-08-25T09:46:28Z",
   "pushed_at": "2026-06-12T12:14:57Z",
   "deleted_at": "",
   "star_history": [
@@ -394,6 +396,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 69
+    },
+    {
+      "date": "2026-08-28",
       "stars": 69
     }
   ]

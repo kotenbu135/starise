@@ -3,7 +3,7 @@
   "owner": "yuc16",
   "name": "patentradar",
   "full_name": "yuc16/patentradar",
-  "description": "专利侵权分析系统 —— 输入专利公开号，产出竞品侵权分析报告；同时打包成 skill，可被任意 agent（codex，claude code 等） 调用。",
+  "description": "专利侵权分析系统 —— 输入专利公开号，产出竞品侵权分析报告；同时打包成 skill，可被任意 agent（dsh, codex, claudecode 等） 调用。",
   "description_ja": "",
   "url": "https://github.com/yuc16/PatentRadar",
   "homepage_url": "",
@@ -31,12 +31,12 @@
     "python",
     "rag"
   ],
-  "star_count": 52,
+  "star_count": 57,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-05T16:30:20Z",
-  "updated_at": "2026-08-22T08:33:06Z",
+  "updated_at": "2026-08-27T04:54:06Z",
   "pushed_at": "2026-08-09T05:58:35Z",
   "deleted_at": "",
   "star_history": [
@@ -287,6 +287,10 @@
     {
       "date": "2026-08-23",
       "stars": 52
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 57
     }
   ]
 }

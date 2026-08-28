@@ -6,17 +6,27 @@
   "description": "The Harmonic Algorithm by Oscar South - A Project Spanning Music Analysis, Functional Programming \u0026 Machine Learning",
   "description_ja": "Oscar South による Harmonic Algorithm — 音楽分析、関数型プログラミング、機械学習にまたがるプロジェクト。",
   "url": "https://github.com/OscarSouth/theHarmonicAlgorithm",
-  "homepage_url": "",
+  "homepage_url": "https://theHarmonicAlgorithm.com",
   "language": "Haskell",
-  "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 118,
+  "license": "BSD-3-Clause",
+  "topics": [
+    "algorithmic-composition",
+    "generative-music",
+    "haskell",
+    "live-coding",
+    "machine-learning",
+    "music",
+    "neo4j",
+    "orchestration",
+    "tidalcycles"
+  ],
+  "star_count": 119,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-02-25T17:59:52Z",
-  "updated_at": "2026-08-22T00:04:17Z",
-  "pushed_at": "2026-08-22T00:04:12Z",
+  "updated_at": "2026-08-26T12:22:09Z",
+  "pushed_at": "2026-08-26T21:09:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -382,6 +392,10 @@
     {
       "date": "2026-08-23",
       "stars": 118
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 119
     }
   ]
 }

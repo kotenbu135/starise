@@ -1,0 +1,40 @@
+{
+  "repo_id": "R_kgDORqqfoA",
+  "owner": "edwinweber",
+  "name": "dbt_duckdb_demo_public",
+  "full_name": "edwinweber/dbt_duckdb_demo_public",
+  "description": "Open Source data engineering demo project using dbt, DuckDB, dlt, Dagster and Metabase. Two storage modes for the delta tables are supported: local and Microsoft Fabric Onelake.",
+  "description_ja": "",
+  "url": "https://github.com/edwinweber/dbt_duckdb_demo_public",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "dagster",
+    "data-engineering",
+    "dbt",
+    "delta-lake",
+    "dlt",
+    "duckdb",
+    "medallion-architecture",
+    "microsoft-fabric",
+    "motherduck",
+    "open-data",
+    "python",
+    "scd2"
+  ],
+  "star_count": 49,
+  "fork_count": 0,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-03-18T18:33:15Z",
+  "updated_at": "2026-08-26T21:56:57Z",
+  "pushed_at": "2026-07-09T06:25:37Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-28",
+      "stars": 49
+    }
+  ]
+}

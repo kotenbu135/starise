@@ -3,15 +3,19 @@
   "owner": "hydropix",
   "name": "translatebookswithllms",
   "full_name": "hydropix/translatebookswithllms",
-  "description": "Translate full-length books and documents with Ollama, OpenAI (comptatible), Gemini, Mistral, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.",
-  "description_ja": "Ollama、OpenAI（互換）、Gemini、Mistral、Poe、OpenRouter を使って書籍やドキュメントを丸ごと翻訳。書式保持・中断再開対応・ファイルサイズ制限なし",
+  "description": "Translate full-length books and documents with Ollama, OpenAI-compatible, Gemini, Mistral, DeepSeek, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.",
+  "description_ja": "",
   "url": "https://github.com/hydropix/TranslateBooksWithLLMs",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/hydropix/TranslateBooksWithLLMs/wiki",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
+    "book-translation",
+    "deepseek",
     "docx",
+    "ebook-translator",
     "epub",
+    "epub-translator",
     "gemini",
     "gemini-api",
     "llm",
@@ -27,13 +31,13 @@
     "translation",
     "translation-tool"
   ],
-  "star_count": 2319,
-  "fork_count": 300,
+  "star_count": 2336,
+  "fork_count": 304,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-22T07:16:43Z",
-  "updated_at": "2026-08-23T18:01:18Z",
-  "pushed_at": "2026-08-09T20:45:07Z",
+  "updated_at": "2026-08-28T00:26:52Z",
+  "pushed_at": "2026-08-24T21:26:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +407,10 @@
     {
       "date": "2026-08-23",
       "stars": 2319
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 2336
     }
   ]
 }

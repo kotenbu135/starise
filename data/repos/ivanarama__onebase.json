@@ -3,20 +3,29 @@
   "owner": "ivanarama",
   "name": "onebase",
   "full_name": "ivanarama/onebase",
-  "description": "",
+  "description": "Открытая бизнес-платформа со знакомым DSL для учётных задач, написанная на Go — open business platform with a familiar DSL, in Go",
   "description_ja": "",
   "url": "https://github.com/ivanarama/onebase",
-  "homepage_url": "",
+  "homepage_url": "https://onebase.ivantitov.tech",
   "language": "Go",
   "license": "MIT",
-  "topics": [],
-  "star_count": 88,
+  "topics": [
+    "1c",
+    "business-platform",
+    "dsl",
+    "erp",
+    "go",
+    "low-code",
+    "postgresql",
+    "sqlite"
+  ],
+  "star_count": 90,
   "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-23T15:35:10Z",
-  "updated_at": "2026-08-23T12:46:50Z",
-  "pushed_at": "2026-08-23T12:56:44Z",
+  "updated_at": "2026-08-27T19:54:42Z",
+  "pushed_at": "2026-08-27T20:36:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -274,6 +283,10 @@
     {
       "date": "2026-08-23",
       "stars": 88
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 90
     }
   ]
 }

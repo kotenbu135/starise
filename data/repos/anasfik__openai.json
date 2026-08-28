@@ -3,33 +3,38 @@
   "owner": "anasfik",
   "name": "openai",
   "full_name": "anasfik/openai",
-  "description": "Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)",
-  "description_ja": "ChatGPT および全 OpenAI API（GPT、Dall-e など）向けの Dart/Flutter SDK。",
+  "description": "The unofficial OpenAI SDK for Dart \u0026 Flutter. Full API coverage + OpenAI-compatible providers (Azure, DeepSeek, LM Studio, Ollama): Responses, Chat, Realtime, Videos, Batch, Fine-tuning.",
+  "description_ja": "",
   "url": "https://github.com/anasfik/openai",
   "homepage_url": "https://pub.dev/packages/dart_openai",
   "language": "Dart",
   "license": "MIT",
   "topics": [
     "ai",
-    "dall-e",
-    "dall-e-api",
+    "batch-api",
+    "chatgpt",
     "dart",
     "dart-library",
     "dart-package",
     "dartlang",
+    "fine-tuning",
     "flutter",
-    "gpt-3",
-    "gpt3",
+    "flutter-package",
+    "llm",
     "openai",
-    "openai-api"
+    "openai-api",
+    "realtime-api",
+    "responses-api",
+    "sdk",
+    "streaming"
   ],
   "star_count": 666,
   "fork_count": 231,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-01-30T03:06:07Z",
-  "updated_at": "2026-07-29T19:37:18Z",
-  "pushed_at": "2026-05-28T03:31:35Z",
+  "updated_at": "2026-08-27T13:47:40Z",
+  "pushed_at": "2026-08-25T02:33:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +403,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 666
+    },
+    {
+      "date": "2026-08-28",
       "stars": 666
     }
   ]

@@ -1,0 +1,30 @@
+{
+  "repo_id": "R_kgDOUCffcw",
+  "owner": "liangdabiao",
+  "name": "deepseek-v4-flash-vision-video-rag",
+  "full_name": "liangdabiao/deepseek-v4-flash-vision-video-rag",
+  "description": "DeepSeek V4-Flash Vision Video RAG 让 AI 真正\"看懂\" 一段视频，然后你对它提问：它告诉你答案、答案发生在 第几分几秒，并切出那一段的可播放片段和关键帧给你核对。  基于 DeepSeek 视觉大模型 deepseek-v4-flash-vision-exp 的视频理解与问答 （video RAG）agent skill。先按时间轴抽帧阅读、建立索引（一次性），再对问题做 本地粗筛 → 视觉精排 → 深读回答；回答带 [MM:SS] 时间戳引用，自动生成 自包含 HTML 预览页（内嵌可播放片段 + 关键帧 + 答案），双击浏览器即看。",
+  "description_ja": "",
+  "url": "https://github.com/liangdabiao/deepseek-v4-flash-vision-video-rag",
+  "homepage_url": "https://skillhub.cn/skills/user_8bb4b4f5/deepseek-v4-flash-vision-video-rag",
+  "language": "Python",
+  "license": "",
+  "topics": [
+    "skill",
+    "skills"
+  ],
+  "star_count": 48,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-08-24T09:46:05Z",
+  "updated_at": "2026-08-27T07:28:38Z",
+  "pushed_at": "2026-08-24T09:46:47Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-28",
+      "stars": 48
+    }
+  ]
+}

@@ -3,27 +3,26 @@
   "owner": "openchamber",
   "name": "openchamber",
   "full_name": "openchamber/openchamber",
-  "description": "Desktop and web interface for OpenCode AI agent",
+  "description": "Agentic Development Environment based on OpenCode AI agent",
   "description_ja": "",
   "url": "https://github.com/openchamber/openchamber",
   "homepage_url": "https://openchamber.dev/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "agentic-engineering",
+    "agents",
     "ai",
-    "opencode",
-    "opencode-ai",
-    "opencode-app",
-    "opencode-ui",
-    "opencode-web"
+    "enginering",
+    "opencode"
   ],
-  "star_count": 9132,
-  "fork_count": 954,
+  "star_count": 9305,
+  "fork_count": 984,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-11T10:34:59Z",
-  "updated_at": "2026-08-23T20:05:00Z",
-  "pushed_at": "2026-08-23T15:27:38Z",
+  "updated_at": "2026-08-28T04:03:39Z",
+  "pushed_at": "2026-08-28T02:54:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -357,6 +356,10 @@
     {
       "date": "2026-08-23",
       "stars": 9132
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 9305
     }
   ]
 }

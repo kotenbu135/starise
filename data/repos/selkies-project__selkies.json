@@ -3,10 +3,10 @@
   "owner": "selkies-project",
   "name": "selkies",
   "full_name": "selkies-project/selkies",
-  "description": "Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC",
+  "description": "Low-Latency Accelerated Web Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC",
   "description_ja": "",
   "url": "https://github.com/selkies-project/selkies",
-  "homepage_url": "https://selkies-project.github.io/selkies/",
+  "homepage_url": "https://docs.selkies.io/",
   "language": "Python",
   "license": "MPL-2.0",
   "topics": [
@@ -14,7 +14,6 @@
     "docker",
     "game-streaming",
     "gpu",
-    "gstreamer",
     "hacktoberfest",
     "html5",
     "jupyter",
@@ -31,13 +30,13 @@
     "webrtc",
     "x11"
   ],
-  "star_count": 2047,
-  "fork_count": 179,
+  "star_count": 2069,
+  "fork_count": 181,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-20T02:40:04Z",
-  "updated_at": "2026-08-23T10:35:29Z",
-  "pushed_at": "2026-08-23T17:56:49Z",
+  "updated_at": "2026-08-28T04:51:32Z",
+  "pushed_at": "2026-08-28T04:51:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +90,10 @@
     {
       "date": "2026-08-23",
       "stars": 2047
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 2069
     }
   ]
 }

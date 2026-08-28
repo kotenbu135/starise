@@ -3,41 +3,35 @@
   "owner": "zizka-ai",
   "name": "zizkadb",
   "full_name": "zizka-ai/zizkadb",
-  "description": "Operational Database for AI Agents Provide causality lineage, DAG, and State Replay , build to make AI Agents auditable Reliable and EU AI ACT compliant",
+  "description": "Self-hosted DB for AI agents. Prove why an agent did something ,  causal lineage (why()), time-travel state (at()), drift baselines. AGPL. LangChain/CrewAI/MCP.",
   "description_ja": "",
   "url": "https://github.com/Zizka-ai/ZizkaDB",
   "homepage_url": "https://db.zizka.ai",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
-    "agentic-database",
+    "agent-observability",
     "ai-agents",
-    "antigravity",
-    "ast",
-    "causal-inference",
-    "causal-lineage-tracking-for-ai-agent",
-    "claude-code",
-    "crewai",
-    "database-for-ai-agents",
-    "developer-tools",
-    "eu-ai-act",
-    "eu-ai-act-compliance",
-    "europe",
-    "knowledge-graph",
-    "langchain",
-    "leiden",
-    "mcp",
-    "skills",
-    "vector-database",
-    "vector-embeddings"
+    "audit-log",
+    "causal-discovery",
+    "crewai-tools",
+    "euaiactcompliance",
+    "gdpr",
+    "langchian",
+    "lineage",
+    "llm",
+    "model-context-protocol",
+    "opensource",
+    "postgresql",
+    "self-hosted"
   ],
-  "star_count": 42,
+  "star_count": 43,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-10T01:21:37Z",
-  "updated_at": "2026-08-23T12:09:44Z",
-  "pushed_at": "2026-08-22T09:58:41Z",
+  "updated_at": "2026-08-27T17:08:36Z",
+  "pushed_at": "2026-08-27T16:58:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +85,10 @@
     {
       "date": "2026-08-23",
       "stars": 42
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 43
     }
   ]
 }

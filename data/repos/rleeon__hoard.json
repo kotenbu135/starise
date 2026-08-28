@@ -3,7 +3,7 @@
   "owner": "rleeon",
   "name": "hoard",
   "full_name": "rleeon/hoard",
-  "description": "Automatic, versioned game save sync across devices. Supports Steam, GOG, 20k+ games, emulators. Cloud + self-hosted. Open source (AGPL-3.0).",
+  "description": "Automatic, versioned game save sync across devices. Supports Steam, GOG, 20k+ games, emulators. Hoard-Cloud or Self-Host without account or telemetry. Open source (AGPL-3.0).",
   "description_ja": "",
   "url": "https://github.com/rleeon/hoard",
   "homepage_url": "https://hoard.services/",
@@ -18,13 +18,13 @@
     "self-hosted",
     "sync"
   ],
-  "star_count": 79,
+  "star_count": 84,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-03T14:02:27Z",
-  "updated_at": "2026-08-23T18:31:00Z",
-  "pushed_at": "2026-08-20T03:53:55Z",
+  "updated_at": "2026-08-28T04:26:07Z",
+  "pushed_at": "2026-08-28T04:25:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -142,6 +142,10 @@
     {
       "date": "2026-08-23",
       "stars": 79
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 84
     }
   ]
 }

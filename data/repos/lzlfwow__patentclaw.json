@@ -3,20 +3,24 @@
   "owner": "lzlfwow",
   "name": "patentclaw",
   "full_name": "lzlfwow/patentclaw",
-  "description": "",
+  "description": "论文到中国专利交底书的证据驱动多Agent生成、固定检查表审查与可追溯多轮改稿系统。",
   "description_ja": "",
   "url": "https://github.com/lzlfwow/PatentClaw",
-  "homepage_url": "",
+  "homepage_url": "https://lzlfwow.github.io/PatentClaw/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 104,
-  "fork_count": 2,
+  "topics": [
+    "china-patent",
+    "multi-agent",
+    "patent"
+  ],
+  "star_count": 105,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-10T13:17:45Z",
-  "updated_at": "2026-08-23T07:24:20Z",
-  "pushed_at": "2026-08-20T16:16:33Z",
+  "updated_at": "2026-08-27T13:08:53Z",
+  "pushed_at": "2026-08-27T13:04:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -30,6 +34,10 @@
     {
       "date": "2026-08-23",
       "stars": 104
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 105
     }
   ]
 }

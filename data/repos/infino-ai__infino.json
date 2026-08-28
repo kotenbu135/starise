@@ -3,7 +3,7 @@
   "owner": "infino-ai",
   "name": "infino",
   "full_name": "infino-ai/infino",
-  "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+  "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
   "description_ja": "",
   "url": "https://github.com/infino-ai/infino",
   "homepage_url": "http://infino.ai",
@@ -20,16 +20,17 @@
     "retrieval",
     "rust",
     "search-engine",
+    "sql",
     "vector-database",
     "vector-search"
   ],
-  "star_count": 69,
+  "star_count": 71,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-19T10:00:40Z",
-  "updated_at": "2026-08-23T18:09:32Z",
-  "pushed_at": "2026-08-23T17:46:25Z",
+  "updated_at": "2026-08-28T04:20:32Z",
+  "pushed_at": "2026-08-28T04:20:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -163,6 +164,10 @@
     {
       "date": "2026-08-23",
       "stars": 69
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 71
     }
   ]
 }

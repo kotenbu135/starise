@@ -7,7 +7,7 @@
   "description_ja": "Sveltekitの上に構築された、コンテンツ中心のサイト構築ツール",
   "url": "https://github.com/SveltePress/sveltepress",
   "homepage_url": "https://sveltepress.site",
-  "language": "Svelte",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "blogging",
@@ -19,13 +19,13 @@
     "sveltekit",
     "theme"
   ],
-  "star_count": 527,
+  "star_count": 528,
   "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-23T11:17:59Z",
-  "updated_at": "2026-08-23T01:45:52Z",
-  "pushed_at": "2026-08-23T01:46:19Z",
+  "updated_at": "2026-08-28T03:51:22Z",
+  "pushed_at": "2026-08-28T03:49:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -391,6 +391,10 @@
     {
       "date": "2026-08-23",
       "stars": 527
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 528
     }
   ]
 }

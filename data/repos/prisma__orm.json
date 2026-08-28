@@ -1,0 +1,424 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkxOTI5MjU4MzM=",
+  "owner": "prisma",
+  "name": "orm",
+  "full_name": "prisma/orm",
+  "description": "Next-generation ORM for Node.js \u0026 TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+  "description_ja": "Node.js \u0026 TypeScript 向け次世代 ORM | PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB、CockroachDB に対応",
+  "url": "https://github.com/prisma/orm",
+  "homepage_url": "https://www.prisma.io",
+  "language": "TypeScript",
+  "license": "Apache-2.0",
+  "topics": [
+    "cockroachdb",
+    "database",
+    "javascript",
+    "loggy-core",
+    "loggy-terminal",
+    "mariadb",
+    "mongodb",
+    "mssql",
+    "mysql",
+    "nodejs",
+    "orm",
+    "postgres",
+    "postgresql",
+    "prisma",
+    "prisma-client",
+    "query-builder",
+    "sql-server",
+    "sqlite",
+    "sqlserver",
+    "typescript"
+  ],
+  "star_count": 47566,
+  "fork_count": 2535,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2019-06-20T13:33:47Z",
+  "updated_at": "2026-08-28T02:12:32Z",
+  "pushed_at": "2026-08-27T17:25:52Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-18",
+      "stars": 45775
+    },
+    {
+      "date": "2026-04-19",
+      "stars": 45777
+    },
+    {
+      "date": "2026-04-21",
+      "stars": 45802
+    },
+    {
+      "date": "2026-04-23",
+      "stars": 45817
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 45835
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 45840
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 45853
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 45866
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 45870
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 45875
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 45883
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 45918
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 45925
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 45947
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 45953
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 45964
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 45968
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 45970
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 45977
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 45983
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 45985
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 45994
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 46007
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 46006
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 46016
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 46007
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 46020
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 46034
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 46038
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 46042
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 46059
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 46067
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 46200
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 46206
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 46226
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 46236
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 46251
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 46254
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 46241
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 46245
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 46265
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 46276
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 46285
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 46336
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 46311
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 46347
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 46337
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 46336
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 46341
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 46353
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 46367
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 46380
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 46406
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 46405
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 46400
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 46413
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 46417
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 46432
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 46309
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 46354
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 46391
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 46395
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 46397
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 46356
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 46355
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 46515
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 46871
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 47087
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 47200
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 47327
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 47340
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 47346
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 47363
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 47324
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 47333
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 47341
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 47360
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 47365
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 47370
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 47380
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 47398
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 47419
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 47426
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 47427
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 47521
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 47526
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 47546
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 47547
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 47576
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 47575
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 47569
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 47575
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 47557
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 47558
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 47566
+    }
+  ]
+}

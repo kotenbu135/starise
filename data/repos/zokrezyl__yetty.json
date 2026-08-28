@@ -9,14 +9,30 @@
   "homepage_url": "https://yetty.dev/",
   "language": "C",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 79,
+  "topics": [
+    "android",
+    "c",
+    "cross-platform",
+    "data-visualization",
+    "dawn",
+    "gpu",
+    "gpu-acceleration",
+    "libvterm",
+    "msdf",
+    "plotting",
+    "terminal",
+    "terminal-emulator",
+    "terminal-graphics",
+    "webassembly",
+    "webgpu"
+  ],
+  "star_count": 82,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-03T05:59:46Z",
-  "updated_at": "2026-08-23T14:47:38Z",
-  "pushed_at": "2026-08-20T05:01:50Z",
+  "updated_at": "2026-08-27T10:27:23Z",
+  "pushed_at": "2026-08-27T10:33:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -234,6 +250,10 @@
     {
       "date": "2026-08-23",
       "stars": 79
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 82
     }
   ]
 }

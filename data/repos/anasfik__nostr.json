@@ -3,16 +3,20 @@
   "owner": "anasfik",
   "name": "nostr",
   "full_name": "anasfik/nostr",
-  "description": "Develop Scalable Dart/Flutter Nostr clients quickly and easily",
-  "description_ja": "スケーラブルな Dart/Flutter 製 Nostr クライアントを素早く簡単に開発。",
+  "description": "Build complete Nostr apps in Dart \u0026 Flutter: end-to-end encrypted DMs, zaps \u0026 payments, media uploads, identity and social feeds — one SDK, every platform.",
+  "description_ja": "",
   "url": "https://github.com/anasfik/nostr",
-  "homepage_url": "https://pub.dev/packages/dart_nostr",
+  "homepage_url": "https://anasfik.github.io/nostr/",
   "language": "Dart",
   "license": "MIT",
   "topics": [
     "dart",
+    "dart-package",
     "decentralized",
+    "encryption",
     "flutter",
+    "flutter-package",
+    "lightning",
     "nostr",
     "nostr-bot",
     "nostr-client",
@@ -20,15 +24,18 @@
     "nostr-protocol",
     "nostr-relay",
     "nostr-sdk",
-    "nostr-tools"
+    "nostr-tools",
+    "sdk",
+    "websockets",
+    "zaps"
   ],
   "star_count": 51,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-10T21:13:29Z",
-  "updated_at": "2026-08-22T23:53:57Z",
-  "pushed_at": "2026-04-25T19:17:51Z",
+  "updated_at": "2026-08-26T12:21:22Z",
+  "pushed_at": "2026-08-26T12:20:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -393,6 +400,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 51
+    },
+    {
+      "date": "2026-08-28",
       "stars": 51
     }
   ]

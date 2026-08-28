@@ -3,7 +3,7 @@
   "owner": "fast-py",
   "name": "fast-collections",
   "full_name": "fast-py/fast-collections",
-  "description": "Fast data structures and algorithms written in Rust, usable from Python.",
+  "description": "Fast data structures written in Rust, usable from Python.",
   "description_ja": "",
   "url": "https://github.com/Fast-Py/fast-collections",
   "homepage_url": "https://fast-py.github.io/fast-collections/",
@@ -11,11 +11,11 @@
   "license": "MIT",
   "topics": [
     "algorithms",
-    "bioinformatics",
     "blazingly-fast",
     "data-science",
     "data-structures",
     "high-performance",
+    "mypy-stubs",
     "python",
     "python-algorithms",
     "rust",
@@ -28,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-02T11:27:33Z",
-  "updated_at": "2026-08-23T12:13:56Z",
-  "pushed_at": "2026-08-20T11:18:18Z",
+  "updated_at": "2026-08-27T18:08:08Z",
+  "pushed_at": "2026-08-27T17:46:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -138,6 +138,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 76
+    },
+    {
+      "date": "2026-08-28",
       "stars": 76
     }
   ]

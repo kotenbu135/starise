@@ -3,8 +3,8 @@
   "owner": "henryz838978",
   "name": "seedance2.0-storyboard-planner",
   "full_name": "henryz838978/seedance2.0-storyboard-planner",
-  "description": "Seedance 2.0 素材分镜规划器 — 从创意规划到视频生成的一站式前期制作工具",
-  "description_ja": "Seedance 2.0 素材絵コンテプランナー — アイデア企画から動画生成までの一貫したプリプロダクションツール",
+  "description": "Capability-layer harness: storyboard planning that gives AI video generation the shot structure it can't hold on its own (Vue3 + FastAPI).",
+  "description_ja": "",
   "url": "https://github.com/HenryZ838978/Seedance2.0-Storyboard-Planner",
   "homepage_url": "",
   "language": "Vue",
@@ -13,6 +13,7 @@
     "ai-video",
     "bytedance",
     "fastapi",
+    "harness",
     "seedance",
     "storyboard",
     "video-generation",
@@ -24,7 +25,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T06:49:46Z",
-  "updated_at": "2026-08-22T13:32:30Z",
+  "updated_at": "2026-08-27T08:36:23Z",
   "pushed_at": "2026-02-15T07:01:12Z",
   "deleted_at": "",
   "star_history": [
@@ -390,6 +391,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 64
+    },
+    {
+      "date": "2026-08-28",
       "stars": 64
     }
   ]

@@ -3,13 +3,14 @@
   "owner": "abhinavxd",
   "name": "libredesk",
   "full_name": "abhinavxd/libredesk",
-  "description": "Open-source, self-hosted customer support desk in a single binary. Email and live chat. A lightweight alternative to Intercom, Zendesk, Chatwoot.",
+  "description": "Open-source, self-hosted customer support desk in a single binary. A lightweight alternative to Intercom, Zendesk, Chatwoot.",
   "description_ja": "",
   "url": "https://github.com/abhinavxd/libredesk",
   "homepage_url": "https://libredesk.io",
   "language": "Go",
   "license": "AGPL-3.0",
   "topics": [
+    "ai-agent",
     "chat-widget",
     "customer-service",
     "customer-success",
@@ -28,13 +29,13 @@
     "vue",
     "zendesk"
   ],
-  "star_count": 2791,
-  "fork_count": 237,
+  "star_count": 2832,
+  "fork_count": 245,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-12T12:14:24Z",
-  "updated_at": "2026-08-23T18:02:17Z",
-  "pushed_at": "2026-08-22T21:38:30Z",
+  "updated_at": "2026-08-27T21:37:28Z",
+  "pushed_at": "2026-08-27T22:33:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -400,6 +401,10 @@
     {
       "date": "2026-08-23",
       "stars": 2791
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 2832
     }
   ]
 }

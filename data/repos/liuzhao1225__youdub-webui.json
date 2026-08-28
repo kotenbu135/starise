@@ -3,7 +3,7 @@
   "owner": "liuzhao1225",
   "name": "youdub-webui",
   "full_name": "liuzhao1225/youdub-webui",
-  "description": "开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。",
+  "description": "Open-source AI video localization and dubbing for YouTube/Bilibili: speech recognition, subtitle translation, voice cloning, audio mixing and rendering. 开源 AI 视频翻译配音工具。",
   "description_ja": "",
   "url": "https://github.com/liuzhao1225/YouDub-webui",
   "homepage_url": "",
@@ -11,30 +11,33 @@
   "license": "Apache-2.0",
   "topics": [
     "ai-dubbing",
+    "ai-video-translation",
     "bilibili",
     "demucs",
     "fastapi",
     "ffmpeg",
+    "multilingual-video",
     "nextjs",
+    "open-source",
     "python",
     "speech-to-text",
     "subtitle-translation",
     "text-to-speech",
-    "typescript",
     "video-localization",
     "video-translation",
     "voice-cloning",
     "voxcpm",
     "whisper",
-    "youtube"
+    "youtube",
+    "youtube-translator"
   ],
-  "star_count": 5345,
-  "fork_count": 578,
+  "star_count": 5367,
+  "fork_count": 582,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-26T10:17:39Z",
-  "updated_at": "2026-08-23T13:58:48Z",
-  "pushed_at": "2026-08-11T14:56:01Z",
+  "updated_at": "2026-08-28T01:35:30Z",
+  "pushed_at": "2026-08-26T09:02:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -324,6 +327,10 @@
     {
       "date": "2026-08-23",
       "stars": 5345
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 5367
     }
   ]
 }

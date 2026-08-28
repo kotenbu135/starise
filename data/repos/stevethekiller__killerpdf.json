@@ -3,7 +3,7 @@
   "owner": "stevethekiller",
   "name": "killerpdf",
   "full_name": "stevethekiller/killerpdf",
-  "description": "Free and open-source PDF editor for Windows. View, annotate, OCR, merge, split, edit text, draw, sign, fill forms, print, flatten, and open password-protected PDFs without a subscription. Install or run portable. GPLv3",
+  "description": "Free and open-source PDF editor for Windows. View, annotate, OCR, merge, split, crop, rotate, compare, edit text, draw, sign, fill forms, print, flatten, and open password-protected PDFs without a subscription.",
   "description_ja": "",
   "url": "https://github.com/SteveTheKiller/KillerPDF",
   "homepage_url": "https://KillerPDF.net",
@@ -21,13 +21,13 @@
     "windows",
     "wpf"
   ],
-  "star_count": 3608,
-  "fork_count": 271,
+  "star_count": 3670,
+  "fork_count": 280,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-16T01:44:04Z",
-  "updated_at": "2026-08-23T18:39:37Z",
-  "pushed_at": "2026-08-23T00:21:40Z",
+  "updated_at": "2026-08-27T22:04:16Z",
+  "pushed_at": "2026-08-28T05:04:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -397,6 +397,10 @@
     {
       "date": "2026-08-23",
       "stars": 3608
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 3670
     }
   ]
 }

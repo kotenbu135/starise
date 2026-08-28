@@ -7,7 +7,7 @@
   "description_ja": "ClawProBenchは、決定論的な採点と繰り返し試行の信頼性を備え、OpenClawランタイム上でLLMエージェントを評価するためのライブファースト型ベンチマークハーネスです。",
   "url": "https://github.com/suyoumo/ClawProBench",
   "homepage_url": "https://suyoumo.github.io/bench/",
-  "language": "Python",
+  "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
     "agent",
@@ -18,13 +18,13 @@
     "llm",
     "openclaw"
   ],
-  "star_count": 822,
+  "star_count": 823,
   "fork_count": 54,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-02T09:15:10Z",
-  "updated_at": "2026-08-21T15:19:59Z",
-  "pushed_at": "2026-06-28T17:00:10Z",
+  "updated_at": "2026-08-27T05:44:11Z",
+  "pushed_at": "2026-08-25T11:47:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -386,6 +386,10 @@
     {
       "date": "2026-08-23",
       "stars": 822
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 823
     }
   ]
 }

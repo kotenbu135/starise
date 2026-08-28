@@ -3,7 +3,7 @@
   "owner": "vortx-ai",
   "name": "emem",
   "full_name": "vortx-ai/emem",
-  "description": "The shared, verifiable world memory layer for multi-agent systems.",
+  "description": "World Memory Protocol.",
   "description_ja": "",
   "url": "https://github.com/Vortx-AI/emem",
   "homepage_url": "https://emem.dev/",
@@ -11,22 +11,30 @@
   "license": "Apache-2.0",
   "topics": [
     "a2a-protocol",
-    "earth-observation",
-    "long-running-agents",
+    "agent-interoperability",
+    "agent-memory",
+    "ai-agents",
+    "content-addressed",
+    "earth-orientation",
+    "ed25519",
+    "geospatial",
+    "llm-tools",
     "long-term-memory",
     "mcp",
-    "multi-agent",
+    "model-context-protocol",
+    "provenance",
+    "robotics",
+    "rust",
     "shared-memory",
-    "substrate",
-    "world-models"
+    "transparency-log"
   ],
-  "star_count": 53,
+  "star_count": 54,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-24T20:31:22Z",
-  "updated_at": "2026-08-23T20:09:57Z",
-  "pushed_at": "2026-08-23T20:09:45Z",
+  "updated_at": "2026-08-27T20:12:20Z",
+  "pushed_at": "2026-08-27T20:06:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -300,6 +308,10 @@
     {
       "date": "2026-08-23",
       "stars": 53
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 54
     }
   ]
 }

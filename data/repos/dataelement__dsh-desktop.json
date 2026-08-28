@@ -3,26 +3,30 @@
   "owner": "dataelement",
   "name": "dsh-desktop",
   "full_name": "dataelement/dsh-desktop",
-  "description": "DSHDesktop：DeepSeek Harness Desktop",
+  "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
   "description_ja": "",
   "url": "https://github.com/dataelement/dsh-desktop",
   "homepage_url": "https://dshdesktop.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "ai-agents",
+    "agent",
+    "apps",
     "deepseek",
+    "deepseek-harness",
+    "deepseek-harness-desktop",
     "desktop",
     "dsh-plugins",
-    "dshdesktop"
+    "dshdesktop",
+    "harness"
   ],
-  "star_count": 1983,
-  "fork_count": 133,
+  "star_count": 2938,
+  "fork_count": 166,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-13T13:45:50Z",
-  "updated_at": "2026-08-23T18:50:33Z",
-  "pushed_at": "2026-08-23T08:17:01Z",
+  "updated_at": "2026-08-28T03:59:59Z",
+  "pushed_at": "2026-08-28T03:32:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +48,10 @@
     {
       "date": "2026-08-23",
       "stars": 1983
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 2938
     }
   ]
 }

@@ -11,32 +11,32 @@
   "license": "Apache-2.0",
   "topics": [
     "agent",
-    "deepseek-v3-2",
     "deepseek-v4",
+    "deepseek-v4-flash",
     "finetuning",
     "gemma3",
     "gemma4",
     "glm",
     "gpt-oss",
-    "kimi-k2",
+    "kimi-k3",
     "llama",
     "llama3",
     "llm",
     "minimax-m2",
     "mistral",
     "openai",
+    "qwen-38-27b",
     "qwen3",
-    "qwen3-6",
     "qwen3-next",
     "vlm"
   ],
-  "star_count": 857,
-  "fork_count": 267,
+  "star_count": 874,
+  "fork_count": 278,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-21T21:45:47Z",
-  "updated_at": "2026-08-23T19:08:34Z",
-  "pushed_at": "2026-08-23T19:57:15Z",
+  "updated_at": "2026-08-28T04:06:12Z",
+  "pushed_at": "2026-08-28T04:48:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +258,10 @@
     {
       "date": "2026-08-23",
       "stars": 857
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 874
     }
   ]
 }

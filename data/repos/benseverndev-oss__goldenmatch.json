@@ -3,7 +3,7 @@
   "owner": "benseverndev-oss",
   "name": "goldenmatch",
   "full_name": "benseverndev-oss/goldenmatch",
-  "description": "Zero-config entity resolution that feeds a durable identity layer: resolve messy records from any source into stable golden entities — a Customer 360 with whole-record provenance, merge/split \u0026 audit. Splink-beating accuracy, Arrow-native/Rust, 100M rows in 9.2 min. Python + edge TypeScript (WASM), SQL-native in Postgres \u0026 DuckDB, MCP/REST.",
+  "description": "Zero-config entity resolution feeding a durable identity layer: messy records from any source become stable golden entities, a Customer 360 with provenance, merge/split and audit. Fellegi-Sunter beats hand-tuned Splink. Arrow-native/Rust, 250M rows in 11.2 min. Python + edge TypeScript (WASM), SQL-native in Postgres \u0026 DuckDB, 97 MCP tools + REST.",
   "description_ja": "",
   "url": "https://github.com/benseverndev-oss/goldenmatch",
   "homepage_url": "https://docs.bensevern.dev/",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T20:13:08Z",
-  "updated_at": "2026-08-23T16:03:41Z",
-  "pushed_at": "2026-08-23T19:16:25Z",
+  "updated_at": "2026-08-28T00:54:37Z",
+  "pushed_at": "2026-08-28T00:54:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -322,6 +322,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 129
+    },
+    {
+      "date": "2026-08-28",
       "stars": 129
     }
   ]

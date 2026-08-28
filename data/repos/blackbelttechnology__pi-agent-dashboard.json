@@ -6,17 +6,29 @@
   "description": "Real-time web dashboard for pi coding-agent sessions. Multi-session view, live chat mirroring, integrated terminal, diff viewer, pi-flows execution, and mobile-first remote control via mDNS or zrok tunnel. Coexists with pi's TUI — doesn't replace it.",
   "description_ja": "",
   "url": "https://github.com/BlackBeltTechnology/pi-agent-dashboard",
-  "homepage_url": "",
+  "homepage_url": "https://pi-dashboard.dev/",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 252,
+  "topics": [
+    "agent",
+    "agent-framework",
+    "agent-orchestration",
+    "agent-skills",
+    "agentic",
+    "agentic-ai",
+    "agentic-workflow",
+    "agents",
+    "knowledge-base",
+    "knowledgebase",
+    "pi"
+  ],
+  "star_count": 254,
   "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T05:08:48Z",
-  "updated_at": "2026-08-23T11:23:20Z",
-  "pushed_at": "2026-08-23T11:23:31Z",
+  "updated_at": "2026-08-27T22:36:43Z",
+  "pushed_at": "2026-08-27T22:36:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -374,6 +386,10 @@
     {
       "date": "2026-08-23",
       "stars": 252
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 254
     }
   ]
 }

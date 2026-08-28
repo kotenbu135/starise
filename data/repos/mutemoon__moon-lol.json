@@ -3,7 +3,7 @@
   "owner": "mutemoon",
   "name": "moon-lol",
   "full_name": "mutemoon/moon-lol",
-  "description": "moon-lol 是一个基于 Bevy 引擎开发的《英雄联盟》复刻项目。该项目利用 Rust 语言的高性能和 Bevy 引擎的现代 ECS 架构，实现了对 LoL 资源文件（WAD, PROP, TEX 等）的解析加载，并初步构建了战斗系统、技能系统以及 UI 界面。",
+  "description": "moon-lol is a League of Legends remake project developed using the Bevy engine.",
   "description_ja": "",
   "url": "https://github.com/mutemoon/moon-lol",
   "homepage_url": "",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-26T12:59:00Z",
-  "updated_at": "2026-08-23T07:51:37Z",
-  "pushed_at": "2026-08-23T07:50:56Z",
+  "updated_at": "2026-08-27T15:51:20Z",
+  "pushed_at": "2026-08-27T15:26:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -365,6 +365,10 @@
     },
     {
       "date": "2026-08-23",
+      "stars": 31
+    },
+    {
+      "date": "2026-08-28",
       "stars": 31
     }
   ]

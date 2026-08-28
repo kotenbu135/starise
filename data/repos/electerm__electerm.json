@@ -3,7 +3,7 @@
   "owner": "electerm",
   "name": "electerm",
   "full_name": "electerm/electerm",
-  "description": "📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS)",
+  "description": "📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)",
   "description_ja": "",
   "url": "https://github.com/electerm/electerm",
   "homepage_url": "https://electerm.org",
@@ -31,13 +31,13 @@
     "windows-app",
     "zmodem"
   ],
-  "star_count": 14912,
-  "fork_count": 1201,
+  "star_count": 14941,
+  "fork_count": 1203,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-10-07T09:54:11Z",
-  "updated_at": "2026-08-23T16:16:13Z",
-  "pushed_at": "2026-08-23T05:09:41Z",
+  "updated_at": "2026-08-27T19:33:30Z",
+  "pushed_at": "2026-08-28T02:38:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -407,6 +407,10 @@
     {
       "date": "2026-08-23",
       "stars": 14912
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 14941
     }
   ]
 }

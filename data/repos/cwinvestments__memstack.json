@@ -3,29 +3,29 @@
   "owner": "cwinvestments",
   "name": "memstack",
   "full_name": "cwinvestments/memstack",
-  "description": "Structured skill framework for Claude Code | 128 skills, localhost dashboard with 3-agent orchestration, real-time streaming, MCP tools management, session memory, and project handoffs via markdown-based skills",
+  "description": "Structured skill framework for Claude Code. 130 skills, persistent memory, TokenStack compression, localhost dashboard with 3-agent runner, real-time streaming, MCP tools.",
   "description_ja": "",
   "url": "https://github.com/cwinvestments/memstack",
   "homepage_url": "https://memstack.pro",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "ai-coding-",
-    "anthropic-",
-    "claude-",
-    "claude-code-",
-    "developer-tools-",
-    "mcp-",
-    "skills-",
+    "ai-coding",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "developer-tools",
+    "mcp",
+    "skills",
     "vibe-coding"
   ],
-  "star_count": 414,
+  "star_count": 415,
   "fork_count": 45,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-19T03:45:26Z",
-  "updated_at": "2026-08-20T15:46:09Z",
-  "pushed_at": "2026-08-20T15:40:29Z",
+  "updated_at": "2026-08-26T14:40:57Z",
+  "pushed_at": "2026-08-27T11:40:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -391,6 +391,10 @@
     {
       "date": "2026-08-23",
       "stars": 414
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 415
     }
   ]
 }

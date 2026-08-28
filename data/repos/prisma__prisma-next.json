@@ -3,7 +3,7 @@
   "owner": "prisma",
   "name": "prisma-next",
   "full_name": "prisma/prisma-next",
-  "description": "",
+  "description": "⛔ Moved to prisma/prisma — Prisma Next development continues there under the name Prisma ORM v8. This repository is archived.",
   "description_ja": "",
   "url": "https://github.com/prisma/prisma-next",
   "homepage_url": "",
@@ -13,13 +13,13 @@
     "loggy-core",
     "loggy-terminal"
   ],
-  "star_count": 422,
+  "star_count": 421,
   "fork_count": 17,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2025-10-31T13:55:20Z",
-  "updated_at": "2026-08-21T06:20:07Z",
-  "pushed_at": "2026-08-17T06:28:35Z",
+  "updated_at": "2026-08-27T16:29:07Z",
+  "pushed_at": "2026-08-25T10:32:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -357,6 +357,10 @@
     {
       "date": "2026-08-23",
       "stars": 422
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 421
     }
   ]
 }

@@ -3,20 +3,31 @@
   "owner": "francyjglisboa",
   "name": "agent-skill-creator",
   "full_name": "francyjglisboa/agent-skill-creator",
-  "description": "Turn any workflow into reusable AI agent skills that install on 17 platforms — Claude Code, Copilot, Cursor, Windsurf, Codex, Gemini, Kiro, and more. One SKILL.md, every platform.",
+  "description": "Build tested agent skills and govern their lifecycle through a user-defined marketplace: evidence, discovery, updates, rollback, quarantine, and 17-platform distribution.",
   "description_ja": "",
   "url": "https://github.com/FrancyJGLisboa/agent-skill-creator",
   "homepage_url": "https://francyjglisboa.github.io/agent-skill-creator/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 2307,
-  "fork_count": 255,
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "cursor",
+    "developer-tools",
+    "evals",
+    "github-copilot",
+    "governance",
+    "skill-marketplace"
+  ],
+  "star_count": 2339,
+  "fork_count": 256,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-18T15:01:46Z",
-  "updated_at": "2026-08-23T18:41:13Z",
-  "pushed_at": "2026-08-22T16:12:22Z",
+  "updated_at": "2026-08-28T03:10:01Z",
+  "pushed_at": "2026-08-27T17:00:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -370,6 +381,10 @@
     {
       "date": "2026-08-23",
       "stars": 2307
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 2339
     }
   ]
 }

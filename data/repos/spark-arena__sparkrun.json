@@ -3,7 +3,7 @@
   "owner": "spark-arena",
   "name": "sparkrun",
   "full_name": "spark-arena/sparkrun",
-  "description": "sparkrun - launch, manage, and stop LLM inference workloads on NVIDIA DGX Spark systems",
+  "description": "sparkrun - launch, manage, and stop LLM inference workloads on NVIDIA DGX Spark systems.  Live support: https://discord.com/invite/GH5kRgv6ZD",
   "description_ja": "",
   "url": "https://github.com/spark-arena/sparkrun",
   "homepage_url": "https://sparkrun.dev",
@@ -16,13 +16,13 @@
     "sglang",
     "vllm"
   ],
-  "star_count": 462,
+  "star_count": 473,
   "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-16T18:48:55Z",
-  "updated_at": "2026-08-23T17:20:25Z",
-  "pushed_at": "2026-08-22T05:16:47Z",
+  "updated_at": "2026-08-28T02:41:11Z",
+  "pushed_at": "2026-08-28T01:42:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -280,6 +280,10 @@
     {
       "date": "2026-08-23",
       "stars": 462
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 473
     }
   ]
 }
