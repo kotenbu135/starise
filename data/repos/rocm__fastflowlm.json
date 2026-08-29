@@ -3,8 +3,8 @@
   "owner": "rocm",
   "name": "fastflowlm",
   "full_name": "rocm/fastflowlm",
-  "description": "Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.",
-  "description_ja": "AMD Ryzen™ AI NPU上でLLMを数分で実行できる。Ollamaのように使えるが、AMD NPU向けに専用設計・深く最適化されている。",
+  "description": "Run LLMs on AMD Ryzen™ AI NPUs in minutes; purpose-built and deeply optimized for the AMD NPUs.",
+  "description_ja": "",
   "url": "https://github.com/ROCm/FastFlowLM",
   "homepage_url": "http://fastflowlm.com/",
   "language": "C++",
@@ -16,13 +16,13 @@
     "llm",
     "npu"
   ],
-  "star_count": 1814,
+  "star_count": 1816,
   "fork_count": 145,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-16T21:19:45Z",
-  "updated_at": "2026-08-28T04:41:36Z",
-  "pushed_at": "2026-08-27T23:32:42Z",
+  "updated_at": "2026-08-29T03:21:21Z",
+  "pushed_at": "2026-08-28T21:35:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -395,7 +395,7 @@
     },
     {
       "date": "2026-08-28",
-      "stars": 1814
+      "stars": 1816
     }
   ]
 }

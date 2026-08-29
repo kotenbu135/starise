@@ -12,7 +12,9 @@
   "topics": [
     "agent-plugins",
     "agent-skills",
+    "agent-skills-marketplace",
     "ai-agents",
+    "ai-workflows",
     "claude-code",
     "claude-code-marketplace",
     "claude-code-plugin",
@@ -21,22 +23,20 @@
     "deep-research",
     "deepseek",
     "deepseek-harness",
-    "dsh",
-    "dsh-plugin",
     "fact-checking",
     "gemini-cli",
     "market-research",
     "marketing-automation",
+    "research-automation",
     "research-tools",
-    "skill-md",
     "social-listening"
   ],
-  "star_count": 69,
-  "fork_count": 3,
+  "star_count": 76,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-29T09:04:12Z",
-  "updated_at": "2026-08-28T05:03:31Z",
+  "updated_at": "2026-08-28T23:10:54Z",
   "pushed_at": "2026-08-27T19:02:09Z",
   "deleted_at": "",
   "star_history": [
@@ -46,7 +46,7 @@
     },
     {
       "date": "2026-08-28",
-      "stars": 69
+      "stars": 76
     }
   ]
 }

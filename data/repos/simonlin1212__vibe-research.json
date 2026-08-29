@@ -3,21 +3,24 @@
   "owner": "simonlin1212",
   "name": "vibe-research",
   "full_name": "simonlin1212/vibe-research",
-  "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
+  "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录、回测。Vibe-Research 把数据和功能配齐，由你自己的 Agent 驱动投资研究。基于开源的 Codex Harness 打造。",
   "description_ja": "",
   "url": "https://github.com/simonlin1212/Vibe-Research",
   "homepage_url": "https://viberesearch.wiki",
-  "language": "Python",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "a-stock",
     "ai-agent",
+    "codex",
+    "codex-harness",
     "dashboard",
-    "fastapi",
+    "financial-research",
     "fintech",
     "hk-stocks",
     "investment-research",
     "llm",
+    "local-agent",
     "mcp",
     "python",
     "react",
@@ -25,13 +28,13 @@
     "trading",
     "us-stocks"
   ],
-  "star_count": 2198,
+  "star_count": 2205,
   "fork_count": 455,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-05T06:30:55Z",
-  "updated_at": "2026-08-27T17:09:15Z",
-  "pushed_at": "2026-08-20T10:31:04Z",
+  "updated_at": "2026-08-29T01:07:25Z",
+  "pushed_at": "2026-08-28T17:07:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -160,7 +163,7 @@
     },
     {
       "date": "2026-08-28",
-      "stars": 2198
+      "stars": 2205
     }
   ]
 }

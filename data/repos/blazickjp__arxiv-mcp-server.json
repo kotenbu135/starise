@@ -3,10 +3,10 @@
   "owner": "blazickjp",
   "name": "arxiv-mcp-server",
   "full_name": "blazickjp/arxiv-mcp-server",
-  "description": "A Model Context Protocol server for searching and analyzing arXiv papers",
-  "description_ja": "arXiv 論文の検索と分析を行う Model Context Protocol サーバー。",
+  "description": "A local MCP server for agent literature work. Original-LaTeX section reads, BibTeX from arXiv metadata, and topic watches. Papers stay on disk. Search is optional.",
+  "description_ja": "",
   "url": "https://github.com/blazickjp/arxiv-mcp-server",
-  "homepage_url": "",
+  "homepage_url": "https://www.pulsemcp.com/servers/blazickjp-arxiv-mcp-server",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -21,12 +21,12 @@
     "python",
     "research"
   ],
-  "star_count": 3086,
+  "star_count": 3091,
   "fork_count": 252,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-29T16:34:00Z",
-  "updated_at": "2026-08-28T01:50:01Z",
+  "updated_at": "2026-08-28T15:04:16Z",
   "pushed_at": "2026-08-26T23:16:26Z",
   "deleted_at": "",
   "star_history": [
@@ -400,7 +400,7 @@
     },
     {
       "date": "2026-08-28",
-      "stars": 3086
+      "stars": 3091
     }
   ]
 }

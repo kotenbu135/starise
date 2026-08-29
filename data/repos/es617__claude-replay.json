@@ -3,7 +3,7 @@
   "owner": "es617",
   "name": "claude-replay",
   "full_name": "es617/claude-replay",
-  "description": "Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode, Kimi Code) into self-contained, embeddable HTML  replays",
+  "description": "Convert AI coding agent sessions (Claude Code, Cursor, Codex, Gemini, OpenCode, Kimi Code, Hermes) into self-contained, embeddable HTML  replays",
   "description_ja": "",
   "url": "https://github.com/es617/claude-replay",
   "homepage_url": "https://es617.dev/claude-replay/",
@@ -15,6 +15,7 @@
     "codex",
     "cursor",
     "gemini-cli",
+    "hermes-agent",
     "kimi-code",
     "open-code",
     "opencode"
@@ -24,8 +25,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-02T05:40:03Z",
-  "updated_at": "2026-08-27T23:01:24Z",
-  "pushed_at": "2026-08-20T01:07:31Z",
+  "updated_at": "2026-08-29T00:27:46Z",
+  "pushed_at": "2026-08-29T00:27:43Z",
   "deleted_at": "",
   "star_history": [
     {

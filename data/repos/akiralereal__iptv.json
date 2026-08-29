@@ -3,7 +3,7 @@
   "owner": "akiralereal",
   "name": "iptv",
   "full_name": "akiralereal/iptv",
-  "description": "自托管的模块化 IPTV 直播源管理与分发系统——把平台抓取源（咪咕 / B 站直播）、精选频道与你自己的订阅聚合成一份干净的 m3u + EPG，配可视化后台。推荐 Docker 一键部署（NAS 友好），也可 Node 直接裸跑，开箱即有 300+ 频道。",
+  "description": "自托管的模块化 IPTV 直播源管理与分发系统——把平台抓取源（咪咕 / B 站直播）、精选频道与你自己的订阅聚合成一份干净的 m3u + EPG，配可视化后台。推荐 Docker 一键部署（NAS 友好），也可 Node 直接裸跑，开箱即有500+频道。",
   "description_ja": "",
   "url": "https://github.com/akiralereal/iptv",
   "homepage_url": "https://ifansclub.com/",
@@ -21,13 +21,13 @@
     "iptv-playlist",
     "migu"
   ],
-  "star_count": 512,
-  "fork_count": 168,
+  "star_count": 538,
+  "fork_count": 173,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T07:33:46Z",
-  "updated_at": "2026-08-28T03:38:49Z",
-  "pushed_at": "2026-08-27T14:08:27Z",
+  "updated_at": "2026-08-29T02:58:44Z",
+  "pushed_at": "2026-08-29T02:07:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -168,7 +168,7 @@
     },
     {
       "date": "2026-08-28",
-      "stars": 512
+      "stars": 538
     }
   ]
 }

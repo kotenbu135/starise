@@ -3,20 +3,29 @@
   "owner": "michaelshimeles",
   "name": "skills",
   "full_name": "michaelshimeles/skills",
-  "description": "My personal skills",
+  "description": "Agent skills and an AGENTS.md workflow template — isolate in worktrees, build to a service layer, prove with evidence, ship with before/after proof and Greptile review loops. For Claude Code, Cursor, and Codex.",
   "description_ja": "",
   "url": "https://github.com/michaelshimeles/skills",
   "homepage_url": "",
-  "language": "",
+  "language": "Shell",
   "license": "",
-  "topics": [],
-  "star_count": 305,
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "code-review",
+    "codex",
+    "cursor",
+    "developer-workflow",
+    "greptile"
+  ],
+  "star_count": 306,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-05T17:40:23Z",
-  "updated_at": "2026-08-22T00:43:38Z",
-  "pushed_at": "2026-07-13T15:44:10Z",
+  "updated_at": "2026-08-28T19:46:23Z",
+  "pushed_at": "2026-08-28T18:39:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,7 +66,7 @@
     },
     {
       "date": "2026-08-28",
-      "stars": 305
+      "stars": 306
     }
   ]
 }

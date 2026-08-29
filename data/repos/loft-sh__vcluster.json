@@ -3,8 +3,8 @@
   "owner": "loft-sh",
   "name": "vcluster",
   "full_name": "loft-sh/vcluster",
-  "description": "vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.",
-  "description_ja": "vCluster — 完全機能の仮想 Kubernetes クラスターを作成。各 vcluster は基盤となる k8s クラスターのネームスペース内で動作。独立したフルクラスターより低コストで、通常のネームスペースより優れたマルチテナンシーと分離を提供。",
+  "description": "vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs and RBAC, and runs on an existing cluster or standalone on bare metal. CNCF Certified Kubernetes.",
+  "description_ja": "",
   "url": "https://github.com/loft-sh/vcluster",
   "homepage_url": "https://www.vcluster.com",
   "language": "Go",
@@ -21,13 +21,13 @@
     "vcluster",
     "virtual-clusters"
   ],
-  "star_count": 11276,
+  "star_count": 11278,
   "fork_count": 596,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-04-08T14:47:46Z",
-  "updated_at": "2026-08-27T23:24:59Z",
-  "pushed_at": "2026-08-27T23:24:50Z",
+  "updated_at": "2026-08-28T22:51:18Z",
+  "pushed_at": "2026-08-28T08:18:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -400,7 +400,7 @@
     },
     {
       "date": "2026-08-28",
-      "stars": 11276
+      "stars": 11278
     }
   ]
 }

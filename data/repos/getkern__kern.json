@@ -1,0 +1,48 @@
+{
+  "repo_id": "R_kgDOTcce8g",
+  "owner": "getkern",
+  "name": "kern",
+  "full_name": "getkern/kern",
+  "description": "A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. Daemonless: a real, kernel-enforced container in ~3.5 ms from an OCI image, no daemon, one 1.52 MB static binary.",
+  "description_ja": "",
+  "url": "https://github.com/getkern/kern",
+  "homepage_url": "https://getkern.dev",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "ai-agents",
+    "cgroups",
+    "code-execution",
+    "code-interpreter",
+    "container-runtime",
+    "containers",
+    "daemonless",
+    "docker",
+    "docker-alternative",
+    "linux",
+    "linux-namespaces",
+    "oci",
+    "oci-runtime",
+    "overlayfs",
+    "podman",
+    "rootless",
+    "rust",
+    "sandbox",
+    "seccomp",
+    "virtualization"
+  ],
+  "star_count": 299,
+  "fork_count": 5,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-07-18T12:38:36Z",
+  "updated_at": "2026-08-29T02:26:51Z",
+  "pushed_at": "2026-08-28T21:59:09Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-28",
+      "stars": 299
+    }
+  ]
+}

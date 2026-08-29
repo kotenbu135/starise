@@ -3,30 +3,38 @@
   "owner": "augani",
   "name": "dory",
   "full_name": "augani/dory",
-  "description": "A free, open-source native macOS app for Docker \u0026 Linux containers, an alternative to OrbStack and Docker Desktop. Universal for Intel and Apple silicon.",
+  "description": "Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes.",
   "description_ja": "",
   "url": "https://github.com/Augani/dory",
-  "homepage_url": "https://augani.github.io/dory",
+  "homepage_url": "https://usedory.dev/",
   "language": "Swift",
   "license": "GPL-3.0",
   "topics": [
+    "agent-sandboxes",
     "apple-silicon",
+    "coding-agents",
     "containers",
     "docker",
     "docker-desktop",
+    "k3s",
+    "kubernetes",
+    "linux",
+    "local-development",
     "macos",
+    "mcp",
     "orbstack",
     "swift",
     "swiftui",
+    "virtual-machines",
     "virtualization"
   ],
-  "star_count": 1520,
+  "star_count": 1534,
   "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-19T00:54:29Z",
-  "updated_at": "2026-08-28T00:44:53Z",
-  "pushed_at": "2026-08-17T02:47:36Z",
+  "updated_at": "2026-08-29T03:00:01Z",
+  "pushed_at": "2026-08-29T03:09:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -163,7 +171,7 @@
     },
     {
       "date": "2026-08-28",
-      "stars": 1520
+      "stars": 1534
     }
   ]
 }

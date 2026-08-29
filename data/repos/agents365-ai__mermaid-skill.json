@@ -3,7 +3,7 @@
   "owner": "agents365-ai",
   "name": "mermaid-skill",
   "full_name": "agents365-ai/mermaid-skill",
-  "description": "Mermaid diagrams (.mmd) from natural language with validation loop. 11+ types, multi-backend (mmdc / Kroki), PNG/SVG/PDF, multi-agent.",
+  "description": "Agent skill: generate Mermaid diagrams (.mmd), validate syntax, export PNG/SVG/PDF via mmdc or Kroki API. 17+ diagram types, auto-layout, bilingual triggers.",
   "description_ja": "",
   "url": "https://github.com/Agents365-ai/mermaid-skill",
   "homepage_url": "https://agents365-ai.github.io/mermaid-skill/",
@@ -12,27 +12,27 @@
   "topics": [
     "agent-skill",
     "agent-skills",
+    "claude",
     "claude-code",
     "claude-code-skill",
     "claude-skills",
     "diagram",
+    "diagrams",
     "erd",
     "flowchart",
     "kroki",
     "mermaid",
-    "openclaw",
-    "openclaw-skills",
     "sequence-diagram",
     "skill-md",
     "skillsmp"
   ],
-  "star_count": 200,
+  "star_count": 201,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T17:16:23Z",
-  "updated_at": "2026-08-28T02:25:18Z",
-  "pushed_at": "2026-08-15T05:25:38Z",
+  "updated_at": "2026-08-29T02:44:08Z",
+  "pushed_at": "2026-08-29T02:43:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -353,7 +353,7 @@
     },
     {
       "date": "2026-08-28",
-      "stars": 200
+      "stars": 201
     }
   ]
 }

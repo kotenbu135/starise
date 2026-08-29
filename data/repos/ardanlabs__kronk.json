@@ -3,20 +3,20 @@
   "owner": "ardanlabs",
   "name": "kronk",
   "full_name": "ardanlabs/kronk",
-  "description": "Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp and whisper.cpp directly integrated into your Go applications. Kronk provides a high-level API and a model server.",
+  "description": "Your personal engine for running open source models locally. Use Go for hardware accelerated local inference with llama.cpp, whisper.cpp, and stablediffusion.cpp directly integrated into your Go applications. Kronk provides a high-level API and a model server.",
   "description_ja": "",
   "url": "https://github.com/ardanlabs/kronk",
   "homepage_url": "",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 762,
-  "fork_count": 54,
+  "star_count": 766,
+  "fork_count": 55,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-18T06:00:04Z",
-  "updated_at": "2026-08-27T22:56:59Z",
-  "pushed_at": "2026-08-27T22:58:23Z",
+  "updated_at": "2026-08-28T20:37:17Z",
+  "pushed_at": "2026-08-28T18:20:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -373,7 +373,7 @@
     },
     {
       "date": "2026-08-28",
-      "stars": 762
+      "stars": 766
     }
   ]
 }

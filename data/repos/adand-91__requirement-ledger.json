@@ -3,7 +3,7 @@
   "owner": "adand-91",
   "name": "requirement-ledger",
   "full_name": "adand-91/requirement-ledger",
-  "description": "From vibe coding to knowing what you actually wanted. Point it at a project you already built with an AI agent: it reads the conversation back and derives the real requirement from your own corrections, layers the mistakes, and turns repeated work into a Skill. Counting is mechanical. Claude Code + Codex, EN/中文.",
+  "description": "Privacy-first AI project and Skill feedback loop for Codex and Claude Code—turn corrections into traceable requirements and verified repair plans.",
   "description_ja": "",
   "url": "https://github.com/adand-91/requirement-ledger",
   "homepage_url": "",
@@ -11,21 +11,27 @@
   "license": "MIT",
   "topics": [
     "agent-skills",
+    "ai",
     "ai-agents",
     "claude-code",
-    "codex",
+    "continuous-improvement",
+    "conversation-analysis",
     "developer-tools",
-    "llm",
-    "prompt-engineering",
-    "requirements-engineering"
+    "feedback-loop",
+    "openai-codex",
+    "privacy-first",
+    "project-optimizer",
+    "requirements-engineering",
+    "skill",
+    "software-quality"
   ],
-  "star_count": 27,
+  "star_count": 28,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-17T13:28:38Z",
-  "updated_at": "2026-08-27T06:23:25Z",
-  "pushed_at": "2026-08-17T14:29:46Z",
+  "updated_at": "2026-08-28T17:02:30Z",
+  "pushed_at": "2026-08-28T09:29:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,7 +40,7 @@
     },
     {
       "date": "2026-08-28",
-      "stars": 27
+      "stars": 28
     }
   ]
 }

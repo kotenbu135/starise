@@ -1,0 +1,407 @@
+{
+  "repo_id": "R_kgDOJ3YFEw",
+  "owner": "margelo",
+  "name": "react-native-fast-tflite",
+  "full_name": "margelo/react-native-fast-tflite",
+  "description": "🧬 High-performance TensorFlow Lite library for React Native with GPU acceleration",
+  "description_ja": "GPU アクセラレーション対応の React Native 向け高性能 TensorFlow Lite ライブラリ",
+  "url": "https://github.com/margelo/react-native-fast-tflite",
+  "homepage_url": "https://mrousavy.com",
+  "language": "TypeScript",
+  "license": "MIT",
+  "topics": [
+    "ai",
+    "arraybuffer",
+    "camera",
+    "detection",
+    "facial-recognition",
+    "fast",
+    "hacktoberfest",
+    "ml",
+    "native",
+    "object-detection",
+    "react",
+    "react-native",
+    "tensorflow",
+    "tensorflow-lite",
+    "tflite"
+  ],
+  "star_count": 1227,
+  "fork_count": 90,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2023-07-04T08:37:10Z",
+  "updated_at": "2026-08-29T03:04:22Z",
+  "pushed_at": "2026-08-28T20:49:05Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 1169
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 1170
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 1170
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 1172
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 1174
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 1174
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 1175
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 1175
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 1178
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 1178
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 1180
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 1180
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 1182
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 1183
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 1184
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 1185
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 1185
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 1185
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 1185
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 1186
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 1187
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 1187
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 1187
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 1188
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 1190
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 1191
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 1191
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 1191
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 1191
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 1191
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 1191
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 1192
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 1192
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 1193
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 1193
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 1193
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 1192
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 1192
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 1192
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 1194
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 1194
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 1196
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 1196
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 1196
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 1196
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 1196
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 1196
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 1197
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 1197
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 1197
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 1197
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 1197
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 1198
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 1198
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 1199
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 1199
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 1199
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 1201
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 1201
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 1201
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 1202
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 1202
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 1202
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 1202
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 1202
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 1202
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 1203
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 1203
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 1204
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 1204
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 1205
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 1205
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 1207
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 1207
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 1208
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 1210
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 1212
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 1213
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 1216
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 1216
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 1216
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 1216
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 1217
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 1217
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 1216
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 1219
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 1221
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 1221
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 1221
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 1221
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 1221
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 1227
+    }
+  ]
+}

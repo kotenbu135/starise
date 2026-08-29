@@ -3,7 +3,7 @@
   "owner": "sealandseacat",
   "name": "dbmask",
   "full_name": "sealandseacat/dbmask",
-  "description": "Discover, mask, and validate sensitive data in SQL databases — deterministic masking with built-in per-row verification. Works across PostgreSQL, MySQL, SQL Server, Oracle, and SQLite via SQLAlchemy.",
+  "description": "Discover, mask, and verify sensitive data in SQL databases — an auditable scan → mask → validate workflow for safe database copies.",
   "description_ja": "",
   "url": "https://github.com/sealandseacat/dbmask",
   "homepage_url": "https://sealandseacat.github.io/dbmask/",
@@ -31,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T23:14:51Z",
-  "updated_at": "2026-08-26T06:58:42Z",
-  "pushed_at": "2026-08-25T22:07:26Z",
+  "updated_at": "2026-08-28T15:36:41Z",
+  "pushed_at": "2026-08-28T15:32:36Z",
   "deleted_at": "",
   "star_history": [
     {

@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOTcColg",
+  "owner": "fuzhengwei",
+  "name": "waliapi",
+  "full_name": "fuzhengwei/waliapi",
+  "description": "WaLiAPI 是一款本地运行的 LLM API 网关桌面软件（Tauri 2 + React + Rust）。支持各类 LLM 厂商渠道接入、Ollama 自部署模型、CPA 方式 ChatGPT 渠道接入，统一支持 Chat Completions / Responses / Anthropic Messages 三协议转换使用。内置安全审计引擎、知识库 RAG（HNSW + FTS5 混合检索）、Wiki 知识引擎和 MCP Server（29 个工具），配合 Codex、Claude Code、Gemini CLI 等 AI 编程工具使用。",
+  "description_ja": "",
+  "url": "https://github.com/fuzhengwei/WaLiAPI",
+  "homepage_url": "https://walicode.xiaofuge.cn/",
+  "language": "Rust",
+  "license": "MIT",
+  "topics": [],
+  "star_count": 99,
+  "fork_count": 26,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-07-17T23:53:26Z",
+  "updated_at": "2026-08-29T00:04:29Z",
+  "pushed_at": "2026-08-28T15:06:03Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-28",
+      "stars": 99
+    }
+  ]
+}

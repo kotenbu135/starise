@@ -3,39 +3,41 @@
   "owner": "nexscope-ai",
   "name": "nexscope-ecommerce-skills",
   "full_name": "nexscope-ai/nexscope-ecommerce-skills",
-  "description": "Ready-to-use AI agent skills for e-commerce intelligence. Product research, keyword optimization, competitor analysis, pricing monitoring, patent risk assessment, market trends, and platform-specific tools for Amazon, TikTok Shop, Shopify, Temu and more.",
+  "description": "117 portable ecommerce skills for marketplace research, product discovery, keyword analysis, trends, sourcing, patent screening, multimodal tasks, and GEO workflows.",
   "description_ja": "",
   "url": "https://github.com/nexscope-ai/nexscope-ecommerce-skills",
-  "homepage_url": "",
+  "homepage_url": "https://www.nexscope.ai/help/skills-external-access?co-from=githubNS",
   "language": "Python",
   "license": "",
   "topics": [
     "1688",
-    "1688-sourcing",
-    "ai",
-    "ai-agent",
+    "agent-skills",
     "ai-agent-skills",
     "amazon",
+    "amazon-seller",
+    "claude-skills",
+    "codex-skills",
     "competitor-analysis",
     "ecommerce",
+    "ecommerce-skills",
     "geo",
     "keyword-research",
     "market-intelligence",
+    "openclaw-skills",
     "patent-analysis",
-    "pricing-monitoring",
     "product-research",
     "shopify",
-    "skills",
+    "skills-sh",
     "temu",
-    "tiktok-shop-automation"
+    "tiktok-shop"
   ],
-  "star_count": 57,
+  "star_count": 58,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-25T06:17:16Z",
-  "updated_at": "2026-08-28T01:30:04Z",
-  "pushed_at": "2026-08-26T08:10:15Z",
+  "updated_at": "2026-08-28T16:34:52Z",
+  "pushed_at": "2026-08-28T08:47:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -60,7 +62,7 @@
     },
     {
       "date": "2026-08-28",
-      "stars": 57
+      "stars": 58
     }
   ]
 }
