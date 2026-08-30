@@ -10,16 +10,23 @@
   "language": "Python",
   "license": "GPL-3.0",
   "topics": [
+    "alert-management",
+    "alert-routing",
     "alerting",
     "alertmanager",
-    "alerts",
-    "incident",
+    "chatops",
+    "devops",
+    "escalation",
+    "grafana",
     "incident-management",
+    "incident-response",
     "mattermost",
-    "monitoring",
     "observability",
     "oncall",
+    "oncall-schedule",
+    "pagerduty-alternative",
     "prometheus",
+    "self-hosted",
     "slack",
     "sre",
     "telegram"
@@ -29,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-06-01T15:02:50Z",
-  "updated_at": "2026-08-26T05:45:44Z",
-  "pushed_at": "2026-08-28T18:02:13Z",
+  "updated_at": "2026-08-29T18:08:42Z",
+  "pushed_at": "2026-08-30T07:35:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +106,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 106
+    },
+    {
+      "date": "2026-08-30",
       "stars": 106
     }
   ]

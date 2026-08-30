@@ -3,20 +3,23 @@
   "owner": "amitdigga",
   "name": "fabric-video-editor",
   "full_name": "amitdigga/fabric-video-editor",
-  "description": "A simple video editor made with nextjs, react, tailwindcss, mobx, typescript and fabric.js",
-  "description_ja": "Next.js、React、Tailwind CSS、MobX、TypeScript、Fabric.jsで作られたシンプルなビデオエディター",
+  "description": "Video editor that runs in the browser: timeline, text, image, video and audio layers, animations, filters, export with sound. Fabric.js + React + Next.js.",
+  "description_ja": "",
   "url": "https://github.com/AmitDigga/fabric-video-editor",
   "homepage_url": "https://fabric-video-editor.vercel.app",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "animation",
+    "canvas",
     "fabricjs",
     "mobx",
     "nextjs",
     "react",
     "tailwindcss",
     "typescript",
+    "video-editing",
+    "video-editing-software",
     "video-editor"
   ],
   "star_count": 574,
@@ -24,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-14T11:00:18Z",
-  "updated_at": "2026-08-27T03:37:32Z",
-  "pushed_at": "2026-04-09T19:04:31Z",
+  "updated_at": "2026-08-30T08:32:20Z",
+  "pushed_at": "2026-08-30T08:31:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +397,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 574
+    },
+    {
+      "date": "2026-08-30",
       "stars": 574
     }
   ]

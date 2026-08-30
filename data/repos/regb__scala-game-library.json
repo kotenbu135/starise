@@ -3,7 +3,7 @@
   "owner": "regb",
   "name": "scala-game-library",
   "full_name": "regb/scala-game-library",
-  "description": "Scala library for cross-platform 2D game development",
+  "description": "Scala library for cross-platform game development",
   "description_ja": "",
   "url": "https://github.com/regb/scala-game-library",
   "homepage_url": "",
@@ -12,6 +12,9 @@
   "topics": [
     "game",
     "game-2d",
+    "game-3d",
+    "game-dev",
+    "game-development",
     "game-engine",
     "scala",
     "scala-android",
@@ -24,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-05-27T23:31:28Z",
-  "updated_at": "2026-08-24T09:01:18Z",
-  "pushed_at": "2026-08-12T22:10:10Z",
+  "updated_at": "2026-08-30T22:21:11Z",
+  "pushed_at": "2026-08-30T22:20:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +57,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 159
+    },
+    {
+      "date": "2026-08-30",
       "stars": 159
     }
   ]

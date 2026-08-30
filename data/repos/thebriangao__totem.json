@@ -3,7 +3,7 @@
   "owner": "thebriangao",
   "name": "totem",
   "full_name": "thebriangao/totem",
-  "description": "Model Context Protocol server giving Claude (or any MCP client) full read + write access to your Whoop fitness data via the private reverse-engineered iOS API. 47 tools: recovery, sleep, strain, HRV trends, Strength Trainer, journal, Whoop Coach, and smart alarm. TypeScript + zod, auto-refresh Cognito auth.",
+  "description": "Model Context Protocol server giving Claude (or any MCP client) full read + write access to your Whoop fitness data via the private reverse-engineered iOS API. 55 tools: recovery, sleep, strain, HRV trends, Strength Trainer, journal, Whoop Coach, and smart alarm. TypeScript + zod, auto-refresh Cognito auth.",
   "description_ja": "",
   "url": "https://github.com/thebriangao/totem",
   "homepage_url": "",
@@ -24,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-26T20:23:35Z",
-  "updated_at": "2026-08-26T23:55:28Z",
-  "pushed_at": "2026-08-26T23:52:16Z",
+  "updated_at": "2026-08-29T06:53:03Z",
+  "pushed_at": "2026-08-29T06:51:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -290,6 +290,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 110
+    },
+    {
+      "date": "2026-08-30",
       "stars": 110
     }
   ]

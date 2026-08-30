@@ -10,31 +10,33 @@
   "language": "C",
   "license": "GPL-3.0",
   "topics": [
+    "anti-debug",
+    "anti-debugging",
+    "anti-virtualization",
     "binary-analysis",
     "debug",
     "debugger",
     "debugging",
     "debugging-tool",
     "ept",
+    "game-security",
     "hook",
     "hyperdbg",
     "hypervisor",
     "kernel-debugger",
-    "logic-analyzer",
     "malware-analysis",
     "reverse-engineering",
     "security",
     "security-tools",
-    "virtualization",
-    "virtualization-framework",
-    "windows-kernel"
+    "virtual-machine-introspection",
+    "virtualization"
   ],
-  "star_count": 4015,
+  "star_count": 4021,
   "fork_count": 502,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-01-01T12:34:32Z",
-  "updated_at": "2026-08-29T01:53:19Z",
+  "updated_at": "2026-08-30T14:59:13Z",
   "pushed_at": "2026-08-26T16:02:52Z",
   "deleted_at": "",
   "star_history": [
@@ -405,6 +407,10 @@
     {
       "date": "2026-08-28",
       "stars": 4015
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 4021
     }
   ]
 }

@@ -3,20 +3,20 @@
   "owner": "zelikos",
   "name": "davincibox",
   "full_name": "zelikos/davincibox",
-  "description": "Container for DaVinci Resolve installation and runtime dependencies on Linux",
-  "description_ja": "Linux上でのDaVinci Resolveインストールおよびランタイム依存関係向けコンテナ",
+  "description": "Container for DaVinci Resolve installation and runtime dependencies on Linux. Mirrored to https://codeberg.org/zelikos/davincibox",
+  "description_ja": "",
   "url": "https://github.com/zelikos/davincibox",
   "homepage_url": "",
   "language": "Shell",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 971,
+  "star_count": 972,
   "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-05T21:54:33Z",
-  "updated_at": "2026-08-28T09:32:13Z",
-  "pushed_at": "2026-07-30T11:49:47Z",
+  "updated_at": "2026-08-30T07:24:31Z",
+  "pushed_at": "2026-08-29T20:34:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -386,6 +386,10 @@
     {
       "date": "2026-08-28",
       "stars": 971
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 972
     }
   ]
 }

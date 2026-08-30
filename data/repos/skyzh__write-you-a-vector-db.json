@@ -3,7 +3,7 @@
   "owner": "skyzh",
   "name": "write-you-a-vector-db",
   "full_name": "skyzh/write-you-a-vector-db",
-  "description": "build vector database extensions over Apache Datafusion and CMU-DB's BusTub system",
+  "description": "build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system",
   "description_ja": "",
   "url": "https://github.com/skyzh/write-you-a-vector-db",
   "homepage_url": "https://skyzh.github.io/write-you-a-vector-db/",
@@ -15,13 +15,13 @@
     "tutorial",
     "vector-database"
   ],
-  "star_count": 790,
+  "star_count": 792,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-10T11:34:05Z",
-  "updated_at": "2026-08-28T12:03:28Z",
-  "pushed_at": "2026-08-28T12:40:22Z",
+  "updated_at": "2026-08-30T21:01:53Z",
+  "pushed_at": "2026-08-30T15:42:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     {
       "date": "2026-08-28",
       "stars": 790
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 792
     }
   ]
 }

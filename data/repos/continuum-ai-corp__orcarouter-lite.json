@@ -11,32 +11,27 @@
   "license": "MIT",
   "topics": [
     "ai-gateway",
-    "ai-gateway-client",
     "ai-gateways",
+    "ai-model-gateway",
     "anthropic-api",
     "byok",
-    "fastapi",
     "gemini-api",
     "litellm",
     "llm-router",
     "llm-router-server",
-    "new-api",
-    "new-api-pro",
-    "news-api",
-    "newsapi",
     "one-api",
-    "one-api-all-models",
-    "one-api-key",
     "openai",
     "openai-api",
-    "self-hosted-api"
+    "openai-compatible",
+    "orcarouter",
+    "portkey"
   ],
-  "star_count": 615,
+  "star_count": 626,
   "fork_count": 76,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-03T00:28:42Z",
-  "updated_at": "2026-08-28T16:01:20Z",
+  "updated_at": "2026-08-30T21:26:48Z",
   "pushed_at": "2026-08-28T07:41:07Z",
   "deleted_at": "",
   "star_history": [
@@ -331,6 +326,10 @@
     {
       "date": "2026-08-28",
       "stars": 615
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 626
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "screwys",
   "name": "rufin",
   "full_name": "screwys/rufin",
-  "description": "Native GTK4/libadwaita music player for Jellyfin, Navidrome/OpenSubsonic and local libraries written in Rust",
+  "description": "Cross-platform native music player for Jellyfin, Navidrome/OpenSubsonic and local libraries written in Rust",
   "description_ja": "",
   "url": "https://github.com/screwys/Rufin",
   "homepage_url": "",
@@ -23,13 +23,13 @@
     "subsonic",
     "windows"
   ],
-  "star_count": 91,
+  "star_count": 96,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-15T14:38:46Z",
-  "updated_at": "2026-08-29T02:07:45Z",
-  "pushed_at": "2026-08-29T02:07:42Z",
+  "updated_at": "2026-08-30T16:41:58Z",
+  "pushed_at": "2026-08-30T13:17:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -207,6 +207,10 @@
     {
       "date": "2026-08-28",
       "stars": 91
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 96
     }
   ]
 }

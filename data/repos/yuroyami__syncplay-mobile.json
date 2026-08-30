@@ -3,8 +3,8 @@
   "owner": "yuroyami",
   "name": "syncplay-mobile",
   "full_name": "yuroyami/syncplay-mobile",
-  "description": "📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with Syncplay PC. Fully written in Kotlin and Compose multiplatform.",
-  "description_ja": "📱 Syncplay Mobile（現 Synkplay）は Android・iOS 向けの Syncplay クライアントアプリ。友人と映像を同期再生。Syncplay PC と互換性あり。Kotlin と Compose Multiplatform で全て書かれています。",
+  "description": "📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with the official Syncplay for PC. Fully written in Kotlin and Compose multiplatform.",
+  "description_ja": "",
   "url": "https://github.com/yuroyami/syncplay-mobile",
   "homepage_url": "",
   "language": "Kotlin",
@@ -35,7 +35,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-22T03:33:26Z",
-  "updated_at": "2026-08-28T04:54:53Z",
+  "updated_at": "2026-08-30T19:58:01Z",
   "pushed_at": "2026-08-28T04:54:08Z",
   "deleted_at": "",
   "star_history": [
@@ -409,6 +409,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 348
+    },
+    {
+      "date": "2026-08-30",
       "stars": 348
     }
   ]

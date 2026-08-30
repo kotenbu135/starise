@@ -3,41 +3,32 @@
   "owner": "sraodev",
   "name": "universal-bluetooth-sdk",
   "full_name": "sraodev/universal-bluetooth-sdk",
-  "description": "This application connects two devices over Bluetooth and allows one to send messages to the other using json. Raspberry Pi Bluetooth interfacing with Linux via RFCOMM BT network",
+  "description": "Experimental Go Bluetooth daemon and CLI with Linux RFCOMM, MCP tools, and a hardware-free demo. Building toward nearby chat and optional local AI.",
   "description_ja": "",
   "url": "https://github.com/sraodev/universal-bluetooth-sdk",
   "homepage_url": "",
   "language": "Go",
   "license": "MIT",
   "topics": [
-    "ble",
     "bluetooth",
-    "bluetooth-daemon",
-    "bluetooth-server",
     "bluez",
+    "cli",
+    "developer-tools",
+    "golang",
     "iot",
-    "iot-device",
-    "json",
-    "linux",
-    "pickle",
-    "pybluez",
-    "python",
-    "python-3",
-    "python-bluetooth-service",
-    "python-library",
-    "python-script",
+    "local-ai",
+    "mcp-server",
+    "open-source",
     "raspberry-pi",
-    "raspberry-pi-3",
-    "rfcomm",
-    "socket-programming"
+    "rfcomm"
   ],
   "star_count": 35,
-  "fork_count": 6,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-09-14T13:21:24Z",
-  "updated_at": "2026-07-11T14:26:32Z",
-  "pushed_at": "2026-07-11T14:26:26Z",
+  "updated_at": "2026-08-30T18:21:17Z",
+  "pushed_at": "2026-08-30T18:20:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -390,6 +381,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 35
+    },
+    {
+      "date": "2026-08-30",
       "stars": 35
     }
   ]

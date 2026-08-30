@@ -3,7 +3,7 @@
   "owner": "riclab",
   "name": "pg_embedder",
   "full_name": "riclab/pg_embedder",
-  "description": "PostgreSQL extension for generating neural text embeddings in Rust with pgrx, Candle, and optional pgvector support.",
+  "description": "PostgreSQL extension for generating text embeddings in Rust with pgrx, Candle, and optional pgvector support.",
   "description_ja": "",
   "url": "https://github.com/riclab/pg_embedder",
   "homepage_url": "",
@@ -15,7 +15,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-08T04:45:24Z",
-  "updated_at": "2026-08-26T06:25:19Z",
+  "updated_at": "2026-08-29T23:19:06Z",
   "pushed_at": "2026-08-26T06:24:16Z",
   "deleted_at": "",
   "star_history": [
@@ -85,6 +85,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 63
+    },
+    {
+      "date": "2026-08-30",
       "stars": 63
     }
   ]

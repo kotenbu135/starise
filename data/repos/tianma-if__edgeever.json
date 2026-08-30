@@ -3,41 +3,41 @@
   "owner": "tianma-if",
   "name": "edgeever",
   "full_name": "tianma-if/edgeever",
-  "description": "Serverless, 100% free, and open-source Evernote alternative on Cloudflare with native MCP | 无需服务器、0费用、原生支持 AI Agent 的开源自托管『印象笔记』",
+  "description": "Open-source, AI-native Evernote alternative with native MCP. Zero-cost on Cloudflare or self-hosted with Docker.",
   "description_ja": "",
   "url": "https://github.com/tianma-if/edgeever",
   "homepage_url": "https://edgeever.org",
   "language": "HTML",
   "license": "AGPL-3.0",
   "topics": [
+    "ai-agent",
     "cloudflare",
     "cloudflare-d1",
     "cloudflare-r2",
     "cloudflare-workers",
+    "docker",
     "electron",
     "evernote",
     "evernote-alternative",
-    "hono",
     "knowledge-base",
     "mcp",
+    "model-context-protocol",
     "note-taking",
-    "notes",
-    "obsidian",
+    "offline-first",
     "personal-knowledge-base",
     "pwa",
-    "pwa-app",
     "self-hosted",
-    "self-hosting",
+    "sqlite",
     "tiptap",
-    "workers"
+    "web-clipper"
   ],
-  "star_count": 1289,
-  "fork_count": 714,
+  "star_count": 1308,
+  "fork_count": 726,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-26T06:59:58Z",
-  "updated_at": "2026-08-29T03:54:17Z",
-  "pushed_at": "2026-08-29T04:08:14Z",
+  "updated_at": "2026-08-30T17:31:47Z",
+  "pushed_at": "2026-08-30T15:58:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -127,6 +127,10 @@
     {
       "date": "2026-08-28",
       "stars": 1289
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 1308
     }
   ]
 }

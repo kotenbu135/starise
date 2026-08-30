@@ -3,7 +3,7 @@
   "owner": "hilbert-beinghappy",
   "name": "seektty",
   "full_name": "hilbert-beinghappy/seektty",
-  "description": "Pluggable DeepSeek-colored TUI for DeepSeek Harness",
+  "description": "面向 DeepSeek Harness 的 Claude Code 风格终端界面，支持 Windows、macOS 与 Linux，兼容透明终端、VS Code 主题和自定义配色。",
   "description_ja": "",
   "url": "https://github.com/Hilbert-beinghappy/seektty",
   "homepage_url": "",
@@ -12,32 +12,32 @@
   "topics": [
     "agentic-ai",
     "ai-agent",
+    "claude-code-style",
     "cli",
     "coding-agent",
-    "command-line",
+    "cross-platform",
     "deepseek",
     "deepseek-harness",
-    "developer-tools",
     "dsh",
     "dsh-plugin",
     "linux",
-    "llm",
     "macos",
     "seektty",
     "syntax-highlighting",
-    "terminal",
     "terminal-ui",
+    "transparent-terminal",
     "tui",
     "typescript",
-    "vscode-theme"
+    "vscode-theme",
+    "windows"
   ],
-  "star_count": 108,
-  "fork_count": 4,
+  "star_count": 123,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-14T11:10:57Z",
-  "updated_at": "2026-08-29T03:06:37Z",
-  "pushed_at": "2026-08-29T01:02:25Z",
+  "updated_at": "2026-08-30T17:41:34Z",
+  "pushed_at": "2026-08-30T15:31:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-08-28",
       "stars": 108
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 123
     }
   ]
 }

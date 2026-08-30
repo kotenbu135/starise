@@ -3,7 +3,7 @@
   "owner": "floe-labs",
   "name": "floe-guard",
   "full_name": "floe-labs/floe-guard",
-  "description": "The spend meter and budget gate for AI voice agents. Meters STT + TTS + LLM + telephony per call, out of the box (Pipecat, LiveKit — Python \u0026 TypeScript). Hard-stops the next turn before it crosses your ceiling. Local, no account, no telemetry. Built by Floe — cost controls for Voice AI.",
+  "description": "The spend meter, cost/margin, \u0026 budget gate for AI voice agents. Meters STT + TTS + LLM + telephony per call, out of the box (Pipecat, LiveKit — Python \u0026 TypeScript). Hard-stops the next turn before it crosses your ceiling. Local, no account, no telemetry. Built by Floe.",
   "description_ja": "",
   "url": "https://github.com/Floe-Labs/floe-guard",
   "homepage_url": "https://www.floefinance.com/",
@@ -31,13 +31,13 @@
     "voice",
     "voice-ai"
   ],
-  "star_count": 410,
-  "fork_count": 63,
+  "star_count": 384,
+  "fork_count": 58,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-14T21:40:42Z",
-  "updated_at": "2026-08-28T09:40:36Z",
-  "pushed_at": "2026-08-27T22:13:27Z",
+  "updated_at": "2026-08-30T09:53:09Z",
+  "pushed_at": "2026-08-29T22:28:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-08-28",
       "stars": 410
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 384
     }
   ]
 }

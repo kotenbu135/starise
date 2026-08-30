@@ -1,0 +1,40 @@
+{
+  "repo_id": "R_kgDOT_1QKw",
+  "owner": "noobitoo",
+  "name": "trusttunnelopenwrt",
+  "full_name": "noobitoo/trusttunnelopenwrt",
+  "description": "TrustTunnel VPN client for OpenWrt 25.12+ with LuCI web interface: selective domain-list bypass (allow-domains), DPI-resistant VPN, killswitch, diagnostics / Клиент TrustTunnel для OpenWrt: выборочный обход блокировок по спискам доменов, обход DPI",
+  "description_ja": "",
+  "url": "https://github.com/NooBiToo/TrustTunnelOpenWrt",
+  "homepage_url": "",
+  "language": "Shell",
+  "license": "GPL-2.0",
+  "topics": [
+    "allow-domains",
+    "censorship-circumvention",
+    "dnsmasq",
+    "dpi-bypass",
+    "killswitch",
+    "luci",
+    "nftables",
+    "openwrt",
+    "openwrt-package",
+    "split-tunneling",
+    "trusttunnel",
+    "vpn"
+  ],
+  "star_count": 99,
+  "fork_count": 1,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-08-21T16:14:53Z",
+  "updated_at": "2026-08-30T18:06:23Z",
+  "pushed_at": "2026-08-28T03:16:19Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-30",
+      "stars": 99
+    }
+  ]
+}

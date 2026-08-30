@@ -3,8 +3,8 @@
   "owner": "internrobotics",
   "name": "sim1",
   "full_name": "internrobotics/sim1",
-  "description": "Official implementation of \"SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds \"",
-  "description_ja": "\"SIM1: 変形可能な世界におけるゼロショットデータスケーラーとしての物理整合シミュレーター\"の公式実装。",
+  "description": "[ECCV 26] Official implementation of \"SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds \"",
+  "description_ja": "",
   "url": "https://github.com/InternRobotics/SIM1",
   "homepage_url": "https://internrobotics.github.io/sim1.github.io/",
   "language": "Python",
@@ -21,7 +21,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-07T08:04:29Z",
-  "updated_at": "2026-08-26T17:26:54Z",
+  "updated_at": "2026-08-30T05:01:31Z",
   "pushed_at": "2026-04-10T03:55:09Z",
   "deleted_at": "",
   "star_history": [
@@ -391,6 +391,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 184
+    },
+    {
+      "date": "2026-08-30",
       "stars": 184
     }
   ]

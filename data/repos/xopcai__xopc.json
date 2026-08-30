@@ -3,7 +3,7 @@
   "owner": "xopcai",
   "name": "xopc",
   "full_name": "xopcai/xopc",
-  "description": "Open-source, self-hosted personal AI runtime for durable goals, agent workflows, and automations—local-first, BYOK, and available on desktop, web, CLI, and chat.",
+  "description": "Open-source, local-first personal AI assistant that lives on your computer, gets to know you over time, and keeps what matters moving.",
   "description_ja": "",
   "url": "https://github.com/xopcai/xopc",
   "homepage_url": "https://xopc.ai",
@@ -11,33 +11,33 @@
   "license": "MIT",
   "topics": [
     "agentic-ai",
-    "ai",
     "ai-agents",
+    "ai-assistant",
+    "ai-memory",
     "automation",
     "byok",
     "cli",
-    "codex",
-    "goals",
-    "hermes-agent",
+    "desktop-app",
+    "electron",
+    "knowledge-management",
+    "local-ai",
     "local-first",
-    "loop-engineering",
-    "multi-agent",
+    "mcp",
     "ollama",
-    "opc",
     "open-source",
-    "openclaw",
-    "openworker",
     "personal-ai",
     "self-hosted",
+    "task-management",
+    "typescript",
     "workflow-automation"
   ],
-  "star_count": 34,
-  "fork_count": 5,
+  "star_count": 35,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-12T02:54:31Z",
-  "updated_at": "2026-08-29T03:13:14Z",
-  "pushed_at": "2026-08-29T03:13:10Z",
+  "updated_at": "2026-08-30T15:31:22Z",
+  "pushed_at": "2026-08-30T15:31:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -75,6 +75,10 @@
     {
       "date": "2026-08-28",
       "stars": 34
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 35
     }
   ]
 }

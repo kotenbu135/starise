@@ -3,8 +3,8 @@
   "owner": "miroslavpejic85",
   "name": "mirotalk",
   "full_name": "miroslavpejic85/mirotalk",
-  "description": "🚀 Self-hosted open-source WebRTC video conferencing platform built on peer-to-peer (P2P) architecture for fast, secure real-time communication with end-to-end privacy.",
-  "description_ja": "🚀 ピアツーピア（P2P）アーキテクチャ上に構築された、高速・安全なリアルタイム通信とエンドツーエンドプライバシーを実現するセルフホスト型オープンソース WebRTC ビデオ会議プラットフォーム。",
+  "description": "🚀 Open-source, self-hosted P2P WebRTC video conferencing for fast, private real-time communication. Create browser-based meeting rooms with no downloads or time limits, plus screen sharing, chat, whiteboard, recording, and collaboration.",
+  "description_ja": "",
   "url": "https://github.com/miroslavpejic85/mirotalk",
   "homepage_url": "https://p2p.mirotalk.com",
   "language": "JavaScript",
@@ -14,7 +14,6 @@
     "conferencing",
     "decentralized",
     "docker-image",
-    "hacktoberfest",
     "html-css-javascript",
     "javascript",
     "livechat",
@@ -26,18 +25,19 @@
     "video-call",
     "video-chat",
     "video-conferencing",
+    "web-rtc",
     "webrtc",
     "webrtc-call",
     "webrtc-video",
     "whiteboard"
   ],
-  "star_count": 4710,
+  "star_count": 4713,
   "fork_count": 771,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-01-01T21:31:15Z",
-  "updated_at": "2026-08-28T20:17:49Z",
-  "pushed_at": "2026-08-27T21:33:42Z",
+  "updated_at": "2026-08-30T18:06:43Z",
+  "pushed_at": "2026-08-30T18:05:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +411,10 @@
     {
       "date": "2026-08-28",
       "stars": 4710
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 4713
     }
   ]
 }

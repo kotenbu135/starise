@@ -3,20 +3,30 @@
   "owner": "wildkernels",
   "name": "gki_kernelsu_susfs",
   "full_name": "wildkernels/gki_kernelsu_susfs",
-  "description": "GKI2 5.10+ Kernels with Wild KSU \u0026 SUSFS",
+  "description": "GKI2 5.10+ Kernels built with KernelSU \u0026 SUSFS",
   "description_ja": "",
   "url": "https://github.com/WildKernels/GKI_KernelSU_SUSFS",
   "homepage_url": "",
   "language": "",
   "license": "",
-  "topics": [],
-  "star_count": 1544,
-  "fork_count": 5292,
+  "topics": [
+    "android",
+    "android-kernel",
+    "gki",
+    "gki2",
+    "google-pixel",
+    "kernelsu",
+    "kernelsu-next",
+    "susfs",
+    "susfs4ksu"
+  ],
+  "star_count": 1548,
+  "fork_count": 5316,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-26T21:24:20Z",
-  "updated_at": "2026-08-28T19:54:06Z",
-  "pushed_at": "2026-08-28T03:03:23Z",
+  "updated_at": "2026-08-30T20:32:52Z",
+  "pushed_at": "2026-08-30T20:24:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -370,6 +380,10 @@
     {
       "date": "2026-08-28",
       "stars": 1544
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 1548
     }
   ]
 }

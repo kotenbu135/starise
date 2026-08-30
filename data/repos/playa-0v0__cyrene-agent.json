@@ -3,7 +3,7 @@
   "owner": "playa-0v0",
   "name": "cyrene-agent",
   "full_name": "playa-0v0/cyrene-agent",
-  "description": "An open-source AI desktop companion inspired by Cyrene, combining immersive Chat, personalized long-term memory, and an agentic Work mode.",
+  "description": "基于昔涟人设打造的开源桌面智能体项目，运行于自研 Cyrene_Harness 框架之上。兼顾沉浸式人设聊天与实用 Agent 能力，支持日常事务处理、编程开发辅助、新知识学习；同时内置音乐、天气等多种工具扩展，既是可陪伴的桌面角色，也是能落地干活的个人助理。",
   "description_ja": "",
   "url": "https://github.com/Playa-0v0/Cyrene-Agent",
   "homepage_url": "https://space.bilibili.com/260670644",
@@ -30,13 +30,13 @@
     "typescript",
     "windows"
   ],
-  "star_count": 470,
-  "fork_count": 66,
+  "star_count": 487,
+  "fork_count": 68,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-06T21:33:15Z",
-  "updated_at": "2026-08-29T03:05:39Z",
-  "pushed_at": "2026-08-28T09:19:09Z",
+  "updated_at": "2026-08-30T15:47:47Z",
+  "pushed_at": "2026-08-30T02:35:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -158,6 +158,10 @@
     {
       "date": "2026-08-28",
       "stars": 470
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 487
     }
   ]
 }

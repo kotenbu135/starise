@@ -3,8 +3,8 @@
   "owner": "hololinked-dev",
   "name": "hololinked",
   "full_name": "hololinked-dev/hololinked",
-  "description": "beginner friendly data acquisition \u0026 IoT in python",
-  "description_ja": "初心者向けの Python によるデータ取得と IoT 入門",
+  "description": "beginner friendly data acquisition \u0026 IoT in python, for the modern web and AI agents",
+  "description_ja": "",
   "url": "https://github.com/hololinked-dev/hololinked",
   "homepage_url": "https://docs.hololinked.dev",
   "language": "Python",
@@ -18,16 +18,15 @@
     "rpc",
     "scada",
     "web-of-things",
-    "wot",
-    "zmq"
+    "wot"
   ],
   "star_count": 33,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-22T21:51:28Z",
-  "updated_at": "2026-08-13T05:29:48Z",
-  "pushed_at": "2026-05-22T20:09:07Z",
+  "updated_at": "2026-08-30T12:01:16Z",
+  "pushed_at": "2026-08-30T18:36:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -396,6 +395,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 33
+    },
+    {
+      "date": "2026-08-30",
       "stars": 33
     }
   ]

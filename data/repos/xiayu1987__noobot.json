@@ -3,15 +3,20 @@
   "owner": "xiayu1987",
   "name": "noobot",
   "full_name": "xiayu1987/noobot",
-  "description": "Self-hosted AI agent workspace with tool calling, MCP, multi-model routing, sandboxed execution, and multi-agent workflows. Web and desktop.",
+  "description": "Self-hosted AI agent workspace with tool calling, MCP, multi-model routing, sandboxed execution, multi-agent workflows, and LLM-authored 3D character animation rendered with Three.js.",
   "description_ja": "",
   "url": "https://github.com/xiayu1987/noobot",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "3d",
     "ai-agent",
+    "ai3d",
+    "animation",
+    "character-animation",
     "electron",
+    "glb",
     "llm",
     "mcp",
     "model-routing",
@@ -20,22 +25,28 @@
     "noobot",
     "sandbox",
     "self-hosted",
+    "threejs",
     "tool-calling",
     "vue",
+    "webgl",
     "workflow-automation"
   ],
-  "star_count": 86,
+  "star_count": 91,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T16:34:22Z",
-  "updated_at": "2026-08-29T02:11:27Z",
-  "pushed_at": "2026-08-28T13:10:25Z",
+  "updated_at": "2026-08-30T16:29:17Z",
+  "pushed_at": "2026-08-30T16:28:18Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-08-28",
       "stars": 86
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 91
     }
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "repo_id": "R_kgDOR_4jVw",
+  "owner": "romalytar",
+  "name": "yammi-jobs-monitoring-laravel",
+  "full_name": "romalytar/yammi-jobs-monitoring-laravel",
+  "description": "A lightweight Laravel queue monitoring package that tracks job lifecycle (processing, success, failure) across any queue driver. It provides a simple UI, execution insights, real-time metrics, failure alerts via Slack/email, and supports retries with modified payloads.",
+  "description_ja": "",
+  "url": "https://github.com/RomaLytar/yammi-jobs-monitoring-laravel",
+  "homepage_url": "",
+  "language": "PHP",
+  "license": "MIT",
+  "topics": [
+    "dead-letter-queue",
+    "devtools",
+    "failed-jobs",
+    "horizon",
+    "job-queue",
+    "laravel",
+    "laravel-package",
+    "monitoring",
+    "observability",
+    "php",
+    "queue-monitoring",
+    "queues"
+  ],
+  "star_count": 29,
+  "fork_count": 3,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-04-11T13:24:05Z",
+  "updated_at": "2026-08-30T00:32:18Z",
+  "pushed_at": "2026-06-10T18:06:38Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-30",
+      "stars": 29
+    }
+  ]
+}

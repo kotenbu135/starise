@@ -3,20 +3,27 @@
   "owner": "swiftinhk",
   "name": "tales-runner-macos",
   "full_name": "swiftinhk/tales-runner-macos",
-  "description": "",
+  "description": "跑Online (Tales Runner HK) 的 macOS 安裝包，經 Apple 公證簽署，Intel 與 Apple Silicon 皆可。完整安裝教學與更新：https://swiftinhk.com/apps",
   "description_ja": "",
   "url": "https://github.com/swiftinhk/Tales-Runner-Macos",
-  "homepage_url": "",
+  "homepage_url": "https://swiftinhk.com/apps",
   "language": "C",
   "license": "",
-  "topics": [],
+  "topics": [
+    "apple-silicon",
+    "crossover",
+    "hong-kong",
+    "macos",
+    "tales-runner",
+    "wine"
+  ],
   "star_count": 63,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-29T15:32:57Z",
-  "updated_at": "2026-08-23T05:00:15Z",
-  "pushed_at": "2026-06-03T15:26:24Z",
+  "updated_at": "2026-08-30T20:22:07Z",
+  "pushed_at": "2026-08-30T20:20:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -213,6 +220,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 63
+    },
+    {
+      "date": "2026-08-30",
       "stars": 63
     }
   ]

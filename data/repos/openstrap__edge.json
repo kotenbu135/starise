@@ -3,7 +3,7 @@
   "owner": "openstrap",
   "name": "edge",
   "full_name": "openstrap/edge",
-  "description": "An app that makes a WHOOP 4.0 useful without a WHOOP subscription — pairs over Bluetooth, computes everything on your phone, no cloud required.",
+  "description": "An app that makes a WHOOP band (4.0, 5, MG) useful without a subscription, and pairs with standard BLE heart-rate straps too — computes everything on your phone, no cloud required.",
   "description_ja": "",
   "url": "https://github.com/OpenStrap/edge",
   "homepage_url": "https://openstrap.site",
@@ -24,13 +24,13 @@
     "wearables",
     "whoop"
   ],
-  "star_count": 500,
-  "fork_count": 83,
+  "star_count": 501,
+  "fork_count": 85,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T19:02:48Z",
-  "updated_at": "2026-08-28T22:57:47Z",
-  "pushed_at": "2026-08-29T03:47:46Z",
+  "updated_at": "2026-08-30T21:33:15Z",
+  "pushed_at": "2026-08-30T09:06:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -252,6 +252,10 @@
     {
       "date": "2026-08-28",
       "stars": 500
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 501
     }
   ]
 }

@@ -3,23 +3,33 @@
   "owner": "royalbhati",
   "name": "hoptab",
   "full_name": "royalbhati/hoptab",
-  "description": "minimal macOS app switcher for when Cmd+Tab gets way too noisy",
-  "description_ja": "Cmd+Tab が煩雑になりすぎたときのためのミニマルな macOS アプリスイッチャー",
+  "description": "Open-source macOS workspace manager — one keystroke rearranges your apps, windows and layout. Snapping, tiling, profiles, session restore.",
+  "description_ja": "",
   "url": "https://github.com/royalbhati/HopTab",
-  "homepage_url": "https://hoptab.app/",
+  "homepage_url": "https://hoptab.app",
   "language": "Swift",
   "license": "MIT",
   "topics": [
     "macos",
-    "productivity"
+    "macos-app",
+    "magnet-alternative",
+    "menubar",
+    "productivity",
+    "rectangle-alternative",
+    "swift",
+    "swiftui",
+    "tiling-window-manager",
+    "window-management",
+    "window-manager",
+    "yabai"
   ],
   "star_count": 295,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-08T08:33:30Z",
-  "updated_at": "2026-08-21T01:23:16Z",
-  "pushed_at": "2026-08-02T02:19:29Z",
+  "updated_at": "2026-08-30T03:30:33Z",
+  "pushed_at": "2026-08-30T03:46:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -392,6 +402,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 295
+    },
+    {
+      "date": "2026-08-30",
       "stars": 295
     }
   ]

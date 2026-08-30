@@ -11,21 +11,21 @@
   "license": "MIT",
   "topics": [
     "ai-agents",
+    "browser-automation",
     "claude-code",
     "codex",
     "coding-agents",
     "cross-platform",
     "desktop-app",
-    "developer-tools",
     "egui",
     "gemini-cli",
+    "grok-build",
     "infinite-canvas",
     "kilo-code",
+    "mcp",
     "opencode",
     "pi-coding-agent",
     "rust",
-    "ssh-client",
-    "terminal",
     "terminal-emulator",
     "terminal-multiplexer",
     "wgpu",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T15:30:53Z",
-  "updated_at": "2026-08-28T10:52:43Z",
-  "pushed_at": "2026-08-28T18:17:37Z",
+  "updated_at": "2026-08-30T11:21:25Z",
+  "pushed_at": "2026-08-30T11:18:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +410,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 698
+    },
+    {
+      "date": "2026-08-30",
       "stars": 698
     }
   ]

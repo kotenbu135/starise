@@ -7,7 +7,7 @@
   "description_ja": "GitOps パイプラインを備えた AWS Cloud9 および CodeCommit の代替ツール",
   "url": "https://github.com/aws-samples/sample-developer-environment",
   "homepage_url": "",
-  "language": "Shell",
+  "language": "HCL",
   "license": "MIT-0",
   "topics": [
     "aws",
@@ -23,12 +23,12 @@
     "visual-studio-code"
   ],
   "star_count": 36,
-  "fork_count": 11,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-26T08:55:16Z",
-  "updated_at": "2026-07-02T03:49:27Z",
-  "pushed_at": "2026-07-02T03:49:24Z",
+  "updated_at": "2026-08-29T20:14:17Z",
+  "pushed_at": "2026-08-29T20:08:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -397,6 +397,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 36
+    },
+    {
+      "date": "2026-08-30",
       "stars": 36
     }
   ]

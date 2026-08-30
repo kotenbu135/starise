@@ -11,26 +11,31 @@
   "license": "MIT",
   "topics": [
     "akamai",
+    "akamai-fingerprint",
     "curl",
     "fingerprint",
     "http",
     "http-client",
+    "http2-fingerprint",
     "https",
     "impersonate",
     "ja3",
+    "ja3-fingerprint",
     "ja4",
+    "ja4-fingerprint",
     "python",
     "requests",
     "tls",
     "tls-client",
+    "tls-fingerprint",
     "web-scraping"
   ],
-  "star_count": 578,
+  "star_count": 579,
   "fork_count": 61,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-12T09:21:16Z",
-  "updated_at": "2026-08-28T05:08:14Z",
+  "updated_at": "2026-08-30T17:36:07Z",
   "pushed_at": "2026-08-26T16:00:27Z",
   "deleted_at": "",
   "star_history": [
@@ -405,6 +410,10 @@
     {
       "date": "2026-08-28",
       "stars": 578
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 579
     }
   ]
 }

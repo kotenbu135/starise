@@ -3,20 +3,31 @@
   "owner": "adw-19",
   "name": "build_a_product_agent",
   "full_name": "adw-19/build_a_product_agent",
-  "description": "AI Agent开发全链路手册：开发，测试，基座",
+  "description": "Production-Grade AI Agent Development Full-Chain Guide: Development, Testing, and Base Framework",
   "description_ja": "",
   "url": "https://github.com/ADW-19/build_a_product_agent",
   "homepage_url": "",
   "language": "",
   "license": "MIT",
-  "topics": [],
-  "star_count": 106,
+  "topics": [
+    "agent",
+    "agent-framework",
+    "agent-memory",
+    "agent-orchestration",
+    "agent-skill",
+    "agent-skills",
+    "agentic",
+    "agentic-ai",
+    "agentic-workflow",
+    "agents"
+  ],
+  "star_count": 107,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-10T06:22:52Z",
-  "updated_at": "2026-08-27T13:27:27Z",
-  "pushed_at": "2026-08-27T13:17:06Z",
+  "updated_at": "2026-08-30T11:30:40Z",
+  "pushed_at": "2026-08-30T09:00:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +65,10 @@
     {
       "date": "2026-08-28",
       "stars": 106
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 107
     }
   ]
 }

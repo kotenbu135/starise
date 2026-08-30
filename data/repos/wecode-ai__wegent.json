@@ -3,8 +3,8 @@
   "owner": "wecode-ai",
   "name": "wegent",
   "full_name": "wecode-ai/wegent",
-  "description": "An open-source AI-native operating system to define, organize, and run intelligent agent teams",
-  "description_ja": "インテリジェントなエージェントチームの定義・整理・実行を行うAIネイティブなオープンソースオペレーティングシステム",
+  "description": "Plan, build, and deliver with an open-source, self-hostable AI workspace for coding, collaboration, and automation.",
+  "description_ja": "",
   "url": "https://github.com/wecode-ai/Wegent",
   "homepage_url": "https://wecode-ai.github.io/wegent-docs",
   "language": "TypeScript",
@@ -15,16 +15,16 @@
     "chatbot",
     "claude-code",
     "codex",
-    "deepseek-harness",
+    "dsh-plugin",
     "wework"
   ],
-  "star_count": 741,
-  "fork_count": 126,
+  "star_count": 750,
+  "fork_count": 128,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-10T15:42:57Z",
-  "updated_at": "2026-08-29T03:14:03Z",
-  "pushed_at": "2026-08-29T04:27:44Z",
+  "updated_at": "2026-08-30T20:47:29Z",
+  "pushed_at": "2026-08-30T20:24:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +398,10 @@
     {
       "date": "2026-08-28",
       "stars": 741
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 750
     }
   ]
 }

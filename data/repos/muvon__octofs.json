@@ -3,7 +3,7 @@
   "owner": "muvon",
   "name": "octofs",
   "full_name": "muvon/octofs",
-  "description": "Tuned and fully-featured MCP to work with the filesystem in LLM optimized way",
+  "description": "Rust MCP server giving AI agents filesystem superpowers: view, edit, batch-edit, shell and workdir tools with hash-verified line ids, gitignore-aware search, and transparent SSH/SFTP",
   "description_ja": "",
   "url": "https://github.com/Muvon/octofs",
   "homepage_url": "https://octomind.run/product/octofs/",
@@ -12,28 +12,32 @@
   "topics": [
     "ai",
     "ai-agents",
-    "ast-grep",
     "claude",
+    "claude-desktop",
     "cli",
-    "code-analysis",
     "command-line-utilities",
     "cursor",
     "developer-tools",
     "filesystem",
     "llm",
     "mcp",
+    "mcp-server",
     "model-context-protocol",
     "productivity",
+    "remote-development",
     "rust",
-    "shell"
+    "sftp",
+    "shell",
+    "ssh",
+    "windsurf"
   ],
   "star_count": 11,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T16:37:28Z",
-  "updated_at": "2026-08-28T05:19:46Z",
-  "pushed_at": "2026-08-28T05:19:08Z",
+  "updated_at": "2026-08-30T12:45:57Z",
+  "pushed_at": "2026-08-30T12:45:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -210,6 +214,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 11
+    },
+    {
+      "date": "2026-08-30",
       "stars": 11
     }
   ]

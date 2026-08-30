@@ -3,27 +3,32 @@
   "owner": "thelia",
   "name": "thelia",
   "full_name": "thelia/thelia",
-  "description": "Thelia is an open source tool for creating e-business websites and managing online content. Repo containing the new major version (v2)",
-  "description_ja": "Theliaはeコマースサイトの構築とオンラインコンテンツ管理のためのオープンソースツール。新メジャーバージョン（v2）を含むリポジトリ",
+  "description": "Thelia is an open-source e-commerce CMS and framework built on Symfony 7 and API Platform.",
+  "description_ja": "",
   "url": "https://github.com/thelia/thelia",
-  "homepage_url": "http://thelia.net",
+  "homepage_url": "https://thelia.net",
   "language": "PHP",
   "license": "GPL-3.0",
   "topics": [
+    "api-platform",
+    "cms",
     "e-commerce",
+    "ecommerce",
     "hacktoberfest",
+    "mariadb",
     "mysql",
     "php",
     "symfony",
-    "thelia"
+    "thelia",
+    "twig"
   ],
   "star_count": 877,
   "fork_count": 319,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-03-18T20:10:36Z",
-  "updated_at": "2026-08-27T20:06:59Z",
-  "pushed_at": "2026-08-27T17:54:07Z",
+  "updated_at": "2026-08-30T18:38:39Z",
+  "pushed_at": "2026-08-30T18:37:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -396,6 +401,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 877
+    },
+    {
+      "date": "2026-08-30",
       "stars": 877
     }
   ]

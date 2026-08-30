@@ -3,19 +3,19 @@
   "owner": "electronicarts",
   "name": "shadertohuman",
   "full_name": "electronicarts/shadertohuman",
-  "description": "HLSL/GLSL library for debugging shaders",
+  "description": "HLSL/GLSL/Slang library for debugging shaders",
   "description_ja": "",
   "url": "https://github.com/electronicarts/ShaderToHuman",
   "homepage_url": "https://seed.ea.com",
   "language": "HLSL",
   "license": "NOASSERTION",
   "topics": [],
-  "star_count": 636,
-  "fork_count": 20,
+  "star_count": 667,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-03T00:07:43Z",
-  "updated_at": "2026-08-29T02:42:31Z",
+  "updated_at": "2026-08-30T09:21:41Z",
   "pushed_at": "2026-08-29T02:19:18Z",
   "deleted_at": "",
   "star_history": [
@@ -334,6 +334,10 @@
     {
       "date": "2026-08-28",
       "stars": 636
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 667
     }
   ]
 }

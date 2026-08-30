@@ -3,7 +3,7 @@
   "owner": "andiweli",
   "name": "unreal-android",
   "full_name": "andiweli/unreal-android",
-  "description": "Port of the 1998's FPS \"Unreal\" (v200) from Epic for Android 8+ (32/64bit) and special version for the OUYA microconsole. Playable with controller, only basic touchscreen support.",
+  "description": "Port of the 1998's FPS \"Unreal\" (v200) from Epic for Android 8+ (32/64bit) and special version for the OUYA microconsole. Playable with controller, touchscreen and keyboard/mouse.",
   "description_ja": "",
   "url": "https://github.com/Andiweli/Unreal-Android",
   "homepage_url": "",
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-26T19:28:02Z",
-  "updated_at": "2026-08-28T12:01:07Z",
-  "pushed_at": "2026-08-28T13:04:41Z",
+  "updated_at": "2026-08-30T00:52:04Z",
+  "pushed_at": "2026-08-30T00:52:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -172,6 +172,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 50
+    },
+    {
+      "date": "2026-08-30",
       "stars": 50
     }
   ]

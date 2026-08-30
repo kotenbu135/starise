@@ -3,8 +3,8 @@
   "owner": "joryeugene",
   "name": "dadbod-grip.nvim",
   "full_name": "joryeugene/dadbod-grip.nvim",
-  "description": "Edit database tables like Vim buffers. Staged mutations + live SQL preview, transaction undo, schema browser + ER diagrams + DDL, FK navigation, cross-database federation, data profiling, SQL notebooks, AI SQL via Anthropic/OpenAI/Gemini/Ollama, Parquet/CSV/remote files. PostgreSQL · SQLite · MySQL · DuckDB · MotherDuck",
-  "description_ja": "Vimバッファのようにデータベーステーブルを編集する。ステージング済みミューテーションとライブSQLプレビュー、トランザクションアンドゥ、スキーマブラウザ・ERダイアグラム・DDL、FK ナビゲーション、クロスデータベース連携、データプロファイリング、SQLノートブック、Anthropic/OpenAI/Gemini/Ollama経由のAI SQL、Parquet/CSV/リモートファイル対応。PostgreSQL・SQLite・MySQL・DuckDB・MotherDuck",
+  "description": "Dadbod Grip turns database tables into editable Vim buffers, with schema browsing, staged mutations, generated SQL, relationship navigation, and cross-database federation inside Neovim.",
+  "description_ja": "",
   "url": "https://github.com/joryeugene/dadbod-grip.nvim",
   "homepage_url": "https://jorypestorious.com/dadbod-grip-web/",
   "language": "Lua",
@@ -29,13 +29,13 @@
     "sql",
     "sqlite"
   ],
-  "star_count": 166,
-  "fork_count": 6,
+  "star_count": 168,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T19:43:09Z",
-  "updated_at": "2026-08-27T12:20:30Z",
-  "pushed_at": "2026-07-31T20:28:47Z",
+  "updated_at": "2026-08-30T21:13:55Z",
+  "pushed_at": "2026-08-30T21:13:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +405,10 @@
     {
       "date": "2026-08-28",
       "stars": 166
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 168
     }
   ]
 }

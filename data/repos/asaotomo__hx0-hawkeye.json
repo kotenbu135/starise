@@ -3,32 +3,37 @@
   "owner": "asaotomo",
   "name": "hx0-hawkeye",
   "full_name": "asaotomo/hx0-hawkeye",
-  "description": "一个轻量级浏览器抓包与安全分析扩展，在浏览器侧边栏中即可完成抓包、拦截、修改、重放、规则检测与AI辅助分析的完整工作流。（A lightweight browser extension for traffic capture and security analysis, enabling capture, interception, modification, replay, rule-based detection, and AI-assisted analysis—all from the browser sidebar.）",
+  "description": "面向 Chrome/Firefox 的轻量级浏览器安全工作台：集成抓包、拦截改包、重放/Fuzz、敏感信息检测、HawkEye MCP 与浏览器级 Agent。（A lightweight Chrome/Firefox browser security workbench for capture, interception, replay/Fuzz, sensitive-data detection, HawkEye MCP, and browser-level Agent workflows.）",
   "description_ja": "",
   "url": "https://github.com/asaotomo/Hx0-HawkEye",
   "homepage_url": "https://www.hx0.store/products/hawkeye",
   "language": "",
   "license": "",
   "topics": [
+    "agentic-ai",
     "ai",
+    "ai-agent",
+    "browser-automation",
     "browser-extension",
     "chrome-extension",
     "dark-link",
     "firefox-extension",
     "fuzzing",
+    "mcp-server",
+    "model-context-protocol",
     "security-tools",
     "sensitive-data",
     "traffic-analysis",
     "web-security",
     "webextension"
   ],
-  "star_count": 62,
+  "star_count": 63,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T13:28:34Z",
-  "updated_at": "2026-08-28T09:41:52Z",
-  "pushed_at": "2026-08-28T09:41:45Z",
+  "updated_at": "2026-08-30T06:20:09Z",
+  "pushed_at": "2026-08-30T06:19:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -354,6 +359,10 @@
     {
       "date": "2026-08-28",
       "stars": 62
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 63
     }
   ]
 }

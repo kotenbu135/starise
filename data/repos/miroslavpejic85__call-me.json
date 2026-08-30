@@ -3,40 +3,41 @@
   "owner": "miroslavpejic85",
   "name": "call-me",
   "full_name": "miroslavpejic85/call-me",
-  "description": "🟢 WebRTC click-to-call platform for instant real-time communication in a persistent shared room with unlimited participants where users can join and call each other instantly. No signup or setup required.",
-  "description_ja": "🟢 参加者数無制限の永続共有ルームで即時リアルタイム通話ができる WebRTC クリック発信プラットフォーム。ユーザーはすぐに参加して通話可能。サインアップや設定不要。",
+  "description": "📞 Open-source, self-hosted WebRTC click-to-call solution for websites. Add a video Call-Me button and let visitors instantly connect with your team through browser-based video communication. Ideal for customer support, sales, consultations, and remote assistance.",
+  "description_ja": "",
   "url": "https://github.com/miroslavpejic85/call-me",
   "homepage_url": "https://cme.mirotalk.com",
   "language": "JavaScript",
   "license": "AGPL-3.0",
   "topics": [
     "click-to-call",
-    "decentralized",
-    "docker",
-    "docker-image",
-    "e2ee",
-    "javascript",
+    "customer-communication",
+    "customer-support",
+    "javascipt",
+    "live-chat",
     "live-streaming",
-    "livechat",
-    "nodejs",
+    "mirotalk",
     "open-source",
     "peer-to-peer",
     "real-time-communication",
     "self-hosted",
+    "video-call",
+    "video-chat",
+    "video-communication",
     "video-conferencing",
+    "video-widget",
     "web-app",
-    "webdev",
-    "webrtc",
-    "webrtc-signaling",
-    "websockets"
+    "web-development",
+    "webrtc-call",
+    "website-integration"
   ],
   "star_count": 764,
   "fork_count": 88,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-12T18:03:13Z",
-  "updated_at": "2026-08-27T14:04:00Z",
-  "pushed_at": "2026-08-27T13:55:19Z",
+  "updated_at": "2026-08-30T11:22:11Z",
+  "pushed_at": "2026-08-30T11:22:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -409,6 +410,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 764
+    },
+    {
+      "date": "2026-08-30",
       "stars": 764
     }
   ]

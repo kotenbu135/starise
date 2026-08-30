@@ -17,14 +17,13 @@
     "chacha20-poly1305",
     "crypto",
     "cryptography",
-    "fips203",
-    "hmac",
     "hpke",
     "kem",
     "key-committing",
     "ml-dsa",
     "ml-kem",
     "orion",
+    "post-quantum-cryptography",
     "pqc",
     "pure-rust",
     "rust",
@@ -36,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-02-06T17:45:01Z",
-  "updated_at": "2026-08-21T06:22:54Z",
-  "pushed_at": "2026-08-28T12:32:48Z",
+  "updated_at": "2026-08-30T20:39:11Z",
+  "pushed_at": "2026-08-30T20:45:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +409,10 @@
     },
     {
       "date": "2026-08-28",
+      "stars": 722
+    },
+    {
+      "date": "2026-08-30",
       "stars": 722
     }
   ]

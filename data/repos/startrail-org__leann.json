@@ -3,8 +3,8 @@
   "owner": "startrail-org",
   "name": "leann",
   "full_name": "startrail-org/leann",
-  "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
-  "description_ja": "【MLsys2026】LEANN によるあらゆるデータへの RAG。個人デバイス上でストレージを 97% 削減しながら、高速・高精度・完全プライベートな RAG アプリを実現。",
+  "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+  "description_ja": "",
   "url": "https://github.com/StarTrail-org/LEANN",
   "homepage_url": "https://arxiv.org/abs/2506.08276",
   "language": "Python",
@@ -27,13 +27,13 @@
     "vector-search",
     "vectors"
   ],
-  "star_count": 12842,
-  "fork_count": 1153,
+  "star_count": 12845,
+  "fork_count": 1155,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-09T06:52:59Z",
-  "updated_at": "2026-08-28T20:27:20Z",
-  "pushed_at": "2026-08-25T18:44:24Z",
+  "updated_at": "2026-08-30T09:55:58Z",
+  "pushed_at": "2026-08-30T02:40:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -407,6 +407,10 @@
     {
       "date": "2026-08-28",
       "stars": 12842
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 12845
     }
   ]
 }

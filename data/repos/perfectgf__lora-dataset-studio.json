@@ -3,7 +3,7 @@
   "owner": "perfectgf",
   "name": "lora-dataset-studio",
   "full_name": "perfectgf/lora-dataset-studio",
-  "description": "Self-hosted, one-tab workbench for the whole LoRA lifecycle: build Character / Concept / Style datasets (generate from a reference, scrape, or triage a huge dump in the Image Bank), curate, caption, clean watermarks, train locally or in the cloud across five model families, then rank checkpoints in a Test Studio. Free \u0026 local.",
+  "description": "Self-hosted, one-tab workbench for the whole training lifecycle: build Character/Concept/Style datasets (generate, scrape, or triage a big dump in the Image Bank), curate, caption, clean watermarks, then train LoRAs on five model families or a full Krea 2 model on a rented GPU, and rank checkpoints in a Test Studio. Free \u0026 local.",
   "description_ja": "",
   "url": "https://github.com/perfectgf/lora-dataset-studio",
   "homepage_url": "",
@@ -13,18 +13,21 @@
     "ai-toolkit",
     "comfyui",
     "dataset",
+    "diffusion-models",
+    "fine-tuning",
     "flask",
+    "full-model-training",
     "lora",
     "react",
     "stable-diffusion"
   ],
-  "star_count": 223,
-  "fork_count": 32,
+  "star_count": 238,
+  "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-05T13:43:17Z",
-  "updated_at": "2026-08-29T04:02:30Z",
-  "pushed_at": "2026-08-29T03:08:54Z",
+  "updated_at": "2026-08-30T22:26:19Z",
+  "pushed_at": "2026-08-30T22:26:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +101,10 @@
     {
       "date": "2026-08-28",
       "stars": 223
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 238
     }
   ]
 }

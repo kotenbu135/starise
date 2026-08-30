@@ -3,20 +3,36 @@
   "owner": "laihiujin",
   "name": "prism",
   "full_name": "laihiujin/prism",
-  "description": "AI协助批量定时自动化发布/上传至多个平台，支持平台「抖音/小红书/快手/视频号/B站/Youtube/Tiktok」，支持已发布抖音/B站账号的视频数据回收；逐步实现AI自动化矩阵发布上传全流程。",
+  "description": "AI 驱动的多平台内容自动发布与矩阵分发系统，支持抖音、小红书、快手、视频号、B站、YouTube、TikTok；提供多账号管理、素材管理、定时发布、任务调度、执行监控、数据回收与 AI 内容编排。",
   "description_ja": "",
   "url": "https://github.com/Laihiujin/Prism",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 41,
+  "topics": [
+    "auto-publish",
+    "automation",
+    "content-publishing",
+    "douyin",
+    "matrix-publishing",
+    "multi-account",
+    "multi-platform",
+    "patchright",
+    "scheduled-publishing",
+    "scheduler",
+    "self-hosted",
+    "social-media-automation",
+    "tiktok",
+    "xiaohongshu",
+    "youtube"
+  ],
+  "star_count": 44,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-19T07:10:55Z",
-  "updated_at": "2026-08-26T13:09:36Z",
-  "pushed_at": "2026-08-26T03:24:22Z",
+  "updated_at": "2026-08-30T13:00:59Z",
+  "pushed_at": "2026-08-30T10:09:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -334,6 +350,10 @@
     {
       "date": "2026-08-28",
       "stars": 41
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 44
     }
   ]
 }

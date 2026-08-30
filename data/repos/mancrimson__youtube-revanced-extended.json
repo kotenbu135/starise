@@ -3,7 +3,7 @@
   "owner": "mancrimson",
   "name": "youtube-revanced-extended",
   "full_name": "mancrimson/youtube-revanced-extended",
-  "description": "Automated builds of YouTube \u0026 YT Music (ReVanced Extended (anddea) \u0026 Morphe + Yandex VoT) for Magisk/KernelSU and Non-Root (Obtainium).",
+  "description": "Automated builds of YouTube \u0026 YT Music (ReVanced Extended (anddea) \u0026 Morphe + Yandex VoT) for NonRoot (Obtainium) and Root (Magisk/KernelSU module).",
   "description_ja": "",
   "url": "https://github.com/MANCrimSon/YouTube-ReVanced-Extended",
   "homepage_url": "",
@@ -11,7 +11,9 @@
   "license": "GPL-3.0",
   "topics": [
     "anddea",
+    "magisk-module",
     "morphe",
+    "obtainium",
     "revanced",
     "revanced-extended",
     "rvx",
@@ -19,13 +21,13 @@
     "youtube",
     "youtube-music"
   ],
-  "star_count": 435,
+  "star_count": 438,
   "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-01T07:14:09Z",
-  "updated_at": "2026-08-29T02:25:37Z",
-  "pushed_at": "2026-08-28T19:33:31Z",
+  "updated_at": "2026-08-30T16:51:45Z",
+  "pushed_at": "2026-08-30T16:51:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -395,6 +397,10 @@
     {
       "date": "2026-08-28",
       "stars": 435
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 438
     }
   ]
 }
