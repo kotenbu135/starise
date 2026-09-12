@@ -3,7 +3,7 @@
   "owner": "celestoai",
   "name": "smolvm",
   "full_name": "celestoai/smolvm",
-  "description": "Open-source AI sandbox infrastructure with unified API for VMMs -- Firecracker, QEMU and libkrun.",
+  "description": "Secure and persistent computer for AI agents -- built for long-running agents, build your own Grokbot, and Muse.",
   "description_ja": "",
   "url": "https://github.com/CelestoAI/SmolVM",
   "homepage_url": "https://docs.celesto.ai/smolvm",
@@ -17,13 +17,13 @@
     "openclaw",
     "sandbox"
   ],
-  "star_count": 861,
-  "fork_count": 70,
+  "star_count": 899,
+  "fork_count": 73,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T00:31:08Z",
-  "updated_at": "2026-08-30T20:59:58Z",
-  "pushed_at": "2026-08-27T07:59:50Z",
+  "updated_at": "2026-09-11T17:02:57Z",
+  "pushed_at": "2026-09-10T17:11:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -273,6 +273,10 @@
     {
       "date": "2026-08-30",
       "stars": 861
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 899
     }
   ]
 }

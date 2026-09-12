@@ -3,10 +3,10 @@
   "owner": "pelican",
   "name": "plugins",
   "full_name": "pelican/plugins",
-  "description": "A curated list of plugins for the Pelican Panel",
-  "description_ja": "Pelican Panel 向けプラグインのキュレーションリスト",
+  "description": "A list of first party plugins for the Pelican Panel",
+  "description_ja": "",
   "url": "https://github.com/pelican/plugins",
-  "homepage_url": "https://pelican.dev",
+  "homepage_url": "https://hub.pelican.dev/plugins",
   "language": "PHP",
   "license": "GPL-3.0",
   "topics": [
@@ -18,13 +18,13 @@
     "php",
     "plugins"
   ],
-  "star_count": 116,
-  "fork_count": 48,
+  "star_count": 115,
+  "fork_count": 49,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-03T19:15:58Z",
-  "updated_at": "2026-08-17T07:34:25Z",
-  "pushed_at": "2026-08-17T07:33:35Z",
+  "updated_at": "2026-09-07T11:41:10Z",
+  "pushed_at": "2026-09-07T11:41:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +398,10 @@
     {
       "date": "2026-08-30",
       "stars": 116
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 115
     }
   ]
 }

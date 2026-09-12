@@ -1,0 +1,35 @@
+{
+  "repo_id": "R_kgDOTJQ-yQ",
+  "owner": "asdhabdua",
+  "name": "bilibili-video-notes-skill",
+  "full_name": "asdhabdua/bilibili-video-notes-skill",
+  "description": "Bilibili Video Notes 是一个从 B 站教育/讲课视频自动生成带截图的 DOCX 学习笔记的工具。它通过下载视频与 AI 字幕、全覆盖抽帧、OCR + 感知哈希去重、AI 视觉打分精选、提取图中关键内容，最终融合生成结构化的 DOCX 笔记。包括且不仅限于支持 Hermes Agent、Claude Code、Codex CLI 等多 Agent 直接调用，也支持任何 OpenAI 兼容格式的多模态视觉 API。可用于本地视频，适用于考研党等网课人群，帮助大家解放做笔记的双手，只需认真听课即可。",
+  "description_ja": "",
+  "url": "https://github.com/asdhabdua/bilibili-video-notes-skill",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "",
+  "topics": [
+    "bilibili",
+    "claude-code",
+    "codex",
+    "hermes-agent",
+    "kaoyan",
+    "study-notes",
+    "video-notes"
+  ],
+  "star_count": 46,
+  "fork_count": 6,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-30T07:35:15Z",
+  "updated_at": "2026-09-11T07:00:00Z",
+  "pushed_at": "2026-07-07T09:31:38Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-11",
+      "stars": 46
+    }
+  ]
+}

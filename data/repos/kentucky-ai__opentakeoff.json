@@ -3,10 +3,10 @@
   "owner": "kentucky-ai",
   "name": "opentakeoff",
   "full_name": "kentucky-ai/opentakeoff",
-  "description": "Open-source (Apache-2.0) PDF takeoff for construction \u0026 flooring — the first engine an AI agent drives natively over MCP, not bolted on. One-click room detection, materials + quantities, built for preconstruction. Runs entirely in your browser.",
+  "description": "Open-source (Apache-2.0) PDF takeoff for construction \u0026 flooring — the first engine an AI agent drives natively over MCP, not bolted on. Rooms measured on the wall faces, symbol sweeps, materials + quantities with full provenance, built for preconstruction. Runs entirely in your browser.",
   "description_ja": "",
   "url": "https://github.com/Kentucky-ai/opentakeoff",
-  "homepage_url": "https://opentakeoff.netlify.app",
+  "homepage_url": "https://opentakeoff.kentucky-ai.com",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
@@ -31,13 +31,13 @@
     "self-hosted",
     "takeoff"
   ],
-  "star_count": 102,
-  "fork_count": 35,
+  "star_count": 124,
+  "fork_count": 47,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-17T02:54:38Z",
-  "updated_at": "2026-08-30T19:28:57Z",
-  "pushed_at": "2026-08-30T01:34:20Z",
+  "updated_at": "2026-09-11T22:27:52Z",
+  "pushed_at": "2026-09-11T22:27:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +91,10 @@
     {
       "date": "2026-08-30",
       "stars": 102
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 124
     }
   ]
 }

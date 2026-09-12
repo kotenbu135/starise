@@ -6,7 +6,7 @@
   "description": "Production-ready multi-agent orchestration engine built on Google ADK. Database-driven agent config, 50+ LLM providers, MCP protocol, persistent memory, web dashboard, RBAC.",
   "description_ja": "Google ADK上に構築された本番運用対応のマルチエージェントオーケストレーションエンジン。DBドリブンのエージェント設定、50以上のLLMプロバイダ、MCPプロトコル、永続メモリ、Webダッシュボード、RBACを搭載",
   "url": "https://github.com/antiv/mate",
-  "homepage_url": "",
+  "homepage_url": "https://antonijevic.rs/mate",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -23,13 +23,13 @@
     "python",
     "self-hosted"
   ],
-  "star_count": 88,
-  "fork_count": 8,
+  "star_count": 92,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-27T21:02:40Z",
-  "updated_at": "2026-08-29T17:31:16Z",
-  "pushed_at": "2026-08-29T17:31:10Z",
+  "updated_at": "2026-09-07T19:54:44Z",
+  "pushed_at": "2026-09-08T19:46:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +403,10 @@
     {
       "date": "2026-08-30",
       "stars": 88
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 92
     }
   ]
 }

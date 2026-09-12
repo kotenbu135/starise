@@ -6,7 +6,7 @@
   "description": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
   "description_ja": "大規模モデル（LLM、VLM、AIGC）の効率的な評価とパフォーマンスベンチマークのための合理化・カスタマイズ可能なフレームワーク",
   "url": "https://github.com/modelscope/evalscope",
-  "homepage_url": "https://evalscope.readthedocs.io/en/latest/",
+  "homepage_url": "https://modelscope.github.io/evalscope/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -16,13 +16,13 @@
     "rag",
     "vlm"
   ],
-  "star_count": 3334,
-  "fork_count": 473,
+  "star_count": 3406,
+  "fork_count": 481,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-07T06:10:49Z",
-  "updated_at": "2026-08-30T12:13:04Z",
-  "pushed_at": "2026-08-30T06:28:34Z",
+  "updated_at": "2026-09-11T18:15:56Z",
+  "pushed_at": "2026-09-11T08:53:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -400,6 +400,10 @@
     {
       "date": "2026-08-30",
       "stars": 3334
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 3406
     }
   ]
 }

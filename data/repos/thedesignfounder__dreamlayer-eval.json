@@ -3,10 +3,10 @@
   "owner": "thedesignfounder",
   "name": "dreamlayer-eval",
   "full_name": "thedesignfounder/dreamlayer-eval",
-  "description": "Benchmark diffusion models faster. Automate evals, seeds, and metrics for reproducible results.",
-  "description_ja": "拡散モデルのベンチマークを高速化。評価・シード・メトリクスを自動化して再現可能な結果を実現。",
+  "description": "DreamLayer Eval: open-source benchmarking for image and video diffusion models. Automate prompts, seeds, and metrics for reproducible results. A research project from DreamLayer AI (dreamlayer.io).",
+  "description_ja": "",
   "url": "https://github.com/TheDesignFounder/DreamLayer-Eval",
-  "homepage_url": "https://www.dreamlayer.io/",
+  "homepage_url": "https://dreamlayer.io/opensource",
   "language": "Python",
   "license": "GPL-3.0",
   "topics": [
@@ -22,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-22T03:31:23Z",
-  "updated_at": "2026-07-30T16:35:25Z",
-  "pushed_at": "2026-04-19T01:42:18Z",
+  "updated_at": "2026-09-10T03:51:09Z",
+  "pushed_at": "2026-09-09T08:52:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -400,6 +400,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 411
+    },
+    {
+      "date": "2026-09-11",
       "stars": 411
     }
   ]

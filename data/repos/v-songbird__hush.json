@@ -3,27 +3,25 @@
   "owner": "v-songbird",
   "name": "hush",
   "full_name": "v-songbird/hush",
-  "description": "🤫 Token-lean sessions at the harness level. An easy to grasp output style, output-shrinking hooks, and log compression cut both input and output tokens.",
+  "description": "Quieter sessions for Claude Code: less narration, shorter tool output and concise answers focused on the result.",
   "description_ja": "",
   "url": "https://github.com/V-Songbird/hush",
   "homepage_url": "https://github.com/V-Songbird/foundry",
-  "language": "JavaScript",
+  "language": "",
   "license": "MIT",
   "topics": [
+    "adhd",
     "agent-skills",
     "ai",
     "anthropic",
     "claude",
     "claude-code",
     "claude-code-plugin",
-    "concise",
-    "cost",
+    "claude-code-skill",
+    "claude-skills",
     "developer-tools",
-    "development",
-    "enginering",
     "hooks",
     "llm",
-    "opus",
     "opus-5",
     "output-style",
     "plugin",
@@ -31,13 +29,13 @@
     "token-optimization",
     "tokens"
   ],
-  "star_count": 45,
+  "star_count": 49,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-07T08:55:36Z",
-  "updated_at": "2026-08-30T19:44:04Z",
-  "pushed_at": "2026-08-30T19:43:38Z",
+  "updated_at": "2026-09-11T20:50:56Z",
+  "pushed_at": "2026-09-10T21:11:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +97,10 @@
     {
       "date": "2026-08-30",
       "stars": 45
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 49
     }
   ]
 }

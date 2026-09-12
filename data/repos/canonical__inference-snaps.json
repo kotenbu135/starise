@@ -9,14 +9,21 @@
   "homepage_url": "https://documentation.ubuntu.com/inference-snaps",
   "language": "",
   "license": "",
-  "topics": [],
+  "topics": [
+    "ai",
+    "inference",
+    "llm",
+    "local-ai",
+    "model-serving",
+    "snap"
+  ],
   "star_count": 49,
-  "fork_count": 5,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-10T08:28:26Z",
-  "updated_at": "2026-08-26T17:16:11Z",
-  "pushed_at": "2026-08-26T13:38:00Z",
+  "updated_at": "2026-09-10T12:12:18Z",
+  "pushed_at": "2026-09-10T12:11:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -25,6 +32,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 49
+    },
+    {
+      "date": "2026-09-11",
       "stars": 49
     }
   ]

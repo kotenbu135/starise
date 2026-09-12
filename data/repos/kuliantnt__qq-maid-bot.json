@@ -3,26 +3,40 @@
   "owner": "kuliantnt",
   "name": "qq-maid-bot",
   "full_name": "kuliantnt/qq-maid-bot",
-  "description": "通用女仆机器人本地版 Rust 服务",
+  "description": "轻量、自托管的多入口 AI Agent 机器人｜QQ 官方 / OneBot 11 / NapCat / 微信｜Rust｜Memory / RAG / Todo / Tool Calling",
   "description_ja": "",
   "url": "https://github.com/kuliantnt/qq-maid-bot",
   "homepage_url": "",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "ai-agents",
+    "chatbot",
+    "llm",
     "low-memory",
+    "memory",
+    "napcat",
+    "napcatqq",
+    "onebot-v11",
     "onebot11",
     "qq-bot",
     "rag",
+    "rag-chatbot",
+    "rust",
+    "self-hosted",
+    "todo",
+    "todolist",
+    "tool-calling",
+    "wechat-bot",
     "wxbot"
   ],
-  "star_count": 115,
-  "fork_count": 21,
+  "star_count": 118,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-17T12:26:12Z",
-  "updated_at": "2026-08-30T13:13:09Z",
-  "pushed_at": "2026-08-30T13:24:39Z",
+  "updated_at": "2026-09-10T12:13:13Z",
+  "pushed_at": "2026-09-11T02:44:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -180,6 +194,10 @@
     {
       "date": "2026-08-30",
       "stars": 115
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 118
     }
   ]
 }

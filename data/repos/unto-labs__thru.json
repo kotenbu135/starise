@@ -3,20 +3,30 @@
   "owner": "unto-labs",
   "name": "thru",
   "full_name": "unto-labs/thru",
-  "description": "",
+  "description": "Thru is an L1 blockchain for C, Rust programs, built on RISC-V.",
   "description_ja": "",
   "url": "https://github.com/Unto-Labs/thru",
-  "homepage_url": "",
+  "homepage_url": "https://thru.org/docs/",
   "language": "TypeScript",
-  "license": "NOASSERTION",
-  "topics": [],
+  "license": "Apache-2.0",
+  "topics": [
+    "blockchain",
+    "c",
+    "crypto",
+    "layer-1",
+    "llvm",
+    "riscv",
+    "rust",
+    "sdk",
+    "smart-contracts"
+  ],
   "star_count": 29,
-  "fork_count": 16,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-15T01:44:38Z",
-  "updated_at": "2026-08-29T03:33:42Z",
-  "pushed_at": "2026-08-25T19:40:17Z",
+  "updated_at": "2026-09-10T19:05:30Z",
+  "pushed_at": "2026-09-10T19:05:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +59,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 29
+    },
+    {
+      "date": "2026-09-11",
       "stars": 29
     }
   ]

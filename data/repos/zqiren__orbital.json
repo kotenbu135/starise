@@ -10,21 +10,22 @@
   "language": "Python",
   "license": "GPL-3.0",
   "topics": [
-    "acp",
+    "agent",
+    "agent-framework",
     "agent-management",
+    "agent-memory",
+    "agent-orchestration",
+    "agents",
     "ai-agent",
-    "autonomous-agents",
-    "claude-code",
-    "open-source",
-    "sandbox"
+    "autonomous-agents"
   ],
-  "star_count": 241,
+  "star_count": 259,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T18:06:42Z",
-  "updated_at": "2026-08-30T12:44:45Z",
-  "pushed_at": "2026-08-30T03:27:49Z",
+  "updated_at": "2026-09-10T03:40:04Z",
+  "pushed_at": "2026-09-10T05:08:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -206,6 +207,10 @@
     {
       "date": "2026-08-30",
       "stars": 241
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 259
     }
   ]
 }

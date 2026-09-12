@@ -3,29 +3,37 @@
   "owner": "chess-analysis-mcp",
   "name": "tintins-chess-analysis",
   "full_name": "chess-analysis-mcp/tintins-chess-analysis",
-  "description": "Stockfish-powered chess coach that explains your mistakes in plain English.",
+  "description": "Stockfish + LLM chess coach: an MCP server and web board that explain your mistakes in plain English",
   "description_ja": "",
   "url": "https://github.com/Chess-analysis-mcp/tintins-chess-analysis",
-  "homepage_url": "",
+  "homepage_url": "https://chess-analysis-mcp.github.io/tintins-chess-analysis/",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "ai",
+    "ai-coach",
     "chess",
+    "chess-ai",
     "chess-analysis",
+    "chess-coach",
     "chess-engine",
+    "chess-training",
     "claude",
     "fastapi",
+    "game-review",
+    "llm",
     "mcp",
+    "mcp-server",
     "model-context-protocol",
     "python",
     "stockfish"
   ],
-  "star_count": 38,
-  "fork_count": 9,
+  "star_count": 43,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-15T11:56:27Z",
-  "updated_at": "2026-08-30T01:29:23Z",
+  "updated_at": "2026-09-10T08:43:38Z",
   "pushed_at": "2026-07-18T16:55:49Z",
   "deleted_at": "",
   "star_history": [
@@ -140,6 +148,10 @@
     {
       "date": "2026-08-30",
       "stars": 38
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 43
     }
   ]
 }

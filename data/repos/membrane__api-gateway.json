@@ -3,8 +3,8 @@
   "owner": "membrane",
   "name": "api-gateway",
   "full_name": "membrane/api-gateway",
-  "description": "Truly open source API gateway with native OpenAPI support. Written in Java, it is easily extensible, supports legacy XML and SOAP, and is optimized for container deployments.",
-  "description_ja": "ネイティブ OpenAPI サポートを備えた真のオープンソース API ゲートウェイ。Java 製で容易に拡張可能。レガシー XML・SOAP をサポートし、コンテナデプロイに最適化。",
+  "description": "Java-based API Gateway bridging legacy and modern APIs with WSDL-to-OpenAPI, SOAP-to-REST, XML, OAuth2, and GraphQL.",
+  "description_ja": "",
   "url": "https://github.com/membrane/api-gateway",
   "homepage_url": "https://membrane-api.io",
   "language": "Java",
@@ -15,15 +15,18 @@
     "graphql",
     "oauth2",
     "openapi",
-    "rest"
+    "rest",
+    "soap",
+    "wsdl",
+    "xml"
   ],
-  "star_count": 638,
-  "fork_count": 177,
+  "star_count": 640,
+  "fork_count": 178,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-10-22T09:39:24Z",
-  "updated_at": "2026-08-30T12:46:28Z",
-  "pushed_at": "2026-08-30T20:23:03Z",
+  "updated_at": "2026-09-11T13:24:10Z",
+  "pushed_at": "2026-09-11T18:57:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -401,6 +404,10 @@
     {
       "date": "2026-08-30",
       "stars": 638
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 640
     }
   ]
 }

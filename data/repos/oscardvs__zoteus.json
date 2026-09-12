@@ -3,10 +3,10 @@
   "owner": "oscardvs",
   "name": "zoteus",
   "full_name": "oscardvs/zoteus",
-  "description": "⚡ The everything Zotero MCP server: complete Zotero Web API v3 + desktop local API for Claude \u0026 any MCP client. Search, safe writes, add-by-DOI, CSL citations, hybrid semantic search, and a scholarly-context graph. TypeScript, local-first.",
+  "description": "MCP server for Zotero: search, citations, add by DOI, safe writes and semantic search for Claude and any MCP client. TypeScript, local-first.",
   "description_ja": "",
   "url": "https://github.com/oscardvs/zoteus",
-  "homepage_url": "https://zoteus.com/",
+  "homepage_url": "https://zoteus.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -27,13 +27,13 @@
     "zotero",
     "zotero-api"
   ],
-  "star_count": 29,
-  "fork_count": 2,
+  "star_count": 35,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-29T11:50:18Z",
-  "updated_at": "2026-08-29T20:57:46Z",
-  "pushed_at": "2026-08-29T12:16:39Z",
+  "updated_at": "2026-09-11T22:08:51Z",
+  "pushed_at": "2026-09-10T12:11:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +43,10 @@
     {
       "date": "2026-08-30",
       "stars": 29
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 35
     }
   ]
 }

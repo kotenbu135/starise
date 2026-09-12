@@ -3,8 +3,8 @@
   "owner": "raia-live",
   "name": "amfs",
   "full_name": "raia-live/amfs",
-  "description": "Git for agent memory. Branches, diffs, PRs, and rollback for what your agents know.",
-  "description_ja": "エージェントのメモリのためのGit。エージェントが知っていることに対するブランチ、差分、PR、ロールバック。",
+  "description": "Continual Learning for AI agents, helping your agents self-improve with every run",
+  "description_ja": "",
   "url": "https://github.com/raia-live/amfs",
   "homepage_url": "https://www.sense-lab.ai",
   "language": "Python",
@@ -26,13 +26,13 @@
     "multi-agent",
     "multi-agent-systems"
   ],
-  "star_count": 74,
-  "fork_count": 7,
+  "star_count": 76,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T07:00:50Z",
-  "updated_at": "2026-08-30T00:50:41Z",
-  "pushed_at": "2026-08-30T00:53:38Z",
+  "updated_at": "2026-09-11T05:35:18Z",
+  "pushed_at": "2026-09-11T23:01:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +402,10 @@
     {
       "date": "2026-08-30",
       "stars": 74
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 76
     }
   ]
 }

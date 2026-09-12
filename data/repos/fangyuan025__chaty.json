@@ -3,7 +3,7 @@
   "owner": "fangyuan025",
   "name": "chaty",
   "full_name": "fangyuan025/chaty",
-  "description": "Private, on-device AI desktop app — GGUF (llama.cpp) \u0026 MLX, with Qwen3.8's native reasoning-effort ladder wired in as a real control. Local coding agent, RAG knowledge base, Deep Research, vision and voice. 100% offline, no account, no telemetry. Windows \u0026 macOS.",
+  "description": "Private, on-device AI desktop app — GGUF (llama.cpp) \u0026 MLX, running Muse-Glimmer and Qwen3.8 with their native reasoning-effort ladders wired in as real controls. Local coding agent, RAG knowledge base, Deep Research, vision and voice. 100% offline, no account, no telemetry. Windows \u0026 macOS.",
   "description_ja": "",
   "url": "https://github.com/Fangyuan025/Chaty",
   "homepage_url": "https://chaty.ca",
@@ -21,8 +21,8 @@
     "local-llm",
     "mcp",
     "mlx",
-    "model-context-protocol",
     "multimodal",
+    "muse-glimmer",
     "offline",
     "privacy",
     "qwen",
@@ -31,13 +31,13 @@
     "tauri",
     "voice-assistant"
   ],
-  "star_count": 40,
+  "star_count": 42,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-04T20:07:22Z",
-  "updated_at": "2026-08-29T21:08:08Z",
-  "pushed_at": "2026-08-29T21:07:58Z",
+  "updated_at": "2026-09-11T01:49:05Z",
+  "pushed_at": "2026-09-11T01:49:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-08-30",
       "stars": 40
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 42
     }
   ]
 }

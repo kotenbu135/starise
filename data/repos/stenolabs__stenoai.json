@@ -3,7 +3,7 @@
   "owner": "stenolabs",
   "name": "stenoai",
   "full_name": "stenolabs/stenoai",
-  "description": "Steno is the highly secure privacy-first AI notepad \u0026 notetaker for all your confidential conversations. On Windows \u0026 MacOS. For government and defence sectors.",
+  "description": "StenoAI is the secure privacy-first AI notepad \u0026 notetaker for confidential conversations in government \u0026 defence sectors. On Windows \u0026 MacOS.",
   "description_ja": "",
   "url": "https://github.com/stenolabs/stenoai",
   "homepage_url": "https://stenoai.co/",
@@ -17,11 +17,6 @@
     "gemma4",
     "gov-tech",
     "government",
-    "healthcare",
-    "healthcare-ai",
-    "legal",
-    "legal-ai",
-    "legal-tech",
     "localllm",
     "meeting-minutes",
     "meeting-notes",
@@ -29,13 +24,13 @@
     "sovereign-ai",
     "windows"
   ],
-  "star_count": 1294,
-  "fork_count": 175,
+  "star_count": 1310,
+  "fork_count": 178,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-19T19:26:28Z",
-  "updated_at": "2026-08-30T21:53:31Z",
-  "pushed_at": "2026-08-30T08:18:00Z",
+  "updated_at": "2026-09-10T13:39:15Z",
+  "pushed_at": "2026-09-08T05:47:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -377,6 +372,10 @@
     {
       "date": "2026-08-30",
       "stars": 1294
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1310
     }
   ]
 }

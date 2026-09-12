@@ -3,28 +3,29 @@
   "owner": "s2b-dev",
   "name": "smart-second-brain",
   "full_name": "s2b-dev/smart-second-brain",
-  "description": "An Obsidian plugin to interact with your privacy focused AI-Assistant making your second brain even smarter!",
-  "description_ja": "プライバシー重視のAIアシスタントと連携するObsidianプラグイン。セカンドブレインをさらに賢くします。",
+  "description": "A free, open-source Obsidian plugin that makes your vault smarter: better search, an interactive knowledge graph, and an AI assistant that knows your notes.",
+  "description_ja": "",
   "url": "https://github.com/s2b-dev/smart-second-brain",
-  "homepage_url": "",
+  "homepage_url": "https://smartsecondbrain.dev",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "ai",
-    "chatgpt",
-    "embeddings",
+    "ai-agents",
+    "local-first",
+    "obsidian",
     "obsidian-md",
     "obsidian-plugin",
-    "ollama",
-    "rag"
+    "rag",
+    "semantic-search"
   ],
-  "star_count": 1214,
-  "fork_count": 113,
+  "star_count": 1252,
+  "fork_count": 115,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-02T12:57:54Z",
-  "updated_at": "2026-08-30T15:25:07Z",
-  "pushed_at": "2026-08-27T12:03:26Z",
+  "updated_at": "2026-09-11T14:16:21Z",
+  "pushed_at": "2026-09-11T21:23:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +403,10 @@
     {
       "date": "2026-08-30",
       "stars": 1214
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1252
     }
   ]
 }

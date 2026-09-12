@@ -3,34 +3,33 @@
   "owner": "software-mansion",
   "name": "react-native-executorch",
   "full_name": "software-mansion/react-native-executorch",
-  "description": "Declarative way to run AI models in React Native on device, powered by ExecuTorch.",
-  "description_ja": "ExecuTorch を基盤とした、React Native のデバイス上で AI モデルを実行する宣言的 API。",
+  "description": "High-performance, privacy-first on-device AI inference library for React Native, powered by PyTorch's ExecuTorch runtime",
+  "description_ja": "",
   "url": "https://github.com/software-mansion/react-native-executorch",
   "homepage_url": "http://docs.swmansion.com/react-native-executorch/",
-  "language": "C++",
+  "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
+    "ai",
     "computer-vision",
     "executorch",
-    "image-embeddings",
     "llm-inference",
+    "mobile-inference",
     "object-detection",
     "ocr",
     "on-device-ai",
     "react-native-ai",
-    "segmentation",
     "speech-to-text",
-    "text-embeddings",
     "text-to-speech",
     "vlm"
   ],
-  "star_count": 1702,
-  "fork_count": 96,
+  "star_count": 1730,
+  "fork_count": 98,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-16T10:58:16Z",
-  "updated_at": "2026-08-30T19:39:56Z",
-  "pushed_at": "2026-08-30T15:51:21Z",
+  "updated_at": "2026-09-11T19:12:25Z",
+  "pushed_at": "2026-09-11T19:38:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +403,10 @@
     {
       "date": "2026-08-30",
       "stars": 1702
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1730
     }
   ]
 }

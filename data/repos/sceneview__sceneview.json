@@ -3,41 +3,41 @@
   "owner": "sceneview",
   "name": "sceneview",
   "full_name": "sceneview/sceneview",
-  "description": "3D \u0026 AR SDK for Android (Jetpack Compose + Filament), iOS (SwiftUI + RealityKit), and Web. AI-first: llms.txt, MCP server, Copilot/Cursor rules. The only Compose-native 3D library.",
-  "description_ja": "Android（Jetpack Compose + Filament）、iOS（SwiftUI + RealityKit）、Web向け3D＆AR SDK。AIファースト設計：llms.txt、MCPサーバー、Copilot/Cursorルール対応。Composeネイティブ唯一の3Dライブラリ",
+  "description": "AI-first 3D \u0026 AR SDK for Android (Jetpack Compose + Filament), Apple (SwiftUI + RealityKit) and the web. Opens glTF/GLB, 3MF, STL, OBJ and PLY on Android and USDZ on Apple, at real size in AR. An assistant reads llms.txt and writes code that compiles first try; also an MCP server and a ChatGPT/Codex plugin.",
+  "description_ja": "",
   "url": "https://github.com/sceneview/sceneview",
   "homepage_url": "https://sceneview.github.io",
   "language": "Kotlin",
   "license": "Apache-2.0",
   "topics": [
     "3d",
-    "ai",
+    "3mf",
     "android",
-    "ar",
     "arcore",
     "arkit",
     "augmented-reality",
+    "chatgpt",
+    "codex",
     "filament",
     "flutter",
     "gltf",
     "ios",
     "jetpack-compose",
     "kotlin",
+    "llms-txt",
     "mcp",
-    "react-native",
-    "realitykit",
-    "swift",
+    "openai",
     "swiftui",
     "visionos",
     "web"
   ],
-  "star_count": 1299,
-  "fork_count": 233,
+  "star_count": 1314,
+  "fork_count": 239,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-11-09T23:03:50Z",
-  "updated_at": "2026-08-30T08:44:34Z",
-  "pushed_at": "2026-08-29T22:08:03Z",
+  "updated_at": "2026-09-11T20:15:53Z",
+  "pushed_at": "2026-09-11T21:07:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +411,10 @@
     {
       "date": "2026-08-30",
       "stars": 1299
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1314
     }
   ]
 }

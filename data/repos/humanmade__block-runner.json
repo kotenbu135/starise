@@ -3,11 +3,11 @@
   "owner": "humanmade",
   "name": "block-runner",
   "full_name": "humanmade/block-runner",
-  "description": "",
+  "description": "Easily convert HTML into WordPress Blocks",
   "description_ja": "",
   "url": "https://github.com/humanmade/block-runner",
   "homepage_url": "https://www.accelerateplugin.com/block-runner",
-  "language": "HTML",
+  "language": "TypeScript",
   "license": "GPL-2.0",
   "topics": [
     "block-editor",
@@ -17,13 +17,13 @@
     "typescript",
     "wordpress"
   ],
-  "star_count": 50,
+  "star_count": 52,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-22T20:45:29Z",
-  "updated_at": "2026-08-29T21:30:00Z",
-  "pushed_at": "2026-08-07T09:10:12Z",
+  "updated_at": "2026-09-11T13:53:22Z",
+  "pushed_at": "2026-09-11T14:13:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +65,10 @@
     {
       "date": "2026-08-30",
       "stars": 50
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 52
     }
   ]
 }

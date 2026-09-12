@@ -3,14 +3,15 @@
   "owner": "hkshoonya",
   "name": "nvidia-broadcast-linux",
   "full_name": "hkshoonya/nvidia-broadcast-linux",
-  "description": "NV Broadcast — Unofficial NVIDIA Broadcast for Linux and other OS. AI-powered virtual camera with background removal, blur, replacement, video enhancement, and noise cancellation. GPU accelerated. Open source.",
+  "description": "Open-source, unofficial NVIDIA Broadcast alternative for Linux and macOS: AI background effects, auto framing, noise removal, recording, and local meeting transcription.",
   "description_ja": "",
   "url": "https://github.com/Hkshoonya/nvidia-broadcast-linux",
-  "homepage_url": "https://nvbroadcast.domjarvis.com",
+  "homepage_url": "https://nvbroadcast.com",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
     "ai",
+    "audio-processing",
     "background-removal",
     "broadcast",
     "cuda",
@@ -18,22 +19,25 @@
     "gstreamer",
     "gtk4",
     "linux",
+    "macos",
     "noise-cancellation",
     "nvidia",
     "onnx",
     "open-source",
     "python",
+    "tensorrt",
+    "video-conferencing",
     "video-processing",
     "virtual-camera",
     "webcam"
   ],
-  "star_count": 135,
-  "fork_count": 15,
+  "star_count": 155,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-17T06:39:20Z",
-  "updated_at": "2026-08-30T12:07:50Z",
-  "pushed_at": "2026-08-25T10:55:02Z",
+  "updated_at": "2026-09-11T21:28:25Z",
+  "pushed_at": "2026-09-05T12:05:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -87,6 +91,10 @@
     {
       "date": "2026-08-30",
       "stars": 135
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 155
     }
   ]
 }

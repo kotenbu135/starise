@@ -3,7 +3,7 @@
   "owner": "crazytuzi",
   "name": "unrealcsharp",
   "full_name": "crazytuzi/unrealcsharp",
-  "description": "UnrealCSharp, based on .NET 10 (CoreCLR/Mono), is a C# programming plugin for UE.",
+  "description": "UnrealCSharp, based on .NET 10 (CoreCLR/Mono/LeanCLR), is a C# programming plugin for UE.",
   "description_ja": "",
   "url": "https://github.com/crazytuzi/UnrealCSharp",
   "homepage_url": "https://unrealcsharp.github.io/",
@@ -13,16 +13,17 @@
     "coreclr",
     "csharp",
     "dotnet",
+    "leanclr",
     "mono",
-    "unrealengine"
+    "unreal-engine"
   ],
-  "star_count": 786,
-  "fork_count": 117,
+  "star_count": 789,
+  "fork_count": 119,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-10-05T16:00:33Z",
-  "updated_at": "2026-08-30T05:56:40Z",
-  "pushed_at": "2026-08-28T11:09:18Z",
+  "updated_at": "2026-09-08T03:23:37Z",
+  "pushed_at": "2026-09-11T13:11:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -400,6 +401,10 @@
     {
       "date": "2026-08-30",
       "stars": 786
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 789
     }
   ]
 }

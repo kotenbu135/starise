@@ -3,11 +3,11 @@
   "owner": "oil-oil",
   "name": "oil-frontend",
   "full_name": "oil-oil/oil-frontend",
-  "description": "给前端 Agent 使用的中文规范，统一产品界面、数据状态、组件组织和代码归属。",
+  "description": "为产品前端的实现、修改和评审提供中文规范，覆盖界面、交互、数据状态和组件组织。",
   "description_ja": "",
   "url": "https://github.com/oil-oil/oil-frontend",
   "homepage_url": "",
-  "language": "",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "agent-skill",
@@ -19,13 +19,13 @@
     "ui-design",
     "ux"
   ],
-  "star_count": 118,
+  "star_count": 122,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-30T11:27:45Z",
-  "updated_at": "2026-08-30T07:58:26Z",
-  "pushed_at": "2026-08-23T01:43:13Z",
+  "updated_at": "2026-09-11T14:11:08Z",
+  "pushed_at": "2026-09-10T12:45:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     {
       "date": "2026-08-30",
       "stars": 118
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 122
     }
   ]
 }

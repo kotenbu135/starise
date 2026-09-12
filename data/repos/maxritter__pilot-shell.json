@@ -3,39 +3,41 @@
   "owner": "maxritter",
   "name": "pilot-shell",
   "full_name": "maxritter/pilot-shell",
-  "description": "How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready.",
+  "description": "Professional context and harness engineering for Claude Code and OpenAI Codex. Build production-grade software with spec-driven development, TDD, persistent memory, quality gates, code intelligence, human oversight, and end-to-end verification.",
   "description_ja": "",
   "url": "https://github.com/maxritter/pilot-shell",
   "homepage_url": "https://pilot-shell.com",
   "language": "JavaScript",
   "license": "NOASSERTION",
   "topics": [
-    "ai-agents",
-    "ai-assistant",
+    "agent-skills",
+    "agentic-engineering",
     "ai-coding",
-    "ai-coding-tools",
-    "ai-engineering",
-    "ai-tools",
     "anthropic",
-    "anthropic-claude",
-    "claude",
-    "claude-ai",
     "claude-code",
-    "claude-context",
-    "claude-skills",
-    "claudecode",
+    "code-quality",
+    "code-review",
     "codex",
     "codex-cli",
+    "coding-agents",
+    "context-engineering",
+    "developer-tools",
+    "harness-engineering",
+    "mcp",
     "openai",
-    "spec-driven-development"
+    "persistent-memory",
+    "software-engineering",
+    "spec-driven-development",
+    "tdd",
+    "test-driven-development"
   ],
-  "star_count": 2058,
-  "fork_count": 176,
+  "star_count": 2069,
+  "fork_count": 177,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-18T08:30:23Z",
-  "updated_at": "2026-08-30T20:47:19Z",
-  "pushed_at": "2026-08-30T20:46:28Z",
+  "updated_at": "2026-09-11T13:52:10Z",
+  "pushed_at": "2026-09-09T11:48:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -69,6 +71,10 @@
     {
       "date": "2026-08-30",
       "stars": 2058
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 2069
     }
   ]
 }

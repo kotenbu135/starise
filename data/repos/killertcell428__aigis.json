@@ -3,7 +3,7 @@
   "owner": "killertcell428",
   "name": "aigis",
   "full_name": "killertcell428/aigis",
-  "description": "Deterministic, zero-dependency Python firewall for AI agents — MCP rug-pull, memory poisoning, indirect injection, exfil channels. 44 compliance templates (US/CN/JP/EU).",
+  "description": "Get Claude Code and other AI agents approved for use at work — deterministic guardrails on every tool call, tamper-evident audit logs, and a generated IT-approval pack. Zero-dependency Python OSS.",
   "description_ja": "",
   "url": "https://github.com/killertcell428/aigis",
   "homepage_url": "https://pypi.org/project/pyaigis/",
@@ -12,6 +12,8 @@
   "topics": [
     "ai-agent",
     "ai-security",
+    "audit-log",
+    "claude-code",
     "compliance",
     "cybersecurity",
     "firewall",
@@ -22,15 +24,16 @@
     "open-source",
     "owasp",
     "prompt-injection",
-    "python"
+    "python",
+    "tool-poisoning"
   ],
   "star_count": 54,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-11T02:56:13Z",
-  "updated_at": "2026-08-25T08:57:35Z",
-  "pushed_at": "2026-08-29T02:36:31Z",
+  "updated_at": "2026-09-02T06:27:07Z",
+  "pushed_at": "2026-09-08T22:41:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -339,6 +342,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 54
+    },
+    {
+      "date": "2026-09-11",
       "stars": 54
     }
   ]

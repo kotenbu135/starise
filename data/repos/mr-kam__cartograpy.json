@@ -3,20 +3,27 @@
   "owner": "mr-kam",
   "name": "cartograpy",
   "full_name": "mr-kam/cartograpy",
-  "description": "",
+  "description": "Bibliothèque Python pour charger, traiter et cartographier des données géographiques",
   "description_ja": "",
   "url": "https://github.com/Mr-KAM/cartograpy",
-  "homepage_url": "",
+  "homepage_url": "https://mr-kam.github.io/cartograpy/",
   "language": "Jupyter Notebook",
   "license": "MIT",
-  "topics": [],
-  "star_count": 30,
+  "topics": [
+    "cartography",
+    "geospatial",
+    "gis",
+    "mapping",
+    "matplotlib",
+    "python"
+  ],
+  "star_count": 31,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-16T09:33:31Z",
-  "updated_at": "2026-08-30T17:04:17Z",
-  "pushed_at": "2026-08-30T17:04:12Z",
+  "updated_at": "2026-09-11T15:37:01Z",
+  "pushed_at": "2026-09-11T15:37:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -390,6 +397,10 @@
     {
       "date": "2026-08-30",
       "stars": 30
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 31
     }
   ]
 }

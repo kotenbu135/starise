@@ -3,12 +3,12 @@
   "owner": "neeeophytee",
   "name": "finding-unknowns-skills",
   "full_name": "neeeophytee/finding-unknowns-skills",
-  "description": "11 installable skills for Claude Code, OpenAI Codex, and Hermes, for finding your unknowns before they get expensive: blindspot pass, brainstorms, interviews, references, plans, notes, pitches, a merge quiz, plus a context audit, agent interface design, and progressive disclosure. Community distillation, not official Anthropic.",
+  "description": "13 installable skills for Claude Code, OpenAI Codex, and Hermes, for finding your unknowns before they get expensive: blindspot pass, brainstorms, interviews, references, plans, notes, pitches, a merge quiz, plus a context audit, agent interface design, and progressive disclosure. ",
   "description_ja": "",
   "url": "https://github.com/Neeeophytee/finding-unknowns-skills",
   "homepage_url": "",
-  "language": "",
-  "license": "NOASSERTION",
+  "language": "Python",
+  "license": "MIT",
   "topics": [
     "agent-skills",
     "ai-agents",
@@ -22,13 +22,13 @@
     "prompting",
     "skills"
   ],
-  "star_count": 320,
-  "fork_count": 25,
+  "star_count": 329,
+  "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-05T05:51:40Z",
-  "updated_at": "2026-08-30T21:51:47Z",
-  "pushed_at": "2026-07-28T03:32:27Z",
+  "updated_at": "2026-09-11T20:11:14Z",
+  "pushed_at": "2026-09-09T16:02:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     {
       "date": "2026-08-30",
       "stars": 320
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 329
     }
   ]
 }

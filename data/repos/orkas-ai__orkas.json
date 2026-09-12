@@ -3,10 +3,10 @@
   "owner": "orkas-ai",
   "name": "orkas",
   "full_name": "orkas-ai/orkas",
-  "description": "Open-source multi-agent AI desktop client — build and command your AI agent team through conversation. A commander LLM dispatches sub-agents in parallel or in series; agents self-evolve via reflection and skill crystallization. Local-first, BYO LLM keys (Claude · OpenAI · Gemini · DeepSeek · Kimi · GLM · Qwen). macOS / Windows / Linux.",
+  "description": "Orkas is an open-source, local-first AI desktop app: a commander LLM directs specialist sub-agents, and runs your installed coding CLIs — Claude Code, Codex, OpenCode, OpenClaw, Hermes — as local sessions. Agents self-evolve via reflection and skill crystallization. BYO keys. macOS / Windows / Linux.",
   "description_ja": "",
   "url": "https://github.com/Orkas-AI/Orkas",
-  "homepage_url": "https://orkas.ai?source=github",
+  "homepage_url": "https://orkas.ai?source=gh_orkas",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "multi-agent-system",
     "self-evolving-agents"
   ],
-  "star_count": 1558,
-  "fork_count": 67,
+  "star_count": 1909,
+  "fork_count": 82,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-29T12:19:08Z",
-  "updated_at": "2026-08-30T21:43:10Z",
-  "pushed_at": "2026-08-29T13:38:20Z",
+  "updated_at": "2026-09-11T22:11:43Z",
+  "pushed_at": "2026-09-11T10:18:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -115,6 +115,10 @@
     {
       "date": "2026-08-30",
       "stars": 1558
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1909
     }
   ]
 }

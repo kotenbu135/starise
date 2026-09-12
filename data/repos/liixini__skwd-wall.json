@@ -3,12 +3,12 @@
   "owner": "liixini",
   "name": "skwd-wall",
   "full_name": "liixini/skwd-wall",
-  "description": "An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc \u0026 Steam browser because why not.",
+  "description": "An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc \u0026 Steam browser because why not. Join us on discord - https://discord.gg/cgxy8EEVmz",
   "description_ja": "",
   "url": "https://github.com/liixini/skwd-wall",
   "homepage_url": "",
-  "language": "QML",
-  "license": "MIT",
+  "language": "Rust",
+  "license": "GPL-3.0",
   "topics": [
     "archlinux",
     "dotfiles",
@@ -21,13 +21,13 @@
     "quickshell",
     "rice"
   ],
-  "star_count": 642,
-  "fork_count": 22,
+  "star_count": 679,
+  "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-05T19:32:56Z",
-  "updated_at": "2026-08-30T22:12:15Z",
-  "pushed_at": "2026-08-28T17:27:32Z",
+  "updated_at": "2026-09-11T17:34:38Z",
+  "pushed_at": "2026-09-11T13:39:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +65,10 @@
     {
       "date": "2026-08-30",
       "stars": 642
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 679
     }
   ]
 }

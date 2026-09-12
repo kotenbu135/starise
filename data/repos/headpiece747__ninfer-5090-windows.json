@@ -3,25 +3,29 @@
   "owner": "headpiece747",
   "name": "ninfer-5090-windows",
   "full_name": "headpiece747/ninfer-5090-windows",
-  "description": "Native Windows MSVC port of NInfer optimized for NVIDIA RTX 5090. Features NVFP4 inference, MTP3 speculative decoding, and massive 262k context support.",
+  "description": "Native Windows MSVC port of NInfer for NVIDIA RTX 5090. Features NVFP4 W4A4 inference, MTP5/DFlash2 speculative decoding, FP8/NVFP4/K8V4 KV cache, and 262k context.",
   "description_ja": "",
   "url": "https://github.com/headpiece747/ninfer-5090-windows",
   "homepage_url": "",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 9,
-  "fork_count": 0,
+  "star_count": 18,
+  "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-20T00:52:23Z",
-  "updated_at": "2026-08-30T15:45:05Z",
-  "pushed_at": "2026-08-30T13:30:18Z",
+  "updated_at": "2026-09-11T00:13:53Z",
+  "pushed_at": "2026-09-11T00:13:50Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-08-30",
       "stars": 9
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 18
     }
   ]
 }

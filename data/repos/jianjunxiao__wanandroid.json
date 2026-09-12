@@ -3,30 +3,29 @@
   "owner": "jianjunxiao",
   "name": "wanandroid",
   "full_name": "jianjunxiao/wanandroid",
-  "description": "JetPack Compose实现的Wanandroid客户端",
+  "description": "Compose Multipartform实现的Wanandroid跨平台客户端（Android、iOS、HarmonyOS、Web）",
   "description_ja": "",
   "url": "https://github.com/jianjunxiao/wanandroid",
   "homepage_url": "",
   "language": "Kotlin",
   "license": "",
   "topics": [
-    "compose-nav3",
-    "compose-ui",
-    "coroutines",
-    "daynight",
-    "jetpack",
+    "compose-navigation",
+    "composemultiplatform",
+    "harmony",
+    "harmonyos",
+    "harmonyos-next",
+    "ios",
     "kotlin",
-    "room",
-    "viewmodel",
-    "wanandroid"
+    "kotlin-multiplatform"
   ],
   "star_count": 266,
   "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-09T11:15:30Z",
-  "updated_at": "2026-07-30T10:30:46Z",
-  "pushed_at": "2026-05-22T09:26:36Z",
+  "updated_at": "2026-09-09T09:04:58Z",
+  "pushed_at": "2026-09-08T09:54:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -351,6 +350,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 266
+    },
+    {
+      "date": "2026-09-11",
       "stars": 266
     }
   ]

@@ -3,20 +3,25 @@
   "owner": "remix-run",
   "name": "remix",
   "full_name": "remix-run/remix",
-  "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
-  "description_ja": "より良い Web サイトを構築しましょう。Web の基礎技術を活かして、モダンで堅牢なユーザーエクスペリエンスを実現します。",
+  "description": "The fully-stacked web framework",
+  "description_ja": "",
   "url": "https://github.com/remix-run/remix",
   "homepage_url": "https://remix.run",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 33335,
-  "fork_count": 2790,
+  "topics": [
+    "remix",
+    "web",
+    "web-application",
+    "web-development"
+  ],
+  "star_count": 33351,
+  "fork_count": 2795,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-26T19:57:28Z",
-  "updated_at": "2026-08-30T17:32:38Z",
-  "pushed_at": "2026-08-28T23:05:07Z",
+  "updated_at": "2026-09-11T20:11:37Z",
+  "pushed_at": "2026-09-11T22:36:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +399,10 @@
     {
       "date": "2026-08-30",
       "stars": 33335
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 33351
     }
   ]
 }

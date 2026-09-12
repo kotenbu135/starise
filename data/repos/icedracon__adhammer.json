@@ -3,10 +3,10 @@
   "owner": "icedracon",
   "name": "adhammer",
   "full_name": "icedracon/adhammer",
-  "description": "Active Directory security-assessment toolkit in Rust — PingCastle-class audit + authorized red-team validation, on a from-scratch DCE/RPC · NTLM · SMB2 · Kerberos stack. One static binary, from Kali or Windows.",
+  "description": "Active Directory security assessment in Rust: directory discovery, Tier-0 path analysis, supported validation, and evidence reporting.",
   "description_ja": "",
   "url": "https://github.com/icedracon/adhammer",
-  "homepage_url": "",
+  "homepage_url": "https://icedracon.github.io/adhammer/",
   "language": "Rust",
   "license": "MIT",
   "topics": [
@@ -22,13 +22,13 @@
     "security",
     "security-tools"
   ],
-  "star_count": 89,
+  "star_count": 98,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-17T11:15:38Z",
-  "updated_at": "2026-08-30T20:53:10Z",
-  "pushed_at": "2026-08-30T21:00:51Z",
+  "updated_at": "2026-09-11T18:02:18Z",
+  "pushed_at": "2026-09-10T22:21:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +78,10 @@
     {
       "date": "2026-08-30",
       "stars": 89
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 98
     }
   ]
 }

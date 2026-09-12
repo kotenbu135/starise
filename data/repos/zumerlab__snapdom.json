@@ -10,24 +10,34 @@
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
-    "capture-screen",
-    "clone",
+    "browser",
+    "canvas",
+    "capture",
     "dom",
     "dom-manipulation",
-    "fidelity",
+    "dom-to-image",
+    "frontend",
+    "gif",
+    "html-to-image",
+    "html-to-png",
+    "html-to-svg",
+    "html2canvas",
     "html2canvas-alternative",
+    "image",
     "javascript",
     "plugin-system",
+    "png",
     "screenshot",
-    "snapdom-plugin"
+    "snapdom-plugin",
+    "svg"
   ],
-  "star_count": 8057,
-  "fork_count": 302,
+  "star_count": 8107,
+  "fork_count": 303,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-27T11:01:19Z",
-  "updated_at": "2026-08-30T17:06:23Z",
-  "pushed_at": "2026-08-30T08:19:22Z",
+  "updated_at": "2026-09-11T21:02:16Z",
+  "pushed_at": "2026-09-11T00:41:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +415,10 @@
     {
       "date": "2026-08-30",
       "stars": 8057
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 8107
     }
   ]
 }

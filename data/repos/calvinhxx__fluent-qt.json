@@ -3,7 +3,7 @@
   "owner": "calvinhxx",
   "name": "fluent-qt",
   "full_name": "calvinhxx/fluent-qt",
-  "description": "Modern Fluent / WinUI-style Qt Widgets components and Gallery for native C++ desktop apps, optional PySide6 bindings, and WebAssembly.",
+  "description": "FluentQt (Fluent-Qt): Fluent / WinUI-style Qt Widgets UI components and Gallery for native C++ desktop apps, with optional PySide6 bindings and WebAssembly.",
   "description_ja": "",
   "url": "https://github.com/calvinhxx/Fluent-Qt",
   "homepage_url": "https://calvinhxx.github.io/Fluent-Qt/",
@@ -17,8 +17,8 @@
     "cross-platform",
     "fluent-design",
     "fluent-ui",
+    "fluentqt",
     "fluentui",
-    "gui-library",
     "pyside6",
     "python-bindings",
     "qt",
@@ -31,13 +31,13 @@
     "widget-library",
     "winui"
   ],
-  "star_count": 70,
-  "fork_count": 10,
+  "star_count": 98,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-26T06:56:25Z",
-  "updated_at": "2026-08-30T14:09:17Z",
-  "pushed_at": "2026-08-30T14:49:04Z",
+  "updated_at": "2026-09-11T14:12:38Z",
+  "pushed_at": "2026-09-10T08:24:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -51,6 +51,10 @@
     {
       "date": "2026-08-30",
       "stars": 70
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 98
     }
   ]
 }

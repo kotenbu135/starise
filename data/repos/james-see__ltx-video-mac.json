@@ -3,27 +3,33 @@
   "owner": "james-see",
   "name": "ltx-video-mac",
   "full_name": "james-see/ltx-video-mac",
-  "description": "Native macOS app for AI video generation using LTX-Video model, optimized for Apple Silicon",
+  "description": "Native macOS app for local AI video on Apple Silicon — LTX-2, LTX-2.3, LTX-2.5, and MiniMax H3",
   "description_ja": "",
   "url": "https://github.com/james-see/ltx-video-mac",
   "homepage_url": "https://james-see.github.io/ltx-video-mac/",
   "language": "Swift",
   "license": "MIT",
   "topics": [
+    "apple-silicon",
     "image-to-video",
     "ltx-2",
+    "ltx-2-5",
+    "ltx-2-5-ai",
     "ltx-video",
     "mac-app",
     "mac-native",
+    "minimax",
+    "minimax-h3",
+    "mlx",
     "text-to-video"
   ],
-  "star_count": 392,
-  "fork_count": 48,
+  "star_count": 404,
+  "fork_count": 51,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-09T07:27:26Z",
-  "updated_at": "2026-08-28T20:29:45Z",
-  "pushed_at": "2026-07-27T16:06:32Z",
+  "updated_at": "2026-09-11T12:28:46Z",
+  "pushed_at": "2026-09-08T04:05:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -381,6 +387,10 @@
     {
       "date": "2026-08-30",
       "stars": 392
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 404
     }
   ]
 }

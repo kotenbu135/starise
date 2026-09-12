@@ -6,11 +6,12 @@
   "description": "Read PDF textbooks and ask AI about any paragraph, figure, or code block.",
   "description_ja": "",
   "url": "https://github.com/yuxino/satori",
-  "homepage_url": "",
+  "homepage_url": "https://satori.yuxino.cn",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "ai-assistant",
+    "document-reader",
     "education",
     "llm",
     "local-first",
@@ -19,15 +20,17 @@
     "pdf-reader",
     "reading",
     "tauri",
-    "textbook"
+    "textbook",
+    "visual-question-answering",
+    "windows"
   ],
-  "star_count": 109,
-  "fork_count": 12,
+  "star_count": 138,
+  "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-03T16:53:06Z",
-  "updated_at": "2026-08-30T19:48:36Z",
-  "pushed_at": "2026-08-30T19:48:15Z",
+  "updated_at": "2026-09-11T15:14:06Z",
+  "pushed_at": "2026-09-08T02:31:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +40,10 @@
     {
       "date": "2026-08-30",
       "stars": 109
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 138
     }
   ]
 }

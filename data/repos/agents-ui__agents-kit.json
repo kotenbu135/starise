@@ -3,30 +3,35 @@
   "owner": "agents-ui",
   "name": "agents-kit",
   "full_name": "agents-ui/agents-kit",
-  "description": "Ready made components for your AI agents",
-  "description_ja": "[47] AIエージェント向けの既製コンポーネント",
+  "description": "React components for generative UI: thinking, tools, approvals, and interactive results. Copy the source and make it yours.",
+  "description_ja": "",
   "url": "https://github.com/agents-ui/agents-kit",
   "homepage_url": "https://agents-ui.github.io/agents-kit/",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
-    "agents",
-    "ai",
-    "aiagents",
-    "components",
-    "nextjs",
+    "agent-ui",
+    "ai-agents",
+    "ai-tools",
+    "chat-ui",
+    "component-library",
+    "design-system",
+    "generative-ui",
+    "open-source",
     "react",
+    "react-components",
     "shadcn-ui",
     "tailwindcss",
-    "ui"
+    "typescript",
+    "ui-components"
   ],
-  "star_count": 91,
-  "fork_count": 4,
+  "star_count": 116,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-07T18:01:33Z",
-  "updated_at": "2026-08-29T03:41:50Z",
-  "pushed_at": "2026-02-26T10:21:52Z",
+  "updated_at": "2026-09-10T22:23:19Z",
+  "pushed_at": "2026-09-10T22:29:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -400,6 +405,10 @@
     {
       "date": "2026-08-30",
       "stars": 91
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 116
     }
   ]
 }

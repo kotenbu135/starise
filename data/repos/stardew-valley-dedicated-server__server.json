@@ -6,21 +6,27 @@
   "description": "Always-on Stardew Valley dedicated multiplayer server in Docker, with automatic backups and SMAPI mod support.",
   "description_ja": "",
   "url": "https://github.com/stardew-valley-dedicated-server/server",
-  "homepage_url": "https://stardew-valley-dedicated-server.github.io/server/",
+  "homepage_url": "https://docs.junimoserver.com",
   "language": "C#",
   "license": "NOASSERTION",
   "topics": [
     "dedicated-server",
     "docker",
-    "stardew-valley"
+    "docker-compose",
+    "game-server",
+    "multiplayer",
+    "self-hosted",
+    "smapi",
+    "stardew-valley",
+    "stardew-valley-mod"
   ],
-  "star_count": 333,
+  "star_count": 339,
   "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-05-20T20:45:59Z",
-  "updated_at": "2026-08-30T17:25:01Z",
-  "pushed_at": "2026-08-30T21:39:25Z",
+  "updated_at": "2026-09-11T13:16:40Z",
+  "pushed_at": "2026-09-11T22:58:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -106,6 +112,10 @@
     {
       "date": "2026-08-30",
       "stars": 333
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 339
     }
   ]
 }

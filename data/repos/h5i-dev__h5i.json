@@ -3,7 +3,7 @@
   "owner": "h5i-dev",
   "name": "h5i",
   "full_name": "h5i-dev/h5i",
-  "description": "Secure, auditable browser for AI agents. Pure Rust, no Chromium or V8. ~3× faster and ~86% less peak memory than headless Chromium.",
+  "description": "Fast, red-teaming browser built for AI agents, with direct HTTP traffic control, sandboxed execution, and auditable sessions. Pure Rust.",
   "description_ja": "",
   "url": "https://github.com/h5i-dev/h5i",
   "homepage_url": "https://h5i.dev",
@@ -12,32 +12,32 @@
   "topics": [
     "agentic-ai",
     "agentic-workflow",
-    "ai-coding",
-    "ai-coding-agent",
+    "ai-hacking",
     "ai-safety",
     "ai-security",
     "audit-trail",
-    "browser",
     "browser-automation",
     "browser-security",
     "claude-code",
     "codex",
-    "ebpf",
-    "good-first-issue",
+    "ctf",
+    "ethical-hacking",
+    "hacking",
     "microvm",
-    "p2p",
+    "offensive-security",
+    "red-team",
+    "redteam-tools",
     "sandbox",
-    "scraping",
     "security",
-    "worktree-manager"
+    "web-security"
   ],
-  "star_count": 586,
-  "fork_count": 58,
+  "star_count": 636,
+  "fork_count": 62,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T04:30:52Z",
-  "updated_at": "2026-08-30T21:17:03Z",
-  "pushed_at": "2026-08-30T19:46:39Z",
+  "updated_at": "2026-09-11T09:53:09Z",
+  "pushed_at": "2026-09-11T21:17:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -291,6 +291,10 @@
     {
       "date": "2026-08-30",
       "stars": 586
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 636
     }
   ]
 }

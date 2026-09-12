@@ -7,7 +7,7 @@
   "description_ja": "オフラインファースト・安全・プライベートなメモ帳アプリ。:notebook_with_decorative_cover: :pencil2:",
   "url": "https://github.com/schollz/offlinenotepad",
   "homepage_url": "https://offlinenotepad.com",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "",
   "topics": [
     "golang",
@@ -15,16 +15,15 @@
     "notes",
     "notes-app",
     "offline-first",
-    "pwa",
-    "vue"
+    "pwa"
   ],
-  "star_count": 261,
-  "fork_count": 22,
+  "star_count": 262,
+  "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-15T19:23:56Z",
-  "updated_at": "2026-07-21T10:53:21Z",
-  "pushed_at": "2026-02-08T14:45:58Z",
+  "updated_at": "2026-09-09T15:41:19Z",
+  "pushed_at": "2026-09-10T13:30:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +397,10 @@
     {
       "date": "2026-08-30",
       "stars": 261
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 262
     }
   ]
 }

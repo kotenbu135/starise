@@ -3,7 +3,7 @@
   "owner": "ahpxex",
   "name": "read-aware",
   "full_name": "ahpxex/read-aware",
-  "description": "The only reader you need in the future, agent first, rich plugin, all with great elegance.",
+  "description": "An ebook reader with a self-evolving agent: it remembers your reading across books, and plugins extend the reader and the agent alike.",
   "description_ja": "",
   "url": "https://github.com/ahpxex/read-aware",
   "homepage_url": "https://readaware.app",
@@ -11,27 +11,33 @@
   "license": "AGPL-3.0",
   "topics": [
     "ai",
-    "ai-reader",
+    "ai-agent",
+    "android",
     "annotations",
-    "desktop-app",
+    "azw3",
+    "cross-platform",
+    "ebook",
     "ebook-reader",
+    "end-to-end-encryption",
     "epub",
+    "foliate",
+    "ios",
     "knowledge-management",
+    "llm",
     "local-first",
+    "mobi",
     "pdf",
-    "react",
-    "reading",
-    "rust",
-    "sqlite",
-    "tauri"
+    "plugins",
+    "tauri",
+    "tts"
   ],
-  "star_count": 291,
-  "fork_count": 27,
+  "star_count": 334,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-09T11:25:19Z",
-  "updated_at": "2026-08-30T18:13:32Z",
-  "pushed_at": "2026-08-30T11:31:04Z",
+  "updated_at": "2026-09-11T13:48:43Z",
+  "pushed_at": "2026-09-11T13:48:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -117,6 +123,10 @@
     {
       "date": "2026-08-30",
       "stars": 291
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 334
     }
   ]
 }

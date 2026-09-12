@@ -3,20 +3,33 @@
   "owner": "tinyhumansai",
   "name": "openhuman",
   "full_name": "tinyhumansai/openhuman",
-  "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+  "description": "OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows",
   "description_ja": "",
   "url": "https://github.com/tinyhumansai/openhuman",
   "homepage_url": "https://tinyhumans.ai/openhuman",
   "language": "Rust",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 39007,
-  "fork_count": 3833,
+  "topics": [
+    "agent-orchestration",
+    "ai-agents",
+    "ai-assistant",
+    "desktop",
+    "llm",
+    "local-first",
+    "mcp",
+    "personal-ai",
+    "privacy",
+    "rust",
+    "second-brain",
+    "tauri"
+  ],
+  "star_count": 39672,
+  "fork_count": 3910,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-18T20:01:27Z",
-  "updated_at": "2026-08-30T22:57:25Z",
-  "pushed_at": "2026-08-30T22:35:51Z",
+  "updated_at": "2026-09-11T23:26:36Z",
+  "pushed_at": "2026-09-11T23:08:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +379,10 @@
     {
       "date": "2026-08-30",
       "stars": 39007
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 39672
     }
   ]
 }

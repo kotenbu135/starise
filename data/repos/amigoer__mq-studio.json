@@ -6,8 +6,8 @@
   "description": "🚀 A local-first, cross-platform desktop client for every message queue — one pluggable driver model across RocketMQ, RabbitMQ, Kafka, Pulsar, Redis Stream, MQTT and more. / 本地优先、跨平台的通用消息队列桌面客户端，基于可插拔驱动统一管理 RocketMQ、RabbitMQ、Kafka、Pulsar、Redis Stream、MQTT 等。",
   "description_ja": "",
   "url": "https://github.com/amigoer/mq-studio",
-  "homepage_url": "",
-  "language": "TypeScript",
+  "homepage_url": "https://mq-studio.amigoer.com",
+  "language": "Go",
   "license": "Apache-2.0",
   "topics": [
     "cross-platform",
@@ -31,13 +31,13 @@
     "rocketmq-gui",
     "wails"
   ],
-  "star_count": 33,
-  "fork_count": 4,
+  "star_count": 60,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-23T10:46:08Z",
-  "updated_at": "2026-08-30T20:11:10Z",
-  "pushed_at": "2026-08-30T17:56:22Z",
+  "updated_at": "2026-09-10T06:37:17Z",
+  "pushed_at": "2026-09-07T19:37:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -107,6 +107,10 @@
     {
       "date": "2026-08-30",
       "stars": 33
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 60
     }
   ]
 }

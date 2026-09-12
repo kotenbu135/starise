@@ -3,8 +3,8 @@
   "owner": "nikolai-vysotskyi",
   "name": "trace-mcp",
   "full_name": "nikolai-vysotskyi/trace-mcp",
-  "description": "MCP server for Claude Code and Codex. One tool call replaces ~42 minutes of agent exploration",
-  "description_ja": "Claude Code および Codex 向けの MCP サーバー。1 回のツール呼び出しで約 42 分のエージェント探索を置き換えます。",
+  "description": "Framework-aware code intelligence MCP server for Claude Code and Codex — 70.5% fewer input tokens to review a pull request, median over 60 merged PRs in repos we don't own, comprehension at parity. 81 languages, 87 frameworks. Your code and index never leave the machine; an anonymous usage ping is on by default and opt-out.",
+  "description_ja": "",
   "url": "https://github.com/nikolai-vysotskyi/trace-mcp",
   "homepage_url": "https://trace-mcp.com",
   "language": "TypeScript",
@@ -31,13 +31,13 @@
     "static-analysis",
     "token-savings"
   ],
-  "star_count": 102,
-  "fork_count": 15,
+  "star_count": 175,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-03T09:54:03Z",
-  "updated_at": "2026-08-30T22:15:15Z",
-  "pushed_at": "2026-08-30T22:15:00Z",
+  "updated_at": "2026-09-11T16:19:52Z",
+  "pushed_at": "2026-09-11T16:20:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +411,10 @@
     {
       "date": "2026-08-30",
       "stars": 102
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 175
     }
   ]
 }

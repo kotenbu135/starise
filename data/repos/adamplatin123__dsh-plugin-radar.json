@@ -3,7 +3,7 @@
   "owner": "adamplatin123",
   "name": "dsh-plugin-radar",
   "full_name": "adamplatin123/dsh-plugin-radar",
-  "description": "DSH Plugin Radar — 开源 DSH 插件生态雷达：自动发现 15900+ 候选、k8s 运行级实测 10000+、15 分钟快照管线；插件目录是其自动生成的 artifact",
+  "description": "DSH Plugin Radar — 开源可自部署的 DSH 插件生态雷达：自动发现 15900+ 候选、k8s 运行级实测管线；自动索引可用Plugin List",
   "description_ja": "",
   "url": "https://github.com/AdamPlatin123/dsh-plugin-radar",
   "homepage_url": "https://github.com/AdamPlatin123/dsh-plugin-radar/tree/main/engine",
@@ -18,13 +18,13 @@
     "ecosystem-radar",
     "plugin-registry"
   ],
-  "star_count": 1432,
-  "fork_count": 148,
+  "star_count": 1462,
+  "fork_count": 152,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-04T21:46:54Z",
-  "updated_at": "2026-08-30T21:31:47Z",
-  "pushed_at": "2026-08-30T21:30:37Z",
+  "updated_at": "2026-09-11T15:49:12Z",
+  "pushed_at": "2026-09-11T15:49:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -58,6 +58,10 @@
     {
       "date": "2026-08-30",
       "stars": 1432
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1462
     }
   ]
 }

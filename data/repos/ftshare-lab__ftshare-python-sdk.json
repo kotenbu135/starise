@@ -3,10 +3,10 @@
   "owner": "ftshare-lab",
   "name": "ftshare-python-sdk",
   "full_name": "ftshare-lab/ftshare-python-sdk",
-  "description": "FTShare financial data Python SDK｜金融数据 Python SDK，支持 market data、quantitative research、MCP、Skill 和 Agent workflows。",
+  "description": "FTShare financial data Python SDK｜通过 Python 和 pandas 接入基础金融数据与 FTShare 特色因子。",
   "description_ja": "",
   "url": "https://github.com/FTShare-Lab/FTShare-python-sdk",
-  "homepage_url": "https://market.ft.tech/",
+  "homepage_url": "https://ftai.chat/?tab=ft-share",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -22,13 +22,13 @@
     "quantitative-research",
     "skill"
   ],
-  "star_count": 101,
-  "fork_count": 9,
+  "star_count": 106,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-23T10:11:06Z",
-  "updated_at": "2026-08-26T02:16:28Z",
-  "pushed_at": "2026-08-26T02:13:35Z",
+  "updated_at": "2026-09-11T16:03:30Z",
+  "pushed_at": "2026-09-11T12:05:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -126,6 +126,10 @@
     {
       "date": "2026-08-30",
       "stars": 101
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 106
     }
   ]
 }

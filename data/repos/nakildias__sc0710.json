@@ -3,7 +3,7 @@
   "owner": "nakildias",
   "name": "sc0710",
   "full_name": "nakildias/sc0710",
-  "description": "High-performance, multi-client Linux driver for the Elgato 4K60 Pro MK.2 and Elgato 4K Pro PCI-e capture card. Engineered for stability on modern kernels (6.12+).",
+  "description": "High-performance, multi-client Linux driver for the Elgato 4K60 Pro MK.2, Elgato 4K Pro \u0026 Elgato Cam Link Pro PCI-e capture card. Engineered for stability on modern kernels (6.12+).",
   "description_ja": "",
   "url": "https://github.com/Nakildias/sc0710",
   "homepage_url": "",
@@ -21,13 +21,13 @@
     "video-capture",
     "video4linux"
   ],
-  "star_count": 134,
-  "fork_count": 11,
+  "star_count": 139,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-05T03:34:52Z",
-  "updated_at": "2026-08-30T20:59:38Z",
-  "pushed_at": "2026-08-29T21:45:57Z",
+  "updated_at": "2026-09-10T08:35:12Z",
+  "pushed_at": "2026-09-02T15:58:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -217,6 +217,10 @@
     {
       "date": "2026-08-30",
       "stars": 134
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 139
     }
   ]
 }

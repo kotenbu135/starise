@@ -3,10 +3,10 @@
   "owner": "aerovato",
   "name": "container",
   "full_name": "aerovato/container",
-  "description": "Safely run OpenCode, Codex, Claude Code with full permissions.",
+  "description": "Persistent Linux workspaces for agentic development.",
   "description_ja": "",
   "url": "https://github.com/aerovato/container",
-  "homepage_url": "",
+  "homepage_url": "https://container.aerovato.com",
   "language": "TypeScript",
   "license": "BSD-3-Clause",
   "topics": [
@@ -19,25 +19,25 @@
     "claude-code-plugin",
     "claude-skills",
     "codex",
-    "codex-cli",
     "container",
     "copilot",
     "docker",
-    "llm",
     "openai",
     "opencode",
     "opencode-ai",
+    "pi",
     "pi-coding-agent",
+    "podman",
     "vibe-coding",
     "vibecoding"
   ],
-  "star_count": 342,
+  "star_count": 347,
   "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-08T14:50:55Z",
-  "updated_at": "2026-08-30T13:05:49Z",
-  "pushed_at": "2026-08-22T14:49:39Z",
+  "updated_at": "2026-09-08T07:17:49Z",
+  "pushed_at": "2026-09-02T07:42:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -171,6 +171,10 @@
     {
       "date": "2026-08-30",
       "stars": 342
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 347
     }
   ]
 }

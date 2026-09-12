@@ -3,8 +3,8 @@
   "owner": "fabulous-dev",
   "name": "fabulous",
   "full_name": "fabulous-dev/fabulous",
-  "description": "Declarative UI framework for cross-platform mobile \u0026 desktop apps, using MVU and F# functional programming",
-  "description_ja": "MVU と F# 関数型プログラミングを使用した、クロスプラットフォームのモバイル・デスクトップアプリ向け宣言的 UI フレームワーク",
+  "description": "Declarative UI framework for cross-platform mobile \u0026 desktop apps, using MVU and functional programming in F#",
+  "description_ja": "",
   "url": "https://github.com/fabulous-dev/Fabulous",
   "homepage_url": "https://fabulous-dev.github.io/Fabulous/",
   "language": "F#",
@@ -15,13 +15,13 @@
     "fsharp",
     "mvu"
   ],
-  "star_count": 1268,
+  "star_count": 1272,
   "fork_count": 120,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-02-05T17:00:17Z",
-  "updated_at": "2026-08-30T21:17:23Z",
-  "pushed_at": "2026-08-30T21:16:55Z",
+  "updated_at": "2026-09-11T11:14:09Z",
+  "pushed_at": "2026-09-10T23:42:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -395,6 +395,10 @@
     {
       "date": "2026-08-30",
       "stars": 1268
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1272
     }
   ]
 }

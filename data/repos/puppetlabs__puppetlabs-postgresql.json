@@ -6,7 +6,7 @@
   "description": "Puppet module for managing PostgreSQL",
   "description_ja": "PostgreSQL 管理用 Puppet モジュール",
   "url": "https://github.com/puppetlabs/puppetlabs-postgresql",
-  "homepage_url": "",
+  "homepage_url": "https://forge.puppet.com/modules/puppetlabs/postgresql/readme",
   "language": "Ruby",
   "license": "Apache-2.0",
   "topics": [
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-04-19T17:32:56Z",
-  "updated_at": "2026-08-17T12:43:17Z",
-  "pushed_at": "2026-08-28T11:05:39Z",
+  "updated_at": "2026-09-08T05:01:48Z",
+  "pushed_at": "2026-09-10T18:20:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -397,6 +397,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 231
+    },
+    {
+      "date": "2026-09-11",
       "stars": 231
     }
   ]

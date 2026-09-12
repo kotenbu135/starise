@@ -3,8 +3,8 @@
   "owner": "tooljet",
   "name": "tooljet",
   "full_name": "tooljet/tooljet",
-  "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
-  "description_ja": "ToolJetは、内部ツール・ダッシュボード・業務アプリ・ワークフロー・AIエージェントを構築するエンタープライズ向けアプリ生成プラットフォーム「ToolJet AI」のオープンソース基盤",
+  "description": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
+  "description_ja": "",
   "url": "https://github.com/ToolJet/ToolJet",
   "homepage_url": "https://tooljet.com",
   "language": "JavaScript",
@@ -12,7 +12,6 @@
   "topics": [
     "ai-app-builder",
     "docker",
-    "hacktoberfest",
     "internal-applications",
     "internal-project",
     "internal-tool",
@@ -30,13 +29,13 @@
     "web-development-tools",
     "workflow-automation"
   ],
-  "star_count": 40797,
-  "fork_count": 5424,
+  "star_count": 40886,
+  "fork_count": 5446,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-03-30T08:51:34Z",
-  "updated_at": "2026-08-30T20:36:37Z",
-  "pushed_at": "2026-08-30T21:00:52Z",
+  "updated_at": "2026-09-11T17:38:57Z",
+  "pushed_at": "2026-09-11T21:25:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -414,6 +413,10 @@
     {
       "date": "2026-08-30",
       "stars": 40797
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 40886
     }
   ]
 }

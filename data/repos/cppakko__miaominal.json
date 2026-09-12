@@ -3,7 +3,7 @@
   "owner": "cppakko",
   "name": "miaominal",
   "full_name": "cppakko/miaominal",
-  "description": "SSH/SFTP client build with RUST + GPUI",
+  "description": "A native SSH workspace built with Rust, featuring split terminals, SFTP, OpenSSH integration, port forwarding, encrypted sync, and AI agents for remote development.",
   "description_ja": "",
   "url": "https://github.com/cppakko/Miaominal",
   "homepage_url": "",
@@ -16,13 +16,13 @@
     "sftp-client",
     "ssh-client"
   ],
-  "star_count": 50,
-  "fork_count": 0,
+  "star_count": 54,
+  "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-18T14:26:54Z",
-  "updated_at": "2026-08-30T14:08:44Z",
-  "pushed_at": "2026-08-30T14:07:44Z",
+  "updated_at": "2026-09-10T01:47:32Z",
+  "pushed_at": "2026-09-10T01:47:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -56,6 +56,10 @@
     {
       "date": "2026-08-30",
       "stars": 50
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 54
     }
   ]
 }

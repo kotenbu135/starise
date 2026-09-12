@@ -3,7 +3,7 @@
   "owner": "chaoticsi1ence",
   "name": "slimbrave-neo",
   "full_name": "chaoticsi1ence/slimbrave-neo",
-  "description": "SlimBrave Neo — Debloat and harden Brave Browser on Linux and Windows. Python curses TUI + CLI. Zero dependencies.",
+  "description": "Debloat and harden Brave Browser on Linux, macOS, and Windows using Chromium enterprise policies. Curses TUI on Linux/macOS, native GUI on Windows. 79 policies, 6 presets, zero dependencies.",
   "description_ja": "",
   "url": "https://github.com/ChaoticSi1ence/SlimBrave-Neo",
   "homepage_url": "",
@@ -15,21 +15,27 @@
     "chromium-policies",
     "curses",
     "debloat",
+    "dns-over-https",
+    "gui",
     "hardening",
     "linux",
+    "macos",
+    "powershell",
     "privacy",
     "python",
     "slimbrave",
     "slimbrave-neo",
-    "tui"
+    "telemetry",
+    "tui",
+    "windows"
   ],
-  "star_count": 625,
-  "fork_count": 17,
+  "star_count": 663,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-24T08:05:58Z",
-  "updated_at": "2026-08-30T16:36:42Z",
-  "pushed_at": "2026-08-30T16:46:19Z",
+  "updated_at": "2026-09-11T17:41:39Z",
+  "pushed_at": "2026-09-11T17:42:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -67,6 +73,10 @@
     {
       "date": "2026-08-30",
       "stars": 625
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 663
     }
   ]
 }

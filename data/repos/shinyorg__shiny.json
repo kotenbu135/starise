@@ -3,31 +3,32 @@
   "owner": "shinyorg",
   "name": "shiny",
   "full_name": "shinyorg/shiny",
-  "description": ".NET Framework for Backgrounding \u0026 Device Hardware Services (iOS, MacCatalyst, Android, \u0026 Windows)",
-  "description_ja": "バックグラウンド処理とデバイスハードウェアサービス向け.NETフレームワーク（iOS、MacCatalyst、Android、Windows対応）",
+  "description": ".NET Framework for Backgrounding \u0026 Device Hardware Services (iOS, MacOS, tvOS, Android, Windows, Linxux, \u0026 Web)",
+  "description_ja": "",
   "url": "https://github.com/shinyorg/shiny",
   "homepage_url": "https://shinylib.net",
   "language": "C#",
   "license": "MIT",
   "topics": [
     "android",
+    "blazor",
     "ble",
     "bluetoothle",
     "geofences",
     "gps",
     "ios",
     "maui",
+    "maui-apps",
     "notifications",
-    "transfers",
-    "xamarin"
+    "transfers"
   ],
   "star_count": 1581,
   "fork_count": 248,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-03-23T22:28:31Z",
-  "updated_at": "2026-08-30T18:45:32Z",
-  "pushed_at": "2026-08-30T18:44:39Z",
+  "updated_at": "2026-09-11T15:08:53Z",
+  "pushed_at": "2026-09-11T15:08:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +405,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 1581
+    },
+    {
+      "date": "2026-09-11",
       "stars": 1581
     }
   ]

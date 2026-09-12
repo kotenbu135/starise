@@ -3,8 +3,8 @@
   "owner": "invergent-ai",
   "name": "surogate",
   "full_name": "invergent-ai/surogate",
-  "description": "Training/Fine-tuning at the speed of light",
-  "description_ja": "光速でのトレーニング/ファインチューニング",
+  "description": "Train and serve LLMs at extreme speed and massive throughput.",
+  "description_ja": "",
   "url": "https://github.com/invergent-ai/surogate",
   "homepage_url": "https://surogate.ai",
   "language": "C++",
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-02T06:32:04Z",
-  "updated_at": "2026-08-24T06:57:41Z",
-  "pushed_at": "2026-08-24T06:56:49Z",
+  "updated_at": "2026-09-11T22:07:32Z",
+  "pushed_at": "2026-09-11T22:07:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +404,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 813
+    },
+    {
+      "date": "2026-09-11",
       "stars": 813
     }
   ]

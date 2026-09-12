@@ -3,10 +3,10 @@
   "owner": "7onez",
   "name": "cti-expert",
   "full_name": "7onez/cti-expert",
-  "description": "CTI Expert — Cyber Threat Intelligence \u0026 OSINT analysis skill for Claude Code. 67+ commands, 35 techniques, no API keys required.",
+  "description": "CTI Expert — Cyber Threat Intelligence \u0026 OSINT analysis skill for Claude Code / Codex. 120+ commands, 57 techniques, 79 typed MCP tools, deterministic case pipeline + ICD-203 reports. No API keys required for core.",
   "description_ja": "",
   "url": "https://github.com/7onez/cti-expert",
-  "homepage_url": "",
+  "homepage_url": "https://chongluadao.vn",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
@@ -16,18 +16,20 @@
     "cyber-threat-intelligence",
     "digital-forensics",
     "investigation",
+    "mcp-server",
     "osint",
+    "osint-tool",
     "reconnaissance",
     "security",
     "threat-intelligence"
   ],
-  "star_count": 584,
-  "fork_count": 83,
+  "star_count": 593,
+  "fork_count": 88,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-06T11:52:32Z",
-  "updated_at": "2026-08-30T06:17:03Z",
-  "pushed_at": "2026-08-28T08:06:47Z",
+  "updated_at": "2026-09-10T12:22:31Z",
+  "pushed_at": "2026-09-05T14:41:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -85,6 +87,10 @@
     {
       "date": "2026-08-30",
       "stars": 584
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 593
     }
   ]
 }

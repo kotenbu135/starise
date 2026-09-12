@@ -6,7 +6,7 @@
   "description": "Do it like =\u003e validates :photos, attached: true, content_type: ['image/png', 'image/jpg', 'image/jpeg'], size: { less_than: 500.kilobytes }, limit: { min: 1, max: 3 }, aspect_ratio: :landscape, dimension: { width: { in: 800..1600 }",
   "description_ja": "validates :photos, attached: true, content_type: ['image/png', 'image/jpg', 'image/jpeg'], size: { less_than: 500.kilobytes }, limit: { min: 1, max: 3 }, aspect_ratio: :landscape, dimension: { width: { in: 800..1600 } のように記述できるバリデーション拡張",
   "url": "https://github.com/igorkasyanchuk/active_storage_validations",
-  "homepage_url": "https://www.railsjazz.com/",
+  "homepage_url": "https://www.igorkasyanchuk.com/",
   "language": "Ruby",
   "license": "MIT",
   "topics": [
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-08-28T15:59:26Z",
-  "updated_at": "2026-08-28T17:53:21Z",
-  "pushed_at": "2026-08-22T20:29:22Z",
+  "updated_at": "2026-09-11T17:24:05Z",
+  "pushed_at": "2026-09-11T09:31:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +398,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 1191
+    },
+    {
+      "date": "2026-09-11",
       "stars": 1191
     }
   ]

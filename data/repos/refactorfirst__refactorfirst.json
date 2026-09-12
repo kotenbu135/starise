@@ -3,7 +3,7 @@
   "owner": "refactorfirst",
   "name": "refactorfirst",
   "full_name": "refactorfirst/refactorfirst",
-  "description": "Identifies and prioritizes God Classes, Highly Coupled classes, and Class Cycles in Java codebases you should refactor first.",
+  "description": "Identifies and prioritizes Class and Package Cycles and Anti-pattens in Java \u0026 Kotlin codebases you should refactor first.",
   "description_ja": "",
   "url": "https://github.com/refactorfirst/RefactorFirst",
   "homepage_url": "",
@@ -13,6 +13,7 @@
     "cycle-analysis",
     "cycle-detection",
     "java",
+    "kotlin",
     "maven",
     "maven-plugin",
     "refactoring",
@@ -25,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-01T13:48:21Z",
-  "updated_at": "2026-08-29T05:18:07Z",
-  "pushed_at": "2026-08-27T17:56:38Z",
+  "updated_at": "2026-09-09T11:51:52Z",
+  "pushed_at": "2026-09-10T13:06:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +404,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 543
+    },
+    {
+      "date": "2026-09-11",
       "stars": 543
     }
   ]

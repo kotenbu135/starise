@@ -3,8 +3,8 @@
   "owner": "strobelabs",
   "name": "eth.zig",
   "full_name": "strobelabs/eth.zig",
-  "description": "Zig Ethereum client library. Faster than alloy.rs on 20/26 benchmarks.",
-  "description_ja": "Zig 製 Ethereum クライアントライブラリ。26 件中 20 件のベンチマークで alloy.rs より高速",
+  "description": "Zig Ethereum client library. Faster than alloy.rs on 18/26 benchmarks.",
+  "description_ja": "",
   "url": "https://github.com/StrobeLabs/eth.zig",
   "homepage_url": "https://ethzig.org",
   "language": "C",
@@ -31,13 +31,13 @@
     "zig-ethereum",
     "zig-package"
   ],
-  "star_count": 82,
+  "star_count": 84,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-26T02:48:48Z",
-  "updated_at": "2026-08-21T06:24:15Z",
-  "pushed_at": "2026-08-19T16:44:22Z",
+  "updated_at": "2026-09-05T03:57:38Z",
+  "pushed_at": "2026-09-11T09:16:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +411,10 @@
     {
       "date": "2026-08-30",
       "stars": 82
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 84
     }
   ]
 }

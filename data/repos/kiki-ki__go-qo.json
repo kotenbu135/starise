@@ -3,8 +3,8 @@
   "owner": "kiki-ki",
   "name": "go-qo",
   "full_name": "kiki-ki/go-qo",
-  "description": "qo is an interactive minimalist TUI to query JSON and CSV using SQL.",
-  "description_ja": "qo は SQL を使って JSON と CSV をクエリできるインタラクティブなミニマリスト TUI ツールです。",
+  "description": "qo is an interactive TUI to query JSON and CSV using SQL.",
+  "description_ja": "",
   "url": "https://github.com/kiki-ki/go-qo",
   "homepage_url": "",
   "language": "Go",
@@ -26,13 +26,13 @@
     "tsv",
     "tui"
   ],
-  "star_count": 398,
+  "star_count": 397,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-25T14:06:56Z",
-  "updated_at": "2026-08-29T00:07:43Z",
-  "pushed_at": "2026-08-29T00:07:21Z",
+  "updated_at": "2026-09-09T00:34:38Z",
+  "pushed_at": "2026-09-05T00:08:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -406,6 +406,10 @@
     {
       "date": "2026-08-30",
       "stars": 398
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 397
     }
   ]
 }

@@ -3,26 +3,32 @@
   "owner": "b1rdmania",
   "name": "hinge-profile-optimizer",
   "full_name": "b1rdmania/hinge-profile-optimizer",
-  "description": "Hinge Dating Profile Optimizer — A Claude Skill. Comprehensive, research-backed process based on 45+ peer-reviewed sources. 45 mins to meet your life partner (or weekend 9/10).",
+  "description": "Research-backed Hinge profile optimizer for ChatGPT, Codex and Claude Code: screenshot audits, photo strategy, prompt writing and settings.",
   "description_ja": "",
   "url": "https://github.com/b1rdmania/hinge-profile-optimizer",
-  "homepage_url": "",
-  "language": "",
+  "homepage_url": "https://github.com/b1rdmania/hinge-profile-optimizer/releases/latest",
+  "language": "Shell",
   "license": "MIT",
   "topics": [
+    "agent-skills",
+    "chatgpt",
+    "chatgpt-plugin",
     "claude-code-skill",
     "claude-skills",
+    "codex",
     "dating",
+    "dating-profile",
     "hinge",
-    "life-hacks"
+    "openai-plugin",
+    "profile-optimization"
   ],
-  "star_count": 57,
-  "fork_count": 6,
+  "star_count": 60,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-01T13:28:12Z",
-  "updated_at": "2026-08-27T18:38:19Z",
-  "pushed_at": "2026-08-27T18:34:24Z",
+  "updated_at": "2026-09-08T20:43:41Z",
+  "pushed_at": "2026-09-01T11:19:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -132,6 +138,10 @@
     {
       "date": "2026-08-30",
       "stars": 57
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 60
     }
   ]
 }

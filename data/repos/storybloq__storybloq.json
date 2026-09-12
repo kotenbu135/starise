@@ -3,7 +3,7 @@
   "owner": "storybloq",
   "name": "storybloq",
   "full_name": "storybloq/storybloq",
-  "description": "Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.",
+  "description": "Project memory and workflows for Claude Code and Codex. Keep stories, plans, handovers, and review evidence in your repo. Resume across sessions and follow progress in the Mac app.",
   "description_ja": "",
   "url": "https://github.com/Storybloq/storybloq",
   "homepage_url": "https://www.storybloq.com",
@@ -28,13 +28,13 @@
     "typescript",
     "workflow"
   ],
-  "star_count": 698,
+  "star_count": 734,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T00:51:21Z",
-  "updated_at": "2026-08-30T20:12:45Z",
-  "pushed_at": "2026-08-30T20:11:22Z",
+  "updated_at": "2026-09-11T18:47:04Z",
+  "pushed_at": "2026-09-11T07:20:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -396,6 +396,10 @@
     {
       "date": "2026-08-30",
       "stars": 698
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 734
     }
   ]
 }

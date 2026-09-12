@@ -8,15 +8,35 @@
   "url": "https://github.com/NewKrok/nape-js",
   "homepage_url": "https://napejs.org/",
   "language": "TypeScript",
-  "license": "",
-  "topics": [],
-  "star_count": 65,
+  "license": "NOASSERTION",
+  "topics": [
+    "2d",
+    "broadphase",
+    "buoyancy",
+    "collision-detection",
+    "constraint",
+    "deterministic-physics",
+    "fluid-simulation",
+    "game-engine",
+    "game-physics",
+    "gamedev",
+    "javascript",
+    "multiplayer",
+    "nape",
+    "physics",
+    "physics-engine",
+    "physics-simulation",
+    "raycasting",
+    "rigid-body",
+    "typescript"
+  ],
+  "star_count": 72,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-21T20:08:39Z",
-  "updated_at": "2026-08-28T19:02:00Z",
-  "pushed_at": "2026-08-28T18:57:29Z",
+  "updated_at": "2026-09-11T20:54:05Z",
+  "pushed_at": "2026-09-11T20:54:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -334,6 +354,10 @@
     {
       "date": "2026-08-30",
       "stars": 65
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 72
     }
   ]
 }

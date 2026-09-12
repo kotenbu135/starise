@@ -9,13 +9,24 @@
   "homepage_url": "http://www.alachisoft.com",
   "language": "C#",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 665,
+  "topics": [
+    "cache-cluster",
+    "caching",
+    "csharp",
+    "distributed-cache",
+    "dotnet",
+    "dotnet-core",
+    "high-availability",
+    "in-memory-cache",
+    "open-source",
+    "scalability"
+  ],
+  "star_count": 666,
   "fork_count": 127,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-01-08T08:37:52Z",
-  "updated_at": "2026-08-19T11:58:22Z",
+  "updated_at": "2026-09-04T12:15:55Z",
   "pushed_at": "2026-08-07T11:57:41Z",
   "deleted_at": "",
   "star_history": [
@@ -394,6 +405,10 @@
     {
       "date": "2026-08-30",
       "stars": 665
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 666
     }
   ]
 }

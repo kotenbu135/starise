@@ -7,8 +7,8 @@
   "description_ja": "",
   "url": "https://github.com/heyvaldemar/gitlab-traefik-letsencrypt-docker-compose",
   "homepage_url": "https://www.heyvaldemar.com",
-  "language": "",
-  "license": "",
+  "language": "Shell",
+  "license": "MIT",
   "topics": [
     "cicd",
     "cicd-pipeline",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-22T00:24:44Z",
-  "updated_at": "2026-06-22T14:33:17Z",
-  "pushed_at": "2026-06-22T14:30:17Z",
+  "updated_at": "2026-09-11T17:07:42Z",
+  "pushed_at": "2026-09-11T17:07:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -226,6 +226,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 34
+    },
+    {
+      "date": "2026-09-11",
       "stars": 34
     }
   ]

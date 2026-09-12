@@ -3,8 +3,8 @@
   "owner": "samuraigpt",
   "name": "muapi-comfyui",
   "full_name": "samuraigpt/muapi-comfyui",
-  "description": "ComfyUI custom nodes for 100+ AI models — Seedance, Kling, Veo3, Flux, HiDream, GPT-image, Imagen4 and more via muapi.ai",
-  "description_ja": "100以上のAIモデル（Seedance、Kling、Veo3、Flux、HiDream、GPT-image、Imagen4など）向けComfyUIカスタムノード — muapi.ai経由",
+  "description": "ComfyUI custom nodes for 600+ AI models — Seedance, Kling, Veo3, Flux, HiDream, GPT-image, Imagen4 and more via muapi.ai",
+  "description_ja": "",
   "url": "https://github.com/SamurAIGPT/muapi-comfyui",
   "homepage_url": "https://muapi.ai/playground/nano-banana",
   "language": "Python",
@@ -31,13 +31,13 @@
     "veo3",
     "video-generation"
   ],
-  "star_count": 67,
+  "star_count": 70,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-05T11:00:07Z",
-  "updated_at": "2026-08-28T22:28:16Z",
-  "pushed_at": "2026-08-15T08:40:58Z",
+  "updated_at": "2026-09-07T23:02:21Z",
+  "pushed_at": "2026-09-02T14:44:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +415,10 @@
     {
       "date": "2026-08-30",
       "stars": 67
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 70
     }
   ]
 }

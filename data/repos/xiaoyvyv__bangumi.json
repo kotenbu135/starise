@@ -3,8 +3,8 @@
   "owner": "xiaoyvyv",
   "name": "bangumi",
   "full_name": "xiaoyvyv/bangumi",
-  "description": "Bangumi for Android - A full-featured unofficial android native application for the bangumi.tv",
-  "description_ja": "Bangumi for Android - bangumi.tv の全機能を備えた非公式 Android ネイティブアプリ",
+  "description": "Bangumi for CMP - A full-featured unofficial compose-multiplatform application for the bangumi.tv",
+  "description_ja": "",
   "url": "https://github.com/xiaoyvyv/bangumi",
   "homepage_url": "",
   "language": "Kotlin",
@@ -20,22 +20,24 @@
     "chii",
     "chobits",
     "client",
+    "cmp",
     "comic",
-    "game",
+    "compose",
+    "kmp",
     "kotlin",
     "mikanani",
+    "multiplatform",
     "music",
     "native",
-    "rank",
-    "tv"
+    "rank"
   ],
-  "star_count": 1087,
-  "fork_count": 30,
+  "star_count": 1105,
+  "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-24T09:45:47Z",
-  "updated_at": "2026-08-30T20:18:33Z",
-  "pushed_at": "2026-08-30T20:16:36Z",
+  "updated_at": "2026-09-11T10:17:34Z",
+  "pushed_at": "2026-09-06T05:18:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -413,6 +415,10 @@
     {
       "date": "2026-08-30",
       "stars": 1087
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1105
     }
   ]
 }

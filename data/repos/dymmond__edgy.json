@@ -3,8 +3,8 @@
   "owner": "dymmond",
   "name": "edgy",
   "full_name": "dymmond/edgy",
-  "description": "🔥 The perfect ORM to work with complex databases 🔥",
-  "description_ja": "🔥 複雑なデータベースを扱うための完璧な ORM 🔥",
+  "description": "The perfect ORM to work with complex databases",
+  "description_ja": "",
   "url": "https://github.com/dymmond/edgy",
   "homepage_url": "https://edgy.dymmond.com",
   "language": "Python",
@@ -26,13 +26,13 @@
     "sqlite3",
     "sqlserver"
   ],
-  "star_count": 438,
+  "star_count": 441,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-02T16:21:04Z",
-  "updated_at": "2026-08-28T13:37:34Z",
-  "pushed_at": "2026-08-28T23:00:39Z",
+  "updated_at": "2026-09-11T18:18:02Z",
+  "pushed_at": "2026-09-11T19:38:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -406,6 +406,10 @@
     {
       "date": "2026-08-30",
       "stars": 438
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 441
     }
   ]
 }

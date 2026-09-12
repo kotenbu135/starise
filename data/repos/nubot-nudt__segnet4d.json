@@ -3,8 +3,8 @@
   "owner": "nubot-nudt",
   "name": "segnet4d",
   "full_name": "nubot-nudt/segnet4d",
-  "description": "[T-ASE 25] SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud",
-  "description_ja": "[T-ASE 25] SegNet4D: LiDAR点群向け効率的なインスタンス認識4Dセマンティックセグメンテーション",
+  "description": "[TASE 25] SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud",
+  "description_ja": "",
   "url": "https://github.com/nubot-nudt/SegNet4D",
   "homepage_url": "",
   "language": "Python",
@@ -19,7 +19,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-18T11:12:48Z",
-  "updated_at": "2026-08-19T07:16:16Z",
+  "updated_at": "2026-08-31T05:58:11Z",
   "pushed_at": "2026-05-11T00:23:59Z",
   "deleted_at": "",
   "star_history": [
@@ -393,6 +393,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 114
+    },
+    {
+      "date": "2026-09-11",
       "stars": 114
     }
   ]

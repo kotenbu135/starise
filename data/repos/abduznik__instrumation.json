@@ -8,30 +8,31 @@
   "url": "https://github.com/abduznik/instrumation",
   "homepage_url": "https://abduznik.github.io/instrumation/",
   "language": "Python",
-  "license": "MIT",
+  "license": "AGPL-3.0",
   "topics": [
-    "anritsu",
+    "ate",
+    "automation",
     "digital-twin",
-    "hal",
-    "instrumentation",
-    "keysight",
-    "pyserial",
+    "electronics",
+    "embedded",
+    "hardware-abstraction",
+    "instrument",
+    "instrument-control",
+    "open-source",
     "python",
     "pyvisa",
-    "rf-hal",
-    "rigol",
-    "rohde-schwarz",
+    "rf",
     "scpi",
-    "siglent",
-    "test-automation"
+    "test-automation",
+    "test-equipment"
   ],
-  "star_count": 92,
-  "fork_count": 26,
+  "star_count": 94,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-27T14:15:31Z",
-  "updated_at": "2026-08-29T06:23:40Z",
-  "pushed_at": "2026-08-29T06:23:29Z",
+  "updated_at": "2026-09-10T18:35:52Z",
+  "pushed_at": "2026-09-10T18:35:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +406,10 @@
     {
       "date": "2026-08-30",
       "stars": 92
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 94
     }
   ]
 }

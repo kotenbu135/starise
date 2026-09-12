@@ -3,8 +3,8 @@
   "owner": "martin-olivier",
   "name": "airgorah",
   "full_name": "martin-olivier/airgorah",
-  "description": "A WiFi security auditing software mainly based on aircrack-ng tools suite",
-  "description_ja": "主に aircrack-ng ツールスイートをベースとした WiFi セキュリティ監査ソフトウェア。",
+  "description": "A WiFi security auditing software",
+  "description_ja": "",
   "url": "https://github.com/martin-olivier/airgorah",
   "homepage_url": "https://crates.io/crates/airgorah",
   "language": "Rust",
@@ -20,13 +20,13 @@
     "wifi-security",
     "wireless"
   ],
-  "star_count": 2552,
-  "fork_count": 387,
+  "star_count": 3114,
+  "fork_count": 497,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-09-30T09:06:45Z",
-  "updated_at": "2026-08-30T22:23:48Z",
-  "pushed_at": "2026-08-29T17:24:10Z",
+  "updated_at": "2026-09-11T19:35:32Z",
+  "pushed_at": "2026-09-09T19:33:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +404,10 @@
     {
       "date": "2026-08-30",
       "stars": 2552
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 3114
     }
   ]
 }

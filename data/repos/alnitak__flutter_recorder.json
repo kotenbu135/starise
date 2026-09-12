@@ -3,8 +3,8 @@
   "owner": "alnitak",
   "name": "flutter_recorder",
   "full_name": "alnitak/flutter_recorder",
-  "description": "A low-level audio recorder plugin which uses miniaudio as backend and supporting all the platforms. It can detect silence and save to WAV audio file. Audio wave and FFT data can be get in real-time as for the volume level.",
-  "description_ja": "[49] miniaudio をバックエンドに採用した低レベルオーディオレコーダープラグイン。全プラットフォーム対応。無音検出と WAV ファイル保存が可能。音声波形と FFT データをボリュームレベルとともにリアルタイム取得可能。",
+  "description": "A low-level audio recorder plugin which uses miniaudio as backend and supporting all the platforms. It can detect silence and save to WAV/Opus audio file. Audio wave and FFT data can be get in real-time as for the volume level.",
+  "description_ja": "",
   "url": "https://github.com/alnitak/flutter_recorder",
   "homepage_url": "",
   "language": "C",
@@ -18,12 +18,12 @@
     "miniaudio"
   ],
   "star_count": 57,
-  "fork_count": 15,
+  "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-12T15:51:47Z",
-  "updated_at": "2026-08-29T13:28:46Z",
-  "pushed_at": "2026-08-30T13:08:37Z",
+  "updated_at": "2026-09-10T10:44:06Z",
+  "pushed_at": "2026-09-10T10:43:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -396,6 +396,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 57
+    },
+    {
+      "date": "2026-09-11",
       "stars": 57
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "thdxg",
   "name": "macterm",
   "full_name": "thdxg/macterm",
-  "description": "A macOS terminal with session persistence, smart multiplexing, and native UI",
+  "description": "A lightweight macOS terminal with vertical tabs, session persistence, and native UI",
   "description_ja": "",
   "url": "https://github.com/thdxg/macterm",
   "homepage_url": "https://macterm.thdxg.dev",
@@ -15,16 +15,17 @@
     "macos",
     "multiplexer",
     "native",
+    "session-persistence",
     "terminal",
     "zmx"
   ],
-  "star_count": 423,
-  "fork_count": 26,
+  "star_count": 439,
+  "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-12T04:22:18Z",
-  "updated_at": "2026-08-30T08:39:29Z",
-  "pushed_at": "2026-08-29T19:36:30Z",
+  "updated_at": "2026-09-11T12:52:40Z",
+  "pushed_at": "2026-09-11T13:40:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +399,10 @@
     {
       "date": "2026-08-30",
       "stars": 423
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 439
     }
   ]
 }

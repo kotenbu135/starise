@@ -9,13 +9,34 @@
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 124,
+  "topics": [
+    "agentic-soc",
+    "ai-agents",
+    "blueteam",
+    "chronicle-siem",
+    "claude-code",
+    "cybersecurity",
+    "gemini",
+    "google-secops",
+    "incident-response",
+    "model-context-protocol",
+    "playbook",
+    "playbooks",
+    "runbooks",
+    "secops",
+    "security-automation",
+    "security-operations",
+    "siem",
+    "soar",
+    "threat-hunting",
+    "threat-intelligence"
+  ],
+  "star_count": 125,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-09T15:23:51Z",
-  "updated_at": "2026-08-24T22:18:02Z",
+  "updated_at": "2026-09-11T21:28:23Z",
   "pushed_at": "2026-08-14T21:44:03Z",
   "deleted_at": "",
   "star_history": [
@@ -386,6 +407,10 @@
     {
       "date": "2026-08-30",
       "stars": 124
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 125
     }
   ]
 }

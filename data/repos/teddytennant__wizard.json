@@ -3,20 +3,20 @@
   "owner": "teddytennant",
   "name": "wizard",
   "full_name": "teddytennant/wizard",
-  "description": "Self-extending autonomous agent in one Rust binary. One-line install, any provider (OpenAI-compatible, Anthropic, xAI) or fully local via llama.cpp, live /evolve self-modification, MCP, messaging gateway, built-in bench",
+  "description": "The fastest agent in your terminal: one Rust binary, any model",
   "description_ja": "",
   "url": "https://github.com/teddytennant/wizard",
   "homepage_url": "https://wizard.teddytennant.com",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 70,
-  "fork_count": 3,
+  "star_count": 67,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T14:02:48Z",
-  "updated_at": "2026-08-30T02:05:33Z",
-  "pushed_at": "2026-08-30T02:04:50Z",
+  "updated_at": "2026-09-11T20:38:39Z",
+  "pushed_at": "2026-09-11T20:38:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -118,6 +118,10 @@
     {
       "date": "2026-08-30",
       "stars": 70
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 67
     }
   ]
 }

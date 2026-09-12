@@ -3,8 +3,8 @@
   "owner": "c4spar",
   "name": "cliffy",
   "full_name": "c4spar/cliffy",
-  "description": "A TypeScript-first, runtime-agnostic command-line toolkit for building complex   CLIs — featuring a command framework, argument parser, interactive prompts,   tables, ANSI utilities, and more.",
-  "description_ja": "複雑なCLIを構築するためのTypeScriptファースト、ランタイム非依存のコマンドラインツールキット。コマンドフレームワーク、引数パーサー、インタラクティブプロンプト、テーブル、ANSIユーティリティなどを搭載",
+  "description": "A TypeScript-first, runtime-agnostic command-line toolkit for Deno, Node.js and Bun: featuring a command framework, argument parser, interactive prompts, tables, ANSI utilities, and more.",
+  "description_ja": "",
   "url": "https://github.com/c4spar/cliffy",
   "homepage_url": "https://cliffy.io",
   "language": "TypeScript",
@@ -22,12 +22,12 @@
     "prompts",
     "typescript"
   ],
-  "star_count": 1175,
+  "star_count": 1176,
   "fork_count": 81,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-03-09T22:54:29Z",
-  "updated_at": "2026-08-24T12:32:49Z",
+  "updated_at": "2026-09-11T19:47:06Z",
   "pushed_at": "2026-08-16T22:15:31Z",
   "deleted_at": "",
   "star_history": [
@@ -402,6 +402,10 @@
     {
       "date": "2026-08-30",
       "stars": 1175
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1176
     }
   ]
 }

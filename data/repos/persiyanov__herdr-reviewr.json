@@ -3,7 +3,7 @@
   "owner": "persiyanov",
   "name": "herdr-reviewr",
   "full_name": "persiyanov/herdr-reviewr",
-  "description": "A code-review + file-viewer sidebar for herdr — comment on an agent's diff, send it back. Plus a read-only view of the PR, its checks, and comments.",
+  "description": "A code review + file viewer sidebar for herdr. Comment on a diff and send back to agent. Inspect diffs, files, and a PR state.",
   "description_ja": "",
   "url": "https://github.com/persiyanov/herdr-reviewr",
   "homepage_url": "",
@@ -16,13 +16,13 @@
     "rust",
     "tui"
   ],
-  "star_count": 566,
-  "fork_count": 61,
+  "star_count": 677,
+  "fork_count": 69,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-26T12:50:56Z",
-  "updated_at": "2026-08-30T22:22:12Z",
-  "pushed_at": "2026-08-29T17:07:33Z",
+  "updated_at": "2026-09-11T22:52:19Z",
+  "pushed_at": "2026-09-05T06:13:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -140,6 +140,10 @@
     {
       "date": "2026-08-30",
       "stars": 566
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 677
     }
   ]
 }

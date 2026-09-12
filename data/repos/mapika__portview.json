@@ -3,7 +3,7 @@
   "owner": "mapika",
   "name": "portview",
   "full_name": "mapika/portview",
-  "description": "See what's on your ports, then act on it. Diagnostic-first port viewer for Linux, MacOS and Windows.",
+  "description": "List ports and their processes on Linux, macOS, and Windows.",
   "description_ja": "",
   "url": "https://github.com/Mapika/portview",
   "homepage_url": "https://crates.io/crates/portview",
@@ -30,13 +30,13 @@
     "tui",
     "windows"
   ],
-  "star_count": 57,
+  "star_count": 58,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-07T01:10:42Z",
-  "updated_at": "2026-08-23T01:52:43Z",
-  "pushed_at": "2026-08-17T09:20:44Z",
+  "updated_at": "2026-09-07T22:10:17Z",
+  "pushed_at": "2026-09-07T22:09:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +98,10 @@
     {
       "date": "2026-08-30",
       "stars": 57
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 58
     }
   ]
 }

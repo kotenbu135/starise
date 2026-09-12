@@ -3,7 +3,7 @@
   "owner": "oleksandrkrupko",
   "name": "mac-os-debloat",
   "full_name": "oleksandrkrupko/mac-os-debloat",
-  "description": "Debloat your Mac from the terminal. SIP-safe interactive console util to disable 270 non-essential macOS launchd services + Spotlight toggle, with telemetry/balanced presets and your own custom presets. Self-validates against your macOS build. macOS Tahoe + Apple Silicon. Zero deps.",
+  "description": "Debloat your Mac from the terminal. SIP-safe interactive console util to disable 270 non-essential macOS launchd services and the Spotlight file index, with one-key telemetry/balanced presets in the TUI and your own custom presets. Self-validates against your macOS build. macOS Tahoe + Apple Silicon. Zero deps.",
   "description_ja": "",
   "url": "https://github.com/OleksandrKrupko/mac-os-debloat",
   "homepage_url": "",
@@ -27,13 +27,13 @@
     "tahoe",
     "tui"
   ],
-  "star_count": 36,
-  "fork_count": 5,
+  "star_count": 57,
+  "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T15:28:56Z",
-  "updated_at": "2026-08-29T22:28:30Z",
-  "pushed_at": "2026-08-18T15:04:43Z",
+  "updated_at": "2026-09-11T22:37:07Z",
+  "pushed_at": "2026-09-04T12:43:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +103,10 @@
     {
       "date": "2026-08-30",
       "stars": 36
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 57
     }
   ]
 }

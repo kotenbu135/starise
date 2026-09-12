@@ -3,7 +3,7 @@
   "owner": "bowenliang123",
   "name": "dsh-context",
   "full_name": "bowenliang123/dsh-context",
-  "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+  "description": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
   "description_ja": "",
   "url": "https://github.com/bowenliang123/dsh-context",
   "homepage_url": "https://www.npmjs.com/package/dsh-context",
@@ -17,13 +17,13 @@
     "dsh-plugin",
     "dsh-plugins"
   ],
-  "star_count": 1186,
-  "fork_count": 31,
+  "star_count": 1338,
+  "fork_count": 40,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-14T08:23:28Z",
-  "updated_at": "2026-08-30T21:35:19Z",
-  "pushed_at": "2026-08-30T17:18:49Z",
+  "updated_at": "2026-09-11T17:50:25Z",
+  "pushed_at": "2026-09-11T17:50:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +45,10 @@
     {
       "date": "2026-08-30",
       "stars": 1186
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1338
     }
   ]
 }

@@ -3,20 +3,27 @@
   "owner": "ossrs",
   "name": "oryx",
   "full_name": "ossrs/oryx",
-  "description": "Oryx(SRS Stack) is an all-in-one, out-of-the-box, and open-source video solution for creating online video services, including live streaming and WebRTC, on the cloud or through self-hosting.",
+  "description": "Oryx (SRS Stack) is an AI-driven, all-in-one, out-of-the-box, and open-source video solution for creating online video services, including live streaming and WebRTC, in the cloud or through self-hosting.",
   "description_ja": "",
   "url": "https://github.com/ossrs/oryx",
   "homepage_url": "https://ossrs.io/oryx",
-  "language": "JavaScript",
+  "language": "Go",
   "license": "MIT",
-  "topics": [],
-  "star_count": 875,
-  "fork_count": 155,
+  "topics": [
+    "ai-driven",
+    "hls",
+    "media-server",
+    "rtmp",
+    "srt",
+    "whip"
+  ],
+  "star_count": 880,
+  "fork_count": 157,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-06T14:24:09Z",
-  "updated_at": "2026-08-27T01:30:45Z",
-  "pushed_at": "2026-08-11T14:39:13Z",
+  "updated_at": "2026-09-09T11:57:48Z",
+  "pushed_at": "2026-09-10T04:00:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +57,10 @@
     {
       "date": "2026-08-30",
       "stars": 875
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 880
     }
   ]
 }

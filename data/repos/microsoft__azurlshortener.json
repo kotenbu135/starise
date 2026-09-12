@@ -3,8 +3,8 @@
   "owner": "microsoft",
   "name": "azurlshortener",
   "full_name": "microsoft/azurlshortener",
-  "description": "An simple and easy Url Shortener",
-  "description_ja": "シンプルで使いやすい URL 短縮ツール",
+  "description": "A simple and easy Url Shortener",
+  "description_ja": "",
   "url": "https://github.com/microsoft/AzUrlShortener",
   "homepage_url": "",
   "language": "C#",
@@ -20,13 +20,13 @@
     "storage",
     "url-shortener"
   ],
-  "star_count": 584,
-  "fork_count": 777,
-  "is_archived": false,
+  "star_count": 586,
+  "fork_count": 779,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2020-03-10T11:04:16Z",
-  "updated_at": "2026-08-30T09:52:25Z",
-  "pushed_at": "2026-08-24T13:24:46Z",
+  "updated_at": "2026-09-09T14:44:07Z",
+  "pushed_at": "2026-09-09T14:21:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +404,10 @@
     {
       "date": "2026-08-30",
       "stars": 584
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 586
     }
   ]
 }

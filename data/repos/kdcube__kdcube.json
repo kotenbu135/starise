@@ -11,22 +11,22 @@
   "license": "MIT",
   "topics": [
     "agent-framework",
-    "agent-runtime",
     "agentic-ai",
-    "ai",
+    "agentic-runtime",
     "ai-agents",
+    "application-server",
     "autonomous-agents",
     "chatbot",
     "claude",
     "harness",
     "harness-engineering",
-    "harness-framework",
     "isolated-execution",
     "kdcube",
     "llm",
     "mcp",
     "mcp-server",
     "multi-agent",
+    "policy-enforced-ai",
     "provenance",
     "sandbox",
     "self-hosted"
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-20T15:32:28Z",
-  "updated_at": "2026-08-30T20:14:43Z",
-  "pushed_at": "2026-08-30T20:13:51Z",
+  "updated_at": "2026-09-11T18:47:24Z",
+  "pushed_at": "2026-09-11T18:47:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -306,6 +306,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 25
+    },
+    {
+      "date": "2026-09-11",
       "stars": 25
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "sidhant947",
   "name": "wallet",
   "full_name": "sidhant947/wallet",
-  "description": "Wallet is a Flutter project designed to store card information locally on the device, ensuring that the data is secure and cannot be stolen, as the application does not have internet access. The app is optimized for efficiency, allowing users to quickly copy card details for transactions.",
-  "description_ja": "Wallet はカード情報をデバイスにローカル保存する Flutter プロジェクトです。インターネット接続なしで動作するため、データの安全性を確保します。取引時にカード情報をすばやくコピーできるよう効率性を重視した設計です。",
+  "description": "Development is paused for Wallet.",
+  "description_ja": "",
   "url": "https://github.com/sidhant947/Wallet",
   "homepage_url": "https://wallet947.pages.dev/",
   "language": "Dart",
@@ -16,13 +16,13 @@
     "loyalty-cards",
     "wallet"
   ],
-  "star_count": 177,
+  "star_count": 186,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-09T15:52:25Z",
-  "updated_at": "2026-08-28T13:15:09Z",
-  "pushed_at": "2026-08-16T05:28:34Z",
+  "updated_at": "2026-09-11T11:49:15Z",
+  "pushed_at": "2026-09-10T11:50:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -396,6 +396,10 @@
     {
       "date": "2026-08-30",
       "stars": 177
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 186
     }
   ]
 }

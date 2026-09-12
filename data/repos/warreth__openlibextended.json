@@ -3,8 +3,8 @@
   "owner": "warreth",
   "name": "openlibextended",
   "full_name": "warreth/openlibextended",
-  "description": "An Open source app to download and read books from shadow library (Anna’s Archive)",
-  "description_ja": "シャドウライブラリ（Anna's Archive）から書籍をダウンロード・閲覧するオープンソースアプリ",
+  "description": "An Open source app to download and read books from shadow library's (Anna’s Archive, libgen, zlib)",
+  "description_ja": "",
   "url": "https://github.com/warreth/OpenlibExtended",
   "homepage_url": "",
   "language": "Dart",
@@ -16,19 +16,25 @@
     "ebook",
     "ebook-downloader",
     "ereader",
+    "libgen",
+    "libgen-downloader",
+    "libgen-search",
+    "libgenesis",
     "library-genesis",
     "openlib",
     "openlibrary",
     "pdf",
-    "shadow-library"
+    "shadow-library",
+    "zlib",
+    "zlibrary"
   ],
-  "star_count": 454,
-  "fork_count": 18,
+  "star_count": 473,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-07T19:49:26Z",
-  "updated_at": "2026-08-30T02:43:40Z",
-  "pushed_at": "2026-08-23T23:59:38Z",
+  "updated_at": "2026-09-11T22:30:10Z",
+  "pushed_at": "2026-09-03T19:14:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -406,6 +412,10 @@
     {
       "date": "2026-08-30",
       "stars": 454
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 473
     }
   ]
 }

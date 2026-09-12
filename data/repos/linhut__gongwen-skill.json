@@ -1,0 +1,35 @@
+{
+  "repo_id": "R_kgDOTeG1GQ",
+  "owner": "linhut",
+  "name": "gongwen-skill",
+  "full_name": "linhut/gongwen-skill",
+  "description": "公文全流程处理工具——基于 GB/T 9704《党政机关公文格式》 国家标准，面向公文写作、企事业单位材料编制场景，支持 格式检查与修复、内容优化（Word 原生修订+批注/差异对比版）、模板生成、Markdown 转公文、版头版记页码注入、事实核验、风格增强 等完整能力。原生支持 DeepSeek Harness (DSH) 技能系统，打包为可被 AI Agent 直接调用的 Skill，完全自包含，克隆即用。",
+  "description_ja": "",
+  "url": "https://github.com/linhut/gongwen-skill",
+  "homepage_url": "https://doc.linhut.cn",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "ai-docs",
+    "deepseek-harness",
+    "deepseek-harness-plugin",
+    "docx",
+    "dsh-plugin",
+    "gongwen",
+    "wps-office"
+  ],
+  "star_count": 48,
+  "fork_count": 8,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-07-20T13:28:57Z",
+  "updated_at": "2026-09-11T16:15:12Z",
+  "pushed_at": "2026-09-11T16:15:07Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-11",
+      "stars": 48
+    }
+  ]
+}

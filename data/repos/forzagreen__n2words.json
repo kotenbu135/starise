@@ -3,25 +3,39 @@
   "owner": "forzagreen",
   "name": "n2words",
   "full_name": "forzagreen/n2words",
-  "description": "Convert numerical numbers to written numbers, in 52+ languages.",
-  "description_ja": "52以上の言語で数値を文字表現に変換するライブラリ",
+  "description": "Numbers to words in 50 languages (72 regional variants). Cardinal, ordinal and currency. Zero dependencies, BigInt-safe, tree-shakeable.",
+  "description_ja": "",
   "url": "https://github.com/forzagreen/n2words",
-  "homepage_url": "",
+  "homepage_url": "https://forzagreen.github.io/n2words/",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "bcp47",
+    "bigint",
+    "cardinal-numbers",
     "convert-numbers",
+    "currency",
+    "esm",
+    "i18n",
+    "internationalization",
+    "javascript",
     "language",
+    "localization",
     "natural-language",
-    "nlp"
+    "number-to-words",
+    "numbers-to-words",
+    "ordinal-numbers",
+    "spell-numbers",
+    "typescript",
+    "zero-dependencies"
   ],
   "star_count": 112,
-  "fork_count": 30,
+  "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-11-30T10:48:39Z",
-  "updated_at": "2026-08-21T20:41:03Z",
-  "pushed_at": "2026-08-24T06:03:18Z",
+  "updated_at": "2026-09-11T09:50:05Z",
+  "pushed_at": "2026-09-11T09:50:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +408,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 112
+    },
+    {
+      "date": "2026-09-11",
       "stars": 112
     }
   ]

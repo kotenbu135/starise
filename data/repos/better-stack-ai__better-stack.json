@@ -3,15 +3,17 @@
   "owner": "better-stack-ai",
   "name": "better-stack",
   "full_name": "better-stack-ai/better-stack",
-  "description": "Composable full-stack plugin system for modern React frameworks",
+  "description": "Open-source TypeScript system for installing full-stack features into existing React applications",
   "description_ja": "",
   "url": "https://github.com/better-stack-ai/better-stack",
-  "homepage_url": "https://www.btst.ai",
+  "homepage_url": "https://www.better-stack.ai",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "blog",
+    "btst",
     "drizzle",
+    "full-stack",
     "kysely",
     "next",
     "nextjs",
@@ -26,15 +28,16 @@
     "saas",
     "shadcn",
     "tanstack",
-    "tanstack-start"
+    "tanstack-start",
+    "typescript"
   ],
-  "star_count": 97,
+  "star_count": 98,
   "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-07T20:39:30Z",
-  "updated_at": "2026-08-30T09:56:33Z",
-  "pushed_at": "2026-08-29T20:03:08Z",
+  "updated_at": "2026-09-10T21:44:23Z",
+  "pushed_at": "2026-09-10T21:44:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -392,6 +395,10 @@
     {
       "date": "2026-08-30",
       "stars": 97
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 98
     }
   ]
 }

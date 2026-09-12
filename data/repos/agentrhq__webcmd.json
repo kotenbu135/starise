@@ -3,11 +3,11 @@
   "owner": "agentrhq",
   "name": "webcmd",
   "full_name": "agentrhq/webcmd",
-  "description": "The Browser Infra that learns and cuts token spend by upto 90%",
+  "description": "Self-learning agent browser",
   "description_ja": "",
   "url": "https://github.com/agentrhq/webcmd",
   "homepage_url": "https://webcmd.dev",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "ai-agents",
@@ -18,13 +18,13 @@
     "playwright",
     "self-learning-ai"
   ],
-  "star_count": 1548,
-  "fork_count": 897,
+  "star_count": 1600,
+  "fork_count": 895,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-02T11:49:31Z",
-  "updated_at": "2026-08-30T21:14:24Z",
-  "pushed_at": "2026-08-30T12:38:38Z",
+  "updated_at": "2026-09-11T16:15:26Z",
+  "pushed_at": "2026-09-11T10:19:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +42,10 @@
     {
       "date": "2026-08-30",
       "stars": 1548
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1600
     }
   ]
 }

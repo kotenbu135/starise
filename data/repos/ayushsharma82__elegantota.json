@@ -3,10 +3,10 @@
   "owner": "ayushsharma82",
   "name": "elegantota",
   "full_name": "ayushsharma82/elegantota",
-  "description": "OTA updates made slick and simple for everyone! (ESP8266, ESP32, RP2040+W, RP2350+W)",
-  "description_ja": "誰でも使えるスムーズでシンプルなOTAアップデート！（ESP8266、ESP32、RP2040+W、RP2350+W）",
+  "description": "The original over-the-air update library for wireless microcontrollers (since 2019).",
+  "description_ja": "",
   "url": "https://github.com/ayushsharma82/ElegantOTA",
-  "homepage_url": "https://store.softt.io/products/elegantota-pro",
+  "homepage_url": "docs.elegantota.pro",
   "language": "C++",
   "license": "AGPL-3.0",
   "topics": [
@@ -26,13 +26,13 @@
     "the",
     "update"
   ],
-  "star_count": 999,
+  "star_count": 1006,
   "fork_count": 166,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-03-19T16:18:43Z",
-  "updated_at": "2026-08-29T18:03:30Z",
-  "pushed_at": "2026-02-23T19:26:30Z",
+  "updated_at": "2026-09-09T17:10:41Z",
+  "pushed_at": "2026-09-05T19:55:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +410,10 @@
     {
       "date": "2026-08-30",
       "stars": 999
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1006
     }
   ]
 }

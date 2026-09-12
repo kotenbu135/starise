@@ -3,8 +3,8 @@
   "owner": "phlx0",
   "name": "drift",
   "full_name": "phlx0/drift",
-  "description": "Terminal screensaver that activates when you're idle — constellations, rain, particles \u0026 more. Press any key to resume. Just drift away!",
-  "description_ja": "アイドル時に起動するターミナルスクリーンセーバー — 星座、雨、パーティクルなど多彩なエフェクトを搭載。任意のキーで再開。ただ流れに身を任せて！",
+  "description": "Terminal screensaver that activates when you're idle, constellations, rain, particles \u0026 more. Press any key to resume. Just drift away!",
+  "description_ja": "",
   "url": "https://github.com/phlx0/drift",
   "homepage_url": "",
   "language": "Go",
@@ -22,13 +22,13 @@
     "tui",
     "unixporn"
   ],
-  "star_count": 694,
-  "fork_count": 16,
+  "star_count": 738,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-19T19:25:38Z",
-  "updated_at": "2026-08-30T05:27:50Z",
-  "pushed_at": "2026-08-20T08:18:12Z",
+  "updated_at": "2026-09-11T10:53:37Z",
+  "pushed_at": "2026-09-10T08:07:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +402,10 @@
     {
       "date": "2026-08-30",
       "stars": 694
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 738
     }
   ]
 }

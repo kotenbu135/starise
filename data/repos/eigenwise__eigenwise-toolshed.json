@@ -3,20 +3,20 @@
   "owner": "eigenwise",
   "name": "eigenwise-toolshed",
   "full_name": "eigenwise/eigenwise-toolshed",
-  "description": "Eigenwise's toolshed of Claude Code plugins. Includes codebase-mapper: a self-maintaining, language-agnostic codebase map that auto-loads into every Claude session.",
+  "description": "Six Claude Code plugins for the work that keeps coming back: repo maps, conditional rules, ticketed parallel work, extra subscription models, local usage metrics, and guided setup.",
   "description_ja": "",
   "url": "https://github.com/Eigenwise/eigenwise-toolshed",
   "homepage_url": "https://eigenwise.io",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [],
-  "star_count": 36,
-  "fork_count": 5,
+  "star_count": 131,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-13T08:55:58Z",
-  "updated_at": "2026-08-28T15:03:21Z",
-  "pushed_at": "2026-08-28T14:58:08Z",
+  "updated_at": "2026-09-11T21:55:56Z",
+  "pushed_at": "2026-09-11T21:55:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +50,10 @@
     {
       "date": "2026-08-30",
       "stars": 36
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 131
     }
   ]
 }

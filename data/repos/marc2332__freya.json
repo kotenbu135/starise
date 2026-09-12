@@ -3,27 +3,29 @@
   "owner": "marc2332",
   "name": "freya",
   "full_name": "marc2332/freya",
-  "description": "Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.",
-  "description_ja": "Skiaを使ったRust向けのクロスプラットフォーム・非Web GUIライブラリ。",
+  "description": "Cross-platform native GUI library for 🦀 Rust",
+  "description_ja": "",
   "url": "https://github.com/marc2332/freya",
   "homepage_url": "https://freyaui.dev",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "android",
     "cross-platform",
-    "dioxus",
+    "desktop",
     "gui",
-    "hacktoberfest",
+    "native",
     "rust",
-    "skia"
+    "skia",
+    "web"
   ],
-  "star_count": 3107,
-  "fork_count": 135,
+  "star_count": 3143,
+  "fork_count": 137,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-07-27T15:28:11Z",
-  "updated_at": "2026-08-30T15:57:31Z",
-  "pushed_at": "2026-08-30T21:56:15Z",
+  "updated_at": "2026-09-11T21:41:21Z",
+  "pushed_at": "2026-09-11T22:12:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -401,6 +403,10 @@
     {
       "date": "2026-08-30",
       "stars": 3107
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 3143
     }
   ]
 }

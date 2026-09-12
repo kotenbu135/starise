@@ -3,11 +3,11 @@
   "owner": "tapetide-hq",
   "name": "nse-bse-indian-stock-market-data-mcp",
   "full_name": "tapetide-hq/nse-bse-indian-stock-market-data-mcp",
-  "description": "NSE BSE Indian Stock Market Data MCP server — search, screen \u0026 analyze all 8,200+ NSE/BSE stocks with 34 tools: live quotes, financials, technicals, 326-ratio screener, FII/DII flows, IPOs \u0026 portfolio tracking. Works with Claude, ChatGPT, Cursor \u0026 any MCP client | tapetide.com",
+  "description": "NSE BSE Indian Stock Market Data MCP server — search, screen \u0026 analyze all 8,200+ NSE/BSE stocks with 52 tools: live quotes, financials, technicals, 326-ratio screener, FII/DII flows, options IV, IPOs \u0026 portfolio tracking. Works with Claude, ChatGPT, Cursor \u0026 any MCP client",
   "description_ja": "",
   "url": "https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp",
   "homepage_url": "https://tapetide.com/mcp",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "ai-agent",
@@ -31,13 +31,13 @@
     "tapetide",
     "technical-analysis"
   ],
-  "star_count": 62,
-  "fork_count": 18,
+  "star_count": 65,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-29T11:20:16Z",
-  "updated_at": "2026-08-26T09:34:14Z",
-  "pushed_at": "2026-07-24T03:40:01Z",
+  "updated_at": "2026-09-10T17:08:14Z",
+  "pushed_at": "2026-09-03T04:27:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -223,6 +223,10 @@
     {
       "date": "2026-08-30",
       "stars": 62
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 65
     }
   ]
 }

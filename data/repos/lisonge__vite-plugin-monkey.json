@@ -6,7 +6,7 @@
   "description": "A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat",
   "description_ja": "Tampermonkey・Violentmonkey・Greasemonkey・ScriptCatなどのユーザースクリプトエンジン向けに.user.jsをサーブ・ビルドするviteプラグイン",
   "url": "https://github.com/lisonge/vite-plugin-monkey",
-  "homepage_url": "",
+  "homepage_url": "https://vite-plugin-monkey.pages.dev",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -19,13 +19,13 @@
     "vite",
     "vite-plugin"
   ],
-  "star_count": 2032,
+  "star_count": 2034,
   "fork_count": 104,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-03-01T10:07:03Z",
-  "updated_at": "2026-08-30T16:07:23Z",
-  "pushed_at": "2026-08-30T16:06:47Z",
+  "updated_at": "2026-09-11T19:23:11Z",
+  "pushed_at": "2026-09-10T10:07:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +403,10 @@
     {
       "date": "2026-08-30",
       "stars": 2032
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 2034
     }
   ]
 }

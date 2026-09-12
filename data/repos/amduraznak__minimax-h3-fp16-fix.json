@@ -1,0 +1,27 @@
+{
+  "repo_id": "R_kgDOTyCr_w",
+  "owner": "amduraznak",
+  "name": "minimax-h3-fp16-fix",
+  "full_name": "amduraznak/minimax-h3-fp16-fix",
+  "description": "Run MiniMax H3 at native fp16 on pre-bf16 GPUs (V100/Volta) — exact-math fix for the black-frame overflows, ~11× faster than the fp32 fallback.",
+  "description_ja": "",
+  "url": "https://github.com/Amduraznak/minimax-h3-fp16-fix",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [],
+  "star_count": 46,
+  "fork_count": 6,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-08-08T08:01:39Z",
+  "updated_at": "2026-09-10T15:37:44Z",
+  "pushed_at": "2026-08-08T11:19:02Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-11",
+      "stars": 46
+    }
+  ]
+}

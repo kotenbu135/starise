@@ -3,20 +3,31 @@
   "owner": "tonicanada",
   "name": "erpnext_chile_factura",
   "full_name": "tonicanada/erpnext_chile_factura",
-  "description": "",
+  "description": "App de ERPNext para Chile: recepción de facturas de compra desde el SII, respaldo de XML y generación automática de Purchase Invoice con reglas configurables.",
   "description_ja": "",
   "url": "https://github.com/tonicanada/erpnext_chile_factura",
-  "homepage_url": "",
+  "homepage_url": "https://antoniocanada.com/chile/",
   "language": "Python",
-  "license": "NOASSERTION",
-  "topics": [],
+  "license": "Apache-2.0",
+  "topics": [
+    "chile",
+    "contabilidad",
+    "dte",
+    "erp",
+    "erpnext",
+    "factura-electronica",
+    "frappe",
+    "python",
+    "rcv",
+    "sii"
+  ],
   "star_count": 12,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-11T19:22:04Z",
-  "updated_at": "2026-08-26T15:42:13Z",
-  "pushed_at": "2026-07-27T17:48:12Z",
+  "updated_at": "2026-09-04T17:21:58Z",
+  "pushed_at": "2026-09-04T17:21:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -389,6 +400,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 12
+    },
+    {
+      "date": "2026-09-11",
       "stars": 12
     }
   ]

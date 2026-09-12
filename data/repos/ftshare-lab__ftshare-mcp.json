@@ -3,10 +3,10 @@
   "owner": "ftshare-lab",
   "name": "ftshare-mcp",
   "full_name": "ftshare-lab/ftshare-mcp",
-  "description": "FTShare MCP tools for financial data, market data and AI Agent investment workflows｜金融数据 MCP 工具文档与接入说明。",
+  "description": "FTShare financial data MCP for AI Agents｜通过标准 MCP 接入基础金融数据与 FTShare 特色因子，返回结构化、可核对的结果。",
   "description_ja": "",
   "url": "https://github.com/FTShare-Lab/FTShare-MCP",
-  "homepage_url": "",
+  "homepage_url": "https://ftai.chat/?tab=ft-share",
   "language": "",
   "license": "MIT",
   "topics": [
@@ -19,17 +19,17 @@
     "mcp",
     "mcp-tools",
     "model-context-protocol",
-    "python",
     "quantitative-finance",
-    "quantitative-research"
+    "quantitative-research",
+    "structured-data"
   ],
-  "star_count": 229,
-  "fork_count": 18,
+  "star_count": 242,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-02T08:24:53Z",
-  "updated_at": "2026-08-30T17:23:26Z",
-  "pushed_at": "2026-08-26T02:12:40Z",
+  "updated_at": "2026-09-11T16:04:55Z",
+  "pushed_at": "2026-09-11T03:07:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +91,10 @@
     {
       "date": "2026-08-30",
       "stars": 229
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 242
     }
   ]
 }

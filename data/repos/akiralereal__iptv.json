@@ -3,7 +3,7 @@
   "owner": "akiralereal",
   "name": "iptv",
   "full_name": "akiralereal/iptv",
-  "description": "带 GUI 可视化管理后台的自托管 IPTV 直播源管理与分发系统：聚合央视、卫视、地方台、体育赛事、咪咕、B 站直播，以及自定义抓取源和订阅；开箱即有 800+ 频道，并提供 EPG 节目单与聚合功能。支持 Docker Compose 或 Node.js 运行，适合 NAS 与家庭服务器。",
+  "description": "开箱即有 800+ 可稳定流畅播放频道的自托管 IPTV 直播源管理与分发系统，聚合了央视频、咪咕、央视、卫视、凤凰卫视、亚太、国际、地方台、体育赛事、B 站直播、斗鱼直播、虎牙直播等，以及自定义抓取源和订阅，并提供 EPG 节目单与聚合功能；另外还自带 GUI 可视化管理后台，支持 Docker Compose 或 Node.js 运行，适合 NAS 与家庭服务器。",
   "description_ja": "",
   "url": "https://github.com/akiralereal/iptv",
   "homepage_url": "https://ifansclub.com/",
@@ -12,12 +12,13 @@
   "topics": [
     "bilibili",
     "bilibili-live",
-    "docker",
+    "cctv",
     "epg",
     "iptv",
     "iptv-channels",
     "iptv-free",
     "iptv-links",
+    "iptv-live",
     "iptv-m3u",
     "iptv-m3u8",
     "iptv-playlist",
@@ -28,15 +29,15 @@
     "m3u8",
     "migu",
     "nas",
-    "self-hosted"
+    "yangshipin"
   ],
-  "star_count": 572,
-  "fork_count": 182,
+  "star_count": 691,
+  "fork_count": 226,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T07:33:46Z",
-  "updated_at": "2026-08-30T20:43:15Z",
-  "pushed_at": "2026-08-30T15:29:01Z",
+  "updated_at": "2026-09-11T18:56:25Z",
+  "pushed_at": "2026-09-10T11:31:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -182,6 +183,10 @@
     {
       "date": "2026-08-30",
       "stars": 572
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 691
     }
   ]
 }

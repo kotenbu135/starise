@@ -3,7 +3,7 @@
   "owner": "ucsandman",
   "name": "marketing-studio",
   "full_name": "ucsandman/marketing-studio",
-  "description": "Agent-driven marketing studio for Claude Code: one /marketing command renders your product's full launch asset suite (logo reveal, demo, launch video, social clips, OG assets)",
+  "description": "Create product launch assets with Remotion, then review and distribute them through guarded, dry-run-first workflows.",
   "description_ja": "",
   "url": "https://github.com/ucsandman/marketing-studio",
   "homepage_url": "",
@@ -14,16 +14,18 @@
     "blender",
     "claude-code",
     "marketing",
+    "product-launch",
     "remotion",
+    "social-media",
     "video-generation"
   ],
-  "star_count": 220,
-  "fork_count": 30,
+  "star_count": 241,
+  "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-10T08:00:22Z",
-  "updated_at": "2026-08-27T18:12:17Z",
-  "pushed_at": "2026-08-17T10:17:28Z",
+  "updated_at": "2026-09-11T13:12:13Z",
+  "pushed_at": "2026-09-06T09:24:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -141,6 +143,10 @@
     {
       "date": "2026-08-30",
       "stars": 220
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 241
     }
   ]
 }

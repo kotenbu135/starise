@@ -3,7 +3,7 @@
   "owner": "linhut",
   "name": "document-ai-assistant",
   "full_name": "linhut/document-ai-assistant",
-  "description": "AI 公文智能优化助手 — 基于 GB/T 9704 标准的公文格式智能检测与优化桌面应用",
+  "description": "AI 公文智能优化助手 — 基于 GB/T 9704 标准的公文格式智能检测与优化桌面应用，可本地离线部署",
   "description_ja": "",
   "url": "https://github.com/linhut/document-ai-assistant",
   "homepage_url": "https://doc.linhut.cn",
@@ -20,13 +20,13 @@
     "wps",
     "wps-office"
   ],
-  "star_count": 73,
-  "fork_count": 14,
+  "star_count": 99,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-24T18:53:07Z",
-  "updated_at": "2026-08-30T20:12:31Z",
-  "pushed_at": "2026-08-30T20:11:37Z",
+  "updated_at": "2026-09-11T12:54:13Z",
+  "pushed_at": "2026-09-05T00:57:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -88,6 +88,10 @@
     {
       "date": "2026-08-30",
       "stars": 73
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 99
     }
   ]
 }

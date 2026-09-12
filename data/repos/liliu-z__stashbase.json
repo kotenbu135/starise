@@ -3,7 +3,7 @@
   "owner": "liliu-z",
   "name": "stashbase",
   "full_name": "liliu-z/stashbase",
-  "description": "Turn local files into searchable context for AI agents.",
+  "description": "Turn your local files into a Wiki for your agents. Open-source and local-first.",
   "description_ja": "",
   "url": "https://github.com/liliu-z/stashbase",
   "homepage_url": "https://stashbase.ai",
@@ -15,20 +15,21 @@
     "electron",
     "knowledge-base",
     "local-first",
+    "markdown",
     "mcp",
     "mcp-server",
-    "milvus",
     "rag",
     "semantic-search",
-    "typescript"
+    "typescript",
+    "wiki"
   ],
-  "star_count": 498,
-  "fork_count": 23,
+  "star_count": 623,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-19T05:21:06Z",
-  "updated_at": "2026-08-30T21:15:01Z",
-  "pushed_at": "2026-08-28T09:49:51Z",
+  "updated_at": "2026-09-11T22:50:06Z",
+  "pushed_at": "2026-09-11T17:29:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -114,6 +115,10 @@
     {
       "date": "2026-08-30",
       "stars": 498
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 623
     }
   ]
 }

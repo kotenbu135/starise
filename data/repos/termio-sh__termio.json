@@ -3,7 +3,7 @@
   "owner": "termio-sh",
   "name": "termio",
   "full_name": "termio-sh/termio",
-  "description": "A terminal-first agentic development environment for agentic coding. Build for Claude Code, Codex, OpenCode and any TUI agent. Runtime for Coding Agent, iOS \u0026 Linux VPS supported",
+  "description": "A terminal-first agentic development environment for agentic coding. Build for CLI/TUI agent. Runtime for Coding Agent,  Tmux alternative",
   "description_ja": "",
   "url": "https://github.com/termio-sh/termio",
   "homepage_url": "https://termio.sh",
@@ -28,13 +28,13 @@
     "terminal",
     "terminal-emulator"
   ],
-  "star_count": 360,
-  "fork_count": 31,
+  "star_count": 438,
+  "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-23T22:55:38Z",
-  "updated_at": "2026-08-30T20:16:52Z",
-  "pushed_at": "2026-08-30T20:15:22Z",
+  "updated_at": "2026-09-11T16:58:46Z",
+  "pushed_at": "2026-09-10T16:13:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +44,10 @@
     {
       "date": "2026-08-30",
       "stars": 360
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 438
     }
   ]
 }

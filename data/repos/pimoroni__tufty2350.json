@@ -3,20 +3,23 @@
   "owner": "pimoroni",
   "name": "tufty2350",
   "full_name": "pimoroni/tufty2350",
-  "description": "",
+  "description": "MicroPython firmware build for the Badgeware Tufty 2350",
   "description_ja": "",
   "url": "https://github.com/pimoroni/tufty2350",
-  "homepage_url": "",
+  "homepage_url": "https://badgewa.re/",
   "language": "Python",
   "license": "",
-  "topics": [],
-  "star_count": 36,
-  "fork_count": 16,
+  "topics": [
+    "micropython",
+    "raspberry-pi-pico"
+  ],
+  "star_count": 37,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-27T13:57:38Z",
-  "updated_at": "2026-08-22T16:51:32Z",
-  "pushed_at": "2026-08-27T15:09:16Z",
+  "updated_at": "2026-09-11T18:22:49Z",
+  "pushed_at": "2026-09-11T20:39:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +89,10 @@
     {
       "date": "2026-08-30",
       "stars": 36
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 37
     }
   ]
 }

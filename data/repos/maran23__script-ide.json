@@ -3,10 +3,10 @@
   "owner": "maran23",
   "name": "script-ide",
   "full_name": "maran23/script-ide",
-  "description": "Script-IDE is a plugin for Godot. It transforms the Script UI into an IDE like UI. Multiline Tabs are used for navigating between scripts. The default Outline got an overhaul and now shows all members of the script. Quick Open and Override Dialog.",
-  "description_ja": "Script-IDEはGodot用プラグイン。スクリプトUIをIDEライクなUIに変換し、複数行タブでスクリプト間のナビゲーション、刷新されたアウトライン表示、クイックオープン、オーバーライドダイアログを提供する。",
+  "description": "Transforms the Script UI into an IDE like UI. Multiline Tabs, Splitting, Outline with unique icons that shows all members of the script. Quick search and function override functionality.",
+  "description_ja": "",
   "url": "https://github.com/Maran23/script-ide",
-  "homepage_url": "",
+  "homepage_url": "https://maran.tools/url/script-ide",
   "language": "GDScript",
   "license": "MIT",
   "topics": [
@@ -19,13 +19,13 @@
     "godotengine",
     "plugin"
   ],
-  "star_count": 1038,
+  "star_count": 1044,
   "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-30T20:31:19Z",
-  "updated_at": "2026-08-30T07:51:19Z",
-  "pushed_at": "2026-08-29T09:39:09Z",
+  "updated_at": "2026-09-11T18:25:06Z",
+  "pushed_at": "2026-09-02T22:04:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +403,10 @@
     {
       "date": "2026-08-30",
       "stars": 1038
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1044
     }
   ]
 }

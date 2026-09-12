@@ -3,20 +3,31 @@
   "owner": "skilld-dev",
   "name": "skilld",
   "full_name": "skilld-dev/skilld",
-  "description": "Generate AI agent skills from your NPM / create dependencies. npx skilld",
+  "description": "Curated agent skills by humans. Search, run, install, and keep them current from one CLI.",
   "description_ja": "",
   "url": "https://github.com/skilld-dev/skilld",
   "homepage_url": "https://skilld.dev",
   "language": "Rust",
   "license": "MIT",
-  "topics": [],
-  "star_count": 306,
+  "topics": [
+    "agent-skills",
+    "claude-code",
+    "cli",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "registry",
+    "rust",
+    "skill-md",
+    "skills"
+  ],
+  "star_count": 309,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-03T14:45:44Z",
-  "updated_at": "2026-08-28T19:46:21Z",
-  "pushed_at": "2026-08-27T03:09:22Z",
+  "updated_at": "2026-09-11T13:26:03Z",
+  "pushed_at": "2026-09-08T04:22:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +101,10 @@
     {
       "date": "2026-08-30",
       "stars": 306
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 309
     }
   ]
 }

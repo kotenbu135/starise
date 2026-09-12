@@ -3,7 +3,7 @@
   "owner": "openma-ai",
   "name": "martty",
   "full_name": "openma-ai/martty",
-  "description": "deepseek-harness-tui（dsh-tui） before. Self-Improvement TUI Plugin of DeepSeek Harness. Everything Here Is Also A Plugin.  Martty is a ACP client.",
+  "description": "Unified Harness TUI (ACP client). Self-Improvement TUI plugin of DeepSeek Harness. Everything Here Is Also A Plugin. ",
   "description_ja": "",
   "url": "https://github.com/openma-ai/Martty",
   "homepage_url": "https://martty.sh",
@@ -24,13 +24,13 @@
     "tui",
     "tui-rs"
   ],
-  "star_count": 65,
-  "fork_count": 4,
+  "star_count": 72,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-13T17:19:18Z",
-  "updated_at": "2026-08-30T11:13:36Z",
-  "pushed_at": "2026-08-30T11:10:48Z",
+  "updated_at": "2026-09-11T10:03:05Z",
+  "pushed_at": "2026-09-10T14:15:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -48,6 +48,10 @@
     {
       "date": "2026-08-30",
       "stars": 65
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 72
     }
   ]
 }

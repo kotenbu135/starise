@@ -3,41 +3,33 @@
   "owner": "openyak",
   "name": "openyak",
   "full_name": "openyak/openyak",
-  "description": "Open-source local-first AI agent for desktop work. No account, no telemetry: use local models with Ollama/Rapid-MLX or bring your own provider key.",
+  "description": "One chat. Every agent. A universal interface for AI agents running on your computer.",
   "description_ja": "",
   "url": "https://github.com/openyak/openyak",
   "homepage_url": "https://open-yak.com/",
-  "language": "Python",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
+    "acp",
     "agent",
+    "agent-client-protocol",
     "agentic-ai",
     "ai-agent",
-    "ai-coding-assistant",
-    "byok",
-    "claude-code-alternative",
-    "codex-alternative",
-    "coding-agent",
-    "cursor-alternative",
-    "desktop-agent",
+    "claude-code",
+    "codex",
     "desktop-application",
+    "electron",
     "local-first",
-    "local-llm",
-    "mcp",
-    "offline-ai",
-    "ollama",
     "open-source",
-    "openrouter",
-    "privacy-first",
-    "self-hosted"
+    "rust"
   ],
-  "star_count": 702,
-  "fork_count": 59,
+  "star_count": 708,
+  "fork_count": 61,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-20T18:51:13Z",
-  "updated_at": "2026-08-30T01:06:35Z",
-  "pushed_at": "2026-08-27T23:33:22Z",
+  "updated_at": "2026-09-11T21:53:44Z",
+  "pushed_at": "2026-09-05T03:12:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +407,10 @@
     {
       "date": "2026-08-30",
       "stars": 702
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 708
     }
   ]
 }

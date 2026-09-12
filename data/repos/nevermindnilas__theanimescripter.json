@@ -3,35 +3,41 @@
   "owner": "nevermindnilas",
   "name": "theanimescripter",
   "full_name": "nevermindnilas/theanimescripter",
-  "description": "A high-performance tool for video upscaling, interpolation, depth estimation, and more. Available as a CLI and Adobe Extension.",
+  "description": "Free, open-source anime video toolkit: AI upscale, RIFE interpolation and restore in one pass. CLI, Standalone and After Effects.",
   "description_ja": "",
   "url": "https://github.com/NevermindNilas/TheAnimeScripter",
-  "homepage_url": "",
+  "homepage_url": "https://tas.nevermindnilas.dev",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
     "after-effects",
     "aftereffects",
+    "anime",
+    "anime-upscaling",
     "deduplication",
     "depth-estimation",
     "enhancement",
     "extendscript",
+    "frame-interpolation",
     "interpolate",
     "interpolation",
     "python",
     "python-script",
+    "rife",
     "scripting",
     "segmentation",
+    "tensorrt",
     "upscale",
-    "upscaling"
+    "upscaling",
+    "video-enhancement"
   ],
-  "star_count": 318,
-  "fork_count": 12,
+  "star_count": 323,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-14T22:10:11Z",
-  "updated_at": "2026-08-27T11:58:04Z",
-  "pushed_at": "2026-08-25T19:56:32Z",
+  "updated_at": "2026-09-09T15:01:01Z",
+  "pushed_at": "2026-09-07T08:06:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -225,6 +231,10 @@
     {
       "date": "2026-08-30",
       "stars": 318
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 323
     }
   ]
 }

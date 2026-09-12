@@ -3,7 +3,7 @@
   "owner": "scratch-net",
   "name": "telego",
   "full_name": "scratch-net/telego",
-  "description": "High-performance Telegram MTProxy with TLS fronting, WEB support, probe resistance, and per-user analytics. Bypass censorship undetected.",
+  "description": "High-performance Telegram MTProxy with TLS fronting, Middle-End, WEB support, probe resistance, and per-user analytics. Bypass censorship undetected.",
   "description_ja": "",
   "url": "https://github.com/Scratch-net/telego",
   "homepage_url": "",
@@ -24,15 +24,16 @@
     "proxy",
     "russia",
     "telegram",
+    "telegram-middle-end",
     "telegram-web-proxy"
   ],
-  "star_count": 76,
+  "star_count": 84,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-22T11:59:14Z",
-  "updated_at": "2026-08-30T17:04:24Z",
-  "pushed_at": "2026-08-27T21:09:44Z",
+  "updated_at": "2026-09-10T01:19:59Z",
+  "pushed_at": "2026-09-08T19:25:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +411,10 @@
     {
       "date": "2026-08-30",
       "stars": 76
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 84
     }
   ]
 }

@@ -3,20 +3,39 @@
   "owner": "anibalribeiro",
   "name": "winmice",
   "full_name": "anibalribeiro/winmice",
-  "description": "Native macOS menu-bar utility for Windows-style mouse scrolling and side buttons",
+  "description": "Windows-style autoscroll (middle-click vector scrolling) and back/forward mouse side buttons for macOS. Tiny native Swift menu-bar app, about 1.7 MB, no Electron.",
   "description_ja": "",
   "url": "https://github.com/anibalribeiro/WinMice",
   "homepage_url": "https://anibalribeiro.cz/Winmice/",
   "language": "Swift",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 44,
+  "topics": [
+    "accessibility-api",
+    "appkit",
+    "autoscroll",
+    "back-forward-navigation",
+    "macos",
+    "macos-app",
+    "menu-bar",
+    "menubar-app",
+    "middle-click",
+    "mouse",
+    "mouse-buttons",
+    "productivity",
+    "scrolling",
+    "side-buttons",
+    "swift",
+    "utility",
+    "vector-scrolling",
+    "windows-style"
+  ],
+  "star_count": 128,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-14T13:15:37Z",
-  "updated_at": "2026-08-30T09:53:09Z",
-  "pushed_at": "2026-08-14T13:53:44Z",
+  "updated_at": "2026-09-08T08:22:07Z",
+  "pushed_at": "2026-09-04T18:47:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +57,10 @@
     {
       "date": "2026-08-30",
       "stars": 44
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 128
     }
   ]
 }

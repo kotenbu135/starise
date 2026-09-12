@@ -3,8 +3,8 @@
   "owner": "olafurjohannsson",
   "name": "kjarni",
   "full_name": "olafurjohannsson/kjarni",
-  "description": "Native and Private ML inference engine, embeddings, classification, reranking, search, and text generation. Rust core with C# bindings. No Python, no ONNX, no CUDA.",
-  "description_ja": "ネイティブかつプライベートな ML 推論エンジン。埋め込み、分類、リランキング、検索、テキスト生成に対応。Rust コアに C# バインディング。Python 不要、ONNX 不要、CUDA 不要。",
+  "description": "Native and Private ML inference engine, embeddings, classification, reranking, search, and text generation running on CPU and GPU. Rust, C#, C++, Python and Go.",
+  "description_ja": "",
   "url": "https://github.com/olafurjohannsson/kjarni",
   "homepage_url": "https://kjarni.ai",
   "language": "Rust",
@@ -30,13 +30,13 @@
     "webgpu",
     "whisper"
   ],
-  "star_count": 37,
+  "star_count": 38,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-25T22:41:33Z",
-  "updated_at": "2026-08-30T18:11:48Z",
-  "pushed_at": "2026-08-30T21:47:13Z",
+  "updated_at": "2026-09-10T21:26:59Z",
+  "pushed_at": "2026-09-09T08:44:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -414,6 +414,10 @@
     {
       "date": "2026-08-30",
       "stars": 37
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 38
     }
   ]
 }

@@ -13,31 +13,30 @@
     "android",
     "arm64",
     "babel",
-    "endo",
     "eslint",
     "experimental",
-    "fabric",
     "gradle",
+    "hardening",
     "hermes",
     "ios",
     "jest",
-    "node",
+    "minimal",
     "prettier",
     "react-native",
-    "ses",
-    "storybook",
-    "turbomodule",
+    "security",
+    "supply-chain",
     "typescript",
     "ubuntu",
-    "xcode"
+    "xcode",
+    "zero-trust"
   ],
   "star_count": 301,
   "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-04-24T16:50:07Z",
-  "updated_at": "2026-08-29T03:07:19Z",
-  "pushed_at": "2026-08-29T23:49:38Z",
+  "updated_at": "2026-09-07T11:02:51Z",
+  "pushed_at": "2026-09-11T20:45:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -110,6 +109,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 301
+    },
+    {
+      "date": "2026-09-11",
       "stars": 301
     }
   ]

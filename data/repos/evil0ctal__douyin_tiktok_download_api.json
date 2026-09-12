@@ -3,41 +3,41 @@
   "owner": "evil0ctal",
   "name": "douyin_tiktok_download_api",
   "full_name": "evil0ctal/douyin_tiktok_download_api",
-  "description": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。",
-  "description_ja": "「Douyin_TikTok_Download_API」は抖音・快手・TikTok・Bilibiliのデータをすぐに使える高性能非同期クローリングツール。API呼び出し、オンライン一括解析・ダウンロードをサポート。",
+  "description": "🚀 Self-hosted TikTok \u0026 Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, PostgreSQL archive, one docker compose up. 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。",
+  "description_ja": "",
   "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
   "homepage_url": "https://douyin.wtf",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
-    "api",
-    "async",
+    "asyncio",
     "crawler",
+    "data-collection",
     "douyin",
     "douyin-api",
-    "douyin-scraper",
-    "douyin-tiktok-api",
-    "douyin-tiktok-download",
+    "downloader",
     "fastapi",
-    "no-watermark",
-    "online-parsing",
-    "python",
-    "pywebio",
+    "mcp-server",
+    "model-context-protocol",
+    "openapi",
+    "rest-api",
     "scraper",
+    "social-media",
     "spider",
     "tiktok",
     "tiktok-api",
+    "tiktok-downloader",
     "tiktok-scraper",
-    "tiktok-signature",
+    "video-downloader",
     "web-scraping"
   ],
-  "star_count": 19749,
-  "fork_count": 2744,
+  "star_count": 20073,
+  "fork_count": 2782,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-11-07T01:35:09Z",
-  "updated_at": "2026-08-30T20:27:46Z",
-  "pushed_at": "2025-10-12T15:30:32Z",
+  "updated_at": "2026-09-11T18:55:32Z",
+  "pushed_at": "2026-09-11T09:58:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +415,10 @@
     {
       "date": "2026-08-30",
       "stars": 19749
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 20073
     }
   ]
 }

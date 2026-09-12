@@ -5,7 +5,7 @@
   "full_name": "kongweiguang/gmark",
   "description": "Rust + GPUI 打造的本地优先桌面编辑器：支持 Markdown、纯文本、JSON/JSONL、CSV/TSV，提供 Live/Source/Split/Preview、大文件按需读取、结构化视图、工作区搜索及 HTML/PNG/PDF 导出。",
   "description_ja": "",
-  "url": "https://github.com/kongweiguang/gmark",
+  "url": "https://github.com/kongweiguang/Gmark",
   "homepage_url": "",
   "language": "Rust",
   "license": "NOASSERTION",
@@ -22,13 +22,13 @@
     "rust",
     "text-editor"
   ],
-  "star_count": 50,
-  "fork_count": 2,
+  "star_count": 63,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-20T06:11:01Z",
-  "updated_at": "2026-08-30T08:21:15Z",
-  "pushed_at": "2026-08-24T12:05:32Z",
+  "updated_at": "2026-09-10T08:38:17Z",
+  "pushed_at": "2026-09-09T04:50:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +38,10 @@
     {
       "date": "2026-08-30",
       "stars": 50
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 63
     }
   ]
 }

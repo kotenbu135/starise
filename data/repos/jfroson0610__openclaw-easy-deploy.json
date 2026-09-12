@@ -3,20 +3,31 @@
   "owner": "jfroson0610",
   "name": "openclaw-easy-deploy",
   "full_name": "jfroson0610/openclaw-easy-deploy",
-  "description": "🚀 OpenClaw 一键安装部署脚本 | Zero-config installer for OpenClaw - Single command to get started",
+  "description": "OpenClaw Companion / OpenClaw 中文助手：中英双语、安全编排官方 OpenClaw 安装、配置、检查、升级、备份与诊断。社区项目，非官方。",
   "description_ja": "",
   "url": "https://github.com/JFroson0610/openclaw-easy-deploy",
   "homepage_url": "",
-  "language": "Shell",
+  "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 107,
+  "topics": [
+    "ai-assistant",
+    "chinese",
+    "cli",
+    "diagnostics",
+    "feishu",
+    "openclaw",
+    "openclaw-cn",
+    "openclaw-companion",
+    "qwen",
+    "self-hosted"
+  ],
+  "star_count": 106,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T18:35:56Z",
-  "updated_at": "2026-08-11T22:55:35Z",
-  "pushed_at": "2026-04-11T03:36:01Z",
+  "updated_at": "2026-09-09T14:24:52Z",
+  "pushed_at": "2026-09-09T14:13:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -378,6 +389,10 @@
     {
       "date": "2026-08-30",
       "stars": 107
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 106
     }
   ]
 }

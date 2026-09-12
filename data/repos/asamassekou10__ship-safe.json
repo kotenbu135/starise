@@ -3,33 +3,38 @@
   "owner": "asamassekou10",
   "name": "ship-safe",
   "full_name": "asamassekou10/ship-safe",
-  "description": "CLI security scanner built for the agentic era. Detects CI/CD misconfigs, agent permission risks, MCP tool injection, hardcoded secrets, and DMCA-flagged AI dependencies.",
-  "description_ja": "エージェント時代向けに構築された CLI セキュリティスキャナー。CI/CD の設定ミス・エージェント権限リスク・MCP ツールインジェクション・ハードコードされたシークレット・DMCA 対象の AI 依存関係を検出。",
+  "description": "The independent security agent for AI-written software. Finds issues, investigates whether they are real, and shows you the evidence. Deterministic core, no API key needed, JSON and SARIF output.",
+  "description_ja": "",
   "url": "https://github.com/asamassekou10/ship-safe",
   "homepage_url": "https://shipsafe.sh",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "agent-security",
     "agentic-ai",
     "ai-security",
     "cli",
-    "devscops",
+    "devsecops",
+    "hermes",
     "llm-security",
     "mcp",
     "npm",
     "owasp",
+    "prompt-injection",
+    "sarif",
     "secrets",
     "security",
     "security-tools",
-    "static-analysis"
+    "static-analysis",
+    "supply-chain-security"
   ],
-  "star_count": 829,
-  "fork_count": 111,
+  "star_count": 842,
+  "fork_count": 113,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-02T08:19:37Z",
-  "updated_at": "2026-08-30T16:32:29Z",
-  "pushed_at": "2026-08-29T07:42:03Z",
+  "updated_at": "2026-09-08T14:37:07Z",
+  "pushed_at": "2026-09-07T09:04:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +408,10 @@
     {
       "date": "2026-08-30",
       "stars": 829
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 842
     }
   ]
 }

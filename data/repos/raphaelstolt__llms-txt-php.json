@@ -3,7 +3,7 @@
   "owner": "raphaelstolt",
   "name": "llms-txt-php",
   "full_name": "raphaelstolt/llms-txt-php",
-  "description": "A PHP library for writing, reading, and validating llms.txt Markdown files.",
+  "description": "A PHP library for creating, parsing, validating, discovering, and expanding llms.txt files.",
   "description_ja": "",
   "url": "https://github.com/raphaelstolt/llms-txt-php",
   "homepage_url": "",
@@ -18,13 +18,13 @@
     "llmstxt",
     "markdown"
   ],
-  "star_count": 29,
-  "fork_count": 4,
+  "star_count": 30,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-24T14:33:15Z",
-  "updated_at": "2026-08-28T11:06:07Z",
-  "pushed_at": "2026-08-28T11:05:02Z",
+  "updated_at": "2026-09-09T08:10:37Z",
+  "pushed_at": "2026-09-09T08:10:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +86,10 @@
     {
       "date": "2026-08-30",
       "stars": 29
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 30
     }
   ]
 }

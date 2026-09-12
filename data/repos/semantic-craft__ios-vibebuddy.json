@@ -3,7 +3,7 @@
   "owner": "semantic-craft",
   "name": "ios-vibebuddy",
   "full_name": "semantic-craft/ios-vibebuddy",
-  "description": "vibebuddy — 在手机上盯住你的 AI coding agents：会话总览、需要你时推送、锁屏批准命令、语音对话。Your AI coding agents, on your phone.",
+  "description": "Track Claude Code, Codex and Grok Build tasks, observe Grok Bot, and check Cursor usage across Mac, iPhone \u0026 Apple Watch. Optional voice and summaries. Free, local-first, MIT.",
   "description_ja": "",
   "url": "https://github.com/semantic-craft/iOS-vibebuddy",
   "homepage_url": "",
@@ -11,20 +11,30 @@
   "license": "MIT",
   "topics": [
     "ai-agents",
+    "apple-watch",
     "claude-code",
+    "codex",
+    "cursor",
+    "developer-tools",
+    "grok-bot",
+    "grok-build",
     "ios",
+    "local-first",
     "macos",
     "mobile-companion",
     "push-notifications",
-    "swift"
+    "realtime-voice",
+    "swift",
+    "swiftui",
+    "watchos"
   ],
-  "star_count": 84,
+  "star_count": 87,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-04T11:33:49Z",
-  "updated_at": "2026-08-15T23:47:12Z",
-  "pushed_at": "2026-08-11T04:44:37Z",
+  "updated_at": "2026-09-11T19:43:25Z",
+  "pushed_at": "2026-09-11T19:43:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -250,6 +260,10 @@
     {
       "date": "2026-08-30",
       "stars": 84
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 87
     }
   ]
 }

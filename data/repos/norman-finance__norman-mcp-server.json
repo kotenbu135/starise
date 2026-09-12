@@ -3,7 +3,7 @@
   "owner": "norman-finance",
   "name": "norman-mcp-server",
   "full_name": "norman-finance/norman-mcp-server",
-  "description": "AI-powered bookkeeping and tax filing automation via MCP for entrepreneurs at the heart of the European economy",
+  "description": "AI-powered bookkeeping and tax filing automation for entrepreneurs at the heart of the European economy",
   "description_ja": "",
   "url": "https://github.com/norman-finance/norman-mcp-server",
   "homepage_url": "https://norman.finance",
@@ -13,22 +13,31 @@
     "bookkeeping",
     "claude",
     "cursor-plugin",
+    "datev",
+    "elster",
+    "gemini-cli-extension",
+    "german-accounting",
     "german-tax-accounting",
+    "gmbh",
     "gpt",
     "invoicing",
+    "ledger",
     "mcp",
     "mcp-server",
+    "model-context-protocol",
     "norman",
     "openai",
+    "skr03",
+    "skr04",
     "vat-filing"
   ],
   "star_count": 54,
-  "fork_count": 14,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-16T19:06:55Z",
-  "updated_at": "2026-08-29T10:24:38Z",
-  "pushed_at": "2026-08-29T10:24:01Z",
+  "updated_at": "2026-09-09T22:17:32Z",
+  "pushed_at": "2026-09-09T22:17:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -269,6 +278,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 54
+    },
+    {
+      "date": "2026-09-11",
       "stars": 54
     }
   ]

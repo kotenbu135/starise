@@ -6,7 +6,7 @@
   "description": "Quality assurance testing for the curl project",
   "description_ja": "",
   "url": "https://github.com/curl/curl-fuzzer",
-  "homepage_url": "",
+  "homepage_url": "https://fuzz.curl.se/",
   "language": "C++",
   "license": "MIT",
   "topics": [
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-09-22T01:34:20Z",
-  "updated_at": "2026-08-30T09:40:03Z",
-  "pushed_at": "2026-08-30T09:41:14Z",
+  "updated_at": "2026-09-11T10:34:04Z",
+  "pushed_at": "2026-09-11T10:35:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -126,6 +126,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 99
+    },
+    {
+      "date": "2026-09-11",
       "stars": 99
     }
   ]

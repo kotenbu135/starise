@@ -3,7 +3,7 @@
   "owner": "leebaird",
   "name": "discover",
   "full_name": "leebaird/discover",
-  "description": "Custom Bash and Python scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux and Ubuntu.",
+  "description": "Custom Bash and Python scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Ubuntu. Limited support for Kali Linux.",
   "description_ja": "",
   "url": "https://github.com/leebaird/discover",
   "homepage_url": "",
@@ -13,7 +13,6 @@
     "bash",
     "enumeration",
     "information-gathering",
-    "kali-linux",
     "metasploit",
     "nmap",
     "osint",
@@ -24,13 +23,13 @@
     "red-team",
     "scanning"
   ],
-  "star_count": 3931,
+  "star_count": 3934,
   "fork_count": 868,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-10-28T17:05:04Z",
-  "updated_at": "2026-08-30T16:21:43Z",
-  "pushed_at": "2026-08-26T20:15:26Z",
+  "updated_at": "2026-09-11T22:47:39Z",
+  "pushed_at": "2026-09-11T22:47:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +403,10 @@
     {
       "date": "2026-08-30",
       "stars": 3931
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 3934
     }
   ]
 }

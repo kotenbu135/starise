@@ -3,29 +3,36 @@
   "owner": "kaashdev",
   "name": "tvapp",
   "full_name": "kaashdev/tvapp",
-  "description": "A Samsung Smart TV app built with Tizen Studio that streams HLS/m3u8 channels: Now part of tizen-community-packages",
+  "description": "A Samsung Tizen Smart TV IPTV app that streams HLS/m3u8 channels: Includes publicly available channels from iptv-org",
   "description_ja": "",
   "url": "https://github.com/KaashDev/TVapp",
   "homepage_url": "",
   "language": "JavaScript",
-  "license": "MIT",
+  "license": "",
   "topics": [
     "hls",
     "hlsjs",
+    "iptv",
+    "iptv-channels",
+    "iptv-free",
+    "iptv-m3u",
+    "iptv-player",
+    "iptv-playlist",
     "m3u8",
     "m3u8-player",
     "samsung-tv",
     "tizen",
+    "tizen-app",
     "tizen-studio",
     "tizen-tv"
   ],
-  "star_count": 33,
-  "fork_count": 7,
+  "star_count": 39,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-09-21T19:05:34Z",
-  "updated_at": "2026-08-30T12:34:44Z",
-  "pushed_at": "2026-08-24T06:24:46Z",
+  "updated_at": "2026-09-09T21:03:41Z",
+  "pushed_at": "2026-09-09T21:03:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -303,6 +310,10 @@
     {
       "date": "2026-08-30",
       "stars": 33
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 39
     }
   ]
 }

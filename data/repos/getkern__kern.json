@@ -3,7 +3,7 @@
   "owner": "getkern",
   "name": "kern",
   "full_name": "getkern/kern",
-  "description": "A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. Daemonless: a real, kernel-enforced container in ~3.5 ms from an OCI image, no daemon, one 1.52 MB static binary.",
+  "description": "a fast, rootless sandbox and virtual resource runtime. Run any workload in a real container, including an agent's tool-call or AI-generated code.",
   "description_ja": "",
   "url": "https://github.com/getkern/kern",
   "homepage_url": "https://getkern.dev",
@@ -31,13 +31,13 @@
     "seccomp",
     "virtualization"
   ],
-  "star_count": 331,
-  "fork_count": 5,
+  "star_count": 395,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-18T12:38:36Z",
-  "updated_at": "2026-08-30T19:45:31Z",
-  "pushed_at": "2026-08-30T06:59:03Z",
+  "updated_at": "2026-09-11T07:12:46Z",
+  "pushed_at": "2026-09-11T21:56:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-08-30",
       "stars": 331
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 395
     }
   ]
 }

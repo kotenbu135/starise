@@ -3,7 +3,7 @@
   "owner": "thezupzup",
   "name": "linthra",
   "full_name": "thezupzup/linthra",
-  "description": "Linthra is an open-source, local-first music player for Android with local library scanning, Jellyfin/navidrome/plex streaming, explicit offline cache, and user-controlled playback.",
+  "description": "Linthra is an open-source, local-first music player for Android and Linux with local library scanning, Jellyfin/navidrome/plex streaming, explicit offline cache, and user-controlled playback.",
   "description_ja": "",
   "url": "https://github.com/TheZupZup/Linthra",
   "homepage_url": "https://linthra.ca/",
@@ -13,7 +13,10 @@
     "android",
     "android-auto",
     "f-droid",
+    "flatpak",
     "jellyfin",
+    "linux",
+    "linux-music-player",
     "localmusic",
     "media-player",
     "music",
@@ -25,13 +28,13 @@
     "privacy",
     "self-hosted"
   ],
-  "star_count": 51,
-  "fork_count": 6,
+  "star_count": 61,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-22T19:45:36Z",
-  "updated_at": "2026-08-30T12:16:48Z",
-  "pushed_at": "2026-08-28T18:02:54Z",
+  "updated_at": "2026-09-11T23:28:36Z",
+  "pushed_at": "2026-09-11T23:28:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +44,10 @@
     {
       "date": "2026-08-30",
       "stars": 51
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 61
     }
   ]
 }

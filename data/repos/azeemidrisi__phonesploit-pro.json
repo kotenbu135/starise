@@ -3,8 +3,8 @@
   "owner": "azeemidrisi",
   "name": "phonesploit-pro",
   "full_name": "azeemidrisi/phonesploit-pro",
-  "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
-  "description_ja": "ADBとMetasploit-Frameworkを使用してAndroidデバイスをリモートから悪用し、Meterpreterセッションを取得するオールインワンのハッキングツール",
+  "description": "An all-in-one hacking tool to remotely take over Android devices.",
+  "description_ja": "",
   "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
   "homepage_url": "https://phonesploitpro.vercel.app",
   "language": "Python",
@@ -31,13 +31,13 @@
     "phonesploit-pro",
     "python"
   ],
-  "star_count": 6134,
-  "fork_count": 856,
+  "star_count": 6245,
+  "fork_count": 880,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-24T18:05:33Z",
-  "updated_at": "2026-08-30T12:53:10Z",
-  "pushed_at": "2026-08-14T07:28:17Z",
+  "updated_at": "2026-09-11T08:34:52Z",
+  "pushed_at": "2026-09-06T15:52:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +415,10 @@
     {
       "date": "2026-08-30",
       "stars": 6134
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 6245
     }
   ]
 }

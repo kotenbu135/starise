@@ -3,7 +3,7 @@
   "owner": "ovh",
   "name": "debian-cis",
   "full_name": "ovh/debian-cis",
-  "description": "PCI-DSS compliant Debian 11/12/13 hardening",
+  "description": "PCI-DSS compliant Debian 12/13 hardening",
   "description_ja": "",
   "url": "https://github.com/ovh/debian-cis",
   "homepage_url": "",
@@ -17,13 +17,13 @@
     "security",
     "shell"
   ],
-  "star_count": 1057,
-  "fork_count": 173,
+  "star_count": 1066,
+  "fork_count": 174,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-04-20T13:43:51Z",
-  "updated_at": "2026-08-26T12:44:43Z",
-  "pushed_at": "2026-08-28T22:12:22Z",
+  "updated_at": "2026-09-10T19:36:21Z",
+  "pushed_at": "2026-09-11T14:16:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -397,6 +397,10 @@
     {
       "date": "2026-08-30",
       "stars": 1057
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1066
     }
   ]
 }

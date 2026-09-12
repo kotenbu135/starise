@@ -3,10 +3,10 @@
   "owner": "chrischen667788",
   "name": "your-first-llm-studio",
   "full_name": "chrischen667788/your-first-llm-studio",
-  "description": "First LLM Studio: local-first LLM studio for Apple Silicon with MLX runtimes, Compare Lab, benchmark ops, replay, and runtime telemetry.",
+  "description": "First LLM Studio: local-first LLM workbench for Apple Silicon + MLX. 本地优先 LLM 工作台，覆盖 Agent、对比、微调、评测与运行时遥测。",
   "description_ja": "",
   "url": "https://github.com/ChrisChen667788/Your-First-LLM-Studio",
-  "homepage_url": "https://github.com/ChrisChen667788/local-agent-lab/releases/tag/v0.3.0",
+  "homepage_url": "https://github.com/ChrisChen667788/Your-First-LLM-Studio",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T08:25:29Z",
-  "updated_at": "2026-08-30T08:31:02Z",
-  "pushed_at": "2026-08-30T08:30:53Z",
+  "updated_at": "2026-09-09T19:42:48Z",
+  "pushed_at": "2026-09-09T19:41:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -252,6 +252,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 81
+    },
+    {
+      "date": "2026-09-11",
       "stars": 81
     }
   ]

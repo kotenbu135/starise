@@ -3,10 +3,10 @@
   "owner": "phyagentos",
   "name": "phyagentos-core",
   "full_name": "phyagentos/phyagentos-core",
-  "description": "PhyAgentOS is a self-evolving embodied AI operating system built on agentic workflows.",
+  "description": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agentic workflows.",
   "description_ja": "",
   "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
-  "homepage_url": "https://phy-agent-os.net/",
+  "homepage_url": "https://phy-agent-os.x-era.com/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -14,15 +14,17 @@
     "claw",
     "embodied-agent",
     "embodied-ai",
-    "harness"
+    "harness",
+    "rsi",
+    "self-evolution"
   ],
-  "star_count": 1916,
-  "fork_count": 107,
+  "star_count": 2178,
+  "fork_count": 115,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-12T05:12:10Z",
-  "updated_at": "2026-08-30T21:59:25Z",
-  "pushed_at": "2026-08-30T15:16:37Z",
+  "updated_at": "2026-09-11T19:55:41Z",
+  "pushed_at": "2026-09-11T14:02:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -124,6 +126,10 @@
     {
       "date": "2026-08-30",
       "stars": 1916
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 2178
     }
   ]
 }

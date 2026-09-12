@@ -10,33 +10,34 @@
   "language": "TypeScript",
   "license": "MPL-2.0",
   "topics": [
-    "ai-art",
-    "ai-tools",
+    "3d-viewer",
+    "a1111",
     "automatic1111",
+    "civitai",
+    "civitai-integration",
+    "clip",
     "comfyui",
-    "electron",
-    "flux",
-    "generative-ai",
     "image-browser",
+    "image-management",
     "image-metadata",
+    "image-search",
+    "image-similarity",
+    "image-viewer",
     "invokeai",
-    "local-first",
     "lora",
-    "metadata",
+    "metadata-extraction",
     "png-metadata",
-    "react",
-    "sdxl",
-    "stable-diffusion",
-    "typescript",
-    "z-image-turbo"
+    "prompt-management",
+    "similarity-search",
+    "stable-diffusion"
   ],
-  "star_count": 317,
+  "star_count": 320,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-16T23:06:49Z",
-  "updated_at": "2026-08-30T03:07:43Z",
-  "pushed_at": "2026-08-30T03:07:10Z",
+  "updated_at": "2026-09-11T12:31:44Z",
+  "pushed_at": "2026-09-11T21:41:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -238,6 +239,10 @@
     {
       "date": "2026-08-30",
       "stars": 317
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 320
     }
   ]
 }

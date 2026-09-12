@@ -1,0 +1,36 @@
+{
+  "repo_id": "R_kgDOTHLE6w",
+  "owner": "triple-mu",
+  "name": "fast-ulysses",
+  "full_name": "triple-mu/fast-ulysses",
+  "description": "Ulysses sequence-parallel all-to-all as a torch custom op, moved by the GPU copy engines into torch symmetric memory. Zero SM usage; 1.66-2.17x over torch.distributed on NVLink.",
+  "description_ja": "",
+  "url": "https://github.com/triple-mu/fast-ulysses",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "collective-communication",
+    "cuda",
+    "custom-operator",
+    "diffusion-models",
+    "nvlink",
+    "pytorch",
+    "sequence-parallelism",
+    "ulysses"
+  ],
+  "star_count": 48,
+  "fork_count": 7,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-06-28T01:12:54Z",
+  "updated_at": "2026-09-11T08:24:42Z",
+  "pushed_at": "2026-08-25T14:58:34Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-11",
+      "stars": 48
+    }
+  ]
+}

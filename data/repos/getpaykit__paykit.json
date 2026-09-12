@@ -3,7 +3,7 @@
   "owner": "getpaykit",
   "name": "paykit",
   "full_name": "getpaykit/paykit",
-  "description": "The billing framework for TypeScript. Products in code, handles Stripe, webhooks, and usage state, runs in your app.",
+  "description": "Build Stripe billing without the glue code. Products in code, webhooks handled, billing state in your app.",
   "description_ja": "",
   "url": "https://github.com/getpaykit/paykit",
   "homepage_url": "https://paykit.sh",
@@ -11,23 +11,21 @@
   "license": "MIT",
   "topics": [
     "billing",
-    "creem",
     "fintech",
     "paykit",
     "payments",
-    "polar",
     "pricing",
     "saas",
     "sdk",
     "stripe",
     "typescript"
   ],
-  "star_count": 1042,
-  "fork_count": 44,
+  "star_count": 1049,
+  "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-08T23:16:43Z",
-  "updated_at": "2026-08-27T20:35:38Z",
+  "updated_at": "2026-09-10T15:29:41Z",
   "pushed_at": "2026-07-22T14:42:11Z",
   "deleted_at": "",
   "star_history": [
@@ -406,6 +404,10 @@
     {
       "date": "2026-08-30",
       "stars": 1042
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1049
     }
   ]
 }

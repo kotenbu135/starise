@@ -3,7 +3,7 @@
   "owner": "sxp-studio",
   "name": "subjective-zero",
   "full_name": "sxp-studio/subjective-zero",
-  "description": "The agentic editor for creative coding \u0026 realtime visual effects.",
+  "description": "The agentic node editor for live visual effects",
   "description_ja": "",
   "url": "https://github.com/sxp-studio/subjective-zero",
   "homepage_url": "https://sxp.studio/apps/subjectivezero",
@@ -11,23 +11,26 @@
   "license": "AGPL-3.0",
   "topics": [
     "ai-agents",
+    "art",
     "creative-coding",
     "generative-art",
     "macos",
     "metal",
     "node-graph",
+    "projection-mapping",
     "realtime",
     "shaders",
     "swift",
-    "vfx"
+    "vfx",
+    "vj"
   ],
-  "star_count": 60,
+  "star_count": 72,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-10T02:34:18Z",
-  "updated_at": "2026-08-29T03:14:43Z",
-  "pushed_at": "2026-08-27T22:46:48Z",
+  "updated_at": "2026-09-11T19:10:51Z",
+  "pushed_at": "2026-09-11T19:10:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -141,6 +144,10 @@
     {
       "date": "2026-08-30",
       "stars": 60
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 72
     }
   ]
 }

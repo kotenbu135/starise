@@ -3,41 +3,41 @@
   "owner": "docwire",
   "name": "docwire",
   "full_name": "docwire/docwire",
-  "description": "DocWire SDK: Award-winning modern data processing in C++20. SourceForge Community Choice \u0026 Microsoft support. AI-driven processing. Supports nearly 100 data formats, including email boxes and OCR. Boost efficiency in text extraction, web data extraction, data mining, document analysis. Offline processing is possible for security and confidentiality",
-  "description_ja": "DocWire SDK: C++20による受賞歴のある現代的なデータ処理ライブラリ。SourceForge Community ChoiceおよびMicrosoftサポート。AI駆動の処理。メールボックスやOCRを含むほぼ100種類のデータフォーマットに対応。テキスト抽出、Webデータ抽出、データマイニング、ドキュメント解析の効率化。セキュリティと機密性のためオフライン処理も可能",
+  "description": "DocWire SDK: local-first C++20 data-processing infrastructure for deterministic, auditable, on-premise workflows. Supports 100+ formats, OCR, local AI, and opt-in cloud AI pipelines",
+  "description_ja": "",
   "url": "https://github.com/docwire/docwire",
   "homepage_url": "https://docwire.io",
   "language": "C++",
   "license": "NOASSERTION",
   "topics": [
-    "api",
     "artificial-intelligence",
-    "c",
-    "cli",
     "cpp",
+    "cpp20",
+    "cross-platform",
     "data-extraction",
     "data-processing",
+    "document-processing",
+    "edge-computing",
     "extract-transform-load",
-    "linux",
+    "large-language-models",
+    "llm",
+    "local-ai",
     "machine-learning",
-    "macos",
+    "nlp",
+    "ocr",
+    "on-premise",
     "parsing",
+    "rag",
     "sdk",
-    "shell",
-    "tensorflow",
-    "terminal",
-    "text-extraction",
-    "text-extraction-from-image",
-    "text-mining",
-    "windows"
+    "text-extraction"
   ],
   "star_count": 112,
   "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-05-29T15:40:26Z",
-  "updated_at": "2026-08-18T06:28:20Z",
-  "pushed_at": "2026-08-18T06:27:17Z",
+  "updated_at": "2026-09-10T18:33:42Z",
+  "pushed_at": "2026-09-10T15:01:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +410,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 112
+    },
+    {
+      "date": "2026-09-11",
       "stars": 112
     }
   ]

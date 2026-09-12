@@ -3,7 +3,7 @@
   "owner": "helixmap",
   "name": "sigwood",
   "full_name": "helixmap/sigwood",
-  "description": "Local-first, transparent threat hunting for the logs you already have: Zeek, Pi-hole, syslog, CloudTrail. Named technique behind every finding. No SIEM, no agent, no black box.",
+  "description": "Local-first threat hunting for the logs you already have: Zeek, Pi-hole, syslog or the systemd journal, CloudTrail. Every run names the technique behind each detector. No agent, no daemon, no black box - between grep and a SIEM.",
   "description_ja": "",
   "url": "https://github.com/helixmap/sigwood",
   "homepage_url": "https://pypi.org/project/sigwood/",
@@ -12,22 +12,27 @@
   "topics": [
     "anomaly-detection",
     "blue-team",
-    "cloudtrail-logs",
+    "cloudtrail",
     "dfir",
+    "homelab",
+    "journald",
     "log-analysis",
     "network-security",
     "pihole",
+    "python",
     "security-tools",
+    "self-hosted",
+    "syslog",
     "threat-hunting",
     "zeek"
   ],
-  "star_count": 104,
+  "star_count": 107,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-10T04:20:56Z",
-  "updated_at": "2026-08-30T19:11:26Z",
-  "pushed_at": "2026-08-30T14:43:47Z",
+  "updated_at": "2026-09-10T03:11:38Z",
+  "pushed_at": "2026-09-10T03:11:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -137,6 +142,10 @@
     {
       "date": "2026-08-30",
       "stars": 104
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 107
     }
   ]
 }

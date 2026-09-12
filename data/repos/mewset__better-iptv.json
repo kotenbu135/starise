@@ -3,12 +3,12 @@
   "owner": "mewset",
   "name": "better-iptv",
   "full_name": "mewset/better-iptv",
-  "description": "Cross-platform IPTV player that just works. Handles huge playlists (100K+ channels), EPG guide, parental controls, series \u0026 movies library. Built with Rust + Tauri + React for speed \u0026 reliability. Privacy-first. Linux, Windows \u0026 macOS support.",
+  "description": "Cross-platform IPTV player that just works — Linux, Windows \u0026 macOS. M3U \u0026 Xtream Codes, EPG guide, series \u0026 movies library, parental controls. Smooth with 150K+ channel playlists. Built with Rust + Tauri + React. No accounts, no telemetry.",
   "description_ja": "",
   "url": "https://github.com/mewset/better-iptv",
   "homepage_url": "https://better-iptv.vercel.app",
-  "language": "TypeScript",
-  "license": "",
+  "language": "Rust",
+  "license": "GPL-2.0",
   "topics": [
     "cross-platform",
     "desktop-app",
@@ -27,15 +27,16 @@
     "typescript",
     "video-player",
     "vod",
-    "xmltv"
+    "xmltv",
+    "xtream-codes"
   ],
-  "star_count": 48,
+  "star_count": 50,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-15T23:04:12Z",
-  "updated_at": "2026-08-24T05:39:37Z",
-  "pushed_at": "2026-03-10T08:22:21Z",
+  "updated_at": "2026-09-11T16:57:38Z",
+  "pushed_at": "2026-09-11T16:57:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -369,6 +370,10 @@
     {
       "date": "2026-08-30",
       "stars": 48
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 50
     }
   ]
 }

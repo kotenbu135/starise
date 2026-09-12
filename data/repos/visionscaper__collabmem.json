@@ -3,20 +3,25 @@
   "owner": "visionscaper",
   "name": "collabmem",
   "full_name": "visionscaper/collabmem",
-  "description": "Enabling long-term collaboration with Agentic AI - building up episodic and world model memory over time with in-context awareness",
-  "description_ja": "エージェントAIとの長期的なコラボレーションを実現 — コンテキスト内認識によりエピソード記憶とワールドモデル記憶を時間をかけて構築する",
+  "description": "Building up long-term memory as a distributed team or solo by collaborating with agentic AI.",
+  "description_ja": "",
   "url": "https://github.com/visionscaper/collabmem",
-  "homepage_url": "",
+  "homepage_url": "https://lucens.ai",
   "language": "Shell",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "collaborative-ai",
+    "distributed-teams",
+    "long-term-memory",
+    "organizational-memory"
+  ],
   "star_count": 18,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-21T21:08:31Z",
-  "updated_at": "2026-08-16T13:05:23Z",
-  "pushed_at": "2026-08-09T23:13:21Z",
+  "updated_at": "2026-09-11T17:40:21Z",
+  "pushed_at": "2026-09-08T20:25:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -389,6 +394,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 18
+    },
+    {
+      "date": "2026-09-11",
       "stars": 18
     }
   ]

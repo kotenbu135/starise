@@ -6,17 +6,22 @@
   "description": "Docker CLI plugin for extended build capabilities with BuildKit",
   "description_ja": "BuildKit による拡張ビルド機能を提供する Docker CLI プラグイン",
   "url": "https://github.com/docker/buildx",
-  "homepage_url": "",
+  "homepage_url": "https://docs.docker.com/build/",
   "language": "Go",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 4491,
-  "fork_count": 676,
+  "topics": [
+    "buildkit",
+    "buildx",
+    "docker",
+    "dockerfile"
+  ],
+  "star_count": 4498,
+  "fork_count": 680,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-03-22T21:20:07Z",
-  "updated_at": "2026-08-29T02:06:32Z",
-  "pushed_at": "2026-08-28T18:36:37Z",
+  "updated_at": "2026-09-11T08:42:01Z",
+  "pushed_at": "2026-09-11T18:37:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -390,6 +395,10 @@
     {
       "date": "2026-08-30",
       "stars": 4491
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 4498
     }
   ]
 }

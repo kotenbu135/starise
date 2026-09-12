@@ -3,39 +3,41 @@
   "owner": "hproxy-com",
   "name": "free-proxy-list",
   "full_name": "hproxy-com/free-proxy-list",
-  "description": "The biggest free proxy list. 780,000+ proxies collected globally and verified around the clock, thousands live \u0026 working right now. HTTP, HTTPS, SOCKS4 \u0026 SOCKS5 with country, anonymity grade \u0026 latency. Powered by HProxy.",
+  "description": "Free proxy list, verified around the clock: HTTP, HTTPS, SOCKS4 and SOCKS5 proxies with country, anonymity, latency and uptime on every row, updated several times a day. Live list, proxy checker, keyless API and MCP server at hproxy.com.",
   "description_ja": "",
   "url": "https://github.com/hproxy-com/free-proxy-list",
-  "homepage_url": "https://hproxy.com",
+  "homepage_url": "https://hproxy.com/free-proxy-list",
   "language": "",
   "license": "MIT",
   "topics": [
+    "ai-agents",
     "anonymous-proxy",
     "free-proxies",
-    "free-proxies-2026",
-    "free-proxies-for-web-scraping",
     "free-proxy",
     "free-proxy-api",
-    "free-proxy-ip",
     "free-proxy-list",
-    "freeproxy",
-    "freeproxylist",
+    "http-proxy",
+    "https-proxy",
+    "mcp-server",
     "proxies",
-    "proxies-http",
-    "proxies-https",
-    "proxies-list",
-    "proxies-socks5",
+    "proxy",
+    "proxy-api",
+    "proxy-checker",
     "proxy-list",
-    "proxy-lists",
-    "socks5-proxy"
+    "proxy-server",
+    "scraping",
+    "socks4",
+    "socks5",
+    "socks5-proxy",
+    "web-scraping"
   ],
-  "star_count": 47,
-  "fork_count": 2,
+  "star_count": 53,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-16T18:04:40Z",
-  "updated_at": "2026-08-30T22:09:25Z",
-  "pushed_at": "2026-08-30T22:08:57Z",
+  "updated_at": "2026-09-11T22:34:30Z",
+  "pushed_at": "2026-09-11T22:34:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +47,10 @@
     {
       "date": "2026-08-30",
       "stars": 47
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 53
     }
   ]
 }

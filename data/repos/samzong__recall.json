@@ -3,7 +3,7 @@
   "owner": "samzong",
   "name": "recall",
   "full_name": "samzong/recall",
-  "description": "Switch agents. Keep the memory. Local-first search across your AI coding sessions.",
+  "description": "Switch agents. Keep the history. Local-first search across your AI coding sessions.",
   "description_ja": "",
   "url": "https://github.com/samzong/Recall",
   "homepage_url": "https://samzong.github.io/Recall/",
@@ -25,13 +25,13 @@
     "tui",
     "usage-tracking"
   ],
-  "star_count": 76,
+  "star_count": 103,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-09T09:43:56Z",
-  "updated_at": "2026-08-30T16:09:38Z",
-  "pushed_at": "2026-08-30T16:09:28Z",
+  "updated_at": "2026-09-11T08:54:58Z",
+  "pushed_at": "2026-09-11T08:54:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -161,6 +161,10 @@
     {
       "date": "2026-08-30",
       "stars": 76
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 103
     }
   ]
 }

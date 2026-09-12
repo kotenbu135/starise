@@ -3,19 +3,24 @@
   "owner": "openmoss",
   "name": "bandpo",
   "full_name": "openmoss/bandpo",
-  "description": "Official implementation of BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning. BandPO replaces canonical clipping (PPO/GRPO) with dynamic bounds to resolve exploration bottlenecks and prevent entropy collapse.",
-  "description_ja": "BandPO公式実装：LLM強化学習における確率認識境界によるトラスト領域と比率クリッピングの統合。BandPOは標準的なクリッピング（PPO/GRPO）を動的境界に置き換え、探索のボトルネックを解消しエントロピー崩壊を防止。",
+  "description": "Band-constrained Policy Optimization with probability-aware clipping for LLM reinforcement learning",
+  "description_ja": "",
   "url": "https://github.com/OpenMOSS/BandPO",
   "homepage_url": "",
   "language": "Python",
   "license": "GPL-3.0",
-  "topics": [],
+  "topics": [
+    "large-language-models",
+    "policy-optimization",
+    "post-training",
+    "reinforcement-learning"
+  ],
   "star_count": 50,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-04T06:31:56Z",
-  "updated_at": "2026-08-25T07:20:19Z",
+  "updated_at": "2026-09-06T06:21:20Z",
   "pushed_at": "2026-04-08T03:45:29Z",
   "deleted_at": "",
   "star_history": [
@@ -393,6 +398,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 50
+    },
+    {
+      "date": "2026-09-11",
       "stars": 50
     }
   ]

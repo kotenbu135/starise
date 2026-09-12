@@ -3,7 +3,7 @@
   "owner": "smol-machines",
   "name": "smolvm",
   "full_name": "smol-machines/smolvm",
-  "description": "Portable, lightweight, self-contained virtual machine.",
+  "description": "Branchable computing by using a portable, lightweight, self-contained virtual machine",
   "description_ja": "",
   "url": "https://github.com/smol-machines/smolvm",
   "homepage_url": "https://smolmachines.com",
@@ -17,13 +17,13 @@
     "rust",
     "virtual-machine"
   ],
-  "star_count": 5853,
-  "fork_count": 279,
+  "star_count": 6028,
+  "fork_count": 285,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-18T23:25:15Z",
-  "updated_at": "2026-08-30T21:33:15Z",
-  "pushed_at": "2026-08-30T11:26:31Z",
+  "updated_at": "2026-09-11T22:15:25Z",
+  "pushed_at": "2026-09-11T22:12:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -401,6 +401,10 @@
     {
       "date": "2026-08-30",
       "stars": 5853
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 6028
     }
   ]
 }

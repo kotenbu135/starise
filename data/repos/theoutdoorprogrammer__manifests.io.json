@@ -7,7 +7,7 @@
   "description_ja": "手軽な Kubernetes ドキュメント生成",
   "url": "https://github.com/TheOutdoorProgrammer/manifests.io",
   "homepage_url": "https://www.manifests.io",
-  "language": "TypeScript",
+  "language": "Go",
   "license": "MIT",
   "topics": [
     "documentation-tool",
@@ -18,8 +18,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-08-27T05:19:02Z",
-  "updated_at": "2026-08-25T22:42:33Z",
-  "pushed_at": "2026-08-25T22:42:11Z",
+  "updated_at": "2026-09-11T19:10:14Z",
+  "pushed_at": "2026-09-11T19:10:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -388,6 +388,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 49
+    },
+    {
+      "date": "2026-09-11",
       "stars": 49
     }
   ]

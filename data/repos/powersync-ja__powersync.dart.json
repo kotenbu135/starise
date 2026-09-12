@@ -3,8 +3,8 @@
   "owner": "powersync-ja",
   "name": "powersync.dart",
   "full_name": "powersync-ja/powersync.dart",
-  "description": "SDK that enables local-first and real-time reactive apps with embedded SQLite for Flutter/Dart clients",
-  "description_ja": "Flutter/Dart クライアント向けに組み込み SQLite でローカルファーストかつリアルタイムリアクティブなアプリを実現する SDK",
+  "description": "PowerSync client SDK for Flutter/Dart",
+  "description_ja": "",
   "url": "https://github.com/powersync-ja/powersync.dart",
   "homepage_url": "https://www.powersync.com",
   "language": "Dart",
@@ -22,13 +22,13 @@
     "state-management",
     "sync"
   ],
-  "star_count": 249,
+  "star_count": 250,
   "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-21T13:06:53Z",
-  "updated_at": "2026-08-28T02:40:36Z",
-  "pushed_at": "2026-08-28T02:40:16Z",
+  "updated_at": "2026-09-10T07:09:34Z",
+  "pushed_at": "2026-09-10T07:09:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -406,6 +406,10 @@
     {
       "date": "2026-08-30",
       "stars": 249
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 250
     }
   ]
 }

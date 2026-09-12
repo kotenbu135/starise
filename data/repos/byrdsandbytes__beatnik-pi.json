@@ -3,8 +3,8 @@
   "owner": "byrdsandbytes",
   "name": "beatnik-pi",
   "full_name": "byrdsandbytes/beatnik-pi",
-  "description": "Open Source Multiroom Audio Streamer based on Raspberry Pi \u0026 Snapcast",
-  "description_ja": "Raspberry Pi と Snapcast をベースにしたオープンソースのマルチルームオーディオストリーマー",
+  "description": "Open Source Multiroom Audio Streamer based on Raspberry Pi, Snapcast \u0026 camillaDSP",
+  "description_ja": "",
   "url": "https://github.com/byrdsandbytes/beatnik-pi",
   "homepage_url": "https://beatnik.audio/",
   "language": "Shell",
@@ -24,13 +24,13 @@
     "spotify",
     "spotify-connect"
   ],
-  "star_count": 472,
+  "star_count": 473,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-23T12:51:09Z",
-  "updated_at": "2026-08-25T19:14:08Z",
-  "pushed_at": "2026-08-04T12:33:12Z",
+  "updated_at": "2026-09-03T10:04:01Z",
+  "pushed_at": "2026-09-01T08:39:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +404,10 @@
     {
       "date": "2026-08-30",
       "stars": 472
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 473
     }
   ]
 }

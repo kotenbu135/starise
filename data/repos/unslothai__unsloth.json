@@ -3,7 +3,7 @@
   "owner": "unslothai",
   "name": "unsloth",
   "full_name": "unslothai/unsloth",
-  "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, FLUX and more.",
+  "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.",
   "description_ja": "",
   "url": "https://github.com/unslothai/unsloth",
   "homepage_url": "https://unsloth.ai/docs",
@@ -31,13 +31,13 @@
     "ui",
     "unsloth"
   ],
-  "star_count": 75261,
-  "fork_count": 6828,
+  "star_count": 76039,
+  "fork_count": 6931,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-29T16:50:09Z",
-  "updated_at": "2026-08-30T22:59:50Z",
-  "pushed_at": "2026-08-30T22:54:09Z",
+  "updated_at": "2026-09-11T23:35:12Z",
+  "pushed_at": "2026-09-11T23:12:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -423,6 +423,10 @@
     {
       "date": "2026-08-30",
       "stars": 75261
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 76039
     }
   ]
 }

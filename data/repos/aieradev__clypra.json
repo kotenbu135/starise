@@ -3,7 +3,7 @@
   "owner": "aieradev",
   "name": "clypra",
   "full_name": "aieradev/clypra",
-  "description": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+  "description": "A hardware-accelerated video editor built on Rust, Tauri v2, and React 19. Sub-10ms frame decoding, GPU-native rendering, and a frame-accurate timeline — all free and open source under MIT.",
   "description_ja": "",
   "url": "https://github.com/AIEraDev/Clypra",
   "homepage_url": "https://clypra.abdulkabirmusa.com",
@@ -15,16 +15,18 @@
     "tauri-app",
     "tauri-react",
     "tauri-v2",
-    "timeline-editor",
-    "video-editor"
+    "video-editor",
+    "wgpu",
+    "wgpu-native",
+    "wgpu-rs"
   ],
-  "star_count": 3160,
-  "fork_count": 311,
+  "star_count": 3194,
+  "fork_count": 319,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-26T14:31:10Z",
-  "updated_at": "2026-08-30T13:56:24Z",
-  "pushed_at": "2026-08-28T16:39:48Z",
+  "updated_at": "2026-09-11T06:26:52Z",
+  "pushed_at": "2026-09-10T22:10:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -278,6 +280,10 @@
     {
       "date": "2026-08-30",
       "stars": 3160
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 3194
     }
   ]
 }

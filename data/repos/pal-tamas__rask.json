@@ -3,30 +3,30 @@
   "owner": "pal-tamas",
   "name": "rask",
   "full_name": "pal-tamas/rask",
-  "description": "The .NET One Person Framework — build, run, and ship a whole product solo, in C#, on one server. One codebase across server, WASM \u0026 native UI; SQLite-first data, auth, jobs, mail, cache, CQRS \u0026 one-command deploy.",
+  "description": "The .NET One Person Framework — build, run, and ship a whole product solo, in C#, on one server. C# components server-rendered or on WebAssembly, a typed SPA or islands (React, Vue, Angular, Svelte, Solid, Preact, Lit), a hosted meta framework or real Blazor. SQLite-first data, auth, jobs, mail, cache, CQRS \u0026 one-command deploy.",
   "description_ja": "",
   "url": "https://github.com/pal-tamas/rask",
-  "homepage_url": "https://pal-tamas.github.io/rask/",
+  "homepage_url": "https://rask.sh/",
   "language": "C#",
   "license": "MIT",
   "topics": [
-    "android",
-    "blazor-alternative",
-    "components",
+    "aspnetcore",
+    "blazor",
     "cqrs",
     "csharp",
     "dotnet",
     "dotnet-tool",
+    "entity-framework-core",
     "full-stack",
-    "ios",
-    "mobile",
-    "native",
+    "islands-architecture",
     "one-person-framework",
+    "pwa",
+    "self-hosted",
     "server-side-rendering",
-    "solo-developer",
     "source-generator",
+    "spa",
     "sqlite",
-    "wasm",
+    "typescript",
     "web-framework",
     "webassembly",
     "websockets"
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-11T08:56:07Z",
-  "updated_at": "2026-08-28T21:12:24Z",
-  "pushed_at": "2026-08-28T21:24:01Z",
+  "updated_at": "2026-09-11T18:21:32Z",
+  "pushed_at": "2026-09-11T18:24:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +78,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 31
+    },
+    {
+      "date": "2026-09-11",
       "stars": 31
     }
   ]

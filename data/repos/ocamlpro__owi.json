@@ -3,41 +3,40 @@
   "owner": "ocamlpro",
   "name": "owi",
   "full_name": "ocamlpro/owi",
-  "description": "Seamless bug-finding for C, C++, Go, Rust, Wasm and Zig",
-  "description_ja": "C、C++、Go、Rust、Wasm、Zig 向けのシームレスなバグ検出ツール",
+  "description": "Owi: Seamless program analysis for C, C++, Go, Haskell, LLVM, Rust, Wasm and Zig.",
+  "description_ja": "",
   "url": "https://github.com/OCamlPro/owi",
   "homepage_url": "https://ocamlpro.github.io/owi/",
   "language": "OCaml",
   "license": "AGPL-3.0",
   "topics": [
-    "afl",
+    "abstract-interpretation",
     "c",
-    "concolic-execution",
     "constraints",
     "formatter",
     "fuzzer",
+    "haskell",
     "interpreter",
-    "nlnet",
+    "llvm",
     "ocaml",
     "optimizer",
     "owi",
-    "parallel",
     "rust",
-    "smt",
     "solver",
+    "solver-aided-programming",
     "symbolic-execution",
+    "tinygo",
     "wasm",
-    "wasm2wat",
-    "wat2wasm",
-    "webassembly"
+    "webassembly",
+    "zig"
   ],
-  "star_count": 323,
-  "fork_count": 42,
+  "star_count": 322,
+  "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-03T00:57:11Z",
-  "updated_at": "2026-08-28T19:33:08Z",
-  "pushed_at": "2026-08-27T00:29:55Z",
+  "updated_at": "2026-09-09T18:41:23Z",
+  "pushed_at": "2026-09-09T19:29:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +410,10 @@
     {
       "date": "2026-08-30",
       "stars": 323
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 322
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "kartiklabhshetwar",
   "name": "better-shot",
   "full_name": "kartiklabhshetwar/better-shot",
-  "description": "One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.",
+  "description": "Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source alternative to CleanShot X and Loom.",
   "description_ja": "",
   "url": "https://github.com/KartikLabhshetwar/better-shot",
   "homepage_url": "https://www.bettershot.site",
@@ -11,28 +11,33 @@
   "license": "BSD-3-Clause",
   "topics": [
     "annotation-tool",
+    "automation",
+    "capture-tool",
     "cleanshot-alternative",
-    "desktop-application",
+    "cloudflare-r2",
     "loom-alternative",
     "macos",
     "macos-app",
-    "macos-application",
+    "native-macos",
+    "ocr",
+    "open-source",
+    "privacy",
+    "raycast",
     "screen-recorder",
-    "screen-recording",
     "screencapturekit",
-    "screenshot",
     "screenshot-tool",
     "swift",
     "swiftui",
+    "url-scheme",
     "video-editor"
   ],
-  "star_count": 2220,
+  "star_count": 2279,
   "fork_count": 133,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-11T09:39:37Z",
-  "updated_at": "2026-08-30T21:59:07Z",
-  "pushed_at": "2026-08-30T17:34:51Z",
+  "updated_at": "2026-09-11T21:56:38Z",
+  "pushed_at": "2026-09-11T19:46:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -298,6 +303,10 @@
     {
       "date": "2026-08-30",
       "stars": 2220
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 2279
     }
   ]
 }

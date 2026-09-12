@@ -3,20 +3,28 @@
   "owner": "swiftol",
   "name": "rime_config",
   "full_name": "swiftol/rime_config",
-  "description": "",
+  "description": "Windows 中日混合输入法：中文拼音与日语罗马字无前缀直输，支持翻译注释、GUI 设置与一键安装。 / Direct Chinese–Japanese input for Windows.",
   "description_ja": "",
   "url": "https://github.com/swiftol/Rime_Config",
   "homepage_url": "",
   "language": "Lua",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 51,
+  "topics": [
+    "chinese-input-method",
+    "ime",
+    "input-method",
+    "japanese-input",
+    "rime",
+    "weasel",
+    "windows"
+  ],
+  "star_count": 72,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-02T07:39:59Z",
-  "updated_at": "2026-08-30T05:42:06Z",
-  "pushed_at": "2026-08-24T12:54:37Z",
+  "updated_at": "2026-09-07T10:12:41Z",
+  "pushed_at": "2026-08-31T10:59:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -26,6 +34,10 @@
     {
       "date": "2026-08-30",
       "stars": 51
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 72
     }
   ]
 }

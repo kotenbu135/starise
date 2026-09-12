@@ -3,19 +3,30 @@
   "owner": "pelican",
   "name": "wings",
   "full_name": "pelican/wings",
-  "description": "",
+  "description": "Pelican's server control daemon: runs each game server in its own Docker container.",
   "description_ja": "",
   "url": "https://github.com/pelican/wings",
   "homepage_url": "",
   "language": "Go",
   "license": "MIT",
-  "topics": [],
-  "star_count": 312,
-  "fork_count": 77,
+  "topics": [
+    "docker",
+    "game-panel",
+    "game-server-hosting",
+    "game-servers",
+    "go",
+    "golang",
+    "pelican",
+    "pterodactyl",
+    "self-hosted",
+    "selfhosted"
+  ],
+  "star_count": 316,
+  "fork_count": 76,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-29T01:46:09Z",
-  "updated_at": "2026-08-30T20:59:37Z",
+  "updated_at": "2026-09-07T14:02:58Z",
   "pushed_at": "2026-08-29T02:05:39Z",
   "deleted_at": "",
   "star_history": [
@@ -210,6 +221,10 @@
     {
       "date": "2026-08-30",
       "stars": 312
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 316
     }
   ]
 }

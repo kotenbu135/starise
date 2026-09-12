@@ -3,10 +3,10 @@
   "owner": "milanvarady",
   "name": "applite",
   "full_name": "milanvarady/applite",
-  "description": "User-friendly GUI macOS application for Homebrew Casks",
-  "description_ja": "Homebrew Casks 向けの使いやすい GUI macOS アプリケーション",
+  "description": "A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask",
+  "description_ja": "",
   "url": "https://github.com/milanvarady/Applite",
-  "homepage_url": "https://aerolite.dev/applite",
+  "homepage_url": "https://applite.app/",
   "language": "Swift",
   "license": "MIT",
   "topics": [
@@ -17,13 +17,13 @@
     "swift",
     "swiftui"
   ],
-  "star_count": 6969,
-  "fork_count": 177,
+  "star_count": 7005,
+  "fork_count": 179,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-03T20:35:19Z",
-  "updated_at": "2026-08-30T16:10:50Z",
-  "pushed_at": "2026-08-07T12:31:50Z",
+  "updated_at": "2026-09-11T16:06:01Z",
+  "pushed_at": "2026-09-10T21:26:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -401,6 +401,10 @@
     {
       "date": "2026-08-30",
       "stars": 6969
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 7005
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "mixpeek",
   "name": "amux",
   "full_name": "mixpeek/amux",
-  "description": "Open-source control plane for AI coding agents — run, monitor \u0026 orchestrate dozens of parallel Claude Code, Codex \u0026 Gemini sessions from one web dashboard or your phone. Self-healing, single-file, tmux-native.",
+  "description": "Open-source control plane for AI coding agents. Run an AI engineering team: parallel Claude Code, Codex, and Gemini workers with a shared board, atomic tasks, schedules, loops, origin-stamped messaging, model switching, and self-healing recovery. One dashboard, or your phone. MIT, single Rust binary.",
   "description_ja": "",
   "url": "https://github.com/mixpeek/amux",
   "homepage_url": "https://amux.io",
@@ -15,29 +15,29 @@
     "ai-agents",
     "ai-coding-assistant",
     "anthropic",
-    "automation",
     "claude",
     "claude-code",
-    "cli",
     "codex",
     "coding-agent",
+    "control-plane",
     "developer-tools",
     "gemini",
     "llm",
     "mcp",
     "multi-agent",
     "orchestration",
-    "python",
+    "rust",
+    "self-healing",
     "self-hosted",
     "tmux"
   ],
-  "star_count": 375,
-  "fork_count": 44,
+  "star_count": 443,
+  "fork_count": 50,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-18T14:30:56Z",
-  "updated_at": "2026-08-30T22:12:32Z",
-  "pushed_at": "2026-08-30T17:23:51Z",
+  "updated_at": "2026-09-11T22:17:32Z",
+  "pushed_at": "2026-09-11T20:44:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -143,6 +143,10 @@
     {
       "date": "2026-08-30",
       "stars": 375
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 443
     }
   ]
 }

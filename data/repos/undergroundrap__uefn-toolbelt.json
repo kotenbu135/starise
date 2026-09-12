@@ -3,7 +3,7 @@
   "owner": "undergroundrap",
   "name": "uefn-toolbelt",
   "full_name": "undergroundrap/uefn-toolbelt",
-  "description": "The ultimate, ever-expanding Swiss Army Knife for the UEFN Python API (358+ tools registered across 55+ categories). Automate world-building, manage assets, generate boilerplate Verse code, and control the editor with AI via a fully-offline PySide6 dashboard.",
+  "description": "UEFN Toolbelt: 362 Python automation tools across 55 categories, with a PySide6 dashboard and an experimental, authenticated same-user loopback bridge for local AI control. Complements Epic's official UEFN MCP; Toolbelt is not exposed through Epic's MCP server.",
   "description_ja": "",
   "url": "https://github.com/undergroundrap/UEFN-TOOLBELT",
   "homepage_url": "https://www.fortnite.com/@ohshh",
@@ -31,13 +31,13 @@
     "unreal-engine-fortnite",
     "verse"
   ],
-  "star_count": 44,
+  "star_count": 45,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-20T15:50:27Z",
-  "updated_at": "2026-08-28T18:45:38Z",
-  "pushed_at": "2026-08-28T18:42:51Z",
+  "updated_at": "2026-09-10T17:36:02Z",
+  "pushed_at": "2026-09-10T17:35:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -271,6 +271,10 @@
     {
       "date": "2026-08-30",
       "stars": 44
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 45
     }
   ]
 }

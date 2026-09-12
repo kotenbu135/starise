@@ -3,20 +3,31 @@
   "owner": "lj1270998580-crypto",
   "name": "agnes-help-skill",
   "full_name": "lj1270998580-crypto/agnes-help-skill",
-  "description": "这是一个专门接入Agnes免费模型API的skill，帮助新手排查和修复问题，也能直接在Agent工具中使用生图生视频，支持Claude code、Openclaw、Codex、Hermes等工具部署接入，所有信息基于最新的官方文档和说明。",
+  "description": "Agnes AI 全模态 API 非官方帮助中心：完整 API 文档 + 通用支持 Skill。已同步 Agnes 3.0 Flash（512K 上下文 / 65,536 输出 / 三端点 / Thinking）与 Image 2.5 Flash，覆盖文本、图像、视频模型接入，适配 Claude Code、Codex、OpenClaw、Hermes、WorkBuddy 等工具，所有信息基于最新官方文档。",
   "description_ja": "",
   "url": "https://github.com/lj1270998580-crypto/Agnes-help-skill",
-  "homepage_url": "",
+  "homepage_url": "https://ailabing.cn/tools/agnes-creative-space/",
   "language": "HTML",
   "license": "",
-  "topics": [],
-  "star_count": 272,
-  "fork_count": 42,
+  "topics": [
+    "agent",
+    "agnes",
+    "agnes-ai",
+    "api-skill",
+    "claude-code",
+    "codex",
+    "image-generation",
+    "llm",
+    "openclaw",
+    "video-generation"
+  ],
+  "star_count": 285,
+  "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-06T07:27:21Z",
-  "updated_at": "2026-08-30T15:18:11Z",
-  "pushed_at": "2026-08-27T08:54:15Z",
+  "updated_at": "2026-09-11T11:32:36Z",
+  "pushed_at": "2026-09-09T11:39:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +269,10 @@
     {
       "date": "2026-08-30",
       "stars": 272
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 285
     }
   ]
 }

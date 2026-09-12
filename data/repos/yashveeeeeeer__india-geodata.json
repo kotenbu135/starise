@@ -3,36 +3,41 @@
   "owner": "yashveeeeeeer",
   "name": "india-geodata",
   "full_name": "yashveeeeeeer/india-geodata",
-  "description": "Download India's open GIS data — district boundaries, electoral maps, census geometries, forest cover, nightlights, shapefiles, GeoJSON, Parquet. Free and openly licensed.",
-  "description_ja": "インドのオープン GIS データをダウンロード — 地区境界、選挙地図、国勢調査ジオメトリ、森林被覆、夜間照明、Shapefile、GeoJSON、Parquet。無料かつオープンライセンス。",
+  "description": "Download India's open GIS data — district boundaries, electoral maps, census geometries, shapefiles, GeoJSON, Parquet. Includes India Map Maker, a free online map maker for India: spreadsheet in, state or district map out, no watermark.",
+  "description_ja": "",
   "url": "https://github.com/yashveeeeeeer/india-geodata",
-  "homepage_url": "",
+  "homepage_url": "https://yashveeeeeeer.github.io/india-geodata/",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
     "administrative-boundaries",
     "boundaries",
     "census",
+    "choropleth",
+    "data-visualization",
     "electoral-map",
     "geodata",
     "geojson",
     "geospatial",
     "gis",
     "india",
+    "india-districts",
     "india-map",
+    "map-maker",
     "nightlights",
     "open-data",
     "parquet",
     "pmtiles",
-    "shapefile"
+    "shapefile",
+    "topojson"
   ],
-  "star_count": 72,
-  "fork_count": 10,
+  "star_count": 80,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T04:52:32Z",
-  "updated_at": "2026-08-27T06:13:46Z",
-  "pushed_at": "2026-04-04T03:21:08Z",
+  "updated_at": "2026-09-11T11:01:51Z",
+  "pushed_at": "2026-09-09T19:01:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +415,10 @@
     {
       "date": "2026-08-30",
       "stars": 72
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 80
     }
   ]
 }

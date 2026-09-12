@@ -1,0 +1,45 @@
+{
+  "repo_id": "R_kgDOQ_0nkw",
+  "owner": "openziti",
+  "name": "mcp-gateway",
+  "full_name": "openziti/mcp-gateway",
+  "description": "Zero trust gateway for MCP servers. Aggregate, filter, and securely access MCP tools from anywhere without VPNs, open ports, or exposed endpoints. Built on OpenZiti, zrok, and Agora with cryptographic identity, mTLS, per-client isolation, and tool-level permission control.",
+  "description_ja": "",
+  "url": "https://github.com/openziti/mcp-gateway",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "Apache-2.0",
+  "topics": [
+    "agentic-ai",
+    "ai-infrastructure",
+    "ai-tools",
+    "e2e-encryption",
+    "mcp",
+    "mcp-aggregator",
+    "mcp-gateway",
+    "mcp-proxy",
+    "mcp-server",
+    "mtls",
+    "nhi",
+    "non-human-identity",
+    "openziti",
+    "self-hosted",
+    "tool-aggregation",
+    "zero-trust",
+    "zrok"
+  ],
+  "star_count": 49,
+  "fork_count": 8,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-01-23T15:38:29Z",
+  "updated_at": "2026-09-11T06:36:42Z",
+  "pushed_at": "2026-08-25T20:57:23Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-11",
+      "stars": 49
+    }
+  ]
+}

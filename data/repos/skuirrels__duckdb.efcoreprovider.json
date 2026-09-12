@@ -3,10 +3,10 @@
   "owner": "skuirrels",
   "name": "duckdb.efcoreprovider",
   "full_name": "skuirrels/duckdb.efcoreprovider",
-  "description": "DuckDB, DuckLake \u0026 Parquet analytics at cloud scale — for .NET 10 and EF Core 10",
+  "description": "DuckDB, DuckLake \u0026 Parquet EF Core Provider for analytics at cloud scale — for .NET 10 and EF Core 10 (and Dotnet 11 in Preview)",
   "description_ja": "",
   "url": "https://github.com/skuirrels/DuckDB.EFCoreProvider",
-  "homepage_url": "lakehold.dev/provider",
+  "homepage_url": "https://lakehold.dev/provider/docs",
   "language": "C#",
   "license": "MIT",
   "topics": [
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-01T07:22:53Z",
-  "updated_at": "2026-08-26T22:05:01Z",
-  "pushed_at": "2026-08-26T21:43:09Z",
+  "updated_at": "2026-09-06T10:11:31Z",
+  "pushed_at": "2026-09-05T21:30:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -128,6 +128,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 14
+    },
+    {
+      "date": "2026-09-11",
       "stars": 14
     }
   ]

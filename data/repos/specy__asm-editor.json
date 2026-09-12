@@ -3,20 +3,21 @@
   "owner": "specy",
   "name": "asm-editor",
   "full_name": "specy/asm-editor",
-  "description": "A modern webapp to write, run and learn M68K, MIPS, RISC-V, X86 assembly",
-  "description_ja": "M68K、MIPS、RISC-V、X86アセンブリを書いて実行・学習できるモダンなWebアプリ",
+  "description": "An app to write, run and learn M68K, MIPS, RISC-V, X86, Z80 assembly",
+  "description_ja": "",
   "url": "https://github.com/Specy/asm-editor",
   "homepage_url": "https://asm-editor.specy.app",
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
     "assembly",
-    "interpreter",
     "javascript",
+    "learn",
+    "learning",
+    "learning-by-doing",
     "m68k",
     "mc68000",
     "mips",
-    "mips-assembler",
     "mips-assembly",
     "mips-simulator",
     "mips32",
@@ -26,15 +27,17 @@
     "riscv32",
     "simulator",
     "svelte",
-    "x86"
+    "x86",
+    "z80",
+    "z80-emulator"
   ],
-  "star_count": 312,
-  "fork_count": 17,
+  "star_count": 323,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-04T20:32:40Z",
-  "updated_at": "2026-08-30T09:08:17Z",
-  "pushed_at": "2026-08-11T13:19:19Z",
+  "updated_at": "2026-09-11T14:34:49Z",
+  "pushed_at": "2026-09-11T21:04:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -412,6 +415,10 @@
     {
       "date": "2026-08-30",
       "stars": 312
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 323
     }
   ]
 }

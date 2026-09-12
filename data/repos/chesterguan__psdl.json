@@ -3,20 +3,29 @@
   "owner": "chesterguan",
   "name": "psdl",
   "full_name": "chesterguan/psdl",
-  "description": "Patient Scenario Definition Language",
-  "description_ja": "患者シナリオ定義言語",
+  "description": "PSDL — Patient Scenario Definition Language: portable, reproducible clinical scenario and cohort definitions over OMOP CDM. Part of the Prometheno open-protocol stack (HAVEN · PSDL · VERITAS).",
+  "description_ja": "",
   "url": "https://github.com/Chesterguan/PSDL",
-  "homepage_url": "",
+  "homepage_url": "https://prometheno.org/psdl",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
+  "topics": [
+    "clinical-research",
+    "cohort-definition",
+    "dsl",
+    "healthcare",
+    "ohdsi",
+    "omop",
+    "phenotyping",
+    "reproducible-research"
+  ],
   "star_count": 9,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-05T21:39:32Z",
-  "updated_at": "2026-04-13T20:06:54Z",
-  "pushed_at": "2026-04-13T20:06:50Z",
+  "updated_at": "2026-09-04T15:30:00Z",
+  "pushed_at": "2026-09-02T15:55:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -389,6 +398,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 9
+    },
+    {
+      "date": "2026-09-11",
       "stars": 9
     }
   ]

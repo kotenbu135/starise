@@ -3,7 +3,7 @@
   "owner": "client9",
   "name": "shlib",
   "full_name": "client9/shlib",
-  "description": "generate `curl | sh` installers, and portable shell functions",
+  "description": "generate a `curl | sh` installer for 30+ target platforms",
   "description_ja": "",
   "url": "https://github.com/client9/shlib",
   "homepage_url": "",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-05-11T23:48:46Z",
-  "updated_at": "2026-08-30T19:12:22Z",
-  "pushed_at": "2026-08-30T19:17:59Z",
+  "updated_at": "2026-08-31T05:47:21Z",
+  "pushed_at": "2026-08-31T05:26:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 431
+    },
+    {
+      "date": "2026-09-11",
       "stars": 431
     }
   ]

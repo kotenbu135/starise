@@ -3,40 +3,37 @@
   "owner": "masterai-top",
   "name": "cfr-poker-ai-masterai",
   "full_name": "masterai-top/cfr-poker-ai-masterai",
-  "description": "CFR-based Heads-Up No-Limit Texas Hold'em AI – MasterAI v3.0 | 德州扑克|基于反事实遗憾最小化的德州扑克AI系统 | 强化学习 + 深度神经网络|德州俱乐部 | 源码德州AI | 德州扑克1v多博弈AI系统 | 德州AI模型，德州高级AI， 私局/大厅局/俱乐部/联盟/赛事 |德州源码，德州游戏源码，德州app源码，德州扑克app源码，德州游戏app源码，德州撲克，德撲源碼，德州源碼，德州俱樂部源碼，德州遊戲源碼，德州錦標賽，撲克源碼，HHpoker源码，百人德州，德州牛仔，ALLIN源码，AAPOKER，AAPOKER源码",
+  "description": "MasterAI CFR 扑克 AI 研究系统，德州AI源码，用于单挑无限注德州扑克训练、评估及博弈论实验，采用 C++ 与 Python，MasterAI CFR poker AI research system for heads-up no-limit Texas Holdem training, evaluation and game-theory experiments in C++ and Python",
   "description_ja": "",
   "url": "https://github.com/masterai-top/cfr-poker-ai-masterai",
-  "homepage_url": "https://master.deeptexas.ai/master2_0-en.html",
+  "homepage_url": "https://masterai-top.github.io/cfr-poker-ai-masterai/",
   "language": "C++",
   "license": "NOASSERTION",
   "topics": [
+    "ai-research",
     "cfr",
-    "ggpoker",
-    "nutspoker",
+    "counterfactual-regret-minimization",
+    "game-theory",
     "online-poker-software",
     "poker",
     "poker-ai",
     "poker-bot",
-    "poker-cards",
     "poker-club",
     "poker-game",
     "poker-game-server",
     "poker-game-source-code",
-    "texas",
     "texas-hold-em",
     "texas-hold-em-poker",
-    "texas-hold-em-poker-ai",
     "texas-holdem",
-    "texas-holdem-poker",
-    "texas-holdem-unity"
+    "texas-holdem-poker"
   ],
-  "star_count": 47,
-  "fork_count": 16,
+  "star_count": 49,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-22T07:47:49Z",
-  "updated_at": "2026-08-30T11:39:32Z",
-  "pushed_at": "2026-08-29T11:08:25Z",
+  "updated_at": "2026-09-10T03:45:13Z",
+  "pushed_at": "2026-09-08T12:21:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -342,6 +339,10 @@
     {
       "date": "2026-08-30",
       "stars": 47
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 49
     }
   ]
 }

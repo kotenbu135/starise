@@ -3,25 +3,33 @@
   "owner": "skyzh",
   "name": "type-exercise-in-rust",
   "full_name": "skyzh/type-exercise-in-rust",
-  "description": "Learn advanced Rust techniques by building an expression evaluation framework for a database system.",
+  "description": "Learn advanced Rust by building a type-safe, auto-vectorized database expression engine",
   "description_ja": "",
   "url": "https://github.com/skyzh/type-exercise-in-rust",
   "homepage_url": "https://skyzh.github.io/type-exercise-in-rust/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "course",
     "database",
+    "database-systems",
+    "expression-evaluation",
+    "gats",
+    "generics",
+    "query-engine",
     "rust",
     "tutorial",
-    "type"
+    "type-erasure",
+    "type-system",
+    "vectorized-execution"
   ],
-  "star_count": 1504,
-  "fork_count": 65,
+  "star_count": 1517,
+  "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-20T14:11:37Z",
-  "updated_at": "2026-08-30T08:13:44Z",
-  "pushed_at": "2026-08-30T22:26:44Z",
+  "updated_at": "2026-09-11T15:51:13Z",
+  "pushed_at": "2026-09-06T17:42:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -91,6 +99,10 @@
     {
       "date": "2026-08-30",
       "stars": 1504
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1517
     }
   ]
 }

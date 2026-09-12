@@ -3,31 +3,41 @@
   "owner": "john-rocky",
   "name": "apple-silicon-llm-bench",
   "full_name": "john-rocky/apple-silicon-llm-bench",
-  "description": "Neutral, reproducible benchmark for local LLMs on Apple Silicon (Mac · iPhone · iPad) — MLX, llama.cpp, CoreML, Apple Foundation Models",
+  "description": "Reproducible on-device LLM benchmarks for Apple Silicon (iPhone 17 Pro, M4 Max): Apple Core AI, MLX, llama.cpp, LiteRT-LM and Core ML on the same model and harness, every number with its quantization and capture session; hybrid Mamba-2 models (Nemotron-3 Nano, Granite-4.0-H, Falcon-H1) included.",
   "description_ja": "",
   "url": "https://github.com/john-rocky/apple-silicon-llm-bench",
   "homepage_url": "https://john-rocky.github.io/",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "apple-core-ai",
     "apple-silicon",
     "benchmark",
+    "core-ai",
+    "coreai",
     "coreml",
+    "granite",
+    "hybrid-mamba",
     "ios",
+    "ios-27",
+    "iphone-17-pro",
     "llama-cpp",
     "llm",
     "llm-inference",
+    "m4-max",
     "macos",
     "mlx",
-    "on-device-ai"
+    "nemotron",
+    "on-device-ai",
+    "tokens-per-second"
   ],
-  "star_count": 63,
+  "star_count": 67,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-02T07:18:41Z",
-  "updated_at": "2026-08-27T05:24:44Z",
-  "pushed_at": "2026-08-27T05:23:36Z",
+  "updated_at": "2026-09-09T03:26:21Z",
+  "pushed_at": "2026-09-08T15:27:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -177,6 +187,10 @@
     {
       "date": "2026-08-30",
       "stars": 63
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 67
     }
   ]
 }

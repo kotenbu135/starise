@@ -3,8 +3,8 @@
   "owner": "higangssh",
   "name": "homebutler",
   "full_name": "higangssh/homebutler",
-  "description": "🏠 Manage your homelab from chat. Single binary, zero dependencies.",
-  "description_ja": "🏠 チャットからホームラボを管理。シングルバイナリ、依存関係ゼロ。",
+  "description": "🏠 Tells you what changed on your server — only what's worth telling. Single Go binary, no daemon, no database, MCP server built in.",
+  "description_ja": "",
   "url": "https://github.com/Higangssh/homebutler",
   "homepage_url": "https://homebutler.dev",
   "language": "Go",
@@ -27,13 +27,13 @@
     "ssh",
     "wake-on-lan"
   ],
-  "star_count": 264,
-  "fork_count": 16,
+  "star_count": 281,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-23T09:17:24Z",
-  "updated_at": "2026-08-30T14:10:18Z",
-  "pushed_at": "2026-08-30T14:17:14Z",
+  "updated_at": "2026-09-11T14:43:15Z",
+  "pushed_at": "2026-09-08T15:17:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -407,6 +407,10 @@
     {
       "date": "2026-08-30",
       "stars": 264
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 281
     }
   ]
 }

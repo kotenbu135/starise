@@ -3,11 +3,11 @@
   "owner": "gianluca-improta",
   "name": "cinekive",
   "full_name": "gianluca-improta/cinekive",
-  "description": "Local-first cinematic visual archive for filmmakers — search stills by look, mood \u0026 technique; ingest video/URLs; moodboards. Own your frames (FilmGrab / Flim / Kive style, on your machine).",
+  "description": "Local-first cinematic still archive for filmmakers. Search your frames by look, mood, technique or director with SigLIP semantic search; ingest video and URLs; build moodboards. Free desktop app for Win/Mac/Linux, Pro unlocks studio tools. Your library stays on your disk.",
   "description_ja": "",
   "url": "https://github.com/Gianluca-Improta/cinekive",
   "homepage_url": "https://github.com/Gianluca-Improta/cinekive/releases/latest",
-  "language": "Python",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "archive",
@@ -25,18 +25,19 @@
     "privacy",
     "qdrant",
     "self-hosted",
+    "semantic-search",
     "shot-library",
     "siglip",
     "visual-search",
     "yt-dlp"
   ],
-  "star_count": 103,
+  "star_count": 104,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-11T03:02:19Z",
-  "updated_at": "2026-08-23T16:42:34Z",
-  "pushed_at": "2026-08-12T18:22:27Z",
+  "updated_at": "2026-09-08T14:12:03Z",
+  "pushed_at": "2026-09-08T08:58:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -130,6 +131,10 @@
     {
       "date": "2026-08-30",
       "stars": 103
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 104
     }
   ]
 }

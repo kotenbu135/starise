@@ -3,8 +3,8 @@
   "owner": "electrolux-oss",
   "name": "infrakitchen",
   "full_name": "electrolux-oss/infrakitchen",
-  "description": "InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management. Created by SRE team. Proven at Electrolux.",
-  "description_ja": "InfraKitchenは、インフラ管理にPlatform Engineeringのプラクティスをもたらすオープンソースのデベロッパープラットフォーム。SREチームが開発し、Electroluxで実績あり。",
+  "description": "InfraKitchen is an open source Developer Platform that brings Platform Engineering practices to infrastructure management.",
+  "description_ja": "",
   "url": "https://github.com/electrolux-oss/infrakitchen",
   "homepage_url": "https://opensource.electrolux.one/infrakitchen",
   "language": "Python",
@@ -22,13 +22,13 @@
     "platform-engineering",
     "sre"
   ],
-  "star_count": 116,
+  "star_count": 118,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-16T16:28:07Z",
-  "updated_at": "2026-08-26T12:41:25Z",
-  "pushed_at": "2026-08-19T12:55:41Z",
+  "updated_at": "2026-09-11T12:56:28Z",
+  "pushed_at": "2026-09-11T07:30:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +402,10 @@
     {
       "date": "2026-08-30",
       "stars": 116
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 118
     }
   ]
 }

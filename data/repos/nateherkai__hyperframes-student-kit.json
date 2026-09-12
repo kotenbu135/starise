@@ -3,20 +3,27 @@
   "owner": "nateherkai",
   "name": "hyperframes-student-kit",
   "full_name": "nateherkai/hyperframes-student-kit",
-  "description": "HTML-native motion-graphics video workspace — 12 finished projects built on Hyperframes + GSAP. A teaching kit for students learning to build motion-graphics video pipelines end-to-end.",
+  "description": "Edit videos, reels, and YouTube Shorts with Codex or Claude Code. 14 skills, transcript-driven cuts, storytelling, 406 motion-graphics cards, and HyperFrames templates.",
   "description_ja": "",
   "url": "https://github.com/nateherkai/hyperframes-student-kit",
   "homepage_url": "",
   "language": "HTML",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 598,
-  "fork_count": 223,
+  "topics": [
+    "claude-code",
+    "codex",
+    "hyperframes",
+    "motion-graphics",
+    "reels",
+    "video-editing"
+  ],
+  "star_count": 770,
+  "fork_count": 277,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-18T17:30:25Z",
-  "updated_at": "2026-08-30T21:01:14Z",
-  "pushed_at": "2026-04-18T17:30:56Z",
+  "updated_at": "2026-09-11T23:00:31Z",
+  "pushed_at": "2026-09-08T18:40:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -362,6 +369,10 @@
     {
       "date": "2026-08-30",
       "stars": 598
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 770
     }
   ]
 }

@@ -3,27 +3,31 @@
   "owner": "cluvexstudio",
   "name": "aether",
   "full_name": "cluvexstudio/aether",
-  "description": "",
+  "description": "A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.",
   "description_ja": "",
   "url": "https://github.com/CluvexStudio/Aether",
-  "homepage_url": "",
+  "homepage_url": "https://t.me/CluvexStudio",
   "language": "Rust",
   "license": "AGPL-3.0",
   "topics": [
     "cloudflare",
     "gool",
+    "http2",
+    "http3",
     "masque",
+    "quic",
     "rust",
     "warp",
-    "zero-trust"
+    "zero-trust",
+    "zerotrust"
   ],
-  "star_count": 1665,
-  "fork_count": 118,
+  "star_count": 1798,
+  "fork_count": 129,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-14T14:20:44Z",
-  "updated_at": "2026-08-30T21:39:59Z",
-  "pushed_at": "2026-08-29T14:45:48Z",
+  "updated_at": "2026-09-11T20:58:25Z",
+  "pushed_at": "2026-09-04T17:10:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -121,6 +125,10 @@
     {
       "date": "2026-08-30",
       "stars": 1665
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1798
     }
   ]
 }

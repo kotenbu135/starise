@@ -3,7 +3,7 @@
   "owner": "cyrusagents",
   "name": "cyrus",
   "full_name": "cyrusagents/cyrus",
-  "description": "The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor and Gemini too.",
+  "description": "The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor, Gemini, and Opencode harnesses too.",
   "description_ja": "",
   "url": "https://github.com/cyrusagents/cyrus",
   "homepage_url": "https://atcyrus.com",
@@ -20,15 +20,16 @@
     "gemini",
     "github",
     "linear",
+    "opencode",
     "slack"
   ],
-  "star_count": 791,
-  "fork_count": 161,
+  "star_count": 804,
+  "fork_count": 166,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-19T18:53:49Z",
-  "updated_at": "2026-08-30T06:10:10Z",
-  "pushed_at": "2026-08-29T16:04:13Z",
+  "updated_at": "2026-09-11T18:39:06Z",
+  "pushed_at": "2026-09-11T20:23:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -370,6 +371,10 @@
     {
       "date": "2026-08-30",
       "stars": 791
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 804
     }
   ]
 }

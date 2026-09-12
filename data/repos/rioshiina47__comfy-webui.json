@@ -3,7 +3,7 @@
   "owner": "rioshiina47",
   "name": "comfy-webui",
   "full_name": "rioshiina47/comfy-webui",
-  "description": "A feature-rich, mobile-first UI for ComfyUI, powered by a recipe-driven engine that turns complex workflows (Image, Video, 3D) into simple APIs/MCP tools for LLMs \u0026 AI Agents.",
+  "description": "A recipe-driven WaaS platform for ComfyUI that turns complex workflows (Image, Audio, Video, 3D) into intuitive Gradio UIs, high-level semantic APIs, and MCP tools for LLMs \u0026 AI Agents.",
   "description_ja": "",
   "url": "https://github.com/RioShiina47/comfy-webui",
   "homepage_url": "https://huggingface.co/spaces/RioShiina/ImageGen",
@@ -17,13 +17,13 @@
     "mcp",
     "workflow-as-a-service"
   ],
-  "star_count": 71,
+  "star_count": 77,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-10T09:21:05Z",
-  "updated_at": "2026-08-30T19:59:58Z",
-  "pushed_at": "2026-08-26T07:49:57Z",
+  "updated_at": "2026-09-08T02:29:34Z",
+  "pushed_at": "2026-09-07T08:35:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +41,10 @@
     {
       "date": "2026-08-30",
       "stars": 71
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 77
     }
   ]
 }

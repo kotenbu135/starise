@@ -3,8 +3,8 @@
   "owner": "droid-ify",
   "name": "client",
   "full_name": "droid-ify/client",
-  "description": "Clutterfree F-Droid client",
-  "description_ja": "広告のないF-Droidクライアント",
+  "description": "Clutterfree F-Droid client, [mirror] https://codeberg.org/droidify/client",
+  "description_ja": "",
   "url": "https://github.com/Droid-ify/client",
   "homepage_url": "https://droidify.app/",
   "language": "Kotlin",
@@ -17,13 +17,13 @@
     "kotlin-android",
     "kotlin-flow"
   ],
-  "star_count": 7341,
-  "fork_count": 213,
+  "star_count": 7398,
+  "fork_count": 215,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-07-04T12:03:15Z",
-  "updated_at": "2026-08-30T18:37:30Z",
-  "pushed_at": "2026-08-28T11:43:28Z",
+  "updated_at": "2026-09-11T16:37:19Z",
+  "pushed_at": "2026-09-10T07:48:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -401,6 +401,10 @@
     {
       "date": "2026-08-30",
       "stars": 7341
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 7398
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "affromero",
   "name": "flight-finder",
   "full_name": "affromero/flight-finder",
-  "description": "Flight price tracker. Self-hosted, open source, bring your own LLM. The price trail airlines don't show you.",
+  "description": "Self-hosted flight, hotel, and car rental price tracking with alerts, price history, and web and CLI interfaces.",
   "description_ja": "",
   "url": "https://github.com/affromero/flight-finder",
   "homepage_url": "https://flight-finder.org",
@@ -23,13 +23,13 @@
     "typescript",
     "web-scraping"
   ],
-  "star_count": 140,
-  "fork_count": 23,
+  "star_count": 149,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T17:18:13Z",
-  "updated_at": "2026-08-27T14:58:08Z",
-  "pushed_at": "2026-08-27T21:56:57Z",
+  "updated_at": "2026-09-11T13:26:04Z",
+  "pushed_at": "2026-09-11T13:26:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +403,10 @@
     {
       "date": "2026-08-30",
       "stars": 140
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 149
     }
   ]
 }

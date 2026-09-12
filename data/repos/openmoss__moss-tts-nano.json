@@ -3,30 +3,35 @@
   "owner": "openmoss",
   "name": "moss-tts-nano",
   "full_name": "openmoss/moss-tts-nano",
-  "description": "MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.",
-  "description_ja": "MOSS-TTS-NanoはMOSI.AIとOpenMOSSチームによるオープンソースの多言語小型音声生成モデル。わずか0.1Bパラメータでリアルタイム音声生成向けに設計され、GPUなしでCPU上で直接動作し、ローカルデモ・Webサービング・軽量プロダクト統合に適したシンプルなデプロイ構成を維持。",
+  "description": "A 100M-parameter multilingual TTS model for real-time CPU inference, voice cloning, and 48 kHz stereo generation",
+  "description_ja": "",
   "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-  "homepage_url": "https://openmoss.github.io/MOSS-TTS-Nano-Demo/",
+  "homepage_url": "https://openmoss.ai/MOSS-TTS-Nano-Demo/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
     "audio-tokenizer",
     "chinese",
+    "cpu-inference",
     "english",
     "multi-modality",
     "multilingual",
+    "onnx",
     "realtime",
+    "speech-synthesis",
     "streaming-audio",
+    "text-to-speech",
     "tts",
-    "voice-clone"
+    "voice-clone",
+    "voice-cloning"
   ],
-  "star_count": 4274,
-  "fork_count": 546,
+  "star_count": 4329,
+  "fork_count": 548,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-10T16:25:07Z",
-  "updated_at": "2026-08-30T09:46:43Z",
-  "pushed_at": "2026-08-30T08:06:03Z",
+  "updated_at": "2026-09-11T19:54:21Z",
+  "pushed_at": "2026-09-06T06:19:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +409,10 @@
     {
       "date": "2026-08-30",
       "stars": 4274
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 4329
     }
   ]
 }

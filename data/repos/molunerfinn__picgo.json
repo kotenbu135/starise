@@ -6,7 +6,7 @@
   "description": ":rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
   "description_ja": "🚀 効率重視のクリエイター向け究極の画像アップローダー。Obsidian・Typora・VS Codeなどと60以上の画像ホスティングサービス（S3・GitHub・Cloudflare R2・Imgur・Aliyun OSSなど）に対応。貼り付けてアップロード、それだけ。",
   "url": "https://github.com/Molunerfinn/PicGo",
-  "homepage_url": "https://picgo.app",
+  "homepage_url": "https://picgo.app/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -29,13 +29,13 @@
     "vue",
     "weibo"
   ],
-  "star_count": 27092,
+  "star_count": 27174,
   "fork_count": 2326,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-12-12T08:39:44Z",
-  "updated_at": "2026-08-30T20:31:41Z",
-  "pushed_at": "2026-08-23T02:46:14Z",
+  "updated_at": "2026-09-11T17:15:42Z",
+  "pushed_at": "2026-09-01T12:01:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -413,6 +413,10 @@
     {
       "date": "2026-08-30",
       "stars": 27092
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 27174
     }
   ]
 }

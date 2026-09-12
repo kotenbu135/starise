@@ -3,7 +3,7 @@
   "owner": "jangviktor-web",
   "name": "nihaixia-app",
   "full_name": "jangviktor-web/nihaixia-app",
-  "description": "汉唐中医 · 倪海厦六经辨证安卓系统中医诊断助手：一款离线优先、完全免费的 Flutter/Dart Android App，基于倪海厦《人纪》（伤寒论/金匮要略/黄帝内经/针灸大成/神农本草经）。核心功能：六经辨证智能问诊（太阳/阳明/少阳/太阴/少阴/厥阴）、322首经方与465味本草速查（附子生炮拆分零死链）、408穴针灸与透针处方、1257例倪师医案库与闭门课重症、黄帝内经73篇全文检索、经方剂量换算、子午流注取穴。自研辨证引擎驱动，回归测试守护；无广告、无内购、隐私不出本机。紫微/易经/四柱/六爻为民俗文化参考，非医疗诊断。",
+  "description": "倪海厦汉唐中医 · 中医六经辨证、伤寒论、子午流注、紫微斗数、易经、八字四柱排盘、周公解梦、小儿关煞、每日黄历、道教神仙节日、节气养生、玉匣记身体占，离线安卓应用中医诊断玄学助手：一款完全免费的 Flutter/Dart Android App，基于倪海厦《人纪》（伤寒论/金匮要略/黄帝内经/针灸大成/神农本草经）。核心功能：六经辨证智能问诊（太阳/阳明/少阳/太阴/少阴/厥阴）、322首经方与465味本草速查、408穴针灸与透针处方、1257例倪师医案库与闭门课重症、黄帝内经73篇全文检索、经方剂量换算、子午流注取穴。自研辨证引擎驱动，回归测试守护；无广告、无内购、隐私不出本机。",
   "description_ja": "",
   "url": "https://github.com/jangviktor-web/nihaixia-app",
   "homepage_url": "https://jangviktor-web.github.io/nihaixia-app/",
@@ -22,22 +22,22 @@
     "medical-cases",
     "meridian",
     "ni-haisha",
+    "nihaisha",
+    "nihaixia",
     "offline-app",
     "offline-first",
     "shanghan-lun",
     "six-meridian",
-    "tcm",
     "traditional-chinese-medicine",
-    "yijing",
     "ziweidoushu"
   ],
-  "star_count": 162,
-  "fork_count": 46,
+  "star_count": 178,
+  "fork_count": 51,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-28T16:00:12Z",
-  "updated_at": "2026-08-30T06:00:19Z",
-  "pushed_at": "2026-08-29T18:45:06Z",
+  "updated_at": "2026-09-11T16:17:59Z",
+  "pushed_at": "2026-09-10T15:22:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -143,6 +143,10 @@
     {
       "date": "2026-08-30",
       "stars": 162
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 178
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "yasserstudio",
   "name": "gpc",
   "full_name": "yasserstudio/gpc",
-  "description": "Google Play Console CLI. 227 API endpoints, preflight compliance scanner, rollout monitoring, RTDN, vitals gates. Ship Android apps from your terminal.",
+  "description": "Google Play Console CLI. 234 publisher-focused API endpoints, preflight compliance, rollout monitoring, RTDN, and vitals gates.",
   "description_ja": "",
   "url": "https://github.com/yasserstudio/gpc",
   "homepage_url": "https://yasserstudio.github.io/gpc/",
@@ -30,13 +30,13 @@
     "release-automation",
     "typescript"
   ],
-  "star_count": 70,
-  "fork_count": 4,
+  "star_count": 79,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T15:49:30Z",
-  "updated_at": "2026-08-30T13:38:40Z",
-  "pushed_at": "2026-08-30T13:38:29Z",
+  "updated_at": "2026-09-11T17:28:33Z",
+  "pushed_at": "2026-09-08T16:46:22Z",
   "deleted_at": "2026-07-05",
   "star_history": [
     {
@@ -374,6 +374,10 @@
     {
       "date": "2026-08-30",
       "stars": 70
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 79
     }
   ]
 }

@@ -1,0 +1,32 @@
+{
+  "repo_id": "MDEwOlJlcG9zaXRvcnkyMDk1ODM3Mjg=",
+  "owner": "urandu",
+  "name": "face_detect_api",
+  "full_name": "urandu/face_detect_api",
+  "description": "This is a simple face detection api that takes as input, an image and gives as output, detected faces on the image. This API can be used as an alternative to the paid face detection APIs currently available as it gives quite good accuracy levels. ",
+  "description_ja": "",
+  "url": "https://github.com/urandu/face_detect_api",
+  "homepage_url": "https://medium.com/@urandu/build-a-production-ready-face-detection-api-part-1-c56cbe9592bf",
+  "language": "Python",
+  "license": "LGPL-3.0",
+  "topics": [
+    "django",
+    "face-detection",
+    "minio",
+    "mtcnn-face-detection"
+  ],
+  "star_count": 33,
+  "fork_count": 11,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2019-09-19T15:07:34Z",
+  "updated_at": "2026-08-31T20:29:04Z",
+  "pushed_at": "2026-08-31T20:17:48Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-11",
+      "stars": 33
+    }
+  ]
+}

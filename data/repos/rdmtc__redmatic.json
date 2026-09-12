@@ -3,11 +3,11 @@
   "owner": "rdmtc",
   "name": "redmatic",
   "full_name": "rdmtc/redmatic",
-  "description": "Node-RED packaged as Addon for the Homematic CCU3 and RaspberryMatic 🤹‍♂️",
+  "description": "Node-RED packaged as Addon for the Homematic CCU3 and OpenCCU 🤹‍♂️",
   "description_ja": "",
   "url": "https://github.com/rdmtc/RedMatic",
   "homepage_url": "",
-  "language": "HTML",
+  "language": "Shell",
   "license": "Apache-2.0",
   "topics": [
     "addon",
@@ -21,13 +21,13 @@
     "raspberrymatic",
     "smarthome"
   ],
-  "star_count": 532,
-  "fork_count": 48,
+  "star_count": 529,
+  "fork_count": 49,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-04-28T19:40:56Z",
-  "updated_at": "2026-08-04T17:46:07Z",
-  "pushed_at": "2026-07-18T14:17:22Z",
+  "updated_at": "2026-09-11T11:33:58Z",
+  "pushed_at": "2026-09-11T11:36:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -113,6 +113,10 @@
     {
       "date": "2026-08-30",
       "stars": 532
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 529
     }
   ]
 }

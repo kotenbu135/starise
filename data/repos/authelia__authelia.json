@@ -3,8 +3,8 @@
   "owner": "authelia",
   "name": "authelia",
   "full_name": "authelia/authelia",
-  "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™",
-  "description_ja": "Web アプリ向けシングルサインオン多要素認証ポータル（OpenID Certified™ 取得済み）。",
+  "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
+  "description_ja": "",
   "url": "https://github.com/authelia/authelia",
   "homepage_url": "https://www.authelia.com",
   "language": "Go",
@@ -21,6 +21,7 @@
     "oauth2",
     "openid-connect",
     "passkeys",
+    "pqc",
     "push-notifications",
     "security",
     "sso",
@@ -28,16 +29,15 @@
     "totp",
     "two-factor",
     "two-factor-authentication",
-    "webauthn",
-    "yubikey"
+    "webauthn"
   ],
-  "star_count": 28749,
-  "fork_count": 1475,
+  "star_count": 28918,
+  "fork_count": 1481,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-12-07T00:56:57Z",
-  "updated_at": "2026-08-30T21:30:30Z",
-  "pushed_at": "2026-08-30T17:50:03Z",
+  "updated_at": "2026-09-11T21:18:11Z",
+  "pushed_at": "2026-09-11T21:41:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +415,10 @@
     {
       "date": "2026-08-30",
       "stars": 28749
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 28918
     }
   ]
 }

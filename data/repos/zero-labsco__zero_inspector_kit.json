@@ -3,12 +3,12 @@
   "owner": "zero-labsco",
   "name": "zero_inspector_kit",
   "full_name": "zero-labsco/zero_inspector_kit",
-  "description": "A powerful Flutter SDK plugin for in-app developer console, providing real-time debugging tools including network request inspection, logging, database viewing, memory monitoring, FPS monitoring, and route tracking.",
+  "description": "An in-app developer console for Flutter: inspect HTTP, WebSocket \u0026 gRPC traffic, monitor logs, database, memory leaks and FPS in real time, track routes, get alerts and one-tap bug reports — all without leaving your app. Auto-disabled in release.",
   "description_ja": "",
   "url": "https://github.com/zero-labsco/zero_inspector_kit",
   "homepage_url": "https://pub.dev/packages/zero_inspector_kit",
   "language": "Dart",
-  "license": "GPL-3.0",
+  "license": "MPL-2.0",
   "topics": [
     "dart",
     "debugging",
@@ -19,13 +19,13 @@
     "inspector",
     "memory-monitoring"
   ],
-  "star_count": 38,
-  "fork_count": 1,
+  "star_count": 45,
+  "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-14T19:59:48Z",
-  "updated_at": "2026-08-30T19:21:25Z",
-  "pushed_at": "2026-08-30T21:33:16Z",
+  "updated_at": "2026-09-11T16:17:53Z",
+  "pushed_at": "2026-09-11T16:18:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -87,6 +87,10 @@
     {
       "date": "2026-08-30",
       "stars": 38
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 45
     }
   ]
 }

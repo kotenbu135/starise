@@ -3,35 +3,35 @@
   "owner": "cerul-ai",
   "name": "cerul",
   "full_name": "cerul-ai/cerul",
-  "description": "Cerul — video memory infrastructure for AI products. SDKs, CLI, MCP, and developer integrations.",
+  "description": "Open-source video processing core and CLI. Search and annotate local videos with your own model endpoints.",
   "description_ja": "",
   "url": "https://github.com/cerul-ai/cerul",
   "homepage_url": "https://cerul.ai",
-  "language": "TypeScript",
+  "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
     "ai-agent",
     "ai-agents",
-    "api",
+    "cli",
     "computer-vision",
+    "lerobot",
     "multimodal",
-    "neon-postgres",
+    "ocr",
     "open-source",
-    "pgvectorscale",
     "rag",
+    "rust",
     "semantic-search",
-    "skills",
     "understanding",
     "video-search",
     "video-search-engine"
   ],
-  "star_count": 156,
+  "star_count": 158,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-09T15:07:19Z",
-  "updated_at": "2026-08-29T21:13:21Z",
-  "pushed_at": "2026-08-29T21:14:10Z",
+  "updated_at": "2026-09-11T12:53:13Z",
+  "pushed_at": "2026-09-11T11:36:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -409,6 +409,10 @@
     {
       "date": "2026-08-30",
       "stars": 156
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 158
     }
   ]
 }

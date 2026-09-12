@@ -3,20 +3,20 @@
   "owner": "anchorhost",
   "name": "cove",
   "full_name": "anchorhost/cove",
-  "description": "CLI for managing WordPress locally using the Franken stack: Caddy, FrankenPHP, MariaDB, Mailpit, whoops, WordPress and WP-CLI.",
+  "description": "The calm way to run local WordPress. One script: Caddy, FrankenPHP, MariaDB, and Mailpit, with automatic HTTPS and a dashboard for sites, mail, databases, and logs.",
   "description_ja": "",
   "url": "https://github.com/anchorhost/cove",
   "homepage_url": "https://cove.run",
   "language": "Shell",
   "license": "MIT",
   "topics": [],
-  "star_count": 72,
+  "star_count": 74,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-12T11:32:27Z",
-  "updated_at": "2026-08-25T17:26:10Z",
-  "pushed_at": "2026-08-08T09:47:54Z",
+  "updated_at": "2026-09-11T07:42:56Z",
+  "pushed_at": "2026-09-07T10:32:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -206,6 +206,10 @@
     {
       "date": "2026-08-30",
       "stars": 72
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 74
     }
   ]
 }

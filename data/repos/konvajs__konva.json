@@ -3,29 +3,33 @@
   "owner": "konvajs",
   "name": "konva",
   "full_name": "konvajs/konva",
-  "description": "Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.",
-  "description_ja": "Konva.js は HTML5 Canvas の 2D コンテキストを拡張し、デスクトップおよびモバイルアプリでのキャンバスインタラクションを実現する JavaScript フレームワーク",
+  "description": "Konva.js is an HTML5 Canvas JavaScript framework for interactive graphics, design editors, whiteboards, and diagrams. Scene graph with events, drag and drop, transforms, animations, and export.",
+  "description_ja": "",
   "url": "https://github.com/konvajs/konva",
-  "homepage_url": "http://konvajs.org/",
+  "homepage_url": "https://konvajs.org/",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
     "animation",
     "canvas",
+    "canvas-editor",
+    "design-editor",
     "drag-and-drop",
     "graphics",
+    "html5-canvas",
     "javascript",
     "konva",
     "node-canvas",
-    "shape"
+    "shape",
+    "whiteboard"
   ],
-  "star_count": 14731,
-  "fork_count": 1063,
+  "star_count": 14784,
+  "fork_count": 1064,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-01-09T10:14:35Z",
-  "updated_at": "2026-08-30T22:04:48Z",
-  "pushed_at": "2026-08-26T22:58:21Z",
+  "updated_at": "2026-09-11T22:01:06Z",
+  "pushed_at": "2026-09-08T15:40:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +407,10 @@
     {
       "date": "2026-08-30",
       "stars": 14731
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 14784
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "i3k-it",
   "name": "rag-enterprise",
   "full_name": "i3k-it/rag-enterprise",
-  "description": "🚀 100% local RAG system with one-command setup. Your data never leaves your server. Apache-2.0",
+  "description": "🚀 100% local RAG system with one-command setup. Your data never leaves your server.",
   "description_ja": "",
   "url": "https://github.com/I3K-IT/RAG-Enterprise",
   "homepage_url": "https://www.rag-enterprise.com",
@@ -14,12 +14,13 @@
     "docker",
     "document-ai",
     "enterprise",
+    "eullm",
     "fastapi",
-    "gpu",
     "llm",
     "local-ai",
     "ocr",
-    "ollama",
+    "on-premise",
+    "on-premise-ai",
     "privacy",
     "qdrant",
     "rag",
@@ -28,16 +29,15 @@
     "retrieval-augmented-generation",
     "retrieval-augmented-generation-rag",
     "rust",
-    "rust-lang",
     "self-hosted"
   ],
-  "star_count": 57,
+  "star_count": 58,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-05T15:48:51Z",
-  "updated_at": "2026-08-29T14:07:16Z",
-  "pushed_at": "2026-08-29T14:06:53Z",
+  "updated_at": "2026-09-11T19:53:26Z",
+  "pushed_at": "2026-09-11T19:55:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +415,10 @@
     {
       "date": "2026-08-30",
       "stars": 57
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 58
     }
   ]
 }

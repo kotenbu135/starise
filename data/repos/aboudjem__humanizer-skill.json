@@ -3,7 +3,7 @@
   "owner": "aboudjem",
   "name": "humanizer-skill",
   "full_name": "aboudjem/humanizer-skill",
-  "description": "AI writing humanizer and pattern detector. 55 patterns, 5 voices, 0-100 AI-tell score. Pure Markdown, zero dependencies.",
+  "description": "Free, open-source AI writing humanizer and detector. 55 patterns, 5 voices, a 0-100 AI-tell score, and nothing leaves your machine.",
   "description_ja": "",
   "url": "https://github.com/Aboudjem/humanizer-skill",
   "homepage_url": "https://humanizer-skill.vercel.app",
@@ -23,21 +23,21 @@
     "claude-code-skill",
     "claude-skill",
     "content-optimization",
-    "developer-tools",
     "humanizer",
     "nlp",
     "openclaw-skill",
     "perplexity",
+    "skills-sh",
     "text-rewriting",
     "writing-tools"
   ],
-  "star_count": 206,
-  "fork_count": 32,
+  "star_count": 229,
+  "fork_count": 34,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T01:48:03Z",
-  "updated_at": "2026-08-30T15:47:40Z",
-  "pushed_at": "2026-08-27T12:47:20Z",
+  "updated_at": "2026-09-11T05:17:22Z",
+  "pushed_at": "2026-09-06T18:45:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -335,6 +335,10 @@
     {
       "date": "2026-08-30",
       "stars": 206
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 229
     }
   ]
 }

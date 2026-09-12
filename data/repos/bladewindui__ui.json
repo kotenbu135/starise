@@ -3,8 +3,8 @@
   "owner": "bladewindui",
   "name": "ui",
   "full_name": "bladewindui/ui",
-  "description": "BladewindUI is a collection of elegant Laravel blade-based UI components spiced with TailwindCSS and Javascript.",
-  "description_ja": "BladewindUI は TailwindCSS と Javascript を組み合わせた、エレガントな Laravel blade ベースの UI コンポーネント集です。",
+  "description": "BladewindUI is an open-source UI component library focused on helping developers build clean, modern, and responsive web applications faster. It provides a growing collection of thoughtfully designed, customizable components that are simple to integrate and easy to use.",
+  "description_ja": "",
   "url": "https://github.com/bladewindui/ui",
   "homepage_url": "https://bladewindui.com",
   "language": "JavaScript",
@@ -24,13 +24,13 @@
     "ui-design",
     "ui-library"
   ],
-  "star_count": 690,
-  "fork_count": 65,
+  "star_count": 689,
+  "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-10T22:43:57Z",
-  "updated_at": "2026-08-29T22:29:45Z",
-  "pushed_at": "2026-08-30T19:52:05Z",
+  "updated_at": "2026-09-10T00:44:52Z",
+  "pushed_at": "2026-09-10T00:47:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -408,6 +408,10 @@
     {
       "date": "2026-08-30",
       "stars": 690
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 689
     }
   ]
 }

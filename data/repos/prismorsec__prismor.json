@@ -3,7 +3,7 @@
   "owner": "prismorsec",
   "name": "prismor",
   "full_name": "prismorsec/prismor",
-  "description": " Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent agnostic (Claude,codex etc.)",
+  "description": " Self-hosted runtime control plane for AI agents. Observe or HITL approve or Block rogue tool calls before it executes: secret leaks, prompt injection, supply chain etc in a local dashboard. Agent agnostic (Claude, codex, langchain etc.)",
   "description_ja": "",
   "url": "https://github.com/PrismorSec/prismor",
   "homepage_url": "https://prismor.dev",
@@ -31,13 +31,13 @@
     "supply-chain-security",
     "tool-calls"
   ],
-  "star_count": 336,
-  "fork_count": 33,
+  "star_count": 343,
+  "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-20T16:43:19Z",
-  "updated_at": "2026-08-30T13:10:32Z",
-  "pushed_at": "2026-08-30T20:13:28Z",
+  "updated_at": "2026-09-11T17:50:37Z",
+  "pushed_at": "2026-09-11T17:50:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -395,6 +395,10 @@
     {
       "date": "2026-08-30",
       "stars": 336
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 343
     }
   ]
 }

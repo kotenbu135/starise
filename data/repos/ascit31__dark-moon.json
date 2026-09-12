@@ -3,7 +3,7 @@
   "owner": "ascit31",
   "name": "dark-moon",
   "full_name": "ascit31/dark-moon",
-  "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.",
+  "description": "Autonomous AI pentesting engine across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes, IoT firmware and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof for every finding. Privacy gateway: the LLM never sees your real IPs, hosts or creds; nothing leaves your perimeter.",
   "description_ja": "",
   "url": "https://github.com/ASCIT31/Dark-Moon",
   "homepage_url": "https://dark-moon.org/",
@@ -31,13 +31,13 @@
     "security-tools",
     "self-hosted"
   ],
-  "star_count": 878,
-  "fork_count": 153,
+  "star_count": 917,
+  "fork_count": 154,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-26T10:54:02Z",
-  "updated_at": "2026-08-30T12:13:20Z",
-  "pushed_at": "2026-08-29T10:24:24Z",
+  "updated_at": "2026-09-11T14:13:00Z",
+  "pushed_at": "2026-09-08T13:54:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -195,6 +195,10 @@
     {
       "date": "2026-08-30",
       "stars": 878
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 917
     }
   ]
 }

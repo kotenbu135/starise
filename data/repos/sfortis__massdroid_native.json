@@ -3,7 +3,7 @@
   "owner": "sfortis",
   "name": "massdroid_native",
   "full_name": "sfortis/massdroid_native",
-  "description": "Massdroid is a native Android client for Music Assistant, focused on music exploration and discovery. Features include Follow-me mode using BLE fingerprinting, smart recommendations, Last.fm enrichment, similar artists, and Sendspin protocol for phone playback.",
+  "description": "Native Android client for Music Assistant, focused on music exploration and discovery: Follow Me room detection with BLE fingerprints, a local recommendation engine (Smart Mix, Genre Radio) with MusicBrainz genres, similar artists, Sendspin phone-as-speaker, Android Auto and Android TV.",
   "description_ja": "",
   "url": "https://github.com/sfortis/massdroid_native",
   "homepage_url": "https://asksakis.net/#projects-section",
@@ -25,13 +25,13 @@
     "smart-home",
     "websocket"
   ],
-  "star_count": 120,
-  "fork_count": 4,
+  "star_count": 123,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T13:11:06Z",
-  "updated_at": "2026-08-30T10:53:56Z",
-  "pushed_at": "2026-08-28T09:27:50Z",
+  "updated_at": "2026-09-10T01:08:55Z",
+  "pushed_at": "2026-09-10T12:26:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -177,6 +177,10 @@
     {
       "date": "2026-08-30",
       "stars": 120
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 123
     }
   ]
 }

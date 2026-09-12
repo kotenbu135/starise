@@ -3,7 +3,7 @@
   "owner": "harrieronchain",
   "name": "prediction-markets-trading-bot-toolkits",
   "full_name": "harrieronchain/prediction-markets-trading-bot-toolkits",
-  "description": "Production-grade Rust trading bots for prediction markets — Polymarket, Kalshi, Limitless. 10 strategies on one execution core. Predict.fun \u0026 20+ venues on the roadmap. Polymarket trading bot, copy trading bot, arbitrage, sniper, spread-famer",
+  "description": "Rust trading bots for prediction markets — Polymarket, Kalshi, Limitless. Copy Trading is production-ready; nine more strategies in development on the same execution core. Dry-run by default, self-custody, MIT.",
   "description_ja": "",
   "url": "https://github.com/HarrierOnChain/Prediction-Markets-Trading-Bot-Toolkits",
   "homepage_url": "https://pnlpro.fit",
@@ -31,13 +31,13 @@
     "tradingbot",
     "user-interface"
   ],
-  "star_count": 426,
-  "fork_count": 127,
+  "star_count": 436,
+  "fork_count": 129,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-29T15:17:57Z",
-  "updated_at": "2026-08-29T16:28:57Z",
-  "pushed_at": "2026-08-07T10:36:17Z",
+  "updated_at": "2026-09-11T11:48:10Z",
+  "pushed_at": "2026-09-07T11:44:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -235,6 +235,10 @@
     {
       "date": "2026-08-30",
       "stars": 426
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 436
     }
   ]
 }

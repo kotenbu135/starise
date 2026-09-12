@@ -3,7 +3,7 @@
   "owner": "kanevry",
   "name": "session-orchestrator",
   "full_name": "kanevry/session-orchestrator",
-  "description": "Loop engineering for AI coding agents — turn ad-hoc sessions into a repeatable research → plan → wave-execute → close loop with verification gates. Runs on Claude Code, Codex CLI, Cursor, and Pi. MIT community plugin.",
+  "description": "A repeatable Plan, Go, Close workflow for AI coding sessions. Open source for Claude Code, Codex, Cursor and Pi.",
   "description_ja": "",
   "url": "https://github.com/Kanevry/session-orchestrator",
   "homepage_url": "https://session-orchestrator.com",
@@ -31,13 +31,13 @@
     "session-management",
     "subagents"
   ],
-  "star_count": 49,
+  "star_count": 50,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-02T18:34:17Z",
-  "updated_at": "2026-08-28T20:03:08Z",
-  "pushed_at": "2026-08-28T20:02:43Z",
+  "updated_at": "2026-09-11T18:51:37Z",
+  "pushed_at": "2026-09-11T18:51:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +411,10 @@
     {
       "date": "2026-08-30",
       "stars": 49
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 50
     }
   ]
 }

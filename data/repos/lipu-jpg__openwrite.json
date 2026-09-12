@@ -3,24 +3,25 @@
   "owner": "lipu-jpg",
   "name": "openwrite",
   "full_name": "lipu-jpg/openwrite",
-  "description": "AI小说创作引擎 - 对话式引导创建项目、动态+静态文件防遗忘、多维风格提取与合成、通用技法质量审核、热门题材查看分析、多层渐进式压缩长文本 支持：四级大纲(总纲→篇→节→章)、三层风格合成、伏笔DAG管理、情节弧线-节拍模板驱动写作、去AI味技法",
+  "description": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
   "description_ja": "",
   "url": "https://github.com/LiPu-jpg/Openwrite",
-  "homepage_url": "",
-  "language": "Python",
+  "homepage_url": "https://github.com/LiPu-jpg/Openwrite#readme",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "ai-novel",
+    "dsh-plugin",
     "story-writing",
     "writing-assistant"
   ],
-  "star_count": 666,
-  "fork_count": 112,
+  "star_count": 715,
+  "fork_count": 117,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-03T00:48:25Z",
-  "updated_at": "2026-08-30T15:35:57Z",
-  "pushed_at": "2026-08-27T17:02:05Z",
+  "updated_at": "2026-09-11T19:44:50Z",
+  "pushed_at": "2026-09-11T14:45:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -326,6 +327,10 @@
     {
       "date": "2026-08-30",
       "stars": 666
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 715
     }
   ]
 }

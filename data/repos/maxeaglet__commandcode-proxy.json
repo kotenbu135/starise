@@ -3,20 +3,20 @@
   "owner": "maxeaglet",
   "name": "commandcode-proxy",
   "full_name": "maxeaglet/commandcode-proxy",
-  "description": "Command Code API → OpenAI 兼容接口的反代代理",
+  "description": "Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse proxy exposing Command Code API as OpenAI- and Anthropic-compatible endpoints",
   "description_ja": "",
   "url": "https://github.com/MAXeaglet/commandcode-proxy",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [],
-  "star_count": 248,
-  "fork_count": 41,
+  "star_count": 422,
+  "fork_count": 62,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-06T21:02:57Z",
-  "updated_at": "2026-08-30T17:50:07Z",
-  "pushed_at": "2026-08-13T15:50:35Z",
+  "updated_at": "2026-09-11T20:25:27Z",
+  "pushed_at": "2026-09-11T13:11:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -238,6 +238,10 @@
     {
       "date": "2026-08-30",
       "stars": 248
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 422
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "keros68",
   "name": "metrik",
   "full_name": "keros68/metrik",
-  "description": "Metrik 是一款桌面常驻工具，统一查看本机各个 AI 编程 Agent 的官方配额余量与 Token 消耗，支持 ChatGPT、Claude、GLM、Kimi 等主流 Agent。",
+  "description": "Metrik 可以集中查看本机多个 Agent 的配额余量和 Token 消耗，目前支持 ChatGPT、Claude、GLM、Kimi 等主流 AI 服务。",
   "description_ja": "",
   "url": "https://github.com/keros68/metrik",
   "homepage_url": "",
@@ -20,13 +20,13 @@
     "tauri",
     "token-usage"
   ],
-  "star_count": 81,
+  "star_count": 89,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-14T03:28:09Z",
-  "updated_at": "2026-08-30T16:00:18Z",
-  "pushed_at": "2026-08-30T13:49:52Z",
+  "updated_at": "2026-09-11T09:18:09Z",
+  "pushed_at": "2026-09-10T03:42:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +68,10 @@
     {
       "date": "2026-08-30",
       "stars": 81
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 89
     }
   ]
 }

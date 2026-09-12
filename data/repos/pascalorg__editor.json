@@ -3,33 +3,39 @@
   "owner": "pascalorg",
   "name": "editor",
   "full_name": "pascalorg/editor",
-  "description": "Create and share 3D architectural projects.",
-  "description_ja": "3D 建築プロジェクトの作成と共有",
+  "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+  "description_ja": "",
   "url": "https://github.com/pascalorg/editor",
   "homepage_url": "https://editor.pascal.app",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "3d",
+    "agent-skills",
+    "ai-agents",
     "architecture",
     "bim",
     "cad",
     "editor",
     "floorplan",
+    "gemini-cli-extension",
+    "local-first",
     "mcp",
+    "mcp-server",
+    "model-context-protocol",
     "nextjs",
     "parametric-design",
     "react-three-fiber",
     "threejs",
     "typescript"
   ],
-  "star_count": 21776,
-  "fork_count": 2797,
+  "star_count": 23575,
+  "fork_count": 2941,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-16T19:35:06Z",
-  "updated_at": "2026-08-30T22:29:48Z",
-  "pushed_at": "2026-08-28T21:48:45Z",
+  "updated_at": "2026-09-11T23:10:07Z",
+  "pushed_at": "2026-09-11T22:55:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -407,6 +413,10 @@
     {
       "date": "2026-08-30",
       "stars": 21776
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 23575
     }
   ]
 }

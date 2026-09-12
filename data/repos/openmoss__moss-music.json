@@ -3,19 +3,25 @@
   "owner": "openmoss",
   "name": "moss-music",
   "full_name": "openmoss/moss-music",
-  "description": "MOSS-Music is an open-source music understanding model for targeting musical captioning, lyrics ASR, structural analysis, chord / key / tempo reasoning, and long-form musical question answering.",
+  "description": "An open-source model for music captioning, lyrics transcription, structural analysis, and musical question answering",
   "description_ja": "",
   "url": "https://github.com/OpenMOSS/MOSS-Music",
-  "homepage_url": "",
+  "homepage_url": "https://huggingface.co/OpenMOSS-Team/MOSS-Music-8B-Instruct",
   "language": "Python",
   "license": "",
-  "topics": [],
-  "star_count": 150,
-  "fork_count": 10,
+  "topics": [
+    "audio-question-answering",
+    "lyrics-transcription",
+    "multimodal",
+    "music-captioning",
+    "music-understanding"
+  ],
+  "star_count": 159,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-30T01:48:56Z",
-  "updated_at": "2026-08-30T08:04:43Z",
+  "updated_at": "2026-09-11T04:19:28Z",
   "pushed_at": "2026-05-09T12:25:15Z",
   "deleted_at": "",
   "star_history": [
@@ -170,6 +176,10 @@
     {
       "date": "2026-08-30",
       "stars": 150
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 159
     }
   ]
 }

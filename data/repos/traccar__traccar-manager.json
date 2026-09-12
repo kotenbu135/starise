@@ -3,27 +3,29 @@
   "owner": "traccar",
   "name": "traccar-manager",
   "full_name": "traccar/traccar-manager",
-  "description": "Traccar Manager app",
-  "description_ja": "Tracardiマネージャーアプリ",
+  "description": "Mobile app for viewing and managing devices tracked by Traccar",
+  "description_ja": "",
   "url": "https://github.com/traccar/traccar-manager",
   "homepage_url": "https://www.traccar.org/manager",
   "language": "Dart",
   "license": "Apache-2.0",
   "topics": [
     "android",
+    "fleet-management",
     "flutter",
     "gps",
     "gps-tracking",
     "ios",
+    "location-tracking",
     "traccar-manager"
   ],
-  "star_count": 94,
-  "fork_count": 117,
+  "star_count": 98,
+  "fork_count": 119,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-20T13:49:04Z",
-  "updated_at": "2026-08-22T11:16:42Z",
-  "pushed_at": "2026-08-22T11:16:55Z",
+  "updated_at": "2026-09-11T19:18:05Z",
+  "pushed_at": "2026-09-01T04:18:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -397,6 +399,10 @@
     {
       "date": "2026-08-30",
       "stars": 94
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 98
     }
   ]
 }

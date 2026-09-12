@@ -3,29 +3,36 @@
   "owner": "sveltepress",
   "name": "sveltepress",
   "full_name": "sveltepress/sveltepress",
-  "description": "A content centered site build tool, build on top of Sveltekit.",
-  "description_ja": "Sveltekitの上に構築された、コンテンツ中心のサイト構築ツール",
+  "description": "SvelteKit docs \u0026 blog SSG — Svelte 5 in Markdown, versioning, i18n, and Pagefind.",
+  "description_ja": "",
   "url": "https://github.com/SveltePress/sveltepress",
   "homepage_url": "https://sveltepress.site",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "blog",
     "blogging",
     "docs",
+    "documentation",
+    "i18n",
     "markdown",
+    "pagefind",
+    "pwa",
     "ssg",
     "static-site-generator",
     "svelte",
+    "svelte5",
     "sveltekit",
-    "theme"
+    "theme",
+    "vite"
   ],
-  "star_count": 529,
+  "star_count": 532,
   "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-23T11:17:59Z",
-  "updated_at": "2026-08-30T07:09:06Z",
-  "pushed_at": "2026-08-30T07:21:32Z",
+  "updated_at": "2026-09-11T04:06:28Z",
+  "pushed_at": "2026-09-11T04:07:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -399,6 +406,10 @@
     {
       "date": "2026-08-30",
       "stars": 529
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 532
     }
   ]
 }

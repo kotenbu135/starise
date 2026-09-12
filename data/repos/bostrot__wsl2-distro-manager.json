@@ -3,31 +3,38 @@
   "owner": "bostrot",
   "name": "wsl2-distro-manager",
   "full_name": "bostrot/wsl2-distro-manager",
-  "description": "A GUI to quickly manage your WSL2 instances",
-  "description_ja": "WSL2インスタンスを素早く管理するためのGUI",
+  "description": "GUI for the Windows Subsystem for Linux — and native Linux/macOS VMs on Mac. Install, back up, move and configure distros without CLI flags; AI assistant with tools, MCP server for agents, remote WSL over SSH.",
+  "description_ja": "",
   "url": "https://github.com/bostrot/wsl2-distro-manager",
-  "homepage_url": "https://apps.microsoft.com/store/detail/wsl-manager/9NWS9K95NMJB",
+  "homepage_url": "https://wslmanager.com",
   "language": "Dart",
   "license": "NOASSERTION",
   "topics": [
-    "collaborate",
+    "ai",
+    "developer-tools",
     "docker",
     "flutter",
-    "github",
     "gui",
+    "llm",
+    "macos",
+    "mcp",
+    "model-context-protocol",
     "rootfs",
     "turnkey",
+    "virtual-machine",
+    "virtualization",
     "windows",
+    "windows-subsystem-for-linux",
     "wsl",
     "wsl2"
   ],
-  "star_count": 3966,
-  "fork_count": 177,
+  "star_count": 3995,
+  "fork_count": 178,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-17T18:40:45Z",
-  "updated_at": "2026-08-29T14:25:55Z",
-  "pushed_at": "2026-08-30T21:42:31Z",
+  "updated_at": "2026-09-11T18:41:12Z",
+  "pushed_at": "2026-09-10T16:43:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +412,10 @@
     {
       "date": "2026-08-30",
       "stars": 3966
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 3995
     }
   ]
 }

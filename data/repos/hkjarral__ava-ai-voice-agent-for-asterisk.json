@@ -3,20 +3,20 @@
   "owner": "hkjarral",
   "name": "ava-ai-voice-agent-for-asterisk",
   "full_name": "hkjarral/ava-ai-voice-agent-for-asterisk",
-  "description": "An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP technology",
-  "description_ja": "Audiosocket/RTP技術を使ってAsterisk/FreePBXと統合するオープンソースのAI音声エージェント",
+  "description": "An open-source AI Voice Agent that integrates with Asterisk/FreePBX using Audiosocket/RTP/Websocket technology         https://demo.agent6789.com",
+  "description_ja": "",
   "url": "https://github.com/hkjarral/AVA-AI-Voice-Agent-for-Asterisk",
-  "homepage_url": "https://demo.agent6789.com",
+  "homepage_url": "https://operator.agent6789.com",
   "language": "Python",
   "license": "MIT",
   "topics": [],
-  "star_count": 1196,
-  "fork_count": 261,
+  "star_count": 1210,
+  "fork_count": 270,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-05T23:07:40Z",
-  "updated_at": "2026-08-30T19:57:09Z",
-  "pushed_at": "2026-08-30T19:57:04Z",
+  "updated_at": "2026-09-11T17:34:41Z",
+  "pushed_at": "2026-09-11T17:34:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +394,10 @@
     {
       "date": "2026-08-30",
       "stars": 1196
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1210
     }
   ]
 }

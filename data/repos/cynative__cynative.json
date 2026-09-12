@@ -3,7 +3,7 @@
   "owner": "cynative",
   "name": "cynative",
   "full_name": "cynative/cynative",
-  "description": "Build your own security agents. Open-source framework for agents with live, read-only access to your infrastructure, with no path to widen it. Reasons across AWS, GCP, Azure, Kubernetes, GitHub and GitLab as one system.",
+  "description": "Open-source security agents for cloud, code and runtime. 45 built-in agents audit AWS, GCP, Azure, Kubernetes, GitHub and GitLab for privilege escalation, public exposure, supply chain and more, or build your own in one markdown file. Live, read-only access to your infrastructure.",
   "description_ja": "",
   "url": "https://github.com/cynative/cynative",
   "homepage_url": "https://cynative.com",
@@ -31,13 +31,13 @@
     "trust-boundary",
     "vulnerability-management"
   ],
-  "star_count": 194,
-  "fork_count": 28,
+  "star_count": 200,
+  "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-24T18:06:26Z",
-  "updated_at": "2026-08-29T19:00:29Z",
-  "pushed_at": "2026-08-28T14:48:46Z",
+  "updated_at": "2026-09-11T20:37:30Z",
+  "pushed_at": "2026-09-11T20:38:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -139,6 +139,10 @@
     {
       "date": "2026-08-30",
       "stars": 194
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 200
     }
   ]
 }

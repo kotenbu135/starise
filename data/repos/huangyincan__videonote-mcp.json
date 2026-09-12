@@ -3,7 +3,7 @@
   "owner": "huangyincan",
   "name": "videonote-mcp",
   "full_name": "huangyincan/videonote-mcp",
-  "description": "VideoNote：将视频转成结构化笔记。理解画面/弹幕/评论；支持主流平台；工具解耦；多格式导出。",
+  "description": "VideoNote：将视频转成文字或笔记。理解画面/弹幕/评论；支持主流平台；工具解耦；多格式导出。",
   "description_ja": "",
   "url": "https://github.com/HuangYincan/VideoNote-MCP",
   "homepage_url": "",
@@ -23,13 +23,13 @@
     "whisper",
     "youtube"
   ],
-  "star_count": 49,
-  "fork_count": 1,
+  "star_count": 65,
+  "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-31T08:03:31Z",
-  "updated_at": "2026-08-30T18:32:15Z",
-  "pushed_at": "2026-08-30T18:31:11Z",
+  "updated_at": "2026-09-11T20:43:22Z",
+  "pushed_at": "2026-09-11T19:38:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -39,6 +39,10 @@
     {
       "date": "2026-08-30",
       "stars": 49
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 65
     }
   ]
 }

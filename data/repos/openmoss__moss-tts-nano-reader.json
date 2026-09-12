@@ -3,19 +3,25 @@
   "owner": "openmoss",
   "name": "moss-tts-nano-reader",
   "full_name": "openmoss/moss-tts-nano-reader",
-  "description": "",
+  "description": "A local browser reading app powered by MOSS-TTS-Nano with in-browser ONNX inference",
   "description_ja": "",
   "url": "https://github.com/OpenMOSS/MOSS-TTS-Nano-Reader",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "",
-  "topics": [],
-  "star_count": 58,
+  "topics": [
+    "accessibility",
+    "browser-extension",
+    "onnx",
+    "text-to-speech",
+    "voice-cloning"
+  ],
+  "star_count": 60,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-13T10:03:10Z",
-  "updated_at": "2026-08-26T03:48:37Z",
+  "updated_at": "2026-09-06T06:22:34Z",
   "pushed_at": "2026-05-07T07:15:35Z",
   "deleted_at": "",
   "star_history": [
@@ -282,6 +288,10 @@
     {
       "date": "2026-08-30",
       "stars": 58
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 60
     }
   ]
 }

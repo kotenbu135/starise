@@ -6,17 +6,23 @@
   "description": "Conduit — native SwiftUI iOS client for Hermes Agent",
   "description_ja": "",
   "url": "https://github.com/kaishi00/hermes-conduit",
-  "homepage_url": "",
+  "homepage_url": "https://hermesconduit.app",
   "language": "Swift",
   "license": "MIT",
-  "topics": [],
-  "star_count": 83,
-  "fork_count": 14,
+  "topics": [
+    "ai-agent",
+    "hermes-agent",
+    "ios",
+    "self-hosted",
+    "swiftui"
+  ],
+  "star_count": 116,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-22T01:36:52Z",
-  "updated_at": "2026-08-30T20:50:20Z",
-  "pushed_at": "2026-08-30T20:48:27Z",
+  "updated_at": "2026-09-11T14:41:53Z",
+  "pushed_at": "2026-09-11T22:44:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +56,10 @@
     {
       "date": "2026-08-30",
       "stars": 83
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 116
     }
   ]
 }

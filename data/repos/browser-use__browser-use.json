@@ -3,8 +3,8 @@
   "owner": "browser-use",
   "name": "browser-use",
   "full_name": "browser-use/browser-use",
-  "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-  "description_ja": "🌐 AI エージェントがウェブサイトにアクセスできるようにします。オンラインタスクを簡単に自動化。",
+  "description": "Agents that use the browser.",
+  "description_ja": "",
   "url": "https://github.com/browser-use/browser-use",
   "homepage_url": "https://browser-use.com",
   "language": "Python",
@@ -18,13 +18,13 @@
     "playwright",
     "python"
   ],
-  "star_count": 111737,
-  "fork_count": 12264,
+  "star_count": 114251,
+  "fork_count": 12558,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-31T16:00:56Z",
-  "updated_at": "2026-08-30T21:42:23Z",
-  "pushed_at": "2026-08-30T21:31:38Z",
+  "updated_at": "2026-09-11T21:35:19Z",
+  "pushed_at": "2026-09-10T04:20:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +410,10 @@
     {
       "date": "2026-08-30",
       "stars": 111737
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 114251
     }
   ]
 }

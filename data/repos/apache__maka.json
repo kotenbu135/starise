@@ -3,7 +3,7 @@
   "owner": "apache",
   "name": "maka",
   "full_name": "apache/maka",
-  "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+  "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
   "description_ja": "",
   "url": "https://github.com/apache/maka",
   "homepage_url": "",
@@ -25,13 +25,13 @@
     "tool-use",
     "typescript"
   ],
-  "star_count": 4174,
-  "fork_count": 385,
+  "star_count": 5241,
+  "fork_count": 487,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-27T15:46:05Z",
-  "updated_at": "2026-08-30T21:35:06Z",
-  "pushed_at": "2026-08-30T18:50:12Z",
+  "updated_at": "2026-09-11T21:27:33Z",
+  "pushed_at": "2026-09-11T19:12:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -177,6 +177,10 @@
     {
       "date": "2026-08-30",
       "stars": 4174
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 5241
     }
   ]
 }

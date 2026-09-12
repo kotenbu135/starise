@@ -3,30 +3,29 @@
   "owner": "agents365-ai",
   "name": "video-podcast-maker",
   "full_name": "agents365-ai/video-podcast-maker",
-  "description": "Topic → 4K narrated video for coding agents. v4.0: all TTS via the ttsCN engine component (11 platforms incl. MiniMax voice clone, native word-level subtitle sync), manifest-based Asset Engine, Remotion composition, cost-gated AI generation",
+  "description": "Topic → 4K narrated video for coding agents. v5.3.0: local TTS (edge free + azure, no external engine), manifest-based Asset Engine, Remotion composition, cost-gated AI generation, Bilibili/YouTube/Xiaohongshu/Douyin/WeChat Channels",
   "description_ja": "",
   "url": "https://github.com/Agents365-ai/video-podcast-maker",
   "homepage_url": "",
   "language": "Python",
-  "license": "NOASSERTION",
+  "license": "MIT",
   "topics": [
     "agent-skill",
     "ai-video",
     "bilibili",
     "claude-code",
-    "hyperframes",
     "idea-to-video",
     "remotion",
     "text-to-speech",
     "video-generation"
   ],
-  "star_count": 1592,
-  "fork_count": 166,
+  "star_count": 1608,
+  "fork_count": 167,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-16T14:15:27Z",
-  "updated_at": "2026-08-30T17:33:25Z",
-  "pushed_at": "2026-08-01T09:49:15Z",
+  "updated_at": "2026-09-11T13:49:25Z",
+  "pushed_at": "2026-09-05T07:48:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -376,6 +375,10 @@
     {
       "date": "2026-08-30",
       "stars": 1592
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1608
     }
   ]
 }

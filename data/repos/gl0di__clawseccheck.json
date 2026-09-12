@@ -3,7 +3,7 @@
   "owner": "gl0di",
   "name": "clawseccheck",
   "full_name": "gl0di/clawseccheck",
-  "description": "🦞  Local, read-only security scanner for OpenClaw. Finds config, prompt-injection and supply-chain risks — A–F grade.",
+  "description": "🦞  Local, read-only security audit for your OpenClaw agent. Finds config, prompt-injection and supply-chain risks, watches for drift, and vets a skill before you install it. Offline, zero deps. A–F grade when all five layers ran.",
   "description_ja": "",
   "url": "https://github.com/gl0di/clawseccheck",
   "homepage_url": "https://clawhub.ai/gl0di/clawseccheck",
@@ -28,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-19T09:12:03Z",
-  "updated_at": "2026-08-24T13:36:41Z",
-  "pushed_at": "2026-08-08T08:56:49Z",
+  "updated_at": "2026-09-08T22:12:39Z",
+  "pushed_at": "2026-09-08T22:29:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -106,6 +106,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 58
+    },
+    {
+      "date": "2026-09-11",
       "stars": 58
     }
   ]

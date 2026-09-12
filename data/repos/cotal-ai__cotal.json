@@ -6,29 +6,38 @@
   "description": "The open standard for agent coordination",
   "description_ja": "",
   "url": "https://github.com/Cotal-AI/Cotal",
-  "homepage_url": "https://www.cotal.ai",
+  "homepage_url": "https://cotal.ai",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "a2a",
     "agent-communication",
+    "agent-mesh",
     "agent-orchestration",
+    "agent-skills",
     "ai",
     "ai-agents",
+    "claude-code",
+    "distributed-systems",
     "infrastructure",
+    "jetstream",
+    "mcp",
+    "model-context-protocol",
     "multi-agent",
     "nats",
     "protocol",
     "pubsub",
-    "swarm"
+    "self-hosted",
+    "swarm",
+    "typescript"
   ],
-  "star_count": 255,
-  "fork_count": 26,
+  "star_count": 274,
+  "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-02T02:52:25Z",
-  "updated_at": "2026-08-30T21:09:54Z",
-  "pushed_at": "2026-08-30T21:08:21Z",
+  "updated_at": "2026-09-11T20:57:05Z",
+  "pushed_at": "2026-09-11T22:02:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -206,6 +215,10 @@
     {
       "date": "2026-08-30",
       "stars": 255
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 274
     }
   ]
 }

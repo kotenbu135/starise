@@ -3,10 +3,10 @@
   "owner": "open-multi-agent",
   "name": "open-multi-agent",
   "full_name": "open-multi-agent/open-multi-agent",
-  "description": "TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepSeek, or local models).",
+  "description": "TypeScript multi-agent framework that runs in your own environment: consequential actions wait for approval and every run leaves a verifiable record. Describe the goal, not the graph. 13 built-in providers (Claude, OpenAI, Gemini, DeepSeek and more) plus any OpenAI-compatible endpoint, local models included.",
   "description_ja": "",
   "url": "https://github.com/open-multi-agent/open-multi-agent",
-  "homepage_url": "https://open-multi-agent.com",
+  "homepage_url": "https://open-multi-agent.com/go/repo",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -14,30 +14,29 @@
     "agent-orchestration",
     "agentic-ai",
     "ai-agents",
+    "ai-governance",
     "anthropic",
     "claude",
     "claude-code",
-    "crewai-alternative",
     "deepseek",
-    "dynamic-workflows",
     "gemini",
-    "langgraph-alternative",
     "llm",
     "local-llm",
     "mcp",
     "multi-agent",
-    "nodejs",
+    "observability",
     "ollama",
     "openai",
+    "self-hosted",
     "typescript"
   ],
-  "star_count": 6845,
-  "fork_count": 2433,
+  "star_count": 6906,
+  "fork_count": 2434,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T19:07:34Z",
-  "updated_at": "2026-08-30T19:43:51Z",
-  "pushed_at": "2026-08-29T01:51:23Z",
+  "updated_at": "2026-09-11T18:51:14Z",
+  "pushed_at": "2026-09-11T21:50:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +414,10 @@
     {
       "date": "2026-08-30",
       "stars": 6845
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 6906
     }
   ]
 }

@@ -3,19 +3,30 @@
   "owner": "fynth",
   "name": "shovel",
   "full_name": "fynth/shovel",
-  "description": "",
+  "description": "Native desktop database client in Rust. SQLite, PostgreSQL, MySQL, ClickHouse. AI-assisted SQL via ACP.",
   "description_ja": "",
   "url": "https://github.com/Fynth/Shovel",
   "homepage_url": "https://fynth.github.io/Shovel/",
   "language": "Rust",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "clickhouse",
+    "database",
+    "desktop",
+    "dioxus",
+    "linux",
+    "mysql",
+    "postgresql",
+    "rust",
+    "sql",
+    "sqlite"
+  ],
   "star_count": 12,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T16:41:10Z",
-  "updated_at": "2026-08-28T06:20:14Z",
+  "updated_at": "2026-09-07T11:08:17Z",
   "pushed_at": "2026-08-28T06:20:00Z",
   "deleted_at": "",
   "star_history": [
@@ -361,6 +372,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 12
+    },
+    {
+      "date": "2026-09-11",
       "stars": 12
     }
   ]

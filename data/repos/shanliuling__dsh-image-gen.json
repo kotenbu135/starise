@@ -3,7 +3,7 @@
   "owner": "shanliuling",
   "name": "dsh-image-gen",
   "full_name": "shanliuling/dsh-image-gen",
-  "description": "Generate images directly in DeepSeek Harness chats",
+  "description": "AI image studio for DeepSeek Harness — generate, edit \u0026 compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.",
   "description_ja": "",
   "url": "https://github.com/shanliuling/dsh-image-gen",
   "homepage_url": "https://github.com/shanliuling/dsh-image-gen#readme",
@@ -11,23 +11,24 @@
   "license": "MIT",
   "topics": [
     "ai-agent",
-    "cordis",
+    "ai-image-generation-api",
+    "comfyui",
     "deepseek",
     "deepseek-harness",
     "dsh-plugin",
     "gemini",
     "image-generation",
     "openai",
-    "plugin",
+    "prompt-library",
     "seedream"
   ],
-  "star_count": 282,
-  "fork_count": 17,
+  "star_count": 399,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-17T10:16:37Z",
-  "updated_at": "2026-08-30T18:02:02Z",
-  "pushed_at": "2026-08-30T10:34:21Z",
+  "updated_at": "2026-09-11T09:07:33Z",
+  "pushed_at": "2026-09-11T09:54:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +50,10 @@
     {
       "date": "2026-08-30",
       "stars": 282
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 399
     }
   ]
 }

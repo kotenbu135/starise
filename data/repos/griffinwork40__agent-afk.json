@@ -3,10 +3,10 @@
   "owner": "griffinwork40",
   "name": "agent-afk",
   "full_name": "griffinwork40/agent-afk",
-  "description": "Start a run in your terminal and walk away. Get pinged when it finishes, or needs you. Every step is a readable trace you check before anything ships.",
+  "description": "The coding agent you don’t have to watch. Start a task and walk away. AFK builds the feature, verifies its own work, and texts you when it’s done. You come back to a receipt of every step, every decision, and what’s waiting on you. If it’s unsure, it stops and asks instead of guessing.",
   "description_ja": "",
   "url": "https://github.com/griffinwork40/agent-afk",
-  "homepage_url": "https://docs.agentafk.com",
+  "homepage_url": "https://agentafk.com",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
@@ -31,13 +31,13 @@
     "telegram-bot",
     "typescript"
   ],
-  "star_count": 53,
-  "fork_count": 11,
+  "star_count": 55,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-05T10:42:23Z",
-  "updated_at": "2026-08-30T21:18:42Z",
-  "pushed_at": "2026-08-30T21:19:03Z",
+  "updated_at": "2026-09-11T20:08:47Z",
+  "pushed_at": "2026-09-11T22:21:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +99,10 @@
     {
       "date": "2026-08-30",
       "stars": 53
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 55
     }
   ]
 }

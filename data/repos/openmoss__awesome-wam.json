@@ -3,20 +3,29 @@
   "owner": "openmoss",
   "name": "awesome-wam",
   "full_name": "openmoss/awesome-wam",
-  "description": "A curated, continuously updated reading list, paper blogs, and resources for World Action Models (WAMs) in embodied AI.",
+  "description": "A curated collection of papers, explainers, and resources on World Action Models for embodied AI",
   "description_ja": "",
   "url": "https://github.com/OpenMOSS/Awesome-WAM",
-  "homepage_url": "",
+  "homepage_url": "https://openmoss.ai/Awesome-WAM/",
   "language": "HTML",
   "license": "MIT",
-  "topics": [],
-  "star_count": 1352,
-  "fork_count": 37,
+  "topics": [
+    "awesome-list",
+    "embodied-ai",
+    "paper-list",
+    "robotics",
+    "survey",
+    "vision-language-action",
+    "world-action-model",
+    "world-models"
+  ],
+  "star_count": 1402,
+  "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-16T09:22:15Z",
-  "updated_at": "2026-08-30T09:49:46Z",
-  "pushed_at": "2026-08-30T08:30:45Z",
+  "updated_at": "2026-09-11T10:12:47Z",
+  "pushed_at": "2026-09-07T06:00:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -330,6 +339,10 @@
     {
       "date": "2026-08-30",
       "stars": 1352
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1402
     }
   ]
 }

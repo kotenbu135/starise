@@ -3,10 +3,10 @@
   "owner": "uxlfoundation",
   "name": "oneapi-spec",
   "full_name": "uxlfoundation/oneapi-spec",
-  "description": "oneAPI Specification source files",
-  "description_ja": "oneAPI仕様のソースファイル",
+  "description": "Archived oneAPI specification sources. The current dynamic specification is maintained on the UXL Foundation website and in project documentation.",
+  "description_ja": "",
   "url": "https://github.com/uxlfoundation/oneAPI-spec",
-  "homepage_url": "https://spec.oneapi.com",
+  "homepage_url": "https://uxlfoundation.org/specifications/oneapi/technical-overview/",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
@@ -19,13 +19,13 @@
     "sycl",
     "video-processing"
   ],
-  "star_count": 216,
+  "star_count": 217,
   "fork_count": 119,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2020-01-21T23:03:55Z",
-  "updated_at": "2026-07-21T15:59:59Z",
-  "pushed_at": "2026-07-21T16:15:13Z",
+  "updated_at": "2026-09-09T23:23:03Z",
+  "pushed_at": "2026-09-09T23:22:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -399,6 +399,10 @@
     {
       "date": "2026-08-30",
       "stars": 216
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 217
     }
   ]
 }

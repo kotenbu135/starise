@@ -3,41 +3,41 @@
   "owner": "vladimir-human",
   "name": "humanizer-ru",
   "full_name": "vladimir-human/humanizer-ru",
-  "description": "Скилл для ИИ-агентов: находит и убирает следы машинной генерации из русского текста, не трогает живое и не дописывает факты. 58 паттернов, 40 regex-маркеров (реестр доказательств 38/40), ось «дельта детектируемости до/после» с FP-контролем, снятие меток C2PA/EXIF/XMP, пакет на PyPI и онлайн-демо. Гейтов 73/69, 193 теста.",
+  "description": "Проверяемая гигиена вставки из чата для русского текста",
   "description_ja": "",
   "url": "https://github.com/Vladimir-Human/humanizer-ru",
-  "homepage_url": "https://www.skills.sh/vladimir-human/humanizer-ru/humanizer-ru",
+  "homepage_url": "https://vladimir-human.github.io/humanizer-ru/",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "agent-skills",
     "ai",
-    "ai-detection",
-    "ai-writing",
-    "c2pa",
     "claude",
     "claude-code",
-    "claude-skills",
-    "codex",
+    "claude-skill",
+    "cli",
     "cursor",
-    "dsh-plugin",
-    "gemini-cli",
+    "github-action",
     "humanizer",
     "llm",
+    "llm-tools",
+    "mcp",
     "nlp",
-    "opencode",
+    "pypi",
+    "python",
     "russian",
-    "russian-nlp",
-    "text-humanization",
-    "watermarks"
+    "russian-language",
+    "skill",
+    "text-normalization",
+    "typography"
   ],
-  "star_count": 118,
+  "star_count": 123,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-21T15:02:29Z",
-  "updated_at": "2026-08-30T03:33:16Z",
-  "pushed_at": "2026-08-30T03:24:24Z",
+  "updated_at": "2026-09-11T22:15:44Z",
+  "pushed_at": "2026-09-11T22:15:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -331,6 +331,10 @@
     {
       "date": "2026-08-30",
       "stars": 118
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 123
     }
   ]
 }

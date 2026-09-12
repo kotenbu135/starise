@@ -3,20 +3,29 @@
   "owner": "feichanggege",
   "name": "ecommerce-visual-copywriting-skill",
   "full_name": "feichanggege/ecommerce-visual-copywriting-skill",
-  "description": "电商视觉文案设计SOP Skill - 让电商设计小白也能一键做出5年资深设计经验的商品图片.兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent",
+  "description": "电商视觉文案设计SOP Skill - 让电商设计小白也能一键做出5年资深设计经验的商品图片.兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent. AI-powered e-commerce visual strategy skill for main images, PDP/A+, copywriting, localization, evidence-aware compliance and image prompts.",
   "description_ja": "",
   "url": "https://github.com/feichanggege/ecommerce-visual-copywriting-skill",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 666,
-  "fork_count": 79,
+  "topics": [
+    "agent-skills",
+    "ai-image-generation-api",
+    "amazon",
+    "copywriting",
+    "ecommerce",
+    "prompt-engineering",
+    "shopify",
+    "tiktok-shop-affiliate"
+  ],
+  "star_count": 743,
+  "fork_count": 80,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-15T03:57:06Z",
-  "updated_at": "2026-08-30T15:01:27Z",
-  "pushed_at": "2026-07-09T07:36:38Z",
+  "updated_at": "2026-09-11T14:43:54Z",
+  "pushed_at": "2026-09-07T06:56:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -362,6 +371,10 @@
     {
       "date": "2026-08-30",
       "stars": 666
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 743
     }
   ]
 }

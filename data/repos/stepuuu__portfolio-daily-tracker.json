@@ -3,8 +3,8 @@
   "owner": "stepuuu",
   "name": "portfolio-daily-tracker",
   "full_name": "stepuuu/portfolio-daily-tracker",
-  "description": "Self-hosted portfolio tracker and AI trading assistant with daily reports, natural-language holdings updates, backtesting, multi-market support, and OpenClaw integration.",
-  "description_ja": "日次レポート・自然言語による保有資産更新・バックテスト・マルチマーケット対応・OpenClaw連携を備えたセルフホスト型ポートフォリオトラッカー兼AIトレーディングアシスタント。",
+  "description": "Self-hosted portfolio tracker and investment journal: confirmed transactions, multi-currency cash, daily analytics, research notes, offline demo and optional AI assistance.",
+  "description_ja": "",
   "url": "https://github.com/Stepuuu/portfolio-daily-tracker",
   "homepage_url": "",
   "language": "Python",
@@ -12,10 +12,13 @@
   "topics": [
     "ai-agent",
     "backtesting",
+    "investment-journal",
     "investment-tracker",
+    "multi-currency",
     "openclaw",
     "portfolio-tracker",
     "quantitative-finance",
+    "self-hosted",
     "trading-assistant"
   ],
   "star_count": 45,
@@ -23,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-17T08:00:44Z",
-  "updated_at": "2026-07-28T19:13:14Z",
-  "pushed_at": "2026-03-19T09:25:52Z",
+  "updated_at": "2026-09-09T08:04:46Z",
+  "pushed_at": "2026-09-09T08:05:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -401,6 +404,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 45
+    },
+    {
+      "date": "2026-09-11",
       "stars": 45
     }
   ]

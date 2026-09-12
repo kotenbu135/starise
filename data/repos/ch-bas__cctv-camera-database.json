@@ -3,7 +3,7 @@
   "owner": "ch-bas",
   "name": "cctv-camera-database",
   "full_name": "ch-bas/cctv-camera-database",
-  "description": "Open database of 3,900+ CCTV camera specs across 90+ brands — searchable, filterable, CC0",
+  "description": "Open database of 11,400+ CCTV camera specs across 130+ brands, with Frigate and ONVIF/RTS integration, CC0",
   "description_ja": "",
   "url": "https://github.com/ch-bas/cctv-camera-database",
   "homepage_url": "https://ch-bas.github.io/cctv-camera-database/",
@@ -23,20 +23,21 @@
     "ip-camera",
     "javascript",
     "nextjs",
+    "onvif",
+    "onvif-library",
     "open-data",
     "reolink",
     "rtsp",
     "security-camera",
-    "surveillance",
-    "ubiquiti"
+    "surveillance"
   ],
-  "star_count": 240,
+  "star_count": 246,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-06T17:31:00Z",
-  "updated_at": "2026-08-30T19:41:52Z",
-  "pushed_at": "2026-08-30T18:39:30Z",
+  "updated_at": "2026-09-11T19:15:02Z",
+  "pushed_at": "2026-09-11T19:15:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -266,6 +267,10 @@
     {
       "date": "2026-08-30",
       "stars": 240
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 246
     }
   ]
 }

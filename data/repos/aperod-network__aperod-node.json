@@ -3,7 +3,7 @@
   "owner": "aperod-network",
   "name": "aperod-node",
   "full_name": "aperod-network/aperod-node",
-  "description": "Aperod APRO - Institutional-grade Layer-1 blockchain. RingCT/MLSAG zero-knowledge privacy engine with 1-second deterministic BFT finality for high-throughput dApps.",
+  "description": "Aperod (APRO) — Institutional-grade privacy Layer-1 built in Go. RingCT \u0026 MLSAG engine for confidential P2P payments, Telegram Mini-Apps \u0026 Web3 games.",
   "description_ja": "",
   "url": "https://github.com/aperod-network/aperod-node",
   "homepage_url": "https://aperod.com",
@@ -11,33 +11,33 @@
   "license": "",
   "topics": [
     "aperod",
-    "bft-consensus",
-    "blockchain",
-    "cryptography",
-    "decentralized",
+    "bft",
+    "blockchain-game",
+    "blockchain-wallet",
+    "bulletproofs",
+    "clsag",
+    "eip-1559",
     "gamefi",
-    "high-throughput",
+    "golang",
     "layer1",
-    "layer1blockchain-automation",
+    "lpod",
     "microtransactions",
-    "poa",
     "privacy",
-    "privacy-coin",
-    "proof-of-authority",
+    "proof-of-stake",
     "ringct",
-    "selective-transparency",
-    "smart-contracts",
     "stealth-addresses",
     "telegram-miniapp-crypto",
+    "utxo",
+    "wasm",
     "web3-gaming"
   ],
-  "star_count": 95,
+  "star_count": 132,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-27T17:10:03Z",
-  "updated_at": "2026-08-29T22:40:09Z",
-  "pushed_at": "2026-08-23T14:42:58Z",
+  "updated_at": "2026-09-11T12:07:43Z",
+  "pushed_at": "2026-09-06T17:41:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -51,6 +51,10 @@
     {
       "date": "2026-08-30",
       "stars": 95
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 132
     }
   ]
 }

@@ -7,7 +7,7 @@
   "description_ja": ":love_letter: Mac、Windows、Linux向けの美しく、高速で完全オープンソースなメールクライアント。",
   "url": "https://github.com/Foundry376/Mailspring",
   "homepage_url": "https://getmailspring.com/",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "GPL-3.0",
   "topics": [
     "electron",
@@ -19,13 +19,13 @@
     "osx",
     "windows"
   ],
-  "star_count": 17763,
-  "fork_count": 1024,
+  "star_count": 17782,
+  "fork_count": 1029,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-10-13T06:45:50Z",
-  "updated_at": "2026-08-30T14:13:45Z",
-  "pushed_at": "2026-08-28T14:21:41Z",
+  "updated_at": "2026-09-11T16:36:50Z",
+  "pushed_at": "2026-09-11T14:20:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +403,10 @@
     {
       "date": "2026-08-30",
       "stars": 17763
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 17782
     }
   ]
 }

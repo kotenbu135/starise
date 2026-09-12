@@ -3,20 +3,39 @@
   "owner": "0xcub3",
   "name": "wblock",
   "full_name": "0xcub3/wblock",
-  "description": "The next-generation ad blocker for Safari.",
+  "description": "The next-generation ad blocker for Safari. Free and open source on macOS, iOS, iPadOS, and visionOS, with 750,000 rules, userscripts, userstyles, and an element zapper.",
   "description_ja": "",
   "url": "https://github.com/0xCUB3/wBlock",
-  "homepage_url": "",
+  "homepage_url": "https://skula.me/project/wblock/",
   "language": "Swift",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 2784,
+  "topics": [
+    "ad-blocker",
+    "adblock",
+    "adblocker",
+    "adguard",
+    "content-blocker",
+    "ios",
+    "ipados",
+    "macos",
+    "privacy",
+    "safari",
+    "safari-extension",
+    "swift",
+    "swiftui",
+    "tracker-blocker",
+    "userscript",
+    "userscripts",
+    "userstyles",
+    "visionos"
+  ],
+  "star_count": 2864,
   "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-18T12:49:38Z",
-  "updated_at": "2026-08-30T16:00:24Z",
-  "pushed_at": "2026-08-30T15:58:47Z",
+  "updated_at": "2026-09-11T20:27:46Z",
+  "pushed_at": "2026-09-11T18:38:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -358,6 +377,10 @@
     {
       "date": "2026-08-30",
       "stars": 2784
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 2864
     }
   ]
 }

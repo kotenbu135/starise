@@ -3,20 +3,20 @@
   "owner": "walkingddd",
   "name": "tgtodrive",
   "full_name": "walkingddd/tgtodrive",
-  "description": "一条龙网盘媒体自动化平台：从找资源、自动转存、智能整理、挂载 STRM、到 Emby 302 直链播放，全流程打通；重点强化 115 / 123 / 光鸭云盘整理与转存、115 / 123 /光鸭云盘 STRM 全量与增量生成、以及 Emby 反向代理 302 播放能力。",
+  "description": "网盘文件管理增强工具，支持115、123、光鸭网盘转存、盘内影视与音乐整理、STRM 生成，以及 Emby、飞牛影视和飞牛音乐反代与 302 播放。",
   "description_ja": "",
   "url": "https://github.com/walkingddd/TgtoDrive",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [],
-  "star_count": 2001,
-  "fork_count": 170,
+  "star_count": 2067,
+  "fork_count": 177,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-21T09:19:21Z",
-  "updated_at": "2026-08-30T13:07:33Z",
-  "pushed_at": "2026-07-29T15:04:28Z",
+  "updated_at": "2026-09-11T14:24:15Z",
+  "pushed_at": "2026-09-05T08:18:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +394,10 @@
     {
       "date": "2026-08-30",
       "stars": 2001
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 2067
     }
   ]
 }

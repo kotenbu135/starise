@@ -3,19 +3,27 @@
   "owner": "yangfeng20",
   "name": "boss_batch_push",
   "full_name": "yangfeng20/boss_batch_push",
-  "description": "Boss直聘批量投简历，批量发送自定义招呼语",
+  "description": "Boss直聘批量投简历，批量发送自定义招呼语，油猴脚本自动投递｜升级版 AI 工作猎手 → ai-job",
   "description_ja": "",
   "url": "https://github.com/yangfeng20/boss_batch_push",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 840,
+  "topics": [
+    "automation",
+    "boss-zhipin",
+    "job-hunting",
+    "recruitment",
+    "resume",
+    "tampermonkey",
+    "userscript"
+  ],
+  "star_count": 845,
   "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-06-05T13:39:59Z",
-  "updated_at": "2026-08-29T17:15:25Z",
+  "updated_at": "2026-09-08T09:00:31Z",
   "pushed_at": "2026-08-27T06:07:20Z",
   "deleted_at": "",
   "star_history": [
@@ -26,6 +34,10 @@
     {
       "date": "2026-08-30",
       "stars": 840
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 845
     }
   ]
 }

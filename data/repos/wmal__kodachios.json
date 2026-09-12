@@ -3,8 +3,8 @@
   "owner": "wmal",
   "name": "kodachios",
   "full_name": "wmal/kodachios",
-  "description": "Linux Kodachi is a Debian-based security OS by Warith Al Maawali, built for uncompromising privacy, anonymity, and reliability. It pairs hardened defaults with a curated toolkit for private browsing, advanced networking, and incident response, all in an intuitive interface.",
-  "description_ja": "Linux Kodachi は Warith Al Maawali による Debian ベースのセキュリティ OS。プライバシー・匿名性・信頼性を妥協なく追求し、プライベートブラウジング、高度なネットワーク、インシデント対応のツールキットと堅牢なデフォルト設定を直感的なインターフェースで提供。",
+  "description": "Kodachi OS is a Debian-based privacy \u0026 security OS by Warith Al Maawali, built for uncompromising privacy, anonymity, and reliability. It pairs hardened defaults with a curated toolkit for private browsing, advanced networking, and incident response, all in an intuitive interface.",
+  "description_ja": "",
   "url": "https://github.com/WMAL/kodachios",
   "homepage_url": "https://www.digi77.com/linux-kodachi/",
   "language": "Shell",
@@ -18,13 +18,13 @@
     "privacy",
     "security"
   ],
-  "star_count": 496,
-  "fork_count": 90,
+  "star_count": 498,
+  "fork_count": 91,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-12-31T07:26:58Z",
-  "updated_at": "2026-08-29T18:25:59Z",
-  "pushed_at": "2026-08-14T12:07:23Z",
+  "updated_at": "2026-09-08T11:08:57Z",
+  "pushed_at": "2026-09-08T11:09:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +398,10 @@
     {
       "date": "2026-08-30",
       "stars": 496
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 498
     }
   ]
 }

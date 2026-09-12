@@ -3,7 +3,7 @@
   "owner": "niki914",
   "name": "zafiro",
   "full_name": "niki914/zafiro",
-  "description": "Android Native AI agent for phone automation — control apps via Accessibility / Root / Shizuku, run Shell / SSH commands, and extend with MCP, Skills",
+  "description": "Open-source BYOK AI agent for Android. Full phone control, native Shell \u0026 Python 3, with Skills and MCP support, Material 3 Expressive. Works via Shizuku (root optional). Bring any provider: OpenRouter, GLM, and more.",
   "description_ja": "",
   "url": "https://github.com/niki914/zafiro",
   "homepage_url": "",
@@ -15,27 +15,29 @@
     "ai",
     "android",
     "automation",
-    "claude",
-    "gpt",
     "kotlin",
     "llm",
     "lsposed",
+    "material-design",
     "mcp",
-    "mobile",
+    "mutimodal",
+    "openrouter",
+    "python",
     "root",
+    "shell",
     "shizuku",
     "skills",
     "ssh",
     "termux",
     "xposed"
   ],
-  "star_count": 127,
-  "fork_count": 7,
+  "star_count": 159,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-05T05:25:32Z",
-  "updated_at": "2026-08-29T06:26:09Z",
-  "pushed_at": "2026-08-29T06:26:02Z",
+  "updated_at": "2026-09-11T14:57:06Z",
+  "pushed_at": "2026-09-10T14:59:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -213,6 +215,10 @@
     {
       "date": "2026-08-30",
       "stars": 127
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 159
     }
   ]
 }

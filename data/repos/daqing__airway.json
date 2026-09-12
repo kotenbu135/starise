@@ -6,10 +6,11 @@
   "description": "Full-stack API framework written in Go, inspired by Ruby on Rails.",
   "description_ja": "Ruby on Railsにインスパイアされた、Goで書かれたフルスタックAPIフレームワーク。",
   "url": "https://github.com/daqing/airway",
-  "homepage_url": "",
+  "homepage_url": "https://daqing.github.io/airway/",
   "language": "Go",
   "license": "",
   "topics": [
+    "engine",
     "framework",
     "full-stack",
     "go",
@@ -20,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-15T11:41:30Z",
-  "updated_at": "2026-05-06T17:38:29Z",
-  "pushed_at": "2026-07-19T15:26:10Z",
+  "updated_at": "2026-09-11T10:12:56Z",
+  "pushed_at": "2026-09-11T15:21:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +395,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 59
+    },
+    {
+      "date": "2026-09-11",
       "stars": 59
     }
   ]

@@ -3,20 +3,20 @@
   "owner": "philexohf",
   "name": "gleamlm",
   "full_name": "philexohf/gleamlm",
-  "description": "面向教育和研究的小型语言模型——纯 PyTorch 从零实现 ，最低仅需单张 12GB 消费级显卡即可完整训练。Apache 2.0 开源。",
+  "description": "面向教育和研究的语言模型——核心代码用PyTorch从零实现，最低仅需12GB消费级显卡即可完整训练。同时项目提供了一套工业框架代码作为对比，并内置了便捷的可视化训练平台供大家使用。",
   "description_ja": "",
   "url": "https://github.com/philexohf/gleamlm",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 57,
+  "star_count": 60,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-14T17:36:14Z",
-  "updated_at": "2026-08-21T01:46:30Z",
-  "pushed_at": "2026-07-20T00:06:00Z",
+  "updated_at": "2026-09-11T21:35:38Z",
+  "pushed_at": "2026-09-11T21:35:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +78,10 @@
     {
       "date": "2026-08-30",
       "stars": 57
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 60
     }
   ]
 }

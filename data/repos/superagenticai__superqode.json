@@ -3,25 +3,40 @@
   "owner": "superagenticai",
   "name": "superqode",
   "full_name": "superagenticai/superqode",
-  "description": "The harness engineering framework for coding agents",
+  "description": "The harness interoperability layer for coding agent. Agent to Agent connect over ACP, A2A and UHP",
   "description_ja": "",
   "url": "https://github.com/SuperagenticAI/superqode",
-  "homepage_url": "https://super-agentic.ai/superqode",
+  "homepage_url": "https://superqode.dev",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "a2a",
+    "a2a-agent",
+    "a2a-cli",
+    "a2a-client",
+    "a2a-platform",
+    "a2a-protocol",
+    "a2a-server",
     "agent-harness",
+    "agent-memory",
+    "agent-orchestration",
     "agentic",
+    "agentic-ai",
+    "agents",
     "coding",
-    "harness-engineering"
+    "coding-agent",
+    "harness",
+    "harness-ai",
+    "harness-engineering",
+    "harness-framework"
   ],
-  "star_count": 39,
-  "fork_count": 7,
+  "star_count": 44,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-19T10:51:41Z",
-  "updated_at": "2026-08-30T14:54:04Z",
-  "pushed_at": "2026-08-30T14:54:22Z",
+  "updated_at": "2026-09-11T06:16:16Z",
+  "pushed_at": "2026-09-11T06:16:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -83,6 +98,10 @@
     {
       "date": "2026-08-30",
       "stars": 39
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 44
     }
   ]
 }

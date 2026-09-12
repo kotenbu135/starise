@@ -3,7 +3,7 @@
   "owner": "superplanehq",
   "name": "superplane",
   "full_name": "superplanehq/superplane",
-  "description": "The open source control plane for agentic engineering.",
+  "description": "Open source factory for one-shot engineering",
   "description_ja": "",
   "url": "https://github.com/superplanehq/superplane",
   "homepage_url": "https://superplane.com",
@@ -17,19 +17,18 @@
     "go",
     "kubernetes",
     "platform-engineering",
-    "python",
     "react",
     "release-automation",
     "self-hosted",
     "workflow-automation"
   ],
-  "star_count": 5653,
-  "fork_count": 623,
+  "star_count": 7109,
+  "fork_count": 635,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-07T17:48:39Z",
-  "updated_at": "2026-08-30T22:30:53Z",
-  "pushed_at": "2026-08-30T18:26:51Z",
+  "updated_at": "2026-09-11T21:32:49Z",
+  "pushed_at": "2026-09-11T21:59:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +402,10 @@
     {
       "date": "2026-08-30",
       "stars": 5653
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 7109
     }
   ]
 }

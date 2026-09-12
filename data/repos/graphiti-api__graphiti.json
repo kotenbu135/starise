@@ -3,31 +3,28 @@
   "owner": "graphiti-api",
   "name": "graphiti",
   "full_name": "graphiti-api/graphiti",
-  "description": "Stylish Graph APIs",
-  "description_ja": "スタイリッシュなGraph API",
+  "description": "Stylish Graph APIs, built on JSON:API",
+  "description_ja": "",
   "url": "https://github.com/graphiti-api/graphiti",
   "homepage_url": "https://graphiti.dev/",
   "language": "Ruby",
   "license": "MIT",
   "topics": [
     "api",
-    "api-server",
     "graphiti",
-    "graphql",
     "json-api",
-    "microservice",
     "microservices",
     "rails",
     "ruby",
     "ruby-on-rails"
   ],
-  "star_count": 1059,
+  "star_count": 1069,
   "fork_count": 157,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-09-22T21:46:19Z",
-  "updated_at": "2026-08-28T20:19:16Z",
-  "pushed_at": "2026-08-30T03:57:55Z",
+  "updated_at": "2026-09-11T11:29:07Z",
+  "pushed_at": "2026-09-10T17:55:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +402,10 @@
     {
       "date": "2026-08-30",
       "stars": 1059
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1069
     }
   ]
 }

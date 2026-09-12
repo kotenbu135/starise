@@ -3,7 +3,7 @@
   "owner": "oxylabs",
   "name": "web-scraper-api",
   "full_name": "oxylabs/web-scraper-api",
-  "description": "All-in-one web scraping API for real-time, large-scale data extraction – proxies, CAPTCHA handling, JS rendering, and parsing in a single request returning HTML or structured JSON.",
+  "description": "All-in-one web scraping API for real-time, large-scale data extraction – proxies, CAPTCHA management, JS rendering, and parsing in a single request returning HTML or structured JSON.",
   "description_ja": "",
   "url": "https://github.com/oxylabs/web-scraper-api",
   "homepage_url": "https://oxylabs.io/products/scraper-api/webs",
@@ -27,12 +27,12 @@
     "web-scraping-api",
     "web-search-api"
   ],
-  "star_count": 489,
+  "star_count": 492,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-05T07:07:50Z",
-  "updated_at": "2026-08-30T19:47:18Z",
+  "updated_at": "2026-09-10T16:16:36Z",
   "pushed_at": "2026-08-21T09:55:21Z",
   "deleted_at": "",
   "star_history": [
@@ -231,6 +231,10 @@
     {
       "date": "2026-08-30",
       "stars": 489
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 492
     }
   ]
 }

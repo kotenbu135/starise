@@ -6,17 +6,25 @@
   "description": "Automatically discovered, read-only service catalogue for Docker, Kubernetes, Proxmox, and Linux.",
   "description_ja": "",
   "url": "https://github.com/Techdox/trove",
-  "homepage_url": "https://trove.techdox.nz",
+  "homepage_url": "https://github.com/Techdox/trove/wiki",
   "language": "Go",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "docker",
+    "golang",
+    "homelab",
+    "inventory",
+    "kubernetes",
+    "proxmox",
+    "self-hosted"
+  ],
   "star_count": 57,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-03T00:00:54Z",
-  "updated_at": "2026-08-21T01:54:05Z",
-  "pushed_at": "2026-08-30T20:18:03Z",
+  "updated_at": "2026-09-10T03:12:13Z",
+  "pushed_at": "2026-09-10T03:12:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -109,6 +117,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 57
+    },
+    {
+      "date": "2026-09-11",
       "stars": 57
     }
   ]

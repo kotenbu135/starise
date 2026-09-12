@@ -7,7 +7,7 @@
   "description_ja": "クリップボード対応のアップロードハブ。Typora、Snipaste、VSCode との相性良好。",
   "url": "https://github.com/pluveto/upgit",
   "homepage_url": "",
-  "language": "Go",
+  "language": "Rust",
   "license": "MIT",
   "topics": [
     "chevereto",
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-28T09:21:24Z",
-  "updated_at": "2026-08-25T15:26:28Z",
-  "pushed_at": "2026-06-30T12:00:11Z",
+  "updated_at": "2026-09-09T05:15:10Z",
+  "pushed_at": "2026-09-02T01:29:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +404,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 628
+    },
+    {
+      "date": "2026-09-11",
       "stars": 628
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "xingwudao",
   "name": "xquant-beginner",
   "full_name": "xingwudao/xquant-beginner",
-  "description": "《XQuant：人人都是量化交易员》开源书稿",
+  "description": "《XQuant：人人都是量化交易员》量化交易入门与自学开源书：用 AI 和 Python 从零跑通策略回测、风险评估、交易执行和因子研究。",
   "description_ja": "",
   "url": "https://github.com/xingwudao/xquant-beginner",
   "homepage_url": "https://xingwudao.github.io/xquant-beginner/",
@@ -11,18 +11,29 @@
   "license": "NOASSERTION",
   "topics": [
     "ai",
+    "ai-quant",
+    "algorithmic-trading",
+    "backtesting",
+    "beginner-friendly",
+    "finance",
+    "fintech",
     "gitbook",
+    "python",
     "quant",
+    "quant-finance",
+    "quantitative-trading",
     "trading",
+    "trading-strategy",
+    "tutorial",
     "vitepress"
   ],
-  "star_count": 703,
-  "fork_count": 154,
+  "star_count": 715,
+  "fork_count": 155,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T07:08:36Z",
-  "updated_at": "2026-08-26T11:43:45Z",
-  "pushed_at": "2026-07-14T15:00:38Z",
+  "updated_at": "2026-09-09T05:00:57Z",
+  "pushed_at": "2026-09-02T03:05:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -212,6 +223,10 @@
     {
       "date": "2026-08-30",
       "stars": 703
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 715
     }
   ]
 }

@@ -3,20 +3,20 @@
   "owner": "anrlm",
   "name": "dotfiles",
   "full_name": "anrlm/dotfiles",
-  "description": "面向 Apple Silicon macOS 的个人配置仓库。配置文件保存在 Git 中，并通过符号链接部署到 ~/.config",
+  "description": "Apple Silicon macOS 的个人配置，通过符号链接部署到 ~/.config。",
   "description_ja": "",
   "url": "https://github.com/ANRlm/dotfiles",
   "homepage_url": "",
-  "language": "GLSL",
+  "language": "Shell",
   "license": "",
   "topics": [],
-  "star_count": 29,
+  "star_count": 28,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-27T15:09:38Z",
-  "updated_at": "2026-08-28T10:50:44Z",
-  "pushed_at": "2026-08-28T10:50:35Z",
+  "updated_at": "2026-09-06T15:31:22Z",
+  "pushed_at": "2026-09-06T15:31:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -186,6 +186,10 @@
     {
       "date": "2026-08-30",
       "stars": 29
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 28
     }
   ]
 }

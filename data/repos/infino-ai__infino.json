@@ -10,27 +10,32 @@
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "approximate-nearest-neighbor",
     "bm25",
     "embedded-database",
+    "embeddings",
     "full-text-search",
     "hybrid-search",
+    "information-retrieval",
+    "nearest-neighbor-search",
     "object-storage",
     "parquet",
     "rag",
     "retrieval",
     "rust",
     "search-engine",
+    "semantic-search",
     "sql",
     "vector-database",
     "vector-search"
   ],
-  "star_count": 75,
-  "fork_count": 19,
+  "star_count": 80,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-19T10:00:40Z",
-  "updated_at": "2026-08-30T20:09:22Z",
-  "pushed_at": "2026-08-30T20:08:07Z",
+  "updated_at": "2026-09-11T14:33:41Z",
+  "pushed_at": "2026-09-11T14:33:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -172,6 +177,10 @@
     {
       "date": "2026-08-30",
       "stars": 75
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 80
     }
   ]
 }

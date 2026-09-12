@@ -3,7 +3,7 @@
   "owner": "genseeai",
   "name": "gensee-crate",
   "full_name": "genseeai/gensee-crate",
-  "description": "Run AI harnesses like Claude Code, Codex, Copilot, Antigravity, and Omnigent in disposable workspace forks. Review, merge, or roll back changes with policy enforcement and provenance.",
+  "description": "Operation-bound protection for autonomous AI agents: contain and verify operations before committing changes, understand intent and risk across long-running work, and detect threats across agent and system activity.",
   "description_ja": "",
   "url": "https://github.com/GenseeAI/gensee-crate",
   "homepage_url": "https://crate-docs.gensee.ai/",
@@ -18,20 +18,20 @@
     "ai-security",
     "antigravity",
     "claude-code",
+    "claude-cowork",
     "codex",
-    "coding-agents",
     "copilot",
     "macos",
     "runtime-security",
     "rust"
   ],
-  "star_count": 122,
-  "fork_count": 11,
+  "star_count": 124,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-23T18:30:24Z",
-  "updated_at": "2026-08-30T18:00:25Z",
-  "pushed_at": "2026-08-27T16:44:50Z",
+  "updated_at": "2026-09-10T21:56:19Z",
+  "pushed_at": "2026-09-07T08:38:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -209,6 +209,10 @@
     {
       "date": "2026-08-30",
       "stars": 122
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 124
     }
   ]
 }

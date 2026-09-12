@@ -3,20 +3,26 @@
   "owner": "openmoss",
   "name": "swe-bench-science",
   "full_name": "openmoss/swe-bench-science",
-  "description": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
+  "description": "A benchmark for testing whether coding agents can resolve engineering tasks in scientific software",
   "description_ja": "",
   "url": "https://github.com/OpenMOSS/SWE-bench-Science",
-  "homepage_url": "",
+  "homepage_url": "https://swescience.github.io/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 74,
-  "fork_count": 1,
+  "topics": [
+    "benchmark",
+    "coding-agents",
+    "llm-evaluation",
+    "scientific-computing",
+    "software-engineering"
+  ],
+  "star_count": 80,
+  "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-14T08:32:47Z",
-  "updated_at": "2026-08-30T15:26:29Z",
-  "pushed_at": "2026-08-25T14:36:54Z",
+  "updated_at": "2026-09-10T14:34:49Z",
+  "pushed_at": "2026-09-06T17:19:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +40,10 @@
     {
       "date": "2026-08-30",
       "stars": 74
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 80
     }
   ]
 }

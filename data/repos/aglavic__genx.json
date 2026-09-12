@@ -3,20 +3,25 @@
   "owner": "aglavic",
   "name": "genx",
   "full_name": "aglavic/genx",
-  "description": "",
+  "description": "GenX is a scientific program to refine x-ray refelcetivity, neutron reflectivity and surface x-ray diffraction data using the differential evolution algorithm. GenX is very modular and highly extensible and can be used as a general fitting program.",
   "description_ja": "",
   "url": "https://github.com/aglavic/genx",
-  "homepage_url": "",
+  "homepage_url": "https://aglavic.github.io/genx/",
   "language": "Python",
   "license": "GPL-3.0",
-  "topics": [],
+  "topics": [
+    "neutron",
+    "reflectometry",
+    "science",
+    "x-ray"
+  ],
   "star_count": 31,
-  "fork_count": 10,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-02-15T15:20:30Z",
-  "updated_at": "2026-08-27T09:36:38Z",
-  "pushed_at": "2026-08-25T14:17:16Z",
+  "updated_at": "2026-09-11T08:52:06Z",
+  "pushed_at": "2026-09-11T08:52:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -325,6 +330,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 31
+    },
+    {
+      "date": "2026-09-11",
       "stars": 31
     }
   ]

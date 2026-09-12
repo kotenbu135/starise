@@ -3,7 +3,7 @@
   "owner": "astro-han",
   "name": "pawwork",
   "full_name": "astro-han/pawwork",
-  "description": "PawWork — free, open-source desktop AI agent for macOS and Windows. Alternative to Codex App and Claude Cowork. BYOK with 75+ providers, ChatGPT OAuth, local models, Office files. No terminal needed.",
+  "description": "PawWork — free, open-source desktop AI agent for macOS and Windows, built on DeepSeek Harness (DSH). Free models included, no API key or terminal. Office files, web search, and scheduled automations out of the box. An open alternative to Codex App and Claude Cowork.",
   "description_ja": "",
   "url": "https://github.com/Astro-Han/pawwork",
   "homepage_url": "https://pawwork.ai",
@@ -13,30 +13,31 @@
     "ai-agent",
     "ai-desktop-app",
     "ai-tools",
-    "byok",
     "chatgpt-alternative",
-    "chatgpt-oauth",
     "claude-desktop-alternative",
     "codex-alternative",
+    "deepseek-harness",
     "desktop-ai-agent",
     "desktop-app",
     "document-ai",
+    "dsh",
+    "dsh-desktop",
     "electron",
     "local-ai",
     "macos",
+    "office-automation",
     "open-source",
     "opencode",
     "productivity",
-    "solidjs",
     "windows"
   ],
-  "star_count": 110,
-  "fork_count": 14,
+  "star_count": 141,
+  "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-14T02:12:52Z",
-  "updated_at": "2026-08-29T07:10:04Z",
-  "pushed_at": "2026-08-29T05:53:11Z",
+  "updated_at": "2026-09-11T18:36:39Z",
+  "pushed_at": "2026-09-10T17:12:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -390,6 +391,10 @@
     {
       "date": "2026-08-30",
       "stars": 110
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 141
     }
   ]
 }

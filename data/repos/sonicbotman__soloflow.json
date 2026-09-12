@@ -3,35 +3,31 @@
   "owner": "sonicbotman",
   "name": "soloflow",
   "full_name": "sonicbotman/soloflow",
-  "description": "Complete ETCLOVG framework for AI Agent workflows - DAG+FSM orchestration, Ebbinghaus memory, discipline routing, skill evolution, trace system, governance. 80+ tests, zero deps, 7/7 layers.",
+  "description": "DAG workflow engine for AI agents - DAG+FSM orchestration, pluggable step executors, three-tier memory (LRU/FTS5/semantic), automatic skill evolution. 74 tests, zero runtime deps.",
   "description_ja": "",
   "url": "https://github.com/SonicBotMan/SoloFlow",
-  "homepage_url": "https://sonicbotman.github.io/SoloFlow/",
+  "homepage_url": "",
   "language": "Python",
-  "license": "",
+  "license": "MIT",
   "topics": [
-    "agent-harness",
     "ai-agent",
-    "cognitive-memory",
     "dag",
-    "etclovg",
-    "forgetting-curve",
     "fsm",
-    "mcp",
-    "memory",
-    "open-source",
-    "orchestration",
+    "hermes",
+    "memory-system",
     "python",
-    "state-machine",
-    "workflow"
+    "skill-evolution",
+    "task-scheduler",
+    "workflow-engine",
+    "workflow-orchestration"
   ],
   "star_count": 67,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-05T08:56:52Z",
-  "updated_at": "2026-07-20T19:41:17Z",
-  "pushed_at": "2026-05-31T20:04:04Z",
+  "updated_at": "2026-09-04T09:51:38Z",
+  "pushed_at": "2026-09-04T09:50:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -308,6 +304,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 67
+    },
+    {
+      "date": "2026-09-11",
       "stars": 67
     }
   ]

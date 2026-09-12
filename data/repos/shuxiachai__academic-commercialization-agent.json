@@ -3,7 +3,7 @@
   "owner": "shuxiachai",
   "name": "academic-commercialization-agent",
   "full_name": "shuxiachai/academic-commercialization-agent",
-  "description": "Turn any research paper into a commercialization report — 6 AI agents, TRL/MRL scoring, patent landscape, market intelligence, verified citations. DeepSeek / OpenAI / Claude.",
+  "description": "Evidence-constrained commercialization assessment with deterministic retrieval, six LLM stages, auditable scoring and checkpoint recovery.",
   "description_ja": "",
   "url": "https://github.com/shuxiachai/academic-commercialization-agent",
   "homepage_url": "",
@@ -26,13 +26,13 @@
     "technology-transfer",
     "trl"
   ],
-  "star_count": 725,
+  "star_count": 807,
   "fork_count": 100,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-25T07:43:09Z",
-  "updated_at": "2026-08-30T14:13:54Z",
-  "pushed_at": "2026-08-30T13:56:17Z",
+  "updated_at": "2026-09-11T08:16:33Z",
+  "pushed_at": "2026-09-11T07:57:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -102,6 +102,10 @@
     {
       "date": "2026-08-30",
       "stars": 725
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 807
     }
   ]
 }

@@ -3,20 +3,20 @@
   "owner": "pcb9382",
   "name": "platerecognition",
   "full_name": "pcb9382/platerecognition",
-  "description": "高性能 高精度 大陆车牌、港澳车牌、台湾车牌 韩国车牌(South Korea LPR)识别  代码开源，方便移植嵌入式和安卓端使用，支持12种车牌识别，支持港澳车牌识别，支持大角度车牌识别，准确率高达99%+",
+  "description": "高性能 高精度 大陆车牌、港澳车牌、台湾车牌、韩国车牌、美国、欧盟车牌识别 代码开源，方便移植嵌入式、安卓、鸿蒙、IOS端使用，支持大角度车牌识别，准确率高达99%+ High-Performance, High-Accuracy License Plate Recognition  Supports license plate recognition for Mainland China, Hong Kong, Macao, Taiwan, South Korea, the United States, and the European Union. ",
   "description_ja": "",
   "url": "https://github.com/pcb9382/PlateRecognition",
-  "homepage_url": "http://zhoujiayao.com:8200/",
+  "homepage_url": "http://vision.zhoujiayao.com/home",
   "language": "C++",
   "license": "MIT",
   "topics": [],
-  "star_count": 561,
+  "star_count": 565,
   "fork_count": 84,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-06T13:39:18Z",
-  "updated_at": "2026-08-29T15:58:05Z",
-  "pushed_at": "2026-08-25T04:24:30Z",
+  "updated_at": "2026-09-08T07:18:41Z",
+  "pushed_at": "2026-09-02T03:02:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -38,6 +38,10 @@
     {
       "date": "2026-08-30",
       "stars": 561
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 565
     }
   ]
 }

@@ -3,20 +3,29 @@
   "owner": "francoeur003",
   "name": "replication",
   "full_name": "francoeur003/replication",
-  "description": "One video in, three publishable replica videos out — Replication desktop skill workbench.",
+  "description": "ReplicaPilot — one video in, three controlled AI video variants out. Creator: 阿波 Nate · 抖音 53691197416.",
   "description_ja": "",
   "url": "https://github.com/francoeur003/replication",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "",
-  "topics": [],
-  "star_count": 60,
+  "topics": [
+    "ai-video",
+    "desktop-app",
+    "electron",
+    "minimax-h3",
+    "replicapilot",
+    "seedance",
+    "video-generation",
+    "video-replication"
+  ],
+  "star_count": 63,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-29T13:31:23Z",
-  "updated_at": "2026-08-30T14:19:41Z",
-  "pushed_at": "2026-08-07T02:50:23Z",
+  "updated_at": "2026-09-08T15:38:13Z",
+  "pushed_at": "2026-09-08T15:28:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -70,6 +79,10 @@
     {
       "date": "2026-08-30",
       "stars": 60
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 63
     }
   ]
 }

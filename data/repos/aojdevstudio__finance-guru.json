@@ -3,20 +3,31 @@
   "owner": "aojdevstudio",
   "name": "finance-guru",
   "full_name": "aojdevstudio/finance-guru",
-  "description": "Finance Guru™ - AI-powered family office system built on BMAD-CORE™ v6 architecture",
-  "description_ja": "[22] Finance Guru™ - BMAD-CORE™ v6アーキテクチャ上に構築されたAI駆動のファミリーオフィスシステム",
+  "description": "Self-hosted family office engine: typed Python calculators, a private SQLite ledger, and specialist agents for Claude Code and Codex. Agents propose. Typed code computes.",
+  "description_ja": "",
   "url": "https://github.com/AojdevStudio/Finance-Guru",
-  "homepage_url": "",
+  "homepage_url": "https://aojdevstudio.github.io/Finance-Guru/",
   "language": "Python",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 316,
-  "fork_count": 109,
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "codex",
+    "family-office",
+    "open-core",
+    "personal-finance",
+    "portfolio-analysis",
+    "pydantic",
+    "python",
+    "sqlite"
+  ],
+  "star_count": 317,
+  "fork_count": 107,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-18T23:50:19Z",
-  "updated_at": "2026-08-26T05:29:33Z",
-  "pushed_at": "2026-08-11T19:37:27Z",
+  "updated_at": "2026-09-10T20:06:44Z",
+  "pushed_at": "2026-09-10T20:06:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +405,10 @@
     {
       "date": "2026-08-30",
       "stars": 316
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 317
     }
   ]
 }

@@ -3,25 +3,25 @@
   "owner": "rapidsai",
   "name": "rmm",
   "full_name": "rapidsai/rmm",
-  "description": "RAPIDS Memory Manager",
-  "description_ja": "RAPIDS メモリマネージャ",
+  "description": "NVIDIA RMM is a library for allocating and managing GPU memory in C++ and Python.",
+  "description_ja": "",
   "url": "https://github.com/rapidsai/rmm",
-  "homepage_url": "https://docs.rapids.ai/api/rmm/stable/",
+  "homepage_url": "https://docs.nvidia.com/rmm/",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [
     "cuda",
+    "gpu",
     "memory-allocation",
-    "memory-management",
-    "rapids"
+    "memory-management"
   ],
-  "star_count": 724,
+  "star_count": 728,
   "fork_count": 257,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-12-05T03:13:32Z",
-  "updated_at": "2026-08-28T06:29:27Z",
-  "pushed_at": "2026-08-28T06:28:53Z",
+  "updated_at": "2026-09-11T22:18:29Z",
+  "pushed_at": "2026-09-10T15:12:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -399,6 +399,10 @@
     {
       "date": "2026-08-30",
       "stars": 724
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 728
     }
   ]
 }

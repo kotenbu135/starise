@@ -11,11 +11,13 @@
   "license": "UPL-1.0",
   "topics": [
     "ai-agents",
+    "autonomous-database",
     "embeddings",
     "generative-ai",
     "hnsw",
     "oracle",
     "oracle-ai-database",
+    "oracle-ai-vector-search",
     "oracle-database",
     "python",
     "python-sdk",
@@ -24,17 +26,18 @@
     "semantic-search",
     "similarity-search",
     "vector-database",
+    "vector-db",
     "vector-search",
     "vector-store",
     "vectors"
   ],
-  "star_count": 65,
+  "star_count": 70,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-27T15:24:42Z",
-  "updated_at": "2026-08-24T12:16:19Z",
-  "pushed_at": "2026-08-19T19:49:45Z",
+  "updated_at": "2026-09-10T10:48:17Z",
+  "pushed_at": "2026-09-10T11:35:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -68,6 +71,10 @@
     {
       "date": "2026-08-30",
       "stars": 65
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 70
     }
   ]
 }

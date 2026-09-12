@@ -6,7 +6,7 @@
   "description": "Cloudflare Turnstile integration for React.",
   "description_ja": "React 向け Cloudflare Turnstile 統合ライブラリ。",
   "url": "https://github.com/marsidev/react-turnstile",
-  "homepage_url": "https://www.npmjs.com/package/@marsidev/react-turnstile",
+  "homepage_url": "https://turnstile.marsidev.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -14,13 +14,13 @@
     "cloudflare",
     "turnstile"
   ],
-  "star_count": 840,
+  "star_count": 843,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-10-16T22:25:20Z",
-  "updated_at": "2026-08-26T23:24:16Z",
-  "pushed_at": "2026-08-26T23:16:50Z",
+  "updated_at": "2026-09-11T22:26:08Z",
+  "pushed_at": "2026-09-11T22:26:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +398,10 @@
     {
       "date": "2026-08-30",
       "stars": 840
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 843
     }
   ]
 }

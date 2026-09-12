@@ -11,22 +11,32 @@
   "license": "Apache-2.0",
   "topics": [
     "agent-isolation",
+    "agent-orchestration",
     "agent-sandbox",
     "ai-agents",
     "ai-security",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agent",
     "hermetic-builds",
+    "multiplexer",
     "package-manager",
     "reproducible-builds",
     "reproducible-environments",
-    "supply-chain-security"
+    "supply-chain-security",
+    "terminal-multiplexer",
+    "terminal-ui",
+    "tui",
+    "workspace-manager"
   ],
-  "star_count": 71,
+  "star_count": 77,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-13T18:52:15Z",
-  "updated_at": "2026-08-29T18:26:19Z",
-  "pushed_at": "2026-08-30T10:32:32Z",
+  "updated_at": "2026-09-11T21:54:22Z",
+  "pushed_at": "2026-09-11T22:25:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -60,6 +70,10 @@
     {
       "date": "2026-08-30",
       "stars": 71
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 77
     }
   ]
 }

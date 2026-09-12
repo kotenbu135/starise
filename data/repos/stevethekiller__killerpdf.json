@@ -3,31 +3,41 @@
   "owner": "stevethekiller",
   "name": "killerpdf",
   "full_name": "stevethekiller/killerpdf",
-  "description": "Free and open-source PDF editor for Windows. View, annotate, OCR, merge, split, crop, rotate, compare, edit text, draw, sign, fill forms, print, flatten, and open password-protected PDFs without a subscription.",
+  "description": "Free and open-source PDF editor for Windows with a built-in PDF 2.0 engine. View, annotate, OCR, merge, split, crop, rotate, compare, edit text, draw, sign, fill forms, print, flatten, and open password-protected PDFs without a subscription.",
   "description_ja": "",
   "url": "https://github.com/SteveTheKiller/KillerPDF",
   "homepage_url": "https://KillerPDF.net",
   "language": "C#",
   "license": "GPL-3.0",
   "topics": [
+    "csharp",
     "dotnet",
+    "dotnet-core",
     "fast",
     "gplv3",
+    "ocr",
+    "open-source",
     "opensource",
     "pdf",
+    "pdf-2-0",
+    "pdf-annotator",
     "pdf-editor",
+    "pdf-engine",
+    "pdf-reader",
+    "pdf-viewer",
+    "pdfa",
     "portable",
     "small",
     "windows",
     "wpf"
   ],
-  "star_count": 3706,
-  "fork_count": 287,
+  "star_count": 3827,
+  "fork_count": 300,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-16T01:44:04Z",
-  "updated_at": "2026-08-30T21:28:55Z",
-  "pushed_at": "2026-08-30T20:07:10Z",
+  "updated_at": "2026-09-11T21:56:52Z",
+  "pushed_at": "2026-09-11T19:13:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +415,10 @@
     {
       "date": "2026-08-30",
       "stars": 3706
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 3827
     }
   ]
 }

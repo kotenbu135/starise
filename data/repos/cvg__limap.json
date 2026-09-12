@@ -3,29 +3,32 @@
   "owner": "cvg",
   "name": "limap",
   "full_name": "cvg/limap",
-  "description": "A toolbox for mapping and localization with line features.",
-  "description_ja": "線特徴を用いたマッピングおよび自己位置推定のためのツールボックス",
+  "description": "A toolbox for 3D visual mapping, localization, and SfM with structured geometric features (points, lines, planes, vanishing points, wireframes, etc.).",
+  "description_ja": "",
   "url": "https://github.com/cvg/limap",
   "homepage_url": "",
-  "language": "Python",
+  "language": "C++",
   "license": "BSD-3-Clause",
   "topics": [
     "3d-reconstruction",
     "bundle-adjustment",
+    "holistic-reconstruction",
     "line-detection",
     "line-mapping",
     "line-matchng",
     "multi-view-geometry",
+    "plane-detection",
+    "plane-reconstruction",
     "vanishing-points",
     "visual-localization"
   ],
-  "star_count": 878,
-  "fork_count": 98,
+  "star_count": 885,
+  "fork_count": 97,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-21T14:36:11Z",
-  "updated_at": "2026-08-30T11:03:56Z",
-  "pushed_at": "2025-12-11T16:30:57Z",
+  "updated_at": "2026-09-11T04:52:05Z",
+  "pushed_at": "2026-09-05T14:27:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +406,10 @@
     {
       "date": "2026-08-30",
       "stars": 878
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 885
     }
   ]
 }

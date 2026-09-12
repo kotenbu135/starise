@@ -3,28 +3,32 @@
   "owner": "shaharia-lab",
   "name": "slackcli",
   "full_name": "shaharia-lab/slackcli",
-  "description": "Slack CLI - Command-line tool for interacting with Slack workspaces and channels. AI-friendly with structured output formats (JSON, table, text) designed for easy integration with AI tools and automation workflows.",
+  "description": "Slack CLI for humans and AI agents. Read, send, search and reply across one or many Slack workspaces from the terminal. No Slack app needed.",
   "description_ja": "",
   "url": "https://github.com/shaharia-lab/slackcli",
-  "homepage_url": "",
+  "homepage_url": "https://slackcli.dev/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "ai-agents",
     "ai-tools",
     "automation",
+    "bun",
     "cli",
-    "golang",
+    "developer-tools",
     "slack",
     "slack-api",
-    "slack-cli"
+    "slack-cli",
+    "terminal",
+    "typescript"
   ],
-  "star_count": 136,
-  "fork_count": 44,
+  "star_count": 152,
+  "fork_count": 47,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-09T17:21:54Z",
-  "updated_at": "2026-08-30T20:03:15Z",
-  "pushed_at": "2026-08-30T20:03:06Z",
+  "updated_at": "2026-09-11T23:03:35Z",
+  "pushed_at": "2026-09-10T13:05:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +98,10 @@
     {
       "date": "2026-08-30",
       "stars": 136
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 152
     }
   ]
 }

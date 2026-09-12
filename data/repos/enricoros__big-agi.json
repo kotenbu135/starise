@@ -7,7 +7,7 @@
   "description_ja": "最先端モデルを搭載したAIスイート。AIペルソナ、AGI機能、マルチモデルチャット、テキストから画像生成、音声、ストリーミング応答、コードの強調表示と実行、PDF取り込み、開発者向けプリセット等を提供。オンプレミスまたはクラウドにデプロイ可能",
   "url": "https://github.com/enricoros/big-AGI",
   "homepage_url": "https://big-agi.com",
-  "language": "",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "agi",
@@ -29,13 +29,13 @@
     "sonnet-4-5",
     "xai-api"
   ],
-  "star_count": 7107,
-  "fork_count": 1596,
+  "star_count": 7120,
+  "fork_count": 1595,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-19T04:50:47Z",
-  "updated_at": "2026-08-30T09:53:44Z",
-  "pushed_at": "2026-08-30T09:04:07Z",
+  "updated_at": "2026-09-11T20:10:15Z",
+  "pushed_at": "2026-09-09T23:03:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -413,6 +413,10 @@
     {
       "date": "2026-08-30",
       "stars": 7107
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 7120
     }
   ]
 }

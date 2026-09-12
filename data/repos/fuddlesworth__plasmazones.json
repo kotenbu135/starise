@@ -3,7 +3,7 @@
   "owner": "fuddlesworth",
   "name": "plasmazones",
   "full_name": "fuddlesworth/plasmazones",
-  "description": "FancyZones-style window tiling for KDE Plasma",
+  "description": "Window snapping, tiling and scrolling for KDE Plasma",
   "description_ja": "",
   "url": "https://github.com/fuddlesworth/PlasmaZones",
   "homepage_url": "https://phosphor-works.github.io/plasmazones/",
@@ -15,19 +15,25 @@
     "kde-plasma-6",
     "kwin",
     "kwin-effect",
+    "linux",
+    "niri",
     "powertoys",
     "qt6",
+    "scrolling",
+    "scrolling-window-manager",
+    "shader-effects",
+    "shaders",
     "tiling",
     "tiling-window-manager",
     "zones"
   ],
-  "star_count": 325,
+  "star_count": 332,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-15T01:50:21Z",
-  "updated_at": "2026-08-30T21:38:37Z",
-  "pushed_at": "2026-08-30T21:38:29Z",
+  "updated_at": "2026-09-11T19:25:36Z",
+  "pushed_at": "2026-09-11T21:50:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -133,6 +139,10 @@
     {
       "date": "2026-08-30",
       "stars": 325
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 332
     }
   ]
 }

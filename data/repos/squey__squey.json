@@ -3,34 +3,40 @@
   "owner": "squey",
   "name": "squey",
   "full_name": "squey/squey",
-  "description": "Squey is an open-source cross-platform visualization software designed to interactively explore and understand large amounts of tabular data (this is the read-only mirror of https://gitlab.com/squey/squey)",
+  "description": "Squey is an open-source cross-platform visualization software designed to interactively explore and understand large amounts of tabular data.",
   "description_ja": "",
   "url": "https://github.com/squey/squey",
   "homepage_url": "https://squey.org",
   "language": "C++",
   "license": "MIT",
   "topics": [
-    "cybersecurity",
-    "data-analysis",
-    "data-science",
-    "data-visualization",
-    "exploratory-data-visualizations",
-    "parallel-coordinates",
-    "parquet",
-    "parquet-files",
-    "parquet-viewer",
-    "pcap",
-    "timeseries",
-    "timeseries-analysis",
-    "visualization"
+    "anomaly-detection",
+    "apache-arrow",
+    "apache-parquet",
+    "big-data",
+    "cpp",
+    "cpu",
+    "csv",
+    "cybersecurity-tools",
+    "data-analysis-project",
+    "data-exploration",
+    "data-science-project",
+    "data-vizualisation",
+    "gpu",
+    "logs",
+    "parallel-coordinates-plot",
+    "pcap-analyzer",
+    "qt",
+    "time-series",
+    "visualizations"
   ],
-  "star_count": 40,
+  "star_count": 41,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-06-03T09:35:42Z",
-  "updated_at": "2026-08-29T07:32:47Z",
-  "pushed_at": "2026-08-29T07:32:40Z",
+  "updated_at": "2026-09-11T14:28:07Z",
+  "pushed_at": "2026-09-11T14:27:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -104,6 +110,10 @@
     {
       "date": "2026-08-30",
       "stars": 40
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 41
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "polydera",
   "name": "trueform",
   "full_name": "polydera/trueform",
-  "description": "The STL for geometry. Fast and exact mesh booleans, spatial queries, arrangements, and remeshing. C++ with Python and TypeScript bindings.",
+  "description": "The CSG engine. Fast and exact mesh booleans, spatial queries, arrangements, and remeshing. C++ with Python and TypeScript bindings.",
   "description_ja": "",
   "url": "https://github.com/polydera/trueform",
   "homepage_url": "https://polydera.com/trueform",
@@ -21,13 +21,13 @@
     "typescript",
     "wasm"
   ],
-  "star_count": 136,
+  "star_count": 138,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-19T16:45:52Z",
-  "updated_at": "2026-08-20T02:38:46Z",
-  "pushed_at": "2026-07-28T08:12:18Z",
+  "updated_at": "2026-09-11T12:52:54Z",
+  "pushed_at": "2026-09-04T12:13:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -349,6 +349,10 @@
     {
       "date": "2026-08-30",
       "stars": 136
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 138
     }
   ]
 }

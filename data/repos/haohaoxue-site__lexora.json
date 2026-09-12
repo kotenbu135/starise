@@ -3,20 +3,30 @@
   "owner": "haohaoxue-site",
   "name": "lexora",
   "full_name": "haohaoxue-site/lexora",
-  "description": "Lexora — AI-native docs / AI 文档工作台",
+  "description": "Lexora — Personal AI workspace built around Desktop / 以 Desktop 为核心的个人 AI 工作台",
   "description_ja": "",
   "url": "https://github.com/haohaoxue-site/Lexora",
-  "homepage_url": "https://docs.haohaoxue.site/",
+  "homepage_url": "https://haohaoxue-site.github.io/Lexora/",
   "language": "TypeScript",
   "license": "AGPL-3.0",
-  "topics": [],
-  "star_count": 112,
-  "fork_count": 1,
+  "topics": [
+    "ai-agent",
+    "ai-workspaces",
+    "desktop-app",
+    "electron",
+    "personal-assistant",
+    "pi",
+    "pi-desktop",
+    "pi-linux-desktop",
+    "typescript"
+  ],
+  "star_count": 149,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T16:50:22Z",
-  "updated_at": "2026-08-30T18:21:41Z",
-  "pushed_at": "2026-08-30T15:47:12Z",
+  "updated_at": "2026-09-11T07:51:54Z",
+  "pushed_at": "2026-09-11T08:04:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -278,6 +288,10 @@
     {
       "date": "2026-08-30",
       "stars": 112
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 149
     }
   ]
 }

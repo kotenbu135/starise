@@ -3,7 +3,7 @@
   "owner": "nucleoidai",
   "name": "nucleoid",
   "full_name": "nucleoidai/nucleoid",
-  "description": "Logic Language for LLMs 🌱🐋 Build World Models 🌍",
+  "description": "Logic Language for World Models 🌱🐋🌍",
   "description_ja": "",
   "url": "https://github.com/NucleoidAI/Nucleoid",
   "homepage_url": "https://nucleoid.ai",
@@ -20,16 +20,17 @@
     "programming-language",
     "reasoning",
     "reasoning-engine",
+    "symbolic-world-models",
     "world-model",
     "world-models"
   ],
   "star_count": 769,
-  "fork_count": 32,
+  "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-07-11T12:51:51Z",
-  "updated_at": "2026-08-30T20:58:35Z",
-  "pushed_at": "2026-08-22T07:25:44Z",
+  "updated_at": "2026-09-11T07:17:38Z",
+  "pushed_at": "2026-09-11T03:09:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -406,6 +407,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 769
+    },
+    {
+      "date": "2026-09-11",
       "stars": 769
     }
   ]

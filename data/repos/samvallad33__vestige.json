@@ -10,34 +10,32 @@
   "language": "Rust",
   "license": "AGPL-3.0",
   "topics": [
+    "agent-mcp",
+    "agent-telemetry",
+    "agentic-state-drift",
     "ai-memory",
     "claude",
-    "cognitive-science",
-    "cursor",
-    "embeddings",
+    "claude-code",
+    "context-inflation",
+    "execution-safety",
     "fsrs",
     "local-first",
-    "long-term-memory",
     "mcp",
     "mcp-server",
+    "model-context-protocol",
     "neuroscience",
-    "onnx",
+    "prompt-economics",
     "rust",
     "security",
-    "spaced-repetition",
-    "sqlite",
-    "sveltekit",
-    "threejs",
-    "vscode",
-    "webgpu"
+    "token-efficiency"
   ],
-  "star_count": 614,
-  "fork_count": 62,
+  "star_count": 620,
+  "fork_count": 67,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-25T07:31:09Z",
-  "updated_at": "2026-08-30T21:20:11Z",
-  "pushed_at": "2026-08-30T21:19:30Z",
+  "updated_at": "2026-09-11T18:18:12Z",
+  "pushed_at": "2026-09-10T22:58:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -399,6 +397,10 @@
     {
       "date": "2026-08-30",
       "stars": 614
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 620
     }
   ]
 }

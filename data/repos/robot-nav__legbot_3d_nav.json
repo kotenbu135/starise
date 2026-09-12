@@ -1,0 +1,32 @@
+{
+  "repo_id": "R_kgDOT-X9Hw",
+  "owner": "robot-nav",
+  "name": "legbot_3d_nav",
+  "full_name": "robot-nav/legbot_3d_nav",
+  "description": "四足机器人legbot跨楼层三维导航：集成 FAST-LIO 建图、PCT Planner多层全局规划、EGO/SCAN Planner局部避障与强化学习运动控制，并在 Gazebo 多层楼梯场景完成端到端验证。真机验证中...",
+  "description_ja": "",
+  "url": "https://github.com/Robot-Nav/legbot_3D_Nav",
+  "homepage_url": "https://blog.csdn.net/qq_56908984/article/details/163943949",
+  "language": "C++",
+  "license": "Apache-2.0",
+  "topics": [
+    "ego",
+    "fastlio2",
+    "pct",
+    "scan"
+  ],
+  "star_count": 48,
+  "fork_count": 3,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-08-20T08:36:51Z",
+  "updated_at": "2026-09-11T08:27:32Z",
+  "pushed_at": "2026-09-09T08:34:02Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-11",
+      "stars": 48
+    }
+  ]
+}

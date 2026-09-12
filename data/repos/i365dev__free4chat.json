@@ -3,40 +3,34 @@
   "owner": "i365dev",
   "name": "free4chat",
   "full_name": "i365dev/free4chat",
-  "description": "Free4Chat is a temporary collaboration fabric for Humans and Agents.",
+  "description": "Free4Chat provides the temporary boundary. Participants bring the capabilities.",
   "description_ja": "",
   "url": "https://github.com/i365dev/free4chat",
-  "homepage_url": "https://free4.chat",
+  "homepage_url": "https://www.free4.chat",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "cloud",
+    "ai-agent",
+    "ai-agents",
     "cloudflare",
-    "cloudflare-ai-gateway",
-    "cloudflare-kv",
-    "cloudflare-realtimekit",
     "cloudflare-workers",
+    "collaboration",
     "file-transfer",
-    "nextjs",
-    "p2p",
-    "react",
-    "real-time-collaboration",
-    "real-time-communication",
-    "realtime-web",
-    "realtime-web-application",
+    "mcp",
+    "model-context-protocol",
+    "multi-agent",
     "serverless",
     "sfu",
-    "tailwindcss",
     "voice-chat",
     "webrtc"
   ],
-  "star_count": 1159,
-  "fork_count": 163,
+  "star_count": 1161,
+  "fork_count": 162,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-31T09:13:12Z",
-  "updated_at": "2026-08-30T16:23:45Z",
-  "pushed_at": "2026-08-30T16:23:15Z",
+  "updated_at": "2026-09-11T15:43:38Z",
+  "pushed_at": "2026-09-11T16:24:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -414,6 +408,10 @@
     {
       "date": "2026-08-30",
       "stars": 1159
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1161
     }
   ]
 }

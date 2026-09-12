@@ -3,7 +3,7 @@
   "owner": "aendrix03",
   "name": "graft",
   "full_name": "aendrix03/graft",
-  "description": "Local-first semantic cache for AI agents. A small C daemon + CLI that remembers what your agent learned across sessions. Plugs into Claude Code, Codex, Gemini CLI, and Claude Desktop / ChatGPT via MCP. No LLM calls, no SaaS, no API key.",
+  "description": "Your coding agents forget. Graft doesn't. Persistent local memory that brings back fixes, decisions and project knowledge when they matter — across Claude Code, Codex, ChatGPT and more. Local-first. No SaaS. No API key.",
   "description_ja": "",
   "url": "https://github.com/AEndrix03/Graft",
   "homepage_url": "",
@@ -12,31 +12,25 @@
   "topics": [
     "agent-memory",
     "ai-agents",
-    "bge-m3",
-    "c",
-    "caching",
+    "chatgpt",
     "claude-code",
     "cli",
-    "command-line-tool",
-    "daemon",
-    "embeddings",
+    "codex",
+    "developer-tools",
     "knowledge-graph",
     "llama-cpp",
     "llm-agents",
-    "local-first",
     "mcp",
-    "semantic-cache",
-    "semantic-search",
     "sqlite",
     "sqlite-vec"
   ],
-  "star_count": 11,
+  "star_count": 15,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-06T01:58:18Z",
-  "updated_at": "2026-08-23T20:59:01Z",
-  "pushed_at": "2026-08-23T20:58:52Z",
+  "updated_at": "2026-09-11T13:54:39Z",
+  "pushed_at": "2026-09-11T13:52:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -334,6 +328,10 @@
     {
       "date": "2026-08-30",
       "stars": 11
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 15
     }
   ]
 }

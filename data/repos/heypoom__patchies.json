@@ -3,7 +3,7 @@
   "owner": "heypoom",
   "name": "patchies",
   "full_name": "heypoom/patchies",
-  "description": "Write small programs with tools \u0026 libraries you know and love - and patch them together. Make interactive visuals, sounds and play with computation on the web.",
+  "description": "Write small programs with tools \u0026 libraries you know and patch 'em together. Make interactive widgets, visuals, sounds, and play with computation on the web.",
   "description_ja": "",
   "url": "https://github.com/heypoom/patchies",
   "homepage_url": "https://patchies.app",
@@ -27,16 +27,17 @@
     "strudel",
     "svelte",
     "typescript",
+    "uiua",
     "uxn",
     "xyflow"
   ],
-  "star_count": 196,
-  "fork_count": 10,
+  "star_count": 202,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-19T08:28:54Z",
-  "updated_at": "2026-08-29T14:30:16Z",
-  "pushed_at": "2026-08-30T06:25:13Z",
+  "updated_at": "2026-09-11T16:55:11Z",
+  "pushed_at": "2026-09-11T16:55:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +411,10 @@
     {
       "date": "2026-08-30",
       "stars": 196
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 202
     }
   ]
 }

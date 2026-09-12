@@ -3,7 +3,7 @@
   "owner": "cacheplane",
   "name": "angular-agent-framework",
   "full_name": "cacheplane/angular-agent-framework",
-  "description": "Angular SDK for Building Agentic Apps + Generative UI",
+  "description": "The open-source thread-plane for agents: chat, durable threads, persistence, human approvals, and generative UI for Angular, on LangGraph and AG-UI.",
   "description_ja": "",
   "url": "https://github.com/cacheplane/angular-agent-framework",
   "homepage_url": "https://threadplane.ai",
@@ -16,13 +16,13 @@
     "framework",
     "typescript"
   ],
-  "star_count": 67,
+  "star_count": 68,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T22:45:42Z",
-  "updated_at": "2026-08-30T20:55:05Z",
-  "pushed_at": "2026-08-30T20:53:44Z",
+  "updated_at": "2026-09-10T06:26:27Z",
+  "pushed_at": "2026-09-10T07:19:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -284,6 +284,10 @@
     {
       "date": "2026-08-30",
       "stars": 67
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 68
     }
   ]
 }

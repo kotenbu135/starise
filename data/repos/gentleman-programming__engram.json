@@ -6,17 +6,17 @@
   "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
   "description_ja": "AI コーディングエージェント向けの永続メモリシステム。SQLite + FTS5、MCP サーバー、HTTP API、CLI、TUI を備えたエージェント非依存の Go バイナリ",
   "url": "https://github.com/Gentleman-Programming/engram",
-  "homepage_url": "",
+  "homepage_url": "https://engram.gentlemanprogramming.com/",
   "language": "Go",
   "license": "MIT",
   "topics": [],
-  "star_count": 6237,
-  "fork_count": 661,
+  "star_count": 6531,
+  "fork_count": 681,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-16T13:38:41Z",
-  "updated_at": "2026-08-30T21:56:19Z",
-  "pushed_at": "2026-08-30T16:41:02Z",
+  "updated_at": "2026-09-11T22:11:58Z",
+  "pushed_at": "2026-09-11T21:37:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +394,10 @@
     {
       "date": "2026-08-30",
       "stars": 6237
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 6531
     }
   ]
 }

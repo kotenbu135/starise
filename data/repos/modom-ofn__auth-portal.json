@@ -1,0 +1,39 @@
+{
+  "repo_id": "R_kgDOPhJBGw",
+  "owner": "modom-ofn",
+  "name": "auth-portal",
+  "full_name": "modom-ofn/auth-portal",
+  "description": "Secure SSO portal for Plex, Jellyfin, and Emby users to access internal services, with RBAC, built-in LDAP sync, OAuth/OIDC, audit logs, backups, and a web admin console.",
+  "description_ja": "",
+  "url": "https://github.com/modom-ofn/auth-portal",
+  "homepage_url": "",
+  "language": "Go",
+  "license": "GPL-3.0",
+  "topics": [
+    "authentication",
+    "emby",
+    "golang",
+    "jellyfin",
+    "ldap",
+    "mfa",
+    "oauth2",
+    "oidc",
+    "plex",
+    "rbac",
+    "sso-login"
+  ],
+  "star_count": 99,
+  "fork_count": 1,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2025-08-20T12:07:18Z",
+  "updated_at": "2026-09-06T06:09:25Z",
+  "pushed_at": "2026-08-31T08:54:46Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-11",
+      "stars": 99
+    }
+  ]
+}

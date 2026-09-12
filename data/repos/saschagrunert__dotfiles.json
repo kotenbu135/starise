@@ -3,26 +3,27 @@
   "owner": "saschagrunert",
   "name": "dotfiles",
   "full_name": "saschagrunert/dotfiles",
-  "description": "My hand crafted .dotfiles 🤚🛠❤️",
+  "description": "My hand crafted .dotfiles 🤚 🛠 ❤️",
   "description_ja": "",
   "url": "https://github.com/saschagrunert/dotfiles",
   "homepage_url": "",
-  "language": "Shell",
-  "license": "MIT",
+  "language": "Lua",
+  "license": "Apache-2.0",
   "topics": [
     "dotfiles",
-    "i3",
     "linux",
-    "vim",
-    "vim-plugins"
+    "neovim",
+    "neovim-dotfiles",
+    "sway",
+    "wayland"
   ],
   "star_count": 49,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-12-25T20:28:47Z",
-  "updated_at": "2026-08-28T13:54:20Z",
-  "pushed_at": "2026-08-28T13:50:35Z",
+  "updated_at": "2026-09-11T11:30:38Z",
+  "pushed_at": "2026-09-11T11:30:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +100,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 49
+    },
+    {
+      "date": "2026-09-11",
       "stars": 49
     }
   ]

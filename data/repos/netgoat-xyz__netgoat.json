@@ -6,7 +6,7 @@
   "description": "A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but for free!",
   "description_ja": "ローカルおよびクラウド向けの Cloudflare 代替サービス。Cloudflare の有料機能を無料で利用するために Cloudflare の上位に重ねることも可能。",
   "url": "https://github.com/netgoat-xyz/netgoat",
-  "homepage_url": "https://netgoat.xyz",
+  "homepage_url": "https://netgoat.app",
   "language": "Go",
   "license": "AGPL-3.0",
   "topics": [
@@ -22,13 +22,13 @@
     "tailwindcss",
     "typescript"
   ],
-  "star_count": 892,
+  "star_count": 895,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-01T02:02:32Z",
-  "updated_at": "2026-08-28T13:05:00Z",
-  "pushed_at": "2026-08-28T06:17:27Z",
+  "updated_at": "2026-09-11T10:19:52Z",
+  "pushed_at": "2026-09-04T20:30:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -406,6 +406,10 @@
     {
       "date": "2026-08-30",
       "stars": 892
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 895
     }
   ]
 }

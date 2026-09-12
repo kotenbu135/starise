@@ -3,14 +3,15 @@
   "owner": "azot-labs",
   "name": "okova",
   "full_name": "azot-labs/okova",
-  "description": "Advanced DRM inspection toolkit",
+  "description": "Advanced toolkit for working with protected audio and video content",
   "description_ja": "",
   "url": "https://github.com/azot-labs/okova",
   "homepage_url": "https://npmx.dev/package/okova",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
     "chrome-extension",
+    "clearkey",
     "decryption",
     "drm",
     "encrypted-media",
@@ -21,12 +22,12 @@
     "widevine"
   ],
   "star_count": 64,
-  "fork_count": 15,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-03-19T05:01:31Z",
-  "updated_at": "2026-08-22T20:39:27Z",
-  "pushed_at": "2026-06-07T18:41:31Z",
+  "updated_at": "2026-09-10T19:03:17Z",
+  "pushed_at": "2026-09-08T16:05:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +384,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 64
+    },
+    {
+      "date": "2026-09-11",
       "stars": 64
     }
   ]

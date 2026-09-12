@@ -3,23 +3,28 @@
   "owner": "marketcalls",
   "name": "openalgo-charts",
   "full_name": "marketcalls/openalgo-charts",
-  "description": "Dependency-free TypeScript canvas engine: indicators, drawings, market profile, order flow, replay, multi-chart sync and order entry on the chart. Any broker, any market",
+  "description": "Production-grade charts built for brokers, exchanges, trading platforms, and financial portals.  Bring your own market data, plug it in, and deliver a complete charting experience without building the charting stack from scratch.  Open source. Data-agnostic. Ready to integrate.",
   "description_ja": "",
   "url": "https://github.com/marketcalls/openalgo-charts",
   "homepage_url": "https://marketcalls.github.io/openalgo-charts",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
+    "canvas2d",
     "charting-library",
-    "openalgo-charts"
+    "indicators",
+    "market-profile",
+    "openalgo-charts",
+    "orderflow",
+    "webgl2"
   ],
-  "star_count": 46,
-  "fork_count": 17,
+  "star_count": 57,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-26T19:31:51Z",
-  "updated_at": "2026-08-30T08:54:48Z",
-  "pushed_at": "2026-08-28T03:39:30Z",
+  "updated_at": "2026-09-11T12:17:40Z",
+  "pushed_at": "2026-09-11T08:55:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -81,6 +86,10 @@
     {
       "date": "2026-08-30",
       "stars": 46
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 57
     }
   ]
 }

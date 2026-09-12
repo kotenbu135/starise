@@ -3,40 +3,41 @@
   "owner": "nshiab",
   "name": "simple-data-analysis",
   "full_name": "nshiab/simple-data-analysis",
-  "description": "Easy-to-use and high-performance TypeScript library for data analysis. Works with tabular, geospatial and vector data.",
-  "description_ja": "表形式・地理空間・ベクターデータに対応した、使いやすく高パフォーマンスなデータ分析向けTypeScriptライブラリ",
+  "description": "Fast DuckDB-powered TypeScript library for tabular, geospatial, vector, AI, Google Sheets, and data visualization workflows on Deno, Node.js, and Bun.",
+  "description_ja": "",
   "url": "https://github.com/nshiab/simple-data-analysis",
-  "homepage_url": "",
+  "homepage_url": "https://jsr.io/@nshiab/simple-data-analysis",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "ai",
-    "analysis",
     "bun",
-    "data",
+    "csv",
     "data-analysis",
     "data-science",
+    "data-visualization",
+    "dataframe",
     "deno",
     "duckdb",
     "geospatial",
     "javascript",
     "llm",
     "machine-learning",
-    "node",
-    "node-js",
     "nodejs",
+    "parquet",
     "spatial",
     "spatial-analysis",
     "sql",
-    "typescript"
+    "typescript",
+    "vector-search"
   ],
   "star_count": 356,
   "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-04-26T14:16:54Z",
-  "updated_at": "2026-08-24T16:06:11Z",
-  "pushed_at": "2026-08-28T16:23:30Z",
+  "updated_at": "2026-09-10T20:24:24Z",
+  "pushed_at": "2026-09-10T20:24:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -413,6 +414,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 356
+    },
+    {
+      "date": "2026-09-11",
       "stars": 356
     }
   ]

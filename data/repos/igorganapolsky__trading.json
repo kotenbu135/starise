@@ -3,22 +3,17 @@
   "owner": "igorganapolsky",
   "name": "trading",
   "full_name": "igorganapolsky/trading",
-  "description": "SPY put-credit validation and real-money control plane with broker-backed ledgers, deterministic risk gates, hybrid RAG, reconciliation, and $1k/mo after-tax evidence tracking.",
+  "description": "Paper-only SPY put-credit validation lab. Broker-backed ledgers and hard risk gates. Live capital blocked; no proven edge.",
   "description_ja": "",
   "url": "https://github.com/IgorGanapolsky/trading",
-  "homepage_url": "https://igorganapolsky.github.io/trading/",
+  "homepage_url": "",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "algorithmic-trading",
-    "autonomous-trading",
-    "iron-condor",
-    "machine-learning",
     "options-trading",
     "paper-trading",
+    "put-credit-spreads",
     "python",
-    "quantitative-finance",
-    "rag",
     "risk-management",
     "spy"
   ],
@@ -27,8 +22,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-30T14:44:39Z",
-  "updated_at": "2026-08-30T18:07:52Z",
-  "pushed_at": "2026-08-30T18:07:16Z",
+  "updated_at": "2026-09-11T21:34:03Z",
+  "pushed_at": "2026-09-11T21:34:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -389,6 +384,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 38
+    },
+    {
+      "date": "2026-09-11",
       "stars": 38
     }
   ]

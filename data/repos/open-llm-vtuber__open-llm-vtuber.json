@@ -3,8 +3,8 @@
   "owner": "open-llm-vtuber",
   "name": "open-llm-vtuber",
   "full_name": "open-llm-vtuber/open-llm-vtuber",
-  "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
-  "description_ja": "ハンズフリー音声インタラクション、割り込み発話、ローカルで動作するLive2Dフェイスを使ってあらゆるLLMと会話できるクロスプラットフォームツール",
+  "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D avatar running locally across platforms",
+  "description_ja": "",
   "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
   "homepage_url": "https://open-llm-vtuber.github.io/",
   "language": "Python",
@@ -21,12 +21,12 @@
     "neuro-sama",
     "ollama"
   ],
-  "star_count": 13535,
-  "fork_count": 1607,
+  "star_count": 13707,
+  "fork_count": 1635,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-24T04:55:43Z",
-  "updated_at": "2026-08-30T21:28:09Z",
+  "updated_at": "2026-09-11T22:12:46Z",
   "pushed_at": "2026-05-15T07:18:04Z",
   "deleted_at": "",
   "star_history": [
@@ -405,6 +405,10 @@
     {
       "date": "2026-08-30",
       "stars": 13535
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 13707
     }
   ]
 }

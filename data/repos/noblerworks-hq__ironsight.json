@@ -3,7 +3,7 @@
   "owner": "noblerworks-hq",
   "name": "ironsight",
   "full_name": "noblerworks-hq/ironsight",
-  "description": "Real-time OSINT command center monitoring the Middle East conflict — 50+ live open-source intelligence sources (news, Telegram, military aircraft \u0026 naval tracking, missile alerts, prediction \u0026 defense markets) in one dashboard. No API keys. Free. Next.js + TypeScript.",
+  "description": "Real-time OSINT command center for the Iran/Israel and Russia/Ukraine theaters — 50+ live open-source intelligence sources (news, Telegram, military aircraft \u0026 naval tracking, missile alerts, prediction \u0026 defense markets) in one dashboard. No API keys. Free. Next.js + TypeScript.",
   "description_ja": "",
   "url": "https://github.com/NoblerWorks-HQ/IRONSIGHT",
   "homepage_url": "https://noblerworks.com/",
@@ -21,19 +21,21 @@
     "open-source-intelligence",
     "osint",
     "real-time",
+    "russia",
     "situational-awareness",
     "tailwindcss",
     "telegram",
     "threat-intelligence",
-    "typescript"
+    "typescript",
+    "ukraine"
   ],
-  "star_count": 625,
-  "fork_count": 148,
+  "star_count": 642,
+  "fork_count": 150,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-21T22:52:39Z",
-  "updated_at": "2026-08-30T03:45:51Z",
-  "pushed_at": "2026-08-12T02:26:42Z",
+  "updated_at": "2026-09-11T18:28:53Z",
+  "pushed_at": "2026-09-11T01:53:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -195,6 +197,10 @@
     {
       "date": "2026-08-30",
       "stars": 625
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 642
     }
   ]
 }

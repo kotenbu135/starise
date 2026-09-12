@@ -3,7 +3,7 @@
   "owner": "jjang-ai",
   "name": "vmlx",
   "full_name": "jjang-ai/vmlx",
-  "description": "vMLX - JANGTQ Uber Compressed MLX Models - L2 Disk Cache (survives restart) + L1 Paged (super fast ttft) + Hybrid SSM Scheduler  + Cont Batching + etc!",
+  "description": "vMLX - Use MLX models easily - JANGQ (GGUF for MLX) - Not dependant on mlx_vlm",
   "description_ja": "",
   "url": "https://github.com/jjang-ai/vmlx",
   "homepage_url": "https://vmlx.net",
@@ -30,13 +30,13 @@
     "prefix-cache",
     "vmlx"
   ],
-  "star_count": 835,
-  "fork_count": 83,
+  "star_count": 846,
+  "fork_count": 86,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-18T06:11:55Z",
-  "updated_at": "2026-08-30T21:40:42Z",
-  "pushed_at": "2026-08-30T21:39:13Z",
+  "updated_at": "2026-09-11T19:49:32Z",
+  "pushed_at": "2026-09-11T19:26:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -326,6 +326,10 @@
     {
       "date": "2026-08-30",
       "stars": 835
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 846
     }
   ]
 }

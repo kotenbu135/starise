@@ -6,17 +6,17 @@
   "description": "通过集成国内主流原生大模型提供商，为开发者提供更加丰富、更适合本土需求的 AI 编程助手选择。 目前已内置支持 智谱AI、MiniMax、MoonshotAI、DeepSeek、阿里云百炼、火山方舟、腾讯云、Xiaomi MiMo、百度千帆、阶跃星辰、蚂蚁百灵、讯飞星辰、LongCat 等原生大模型提供商。 此外，扩展插件已适配支持 OpenAI 与 Anthropic 的 API 接口兼容模型，支持自定义接入任何提供兼容接口的第三方云服务模型。",
   "description_ja": "",
   "url": "https://github.com/VicBilibily/GCMP",
-  "homepage_url": "",
+  "homepage_url": "https://gcmp.dev/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [],
-  "star_count": 432,
-  "fork_count": 56,
+  "star_count": 441,
+  "fork_count": 54,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-11T01:13:22Z",
-  "updated_at": "2026-08-30T14:26:43Z",
-  "pushed_at": "2026-08-30T14:26:01Z",
+  "updated_at": "2026-09-11T13:43:51Z",
+  "pushed_at": "2026-09-11T13:36:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -306,6 +306,10 @@
     {
       "date": "2026-08-30",
       "stars": 432
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 441
     }
   ]
 }

@@ -6,24 +6,26 @@
   "description": "轻量化剪贴板管理工具，使用 Rust + GPUI 构建 | Lightweight clipboard manager built with Rust and GPUI.",
   "description_ja": "",
   "url": "https://github.com/Ruszero01/clippi",
-  "homepage_url": "",
+  "homepage_url": "https://clippi.rains-ailurus.cn/",
   "language": "Rust",
   "license": "MIT",
   "topics": [
     "clipboard",
+    "clipboard-manager",
+    "clipboard-sync",
     "gpui",
     "macos",
     "rust",
     "webdav",
     "windows"
   ],
-  "star_count": 332,
-  "fork_count": 8,
+  "star_count": 348,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-23T06:19:33Z",
-  "updated_at": "2026-08-30T08:50:13Z",
-  "pushed_at": "2026-08-26T09:17:16Z",
+  "updated_at": "2026-09-09T07:29:09Z",
+  "pushed_at": "2026-09-09T07:27:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -229,6 +231,10 @@
     {
       "date": "2026-08-30",
       "stars": 332
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 348
     }
   ]
 }

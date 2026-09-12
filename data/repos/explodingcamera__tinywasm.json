@@ -3,8 +3,8 @@
   "owner": "explodingcamera",
   "name": "tinywasm",
   "full_name": "explodingcamera/tinywasm",
-  "description": "A Tiny Webassembly Runtime Written in Rust",
-  "description_ja": "Rustで書かれた小型WebAssemblyランタイム",
+  "description": "A tiny WebAssembly runtime written in safe Rust",
+  "description_ja": "",
   "url": "https://github.com/explodingcamera/tinywasm",
   "homepage_url": "https://tinywasm.dev",
   "language": "Rust",
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-21T15:40:48Z",
-  "updated_at": "2026-08-29T20:20:19Z",
-  "pushed_at": "2026-08-29T20:20:13Z",
+  "updated_at": "2026-09-10T13:41:41Z",
+  "pushed_at": "2026-09-11T12:43:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +398,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 587
+    },
+    {
+      "date": "2026-09-11",
       "stars": 587
     }
   ]

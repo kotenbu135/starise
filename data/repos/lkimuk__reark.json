@@ -3,29 +3,38 @@
   "owner": "lkimuk",
   "name": "reark",
   "full_name": "lkimuk/reark",
-  "description": "鸿蒙 HarmonyOS NEXT APP/HAP/ABC 专业逆向工具，支持反汇编、反编译、交叉引用、Agent智能分析、签名识别、包体浏览、实时投屏、设备操纵、HAP安装等功能。",
+  "description": "An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).",
   "description_ja": "",
   "url": "https://github.com/lkimuk/ReArk",
   "homepage_url": "",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [
+    "aab",
+    "abc",
     "agentic-workflow",
+    "ai-agent",
     "ai-analysis",
-    "blackhat",
+    "android",
+    "apk",
+    "binary-analysis",
     "decompiler",
+    "disassembler",
+    "hap",
+    "harmonyos",
     "harmonyos-next",
+    "malware-analysis",
     "reverse-engineering",
     "security-tools",
-    "vulnerability"
+    "static-analysis"
   ],
-  "star_count": 72,
-  "fork_count": 12,
+  "star_count": 275,
+  "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-29T09:56:01Z",
-  "updated_at": "2026-08-22T11:22:46Z",
-  "pushed_at": "2026-07-16T13:58:39Z",
+  "updated_at": "2026-09-11T22:47:49Z",
+  "pushed_at": "2026-09-10T13:49:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -111,6 +120,10 @@
     {
       "date": "2026-08-30",
       "stars": 72
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 275
     }
   ]
 }

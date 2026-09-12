@@ -3,28 +3,41 @@
   "owner": "gregorwolf1973",
   "name": "easynas-hassio-addon",
   "full_name": "gregorwolf1973/easynas-hassio-addon",
-  "description": "",
+  "description": "Simple NAS for Home Assistant: Samba shares, USB drive management, file browser and backup jobs — with a web interface built right into Home Assistant.",
   "description_ja": "",
   "url": "https://github.com/gregorwolf1973/EasyNas-HASSIO-Addon",
   "homepage_url": "",
   "language": "HTML",
-  "license": "",
+  "license": "MIT",
   "topics": [
+    "cifs",
+    "file-manager",
+    "file-server",
+    "flask",
+    "hassio",
     "hassio-addons",
     "home-assistant",
-    "home-assistant-integration",
+    "home-assistant-addon",
+    "homeassistant-addon",
     "nas",
+    "network-storage",
+    "python",
+    "raspberry-pi",
     "samba",
     "samba-server",
-    "samba-share"
+    "samba-share",
+    "self-hosted",
+    "selfhosted",
+    "smb",
+    "storage"
   ],
   "star_count": 13,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-25T09:21:13Z",
-  "updated_at": "2026-08-30T12:42:31Z",
-  "pushed_at": "2026-08-30T12:42:12Z",
+  "updated_at": "2026-09-05T15:33:41Z",
+  "pushed_at": "2026-09-05T15:33:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -217,6 +230,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 13
+    },
+    {
+      "date": "2026-09-11",
       "stars": 13
     }
   ]

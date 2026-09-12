@@ -3,7 +3,7 @@
   "owner": "mintplex-labs",
   "name": "anythingllm-mobile",
   "full_name": "mintplex-labs/anythingllm-mobile",
-  "description": "Bring local AI intelligence to your device. No rate limits \u0026 local first.",
+  "description": "Own your intelligence on the go. Chat, RAG, Agents, and automations using small models on device. Local first and privacy focused.",
   "description_ja": "",
   "url": "https://github.com/Mintplex-Labs/anythingllm-mobile",
   "homepage_url": "https://anythingllm.com/mobile",
@@ -11,24 +11,26 @@
   "license": "MIT",
   "topics": [
     "agent-harness",
-    "agentic-ai",
     "agents",
     "ai",
+    "ai-agent",
+    "ai-agents",
+    "ai-tools",
     "android",
-    "android-ai",
     "anythingllm",
-    "ios",
     "llm",
+    "local-ai",
+    "local-first",
     "localai",
     "rag"
   ],
-  "star_count": 74,
-  "fork_count": 24,
+  "star_count": 87,
+  "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-20T17:19:35Z",
-  "updated_at": "2026-08-30T09:23:41Z",
-  "pushed_at": "2026-06-02T17:33:32Z",
+  "updated_at": "2026-09-11T21:39:37Z",
+  "pushed_at": "2026-09-11T21:39:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -226,6 +228,10 @@
     {
       "date": "2026-08-30",
       "stars": 74
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 87
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "repo_id": "R_kgDOMHvdGA",
+  "owner": "liuyanqun0815",
+  "name": "langgraph_fly_base",
+  "full_name": "liuyanqun0815/langgraph_fly_base",
+  "description": "基于 LangGraph 1.x 与 FastAPI 的智能贷款销售客服工作流。覆盖问题分类、多轮信息收集与确认、知识库 RAG 问答、双库并行产品推荐和客户转化；Milvus 稠密向量 + SPLADE 稀疏混合检索，支持 Word/PDF/Excel 上传分块；SSE 流式对话，SQLite Checkpoint 持久化会话，模型兼容通义千问与智谱。",
+  "description_ja": "",
+  "url": "https://github.com/liuyanqun0815/langgraph_fly_base",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "",
+  "topics": [
+    "chatbot",
+    "fastiapi",
+    "langchain",
+    "langraph",
+    "milvus",
+    "openai",
+    "qwen",
+    "rag"
+  ],
+  "star_count": 42,
+  "fork_count": 6,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2024-06-11T04:06:00Z",
+  "updated_at": "2026-09-11T13:31:14Z",
+  "pushed_at": "2026-09-07T02:25:20Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-11",
+      "stars": 42
+    }
+  ]
+}

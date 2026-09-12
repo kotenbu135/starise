@@ -6,7 +6,7 @@
   "description": "GPU-accelerated secret scanner for code, Git history, containers, cloud, browser assets, and CI. 923 detectors, live verification, CUDA, Metal, WGPU.",
   "description_ja": "",
   "url": "https://github.com/santhreal/keyhog",
-  "homepage_url": "https://santh.dev/keyhog/",
+  "homepage_url": "https://santhreal.github.io/keyhog/",
   "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
@@ -31,13 +31,13 @@
     "simd",
     "static-analysis"
   ],
-  "star_count": 100,
-  "fork_count": 12,
+  "star_count": 101,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-20T11:21:21Z",
-  "updated_at": "2026-08-30T07:24:20Z",
-  "pushed_at": "2026-08-30T07:24:09Z",
+  "updated_at": "2026-09-11T17:57:56Z",
+  "pushed_at": "2026-09-11T17:57:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-08-30",
       "stars": 100
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 101
     }
   ]
 }

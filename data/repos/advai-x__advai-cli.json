@@ -3,20 +3,30 @@
   "owner": "advai-x",
   "name": "advai-cli",
   "full_name": "advai-x/advai-cli",
-  "description": "Unified CLI for local skills, external CLIs, and terminal AI chat.",
+  "description": "Local-first CLI for agent skills, browser automation, knowledge bases, external CLIs, and terminal AI chat.",
   "description_ja": "",
   "url": "https://github.com/Advai-X/advai-cli",
-  "homepage_url": "https://pypi.org/project/advai-cli/",
+  "homepage_url": "https://advai-x.github.io/advai-cli/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 298,
+  "topics": [
+    "agent-skills",
+    "ai-agents",
+    "automation",
+    "browser-automation",
+    "cli",
+    "developer-tools",
+    "knowledge-base",
+    "python",
+    "terminal-ui"
+  ],
+  "star_count": 314,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-19T17:27:47Z",
-  "updated_at": "2026-08-30T12:54:51Z",
-  "pushed_at": "2026-07-22T02:52:47Z",
+  "updated_at": "2026-09-11T12:23:38Z",
+  "pushed_at": "2026-09-09T03:20:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -26,6 +36,10 @@
     {
       "date": "2026-08-30",
       "stars": 298
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 314
     }
   ]
 }

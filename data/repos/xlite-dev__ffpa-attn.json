@@ -3,7 +3,7 @@
   "owner": "xlite-dev",
   "name": "ffpa-attn",
   "full_name": "xlite-dev/ffpa-attn",
-  "description": "Fast and Memory-Efficient Exact Attention (BF16/FP16/FP8/FP4) for Large Headdim, 1.5x~15x speedup over PyTorch SDPA.",
+  "description": "Kernel Library for Large Headdim Attention (64~1024, BF16/FP8/FP4), 1.5x~15x↑ vs PyTorch SDPA.",
   "description_ja": "",
   "url": "https://github.com/xlite-dev/ffpa-attn",
   "homepage_url": "https://ffpa-attn.readthedocs.io",
@@ -15,13 +15,13 @@
     "fp8",
     "sage-attention"
   ],
-  "star_count": 329,
+  "star_count": 332,
   "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-11-29T11:47:23Z",
-  "updated_at": "2026-08-29T03:09:09Z",
-  "pushed_at": "2026-08-28T18:24:28Z",
+  "updated_at": "2026-09-11T10:38:41Z",
+  "pushed_at": "2026-09-11T10:38:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -335,6 +335,10 @@
     {
       "date": "2026-08-30",
       "stars": 329
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 332
     }
   ]
 }

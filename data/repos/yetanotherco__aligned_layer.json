@@ -3,25 +3,25 @@
   "owner": "yetanotherco",
   "name": "aligned_layer",
   "full_name": "yetanotherco/aligned_layer",
-  "description": "Aligned is a verification layer for zero-knowledge proofs using EigenLayer. Our mission is to accelerate the adoption of zero-knowledge and validity proofs on Ethereum.",
-  "description_ja": "Aligned は EigenLayer を使用したゼロ知識証明の検証レイヤー。Ethereum 上でのゼロ知識証明および有効性証明の普及加速を使命とする。",
+  "description": "Aligned builds the tools that turn Ethereum into the world’s financial backend. One-click solution for wallets, rollups, interoperability and ZK services",
+  "description_ja": "",
   "url": "https://github.com/yetanotherco/aligned_layer",
   "homepage_url": "https://alignedlayer.com/",
   "language": "Rust",
   "license": "MIT",
   "topics": [
-    "eigenlayer",
     "ethereum",
-    "restaking",
+    "rollups",
+    "wallets",
     "zero-knowledge-proofs"
   ],
   "star_count": 313,
-  "fork_count": 399,
+  "fork_count": 400,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-16T12:43:46Z",
-  "updated_at": "2026-08-30T09:45:01Z",
-  "pushed_at": "2026-08-18T14:28:51Z",
+  "updated_at": "2026-09-11T20:32:15Z",
+  "pushed_at": "2026-09-11T20:32:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +398,10 @@
     },
     {
       "date": "2026-08-30",
+      "stars": 313
+    },
+    {
+      "date": "2026-09-11",
       "stars": 313
     }
   ]

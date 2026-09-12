@@ -3,24 +3,27 @@
   "owner": "nice3point",
   "name": "revittemplates",
   "full_name": "nice3point/revittemplates",
-  "description": "Templates for creating Revit add-ins",
+  "description": "Project templates for Revit add-ins",
   "description_ja": "",
   "url": "https://github.com/Nice3point/RevitTemplates",
   "homepage_url": "",
   "language": "C#",
   "license": "MIT",
   "topics": [
+    "addin",
+    "autodesk",
     "dotnet",
     "revit",
+    "revit-api",
     "templates"
   ],
-  "star_count": 454,
+  "star_count": 456,
   "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-07-26T17:22:21Z",
-  "updated_at": "2026-08-27T19:00:47Z",
-  "pushed_at": "2026-08-27T12:41:17Z",
+  "updated_at": "2026-09-10T08:01:47Z",
+  "pushed_at": "2026-09-11T03:27:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -346,6 +349,10 @@
     {
       "date": "2026-08-30",
       "stars": 454
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 456
     }
   ]
 }

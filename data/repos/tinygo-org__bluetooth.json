@@ -3,8 +3,8 @@
   "owner": "tinygo-org",
   "name": "bluetooth",
   "full_name": "tinygo-org/bluetooth",
-  "description": "Cross-platform Bluetooth API for Go and TinyGo. Supports Linux, macOS, Windows, and bare metal using Nordic SoftDevice or HCI",
-  "description_ja": "Go/TinyGo向けクロスプラットフォームBluetooth API。Linux、macOS、Windows、およびNordic SoftDeviceまたはHCIを使用したベアメタルをサポート。",
+  "description": "Cross-platform Bluetooth API for Go and TinyGo. Supports Linux, macOS, Windows, \u0026 bare metal using Nordic SoftDevice or HCI (ESP32/Pico-W/etc)",
+  "description_ja": "",
   "url": "https://github.com/tinygo-org/bluetooth",
   "homepage_url": "https://tinygo.org",
   "language": "C",
@@ -14,20 +14,27 @@
     "bluetooth",
     "bluetooth-low-energy",
     "central",
+    "esp32",
+    "esp32-c3",
+    "esp32-s3",
+    "espradio",
+    "espressif",
     "linux",
     "macos",
     "nordicsemi",
     "peripheral",
+    "pico-w",
+    "pico2-w",
     "softdevice",
     "tinygo"
   ],
-  "star_count": 995,
-  "fork_count": 197,
+  "star_count": 1005,
+  "fork_count": 198,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-06-02T17:25:06Z",
-  "updated_at": "2026-08-29T18:06:30Z",
-  "pushed_at": "2026-08-26T03:19:53Z",
+  "updated_at": "2026-09-10T15:46:02Z",
+  "pushed_at": "2026-09-09T19:32:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +412,10 @@
     {
       "date": "2026-08-30",
       "stars": 995
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1005
     }
   ]
 }

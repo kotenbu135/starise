@@ -3,28 +3,29 @@
   "owner": "alibaba",
   "name": "neug",
   "full_name": "alibaba/neug",
-  "description": "High-performance embedded graph database for analytics and real-time transactions",
+  "description": "The one data index for your agentic applications",
   "description_ja": "",
   "url": "https://github.com/alibaba/neug",
-  "homepage_url": "https://graphscope.io/neug",
+  "homepage_url": "https://neug.io",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [
-    "cypher",
-    "embedded-database",
-    "graph-analysis",
-    "graph-database",
-    "graph-intelligence",
-    "graphrag",
+    "agent-tools",
+    "code-graph",
+    "codegraphcontext",
+    "graph-analytics",
+    "graph-database-vector-database",
+    "hybrid-search",
+    "knowledge-graphs",
     "llmwiki"
   ],
-  "star_count": 141,
+  "star_count": 149,
   "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-02T03:43:04Z",
-  "updated_at": "2026-08-30T16:58:38Z",
-  "pushed_at": "2026-08-28T13:58:32Z",
+  "updated_at": "2026-09-11T13:57:52Z",
+  "pushed_at": "2026-09-11T14:46:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -294,6 +295,10 @@
     {
       "date": "2026-08-30",
       "stars": 141
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 149
     }
   ]
 }
