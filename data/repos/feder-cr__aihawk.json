@@ -3,7 +3,7 @@
   "owner": "feder-cr",
   "name": "aihawk",
   "full_name": "feder-cr/aihawk",
-  "description": "Open-source AI browser agent for web automation: a web browsing agent and computer-use agent in plain English. Browser MCP for Claude Code and Gemini CLI.",
+  "description": "Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.",
   "description_ja": "",
   "url": "https://github.com/feder-cr/AIHawk",
   "homepage_url": "https://github.com/feder-cr/AIHawk/wiki",
@@ -13,17 +13,17 @@
     "agentic-ai",
     "ai-agent",
     "ai-automation",
-    "autonomous-agent",
     "autonomous-agents",
     "browser",
     "browser-agent",
+    "claude-code-plugin",
     "computer-use",
+    "gemini-cli-extension",
     "job-hunting",
     "job-search",
     "lead-generation",
     "llm-agent",
     "market-research",
-    "personal-assistant",
     "price-monitoring",
     "productivity",
     "task-automation",
@@ -31,13 +31,13 @@
     "web-automation",
     "web-research"
   ],
-  "star_count": 30343,
-  "fork_count": 4653,
+  "star_count": 31606,
+  "fork_count": 4669,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-08-04T12:15:06Z",
-  "updated_at": "2026-09-11T17:10:08Z",
-  "pushed_at": "2026-09-11T19:43:19Z",
+  "updated_at": "2026-09-20T18:26:51Z",
+  "pushed_at": "2026-09-18T18:39:28Z",
   "deleted_at": "2026-08-02",
   "star_history": [
     {
@@ -95,6 +95,10 @@
     {
       "date": "2026-09-11",
       "stars": 30343
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 31606
     }
   ]
 }

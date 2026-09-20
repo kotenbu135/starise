@@ -1,0 +1,68 @@
+{
+  "repo_id": "R_kgDOT5GrMA",
+  "owner": "syv-ai",
+  "name": "hyperqwen",
+  "full_name": "syv-ai/hyperqwen",
+  "description": "Serve large Qwen models fast on the GPUs you actually own. Qwen3.8-27B on a single 24 GB card with vLLM: 127 tok/s single-user (381 when the answer quotes the prompt), ~1,035 tok/s at 64 concurrent, 150k-262k context. vLLM patches, requant pipeline, benchmarks.",
+  "description_ja": "",
+  "url": "https://github.com/syv-ai/HyperQwen",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "Apache-2.0",
+  "topics": [
+    "consumer-gpu",
+    "cuda",
+    "inference-optimization",
+    "kv-cache",
+    "llm-inference",
+    "local-llm",
+    "quantization",
+    "qwen",
+    "qwen3",
+    "rtx-3090",
+    "speculative-decoding",
+    "vllm"
+  ],
+  "star_count": 1575,
+  "fork_count": 221,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-08-15T09:10:56Z",
+  "updated_at": "2026-09-20T21:23:24Z",
+  "pushed_at": "2026-09-19T10:59:25Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-08-17",
+      "stars": 52
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 218
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 438
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 479
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 860
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 913
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 1307
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1575
+    }
+  ]
+}

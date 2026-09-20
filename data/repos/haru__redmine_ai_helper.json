@@ -3,20 +3,25 @@
   "owner": "haru",
   "name": "redmine_ai_helper",
   "full_name": "haru/redmine_ai_helper",
-  "description": "Add AI Agent to Redmine",
+  "description": "A Redmine plugin that adds AI agents, MCP Server, smart completion, and vector search.",
   "description_ja": "",
   "url": "https://github.com/haru/redmine_ai_helper",
   "homepage_url": "https://www.redmine.org/plugins/redmine_ai_helper",
   "language": "Ruby",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "ai",
+    "mcp-server",
+    "redmine",
+    "redmine-plugin"
+  ],
   "star_count": 103,
   "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-30T11:31:08Z",
-  "updated_at": "2026-09-01T12:58:07Z",
-  "pushed_at": "2026-09-10T21:45:00Z",
+  "updated_at": "2026-09-20T07:03:40Z",
+  "pushed_at": "2026-09-20T13:19:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +46,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 103
+    },
+    {
+      "date": "2026-09-20",
       "stars": 103
     }
   ]

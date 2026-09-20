@@ -3,20 +3,20 @@
   "owner": "ll0v0ll",
   "name": "getqzonehistory",
   "full_name": "ll0v0ll/getqzonehistory",
-  "description": "原作者：LibraHp 基于原作者基础上修复若干bug 更鲁棒的策略 添加了多并发加速 GetQzonehistory(获取qq发布的历史说说 只要发布过有互动记录就能获取到 无所谓是否删除说说) 通过获取QQ空间的历史消息列表来获取该账号下发布的所有说说（当然消息列表中没有的就获取不到，例如一些仅自己可见的说说）",
+  "description": "基于作者LibraHp \u0026 Gaoshu705爬虫逻辑基础上添加UI界面 同时修复若干bug 更鲁棒的策略 添加了多并发加速 GetQzonehistory(获取qq发布的历史说说 只要发布过有互动记录就能获取到 无所谓是否删除说说) 通过获取QQ空间的历史消息列表来获取该账号下发布的所有说说（当然消息列表中没有的就获取不到，例如一些仅自己可见的说说）",
   "description_ja": "",
   "url": "https://github.com/ll0v0ll/GetQzonehistory",
   "homepage_url": "",
   "language": "Python",
   "license": "GPL-3.0",
   "topics": [],
-  "star_count": 372,
-  "fork_count": 70,
+  "star_count": 379,
+  "fork_count": 73,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-22T10:14:07Z",
-  "updated_at": "2026-09-11T08:39:57Z",
-  "pushed_at": "2026-09-06T14:50:50Z",
+  "updated_at": "2026-09-20T12:57:28Z",
+  "pushed_at": "2026-09-17T05:56:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +62,10 @@
     {
       "date": "2026-09-11",
       "stars": 372
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 379
     }
   ]
 }

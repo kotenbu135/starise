@@ -6,17 +6,17 @@
   "description": "Rivers is an orchestration platform for data and ML pipelines, written in Rust for native performance with a Python-first development experience.",
   "description_ja": "",
   "url": "https://github.com/ion-elgreco/rivers",
-  "homepage_url": "https://ion-elgreco.github.io/rivers/",
+  "homepage_url": "https://orchestrator.rs",
   "language": "Rust",
-  "license": "AGPL-3.0",
+  "license": "Apache-2.0",
   "topics": [],
-  "star_count": 100,
+  "star_count": 101,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-14T00:40:48Z",
-  "updated_at": "2026-09-11T16:23:25Z",
-  "pushed_at": "2026-09-11T11:37:55Z",
+  "updated_at": "2026-09-15T20:19:59Z",
+  "pushed_at": "2026-09-15T21:30:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -330,6 +330,10 @@
     {
       "date": "2026-09-11",
       "stars": 100
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 101
     }
   ]
 }

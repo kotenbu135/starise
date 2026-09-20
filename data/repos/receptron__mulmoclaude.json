@@ -3,20 +3,38 @@
   "owner": "receptron",
   "name": "mulmoclaude",
   "full_name": "receptron/mulmoclaude",
-  "description": "Multi-modal Claude Code Client",
+  "description": "Nurture your own AI assistant on your own computer. Local-first and MIT: memories, data and apps stay as plain files in your workspace. Chat summons the right GUI — wiki, spreadsheet, chart, form, 3D. Build small apps for an audience of one, no programming required.",
   "description_ja": "",
   "url": "https://github.com/receptron/mulmoclaude",
-  "homepage_url": "",
+  "homepage_url": "https://www.npmjs.com/package/mulmoclaude",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 347,
-  "fork_count": 58,
+  "topics": [
+    "ai-agents",
+    "ai-assistant",
+    "ai-native",
+    "chat-ui",
+    "claude",
+    "claude-code",
+    "knowledge-management",
+    "local-first",
+    "mcp",
+    "no-code",
+    "personal-assistant",
+    "personal-wiki",
+    "plugins",
+    "privacy",
+    "schema-driven",
+    "self-hosted",
+    "typescript"
+  ],
+  "star_count": 351,
+  "fork_count": 59,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-29T02:37:30Z",
-  "updated_at": "2026-09-11T22:25:30Z",
-  "pushed_at": "2026-09-11T23:08:13Z",
+  "updated_at": "2026-09-20T18:53:33Z",
+  "pushed_at": "2026-09-20T23:04:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -102,6 +120,10 @@
     {
       "date": "2026-09-11",
       "stars": 347
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 351
     }
   ]
 }

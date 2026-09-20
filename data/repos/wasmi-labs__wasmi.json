@@ -3,34 +3,41 @@
   "owner": "wasmi-labs",
   "name": "wasmi",
   "full_name": "wasmi-labs/wasmi",
-  "description": "Efficient and versatile WebAssembly interpreter for embedded systems.",
-  "description_ja": "組み込みシステム向けの効率的で汎用的な WebAssembly インタープリター。",
+  "description": "WebAssembly (Wasm) Interpreter - An efficient, lightweight, and deterministic WebAssembly interpreter for embedded systems and plug-in runtimes.",
+  "description_ja": "",
   "url": "https://github.com/wasmi-labs/wasmi",
   "homepage_url": "https://wasmi-labs.github.io/wasmi/",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
-    "embedded",
+    "cross-platform",
+    "edge-computing",
+    "efficient",
+    "embedded-systems",
+    "fast",
+    "fuel-consumption",
+    "game-engine",
     "interpreter",
-    "lightweight",
-    "portable",
+    "interpreters",
+    "plugin-system",
     "runtime",
-    "rust",
-    "sandbox",
-    "secure",
-    "standalone",
+    "runtimes",
+    "rust-lang",
+    "rustlang",
+    "sandboxes",
+    "smart-contracts",
     "virtual-machine",
-    "wasi",
     "wasm",
-    "webassembly"
+    "webassembly",
+    "webassembly-runtime"
   ],
-  "star_count": 2297,
-  "fork_count": 366,
+  "star_count": 2308,
+  "fork_count": 368,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-01-22T14:41:58Z",
-  "updated_at": "2026-09-11T06:15:48Z",
-  "pushed_at": "2026-09-01T11:50:21Z",
+  "updated_at": "2026-09-20T14:39:03Z",
+  "pushed_at": "2026-09-17T15:22:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -412,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 2297
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 2308
     }
   ]
 }

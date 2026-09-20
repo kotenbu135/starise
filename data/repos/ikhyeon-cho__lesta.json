@@ -3,7 +3,7 @@
   "owner": "ikhyeon-cho",
   "name": "lesta",
   "full_name": "ikhyeon-cho/lesta",
-  "description": "Learning robot-specific traversability from a short manual drive — No manual labels needed. [RA-L '24]",
+  "description": "Learning robot-specific traversability from a short manual drive — Zero annotations, beyond driven trajectories. [RA-L '24]",
   "description_ja": "",
   "url": "https://github.com/Ikhyeon-Cho/LeSTA",
   "homepage_url": "https://ieeexplore.ieee.org/document/10468651",
@@ -25,12 +25,12 @@
     "traversability-estimation",
     "traversability-mapping"
   ],
-  "star_count": 116,
+  "star_count": 117,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-11-30T10:55:02Z",
-  "updated_at": "2026-09-11T14:13:07Z",
+  "updated_at": "2026-09-18T22:42:54Z",
   "pushed_at": "2026-09-04T03:53:50Z",
   "deleted_at": "",
   "star_history": [
@@ -305,6 +305,10 @@
     {
       "date": "2026-09-11",
       "stars": 116
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 117
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "gdstudio-org",
   "name": "embeat",
   "full_name": "gdstudio-org/embeat",
-  "description": "Content-based music recommendation system, training on Spotify 45M tracks \u0026 1.8M playlists.",
+  "description": "Content-based music recommendation system, training on Spotify 45M tracks \u0026 1.8M playlists. (Spotify track ID / ISRC in, similar songs out)",
   "description_ja": "",
   "url": "https://github.com/gdstudio-org/Embeat",
   "homepage_url": "https://music.gdstudio.xyz",
@@ -13,16 +13,20 @@
     "collaborative-filtering",
     "content-based-recommendation",
     "contrastive-learning",
+    "gdmusic",
+    "hnsw",
+    "machine-learning",
     "music-recommendation",
+    "recommender-system",
     "spotify"
   ],
-  "star_count": 268,
-  "fork_count": 31,
+  "star_count": 306,
+  "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-26T10:30:15Z",
-  "updated_at": "2026-09-11T08:29:02Z",
-  "pushed_at": "2026-09-06T13:00:53Z",
+  "updated_at": "2026-09-20T01:51:10Z",
+  "pushed_at": "2026-09-17T09:00:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -192,6 +196,10 @@
     {
       "date": "2026-09-11",
       "stars": 268
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 306
     }
   ]
 }

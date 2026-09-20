@@ -3,7 +3,7 @@
   "owner": "openosint",
   "name": "openosint",
   "full_name": "openosint/openosint",
-  "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 19 tools. Works with Claude, GPT-4, or local models. For authorized security research only.",
+  "description": "AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 20 tools. Works with Claude, GPT-4, or local models. For authorized security research only.",
   "description_ja": "",
   "url": "https://github.com/OpenOSINT/OpenOSINT",
   "homepage_url": "https://openosint.tech",
@@ -30,13 +30,13 @@
     "terminal",
     "threat-intelligence"
   ],
-  "star_count": 1558,
-  "fork_count": 252,
+  "star_count": 1613,
+  "fork_count": 256,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-06T11:12:42Z",
-  "updated_at": "2026-09-11T15:22:27Z",
-  "pushed_at": "2026-09-11T13:25:07Z",
+  "updated_at": "2026-09-20T22:24:31Z",
+  "pushed_at": "2026-09-18T17:21:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -358,6 +358,10 @@
     {
       "date": "2026-09-11",
       "stars": 1558
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1613
     }
   ]
 }

@@ -3,11 +3,11 @@
   "owner": "sirhanmacx",
   "name": "claw-ed",
   "full_name": "sirhanmacx/claw-ed",
-  "description": "Open source CLI agent that generates complete lesson bundles in your teaching voice. 48+ tools, zero-touch 9-file output, local-first privacy.",
+  "description": "Local-first AI teaching assistant for editable lesson drafts, student materials, and slides. Uses your curriculum and chosen model. Teacher-reviewed beta.",
   "description_ja": "",
   "url": "https://github.com/SirhanMacx/Claw-ED",
   "homepage_url": "https://sirhanmacx.github.io/Claw-ED",
-  "language": "TypeScript",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "ai",
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T15:07:30Z",
-  "updated_at": "2026-09-10T12:13:30Z",
-  "pushed_at": "2026-06-20T00:54:05Z",
+  "updated_at": "2026-09-19T02:36:08Z",
+  "pushed_at": "2026-09-19T02:36:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +402,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 59
+    },
+    {
+      "date": "2026-09-20",
       "stars": 59
     }
   ]

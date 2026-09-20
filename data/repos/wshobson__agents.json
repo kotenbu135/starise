@@ -3,7 +3,7 @@
   "owner": "wshobson",
   "name": "agents",
   "full_name": "wshobson/agents",
-  "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity",
+  "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
   "description_ja": "",
   "url": "https://github.com/wshobson/agents",
   "homepage_url": "https://sethhobson.com",
@@ -12,32 +12,32 @@
   "topics": [
     "agent-skills",
     "agentic-ai",
-    "agents",
     "ai-agents",
     "anthropic",
     "antigravity",
     "claude",
     "claude-code",
-    "claude-code-plugins",
+    "claude-code-marketplace",
+    "claude-code-plugin",
     "claude-skills",
     "codex",
-    "copilot",
+    "coding-agents",
     "cursor",
     "cursor-rules",
-    "developer-tools",
+    "github-copilot",
     "mcp",
     "multi-agent",
     "opencode",
-    "prompt-engineering",
+    "pi-coding-agent",
     "subagents"
   ],
-  "star_count": 39573,
-  "fork_count": 4217,
+  "star_count": 39834,
+  "fork_count": 4248,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-24T23:28:14Z",
-  "updated_at": "2026-09-11T23:07:08Z",
-  "pushed_at": "2026-09-07T01:09:29Z",
+  "updated_at": "2026-09-20T21:40:35Z",
+  "pushed_at": "2026-09-19T02:36:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 39573
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 39834
     }
   ]
 }

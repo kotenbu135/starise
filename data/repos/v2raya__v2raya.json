@@ -3,8 +3,8 @@
   "owner": "v2raya",
   "name": "v2raya",
   "full_name": "v2raya/v2raya",
-  "description": "A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀",
-  "description_ja": "VMess、VLESS、SS、SSR、Trojan、Tuic、JuicityプロトコルをサポートするProject VのWebGUIクライアント。",
+  "description": "A web client for its own Xray-based core with global transparent proxy on Linux, Windows and macOS.",
+  "description_ja": "",
   "url": "https://github.com/v2rayA/v2rayA",
   "homepage_url": "",
   "language": "Go",
@@ -12,22 +12,22 @@
   "topics": [
     "gfw",
     "gui",
+    "hy2",
     "juicity",
     "linux",
     "shadowsocks",
-    "shadowsocksr",
-    "ssr",
     "trojan",
     "tuic",
-    "v2ray"
+    "v2ray",
+    "xray"
   ],
-  "star_count": 15549,
-  "fork_count": 1597,
+  "star_count": 15577,
+  "fork_count": 1603,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-10-18T20:42:06Z",
-  "updated_at": "2026-09-11T08:39:21Z",
-  "pushed_at": "2026-09-09T04:53:14Z",
+  "updated_at": "2026-09-20T17:55:12Z",
+  "pushed_at": "2026-09-20T15:25:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -409,6 +409,10 @@
     {
       "date": "2026-09-11",
       "stars": 15549
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 15577
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "medz",
   "name": "dart-orm",
   "full_name": "medz/dart-orm",
-  "description": "Prisma Client Dart is an auto-generated type-safe ORM. It uses Prisma Engine as the data access layer and is as consistent as possible with the Prisma Client JS/TS APIs.",
-  "description_ja": "Prisma Client Dart は自動生成される型安全な ORM。データアクセス層に Prisma Engine を使用し、Prisma Client JS/TS の API と可能な限り一貫性を保つ設計。",
+  "description": "Type-safe Dart ORM with Dart models and migrations, independent database layers, and SQLite, PostgreSQL, MySQL and MariaDB support.",
+  "description_ja": "",
   "url": "https://github.com/medz/dart-orm",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/medz/dart-orm/tree/main/doc",
   "language": "Dart",
   "license": "BSD-3-Clause",
   "topics": [
@@ -22,13 +22,13 @@
     "sqlite",
     "sqlserver"
   ],
-  "star_count": 477,
+  "star_count": 478,
   "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-04T07:37:02Z",
-  "updated_at": "2026-09-02T19:09:24Z",
-  "pushed_at": "2026-03-06T17:33:40Z",
+  "updated_at": "2026-09-20T16:43:27Z",
+  "pushed_at": "2026-09-20T16:50:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +410,10 @@
     {
       "date": "2026-09-11",
       "stars": 477
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 478
     }
   ]
 }

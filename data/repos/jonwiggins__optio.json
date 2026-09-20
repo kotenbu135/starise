@@ -3,7 +3,7 @@
   "owner": "jonwiggins",
   "name": "optio",
   "full_name": "jonwiggins/optio",
-  "description": "Workflow orchestration for AI coding agent swarms, from task to merged PR.",
+  "description": "Workflow orchestration for AI agent swarms.",
   "description_ja": "",
   "url": "https://github.com/jonwiggins/optio",
   "homepage_url": "https://optio.host/",
@@ -14,19 +14,20 @@
     "agents",
     "ai",
     "claude-code",
+    "codex",
     "copilot",
     "gemini",
     "kubernetes",
     "opencode",
     "orchestration"
   ],
-  "star_count": 1047,
+  "star_count": 1055,
   "fork_count": 122,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-19T19:50:11Z",
-  "updated_at": "2026-09-11T17:25:51Z",
-  "pushed_at": "2026-08-11T00:12:10Z",
+  "updated_at": "2026-09-20T18:31:38Z",
+  "pushed_at": "2026-09-20T18:34:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -408,6 +409,10 @@
     {
       "date": "2026-09-11",
       "stars": 1047
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1055
     }
   ]
 }

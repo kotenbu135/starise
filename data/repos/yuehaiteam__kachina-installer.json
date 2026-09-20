@@ -3,7 +3,7 @@
   "owner": "yuehaiteam",
   "name": "kachina-installer",
   "full_name": "yuehaiteam/kachina-installer",
-  "description": "Universal installer based on tauri. Offline or online install, diffed online upgrade, uninstall and more.",
+  "description": "Universal installer and updater. Offline or online install, online upgrade with patches, rollabackable and interrupteble installation, built-in uninstaller, and more.",
   "description_ja": "",
   "url": "https://github.com/YuehaiTeam/kachina-installer",
   "homepage_url": "",
@@ -15,8 +15,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-01-03T16:26:26Z",
-  "updated_at": "2026-09-02T02:53:18Z",
-  "pushed_at": "2026-09-11T09:28:40Z",
+  "updated_at": "2026-09-20T09:15:37Z",
+  "pushed_at": "2026-09-20T09:13:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -157,6 +157,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 51
+    },
+    {
+      "date": "2026-09-20",
       "stars": 51
     }
   ]

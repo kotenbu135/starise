@@ -3,30 +3,35 @@
   "owner": "holny",
   "name": "agent-harness-develop-book",
   "full_name": "holny/agent-harness-develop-book",
-  "description": "Agent Harness完整架构和核心模块开发指导手册 - 参考生产级Agent源码：Claude Code，OpenCode，OpenClaw和Hermess",
+  "description": "Agent Harness (Loop Engineering) dev guide — complete architecture \u0026 core modules, based on production-grade agent source: Claude Code, DeepSeek Harness, OpenCode, Pi, Codex, OpenClaw \u0026 Hermes. English \u0026 中文",
   "description_ja": "",
   "url": "https://github.com/holny/Agent-Harness-Develop-Book",
   "homepage_url": "",
-  "language": "",
+  "language": "HTML",
   "license": "",
   "topics": [
     "agent",
     "agent-harness",
+    "agent-loop",
     "claude-code",
+    "codex",
+    "deepseek-harness",
     "harness",
     "harness-engineering",
     "hermes",
     "learning",
+    "loop-engineering",
     "openclaw",
-    "opencode"
+    "opencode",
+    "pi"
   ],
-  "star_count": 84,
-  "fork_count": 24,
+  "star_count": 86,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-23T06:51:14Z",
-  "updated_at": "2026-09-10T03:01:12Z",
-  "pushed_at": "2026-06-11T01:38:28Z",
+  "updated_at": "2026-09-20T04:00:06Z",
+  "pushed_at": "2026-09-20T03:57:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -180,6 +185,10 @@
     {
       "date": "2026-09-11",
       "stars": 84
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 86
     }
   ]
 }

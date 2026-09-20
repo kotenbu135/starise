@@ -3,8 +3,8 @@
   "owner": "tw93",
   "name": "kaku",
   "full_name": "tw93/kaku",
-  "description": "🎃 A fast, out-of-the-box terminal built for AI coding.",
-  "description_ja": "🎃 AIコーディング向けの高速なすぐ使えるターミナル",
+  "description": "🎃 A fast, out-of-the-box macOS terminal built for AI coding.",
+  "description_ja": "",
   "url": "https://github.com/tw93/Kaku",
   "homepage_url": "https://kaku.fun",
   "language": "Rust",
@@ -19,13 +19,13 @@
     "terminal-emulator",
     "vibe-coding"
   ],
-  "star_count": 5897,
-  "fork_count": 303,
+  "star_count": 5955,
+  "fork_count": 308,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-07T13:00:49Z",
-  "updated_at": "2026-09-11T21:41:57Z",
-  "pushed_at": "2026-09-10T11:11:55Z",
+  "updated_at": "2026-09-20T16:30:29Z",
+  "pushed_at": "2026-09-20T03:20:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -407,6 +407,10 @@
     {
       "date": "2026-09-11",
       "stars": 5897
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 5955
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "crystallinecore",
   "name": "biscuit",
   "full_name": "crystallinecore/biscuit",
-  "description": "Biscuit – a high-performance, bitmap-based deterministic index for PostgreSQL ",
+  "description": "Biscuit – a high-performance, bitmap-based deterministic index for LIKE/ILIKE in PostgreSQL ",
   "description_ja": "",
   "url": "https://github.com/CrystallineCore/Biscuit",
   "homepage_url": "https://pgxn.org/dist/biscuit/",
@@ -21,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-05T16:52:12Z",
-  "updated_at": "2026-08-13T14:40:06Z",
-  "pushed_at": "2026-08-13T14:38:21Z",
+  "updated_at": "2026-09-17T17:19:13Z",
+  "pushed_at": "2026-09-17T17:27:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -179,6 +179,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 300
+    },
+    {
+      "date": "2026-09-20",
       "stars": 300
     }
   ]

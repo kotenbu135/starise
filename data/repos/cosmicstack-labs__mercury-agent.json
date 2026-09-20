@@ -3,8 +3,8 @@
   "owner": "cosmicstack-labs",
   "name": "mercury-agent",
   "full_name": "cosmicstack-labs/mercury-agent",
-  "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
-  "description_ja": "権限を強化したツール、トークン予算、マルチチャネルアクセスを備えたソウル駆動の AI エージェント。CLI または Telegram から 24/7 稼働。",
+  "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI, Telegram or More.",
+  "description_ja": "",
   "url": "https://github.com/cosmicstack-labs/mercury-agent",
   "homepage_url": "https://mercuryagent.sh/",
   "language": "TypeScript",
@@ -14,13 +14,13 @@
     "ai-assistant",
     "llm"
   ],
-  "star_count": 3084,
-  "fork_count": 334,
+  "star_count": 3161,
+  "fork_count": 340,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-20T12:46:31Z",
-  "updated_at": "2026-09-11T15:29:10Z",
-  "pushed_at": "2026-09-11T15:29:05Z",
+  "updated_at": "2026-09-20T07:54:49Z",
+  "pushed_at": "2026-09-19T07:05:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +402,10 @@
     {
       "date": "2026-09-11",
       "stars": 3084
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 3161
     }
   ]
 }

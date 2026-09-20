@@ -3,7 +3,7 @@
   "owner": "coddy-project",
   "name": "coddy-agent",
   "full_name": "coddy-project/coddy-agent",
-  "description": "General-purpose agent in one static Go binary. ReAct loop, ACP server for IDEs, OpenAI-compatible REST API with embedded web UI, Telegram gateway, cron scheduler, long-term memory, context compaction, rules, skills, MCP. Distroless-ready, works with any OpenAI-compatible provider.",
+  "description": "General-purpose agent in one static Go binary: console TUI, ACP server for editors, OpenAI-compatible API with embedded web UI, Telegram gateway, cron scheduler, swarm relay, remote mode. Rules, skills, subagents, hooks, MCP, background tasks, long-term memory, context compaction. Any OpenAI-compatible provider, distroless-ready.",
   "description_ja": "",
   "url": "https://github.com/coddy-project/coddy-agent",
   "homepage_url": "https://coddy.dev",
@@ -11,28 +11,33 @@
   "license": "MIT",
   "topics": [
     "acp",
-    "agent",
     "agent-client-protocol",
     "ai-agent",
     "anthropic",
+    "autonomous-agents",
     "cli",
     "coding-agent",
     "distroless",
+    "go",
     "golang",
     "llm",
     "mcp",
+    "multi-agent",
+    "ollama",
     "openai",
     "self-hosted",
     "skills",
-    "telegram-bot"
+    "swarm",
+    "telegram-bot",
+    "tui"
   ],
-  "star_count": 141,
-  "fork_count": 14,
+  "star_count": 151,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-23T06:37:12Z",
-  "updated_at": "2026-09-11T20:23:05Z",
-  "pushed_at": "2026-09-11T22:02:58Z",
+  "updated_at": "2026-09-20T21:40:51Z",
+  "pushed_at": "2026-09-20T19:49:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -306,6 +311,10 @@
     {
       "date": "2026-09-11",
       "stars": 141
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 151
     }
   ]
 }

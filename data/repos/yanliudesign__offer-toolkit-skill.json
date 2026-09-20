@@ -13,7 +13,6 @@
     "agent-skill",
     "ai-agent",
     "aijob",
-    "anthropic",
     "behavioral-interview",
     "bilingual",
     "career",
@@ -21,6 +20,7 @@
     "claude",
     "claude-code",
     "claude-skill",
+    "codex-skill",
     "interview-prep",
     "job-description",
     "job-hunt",
@@ -31,13 +31,13 @@
     "resume-template",
     "story-bank"
   ],
-  "star_count": 428,
-  "fork_count": 43,
+  "star_count": 472,
+  "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-01T04:03:37Z",
-  "updated_at": "2026-09-11T06:04:31Z",
-  "pushed_at": "2026-09-11T06:04:27Z",
+  "updated_at": "2026-09-20T23:26:32Z",
+  "pushed_at": "2026-09-20T07:22:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -183,6 +183,10 @@
     {
       "date": "2026-09-11",
       "stars": 428
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 472
     }
   ]
 }

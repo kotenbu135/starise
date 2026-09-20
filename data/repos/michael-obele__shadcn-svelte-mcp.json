@@ -3,8 +3,8 @@
   "owner": "michael-obele",
   "name": "shadcn-svelte-mcp",
   "full_name": "michael-obele/shadcn-svelte-mcp",
-  "description": "Mastra MCP server and tooling for the shadcn-svelte component docs and developer utilities.",
-  "description_ja": "shadcn-svelteコンポーネントドキュメントおよび開発者ユーティリティ向けのMastra MCPサーバーとツール群。",
+  "description": "tmcp MCP server for live shadcn-svelte docs, Bits UI API, and Lucide icons.",
+  "description_ja": "",
   "url": "https://github.com/Michael-Obele/shadcn-svelte-mcp",
   "homepage_url": "",
   "language": "TypeScript",
@@ -15,15 +15,16 @@
     "shadcn",
     "shadcn-svelte",
     "svelte",
-    "sveltekit"
+    "sveltekit",
+    "tmcp"
   ],
   "star_count": 58,
-  "fork_count": 5,
+  "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-21T17:06:57Z",
-  "updated_at": "2026-09-10T17:41:35Z",
-  "pushed_at": "2026-09-10T17:41:28Z",
+  "updated_at": "2026-09-13T05:16:48Z",
+  "pushed_at": "2026-09-13T05:16:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -400,6 +401,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 58
+    },
+    {
+      "date": "2026-09-20",
       "stars": 58
     }
   ]

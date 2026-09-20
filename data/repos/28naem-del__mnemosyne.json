@@ -3,7 +3,7 @@
   "owner": "28naem-del",
   "name": "mnemosyne",
   "full_name": "28naem-del/mnemosyne",
-  "description": "Cognitive Memory OS for AI Agents — persistent, self-improving, multi-agent memory",
+  "description": "Evidence-backed memory for AI agents: local-first recall, temporal history, tested skills, and gradual migration.",
   "description_ja": "",
   "url": "https://github.com/28naem-del/mnemosyne",
   "homepage_url": "https://mnemosy.ai",
@@ -20,19 +20,20 @@
     "llm",
     "machine-learning",
     "memory",
+    "memory-migration",
+    "model-context-protocol",
     "multi-agent",
-    "qdrant",
-    "self-improving",
+    "sqlite",
     "typescript",
     "vector"
   ],
-  "star_count": 133,
-  "fork_count": 13,
+  "star_count": 147,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-24T20:33:23Z",
-  "updated_at": "2026-09-10T17:56:31Z",
-  "pushed_at": "2026-06-02T00:06:34Z",
+  "updated_at": "2026-09-20T15:58:55Z",
+  "pushed_at": "2026-09-13T20:05:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -102,6 +103,10 @@
     {
       "date": "2026-09-11",
       "stars": 133
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 147
     }
   ]
 }

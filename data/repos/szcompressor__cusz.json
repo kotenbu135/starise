@@ -6,7 +6,7 @@
   "description": "A GPU accelerated error-bounded lossy compression for scientific data.",
   "description_ja": "",
   "url": "https://github.com/szcompressor/cuSZ",
-  "homepage_url": "http://szcompressor.org",
+  "homepage_url": "https://mercury-hpg.github.io/PSZ-site/",
   "language": "C++",
   "license": "NOASSERTION",
   "topics": [
@@ -16,13 +16,13 @@
     "lossy-compression",
     "scientific-data"
   ],
-  "star_count": 101,
+  "star_count": 102,
   "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-03T02:39:01Z",
-  "updated_at": "2026-09-11T11:36:42Z",
-  "pushed_at": "2026-09-11T11:41:11Z",
+  "updated_at": "2026-09-15T21:42:51Z",
+  "pushed_at": "2026-09-15T23:22:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -244,6 +244,10 @@
     {
       "date": "2026-09-11",
       "stars": 101
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 102
     }
   ]
 }

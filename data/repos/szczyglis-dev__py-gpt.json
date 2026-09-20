@@ -3,13 +3,14 @@
   "owner": "szczyglis-dev",
   "name": "py-gpt",
   "full_name": "szczyglis-dev/py-gpt",
-  "description": "Desktop AI Assistant powered by GPT-6, GPT-5, o1, o3, Gemini, Claude, Ollama, DeepSeek, Perplexity, Grok, Bielik, chat, vision, voice, RAG, image and video generation, agents, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac",
+  "description": "Desktop AI Assistant powered by GPT-6, GPT-5, Gemini, Claude, Ollama, Grok, DeepSeek, Perplexity, Bielik, chat, agents, vision, voice, RAG, image and video generation, tools, MCP, plugins, speech synthesis and recognition, web search, memory, presets, assistants,and more. Linux, Windows, Mac",
   "description_ja": "",
   "url": "https://github.com/szczyglis-dev/py-gpt",
   "homepage_url": "https://pygpt.net",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
+    "agents",
     "ai",
     "ai-assistant",
     "artificial-intelligence",
@@ -19,7 +20,6 @@
     "deepseek",
     "desktop-app",
     "gemini",
-    "gpt-4",
     "gpt-5",
     "gpt-6-astra",
     "grok",
@@ -31,13 +31,13 @@
     "perplexity",
     "sora2"
   ],
-  "star_count": 1907,
+  "star_count": 1930,
   "fork_count": 345,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-09T23:48:06Z",
-  "updated_at": "2026-09-11T20:15:46Z",
-  "pushed_at": "2026-09-11T17:22:16Z",
+  "updated_at": "2026-09-20T20:38:05Z",
+  "pushed_at": "2026-09-20T19:39:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 1907
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1930
     }
   ]
 }

@@ -3,27 +3,28 @@
   "owner": "rengwu",
   "name": "chartr",
   "full_name": "rengwu/chartr",
-  "description": "Agent multiplexer with spaces, panes, and plugins",
+  "description": "An organizable, terminal-first agentic workspace with plugins",
   "description_ja": "",
   "url": "https://github.com/rengwu/chartr",
   "homepage_url": "https://chartr.dev",
-  "language": "Go",
-  "license": "MIT",
+  "language": "Rust",
+  "license": "GPL-3.0",
   "topics": [
     "agent",
     "agent-multiplexer",
+    "ai",
     "developer-tools",
     "harness",
     "rust",
     "terminal"
   ],
-  "star_count": 321,
+  "star_count": 330,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-21T06:22:36Z",
-  "updated_at": "2026-09-11T06:39:57Z",
-  "pushed_at": "2026-09-07T20:16:13Z",
+  "updated_at": "2026-09-20T21:33:03Z",
+  "pushed_at": "2026-09-19T19:03:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -85,6 +86,10 @@
     {
       "date": "2026-09-11",
       "stars": 321
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 330
     }
   ]
 }

@@ -3,15 +3,17 @@
   "owner": "gprmax",
   "name": "gprmax",
   "full_name": "gprmax/gprmax",
-  "description": "gprMax is open source software that simulates electromagnetic wave propagation using the Finite-Difference Time-Domain (FDTD) method for numerical modelling of Ground Penetrating Radar (GPR)",
-  "description_ja": "gprMaxは、地中レーダー（GPR）の数値モデリングのために時間領域差分法（FDTD）を用いて電磁波伝播をシミュレートするオープンソースソフトウェア",
+  "description": "gprMax is open source software that simulates electromagnetic wave propagation using the Finite-Difference Time-Domain Finite-Difference (FDTD) code for numerical modelling of Ground Penetrating Radar (GPR), antennas, radar and bioelectromagnetics",
+  "description_ja": "",
   "url": "https://github.com/gprMax/gprMax",
-  "homepage_url": "https://www.gprmax.com",
+  "homepage_url": "https://www.gprmax.org",
   "language": "Python",
   "license": "GPL-3.0",
   "topics": [
     "antenna",
+    "bioelectromagnetics",
     "cuda",
+    "electrodynamics",
     "electromagnetic",
     "fdtd",
     "gpr",
@@ -19,16 +21,20 @@
     "modelling",
     "nvidia",
     "python",
+    "radar-cross-section",
+    "radio-frequency",
+    "scattering",
     "simulation",
-    "soil"
+    "soil",
+    "wave-propagation"
   ],
-  "star_count": 882,
-  "fork_count": 389,
+  "star_count": 881,
+  "fork_count": 393,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-09-30T13:14:03Z",
-  "updated_at": "2026-09-11T01:59:26Z",
-  "pushed_at": "2026-09-11T07:08:52Z",
+  "updated_at": "2026-09-20T12:50:00Z",
+  "pushed_at": "2026-09-17T11:43:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +416,10 @@
     {
       "date": "2026-09-11",
       "stars": 882
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 881
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "milon",
   "name": "barcode",
   "full_name": "milon/barcode",
-  "description": "Laravel Barcode Generator",
-  "description_ja": "Laravelバーコードジェネレーター",
+  "description": "Barcode Generator for PHP and Laravel",
+  "description_ja": "",
   "url": "https://github.com/milon/barcode",
   "homepage_url": "",
   "language": "PHP",
@@ -12,15 +12,16 @@
   "topics": [
     "barcode",
     "barcode-generator",
-    "laravel"
+    "laravel",
+    "php"
   ],
-  "star_count": 1478,
+  "star_count": 1480,
   "fork_count": 326,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-02-22T08:09:31Z",
-  "updated_at": "2026-08-26T12:36:18Z",
-  "pushed_at": "2026-02-24T01:49:32Z",
+  "updated_at": "2026-09-18T18:40:27Z",
+  "pushed_at": "2026-09-12T07:29:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +403,10 @@
     {
       "date": "2026-09-11",
       "stars": 1478
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1480
     }
   ]
 }

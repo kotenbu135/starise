@@ -3,24 +3,25 @@
   "owner": "gygy-open",
   "name": "question-bank",
   "full_name": "gygy-open/question-bank",
-  "description": "AI 原生的题库系统，支持桌面版（个人使用、局域网共享）与服务器版",
+  "description": "AI 原生的题库与组稿系统：智能导入 Word/Markdown/图片，自动匹配知识点并生成解析；支持富文本与 LaTeX、多模型 AI、审核工作流，以及 Windows 桌面版和 Docker 服务器部署。",
   "description_ja": "",
   "url": "https://github.com/gygy-open/question-bank",
   "homepage_url": "https://gygy-open.github.io/question-bank/",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
+    "ai",
     "ai-native",
     "education",
     "question-bank"
   ],
-  "star_count": 62,
-  "fork_count": 27,
+  "star_count": 65,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-14T03:49:02Z",
-  "updated_at": "2026-09-11T20:57:48Z",
-  "pushed_at": "2026-09-11T09:17:00Z",
+  "updated_at": "2026-09-19T13:16:23Z",
+  "pushed_at": "2026-09-20T14:56:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +47,10 @@
     {
       "date": "2026-09-11",
       "stars": 62
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 65
     }
   ]
 }

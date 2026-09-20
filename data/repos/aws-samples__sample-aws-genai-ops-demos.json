@@ -6,7 +6,7 @@
   "description": "Deployable code samples demonstrating how generative AI transforms cloud operations. Deploy as-is with one click, or adapt to your specific environment with minimal customization effort.",
   "description_ja": "",
   "url": "https://github.com/aws-samples/sample-aws-genai-ops-demos",
-  "homepage_url": "",
+  "homepage_url": "https://aws-samples.github.io/sample-aws-genai-ops-demos/",
   "language": "Python",
   "license": "MIT-0",
   "topics": [
@@ -15,15 +15,17 @@
     "aws",
     "cloudops-automation",
     "cloudops-engineer",
+    "devops-agent",
+    "durable-functions",
     "genai-usecase"
   ],
-  "star_count": 55,
-  "fork_count": 24,
+  "star_count": 58,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-10T15:56:59Z",
-  "updated_at": "2026-09-11T10:35:37Z",
-  "pushed_at": "2026-09-11T19:22:40Z",
+  "updated_at": "2026-09-18T10:02:15Z",
+  "pushed_at": "2026-09-18T15:03:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -45,6 +47,10 @@
     {
       "date": "2026-09-11",
       "stars": 55
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 58
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "repo_id": "R_kgDOTKq-Mg",
+  "owner": "blackcat-informatics",
+  "name": "purrdf",
+  "full_name": "blackcat-informatics/purrdf",
+  "description": "PurRDF — one RDF 1.2 engine, one behavior, in Rust, Python, WebAssembly and C. Deterministic BM25 full-text search, exact GeoSPARQL 1.1 and embedding kNN answered from SPARQL, in-process, over one dataset: the three jobs a triple store usually kept PostgreSQL beside it for. Plus native codecs, RDFC-1.0, SHACL, ShEx, entailment and GTS transport.",
+  "description_ja": "",
+  "url": "https://github.com/Blackcat-Informatics/purrdf",
+  "homepage_url": "https://blackcatinformatics.ca/purrdf/",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "canonicalization",
+    "deterministic",
+    "full-text-search",
+    "geosparql",
+    "gts",
+    "json-ld",
+    "knowledge-graph",
+    "linked-data",
+    "python",
+    "rdf",
+    "rdf-1-2",
+    "rdf-star",
+    "rust",
+    "semantic-web",
+    "shacl",
+    "shex",
+    "sparql",
+    "sparql-1-2",
+    "turtle",
+    "webassembly"
+  ],
+  "star_count": 46,
+  "fork_count": 1,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-07-01T15:40:37Z",
+  "updated_at": "2026-09-20T22:39:11Z",
+  "pushed_at": "2026-09-20T23:31:25Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-20",
+      "stars": 46
+    }
+  ]
+}

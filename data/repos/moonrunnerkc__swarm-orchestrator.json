@@ -3,41 +3,31 @@
   "owner": "moonrunnerkc",
   "name": "swarm-orchestrator",
   "full_name": "moonrunnerkc/swarm-orchestrator",
-  "description": "A coding agent whose claims about its own work resolve to machine-captured evidence: an append-only hash-chained ledger, gates that retry under a numeric ratchet, and a signed bundle carrying its own verifier that anyone can check offline.",
+  "description": "Contract-first swarm orchestration for AI coding agents, with parallel execution, deterministic verification, adaptive repair, and auditable integration recovery.",
   "description_ja": "",
   "url": "https://github.com/moonrunnerkc/swarm-orchestrator",
   "homepage_url": "https://github.com/moonrunnerkc/swarm-orchestrator#readme",
   "language": "JavaScript",
   "license": "ISC",
   "topics": [
-    "agentic-ai",
+    "agent-orchestration",
     "ai-agents",
-    "anthropic",
-    "audit-trail",
-    "cli",
-    "coding-agent",
-    "evidence",
-    "hash-chain",
-    "llm",
-    "local-llm",
-    "nodejs",
-    "ollama",
-    "openai",
-    "provenance",
-    "quality-gates",
-    "swarm",
-    "tamper-evident",
-    "tui",
-    "typescript",
-    "verification"
+    "automated-repair",
+    "code-agents",
+    "code-review",
+    "deterministic-systems",
+    "developer-tools",
+    "software-verification",
+    "swarm-intelligence",
+    "typescript"
   ],
-  "star_count": 110,
+  "star_count": 111,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-22T23:48:58Z",
-  "updated_at": "2026-09-11T22:44:54Z",
-  "pushed_at": "2026-09-11T22:44:50Z",
+  "updated_at": "2026-09-19T01:08:30Z",
+  "pushed_at": "2026-09-19T01:08:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -179,6 +169,10 @@
     {
       "date": "2026-09-11",
       "stars": 110
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 111
     }
   ]
 }

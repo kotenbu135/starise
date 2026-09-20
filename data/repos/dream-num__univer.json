@@ -3,20 +3,21 @@
   "owner": "dream-num",
   "name": "univer",
   "full_name": "dream-num/univer",
-  "description": "Univer is a full-stack framework for creating and editing spreadsheets / word processor / presentation on both web and server.",
+  "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
   "description_ja": "",
   "url": "https://github.com/dream-num/univer",
   "homepage_url": "https://docs.univer.ai",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
+    "board",
     "collaboration",
     "data-table",
     "doc",
     "docx",
     "excel",
     "grid",
-    "live-share",
+    "pdf",
     "ppt",
     "pptx",
     "presentation",
@@ -29,13 +30,13 @@
     "wordprocessor",
     "xlsx"
   ],
-  "star_count": 14347,
-  "fork_count": 1289,
+  "star_count": 14500,
+  "fork_count": 1304,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-09-29T12:09:14Z",
-  "updated_at": "2026-09-11T17:14:02Z",
-  "pushed_at": "2026-09-11T15:57:41Z",
+  "updated_at": "2026-09-20T18:11:26Z",
+  "pushed_at": "2026-09-20T17:03:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -417,6 +418,10 @@
     {
       "date": "2026-09-11",
       "stars": 14347
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 14500
     }
   ]
 }

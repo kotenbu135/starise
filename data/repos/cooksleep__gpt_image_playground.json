@@ -3,7 +3,7 @@
   "owner": "cooksleep",
   "name": "gpt_image_playground",
   "full_name": "cooksleep/gpt_image_playground",
-  "description": "基于 OpenAI gpt-image-2 API 的图片生成与编辑工具",
+  "description": "基于 OpenAI gpt-image-2.5 API 的图片生成与编辑工具",
   "description_ja": "",
   "url": "https://github.com/CookSleep/gpt_image_playground",
   "homepage_url": "https://gpt-image-playground.cooksleep.dev",
@@ -19,12 +19,12 @@
     "typescript",
     "vite"
   ],
-  "star_count": 3692,
-  "fork_count": 921,
+  "star_count": 3750,
+  "fork_count": 943,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-23T20:18:57Z",
-  "updated_at": "2026-09-11T19:55:16Z",
+  "updated_at": "2026-09-20T19:27:11Z",
   "pushed_at": "2026-09-09T15:23:02Z",
   "deleted_at": "",
   "star_history": [
@@ -375,6 +375,10 @@
     {
       "date": "2026-09-11",
       "stars": 3692
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 3750
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "hiai-gg",
   "name": "docsmint",
   "full_name": "hiai-gg/docsmint",
-  "description": "Self-hosted AI-native knowledge workspace and installable PWA with hybrid search, GraphRAG, REST, SDK, CLI, and MCP access for people and AI agents.",
+  "description": "Open-source knowledge base for people and AI agents. Rich-text editing, hybrid search, GraphRAG, and MCP. Self-host with Docker or use DocsMint Cloud.",
   "description_ja": "",
   "url": "https://github.com/HiAi-gg/docsmint",
   "homepage_url": "https://docsmint.com",
@@ -11,32 +11,33 @@
   "license": "Apache-2.0",
   "topics": [
     "ai-agents",
-    "ai-embeddings",
-    "bun",
+    "docker",
+    "document-management",
     "graphrag",
+    "hybrid-search",
     "knowledge-base",
     "knowledge-management",
     "markdown",
     "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "note-taking",
     "open-source",
-    "pgvector",
-    "progressive-web-app",
     "pwa",
     "rag",
+    "rich-text-editor",
     "self-hosted",
     "semantic-search",
     "sveltekit",
-    "tiptap",
-    "typescript",
-    "wiki"
+    "typescript"
   ],
-  "star_count": 58,
+  "star_count": 55,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-25T20:27:10Z",
-  "updated_at": "2026-09-07T00:43:41Z",
-  "pushed_at": "2026-09-07T00:43:37Z",
+  "updated_at": "2026-09-19T02:36:14Z",
+  "pushed_at": "2026-09-16T19:37:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -142,6 +143,10 @@
     {
       "date": "2026-09-11",
       "stars": 58
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 55
     }
   ]
 }

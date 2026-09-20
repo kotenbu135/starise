@@ -3,29 +3,29 @@
   "owner": "allen7d",
   "name": "mini-shop-server",
   "full_name": "allen7d/mini-shop-server",
-  "description": "基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）---- 相关博客链接:🌟https://deepwiki.com/Allen7D/mini-shop-server",
-  "description_ja": "[2] Flask フレームワークで開発された WeChat ミニプログラムのバックエンドプロジェクト。EC ミニプログラムの管理画面構築用（EC 機能、RBAC 権限管理、Swagger 形式 API ドキュメント自動生成付き、Python 卒業制作にも適する）---- 関連ブログ: 🌟https://deepwiki.com/Allen7D/mini-shop-server",
+  "description": "基于 Flask 框架开发的微信小程序后端项目，用于构建小程序商城后台 （电商相关；rbac权限管理；附带自动生成Swagger 风格的API 文档；可作「Python 项目毕设」）",
+  "description_ja": "",
   "url": "https://github.com/Allen7D/mini-shop-server",
-  "homepage_url": "https://deepwiki.com/Allen7D/mini-shop-server",
+  "homepage_url": "https://allen7d.github.io/mini-shop-docs/",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "flask",
     "mini-shop",
-    "mysql",
+    "postgresql",
     "python",
     "rbac",
     "restful-api",
     "sqlalchemy",
     "swagger"
   ],
-  "star_count": 832,
+  "star_count": 834,
   "fork_count": 218,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-06-16T02:15:04Z",
-  "updated_at": "2026-09-11T11:39:42Z",
-  "pushed_at": "2026-09-11T10:07:03Z",
+  "updated_at": "2026-09-20T06:02:19Z",
+  "pushed_at": "2026-09-15T06:52:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -407,6 +407,10 @@
     {
       "date": "2026-09-11",
       "stars": 832
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 834
     }
   ]
 }

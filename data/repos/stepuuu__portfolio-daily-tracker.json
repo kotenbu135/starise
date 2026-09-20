@@ -3,7 +3,7 @@
   "owner": "stepuuu",
   "name": "portfolio-daily-tracker",
   "full_name": "stepuuu/portfolio-daily-tracker",
-  "description": "Self-hosted portfolio tracker and investment journal: confirmed transactions, multi-currency cash, daily analytics, research notes, offline demo and optional AI assistance.",
+  "description": "Self-hosted portfolio journaling and agent-driven stock research: reproducible experiments, backtesting, durable jobs, API/CLI/MCP extensions, and multi-currency tracking.",
   "description_ja": "",
   "url": "https://github.com/Stepuuu/portfolio-daily-tracker",
   "homepage_url": "",
@@ -14,11 +14,14 @@
     "backtesting",
     "investment-journal",
     "investment-tracker",
+    "mcp",
     "multi-currency",
     "openclaw",
     "portfolio-tracker",
     "quantitative-finance",
+    "quantitative-research",
     "self-hosted",
+    "stock-research",
     "trading-assistant"
   ],
   "star_count": 45,
@@ -26,8 +29,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-17T08:00:44Z",
-  "updated_at": "2026-09-09T08:04:46Z",
-  "pushed_at": "2026-09-09T08:05:37Z",
+  "updated_at": "2026-09-14T13:13:21Z",
+  "pushed_at": "2026-09-14T13:13:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -408,6 +411,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 45
+    },
+    {
+      "date": "2026-09-20",
       "stars": 45
     }
   ]

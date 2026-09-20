@@ -3,12 +3,12 @@
   "owner": "plugin87",
   "name": "ux-ui-agent-skills",
   "full_name": "plugin87/ux-ui-agent-skills",
-  "description": "Turn Claude into a Senior Design Architect — DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework code, 138 design systems, and runnable skills.",
+  "description": "Turn Claude into a senior design architect: DTCG tokens, 50 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 43 objective gates that fail the build instead of faking success.",
   "description_ja": "",
   "url": "https://github.com/plugin87/ux-ui-agent-skills",
-  "homepage_url": "",
+  "homepage_url": "https://plugin87.github.io/ux-ui-agent-skills/",
   "language": "JavaScript",
-  "license": "",
+  "license": "MIT",
   "topics": [
     "accessibility",
     "ai-agents",
@@ -27,13 +27,13 @@
     "ux",
     "wcag"
   ],
-  "star_count": 1091,
-  "fork_count": 114,
+  "star_count": 1429,
+  "fork_count": 146,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-16T13:08:49Z",
-  "updated_at": "2026-09-11T22:59:12Z",
-  "pushed_at": "2026-08-26T15:24:54Z",
+  "updated_at": "2026-09-20T17:48:16Z",
+  "pushed_at": "2026-09-16T02:33:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +47,10 @@
     {
       "date": "2026-09-11",
       "stars": 1091
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1429
     }
   ]
 }

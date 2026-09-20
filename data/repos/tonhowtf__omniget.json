@@ -3,41 +3,41 @@
   "owner": "tonhowtf",
   "name": "omniget",
   "full_name": "tonhowtf/omniget",
-  "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
+  "description": "Udemy \u0026 Hotmart course downloader, YouTube downloader (yt-dlp GUI, 1,800+ sites) + desktop app for AI agents: Claude Code, Codex, Gemini CLI, Ollama. Permissions, undo, jobs, loops until tests pass, MCP server, 156 tools, course player. Free and open source for Windows, macOS and Linux. No terminal. Your files stay on your computer.",
   "description_ja": "",
   "url": "https://github.com/tonhowtf/omniget",
   "homepage_url": "https://tonho.wtf",
   "language": "Rust",
   "license": "GPL-3.0",
   "topics": [
-    "bilibili-downloader",
+    "agent-client-protocol",
+    "ai-agents",
+    "claude-code",
+    "codex-cli",
+    "coding-agent",
     "course-downloader",
     "download-manager",
     "downloader",
-    "epub-reader",
     "hotmart-downloader",
     "instagram-downloader",
+    "local-llm",
+    "mcp-server",
     "media-downloader",
-    "reddit-downloader",
-    "spaced-repetition",
-    "subtitle-downloader",
-    "telegram-downloader",
+    "ollama",
     "tiktok-downloader",
-    "twitch-downloader",
-    "twitter-downloader",
     "udemy-downloader",
     "video-downloader",
     "youtube-downloader",
     "yt-dlp",
     "yt-dlp-gui"
   ],
-  "star_count": 10141,
-  "fork_count": 867,
+  "star_count": 14018,
+  "fork_count": 1230,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T22:44:56Z",
-  "updated_at": "2026-09-11T23:42:32Z",
-  "pushed_at": "2026-09-11T14:08:48Z",
+  "updated_at": "2026-09-20T23:03:53Z",
+  "pushed_at": "2026-09-19T17:01:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 10141
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 14018
     }
   ]
 }

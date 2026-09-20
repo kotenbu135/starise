@@ -3,33 +3,28 @@
   "owner": "mazupo",
   "name": "pi-webrtc",
   "full_name": "mazupo/pi-webrtc",
-  "description": "Real-time WebRTC streaming for Raspberry Pi and NVIDIA Jetson with 100–200 ms glass-to-glass latency.",
+  "description": "Low-latency hardware-accelerated WebRTC video streaming and remote control for Raspberry Pi \u0026 NVIDIA Jetson",
   "description_ja": "",
   "url": "https://github.com/mazupo/pi-webrtc",
   "homepage_url": "https://mazupo.com",
   "language": "C++",
   "license": "Apache-2.0",
   "topics": [
-    "av1",
-    "camera",
-    "embedded-linux",
-    "h264",
-    "jetson",
-    "low-latency",
-    "nvidia",
-    "p2p",
-    "raspberry-pi-camera",
-    "real-time-video",
-    "v4l2",
+    "hardware-encoding",
+    "nvidia-jetson",
+    "raspberry-pi",
+    "realtime-streaming",
+    "remote-control",
+    "video-streaming",
     "webrtc"
   ],
-  "star_count": 989,
+  "star_count": 991,
   "fork_count": 60,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-05-09T06:06:35Z",
-  "updated_at": "2026-09-11T01:55:13Z",
-  "pushed_at": "2026-09-10T14:37:36Z",
+  "updated_at": "2026-09-19T05:03:19Z",
+  "pushed_at": "2026-09-19T05:03:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +406,10 @@
     {
       "date": "2026-09-11",
       "stars": 989
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 991
     }
   ]
 }

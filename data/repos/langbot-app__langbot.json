@@ -6,7 +6,7 @@
   "description": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow",
   "description_ja": "",
   "url": "https://github.com/langbot-app/LangBot",
-  "homepage_url": "https://langbot.app",
+  "homepage_url": "https://cloud.langbot.app",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -31,13 +31,13 @@
     "telegram",
     "wechat"
   ],
-  "star_count": 17737,
-  "fork_count": 1588,
+  "star_count": 17928,
+  "fork_count": 1602,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-07T08:48:02Z",
-  "updated_at": "2026-09-11T22:06:44Z",
-  "pushed_at": "2026-09-11T18:07:37Z",
+  "updated_at": "2026-09-20T16:37:03Z",
+  "pushed_at": "2026-09-20T16:48:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 17737
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 17928
     }
   ]
 }

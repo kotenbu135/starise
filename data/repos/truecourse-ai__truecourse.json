@@ -3,31 +3,30 @@
   "owner": "truecourse-ai",
   "name": "truecourse",
   "full_name": "truecourse-ai/truecourse",
-  "description": "AI-powered architecture analysis and code intelligence. Detects circular deps, layer violations, dead modules, and more. Web UI + CLI.",
+  "description": "Turns the documentation you already write into tests that run. A failing test means your product and your docs disagree, and names the section.",
   "description_ja": "",
   "url": "https://github.com/truecourse-ai/truecourse",
   "homepage_url": "https://truecourse.dev",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "agents",
     "ai",
-    "architecture",
-    "code-analysis",
-    "code-quality",
     "developer-tools",
-    "javascript",
-    "linter",
-    "python",
-    "static-analysis",
+    "documentation",
+    "end-to-end-testing",
+    "llm",
+    "test-automation",
+    "testing",
     "typescript"
   ],
-  "star_count": 528,
+  "star_count": 531,
   "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-13T03:52:40Z",
-  "updated_at": "2026-09-11T08:58:54Z",
-  "pushed_at": "2026-09-11T14:41:02Z",
+  "updated_at": "2026-09-19T00:18:53Z",
+  "pushed_at": "2026-09-19T03:30:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -393,6 +392,10 @@
     {
       "date": "2026-09-11",
       "stars": 528
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 531
     }
   ]
 }

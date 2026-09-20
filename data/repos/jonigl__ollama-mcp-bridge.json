@@ -6,7 +6,7 @@
   "description": "Extend the Ollama API with dynamic AI tool integration from multiple MCP (Model Context Protocol) servers. Fully compatible, transparent, and developer-friendly, ideal for building powerful local LLM applications, AI agents, and custom chatbots",
   "description_ja": "複数のMCP（Model Context Protocol）サーバーからの動的AIツール統合でOllama APIを拡張。完全互換で透過的かつ開発者フレンドリー。強力なローカルLLMアプリ、AIエージェント、カスタムチャットボット構築に最適",
   "url": "https://github.com/jonigl/ollama-mcp-bridge",
-  "homepage_url": "",
+  "homepage_url": "https://jonigl.github.io/ollama-mcp-bridge/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -26,13 +26,13 @@
     "proxy",
     "tools"
   ],
-  "star_count": 98,
-  "fork_count": 37,
+  "star_count": 99,
+  "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-13T19:06:35Z",
-  "updated_at": "2026-08-31T15:30:47Z",
-  "pushed_at": "2026-08-31T14:52:21Z",
+  "updated_at": "2026-09-18T17:40:34Z",
+  "pushed_at": "2026-09-18T17:45:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +410,10 @@
     {
       "date": "2026-09-11",
       "stars": 98
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 99
     }
   ]
 }

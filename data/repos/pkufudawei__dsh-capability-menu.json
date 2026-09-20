@@ -3,23 +3,23 @@
   "owner": "pkufudawei",
   "name": "dsh-capability-menu",
   "full_name": "pkufudawei/dsh-capability-menu",
-  "description": "Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools \u0026 skills via Exposed/Progressive/Blocked tiers.",
+  "description": "一个面向 DeepSeek Harness 的统一能力管理插件，为 Tools/Skills 提供常驻、按需、禁用三档暴露策略，以减少上下文占用并支持运行时动态发现与执行。",
   "description_ja": "",
   "url": "https://github.com/PKUfudawei/dsh-capability-menu",
   "homepage_url": "",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "deepseek-harness",
     "dsh-plugin"
   ],
-  "star_count": 84,
-  "fork_count": 1,
+  "star_count": 86,
+  "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-19T06:30:08Z",
-  "updated_at": "2026-09-08T08:34:46Z",
-  "pushed_at": "2026-09-08T08:34:23Z",
+  "updated_at": "2026-09-20T17:53:34Z",
+  "pushed_at": "2026-09-20T17:54:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -33,6 +33,10 @@
     {
       "date": "2026-09-11",
       "stars": 84
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 86
     }
   ]
 }

@@ -3,29 +3,31 @@
   "owner": "churchcrm",
   "name": "crm",
   "full_name": "churchcrm/crm",
-  "description": "ChurchCRM - A free and open-source Church Management Software (ChMS) to help churches manage their membership data, groups, events, and finances.",
-  "description_ja": "ChurchCRM - 会員データ、グループ、イベント、財務管理を支援する無料のオープンソース教会管理ソフトウェア（ChMS）",
+  "description": "Free, open-source church management software for people, families, groups, events, attendance, giving, volunteers, and more. No subscription. Your data is yours.",
+  "description_ja": "",
   "url": "https://github.com/ChurchCRM/CRM",
-  "homepage_url": "https://ChurchCRM.io",
+  "homepage_url": "https://churchcrm.io/?utm_source=github\u0026utm_medium=referral\u0026utm_campaign=github_content\u0026utm_content=crm_repository_website",
   "language": "PHP",
   "license": "MIT",
   "topics": [
     "attendance-system",
     "calendar",
-    "calendar-events",
     "church",
+    "church-crm",
     "church-management",
     "churchcrm",
     "crm",
-    "database"
+    "membership-management",
+    "open-source",
+    "volunteer-management"
   ],
-  "star_count": 951,
-  "fork_count": 568,
+  "star_count": 957,
+  "fork_count": 570,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-02-16T06:38:40Z",
-  "updated_at": "2026-09-11T20:14:16Z",
-  "pushed_at": "2026-09-11T20:14:11Z",
+  "updated_at": "2026-09-20T02:51:23Z",
+  "pushed_at": "2026-09-20T15:27:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -407,6 +409,10 @@
     {
       "date": "2026-09-11",
       "stars": 951
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 957
     }
   ]
 }

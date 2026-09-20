@@ -3,17 +3,20 @@
   "owner": "wendylabsinc",
   "name": "wendyos",
   "full_name": "wendylabsinc/wendyos",
-  "description": "Infrastructure for Robotics and Edge Compute - deploy in seconds",
+  "description": "Physical AI Harnass for Robotics \u0026 IoT",
   "description_ja": "",
   "url": "https://github.com/wendylabsinc/WendyOS",
   "homepage_url": "https://docs.wendy.dev/latest",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
+    "ai-harness",
     "developer-tools",
+    "dragonwing",
     "edge",
     "edge-computing",
     "embedded-linux",
+    "harnass",
     "iot",
     "jetson",
     "nvidia",
@@ -25,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-04T09:45:50Z",
-  "updated_at": "2026-09-11T22:55:54Z",
-  "pushed_at": "2026-09-11T22:57:35Z",
+  "updated_at": "2026-09-19T17:33:34Z",
+  "pushed_at": "2026-09-20T21:01:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +406,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 88
+    },
+    {
+      "date": "2026-09-20",
       "stars": 88
     }
   ]

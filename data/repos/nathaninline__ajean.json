@@ -3,20 +3,33 @@
   "owner": "nathaninline",
   "name": "ajean",
   "full_name": "nathaninline/ajean",
-  "description": "Vos modèles d'IA tournent chez vous, dans un seul binaire : chat, mémoire persistante, accès web, outils MCP et accès à distance chiffré. Linux, macOS, Windows.",
+  "description": "Run your AI models at home in one binary: chat, persistent memory, web access, browser control, MCP tools, encryption at rest and end-to-end encrypted remote access. Linux, macOS, Windows. FR/EN docs.",
   "description_ja": "",
   "url": "https://github.com/nathaninline/ajean",
   "homepage_url": "https://ajean.app",
   "language": "Go",
   "license": "MIT",
-  "topics": [],
-  "star_count": 68,
-  "fork_count": 16,
+  "topics": [
+    "ai-assistant",
+    "chatbot",
+    "cuda",
+    "gguf",
+    "golang",
+    "inference",
+    "llama-cpp",
+    "llm",
+    "local-ai",
+    "mcp",
+    "privacy",
+    "self-hosted"
+  ],
+  "star_count": 97,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-08T10:54:02Z",
-  "updated_at": "2026-09-11T22:13:27Z",
-  "pushed_at": "2026-09-11T22:13:25Z",
+  "updated_at": "2026-09-20T22:16:32Z",
+  "pushed_at": "2026-09-20T13:56:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -30,6 +43,10 @@
     {
       "date": "2026-09-11",
       "stars": 68
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 97
     }
   ]
 }

@@ -3,26 +3,29 @@
   "owner": "danieltyukov",
   "name": "studocuhack",
   "full_name": "danieltyukov/studocuhack",
-  "description": "Chrome/Firefox Extension for Free Premium Studocu/Studeersnel ",
+  "description": "Browser extension that removes the premium blur, banners and ads on Studocu and Studeersnel, and downloads documents as PDF",
   "description_ja": "",
   "url": "https://github.com/danieltyukov/studocuhack",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "browser-extension",
     "chrome-extension",
     "ethical-hacking",
+    "firefox-addon",
     "firefox-extension",
+    "manifest-v3",
     "studeersnel",
     "studocu"
   ],
-  "star_count": 356,
-  "fork_count": 24,
+  "star_count": 363,
+  "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-18T19:15:03Z",
-  "updated_at": "2026-09-10T20:31:21Z",
-  "pushed_at": "2026-08-14T13:22:16Z",
+  "updated_at": "2026-09-20T08:47:35Z",
+  "pushed_at": "2026-09-20T08:47:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -292,6 +295,10 @@
     {
       "date": "2026-09-11",
       "stars": 356
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 363
     }
   ]
 }

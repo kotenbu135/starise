@@ -3,8 +3,8 @@
   "owner": "logancyang",
   "name": "obsidian-copilot",
   "full_name": "logancyang/obsidian-copilot",
-  "description": "THE Copilot in Obsidian",
-  "description_ja": "Obsidian における THE Copilot",
+  "description": "Run agents in Obsidian - OpenCode, Codex, Claude Code etc.",
+  "description_ja": "",
   "url": "https://github.com/logancyang/obsidian-copilot",
   "homepage_url": "https://www.obsidiancopilot.com",
   "language": "TypeScript",
@@ -16,13 +16,13 @@
     "copilot",
     "obsidian-plugin"
   ],
-  "star_count": 7705,
-  "fork_count": 736,
+  "star_count": 7743,
+  "fork_count": 745,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-31T00:15:29Z",
-  "updated_at": "2026-09-11T13:25:36Z",
-  "pushed_at": "2026-09-11T22:49:58Z",
+  "updated_at": "2026-09-20T20:35:10Z",
+  "pushed_at": "2026-09-20T21:53:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +404,10 @@
     {
       "date": "2026-09-11",
       "stars": 7705
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 7743
     }
   ]
 }

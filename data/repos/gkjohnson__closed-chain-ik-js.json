@@ -6,7 +6,7 @@
   "description": "A generalized inverse kinematics solver that supports closed chains for parallel kinematics systems, dynamic reconfiguration, and arbitrary joint configuration based on damped least squares error minimization techniques",
   "description_ja": "並列キネマティクスシステムの閉リンク、動的再設定、および減衰最小二乗誤差最小化手法に基づく任意の関節構成をサポートする汎用逆運動学ソルバー。",
   "url": "https://github.com/gkjohnson/closed-chain-ik-js",
-  "homepage_url": "https://gkjohnson.github.io/closed-chain-ik-js/dist/index.html",
+  "homepage_url": "https://gkjohnson.github.io/closed-chain-ik-js/",
   "language": "JavaScript",
   "license": "Apache-2.0",
   "topics": [
@@ -25,13 +25,13 @@
     "threejs",
     "urdf"
   ],
-  "star_count": 296,
-  "fork_count": 50,
+  "star_count": 297,
+  "fork_count": 49,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-14T02:58:08Z",
-  "updated_at": "2026-09-10T10:16:27Z",
-  "pushed_at": "2026-09-10T02:20:51Z",
+  "updated_at": "2026-09-20T05:36:52Z",
+  "pushed_at": "2026-09-20T05:36:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -409,6 +409,10 @@
     {
       "date": "2026-09-11",
       "stars": 296
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 297
     }
   ]
 }

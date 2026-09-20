@@ -3,7 +3,7 @@
   "owner": "chenxin-yan",
   "name": "crust",
   "full_name": "chenxin-yan/crust",
-  "description": "A TypeScript CLI framework that ships your commands as a CLI, agent skills, and MCP.",
+  "description": "A TypeScript CLI framework with composable modules for humans and agents.",
   "description_ja": "",
   "url": "https://github.com/chenxin-yan/crust",
   "homepage_url": "https://crustjs.com/",
@@ -17,13 +17,13 @@
     "javascript",
     "typescript"
   ],
-  "star_count": 403,
+  "star_count": 405,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-12T01:39:39Z",
-  "updated_at": "2026-09-11T18:27:41Z",
-  "pushed_at": "2026-09-11T21:49:01Z",
+  "updated_at": "2026-09-20T16:22:22Z",
+  "pushed_at": "2026-09-20T00:55:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -401,6 +401,10 @@
     {
       "date": "2026-09-11",
       "stars": 403
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 405
     }
   ]
 }

@@ -3,20 +3,29 @@
   "owner": "suncityldp",
   "name": "zx-bench",
   "full_name": "suncityldp/zx-bench",
-  "description": "",
+  "description": "A reproducible local LLM benchmarking platform with versioned datasets, deterministic scoring, and auditable reports.",
   "description_ja": "",
   "url": "https://github.com/suncityldp/zx-bench",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 125,
-  "fork_count": 10,
+  "topics": [
+    "ai-evaluation",
+    "benchmarking",
+    "docker",
+    "llm-benchmark",
+    "llm-evaluation",
+    "local-llm",
+    "model-evaluation",
+    "typescript"
+  ],
+  "star_count": 136,
+  "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-17T16:30:00Z",
-  "updated_at": "2026-09-10T05:56:48Z",
-  "pushed_at": "2026-09-08T15:34:47Z",
+  "updated_at": "2026-09-20T17:35:54Z",
+  "pushed_at": "2026-09-20T17:35:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -26,6 +35,10 @@
     {
       "date": "2026-09-11",
       "stars": 125
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 136
     }
   ]
 }

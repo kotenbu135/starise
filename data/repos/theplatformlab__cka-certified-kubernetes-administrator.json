@@ -6,7 +6,7 @@
   "description": "CKA Certification Exam Guide 2026 — study notes, practice questions, kubectl cheat sheet, exam tips, and full Kubernetes v1.35 syllabus breakdown. Covers etcd backup, RBAC, kubeadm, Gateway API, NetworkPolicy, troubleshooting, and killer.sh prep. Scored 89%.",
   "description_ja": "CKA 認定試験ガイド 2026 — 学習ノート・練習問題・kubectl チートシート・試験対策・Kubernetes v1.35 シラバス完全解説。etcd バックアップ・RBAC・kubeadm・Gateway API・NetworkPolicy・トラブルシューティング・killer.sh 対策を網羅。スコア 89%。",
   "url": "https://github.com/theplatformlab/CKA-Certified-Kubernetes-Administrator",
-  "homepage_url": "https://techwithmohamed.com/blog/cka-exam-study/",
+  "homepage_url": "",
   "language": "Shell",
   "license": "MIT",
   "topics": [
@@ -29,13 +29,13 @@
     "kubernetes",
     "kubernetes-troubleshooting"
   ],
-  "star_count": 468,
-  "fork_count": 180,
+  "star_count": 494,
+  "fork_count": 191,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-04T08:21:49Z",
-  "updated_at": "2026-09-11T19:17:57Z",
-  "pushed_at": "2026-08-20T13:38:45Z",
+  "updated_at": "2026-09-20T15:38:58Z",
+  "pushed_at": "2026-09-18T10:03:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -413,6 +413,10 @@
     {
       "date": "2026-09-11",
       "stars": 468
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 494
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "imboy-pub",
   "name": "imboy-flutter",
   "full_name": "imboy-pub/imboy-flutter",
-  "description": "使用erlang做后端、flutter做前端开发的一款开源的即时聊天解决方案（基于erlang/otp的高性能web框架 cowboy 做后端服务，用 \"8核16G 主机（100万PPS）\"压测，保持100万+TCP稳定在线90分钟以上） 支持基于webrtc 一对一视频通话功能。Android体验 https://www.pgyer.com/imboy-app",
+  "description": "使用erlang做后端、flutter做前端开发的一款开源的即时聊天解决方案（基于erlang/otp的高性能web框架 cowboy 做后端服务，用 \"8核16G 主机（100万PPS）\"压测，保持100万+TCP稳定在线90分钟以上） 支持基于webrtc 一对一视频通话功能。Android体验  https://loadly.io/imboyapp",
   "description_ja": "",
   "url": "https://github.com/imboy-pub/imboy-flutter",
   "homepage_url": "",
@@ -19,8 +19,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-09-16T05:39:22Z",
-  "updated_at": "2026-09-09T01:30:23Z",
-  "pushed_at": "2026-09-08T06:54:19Z",
+  "updated_at": "2026-09-16T02:46:15Z",
+  "pushed_at": "2026-09-15T09:23:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -333,6 +333,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 65
+    },
+    {
+      "date": "2026-09-20",
       "stars": 65
     }
   ]

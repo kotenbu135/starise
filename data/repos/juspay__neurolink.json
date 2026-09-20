@@ -3,7 +3,7 @@
   "owner": "juspay",
   "name": "neurolink",
   "full_name": "juspay/neurolink",
-  "description": "One TypeScript interface for 24+ LLM providers — swap providers without rewriting. MCP-native (connect any MCP server), voice (TTS/STT/realtime), RAG, memory, file processors. Production-origin: powers Tara, Yama, and Clairvoyance at Juspay.",
+  "description": "One TypeScript interface for 40 AI providers across three inference types — generate, stream, and decide. Decide returns typed, calibrated judgments (boolean/choice/score) via TypeSafe Jev, not text. MCP-native, voice (TTS/STT/realtime), RAG, memory, file processors. Powers Tara, Yama and Clairvoyance at Juspay.",
   "description_ja": "",
   "url": "https://github.com/juspay/neurolink",
   "homepage_url": "https://neurolink.ink",
@@ -12,13 +12,12 @@
   "topics": [
     "agents",
     "ai",
-    "ai-development",
-    "ai-platform",
     "ai-sdk",
     "anthropic",
     "automation",
+    "decision-model",
     "developer-tools",
-    "enterprise",
+    "jev",
     "llm",
     "local-first",
     "mcp",
@@ -28,16 +27,17 @@
     "rag",
     "stt",
     "tts",
+    "typesafe-ai",
     "typescript",
     "voice-ai"
   ],
-  "star_count": 133,
-  "fork_count": 125,
+  "star_count": 134,
+  "fork_count": 126,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-31T15:05:42Z",
-  "updated_at": "2026-09-10T19:51:30Z",
-  "pushed_at": "2026-09-11T22:20:55Z",
+  "updated_at": "2026-09-20T19:14:11Z",
+  "pushed_at": "2026-09-20T20:22:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -303,6 +303,10 @@
     {
       "date": "2026-09-11",
       "stars": 133
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 134
     }
   ]
 }

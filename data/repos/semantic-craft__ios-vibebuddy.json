@@ -3,7 +3,7 @@
   "owner": "semantic-craft",
   "name": "ios-vibebuddy",
   "full_name": "semantic-craft/ios-vibebuddy",
-  "description": "Track Claude Code, Codex and Grok Build tasks, observe Grok Bot, and check Cursor usage across Mac, iPhone \u0026 Apple Watch. Optional voice and summaries. Free, local-first, MIT.",
+  "description": "Native Mac, iPhone \u0026 Apple Watch companion for Claude Code, Codex, Grok and Cursor. Task inbox, wrist notifications, agent handoffs, quota widgets, optional voice and summaries. Free and open source.",
   "description_ja": "",
   "url": "https://github.com/semantic-craft/iOS-vibebuddy",
   "homepage_url": "",
@@ -28,13 +28,13 @@
     "swiftui",
     "watchos"
   ],
-  "star_count": 87,
-  "fork_count": 1,
+  "star_count": 89,
+  "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-04T11:33:49Z",
-  "updated_at": "2026-09-11T19:43:25Z",
-  "pushed_at": "2026-09-11T19:43:19Z",
+  "updated_at": "2026-09-20T15:49:41Z",
+  "pushed_at": "2026-09-20T15:49:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -264,6 +264,10 @@
     {
       "date": "2026-09-11",
       "stars": 87
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 89
     }
   ]
 }

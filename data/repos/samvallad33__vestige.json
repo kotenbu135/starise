@@ -3,39 +3,39 @@
   "owner": "samvallad33",
   "name": "vestige",
   "full_name": "samvallad33/vestige",
-  "description": "Vestige enhances agents by deterministic root-cause retrieval that reaches backward through time to find the quiet change, decision, or service that caused today’s failure, not the lookalike.",
+  "description": "Cognitive Deterministic Memory Security OS for Agentic AI that reaches backward through time to find the quiet change behind today's failure, not the lookalike. Intelligence is not a cloud subscription, its a data structure",
   "description_ja": "",
   "url": "https://github.com/samvallad33/vestige",
   "homepage_url": "https://github.com/samvallad33/vestige",
   "language": "Rust",
   "license": "AGPL-3.0",
   "topics": [
-    "agent-mcp",
+    "agent-memory",
     "agent-telemetry",
-    "agentic-state-drift",
+    "ai-agents",
     "ai-memory",
     "claude",
     "claude-code",
-    "context-inflation",
-    "execution-safety",
     "fsrs",
     "local-first",
+    "long-term-memory",
     "mcp",
     "mcp-server",
     "model-context-protocol",
     "neuroscience",
-    "prompt-economics",
     "rust",
     "security",
+    "security-kernel",
+    "spaced-repetition",
     "token-efficiency"
   ],
-  "star_count": 620,
-  "fork_count": 67,
+  "star_count": 628,
+  "fork_count": 68,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-25T07:31:09Z",
-  "updated_at": "2026-09-11T18:18:12Z",
-  "pushed_at": "2026-09-10T22:58:19Z",
+  "updated_at": "2026-09-18T17:06:27Z",
+  "pushed_at": "2026-09-18T04:41:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -401,6 +401,10 @@
     {
       "date": "2026-09-11",
       "stars": 620
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 628
     }
   ]
 }

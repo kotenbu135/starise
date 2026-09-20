@@ -6,7 +6,7 @@
   "description": "Run and supervise teams of coding agents from planning to merge. Any harness (Claude code, codex, +25 more). Desktop, web, mobile, and cloud agents.",
   "description_ja": "",
   "url": "https://github.com/Untrivial-ai/agent-orchestrator",
-  "homepage_url": "https://useao.dev",
+  "homepage_url": "orchestrator.inc",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
@@ -24,13 +24,13 @@
     "parallel-coding",
     "skills"
   ],
-  "star_count": 11619,
-  "fork_count": 1619,
+  "star_count": 12221,
+  "fork_count": 1696,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-13T09:52:36Z",
-  "updated_at": "2026-09-11T23:43:33Z",
-  "pushed_at": "2026-09-11T23:42:10Z",
+  "updated_at": "2026-09-20T23:21:30Z",
+  "pushed_at": "2026-09-20T22:41:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -412,6 +412,10 @@
     {
       "date": "2026-09-11",
       "stars": 11619
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 12221
     }
   ]
 }

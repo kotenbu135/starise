@@ -3,8 +3,8 @@
   "owner": "axlon",
   "name": "laravel-postal-code-validation",
   "full_name": "axlon/laravel-postal-code-validation",
-  "description": "Worldwide postal code validation for Laravel and Lumen",
-  "description_ja": "LaravelとLumen向け全世界郵便番号バリデーション",
+  "description": "Worldwide postal code validation for Laravel",
+  "description_ja": "",
   "url": "https://github.com/axlon/laravel-postal-code-validation",
   "homepage_url": "",
   "language": "PHP",
@@ -12,7 +12,6 @@
   "topics": [
     "laravel",
     "laravel-package",
-    "lumen",
     "postal-code",
     "validation",
     "zip-code"
@@ -22,8 +21,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-12-06T17:58:43Z",
-  "updated_at": "2026-09-06T18:56:41Z",
-  "pushed_at": "2026-08-30T21:03:28Z",
+  "updated_at": "2026-09-20T21:27:41Z",
+  "pushed_at": "2026-09-20T20:59:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +403,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 390
+    },
+    {
+      "date": "2026-09-20",
       "stars": 390
     }
   ]

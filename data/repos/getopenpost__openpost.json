@@ -3,7 +3,7 @@
   "owner": "getopenpost",
   "name": "openpost",
   "full_name": "getopenpost/openpost",
-  "description": "Your socials, on steroids.",
+  "description": "Create, adapt, schedule, and track social posts. Open-source, hosted or self-hosted.",
   "description_ja": "",
   "url": "https://github.com/getopenpost/openpost",
   "homepage_url": "https://openpo.st",
@@ -11,19 +11,27 @@
   "license": "AGPL-3.0",
   "topics": [
     "automation",
+    "buffer-alternative",
+    "content-creation",
+    "cross-posting",
     "golang",
+    "mcp-server",
     "self-hosted",
     "single-binary",
     "social-media",
-    "svelte"
+    "social-media-automation",
+    "social-media-management",
+    "social-media-scheduler",
+    "svelte",
+    "sveltekit"
   ],
-  "star_count": 135,
-  "fork_count": 17,
+  "star_count": 591,
+  "fork_count": 71,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-21T11:12:13Z",
-  "updated_at": "2026-09-11T22:21:18Z",
-  "pushed_at": "2026-09-11T14:54:08Z",
+  "updated_at": "2026-09-20T20:55:14Z",
+  "pushed_at": "2026-09-20T20:55:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +45,10 @@
     {
       "date": "2026-09-11",
       "stars": 135
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 591
     }
   ]
 }

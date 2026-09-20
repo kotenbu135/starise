@@ -3,7 +3,7 @@
   "owner": "cofy-x",
   "name": "axern",
   "full_name": "cofy-x/axern",
-  "description": "Open-source sandboxes for AI agents, untrusted code execution, and durable services.",
+  "description": "Secure, reproducible sandboxes for AI agent evaluation, training, and data synthesis.",
   "description_ja": "",
   "url": "https://github.com/cofy-x/axern",
   "homepage_url": "https://axern.cofy-x.space",
@@ -23,13 +23,13 @@
     "sandbox",
     "self-hosted"
   ],
-  "star_count": 59,
-  "fork_count": 4,
+  "star_count": 67,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-28T05:45:33Z",
-  "updated_at": "2026-09-11T18:21:35Z",
-  "pushed_at": "2026-09-11T18:21:36Z",
+  "updated_at": "2026-09-20T11:48:18Z",
+  "pushed_at": "2026-09-20T12:12:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -87,6 +87,10 @@
     {
       "date": "2026-09-11",
       "stars": 59
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 67
     }
   ]
 }

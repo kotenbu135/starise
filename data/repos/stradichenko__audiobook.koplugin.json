@@ -7,7 +7,7 @@
   "description_ja": "Bluetooth コントローラー対応のTTS機能を提供するプラグイン",
   "url": "https://github.com/stradichenko/audiobook.koplugin",
   "homepage_url": "",
-  "language": "Lua",
+  "language": "C",
   "license": "AGPL-3.0",
   "topics": [
     "audio-streaming",
@@ -16,13 +16,13 @@
     "koreader-plugins",
     "tts-engines"
   ],
-  "star_count": 145,
-  "fork_count": 11,
+  "star_count": 149,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-14T15:07:10Z",
-  "updated_at": "2026-09-11T16:13:49Z",
-  "pushed_at": "2026-09-11T16:13:44Z",
+  "updated_at": "2026-09-19T14:51:46Z",
+  "pushed_at": "2026-09-17T12:58:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +404,10 @@
     {
       "date": "2026-09-11",
       "stars": 145
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 149
     }
   ]
 }

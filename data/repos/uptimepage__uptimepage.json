@@ -1,0 +1,46 @@
+{
+  "repo_id": "R_kgDOSbJ67w",
+  "owner": "uptimepage",
+  "name": "uptimepage",
+  "full_name": "uptimepage/uptimepage",
+  "description": "Hosted uptime monitoring and public status pages for teams. Multi-region checks, automatic incidents, on-call alerts (Slack/Telegram/webhook/+), subscribers, REST API, Terraform provider, MCP server. Eight check types including browser login flows, cron heartbeats, DNS, TLS and domain expiry. AGPL source, self-host the same build.",
+  "description_ja": "",
+  "url": "https://github.com/uptimepage/uptimepage",
+  "homepage_url": "https://app.uptimepage.dev",
+  "language": "Rust",
+  "license": "AGPL-3.0",
+  "topics": [
+    "browser-monitoring",
+    "clickhouse",
+    "devops",
+    "healthcheck",
+    "incident-management",
+    "mcp",
+    "monitoring",
+    "observability",
+    "rust",
+    "self-hosted",
+    "sre",
+    "status-page",
+    "statuspage-alternative",
+    "synthetic-monitoring",
+    "terraform-provider",
+    "uptime-monitor",
+    "uptime-monitoring",
+    "uptimerobot-alternative"
+  ],
+  "star_count": 34,
+  "fork_count": 8,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-05-12T08:40:11Z",
+  "updated_at": "2026-09-20T15:26:59Z",
+  "pushed_at": "2026-09-20T15:26:54Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-20",
+      "stars": 34
+    }
+  ]
+}

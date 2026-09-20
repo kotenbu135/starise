@@ -3,7 +3,7 @@
   "owner": "nwflower",
   "name": "dsh-chat-import",
   "full_name": "nwflower/dsh-chat-import",
-  "description": "Import 14+ external agent chat histories (Claude Code, Codex, ChatGPT, Cursor, Gemini, Reasonix, opencode, ZCode, Grok Build, OpenClaw, Pi, Hermes, Kimi CLI, DSH) into DeepSeek Harness as resumable sessions — full-fidelity, reverse export/sync, bundle backup. | 从 Claude Code、Codex、Reasonix 等 Agent 工具导入历史消息到 DeepSeek Harness 并继续对话。",
+  "description": "Import conversation history from 25+ AI coding agents into DeepSeek Harness as resumable sessions — tool calls, reasoning and results kept intact, with reverse export and sync. | 把 25+ AI 编程 Agent 的聊天记录导入 DeepSeek Harness 继续对话，保留工具调用、推理与结果，支持反向导出与同步。",
   "description_ja": "",
   "url": "https://github.com/Nwflower/dsh-chat-import",
   "homepage_url": "https://www.npmjs.com/package/dsh-chat-import",
@@ -31,13 +31,13 @@
     "sessions",
     "transcript"
   ],
-  "star_count": 154,
-  "fork_count": 19,
+  "star_count": 190,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-13T14:21:58Z",
-  "updated_at": "2026-09-11T17:08:47Z",
-  "pushed_at": "2026-09-10T15:08:31Z",
+  "updated_at": "2026-09-20T07:30:57Z",
+  "pushed_at": "2026-09-20T07:31:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +71,10 @@
     {
       "date": "2026-09-11",
       "stars": 154
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 190
     }
   ]
 }

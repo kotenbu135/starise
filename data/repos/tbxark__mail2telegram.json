@@ -3,10 +3,10 @@
   "owner": "tbxark",
   "name": "mail2telegram",
   "full_name": "tbxark/mail2telegram",
-  "description": "Forward email to telegram with Cloudflare Email Routing",
+  "description": "Receive email in Telegram: instant push notifications plus a Mini App inbox.",
   "description_ja": "",
   "url": "https://github.com/tbxark/mail2telegram",
-  "homepage_url": "https://deepwiki.com/TBXark/mail2telegram",
+  "homepage_url": "https://mail2telegram.tbxark.workers.dev",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -21,13 +21,13 @@
     "telegram-mini-apps",
     "telegram-web-apps"
   ],
-  "star_count": 891,
-  "fork_count": 129,
+  "star_count": 895,
+  "fork_count": 132,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-13T08:36:10Z",
-  "updated_at": "2026-09-09T15:32:01Z",
-  "pushed_at": "2026-09-06T07:53:06Z",
+  "updated_at": "2026-09-20T10:36:32Z",
+  "pushed_at": "2026-09-16T05:42:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -169,6 +169,10 @@
     {
       "date": "2026-09-11",
       "stars": 891
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 895
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "goptics",
   "name": "vizb",
   "full_name": "goptics/vizb",
-  "description": "One command turns CSV, JSON, or benchmark data into interactive, self-contained HTML charts. 8 types (Bar, Line, Scatter, Heatmap, Sankey, Chord, Pie, Radar) with 3D. Local CLI, Docker, and CI/CD.",
+  "description": "A Consistent Data Visualizer for Agents and Humans",
   "description_ja": "",
   "url": "https://github.com/goptics/vizb",
   "homepage_url": "https://vizb.goptics.org",
@@ -11,6 +11,7 @@
   "license": "MIT",
   "topics": [
     "3d-charts",
+    "ai-agents",
     "benchmark",
     "chart",
     "ci-cd",
@@ -26,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-17T12:53:37Z",
-  "updated_at": "2026-09-10T14:28:14Z",
-  "pushed_at": "2026-09-11T15:49:38Z",
+  "updated_at": "2026-09-18T17:31:23Z",
+  "pushed_at": "2026-09-19T03:35:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -208,6 +209,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 91
+    },
+    {
+      "date": "2026-09-20",
       "stars": 91
     }
   ]

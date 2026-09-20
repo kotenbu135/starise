@@ -3,10 +3,10 @@
   "owner": "mkbhardwas12",
   "name": "pwned-deps",
   "full_name": "mkbhardwas12/pwned-deps",
-  "description": "Lockfile-first scanner for compromised npm/PyPI/Maven/Cargo/Go/RubyGems packages — OSV + curated extras feed, SLSA L3, locked-container CI",
+  "description": "Is your lockfile pwned? 5-second scan of npm/PyPI/Maven/Cargo/Go/RubyGems lockfiles for compromised packages — OSV + curated campaign feed, --min-age cooling-off gate, exit 4 when a scan is incomplete. SLSA L3, Sigstore-signed feed.",
   "description_ja": "",
   "url": "https://github.com/mkbhardwas12/pwned-deps",
-  "homepage_url": "https://pypi.org/project/pwned-deps/",
+  "homepage_url": "https://mkbhardwas12.github.io/pwned-deps/simulator.html",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -31,13 +31,13 @@
     "supply-chain-security",
     "vulnerability-scanner"
   ],
-  "star_count": 163,
-  "fork_count": 172,
+  "star_count": 164,
+  "fork_count": 174,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-05T01:25:24Z",
-  "updated_at": "2026-08-20T22:13:26Z",
-  "pushed_at": "2026-05-05T21:51:51Z",
+  "updated_at": "2026-09-20T12:42:26Z",
+  "pushed_at": "2026-09-20T12:38:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -379,6 +379,10 @@
     {
       "date": "2026-09-11",
       "stars": 163
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 164
     }
   ]
 }

@@ -3,36 +3,41 @@
   "owner": "zekainie",
   "name": "universal-examprep-skill",
   "full_name": "zekainie/universal-examprep-skill",
-  "description": "Last-night exam-cram coach as a Claude Agent Skill: turns your slides, notes and past papers into a chaptered knowledge base + quiz bank, teaches only what's in your materials, and never fabricates (measured 100% out-of-scope abstention). Bilingual EN/中文 — the 期末极速备考 skill.",
+  "description": "Exam Cram Coach · 跨会话记忆与讲义溯源防幻觉的极速备考教练 | AI exam-prep tutor for Claude Code, Cursor, Codex, Antigravity: teaches from slides with page citations, crops figures, quizzes with real homework, runs smoothly on small cheap models. 期末复习·考前突击·刷题·错题本·小抄",
   "description_ja": "",
   "url": "https://github.com/ZeKaiNie/universal-examprep-skill",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/ZeKaiNie/universal-examprep-skill/releases/latest",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "active-learning",
     "agent-skill",
     "ai-tutor",
-    "anthropic",
     "anti-hallucination",
-    "claude",
+    "antigravity",
+    "cheat-sheet",
     "claude-code",
-    "claude-skill",
+    "codex",
     "cram",
-    "edtech",
+    "cursor",
     "education",
     "exam-prep",
-    "llm",
+    "flashcards",
+    "gemini-cli",
+    "pdf",
+    "persistent-memory",
     "quiz",
     "rag",
-    "study-tool"
+    "study-tool",
+    "windsurf"
   ],
-  "star_count": 282,
+  "star_count": 285,
   "fork_count": 16,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-24T15:25:04Z",
-  "updated_at": "2026-09-11T12:31:35Z",
-  "pushed_at": "2026-09-02T05:51:07Z",
+  "updated_at": "2026-09-20T09:24:45Z",
+  "pushed_at": "2026-09-18T12:13:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -150,6 +155,10 @@
     {
       "date": "2026-09-11",
       "stars": 282
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 285
     }
   ]
 }

@@ -6,32 +6,42 @@
   "description": "Digital authentication and identity validation, ASP.NET Core, Identity, Duende, Passkeys, Aspire, swiyu",
   "description_ja": "",
   "url": "https://github.com/swiss-ssi-group/swiyu-passkeys-idp-loi-loa",
-  "homepage_url": "https://identity-provider.livelysand-4f5c661d.switzerlandnorth.azurecontainerapps.io/",
+  "homepage_url": "https://web-client.livelysand-4f5c661d.switzerlandnorth.azurecontainerapps.io/",
   "language": "C#",
   "license": "Apache-2.0",
   "topics": [
     "aspire",
+    "ch",
     "dotnet",
     "dpop",
     "duende",
+    "eid",
     "iam",
     "identity",
+    "idp",
     "oauth",
     "oauth2",
     "oidc",
-    "passkeys"
+    "openid",
+    "passkeys",
+    "swiss-made",
+    "swiyu"
   ],
   "star_count": 9,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-21T16:45:09Z",
-  "updated_at": "2026-09-11T19:20:54Z",
-  "pushed_at": "2026-09-11T19:20:50Z",
+  "updated_at": "2026-09-19T07:13:18Z",
+  "pushed_at": "2026-09-18T10:19:41Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-11",
+      "stars": 9
+    },
+    {
+      "date": "2026-09-20",
       "stars": 9
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "openeverest",
   "name": "openeverest",
   "full_name": "openeverest/openeverest",
-  "description": "OpenEverest is an open-source platform for automated database provisioning and management. It supports multiple database technologies and can be hosted on any Kubernetes infrastructure, in the cloud or on-premises.",
-  "description_ja": "OpenEverestは、データベースの自動プロビジョニングと管理のためのオープンソースプラットフォームです。複数のデータベース技術をサポートし、クラウドやオンプレミスを問わず任意のKubernetesインフラにホスト可能です",
+  "description": "OpenEverest is an open-source platform for automated database, storage and LLMs provisioning and management. It supports multiple technologies and can be hosted on any Kubernetes infrastructure, in the cloud or on-premises.",
+  "description_ja": "",
   "url": "https://github.com/openeverest/openeverest",
   "homepage_url": "https://openeverest.io/",
   "language": "TypeScript",
@@ -16,13 +16,13 @@
     "open-source",
     "storage"
   ],
-  "star_count": 913,
-  "fork_count": 213,
+  "star_count": 923,
+  "fork_count": 215,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-01-04T19:24:05Z",
-  "updated_at": "2026-09-11T13:13:25Z",
-  "pushed_at": "2026-09-11T12:16:50Z",
+  "updated_at": "2026-09-20T11:13:40Z",
+  "pushed_at": "2026-09-20T11:15:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +404,10 @@
     {
       "date": "2026-09-11",
       "stars": 913
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 923
     }
   ]
 }

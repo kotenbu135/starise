@@ -3,10 +3,10 @@
   "owner": "iamahsanmehmood",
   "name": "openskp",
   "full_name": "iamahsanmehmood/openskp",
-  "description": "Open-source SketchUp (.skp) binary file parser - extract geometry, metadata, layers, and materials; export to GLB, OBJ, STL, PLY, DXF, and IFC4. Python, TypeScript, .NET, Dart, and C++.",
+  "description": "Open-source SketchUp (.skp) reader, writer, and converter - parse, create, and edit .skp files; export to GLB, OBJ, STL, PLY, DXF, IFC4, and Fragments. Python, TypeScript, .NET, Dart, and C++.",
   "description_ja": "",
   "url": "https://github.com/iamahsanmehmood/openskp",
-  "homepage_url": "openskp.com",
+  "homepage_url": "https://openskp.com",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "skp",
     "typescript"
   ],
-  "star_count": 43,
-  "fork_count": 16,
+  "star_count": 52,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-18T06:04:59Z",
-  "updated_at": "2026-09-11T18:17:12Z",
-  "pushed_at": "2026-09-11T18:17:08Z",
+  "updated_at": "2026-09-20T16:34:42Z",
+  "pushed_at": "2026-09-20T11:23:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -59,6 +59,10 @@
     {
       "date": "2026-09-11",
       "stars": 43
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 52
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "Ghidra is a software reverse engineering (SRE) framework",
   "description_ja": "Ghidra はソフトウェアリバースエンジニアリング（SRE）フレームワーク",
   "url": "https://github.com/NationalSecurityAgency/ghidra",
-  "homepage_url": "https://www.nsa.gov/ghidra",
+  "homepage_url": "",
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [
@@ -14,13 +14,13 @@
     "reverse-engineering",
     "software-analysis"
   ],
-  "star_count": 74828,
-  "fork_count": 8161,
+  "star_count": 79164,
+  "fork_count": 8773,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-03-01T03:27:48Z",
-  "updated_at": "2026-09-11T23:04:00Z",
-  "pushed_at": "2026-09-11T15:14:34Z",
+  "updated_at": "2026-09-20T22:36:29Z",
+  "pushed_at": "2026-09-18T10:01:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +410,10 @@
     {
       "date": "2026-09-11",
       "stars": 74828
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 79164
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "ASPECT: The Advanced Solver for Planetary Evolution, Convection, and Tectonics. A parallel, extensible finite element code.",
   "description_ja": "",
   "url": "https://github.com/geodynamics/aspect",
-  "homepage_url": "https://aspect.geodynamics.org/",
+  "homepage_url": "https://aspect.geodynamics.org",
   "language": "C++",
   "license": "NOASSERTION",
   "topics": [
@@ -17,13 +17,13 @@
     "high-performance-computing",
     "mantle-convection"
   ],
-  "star_count": 307,
+  "star_count": 308,
   "fork_count": 277,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-05-06T16:47:18Z",
-  "updated_at": "2026-09-11T16:36:55Z",
-  "pushed_at": "2026-09-11T16:36:49Z",
+  "updated_at": "2026-09-17T15:30:44Z",
+  "pushed_at": "2026-09-19T22:32:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -249,6 +249,10 @@
     {
       "date": "2026-09-11",
       "stars": 307
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 308
     }
   ]
 }

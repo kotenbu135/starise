@@ -3,20 +3,29 @@
   "owner": "d4nte85",
   "name": "solakon-one-nulleinspeisung-blueprint-homeassistant",
   "full_name": "d4nte85/solakon-one-nulleinspeisung-blueprint-homeassistant",
-  "description": "",
+  "description": "Home Assistant Blueprint for Solakon ONE zero export (Nulleinspeisung) — PI controller, SOC zones, surplus feed-in, tariff arbitrage, multi-instancing. DE on main, EN on Solakon-ONE-Zero-Export.",
   "description_ja": "",
   "url": "https://github.com/D4nte85/Solakon-One-Nulleinspeisung-Blueprint-homeassistant",
   "homepage_url": "",
   "language": "",
-  "license": "",
-  "topics": [],
-  "star_count": 60,
+  "license": "MIT",
+  "topics": [
+    "battery-storage",
+    "blueprint",
+    "home-assistant",
+    "home-assistant-blueprint",
+    "nulleinspeisung",
+    "solakon",
+    "solar",
+    "zero-export"
+  ],
+  "star_count": 62,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-25T13:28:22Z",
-  "updated_at": "2026-09-08T17:05:37Z",
-  "pushed_at": "2026-09-02T18:11:25Z",
+  "updated_at": "2026-09-20T20:01:59Z",
+  "pushed_at": "2026-09-20T20:02:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -90,6 +99,10 @@
     {
       "date": "2026-09-11",
       "stars": 60
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 62
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "chris-ritsen",
   "name": "network-audio-controller",
   "full_name": "chris-ritsen/network-audio-controller",
-  "description": "Cross-platform control of Dante network audio devices without Dante Controller",
-  "description_ja": "Dante Controllerを使わずにDanteネットワークオーディオデバイスをクロスプラットフォームで制御する",
+  "description": "Unofficial Dante Controller alternative for iOS/iPadOS, Linux, macOS, Windows, and the web. Discover, route, configure, meter, and monitor Dante audio devices with a native iPhone/iPad app, CLI, browser interface, daemon, and API.",
+  "description_ja": "",
   "url": "https://github.com/chris-ritsen/network-audio-controller",
-  "homepage_url": "",
+  "homepage_url": "https://netaudio.app",
   "language": "Python",
   "license": "Unlicense",
   "topics": [
@@ -21,13 +21,13 @@
     "network",
     "python"
   ],
-  "star_count": 354,
+  "star_count": 355,
   "fork_count": 42,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-26T21:16:19Z",
-  "updated_at": "2026-09-11T19:47:58Z",
-  "pushed_at": "2026-09-11T19:21:27Z",
+  "updated_at": "2026-09-18T17:36:31Z",
+  "pushed_at": "2026-09-18T17:36:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +405,10 @@
     {
       "date": "2026-09-11",
       "stars": 354
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 355
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "jub0t",
   "name": "concat",
   "full_name": "jub0t/concat",
-  "description": "Free \u0026 Open-Source CapCut replacement.",
+  "description": "Free \u0026 Open-Source CapCut replacement (supports MCPs).",
   "description_ja": "",
   "url": "https://github.com/jub0t/Concat",
-  "homepage_url": "",
+  "homepage_url": "https://concatenate.pages.dev",
   "language": "Rust",
   "license": "AGPL-3.0",
   "topics": [
@@ -30,13 +30,13 @@
     "video-processing-tool",
     "whisper-cpp"
   ],
-  "star_count": 1606,
-  "fork_count": 150,
+  "star_count": 3018,
+  "fork_count": 269,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-25T18:34:47Z",
-  "updated_at": "2026-09-11T22:25:10Z",
-  "pushed_at": "2026-09-10T21:17:28Z",
+  "updated_at": "2026-09-20T22:17:37Z",
+  "pushed_at": "2026-09-20T11:03:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-09-11",
       "stars": 1606
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 3018
     }
   ]
 }

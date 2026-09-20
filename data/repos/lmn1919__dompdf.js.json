@@ -3,7 +3,7 @@
   "owner": "lmn1919",
   "name": "dompdf.js",
   "full_name": "lmn1919/dompdf.js",
-  "description": "Turn HTML into a 500-page vector PDF in 1 second. Open source.",
+  "description": "HTML to PDF in the browser — one line of code for selectable, searchable vector PDFs (10,000+ pages). Pure frontend: zero backend, zero runtime deps. TypeScript over a Rust + WebAssembly engine; an html2canvas/jsPDF alternative.",
   "description_ja": "",
   "url": "https://github.com/lmn1919/dompdf.js",
   "homepage_url": "https://dompdfjs.lisky.com.cn",
@@ -17,13 +17,13 @@
     "pdf-generation",
     "vector-pdf"
   ],
-  "star_count": 1650,
-  "fork_count": 105,
+  "star_count": 1716,
+  "fork_count": 110,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-03T08:56:32Z",
-  "updated_at": "2026-09-11T16:31:36Z",
-  "pushed_at": "2026-09-11T10:34:39Z",
+  "updated_at": "2026-09-20T16:03:19Z",
+  "pushed_at": "2026-09-20T16:03:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -357,6 +357,10 @@
     {
       "date": "2026-09-11",
       "stars": 1650
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1716
     }
   ]
 }

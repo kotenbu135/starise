@@ -10,7 +10,6 @@
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
-    "api",
     "api-client",
     "automation",
     "bruno-alternative",
@@ -19,8 +18,9 @@
     "graphql",
     "http-client",
     "insomnia-alternative",
-    "javascript",
     "markdown",
+    "mcp-client",
+    "mcp-tools",
     "offline-first",
     "openapi",
     "openapi3",
@@ -31,12 +31,12 @@
     "testing",
     "websocket"
   ],
-  "star_count": 1713,
-  "fork_count": 79,
+  "star_count": 1769,
+  "fork_count": 80,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-09T23:35:11Z",
-  "updated_at": "2026-09-11T23:01:21Z",
+  "updated_at": "2026-09-20T17:04:38Z",
   "pushed_at": "2026-09-11T11:40:52Z",
   "deleted_at": "",
   "star_history": [
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 1713
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1769
     }
   ]
 }

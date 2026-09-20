@@ -3,10 +3,10 @@
   "owner": "agentpit-io",
   "name": "hunter-community",
   "full_name": "agentpit-io/hunter-community",
-  "description": "Hunter Community Edition · 私人金融 AI 团队 · AI 智能体 + AI 量化 · 开源自托管 · powered by opencode + Claude Code + MCP + multi-agent · your private financial AI team · open-source self-hosted · 15 min docker start",
+  "description": "HunterCode · Community Edition · 腾讯 WorkBuddy 金融版的开源本地替代方案 · open-source, local alternative to Tencent WorkBuddy Finance Edition · 多智能体投研终端 A股/港股/美股 · 推理在你机器上跑 · 仓位不出你硬盘 · BYOK · Apache 2.0 · docker compose 自托管",
   "description_ja": "",
   "url": "https://github.com/agentpit-io/hunter-community",
-  "homepage_url": "https://hunter.agentpit.io",
+  "homepage_url": "https://hunter-community.agentpit.io",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -14,35 +14,39 @@
     "ai-hedge-fund",
     "ai-quant",
     "anthropic",
-    "apache-2",
-    "claude-agent-sdk",
+    "byok",
     "claude-code",
-    "codex",
     "docker-compose",
     "financial-ai",
     "fintech",
+    "investment-research",
     "llm-agent",
+    "local-first",
     "mcp",
     "multi-agent",
     "opencode",
-    "opensource",
     "quantitative-trading",
     "self-hosted",
     "stock-analysis",
-    "stock-market"
+    "stock-market",
+    "workbuddy-alternative"
   ],
-  "star_count": 508,
-  "fork_count": 57,
+  "star_count": 537,
+  "fork_count": 72,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-10T10:37:07Z",
-  "updated_at": "2026-09-11T15:23:29Z",
-  "pushed_at": "2026-09-11T14:31:39Z",
+  "updated_at": "2026-09-20T12:41:53Z",
+  "pushed_at": "2026-09-19T10:03:34Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-11",
       "stars": 508
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 537
     }
   ]
 }

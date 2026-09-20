@@ -3,7 +3,7 @@
   "owner": "jztan",
   "name": "pdf-mcp",
   "full_name": "jztan/pdf-mcp",
-  "description": "An MCP server that gives your AI agent agentic RAG over your PDFs, one file or a whole folder: hybrid semantic + keyword search, selective page reads, tables, images, OCR, chart data, and multi-column/CJK layouts. The agent decides when to search; pdf-mcp does the retrieval.",
+  "description": "MCP server that lets Claude Code and other AI agents read and search large PDFs, one file or a whole folder: agentic RAG with hybrid semantic + keyword search, selective page reads, tables, images, OCR, chart data, and multi-column/CJK layouts.",
   "description_ja": "",
   "url": "https://github.com/jztan/pdf-mcp",
   "homepage_url": "https://pdf-mcp.jztan.com",
@@ -31,13 +31,13 @@
     "semantic-search",
     "table-extraction"
   ],
-  "star_count": 133,
-  "fork_count": 13,
+  "star_count": 136,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-28T14:50:28Z",
-  "updated_at": "2026-09-07T12:21:12Z",
-  "pushed_at": "2026-09-11T11:49:00Z",
+  "updated_at": "2026-09-20T06:48:26Z",
+  "pushed_at": "2026-09-19T11:38:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +99,10 @@
     {
       "date": "2026-09-11",
       "stars": 133
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 136
     }
   ]
 }

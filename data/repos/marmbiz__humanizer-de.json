@@ -3,10 +3,10 @@
   "owner": "marmbiz",
   "name": "humanizer-de",
   "full_name": "marmbiz/humanizer-de",
-  "description": "German AI Text Humanizer for Claude Code \u0026 Codex. Audits 72 German AI-writing patterns using deterministic linters and evidence-safe rewrites. No fact-bending, no bypassing tricks.",
+  "description": "Deutscher Text-Humanizer für Claude Code \u0026 Codex. Redigiert KI-Floskeln, schützt deine Schreibstimme und prüft 72 deutsche Muster quellentreu.",
   "description_ja": "",
   "url": "https://github.com/marmbiz/humanizer-de",
-  "homepage_url": "https://martin-moeller.biz",
+  "homepage_url": "https://martin-moeller.biz/lab/ki/humanizer-deutsch-ki-texte-erkennen-entfernen",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
@@ -14,30 +14,30 @@
     "ai-humanizer",
     "ai-writing",
     "claude-code",
-    "claude-code-plugin",
     "claude-skill",
     "codex",
     "codex-plugin",
     "codex-skill",
     "deutsch",
     "german",
-    "germanizer",
     "humanizer",
+    "humanizer-prompt",
     "ki-text",
     "ki-texte-humanisieren",
+    "ki-vermenschlichen",
+    "lektorat",
+    "llm-linter",
     "prompt-engineering",
-    "stil-editor",
-    "style-editor",
     "text-editing",
     "writing-tools"
   ],
-  "star_count": 154,
+  "star_count": 159,
   "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-21T07:23:03Z",
-  "updated_at": "2026-09-11T12:17:25Z",
-  "pushed_at": "2026-09-10T09:43:59Z",
+  "updated_at": "2026-09-19T14:15:12Z",
+  "pushed_at": "2026-09-12T03:44:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -275,6 +275,10 @@
     {
       "date": "2026-09-11",
       "stars": 154
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 159
     }
   ]
 }

@@ -3,37 +3,37 @@
   "owner": "agit8or1",
   "name": "clientst0r",
   "full_name": "agit8or1/clientst0r",
-  "description": "Open-source self-hosted MSP platform — IT documentation + native PSA / service desk + workflow engine. Tickets, projects, contracts, quotes, invoices, vault, KB, distributors, AI assist, customer portal. Django 6 + MariaDB.",
+  "description": "Self-hosted IT documentation and service desk for MSPs. Client assets, runbooks, an encrypted credential vault and a native ticketing system with SLAs, contracts, quotes and invoices — multi-tenant, on your own infrastructure. Django 6 + MariaDB, Docker or one-line install.",
   "description_ja": "",
   "url": "https://github.com/agit8or1/clientst0r",
-  "homepage_url": "https://clientst0r.mspreboot.com/",
+  "homepage_url": "https://mspreboot.com",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "asset-management",
     "django",
-    "hudu-alternative",
+    "docker",
+    "helpdesk",
     "it-documentation",
-    "it-glue-alternative",
     "knowledge-base",
     "msp",
+    "multi-tenant",
     "open-source",
     "password-vault",
     "psa",
     "python",
-    "rmm",
     "self-hosted",
     "service-desk",
-    "ticketing",
-    "workflow-engine"
+    "sla",
+    "ticketing"
   ],
-  "star_count": 72,
+  "star_count": 73,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-10T04:08:22Z",
-  "updated_at": "2026-09-07T13:49:21Z",
-  "pushed_at": "2026-09-07T13:48:33Z",
+  "updated_at": "2026-09-18T21:34:21Z",
+  "pushed_at": "2026-09-18T21:34:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +411,10 @@
     {
       "date": "2026-09-11",
       "stars": 72
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 73
     }
   ]
 }

@@ -6,35 +6,38 @@
   "description": "Caddy admin API MCP server, complete coverage of config, routes, reverse proxies, TLS, PKI, and metrics, ETag-safe",
   "description_ja": "",
   "url": "https://github.com/YawLabs/caddy-mcp",
-  "homepage_url": "https://yaw.sh/mcp-servers/#caddy-mcp",
+  "homepage_url": "https://yaw.sh/mcp-servers/caddy-mcp/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "acme",
+    "admin-api",
     "ai",
     "ai-agents",
     "caddy",
-    "claude",
+    "caddy-mcp",
+    "caddy-server",
+    "caddyfile",
     "claude-code",
-    "claude-desktop",
     "cursor",
+    "devtools",
     "mcp",
     "mcp-server",
     "model-context-protocol",
+    "pki",
+    "prometheus",
     "reverse-proxy",
     "tls",
     "typescript",
-    "vscode",
-    "web-server",
-    "windsurf",
-    "yawlabs"
+    "web-server"
   ],
   "star_count": 11,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-09T03:17:28Z",
-  "updated_at": "2026-09-11T19:59:08Z",
-  "pushed_at": "2026-09-11T19:59:05Z",
+  "updated_at": "2026-09-20T23:25:39Z",
+  "pushed_at": "2026-09-20T23:25:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +102,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 11
+    },
+    {
+      "date": "2026-09-20",
       "stars": 11
     }
   ]

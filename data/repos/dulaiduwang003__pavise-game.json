@@ -3,12 +3,12 @@
   "owner": "dulaiduwang003",
   "name": "pavise-game",
   "full_name": "dulaiduwang003/pavise-game",
-  "description": "Windows 游戏性能工具：把被后台进程抢走的 CPU、IO 与调度资源还给游戏。本地运行、不注入游戏进程、所有改动可还原/A Windows gaming performance tool that gives back the CPU, I/O and scheduling resources your background processes take. Runs locally, never injects into game processes, every change is reversible.",
+  "description": "Open-source Windows game resource manager. Suppresses background processes, gives games exclusive CPU cores, steers device interrupts off game cores, applies per-game GPU driver, memory and power policies, and restores every change after play. No injection, no telemetry. GPL-3.0.",
   "description_ja": "",
   "url": "https://github.com/dulaiduwang003/Pavise-Game",
-  "homepage_url": "",
+  "homepage_url": "https://pavise.club",
   "language": "C#",
-  "license": "NOASSERTION",
+  "license": "GPL-3.0",
   "topics": [
     "cpu-affinity",
     "csharp",
@@ -28,13 +28,13 @@
     "windows-11",
     "winforms"
   ],
-  "star_count": 448,
-  "fork_count": 16,
+  "star_count": 490,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-02T14:24:18Z",
-  "updated_at": "2026-09-11T07:08:30Z",
-  "pushed_at": "2026-09-11T14:43:51Z",
+  "updated_at": "2026-09-20T16:45:23Z",
+  "pushed_at": "2026-09-20T07:48:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -64,6 +64,10 @@
     {
       "date": "2026-09-11",
       "stars": 448
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 490
     }
   ]
 }

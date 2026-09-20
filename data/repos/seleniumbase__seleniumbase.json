@@ -3,7 +3,7 @@
   "owner": "seleniumbase",
   "name": "seleniumbase",
   "full_name": "seleniumbase/seleniumbase",
-  "description": "APIs for browser automation, testing, and bypassing bot-detection. Includes CDP Mode: A stealthy configuration for chromium that passes every bot detection test.",
+  "description": "Browser automation, web scraping, and testing. CDP Mode provides a Stealthy Chromium instance that bypasses bot-detection systems. Includes an MCP server.",
   "description_ja": "",
   "url": "https://github.com/seleniumbase/SeleniumBase",
   "homepage_url": "https://seleniumbase.io",
@@ -31,13 +31,13 @@
     "webdriver",
     "webscraping"
   ],
-  "star_count": 13007,
-  "fork_count": 1581,
+  "star_count": 13030,
+  "fork_count": 1583,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-03-04T23:07:33Z",
-  "updated_at": "2026-09-11T18:49:49Z",
-  "pushed_at": "2026-09-11T18:49:40Z",
+  "updated_at": "2026-09-20T18:47:04Z",
+  "pushed_at": "2026-09-18T05:06:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 13007
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 13030
     }
   ]
 }

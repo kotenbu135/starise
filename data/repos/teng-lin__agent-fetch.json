@@ -3,31 +3,37 @@
   "owner": "teng-lin",
   "name": "agent-fetch",
   "full_name": "teng-lin/agent-fetch",
-  "description": "Full-content web fetcher for AI agents — Chrome TLS fingerprinting, browser impersonation, and    multi-strategy article extraction",
+  "description": "Full-content web fetcher for AI agents — Chrome TLS fingerprinting, browser impersonation, multi-strategy article extraction, and web scraping.",
   "description_ja": "",
   "url": "https://github.com/teng-lin/agent-fetch",
   "homepage_url": "https://github.com/teng-lin/agent-fetch",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "ai-agent-skill",
     "ai-agents",
     "anti-bot-detection",
+    "browser-impersonation",
     "content-extraction",
     "fetcher",
     "html-to-markdown",
     "httpcloak",
     "nodejs",
+    "pdf-extraction",
     "readability",
     "tls-fingerprint",
     "typescript",
+    "web-content-extraction",
+    "web-crawler",
+    "web-fetcher",
     "web-scraping"
   ],
-  "star_count": 308,
+  "star_count": 309,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-07T23:26:18Z",
-  "updated_at": "2026-09-08T12:29:10Z",
+  "updated_at": "2026-09-15T09:43:08Z",
   "pushed_at": "2026-03-15T00:43:50Z",
   "deleted_at": "",
   "star_history": [
@@ -166,6 +172,10 @@
     {
       "date": "2026-09-11",
       "stars": 308
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 309
     }
   ]
 }

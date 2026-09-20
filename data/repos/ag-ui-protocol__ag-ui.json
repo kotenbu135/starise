@@ -7,7 +7,7 @@
   "description_ja": "AG-UI: Agent-User Interactionプロトコル。エージェントをフロントエンドアプリケーションに導入",
   "url": "https://github.com/ag-ui-protocol/ag-ui",
   "homepage_url": "https://ag-ui.com",
-  "language": "Python",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "ag-ui-protocol",
@@ -16,13 +16,13 @@
     "agentic-workflow",
     "ai-agents"
   ],
-  "star_count": 15850,
-  "fork_count": 1431,
+  "star_count": 15959,
+  "fork_count": 1445,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-07T12:49:37Z",
-  "updated_at": "2026-09-11T19:57:36Z",
-  "pushed_at": "2026-09-11T20:03:19Z",
+  "updated_at": "2026-09-20T16:55:24Z",
+  "pushed_at": "2026-09-19T15:28:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +404,10 @@
     {
       "date": "2026-09-11",
       "stars": 15850
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 15959
     }
   ]
 }

@@ -3,32 +3,34 @@
   "owner": "modelbus",
   "name": "one-api-pro",
   "full_name": "modelbus/one-api-pro",
-  "description": "oneapi pro is an enterprise-grade AI API Gateway built on one-api（oneapi）. It has undergone a full architectural redesign, adding support for subscription plans, active-active clusters, precise billing. one-api-pro是基于one-api（oneapi）的企业级AI API Gateway网关，进行了架构级别的重构，全新支持套餐订阅、多活集群、精确计费、渠道成本管控等功能，适合企业级多员工、多模型统一管理与私有化部署",
+  "description": "one-api-pro is an enterprise-grade AI API Gateway built on one-api（oneapi）. It has undergone a full architectural redesign, adding support for subscription plans, active-active clusters, precise billing. 本项目与new-api | sub2api不同之处是one-api-pro是面向企业AI网关的应用场景，并不适用于中转站",
   "description_ja": "",
   "url": "https://github.com/modelbus/one-api-pro",
-  "homepage_url": "http://demo.one-api.pro",
+  "homepage_url": "http://one-api.pro",
   "language": "Go",
   "license": "",
   "topics": [
-    "ai-gateway",
-    "api-gateway",
     "one-api",
     "one-api-pro",
     "oneapi",
-    "token"
+    "openai"
   ],
-  "star_count": 777,
-  "fork_count": 11,
+  "star_count": 942,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-24T03:51:53Z",
-  "updated_at": "2026-09-11T14:10:42Z",
-  "pushed_at": "2026-09-11T14:10:38Z",
+  "updated_at": "2026-09-20T21:57:01Z",
+  "pushed_at": "2026-09-19T15:46:52Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-11",
       "stars": 777
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 942
     }
   ]
 }

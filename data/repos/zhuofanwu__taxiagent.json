@@ -3,20 +3,32 @@
   "owner": "zhuofanwu",
   "name": "taxiagent",
   "full_name": "zhuofanwu/taxiagent",
-  "description": "一个面向网约车场景的多 Agent + Spring Boot \u0026 Spring AI 项目，从底层搓一个ReAct框架",
+  "description": "网约车场景的 Spring Boot 全栈实战：Redis 高并发考点全覆盖（抢单秒杀 / GEO 派单 / 延迟队列 / 缓存一致性）+ 手搓 ReAct 多 Agent 框架",
   "description_ja": "",
   "url": "https://github.com/ZhuofanWu/TaxiAgent",
   "homepage_url": "",
   "language": "Java",
   "license": "MIT",
-  "topics": [],
-  "star_count": 81,
-  "fork_count": 9,
+  "topics": [
+    "ai-agents",
+    "distributed-lock",
+    "geo",
+    "llm",
+    "lua",
+    "react-agent",
+    "redis",
+    "ride-hailing",
+    "spring-ai",
+    "spring-boot",
+    "spring-boot-3"
+  ],
+  "star_count": 97,
+  "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-02T07:43:15Z",
-  "updated_at": "2026-09-11T01:44:38Z",
-  "pushed_at": "2026-04-02T07:46:32Z",
+  "updated_at": "2026-09-18T14:08:59Z",
+  "pushed_at": "2026-09-13T02:40:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -386,6 +398,10 @@
     {
       "date": "2026-09-11",
       "stars": 81
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 97
     }
   ]
 }

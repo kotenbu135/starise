@@ -3,20 +3,26 @@
   "owner": "lanqin996",
   "name": "lanqin-email",
   "full_name": "lanqin996/lanqin-email",
-  "description": "",
+  "description": "自托管邮件系统，提供现代化 Webmail 与管理后台，支持多域名、外部 IMAP、邮箱共享、细粒度权限和简繁英三语言。",
   "description_ja": "",
   "url": "https://github.com/LanQin996/LanQin-Email",
-  "homepage_url": "",
+  "homepage_url": "https://sswx.de",
   "language": "Go",
   "license": "MIT",
-  "topics": [],
-  "star_count": 75,
-  "fork_count": 27,
+  "topics": [
+    "email",
+    "imap",
+    "self-hosted",
+    "smtp",
+    "webmail"
+  ],
+  "star_count": 93,
+  "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-14T16:39:26Z",
-  "updated_at": "2026-09-11T11:35:17Z",
-  "pushed_at": "2026-09-05T03:40:55Z",
+  "updated_at": "2026-09-20T19:57:10Z",
+  "pushed_at": "2026-09-20T03:43:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -142,6 +148,10 @@
     {
       "date": "2026-09-11",
       "stars": 75
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 93
     }
   ]
 }

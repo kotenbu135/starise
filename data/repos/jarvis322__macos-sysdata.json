@@ -3,32 +3,43 @@
   "owner": "jarvis322",
   "name": "macos-sysdata",
   "full_name": "jarvis322/macos-sysdata",
-  "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
+  "description": "See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.",
   "description_ja": "",
   "url": "https://github.com/Jarvis322/macos-sysdata",
-  "homepage_url": "https://yigitech.dev/#code",
+  "homepage_url": "https://macos-sysdata.yigitech.dev",
   "language": "Swift",
   "license": "NOASSERTION",
   "topics": [
+    "cache-cleaner",
+    "developer-tools",
+    "disk-cleaner",
     "disk-cleanup",
+    "disk-space",
     "macos",
+    "macos-app",
     "menubar",
+    "storage",
+    "swift",
     "swiftui",
     "system-data",
     "xcode"
   ],
-  "star_count": 647,
+  "star_count": 774,
   "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-09-05T23:29:13Z",
-  "updated_at": "2026-09-11T23:53:33Z",
-  "pushed_at": "2026-09-11T21:48:17Z",
+  "updated_at": "2026-09-20T18:02:50Z",
+  "pushed_at": "2026-09-17T09:10:38Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-11",
       "stars": 647
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 774
     }
   ]
 }

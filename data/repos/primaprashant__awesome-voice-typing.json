@@ -7,7 +7,7 @@
   "description_ja": "Linux、macOS、Windows、Android、iOS 向けのオープンソース音声テキスト変換・音声入力ツールのキュレーションリスト。オフライン・ローカル・クラウド対応。",
   "url": "https://github.com/primaprashant/awesome-voice-typing",
   "homepage_url": "https://www.agenticcodingweekly.com/p/5-best-open-source-speech-to-text-tools-in-2026",
-  "language": "",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "ai",
@@ -16,28 +16,28 @@
     "dictation",
     "dictation-tool",
     "faster-whisper",
-    "linux",
     "local-transcription",
-    "macos",
     "offline-speech-recognition",
     "open-source",
     "parakeet",
     "privacy-focused",
     "push-to-talk",
     "speech-to-text",
+    "transcribe",
     "transcription",
     "voice-typing",
     "whisper",
     "whisper-cpp",
+    "wispr-flow-alternative",
     "wisprflow-alternative"
   ],
-  "star_count": 187,
-  "fork_count": 33,
+  "star_count": 192,
+  "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T08:40:41Z",
-  "updated_at": "2026-09-09T20:26:25Z",
-  "pushed_at": "2026-09-08T09:27:15Z",
+  "updated_at": "2026-09-20T14:59:06Z",
+  "pushed_at": "2026-09-20T00:17:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +411,10 @@
     {
       "date": "2026-09-11",
       "stars": 187
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 192
     }
   ]
 }

@@ -3,19 +3,19 @@
   "owner": "butter-dot-dev",
   "name": "bvisor",
   "full_name": "butter-dot-dev/bvisor",
-  "description": "Embedded bash sandbox for agents, inspired by gVisor",
-  "description_ja": "gVisorに着想を得た、エージェント向け組み込みbashサンドボックス",
+  "description": "Embedded application kernel, inspired by gVisor",
+  "description_ja": "",
   "url": "https://github.com/butter-dot-dev/bVisor",
   "homepage_url": "",
   "language": "Zig",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 216,
+  "star_count": 217,
   "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-03T20:54:40Z",
-  "updated_at": "2026-09-10T15:08:19Z",
+  "updated_at": "2026-09-19T19:33:14Z",
   "pushed_at": "2026-02-23T21:37:01Z",
   "deleted_at": "",
   "star_history": [
@@ -394,6 +394,10 @@
     {
       "date": "2026-09-11",
       "stars": 216
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 217
     }
   ]
 }

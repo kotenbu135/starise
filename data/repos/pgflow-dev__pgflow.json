@@ -7,7 +7,7 @@
   "description_ja": "",
   "url": "https://github.com/pgflow-dev/pgflow",
   "homepage_url": "https://pgflow.dev",
-  "language": "TypeScript",
+  "language": "PLpgSQL",
   "license": "Apache-2.0",
   "topics": [
     "edge-functions",
@@ -18,13 +18,13 @@
     "workflow-automation",
     "workflow-engine"
   ],
-  "star_count": 308,
+  "star_count": 309,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-12-19T21:43:12Z",
-  "updated_at": "2026-09-09T12:14:14Z",
-  "pushed_at": "2026-09-10T17:49:58Z",
+  "updated_at": "2026-09-19T18:01:10Z",
+  "pushed_at": "2026-09-20T11:34:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -258,6 +258,10 @@
     {
       "date": "2026-09-11",
       "stars": 308
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 309
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "gominimal",
   "name": "minimal",
   "full_name": "gominimal/minimal",
-  "description": "Build Software You Can Trust. Isolated, reproducible development environments and a secure package manager that give your whole team identical environments, while keeping AI agents off the laptop.",
+  "description": "Run your agent in a Minimal box. Ship and run software with isolation on your own computer.",
   "description_ja": "",
   "url": "https://github.com/gominimal/minimal",
   "homepage_url": "https://minimal.dev",
@@ -11,7 +11,6 @@
   "license": "Apache-2.0",
   "topics": [
     "agent-isolation",
-    "agent-orchestration",
     "agent-sandbox",
     "ai-agents",
     "ai-security",
@@ -20,23 +19,16 @@
     "codex",
     "coding-agent",
     "hermetic-builds",
-    "multiplexer",
-    "package-manager",
-    "reproducible-builds",
-    "reproducible-environments",
-    "supply-chain-security",
-    "terminal-multiplexer",
-    "terminal-ui",
-    "tui",
-    "workspace-manager"
+    "opencode",
+    "package-manager"
   ],
-  "star_count": 77,
-  "fork_count": 4,
+  "star_count": 124,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-13T18:52:15Z",
-  "updated_at": "2026-09-11T21:54:22Z",
-  "pushed_at": "2026-09-11T22:25:17Z",
+  "updated_at": "2026-09-20T00:22:30Z",
+  "pushed_at": "2026-09-20T20:44:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +66,10 @@
     {
       "date": "2026-09-11",
       "stars": 77
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 124
     }
   ]
 }

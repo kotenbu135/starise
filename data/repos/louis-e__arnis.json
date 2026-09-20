@@ -10,21 +10,22 @@
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
-    "maps",
     "minecraft",
+    "minecraft-world-generator",
     "openstreetmap",
     "osm",
-    "overpass-api",
+    "overpass-turbo",
+    "procedural-generation",
     "rust",
     "tauri"
   ],
-  "star_count": 17819,
-  "fork_count": 1495,
+  "star_count": 18020,
+  "fork_count": 1511,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-09-10T13:42:29Z",
-  "updated_at": "2026-09-11T19:36:19Z",
-  "pushed_at": "2026-09-09T22:44:25Z",
+  "updated_at": "2026-09-20T21:19:56Z",
+  "pushed_at": "2026-09-20T11:11:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -406,6 +407,10 @@
     {
       "date": "2026-09-11",
       "stars": 17819
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 18020
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "proxyshard",
   "name": "shardbrowser",
   "full_name": "proxyshard/shardbrowser",
-  "description": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5.",
+  "description": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 152 (WebGL / WebGPU / Client Hints / fonts / TLS), 220+ device profiles bundled, stable QUIC + WebRTC over SOCKS5.",
   "description_ja": "",
   "url": "https://github.com/ProxyShard/ShardBrowser",
   "homepage_url": "",
@@ -31,13 +31,13 @@
     "webrtc",
     "webscraping"
   ],
-  "star_count": 1016,
-  "fork_count": 116,
+  "star_count": 1105,
+  "fork_count": 126,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-30T23:05:14Z",
-  "updated_at": "2026-09-11T22:33:38Z",
-  "pushed_at": "2026-09-11T22:34:01Z",
+  "updated_at": "2026-09-20T22:42:40Z",
+  "pushed_at": "2026-09-13T12:51:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -307,6 +307,10 @@
     {
       "date": "2026-09-11",
       "stars": 1016
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1105
     }
   ]
 }

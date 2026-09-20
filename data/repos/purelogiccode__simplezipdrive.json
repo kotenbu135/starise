@@ -3,16 +3,17 @@
   "owner": "purelogiccode",
   "name": "simplezipdrive",
   "full_name": "purelogiccode/simplezipdrive",
-  "description": "Simple Zip Drive is a high-performance, user-mode filesystem utility that allows you to mount ZIP, 7Z, and RAR archives as virtual drives or NTFS directory mount points. It provides seamless, read-only access to compressed data without the need for manual extraction.",
+  "description": "Simple Zip Drive is a high-performance, user-mode filesystem utility that allows you to mount ZIP, 7Z, RAR, TAR, ZArchive, and Xbox XISO archives as virtual drives or NTFS directory mount points. It provides seamless, read-only access to compressed data without the need for manual extraction.",
   "description_ja": "",
   "url": "https://github.com/purelogiccode/SimpleZipDrive",
-  "homepage_url": "https://www.purelogiccode.com",
+  "homepage_url": "https://purelogiccode.github.io/SimpleZipDrive/",
   "language": "C#",
   "license": "GPL-3.0",
   "topics": [
     "7z",
     "7zip",
     "7zip-utility",
+    "cso",
     "dokan",
     "dokannet",
     "dokany",
@@ -21,20 +22,30 @@
     "sharpziplib",
     "virtual-drive",
     "winfsp",
+    "xbox",
+    "xbox-360",
+    "xbox360",
+    "xiso",
+    "zar",
+    "zarchive",
     "zip"
   ],
-  "star_count": 29,
+  "star_count": 30,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-25T18:07:18Z",
-  "updated_at": "2026-09-10T01:14:50Z",
-  "pushed_at": "2026-09-10T01:30:11Z",
+  "updated_at": "2026-09-20T21:54:19Z",
+  "pushed_at": "2026-09-16T02:49:32Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-11",
       "stars": 29
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 30
     }
   ]
 }

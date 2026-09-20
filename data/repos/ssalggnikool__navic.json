@@ -3,8 +3,8 @@
   "owner": "ssalggnikool",
   "name": "navic",
   "full_name": "ssalggnikool/navic",
-  "description": "A modern Navidrome client for Android and iOS",
-  "description_ja": "AndroidおよびiOS向けのモダンなNavidromeクライアント",
+  "description": "Subsonic music streaming app for Android and iOS",
+  "description_ja": "",
   "url": "https://github.com/ssalggnikool/Navic",
   "homepage_url": "https://navic.app",
   "language": "Kotlin",
@@ -14,15 +14,16 @@
     "ios",
     "kotlin",
     "material3",
-    "navidrome-client"
+    "opensubsonic",
+    "subsonic"
   ],
-  "star_count": 1003,
-  "fork_count": 93,
+  "star_count": 1060,
+  "fork_count": 96,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-01T19:20:40Z",
-  "updated_at": "2026-09-11T20:57:09Z",
-  "pushed_at": "2026-09-11T22:01:55Z",
+  "updated_at": "2026-09-20T23:12:17Z",
+  "pushed_at": "2026-09-20T22:45:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +405,10 @@
     {
       "date": "2026-09-11",
       "stars": 1003
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1060
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "uipath",
   "name": "coder_eval",
   "full_name": "uipath/coder_eval",
-  "description": "Playwright for coding agents. Benchmark Claude Code, Codex, Gemini, and OpenCode on your own tasks - and test that your skills, MCP servers, and CLIs work when an agent uses them.  Sandboxed YAML suites, activation checks, A/B experiments, CI gates.",
+  "description": "Playwright for coding agents. Test that your skills, MCP servers, and CLIs actually work when an agent uses them — sandboxed YAML suites, A/B experiments, CI gates.",
   "description_ja": "",
   "url": "https://github.com/UiPath/coder_eval",
   "homepage_url": "https://coder-eval.com",
@@ -15,7 +15,6 @@
     "agent-testing",
     "anthropic",
     "claude",
-    "claude-agent-sdk",
     "claude-code",
     "claude-code-plugins-marketplace",
     "claude-code-skills",
@@ -25,19 +24,20 @@
     "evaluation-framework",
     "gemini",
     "github-actions",
-    "long-horizon-agents",
-    "regression-testing",
+    "mcp",
+    "opencode",
+    "pi-coding-agent",
     "skill-testing",
     "swe-bench",
     "terminal-bench"
   ],
-  "star_count": 128,
+  "star_count": 139,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-09T06:46:59Z",
-  "updated_at": "2026-09-11T13:17:03Z",
-  "pushed_at": "2026-09-11T23:40:23Z",
+  "updated_at": "2026-09-20T16:03:14Z",
+  "pushed_at": "2026-09-19T03:34:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -135,6 +135,10 @@
     {
       "date": "2026-09-11",
       "stars": 128
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 139
     }
   ]
 }

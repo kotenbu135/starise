@@ -3,7 +3,7 @@
   "owner": "chanhui800",
   "name": "meridian",
   "full_name": "chanhui800/meridian",
-  "description": "轻量级 Emby/Jellyfin 反向代理管理面板，支持自动后端发现、TLS、流量统计、请求日志和 Telegram 日报",
+  "description": "Emby/Jellyfin 多站点反向代理与节点调度面板，支持自动回源发现、IPv4/IPv6 双栈 Agent、TLS、流量统计、请求日志和 Telegram 日报",
   "description_ja": "",
   "url": "https://github.com/chanhui800/Meridian",
   "homepage_url": "https://emby.fydivine.com",
@@ -17,13 +17,13 @@
     "media-server",
     "reverse-proxy"
   ],
-  "star_count": 69,
+  "star_count": 73,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-05T10:36:03Z",
-  "updated_at": "2026-09-11T19:15:23Z",
-  "pushed_at": "2026-09-11T19:16:06Z",
+  "updated_at": "2026-09-17T09:02:06Z",
+  "pushed_at": "2026-09-17T09:50:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -41,6 +41,10 @@
     {
       "date": "2026-09-11",
       "stars": 69
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 73
     }
   ]
 }

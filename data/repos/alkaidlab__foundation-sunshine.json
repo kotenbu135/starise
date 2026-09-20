@@ -12,10 +12,9 @@
   "topics": [
     "amf",
     "cloudgaming",
+    "dolby-vision",
     "game-streaming",
     "hdr",
-    "hdr-vivid",
-    "hdr10",
     "moonlight",
     "moonlight-streaming",
     "rdp",
@@ -26,15 +25,16 @@
     "stream",
     "streaming",
     "sunshine",
-    "virtual-display"
+    "virtual-display",
+    "vivid"
   ],
-  "star_count": 6814,
-  "fork_count": 181,
+  "star_count": 6925,
+  "fork_count": 187,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-06T03:27:06Z",
-  "updated_at": "2026-09-11T17:52:37Z",
-  "pushed_at": "2026-09-11T09:32:52Z",
+  "updated_at": "2026-09-20T16:21:06Z",
+  "pushed_at": "2026-09-20T17:07:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -92,6 +92,10 @@
     {
       "date": "2026-09-11",
       "stars": 6814
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 6925
     }
   ]
 }

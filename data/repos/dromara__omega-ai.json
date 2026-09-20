@@ -3,8 +3,8 @@
   "owner": "dromara",
   "name": "omega-ai",
   "full_name": "dromara/omega-ai",
-  "description": "Omega-AI：基于java打造的深度学习框架，帮助你快速搭建神经网络，实现模型推理与训练，引擎支持自动求导，多线程与GPU运算，GPU支持CUDA，CUDNN。",
-  "description_ja": "Omega-AI: Javaで構築したディープラーニングフレームワーク。ニューラルネットワークの迅速な構築、モデル推論・学習をサポート。自動微分、マルチスレッド・GPU演算（CUDA・CUDNN対応）を搭載。",
+  "description": "Omega-AI is a Java-based deep learning framework that helps you quickly build neural networks for inference and training. Its engine supports automatic differentiation, multithreading, and GPU acceleration with CUDA and cuDNN.",
+  "description_ja": "",
   "url": "https://github.com/dromara/Omega-AI",
   "homepage_url": "",
   "language": "Java",
@@ -17,13 +17,13 @@
     "neural-network",
     "yolo"
   ],
-  "star_count": 811,
+  "star_count": 856,
   "fork_count": 63,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-08-06T15:39:10Z",
-  "updated_at": "2026-09-11T19:51:50Z",
-  "pushed_at": "2026-09-02T01:18:35Z",
+  "updated_at": "2026-09-20T16:20:06Z",
+  "pushed_at": "2026-09-18T03:36:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +405,10 @@
     {
       "date": "2026-09-11",
       "stars": 811
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 856
     }
   ]
 }

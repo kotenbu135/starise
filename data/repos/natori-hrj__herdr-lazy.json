@@ -3,7 +3,7 @@
   "owner": "natori-hrj",
   "name": "herdr-lazy",
   "full_name": "natori-hrj/herdr-lazy",
-  "description": "Declarative plugin manager and curated distro for herdr — one list, a real lockfile, a manage pane.",
+  "description": "Declarative, reproducible plugin manager and curated distro for Herdr — one list, a lockfile, and a safe manage pane.",
   "description_ja": "",
   "url": "https://github.com/natori-hrj/herdr-lazy",
   "homepage_url": "",
@@ -19,13 +19,13 @@
     "terminal",
     "tui"
   ],
-  "star_count": 23,
+  "star_count": 25,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-20T11:37:00Z",
-  "updated_at": "2026-09-11T08:57:45Z",
-  "pushed_at": "2026-09-11T08:57:44Z",
+  "updated_at": "2026-09-16T03:58:29Z",
+  "pushed_at": "2026-09-16T03:56:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +99,10 @@
     {
       "date": "2026-09-11",
       "stars": 23
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 25
     }
   ]
 }

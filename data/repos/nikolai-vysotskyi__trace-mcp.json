@@ -3,7 +3,7 @@
   "owner": "nikolai-vysotskyi",
   "name": "trace-mcp",
   "full_name": "nikolai-vysotskyi/trace-mcp",
-  "description": "Framework-aware code intelligence MCP server for Claude Code and Codex — 70.5% fewer input tokens to review a pull request, median over 60 merged PRs in repos we don't own, comprehension at parity. 81 languages, 87 frameworks. Your code and index never leave the machine; an anonymous usage ping is on by default and opt-out.",
+  "description": "Framework-aware code intelligence MCP server — 88 framework integrations, 81 languages, 72.7% fewer input tokens to review a pull request, comprehension at parity",
   "description_ja": "",
   "url": "https://github.com/nikolai-vysotskyi/trace-mcp",
   "homepage_url": "https://trace-mcp.com",
@@ -31,13 +31,13 @@
     "static-analysis",
     "token-savings"
   ],
-  "star_count": 175,
-  "fork_count": 20,
+  "star_count": 178,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-03T09:54:03Z",
-  "updated_at": "2026-09-11T16:19:52Z",
-  "pushed_at": "2026-09-11T16:20:11Z",
+  "updated_at": "2026-09-20T22:31:39Z",
+  "pushed_at": "2026-09-20T22:45:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +415,10 @@
     {
       "date": "2026-09-11",
       "stars": 175
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 178
     }
   ]
 }

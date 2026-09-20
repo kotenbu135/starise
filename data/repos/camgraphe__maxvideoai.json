@@ -3,8 +3,8 @@
   "owner": "camgraphe",
   "name": "maxvideoai",
   "full_name": "camgraphe/maxvideoai",
-  "description": "Compare and generate AI videos across Sora, Veo, Kling, Seedance \u0026 more.",
-  "description_ja": "Sora、Veo、Kling、Seedance などで AI 動画を比較・生成。",
+  "description": "Pay-as-you-go AI video generation and model comparison, with MCP workflows for compatible assistants.",
+  "description_ja": "",
   "url": "https://github.com/camgraphe/MaxVideoAi",
   "homepage_url": "https://maxvideoai.com",
   "language": "TypeScript",
@@ -23,12 +23,12 @@
     "vercel"
   ],
   "star_count": 36,
-  "fork_count": 14,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-01T15:34:16Z",
-  "updated_at": "2026-09-11T19:14:45Z",
-  "pushed_at": "2026-09-11T19:14:42Z",
+  "updated_at": "2026-09-19T22:00:36Z",
+  "pushed_at": "2026-09-18T12:56:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +405,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 36
+    },
+    {
+      "date": "2026-09-20",
       "stars": 36
     }
   ]

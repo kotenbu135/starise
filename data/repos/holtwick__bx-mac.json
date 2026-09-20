@@ -6,7 +6,7 @@
   "description": "Sandbox any macOS app — only your project directory stays accessible",
   "description_ja": "任意の macOS アプリをサンドボックス化し、プロジェクトディレクトリのみアクセス可能にするツール",
   "url": "https://github.com/holtwick/bx-mac",
-  "homepage_url": "https://bx-ai.eu",
+  "homepage_url": "https://bxsandbox.app",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -23,11 +23,11 @@
   ],
   "star_count": 102,
   "fork_count": 3,
-  "is_archived": true,
+  "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-28T11:02:32Z",
-  "updated_at": "2026-09-09T23:01:05Z",
-  "pushed_at": "2026-08-18T15:41:23Z",
+  "updated_at": "2026-09-18T07:17:31Z",
+  "pushed_at": "2026-09-18T07:17:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -408,6 +408,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 102
+    },
+    {
+      "date": "2026-09-20",
       "stars": 102
     }
   ]

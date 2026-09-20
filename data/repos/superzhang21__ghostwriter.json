@@ -3,19 +3,28 @@
   "owner": "superzhang21",
   "name": "ghostwriter",
   "full_name": "superzhang21/ghostwriter",
-  "description": "影子作家（ghostwriter），一些人的写作或语言特征。",
+  "description": "影子作家 · 为角色建立可复用的写作与语言特征模型，让 AI 稳定地「像某个人」说话。Python / Agent Skill 双形态。",
   "description_ja": "",
   "url": "https://github.com/superzhang21/ghostwriter",
   "homepage_url": "",
   "language": "Python",
   "license": "NOASSERTION",
-  "topics": [],
+  "topics": [
+    "agent-skill",
+    "ai-writing",
+    "character-modeling",
+    "ghostwriting",
+    "persona",
+    "prompt-engineering",
+    "python",
+    "style-transfer"
+  ],
   "star_count": 302,
   "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-12T00:41:53Z",
-  "updated_at": "2026-09-03T07:05:07Z",
+  "updated_at": "2026-09-20T11:25:47Z",
   "pushed_at": "2026-07-29T00:23:29Z",
   "deleted_at": "",
   "star_history": [
@@ -113,6 +122,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 302
+    },
+    {
+      "date": "2026-09-20",
       "stars": 302
     }
   ]

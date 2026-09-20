@@ -3,8 +3,8 @@
   "owner": "wasmerio",
   "name": "wasmer",
   "full_name": "wasmerio/wasmer",
-  "description": "🚀 Fast, secure, lightweight containers based on WebAssembly",
-  "description_ja": "🚀 WebAssembly をベースにした高速・安全・軽量なコンテナ",
+  "description": "🚀 Fast and lightweight sandboxes for your apps and AI agents",
+  "description_ja": "",
   "url": "https://github.com/wasmerio/wasmer",
   "homepage_url": "https://wasmer.io",
   "language": "Rust",
@@ -21,13 +21,13 @@
     "webassembly",
     "windows"
   ],
-  "star_count": 21025,
-  "fork_count": 1004,
+  "star_count": 21036,
+  "fork_count": 1009,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-10-11T10:15:53Z",
-  "updated_at": "2026-09-10T22:41:53Z",
-  "pushed_at": "2026-09-11T08:48:35Z",
+  "updated_at": "2026-09-20T11:00:44Z",
+  "pushed_at": "2026-09-20T15:54:13Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -409,6 +409,10 @@
     {
       "date": "2026-09-11",
       "stars": 21025
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 21036
     }
   ]
 }

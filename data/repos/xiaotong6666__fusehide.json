@@ -3,7 +3,7 @@
   "owner": "xiaotong6666",
   "name": "fusehide",
   "full_name": "xiaotong6666/fusehide",
-  "description": "面向 Android 12+ 的 Xposed 模块，用于在 MediaProvider 中按运行时配置隐藏普通存储路径，并提供 Android/data 相关 Unicode 场景的调试与修复能力。",
+  "description": "An Xposed module for Android 12+ that hides standard storage paths within MediaProvider based on runtime configuration and provides debugging and fixing capabilities for Unicode-related scenarios involving Android/data",
   "description_ja": "",
   "url": "https://github.com/XiaoTong6666/FuseHide",
   "homepage_url": "https://github.com/Xposed-Modules-Repo/io.github.xiaotong6666.fusehide",
@@ -13,13 +13,13 @@
     "lsposed-module",
     "xposed"
   ],
-  "star_count": 276,
+  "star_count": 295,
   "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-11T08:52:52Z",
-  "updated_at": "2026-09-11T17:30:39Z",
-  "pushed_at": "2026-09-11T12:27:35Z",
+  "updated_at": "2026-09-20T20:34:20Z",
+  "pushed_at": "2026-09-14T14:59:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -349,6 +349,10 @@
     {
       "date": "2026-09-11",
       "stars": 276
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 295
     }
   ]
 }

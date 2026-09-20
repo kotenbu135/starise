@@ -21,15 +21,16 @@
     "rpc",
     "rust",
     "shared-memory",
-    "zero-copy"
+    "zero-copy",
+    "zero-copy-ipc"
   ],
-  "star_count": 2526,
-  "fork_count": 186,
+  "star_count": 2557,
+  "fork_count": 189,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-12T16:00:07Z",
-  "updated_at": "2026-09-11T08:39:06Z",
-  "pushed_at": "2026-09-11T06:33:40Z",
+  "updated_at": "2026-09-20T20:02:36Z",
+  "pushed_at": "2026-09-18T16:47:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +412,10 @@
     {
       "date": "2026-09-11",
       "stars": 2526
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 2557
     }
   ]
 }

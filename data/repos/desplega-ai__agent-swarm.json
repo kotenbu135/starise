@@ -12,6 +12,7 @@
   "topics": [
     "agent-harness",
     "agent-memory",
+    "agent-runtime",
     "agent-teams",
     "agentic",
     "agentic-framework",
@@ -25,17 +26,16 @@
     "harness-execution-layer",
     "human-in-the-loop",
     "llms",
-    "multi-agent",
     "orchestration",
     "self-hosted"
   ],
-  "star_count": 762,
-  "fork_count": 101,
+  "star_count": 814,
+  "fork_count": 105,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-19T18:59:13Z",
-  "updated_at": "2026-09-11T20:41:55Z",
-  "pushed_at": "2026-09-11T20:41:51Z",
+  "updated_at": "2026-09-20T21:18:43Z",
+  "pushed_at": "2026-09-20T07:23:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -157,6 +157,10 @@
     {
       "date": "2026-09-11",
       "stars": 762
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 814
     }
   ]
 }

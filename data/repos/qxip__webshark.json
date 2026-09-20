@@ -3,11 +3,11 @@
   "owner": "qxip",
   "name": "webshark",
   "full_name": "qxip/webshark",
-  "description": "webShark: Wireshark \u0026 PCAPs in your browser, 100% Open-Source Cloudshark alternative based on sharkd",
+  "description": "webShark: Wireshark \u0026 PCAPs in your browser - now 100% WASM Powered! Open-Source Cloudshark alternative based on sharkd",
   "description_ja": "",
   "url": "https://github.com/QXIP/webshark",
-  "homepage_url": "",
-  "language": "JavaScript",
+  "homepage_url": "https://qxip.github.io/webshark/",
+  "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
     "browser",
@@ -23,16 +23,17 @@
     "sharkd",
     "tcpdump",
     "tshark",
+    "wasm",
     "webshark",
     "wireshark"
   ],
-  "star_count": 295,
-  "fork_count": 64,
+  "star_count": 306,
+  "fork_count": 65,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-31T18:40:37Z",
-  "updated_at": "2026-08-10T11:11:54Z",
-  "pushed_at": "2026-08-31T21:34:24Z",
+  "updated_at": "2026-09-19T00:17:54Z",
+  "pushed_at": "2026-09-16T18:01:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -78,6 +79,10 @@
     {
       "date": "2026-09-11",
       "stars": 295
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 306
     }
   ]
 }

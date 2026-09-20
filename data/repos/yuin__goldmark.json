@@ -3,8 +3,8 @@
   "owner": "yuin",
   "name": "goldmark",
   "full_name": "yuin/goldmark",
-  "description": ":trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.",
-  "description_ja": ":trophy: Goで書かれたMarkdownパーサー。拡張が容易で、CommonMark標準に準拠した、よく設計された実装。",
+  "description": ":trophy: The Golden Swiss Army Knife for markdown processing. 100% CommonMark compliant, AST w/ CST, Extensible, Fast, CJK-friendly.",
+  "description_ja": "",
   "url": "https://github.com/yuin/goldmark",
   "homepage_url": "",
   "language": "Go",
@@ -15,13 +15,13 @@
     "golang",
     "markdown"
   ],
-  "star_count": 5011,
-  "fork_count": 313,
+  "star_count": 5027,
+  "fork_count": 316,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-26T11:24:21Z",
-  "updated_at": "2026-09-11T01:59:26Z",
-  "pushed_at": "2026-09-10T11:44:59Z",
+  "updated_at": "2026-09-20T07:39:58Z",
+  "pushed_at": "2026-09-19T07:19:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +403,10 @@
     {
       "date": "2026-09-11",
       "stars": 5011
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 5027
     }
   ]
 }

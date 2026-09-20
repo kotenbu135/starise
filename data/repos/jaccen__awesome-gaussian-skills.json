@@ -7,7 +7,7 @@
   "description_ja": "",
   "url": "https://github.com/jaccen/Awesome-Gaussian-Skills",
   "homepage_url": "https://jaccen.github.io/Awesome-Gaussian-Skills/",
-  "language": "TypeScript",
+  "language": "HTML",
   "license": "Apache-2.0",
   "topics": [
     "3d-gaussian-splatting",
@@ -15,10 +15,13 @@
     "3dgs",
     "ai-agent",
     "ai-skills",
+    "arxiv",
     "claude-code",
     "computer-graphics",
     "cvpr",
     "gaussian-splatting",
+    "gaussian-splattings",
+    "mcp-server",
     "nerf",
     "neural-rendering",
     "novel-view-synthesis",
@@ -27,13 +30,13 @@
     "research-tools",
     "siggraph"
   ],
-  "star_count": 151,
-  "fork_count": 10,
+  "star_count": 155,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-28T02:22:27Z",
-  "updated_at": "2026-09-11T09:00:31Z",
-  "pushed_at": "2026-09-05T12:19:23Z",
+  "updated_at": "2026-09-20T12:35:40Z",
+  "pushed_at": "2026-09-20T12:35:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -379,6 +382,10 @@
     {
       "date": "2026-09-11",
       "stars": 151
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 155
     }
   ]
 }

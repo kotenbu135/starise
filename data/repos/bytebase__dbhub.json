@@ -3,7 +3,7 @@
   "owner": "bytebase",
   "name": "dbhub",
   "full_name": "bytebase/dbhub",
-  "description": "Token conscious database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.",
+  "description": "Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite.",
   "description_ja": "",
   "url": "https://github.com/bytebase/dbhub",
   "homepage_url": "https://dbhub.ai",
@@ -18,26 +18,26 @@
     "codex",
     "cursor",
     "database",
-    "dify",
     "llm",
     "mariadb",
     "mcp",
     "mcp-server",
     "mssql",
     "mysql",
+    "oracle",
     "postgres",
     "postgresql",
     "sql",
     "sqlite",
     "sqlserver"
   ],
-  "star_count": 3499,
-  "fork_count": 294,
+  "star_count": 3543,
+  "fork_count": 304,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-09T16:36:38Z",
-  "updated_at": "2026-09-11T21:46:19Z",
-  "pushed_at": "2026-09-10T09:10:25Z",
+  "updated_at": "2026-09-20T17:41:57Z",
+  "pushed_at": "2026-09-19T16:51:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 3499
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 3543
     }
   ]
 }

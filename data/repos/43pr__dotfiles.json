@@ -3,20 +3,28 @@
   "owner": "43pr",
   "name": "dotfiles",
   "full_name": "43pr/dotfiles",
-  "description": "Arch Linux Hyprland",
+  "description": "Hyprland Setup for Arch, EndeavourOS, CachyOS...",
   "description_ja": "",
   "url": "https://github.com/43PR/dotfiles",
   "homepage_url": "",
-  "language": "CSS",
-  "license": "",
-  "topics": [],
-  "star_count": 838,
+  "language": "QML",
+  "license": "MIT",
+  "topics": [
+    "archlinux",
+    "design",
+    "desktop-customization",
+    "dotfiles",
+    "hyprland",
+    "linux",
+    "rice"
+  ],
+  "star_count": 932,
   "fork_count": 57,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-14T01:06:02Z",
-  "updated_at": "2026-09-11T21:39:16Z",
-  "pushed_at": "2026-09-11T21:39:13Z",
+  "updated_at": "2026-09-20T21:15:50Z",
+  "pushed_at": "2026-09-20T21:15:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +58,10 @@
     {
       "date": "2026-09-11",
       "stars": 838
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 932
     }
   ]
 }

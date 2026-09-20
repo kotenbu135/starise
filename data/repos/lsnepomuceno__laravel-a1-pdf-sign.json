@@ -3,10 +3,10 @@
   "owner": "lsnepomuceno",
   "name": "laravel-a1-pdf-sign",
   "full_name": "lsnepomuceno/laravel-a1-pdf-sign",
-  "description": "Multiple digital signatures on a single PDF, in Laravel. Each signature is appended as a new revision, so signing again never invalidates the ones before it. A1/x509 certificates, PAdES profiles, RFC 3161 timestamps, LTV and cryptographic validation.",
+  "description": "Digital signatures for Laravel, on top of signet-pdf. Sign straight from a Storage disk, keep the private key outside the process, and fake all of it with Process::fake(), Http::fake() and Storage::fake(). A1/x509 certificates, PAdES profiles, RFC 3161 timestamps, LTV and cryptographic validation.",
   "description_ja": "",
   "url": "https://github.com/lsnepomuceno/laravel-a1-pdf-sign",
-  "homepage_url": "https://laravel-a1-pdf-sign.netlify.app/",
+  "homepage_url": "https://lsnepomuceno.github.io/laravel-a1-pdf-sign/",
   "language": "PHP",
   "license": "MIT",
   "topics": [
@@ -34,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-06-09T20:16:56Z",
-  "updated_at": "2026-09-07T13:40:59Z",
-  "pushed_at": "2026-08-14T17:18:51Z",
+  "updated_at": "2026-09-12T16:56:32Z",
+  "pushed_at": "2026-09-12T03:25:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -412,6 +412,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 317
+    },
+    {
+      "date": "2026-09-20",
       "stars": 317
     }
   ]

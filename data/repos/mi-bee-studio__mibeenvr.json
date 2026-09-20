@@ -6,7 +6,7 @@
   "description": "Lightweight self-hosted NVR in Go — single static binary, zero dependencies, embedded web UI. RTSP/ONVIF/Xiaomi/GB28181 cameras, RTMP/SRT/WebRTC push-in ingest, WebRTC/HLS/FLV live view, audio, timelapse, continuous playback, browser-side AI detection. Runs on low-power ARM.",
   "description_ja": "",
   "url": "https://github.com/Mi-Bee-Studio/MiBeeNvr",
-  "homepage_url": "https://www.mlsbs.top/projects/mibeenvr",
+  "homepage_url": "https://www.mickeyzzc.tech/projects/mibeenvr",
   "language": "Go",
   "license": "AGPL-3.0",
   "topics": [
@@ -26,13 +26,13 @@
     "video-surveillance",
     "webrtc"
   ],
-  "star_count": 116,
-  "fork_count": 16,
+  "star_count": 129,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-27T02:49:31Z",
-  "updated_at": "2026-09-11T22:33:02Z",
-  "pushed_at": "2026-09-11T22:33:02Z",
+  "updated_at": "2026-09-20T12:58:17Z",
+  "pushed_at": "2026-09-20T12:58:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -54,6 +54,10 @@
     {
       "date": "2026-09-11",
       "stars": 116
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 129
     }
   ]
 }

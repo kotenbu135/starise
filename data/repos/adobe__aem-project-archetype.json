@@ -7,7 +7,7 @@
   "description_ja": "AEM上でベストプラクティスに沿ったウェブサイトを作成するMavenテンプレート。",
   "url": "https://github.com/adobe/aem-project-archetype",
   "homepage_url": "https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html",
-  "language": "JavaScript",
+  "language": "Groovy",
   "license": "Apache-2.0",
   "topics": [
     "adobe",
@@ -21,12 +21,12 @@
     "project-template"
   ],
   "star_count": 596,
-  "fork_count": 431,
+  "fork_count": 432,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-08-21T07:45:06Z",
-  "updated_at": "2026-08-31T11:24:04Z",
-  "pushed_at": "2026-08-31T11:17:00Z",
+  "updated_at": "2026-09-18T15:10:30Z",
+  "pushed_at": "2026-09-18T15:10:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -403,6 +403,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 596
+    },
+    {
+      "date": "2026-09-20",
       "stars": 596
     }
   ]

@@ -3,41 +3,41 @@
   "owner": "guaardvark",
   "name": "guaardvark",
   "full_name": "guaardvark/guaardvark",
-  "description": "The self-hosted AI workstation. Autonomous screen agents, 3-tier neural routing, parallel agent swarms, video generation, 4K/8K upscaling, RAG, voice interface, 60+ tool execution engine — all running locally on your hardware.",
+  "description": "The self-hosted AI studio: local video, image, music, voice, LoRA training, coding swarms, RAG and screen agents on one GPU, driven from the Studio or by your coding agent (Claude Code, Cursor, Codex, OpenClaw) through MCP and skills.",
   "description_ja": "",
   "url": "https://github.com/guaardvark/guaardvark",
   "homepage_url": "https://guaardvark.com",
   "language": "Python",
   "license": "MIT",
   "topics": [
+    "agent-skills",
     "ai",
     "ai-agents",
     "ai-workstation",
+    "claude-code",
+    "claude-code-plugin",
     "coding-agent",
     "comfyui",
-    "gemma",
-    "image-upscaling",
     "llm",
     "local-ai",
     "mcp",
+    "mcp-server",
     "multi-agent",
     "ollama",
     "python",
     "rag",
-    "screen-automation",
     "self-hosted",
     "stable-diffusion",
     "video-generation",
-    "vision-model",
     "voice-assistant"
   ],
-  "star_count": 208,
-  "fork_count": 45,
+  "star_count": 227,
+  "fork_count": 48,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T04:47:45Z",
-  "updated_at": "2026-09-11T14:06:58Z",
-  "pushed_at": "2026-09-10T19:52:39Z",
+  "updated_at": "2026-09-20T20:28:19Z",
+  "pushed_at": "2026-09-20T02:24:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -319,6 +319,10 @@
     {
       "date": "2026-09-11",
       "stars": 208
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 227
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "leancodebox",
   "name": "gooseforum",
   "full_name": "leancodebox/gooseforum",
-  "description": "Easy forum software for building friendly communities/超简单社区构建软件",
+  "description": "Easy forum software for building friendly communities",
   "description_ja": "",
   "url": "https://github.com/leancodebox/GooseForum",
   "homepage_url": "https://gooseforum.online",
@@ -15,16 +15,17 @@
     "gin",
     "golang",
     "gooseforum",
-    "tailwindcss",
-    "vue"
+    "react",
+    "shadcn-ui",
+    "tailwindcss"
   ],
-  "star_count": 138,
-  "fork_count": 26,
+  "star_count": 139,
+  "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-31T02:43:31Z",
-  "updated_at": "2026-09-11T15:18:15Z",
-  "pushed_at": "2026-09-11T12:59:22Z",
+  "updated_at": "2026-09-20T12:10:48Z",
+  "pushed_at": "2026-09-20T12:10:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -378,6 +379,10 @@
     {
       "date": "2026-09-11",
       "stars": 138
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 139
     }
   ]
 }

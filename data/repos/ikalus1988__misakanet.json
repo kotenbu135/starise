@@ -3,13 +3,14 @@
   "owner": "ikalus1988",
   "name": "misakanet",
   "full_name": "ikalus1988/misakanet",
-  "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+  "description": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. | https://misakanet.org",
   "description_ja": "",
   "url": "https://github.com/Ikalus1988/MisakaNet",
   "homepage_url": "https://misakanet.org",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "action",
     "agents",
     "ai-agents",
     "cloudflare-workers",
@@ -22,13 +23,13 @@
     "mcp-server",
     "sqlite"
   ],
-  "star_count": 491,
-  "fork_count": 177,
+  "star_count": 495,
+  "fork_count": 197,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-29T15:16:22Z",
-  "updated_at": "2026-09-11T21:03:42Z",
-  "pushed_at": "2026-09-11T21:03:37Z",
+  "updated_at": "2026-09-20T20:55:22Z",
+  "pushed_at": "2026-09-20T22:25:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -314,6 +315,10 @@
     {
       "date": "2026-09-11",
       "stars": 491
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 495
     }
   ]
 }

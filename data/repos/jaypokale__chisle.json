@@ -3,20 +3,40 @@
   "owner": "jaypokale",
   "name": "chisle",
   "full_name": "jaypokale/chisle",
-  "description": "Your AI talks less, builds less, says more. Like a senior dev who bills by the syllable.",
+  "description": "Cut your AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. Claude Code, Pi, Cursor, Codex, Gemini + 4 more. Zero deps, published benchmarks including the runs it loses.",
   "description_ja": "",
   "url": "https://github.com/JayPokale/Chisle",
   "homepage_url": "https://chisle.jaypokale.me",
   "language": "JavaScript",
   "license": "MIT",
-  "topics": [],
-  "star_count": 225,
-  "fork_count": 18,
+  "topics": [
+    "anthropic",
+    "caveman",
+    "caveman-alternative",
+    "caveman2",
+    "claude",
+    "claude-ai",
+    "claude-api",
+    "claude-code",
+    "claude-code-skill",
+    "claude-code-skills",
+    "claude-plugin",
+    "claude-skills",
+    "codex",
+    "cursor",
+    "developer-tools",
+    "gemini-cli",
+    "github-copilot",
+    "ponytail",
+    "token-optimization"
+  ],
+  "star_count": 482,
+  "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-30T05:36:44Z",
-  "updated_at": "2026-09-11T20:58:45Z",
-  "pushed_at": "2026-09-11T18:29:01Z",
+  "updated_at": "2026-09-20T22:25:26Z",
+  "pushed_at": "2026-09-19T11:40:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -114,6 +134,10 @@
     {
       "date": "2026-09-11",
       "stars": 225
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 482
     }
   ]
 }

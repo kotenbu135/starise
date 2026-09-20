@@ -3,20 +3,20 @@
   "owner": "huggingface",
   "name": "ml-intern",
   "full_name": "huggingface/ml-intern",
-  "description": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-  "description_ja": "🤗 ml-intern: 論文を読み、モデルを学習させ、MLモデルをリリースするオープンソースのMLエンジニア",
+  "description": "Archived — ML Intern is no longer maintained. Continue with HuggingChat.",
+  "description_ja": "",
   "url": "https://github.com/huggingface/ml-intern",
-  "homepage_url": "",
+  "homepage_url": "https://huggingface.co/chat/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 10814,
-  "fork_count": 1180,
-  "is_archived": false,
+  "star_count": 10823,
+  "fork_count": 1186,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2025-10-30T13:43:09Z",
-  "updated_at": "2026-09-11T15:43:58Z",
-  "pushed_at": "2026-09-10T22:54:07Z",
+  "updated_at": "2026-09-20T20:14:14Z",
+  "pushed_at": "2026-09-14T13:00:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -390,6 +390,10 @@
     {
       "date": "2026-09-11",
       "stars": 10814
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 10823
     }
   ]
 }

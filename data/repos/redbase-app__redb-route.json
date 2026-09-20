@@ -3,7 +3,7 @@
   "owner": "redbase-app",
   "name": "redb-route",
   "full_name": "redbase-app/redb-route",
-  "description": "Apache Camel-style integration framework for .NET. 30+ EIP patterns, 27 transports (Kafka, RabbitMQ, MQTT, S3, gRPC, SFTP, SQL...), fluent C# DSL.",
+  "description": "Apache Camel-style integration framework for .NET. 30+ EIP patterns, 29 transports (Kafka, RabbitMQ, MQTT, S3, gRPC, SFTP, SQL...), fluent C# DSL.",
   "description_ja": "",
   "url": "https://github.com/redbase-app/redb-route",
   "homepage_url": "https://redbase.app",
@@ -31,13 +31,13 @@
     "rabbitmq",
     "sftp"
   ],
-  "star_count": 37,
+  "star_count": 38,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-05T23:10:23Z",
-  "updated_at": "2026-09-11T23:11:04Z",
-  "pushed_at": "2026-09-11T23:10:58Z",
+  "updated_at": "2026-09-18T10:54:49Z",
+  "pushed_at": "2026-09-18T10:54:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -103,6 +103,10 @@
     {
       "date": "2026-09-11",
       "stars": 37
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 38
     }
   ]
 }

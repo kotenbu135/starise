@@ -3,28 +3,26 @@
   "owner": "agentdock",
   "name": "agentdock",
   "full_name": "agentdock/agentdock",
-  "description": "Build Anything with AI Agents",
-  "description_ja": "[24] AIエージェントで何でも構築",
+  "description": "Framework retired. Prompts and document generators moved to AgentDock/prompt-library, the book to AgentDock/ai-agents-book. See the pinned issue.",
+  "description_ja": "",
   "url": "https://github.com/AgentDock/AgentDock",
   "homepage_url": "https://agentdock.ai",
   "language": "MDX",
   "license": "MIT",
   "topics": [
-    "agentic-ai",
-    "agentic-framework",
+    "agent-skills",
     "ai-agents",
     "llm",
-    "natural-language-inference",
-    "nextjs",
-    "typescript",
-    "workflows"
+    "mcp",
+    "prompt-library",
+    "prompts"
   ],
-  "star_count": 1732,
-  "fork_count": 130,
+  "star_count": 1754,
+  "fork_count": 131,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-21T02:29:23Z",
-  "updated_at": "2026-09-11T20:39:41Z",
+  "updated_at": "2026-09-20T16:48:57Z",
   "pushed_at": "2026-07-14T07:40:00Z",
   "deleted_at": "",
   "star_history": [
@@ -407,6 +405,10 @@
     {
       "date": "2026-09-11",
       "stars": 1732
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1754
     }
   ]
 }

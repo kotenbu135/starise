@@ -3,25 +3,29 @@
   "owner": "tsunehimatoi",
   "name": "psd2live",
   "full_name": "tsunehimatoi/psd2live",
-  "description": "PSD2Live 是一个自动化的 Live2D 模型生成流水线与桌面应用。输入分层 PSD 文件，系统自动完成图层语义识别、连通域双侧拆分、自适应三角网格剖分、九轴面部经纬网与解耦变形器层级构建、头发多摆物理与果冻眼动力学模拟及循环待机动作生成，一键导出可编辑的 .cmo3 编辑器工程与运行时 .moc3 文件族。",
+  "description": "Turn layered PSDs into editable Live2D models — automatic rigging, mesh/deformer generation, physics, animation, and .cmo3/ .moc3 export.",
   "description_ja": "",
   "url": "https://github.com/tsunehimatoi/psd2live",
   "homepage_url": "",
   "language": "Kotlin",
   "license": "GPL-3.0",
   "topics": [],
-  "star_count": 329,
-  "fork_count": 23,
+  "star_count": 429,
+  "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-09-03T02:40:12Z",
-  "updated_at": "2026-09-11T22:52:47Z",
-  "pushed_at": "2026-09-11T16:52:58Z",
+  "updated_at": "2026-09-20T22:28:36Z",
+  "pushed_at": "2026-09-20T18:36:24Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-11",
       "stars": 329
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 429
     }
   ]
 }

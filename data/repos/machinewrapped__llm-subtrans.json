@@ -3,20 +3,20 @@
   "owner": "machinewrapped",
   "name": "llm-subtrans",
   "full_name": "machinewrapped/llm-subtrans",
-  "description": "Open Source project using LLMs to translate subtitles (SRT, SSA/ASS, VTT)",
-  "description_ja": "LLM を使用して字幕（SRT、SSA/ASS、VTT）を翻訳するオープンソースプロジェクト",
+  "description": "Open Source project using LLMs to transcribe and translate subtitles (SRT, SSA/ASS, VTT)",
+  "description_ja": "",
   "url": "https://github.com/machinewrapped/llm-subtrans",
   "homepage_url": "",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [],
-  "star_count": 653,
+  "star_count": 655,
   "fork_count": 63,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-03-23T06:08:47Z",
-  "updated_at": "2026-09-11T05:57:12Z",
-  "pushed_at": "2026-09-11T22:23:55Z",
+  "updated_at": "2026-09-19T20:16:18Z",
+  "pushed_at": "2026-09-20T22:05:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -394,6 +394,10 @@
     {
       "date": "2026-09-11",
       "stars": 653
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 655
     }
   ]
 }

@@ -3,29 +3,37 @@
   "owner": "multizenteam",
   "name": "multizen-browser",
   "full_name": "multizenteam/multizen-browser",
-  "description": "Multi-session privacy focused browser",
+  "description": "Anti-detect browser for AI agents and human operators. Isolated Chromium profiles (cookies, fingerprint, proxy), driven through MCP.",
   "description_ja": "",
   "url": "https://github.com/multizenteam/multizen-browser",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "ai-agents",
+    "anti-detect",
+    "antidetect-browser",
+    "automation",
     "browser",
+    "browser-automation",
+    "cdp",
     "electron",
+    "fingerprint",
+    "mcp",
+    "model-context-protocol",
     "multi-session",
-    "multi-session-browser",
     "open-source",
-    "private-browsing",
-    "tracking-free",
-    "vue"
+    "proxy",
+    "react",
+    "typescript"
   ],
-  "star_count": 147,
-  "fork_count": 21,
+  "star_count": 152,
+  "fork_count": 24,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-06-18T12:10:51Z",
-  "updated_at": "2026-09-11T11:30:43Z",
-  "pushed_at": "2026-08-29T04:41:51Z",
+  "updated_at": "2026-09-18T23:03:00Z",
+  "pushed_at": "2026-09-17T05:22:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -355,6 +363,10 @@
     {
       "date": "2026-09-11",
       "stars": 147
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 152
     }
   ]
 }

@@ -3,36 +3,32 @@
   "owner": "donedeal0",
   "name": "superdiff",
   "full_name": "donedeal0/superdiff",
-  "description": "Superdiff provides a rich and readable diff for arrays, objects, texts and coordinates. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offers a top-tier performance.",
-  "description_ja": "Superdiffは配列・オブジェクト・テキスト・座標に対してリッチで読みやすいdiffを提供します。大規模データセットの効率的な処理のためにストリームおよびファイル入力をサポートし、実績豊富でゼロ依存、最高水準のパフォーマンスを誇ります。",
+  "description": "Superdiff provides a rich and readable diff for arrays, objects, code, text and coordinates. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offers top-tier performance.",
+  "description_ja": "",
   "url": "https://github.com/DoneDeal0/superdiff",
   "homepage_url": "https://donedeal0.gitbook.io/superdiff",
   "language": "TypeScript",
   "license": "",
   "topics": [
-    "array-comparison",
-    "comparison",
-    "comparison-tool",
-    "deep-diff",
+    "array-diff",
+    "code-diff",
     "diff",
+    "geo-diff",
+    "haversine",
     "json-diff",
-    "nodejs",
-    "object-comparison",
+    "list-diff",
     "object-diff",
-    "objectdiff",
-    "objectdifference",
-    "react",
-    "streaming",
-    "streaming-data",
-    "typescript"
+    "stream-diff",
+    "string-diff",
+    "text-diff"
   ],
-  "star_count": 1115,
+  "star_count": 1116,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-12-23T15:02:15Z",
-  "updated_at": "2026-09-08T08:28:03Z",
-  "pushed_at": "2026-09-04T20:05:55Z",
+  "updated_at": "2026-09-19T09:32:13Z",
+  "pushed_at": "2026-09-19T09:29:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +406,10 @@
     {
       "date": "2026-09-11",
       "stars": 1115
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1116
     }
   ]
 }

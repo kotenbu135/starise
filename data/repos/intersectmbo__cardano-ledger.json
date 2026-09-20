@@ -6,7 +6,7 @@
   "description": "The ledger implementation and specifications of the Cardano blockchain.",
   "description_ja": "Cardanoブロックチェーンの台帳実装と仕様",
   "url": "https://github.com/IntersectMBO/cardano-ledger",
-  "homepage_url": "",
+  "homepage_url": "https://cardano-ledger.cardano.intersectmbo.org/",
   "language": "Haskell",
   "license": "Apache-2.0",
   "topics": [
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-09-24T14:14:10Z",
-  "updated_at": "2026-09-11T16:52:04Z",
-  "pushed_at": "2026-09-11T20:04:36Z",
+  "updated_at": "2026-09-19T04:43:17Z",
+  "pushed_at": "2026-09-20T21:38:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +398,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 295
+    },
+    {
+      "date": "2026-09-20",
       "stars": 295
     }
   ]

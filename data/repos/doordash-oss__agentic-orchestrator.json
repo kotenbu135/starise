@@ -3,20 +3,29 @@
   "owner": "doordash-oss",
   "name": "agentic-orchestrator",
   "full_name": "doordash-oss/agentic-orchestrator",
-  "description": "",
+  "description": "Turn a goal into a supervised run.",
   "description_ja": "",
   "url": "https://github.com/doordash-oss/agentic-orchestrator",
   "homepage_url": "",
   "language": "Go",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 104,
-  "fork_count": 15,
+  "topics": [
+    "agentic-ai",
+    "agentic-coding",
+    "agentic-workflows",
+    "agentico",
+    "ai",
+    "automation",
+    "coding",
+    "developer-tools"
+  ],
+  "star_count": 106,
+  "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-12T19:06:56Z",
-  "updated_at": "2026-09-10T14:27:05Z",
-  "pushed_at": "2026-09-10T15:16:35Z",
+  "updated_at": "2026-09-20T00:30:08Z",
+  "pushed_at": "2026-09-19T23:55:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -30,6 +39,10 @@
     {
       "date": "2026-09-11",
       "stars": 104
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 106
     }
   ]
 }

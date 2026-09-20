@@ -3,7 +3,7 @@
   "owner": "zimingttkx",
   "name": "network-security-based-on-ml",
   "full_name": "zimingttkx/network-security-based-on-ml",
-  "description": "NIPS — 基于机器学习的网络入侵防御系统 | 集成Kitsune/LUCID算法 | 在线无监督异常检测 | 内核级实时流量拦截 | FastAPI + CLI 管理",
+  "description": "NIPS — Machine-Learning-Based Network Intrusion Prevention System | Kitsune/LUCID integrated | Online unsupervised anomaly detection | Kernel-level real-time traffic interception | FastAPI + CLI management",
   "description_ja": "",
   "url": "https://github.com/zimingttkx/Network-Security-Based-On-ML",
   "homepage_url": "",
@@ -21,13 +21,13 @@
     "web-application",
     "xgboost"
   ],
-  "star_count": 221,
-  "fork_count": 28,
+  "star_count": 220,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-07-03T08:45:26Z",
-  "updated_at": "2026-09-11T07:49:31Z",
-  "pushed_at": "2026-09-03T16:32:05Z",
+  "updated_at": "2026-09-19T13:42:35Z",
+  "pushed_at": "2026-09-19T13:42:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +405,10 @@
     {
       "date": "2026-09-11",
       "stars": 221
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 220
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "⚡️ IPTV直播源自动更新工具：自动采集、校验、测速并生成可播放结果，支持 M3U/TXT/API 输出、自定义频道、IPv4/IPv6、Docker、GitHub Actions、CLI 与 GUI 多端部署",
   "description_ja": "",
   "url": "https://github.com/Guovin/iptv-api",
-  "homepage_url": "",
+  "homepage_url": "https://guovin.github.io/iptv-api/",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
@@ -31,13 +31,13 @@
     "tv",
     "tvbox"
   ],
-  "star_count": 25159,
-  "fork_count": 7398,
+  "star_count": 25246,
+  "fork_count": 7428,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-02-04T11:22:59Z",
-  "updated_at": "2026-09-11T22:00:23Z",
-  "pushed_at": "2026-09-11T03:17:06Z",
+  "updated_at": "2026-09-20T17:00:46Z",
+  "pushed_at": "2026-09-20T08:29:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 25159
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 25246
     }
   ]
 }

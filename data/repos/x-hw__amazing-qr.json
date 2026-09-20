@@ -3,8 +3,8 @@
   "owner": "x-hw",
   "name": "amazing-qr",
   "full_name": "x-hw/amazing-qr",
-  "description": "💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）",
-  "description_ja": "アニメーションGIFにも対応したPython製の高機能QRコードジェネレーター",
+  "description": "💮 amazing QRCode generator (supporting animated gif) - amazing 二维码生成器（支持 gif 动态图片二维码）",
+  "description_ja": "",
   "url": "https://github.com/x-hw/amazing-qr",
   "homepage_url": "",
   "language": "Python",
@@ -12,18 +12,22 @@
   "topics": [
     "amazing",
     "gif",
+    "mcp",
     "picture",
+    "qr",
     "qr-code",
+    "qr-generator",
     "qrcode",
-    "qrcode-generator"
+    "qrcode-generator",
+    "skills"
   ],
-  "star_count": 10816,
-  "fork_count": 1574,
+  "star_count": 10819,
+  "fork_count": 1573,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-08-25T12:51:42Z",
-  "updated_at": "2026-09-11T03:05:58Z",
-  "pushed_at": "2026-08-25T14:11:47Z",
+  "updated_at": "2026-09-20T07:36:01Z",
+  "pushed_at": "2026-09-17T07:49:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +409,10 @@
     {
       "date": "2026-09-11",
       "stars": 10816
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 10819
     }
   ]
 }

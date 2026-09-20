@@ -3,8 +3,8 @@
   "owner": "kaxiluo",
   "name": "fastapi-skeleton",
   "full_name": "kaxiluo/fastapi-skeleton",
-  "description": "fastapi skeleton. framework integration orm jwt-auth loguru dotenv APScheduler...",
-  "description_ja": "FastAPIスケルトン。フレームワーク統合・ORM・JWT認証・loguru・dotenv・APSchedulerなど...",
+  "description": "FastAPI skeleton: async SQLAlchemy / Alembic, JWT auth + rate limiting, structlog,   pydantic-settings, APScheduler, RFC7807",
+  "description_ja": "",
   "url": "https://github.com/kaxiluo/fastapi-skeleton",
   "homepage_url": "",
   "language": "Python",
@@ -13,13 +13,13 @@
     "fastapi",
     "skeleton"
   ],
-  "star_count": 226,
+  "star_count": 225,
   "fork_count": 66,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-28T10:51:47Z",
-  "updated_at": "2026-08-17T02:17:54Z",
-  "pushed_at": "2026-03-15T08:44:22Z",
+  "updated_at": "2026-09-20T15:04:14Z",
+  "pushed_at": "2026-09-20T15:00:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -397,6 +397,10 @@
     {
       "date": "2026-09-11",
       "stars": 226
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 225
     }
   ]
 }

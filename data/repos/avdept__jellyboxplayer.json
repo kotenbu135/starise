@@ -3,17 +3,18 @@
   "owner": "avdept",
   "name": "jellyboxplayer",
   "full_name": "avdept/jellyboxplayer",
-  "description": "The best native desktop and mobile music player for Jellyfin and Emby",
+  "description": "A native desktop and mobile music player for Jellyfin and Emby with spotify-like playlists.",
   "description_ja": "",
   "url": "https://github.com/avdept/JellyBoxPlayer",
   "homepage_url": "https://jellybox.app",
   "language": "Dart",
   "license": "AGPL-3.0",
   "topics": [
+    "androidauto",
     "applemusic",
     "audio-player",
+    "carplay",
     "emby",
-    "emby-alternative",
     "emby-client",
     "flac",
     "jellyfin",
@@ -21,17 +22,16 @@
     "loseless",
     "music",
     "player",
-    "plex",
     "self-hosted",
     "spotify"
   ],
-  "star_count": 578,
-  "fork_count": 19,
+  "star_count": 619,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-25T11:48:59Z",
-  "updated_at": "2026-09-11T18:04:34Z",
-  "pushed_at": "2026-09-11T18:04:33Z",
+  "updated_at": "2026-09-20T20:28:13Z",
+  "pushed_at": "2026-09-20T16:40:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -413,6 +413,10 @@
     {
       "date": "2026-09-11",
       "stars": 578
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 619
     }
   ]
 }

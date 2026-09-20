@@ -5,7 +5,7 @@
   "full_name": "veratools/vera",
   "description": "Local code search combining BM25, vector similarity, and cross-encoder reranking. Parses 60+ languages with tree-sitter, runs entirely offline, and returns structured results with file paths, line ranges, and symbol metadata. Built in Rust.",
   "description_ja": "BM25・ベクター類似度・cross-encoderリランキングを組み合わせたローカルコード検索。tree-sitterで60以上の言語を解析し、完全オフラインで動作し、ファイルパス・行範囲・シンボルメタデータを含む構造化された結果を返す。Rust製。",
-  "url": "https://github.com/VeraTools/Vera",
+  "url": "https://github.com/VeraTools/vera",
   "homepage_url": "",
   "language": "Rust",
   "license": "MIT",
@@ -30,13 +30,13 @@
     "tree-sitter",
     "vector-search"
   ],
-  "star_count": 109,
-  "fork_count": 14,
+  "star_count": 114,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T05:41:30Z",
-  "updated_at": "2026-09-10T05:48:54Z",
-  "pushed_at": "2026-09-10T05:48:51Z",
+  "updated_at": "2026-09-20T16:59:50Z",
+  "pushed_at": "2026-09-13T08:18:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -418,6 +418,10 @@
     {
       "date": "2026-09-11",
       "stars": 109
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 114
     }
   ]
 }

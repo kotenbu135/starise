@@ -3,7 +3,7 @@
   "owner": "githubflyideas",
   "name": "fogping",
   "full_name": "githubflyideas/fogping",
-  "description": "SmokePing's smoke graph, minus the Perl, RRDtool, cron and Apache. One Go binary, embedded SQLite with in-process rollup, built-in Web UI and auth.",
+  "description": "A SmokePing-like tool.One Go binary. Deploy in 30 seconds",
   "description_ja": "",
   "url": "https://github.com/githubflyideas/fogping",
   "homepage_url": "https://githubflyideas.github.io/fogping/",
@@ -28,8 +28,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-18T00:57:56Z",
-  "updated_at": "2026-09-11T14:37:08Z",
-  "pushed_at": "2026-09-11T14:36:37Z",
+  "updated_at": "2026-09-12T14:09:32Z",
+  "pushed_at": "2026-09-12T14:09:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -98,6 +98,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 51
+    },
+    {
+      "date": "2026-09-20",
       "stars": 51
     }
   ]

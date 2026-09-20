@@ -3,20 +3,34 @@
   "owner": "illusionaireal",
   "name": "oh-my-patent",
   "full_name": "illusionaireal/oh-my-patent",
-  "description": "",
+  "description": "🏛️ The patent plugin for AI coding agents — turn technical ideas into patent disclosures with Claude Code, Codex, and OpenCode.",
   "description_ja": "",
   "url": "https://github.com/illusionaireal/oh-my-patent",
-  "homepage_url": "",
+  "homepage_url": "https://www.npmjs.com/package/oh-my-patent",
   "language": "TypeScript",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "ai-agents",
+    "claude-code",
+    "claude-code-plugin",
+    "codex",
+    "codex-plugin",
+    "intellectual-property",
+    "multi-agent",
+    "opencode",
+    "opencode-plugin",
+    "patent",
+    "patent-drafting",
+    "patents",
+    "typescript"
+  ],
   "star_count": 94,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-16T10:02:19Z",
-  "updated_at": "2026-09-10T02:21:36Z",
-  "pushed_at": "2026-09-01T09:43:04Z",
+  "updated_at": "2026-09-20T11:16:29Z",
+  "pushed_at": "2026-09-20T11:38:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -185,6 +199,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 94
+    },
+    {
+      "date": "2026-09-20",
       "stars": 94
     }
   ]

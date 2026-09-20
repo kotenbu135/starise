@@ -3,7 +3,7 @@
   "owner": "antonbabenko",
   "name": "deliberation",
   "full_name": "antonbabenko/deliberation",
-  "description": "Ask Codex, Gemini, Grok, and 400+ OpenRouter models (Qwen, Kimi, DeepSeek) for second opinions or arbiter-mediated consensus. One MCP server for Claude Code, Codex, Cursor, Kiro, OpenCode. Measures which models earn their seat.",
+  "description": "Ask Codex, Gemini, Grok, and 400+ OpenRouter models (Qwen, Kimi, DeepSeek) for second opinions or arbiter-mediated consensus. One MCP server for Claude Code, Codex, Cursor, Kiro, OpenCode. Measures the models' usefulness, too.",
   "description_ja": "",
   "url": "https://github.com/antonbabenko/deliberation",
   "homepage_url": "",
@@ -30,13 +30,13 @@
     "security-review",
     "xai"
   ],
-  "star_count": 145,
-  "fork_count": 9,
+  "star_count": 158,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-13T18:34:35Z",
-  "updated_at": "2026-09-11T21:05:17Z",
-  "pushed_at": "2026-09-11T21:05:24Z",
+  "updated_at": "2026-09-20T10:58:28Z",
+  "pushed_at": "2026-09-20T09:26:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -306,6 +306,10 @@
     {
       "date": "2026-09-11",
       "stars": 145
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 158
     }
   ]
 }

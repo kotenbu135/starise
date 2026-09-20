@@ -3,26 +3,37 @@
   "owner": "hacker-valley-media",
   "name": "interceptor",
   "full_name": "hacker-valley-media/interceptor",
-  "description": "Agent-driven Chrome extension for full browser control via CLI",
+  "description": "Browser automation and computer use for AI agents. One CLI and MCP server for your signed-in browser, native macOS apps, and real iPhones.",
   "description_ja": "",
   "url": "https://github.com/Hacker-Valley-Media/Interceptor",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
+    "agent-skills",
     "ai-agents",
     "ai-tools",
     "browser-automation",
     "browser-extension",
-    "browser-use"
+    "browser-use",
+    "cli",
+    "computer-use",
+    "desktop-automation",
+    "ios",
+    "iphone",
+    "macos",
+    "mcp",
+    "mcp-server",
+    "ui-automation",
+    "workflow-automation"
   ],
-  "star_count": 407,
-  "fork_count": 53,
+  "star_count": 419,
+  "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-18T15:24:40Z",
-  "updated_at": "2026-09-11T22:18:44Z",
-  "pushed_at": "2026-09-11T22:18:42Z",
+  "updated_at": "2026-09-19T17:59:41Z",
+  "pushed_at": "2026-09-19T16:02:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -368,6 +379,10 @@
     {
       "date": "2026-09-11",
       "stars": 407
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 419
     }
   ]
 }

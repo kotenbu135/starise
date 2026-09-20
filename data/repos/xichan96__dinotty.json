@@ -6,7 +6,7 @@
   "description": "Multi-device terminal server for AI coding agents. Server-side VTE, session persistence, file browser, web preview, plugin system. Self-hosted.",
   "description_ja": "",
   "url": "https://github.com/xichan96/dinotty",
-  "homepage_url": "https://xichan96.github.io/dinotty/",
+  "homepage_url": "https://dinotty.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
@@ -26,13 +26,13 @@
     "web-terminal",
     "xterm"
   ],
-  "star_count": 692,
-  "fork_count": 71,
+  "star_count": 710,
+  "fork_count": 73,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-12T09:44:58Z",
-  "updated_at": "2026-09-11T16:42:56Z",
-  "pushed_at": "2026-09-11T16:42:50Z",
+  "updated_at": "2026-09-19T20:06:43Z",
+  "pushed_at": "2026-09-15T02:04:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -110,6 +110,10 @@
     {
       "date": "2026-09-11",
       "stars": 692
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 710
     }
   ]
 }

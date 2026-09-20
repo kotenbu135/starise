@@ -3,24 +3,25 @@
   "owner": "simovilab",
   "name": "databus",
   "full_name": "simovilab/databus",
-  "description": "Core GTFS server implementing Schedule and Realtime specifications for comprehensive transit data management with RESTful APIs",
-  "description_ja": "RESTful APIを用いた包括的な交通データ管理のためにGTFSスケジュールおよびリアルタイム仕様を実装するコアGTFSサーバー",
+  "description": "A real-time server implementing the GTFS Schedule and Realtime specifications for transit data management.",
+  "description_ja": "",
   "url": "https://github.com/simovilab/databus",
-  "homepage_url": "http://databus.bucr.digital/",
+  "homepage_url": "https://databus.simovilab.org/",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
     "api",
-    "celery",
     "django",
-    "gtfs"
+    "gtfs",
+    "postgresql",
+    "redis"
   ],
   "star_count": 101,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-12-08T01:25:31Z",
-  "updated_at": "2026-09-07T21:02:35Z",
+  "updated_at": "2026-09-15T12:51:25Z",
   "pushed_at": "2026-09-07T21:02:25Z",
   "deleted_at": "",
   "star_history": [
@@ -398,6 +399,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 101
+    },
+    {
+      "date": "2026-09-20",
       "stars": 101
     }
   ]

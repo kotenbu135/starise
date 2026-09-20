@@ -3,20 +3,28 @@
   "owner": "codemazeblog",
   "name": "codemazeguides",
   "full_name": "codemazeblog/codemazeguides",
-  "description": "The main repository for all the Code Maze guides",
+  "description": "Source code for 800+ C# and .NET articles from code-maze.com. Every article is a runnable solution, most with tests.",
   "description_ja": "",
   "url": "https://github.com/CodeMazeBlog/CodeMazeGuides",
-  "homepage_url": "",
+  "homepage_url": "https://code-maze.com",
   "language": "C#",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "aspnetcore",
+    "blazor",
+    "code-samples",
+    "csharp",
+    "dotnet",
+    "efcore",
+    "tutorials"
+  ],
   "star_count": 982,
-  "fork_count": 1167,
+  "fork_count": 1166,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-16T11:17:55Z",
-  "updated_at": "2026-09-11T10:11:46Z",
-  "pushed_at": "2026-09-11T10:11:40Z",
+  "updated_at": "2026-09-20T10:11:56Z",
+  "pushed_at": "2026-09-20T10:11:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +73,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 982
+    },
+    {
+      "date": "2026-09-20",
       "stars": 982
     }
   ]

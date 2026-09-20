@@ -3,7 +3,7 @@
   "owner": "goodrain",
   "name": "rainbond",
   "full_name": "goodrain/rainbond",
-  "description": "Rainbond is an AI application runtime platform.  Its core capabilities are 100% open source. Rainbond provides a unified platform for running and managing AI-generated projects, large language model services, open-source AI software, and business applications. With AI-powered deployment, troubleshooting, upgrades, and operations, it keeps applicati",
+  "description": "Rainbond is an open-source container platform that requires no Kubernetes expertise. Its core capabilities are 100% open source.  It abstracts away infrastructure complexity and provides a unified way to deploy and manage business applications, AI-generated projects, open-source AI software, and large language model services. AI helps teams deploy ",
   "description_ja": "",
   "url": "https://github.com/goodrain/rainbond",
   "homepage_url": "https://www.rainbond.io",
@@ -21,13 +21,13 @@
     "private-deployment",
     "self-hosted"
   ],
-  "star_count": 6267,
-  "fork_count": 877,
+  "star_count": 6270,
+  "fork_count": 878,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-11-05T09:33:39Z",
-  "updated_at": "2026-09-11T20:36:56Z",
-  "pushed_at": "2026-09-11T10:12:27Z",
+  "updated_at": "2026-09-20T02:23:31Z",
+  "pushed_at": "2026-09-20T07:35:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -409,6 +409,10 @@
     {
       "date": "2026-09-11",
       "stars": 6267
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 6270
     }
   ]
 }

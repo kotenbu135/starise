@@ -6,10 +6,11 @@
   "description": "Self-hosted Cloudflare Workers-compatible platform with KV, D1, R2, Durable Objects, Queues, and Workflows in one Rust binary.",
   "description_ja": "",
   "url": "https://github.com/elliothux/open-compute",
-  "homepage_url": "https://open-compute.dev/",
+  "homepage_url": "https://open-compute.dev",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "cloud",
     "cloudflare",
     "cloudflare-workers",
     "container",
@@ -30,18 +31,22 @@
     "workerd",
     "wrangler"
   ],
-  "star_count": 560,
-  "fork_count": 10,
+  "star_count": 1079,
+  "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-23T04:34:25Z",
-  "updated_at": "2026-09-11T23:25:18Z",
-  "pushed_at": "2026-09-11T17:53:13Z",
+  "updated_at": "2026-09-20T21:36:20Z",
+  "pushed_at": "2026-09-18T22:23:24Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-11",
       "stars": 560
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1079
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "dtkmn",
   "name": "mcp-zap-server",
   "full_name": "dtkmn/mcp-zap-server",
-  "description": "Give AI agents a safe, self-hosted OWASP ZAP operator for guided web security scans, findings, reports, and production guardrails.",
+  "description": "Give AI agents a safe, self-hosted ZAP operator for guided web security scans, findings, reports, and production guardrails.",
   "description_ja": "",
   "url": "https://github.com/dtkmn/mcp-zap-server",
   "homepage_url": "https://danieltse.org/mcp-zap-server/",
@@ -15,18 +15,17 @@
     "llm",
     "mcp",
     "mcp-server",
-    "owasp",
     "spring-ai",
     "spring-boot",
     "zap"
   ],
-  "star_count": 65,
-  "fork_count": 9,
+  "star_count": 66,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-04-20T15:20:48Z",
-  "updated_at": "2026-09-02T11:22:23Z",
-  "pushed_at": "2026-09-09T06:27:29Z",
+  "updated_at": "2026-09-19T12:32:17Z",
+  "pushed_at": "2026-09-20T14:03:09Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +403,10 @@
     {
       "date": "2026-09-11",
       "stars": 65
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 66
     }
   ]
 }

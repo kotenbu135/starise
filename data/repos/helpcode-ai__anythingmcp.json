@@ -3,7 +3,7 @@
   "owner": "helpcode-ai",
   "name": "anythingmcp",
   "full_name": "helpcode-ai/anythingmcp",
-  "description": "Self-hosted, open-source AI-empowered MCP gateway: turn any API, database or MCP server into custom connectors for Claude, ChatGPT, Gemini, Copilot \u0026 Cursor — no code. Convert REST, SOAP, WSDL, GraphQL \u0026 SQL to MCP, with OAuth2, RBAC \u0026 audit log. 175+ pre-built adapters (Deutsche Bahn, weclapp, Etsy, DHL, Shopware…)",
+  "description": "#1 MCP Gateway on GitHub 🔌 200+ ready connectors + any REST/SOAP/GraphQL/SQL system as custom connectors for Claude, ChatGPT and Copilot. Self-hosted, no-code, open source (AGPL-3.0). Learns how your systems connect. SSO and governance",
   "description_ja": "",
   "url": "https://github.com/HelpCode-ai/anythingmcp",
   "homepage_url": "https://anythingmcp.com",
@@ -11,33 +11,33 @@
   "license": "AGPL-3.0",
   "topics": [
     "ai-agents",
+    "ai-gateway",
     "api-gateway",
     "chatgpt",
     "chatgpt-apps",
     "claude",
     "claude-connectors",
-    "database-mcp-server",
-    "gemini",
-    "graphql-to-mcp",
+    "docker",
+    "hacktoberfest",
+    "knowledge-graph",
     "mcp",
     "mcp-gateway",
+    "mcp-server",
     "mcp-servers",
     "model-context-protocol",
     "no-code",
     "openapi-to-mcp",
     "rest-to-mcp",
     "self-hosted",
-    "soap-to-mcp",
-    "sql-to-mcp",
-    "typescript"
+    "soap-to-mcp"
   ],
-  "star_count": 199,
-  "fork_count": 14,
+  "star_count": 261,
+  "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T12:01:26Z",
-  "updated_at": "2026-09-11T16:23:56Z",
-  "pushed_at": "2026-09-11T18:12:35Z",
+  "updated_at": "2026-09-20T22:16:02Z",
+  "pushed_at": "2026-09-20T19:56:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -331,6 +331,10 @@
     {
       "date": "2026-09-11",
       "stars": 199
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 261
     }
   ]
 }

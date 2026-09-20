@@ -3,10 +3,10 @@
   "owner": "orbien-org",
   "name": "orbien",
   "full_name": "orbien-org/orbien",
-  "description": "一个轻量高性能的内网穿透，二进制体积大约5MB ，支持 TCP、QUIC、KCP、WebSocket 传输协议，支持 TCP、UDP、HTTP、HTTPS、SOCKS5 协议代理，提供纯Rust原生跨平台桌面客户端和服务端 Web 界面",
+  "description": "A lightweight high-performance intranet penetration tool with ~5MB binary size. Supports multiple transport and application protocols for proxying. Provides pure Rust native cross-platform desktop client and server web UI",
   "description_ja": "",
   "url": "https://github.com/orbien-org/orbien",
-  "homepage_url": "https://orbien-org.github.io/orbien/",
+  "homepage_url": "https://orbien-org.github.io/orbien",
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
@@ -26,13 +26,13 @@
     "tunnel",
     "websocket"
   ],
-  "star_count": 1233,
-  "fork_count": 143,
+  "star_count": 1274,
+  "fork_count": 153,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-07T11:04:04Z",
-  "updated_at": "2026-09-11T16:10:40Z",
-  "pushed_at": "2026-09-10T13:00:00Z",
+  "updated_at": "2026-09-20T11:56:53Z",
+  "pushed_at": "2026-09-19T15:31:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -62,6 +62,10 @@
     {
       "date": "2026-09-11",
       "stars": 1233
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1274
     }
   ]
 }

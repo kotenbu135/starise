@@ -3,23 +3,26 @@
   "owner": "basecamp",
   "name": "skills",
   "full_name": "basecamp/skills",
-  "description": "AI agent skills for Basecamp",
+  "description": "AI agent skills for 37signals products: Basecamp, HEY, and Fizzy",
   "description_ja": "",
   "url": "https://github.com/basecamp/skills",
   "homepage_url": "https://basecamp.com",
   "language": "",
   "license": "",
   "topics": [
+    "37signals",
     "agent-skills",
-    "basecamp"
+    "basecamp",
+    "fizzy",
+    "hey"
   ],
-  "star_count": 70,
-  "fork_count": 7,
+  "star_count": 72,
+  "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T18:58:21Z",
-  "updated_at": "2026-09-09T23:17:10Z",
-  "pushed_at": "2026-09-09T23:16:34Z",
+  "updated_at": "2026-09-19T09:46:46Z",
+  "pushed_at": "2026-09-19T00:18:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -141,6 +144,10 @@
     {
       "date": "2026-09-11",
       "stars": 70
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 72
     }
   ]
 }

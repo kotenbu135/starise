@@ -6,7 +6,7 @@
   "description": "Deploy a complete self-hosted AI stack with Docker Compose: Ollama, LiteLLM, AnythingLLM, Whisper, WhisperLive, Kokoro, Embeddings, Docling and MCP Gateway. Local-first, private by default, with lightweight stacks, optional HTTPS and NVIDIA CUDA acceleration. Multi-arch: amd64, arm64.",
   "description_ja": "",
   "url": "https://github.com/hwdsl2/self-hosted-ai-stack",
-  "homepage_url": "",
+  "homepage_url": "https://selfhostedaistack.com",
   "language": "Shell",
   "license": "MIT",
   "topics": [
@@ -31,13 +31,13 @@
     "text-to-speech",
     "whisper"
   ],
-  "star_count": 147,
-  "fork_count": 27,
+  "star_count": 153,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-05T03:44:12Z",
-  "updated_at": "2026-09-11T09:19:27Z",
-  "pushed_at": "2026-09-08T04:14:51Z",
+  "updated_at": "2026-09-20T10:59:59Z",
+  "pushed_at": "2026-09-19T05:38:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -331,6 +331,10 @@
     {
       "date": "2026-09-11",
       "stars": 147
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 153
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "Identifies and prioritizes Class and Package Cycles and Anti-pattens in Java \u0026 Kotlin codebases you should refactor first.",
   "description_ja": "",
   "url": "https://github.com/refactorfirst/RefactorFirst",
-  "homepage_url": "",
+  "homepage_url": "https://refactorfirst.github.io/",
   "language": "Java",
   "license": "Apache-2.0",
   "topics": [
@@ -21,13 +21,13 @@
     "report",
     "static-analysis"
   ],
-  "star_count": 543,
+  "star_count": 548,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-10-01T13:48:21Z",
-  "updated_at": "2026-09-09T11:51:52Z",
-  "pushed_at": "2026-09-10T13:06:43Z",
+  "updated_at": "2026-09-19T11:17:21Z",
+  "pushed_at": "2026-09-20T21:52:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -409,6 +409,10 @@
     {
       "date": "2026-09-11",
       "stars": 543
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 548
     }
   ]
 }

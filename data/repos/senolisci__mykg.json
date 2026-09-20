@@ -3,7 +3,7 @@
   "owner": "senolisci",
   "name": "mykg",
   "full_name": "senolisci/mykg",
-  "description": "Knowledge graph extractor: Markdown (or any format) to knowledge graph with RDFS/OWL ontology",
+  "description": "MyKG Knowledge Graph Engine: Turn raw files into knowledge graphs with induced ontology",
   "description_ja": "",
   "url": "https://github.com/SenolIsci/mykg",
   "homepage_url": "",
@@ -31,13 +31,13 @@
     "rdfs",
     "second-brain"
   ],
-  "star_count": 71,
+  "star_count": 73,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-27T22:40:59Z",
-  "updated_at": "2026-09-08T08:36:39Z",
-  "pushed_at": "2026-09-01T10:50:34Z",
+  "updated_at": "2026-09-19T05:02:03Z",
+  "pushed_at": "2026-09-18T19:43:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -231,6 +231,10 @@
     {
       "date": "2026-09-11",
       "stars": 71
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 73
     }
   ]
 }

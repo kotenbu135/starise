@@ -3,7 +3,7 @@
   "owner": "finlater",
   "name": "weread.koplugin",
   "full_name": "finlater/weread.koplugin",
-  "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。",
+  "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。",
   "description_ja": "",
   "url": "https://github.com/finlater/weread.koplugin",
   "homepage_url": "",
@@ -21,13 +21,13 @@
     "weread",
     "wxread"
   ],
-  "star_count": 707,
-  "fork_count": 83,
+  "star_count": 742,
+  "fork_count": 90,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-07T08:06:01Z",
-  "updated_at": "2026-09-11T14:39:22Z",
-  "pushed_at": "2026-09-11T14:59:10Z",
+  "updated_at": "2026-09-20T18:06:20Z",
+  "pushed_at": "2026-09-20T18:06:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -173,6 +173,10 @@
     {
       "date": "2026-09-11",
       "stars": 707
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 742
     }
   ]
 }

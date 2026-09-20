@@ -3,10 +3,10 @@
   "owner": "csml-rpi",
   "name": "foam-agent",
   "full_name": "csml-rpi/foam-agent",
-  "description": "Foam-Agent: An end-to-end, composable multi-agent framework for automating CFD simulations in OpenFOAM. NeurIPS 2025 Machine Learning and the Physical Sciences Workshop.",
+  "description": "Foam-Agent: A large language model-based multi-agent framework for automating computational fluid dynamics workflows. Published in Computer Methods in Applied Mechanics and Engineering (CMAME).",
   "description_ja": "",
   "url": "https://github.com/csml-rpi/Foam-Agent",
-  "homepage_url": "https://arxiv.org/abs/2505.04997",
+  "homepage_url": "https://www.sciencedirect.com/science/article/abs/pii/S004578252600544X",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -19,13 +19,13 @@
     "physics",
     "simulation"
   ],
-  "star_count": 316,
-  "fork_count": 71,
+  "star_count": 323,
+  "fork_count": 72,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-06T14:50:17Z",
-  "updated_at": "2026-09-10T17:25:05Z",
-  "pushed_at": "2026-08-14T03:45:46Z",
+  "updated_at": "2026-09-20T21:12:38Z",
+  "pushed_at": "2026-09-20T21:12:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +71,10 @@
     {
       "date": "2026-09-11",
       "stars": 316
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 323
     }
   ]
 }

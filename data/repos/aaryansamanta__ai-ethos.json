@@ -3,20 +3,37 @@
   "owner": "aaryansamanta",
   "name": "ai-ethos",
   "full_name": "aaryansamanta/ai-ethos",
-  "description": "501(c)(3) nonprofit advancing ethical AI education worldwide. Workshops, bias mitigation resources, and global seminars reaching 75+ students across 3 countries — founded \u0026 led by a 10th-grade AI enthusiast.",
-  "description_ja": "世界中で倫理的AI教育を推進する501(c)(3)非営利団体。10年生のAI愛好家が創設・運営し、ワークショップ、バイアス緩和リソース、グローバルセミナーで3か国75名以上の学生に届ける。",
+  "description": "501(c)(3) nonprofit delivering ethical, inclusive, multilingual AI tutoring for underserved learners — low-income, rural, multilingual \u0026 neurodiverse students. 1,500+ students reached across 7 languages. Source code for aiethos.org.",
+  "description_ja": "",
   "url": "https://github.com/aaryansamanta/ai-ethos",
-  "homepage_url": "",
+  "homepage_url": "https://www.aiethos.org",
   "language": "PHP",
   "license": "",
-  "topics": [],
-  "star_count": 500,
+  "topics": [
+    "501c3",
+    "accessibility",
+    "ai-education",
+    "ai-ethics",
+    "ai-tutoring",
+    "artificial-intelligence",
+    "edtech",
+    "education-technology",
+    "equity",
+    "multilingual",
+    "neurodiversity",
+    "nonprofit",
+    "open-source",
+    "php",
+    "privacy-first",
+    "underserved-communities"
+  ],
+  "star_count": 499,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-01T21:01:48Z",
-  "updated_at": "2026-09-01T14:34:44Z",
-  "pushed_at": "2026-08-12T08:56:09Z",
+  "updated_at": "2026-09-20T06:37:50Z",
+  "pushed_at": "2026-09-20T06:29:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -398,6 +415,10 @@
     {
       "date": "2026-09-11",
       "stars": 500
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 499
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "bitrouter",
   "name": "bitrouter",
   "full_name": "bitrouter/bitrouter",
-  "description": "The context-aware model router that learns \u0026 adapts to your long-horizon coding agent workflows. Lightweight \u0026 extensible, works with any harnesses, any models, any loops.",
+  "description": "The minimal interpretable model router that learns \u0026 adapts to your agent workflows",
   "description_ja": "",
   "url": "https://github.com/bitrouter/bitrouter",
   "homepage_url": "https://bitrouter.ai",
@@ -31,13 +31,13 @@
     "rust",
     "skills"
   ],
-  "star_count": 226,
+  "star_count": 228,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T20:04:01Z",
-  "updated_at": "2026-09-11T20:04:19Z",
-  "pushed_at": "2026-09-11T20:14:38Z",
+  "updated_at": "2026-09-19T13:57:39Z",
+  "pushed_at": "2026-09-20T02:07:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 226
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 228
     }
   ]
 }

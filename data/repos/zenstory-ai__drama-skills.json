@@ -3,32 +3,39 @@
   "owner": "zenstory-ai",
   "name": "drama-skills",
   "full_name": "zenstory-ai/drama-skills",
-  "description": "AI 短剧/漫剧创作 skill 合集，覆盖剧本、资产、分镜、图片/视频提示词到独立审查全链路，适配 Claude Code 与 Codex。| An AI short-drama skill suite for Claude Code \u0026 Codex: scripts, assets, storyboards, image/video prompts, and independent review.",
+  "description": "开源 AI 短剧/漫剧创作 skill 合集：剧本、角色资产、分镜 storyboard、图片/视频提示词、审查，适配 Claude Code 与 Codex | Open-source AI short drama / micro-drama skills for Claude Code \u0026 Codex: script, assets, storyboard, image \u0026 video prompts, review. MIT.",
   "description_ja": "",
   "url": "https://github.com/zenstory-ai/drama-skills",
-  "homepage_url": "https://zenstory.ai",
+  "homepage_url": "https://zenstory.ai/drama-skills",
   "language": "Python",
   "license": "MIT",
   "topics": [
     "agent-skills",
+    "ai-short-drama",
     "ai-video",
     "aigc",
     "claude-code",
+    "claude-code-skills",
     "claude-skills",
     "codex",
+    "comic-drama",
+    "micro-drama",
     "prompt-engineering",
     "screenwriting",
+    "script-generation",
     "short-drama",
     "storyboard",
+    "storyboarding",
+    "video-prompts",
     "zenstory"
   ],
-  "star_count": 1798,
-  "fork_count": 433,
+  "star_count": 2119,
+  "fork_count": 476,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-16T16:11:19Z",
-  "updated_at": "2026-09-11T22:47:17Z",
-  "pushed_at": "2026-09-11T17:02:58Z",
+  "updated_at": "2026-09-20T22:25:51Z",
+  "pushed_at": "2026-09-18T17:12:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -86,6 +93,10 @@
     {
       "date": "2026-09-11",
       "stars": 1798
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 2119
     }
   ]
 }

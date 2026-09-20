@@ -3,10 +3,10 @@
   "owner": "tangosdev",
   "name": "sm64ds-decomp",
   "full_name": "tangosdev/sm64ds-decomp",
-  "description": "From-scratch, byte-matching decompilation of Super Mario 64 DS (sm64ds decomp) into C, with a live progress atlas and matching tools.",
+  "description": "From-scratch, byte-matching decompilation of Super Mario 64 DS into C/C++, with a live progress atlas and matching tools.",
   "description_ja": "",
   "url": "https://github.com/tangosdev/sm64ds-decomp",
-  "homepage_url": "https://github.com/tangosdev/tangOS",
+  "homepage_url": "https://tangos.dev",
   "language": "C++",
   "license": "MIT",
   "topics": [
@@ -21,13 +21,13 @@
     "sm64ds",
     "super-mario-64-ds"
   ],
-  "star_count": 155,
-  "fork_count": 15,
+  "star_count": 165,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-14T00:45:48Z",
-  "updated_at": "2026-09-11T03:39:52Z",
-  "pushed_at": "2026-09-11T04:38:16Z",
+  "updated_at": "2026-09-20T23:12:01Z",
+  "pushed_at": "2026-09-20T23:17:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -241,6 +241,10 @@
     {
       "date": "2026-09-11",
       "stars": 155
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 165
     }
   ]
 }

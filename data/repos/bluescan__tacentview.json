@@ -3,41 +3,41 @@
   "owner": "bluescan",
   "name": "tacentview",
   "full_name": "bluescan/tacentview",
-  "description": "An image and texture viewer for tga, png, apng, exr, dds, pvr, ktx, ktx2, astc, pkm, qoi, gif, hdr, jpg, tif, ico, webp, and bmp files. Uses Dear ImGui, OpenGL, and Tacent. Useful for game devs as it displays information like the presence of an alpha channel and querying specific pixels for their colour.",
+  "description": "An image and texture viewer for tga, png, apng, exr, dds, pvr, ktx, ktx2, astc, pkm, qoi, gif, hdr, jpg, jxl, tif, ico, webp, avif, heic, and bmp files. Uses Dear ImGui, OpenGL, and Tacent. Useful for game devs as it displays information like the presence of an alpha channel and querying specific pixels for their colour.",
   "description_ja": "",
   "url": "https://github.com/bluescan/tacentview",
   "homepage_url": "",
   "language": "C++",
   "license": "ISC",
   "topics": [
-    "apng",
     "astc",
+    "avif",
     "bmp",
-    "crop",
     "dds",
     "dear-imgui",
     "exr",
     "gif",
     "hdr",
-    "image",
+    "heic",
     "image-processing",
     "image-viewer",
     "jpg",
+    "jxl",
     "ktx",
-    "ktx2",
     "png",
+    "pvr",
     "qoi",
     "tga",
     "tiff",
     "webp"
   ],
-  "star_count": 589,
+  "star_count": 590,
   "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-02-05T04:07:39Z",
-  "updated_at": "2026-09-11T21:52:10Z",
-  "pushed_at": "2026-09-11T21:52:03Z",
+  "updated_at": "2026-09-19T09:39:22Z",
+  "pushed_at": "2026-09-19T09:39:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -395,6 +395,10 @@
     {
       "date": "2026-09-11",
       "stars": 589
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 590
     }
   ]
 }

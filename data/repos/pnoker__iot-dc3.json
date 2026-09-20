@@ -3,7 +3,7 @@
   "owner": "pnoker",
   "name": "iot-dc3",
   "full_name": "pnoker/iot-dc3",
-  "description": "IoT DC3 is a multi-protocol, cloud-native, AI-powered, open-source industrial IoT platform evolving toward AI agents. A complete IoT system solution: device connectivity, data acquisition, edge-to-cloud delivery and intelligent operations.",
+  "description": "IoT DC3 — Connect the Physical World to AI. An open-source Industrial IoT Runtime for Physical AI: 36 protocol drivers, edge-to-cloud data delivery, and an MCP tool gateway so AI agents act on devices in a safe, controllable, traceable loop.",
   "description_ja": "",
   "url": "https://github.com/pnoker/iot-dc3",
   "homepage_url": "https://dc3.site",
@@ -25,19 +25,19 @@
     "model-context-protocol",
     "mqtt",
     "opc-ua",
+    "physical-ai",
     "plc",
-    "robotics",
     "scada",
     "spring-ai",
     "spring-cloud"
   ],
-  "star_count": 1253,
+  "star_count": 1287,
   "fork_count": 233,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-08-28T13:01:37Z",
-  "updated_at": "2026-09-11T16:41:14Z",
-  "pushed_at": "2026-09-08T22:16:38Z",
+  "updated_at": "2026-09-20T20:31:55Z",
+  "pushed_at": "2026-09-20T19:23:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 1253
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1287
     }
   ]
 }

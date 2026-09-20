@@ -3,7 +3,7 @@
   "owner": "edison7009",
   "name": "echobird",
   "full_name": "edison7009/echobird",
-  "description": "One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), DeepSeek Harness, Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI),OpenClaw,Pi,OpenScience,Vibe-Trading,Claude Desktop (3P profile),ChatGPT desktop,OpenCode Desktop,",
+  "description": "Manage ChatGPT, Codex CLI, and Claude Code accounts and track quota in one place. Use multi-model smart routing with priority and automatic failover. Install AI tools and deploy local LLMs in one click.",
   "description_ja": "",
   "url": "https://github.com/edison7009/EchoBird",
   "homepage_url": "https://Echobird.ai",
@@ -20,13 +20,13 @@
     "opencode",
     "zcode"
   ],
-  "star_count": 3211,
-  "fork_count": 359,
+  "star_count": 3261,
+  "fork_count": 371,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-15T12:36:33Z",
-  "updated_at": "2026-09-11T20:57:53Z",
-  "pushed_at": "2026-09-11T20:57:47Z",
+  "updated_at": "2026-09-20T11:32:12Z",
+  "pushed_at": "2026-09-20T11:32:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -336,6 +336,10 @@
     {
       "date": "2026-09-11",
       "stars": 3211
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 3261
     }
   ]
 }

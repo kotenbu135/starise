@@ -3,10 +3,10 @@
   "owner": "abgox",
   "name": "pscompletions",
   "full_name": "abgox/pscompletions",
-  "description": "A completion manager for a better and simpler tab-completion experience in PowerShell.",
+  "description": "A tab-completion manager for PowerShell, powered by Rust engine and interactive menu.",
   "description_ja": "",
   "url": "https://github.com/abgox/PSCompletions",
-  "homepage_url": "https://pscompletions.abgox.com",
+  "homepage_url": "",
   "language": "Rust",
   "license": "MIT",
   "topics": [
@@ -23,13 +23,13 @@
     "pwsh",
     "tab"
   ],
-  "star_count": 587,
+  "star_count": 594,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-08-15T05:32:14Z",
-  "updated_at": "2026-09-11T13:30:19Z",
-  "pushed_at": "2026-09-11T13:30:10Z",
+  "updated_at": "2026-09-20T14:02:40Z",
+  "pushed_at": "2026-09-20T14:02:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -67,6 +67,10 @@
     {
       "date": "2026-09-11",
       "stars": 587
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 594
     }
   ]
 }

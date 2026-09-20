@@ -3,7 +3,7 @@
   "owner": "bobbylkchao",
   "name": "ai-phone-agent",
   "full_name": "bobbylkchao/ai-phone-agent",
-  "description": "AI Phone Agent: A starter kit to build AI agents that answer real phone calls and talk to customers in real time (OpenAI Realtime). Node.js backend for Twilio \u0026 Amazon Connect - ship phone-first voice agents faster. Dial +1 (855) 522-2348 to try the demo.",
+  "description": "AI Phone Agent: A starter kit to build AI agents that answer real phone calls and talk to customers in real time. Amazon Connect, OpenAI SIP, and the OpenAI Realtime API. Dial +1 844-593-8442 to try the demo.",
   "description_ja": "",
   "url": "https://github.com/bobbylkchao/ai-phone-agent",
   "homepage_url": "",
@@ -13,19 +13,22 @@
     "ai-phone",
     "ai-phone-agent",
     "amazon-connect",
+    "ccaas",
     "javascript",
     "nodejs",
     "openai",
-    "twilio",
-    "twilio-voice"
+    "openai-realtime",
+    "sip",
+    "typescript",
+    "voice-agent"
   ],
   "star_count": 110,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-17T14:43:23Z",
-  "updated_at": "2026-08-31T03:53:43Z",
-  "pushed_at": "2026-04-18T03:35:08Z",
+  "updated_at": "2026-09-13T00:58:06Z",
+  "pushed_at": "2026-09-13T00:58:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -378,6 +381,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 110
+    },
+    {
+      "date": "2026-09-20",
       "stars": 110
     }
   ]

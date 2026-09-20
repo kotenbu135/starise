@@ -6,16 +6,25 @@
   "description": "Automated Nim shellcode stager builder for Sliver C2 - cross-compiles a Windows evasion payload in one command. For authorized red team engagements only.",
   "description_ja": "",
   "url": "https://github.com/Invadel-Cybersecurity/NimDrop",
-  "homepage_url": "",
+  "homepage_url": "https://invadel.com/services/red-team-operations/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "evasion",
+    "nim",
+    "penetration-testing",
+    "red-team",
+    "security-tools",
+    "shellcode",
+    "sliver",
+    "windows"
+  ],
   "star_count": 47,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-31T00:21:59Z",
-  "updated_at": "2026-09-01T16:08:36Z",
+  "updated_at": "2026-09-14T09:40:07Z",
   "pushed_at": "2026-09-01T15:22:01Z",
   "deleted_at": "",
   "star_history": [
@@ -329,6 +338,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 47
+    },
+    {
+      "date": "2026-09-20",
       "stars": 47
     }
   ]

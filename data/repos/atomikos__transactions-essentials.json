@@ -3,19 +3,34 @@
   "owner": "atomikos",
   "name": "transactions-essentials",
   "full_name": "atomikos/transactions-essentials",
-  "description": "Development repository for next major release of ",
-  "description_ja": "次期メジャーリリースの開発リポジトリ",
+  "description": "Atomikos TransactionsEssentials — the open-source JTA/XA transaction manager for Java: distributed transactions across databases and message brokers, with automatic crash recovery. Embeddable, no application server required.",
+  "description_ja": "",
   "url": "https://github.com/atomikos/transactions-essentials",
   "homepage_url": "https://www.atomikos.com/Main/TransactionsEssentials",
   "language": "Java",
   "license": "NOASSERTION",
-  "topics": [],
-  "star_count": 485,
+  "topics": [
+    "atomikos",
+    "crash-recovery",
+    "distributed-transactions",
+    "jakarta-ee",
+    "java",
+    "jdbc",
+    "jms",
+    "jta",
+    "recovery",
+    "spring-boot",
+    "transaction-manager",
+    "transactions",
+    "two-phase-commit",
+    "xa"
+  ],
+  "star_count": 486,
   "fork_count": 150,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-01-08T16:56:25Z",
-  "updated_at": "2026-08-18T08:00:03Z",
+  "updated_at": "2026-09-19T14:31:55Z",
   "pushed_at": "2026-07-18T15:31:35Z",
   "deleted_at": "",
   "star_history": [
@@ -398,6 +413,10 @@
     {
       "date": "2026-09-11",
       "stars": 485
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 486
     }
   ]
 }

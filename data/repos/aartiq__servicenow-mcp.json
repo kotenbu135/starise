@@ -3,7 +3,7 @@
   "owner": "aartiq",
   "name": "servicenow-mcp",
   "full_name": "aartiq/servicenow-mcp",
-  "description": "ServiceNow MCP server: 450+ tools and 26 AI capabilities for any AI (Claude, ChatGPT, Gemini, Cursor, Copilot). Multi-transport (stdio, SSE, HTTP), A2A, dynamic schema discovery, read-only by default. Free and source available. Part of the NowAIKit suite.",
+  "description": "ServiceNow MCP server: 500+ tools and 26 AI capabilities for any AI (Claude, ChatGPT, Gemini, Cursor, Copilot). Multi-transport (stdio, SSE, HTTP), A2A, dynamic schema discovery, read-only by default. Free and source available. Part of the NowAIKit suite.",
   "description_ja": "",
   "url": "https://github.com/aartiq/servicenow-mcp",
   "homepage_url": "https://servicenow-mcp.com",
@@ -31,13 +31,13 @@
     "servicenow-mcp",
     "typescript"
   ],
-  "star_count": 276,
-  "fork_count": 115,
+  "star_count": 263,
+  "fork_count": 112,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-12T22:38:38Z",
-  "updated_at": "2026-09-11T10:22:10Z",
-  "pushed_at": "2026-09-11T09:17:01Z",
+  "updated_at": "2026-09-18T16:56:47Z",
+  "pushed_at": "2026-09-15T08:12:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -219,6 +219,10 @@
     {
       "date": "2026-09-11",
       "stars": 276
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 263
     }
   ]
 }

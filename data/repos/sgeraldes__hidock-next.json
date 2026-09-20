@@ -3,11 +3,11 @@
   "owner": "sgeraldes",
   "name": "hidock-next",
   "full_name": "sgeraldes/hidock-next",
-  "description": "HiDock Next: Local control for your HiDock device. Manage recordings, access advanced AI transcription (Gemini, OpenAI), and build your private knowledge base. An open-source alternative to HiNotes.",
+  "description": "Archived legacy monorepo. Active projects: HiDock Next 2.0 and HiDock Light.",
   "description_ja": "",
   "url": "https://github.com/sgeraldes/hidock-next",
-  "homepage_url": "https://www.patreon.com/situx",
-  "language": "TypeScript",
+  "homepage_url": "https://github.com/sgeraldes/hidock-next-2",
+  "language": "",
   "license": "MIT",
   "topics": [
     "hidock",
@@ -16,11 +16,11 @@
   ],
   "star_count": 116,
   "fork_count": 34,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2025-05-29T12:44:13Z",
-  "updated_at": "2026-09-07T10:49:02Z",
-  "pushed_at": "2026-08-26T13:57:52Z",
+  "updated_at": "2026-09-17T01:10:05Z",
+  "pushed_at": "2026-09-17T01:09:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -205,6 +205,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 116
+    },
+    {
+      "date": "2026-09-20",
       "stars": 116
     }
   ]

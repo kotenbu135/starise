@@ -10,11 +10,12 @@
   "language": "Rust",
   "license": "Apache-2.0",
   "topics": [
+    "acoustic-echo-cancellation",
     "aec",
     "audio",
+    "audio-ai",
     "audio-capture",
     "audio-conditioning",
-    "audio-echo-cancellation",
     "audio-playback",
     "audio-processing",
     "audio-streaming",
@@ -30,13 +31,13 @@
     "voice-ai",
     "voice-ai-agents"
   ],
-  "star_count": 29,
+  "star_count": 30,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-10T07:44:05Z",
-  "updated_at": "2026-09-07T12:21:25Z",
-  "pushed_at": "2026-09-04T09:14:11Z",
+  "updated_at": "2026-09-20T19:51:07Z",
+  "pushed_at": "2026-09-18T00:39:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -342,6 +343,10 @@
     {
       "date": "2026-09-11",
       "stars": 29
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 30
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "glycerine",
   "name": "yogadb",
   "full_name": "glycerine/yogadb",
-  "description": "YogaDB: a flexible-address-space key-value store in pure Go/Golang. Key idea: With minor modifications, B-trees can beat LSM trees on write throughput and latency too. (And B-trees have always had superior read performance). See also https://github.com/flexible-address-space/flexspace https://www.roychan.org/assets/publications/eurosys22chen.pdf",
+  "description": "YogaDB: a flexible-address-space ordered key-value store in pure Go/Golang. Key idea: With minor modifications, B-trees can beat LSM trees on write throughput and latency too. (And B-trees have always had superior read performance). See https://github.com/flexible-address-space/flexspace https://www.roychan.org/assets/publications/eurosys22chen.pdf",
   "description_ja": "",
   "url": "https://github.com/glycerine/yogadb",
   "homepage_url": "",
@@ -11,12 +11,12 @@
   "license": "NOASSERTION",
   "topics": [],
   "star_count": 37,
-  "fork_count": 2,
+  "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-18T05:09:49Z",
-  "updated_at": "2026-09-11T16:20:59Z",
-  "pushed_at": "2026-09-11T22:17:40Z",
+  "updated_at": "2026-09-15T01:34:55Z",
+  "pushed_at": "2026-09-15T05:53:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -181,6 +181,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 37
+    },
+    {
+      "date": "2026-09-20",
       "stars": 37
     }
   ]

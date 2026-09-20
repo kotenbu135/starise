@@ -3,8 +3,8 @@
   "owner": "automattic",
   "name": "wordpress-activitypub",
   "full_name": "automattic/wordpress-activitypub",
-  "description": "ActivityPub for WordPress",
-  "description_ja": "WordPress向けActivityPub",
+  "description": "The ActivityPub plugin connects your WordPress site to the Fediverse. Your site becomes a profile people can follow from Mastodon, and every post you publish is automatically delivered to your followers' feeds, where their likes, boosts and replies come back as comments on your site.",
+  "description_ja": "",
   "url": "https://github.com/Automattic/wordpress-activitypub",
   "homepage_url": "https://wordpress.org/plugins/activitypub/",
   "language": "PHP",
@@ -22,13 +22,13 @@
     "wordpress",
     "wordpress-plugin"
   ],
-  "star_count": 579,
-  "fork_count": 92,
+  "star_count": 582,
+  "fork_count": 93,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-07-10T12:20:08Z",
-  "updated_at": "2026-09-11T12:41:33Z",
-  "pushed_at": "2026-09-11T12:41:31Z",
+  "updated_at": "2026-09-18T19:34:37Z",
+  "pushed_at": "2026-09-20T13:42:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +410,10 @@
     {
       "date": "2026-09-11",
       "stars": 579
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 582
     }
   ]
 }

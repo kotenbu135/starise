@@ -6,7 +6,7 @@
   "description": "AI agent orchestration for open and closed source — a fully customizable fleet of AI agents covering every level of project maintenance, from brainstorming to full autonomy",
   "description_ja": "",
   "url": "https://github.com/hivecommons/hive",
-  "homepage_url": "https://hive.kubestellar.io",
+  "homepage_url": "https://hive.hivecommons.dev/",
   "language": "Go",
   "license": "Apache-2.0",
   "topics": [
@@ -19,17 +19,18 @@
     "devops",
     "github-automation",
     "golang",
+    "hacktoberfest",
     "kubernetes",
     "llm",
     "multi-agent-systems"
   ],
-  "star_count": 54,
-  "fork_count": 30,
+  "star_count": 55,
+  "fork_count": 32,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-17T15:00:19Z",
-  "updated_at": "2026-09-11T22:24:35Z",
-  "pushed_at": "2026-09-11T22:48:40Z",
+  "updated_at": "2026-09-20T22:24:23Z",
+  "pushed_at": "2026-09-20T22:24:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -43,6 +44,10 @@
     {
       "date": "2026-09-11",
       "stars": 54
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 55
     }
   ]
 }

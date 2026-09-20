@@ -3,7 +3,7 @@
   "owner": "bcoles",
   "name": "kasld",
   "full_name": "bcoles/kasld",
-  "description": "KASLD derandomizes the Linux kernel's virtual and physical memory layout from a local process, using whatever its vantage — privilege, configuration, and confinement — allows.",
+  "description": "KASLD defeats Linux kernel KASLR from a local process — recovering the virtual and physical memory layout where a leak or side channel allows, and narrowing it to the smallest set of placements the evidence supports otherwise.",
   "description_ja": "",
   "url": "https://github.com/bcoles/kasld",
   "homepage_url": "",
@@ -30,13 +30,13 @@
     "security",
     "side-channel-attacks"
   ],
-  "star_count": 547,
+  "star_count": 550,
   "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-30T05:12:39Z",
-  "updated_at": "2026-09-11T17:30:03Z",
-  "pushed_at": "2026-09-11T17:29:59Z",
+  "updated_at": "2026-09-20T17:49:13Z",
+  "pushed_at": "2026-09-20T17:49:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -106,6 +106,10 @@
     {
       "date": "2026-09-11",
       "stars": 547
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 550
     }
   ]
 }

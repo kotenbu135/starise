@@ -3,7 +3,7 @@
   "owner": "dotnetdreamer",
   "name": "open-screenshot-generator",
   "full_name": "dotnetdreamer/open-screenshot-generator",
-  "description": "Open source Canva for App Store and Play Store screenshots. Free alternative to AppScreens, AppLaunchpad and Previewed. Device mockups, 3D poses, preview videos and an AI agent that designs your listing for you. 100% client side, no account, nothing leaves your machine",
+  "description": "Open source Canva with CLI/GUI, AI Agent, MCP for App Store and Play Store screenshots. Free alternative to AppScreens, AppLaunchpad and Previewed",
   "description_ja": "",
   "url": "https://github.com/dotnetdreamer/open-screenshot-generator",
   "homepage_url": "https://www.openscrgen.app/",
@@ -25,13 +25,13 @@
     "tauri-app",
     "typescript"
   ],
-  "star_count": 95,
-  "fork_count": 7,
+  "star_count": 103,
+  "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-25T19:28:36Z",
-  "updated_at": "2026-09-11T11:13:34Z",
-  "pushed_at": "2026-09-08T11:47:23Z",
+  "updated_at": "2026-09-20T03:39:59Z",
+  "pushed_at": "2026-09-16T20:11:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -53,6 +53,10 @@
     {
       "date": "2026-09-11",
       "stars": 95
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 103
     }
   ]
 }

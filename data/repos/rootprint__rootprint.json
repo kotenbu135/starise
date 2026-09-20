@@ -3,36 +3,45 @@
   "owner": "rootprint",
   "name": "rootprint",
   "full_name": "rootprint/rootprint",
-  "description": "Open-source, self-hosted log management platform built with Hono, SvelteKit and Quickwit!",
+  "description": "Open-source, self-hosted logs and traces with full-text search directly on S3-compatible object storage.",
   "description_ja": "",
   "url": "https://github.com/rootprint/rootprint",
   "homepage_url": "https://rootprint.io",
   "language": "Svelte",
   "license": "Apache-2.0",
   "topics": [
+    "full-text-search",
     "hono",
     "log-management",
+    "log-search",
     "logging",
+    "object-storage",
     "observability",
     "opentelemetry",
     "quickwit",
+    "s3",
     "self-hosted",
     "svelte",
     "sveltekit",
+    "traces",
     "tracing"
   ],
-  "star_count": 176,
-  "fork_count": 5,
+  "star_count": 399,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T21:09:08Z",
-  "updated_at": "2026-09-11T21:06:35Z",
-  "pushed_at": "2026-09-11T21:11:46Z",
+  "updated_at": "2026-09-20T19:58:03Z",
+  "pushed_at": "2026-09-20T18:19:42Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-11",
       "stars": 176
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 399
     }
   ]
 }

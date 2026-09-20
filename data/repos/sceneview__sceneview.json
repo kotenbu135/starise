@@ -3,7 +3,7 @@
   "owner": "sceneview",
   "name": "sceneview",
   "full_name": "sceneview/sceneview",
-  "description": "AI-first 3D \u0026 AR SDK for Android (Jetpack Compose + Filament), Apple (SwiftUI + RealityKit) and the web. Opens glTF/GLB, 3MF, STL, OBJ and PLY on Android and USDZ on Apple, at real size in AR. An assistant reads llms.txt and writes code that compiles first try; also an MCP server and a ChatGPT/Codex plugin.",
+  "description": "3D \u0026 AR SDK for Android (Jetpack Compose + Filament), Apple (SwiftUI + RealityKit), Web, Flutter and React Native. Opens glTF/GLB, 3MF, STL, OBJ and PLY on Android and USDZ on Apple, at real size in AR. Assistant-ready: in-repo MCP server, AGENTS.md and llms.txt — no assistant-specific setup.",
   "description_ja": "",
   "url": "https://github.com/sceneview/sceneview",
   "homepage_url": "https://sceneview.github.io",
@@ -16,8 +16,7 @@
     "arcore",
     "arkit",
     "augmented-reality",
-    "chatgpt",
-    "codex",
+    "compose",
     "filament",
     "flutter",
     "gltf",
@@ -26,18 +25,19 @@
     "kotlin",
     "llms-txt",
     "mcp",
-    "openai",
+    "realitykit",
+    "sceneform",
     "swiftui",
     "visionos",
     "web"
   ],
-  "star_count": 1314,
-  "fork_count": 239,
+  "star_count": 1322,
+  "fork_count": 246,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-11-09T23:03:50Z",
-  "updated_at": "2026-09-11T20:15:53Z",
-  "pushed_at": "2026-09-11T21:07:24Z",
+  "updated_at": "2026-09-20T06:21:04Z",
+  "pushed_at": "2026-09-20T19:55:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +415,10 @@
     {
       "date": "2026-09-11",
       "stars": 1314
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1322
     }
   ]
 }

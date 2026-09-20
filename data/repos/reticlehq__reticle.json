@@ -3,7 +3,7 @@
   "owner": "reticlehq",
   "name": "reticle",
   "full_name": "reticlehq/reticle",
-  "description": "AI agents can generate code, but they still struggle to understand what they build. Reticle gives them runtime perception of web \u0026 desktop applications.",
+  "description": "AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native runtime perception to web \u0026 desktop applications.",
   "description_ja": "",
   "url": "https://github.com/reticlehq/reticle",
   "homepage_url": "https://www.reticle.sh",
@@ -18,19 +18,20 @@
     "automated-testing",
     "claude-code",
     "claude-skills",
+    "jev",
     "playwright-mcp",
     "proof-layer",
     "reticle-mcp",
     "skills-sh",
     "testing-tool"
   ],
-  "star_count": 467,
-  "fork_count": 121,
+  "star_count": 773,
+  "fork_count": 138,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-11T07:53:01Z",
-  "updated_at": "2026-09-11T13:10:42Z",
-  "pushed_at": "2026-09-11T20:01:11Z",
+  "updated_at": "2026-09-20T22:25:18Z",
+  "pushed_at": "2026-09-19T09:57:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -256,6 +257,10 @@
     {
       "date": "2026-09-11",
       "stars": 467
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 773
     }
   ]
 }

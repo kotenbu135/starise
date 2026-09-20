@@ -3,7 +3,7 @@
   "owner": "xerrors",
   "name": "yuxi",
   "full_name": "xerrors/yuxi",
-  "description": "可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.",
+  "description": "可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.",
   "description_ja": "",
   "url": "https://github.com/xerrors/Yuxi",
   "homepage_url": "https://xerrors.github.io/Yuxi/",
@@ -31,13 +31,13 @@
     "self-hosted",
     "vue"
   ],
-  "star_count": 6931,
-  "fork_count": 1082,
+  "star_count": 7140,
+  "fork_count": 1122,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-05T10:57:35Z",
-  "updated_at": "2026-09-11T22:15:21Z",
-  "pushed_at": "2026-09-11T11:32:24Z",
+  "updated_at": "2026-09-20T21:57:40Z",
+  "pushed_at": "2026-09-20T13:59:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 6931
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 7140
     }
   ]
 }

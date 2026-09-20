@@ -6,8 +6,8 @@
   "description": "Internationalization library built for SvelteKit.",
   "description_ja": "SvelteKit向けに構築された国際化ライブラリ",
   "url": "https://github.com/sveltekit-i18n/lib",
-  "homepage_url": "",
-  "language": "TypeScript",
+  "homepage_url": "https://sveltekit-i18n.github.io",
+  "language": "JavaScript",
   "license": "MIT",
   "topics": [
     "i18n",
@@ -20,13 +20,13 @@
     "sveltekit-i18n",
     "translation"
   ],
-  "star_count": 576,
+  "star_count": 575,
   "fork_count": 31,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-12-14T09:34:10Z",
-  "updated_at": "2026-09-09T20:03:44Z",
-  "pushed_at": "2026-09-09T20:00:39Z",
+  "updated_at": "2026-09-20T23:14:52Z",
+  "pushed_at": "2026-09-20T23:14:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +404,10 @@
     {
       "date": "2026-09-11",
       "stars": 576
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 575
     }
   ]
 }

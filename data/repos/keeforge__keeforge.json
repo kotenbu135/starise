@@ -3,20 +3,33 @@
   "owner": "keeforge",
   "name": "keeforge",
   "full_name": "keeforge/keeforge",
-  "description": "KeePass-compatible iOS password manager",
+  "description": "KeePass-compatible password manager for iPhone, iPad, and Mac",
   "description_ja": "",
   "url": "https://github.com/KeeForge/KeeForge",
   "homepage_url": "https://keeforge.com",
   "language": "Swift",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 90,
+  "topics": [
+    "autofill",
+    "ios",
+    "kdbx",
+    "keepass",
+    "macos",
+    "open-source",
+    "passkeys",
+    "password-manager",
+    "privacy",
+    "security",
+    "swift",
+    "swiftui"
+  ],
+  "star_count": 93,
   "fork_count": 7,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-14T05:59:16Z",
-  "updated_at": "2026-09-11T13:49:22Z",
-  "pushed_at": "2026-09-10T05:52:22Z",
+  "updated_at": "2026-09-20T21:44:29Z",
+  "pushed_at": "2026-09-20T21:44:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -122,6 +135,10 @@
     {
       "date": "2026-09-11",
       "stars": 90
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 93
     }
   ]
 }

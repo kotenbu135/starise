@@ -20,6 +20,7 @@
     "environment-variables",
     "json",
     "jsonnet",
+    "jsonschema",
     "omegaconf",
     "pydantic",
     "python",
@@ -27,13 +28,13 @@
     "type-hints",
     "yaml"
   ],
-  "star_count": 432,
+  "star_count": 433,
   "fork_count": 64,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-05-02T10:36:48Z",
-  "updated_at": "2026-09-11T07:21:32Z",
-  "pushed_at": "2026-09-11T07:21:29Z",
+  "updated_at": "2026-09-18T09:31:39Z",
+  "pushed_at": "2026-09-18T09:31:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +412,10 @@
     {
       "date": "2026-09-11",
       "stars": 432
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 433
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "litegraphdb",
   "name": "litegraph",
   "full_name": "litegraphdb/litegraph",
-  "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intelligence persistence and retrieval.",
-  "description_ja": "リレーショナル、ベクター、MCPをサポートする軽量グラフデータベース。ナレッジとAIの永続化・検索を支えるよう設計されています。",
+  "description": "LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowledge and AI persistence and retrieval",
+  "description_ja": "",
   "url": "https://github.com/litegraphdb/litegraph",
   "homepage_url": "https://litegraphdb.com",
   "language": "C#",
@@ -24,13 +24,13 @@
     "vector",
     "vector-database"
   ],
-  "star_count": 130,
+  "star_count": 131,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-01-08T03:44:41Z",
-  "updated_at": "2026-09-08T16:16:32Z",
-  "pushed_at": "2026-09-09T23:29:49Z",
+  "updated_at": "2026-09-17T19:32:11Z",
+  "pushed_at": "2026-09-17T03:10:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -412,6 +412,10 @@
     {
       "date": "2026-09-11",
       "stars": 130
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 131
     }
   ]
 }

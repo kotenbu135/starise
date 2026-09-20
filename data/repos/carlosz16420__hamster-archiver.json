@@ -3,7 +3,7 @@
   "owner": "carlosz16420",
   "name": "hamster-archiver",
   "full_name": "carlosz16420/hamster-archiver",
-  "description": "Local-first batch archiver \u0026 searchable media vault for Windows | 本地优先的批量归档、校验与媒体仓库",
+  "description": "Windows local-first file organizer and media catalog with MCP tools for AI assistants. Verified batch archiving. 本地文件整理、媒体建库与可校验批量归档，支持 AI 通过 MCP 调用。",
   "description_ja": "",
   "url": "https://github.com/CarlosZ16420/hamster-archiver",
   "homepage_url": "",
@@ -11,29 +11,33 @@
   "license": "MIT",
   "topics": [
     "7zip",
+    "ai-tools",
     "archiver",
     "backup",
+    "batch-processing",
     "compression",
     "data-hoarding",
     "deduplication",
     "desktop-app",
     "digital-archiving",
-    "electron",
-    "ffmpeg",
+    "file-organizer",
     "local-first",
+    "mcp",
+    "mcp-server",
+    "media-catalog",
     "media-library",
+    "model-context-protocol",
     "offline",
     "privacy",
-    "sqlite",
     "windows"
   ],
-  "star_count": 59,
-  "fork_count": 0,
+  "star_count": 62,
+  "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-17T13:31:41Z",
-  "updated_at": "2026-09-09T03:40:06Z",
-  "pushed_at": "2026-09-03T17:55:43Z",
+  "updated_at": "2026-09-19T12:25:54Z",
+  "pushed_at": "2026-09-18T17:03:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -47,6 +51,10 @@
     {
       "date": "2026-09-11",
       "stars": 59
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 62
     }
   ]
 }

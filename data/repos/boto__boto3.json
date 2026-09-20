@@ -3,8 +3,8 @@
   "owner": "boto",
   "name": "boto3",
   "full_name": "boto/boto3",
-  "description": "Boto3, an AWS SDK for Python",
-  "description_ja": "Boto3、Python用AWSSDKです。",
+  "description": "AWS SDK for Python (Boto3)",
+  "description_ja": "",
   "url": "https://github.com/boto/boto3",
   "homepage_url": "https://aws.amazon.com/sdk-for-python/",
   "language": "Python",
@@ -16,13 +16,13 @@
     "cloud-management",
     "python"
   ],
-  "star_count": 9901,
-  "fork_count": 1990,
+  "star_count": 9904,
+  "fork_count": 1995,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-10-03T21:38:03Z",
-  "updated_at": "2026-09-11T19:21:24Z",
-  "pushed_at": "2026-09-11T19:21:16Z",
+  "updated_at": "2026-09-19T15:45:26Z",
+  "pushed_at": "2026-09-18T20:08:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +404,10 @@
     {
       "date": "2026-09-11",
       "stars": 9901
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 9904
     }
   ]
 }

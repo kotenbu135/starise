@@ -3,7 +3,7 @@
   "owner": "socai-io",
   "name": "socai",
   "full_name": "socai-io/socai",
-  "description": "专为小红书优化的Web Use Agent: 调研、内容提取、agent分析",
+  "description": "A Browser Use Agent that actually reads social media. Fast. Precise. Deep.",
   "description_ja": "",
   "url": "https://github.com/socai-io/socai",
   "homepage_url": "https://socai.io/",
@@ -14,19 +14,23 @@
     "browser-use",
     "claude",
     "codex",
+    "compute",
     "compute-use",
+    "computer-use",
+    "jev",
     "linkedin",
+    "social-media",
     "tiktok",
     "xhs",
     "xiaohongshu"
   ],
-  "star_count": 185,
-  "fork_count": 18,
+  "star_count": 202,
+  "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-02T06:42:25Z",
-  "updated_at": "2026-09-11T07:41:41Z",
-  "pushed_at": "2026-09-10T09:16:32Z",
+  "updated_at": "2026-09-20T21:04:05Z",
+  "pushed_at": "2026-09-20T04:29:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -188,6 +192,10 @@
     {
       "date": "2026-09-11",
       "stars": 185
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 202
     }
   ]
 }

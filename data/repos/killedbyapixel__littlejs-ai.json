@@ -3,7 +3,7 @@
   "owner": "killedbyapixel",
   "name": "littlejs-ai",
   "full_name": "killedbyapixel/littlejs-ai",
-  "description": "An AI-assisted toolkit for making HTML5 games with LittleJS",
+  "description": "AI-assisted toolkit for making HTML5 games with LittleJS: the engine, templates, and agent instructions that work with Claude Code, Codex, Cursor and Copilot, so the AI builds your game instead of rebuilding an engine. Installable as a Claude Code plugin.",
   "description_ja": "",
   "url": "https://github.com/KilledByAPixel/LittleJS-AI",
   "homepage_url": "",
@@ -13,6 +13,10 @@
     "ai",
     "ai-agents",
     "chatgpt",
+    "claude-code",
+    "claude-code-plugin",
+    "codex",
+    "cursor",
     "game-engine",
     "gamedev",
     "littlejs",
@@ -21,13 +25,13 @@
     "vibecoding",
     "webgl"
   ],
-  "star_count": 78,
+  "star_count": 79,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-15T00:43:03Z",
-  "updated_at": "2026-09-10T14:24:19Z",
-  "pushed_at": "2026-09-05T21:35:34Z",
+  "updated_at": "2026-09-18T06:33:38Z",
+  "pushed_at": "2026-09-18T06:33:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +409,10 @@
     {
       "date": "2026-09-11",
       "stars": 78
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 79
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "aurite-ai",
   "name": "agent-verifier",
   "full_name": "aurite-ai/agent-verifier",
-  "description": "Agent Verifier is a coding agent skill that verifies code against organizational policies, code quality patterns, security requirements, and framework best practices — before code ships. Works with Claude Code, Cursor, Windsurf, and 30+ agents.",
+  "description": "🔍 Agent Verifier is a coding agent skill that verifies code against organizational policies, code quality patterns, security requirements, and framework best practices — before code ships. Works with Claude Code, Cursor, Windsurf, and 30+ agents.",
   "description_ja": "",
   "url": "https://github.com/Aurite-ai/agent-verifier",
   "homepage_url": "https://aurite.ai",
@@ -14,27 +14,30 @@
     "agent-testing",
     "agent-verification",
     "ai-agent",
-    "ai-coding-assistant",
+    "ai-safety",
     "claude-code",
     "cline",
     "code-quality",
     "code-review",
-    "code-verification",
+    "code-review-automation",
     "coding-agent",
     "cursor",
+    "developer-tools",
     "devtools",
     "langgraph",
+    "llm",
+    "mcp",
     "security",
     "skills",
-    "windsurf"
+    "static-analysis"
   ],
   "star_count": 44,
   "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-02T20:10:41Z",
-  "updated_at": "2026-08-27T10:16:06Z",
-  "pushed_at": "2026-08-27T10:05:09Z",
+  "updated_at": "2026-09-20T11:10:44Z",
+  "pushed_at": "2026-09-20T11:10:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -379,6 +382,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 44
+    },
+    {
+      "date": "2026-09-20",
       "stars": 44
     }
   ]

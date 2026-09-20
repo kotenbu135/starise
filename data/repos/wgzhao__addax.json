@@ -3,7 +3,7 @@
   "owner": "wgzhao",
   "name": "addax",
   "full_name": "wgzhao/addax",
-  "description": "Actively maintained fork of Alibaba DataX — a fast, versatile ETL tool for RDBMS/NoSQL data transfer",
+  "description": "Actively maintained successor to Alibaba DataX — a fast, versatile, open-source ETL tool for 20+ RDBMS and NoSQL data sources.",
   "description_ja": "",
   "url": "https://github.com/wgzhao/Addax",
   "homepage_url": "https://addax.wgzhao.com",
@@ -30,13 +30,13 @@
     "sync",
     "trino"
   ],
-  "star_count": 1434,
+  "star_count": 1441,
   "fork_count": 343,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-07-17T13:58:01Z",
-  "updated_at": "2026-09-11T14:00:41Z",
-  "pushed_at": "2026-09-11T14:00:31Z",
+  "updated_at": "2026-09-20T13:29:44Z",
+  "pushed_at": "2026-09-20T13:29:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -414,6 +414,10 @@
     {
       "date": "2026-09-11",
       "stars": 1434
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1441
     }
   ]
 }

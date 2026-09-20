@@ -3,31 +3,41 @@
   "owner": "kboghdady",
   "name": "youtube_ads_4_pi-hole",
   "full_name": "kboghdady/youtube_ads_4_pi-hole",
-  "description": "YouTube script to add the new Ads list for Pi-hole",
-  "description_ja": "Pi-hole 向けに新しい広告リストを追加する YouTube スクリプト。",
+  "description": "YouTube ad-serving domain blocklist for Pi-hole (v5 \u0026 v6), AdGuard Home, pfBlockerNG and other DNS blockers - add one URL and block YouTube ads on every device on your network. Updated daily.",
+  "description_ja": "",
   "url": "https://github.com/kboghdady/youTube_ads_4_pi-hole",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/kboghdady/youTube_ads_4_pi-hole#readme",
   "language": "Shell",
   "license": "",
   "topics": [
+    "ad-blocking",
+    "adblock",
     "adguard",
+    "adguard-home",
     "adguardyoutube",
     "blacklist",
+    "blocklist",
+    "dns",
+    "dns-blocklist",
+    "hosts",
+    "pfblockerng",
     "pi-hole",
     "pihole",
     "pihole-ads-list",
     "pihole-blocklists",
     "pihole-youtube-ads",
+    "technitium",
     "youtube",
+    "youtube-adblock",
     "youtube-ads"
   ],
-  "star_count": 2598,
-  "fork_count": 248,
+  "star_count": 2606,
+  "fork_count": 247,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-08-05T19:37:36Z",
-  "updated_at": "2026-09-06T04:45:44Z",
-  "pushed_at": "2024-08-05T17:15:19Z",
+  "updated_at": "2026-09-20T17:01:08Z",
+  "pushed_at": "2026-09-19T01:17:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +415,10 @@
     {
       "date": "2026-09-11",
       "stars": 2598
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 2606
     }
   ]
 }

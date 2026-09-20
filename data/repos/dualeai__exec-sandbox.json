@@ -3,7 +3,7 @@
   "owner": "dualeai",
   "name": "exec-sandbox",
   "full_name": "dualeai/exec-sandbox",
-  "description": "Secure code execution in isolated lightweight VMs (QEMU microVMs). Python library for running untrusted Python, JavaScript, and shell code with 9-layer security isolation.",
+  "description": "Your AI agent runs untrusted code. One pip install gives you hardware-isolated VMs. No cloud account, no API key, no egress fees.",
   "description_ja": "",
   "url": "https://github.com/dualeai/exec-sandbox",
   "homepage_url": "",
@@ -24,7 +24,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-10T13:10:25Z",
-  "updated_at": "2026-09-05T13:24:07Z",
+  "updated_at": "2026-09-18T08:42:20Z",
   "pushed_at": "2026-08-09T12:09:27Z",
   "deleted_at": "",
   "star_history": [
@@ -294,6 +294,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 39
+    },
+    {
+      "date": "2026-09-20",
       "stars": 39
     }
   ]

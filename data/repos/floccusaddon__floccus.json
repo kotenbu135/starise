@@ -7,7 +7,7 @@
   "description_ja": "ブラウザやデバイスをまたいでブックマークをプライベートに同期",
   "url": "https://github.com/floccusaddon/floccus",
   "homepage_url": "https://floccus.org",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "MPL-2.0",
   "topics": [
     "bookmark",
@@ -28,13 +28,13 @@
     "webdav",
     "webextension"
   ],
-  "star_count": 8439,
+  "star_count": 8476,
   "fork_count": 327,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-06-04T23:37:43Z",
-  "updated_at": "2026-09-11T20:21:36Z",
-  "pushed_at": "2026-09-11T15:29:14Z",
+  "updated_at": "2026-09-20T19:35:20Z",
+  "pushed_at": "2026-09-20T14:46:45Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -416,6 +416,10 @@
     {
       "date": "2026-09-11",
       "stars": 8439
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 8476
     }
   ]
 }

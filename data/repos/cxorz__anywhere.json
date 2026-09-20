@@ -3,7 +3,7 @@
   "owner": "cxorz",
   "name": "anywhere",
   "full_name": "cxorz/anywhere",
-  "description": "安卓虚拟定位，位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）",
+  "description": "安卓虚拟定位，基础位置模拟无须 root；可在 LSPosed 中启用模块，以获得全部特性",
   "description_ja": "",
   "url": "https://github.com/cxOrz/AnyWhere",
   "homepage_url": "",
@@ -19,13 +19,13 @@
     "mocklocation",
     "xposed"
   ],
-  "star_count": 37,
+  "star_count": 63,
   "fork_count": 81,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-15T16:59:56Z",
-  "updated_at": "2026-09-10T14:58:48Z",
-  "pushed_at": "2026-09-08T15:23:47Z",
+  "updated_at": "2026-09-20T19:41:33Z",
+  "pushed_at": "2026-09-19T15:09:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -243,6 +243,10 @@
     {
       "date": "2026-09-11",
       "stars": 37
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 63
     }
   ]
 }

@@ -7,7 +7,7 @@
   "description_ja": "画像メタデータを削除するクロスプラットフォームデスクトップ GUI アプリ",
   "url": "https://github.com/szTheory/exifcleaner",
   "homepage_url": "https://exifcleaner.com",
-  "language": "Perl",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "concurrency",
@@ -31,13 +31,13 @@
     "video",
     "windows"
   ],
-  "star_count": 2676,
-  "fork_count": 168,
+  "star_count": 2695,
+  "fork_count": 167,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-05T05:08:18Z",
-  "updated_at": "2026-09-10T20:22:40Z",
-  "pushed_at": "2026-09-07T13:36:46Z",
+  "updated_at": "2026-09-20T19:38:52Z",
+  "pushed_at": "2026-09-18T18:32:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +415,10 @@
     {
       "date": "2026-09-11",
       "stars": 2676
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 2695
     }
   ]
 }

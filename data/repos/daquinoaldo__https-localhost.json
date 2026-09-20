@@ -6,35 +6,33 @@
   "description": "HTTPS server running on localhost",
   "description_ja": "localhost上で動作するHTTPSサーバー。",
   "url": "https://github.com/daquinoaldo/https-localhost",
-  "homepage_url": "",
-  "language": "JavaScript",
-  "license": "AGPL-3.0",
+  "homepage_url": "https://www.npmjs.com/package/https-localhost",
+  "language": "TypeScript",
+  "license": "MIT",
   "topics": [
     "ca",
     "certificate",
     "certification-authority",
-    "chrome",
-    "firefox",
-    "hacktoberfest",
     "http2",
     "https",
     "https-server",
     "local-development",
     "localhost",
     "nodejs",
-    "progressive-web-app",
-    "pwa",
     "ssl",
-    "trust-certificates",
-    "tsl"
+    "ssl-certificate",
+    "ssl-certificates",
+    "tls",
+    "tls-certificate",
+    "trust-certificates"
   ],
   "star_count": 300,
   "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-07-27T09:41:10Z",
-  "updated_at": "2026-09-06T14:15:34Z",
-  "pushed_at": "2026-09-09T16:31:22Z",
+  "updated_at": "2026-09-16T11:26:23Z",
+  "pushed_at": "2026-09-16T13:40:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +413,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 300
+    },
+    {
+      "date": "2026-09-20",
       "stars": 300
     }
   ]

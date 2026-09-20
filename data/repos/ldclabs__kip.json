@@ -3,8 +3,8 @@
   "owner": "ldclabs",
   "name": "kip",
   "full_name": "ldclabs/kip",
-  "description": "🧬 KIP is a Knowledge-memory Interaction Protocol designed for LLMs, aiming to build a sustainable learning and self-evolving memory system for AI Agents.",
-  "description_ja": "🧬 KIP は LLM 向けに設計された知識・記憶インタラクションプロトコルで、AI エージェントのための持続可能な学習・自己進化型メモリシステムの構築を目指します。",
+  "description": "🧬 KIP (Knowledge Interaction Protocol) is an open protocol for durable AI agent memory and learning. It connects experience, evidence, knowledge, and skills in a portable, auditable cognitive state, helping agents revise beliefs and improve future decisions through feedback from real outcomes.",
+  "description_ja": "",
   "url": "https://github.com/ldclabs/KIP",
   "homepage_url": "https://anda.ai",
   "language": "HTML",
@@ -20,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-09T02:42:45Z",
-  "updated_at": "2026-09-09T23:26:19Z",
-  "pushed_at": "2026-09-06T23:14:03Z",
+  "updated_at": "2026-09-20T00:20:30Z",
+  "pushed_at": "2026-09-20T00:20:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +402,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 82
+    },
+    {
+      "date": "2026-09-20",
       "stars": 82
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "masterai-top",
   "name": "cfr-poker-ai-masterai",
   "full_name": "masterai-top/cfr-poker-ai-masterai",
-  "description": "MasterAI CFR 扑克 AI 研究系统，德州AI源码，用于单挑无限注德州扑克训练、评估及博弈论实验，采用 C++ 与 Python，MasterAI CFR poker AI research system for heads-up no-limit Texas Holdem training, evaluation and game-theory experiments in C++ and Python",
+  "description": "CFR 德州扑克 AI 源码，面向 HUNL 策略训练、反事实价值、自我博弈与评估研究。C++/Python poker AI research system.",
   "description_ja": "",
   "url": "https://github.com/masterai-top/cfr-poker-ai-masterai",
   "homepage_url": "https://masterai-top.github.io/cfr-poker-ai-masterai/",
@@ -22,9 +22,11 @@
     "poker-game",
     "poker-game-server",
     "poker-game-source-code",
+    "self-play",
     "texas-hold-em",
     "texas-hold-em-poker",
     "texas-holdem",
+    "texas-holdem-ai",
     "texas-holdem-poker"
   ],
   "star_count": 49,
@@ -32,8 +34,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-22T07:47:49Z",
-  "updated_at": "2026-09-10T03:45:13Z",
-  "pushed_at": "2026-09-08T12:21:50Z",
+  "updated_at": "2026-09-14T14:45:16Z",
+  "pushed_at": "2026-09-14T14:43:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -342,6 +344,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 49
+    },
+    {
+      "date": "2026-09-20",
       "stars": 49
     }
   ]

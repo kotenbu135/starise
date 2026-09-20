@@ -3,7 +3,7 @@
   "owner": "youssofal",
   "name": "mtplx",
   "full_name": "youssofal/mtplx",
-  "description": "3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
+  "description": "The fastest way to run Qwen 3.8 Flash Next and Qwen 3.8 27B on a Mac: 125 tok/s in OpenCode on an M5 Max. Native MTP speculative decoding on Apple Silicon, exact at any temperature. OpenAI and Anthropic compatible local server.",
   "description_ja": "",
   "url": "https://github.com/youssofal/MTPLX",
   "homepage_url": "https://mtplx.com",
@@ -12,8 +12,13 @@
   "topics": [
     "anthropic-compatible",
     "apple-silicon",
+    "claude-code",
+    "flash-next",
     "inference-engine",
+    "llm-inference",
     "local-ai",
+    "local-llm",
+    "macos",
     "metal",
     "mlx",
     "mtp",
@@ -21,17 +26,18 @@
     "native-mtp",
     "openai-compatible",
     "qwen",
+    "qwen3-8",
+    "qwen3-8-flash-next",
     "qwen3-next",
-    "speculative-decoding",
-    "speculative-sampling"
+    "speculative-decoding"
   ],
-  "star_count": 2246,
-  "fork_count": 166,
+  "star_count": 2393,
+  "fork_count": 181,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-02T00:59:09Z",
-  "updated_at": "2026-09-11T22:41:03Z",
-  "pushed_at": "2026-09-06T14:03:57Z",
+  "updated_at": "2026-09-20T23:24:33Z",
+  "pushed_at": "2026-09-19T03:08:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -333,6 +339,10 @@
     {
       "date": "2026-09-11",
       "stars": 2246
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 2393
     }
   ]
 }

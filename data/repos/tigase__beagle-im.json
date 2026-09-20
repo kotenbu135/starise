@@ -3,8 +3,8 @@
   "owner": "tigase",
   "name": "beagle-im",
   "full_name": "tigase/beagle-im",
-  "description": "(M) XMPP client for macOS based on TigaseSwift XMPP library",
-  "description_ja": "TigaseSwift XMPPライブラリをベースにしたmacOS向けXMPPクライアント",
+  "description": "XMPP client for macOS based on TigaseSwift XMPP library",
+  "description_ja": "",
   "url": "https://github.com/tigase/beagle-im",
   "homepage_url": "",
   "language": "Swift",
@@ -24,13 +24,13 @@
     "xmpp",
     "xmpp-client"
   ],
-  "star_count": 208,
+  "star_count": 207,
   "fork_count": 21,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-04-23T18:06:34Z",
-  "updated_at": "2026-07-20T11:00:39Z",
-  "pushed_at": "2026-06-13T07:35:27Z",
+  "updated_at": "2026-09-19T06:01:36Z",
+  "pushed_at": "2026-09-14T14:02:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -412,6 +412,10 @@
     {
       "date": "2026-09-11",
       "stars": 208
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 207
     }
   ]
 }

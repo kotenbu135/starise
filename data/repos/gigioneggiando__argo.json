@@ -3,7 +3,7 @@
   "owner": "gigioneggiando",
   "name": "argo",
   "full_name": "gigioneggiando/argo",
-  "description": "👁️ LLM-native static vulnerability detection. An LLM reads your source like a human auditor, point it at any local folder or repo and get a reviewable vuln report. Auto-enriched prompts, adversarial validation, opt-in fix-verify. Runs on Claude Code / Codex / local OSS. Bug-bounty triage is one mode. Detection-only, read-only.",
+  "description": "LLM-native static vulnerability detection: point it at a repo and get a reviewable vuln report, the way a human auditor would.",
   "description_ja": "",
   "url": "https://github.com/gigioneggiando/argo",
   "homepage_url": "https://gigioneggiando.github.io/argo/",
@@ -31,13 +31,13 @@
     "static-analysis",
     "vulnerability-detection"
   ],
-  "star_count": 58,
+  "star_count": 59,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-17T19:46:11Z",
-  "updated_at": "2026-09-08T08:34:13Z",
-  "pushed_at": "2026-09-11T06:20:24Z",
+  "updated_at": "2026-09-19T11:28:14Z",
+  "pushed_at": "2026-09-20T05:44:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -123,6 +123,10 @@
     {
       "date": "2026-09-11",
       "stars": 58
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 59
     }
   ]
 }

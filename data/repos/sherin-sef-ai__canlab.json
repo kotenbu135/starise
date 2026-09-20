@@ -6,7 +6,7 @@
   "description": "PyQt6 desktop app for reverse-engineering CAN bus captures. Offline analysis finds counters, checksums and signal boundaries; the DBC builder verifies definitions against real frames; exports DBC, openpilot and Wireshark dissectors. UDS and OBD-II diagnostics. Injection is bench-only and stays disarmed until you arm it.",
   "description_ja": "",
   "url": "https://github.com/Sherin-SEF-AI/CanLab",
-  "homepage_url": "https://sherin-sef-ai.github.io/",
+  "homepage_url": "https://sherin-sef-ai.github.io/CanLab/",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -27,13 +27,13 @@
     "socketcan",
     "uds"
   ],
-  "star_count": 84,
+  "star_count": 85,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-27T04:47:45Z",
-  "updated_at": "2026-09-11T18:01:56Z",
-  "pushed_at": "2026-09-11T18:02:43Z",
+  "updated_at": "2026-09-18T03:56:40Z",
+  "pushed_at": "2026-09-18T03:56:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -383,6 +383,10 @@
     {
       "date": "2026-09-11",
       "stars": 84
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 85
     }
   ]
 }

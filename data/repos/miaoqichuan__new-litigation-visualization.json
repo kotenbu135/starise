@@ -3,7 +3,7 @@
   "owner": "miaoqichuan",
   "name": "new-litigation-visualization",
   "full_name": "miaoqichuan/new-litigation-visualization",
-  "description": "把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，或直接读案件材料画准一张时间轴。Claude Skill / DeepSeek Harness 通用。",
+  "description": "把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，直接读案件材料画准一张时间轴，并提供庭前三大法宝（大事记表、庭审对抗图、法律关系图）。Claude Skill / DeepSeek Harness 通用。",
   "description_ja": "",
   "url": "https://github.com/MiaoQichuan/new-litigation-visualization",
   "homepage_url": "",
@@ -11,6 +11,7 @@
   "license": "MIT",
   "topics": [
     "agent-skills",
+    "chronicle",
     "claude-code",
     "claude-skills",
     "codex",
@@ -23,16 +24,15 @@
     "python",
     "svg",
     "timeline",
-    "visualization",
-    "zero-dependency"
+    "visualization"
   ],
-  "star_count": 56,
+  "star_count": 58,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-09T08:59:06Z",
-  "updated_at": "2026-09-11T14:07:07Z",
-  "pushed_at": "2026-08-23T06:10:15Z",
+  "updated_at": "2026-09-20T13:52:31Z",
+  "pushed_at": "2026-09-19T21:49:20Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-09-11",
       "stars": 56
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 58
     }
   ]
 }

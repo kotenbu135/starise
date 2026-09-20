@@ -3,8 +3,8 @@
   "owner": "mavlink",
   "name": "mavsdk",
   "full_name": "mavlink/mavsdk",
-  "description": "API and library for MAVLink compatible systems written in C++ 20",
-  "description_ja": "C++20で書かれたMAVLink対応システム向けAPIおよびライブラリ",
+  "description": "API and library for MAVLink compatible systems written in C++",
+  "description_ja": "",
   "url": "https://github.com/mavlink/MAVSDK",
   "homepage_url": "https://mavsdk.mavlink.io",
   "language": "C++",
@@ -16,13 +16,13 @@
     "mavlink",
     "px4"
   ],
-  "star_count": 933,
-  "fork_count": 645,
+  "star_count": 935,
+  "fork_count": 646,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-06-19T19:54:57Z",
-  "updated_at": "2026-09-11T16:40:57Z",
-  "pushed_at": "2026-09-08T20:53:14Z",
+  "updated_at": "2026-09-20T22:33:54Z",
+  "pushed_at": "2026-09-20T22:41:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +404,10 @@
     {
       "date": "2026-09-11",
       "stars": 933
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 935
     }
   ]
 }

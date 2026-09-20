@@ -3,8 +3,8 @@
   "owner": "opendcai",
   "name": "dataflow",
   "full_name": "opendcai/dataflow",
-  "description": "Easy Data Preparation with latest LLMs-based Operators and Pipelines.",
-  "description_ja": "最新の LLM ベースのオペレーターとパイプラインによる簡単なデータ前処理。",
+  "description": "[SIGMOD'27] Easy Data Preparation with latest LLMs-based Operators and Pipelines.",
+  "description_ja": "",
   "url": "https://github.com/OpenDCAI/DataFlow",
   "homepage_url": "https://OpenDCAI.github.io/DataFlow-Doc/",
   "language": "Python",
@@ -24,13 +24,13 @@
     "sglang-bankend",
     "vllm-backend"
   ],
-  "star_count": 8106,
-  "fork_count": 1113,
+  "star_count": 8191,
+  "fork_count": 1152,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-10-13T14:45:45Z",
-  "updated_at": "2026-09-11T23:03:04Z",
-  "pushed_at": "2026-09-10T08:07:37Z",
+  "updated_at": "2026-09-20T16:20:29Z",
+  "pushed_at": "2026-09-20T12:13:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -408,6 +408,10 @@
     {
       "date": "2026-09-11",
       "stars": 8106
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 8191
     }
   ]
 }

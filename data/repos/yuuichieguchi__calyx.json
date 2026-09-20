@@ -6,27 +6,31 @@
   "description": "A native macOS terminal app built on Ghostty for running and supervising coding agents",
   "description_ja": "",
   "url": "https://github.com/yuuichieguchi/Calyx",
-  "homepage_url": "https://help.getcalyx.app/",
+  "homepage_url": "https://getcalyx.app/",
   "language": "Swift",
   "license": "MIT",
   "topics": [
     "agent-orchestration",
+    "agentic-ai",
     "ai-agents",
     "claude-code",
     "codex",
+    "developer-tools",
     "ghostty",
     "macos",
     "mcp",
     "opencode",
-    "terminal"
+    "swift",
+    "terminal",
+    "terminal-emulator"
   ],
-  "star_count": 303,
+  "star_count": 326,
   "fork_count": 22,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T10:21:40Z",
-  "updated_at": "2026-09-10T01:39:37Z",
-  "pushed_at": "2026-09-08T16:43:30Z",
+  "updated_at": "2026-09-20T11:35:27Z",
+  "pushed_at": "2026-09-14T11:58:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -408,6 +412,10 @@
     {
       "date": "2026-09-11",
       "stars": 303
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 326
     }
   ]
 }

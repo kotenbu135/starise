@@ -14,13 +14,13 @@
     "application",
     "gui",
     "iced",
+    "ip-geolocation",
+    "ipfix",
     "linux",
     "macos",
     "network",
-    "network-analysis",
     "network-monitoring",
     "networking",
-    "packet-analyser",
     "packet-capture",
     "packet-sniffer",
     "pcap",
@@ -31,13 +31,13 @@
     "utility",
     "windows"
   ],
-  "star_count": 41084,
-  "fork_count": 1964,
+  "star_count": 41171,
+  "fork_count": 1961,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-07-31T21:55:56Z",
-  "updated_at": "2026-09-11T21:35:15Z",
-  "pushed_at": "2026-09-11T22:31:58Z",
+  "updated_at": "2026-09-20T19:51:04Z",
+  "pushed_at": "2026-09-19T06:04:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-11",
       "stars": 41084
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 41171
     }
   ]
 }

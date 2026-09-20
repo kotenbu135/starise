@@ -3,13 +3,15 @@
   "owner": "renezander030",
   "name": "capcut-cli",
   "full_name": "renezander030/capcut-cli",
-  "description": "Independent, unofficial CLI to edit CapCut and JianYing projects — subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, reads draft_content.json directly. Not affiliated with ByteDance.",
+  "description": "Independent, unofficial CLI to edit CapCut and JianYing (剪映) projects — subtitles, timing, speed, volume, templates, cut long-form to shorts. No API needed, reads draft_content.json and draft_info.json (剪映草稿) directly. Not affiliated with ByteDance.",
   "description_ja": "",
   "url": "https://github.com/renezander030/capcut-cli",
   "homepage_url": "https://renezander.com/projects/capcut-cli",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "agent-skills",
+    "ai-agent",
     "automation",
     "capcut",
     "capcut-api",
@@ -24,15 +26,17 @@
     "python",
     "srt-export",
     "subtitle-editor",
+    "video-editing",
+    "video-production",
     "video-to-shorts"
   ],
-  "star_count": 451,
-  "fork_count": 64,
+  "star_count": 670,
+  "fork_count": 75,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-13T08:19:44Z",
-  "updated_at": "2026-09-11T16:50:07Z",
-  "pushed_at": "2026-09-11T15:53:22Z",
+  "updated_at": "2026-09-20T21:23:18Z",
+  "pushed_at": "2026-09-20T10:27:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -298,6 +302,10 @@
     {
       "date": "2026-09-11",
       "stars": 451
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 670
     }
   ]
 }

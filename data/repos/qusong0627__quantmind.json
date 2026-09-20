@@ -3,7 +3,7 @@
   "owner": "qusong0627",
   "name": "quantmind",
   "full_name": "qusong0627/quantmind",
-  "description": " QuantMind（量化大脑）开源版是一款面向个人开发者与投研团队的 AI 原生多市场量化交易平台。深度集成微软 Qlib、RD-Agent 因子演化与 TradingAgents 多智能体投研，提供从 300+ 维因子挖掘、13 种机器学习与深度学习模型工场、Optuna 自动调参、Qlib 高性能回测、截面批量推理、7x24 实时舆情情绪分析，到通达信深度联动（板块推送/预警雷达/闪电下单）与实盘模拟交易的完整闭环。全面支持 A股、港股、美股、期货及区块链。系统采用 Docker Compose 一键私有化部署，数据与模型完全本地化，保障策略隐私，功能零门槛无限制。",
+  "description": " QuantMind（量化大脑）开源版是一款面向个人开发者与投研团队的 AI 原生多市场量化交易平台。深度集成微软 Qlib、RD-Agent 因子演化与 TradingAgents 多智能体投研，提供从 300+ 维因子挖掘、13 种机器学习与深度学习模型工场、Qlib 高性能回测、截面批量推理、7x24 实时舆情情绪分析，到通达信深度联动（板块推送/预警雷达/闪电下单）与实盘模拟交易的完整闭环。支持 A股、港股、美股、期货及区块链。可免费商用，系统采用 Docker Compose 一键私有化部署，数据与模型完全本地化，保障策略隐私，功能零门槛无限制。",
   "description_ja": "",
   "url": "https://github.com/qusong0627/QuantMind",
   "homepage_url": "https://oss.quantmindai.cn/",
@@ -16,13 +16,13 @@
     "qlib",
     "quant"
   ],
-  "star_count": 1435,
-  "fork_count": 322,
+  "star_count": 1512,
+  "fork_count": 339,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-15T10:14:34Z",
-  "updated_at": "2026-09-11T18:44:25Z",
-  "pushed_at": "2026-09-11T15:29:37Z",
+  "updated_at": "2026-09-20T17:25:30Z",
+  "pushed_at": "2026-09-20T15:07:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -304,6 +304,10 @@
     {
       "date": "2026-09-11",
       "stars": 1435
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 1512
     }
   ]
 }

@@ -1,0 +1,419 @@
+{
+  "repo_id": "R_kgDOPAKEJg",
+  "owner": "dx-corp",
+  "name": "dspy-advanced-prompting",
+  "full_name": "dx-corp/dspy-advanced-prompting",
+  "description": "State-of-the-art prompting techniques implementation with DSpy - Manager-style prompts, role personas, meta-prompting, and more",
+  "description_ja": "DSPyを使った最先端のプロンプティング技術の実装 — マネージャースタイルのプロンプト、ロールペルソナ、メタプロンプティングなど",
+  "url": "https://github.com/dx-corp/dspy-advanced-prompting",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "ai",
+    "artificial-intelligence",
+    "dspy",
+    "experimental",
+    "few-shot-learning",
+    "large-language-models",
+    "llm",
+    "machine-learning",
+    "meta-prompting",
+    "natural-language-processing",
+    "nlp",
+    "openai",
+    "prompt-engineering",
+    "prompt-optimization",
+    "python"
+  ],
+  "star_count": 61,
+  "fork_count": 4,
+  "is_archived": true,
+  "is_fork": false,
+  "created_at": "2025-06-23T02:23:41Z",
+  "updated_at": "2026-09-18T09:59:54Z",
+  "pushed_at": "2026-04-11T16:14:00Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-04-23",
+      "stars": 54
+    },
+    {
+      "date": "2026-04-25",
+      "stars": 54
+    },
+    {
+      "date": "2026-04-26",
+      "stars": 54
+    },
+    {
+      "date": "2026-04-28",
+      "stars": 54
+    },
+    {
+      "date": "2026-05-01",
+      "stars": 54
+    },
+    {
+      "date": "2026-05-02",
+      "stars": 54
+    },
+    {
+      "date": "2026-05-03",
+      "stars": 54
+    },
+    {
+      "date": "2026-05-04",
+      "stars": 54
+    },
+    {
+      "date": "2026-05-09",
+      "stars": 54
+    },
+    {
+      "date": "2026-05-10",
+      "stars": 54
+    },
+    {
+      "date": "2026-05-11",
+      "stars": 54
+    },
+    {
+      "date": "2026-05-12",
+      "stars": 54
+    },
+    {
+      "date": "2026-05-14",
+      "stars": 54
+    },
+    {
+      "date": "2026-05-15",
+      "stars": 55
+    },
+    {
+      "date": "2026-05-16",
+      "stars": 55
+    },
+    {
+      "date": "2026-05-17",
+      "stars": 55
+    },
+    {
+      "date": "2026-05-18",
+      "stars": 55
+    },
+    {
+      "date": "2026-05-19",
+      "stars": 55
+    },
+    {
+      "date": "2026-05-20",
+      "stars": 55
+    },
+    {
+      "date": "2026-05-22",
+      "stars": 55
+    },
+    {
+      "date": "2026-05-23",
+      "stars": 55
+    },
+    {
+      "date": "2026-05-24",
+      "stars": 55
+    },
+    {
+      "date": "2026-05-25",
+      "stars": 55
+    },
+    {
+      "date": "2026-05-27",
+      "stars": 55
+    },
+    {
+      "date": "2026-05-30",
+      "stars": 56
+    },
+    {
+      "date": "2026-05-31",
+      "stars": 57
+    },
+    {
+      "date": "2026-06-01",
+      "stars": 57
+    },
+    {
+      "date": "2026-06-03",
+      "stars": 58
+    },
+    {
+      "date": "2026-06-04",
+      "stars": 59
+    },
+    {
+      "date": "2026-06-05",
+      "stars": 59
+    },
+    {
+      "date": "2026-06-06",
+      "stars": 59
+    },
+    {
+      "date": "2026-06-07",
+      "stars": 59
+    },
+    {
+      "date": "2026-06-08",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-09",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-10",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-11",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-12",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-13",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-14",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-15",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-16",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-17",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-18",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-19",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-20",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-21",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-22",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-23",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-24",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-25",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-26",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-27",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-28",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-29",
+      "stars": 60
+    },
+    {
+      "date": "2026-06-30",
+      "stars": 60
+    },
+    {
+      "date": "2026-07-01",
+      "stars": 60
+    },
+    {
+      "date": "2026-07-02",
+      "stars": 60
+    },
+    {
+      "date": "2026-07-03",
+      "stars": 60
+    },
+    {
+      "date": "2026-07-04",
+      "stars": 60
+    },
+    {
+      "date": "2026-07-05",
+      "stars": 60
+    },
+    {
+      "date": "2026-07-06",
+      "stars": 60
+    },
+    {
+      "date": "2026-07-07",
+      "stars": 60
+    },
+    {
+      "date": "2026-07-08",
+      "stars": 60
+    },
+    {
+      "date": "2026-07-09",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-10",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-11",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-12",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-13",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-14",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-15",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-16",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-17",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-18",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-19",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-21",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-22",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-24",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-25",
+      "stars": 59
+    },
+    {
+      "date": "2026-07-31",
+      "stars": 59
+    },
+    {
+      "date": "2026-08-01",
+      "stars": 59
+    },
+    {
+      "date": "2026-08-02",
+      "stars": 59
+    },
+    {
+      "date": "2026-08-03",
+      "stars": 59
+    },
+    {
+      "date": "2026-08-04",
+      "stars": 59
+    },
+    {
+      "date": "2026-08-08",
+      "stars": 59
+    },
+    {
+      "date": "2026-08-09",
+      "stars": 59
+    },
+    {
+      "date": "2026-08-15",
+      "stars": 59
+    },
+    {
+      "date": "2026-08-16",
+      "stars": 59
+    },
+    {
+      "date": "2026-08-17",
+      "stars": 59
+    },
+    {
+      "date": "2026-08-20",
+      "stars": 60
+    },
+    {
+      "date": "2026-08-22",
+      "stars": 60
+    },
+    {
+      "date": "2026-08-23",
+      "stars": 60
+    },
+    {
+      "date": "2026-08-28",
+      "stars": 60
+    },
+    {
+      "date": "2026-08-30",
+      "stars": 60
+    },
+    {
+      "date": "2026-09-11",
+      "stars": 60
+    },
+    {
+      "date": "2026-09-20",
+      "stars": 61
+    }
+  ]
+}

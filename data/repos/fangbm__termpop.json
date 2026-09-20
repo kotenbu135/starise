@@ -3,20 +3,33 @@
   "owner": "fangbm",
   "name": "termpop",
   "full_name": "fangbm/termpop",
-  "description": "",
+  "description": "Context-aware technical term explanations for Chrome and Edge, powered by Rust/WASM and optional LLMs.",
   "description_ja": "",
   "url": "https://github.com/fangbm/TermPop",
   "homepage_url": "https://termpop.com",
   "language": "TypeScript",
-  "license": "",
-  "topics": [],
+  "license": "MIT",
+  "topics": [
+    "browser-extension",
+    "byok",
+    "chrome-extension",
+    "edge-extension",
+    "llm",
+    "llms",
+    "local-first",
+    "manifest-v3",
+    "ocr",
+    "rust",
+    "wasm",
+    "webassembly"
+  ],
   "star_count": 14,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-18T03:30:20Z",
-  "updated_at": "2026-08-29T13:25:10Z",
-  "pushed_at": "2026-08-29T13:24:39Z",
+  "updated_at": "2026-09-16T05:27:07Z",
+  "pushed_at": "2026-09-16T05:21:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +78,10 @@
     },
     {
       "date": "2026-09-11",
+      "stars": 14
+    },
+    {
+      "date": "2026-09-20",
       "stars": 14
     }
   ]
