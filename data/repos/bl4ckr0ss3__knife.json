@@ -3,7 +3,7 @@
   "owner": "bl4ckr0ss3",
   "name": "knife",
   "full_name": "bl4ckr0ss3/knife",
-  "description": "A reverse engineer's binary Swiss-army knife in Rust: triage, disassembly, function/CFG recovery, crypto-constant + YARA scanning for PE/ELF/Mach-O. Installs as 'knife'.",
+  "description": "A terminal-first reverse engineering toolkit in Rust: PE/ELF/Mach-O analysis through CLI, TUI, and MCP. Installs as knife.",
   "description_ja": "",
   "url": "https://github.com/bl4ckr0ss3/knife",
   "homepage_url": "",
@@ -21,18 +21,22 @@
     "rust",
     "security-tools"
   ],
-  "star_count": 297,
-  "fork_count": 22,
+  "star_count": 341,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-08T05:44:01Z",
-  "updated_at": "2026-09-20T17:50:14Z",
-  "pushed_at": "2026-09-15T12:02:20Z",
+  "updated_at": "2026-09-25T20:49:37Z",
+  "pushed_at": "2026-09-25T16:40:46Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-20",
       "stars": 297
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 341
     }
   ]
 }

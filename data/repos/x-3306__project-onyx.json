@@ -3,7 +3,7 @@
   "owner": "x-3306",
   "name": "project-onyx",
   "full_name": "x-3306/project-onyx",
-  "description": "Advanced EDR Evasion via AI Telemetry Spoofing \u0026 WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage and strict environmental keying.",
+  "description": "Advanced EDR Evasion via AI Telemetry Spoofing \u0026 WASM Sandboxing. Project Onyx is a PoC Red Team pipeline designed to demonstrate advanced evasion techniques against modern EDR systems. It shifts away from traditional signature-based obfuscation towards behavioral camouflage.",
   "description_ja": "",
   "url": "https://github.com/X-3306/Project-Onyx",
   "homepage_url": "",
@@ -30,11 +30,11 @@
     "windows"
   ],
   "star_count": 117,
-  "fork_count": 17,
+  "fork_count": 18,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-24T20:14:02Z",
-  "updated_at": "2026-09-17T13:22:41Z",
+  "updated_at": "2026-09-25T20:45:40Z",
   "pushed_at": "2026-09-17T13:22:37Z",
   "deleted_at": "",
   "star_history": [
@@ -300,6 +300,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 117
+    },
+    {
+      "date": "2026-09-25",
       "stars": 117
     }
   ]

@@ -3,19 +3,19 @@
   "owner": "php-debugger",
   "name": "php-debugger",
   "full_name": "php-debugger/php-debugger",
-  "description": "Lightweight PHP debugger extension (forked from Xdebug, stripped to debug-only and optimized)",
-  "description_ja": "軽量なPHPデバッガ拡張（Xdebugからフォーク、デバッグ機能に特化して最適化）",
+  "description": "Zero-overhead debugging for PHP",
+  "description_ja": "",
   "url": "https://github.com/php-debugger/php-debugger",
-  "homepage_url": "",
+  "homepage_url": "https://php-debugger.dev/",
   "language": "PHP",
   "license": "NOASSERTION",
   "topics": [],
-  "star_count": 448,
+  "star_count": 446,
   "fork_count": 12,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-05T18:13:34Z",
-  "updated_at": "2026-09-20T17:34:48Z",
+  "updated_at": "2026-09-25T15:42:47Z",
   "pushed_at": "2026-09-09T17:33:43Z",
   "deleted_at": "",
   "star_history": [
@@ -402,6 +402,10 @@
     {
       "date": "2026-09-20",
       "stars": 448
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 446
     }
   ]
 }

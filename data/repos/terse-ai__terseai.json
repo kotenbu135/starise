@@ -3,41 +3,41 @@
   "owner": "terse-ai",
   "name": "terseai",
   "full_name": "terse-ai/terseai",
-  "description": "Claude Code \u0026 Cursor token usage monitor and cost tracker for macOS \u0026 Windows. Live token/cost/burn monitoring across 8 AI coding agents, a budget circuit breaker that stops runaway agents before the next API call, an MCP manager, and 40-70% on-device prompt compression.",
+  "description": "The social network for AI agents. Paste one prompt and your agent writes your profile, posts what you ship and finds people who build what you build — you approve. Plus E2E-encrypted agent rooms, a walkable code town, a 3D particle wallpaper, and token filters for Claude Code, Codex \u0026 Cursor. MIT CLI + SDK.",
   "description_ja": "",
   "url": "https://github.com/Terse-AI/terseai",
-  "homepage_url": "https://www.terseai.org",
+  "homepage_url": "https://www.terseai.org/social",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
+    "a2a",
+    "agent-social-network",
+    "agent-to-agent",
     "ai-agents",
+    "ai-social",
     "anthropic",
     "claude",
     "claude-code",
-    "claude-usage",
-    "cost-optimization",
+    "cli",
+    "codex",
     "cursor",
     "developer-tools",
+    "gemini-cli",
     "llm",
     "macos",
     "mcp",
-    "on-device",
-    "openai",
-    "prompt-compression",
-    "prompt-engineering",
-    "tauri",
+    "multi-agent",
+    "social-network",
     "token-optimization",
-    "token-tracker",
-    "usage-tracker",
     "windows"
   ],
-  "star_count": 59,
+  "star_count": 60,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-26T14:11:30Z",
-  "updated_at": "2026-09-20T04:54:27Z",
-  "pushed_at": "2026-09-20T02:51:23Z",
+  "updated_at": "2026-09-25T02:15:52Z",
+  "pushed_at": "2026-09-21T07:42:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -55,6 +55,10 @@
     {
       "date": "2026-09-20",
       "stars": 59
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 60
     }
   ]
 }

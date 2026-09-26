@@ -7,7 +7,7 @@
   "description_ja": "Valeプログラミング言語のコンパイラ",
   "url": "https://github.com/ValeLang/Vale",
   "homepage_url": "https://vale.dev/",
-  "language": "Rust",
+  "language": "Scala",
   "license": "Apache-2.0",
   "topics": [
     "compiler",
@@ -16,13 +16,13 @@
     "systems-programming",
     "vale"
   ],
-  "star_count": 2011,
+  "star_count": 2018,
   "fork_count": 59,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-28T20:35:00Z",
-  "updated_at": "2026-09-20T05:50:44Z",
-  "pushed_at": "2026-09-17T16:19:18Z",
+  "updated_at": "2026-09-25T08:10:32Z",
+  "pushed_at": "2026-09-23T04:23:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -408,6 +408,10 @@
     {
       "date": "2026-09-20",
       "stars": 2011
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 2018
     }
   ]
 }

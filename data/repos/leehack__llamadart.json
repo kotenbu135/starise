@@ -3,20 +3,31 @@
   "owner": "leehack",
   "name": "llamadart",
   "full_name": "leehack/llamadart",
-  "description": "",
+  "description": "Cross-platform on-device LLM inference for Dart \u0026 Flutter: GGUF via llama.cpp and LiteRT-LM on Android, iOS, macOS, Windows, Linux and web.",
   "description_ja": "",
   "url": "https://github.com/leehack/llamadart",
-  "homepage_url": "",
+  "homepage_url": "https://llamadart.leehack.com",
   "language": "Dart",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "dart",
+    "flutter",
+    "gguf",
+    "litert-lm",
+    "llama-cpp",
+    "llm",
+    "local-llm",
+    "offline",
+    "on-device-ai",
+    "webgpu"
+  ],
   "star_count": 75,
-  "fork_count": 28,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-28T02:24:25Z",
-  "updated_at": "2026-09-20T21:40:04Z",
-  "pushed_at": "2026-09-20T21:40:01Z",
+  "updated_at": "2026-09-25T21:43:20Z",
+  "pushed_at": "2026-09-25T23:02:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -401,6 +412,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 75
+    },
+    {
+      "date": "2026-09-25",
       "stars": 75
     }
   ]

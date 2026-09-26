@@ -3,8 +3,8 @@
   "owner": "aload0",
   "name": "applock",
   "full_name": "aload0/applock",
-  "description": "Powerful Privacy tool to secure your sensitive apps.",
-  "description_ja": "重要なアプリを保護する強力なプライバシーツール",
+  "description": "Powerful privacy tool to lock apps from intruders",
+  "description_ja": "",
   "url": "https://github.com/aload0/AppLock",
   "homepage_url": "",
   "language": "Kotlin",
@@ -19,12 +19,12 @@
     "privacy-tools",
     "security"
   ],
-  "star_count": 883,
-  "fork_count": 78,
+  "star_count": 887,
+  "fork_count": 82,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-27T15:31:10Z",
-  "updated_at": "2026-09-19T21:00:59Z",
+  "updated_at": "2026-09-25T22:49:30Z",
   "pushed_at": "2026-07-21T19:44:25Z",
   "deleted_at": "",
   "star_history": [
@@ -411,6 +411,10 @@
     {
       "date": "2026-09-20",
       "stars": 883
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 887
     }
   ]
 }

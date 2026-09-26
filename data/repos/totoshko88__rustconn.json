@@ -3,20 +3,41 @@
   "owner": "totoshko88",
   "name": "rustconn",
   "full_name": "totoshko88/rustconn",
-  "description": "Modern connection manager for Linux with GTK4/Wayland-native interface.",
+  "description": "Modern cross-platform connection manager — SSH, RDP, VNC, SPICE, MOSH, Telnet, Serial, Kubernetes and Zero Trust — with a GTK4/libadwaita interface and embedded Rust clients. Linux, macOS, FreeBSD, Windows (WSLg).",
   "description_ja": "",
   "url": "https://github.com/totoshko88/RustConn",
-  "homepage_url": "",
+  "homepage_url": "https://flathub.org/apps/io.github.totoshko88.RustConn",
   "language": "Rust",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 568,
+  "topics": [
+    "connection-manager",
+    "gnome",
+    "gtk4",
+    "kubernetes",
+    "libadwaita",
+    "linux",
+    "macos",
+    "mosh",
+    "rdp",
+    "remote-desktop",
+    "rust",
+    "sftp",
+    "spice",
+    "ssh",
+    "telnet",
+    "terminal",
+    "vnc",
+    "vte",
+    "wayland",
+    "zero-trust"
+  ],
+  "star_count": 574,
   "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-08T13:46:11Z",
-  "updated_at": "2026-09-20T20:34:22Z",
-  "pushed_at": "2026-09-20T18:14:18Z",
+  "updated_at": "2026-09-25T20:56:17Z",
+  "pushed_at": "2026-09-25T20:56:10Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +55,10 @@
     {
       "date": "2026-09-20",
       "stars": 568
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 574
     }
   ]
 }

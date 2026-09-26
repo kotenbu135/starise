@@ -6,7 +6,7 @@
   "description": "a little 64bit microkernel based operating system written in c++ with smp support ",
   "description_ja": "",
   "url": "https://github.com/Supercip971/WingOS",
-  "homepage_url": "https://cyp.sh/blog",
+  "homepage_url": "https://wingos.org/",
   "language": "C",
   "license": "BSD-2-Clause",
   "topics": [
@@ -20,13 +20,13 @@
     "osdev",
     "wingos"
   ],
-  "star_count": 769,
+  "star_count": 768,
   "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-08-19T14:21:47Z",
-  "updated_at": "2026-09-19T20:52:29Z",
-  "pushed_at": "2026-09-18T08:17:10Z",
+  "updated_at": "2026-09-25T09:30:02Z",
+  "pushed_at": "2026-09-25T09:29:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -312,6 +312,10 @@
     {
       "date": "2026-09-20",
       "stars": 769
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 768
     }
   ]
 }

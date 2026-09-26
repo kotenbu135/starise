@@ -3,7 +3,7 @@
   "owner": "authgear",
   "name": "authgear-server",
   "full_name": "authgear/authgear-server",
-  "description": "Open source Auth0/Clerk/Firebase alternative. Passkeys, SSO, MFA, passwordless, biometric login. Self-hosted or cloud. Enterprise-ready for SaaS \u0026 mobile apps",
+  "description": "Open source Auth0/Keycloak alternative. Passkeys, SSO, MFA, passwordless, biometric login. Self-hosted or cloud. Enterprise-ready for SaaS \u0026 mobile apps",
   "description_ja": "",
   "url": "https://github.com/authgear/authgear-server",
   "homepage_url": "https://www.authgear.com",
@@ -31,13 +31,13 @@
     "supertokens",
     "webauthn"
   ],
-  "star_count": 2058,
+  "star_count": 2070,
   "fork_count": 125,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-06-16T03:34:34Z",
-  "updated_at": "2026-09-20T18:37:26Z",
-  "pushed_at": "2026-09-18T09:03:21Z",
+  "updated_at": "2026-09-25T14:19:00Z",
+  "pushed_at": "2026-09-24T10:13:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -95,6 +95,10 @@
     {
       "date": "2026-09-20",
       "stars": 2058
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 2070
     }
   ]
 }

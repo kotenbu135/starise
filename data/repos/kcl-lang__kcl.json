@@ -3,8 +3,8 @@
   "owner": "kcl-lang",
   "name": "kcl",
   "full_name": "kcl-lang/kcl",
-  "description": "KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io",
-  "description_ja": "KCL プログラミング言語のコアと API（CNCF Sandbox プロジェクト）。https://kcl-lang.io",
+  "description": "KCL Core and API",
+  "description_ja": "",
   "url": "https://github.com/kcl-lang/kcl",
   "homepage_url": "https://kcl-lang.io",
   "language": "Rust",
@@ -29,13 +29,13 @@
     "shift-left",
     "validation"
   ],
-  "star_count": 2416,
-  "fork_count": 170,
+  "star_count": 2418,
+  "fork_count": 171,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-05-05T07:02:26Z",
-  "updated_at": "2026-09-20T01:14:26Z",
-  "pushed_at": "2026-09-20T01:04:23Z",
+  "updated_at": "2026-09-25T20:53:25Z",
+  "pushed_at": "2026-09-25T20:53:19Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -421,6 +421,10 @@
     {
       "date": "2026-09-20",
       "stars": 2416
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 2418
     }
   ]
 }

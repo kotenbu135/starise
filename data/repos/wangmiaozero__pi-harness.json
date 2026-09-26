@@ -3,44 +3,48 @@
   "owner": "wangmiaozero",
   "name": "pi-harness",
   "full_name": "wangmiaozero/pi-harness",
-  "description": "Visual desktop Harness \u0026 control center for Pi Coding Agent — inspect runtime, context, tools \u0026 sessions; manage models \u0026 skills; browse files \u0026 Git. Powered by Pi Agent Harness.",
+  "description": "The operational superset of Pi Coding Agent — everything Pi, plus observability, governance, recovery, evaluation and multi-agent orchestration.",
   "description_ja": "",
   "url": "https://github.com/wangmiaozero/pi-harness",
   "homepage_url": "",
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
-    "agent-console",
     "agent-harness",
-    "agent-runtime",
+    "agent-observability",
+    "agent-orchestration",
     "ai-agent",
-    "ai-coding",
     "coding-agent",
-    "coding-assistant",
     "desktop-app",
     "developer-tools",
     "electron",
     "llm",
     "mcp",
+    "multi-agent",
     "pi",
     "pi-agent",
     "pi-coding-agent",
+    "pi-harness",
     "skills",
     "typescript",
     "vue3"
   ],
-  "star_count": 84,
-  "fork_count": 7,
+  "star_count": 86,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-20T12:29:47Z",
-  "updated_at": "2026-09-20T14:36:21Z",
-  "pushed_at": "2026-09-20T14:33:38Z",
+  "updated_at": "2026-09-25T06:56:13Z",
+  "pushed_at": "2026-09-25T06:56:09Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-20",
       "stars": 84
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 86
     }
   ]
 }

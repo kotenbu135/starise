@@ -3,36 +3,40 @@
   "owner": "saasyland",
   "name": "saasyland.com",
   "full_name": "saasyland/saasyland.com",
-  "description": "Saasy Land is an open-source, opinionated, clean, elegant Next.js starter kit for production-grade SaaS. Engineered for scale with Bun, Vercel, Elysia, Better Auth, Neon Postgres + Drizzle, and Shadcn UI. The robust, high-performance foundation for serious builders to ship modern, scalable full-stack applications without the boilerplate overhead.",
+  "description": "SaaSy Land's open-source website, customer workspace, and admin console. Built with TanStack Start, React, TypeScript, Bun, and Cloudflare Workers, with Better Auth, Drizzle + D1, Polar billing and licensing, Resend email, and localized MDX content in nine languages.",
   "description_ja": "",
   "url": "https://github.com/saasyland/saasyland.com",
   "homepage_url": "https://saasyland.com",
-  "language": "TypeScript",
-  "license": "MIT",
+  "language": "MDX",
+  "license": "NOASSERTION",
   "topics": [
     "better-auth",
     "bun",
-    "bun-runtime",
-    "cloudflare-email-service",
+    "cloudflare",
+    "cloudflare-workers",
+    "d1",
     "drizzle",
-    "neon",
-    "next16",
-    "nextjs",
+    "full-stack",
+    "full-stack-boilerplate",
+    "full-stack-template",
     "r2",
     "saas",
     "saas-boilerplate",
     "saas-template",
     "serverless",
+    "sqlite",
     "starter-template",
-    "vercel"
+    "tanstack",
+    "tanstack-start",
+    "vite-plus"
   ],
-  "star_count": 436,
+  "star_count": 437,
   "fork_count": 103,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-10-10T20:36:37Z",
-  "updated_at": "2026-09-07T20:42:56Z",
-  "pushed_at": "2026-09-20T16:09:11Z",
+  "updated_at": "2026-09-25T22:45:10Z",
+  "pushed_at": "2026-09-25T14:39:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -414,6 +418,10 @@
     {
       "date": "2026-09-20",
       "stars": 436
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 437
     }
   ]
 }

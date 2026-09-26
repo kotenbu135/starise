@@ -3,19 +3,22 @@
   "owner": "reddimus",
   "name": "kalshi-cpp",
   "full_name": "reddimus/kalshi-cpp",
-  "description": "Modern C++23 SDK for the Kalshi prediction-market API — full typed REST coverage + real-time WebSocket streaming, RSA-PSS auth, and an exception-free std::expected API. CMake / FetchContent-ready.",
+  "description": "Unofficial C++23 client for Kalshi's Predictions API. Generated from Kalshi's OpenAPI and AsyncAPI specs, it covers every REST operation and WebSocket channel. The WebSocket client reconnects and resubscribes. Optional transports add retries and rate limiting.",
   "description_ja": "",
   "url": "https://github.com/Reddimus/kalshi-cpp",
-  "homepage_url": "",
+  "homepage_url": "https://reddimus.github.io/kalshi-cpp/",
   "language": "C++",
   "license": "MIT",
   "topics": [
     "api-client",
+    "asyncapi",
     "cmake",
     "cpp",
     "cpp23",
+    "ed25519",
     "kalshi",
     "market-data",
+    "openapi",
     "prediction-markets",
     "rest-api",
     "rsa-pss",
@@ -23,13 +26,13 @@
     "trading-api",
     "websocket"
   ],
-  "star_count": 74,
-  "fork_count": 2,
+  "star_count": 197,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-11T02:02:01Z",
-  "updated_at": "2026-09-18T16:56:46Z",
-  "pushed_at": "2026-09-04T19:58:23Z",
+  "updated_at": "2026-09-25T22:41:00Z",
+  "pushed_at": "2026-09-25T22:41:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -99,6 +102,10 @@
     {
       "date": "2026-09-20",
       "stars": 74
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 197
     }
   ]
 }

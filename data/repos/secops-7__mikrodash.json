@@ -3,25 +3,38 @@
   "owner": "secops-7",
   "name": "mikrodash",
   "full_name": "secops-7/mikrodash",
-  "description": "Real-time MikroTik RouterOS v7 dashboard. Streams live CPU, traffic, wireless clients, DHCP, WireGuard, firewall \u0026 geo connection data direct from the router API to your browser via Socket.IO. Self-hosted, Docker-ready",
+  "description": "Real-Time Open-source command center for MikroTik RouterOS v7. Streams live CPU, traffic, wireless clients, DHCP, WireGuard, firewall and geo connection data straight from the router API to your browser over a WebSocket. Alerts, reports, config management and zero-touch provisioning. One static Go binary, self-hosted, Docker-ready",
   "description_ja": "",
   "url": "https://github.com/SecOps-7/MikroDash",
   "homepage_url": "",
   "language": "Go",
   "license": "MIT",
-  "topics": [],
-  "star_count": 585,
-  "fork_count": 82,
+  "topics": [
+    "dashboard",
+    "docker",
+    "golang",
+    "mikrotik",
+    "network-monitoring",
+    "routeros",
+    "self-hosted",
+    "wireguard"
+  ],
+  "star_count": 594,
+  "fork_count": 83,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-06T10:48:47Z",
-  "updated_at": "2026-09-20T20:33:10Z",
-  "pushed_at": "2026-09-20T20:35:00Z",
+  "updated_at": "2026-09-25T21:26:31Z",
+  "pushed_at": "2026-09-25T17:14:30Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-20",
       "stars": 585
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 594
     }
   ]
 }

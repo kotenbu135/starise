@@ -3,20 +3,26 @@
   "owner": "rarf",
   "name": "hermes-quota-plugin",
   "full_name": "rarf/hermes-quota-plugin",
-  "description": "Standalone Hermes Agent plugin: per-provider quota block in the footer + /usage, plus /quota command.",
+  "description": "Per-provider quota and rate limits in Hermes Desktop: a status-bar chip, a docked pane, the /quota command and a CLI — fed from a local cache, with no network I/O in the UI.",
   "description_ja": "",
   "url": "https://github.com/rarf/hermes-quota-plugin",
   "homepage_url": "",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 64,
-  "fork_count": 7,
+  "topics": [
+    "desktop",
+    "hermes-agent",
+    "hermes-plugin",
+    "quota",
+    "rate-limits"
+  ],
+  "star_count": 68,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-02T11:42:03Z",
-  "updated_at": "2026-09-19T11:42:43Z",
-  "pushed_at": "2026-09-18T13:08:27Z",
+  "updated_at": "2026-09-25T09:30:20Z",
+  "pushed_at": "2026-09-25T09:30:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +40,10 @@
     {
       "date": "2026-09-20",
       "stars": 64
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 68
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "paxdotdev",
   "name": "pax",
   "full_name": "paxdotdev/pax",
-  "description": "User interface engine with an integrated vector design tool, built in Rust",
-  "description_ja": "ベクターデザインツールを統合したRust製UIエンジン",
+  "description": "User interface engine driven by a declarative language + Rust",
+  "description_ja": "",
   "url": "https://github.com/paxdotdev/pax",
   "homepage_url": "https://www.pax.dev/",
   "language": "Rust",
@@ -20,13 +20,13 @@
     "wasm",
     "webassembly"
   ],
-  "star_count": 524,
+  "star_count": 525,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-09-12T00:05:42Z",
-  "updated_at": "2026-09-18T14:46:24Z",
-  "pushed_at": "2026-04-01T14:16:41Z",
+  "updated_at": "2026-09-25T16:04:11Z",
+  "pushed_at": "2026-09-25T16:04:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -412,6 +412,10 @@
     {
       "date": "2026-09-20",
       "stars": 524
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 525
     }
   ]
 }

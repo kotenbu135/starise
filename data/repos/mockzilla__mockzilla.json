@@ -6,7 +6,7 @@
   "description": "Open-source OpenAPI mock server with cloud hosting and local modes for development, testing, and CI. Generates realistic API responses from specs with latency simulation, error injection, proxy fallback, and request validation. Validated against 2,200+ real-world OpenAPI specs.",
   "description_ja": "",
   "url": "https://github.com/mockzilla/mockzilla",
-  "homepage_url": "https://mockzilla.github.io/mockzilla",
+  "homepage_url": "https://mockzilla.org",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-29T18:16:57Z",
-  "updated_at": "2026-09-19T18:59:10Z",
-  "pushed_at": "2026-09-19T19:01:02Z",
+  "updated_at": "2026-09-25T23:24:24Z",
+  "pushed_at": "2026-09-25T23:25:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -366,6 +366,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 106
+    },
+    {
+      "date": "2026-09-25",
       "stars": 106
     }
   ]

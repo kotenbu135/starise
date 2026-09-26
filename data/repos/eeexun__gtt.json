@@ -3,8 +3,8 @@
   "owner": "eeexun",
   "name": "gtt",
   "full_name": "eeexun/gtt",
-  "description": "Google Translate TUI (Originally). Currently supports Apertium, Bing, ChatGPT, DeepL, DeepLX, Google, LibreTranslate, Reverso.",
-  "description_ja": "元々は Google Translate の TUI。現在は Apertium、Bing、ChatGPT、DeepL、DeepLX、Google、LibreTranslate、Reverso に対応。",
+  "description": "Google Translate TUI (Originally). Currently supports Apertium, Bing, DeepL, DeepLX, Google, LibreTranslate, Reverso.",
+  "description_ja": "",
   "url": "https://github.com/eeeXun/gtt",
   "homepage_url": "",
   "language": "Go",
@@ -12,7 +12,6 @@
   "topics": [
     "apertium",
     "bing",
-    "chatgpt",
     "deepl",
     "deeplx",
     "google",
@@ -22,12 +21,12 @@
     "tui"
   ],
   "star_count": 306,
-  "fork_count": 13,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-10-24T15:41:41Z",
-  "updated_at": "2026-08-26T13:37:22Z",
-  "pushed_at": "2026-08-02T06:11:31Z",
+  "updated_at": "2026-09-25T01:05:55Z",
+  "pushed_at": "2026-09-25T01:27:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -412,6 +411,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 306
+    },
+    {
+      "date": "2026-09-25",
       "stars": 306
     }
   ]

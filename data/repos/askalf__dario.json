@@ -3,7 +3,7 @@
   "owner": "askalf",
   "name": "dario",
   "full_name": "askalf/dario",
-  "description": "Use your Claude and ChatGPT subscriptions in Cursor, Cline, Aider, Claude Code and the Agent SDK — at subscription pricing, not per-token API bills. One local Anthropic + OpenAI-compatible endpoint: either plan answers either wire shape, auto-failover when one hits its limit, multi-seat pooling, live Claude Code drift tracking.",
+  "description": "Use your Claude and ChatGPT subscriptions in Cursor, Cline, Aider, Claude Code and the Agent SDK: one local endpoint, failover, pooling.",
   "description_ja": "",
   "url": "https://github.com/askalf/dario",
   "homepage_url": "https://www.npmjs.com/package/@askalf/dario",
@@ -31,13 +31,13 @@
     "openai-compat",
     "openrouter"
   ],
-  "star_count": 542,
-  "fork_count": 66,
+  "star_count": 547,
+  "fork_count": 67,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-08T16:08:01Z",
-  "updated_at": "2026-09-20T19:12:37Z",
-  "pushed_at": "2026-09-20T20:23:04Z",
+  "updated_at": "2026-09-25T22:39:20Z",
+  "pushed_at": "2026-09-25T22:42:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -407,6 +407,10 @@
     {
       "date": "2026-09-20",
       "stars": 542
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 547
     }
   ]
 }

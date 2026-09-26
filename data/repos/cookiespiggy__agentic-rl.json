@@ -3,7 +3,7 @@
   "owner": "cookiespiggy",
   "name": "agentic-rl",
   "full_name": "cookiespiggy/agentic-rl",
-  "description": "Agentic RL 零基础中文教程：24 章从概念到 GRPO 实战，含 TRL 最小可跑示例 | Beginner-friendly Agentic RL tutorial with hands-on GRPO project",
+  "description": "Agentic RL 中文零基础教程（25 章）：从概念到 GRPO 实战，含 TRL 最小可跑示例。第 25 章讲清 Jev / TypeSafe System One 判别模型与 RL 的能力边界 | Chinese Agentic RL tutorial, 25 chapters + Jev-vs-RL boundary analysis",
   "description_ja": "",
   "url": "https://github.com/cookiespiggy/agentic-rl",
   "homepage_url": "",
@@ -14,22 +14,26 @@
     "agentic-rl",
     "beginner-friendly",
     "chinese-tutorial",
+    "discriminative-model",
     "grpo",
+    "jev",
     "llm-training",
     "post-training",
     "qwen",
     "reinforcement-learning",
     "rlhf",
+    "system-one",
     "trl",
+    "typesafe",
     "verl"
   ],
-  "star_count": 102,
+  "star_count": 112,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-03T01:11:53Z",
-  "updated_at": "2026-09-19T12:34:39Z",
-  "pushed_at": "2026-06-03T02:19:53Z",
+  "updated_at": "2026-09-25T19:51:54Z",
+  "pushed_at": "2026-09-24T02:31:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +75,10 @@
     {
       "date": "2026-09-20",
       "stars": 102
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 112
     }
   ]
 }

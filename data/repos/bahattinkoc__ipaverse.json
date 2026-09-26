@@ -6,7 +6,7 @@
   "description": "Download, re-sign, and sideload iOS, iPadOS, macOS, tvOS \u0026 visionOS apps without Xcode or Terminal — plus an authorized security-testing toolkit (ATS bypass, Frida injection, static scan, FairPlay dump).",
   "description_ja": "",
   "url": "https://github.com/bahattinkoc/ipaverse",
-  "homepage_url": "",
+  "homepage_url": "https://formulae.brew.sh/cask/ipaverse",
   "language": "Swift",
   "license": "MIT",
   "topics": [
@@ -27,13 +27,13 @@
     "swift",
     "swiftui"
   ],
-  "star_count": 642,
+  "star_count": 653,
   "fork_count": 44,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-05T22:10:54Z",
-  "updated_at": "2026-09-19T11:51:00Z",
-  "pushed_at": "2026-09-18T00:02:25Z",
+  "updated_at": "2026-09-23T06:57:14Z",
+  "pushed_at": "2026-09-22T05:55:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-20",
       "stars": 642
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 653
     }
   ]
 }

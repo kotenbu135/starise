@@ -3,17 +3,26 @@
   "owner": "mattbusel",
   "name": "fin-primitives",
   "full_name": "mattbusel/fin-primitives",
-  "description": "Financial market primitives — price types, order book, OHLCV, indicators, position ledger, risk monitor",
+  "description": "Rust crate of validated, decimal-precise trading building blocks: price types, L2 order book, tick-to-OHLCV aggregation, hundreds of streaming indicators, position ledger, risk rules, Black-Scholes Greeks and a walk-forward backtester. On crates.io.",
   "description_ja": "",
   "url": "https://github.com/Mattbusel/fin-primitives",
-  "homepage_url": "",
+  "homepage_url": "https://mattbusel.github.io/fin-primitives/",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "algorithmic-trading",
+    "backtesting",
+    "black-scholes",
     "finance",
+    "market-data",
     "ohlcv",
     "order-book",
+    "quantitative-finance",
+    "risk-management",
     "rust",
+    "rust-crate",
+    "technical-analysis",
+    "technical-indicators",
     "trading"
   ],
   "star_count": 15,
@@ -21,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-07T19:22:02Z",
-  "updated_at": "2026-07-19T21:53:51Z",
-  "pushed_at": "2026-03-23T11:03:47Z",
+  "updated_at": "2026-09-25T21:14:38Z",
+  "pushed_at": "2026-09-25T23:52:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -355,6 +364,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 15
+    },
+    {
+      "date": "2026-09-25",
       "stars": 15
     }
   ]

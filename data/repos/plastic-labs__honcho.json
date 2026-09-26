@@ -6,7 +6,7 @@
   "description": " Memory library for building stateful agents",
   "description_ja": "ステートフルエージェント構築のためのメモリライブラリ",
   "url": "https://github.com/plastic-labs/honcho",
-  "homepage_url": "https://docs.honcho.dev",
+  "homepage_url": "https://honcho.dev/docs",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
@@ -21,13 +21,13 @@
     "llm",
     "memory"
   ],
-  "star_count": 7273,
-  "fork_count": 899,
+  "star_count": 7338,
+  "fork_count": 905,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-09-10T21:29:54Z",
-  "updated_at": "2026-09-20T21:40:57Z",
-  "pushed_at": "2026-09-19T23:32:48Z",
+  "updated_at": "2026-09-25T22:33:37Z",
+  "pushed_at": "2026-09-25T20:02:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -413,6 +413,10 @@
     {
       "date": "2026-09-20",
       "stars": 7273
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 7338
     }
   ]
 }

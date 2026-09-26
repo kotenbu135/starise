@@ -3,41 +3,41 @@
   "owner": "peuqui",
   "name": "aifred-intelligence",
   "full_name": "peuqui/aifred-intelligence",
-  "description": "🤵 AIfred-Intelligence — self-hosted Multi-Agent Assistant with Debate Modes (Symposion/Tribunal), Voice (STT + Streaming-TTS), RAG with Long-Term Memory, Web Research and Tool-Calling. Reachable via Web-UI or Telegram/Discord/Email/EPIM. Multi-Backend: llama-swap, Ollama, vLLM, TabbyAPI.",
+  "description": "🤵 AIfred-Intelligence — self-hosted multi-agent assistant: debate modes (Symposion/Tribunal), voice (STT + streaming TTS, voice cloning), camera surveillance, RAG with long-term memory, web research, plugin tool calling. Via Web UI, Telegram, Discord, email or Echo Dot voice terminal. Backends: llama.cpp/llama-swap, Ollama, vLLM, cloud APIs.",
   "description_ja": "",
   "url": "https://github.com/Peuqui/AIfred-Intelligence",
   "homepage_url": "https://peuqui.github.io/AIfred-Intelligence/",
   "language": "Python",
   "license": "NOASSERTION",
   "topics": [
-    "ai",
+    "ai-agents",
     "ai-assistant",
-    "chain-of-thought",
-    "chatbot",
-    "chromadb",
-    "llm",
+    "deep-research",
+    "discord-bot",
+    "function-calling",
+    "llama-cpp",
     "local-llm",
     "multi-agent",
-    "ocr",
     "ollama",
-    "python",
+    "persistent-memory",
+    "personal-assistant",
     "rag",
-    "reflex",
     "self-hosted",
+    "speech-to-text",
+    "surveillance",
+    "telegram-bot",
     "text-to-speech",
-    "tts",
+    "vllm",
     "voice-assistant",
-    "voice-cloning",
-    "web-scraping",
-    "whisper"
+    "voice-cloning"
   ],
   "star_count": 37,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-14T20:18:27Z",
-  "updated_at": "2026-09-20T14:55:11Z",
-  "pushed_at": "2026-09-20T14:55:07Z",
+  "updated_at": "2026-09-25T18:57:55Z",
+  "pushed_at": "2026-09-25T18:57:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -382,6 +382,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 37
+    },
+    {
+      "date": "2026-09-25",
       "stars": 37
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "caesiumy",
   "name": "ko-design-md",
   "full_name": "caesiumy/ko-design-md",
-  "description": "한국 브랜드 디자인 시스템을 Stitch v0.1 마크다운으로 정리한 오픈 카탈로그 — Open catalog of Korean design systems in structured markdown.",
+  "description": "한국 브랜드의 디자인 언어를 출처가 달린 DESIGN.md 한 장으로 정리한 오픈 카탈로그 — Open catalog of Korean brands' design languages, one cited DESIGN.md per brand.",
   "description_ja": "",
   "url": "https://github.com/CaesiumY/ko-design-md",
   "homepage_url": "https://getdesign.kr",
@@ -11,25 +11,18 @@
   "license": "MIT",
   "topics": [
     "agent-skills",
-    "claude-code",
-    "codex",
-    "cursor",
     "design-md",
     "design-system",
     "design-tokens",
-    "korea",
-    "korean",
-    "skills-sh",
-    "stitch",
-    "tanstack-start"
+    "korean"
   ],
-  "star_count": 50,
-  "fork_count": 4,
+  "star_count": 52,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-06T10:14:52Z",
-  "updated_at": "2026-09-20T12:12:58Z",
-  "pushed_at": "2026-09-20T18:31:11Z",
+  "updated_at": "2026-09-24T07:30:52Z",
+  "pushed_at": "2026-09-24T07:30:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -255,6 +248,10 @@
     {
       "date": "2026-09-20",
       "stars": 50
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 52
     }
   ]
 }

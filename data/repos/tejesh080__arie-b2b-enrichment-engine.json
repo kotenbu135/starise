@@ -3,7 +3,7 @@
   "owner": "tejesh080",
   "name": "arie-b2b-enrichment-engine",
   "full_name": "tejesh080/arie-b2b-enrichment-engine",
-  "description": "Cost-aware B2B lead enrichment that stops gathering data once it has enough evidence to decide. Confidence-gated routing, human review, and auditable Decision Receipts.",
+  "description": "Cost-aware revenue intelligence engine that selectively buys enrichment evidence, knows when to stop, and produces auditable Decision Receipts.",
   "description_ja": "",
   "url": "https://github.com/Tejesh080/arie-b2b-enrichment-engine",
   "homepage_url": "https://arie-web.vercel.app/",
@@ -11,19 +11,23 @@
   "license": "MIT",
   "topics": [
     "b2b",
+    "decision-engine",
     "fastapi",
     "lead-enrichment",
+    "mcp",
     "n8n",
     "postgresql",
-    "supasbase"
+    "python",
+    "revenue-intelligence",
+    "supabase"
   ],
   "star_count": 96,
   "fork_count": 0,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-16T05:47:10Z",
-  "updated_at": "2026-09-20T22:45:31Z",
-  "pushed_at": "2026-09-20T22:45:26Z",
+  "updated_at": "2026-09-24T16:37:03Z",
+  "pushed_at": "2026-09-24T16:36:58Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +44,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 96
+    },
+    {
+      "date": "2026-09-25",
       "stars": 96
     }
   ]

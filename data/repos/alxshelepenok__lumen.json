@@ -6,29 +6,28 @@
   "description": "A constantly evolving and thoughtful architecture for creating static blogs.",
   "description_ja": "静的ブログ作成のための、絶え間なく進化する思慮深いアーキテクチャ。",
   "url": "https://github.com/alxshelepenok/lumen",
-  "homepage_url": "",
+  "homepage_url": "lumen.alxshelepenok.com",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "architecture",
+    "astro",
     "blog",
-    "bun",
-    "gatsby",
-    "graphql",
-    "infrastructure",
     "jamstack",
-    "react",
+    "json-ld",
+    "semantic-html",
+    "semantic-markup",
+    "semantic-releases",
     "sentry",
-    "static",
+    "seo",
     "typescript"
   ],
   "star_count": 2015,
-  "fork_count": 638,
+  "fork_count": 637,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-03-11T21:02:37Z",
-  "updated_at": "2026-09-19T00:12:26Z",
-  "pushed_at": "2026-09-18T19:13:16Z",
+  "updated_at": "2026-09-23T20:54:47Z",
+  "pushed_at": "2026-09-23T20:54:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -409,6 +408,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 2015
+    },
+    {
+      "date": "2026-09-25",
       "stars": 2015
     }
   ]

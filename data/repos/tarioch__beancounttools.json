@@ -3,10 +3,10 @@
   "owner": "tarioch",
   "name": "beancounttools",
   "full_name": "tarioch/beancounttools",
-  "description": "Beancount Tools",
-  "description_ja": "Beancountツール集",
+  "description": "Importers, plugins and price fetchers for Beancount",
+  "description_ja": "",
   "url": "https://github.com/tarioch/beancounttools",
-  "homepage_url": "",
+  "homepage_url": "https://tariochbctools.rtfd.io",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -14,13 +14,13 @@
     "beancount-prices",
     "plaintext-accounting"
   ],
-  "star_count": 97,
-  "fork_count": 30,
+  "star_count": 96,
+  "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-12-04T17:34:12Z",
-  "updated_at": "2026-09-20T12:12:09Z",
-  "pushed_at": "2026-09-20T12:12:07Z",
+  "updated_at": "2026-09-25T13:34:40Z",
+  "pushed_at": "2026-09-25T13:34:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +402,10 @@
     {
       "date": "2026-09-20",
       "stars": 97
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 96
     }
   ]
 }

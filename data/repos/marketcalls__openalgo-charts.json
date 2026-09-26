@@ -6,7 +6,7 @@
   "description": "Production-grade charts built for brokers, exchanges, trading platforms, and financial portals.  Bring your own market data, plug it in, and deliver a complete charting experience without building the charting stack from scratch.  Open source. Data-agnostic. Ready to integrate.",
   "description_ja": "",
   "url": "https://github.com/marketcalls/openalgo-charts",
-  "homepage_url": "https://marketcalls.github.io/openalgo-charts",
+  "homepage_url": "https://openalgo.in/charts",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
@@ -18,13 +18,13 @@
     "orderflow",
     "webgl2"
   ],
-  "star_count": 90,
-  "fork_count": 38,
+  "star_count": 107,
+  "fork_count": 39,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-26T19:31:51Z",
-  "updated_at": "2026-09-20T21:43:40Z",
-  "pushed_at": "2026-09-20T20:31:47Z",
+  "updated_at": "2026-09-25T21:17:58Z",
+  "pushed_at": "2026-09-25T21:47:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -94,6 +94,10 @@
     {
       "date": "2026-09-20",
       "stars": 90
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 107
     }
   ]
 }

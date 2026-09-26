@@ -3,20 +3,20 @@
   "owner": "tomkabel",
   "name": "google-botguard-security-research",
   "full_name": "tomkabel/google-botguard-security-research",
-  "description": "A Case Study in Bypassing Client-Side Anti-Fraud Mechanisms ",
+  "description": "SoK: Client-Side Anti-Automation Under VLM-Based Attack — analytical systematization of client-side anti-fraud defenses",
   "description_ja": "",
   "url": "https://github.com/tomkabel/google-botguard-security-research",
   "homepage_url": "",
-  "language": "Makefile",
-  "license": "",
+  "language": "Python",
+  "license": "NOASSERTION",
   "topics": [],
   "star_count": 103,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-09-19T02:56:40Z",
-  "updated_at": "2026-09-20T06:31:30Z",
-  "pushed_at": "2026-09-06T18:16:18Z",
+  "updated_at": "2026-09-24T08:31:21Z",
+  "pushed_at": "2026-09-24T08:31:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -113,6 +113,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 103
+    },
+    {
+      "date": "2026-09-25",
       "stars": 103
     }
   ]

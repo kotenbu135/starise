@@ -3,7 +3,7 @@
   "owner": "smol-machines",
   "name": "smolvm",
   "full_name": "smol-machines/smolvm",
-  "description": "Branchable computing by using a portable, lightweight, self-contained virtual machine",
+  "description": "An embeddable, portable, branchable virtual machine to safely run Agents locally.",
   "description_ja": "",
   "url": "https://github.com/smol-machines/smolvm",
   "homepage_url": "https://smolmachines.com",
@@ -17,13 +17,13 @@
     "rust",
     "virtual-machine"
   ],
-  "star_count": 6184,
-  "fork_count": 297,
+  "star_count": 6365,
+  "fork_count": 310,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-18T23:25:15Z",
-  "updated_at": "2026-09-20T21:58:54Z",
-  "pushed_at": "2026-09-20T08:36:03Z",
+  "updated_at": "2026-09-26T00:21:06Z",
+  "pushed_at": "2026-09-26T00:21:00Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -409,6 +409,10 @@
     {
       "date": "2026-09-20",
       "stars": 6184
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 6365
     }
   ]
 }

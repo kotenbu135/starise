@@ -3,23 +3,23 @@
   "owner": "liangdabiao",
   "name": "ecom-details-image",
   "full_name": "liangdabiao/ecom-details-image",
-  "description": "一个面向 claude code / Codex / OpenClaw 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉素材。 与众不同之处是：**Campaign Style Lock** 机制 和 **强推广** 和 **重视转化效果**。",
+  "description": "一个面向workbuddy / Codex 等agent 的跨境电商和国内电商通用视觉创作 Skill。我精选25个高质量案例，涵盖纯色底产品主图、场景化生活图、平铺图、电商详情图、真实场景等等，全部配完整提示词，都可以利用 GPT-Image-2 API生成最终效果。一键生成电商相关图片！输入产品图片和需求描述，自动生成完整的电商主图、详情页图片、社媒推广图、直播间场景图等全套视觉素材。 与众不同之处是：**Campaign Style Lock** 机制 和 **强推广** 和 **重视转化效果**。",
   "description_ja": "",
   "url": "https://github.com/liangdabiao/ecom-details-image",
-  "homepage_url": "https://skillhub.cn/skills/user_8bb4b4f5/seedance-video-prompt",
+  "homepage_url": "https://ecom-details-image-agent.liangdabiao.com/",
   "language": "Python",
   "license": "",
   "topics": [
     "skill",
     "skills"
   ],
-  "star_count": 1203,
-  "fork_count": 190,
+  "star_count": 1247,
+  "fork_count": 191,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-06T23:43:15Z",
-  "updated_at": "2026-09-20T16:57:21Z",
-  "pushed_at": "2026-05-15T00:41:13Z",
+  "updated_at": "2026-09-25T16:55:55Z",
+  "pushed_at": "2026-09-24T07:25:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -189,6 +189,10 @@
     {
       "date": "2026-09-20",
       "stars": 1203
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 1247
     }
   ]
 }

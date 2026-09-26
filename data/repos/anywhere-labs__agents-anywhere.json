@@ -6,7 +6,7 @@
   "description": "跨设备的开源Agent工作台",
   "description_ja": "",
   "url": "https://github.com/anywhere-labs/Agents-Anywhere",
-  "homepage_url": "agents-anywhere.com",
+  "homepage_url": "https://agents-anywhere.com",
   "language": "TypeScript",
   "license": "",
   "topics": [
@@ -16,18 +16,21 @@
     "claudecode",
     "codex",
     "codex-app",
+    "dsh",
+    "dsh-plugin",
+    "dsh-plugins",
     "llm",
     "opencode",
     "remote",
     "remote-control"
   ],
-  "star_count": 1084,
-  "fork_count": 120,
+  "star_count": 1205,
+  "fork_count": 128,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-22T01:33:33Z",
-  "updated_at": "2026-09-20T16:59:11Z",
-  "pushed_at": "2026-09-19T17:23:05Z",
+  "updated_at": "2026-09-25T22:53:50Z",
+  "pushed_at": "2026-09-25T20:22:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -205,6 +208,10 @@
     {
       "date": "2026-09-20",
       "stars": 1084
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 1205
     }
   ]
 }

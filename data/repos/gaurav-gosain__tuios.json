@@ -3,27 +3,41 @@
   "owner": "gaurav-gosain",
   "name": "tuios",
   "full_name": "gaurav-gosain/tuios",
-  "description": "Terminal UI OS (Terminal Multiplexer)",
+  "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
   "description_ja": "",
   "url": "https://github.com/Gaurav-Gosain/tuios",
-  "homepage_url": "https://tuios.gaurav.zip/",
+  "homepage_url": "https://tuios.dev",
   "language": "Go",
   "license": "MIT",
   "topics": [
+    "ai-agents",
     "bubbletea",
     "charm",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "developer-tools",
     "go",
+    "golang",
     "multiplexer",
     "pty",
-    "terminal"
+    "ssh",
+    "terminal",
+    "terminal-emulator",
+    "terminal-multiplexer",
+    "tiling-window-manager",
+    "tmux-alternative",
+    "tui",
+    "window-manager"
   ],
-  "star_count": 3696,
-  "fork_count": 147,
+  "star_count": 3718,
+  "fork_count": 146,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-06T18:13:51Z",
-  "updated_at": "2026-09-20T19:41:17Z",
-  "pushed_at": "2026-09-20T12:27:59Z",
+  "updated_at": "2026-09-25T20:53:28Z",
+  "pushed_at": "2026-09-25T18:11:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -57,6 +71,10 @@
     {
       "date": "2026-09-20",
       "stars": 3696
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 3718
     }
   ]
 }

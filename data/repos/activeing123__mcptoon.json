@@ -3,25 +3,22 @@
   "owner": "activeing123",
   "name": "mcptoon",
   "full_name": "activeing123/mcptoon",
-  "description": "MCP tool schemas + agent skills: 71,929 tokens -\u003e 581 (-99.2%, measured). mcptoon syncs them to every agent. A zero-dependency CLI, no hand-written config.",
+  "description": "One zero-dependency CLI for all your MCP tools and agent skills. 99.2% fewer tokens on tool discovery, one config for every agent, nothing pre-installed. | 一个零依赖 CLI，管所有 MCP 工具和 Agent 技能。工具发现省 99.2% token，一份配置通吃所有 Agent，原生不预装。227KB，纯 Python 标准库。",
   "description_ja": "",
   "url": "https://github.com/activeing123/mcptoon",
-  "homepage_url": "https://pypi.org/project/mcptoon/",
-  "language": "HTML",
+  "homepage_url": "https://activeing123.github.io/mcptoon/",
+  "language": "Python",
   "license": "Apache-2.0",
   "topics": [
     "agent-skills",
-    "ai",
     "ai-agents",
     "claude",
     "claude-code",
     "claude-desktop",
-    "claude-skills",
     "cli",
     "codex",
     "context-compression",
     "cursor",
-    "gemini-cli-extension",
     "llm",
     "mcp",
     "mcp-client",
@@ -29,15 +26,18 @@
     "model-context-protocol",
     "python",
     "skill-management",
-    "token-optimization"
+    "token-optimization",
+    "windows",
+    "windsurf",
+    "zero-dependencies"
   ],
-  "star_count": 202,
-  "fork_count": 8,
+  "star_count": 204,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-27T08:24:21Z",
-  "updated_at": "2026-09-20T03:06:15Z",
-  "pushed_at": "2026-09-20T03:06:16Z",
+  "updated_at": "2026-09-25T12:44:57Z",
+  "pushed_at": "2026-09-25T12:44:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     {
       "date": "2026-09-20",
       "stars": 202
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 204
     }
   ]
 }

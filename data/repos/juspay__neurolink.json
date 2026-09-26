@@ -3,7 +3,7 @@
   "owner": "juspay",
   "name": "neurolink",
   "full_name": "juspay/neurolink",
-  "description": "One TypeScript interface for 40 AI providers across three inference types — generate, stream, and decide. Decide returns typed, calibrated judgments (boolean/choice/score) via TypeSafe Jev, not text. MCP-native, voice (TTS/STT/realtime), RAG, memory, file processors. Powers Tara, Yama and Clairvoyance at Juspay.",
+  "description": "The pipe layer of an AI nervous system — one interface connecting provider neurons to your application, across three inference types: generate, stream, and a calibrated decide (via TypeSafe Jev). MCP-native, voice (TTS/STT/realtime), RAG, memory, file processors. Powers Tara, Yama and Clairvoyance at Juspay.",
   "description_ja": "",
   "url": "https://github.com/juspay/neurolink",
   "homepage_url": "https://neurolink.ink",
@@ -31,13 +31,13 @@
     "typescript",
     "voice-ai"
   ],
-  "star_count": 134,
-  "fork_count": 126,
+  "star_count": 140,
+  "fork_count": 127,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-05-31T15:05:42Z",
-  "updated_at": "2026-09-20T19:14:11Z",
-  "pushed_at": "2026-09-20T20:22:25Z",
+  "updated_at": "2026-09-25T20:32:11Z",
+  "pushed_at": "2026-09-25T22:07:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -307,6 +307,10 @@
     {
       "date": "2026-09-20",
       "stars": 134
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 140
     }
   ]
 }

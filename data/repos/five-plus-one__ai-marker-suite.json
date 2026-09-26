@@ -3,20 +3,32 @@
   "owner": "five-plus-one",
   "name": "ai-marker-suite",
   "full_name": "five-plus-one/ai-marker-suite",
-  "description": "AI阅卷自动批改助手 — 支持平台：智学网、七天网络、好分数、五岳阅卷、华翰云、光大阅卷。自动识别手写答案、智能评分、自动填分提交。支持普通/试改/无人值守三种模式，分小题评分，分数纠错自动优化提示词，评阅历史导出。挂机睡觉，醒来改完。",
+  "description": "AI 批改助手 — 多模态 AI 在线阅卷自动批改油猴脚本，支持智学网、七天网络、好分数、C30、AMEQP 等 22 个阅卷平台。自动识别手写答案、智能评分、自动填分提交，支持普通/试改/无人值守/双评仲裁四种模式、分小题评分、分数纠错、评阅历史导出。晚上挂机睡觉，早上起来全改完。",
   "description_ja": "",
   "url": "https://github.com/five-plus-one/AI-Marker-Suite",
   "homepage_url": "https://aimarking.five-plus-one.com/",
   "language": "JavaScript",
   "license": "GPL-3.0",
-  "topics": [],
-  "star_count": 57,
-  "fork_count": 10,
+  "topics": [
+    "ai",
+    "auto-grading",
+    "education",
+    "grading",
+    "greasemonkey",
+    "homework-grading",
+    "javascript",
+    "ocr",
+    "openai",
+    "tampermonkey",
+    "userscript"
+  ],
+  "star_count": 58,
+  "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-05T06:49:39Z",
-  "updated_at": "2026-09-20T16:44:13Z",
-  "pushed_at": "2026-09-08T08:42:02Z",
+  "updated_at": "2026-09-24T14:26:07Z",
+  "pushed_at": "2026-09-24T14:41:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -210,6 +222,10 @@
     {
       "date": "2026-09-20",
       "stars": 57
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 58
     }
   ]
 }

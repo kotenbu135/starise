@@ -3,7 +3,7 @@
   "owner": "portbuster1337",
   "name": "lpe-toolkit",
   "full_name": "portbuster1337/lpe-toolkit",
-  "description": "Multi-architecture Linux privilege escalation toolkit with 24 pre-built and runtime-compilable exploits. Auto-detects kernel version, filters patched exploits, tries each until root.",
+  "description": "Multi-architecture Linux privilege escalation toolkit with 29 pre-built and runtime-compilable exploits. Auto-detects kernel version, filters patched exploits, tries each until root.",
   "description_ja": "",
   "url": "https://github.com/portbuster1337/lpe-toolkit",
   "homepage_url": "",
@@ -20,13 +20,13 @@
     "privilege-escalation",
     "security"
   ],
-  "star_count": 383,
-  "fork_count": 54,
+  "star_count": 400,
+  "fork_count": 55,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-21T19:33:28Z",
-  "updated_at": "2026-09-17T03:01:55Z",
-  "pushed_at": "2026-07-07T15:40:58Z",
+  "updated_at": "2026-09-25T17:44:28Z",
+  "pushed_at": "2026-09-23T20:28:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -192,6 +192,10 @@
     {
       "date": "2026-09-20",
       "stars": 383
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 400
     }
   ]
 }

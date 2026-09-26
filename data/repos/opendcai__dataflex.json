@@ -3,7 +3,7 @@
   "owner": "opendcai",
   "name": "dataflex",
   "full_name": "opendcai/dataflex",
-  "description": "Data-centric LLM training with dynamic sample selection, domain mixture optimization, and example reweighting inside the LLaMA-Factory training loop.",
+  "description": "[NeurIPS 2026] DataFlex: A Unified Benchmark and Evaluation Platform for Data-Centric Training of Large Language Models",
   "description_ja": "",
   "url": "https://github.com/OpenDCAI/DataFlex",
   "homepage_url": "https://opendcai.github.io/DataFlex-Doc/",
@@ -18,13 +18,13 @@
     "data-selection",
     "model-training"
   ],
-  "star_count": 2762,
-  "fork_count": 388,
+  "star_count": 2848,
+  "fork_count": 400,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-09T09:56:55Z",
-  "updated_at": "2026-09-20T22:52:17Z",
-  "pushed_at": "2026-09-10T13:06:41Z",
+  "updated_at": "2026-09-25T14:53:17Z",
+  "pushed_at": "2026-09-25T09:23:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -406,6 +406,10 @@
     {
       "date": "2026-09-20",
       "stars": 2762
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 2848
     }
   ]
 }

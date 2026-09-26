@@ -6,7 +6,7 @@
   "description": "한국어 사전학습과 SFT를 위한 1.09B 파라미터 풀스크래치 LLM — RoPE, KV Cache, BF16·8-bit AdamW 최적화, 데이터셋 캐싱 및 학습 모니터링 지원.",
   "description_ja": "",
   "url": "https://github.com/seoan1024/Korean-llm-v4",
-  "homepage_url": "https://huggingface.co/seoan1024/Korean-llm-v4",
+  "homepage_url": "https://korean-llm-show.vercel.app/",
   "language": "Python",
   "license": "GPL-3.0",
   "topics": [
@@ -30,12 +30,16 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-09-09T14:41:28Z",
-  "updated_at": "2026-09-19T06:59:12Z",
+  "updated_at": "2026-09-25T10:04:39Z",
   "pushed_at": "2026-09-16T06:35:15Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-20",
+      "stars": 29
+    },
+    {
+      "date": "2026-09-25",
       "stars": 29
     }
   ]

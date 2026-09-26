@@ -3,7 +3,7 @@
   "owner": "ohad6k",
   "name": "viberaven",
   "full_name": "ohad6k/viberaven",
-  "description": "The open-source cockpit for AI coding agents. Map your repo, control what your agents can touch, and see what changed before you ship.",
+  "description": "Local Studio that checks an AI-built app for auth, RLS, webhook and deploy gaps before launch. npx -y viberaven",
   "description_ja": "",
   "url": "https://github.com/ohad6k/VibeRaven",
   "homepage_url": "https://viberaven.dev",
@@ -35,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-09T13:53:40Z",
-  "updated_at": "2026-09-18T11:54:06Z",
-  "pushed_at": "2026-07-12T22:20:41Z",
+  "updated_at": "2026-09-25T11:51:33Z",
+  "pushed_at": "2026-09-25T11:51:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -121,6 +121,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 60
+    },
+    {
+      "date": "2026-09-25",
       "stars": 60
     }
   ]

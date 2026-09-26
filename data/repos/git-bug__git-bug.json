@@ -3,8 +3,8 @@
   "owner": "git-bug",
   "name": "git-bug",
   "full_name": "git-bug/git-bug",
-  "description": "Distributed, offline-first bug tracker embedded in git",
-  "description_ja": "gitに組み込まれた分散型・オフラインファーストのバグトラッカー",
+  "description": "Distributed, offline-first bug tracker integrated in git",
+  "description_ja": "",
   "url": "https://github.com/git-bug/git-bug",
   "homepage_url": "",
   "language": "Go",
@@ -16,13 +16,13 @@
     "git",
     "gitdb"
   ],
-  "star_count": 10044,
-  "fork_count": 321,
+  "star_count": 10432,
+  "fork_count": 327,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-07-12T07:55:57Z",
-  "updated_at": "2026-09-20T11:59:23Z",
-  "pushed_at": "2026-09-20T09:22:41Z",
+  "updated_at": "2026-09-25T23:09:13Z",
+  "pushed_at": "2026-09-25T19:43:32Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -408,6 +408,10 @@
     {
       "date": "2026-09-20",
       "stars": 10044
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 10432
     }
   ]
 }

@@ -3,20 +3,20 @@
   "owner": "moonshotai",
   "name": "kimi-cli",
   "full_name": "moonshotai/kimi-cli",
-  "description": "Kimi Code CLI is your next CLI agent.",
-  "description_ja": "Kimi Code CLIは次世代のCLIエージェントです。",
+  "description": "[Archived] Legacy Python Kimi CLI, no longer maintained. Please use Kimi Code CLI: https://github.com/MoonshotAI/kimi-code",
+  "description_ja": "",
   "url": "https://github.com/MoonshotAI/kimi-cli",
-  "homepage_url": "https://moonshotai.github.io/kimi-cli/",
+  "homepage_url": "https://moonshotai.github.io/kimi-code/en/guides/migration",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 11411,
-  "fork_count": 1327,
-  "is_archived": false,
+  "star_count": 11429,
+  "fork_count": 1340,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2025-10-15T12:58:03Z",
-  "updated_at": "2026-09-20T15:59:26Z",
-  "pushed_at": "2026-09-01T16:37:12Z",
+  "updated_at": "2026-09-25T13:41:59Z",
+  "pushed_at": "2026-09-22T09:42:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +402,10 @@
     {
       "date": "2026-09-20",
       "stars": 11411
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 11429
     }
   ]
 }

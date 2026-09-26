@@ -3,7 +3,7 @@
   "owner": "higangssh",
   "name": "homebutler",
   "full_name": "higangssh/homebutler",
-  "description": "🏠 Tells you what changed on your server — only what's worth telling. Single Go binary, no daemon, no database, MCP server built in.",
+  "description": "🏠 Tells you what changed on your server — only what's worth telling. Single Go binary, no database, nothing running on the machines it watches. MCP server built in.",
   "description_ja": "",
   "url": "https://github.com/Higangssh/homebutler",
   "homepage_url": "https://homebutler.dev",
@@ -27,13 +27,13 @@
     "ssh",
     "wake-on-lan"
   ],
-  "star_count": 289,
+  "star_count": 292,
   "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-23T09:17:24Z",
-  "updated_at": "2026-09-20T12:06:37Z",
-  "pushed_at": "2026-09-20T12:16:54Z",
+  "updated_at": "2026-09-25T13:31:32Z",
+  "pushed_at": "2026-09-24T07:23:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +415,10 @@
     {
       "date": "2026-09-20",
       "stars": 289
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 292
     }
   ]
 }

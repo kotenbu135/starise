@@ -3,18 +3,20 @@
   "owner": "osslabz",
   "name": "evm-abi-decoder",
   "full_name": "osslabz/evm-abi-decoder",
-  "description": "EVM ABI Decoder allows to decode raw input data from EVM tx (on Ethereum or a compatible chain like Avalanche, BSC stc) into processable format obtained from the contract's ABI definition (JSON).",
-  "description_ja": "EVM ABI Decoderは、Ethereumや Avalanche・BSCなどの互換チェーン上のEVMトランザクションの生の入力データを、コントラクトのABI定義（JSON）をもとに処理可能な形式にデコードするツールです。",
+  "description": "Decodes raw EVM transaction input and log events using a contract's ABI definition.",
+  "description_ja": "",
   "url": "https://github.com/osslabz/evm-abi-decoder",
   "homepage_url": "https://github.com/osslabz/evm-abi-decoder",
   "language": "Java",
   "license": "GPL-3.0",
   "topics": [
+    "abi-decoder",
+    "ethereum",
     "ethereum-abi",
     "ethereum-contract",
-    "etherum",
     "evm",
     "evm-chains",
+    "java",
     "web3"
   ],
   "star_count": 67,
@@ -22,8 +24,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-02T10:02:31Z",
-  "updated_at": "2026-09-20T13:17:33Z",
-  "pushed_at": "2026-09-20T13:17:29Z",
+  "updated_at": "2026-09-25T10:58:24Z",
+  "pushed_at": "2026-09-25T10:58:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +406,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 67
+    },
+    {
+      "date": "2026-09-25",
       "stars": 67
     }
   ]

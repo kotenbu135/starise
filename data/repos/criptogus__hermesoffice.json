@@ -3,10 +3,10 @@
   "owner": "criptogus",
   "name": "hermesoffice",
   "full_name": "criptogus/hermesoffice",
-  "description": "AI-native office suite (Docs, Sheets, Slides, PDF) where the Hermes Agent is the brain — open standards, byte-preserving round-trip, 100% local.",
+  "description": "Free, open-source AI Office suite (Word, Excel, PowerPoint, PDF, Markdown) — macOS build, one-click install",
   "description_ja": "",
   "url": "https://github.com/criptogus/HermesOffice",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/criptogus/HermesOffice/releases/latest",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
@@ -26,13 +26,13 @@
     "univer",
     "xlsx"
   ],
-  "star_count": 587,
-  "fork_count": 78,
+  "star_count": 589,
+  "fork_count": 76,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-04T15:55:03Z",
-  "updated_at": "2026-09-20T08:19:11Z",
-  "pushed_at": "2026-09-03T13:44:35Z",
+  "updated_at": "2026-09-25T18:19:37Z",
+  "pushed_at": "2026-09-25T18:19:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +74,10 @@
     {
       "date": "2026-09-20",
       "stars": 587
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 589
     }
   ]
 }

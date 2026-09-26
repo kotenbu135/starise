@@ -6,7 +6,7 @@
   "description": "An JWT based API for managing users and issuing JWT tokens.",
   "description_ja": "ユーザー管理とJWTトークン発行のためのJWTベースAPI",
   "url": "https://github.com/netlify/gotrue",
-  "homepage_url": "https://www.gotrueapi.org",
+  "homepage_url": "https://gotrueapi.netlify.app",
   "language": "Go",
   "license": "MIT",
   "topics": [
@@ -14,12 +14,12 @@
     "jwt",
     "production"
   ],
-  "star_count": 4483,
-  "fork_count": 327,
+  "star_count": 4487,
+  "fork_count": 328,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-05-16T23:14:24Z",
-  "updated_at": "2026-09-17T19:22:03Z",
+  "updated_at": "2026-09-24T13:11:05Z",
   "pushed_at": "2026-09-02T06:48:06Z",
   "deleted_at": "",
   "star_history": [
@@ -402,6 +402,10 @@
     {
       "date": "2026-09-20",
       "stars": 4483
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 4487
     }
   ]
 }

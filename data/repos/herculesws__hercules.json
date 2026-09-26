@@ -7,7 +7,7 @@
   "description_ja": "HerculesはC言語で書かれた堅牢なMMORPGサーバーパッケージの開発を中心とした協働ソフトウェア開発プロジェクトです。NPC・ワープ・カスタマイズ機能など多彩な機能を提供します。世界各地のボランティアグループとQA・サポートを担う大規模コミュニティが共同で運営しています。Herculesはオリジナルのathenaプロジェクトの後継です。",
   "url": "https://github.com/HerculesWS/Hercules",
   "homepage_url": "http://herc.ws",
-  "language": "C",
+  "language": "C++",
   "license": "GPL-3.0",
   "topics": [
     "c",
@@ -17,13 +17,13 @@
     "ragnarok",
     "ragnarokonline"
   ],
-  "star_count": 1009,
-  "fork_count": 789,
+  "star_count": 1010,
+  "fork_count": 790,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2013-01-11T00:29:38Z",
-  "updated_at": "2026-09-20T17:35:23Z",
-  "pushed_at": "2026-09-19T21:21:37Z",
+  "updated_at": "2026-09-24T14:48:44Z",
+  "pushed_at": "2026-09-25T20:12:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -409,6 +409,10 @@
     {
       "date": "2026-09-20",
       "stars": 1009
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 1010
     }
   ]
 }

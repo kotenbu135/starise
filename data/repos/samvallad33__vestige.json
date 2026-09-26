@@ -3,7 +3,7 @@
   "owner": "samvallad33",
   "name": "vestige",
   "full_name": "samvallad33/vestige",
-  "description": "Cognitive Deterministic Memory Security OS for Agentic AI that reaches backward through time to find the quiet change behind today's failure, not the lookalike. Intelligence is not a cloud subscription, its a data structure",
+  "description": "Cognitive deterministic memory transaction security kernel for agents, that traces backwards to find the root cause and not the lookalike",
   "description_ja": "",
   "url": "https://github.com/samvallad33/vestige",
   "homepage_url": "https://github.com/samvallad33/vestige",
@@ -11,7 +11,8 @@
   "license": "AGPL-3.0",
   "topics": [
     "agent-memory",
-    "agent-telemetry",
+    "agent-os",
+    "agent-security",
     "ai-agents",
     "ai-memory",
     "claude",
@@ -21,21 +22,22 @@
     "long-term-memory",
     "mcp",
     "mcp-server",
+    "memory-transactions",
     "model-context-protocol",
     "neuroscience",
+    "operating-system",
     "rust",
     "security",
     "security-kernel",
-    "spaced-repetition",
-    "token-efficiency"
+    "spaced-repetition"
   ],
-  "star_count": 628,
+  "star_count": 634,
   "fork_count": 68,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-25T07:31:09Z",
-  "updated_at": "2026-09-18T17:06:27Z",
-  "pushed_at": "2026-09-18T04:41:48Z",
+  "updated_at": "2026-09-25T15:06:46Z",
+  "pushed_at": "2026-09-25T23:12:11Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +407,10 @@
     {
       "date": "2026-09-20",
       "stars": 628
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 634
     }
   ]
 }

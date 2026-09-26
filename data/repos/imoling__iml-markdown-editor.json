@@ -3,28 +3,36 @@
   "owner": "imoling",
   "name": "iml-markdown-editor",
   "full_name": "imoling/iml-markdown-editor",
-  "description": "极简而极致的 Markdown 编辑器，支持双模编辑、PDF 导出与智能目录同步。",
+  "description": "极简其表，极致内核：本地 Markdown 编辑器，AI 全在你这台电脑上跑——写作助手、问笔记、实时转写、本机生图，笔记不出门。macOS / Windows",
   "description_ja": "",
   "url": "https://github.com/imoling/iml-markdown-editor",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/imoling/iml-markdown-editor/releases/latest",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
+    "ai-writing",
+    "chinese",
     "electron",
+    "image-generation",
+    "local-first",
+    "local-llm",
     "markdown",
     "markdown-editor",
-    "minimalist",
+    "note-taking",
+    "notes-app",
+    "obsidian",
+    "offline",
     "productivity",
-    "tiptap",
-    "vibe-coding"
+    "speech-to-text",
+    "tiptap"
   ],
-  "star_count": 10,
+  "star_count": 19,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-12T19:48:30Z",
-  "updated_at": "2026-09-20T19:09:15Z",
-  "pushed_at": "2026-09-20T19:09:14Z",
+  "updated_at": "2026-09-25T16:03:09Z",
+  "pushed_at": "2026-09-25T16:03:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -382,6 +390,10 @@
     {
       "date": "2026-09-20",
       "stars": 10
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 19
     }
   ]
 }

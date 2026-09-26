@@ -3,8 +3,8 @@
   "owner": "epsilla-cloud",
   "name": "vectordb",
   "full_name": "epsilla-cloud/vectordb",
-  "description": "Epsilla is a high performance Vector Database Management System",
-  "description_ja": "Epsilla は高性能なベクターデータベース管理システムです",
+  "description": "A high performance Vector Database leveraging parallel graph computing",
+  "description_ja": "",
   "url": "https://github.com/epsilla-cloud/vectordb",
   "homepage_url": "https://epsilla.com",
   "language": "C++",
@@ -33,7 +33,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-09T02:28:31Z",
-  "updated_at": "2026-07-26T05:41:32Z",
+  "updated_at": "2026-09-22T07:32:04Z",
   "pushed_at": "2025-11-29T16:02:22Z",
   "deleted_at": "",
   "star_history": [
@@ -419,6 +419,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 875
+    },
+    {
+      "date": "2026-09-25",
       "stars": 875
     }
   ]

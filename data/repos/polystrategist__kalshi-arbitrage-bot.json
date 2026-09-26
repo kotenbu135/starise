@@ -1,0 +1,33 @@
+{
+  "repo_id": "R_kgDOTXJnkg",
+  "owner": "polystrategist",
+  "name": "kalshi-arbitrage-bot",
+  "full_name": "polystrategist/kalshi-arbitrage-bot",
+  "description": "A Python trading system that scans Kalshi prediction markets for two types of arbitrage: probability arbitrage (YES + NO prices deviating from 100%) and spread trading (bid above ask on the same contract). It includes fee-aware profit calculations, an interactive CLI, and optional automated execution.",
+  "description_ja": "",
+  "url": "https://github.com/polystrategist/kalshi-arbitrage-bot",
+  "homepage_url": "",
+  "language": "Python",
+  "license": "MIT",
+  "topics": [
+    "kalshi",
+    "kalshi-bot",
+    "polymarket",
+    "polymarket-bot",
+    "prediction-market"
+  ],
+  "star_count": 47,
+  "fork_count": 0,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-07-13T13:48:01Z",
+  "updated_at": "2026-09-25T00:16:19Z",
+  "pushed_at": "2026-07-13T13:56:26Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-25",
+      "stars": 47
+    }
+  ]
+}

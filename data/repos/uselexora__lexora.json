@@ -3,30 +3,38 @@
   "owner": "uselexora",
   "name": "lexora",
   "full_name": "uselexora/lexora",
-  "description": "Lexora — Personal AI workspace built around Desktop / 以 Desktop 为核心的个人 AI 工作台",
+  "description": "A self-evolved, sovereign desktop AI agent built for real-world action — beyond model wrappers and coding copilots. / 真实实践中自我演化的独立桌面 AI Agent。",
   "description_ja": "",
   "url": "https://github.com/useLexora/Lexora",
   "homepage_url": "https://uselexora.app/",
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
+    "agent-loop",
     "ai-agent",
-    "ai-workspaces",
-    "desktop-app",
-    "electron",
-    "personal-assistant",
+    "archlinux",
+    "autonomous-agents",
+    "desktop-agent",
+    "desktop-pet",
+    "linux-desktop",
+    "local-ai",
+    "mcp",
     "pi",
+    "pi-agent",
     "pi-desktop",
-    "pi-linux-desktop",
-    "typescript"
+    "rust",
+    "sandbox",
+    "skills",
+    "typescipt",
+    "wayland"
   ],
-  "star_count": 164,
-  "fork_count": 7,
+  "star_count": 268,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-30T16:50:22Z",
-  "updated_at": "2026-09-20T16:10:07Z",
-  "pushed_at": "2026-09-20T16:10:04Z",
+  "updated_at": "2026-09-25T22:47:31Z",
+  "pushed_at": "2026-09-25T14:10:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -296,6 +304,10 @@
     {
       "date": "2026-09-20",
       "stars": 164
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 268
     }
   ]
 }

@@ -3,14 +3,13 @@
   "owner": "dlsandy",
   "name": "transub",
   "full_name": "dlsandy/transub",
-  "description": "拖进视频就能批量生成高质量字幕，自动质检修复，自带专业级字幕编辑器。支持转写、翻译与双语。",
+  "description": "拖进视频就能批量生成高质量字幕，自动质检修复，自带专业级字幕编辑器和字幕烧录。支持多国语言转写、翻译与双语。Drag in videos to batch-generate high-quality subtitles, with automatic quality inspection and repair, and a built-in professional subtitle editor. It supports transcription, translation and bilingual subtitles.",
   "description_ja": "",
   "url": "https://github.com/dlsandy/Transub",
   "homepage_url": "https://www.transub.cc",
   "language": "JavaScript",
   "license": "NOASSERTION",
   "topics": [
-    "ai",
     "aisubtitle",
     "subtitle-editor",
     "subtitle-generator",
@@ -18,13 +17,13 @@
     "subtitles",
     "subtitles-generator"
   ],
-  "star_count": 75,
+  "star_count": 79,
   "fork_count": 4,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-08T04:07:08Z",
-  "updated_at": "2026-09-20T04:07:13Z",
-  "pushed_at": "2026-09-20T04:09:22Z",
+  "updated_at": "2026-09-24T19:35:02Z",
+  "pushed_at": "2026-09-24T08:59:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +41,10 @@
     {
       "date": "2026-09-20",
       "stars": 75
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 79
     }
   ]
 }

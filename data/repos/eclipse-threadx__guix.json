@@ -6,7 +6,7 @@
   "description": "Eclipse ThreadX GUIX Studio provides a complete, embedded graphical user interface (GUI) library and design environment, facilitating the creation and maintenance of all graphical elements needed by your device.",
   "description_ja": "Eclipse ThreadX GUIX Studioは完全な組み込みGUIライブラリとデザイン環境を提供し、デバイスに必要なすべてのグラフィカル要素の作成・保守を容易にします。",
   "url": "https://github.com/eclipse-threadx/guix",
-  "homepage_url": "https://github.com/eclipse-threadx/rtos-docs/blob/main/rtos-docs/guix/index.md",
+  "homepage_url": "https://threadx.io/releases/latest",
   "language": "C",
   "license": "MIT",
   "topics": [
@@ -23,7 +23,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-05-11T15:05:27Z",
-  "updated_at": "2026-09-18T14:03:50Z",
+  "updated_at": "2026-09-24T07:43:43Z",
   "pushed_at": "2026-09-15T23:04:54Z",
   "deleted_at": "",
   "star_history": [
@@ -405,6 +405,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 405
+    },
+    {
+      "date": "2026-09-25",
       "stars": 405
     }
   ]

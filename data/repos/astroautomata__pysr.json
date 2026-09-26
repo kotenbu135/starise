@@ -3,10 +3,10 @@
   "owner": "astroautomata",
   "name": "pysr",
   "full_name": "astroautomata/pysr",
-  "description": "High-Performance Symbolic Regression in Python and Julia",
-  "description_ja": "Python と Julia による高性能シンボリック回帰",
+  "description": "Symbolic Learning in Python and Julia",
+  "description_ja": "",
   "url": "https://github.com/astroautomata/PySR",
-  "homepage_url": "pysr.ai",
+  "homepage_url": "https://pysr.ai",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
@@ -26,13 +26,13 @@
     "symbolic",
     "symbolic-regression"
   ],
-  "star_count": 3766,
-  "fork_count": 351,
+  "star_count": 3772,
+  "fork_count": 352,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2020-09-14T11:16:09Z",
-  "updated_at": "2026-09-20T20:33:45Z",
-  "pushed_at": "2026-09-20T20:38:07Z",
+  "updated_at": "2026-09-25T22:58:36Z",
+  "pushed_at": "2026-09-25T00:26:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -418,6 +418,10 @@
     {
       "date": "2026-09-20",
       "stars": 3766
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 3772
     }
   ]
 }

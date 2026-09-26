@@ -6,7 +6,7 @@
   "description": "App version of pixiv-viewer. 又一个 pixiv 第三方免登录 APP，提供 pixiv 的插画、动图、漫画和小说等作品的浏览，适配多端样式，提供多种浏览布局选择，支持免代理直连，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。",
   "description_ja": "pixiv-viewer のアプリ版。ログイン不要の pixiv サードパーティアプリ。イラスト・うごイラ・漫画・小説の閲覧に対応。マルチデバイス対応レイアウト、複数の閲覧スタイル、プロキシ不要直接接続、カスタム API・画像ホスト対応、RefreshToken/OAuth/Cookie ログインをサポート。",
   "url": "https://github.com/asadahimeka/pixiv-viewer-app",
-  "homepage_url": "https://pixiv.pictures",
+  "homepage_url": "https://pixiv.pictures/app",
   "language": "JavaScript",
   "license": "AGPL-3.0",
   "topics": [
@@ -23,13 +23,13 @@
     "tauri-app",
     "vue"
   ],
-  "star_count": 545,
+  "star_count": 553,
   "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-11-16T14:51:49Z",
-  "updated_at": "2026-09-20T20:58:11Z",
-  "pushed_at": "2026-09-20T13:29:37Z",
+  "updated_at": "2026-09-25T02:44:37Z",
+  "pushed_at": "2026-09-25T02:44:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +411,10 @@
     {
       "date": "2026-09-20",
       "stars": 545
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 553
     }
   ]
 }

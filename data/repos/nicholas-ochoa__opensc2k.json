@@ -3,39 +3,31 @@
   "owner": "nicholas-ochoa",
   "name": "opensc2k",
   "full_name": "nicholas-ochoa/opensc2k",
-  "description": "OpenSC2K - An Open Source remake of Sim City 2000 by Maxis",
-  "description_ja": "OpenSC2K — MaxisのSim City 2000オープンソースリメイク",
+  "description": "OpenSC2K - Open Source remake of Sim City 2000 using godot. Available for macOS, Windows and Linux",
+  "description_ja": "",
   "url": "https://github.com/nicholas-ochoa/OpenSC2K",
   "homepage_url": "",
-  "language": "JavaScript",
-  "license": "GPL-3.0",
+  "language": "GDScript",
+  "license": "MIT",
   "topics": [
-    "2000",
-    "city",
-    "electron",
-    "game",
-    "javascript",
+    "godot",
     "maxis",
     "opensc2k",
-    "phaser",
-    "phaser-game",
-    "phaser3",
-    "phaserjs",
-    "remake",
+    "sc2",
+    "sc2000",
     "sc2k",
-    "sim",
+    "sc2x",
     "simcity",
     "simcity-2000",
-    "typescript",
-    "webgl"
+    "simcity2000"
   ],
-  "star_count": 5112,
+  "star_count": 5114,
   "fork_count": 115,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-02-03T02:38:07Z",
-  "updated_at": "2026-09-20T10:18:41Z",
-  "pushed_at": "2020-01-27T03:38:22Z",
+  "updated_at": "2026-09-25T22:20:25Z",
+  "pushed_at": "2026-09-25T22:20:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -421,6 +413,10 @@
     {
       "date": "2026-09-20",
       "stars": 5112
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 5114
     }
   ]
 }

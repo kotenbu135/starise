@@ -3,35 +3,40 @@
   "owner": "doctor-io",
   "name": "homeio",
   "full_name": "doctor-io/homeio",
-  "description": "Homeio is a self-hosted server manager with a desktop-style UI. It is designed as an alternative to other home server managers (CasaOS, Umbrel, Portainer), focused on a modern interface, realtime system visibility, and app lifecycle operations.",
+  "description": "A web desktop for your Docker home server: app store, files, disks, Samba, scheduled tasks, backups and remote access. Installs on Debian, Ubuntu or Raspberry Pi OS. Alternative to CasaOS and Umbrel.",
   "description_ja": "",
   "url": "https://github.com/doctor-io/homeio",
   "homepage_url": "https://homeio.app",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "casaos-alternative",
     "cloud",
     "cloud-application",
     "cloud-os",
+    "dashboard",
     "debian",
     "docker",
     "docker-compose",
     "home-server",
-    "homedock",
+    "home-server-os",
     "homelab",
     "nextjs",
     "personal-cloud",
-    "rasberry-pi",
+    "raspberry-pi",
+    "self-hosted",
     "selfhosted",
-    "tailscale"
+    "tailscale",
+    "umbrel-alternative",
+    "web-desktop"
   ],
-  "star_count": 78,
+  "star_count": 79,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-22T21:17:42Z",
-  "updated_at": "2026-09-17T16:50:53Z",
-  "pushed_at": "2026-09-17T22:21:34Z",
+  "updated_at": "2026-09-25T21:09:54Z",
+  "pushed_at": "2026-09-25T18:12:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -65,6 +70,10 @@
     {
       "date": "2026-09-20",
       "stars": 78
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 79
     }
   ]
 }

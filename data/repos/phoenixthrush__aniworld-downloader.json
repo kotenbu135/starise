@@ -3,7 +3,7 @@
   "owner": "phoenixthrush",
   "name": "aniworld-downloader",
   "full_name": "phoenixthrush/aniworld-downloader",
-  "description": "AniWorld Downloader is a cross-platform app for finding, streaming, and downloading anime, movies, series, and manga. It has a browser-based Web UI, an interactive terminal menu, and a direct CLI for scripts and headless setups. If you enjoy using it, feel free to leave a ⭐!",
+  "description": "AniWorld Downloader is a free, open-source app for finding and downloading anime, movies, series, and manga, with video streaming support. Available on Windows, macOS, and Linux, with a Web UI, terminal menu, CLI, and Docker support. If you enjoy using it, feel free to leave a ⭐!",
   "description_ja": "",
   "url": "https://github.com/phoenixthrush/AniWorld-Downloader",
   "homepage_url": "https://pypi.org/project/aniworld/",
@@ -31,13 +31,13 @@
     "windows",
     "yt-dlp"
   ],
-  "star_count": 321,
+  "star_count": 323,
   "fork_count": 56,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-04-12T13:59:14Z",
-  "updated_at": "2026-09-20T02:52:33Z",
-  "pushed_at": "2026-09-20T20:25:43Z",
+  "updated_at": "2026-09-25T20:45:28Z",
+  "pushed_at": "2026-09-25T20:27:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     {
       "date": "2026-09-20",
       "stars": 321
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 323
     }
   ]
 }

@@ -3,10 +3,10 @@
   "owner": "wharfkit",
   "name": "antelope",
   "full_name": "wharfkit/antelope",
-  "description": "Core types, client interfaces, and other tools for working with Antelope-based blockchains.",
-  "description_ja": "Antelopeベースのブロックチェーンを扱うためのコア型・クライアントインターフェース・各種ツール。",
+  "description": "Moved to wharfkit/js",
+  "description_ja": "",
   "url": "https://github.com/wharfkit/antelope",
-  "homepage_url": "",
+  "homepage_url": "https://github.com/wharfkit/js/tree/dev/packages/antelope",
   "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
@@ -17,11 +17,11 @@
   ],
   "star_count": 49,
   "fork_count": 31,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2020-06-07T12:22:10Z",
-  "updated_at": "2026-08-05T23:30:56Z",
-  "pushed_at": "2026-08-22T01:05:33Z",
+  "updated_at": "2026-09-25T16:26:12Z",
+  "pushed_at": "2026-09-25T16:26:07Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +402,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 49
+    },
+    {
+      "date": "2026-09-25",
       "stars": 49
     }
   ]

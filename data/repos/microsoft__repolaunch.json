@@ -3,20 +3,23 @@
   "owner": "microsoft",
   "name": "repolaunch",
   "full_name": "microsoft/repolaunch",
-  "description": "Automate the build, execution and test of GitHub repositories across programming languages and operating systems.",
+  "description": "[NeurIPS 2026 Main] Automate the build, execution and test of software repositories across programming languages and operating systems.",
   "description_ja": "",
   "url": "https://github.com/microsoft/RepoLaunch",
-  "homepage_url": "",
+  "homepage_url": "https://repolaunch.github.io/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 145,
-  "fork_count": 13,
+  "topics": [
+    "agentic-rl",
+    "coding-agent"
+  ],
+  "star_count": 147,
+  "fork_count": 14,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-09-08T13:35:28Z",
-  "updated_at": "2026-09-20T12:40:33Z",
-  "pushed_at": "2026-09-20T10:14:53Z",
+  "updated_at": "2026-09-25T03:37:06Z",
+  "pushed_at": "2026-09-25T03:37:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -302,6 +305,10 @@
     {
       "date": "2026-09-20",
       "stars": 145
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 147
     }
   ]
 }

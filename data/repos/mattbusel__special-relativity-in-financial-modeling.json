@@ -3,19 +3,26 @@
   "owner": "mattbusel",
   "name": "special-relativity-in-financial-modeling",
   "full_name": "mattbusel/special-relativity-in-financial-modeling",
-  "description": "The first end-to-end C++20 implementation of special-relativistic geometry applied to financial OHLCV data. Computes Lorentz factors, spacetime intervals, Christoffel symbols, and geodesic deviation signals from live market data.",
+  "description": "C++20 research implementation of special-relativistic geometry on OHLCV market data: Lorentz factors, spacetime-interval regime labels, Christoffel symbols and geodesic-deviation signals, with SIMD kernels, Python validation scripts and a LaTeX paper.",
   "description_ja": "",
   "url": "https://github.com/Mattbusel/Special-Relativity-in-Financial-Modeling",
-  "homepage_url": "System.Collections.Hashtable[Special-Relativity-in-Financial-Modeling]",
+  "homepage_url": "https://mattbusel.github.io/Special-Relativity-in-Financial-Modeling/",
   "language": "C++",
   "license": "MIT",
   "topics": [
     "c-plus-plus",
     "cpp",
+    "cpp20",
+    "differential-geometry",
     "finance",
     "lorentz",
+    "market-regimes",
     "ohlcv",
+    "python",
     "quant",
+    "quantitative-finance",
+    "research",
+    "simd",
     "special-relativity"
   ],
   "star_count": 14,
@@ -23,8 +30,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-03-21T13:22:56Z",
-  "updated_at": "2026-09-17T22:09:04Z",
-  "pushed_at": "2026-03-23T13:48:59Z",
+  "updated_at": "2026-09-25T23:20:45Z",
+  "pushed_at": "2026-09-25T23:20:47Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -373,6 +380,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 14
+    },
+    {
+      "date": "2026-09-25",
       "stars": 14
     }
   ]

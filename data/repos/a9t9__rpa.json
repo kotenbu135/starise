@@ -3,31 +3,34 @@
   "owner": "a9t9",
   "name": "rpa",
   "full_name": "a9t9/rpa",
-  "description": "Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export.",
+  "description": "Browser and desktop automation with an MCP server for AI assistants. Record macros or write JavaScript to automate websites, extract data, and control desktop apps with OCR and image recognition.",
   "description_ja": "",
   "url": "https://github.com/A9T9/RPA",
   "homepage_url": "https://ui.vision/",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
-    "anthropic",
-    "anthropic-claude",
+    "ai-agents",
     "browser-automation",
+    "browser-automation-ai-api",
     "browser-extension",
     "computer-use",
-    "data-driven-tests",
-    "imacros",
+    "desktop-automation",
+    "image-recognition",
+    "macro-recorder",
+    "mcp",
+    "mcp-server",
+    "ocr",
     "selenium-ide",
-    "web-automation",
-    "web-scraping"
+    "web-automation"
   ],
-  "star_count": 2025,
-  "fork_count": 410,
+  "star_count": 2037,
+  "fork_count": 413,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-08-04T20:57:43Z",
-  "updated_at": "2026-09-19T15:03:44Z",
-  "pushed_at": "2026-08-09T15:16:52Z",
+  "updated_at": "2026-09-25T03:55:25Z",
+  "pushed_at": "2026-09-24T14:38:31Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -137,6 +140,10 @@
     {
       "date": "2026-09-20",
       "stars": 2025
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 2037
     }
   ]
 }

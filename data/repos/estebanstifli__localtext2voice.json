@@ -3,41 +3,41 @@
   "owner": "estebanstifli",
   "name": "localtext2voice",
   "full_name": "estebanstifli/localtext2voice",
-  "description": "A complete local production workflow for clean narration, structured learning content, and podcast-ready audio",
+  "description": "Free open-source AI desktop app for audiobooks, podcasts, documentaries, films and animated videos with local models, cloud APIs and editable storyboards.",
   "description_ja": "",
   "url": "https://github.com/estebanstifli/LocalText2Voice",
   "homepage_url": "https://andromedanova.com/localtext2voice.html",
   "language": "Python",
   "license": "MIT",
   "topics": [
-    "ai-tools",
-    "audio-processing",
-    "course-generator",
-    "desktop-app",
-    "education",
-    "ffmpeg",
+    "ai-voice",
+    "animated-video",
+    "audiobook",
+    "chatterbox",
+    "comfyui",
+    "documentary",
+    "faster-whisper",
+    "kokoro",
     "local-ai",
-    "mp3",
-    "neural-tts",
-    "offline",
-    "onnx",
+    "offline-tts",
     "open-source",
     "piper",
     "podcast",
     "pyside6",
     "python",
-    "speech-synthesis",
+    "qwen",
     "text-to-speech",
     "tts",
-    "windows"
+    "video-generation",
+    "video-storyboard"
   ],
-  "star_count": 357,
+  "star_count": 361,
   "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-11T05:02:25Z",
-  "updated_at": "2026-09-19T18:48:39Z",
-  "pushed_at": "2026-09-13T22:16:10Z",
+  "updated_at": "2026-09-24T06:00:32Z",
+  "pushed_at": "2026-09-21T10:30:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -79,6 +79,10 @@
     {
       "date": "2026-09-20",
       "stars": 357
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 361
     }
   ]
 }

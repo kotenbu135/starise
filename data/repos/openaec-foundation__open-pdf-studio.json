@@ -3,10 +3,10 @@
   "owner": "openaec-foundation",
   "name": "open-pdf-studio",
   "full_name": "openaec-foundation/open-pdf-studio",
-  "description": "",
+  "description": "An open source PDF viewer/editor with it's own blazing fast rust engine",
   "description_ja": "",
   "url": "https://github.com/OpenAEC-Foundation/open-pdf-studio",
-  "homepage_url": "",
+  "homepage_url": "open-aec.com/open-pdf-studio",
   "language": "HTML",
   "license": "NOASSERTION",
   "topics": [
@@ -27,13 +27,13 @@
     "tauri",
     "windows"
   ],
-  "star_count": 809,
-  "fork_count": 69,
+  "star_count": 835,
+  "fork_count": 74,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-22T13:50:30Z",
-  "updated_at": "2026-09-20T14:09:25Z",
-  "pushed_at": "2026-09-20T04:17:56Z",
+  "updated_at": "2026-09-25T18:50:16Z",
+  "pushed_at": "2026-09-25T04:19:15Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-20",
       "stars": 809
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 835
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "ruvnet",
   "name": "ruvector",
   "full_name": "ruvnet/ruvector",
-  "description": "RuVector is a High Performance, Real-Time, Self-Learning Ai, Vector GNN, Memory DB built in Rust.",
-  "description_ja": "RuVector は Rust で構築された高性能・リアルタイム・自己学習型 AI ベクトル GNN メモリ DB。",
+  "description": "RuVector provides High Performance, Real-Time decisions and agent memory , Self-Learning Ai, Vector GNN DB built in Rust.",
+  "description_ja": "",
   "url": "https://github.com/ruvnet/RuVector",
   "homepage_url": "https://Cognitum.One/RuVector",
   "language": "Rust",
@@ -28,13 +28,13 @@
     "vector",
     "wasm"
   ],
-  "star_count": 4503,
+  "star_count": 4523,
   "fork_count": 603,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-19T06:10:23Z",
-  "updated_at": "2026-09-20T18:45:49Z",
-  "pushed_at": "2026-09-20T07:25:53Z",
+  "updated_at": "2026-09-25T20:58:24Z",
+  "pushed_at": "2026-09-23T21:48:04Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -420,6 +420,10 @@
     {
       "date": "2026-09-20",
       "stars": 4503
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 4523
     }
   ]
 }

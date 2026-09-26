@@ -3,7 +3,7 @@
   "owner": "eolnmsuk",
   "name": "antidarksword",
   "full_name": "eolnmsuk/antidarksword",
-  "description": "A jailbreak tweak that hardens vulnerable jailbroken devices against WebKit RCE and iMessage zero-click exploits like Coruna, DarkSword and BLASTPASS",
+  "description": "An iOS jailbreak tweak that hardens vulnerable devices against WebKit RCE and iMessage zero-click exploits like Coruna, DarkSword and BLASTPASS",
   "description_ja": "",
   "url": "https://github.com/EolnMsuk/AntiDarkSword",
   "homepage_url": "https://tinyurl.com/AntiDarkSwrd",
@@ -31,12 +31,12 @@
     "useragent-parser",
     "webkit"
   ],
-  "star_count": 109,
-  "fork_count": 16,
+  "star_count": 110,
+  "fork_count": 15,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-29T10:40:57Z",
-  "updated_at": "2026-09-20T19:44:59Z",
+  "updated_at": "2026-09-24T18:54:37Z",
   "pushed_at": "2026-09-01T19:36:20Z",
   "deleted_at": "",
   "star_history": [
@@ -91,6 +91,10 @@
     {
       "date": "2026-09-20",
       "stars": 109
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 110
     }
   ]
 }

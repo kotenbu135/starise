@@ -7,7 +7,7 @@
   "description_ja": "高速なMarkdownパーサー＆コンパイラ",
   "url": "https://github.com/markedjs/marked",
   "homepage_url": "https://marked.js.org",
-  "language": "JavaScript",
+  "language": "TypeScript",
   "license": "NOASSERTION",
   "topics": [
     "commonmark",
@@ -17,13 +17,13 @@
     "markdown",
     "parser"
   ],
-  "star_count": 37171,
-  "fork_count": 3724,
+  "star_count": 37208,
+  "fork_count": 3732,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-07-24T13:15:51Z",
-  "updated_at": "2026-09-20T21:16:31Z",
-  "pushed_at": "2026-09-15T02:49:55Z",
+  "updated_at": "2026-09-25T17:07:09Z",
+  "pushed_at": "2026-09-22T06:07:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -409,6 +409,10 @@
     {
       "date": "2026-09-20",
       "stars": 37171
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 37208
     }
   ]
 }

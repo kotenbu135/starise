@@ -3,20 +3,20 @@
   "owner": "naklitechie",
   "name": "localmind",
   "full_name": "naklitechie/localmind",
-  "description": "Private AI research agent — web search, document ingestion, RAG memory. Runs entirely in your browser.",
+  "description": "7 LLM engines in one browser tab: hand-written WebGPU kernels, a 27B with DFlash 2, no server",
   "description_ja": "",
   "url": "https://github.com/NakliTechie/LocalMind",
-  "homepage_url": "",
+  "homepage_url": "https://localmind.naklitechie.com",
   "language": "HTML",
   "license": "MIT",
   "topics": [],
-  "star_count": 59,
-  "fork_count": 8,
+  "star_count": 61,
+  "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-03T09:15:54Z",
-  "updated_at": "2026-09-18T13:26:46Z",
-  "pushed_at": "2026-09-18T13:26:41Z",
+  "updated_at": "2026-09-24T10:51:37Z",
+  "pushed_at": "2026-09-24T10:50:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -382,6 +382,10 @@
     {
       "date": "2026-09-20",
       "stars": 59
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 61
     }
   ]
 }

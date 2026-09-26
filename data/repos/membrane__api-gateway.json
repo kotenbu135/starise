@@ -3,7 +3,7 @@
   "owner": "membrane",
   "name": "api-gateway",
   "full_name": "membrane/api-gateway",
-  "description": "Java-based API Gateway bridging legacy and modern APIs with WSDL-to-OpenAPI, SOAP-to-REST, XML, OAuth2, and GraphQL.",
+  "description": "API Gateway bridging modern and legacy APIs with WSDL-to-OpenAPI, SOAP-to-REST, XML, OAuth2, and GraphQL.",
   "description_ja": "",
   "url": "https://github.com/membrane/api-gateway",
   "homepage_url": "https://membrane-api.io",
@@ -20,13 +20,13 @@
     "wsdl",
     "xml"
   ],
-  "star_count": 642,
+  "star_count": 644,
   "fork_count": 180,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2012-10-22T09:39:24Z",
-  "updated_at": "2026-09-20T19:12:08Z",
-  "pushed_at": "2026-09-20T19:12:04Z",
+  "updated_at": "2026-09-25T18:39:25Z",
+  "pushed_at": "2026-09-25T18:42:41Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -412,6 +412,10 @@
     {
       "date": "2026-09-20",
       "stars": 642
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 644
     }
   ]
 }

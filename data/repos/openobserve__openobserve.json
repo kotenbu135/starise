@@ -3,7 +3,7 @@
   "owner": "openobserve",
   "name": "openobserve",
   "full_name": "openobserve/openobserve",
-  "description": "Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
+  "description": "Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
   "description_ja": "",
   "url": "https://github.com/openobserve/openobserve",
   "homepage_url": "https://openobserve.ai",
@@ -31,13 +31,13 @@
     "splunk",
     "traces"
   ],
-  "star_count": 22043,
-  "fork_count": 1098,
+  "star_count": 22130,
+  "fork_count": 1112,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-02-02T03:29:51Z",
-  "updated_at": "2026-09-20T19:32:57Z",
-  "pushed_at": "2026-09-20T17:20:01Z",
+  "updated_at": "2026-09-25T20:58:07Z",
+  "pushed_at": "2026-09-25T17:47:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -423,6 +423,10 @@
     {
       "date": "2026-09-20",
       "stars": 22043
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 22130
     }
   ]
 }

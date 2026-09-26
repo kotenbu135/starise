@@ -3,20 +3,36 @@
   "owner": "holdmybeer-gg",
   "name": "blend-ai",
   "full_name": "holdmybeer-gg/blend-ai",
-  "description": "An intuitive and efficient MCP Server for Blender. ",
+  "description": "MCP server for Blender. 175 tools for modelling, materials, rendering and more, driven by Claude or any MCP client.",
   "description_ja": "",
   "url": "https://github.com/HoldMyBeer-gg/blend-ai",
-  "homepage_url": "",
+  "homepage_url": "https://blend-ai.holdmybeer.gg/",
   "language": "Python",
   "license": "AGPL-3.0",
-  "topics": [],
-  "star_count": 142,
-  "fork_count": 18,
+  "topics": [
+    "3d",
+    "3d-modeling",
+    "ai",
+    "blender",
+    "blender-addon",
+    "blender-mcp",
+    "bpy",
+    "claude",
+    "claude-code",
+    "generative-ai",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python"
+  ],
+  "star_count": 147,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-22T01:45:21Z",
-  "updated_at": "2026-09-18T13:28:04Z",
-  "pushed_at": "2026-07-22T20:25:23Z",
+  "updated_at": "2026-09-25T20:11:19Z",
+  "pushed_at": "2026-09-25T20:11:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -226,6 +242,10 @@
     {
       "date": "2026-09-20",
       "stars": 142
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 147
     }
   ]
 }

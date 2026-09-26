@@ -3,7 +3,7 @@
   "owner": "quemsah",
   "name": "awesome-claude-plugins",
   "full_name": "quemsah/awesome-claude-plugins",
-  "description": "Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows",
+  "description": "Automated index of Claude Code plugins and adoption metrics across GitHub repositories, powered by a Node.js/TypeScript crawler",
   "description_ja": "",
   "url": "https://github.com/quemsah/awesome-claude-plugins",
   "homepage_url": "https://awesomeclaudeplugins.com",
@@ -16,13 +16,13 @@
     "claude-code-plugins",
     "claude-code-plugins-marketplace"
   ],
-  "star_count": 1324,
-  "fork_count": 139,
+  "star_count": 1342,
+  "fork_count": 141,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-30T19:07:37Z",
-  "updated_at": "2026-09-20T21:39:05Z",
-  "pushed_at": "2026-09-20T21:48:48Z",
+  "updated_at": "2026-09-25T21:07:38Z",
+  "pushed_at": "2026-09-25T21:23:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -392,6 +392,10 @@
     {
       "date": "2026-09-20",
       "stars": 1324
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 1342
     }
   ]
 }

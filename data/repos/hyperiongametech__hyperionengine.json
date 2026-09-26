@@ -3,7 +3,7 @@
   "owner": "hyperiongametech",
   "name": "hyperionengine",
   "full_name": "hyperiongametech/hyperionengine",
-  "description": "A Vulkan/DX12 game engine in C++ \u0026 C#. Ray tracing, Lightmapper, deferred clustered shading, visual editor",
+  "description": "A  high performance Vulkan/DX12 game engine in C++ \u0026 C#",
   "description_ja": "",
   "url": "https://github.com/HyperionGameTech/HyperionEngine",
   "homepage_url": "https://hyperionengine.dev",
@@ -27,13 +27,13 @@
     "scripting-language",
     "vulkan"
   ],
-  "star_count": 550,
-  "fork_count": 29,
+  "star_count": 553,
+  "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-01-23T15:13:07Z",
-  "updated_at": "2026-09-20T21:18:25Z",
-  "pushed_at": "2026-09-20T21:18:24Z",
+  "updated_at": "2026-09-25T23:01:46Z",
+  "pushed_at": "2026-09-25T23:01:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +415,10 @@
     {
       "date": "2026-09-20",
       "stars": 550
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 553
     }
   ]
 }

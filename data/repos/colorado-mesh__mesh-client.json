@@ -3,28 +3,33 @@
   "owner": "colorado-mesh",
   "name": "mesh-client",
   "full_name": "colorado-mesh/mesh-client",
-  "description": "Cross-platform Electron desktop client for Meshtastic, MeshCore, and Reticulum on macOS, Linux, and Windows with multi-language support, BLE, USB serial, Wi‑Fi/TCP, MQTT, local SQLite history, and routing diagnostics.",
+  "description": "Cross-platform Electron desktop client for Meshtastic, MeshCore, and Reticulum on macOS, Linux, and Windows with multi-language support, BLE, USB serial, Wi‑Fi/TCP, MQTT, local SQLite history, and routing diagnostics. EMCOMM support via MECP \u0026 TAK.",
   "description_ja": "",
   "url": "https://github.com/Colorado-Mesh/mesh-client",
   "homepage_url": "https://colorado-mesh.github.io/mesh-client/",
   "language": "TypeScript",
   "license": "GPL-3.0",
   "topics": [
+    "atak",
+    "cot",
+    "emergency-services",
     "meshcore",
     "meshcore-client",
     "meshcore-gui",
     "meshtastic",
     "meshtastic-client",
     "meshtastic-gui",
-    "reticulum"
+    "nomadnet",
+    "reticulum",
+    "tak"
   ],
-  "star_count": 114,
+  "star_count": 117,
   "fork_count": 13,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T17:07:35Z",
-  "updated_at": "2026-09-20T19:37:29Z",
-  "pushed_at": "2026-09-20T22:02:04Z",
+  "updated_at": "2026-09-25T21:20:53Z",
+  "pushed_at": "2026-09-25T21:21:06Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -342,6 +347,10 @@
     {
       "date": "2026-09-20",
       "stars": 114
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 117
     }
   ]
 }

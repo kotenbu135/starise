@@ -3,10 +3,10 @@
   "owner": "adamm00",
   "name": "ipset_asus",
   "full_name": "adamm00/ipset_asus",
-  "description": "Skynet - Advanced IP Blocking For ASUS Routers Using IPSet.",
-  "description_ja": "Skynet - IPSetを使用したASUSルーター向け高度なIPブロッキング。",
+  "description": "Skynet — IPv4 firewall protection, threat feeds and traffic visibility for Asuswrt-Merlin. Manage your network through the WebUI or SSH.",
+  "description_ja": "",
   "url": "https://github.com/Adamm00/IPSet_ASUS",
-  "homepage_url": "https://www.snbforums.com/threads/release-skynet-router-firewall-security-enhancements.16798/",
+  "homepage_url": "https://github.com/Adamm00/IPSet_ASUS/wiki",
   "language": "Shell",
   "license": "",
   "topics": [
@@ -21,13 +21,13 @@
     "skynet",
     "snbforums"
   ],
-  "star_count": 433,
+  "star_count": 434,
   "fork_count": 61,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-05-03T15:41:14Z",
-  "updated_at": "2026-09-11T07:07:12Z",
-  "pushed_at": "2026-07-20T03:49:14Z",
+  "updated_at": "2026-09-23T08:00:06Z",
+  "pushed_at": "2026-09-22T07:58:29Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -409,6 +409,10 @@
     {
       "date": "2026-09-20",
       "stars": 433
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 434
     }
   ]
 }

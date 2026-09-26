@@ -3,10 +3,10 @@
   "owner": "mbadolato",
   "name": "iterm2-color-schemes",
   "full_name": "mbadolato/iterm2-color-schemes",
-  "description": "Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
-  "description_ja": "iTerm/iTerm2 向け 450 以上のターミナルカラースキーム／テーマ集。Terminal、Konsole、PuTTY、Xresources、XRDB、Remmina、Termite、XFCE、Tilda、FreeBSD VT、Terminator、Kitty、MobaXterm、LXTerminal、Microsoft Windows Terminal、Visual Studio、Alacritty、Ghostty など多数への移植を含む",
+  "description": "Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, Windows, Visual Studio,, Ghostty, and dozens more",
+  "description_ja": "",
   "url": "https://github.com/mbadolato/iTerm2-Color-Schemes",
-  "homepage_url": "http://www.iterm2colorschemes.com",
+  "homepage_url": "https://terminalthemes.com",
   "language": "Shell",
   "license": "NOASSERTION",
   "topics": [
@@ -31,13 +31,13 @@
     "xrdb",
     "xresources"
   ],
-  "star_count": 27214,
+  "star_count": 27223,
   "fork_count": 6513,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2011-04-01T04:01:46Z",
-  "updated_at": "2026-09-20T07:00:37Z",
-  "pushed_at": "2026-09-18T16:02:22Z",
+  "updated_at": "2026-09-25T22:01:42Z",
+  "pushed_at": "2026-09-25T19:16:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -423,6 +423,10 @@
     {
       "date": "2026-09-20",
       "stars": 27214
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 27223
     }
   ]
 }

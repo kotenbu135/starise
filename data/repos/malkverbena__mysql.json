@@ -8,33 +8,34 @@
   "url": "https://github.com/Malkverbena/mysql",
   "homepage_url": "",
   "language": "C++",
-  "license": "",
+  "license": "MIT",
   "topics": [
-    "connector",
-    "gamedev",
     "godot",
     "godot-engine",
     "godot-game",
-    "godot-game-engine",
     "godot-mariadb",
     "godot-module",
-    "godot3",
+    "godot-mysql",
     "godot4",
-    "godotengine",
     "mariadb",
+    "mariadb-client",
+    "mariadb-connector",
+    "mariadb-database",
+    "mariadb-mysql",
+    "msql-database",
     "mysql",
     "mysql-client",
-    "mysql-connection",
     "mysql-connector",
-    "mysql-database"
+    "mysql-connector-cpp",
+    "mysql-godot"
   ],
   "star_count": 63,
-  "fork_count": 9,
+  "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2018-05-26T13:12:23Z",
-  "updated_at": "2026-09-02T06:26:47Z",
-  "pushed_at": "2026-09-19T03:31:43Z",
+  "updated_at": "2026-09-25T18:30:14Z",
+  "pushed_at": "2026-09-25T02:19:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -351,6 +352,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 63
+    },
+    {
+      "date": "2026-09-25",
       "stars": 63
     }
   ]

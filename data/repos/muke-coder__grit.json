@@ -3,7 +3,7 @@
   "owner": "muke-coder",
   "name": "grit",
   "full_name": "muke-coder/grit",
-  "description": "Full-stack Go + React meta-framework. Scaffold a production-ready monorepo (API + web + admin + mobile + desktop) in one command — JWT/2FA/OAuth, jobs, mail, AI, file storage, observability, security batteries included.",
+  "description": "The Laravel + Filament experience for Go and React. One command scaffolds a production-ready monorepo (API, web, admin, mobile, desktop) with auth, 2FA, passkeys, jobs, mail, storage, AI and a verifiable audit log already wired.",
   "description_ja": "",
   "url": "https://github.com/MUKE-coder/grit",
   "homepage_url": "https://gritframework.dev",
@@ -30,13 +30,13 @@
     "typescript",
     "wails"
   ],
-  "star_count": 133,
+  "star_count": 135,
   "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-11T03:12:03Z",
-  "updated_at": "2026-09-19T10:28:45Z",
-  "pushed_at": "2026-09-18T07:13:40Z",
+  "updated_at": "2026-09-25T04:36:01Z",
+  "pushed_at": "2026-09-25T04:35:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -138,6 +138,10 @@
     {
       "date": "2026-09-20",
       "stars": 133
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 135
     }
   ]
 }

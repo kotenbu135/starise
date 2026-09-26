@@ -6,7 +6,7 @@
   "description": "Camera-only autonomous drone in MuJoCo with a small judgment model (TypeSafe Jev) in the loop at 2.5Hz",
   "description_ja": "",
   "url": "https://github.com/RomanSlack/jev-drone",
-  "homepage_url": "",
+  "homepage_url": "https://jev-drone.vercel.app",
   "language": "Python",
   "license": "MIT",
   "topics": [
@@ -16,18 +16,22 @@
     "robotics",
     "typesafe"
   ],
-  "star_count": 87,
-  "fork_count": 5,
+  "star_count": 196,
+  "fork_count": 27,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-09-16T20:54:38Z",
-  "updated_at": "2026-09-20T20:21:52Z",
-  "pushed_at": "2026-09-17T00:19:27Z",
+  "updated_at": "2026-09-25T22:07:54Z",
+  "pushed_at": "2026-09-24T21:10:40Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-20",
       "stars": 87
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 196
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "maxgramser",
   "name": "homeassistant_espscreen",
   "full_name": "maxgramser/homeassistant_espscreen",
-  "description": "Beautiful, incredibly easy touch screens for Home Assistant on cheap ESP32 panels (CYD, Guition): drag-and-drop editor, no YAML, no flashing, no MQTT.",
+  "description": "Beautiful, incredibly easy touch screens for Home Assistant on cheap ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare): drag-and-drop editor, no YAML, no flashing, no MQTT.",
   "description_ja": "",
   "url": "https://github.com/MaxGramser/homeassistant_espscreen",
   "homepage_url": "",
@@ -13,6 +13,8 @@
     "cyd",
     "esp32",
     "esp32-2432s028r",
+    "esp32-p4",
+    "esp32-s3",
     "esphome",
     "guition",
     "hass-addon",
@@ -21,20 +23,25 @@
     "iot",
     "lvgl",
     "smart-home",
-    "touchscreen"
+    "touchscreen",
+    "waveshare"
   ],
-  "star_count": 278,
-  "fork_count": 16,
+  "star_count": 329,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-09-12T08:05:49Z",
-  "updated_at": "2026-09-20T22:16:07Z",
-  "pushed_at": "2026-09-20T11:46:51Z",
+  "updated_at": "2026-09-25T20:25:43Z",
+  "pushed_at": "2026-09-24T21:53:15Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-20",
       "stars": 278
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 329
     }
   ]
 }

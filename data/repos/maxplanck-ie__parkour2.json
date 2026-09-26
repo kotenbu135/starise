@@ -6,15 +6,13 @@
   "description": "Parkour2: Laboratory Information Management System  👩🏻‍🔬 🧬 👨🏽‍💻",
   "description_ja": "Parkour2: 研究室情報管理システム 👩🏻‍🔬 🧬 👨🏽‍💻",
   "url": "https://github.com/maxplanck-ie/parkour2",
-  "homepage_url": "",
+  "homepage_url": "https://parkour.omics.dev",
   "language": "Python",
   "license": "",
   "topics": [
-    "bioinformatics",
     "django",
-    "docker",
-    "extjs",
     "lims",
+    "omics",
     "vue"
   ],
   "star_count": 35,
@@ -22,8 +20,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-06-13T10:14:52Z",
-  "updated_at": "2026-09-18T08:55:06Z",
-  "pushed_at": "2026-09-17T22:11:55Z",
+  "updated_at": "2026-09-21T15:46:02Z",
+  "pushed_at": "2026-09-21T15:45:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +402,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 35
+    },
+    {
+      "date": "2026-09-25",
       "stars": 35
     }
   ]

@@ -3,8 +3,8 @@
   "owner": "spring-ai-community",
   "name": "spring-ai-playground",
   "full_name": "spring-ai-community/spring-ai-playground",
-  "description": "Safe local execution layer for AI agent tools. Build, validate, and publish MCP tools with a no-pass-no-run workflow — cross-platform desktop app powered by Spring AI.",
-  "description_ja": "AIエージェントツール向けの安全なローカル実行レイヤー。Spring AIを活用したクロスプラットフォームのデスクトップアプリで、MCP ツールのビルド・検証・公開をノーパス・ノーランのワークフローで実現。",
+  "description": "Safe local execution layer for AI agent tools. Build and test-run MCP tools (no pass, no run), serve them from a built-in MCP server, and use them in Agentic Chat with RAG, human-in-the-loop approval, and built-in observability. Cross-platform desktop app powered by Spring AI.",
+  "description_ja": "",
   "url": "https://github.com/spring-ai-community/spring-ai-playground",
   "homepage_url": "https://spring-ai-community.github.io/spring-ai-playground/",
   "language": "Java",
@@ -22,13 +22,13 @@
     "tool-sandbox",
     "tool-validation"
   ],
-  "star_count": 139,
-  "fork_count": 32,
+  "star_count": 141,
+  "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-10T05:18:38Z",
-  "updated_at": "2026-09-18T17:43:42Z",
-  "pushed_at": "2026-08-28T17:03:14Z",
+  "updated_at": "2026-09-25T17:30:32Z",
+  "pushed_at": "2026-09-22T12:46:33Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -414,6 +414,10 @@
     {
       "date": "2026-09-20",
       "stars": 139
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 141
     }
   ]
 }

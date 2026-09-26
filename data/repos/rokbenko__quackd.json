@@ -3,7 +3,7 @@
   "owner": "rokbenko",
   "name": "quackd",
   "full_name": "rokbenko/quackd",
-  "description": "One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain, Jev for cheaper steps. Microduck, Open Duck Mini, LeRobot, XLeRobot, AlohaMini, ToddlerBot or any ROS base. Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM. Simulator, .duck safety contracts, MCP, memory between runs, flocks.",
+  "description": "One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain (Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM) and a decision LLM for multiple choice (Jev, Laya, Kev). Drives Microduck, Open Duck Mini, LeRobot, XLeRobot, AlohaMini, ToddlerBot, or any ROS 2 base from a laptop, offboard.",
   "description_ja": "",
   "url": "https://github.com/rokbenko/quackd",
   "homepage_url": "https://www.quackd.org",
@@ -11,11 +11,10 @@
   "license": "Apache-2.0",
   "topics": [
     "ai-agents",
-    "aloha",
+    "alohamini",
     "claude",
-    "embodied-ai",
     "gemini",
-    "humanoid-robot",
+    "jetson",
     "jev",
     "lerobot",
     "local-llm",
@@ -27,17 +26,18 @@
     "openai",
     "physical-ai",
     "robotics",
-    "ros",
     "ros2",
+    "so-101",
+    "toddlerbot",
     "xlerobot"
   ],
-  "star_count": 219,
-  "fork_count": 24,
+  "star_count": 240,
+  "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-28T09:09:16Z",
-  "updated_at": "2026-09-20T16:46:13Z",
-  "pushed_at": "2026-09-19T07:07:06Z",
+  "updated_at": "2026-09-25T17:28:51Z",
+  "pushed_at": "2026-09-25T20:05:38Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -51,6 +51,10 @@
     {
       "date": "2026-09-20",
       "stars": 219
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 240
     }
   ]
 }

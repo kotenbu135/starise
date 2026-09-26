@@ -3,7 +3,7 @@
   "owner": "evil0ctal",
   "name": "douyin_tiktok_download_api",
   "full_name": "evil0ctal/douyin_tiktok_download_api",
-  "description": "🚀 Self-hosted TikTok \u0026 Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, PostgreSQL archive, one docker compose up. 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。",
+  "description": "🚀 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。| Self-hosted TikTok \u0026 Douyin scraper and no-watermark video downloader — async REST API, MCP server, CLI and web console for posts, profiles, comments and playlists. Self-healing identity pool, PostgreSQL archive, one docker compose up. ",
   "description_ja": "",
   "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
   "homepage_url": "https://douyin.wtf",
@@ -31,13 +31,13 @@
     "video-downloader",
     "web-scraping"
   ],
-  "star_count": 20210,
-  "fork_count": 2803,
+  "star_count": 20335,
+  "fork_count": 2820,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-11-07T01:35:09Z",
-  "updated_at": "2026-09-20T17:41:06Z",
-  "pushed_at": "2026-09-15T03:14:40Z",
+  "updated_at": "2026-09-25T23:01:36Z",
+  "pushed_at": "2026-09-23T06:36:37Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -423,6 +423,10 @@
     {
       "date": "2026-09-20",
       "stars": 20210
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 20335
     }
   ]
 }

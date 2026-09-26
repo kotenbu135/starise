@@ -3,7 +3,7 @@
   "owner": "ucmao",
   "name": "pan-relay",
   "full_name": "ucmao/pan-relay",
-  "description": "Pan‑Relay是一款专为网盘推广员和资源站长打造的自动化收益工具。项目支持批量接入第三方搜索API，自动转存替换资源为自己的分享链接。已适配夸克、百度、阿里、UC、迅雷，提供后台资源管理、搜索接口配置管理、云盘凭证配置、前台展示网盘控制等。项目API接口方便接入机器人，适合网盘推广场景进行统一检索、管理与分发。",
+  "description": "Pan-Relay是一款专为网盘推广员打造的全自动化收益系统。集成多渠道API、TG频道与插件并发搜索，支持自动将外部资源转存替换为专属收益链接。已全面接入夸克、百度、阿里、UC、迅雷、光鸭、悟空、移动等8大主流网盘，提供私有资源库、云盘凭证与通道后台管理，并开放标准REST API，支持无缝对接TG机器人、小程序与APP。",
   "description_ja": "",
   "url": "https://github.com/ucmao/pan-relay",
   "homepage_url": "https://so.ucmao.cn",
@@ -23,13 +23,13 @@
     "self-hosted",
     "share-link"
   ],
-  "star_count": 74,
+  "star_count": 78,
   "fork_count": 19,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-17T04:19:01Z",
-  "updated_at": "2026-09-20T16:45:25Z",
-  "pushed_at": "2026-09-20T16:45:21Z",
+  "updated_at": "2026-09-24T16:36:31Z",
+  "pushed_at": "2026-09-24T08:13:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -71,6 +71,10 @@
     {
       "date": "2026-09-20",
       "stars": 74
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 78
     }
   ]
 }

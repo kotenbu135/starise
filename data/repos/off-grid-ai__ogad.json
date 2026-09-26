@@ -3,38 +3,41 @@
   "owner": "off-grid-ai",
   "name": "ogad",
   "full_name": "off-grid-ai/ogad",
-  "description": "Off Grid AI — private, on-device AI. Run open models (text, vision, image, voice) locally through one OpenAI-compatible gateway. No cloud, no accounts, no API keys.",
+  "description": "Your private, on-device personal AI assistant for macOS and Windows. Chat, create, search files, and connect tools with local models. Includes an OpenAI-compatible API. Opt-in Pro sees, remembers, reflects, and acts with your approval. No cloud or account.",
   "description_ja": "",
   "url": "https://github.com/off-grid-ai/OGAD",
   "homepage_url": "https://getoffgridai.co/pro/",
   "language": "TypeScript",
   "license": "AGPL-3.0",
   "topics": [
-    "electron",
-    "gguf",
+    "ai-assistant",
+    "ai-memory",
+    "ai-second-brain",
+    "ambient-ai",
     "image-generation",
-    "llama-cpp",
     "llm",
     "local-ai",
+    "local-ai-assistant",
     "local-first",
     "local-llm",
     "mcp",
-    "offline",
-    "on-device",
+    "multimodal-ai",
+    "offline-ai",
+    "offline-ai-assistant",
+    "on-device-ai",
     "openai-compatible",
+    "personal-ai-assistant",
     "privacy",
-    "react",
-    "stable-diffusion",
-    "typescript",
-    "whisper"
+    "private-ai-assistant",
+    "rag"
   ],
-  "star_count": 111,
+  "star_count": 114,
   "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-19T05:05:40Z",
-  "updated_at": "2026-09-20T22:13:28Z",
-  "pushed_at": "2026-09-20T18:48:59Z",
+  "updated_at": "2026-09-25T21:36:31Z",
+  "pushed_at": "2026-09-25T21:05:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -44,6 +47,10 @@
     {
       "date": "2026-09-20",
       "stars": 111
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 114
     }
   ]
 }

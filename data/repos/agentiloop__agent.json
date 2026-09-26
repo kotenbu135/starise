@@ -3,41 +3,39 @@
   "owner": "agentiloop",
   "name": "agent",
   "full_name": "agentiloop/agent",
-  "description": "AgentiLoop Agent! An Autonomous Agentic Agent for Mac, and exclusive Apple only harnesss. Supports  automation, scripting, coding, build anything and more. Powered by 21 LLM providers across local and cloud platforms. Dark or Light Mode UI.",
+  "description": "AgentiLoop Agent! — One app. Any AI. Your Mac, working for you. Native Swift agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JXA, Swift and SMAppService shell (user/root). 23 LLM providers, local/cloud, plus on-device Apple Intelligence and Jev guard. MCP support. CLI Rust/Go Mac/Win/Linux in prog.",
   "description_ja": "",
   "url": "https://github.com/AgentiLoop/Agent",
   "homepage_url": "https://agentiloop.ai",
   "language": "Swift",
-  "license": "MIT",
+  "license": "NOASSERTION",
   "topics": [
+    "21-llm-providers",
     "accessibility",
-    "agentic-framework",
+    "agent-scripts",
+    "agentic-coding",
     "agentic-workflow",
-    "ai",
-    "ai-agent",
+    "agentiloop-agent",
     "apple-intelligence",
     "applescript",
+    "automated-computer-use",
     "automation",
-    "claude",
+    "autonomous-agents",
+    "control-xcode",
     "imessage",
     "javascript",
-    "jxa",
-    "llm",
     "macos",
     "mcp",
-    "ollama",
-    "swift",
-    "swiftui",
-    "xcode",
-    "xpc"
+    "safari-web-ui-automation",
+    "top-mac-agentic-coding-tool"
   ],
-  "star_count": 617,
-  "fork_count": 67,
+  "star_count": 633,
+  "fork_count": 69,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-11T20:15:09Z",
-  "updated_at": "2026-09-20T20:55:09Z",
-  "pushed_at": "2026-09-20T20:55:05Z",
+  "updated_at": "2026-09-25T19:05:29Z",
+  "pushed_at": "2026-09-25T18:38:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -423,6 +421,10 @@
     {
       "date": "2026-09-20",
       "stars": 617
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 633
     }
   ]
 }

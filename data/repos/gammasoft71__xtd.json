@@ -3,8 +3,8 @@
   "owner": "gammasoft71",
   "name": "xtd",
   "full_name": "gammasoft71/xtd",
-  "description": "Free open-source modern  C++20 framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, Haiku, and SerenityOS.",
-  "description_ja": "Windows、macOS、Linux、iOS、Android、FreeBSD、Haiku、SerenityOS 上でコンソール（CLI）、フォーム（WinForms 風 GUI）、ユニットテスト（xUnit）アプリケーションやライブラリを作成するための無料オープンソースのモダン C++20 フレームワーク。",
+  "description": "Free open-source modern  C++20/23 framework to create console (CLI), forms (GUI like WinForms) and unit test (xUnit) applications and libraries on Windows, macOS, Linux, iOS, Android, FreeBSD, Haiku, and SerenityOS.",
+  "description_ja": "",
   "url": "https://github.com/gammasoft71/xtd",
   "homepage_url": "https://gammasoft71.github.io/xtd",
   "language": "C++",
@@ -31,13 +31,13 @@
     "unittest",
     "xtd"
   ],
-  "star_count": 1164,
+  "star_count": 1165,
   "fork_count": 78,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-02-13T14:54:22Z",
-  "updated_at": "2026-09-20T04:05:15Z",
-  "pushed_at": "2026-09-20T04:14:34Z",
+  "updated_at": "2026-09-25T19:41:45Z",
+  "pushed_at": "2026-09-25T19:50:50Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +419,10 @@
     {
       "date": "2026-09-20",
       "stars": 1164
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 1165
     }
   ]
 }

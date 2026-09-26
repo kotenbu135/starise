@@ -3,7 +3,7 @@
   "owner": "trentorch",
   "name": "trentorch",
   "full_name": "trentorch/trentorch",
-  "description": "Learn PyTorch by building your own. (inspired from Harvard's TinyTorch)",
+  "description": "Don't memorize ML. Understand it from first principles including Inference,Cuda,Deep-Learning,Data-science and Reinforcement Learning.",
   "description_ja": "",
   "url": "https://github.com/TrenTorch/TrenTorch",
   "homepage_url": "https://trentorch.com",
@@ -11,10 +11,12 @@
   "license": "NOASSERTION",
   "topics": [
     "cli",
+    "cuda",
     "deep-learning",
     "education",
     "engineering",
     "from-scratch",
+    "inference",
     "leetcode-alternative",
     "machine-learning",
     "ml-interview-prep",
@@ -24,13 +26,13 @@
     "pytorch",
     "sveltekit"
   ],
-  "star_count": 328,
+  "star_count": 339,
   "fork_count": 37,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-21T07:35:48Z",
-  "updated_at": "2026-09-20T22:23:31Z",
-  "pushed_at": "2026-09-20T22:23:28Z",
+  "updated_at": "2026-09-25T23:21:16Z",
+  "pushed_at": "2026-09-25T23:55:42Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -40,6 +42,10 @@
     {
       "date": "2026-09-20",
       "stars": 328
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 339
     }
   ]
 }

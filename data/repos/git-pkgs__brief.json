@@ -3,26 +3,28 @@
   "owner": "git-pkgs",
   "name": "brief",
   "full_name": "git-pkgs/brief",
-  "description": "A single-binary CLI tool that detects a software project's toolchain, configuration, and conventions, then outputs a structured report. ",
+  "description": "A single-binary CLI tool that detects a software project's toolchain, configuration, and conventions, then outputs a structured report.",
   "description_ja": "",
   "url": "https://github.com/git-pkgs/brief",
-  "homepage_url": "",
+  "homepage_url": "https://git-pkgs.dev",
   "language": "Go",
   "license": "MIT",
   "topics": [
     "ai-agents",
     "cli",
     "developer-tools",
+    "git-pkgs",
     "go",
+    "golang",
     "static-analysis"
   ],
-  "star_count": 74,
+  "star_count": 82,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-15T07:50:13Z",
-  "updated_at": "2026-09-20T14:53:45Z",
-  "pushed_at": "2026-09-20T17:02:32Z",
+  "updated_at": "2026-09-25T21:28:55Z",
+  "pushed_at": "2026-09-23T14:34:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -308,6 +310,10 @@
     {
       "date": "2026-09-20",
       "stars": 74
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 82
     }
   ]
 }

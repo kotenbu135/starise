@@ -6,7 +6,7 @@
   "description": "Minimal CVE Hardened container image collection",
   "description_ja": "",
   "url": "https://github.com/rtvkiz/minimal",
-  "homepage_url": "",
+  "homepage_url": "https://minimalcontainers.com",
   "language": "Shell",
   "license": "NOASSERTION",
   "topics": [
@@ -20,13 +20,13 @@
     "registry",
     "wolfi"
   ],
-  "star_count": 545,
+  "star_count": 548,
   "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-13T04:53:18Z",
-  "updated_at": "2026-09-20T22:43:12Z",
-  "pushed_at": "2026-09-20T22:47:34Z",
+  "updated_at": "2026-09-25T21:54:25Z",
+  "pushed_at": "2026-09-25T23:15:30Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -312,6 +312,10 @@
     {
       "date": "2026-09-20",
       "stars": 545
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 548
     }
   ]
 }

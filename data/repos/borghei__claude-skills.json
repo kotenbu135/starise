@@ -3,7 +3,7 @@
   "owner": "borghei",
   "name": "claude-skills",
   "full_name": "borghei/claude-skills",
-  "description": "368 AI skills, 76 expert agents, and 859 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, and research. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.",
+  "description": "372 AI skills, 76 expert agents, and 867 stdlib Python tools for every team: engineering, PM, marketing, C-level, compliance, business ops, and research. Installs on Claude Code, Cursor, Codex, Gemini, Copilot, and 6 other AI assistants.",
   "description_ja": "",
   "url": "https://github.com/borghei/Claude-Skills",
   "homepage_url": "https://borghei.github.io/Claude-Skills",
@@ -23,6 +23,7 @@
     "gemini-cli",
     "github-copilot",
     "jira",
+    "marketing",
     "mcp-server",
     "notion",
     "product-management",
@@ -30,13 +31,13 @@
     "research-ops",
     "technical-writing"
   ],
-  "star_count": 795,
-  "fork_count": 142,
+  "star_count": 829,
+  "fork_count": 144,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-13T16:15:31Z",
-  "updated_at": "2026-09-20T15:53:29Z",
-  "pushed_at": "2026-08-12T15:16:54Z",
+  "updated_at": "2026-09-25T19:31:22Z",
+  "pushed_at": "2026-09-21T22:28:35Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -234,6 +235,10 @@
     {
       "date": "2026-09-20",
       "stars": 795
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 829
     }
   ]
 }

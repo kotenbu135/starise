@@ -3,20 +3,25 @@
   "owner": "nimrodfisher",
   "name": "data-analytics-skills",
   "full_name": "nimrodfisher/data-analytics-skills",
-  "description": "A comprehensive list of Claude skills for a wide range of data analytics tasks",
+  "description": "A comprehensive list of Claude \u0026 Codex skills for a wide range of data analytics tasks",
   "description_ja": "",
   "url": "https://github.com/nimrodfisher/data-analytics-skills",
   "homepage_url": "",
   "language": "Python",
-  "license": "",
-  "topics": [],
-  "star_count": 439,
-  "fork_count": 79,
+  "license": "MIT",
+  "topics": [
+    "claude-code",
+    "codex",
+    "data-analytics",
+    "skills"
+  ],
+  "star_count": 451,
+  "fork_count": 80,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-11T03:22:15Z",
-  "updated_at": "2026-09-19T04:56:19Z",
-  "pushed_at": "2026-04-29T03:21:17Z",
+  "updated_at": "2026-09-25T08:11:21Z",
+  "pushed_at": "2026-09-25T08:11:16Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -326,6 +331,10 @@
     {
       "date": "2026-09-20",
       "stars": 439
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 451
     }
   ]
 }

@@ -3,20 +3,30 @@
   "owner": "yuanweize",
   "name": "lazymount-mac",
   "full_name": "yuanweize/lazymount-mac",
-  "description": "A robust macOS mount manager for NAS gamers. Automatically mounts SMB \u0026 Rclone, detects network status, and auto-repairs \"dirty\" APFS sparsebundles to fix Steam \"Disk Write Error\" and permission issues.||专为 NAS 游戏玩家打造的 macOS 自动化挂载神器。支持 SMB/Rclone 自动挂载与断网重连，独创“外科手术式”修复逻辑，自动解决 APFS 脏盘导致的 Steam 磁盘写入错误和权限问题。",
+  "description": "Robust macOS mount manager for SMB \u0026 Rclone storage with APFS sparsebundle self-healing, launchd supervision, and network state recovery.",
   "description_ja": "",
   "url": "https://github.com/yuanweize/LazyMount-Mac",
-  "homepage_url": "https://deepwiki.com/yuanweize/LazyMount-Mac",
+  "homepage_url": "https://github.com/yuanweize/LazyMount-Mac",
   "language": "Shell",
   "license": "MIT",
-  "topics": [],
-  "star_count": 136,
+  "topics": [
+    "apfs",
+    "automount",
+    "launchd",
+    "macos",
+    "rclone",
+    "shell-script",
+    "smb",
+    "sparsebundle",
+    "storage-management"
+  ],
+  "star_count": 137,
   "fork_count": 9,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-25T04:59:49Z",
-  "updated_at": "2026-09-15T08:20:17Z",
-  "pushed_at": "2026-09-09T17:13:36Z",
+  "updated_at": "2026-09-24T21:55:22Z",
+  "pushed_at": "2026-09-23T10:35:03Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -322,6 +332,10 @@
     {
       "date": "2026-09-20",
       "stars": 136
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 137
     }
   ]
 }

@@ -3,13 +3,14 @@
   "owner": "apiguru-app",
   "name": "amazon-scraper-v2",
   "full_name": "apiguru-app/amazon-scraper-v2",
-  "description": "Free-trial Amazon Scraper API for real-time product details (batch ASIN), offers, stock estimates, reviews, search, best sellers, and seller data.",
+  "description": "Agent-ready Amazon Scraper API: real-time product details (batch ASIN), offers \u0026 stock, reviews, search, best sellers, deals and seller data across 20 marketplaces. One pasted line for Claude Code / Codex / Cursor, an MCP server, or plain HTTP with 3 free calls a day and no key. Python examples inside.",
   "description_ja": "",
   "url": "https://github.com/apiguru-app/amazon-scraper-v2",
   "homepage_url": "https://dash.apiguru.app/landing",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "ai-agents",
     "amazon-aip",
     "amazon-api-data",
     "amazon-price-tracker",
@@ -22,19 +23,21 @@
     "amazon-scraping-library",
     "e-commerce-api",
     "how-to-scrape-amazon",
+    "mcp-server",
     "price-scraper",
     "price-scraper-api",
     "scrape-amazon",
     "scraping-amazon",
-    "scraping-api"
+    "scraping-api",
+    "x402"
   ],
-  "star_count": 192,
-  "fork_count": 32,
+  "star_count": 204,
+  "fork_count": 35,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-10-20T11:33:51Z",
-  "updated_at": "2026-09-12T15:10:38Z",
-  "pushed_at": "2026-05-15T19:44:18Z",
+  "updated_at": "2026-09-25T13:43:51Z",
+  "pushed_at": "2026-09-21T14:13:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -404,6 +407,10 @@
     {
       "date": "2026-09-20",
       "stars": 192
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 204
     }
   ]
 }

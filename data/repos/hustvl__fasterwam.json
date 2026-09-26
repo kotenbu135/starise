@@ -9,13 +9,16 @@
   "homepage_url": "https://arxiv.org/pdf/2608.04404",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 69,
-  "fork_count": 7,
+  "topics": [
+    "robot-manipulation",
+    "world-action-model"
+  ],
+  "star_count": 70,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-02T12:20:39Z",
-  "updated_at": "2026-09-20T07:16:40Z",
+  "updated_at": "2026-09-24T18:45:40Z",
   "pushed_at": "2026-08-31T15:13:28Z",
   "deleted_at": "",
   "star_history": [
@@ -50,6 +53,10 @@
     {
       "date": "2026-09-20",
       "stars": 69
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 70
     }
   ]
 }

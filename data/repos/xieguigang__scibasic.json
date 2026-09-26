@@ -3,8 +3,8 @@
   "owner": "xieguigang",
   "name": "scibasic",
   "full_name": "xieguigang/scibasic",
-  "description": "sciBASIC# is a kind of dialect language which is derive from the native VB.NET language, and written for the data scientist.",
-  "description_ja": "sciBASIC# は VB.NET 言語から派生したデータサイエンティスト向けの方言言語です。",
+  "description": "A VisualBasic(.NET) language kernel and runtime for scientific data computing, deep learning, LLM inference, GPU acceleration, visualization and command-line data-science applications — running on .NET (net10.0) across Windows, Linux and macOS.",
+  "description_ja": "",
   "url": "https://github.com/xieguigang/sciBASIC",
   "homepage_url": "http://sciBASIC.NET/",
   "language": "Visual Basic .NET",
@@ -15,6 +15,7 @@
     "data-science",
     "hdf5",
     "hpc",
+    "llm-agent",
     "machine-learning",
     "manifold",
     "microsoft-visualbasic",
@@ -22,6 +23,7 @@
     "network-visualization",
     "neural-network",
     "t-sne",
+    "tensorflow",
     "umap"
   ],
   "star_count": 78,
@@ -29,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-01-05T15:51:04Z",
-  "updated_at": "2026-09-20T11:46:28Z",
-  "pushed_at": "2026-09-14T20:05:32Z",
+  "updated_at": "2026-09-24T17:51:48Z",
+  "pushed_at": "2026-09-24T17:51:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -411,6 +413,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 78
+    },
+    {
+      "date": "2026-09-25",
       "stars": 78
     }
   ]

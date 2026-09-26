@@ -3,14 +3,15 @@
   "owner": "asymptote-labs",
   "name": "agent-beacon",
   "full_name": "asymptote-labs/agent-beacon",
-  "description": "Agent Beacon is the world's first open-source telemetry layer for AI agents wherever they run: locally, in CI, in the browser, or in the cloud.",
+  "description": "The cross-harness self-improving memory layer for AI agents.",
   "description_ja": "",
   "url": "https://github.com/Asymptote-Labs/agent-beacon",
-  "homepage_url": "https://docs.asymptotelabs.ai",
+  "homepage_url": "https://beacon.sh",
   "language": "Go",
   "license": "MIT",
   "topics": [
     "agent-ai-cli",
+    "agent-harnesses",
     "agent-security",
     "browser-extension",
     "ci",
@@ -19,19 +20,24 @@
     "codex",
     "cursor",
     "detection-engineering",
-    "endpoint-security",
+    "jev",
+    "knowledge-base",
+    "memory",
     "mobile-device-management",
+    "observability",
     "security",
     "security-information-and-event-management",
-    "security-tools"
+    "security-tools",
+    "telemetry",
+    "traces"
   ],
-  "star_count": 460,
-  "fork_count": 36,
+  "star_count": 1554,
+  "fork_count": 126,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-12T02:49:33Z",
-  "updated_at": "2026-09-20T17:38:02Z",
-  "pushed_at": "2026-09-20T03:52:00Z",
+  "updated_at": "2026-09-25T22:03:06Z",
+  "pushed_at": "2026-09-25T22:03:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -349,6 +355,10 @@
     {
       "date": "2026-09-20",
       "stars": 460
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 1554
     }
   ]
 }

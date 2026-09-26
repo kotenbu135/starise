@@ -7,7 +7,7 @@
   "description_ja": "IPカメラ向けリアルタイムローカル物体検出機能付きNVR。",
   "url": "https://github.com/blakeblackshear/frigate",
   "homepage_url": "https://frigate.video",
-  "language": "TypeScript",
+  "language": "Python",
   "license": "MIT",
   "topics": [
     "ai",
@@ -23,13 +23,13 @@
     "rtsp",
     "tensorflow"
   ],
-  "star_count": 36020,
-  "fork_count": 3612,
+  "star_count": 36099,
+  "fork_count": 3630,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2019-01-26T13:52:38Z",
-  "updated_at": "2026-09-20T21:33:38Z",
-  "pushed_at": "2026-09-20T18:45:27Z",
+  "updated_at": "2026-09-25T22:57:48Z",
+  "pushed_at": "2026-09-25T11:34:49Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -415,6 +415,10 @@
     {
       "date": "2026-09-20",
       "stars": 36020
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 36099
     }
   ]
 }

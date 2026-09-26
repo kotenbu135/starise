@@ -3,8 +3,8 @@
   "owner": "puritysb",
   "name": "agentdeck",
   "full_name": "puritysb/agentdeck",
-  "description": "Physical controller \u0026 multi-surface dashboard for AI coding agents — Stream Deck+, Android, iOS/macOS, ESP32 displays, TUI",
-  "description_ja": "AI コーディングエージェント向けの物理コントローラー \u0026 マルチサーフェスダッシュボード — Stream Deck+、Android、iOS/macOS、ESP32 ディスプレイ、TUI 対応",
+  "description": "Local dashboards and physical controls for AI coding agents — native 3D aquariums, Stream Deck, Apple/Android apps, e-ink, ESP32 and LED displays.",
+  "description_ja": "",
   "url": "https://github.com/puritysb/AgentDeck",
   "homepage_url": "https://puritysb.github.io/AgentDeck/",
   "language": "TypeScript",
@@ -21,13 +21,13 @@
     "stream-deck",
     "swiftui"
   ],
-  "star_count": 241,
-  "fork_count": 50,
+  "star_count": 247,
+  "fork_count": 52,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-20T15:48:57Z",
-  "updated_at": "2026-09-20T22:58:55Z",
-  "pushed_at": "2026-09-20T22:59:02Z",
+  "updated_at": "2026-09-25T15:16:18Z",
+  "pushed_at": "2026-09-25T20:20:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -413,6 +413,10 @@
     {
       "date": "2026-09-20",
       "stars": 241
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 247
     }
   ]
 }

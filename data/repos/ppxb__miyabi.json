@@ -3,7 +3,7 @@
   "owner": "ppxb",
   "name": "miyabi",
   "full_name": "ppxb/miyabi",
-  "description": "配合 115 网盘的一站式 Jav 管理平台",
+  "description": "配合 115 网盘的一站式 Jav \u0026 Emby 管理平台",
   "description_ja": "",
   "url": "https://github.com/ppxb/miyabi",
   "homepage_url": "",
@@ -11,21 +11,24 @@
   "license": "GPL-3.0",
   "topics": [
     "115",
+    "emby",
     "golang",
+    "javbus",
     "javdb",
+    "magnet-link",
     "react",
     "tailwindcss",
     "typescript",
     "video",
     "vite"
   ],
-  "star_count": 68,
-  "fork_count": 7,
+  "star_count": 136,
+  "fork_count": 17,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-09-03T08:09:10Z",
-  "updated_at": "2026-09-20T17:22:36Z",
-  "pushed_at": "2026-09-20T16:40:58Z",
+  "updated_at": "2026-09-25T07:00:12Z",
+  "pushed_at": "2026-09-24T14:19:40Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -35,6 +38,10 @@
     {
       "date": "2026-09-20",
       "stars": 68
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 136
     }
   ]
 }

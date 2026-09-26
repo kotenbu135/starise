@@ -3,8 +3,8 @@
   "owner": "garuda-linux",
   "name": "garuda-nix-subsystem",
   "full_name": "garuda-linux/garuda-nix-subsystem",
-  "description": "Garuda Nix Subsystem - a flake enabling dual-boot, same-partition Garuda/NixOS installations ❄️🦅 (mirrored from GitLab)",
-  "description_ja": "Garuda Nix Subsystem — デュアルブートおよび同一パーティションへの Garuda/NixOS インストールを可能にする flake（GitLab からのミラー）。",
+  "description": "Garuda Nix - a flake enabling dual-boot, same-partition Garuda/NixOS installations, as well as a ready-made ISO installer for NixOS ❄️🦅 (mirrored from GitLab)",
+  "description_ja": "",
   "url": "https://github.com/garuda-linux/garuda-nix-subsystem",
   "homepage_url": "https://nix.garudalinux.org",
   "language": "Nix",
@@ -14,13 +14,13 @@
     "nixos-flake",
     "subsystem"
   ],
-  "star_count": 30,
+  "star_count": 34,
   "fork_count": 1,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-06T04:31:55Z",
-  "updated_at": "2026-09-20T18:16:35Z",
-  "pushed_at": "2026-09-20T19:10:28Z",
+  "updated_at": "2026-09-25T11:48:10Z",
+  "pushed_at": "2026-09-25T05:06:52Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -402,6 +402,10 @@
     {
       "date": "2026-09-20",
       "stars": 30
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 34
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "carloslfu",
   "name": "slotstream",
   "full_name": "carloslfu/slotstream",
-  "description": "Run a 105 GB AI model on a 48 GB Mac. Qwen3.8-Flash-Next (125B mixture of experts) streams its experts from SSD through a slot cache. Native Swift on MLX and Metal: one binary, no Python, Ollama- and OpenAI-compatible APIs.",
+  "description": "Run a 105 GB AI model on a Mac that can't hold it. Slotstream streams Qwen3.8-Flash-Next (125B mixture of experts) from your SSD and caches the busiest experts in memory, so it runs on Macs with 16 to 64 GB. One native Swift binary on MLX and Metal, no Python, offline. Works with Claude Code, Codex and Ollama or OpenAI clients.",
   "description_ja": "",
   "url": "https://github.com/carloslfu/slotstream",
   "homepage_url": "https://sevrahq.com",
@@ -11,23 +11,31 @@
   "license": "MIT",
   "topics": [
     "apple-silicon",
+    "claude-code",
+    "inference-engine",
     "llm",
     "llm-inference",
+    "local-ai",
     "local-llm",
     "macos",
+    "metal",
     "mixture-of-experts",
     "mlx",
+    "moe",
     "ollama",
+    "on-device-ai",
+    "openai-api",
     "qwen",
+    "qwen3",
     "swift"
   ],
-  "star_count": 385,
-  "fork_count": 25,
+  "star_count": 397,
+  "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-08-28T06:42:21Z",
-  "updated_at": "2026-09-20T20:06:14Z",
-  "pushed_at": "2026-09-18T21:50:52Z",
+  "updated_at": "2026-09-25T20:33:24Z",
+  "pushed_at": "2026-09-25T19:29:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -37,6 +45,10 @@
     {
       "date": "2026-09-20",
       "stars": 385
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 397
     }
   ]
 }

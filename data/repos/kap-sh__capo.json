@@ -9,14 +9,23 @@
   "homepage_url": "https://kap-sh.github.io/capo/",
   "language": "Python",
   "license": "MIT",
-  "topics": [],
-  "star_count": 56,
+  "topics": [
+    "aws",
+    "aws-bedrock",
+    "aws-cdk",
+    "aws-cloudformation",
+    "aws-dynamodb",
+    "aws-ec2",
+    "aws-lambda",
+    "aws-s3"
+  ],
+  "star_count": 57,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-01T09:43:31Z",
-  "updated_at": "2026-09-20T16:01:51Z",
-  "pushed_at": "2026-09-18T20:53:11Z",
+  "updated_at": "2026-09-25T20:30:17Z",
+  "pushed_at": "2026-09-25T16:11:21Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -42,6 +51,10 @@
     {
       "date": "2026-09-20",
       "stars": 56
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 57
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "redis",
   "name": "lettuce",
   "full_name": "redis/lettuce",
-  "description": "Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.",
-  "description_ja": "スレッドセーフな同期・非同期・リアクティブ利用に対応した高機能Java Redisクライアント。Cluster・Sentinel・Pipelining・コーデックをサポート",
+  "description": "Redis Java client",
+  "description_ja": "Redis Javaクライアント",
   "url": "https://github.com/redis/lettuce",
   "homepage_url": "https://redis.github.io/lettuce/",
   "language": "Java",
@@ -20,13 +20,13 @@
     "redis-cluster",
     "redis-sentinel"
   ],
-  "star_count": 5778,
-  "fork_count": 1102,
+  "star_count": 5779,
+  "fork_count": 1104,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-05-10T13:08:46Z",
-  "updated_at": "2026-09-20T02:02:58Z",
-  "pushed_at": "2026-09-20T02:02:48Z",
+  "updated_at": "2026-09-25T13:35:42Z",
+  "pushed_at": "2026-09-25T11:46:56Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -412,6 +412,10 @@
     {
       "date": "2026-09-20",
       "stars": 5778
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 5779
     }
   ]
 }

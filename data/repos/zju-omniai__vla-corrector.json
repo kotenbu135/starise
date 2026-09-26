@@ -3,20 +3,30 @@
   "owner": "zju-omniai",
   "name": "vla-corrector",
   "full_name": "zju-omniai/vla-corrector",
-  "description": "a lightweight detect-and-correction inference for vla",
+  "description": "[NeurIPS 2026] VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon",
   "description_ja": "",
   "url": "https://github.com/ZJU-OmniAI/vla-corrector",
-  "homepage_url": "",
+  "homepage_url": "https://zju-omniai.github.io/vla-corrector/",
   "language": "Python",
   "license": "Apache-2.0",
-  "topics": [],
-  "star_count": 80,
+  "topics": [
+    "action-chunking",
+    "embodied-ai",
+    "lerobot",
+    "neurips-2026",
+    "robot-learning",
+    "robot-manipulation",
+    "robotics",
+    "vision-language-action",
+    "vla"
+  ],
+  "star_count": 84,
   "fork_count": 6,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-02T05:22:46Z",
-  "updated_at": "2026-09-16T01:53:33Z",
-  "pushed_at": "2026-07-06T17:59:02Z",
+  "updated_at": "2026-09-25T19:51:58Z",
+  "pushed_at": "2026-09-25T19:51:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -154,6 +164,10 @@
     {
       "date": "2026-09-20",
       "stars": 80
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 84
     }
   ]
 }

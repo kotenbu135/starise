@@ -3,20 +3,20 @@
   "owner": "netbsd",
   "name": "src",
   "full_name": "netbsd/src",
-  "description": "Automatic conversion of the NetBSD src CVS module, use with care. Please submit bugs/changes via https://gnats.netbsd.org",
+  "description": "Automatic conversion of the NetBSD src CVS module, use with care. Please submit bugs/changes via https://gnats.NetBSD.org.  NOTE: Links to commits here WILL ROT.  Use https://nxr.NetBSD.org or https://cvsweb.NetBSD.org links instead.",
   "description_ja": "",
   "url": "https://github.com/NetBSD/src",
   "homepage_url": "https://www.NetBSD.org",
   "language": "C",
   "license": "",
   "topics": [],
-  "star_count": 988,
-  "fork_count": 369,
+  "star_count": 990,
+  "fork_count": 367,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2017-04-16T20:03:43Z",
-  "updated_at": "2026-09-20T20:44:01Z",
-  "pushed_at": "2026-09-20T20:43:48Z",
+  "updated_at": "2026-09-25T20:42:06Z",
+  "pushed_at": "2026-09-25T20:41:57Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -114,6 +114,10 @@
     {
       "date": "2026-09-20",
       "stars": 988
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 990
     }
   ]
 }

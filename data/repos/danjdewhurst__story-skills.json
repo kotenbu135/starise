@@ -6,31 +6,34 @@
   "description": "Agent Skills for end-to-end story writing in markdown, packaged as Codex and Claude Code plugins.",
   "description_ja": "",
   "url": "https://github.com/danjdewhurst/story-skills",
-  "homepage_url": "",
+  "homepage_url": "https://www.npmjs.com/package/story-skills",
   "language": "JavaScript",
   "license": "MIT",
   "topics": [
     "agent-skills",
     "ai-agents",
     "claude-code-plugin",
+    "claude-skills",
     "codex",
     "codex-plugin",
+    "continuity",
     "creative-writing",
     "fiction-writing",
     "markdown",
+    "novel-writing",
     "plot-structure",
     "skill-md",
     "storytelling",
     "worldbuilding",
     "writing-tools"
   ],
-  "star_count": 232,
-  "fork_count": 32,
+  "star_count": 244,
+  "fork_count": 36,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-12T21:30:02Z",
-  "updated_at": "2026-09-20T19:43:35Z",
-  "pushed_at": "2026-09-20T19:43:31Z",
+  "updated_at": "2026-09-25T21:45:27Z",
+  "pushed_at": "2026-09-25T21:45:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -176,6 +179,10 @@
     {
       "date": "2026-09-20",
       "stars": 232
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 244
     }
   ]
 }

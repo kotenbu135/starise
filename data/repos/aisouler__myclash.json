@@ -3,24 +3,24 @@
   "owner": "aisouler",
   "name": "myclash",
   "full_name": "aisouler/myclash",
-  "description": "Mihomo（Clash Meta）覆写脚本和配置文件，无DNS泄露，内置多项分流策略、地区策略，实现全局排除节点、自动识别节点倍率功能，解决机场使用私有DNS导致无法解析节点域名的问题，支持多项自定义配置",
+  "description": "Mihomo（Clash Meta）覆写脚本与配置文件，无DNS泄露，内置分流与地区策略，支持节点自动识别、倍率分类、全局排除及多项自定义配置，解决机场私有 DNS 导致的节点域名解析问题。",
   "description_ja": "",
   "url": "https://github.com/AIsouler/MyClash",
   "homepage_url": "",
   "language": "JavaScript",
-  "license": "",
+  "license": "MIT",
   "topics": [
     "clash",
     "mihomo",
     "mihomo-config"
   ],
-  "star_count": 814,
-  "fork_count": 67,
+  "star_count": 865,
+  "fork_count": 71,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-12-19T12:10:20Z",
-  "updated_at": "2026-09-20T13:30:21Z",
-  "pushed_at": "2026-09-18T13:16:15Z",
+  "updated_at": "2026-09-25T17:27:38Z",
+  "pushed_at": "2026-09-25T13:07:26Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -46,6 +46,10 @@
     {
       "date": "2026-09-20",
       "stars": 814
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 865
     }
   ]
 }

@@ -3,7 +3,7 @@
   "owner": "henriquesebastiao",
   "name": "downtify",
   "full_name": "henriquesebastiao/downtify",
-  "description": "Download and listen to your music and playlists, along with album art and metadata",
+  "description": "Download and listen to your music, playlists, and podcasts, along with album art and metadata",
   "description_ja": "",
   "url": "https://github.com/henriquesebastiao/downtify",
   "homepage_url": "https://downtify.henriquesebastiao.com",
@@ -11,23 +11,25 @@
   "license": "GPL-3.0",
   "topics": [
     "downloader",
-    "downtify",
     "mp3",
     "music",
     "music-downloader",
     "music-player",
     "playlists",
+    "podcast",
+    "podcast-downloader",
+    "podcast-player",
     "self-hosted",
     "spotify",
     "spotify-downloader"
   ],
-  "star_count": 551,
-  "fork_count": 57,
+  "star_count": 563,
+  "fork_count": 59,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-02-05T11:31:59Z",
-  "updated_at": "2026-09-20T21:25:18Z",
-  "pushed_at": "2026-09-19T17:44:17Z",
+  "updated_at": "2026-09-25T23:12:17Z",
+  "pushed_at": "2026-09-25T15:49:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -233,6 +235,10 @@
     {
       "date": "2026-09-20",
       "stars": 551
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 563
     }
   ]
 }

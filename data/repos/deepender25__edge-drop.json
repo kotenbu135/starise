@@ -3,30 +3,29 @@
   "owner": "deepender25",
   "name": "edge-drop",
   "full_name": "deepender25/edge-drop",
-  "description": "Edge-Drop is like a Dynamic Island for your desktop clipboard. It hides on the edge of your screen and opens when you hover near it, letting you easily store and drag text, links, images, and files directly into any application.",
+  "description": "Edge-Drop is a clipboard shelf on the edge of your screen. Hover to open it. Drag files and images into any app, click to copy text and links. Free and open-source for Windows.",
   "description_ja": "",
   "url": "https://github.com/Deepender25/Edge-Drop",
-  "homepage_url": "https://www.edgedrop.app/",
+  "homepage_url": "https://www.edgedrop.app",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
+    "clipboard",
     "clipboard-manager",
     "desktop-app",
     "drag-and-drop",
-    "dynamic-island",
     "electron",
-    "framer-motion",
+    "open-source",
+    "productivity",
     "productivity-tool",
-    "react",
-    "state-management",
-    "typescript"
+    "windows"
   ],
-  "star_count": 578,
+  "star_count": 591,
   "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-09T17:45:03Z",
-  "updated_at": "2026-09-20T16:27:21Z",
+  "updated_at": "2026-09-25T15:46:05Z",
   "pushed_at": "2026-09-15T16:28:10Z",
   "deleted_at": "",
   "star_history": [
@@ -37,6 +36,10 @@
     {
       "date": "2026-09-20",
       "stars": 578
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 591
     }
   ]
 }

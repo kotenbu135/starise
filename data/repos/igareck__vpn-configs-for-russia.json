@@ -3,7 +3,7 @@
   "owner": "igareck",
   "name": "vpn-configs-for-russia",
   "full_name": "igareck/vpn-configs-for-russia",
-  "description": "🗽Бесплатные и проверенные VPN конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN configurations that work in Russia ⚪ Whitelists bypass",
+  "description": "🗽Бесплатные и проверенные VPN/Tor конфигурации, работающие в РФ ⚪ Белые списки / обход белых списков ⚪ Free and checked VPN/Tor configurations that work in Russia ⚪ Whitelists bypass",
   "description_ja": "",
   "url": "https://github.com/igareck/vpn-configs-for-russia",
   "homepage_url": "https://t.me/igareq",
@@ -11,33 +11,33 @@
   "license": "GPL-3.0",
   "topics": [
     "free-vpn-key",
-    "free-vpn-keys",
     "free-vpn-russia",
     "roskomnadzor",
     "russia-vpn",
     "shadowsocks",
-    "shadowsocks-free",
+    "tor",
+    "tor-bridge",
+    "tor-bridges",
+    "tor-browser",
+    "tor-client",
     "v2ray",
     "vless",
-    "vless-reality",
     "vpn",
     "vpn-config",
     "vpn-configuration",
     "vpn-for-russia",
     "vpn-free-russia",
-    "vpn-key",
-    "vpn-keys",
     "vpn-russia",
     "whitelist",
     "xray"
   ],
-  "star_count": 8811,
-  "fork_count": 439,
+  "star_count": 8908,
+  "fork_count": 443,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-13T15:10:23Z",
-  "updated_at": "2026-09-20T22:18:16Z",
-  "pushed_at": "2026-09-20T22:18:07Z",
+  "updated_at": "2026-09-25T23:29:21Z",
+  "pushed_at": "2026-09-25T23:04:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -387,6 +387,10 @@
     {
       "date": "2026-09-20",
       "stars": 8811
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 8908
     }
   ]
 }

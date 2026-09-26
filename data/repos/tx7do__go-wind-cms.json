@@ -3,33 +3,40 @@
   "owner": "tx7do",
   "name": "go-wind-cms",
   "full_name": "tx7do/go-wind-cms",
-  "description": "Full-stack Headless CMS powered by Go, Kratos, Vue3, React \u0026 Flutter. Features API-first, multi-tenant architecture, multi-language \u0026 multi-platform sync.",
+  "description": "Go full-stack headless content platform on go-kratos: Protobuf as the single API contract with Go/TypeScript/OpenAPI codegen, REST + gRPC dual-protocol admin/app/core services, multi-tenant isolation with menu/API/data-level RBAC and native i18n — with a Vue3 (Vben) admin and Vue/React/Taro/Flutter app frontends.",
   "description_ja": "",
   "url": "https://github.com/tx7do/go-wind-cms",
   "homepage_url": "https://www.gowind.cloud/cms/intro.html",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
-    "ant-design-pro",
-    "antd-design",
-    "cms",
+    "code-generation",
+    "content-management",
+    "ent",
     "flutter",
-    "golang",
-    "microservice",
+    "go",
+    "go-kratos",
+    "grpc",
+    "headless-cms",
+    "jwt",
+    "multi-tenant",
     "nextjs",
+    "nuxt",
+    "postgresql",
+    "protobuf",
+    "rbac",
     "react",
-    "shadcn-ui",
+    "redis",
+    "rest-api",
     "taro",
-    "vben",
-    "vue3",
-    "vue3-typescript"
+    "vue3"
   ],
   "star_count": 226,
-  "fork_count": 50,
+  "fork_count": 51,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2022-08-25T23:33:30Z",
-  "updated_at": "2026-09-17T03:33:34Z",
+  "updated_at": "2026-09-24T11:45:41Z",
   "pushed_at": "2026-09-17T03:33:30Z",
   "deleted_at": "",
   "star_history": [
@@ -411,6 +418,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 226
+    },
+    {
+      "date": "2026-09-25",
       "stars": 226
     }
   ]

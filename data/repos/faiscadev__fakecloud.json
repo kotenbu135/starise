@@ -3,7 +3,7 @@
   "owner": "faiscadev",
   "name": "fakecloud",
   "full_name": "faiscadev/fakecloud",
-  "description": "Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,506 operations, true 100% Smithy conformance (248,557/248,557 variants pass). No account, no auth token, no paid tier.",
+  "description": "Free, open-source AWS emulator. LocalStack alternative: 105 services, 7,508 operations, true 100% Smithy conformance (248,557/248,557 variants pass). No account, no auth token, no paid tier.",
   "description_ja": "",
   "url": "https://github.com/faiscadev/fakecloud",
   "homepage_url": "https://fakecloud.dev",
@@ -31,13 +31,13 @@
     "sqs",
     "terraform"
   ],
-  "star_count": 553,
+  "star_count": 560,
   "fork_count": 46,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-04T13:45:31Z",
-  "updated_at": "2026-09-17T18:23:39Z",
-  "pushed_at": "2026-09-20T22:07:28Z",
+  "updated_at": "2026-09-25T08:51:58Z",
+  "pushed_at": "2026-09-25T20:54:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -359,6 +359,10 @@
     {
       "date": "2026-09-20",
       "stars": 553
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 560
     }
   ]
 }

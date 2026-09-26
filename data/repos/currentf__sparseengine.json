@@ -3,20 +3,20 @@
   "owner": "currentf",
   "name": "sparseengine",
   "full_name": "currentf/sparseengine",
-  "description": "A sparse-first inference engine (sparsevllm). It also contains DeltaKV compressor training + evaluation tooling (deltakv).",
+  "description": "A sparse-first inference engine (SparseEngine).",
   "description_ja": "",
   "url": "https://github.com/CURRENTF/SparseEngine",
   "homepage_url": "",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [],
-  "star_count": 76,
+  "star_count": 77,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-29T10:41:11Z",
-  "updated_at": "2026-09-20T13:28:10Z",
-  "pushed_at": "2026-09-20T13:28:07Z",
+  "updated_at": "2026-09-25T12:25:56Z",
+  "pushed_at": "2026-09-25T12:39:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -318,6 +318,10 @@
     {
       "date": "2026-09-20",
       "stars": 76
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 77
     }
   ]
 }

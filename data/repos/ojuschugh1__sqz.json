@@ -3,7 +3,7 @@
   "owner": "ojuschugh1",
   "name": "sqz",
   "full_name": "ojuschugh1/sqz",
-  "description": "Compress LLM context to save tokens and reduce costs",
+  "description": "Context compression for AI coding agents: compresses tool output before it enters the model, dedups repeats to 13-token refs. Claude Code, Cursor, Codex, Kiro, Zed, any MCP client. Rust, zero LLM calls.",
   "description_ja": "",
   "url": "https://github.com/ojuschugh1/sqz",
   "homepage_url": "https://ojuschugh1.github.io/sqz/",
@@ -11,29 +11,33 @@
   "license": "NOASSERTION",
   "topics": [
     "agentic-ai",
-    "ai",
-    "api",
+    "ai-agents",
+    "claude-code",
     "cli",
-    "context",
+    "codex",
+    "coding-agents",
+    "context-compression",
+    "context-window",
     "cost-optimization",
+    "cursor",
     "developer-tools",
-    "extensions",
-    "javascript",
+    "llm",
     "llms",
+    "mcp",
+    "mcp-server",
     "open-source",
-    "python",
+    "prompt-caching",
     "rust",
-    "token",
     "token-optimization",
     "tokens"
   ],
-  "star_count": 624,
+  "star_count": 629,
   "fork_count": 43,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-12T07:23:52Z",
-  "updated_at": "2026-09-18T22:57:55Z",
-  "pushed_at": "2026-09-15T18:09:50Z",
+  "updated_at": "2026-09-24T22:19:08Z",
+  "pushed_at": "2026-09-24T06:35:44Z",
   "deleted_at": "2026-08-28",
   "star_history": [
     {
@@ -323,6 +327,10 @@
     {
       "date": "2026-09-20",
       "stars": 624
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 629
     }
   ]
 }

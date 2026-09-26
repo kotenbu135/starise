@@ -3,7 +3,7 @@
   "owner": "410979729",
   "name": "scope-recall-hermes",
   "full_name": "410979729/scope-recall-hermes",
-  "description": "Hermes Agent memory plugin/provider for scope-aware recall, SQLite truth, LanceDB semantic search, and hybrid retrieval.",
+  "description": "Long-term memory for Hermes and Codex, with local storage, source-backed recall, and tools to inspect, correct, or delete remembered information.",
   "description_ja": "",
   "url": "https://github.com/410979729/scope-recall-hermes",
   "homepage_url": "",
@@ -27,13 +27,13 @@
     "sqlite",
     "vector-search"
   ],
-  "star_count": 273,
-  "fork_count": 29,
+  "star_count": 274,
+  "fork_count": 30,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-15T10:56:00Z",
-  "updated_at": "2026-09-20T19:30:34Z",
-  "pushed_at": "2026-09-20T19:30:30Z",
+  "updated_at": "2026-09-25T14:32:58Z",
+  "pushed_at": "2026-09-25T17:57:05Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -339,6 +339,10 @@
     {
       "date": "2026-09-20",
       "stars": 273
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 274
     }
   ]
 }

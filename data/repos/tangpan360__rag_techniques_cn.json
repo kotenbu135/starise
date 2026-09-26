@@ -3,19 +3,19 @@
   "owner": "tangpan360",
   "name": "rag_techniques_cn",
   "full_name": "tangpan360/rag_techniques_cn",
-  "description": "本仓库囊括了 RAG 中各技术点的学习案例，是对上游项目 NirDiamant/RAG_Techniques 的中文学习与复现版本。包括各种调优方法示例：chunk / query enhancement / retrieval / rerank / compression；  可靠性增强：相关性过滤、groundedness 检查、证据高亮；高级架构：RAPTOR / GraphRAG / Self-RAG / CRAG / MemoRAG 等。",
+  "description": "本仓库囊括了 RAG 中各技术点的学习案例。包括各种调优方法示例：chunk / query enhancement / retrieval / rerank / compression；  可靠性增强：相关性过滤、groundedness 检查、证据高亮；高级架构：RAPTOR / GraphRAG / Self-RAG / CRAG / MemoRAG 等。",
   "description_ja": "",
   "url": "https://github.com/tangpan360/RAG_Techniques_CN",
   "homepage_url": "",
   "language": "Jupyter Notebook",
   "license": "",
   "topics": [],
-  "star_count": 93,
+  "star_count": 94,
   "fork_count": 10,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-15T12:31:34Z",
-  "updated_at": "2026-09-17T02:31:13Z",
+  "updated_at": "2026-09-24T04:23:50Z",
   "pushed_at": "2026-09-17T02:31:09Z",
   "deleted_at": "",
   "star_history": [
@@ -134,6 +134,10 @@
     {
       "date": "2026-09-20",
       "stars": 93
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 94
     }
   ]
 }

@@ -7,7 +7,7 @@
   "description_ja": "DDDとEventSourcingに基づくモダンなリアクティブCQRSアーキテクチャのマイクロサービス開発フレームワーク | 基于 DDD \u0026 EventSourcing 的现代响应式 CQRS 架构微服务开发框架",
   "url": "https://github.com/Ahoo-Wang/Wow",
   "homepage_url": "https://wow.ahoo.me/",
-  "language": "Kotlin",
+  "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
     "architecture",
@@ -30,13 +30,13 @@
     "spring-boot",
     "webflux"
   ],
-  "star_count": 303,
+  "star_count": 304,
   "fork_count": 38,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-04-15T05:28:03Z",
-  "updated_at": "2026-09-20T12:30:57Z",
-  "pushed_at": "2026-09-20T11:18:52Z",
+  "updated_at": "2026-09-25T22:50:28Z",
+  "pushed_at": "2026-09-25T22:52:46Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -422,6 +422,10 @@
     {
       "date": "2026-09-20",
       "stars": 303
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 304
     }
   ]
 }

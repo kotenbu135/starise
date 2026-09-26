@@ -3,10 +3,10 @@
   "owner": "ammawla",
   "name": "encode-toolkit",
   "full_name": "ammawla/encode-toolkit",
-  "description": "MCP server and Claude Plugin for a full ENCODE Project genomic data and analysis toolkit — search, download, track, and analyze functional genomics experiments",
+  "description": "MCP server and Claude Code plugin for the ENCODE Project: search, download and analyze ChIP-seq, ATAC-seq, RNA-seq, WGBS, Hi-C and CUT\u0026RUN data with 20 tools, 47 skills and 7 Nextflow pipelines",
   "description_ja": "",
   "url": "https://github.com/ammawla/encode-toolkit",
-  "homepage_url": "",
+  "homepage_url": "https://pypi.org/project/encode-toolkit/",
   "language": "Python",
   "license": "AGPL-3.0",
   "topics": [
@@ -31,8 +31,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-08T23:34:17Z",
-  "updated_at": "2026-09-20T21:28:08Z",
-  "pushed_at": "2026-09-20T21:28:02Z",
+  "updated_at": "2026-09-23T05:49:38Z",
+  "pushed_at": "2026-09-21T05:10:53Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -101,6 +101,10 @@
     },
     {
       "date": "2026-09-20",
+      "stars": 20
+    },
+    {
+      "date": "2026-09-25",
       "stars": 20
     }
   ]

@@ -3,7 +3,7 @@
   "owner": "automic-vault",
   "name": "automic-vault",
   "full_name": "automic-vault/automic-vault",
-  "description": "The missing secrets manager for developers",
+  "description": "CLI security is broken. The packaging layer is where we fix it.",
   "description_ja": "",
   "url": "https://github.com/automic-vault/automic-vault",
   "homepage_url": "https://www.automicvault.com",
@@ -14,13 +14,13 @@
     "secrets-manager",
     "security-layer"
   ],
-  "star_count": 516,
+  "star_count": 532,
   "fork_count": 25,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-04T14:07:36Z",
-  "updated_at": "2026-09-20T18:43:45Z",
-  "pushed_at": "2026-09-19T22:37:18Z",
+  "updated_at": "2026-09-25T17:45:49Z",
+  "pushed_at": "2026-09-25T17:45:44Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -154,6 +154,10 @@
     {
       "date": "2026-09-20",
       "stars": 516
+    },
+    {
+      "date": "2026-09-25",
+      "stars": 532
     }
   ]
 }
