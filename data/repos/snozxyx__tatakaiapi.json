@@ -3,7 +3,7 @@
   "owner": "snozxyx",
   "name": "tatakaiapi",
   "full_name": "snozxyx/tatakaiapi",
-  "description": "Unified API for the Anime that includes the multiple website scrapping , streaming link and hindi dubbed and other indian dubbed",
+  "description": "Tatakai API (@tatakai/api-v3) is the backend catalog service for the Tatakai V6 otaku-community app. It aggregates public metadata from AniList and Jikan (MyAnimeList) into a folded-in Postgres mirror, then serves it through a cache + live-fallback + background-backfill pipeline so clients stay fast without hammering the upstream APIs.",
   "description_ja": "",
   "url": "https://github.com/Snozxyx/TatakaiAPI",
   "homepage_url": "https://api.tatakai.me",
@@ -27,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-20T13:37:59Z",
-  "updated_at": "2026-09-13T13:04:57Z",
-  "pushed_at": "2026-08-26T08:38:25Z",
+  "updated_at": "2026-09-26T21:06:22Z",
+  "pushed_at": "2026-09-26T21:00:27Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -321,6 +321,10 @@
     },
     {
       "date": "2026-09-25",
+      "stars": 35
+    },
+    {
+      "date": "2026-09-26",
       "stars": 35
     }
   ]

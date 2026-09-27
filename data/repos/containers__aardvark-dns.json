@@ -1,0 +1,35 @@
+{
+  "repo_id": "R_kgDOGgIgug",
+  "owner": "containers",
+  "name": "aardvark-dns",
+  "full_name": "containers/aardvark-dns",
+  "description": "Authoritative dns server for A/AAAA container records. Forwards other request to host's /etc/resolv.conf",
+  "description_ja": "",
+  "url": "https://github.com/containers/aardvark-dns",
+  "homepage_url": "",
+  "language": "Rust",
+  "license": "Apache-2.0",
+  "topics": [
+    "container",
+    "coredns",
+    "dns",
+    "dns-server",
+    "dnsmasq",
+    "name-resolution",
+    "nameserver"
+  ],
+  "star_count": 295,
+  "fork_count": 65,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2021-12-08T18:11:42Z",
+  "updated_at": "2026-09-26T19:42:33Z",
+  "pushed_at": "2026-09-14T16:02:43Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-26",
+      "stars": 295
+    }
+  ]
+}

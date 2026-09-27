@@ -7,8 +7,8 @@
   "description_ja": "折れ線・棒・円・レーダー・バブル・ローソク足チャートに対応し、スケーリング・パン・アニメーションをサポートする強力な 🚀 Android チャート／グラフビューライブラリ。",
   "url": "https://github.com/PhilJay/MPAndroidChart",
   "homepage_url": "https://philjay.cc/mpandroidchart",
-  "language": "Java",
-  "license": "NOASSERTION",
+  "language": "Kotlin",
+  "license": "Apache-2.0",
   "topics": [
     "android",
     "chart",
@@ -16,13 +16,13 @@
     "java",
     "mpandroidchart"
   ],
-  "star_count": 38171,
+  "star_count": 38169,
   "fork_count": 8973,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2014-04-25T14:29:47Z",
-  "updated_at": "2026-09-25T17:10:21Z",
-  "pushed_at": "2026-09-22T22:22:34Z",
+  "updated_at": "2026-09-26T15:42:46Z",
+  "pushed_at": "2026-09-26T17:29:28Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -412,6 +412,10 @@
     {
       "date": "2026-09-25",
       "stars": 38171
+    },
+    {
+      "date": "2026-09-26",
+      "stars": 38169
     }
   ]
 }

@@ -6,7 +6,7 @@
   "description": "High-performance Go proxy gateway for 9Router LLM routing — 32K RPS, 42MB RAM, CGO-free",
   "description_ja": "",
   "url": "https://github.com/luqman-v1/9router-go",
-  "homepage_url": "https://github.com/decolua/9router",
+  "homepage_url": "https://github.com/luqman-v1/9router-go",
   "language": "Go",
   "license": "",
   "topics": [
@@ -21,16 +21,20 @@
     "sse"
   ],
   "star_count": 98,
-  "fork_count": 31,
+  "fork_count": 33,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-18T08:30:15Z",
-  "updated_at": "2026-09-25T21:50:52Z",
-  "pushed_at": "2026-09-25T03:32:41Z",
+  "updated_at": "2026-09-26T17:18:24Z",
+  "pushed_at": "2026-09-26T17:18:20Z",
   "deleted_at": "",
   "star_history": [
     {
       "date": "2026-09-25",
+      "stars": 98
+    },
+    {
+      "date": "2026-09-26",
       "stars": 98
     }
   ]

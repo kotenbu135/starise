@@ -6,17 +6,24 @@
   "description": "Zig bindings for Godot 4",
   "description_ja": "Godot 4向けのZigバインディング",
   "url": "https://github.com/gdzig/gdzig",
-  "homepage_url": "https://gdzig.github.io/gdzig/",
+  "homepage_url": "https://gdzig.github.io/",
   "language": "Zig",
   "license": "MIT",
-  "topics": [],
+  "topics": [
+    "gdextension",
+    "godot",
+    "godot-engine",
+    "godot4",
+    "zig",
+    "zig-package"
+  ],
   "star_count": 215,
   "fork_count": 29,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-06-14T02:46:25Z",
-  "updated_at": "2026-09-25T23:05:51Z",
-  "pushed_at": "2026-09-23T07:24:17Z",
+  "updated_at": "2026-09-26T09:31:57Z",
+  "pushed_at": "2026-09-26T07:17:18Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -401,6 +408,10 @@
     },
     {
       "date": "2026-09-25",
+      "stars": 215
+    },
+    {
+      "date": "2026-09-26",
       "stars": 215
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "repo_id": "R_kgDOT_OWdw",
+  "owner": "arhuman",
+  "name": "ansible-static-lint",
+  "full_name": "arhuman/ansible-static-lint",
+  "description": "Static Ansible linting in Go: the 38 ansible-lint rules decidable from YAML alone, byte-for-byte pep8 output, no Ansible runtime.",
+  "description_ja": "",
+  "url": "https://github.com/arhuman/ansible-static-lint",
+  "homepage_url": "https://github.com/arhuman/ansible-static-lint  github-actions",
+  "language": "Go",
+  "license": "MIT",
+  "topics": [
+    "ansible",
+    "ansible-lint",
+    "ci",
+    "devops",
+    "devops-tools",
+    "github-actions",
+    "golang",
+    "linter",
+    "pre-commit",
+    "sarif",
+    "static-analysis"
+  ],
+  "star_count": 31,
+  "fork_count": 2,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-08-21T03:35:17Z",
+  "updated_at": "2026-09-24T10:43:05Z",
+  "pushed_at": "2026-09-24T10:43:01Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-26",
+      "stars": 31
+    }
+  ]
+}

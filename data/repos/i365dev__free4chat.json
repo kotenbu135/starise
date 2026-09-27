@@ -3,34 +3,37 @@
   "owner": "i365dev",
   "name": "free4chat",
   "full_name": "i365dev/free4chat",
-  "description": "Free4Chat provides the temporary boundary. Participants bring the capabilities.",
+  "description": "Temporary rooms for Humans and AI Agents — run, supervise and steer Agent Tasks without a permanent workspace.",
   "description_ja": "",
   "url": "https://github.com/i365dev/free4chat",
   "homepage_url": "https://www.free4.chat",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "agent-collaboration",
+    "agent-runtime",
+    "agent-supervision",
+    "agentic-ai",
     "ai-agent",
     "ai-agents",
-    "cloudflare",
     "cloudflare-workers",
     "collaboration",
-    "file-transfer",
+    "human-agent-collaboration",
+    "human-in-the-loop",
+    "long-running-agents",
     "mcp",
     "model-context-protocol",
     "multi-agent",
-    "serverless",
-    "sfu",
-    "voice-chat",
+    "realtime-collaboration",
     "webrtc"
   ],
-  "star_count": 1199,
+  "star_count": 1200,
   "fork_count": 168,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-10-31T09:13:12Z",
-  "updated_at": "2026-09-25T16:06:42Z",
-  "pushed_at": "2026-09-25T16:06:38Z",
+  "updated_at": "2026-09-26T16:19:16Z",
+  "pushed_at": "2026-09-26T17:11:17Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -420,6 +423,10 @@
     {
       "date": "2026-09-25",
       "stars": 1199
+    },
+    {
+      "date": "2026-09-26",
+      "stars": 1200
     }
   ]
 }

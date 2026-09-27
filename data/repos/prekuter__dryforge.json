@@ -3,13 +3,14 @@
   "owner": "prekuter",
   "name": "dryforge",
   "full_name": "prekuter/dryforge",
-  "description": "Fundamentally different approach to coding agents: bounded autonomy, from intent to implementation. ready, then go.",
+  "description": "Bounded-autonomy plugin harness for agents. Intent to implementation: ready, then go.",
   "description_ja": "",
   "url": "https://github.com/prekuter/dryforge",
   "homepage_url": "https://dryforge.dev",
   "language": "Python",
   "license": "Apache-2.0",
   "topics": [
+    "agent-harness",
     "agent-plugins",
     "agent-skills",
     "agentic-coding",
@@ -28,16 +29,15 @@
     "openai-codex",
     "skills",
     "spec-driven",
-    "spec-driven-development",
-    "vibe-coding"
+    "spec-driven-development"
   ],
-  "star_count": 275,
+  "star_count": 282,
   "fork_count": 26,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-31T17:38:22Z",
-  "updated_at": "2026-09-25T17:25:00Z",
-  "pushed_at": "2026-09-25T15:22:09Z",
+  "updated_at": "2026-09-26T18:39:40Z",
+  "pushed_at": "2026-09-26T18:39:12Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -287,6 +287,10 @@
     {
       "date": "2026-09-25",
       "stars": 275
+    },
+    {
+      "date": "2026-09-26",
+      "stars": 282
     }
   ]
 }

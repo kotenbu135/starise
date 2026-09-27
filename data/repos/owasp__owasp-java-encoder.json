@@ -3,16 +3,23 @@
   "owner": "owasp",
   "name": "owasp-java-encoder",
   "full_name": "owasp/owasp-java-encoder",
-  "description": "The OWASP Java Encoder is a Java 1.5+ simple-to-use drop-in high-performance encoder class with no dependencies and little baggage. This project will help Java web developers defend against Cross Site Scripting!",
-  "description_ja": "OWASP Java Encoderは、依存関係なしで手軽に導入できるJava 1.5+対応の高性能エンコーダークラスです。Java Web開発者がクロスサイトスクリプティング対策を行うのに役立ちます！",
+  "description": "Contextual output encoding for Java 8+: HTML, JavaScript, CSS, XML and URI components. Zero-dependency core with optional JSP, Jakarta and ESAPI adapters.",
+  "description_ja": "",
   "url": "https://github.com/OWASP/owasp-java-encoder",
-  "homepage_url": "https://owasp.org/www-project-java-encoder/",
+  "homepage_url": "https://owasp.org/projects/java-encoder",
   "language": "Java",
   "license": "BSD-3-Clause",
   "topics": [
-    "defense",
-    "encoding",
+    "css",
+    "esapi",
+    "html",
+    "jakarta",
     "java",
+    "javascript",
+    "jsp",
+    "output-encoding",
+    "owasp",
+    "xml",
     "xss"
   ],
   "star_count": 542,
@@ -20,8 +27,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2015-03-30T00:16:37Z",
-  "updated_at": "2026-09-25T06:38:37Z",
-  "pushed_at": "2026-09-24T23:13:58Z",
+  "updated_at": "2026-09-26T15:54:31Z",
+  "pushed_at": "2026-09-26T16:04:34Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -410,6 +417,10 @@
     },
     {
       "date": "2026-09-25",
+      "stars": 542
+    },
+    {
+      "date": "2026-09-26",
       "stars": 542
     }
   ]
