@@ -3,29 +3,30 @@
   "owner": "termide",
   "name": "termide",
   "full_name": "termide/termide",
-  "description": "A cross-platform terminal-based IDE, file manager, and virtual terminal written in Rust.",
+  "description": "All-in-one terminal workspace for desktops and servers: editor with LSP, file manager with SFTP/FTP, terminal, git, database viewer and a coding agent in one zero-config static Rust binary.",
   "description_ja": "",
   "url": "https://github.com/termide/termide",
   "homepage_url": "https://termide.github.io",
   "language": "Rust",
   "license": "MIT",
   "topics": [
+    "cli",
+    "coding-agent",
+    "devops",
     "file-manager",
-    "ftp",
     "git",
     "hex-editor",
+    "homelab",
     "ide",
+    "llm",
     "markdown",
-    "mermaid",
-    "mysql",
-    "nfs",
-    "postgres",
-    "resource-monitor",
-    "script-automation",
+    "mcp",
+    "ratatui",
+    "rust",
     "sftp",
-    "smb",
-    "sqlite",
+    "sql-client",
     "ssh",
+    "sysadmin",
     "terminal",
     "text-editor",
     "tui"
@@ -35,7 +36,7 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-11-20T14:30:41Z",
-  "updated_at": "2026-09-26T15:05:30Z",
+  "updated_at": "2026-09-27T17:20:05Z",
   "pushed_at": "2026-09-26T15:05:25Z",
   "deleted_at": "",
   "star_history": [
@@ -321,6 +322,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 167
+    },
+    {
+      "date": "2026-09-27",
       "stars": 167
     }
   ]

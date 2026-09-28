@@ -3,25 +3,31 @@
   "owner": "zeybek",
   "name": "camouflage.nvim",
   "full_name": "zeybek/camouflage.nvim",
-  "description": "Mask sensitive values in config files during screen sharing. Supports .env, JSON, YAML, TOML, XML, Terraform/HCL, Dockerfile, and more. Zero file modification - uses Neovim extmarks.",
-  "description_ja": "画面共有中に設定ファイルの機密値をマスクする。.env、JSON、YAML、TOML、XML、Terraform/HCL、Dockerfileなどに対応。ファイル変更不要 — Neovim extmarksを使用",
+  "description": "Hide secrets like API keys, passwords and tokens in Neovim while screen sharing or streaming. Masks .env, JSON, YAML, TOML, XML, .http, Terraform/HCL and Dockerfiles with extmarks, without changing the file. Presentation mode, screen shield, picker and terminal masking.",
+  "description_ja": "",
   "url": "https://github.com/zeybek/camouflage.nvim",
   "homepage_url": "",
   "language": "Lua",
   "license": "MIT",
   "topics": [
+    "api-keys",
+    "conceal",
     "devops",
     "dotenv",
+    "environment-variables",
     "hcl",
     "infrastructure-as-code",
     "lua",
+    "luarocks",
     "neovim",
     "neovim-plugin",
     "nvim",
+    "passwords",
     "privacy",
     "screen-sharing",
     "secrets",
     "security",
+    "streaming",
     "terraform"
   ],
   "star_count": 62,
@@ -29,8 +35,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-10T01:42:26Z",
-  "updated_at": "2026-09-24T14:50:44Z",
-  "pushed_at": "2026-09-23T19:17:27Z",
+  "updated_at": "2026-09-27T03:20:57Z",
+  "pushed_at": "2026-09-27T03:21:02Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +425,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 62
+    },
+    {
+      "date": "2026-09-27",
       "stars": 62
     }
   ]

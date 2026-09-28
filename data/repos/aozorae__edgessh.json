@@ -6,7 +6,7 @@
   "description": "A lightweight WebSSH workspace on Cloudflare Workers with host management, encrypted storage, SFTP, process monitoring and globe visualization. | 基于 Cloudflare Workers 的轻量 WebSSH 工作台，支持主机管理、加密存储、SFTP、进程监控与地球可视化。",
   "description_ja": "",
   "url": "https://github.com/aozorae/EdgeSSH",
-  "homepage_url": "",
+  "homepage_url": "https://edgessh-docs.pages.dev/",
   "language": "TypeScript",
   "license": "Apache-2.0",
   "topics": [
@@ -18,13 +18,13 @@
     "web-terminal",
     "webssh"
   ],
-  "star_count": 50,
-  "fork_count": 35,
+  "star_count": 66,
+  "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-09-18T15:52:00Z",
-  "updated_at": "2026-09-26T14:57:44Z",
-  "pushed_at": "2026-09-26T14:57:40Z",
+  "updated_at": "2026-09-27T16:38:48Z",
+  "pushed_at": "2026-09-27T07:50:48Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -34,6 +34,10 @@
     {
       "date": "2026-09-26",
       "stars": 50
+    },
+    {
+      "date": "2026-09-27",
+      "stars": 66
     }
   ]
 }

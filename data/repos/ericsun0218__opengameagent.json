@@ -3,11 +3,11 @@
   "owner": "ericsun0218",
   "name": "opengameagent",
   "full_name": "ericsun0218/opengameagent",
-  "description": "Open-source C# agent runtime for AI NPCs and in-game agents. Structured context, ReAct tool use, complex task planning, memory, and reliable actions for Unity, Godot, Unreal Engine, and servers.",
+  "description": "MIT-licensed TypeScript runtime for AI-native game characters and worlds, with durable state, reliable actions, memory, tools, and Unity, Godot, and Unreal Engine integrations.",
   "description_ja": "",
   "url": "https://github.com/EricSun0218/OpenGameAgent",
   "homepage_url": "https://opengameagent.com",
-  "language": "C#",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
     "agent-runtime",
@@ -15,8 +15,6 @@
     "agents",
     "ai",
     "ai-agents",
-    "csharp",
-    "dotnet",
     "game-ai",
     "game-development",
     "generative-ai",
@@ -24,10 +22,12 @@
     "living-world",
     "llm",
     "multi-agent",
+    "nodejs",
     "npc",
     "npc-ai",
     "open-source",
     "tool-calling",
+    "typescript",
     "unity",
     "unreal-engine"
   ],
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-28T19:51:19Z",
-  "updated_at": "2026-09-25T13:40:03Z",
-  "pushed_at": "2026-09-22T00:11:19Z",
+  "updated_at": "2026-09-27T13:55:18Z",
+  "pushed_at": "2026-09-27T13:57:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -74,6 +74,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 50
+    },
+    {
+      "date": "2026-09-27",
       "stars": 50
     }
   ]

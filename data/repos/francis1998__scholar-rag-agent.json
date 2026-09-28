@@ -3,7 +3,7 @@
   "owner": "francis1998",
   "name": "scholar-rag-agent",
   "full_name": "francis1998/scholar-rag-agent",
-  "description": "Local-first scientific literature workflows with per-paper evidence limits, saved collections, model-free worksheets, and inspectable provenance.",
+  "description": "Local-first scientific literature RAG with document-count thresholds, model-free worksheets, frozen evidence, and persistent human review.",
   "description_ja": "",
   "url": "https://github.com/Francis1998/scholar-rag-agent",
   "homepage_url": "",
@@ -12,12 +12,13 @@
   "topics": [
     "agentic-rag",
     "anthropic",
-    "document-filtering",
+    "evidence-gating",
     "evidence-provenance",
     "evidence-worksheets",
     "fastapi",
     "gemini",
     "graphrag",
+    "human-in-the-loop",
     "hybrid-search",
     "kimi",
     "llm-agents",
@@ -28,7 +29,6 @@
     "retrieval-augmented-generation",
     "run-history",
     "scientific-literature",
-    "source-diversity",
     "sqlite"
   ],
   "star_count": 149,
@@ -36,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-06-21T05:49:47Z",
-  "updated_at": "2026-09-26T20:39:06Z",
-  "pushed_at": "2026-09-26T20:38:06Z",
+  "updated_at": "2026-09-27T17:14:32Z",
+  "pushed_at": "2026-09-27T17:14:08Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -50,6 +50,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 149
+    },
+    {
+      "date": "2026-09-27",
       "stars": 149
     }
   ]

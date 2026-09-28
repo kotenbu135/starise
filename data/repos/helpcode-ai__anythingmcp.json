@@ -3,7 +3,7 @@
   "owner": "helpcode-ai",
   "name": "anythingmcp",
   "full_name": "helpcode-ai/anythingmcp",
-  "description": "Turn any REST, SOAP, GraphQL or SQL API into MCP tools for Claude \u0026 ChatGPT. Self-hosted. 258 connectors: ERP, e-commerce, SAP.",
+  "description": "Turn any REST, SOAP, GraphQL, OData or SQL API into MCP tools for Claude \u0026 ChatGPT. Self-hosted. 264 connectors: SAP S/4HANA \u0026 Business One, ERP, e-commerce.",
   "description_ja": "",
   "url": "https://github.com/HelpCode-ai/anythingmcp",
   "homepage_url": "https://anythingmcp.com",
@@ -11,7 +11,6 @@
   "license": "AGPL-3.0",
   "topics": [
     "ai-agents",
-    "api-integration",
     "chatgpt",
     "claude",
     "claude-connectors",
@@ -24,20 +23,21 @@
     "mcp-server",
     "model-context-protocol",
     "no-code",
-    "openapi",
     "openapi-to-mcp",
     "rest-to-mcp",
+    "s4hana",
+    "sap",
     "self-hosted",
     "soap-to-mcp",
     "sql-to-mcp"
   ],
-  "star_count": 421,
-  "fork_count": 54,
+  "star_count": 491,
+  "fork_count": 60,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-28T12:01:26Z",
-  "updated_at": "2026-09-26T21:32:51Z",
-  "pushed_at": "2026-09-26T21:02:46Z",
+  "updated_at": "2026-09-27T23:16:47Z",
+  "pushed_at": "2026-09-27T18:02:43Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -343,6 +343,10 @@
     {
       "date": "2026-09-26",
       "stars": 421
+    },
+    {
+      "date": "2026-09-27",
+      "stars": 491
     }
   ]
 }

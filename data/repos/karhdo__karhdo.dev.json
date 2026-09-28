@@ -3,21 +3,21 @@
   "owner": "karhdo",
   "name": "karhdo.dev",
   "full_name": "karhdo/karhdo.dev",
-  "description": "My 🏡 in the ☁: Featuring my portfolio, showcases, code snippets, development logs, and creative ideas.",
-  "description_ja": "クラウド上の私の家：ポートフォリオ、作品紹介、コードスニペット、開発ログ、クリエイティブなアイデアを掲載",
+  "description": "My 🏡 in the ☁: blog and portfolio of Trong Khanh (Karhdo). v2 on Astro × Bun, Tailwind v4 and Tokyonight; v1 (Next.js) lives on the v1 branch.",
+  "description_ja": "",
   "url": "https://github.com/Karhdo/karhdo.dev",
   "homepage_url": "https://karhdo.dev",
-  "language": "CSS",
+  "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "astro",
     "blog",
-    "markdown",
+    "bun",
+    "drizzle-orm",
     "mdx",
-    "nextjs",
-    "nextjs16",
-    "react19",
-    "static-site-generator",
+    "react",
     "tailwindcss",
+    "tokyonight",
     "typescript",
     "vercel"
   ],
@@ -26,8 +26,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2023-07-07T02:36:47Z",
-  "updated_at": "2026-05-27T09:39:36Z",
-  "pushed_at": "2026-09-26T14:37:26Z",
+  "updated_at": "2026-09-27T15:30:54Z",
+  "pushed_at": "2026-09-27T15:30:54Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -416,6 +416,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 78
+    },
+    {
+      "date": "2026-09-27",
       "stars": 78
     }
   ]

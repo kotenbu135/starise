@@ -3,7 +3,7 @@
   "owner": "shinthink",
   "name": "blitzstrike",
   "full_name": "shinthink/blitzstrike",
-  "description": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance \u0026 attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
+  "description": "Blitz Strike — a universal MCP security-audit toolbelt. Reconnaissance at speed. Analysis in depth. Validation before report.",
   "description_ja": "",
   "url": "https://github.com/shinthink/blitzstrike",
   "homepage_url": "https://github.com/shinthink/blitzstrike",
@@ -16,7 +16,7 @@
     "cve",
     "defensive-security",
     "exploit",
-    "mcp",
+    "llm",
     "mcp-server",
     "nuclei",
     "offensive-security",
@@ -27,16 +27,17 @@
     "reverse-engineering",
     "security",
     "security-tools",
+    "solidity",
     "vulnerability-scanning",
-    "wordpress"
+    "web3"
   ],
   "star_count": 512,
   "fork_count": 3,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-09-12T12:13:09Z",
-  "updated_at": "2026-09-26T18:25:21Z",
-  "pushed_at": "2026-09-19T11:27:43Z",
+  "updated_at": "2026-09-27T17:58:04Z",
+  "pushed_at": "2026-09-27T17:58:01Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -49,6 +50,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 512
+    },
+    {
+      "date": "2026-09-27",
       "stars": 512
     }
   ]

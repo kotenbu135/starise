@@ -3,33 +3,38 @@
   "owner": "harry-kp",
   "name": "vortix",
   "full_name": "harry-kp/vortix",
-  "description": "Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding.",
-  "description_ja": "WireGuard および OpenVPN 向けのターミナル UI。リアルタイムテレメトリとリーク防止機能付き。",
+  "description": "Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.",
+  "description_ja": "",
   "url": "https://github.com/Harry-kp/vortix",
   "homepage_url": "https://github.com/Harry-kp/vortix",
   "language": "Rust",
   "license": "MIT",
   "topics": [
     "cli",
+    "kill-switch",
     "linux",
     "macos",
     "network-security",
+    "networking",
     "openvpn",
     "ratatui",
     "rust",
+    "split-tunneling",
     "telemetry",
     "terminal",
     "tui",
     "vpn",
-    "wireguard"
+    "vpn-client",
+    "wireguard",
+    "wireguard-client"
   ],
-  "star_count": 653,
+  "star_count": 665,
   "fork_count": 28,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-02T10:43:16Z",
-  "updated_at": "2026-09-26T22:23:15Z",
-  "pushed_at": "2026-09-26T22:47:40Z",
+  "updated_at": "2026-09-27T22:42:11Z",
+  "pushed_at": "2026-09-27T20:53:25Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -419,6 +424,10 @@
     {
       "date": "2026-09-26",
       "stars": 653
+    },
+    {
+      "date": "2026-09-27",
+      "stars": 665
     }
   ]
 }

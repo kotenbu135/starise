@@ -3,7 +3,7 @@
   "owner": "shootthesound",
   "name": "fizgig",
   "full_name": "shootthesound/fizgig",
-  "description": "Krea 2, MiniMax \u0026 Klein 9B LoRA - LoKR Studio — train, profile, repair, and extract Krea 2, Flux 2 Klein 9B \u0026 MiniMax LoRAs \u0026 LoKRs",
+  "description": "Fizgig — LoRA \u0026 Fine-tune Studio for Klein 9B, Krea 2, MiniMax H3 \u0026 Qwen Image 2.1: train, fine-tune, profile, repair and extract LoRAs \u0026 LoKRs",
   "description_ja": "",
   "url": "https://github.com/shootthesound/Fizgig",
   "homepage_url": "",
@@ -27,15 +27,16 @@
     "lora-profiling",
     "lora-training",
     "minimax",
+    "qwen-image",
     "stable-diffusion"
   ],
-  "star_count": 421,
+  "star_count": 423,
   "fork_count": 41,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-04-20T23:49:59Z",
-  "updated_at": "2026-09-25T23:06:53Z",
-  "pushed_at": "2026-09-25T23:06:50Z",
+  "updated_at": "2026-09-28T00:04:03Z",
+  "pushed_at": "2026-09-28T00:03:59Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -317,6 +318,10 @@
     {
       "date": "2026-09-26",
       "stars": 421
+    },
+    {
+      "date": "2026-09-27",
+      "stars": 423
     }
   ]
 }

@@ -3,8 +3,8 @@
   "owner": "model-checking",
   "name": "kani",
   "full_name": "model-checking/kani",
-  "description": "Kani Rust Verifier",
-  "description_ja": "Kani Rustベリファイア",
+  "description": "A model checker for Rust programs.",
+  "description_ja": "",
   "url": "https://github.com/model-checking/kani",
   "homepage_url": "https://model-checking.github.io/kani",
   "language": "Rust",
@@ -14,13 +14,13 @@
     "rust",
     "verification"
   ],
-  "star_count": 3487,
-  "fork_count": 181,
+  "star_count": 3493,
+  "fork_count": 182,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2021-03-26T18:49:50Z",
-  "updated_at": "2026-09-26T17:15:08Z",
-  "pushed_at": "2026-09-25T18:52:31Z",
+  "updated_at": "2026-09-27T22:55:01Z",
+  "pushed_at": "2026-09-27T22:56:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -414,6 +414,10 @@
     {
       "date": "2026-09-26",
       "stars": 3487
+    },
+    {
+      "date": "2026-09-27",
+      "stars": 3493
     }
   ]
 }

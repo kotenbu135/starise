@@ -10,34 +10,34 @@
   "language": "Rust",
   "license": "NOASSERTION",
   "topics": [
+    "android-reverse-engineering",
     "apk-decompiler",
-    "confuserex",
+    "ctf-tools",
     "decompiler",
     "deobfuscation",
     "deobfuscator",
-    "disassembler",
     "dotnet",
-    "firmware",
     "javascript-deobfuscator",
     "malware-analysis",
     "mcp-server",
     "nuitka",
     "pyarmor",
-    "pyc",
     "pyinstaller",
     "python-decompiler",
     "reverse-engineering",
+    "security-tools",
+    "static-analysis",
     "unpacker",
     "upx",
     "wasm"
   ],
-  "star_count": 123,
-  "fork_count": 6,
+  "star_count": 133,
+  "fork_count": 8,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-27T12:04:13Z",
-  "updated_at": "2026-09-26T19:24:42Z",
-  "pushed_at": "2026-09-26T08:29:30Z",
+  "updated_at": "2026-09-27T21:17:27Z",
+  "pushed_at": "2026-09-27T12:58:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -87,6 +87,10 @@
     {
       "date": "2026-09-26",
       "stars": 123
+    },
+    {
+      "date": "2026-09-27",
+      "stars": 133
     }
   ]
 }

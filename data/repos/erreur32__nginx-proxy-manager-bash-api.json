@@ -3,22 +3,33 @@
   "owner": "erreur32",
   "name": "nginx-proxy-manager-bash-api",
   "full_name": "erreur32/nginx-proxy-manager-bash-api",
-  "description": "This BASH script enables the management of Nginx Proxy Manager through its API.",
+  "description": "Bash CLI for Nginx Proxy Manager: manage proxy/redirect/stream/404 hosts, SSL certs (Let's Encrypt, wildcard DNS), ACLs \u0026 users via the NPM API. JSON output, auto token, backups.",
   "description_ja": "",
   "url": "https://github.com/Erreur32/nginx-proxy-manager-Bash-API",
   "homepage_url": "",
   "language": "Shell",
   "license": "MIT",
   "topics": [
-    "nginx-proxy-manager"
+    "api-client",
+    "automation",
+    "bash",
+    "cli",
+    "docker",
+    "homelab",
+    "letsencrypt",
+    "nginx",
+    "nginx-proxy-manager",
+    "npm",
+    "reverse-proxy",
+    "self-hosted"
   ],
   "star_count": 99,
   "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2024-07-10T11:52:04Z",
-  "updated_at": "2026-09-24T20:26:26Z",
-  "pushed_at": "2026-09-24T10:58:08Z",
+  "updated_at": "2026-09-27T18:16:24Z",
+  "pushed_at": "2026-09-27T18:16:22Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -95,6 +106,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 99
+    },
+    {
+      "date": "2026-09-27",
       "stars": 99
     }
   ]

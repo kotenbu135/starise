@@ -3,24 +3,29 @@
   "owner": "akveo",
   "name": "react-native-ui-kitten",
   "full_name": "akveo/react-native-ui-kitten",
-  "description": ":boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode",
-  "description_ja": ":boom: Eva Design SystemベースのReact Native UIライブラリ :new_moon_with_face::sparkles:ダークモード対応",
+  "description": "React Native UI library built on the Eva Design System: 30+ themeable, accessible components for iOS, Android and web. TypeScript, React 19 / RN 0.81, Eva and Material themes with runtime light/dark switching, on-demand style compilation.",
+  "description_ja": "",
   "url": "https://github.com/akveo/react-native-ui-kitten",
   "homepage_url": "https://akveo.github.io/react-native-ui-kitten/",
   "language": "TypeScript",
   "license": "MIT",
   "topics": [
+    "design-system",
+    "eva-design-system",
     "react",
     "react-native",
-    "ui-kit"
+    "react-native-web",
+    "typescript",
+    "ui-kit",
+    "ui-library"
   ],
-  "star_count": 10669,
-  "fork_count": 963,
+  "star_count": 10666,
+  "fork_count": 962,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2016-12-20T08:22:38Z",
-  "updated_at": "2026-09-26T19:01:02Z",
-  "pushed_at": "2026-09-26T18:47:29Z",
+  "updated_at": "2026-09-27T17:02:24Z",
+  "pushed_at": "2026-09-27T19:54:36Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -414,6 +419,10 @@
     {
       "date": "2026-09-26",
       "stars": 10669
+    },
+    {
+      "date": "2026-09-27",
+      "stars": 10666
     }
   ]
 }

@@ -3,20 +3,41 @@
   "owner": "drytrix",
   "name": "timetracker",
   "full_name": "drytrix/timetracker",
-  "description": "💙 Support the Project  TimeTracker is open-source and free to self-host.  If it saves you time or money:  ☕ Support development  ⭐ Star the repo",
-  "description_ja": "💙 プロジェクトを支援してください。TimeTrackerはオープンソースで、セルフホストが無料です。時間やコストの節約になったら: ☕ 開発を支援 ⭐ リポジトリにスターを",
+  "description": "Self-hosted time tracking \u0026 invoicing for freelancers and teams: timers, projects, PDF and Peppol e-invoicing. Open-source Toggl/Clockify alternative.",
+  "description_ja": "",
   "url": "https://github.com/DRYTRIX/TimeTracker",
   "homepage_url": "https://timetracker.drytrix.com",
   "language": "Python",
   "license": "GPL-3.0",
-  "topics": [],
+  "topics": [
+    "clockify-alternative",
+    "docker",
+    "docker-compose",
+    "docker-image",
+    "e-invoicing",
+    "e-invoicing-compliance",
+    "flask",
+    "flask-application",
+    "invoicing",
+    "invoicing-application",
+    "invoicing-software",
+    "peppol",
+    "peppol-bis",
+    "peppol-network",
+    "self-hosted",
+    "timesheet",
+    "timesheet-app",
+    "timesheet-automation",
+    "timesheets",
+    "toggl-alternative"
+  ],
   "star_count": 628,
   "fork_count": 68,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2025-08-15T16:12:03Z",
-  "updated_at": "2026-09-25T05:37:45Z",
-  "pushed_at": "2026-09-25T05:49:11Z",
+  "updated_at": "2026-09-27T05:23:28Z",
+  "pushed_at": "2026-09-27T05:33:23Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -405,6 +426,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 628
+    },
+    {
+      "date": "2026-09-27",
       "stars": 628
     }
   ]

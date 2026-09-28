@@ -1,0 +1,48 @@
+{
+  "repo_id": "R_kgDOTOp4Sw",
+  "owner": "formiat",
+  "name": "px4-ros2-drone-nav",
+  "full_name": "formiat/px4-ros2-drone-nav",
+  "description": "Autonomous UAV navigation in GNSS-denied indoor spaces with no prior map: stereo VIO (MSCKF) and lidar-inertial odometry with map-based relocalization (SLAM), 3D occupancy mapping, D* Lite path planning and GPU MPPI obstacle avoidance. PX4 + ROS 2 + Gazebo SITL, DARPA SubT Urban.",
+  "description_ja": "",
+  "url": "https://github.com/formiat/px4-ros2-drone-nav",
+  "homepage_url": "",
+  "language": "C++",
+  "license": "MIT",
+  "topics": [
+    "autonomous-navigation",
+    "d-star-lite",
+    "darpa-subt",
+    "drone",
+    "gazebo",
+    "gnss-denied",
+    "gps-denied",
+    "lidar-inertial-odometry",
+    "model-predictive-control",
+    "mppi",
+    "msckf",
+    "obstacle-avoidance",
+    "path-planning",
+    "px4",
+    "quadrotor",
+    "robotics",
+    "ros2",
+    "slam",
+    "uav",
+    "visual-inertial-odometry"
+  ],
+  "star_count": 136,
+  "fork_count": 26,
+  "is_archived": false,
+  "is_fork": false,
+  "created_at": "2026-07-06T00:14:21Z",
+  "updated_at": "2026-09-27T17:50:32Z",
+  "pushed_at": "2026-09-27T13:11:37Z",
+  "deleted_at": "",
+  "star_history": [
+    {
+      "date": "2026-09-27",
+      "stars": 136
+    }
+  ]
+}

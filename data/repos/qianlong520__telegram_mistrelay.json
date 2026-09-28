@@ -6,17 +6,17 @@
   "description": "MistRelay MistRelay 是一个基于 Telegram Bot 的高性能 aria2 下载控制、Telegram 频道网盘中继与媒体流分发系统。系统将 HTTP/磁力/种子下载、Telegram 频道无限云存储、多机器人免加频道负载均衡集群、@BotFather 自动化扩容流水线、后台缩略图静默预热引擎、统一缓存生命周期治理中心以及现代毛玻璃 Web 管理中台整合至单个安全加固的 Docker 容器中。",
   "description_ja": "",
   "url": "https://github.com/qianlong520/Telegram_MistRelay",
-  "homepage_url": "",
+  "homepage_url": "https://t.me/MistRelay",
   "language": "Python",
   "license": "MIT",
   "topics": [],
-  "star_count": 115,
-  "fork_count": 17,
+  "star_count": 123,
+  "fork_count": 20,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-01-22T10:33:02Z",
-  "updated_at": "2026-09-26T16:53:35Z",
-  "pushed_at": "2026-09-26T16:53:29Z",
+  "updated_at": "2026-09-27T14:32:10Z",
+  "pushed_at": "2026-09-27T03:45:55Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -358,6 +358,10 @@
     {
       "date": "2026-09-26",
       "stars": 115
+    },
+    {
+      "date": "2026-09-27",
+      "stars": 123
     }
   ]
 }

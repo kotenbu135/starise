@@ -3,7 +3,7 @@
   "owner": "yagcioglutoprak",
   "name": "dusty",
   "full_name": "yagcioglutoprak/dusty",
-  "description": "Free, open-source CleanMyMac alternative. Preview cache and developer-tool cleanup by path and size. Native macOS menu bar app, CLI, Homebrew. No account or telemetry.",
+  "description": "Free, open-source CleanMyMac alternative for macOS. Preview disk cleanup by path and size, inspect memory by app, and quit idle apps after review. Menu bar app, CLI, Homebrew. No account or telemetry.",
   "description_ja": "",
   "url": "https://github.com/yagcioglutoprak/dusty",
   "homepage_url": "https://toprak.sh/dusty",
@@ -11,7 +11,6 @@
   "license": "MIT",
   "topics": [
     "cache-cleaner",
-    "ccleaner-alternative",
     "cleanmymac",
     "cleanmymac-alternative",
     "developer-tools",
@@ -24,20 +23,21 @@
     "macos-app",
     "macos-cleaner",
     "macos-utility",
+    "memory-management",
+    "memory-monitor",
     "menu-bar-app",
-    "no-subscription",
     "swift",
     "swiftui",
     "system-cleaner",
     "xcode-cleaner"
   ],
   "star_count": 75,
-  "fork_count": 4,
+  "fork_count": 5,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-31T08:32:06Z",
-  "updated_at": "2026-09-26T03:52:32Z",
-  "pushed_at": "2026-09-26T03:55:35Z",
+  "updated_at": "2026-09-27T20:59:54Z",
+  "pushed_at": "2026-09-27T20:49:51Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -282,6 +282,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 75
+    },
+    {
+      "date": "2026-09-27",
       "stars": 75
     }
   ]

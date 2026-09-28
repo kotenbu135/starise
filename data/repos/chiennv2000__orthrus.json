@@ -3,7 +3,7 @@
   "owner": "chiennv2000",
   "name": "orthrus",
   "full_name": "chiennv2000/orthrus",
-  "description": "Fast, lossless LLM inference via dual-view diffusion decoding.",
+  "description": "[NeurIPS 2026 Spotlight] Fast, lossless LLM inference via dual-view diffusion decoding.",
   "description_ja": "",
   "url": "https://github.com/chiennv2000/orthrus",
   "homepage_url": "",
@@ -15,15 +15,16 @@
     "large-language-models",
     "llm",
     "llm-efficiency",
+    "llm-inference",
     "model-architecture",
-    "natural-language-processing"
+    "speculative-decoding"
   ],
   "star_count": 480,
   "fork_count": 23,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-05-13T20:08:33Z",
-  "updated_at": "2026-09-25T03:13:48Z",
+  "updated_at": "2026-09-27T02:18:48Z",
   "pushed_at": "2026-08-12T21:10:39Z",
   "deleted_at": "",
   "star_history": [
@@ -125,6 +126,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 480
+    },
+    {
+      "date": "2026-09-27",
       "stars": 480
     }
   ]

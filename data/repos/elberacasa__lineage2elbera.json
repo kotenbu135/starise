@@ -3,20 +3,27 @@
   "owner": "elberacasa",
   "name": "lineage2elbera",
   "full_name": "elberacasa/lineage2elbera",
-  "description": "Lineage 2 Interlude in the browser — real server, real protocol, real assets. Complete AI-built toolchain: protocol gateway, format parsers, model/terrain pipelines, web client.",
+  "description": "Lineage II Interlude browser-client development and Elbera Tools for original-client research, conversion and verification.",
   "description_ja": "",
   "url": "https://github.com/elberacasa/Lineage2Elbera",
   "homepage_url": "",
   "language": "JavaScript",
   "license": "NOASSERTION",
-  "topics": [],
+  "topics": [
+    "asset-pipeline",
+    "game-development",
+    "interlude",
+    "lineage2",
+    "threejs",
+    "webgl"
+  ],
   "star_count": 47,
   "fork_count": 2,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-07-25T18:37:24Z",
-  "updated_at": "2026-09-25T19:21:38Z",
-  "pushed_at": "2026-08-09T21:32:02Z",
+  "updated_at": "2026-09-27T22:29:19Z",
+  "pushed_at": "2026-09-27T22:30:14Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -73,6 +80,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 47
+    },
+    {
+      "date": "2026-09-27",
       "stars": 47
     }
   ]

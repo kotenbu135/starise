@@ -3,7 +3,7 @@
   "owner": "mrhenrike",
   "name": "mikrotikapi-bf",
   "full_name": "mrhenrike/mikrotikapi-bf",
-  "description": "RouterOS Attack \u0026 Exploitation Framework — 40 CVE/EDB exploits, MAC-Server L2, credential decoder, NPK analyzer, 300-thread BF, Nmap NSE auto-install, pip package, CVE scanner. v3.5.4",
+  "description": "DEPRECATED — absorbed into EmbedXPL v5.0.0. See https://github.com/mrhenrike/EmbedXPL-Forge",
   "description_ja": "",
   "url": "https://github.com/mrhenrike/MikrotikAPI-BF",
   "homepage_url": "",
@@ -29,10 +29,10 @@
   ],
   "star_count": 101,
   "fork_count": 35,
-  "is_archived": false,
+  "is_archived": true,
   "is_fork": false,
   "created_at": "2022-08-24T14:44:50Z",
-  "updated_at": "2026-09-26T08:06:35Z",
+  "updated_at": "2026-09-27T03:07:07Z",
   "pushed_at": "2026-09-26T08:06:32Z",
   "deleted_at": "",
   "star_history": [
@@ -58,6 +58,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 101
+    },
+    {
+      "date": "2026-09-27",
       "stars": 101
     }
   ]

@@ -3,29 +3,30 @@
   "owner": "duggytuxy",
   "name": "syswarden",
   "full_name": "duggytuxy/syswarden",
-  "description": "SysWarden is a host-local security orchestrator combining authoritative nftables policy, HIDS/HIPS telemetry, bounded threat intelligence, out-of-band WAAP log analysis, authenticated high availability and a native terminal dashboard. ",
+  "description": "Linux defense. Your host. Your rules. Host-local Linux defense with auditable, fail-closed enforcement.",
   "description_ja": "",
   "url": "https://github.com/duggytuxy/syswarden",
   "homepage_url": "https://syswarden.io",
   "language": "Go",
   "license": "GPL-3.0",
   "topics": [
-    "blocklists",
     "cybersecurity-tools",
     "docker-security",
     "firewall",
     "firewall-configuration",
     "firewall-rules",
     "firewalld",
-    "ipset-lists",
+    "hids",
+    "hips",
     "iptables",
     "ipv4-address",
+    "ipv6-address",
     "linux",
-    "malicious-ips",
     "nftables",
     "security-tools",
     "syswarden",
     "ufw",
+    "waap",
     "waf",
     "wazuh",
     "wireguard"
@@ -35,8 +36,8 @@
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-02-09T15:37:52Z",
-  "updated_at": "2026-09-26T19:41:22Z",
-  "pushed_at": "2026-09-26T21:51:36Z",
+  "updated_at": "2026-09-27T13:48:43Z",
+  "pushed_at": "2026-09-27T13:48:39Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -169,6 +170,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 373
+    },
+    {
+      "date": "2026-09-27",
       "stars": 373
     }
   ]

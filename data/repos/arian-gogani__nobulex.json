@@ -3,7 +3,7 @@
   "owner": "arian-gogani",
   "name": "nobulex",
   "full_name": "arian-gogani/nobulex",
-  "description": "Earlier Nobulex receipt and trust-score implementation, preserved as a prior direction. Current work: a financial decision-integrity gateway prototype at github.com/arian-gogani/nobulex-registry.",
+  "description": "Reproducible research on verification boundaries, plus the earlier Nobulex receipt prototype. Current financial decision-integrity gateway: github.com/arian-gogani/nobulex-registry.",
   "description_ja": "",
   "url": "https://github.com/arian-gogani/nobulex",
   "homepage_url": "https://nobulex.com",
@@ -14,30 +14,30 @@
     "agent-audit",
     "agent-governance",
     "ai-agents",
+    "ai-evaluation",
     "ai-security",
     "audit-trail",
-    "autonomous-agents",
-    "compliance",
-    "credit-score",
     "cryptography",
+    "decision-integrity",
     "ed25519",
-    "eu-ai-act",
+    "fail-safe",
     "hash-chain",
     "mcp-server",
     "owasp",
     "python",
     "receipts",
-    "reputation",
+    "reproducible-research",
     "rfc8785",
-    "typescript"
+    "typescript",
+    "verification"
   ],
   "star_count": 40,
   "fork_count": 11,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2026-03-01T18:00:39Z",
-  "updated_at": "2026-09-26T16:44:40Z",
-  "pushed_at": "2026-09-26T16:44:36Z",
+  "updated_at": "2026-09-27T18:10:27Z",
+  "pushed_at": "2026-09-27T18:10:24Z",
   "deleted_at": "",
   "star_history": [
     {
@@ -362,6 +362,10 @@
     },
     {
       "date": "2026-09-26",
+      "stars": 40
+    },
+    {
+      "date": "2026-09-27",
       "stars": 40
     }
   ]

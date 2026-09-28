@@ -6,7 +6,7 @@
   "description": "A wrapper executable that can run any executable as a Windows service, in a permissive license.",
   "description_ja": "任意の実行ファイルをWindowsサービスとして実行できるラッパー実行ファイルです。寛容なライセンスで提供されています。",
   "url": "https://github.com/winsw/winsw",
-  "homepage_url": "",
+  "homepage_url": "https://winsw.github.io/",
   "language": "C#",
   "license": "MIT",
   "topics": [
@@ -17,12 +17,12 @@
     "windows-service",
     "windows-service-wrapper"
   ],
-  "star_count": 14325,
-  "fork_count": 1701,
+  "star_count": 14326,
+  "fork_count": 1702,
   "is_archived": false,
   "is_fork": false,
   "created_at": "2010-02-03T02:49:39Z",
-  "updated_at": "2026-09-26T23:41:22Z",
+  "updated_at": "2026-09-27T13:06:24Z",
   "pushed_at": "2026-07-30T05:22:21Z",
   "deleted_at": "",
   "star_history": [
@@ -417,6 +417,10 @@
     {
       "date": "2026-09-26",
       "stars": 14325
+    },
+    {
+      "date": "2026-09-27",
+      "stars": 14326
     }
   ]
 }
